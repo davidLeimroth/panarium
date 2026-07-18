@@ -1,0 +1,58 @@
+{
+  "slug": "ciabatta",
+  "name": {
+    "en": "Ciabatta",
+    "de": "Ciabatta",
+    "es": "Ciabatta",
+    "fr": "Ciabatta"
+  },
+  "aliases": ["slipper bread", "pane ciabatta"],
+  "description": {
+    "en": "Invented in 1982 by a Veneto miller out to out-French the baguette, ciabatta trades neat crumb for a wet, wildly open one. Home versions today push hydration past 80%, giving a thin, crackling crust that is perfect for panini and mopping up sauce.",
+    "de": "1982 von einem Müller aus Venetien erfunden, der dem Baguette Konkurrenz machen wollte: Die Ciabatta tauscht feine Krume gegen eine nasse, wild offenporige. Heutige Rezepte treiben die Hydration über 80 %, dünne, knusprige Kruste, ideal für Panini.",
+    "es": "Inventada en 1982 por un molinero del Véneto que quería hacerle sombra a la baguette, la ciabatta cambia miga prieta por una húmeda y llena de alvéolos irregulares. Las versiones actuales superan el 80% de hidratación: corteza fina y crujiente, ideal para bocadillos.",
+    "fr": "Inventée en 1982 par un meunier de Vénétie bien décidé à défier la baguette, la ciabatta troque une mie régulière contre une mie humide aux alvéoles sauvages. Les recettes actuelles dépassent 80% d'hydratation, croûte fine et craquante, parfaite en panini."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Adria, Veneto (Rovigo province)",
+    "note": "Trademarked in 1982 by baker-miller Arnaldo Cavallari as 'Ciabatta Italia', created to defend Italian sandwich bread against the encroaching French baguette."
+  },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 80,
+    "saltPct": 2,
+    "prefermentedFlourPct": 40,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500 },
+    { "key": "water", "grams": 400 },
+    { "key": "fresh-yeast", "grams": 7, "note": "2 g in the poolish, 5 g in the final dough" },
+    { "key": "salt", "grams": 10 }
+  ],
+  "yield": { "count": 2, "pieceGrams": 458, "shape": "flattened slipper-shaped loaf" },
+  "time": { "totalMin": 1170, "activeMin": 30, "bulkMin": 180, "proofMin": 90, "bakeMin": 22, "overnight": true },
+  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": ["mild", "wheaty", "yeasty"],
+  "purposes": ["sandwich", "everyday", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1.5, "freezes": true, "note": "Best the day it's baked; the thin crust turns chewy fast in humid air, but sliced loaves freeze and toast back to life." },
+  "equipment": ["baking-stone"],
+  "method": [
+    { "title": "Poolish", "summary": "The evening before, whisk equal parts flour and water with a little yeast into a loose batter and let it bubble at room temperature for 12-16 hours until domed and honeycombed." },
+    { "title": "Mix", "summary": "Stir the poolish into the remaining flour and water; the result looks more like a thick batter than a bread dough. Work in the salt after a short rest." },
+    { "title": "Fold, don't knead", "summary": "Skip kneading. Give the wet dough 3-4 sets of gentle stretch-and-folds spaced 30 minutes apart over about 2-3 hours to build structure without deflating it." },
+    { "title": "Divide", "summary": "Tip the dough onto a heavily floured surface, cut into rectangles without pressing out the gas, and let the slipper shapes rest uncovered for roughly an hour." },
+    { "title": "Bake with steam", "summary": "Slide onto a hot stone at 250°C, spraying the oven walls for the first ten minutes to build steam, until the crust turns deep gold and thin, 20-25 minutes total." }
+  ],
+  "source": { "url": "https://biancolievito.it/en/ciabatta-bread-with-high-hydration/", "site": "Biancolievito", "retrieved": "2026-07-17", "adaptation": "Formula follows this site's poolish method at 80% hydration; the original 1982 Cavallari trademark recipe used a stiffer 70% biga." },
+  "tags": ["poolish", "high-hydration"]
+}

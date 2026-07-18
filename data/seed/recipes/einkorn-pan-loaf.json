@@ -1,0 +1,64 @@
+{
+  "slug": "einkorn-pan-loaf",
+  "name": {
+    "en": "No-Knead Einkorn Sandwich Bread",
+    "de": "Knetfreies Einkorn-Sandwichbrot",
+    "es": "Pan de molde de einkorn sin amasado",
+    "fr": "Pain de mie à l'engrain sans pétrissage"
+  },
+  "aliases": ["einkorn sandwich bread", "quick einkorn loaf"],
+  "description": {
+    "en": "A simple, no-knead yeasted loaf made entirely from einkorn, humanity's oldest cultivated wheat, sweetened with a little honey. Ready for the pan in about an hour, it gives a soft, faintly sweet, nutty sandwich bread without the long ferment a sourdough version needs.",
+    "de": "Ein einfaches, knetfreies Hefebrot ganz aus Einkorn, dem ältesten Kulturweizen der Menschheit, mit etwas Honig gesüßt. In etwa einer Stunde backfertig, ergibt es ein weiches, leicht süßes, nussiges Sandwichbrot ohne die lange Gärzeit einer Sauerteigversion.",
+    "es": "Un sencillo pan de levadura sin amasado, hecho enteramente de einkorn, el trigo cultivado más antiguo de la humanidad, endulzado con algo de miel. Listo para el molde en una hora, da un pan suave, algo dulce y a frutos secos, sin la larga fermentación de una masa madre.",
+    "fr": "Un pain levé simple et sans pétrissage, fait entièrement d'engrain, le blé cultivé le plus ancien de l'humanité, légèrement sucré au miel. Prêt pour le moule en une heure environ, il donne un pain tendre et noisetté, sans la longue fermentation d'une version au levain."
+  },
+  "origin": {
+    "country": "US",
+    "region": "Modern American home baking",
+    "note": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this quick, commercially-yeasted pan-loaf treatment is a modern home-baking shortcut next to the long-fermented sourdough versions more common in artisan bakeries."
+  },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 60.6,
+    "saltPct": 1.8,
+    "sugarPct": 8.6,
+    "fatPct": 8.6,
+    "yeastPct": 1,
+    "flours": [
+      { "type": "einkorn", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:einkorn", "grams": 500, "note": "all-purpose einkorn flour" },
+    { "key": "water", "grams": 296, "note": "warm, 38-40°C" },
+    { "key": "honey", "grams": 43 },
+    { "key": "butter", "grams": 43, "note": "melted" },
+    { "key": "active-dry-yeast", "grams": 5 },
+    { "key": "salt", "grams": 9 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 800, "shape": "1 lb loaf pan" },
+  "time": { "totalMin": 183, "activeMin": 15, "bulkMin": 60, "proofMin": 45, "bakeMin": 43, "overnight": false },
+  "bake": { "tempC": 191, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["nutty", "sweet", "wheaty"],
+  "purposes": ["everyday", "sandwich", "toast", "breakfast"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 90 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Einkorn's delicate crumb dries out a little faster than modern wheat; best within a few days or sliced and frozen." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Bloom the yeast", "summary": "Stir yeast into warm water with honey; let sit until foamy, a few minutes." },
+    { "title": "Mix", "summary": "Stir in melted butter, then the einkorn flour and salt; mix just until fully hydrated into a soft, sticky, no-knead dough." },
+    { "title": "First rise", "summary": "Cover and let rise about 1 hour." },
+    { "title": "Shape", "summary": "Press into a rectangle and roll up into a loaf shape; settle into a greased loaf pan." },
+    { "title": "Second rise", "summary": "Cover with a damp towel and let rise 30-60 minutes until doubled." },
+    { "title": "Bake", "summary": "Bake at 190°C for 40-45 minutes until golden brown." },
+    { "title": "Cool", "summary": "Cool completely on a rack before slicing." }
+  ],
+  "source": { "url": "https://www.farmhouseonboone.com/easy-einkorn-sandwich-bread-no-knead/", "site": "Farmhouse on Boone", "retrieved": "2026-07-18" },
+  "tags": ["ancient-grain", "einkorn", "no-knead"]
+}

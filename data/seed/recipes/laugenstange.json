@@ -1,0 +1,62 @@
+{
+  "slug": "laugenstange",
+  "name": {
+    "en": "Lye Stick (Laugenstange)",
+    "de": "Laugenstange",
+    "es": "Bastón de sosa (Laugenstange)",
+    "fr": "Bâtonnet à la lessive (Laugenstange)",
+    "native": "Laugenstange"
+  },
+  "aliases": ["Laugenstangerl", "lye roll", "pretzel stick"],
+  "description": {
+    "en": "The straight-baton cousin of the pretzel: a soft, buttery yeast dough dipped in an alkaline bath before baking, which gives it a glossy mahogany crust and pretzel-deep flavor around a fluffy crumb. Split it for a quick sandwich or eat it warm and plain.",
+    "de": "Der gestreckte Cousin der Brezel: ein weicher, buttriger Hefeteig, der vor dem Backen kurz in ein Laugenbad getaucht wird und dadurch seine glänzende, dunkelbraune Kruste und den kräftigen Laugengeschmack bekommt, bei fluffiger Krume.",
+    "es": "El primo alargado del pretzel: una masa de levadura blanda y mantecosa que se sumerge brevemente en un baño alcalino antes de hornear, lo que le da su corteza brillante y oscura y ese sabor tan característico, con una miga esponjosa por dentro.",
+    "fr": "Le cousin allongé du bretzel : une pâte levée moelleuse et beurrée, trempée brièvement dans un bain alcalin avant cuisson, qui lui donne sa croûte brillante et sombre et ce goût si caractéristique, avec une mie moelleuse à l'intérieur."
+  },
+  "origin": { "country": "DE", "region": "Southern Germany (Bavaria/Swabia), now nationwide", "note": "Part of the same Laugengebäck family as the Laugenbrezel; shaped as a straight stick rather than tied into a knot." },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 51.6,
+    "saltPct": 1.3,
+    "sugarPct": 0.9,
+    "fatPct": 17.8,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 450, "note": "type 550" },
+    { "key": "water", "grams": 100 },
+    { "key": "milk", "grams": 150 },
+    { "key": "butter", "grams": 80 },
+    { "key": "fresh-yeast", "grams": 21, "note": "half a standard yeast cube" },
+    { "key": "sugar", "grams": 4, "note": "to wake the yeast" },
+    { "key": "salt", "grams": 6 },
+    { "key": "salt", "grams": 50, "note": "coarse pretzel salt for the topping, not part of the dough itself" }
+  ],
+  "yield": { "count": 10, "pieceGrams": 70, "shape": "tapered baton/stick" },
+  "time": { "totalMin": 130, "activeMin": 30, "bulkMin": 60, "proofMin": 20, "bakeMin": 20, "overnight": false },
+  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["buttery", "savory", "toasty", "mild"],
+  "purposes": ["snack", "breakfast", "sandwich"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1.5, "freezes": true, "note": "Best the day it's baked; a hot-oven reheat the next day revives the crust." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix the dough", "summary": "Combine flour and salt, then work in milk, softened butter, sugar and yeast dissolved in warm water. Knead about 8 minutes to a smooth, soft dough." },
+    { "title": "First rise", "summary": "Cover and let the dough rise at room temperature for about an hour, until roughly doubled." },
+    { "title": "Divide and shape", "summary": "Divide into equal pieces and roll each into a slim, even baton, tapering the ends slightly." },
+    { "title": "Rest", "summary": "Let the shaped sticks rest uncovered for about 20 minutes so a light skin forms on the surface." },
+    { "title": "Lye dip", "summary": "Dip each stick briefly in a hot alkaline bath (food-grade lye, or a home-safe baking-soda stand-in), this is what gives Laugengebäck its shiny mahogany crust and distinctive flavor." },
+    { "title": "Score and salt", "summary": "Lift onto a lined baking sheet, cut a diagonal slash or two into each stick, and scatter with coarse salt." },
+    { "title": "Bake", "summary": "Bake in a hot oven until deeply golden-brown and glossy, about 20 minutes." }
+  ],
+  "source": { "url": "https://eat.de/rezept/laugenstangen-wie-vom-baecker/", "site": "eat.de", "retrieved": "2026-07-17", "adaptation": "Percentages computed from the stated quantities; the lye bath is described as technique rather than weighed as a dough ingredient; method paraphrased." },
+  "tags": ["laugengebaeck", "hefeteig"]
+}

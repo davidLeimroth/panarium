@@ -1,0 +1,66 @@
+{
+  "slug": "pan-de-yema",
+  "name": {
+    "en": "Oaxacan Egg Yolk Bread (Pan de Yema)",
+    "de": "Pan de Yema (Oaxaca-Eigelbbrot)",
+    "es": "Pan de yema oaxaqueño",
+    "fr": "Pan de yema (pain aux jaunes d'œuf d'Oaxaca)"
+  },
+  "aliases": ["yolk bread", "pan de yema oaxaqueño"],
+  "description": {
+    "en": "A rich Oaxacan bun made with a startling number of egg yolks, giving it a deep golden crumb and a soft, almost brioche-like texture. Baked for Day of the Dead, but eaten as an everyday treat with coffee or hot chocolate too.",
+    "de": "Ein reichhaltiges Gebäck aus Oaxaca mit einer erstaunlichen Menge Eigelb, das ihm eine tiefgoldene Krume und eine weiche, fast briocheartige Textur verleiht. Zum Tag der Toten gebacken, aber auch als alltäglicher Genuss zu Kaffee oder heißer Schokolade gegessen.",
+    "es": "Un pan rico de Oaxaca hecho con una sorprendente cantidad de yemas de huevo, que le da una miga dorada intensa y una textura suave, casi como de brioche. Se hornea para el Día de Muertos, pero también se come a diario con café o chocolate caliente.",
+    "fr": "Un pain riche d'Oaxaca fait avec une quantité surprenante de jaunes d'œuf, lui donnant une mie d'un doré profond et une texture moelleuse, presque façon brioche. Cuit pour le Jour des Morts, mais aussi mangé au quotidien avec du café ou du chocolat chaud."
+  },
+  "origin": {
+    "country": "MX",
+    "region": "Oaxaca",
+    "note": "One of many egg-rich Day of the Dead breads made across Oaxaca, distinct from the anise-and-orange pan de muerto; here the sheer number of yolks, not sugar-and-bone decoration, is the defining feature."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 1.6,
+    "sugarPct": 18,
+    "fatPct": 30,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 750 },
+    { "key": "active-dry-yeast", "grams": 7 },
+    { "key": "sugar", "grams": 137 },
+    { "key": "water", "grams": 296, "note": "lukewarm, for blooming the yeast" },
+    { "key": "butter", "grams": 227, "note": "softened" },
+    { "key": "egg-yolk", "grams": 162, "note": "9 yolks" },
+    { "key": "egg", "grams": 100, "note": "2 large eggs" },
+    { "key": "salt", "grams": 12 },
+    { "key": "egg", "grams": 50, "note": "beaten, for egg wash" }
+  ],
+  "yield": { "count": 16, "pieceGrams": 100, "shape": "round bun, three slashes on top" },
+  "time": { "totalMin": 200, "activeMin": 25, "bulkMin": 100, "proofMin": 53, "bakeMin": 20, "overnight": false },
+  "bake": { "tempC": 175, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "buttery", "rich", "mild"],
+  "purposes": ["celebration", "holiday", "breakfast", "snack"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Rich with butter and yolks, so it stays soft a few days; traditionally left out as an ofrenda before being eaten." },
+  "equipment": ["stand-mixer", "sheet-pan"],
+  "method": [
+    { "title": "Bloom yeast", "summary": "Dissolve the yeast with a little sugar in lukewarm water, let stand until frothy, then stir in a cup of flour, cover and let rise an hour." },
+    { "title": "Cream butter", "summary": "Beat the butter with the remaining sugar until creamy." },
+    { "title": "Build dough", "summary": "Beat in the yeast sponge, egg yolks, whole eggs, remaining flour and salt." },
+    { "title": "Knead", "summary": "Knead 10-12 minutes until soft, smooth and shiny." },
+    { "title": "First rise", "summary": "Cover and let rise about an hour, until doubled." },
+    { "title": "Shape & second rise", "summary": "Divide into 16 balls, space on buttered sheets, and proof 45 minutes to an hour." },
+    { "title": "Score, glaze & bake", "summary": "Slash each bun three times, brush with egg wash, and bake until golden." }
+  ],
+  "source": { "url": "https://patijinich.com/pan-de-yema/", "site": "Pati Jinich", "retrieved": "2026-07-18", "adaptation": "Egg yolk water content estimated at about 50% (lower than whole egg), since this taxonomy's conversions cover whole egg but not yolk. Vague pinch of salt standardized to a defined percentage." },
+  "tags": ["oaxaca", "day-of-the-dead"]
+}

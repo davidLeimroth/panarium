@@ -1,0 +1,62 @@
+{
+  "slug": "rugine-duona",
+  "name": {
+    "en": "Lithuanian Black Rye Bread (Ruginė Duona)",
+    "de": "Ruginė Duona (litauisches Schwarzbrot)",
+    "es": "Pan de centeno negro lituano (Ruginė Duona)",
+    "fr": "Pain de seigle noir lituanien (Ruginė Duona)",
+    "native": "Juoda ruginė duona"
+  },
+  "aliases": ["juoda ruginė duona", "Lithuanian black bread"],
+  "description": {
+    "en": "Lithuania's dark daily loaf: a long two-stage rye sour built over a malt scald, sweetened with honey and sugar into a bread with a citrusy, faintly licorice-like depth. Baked dense in a tin and rested a full day before the first slice.",
+    "de": "Litauens dunkles Alltagsbrot: ein langer, zweistufiger Roggensauerteig auf einer Malzbrühe, mit Honig und Zucker gesüßt zu einem Brot mit zitroniger, leicht lakritzartiger Tiefe. Dicht im Kasten gebacken und einen vollen Tag geruht vor dem ersten Anschnitt.",
+    "es": "El pan oscuro cotidiano de Lituania: una larga masa madre de centeno en dos etapas sobre un escaldado de malta, endulzada con miel y azúcar hasta lograr un pan de profundidad cítrica y un ligero toque a regaliz. Horneado denso en molde y reposado un día entero antes de cortarlo.",
+    "fr": "Le pain sombre du quotidien en Lituanie : un long levain de seigle en deux étapes construit sur un échaudage de malt, sucré au miel et au sucre pour une profondeur citronnée aux accents de réglisse. Cuit dense en moule et reposé une journée entière avant la première tranche."
+  },
+  "origin": { "country": "LT", "region": "Lithuania, nationwide", "note": "Rye has anchored Lithuanian daily bread for centuries; the malt scald and honey give the classic sweet-sour profile." },
+  "leaven": "sourdough",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 74,
+    "saltPct": 2,
+    "sugarPct": 9.2,
+    "flours": [
+      { "type": "rye-whole", "pct": 90 },
+      { "type": "wheat-white", "pct": 10 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:rye-whole", "grams": 450, "note": "whole rye flour, split across sour, sponge and final dough" },
+    { "key": "flour:wheat-white", "grams": 50 },
+    { "key": "water", "grams": 370 },
+    { "key": "flour:rye-whole", "grams": 35, "note": "red rye malt, for the scald" },
+    { "key": "sourdough-starter", "grams": 10, "note": "active rye sour" },
+    { "key": "salt", "grams": 10 },
+    { "key": "sugar", "grams": 25 },
+    { "key": "honey", "grams": 21 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 900, "shape": "oblong tin loaf" },
+  "time": { "totalMin": 2950, "activeMin": 30, "bulkMin": 1300, "proofMin": 150, "bakeMin": 40, "overnight": true },
+  "bake": { "tempC": 230, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 4,
+  "crumb": "tight",
+  "crust": "chewy",
+  "flavors": ["sour", "sweet", "malty", "earthy"],
+  "purposes": ["everyday", "sandwich", "table", "breakfast"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 90 },
+  "keeping": { "freshDays": 8, "freezes": true, "note": "Needs a full day's rest minimum before slicing; keeps moist under wrap for over a week." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Scald the malt", "summary": "Mix red rye malt with rye flour and pour over boiling water; hold warm to gelatinize and sweeten." },
+    { "title": "Build the sour", "summary": "Feed a rye starter with flour and water; ferment 10-12 hours until active." },
+    { "title": "Compound sponge", "summary": "Combine the sour, the cooled scald, honey, sugar and more rye flour; ferment again overnight." },
+    { "title": "Mix the dough", "summary": "Work in the remaining rye and wheat flour, salt and water to a dense, cohesive dough." },
+    { "title": "Pan and proof", "summary": "Shape into a loaf pan and proof 2-3 hours at room temperature." },
+    { "title": "Bake", "summary": "Bake hot, stepping the oven down partway through, then brush with a starch glaze for shine." },
+    { "title": "Rest", "summary": "Cool fully and rest at least 24 hours before slicing." }
+  ],
+  "source": { "url": "https://theryebaker.com/black-rye-breadjuoda-rugine-duona-lithuania/", "site": "The Rye Baker", "author": "Stanley Ginsberg", "retrieved": "2026-07-17", "adaptation": "Prefermented-flour share not specified by the source and omitted; malt treated as an addition on top of the 500g flour base, consistent with the source's own percentage framing." },
+  "tags": ["black-bread", "malt-scald"]
+}

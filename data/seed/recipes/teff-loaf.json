@@ -1,0 +1,67 @@
+{
+  "slug": "teff-loaf",
+  "name": {
+    "en": "Teff & Cassava Sandwich Loaf",
+    "de": "Teff-Maniok-Sandwichbrot",
+    "es": "Pan de molde de teff y yuca",
+    "fr": "Pain de mie au teff et au manioc"
+  },
+  "aliases": ["gluten-free teff bread", "teff sandwich bread"],
+  "description": {
+    "en": "White teff flour and a little tapioca or cassava flour whisk into a thin, bubbly batter thickened with psyllium husk, no eggs or gums needed. Baked in a tall Pullman tin, it slices into a nutty, faintly cocoa-toned loaf that is naturally gluten-free.",
+    "de": "Teffmehl und etwas Tapioka- oder Maniokmehl werden zu einem dünnen, blasigen Teig verquirlt und mit Flohsamenschalen gebunden, ganz ohne Ei oder Gummi. Im hohen Kastenformat gebacken, ergibt sich ein nussiges, leicht kakaofarbenes Brot, das von Natur aus glutenfrei ist.",
+    "es": "La harina de teff y un poco de harina de tapioca o yuca se baten en una masa fina y burbujeante, espesada con cáscara de psilio, sin huevo ni gomas. Horneado en un molde alto tipo Pullman, se corta en un pan nutritivo, de tono ligeramente achocolatado y sin gluten.",
+    "fr": "La farine de teff et un peu de farine de tapioca ou de manioc se fouettent en une pâte fine et pleine de bulles, épaissie au psyllium, sans œuf ni gomme. Cuit dans un moule haut type Pullman, ce pain se tranche noisetté, teinté de cacao, et naturellement sans gluten."
+  },
+  "origin": {
+    "country": "ET",
+    "region": "Ethiopian grain, adapted in modern gluten-free home baking",
+    "note": "Teff is Ethiopia's staple grain, traditionally fermented into the flatbread injera; this raised, tin-baked sandwich-loaf format is a 21st-century gluten-free-baking adaptation, not a traditional Ethiopian bread."
+  },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 133.3,
+    "saltPct": 1.8,
+    "sugarPct": 8.7,
+    "fatPct": 3,
+    "yeastPct": 1.3,
+    "flours": [
+      { "type": "teff", "pct": 83.3 },
+      { "type": "cassava", "pct": 16.7 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:teff", "grams": 500, "note": "white/ivory teff flour" },
+    { "key": "flour:cassava", "grams": 100, "note": "tapioca flour or cassava flour" },
+    { "key": "water", "grams": 800 },
+    { "label": { "en": "psyllium husk powder", "de": "Flohsamenschalenpulver", "es": "cáscara de psilio en polvo", "fr": "poudre de psyllium" }, "grams": 25 },
+    { "key": "salt", "grams": 11 },
+    { "key": "instant-yeast", "grams": 8 },
+    { "label": { "en": "maple syrup", "de": "Ahornsirup", "es": "jarabe de arce", "fr": "sirop d'érable" }, "grams": 52 },
+    { "key": "vegetable-oil", "grams": 18 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1350, "shape": "Pullman tin loaf, 23 x 10 x 10 cm" },
+  "time": { "totalMin": 250, "activeMin": 15, "bulkMin": 60, "proofMin": 90, "bakeMin": 55, "overnight": false },
+  "bake": { "tempC": 220, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["earthy", "nutty", "sweet"],
+  "purposes": ["everyday", "sandwich", "toast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 83.3 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Gluten-free loaves firm up and dry out faster than wheat bread; slice and freeze whatever will not be eaten within 2-3 days." },
+  "equipment": ["pullman-pan"],
+  "method": [
+    { "title": "Mix dry", "summary": "Whisk teff flour, tapioca (or cassava) flour, psyllium husk, salt and instant yeast together." },
+    { "title": "Mix wet", "summary": "Whisk in water, maple syrup and oil until the mixture becomes a thin, aerated batter full of tiny bubbles." },
+    { "title": "First proof", "summary": "Cover and let stand about 1 hour until the batter firms up, turns pliable and stays bubbled on top." },
+    { "title": "Pan", "summary": "Scrape into a lined Pullman tin and smooth the top with a wet hand." },
+    { "title": "Second proof", "summary": "Cover tightly and proof 1-2 hours until the batter domes slightly above the rim." },
+    { "title": "Bake", "summary": "Bake at 220°C for 20 minutes, then drop to 200°C for 30-40 minutes more until deeply golden." },
+    { "title": "Cool", "summary": "Rest 20 minutes in the tin, then cool completely on a rack before slicing." }
+  ],
+  "source": { "url": "https://georgeats.com/recipes/teff-bread-gluten-free/", "site": "George Eats", "retrieved": "2026-07-18", "adaptation": "Water recorded at the midpoint of the source's 750-850g range; tapioca/cassava was recorded under the taxonomy's cassava flour type since the source treats the two as interchangeable." },
+  "tags": ["gluten-free", "teff", "pullman"]
+}

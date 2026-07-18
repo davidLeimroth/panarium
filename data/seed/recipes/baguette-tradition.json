@@ -1,0 +1,59 @@
+{
+  "slug": "baguette-tradition",
+  "name": {
+    "en": "French Tradition Baguette",
+    "de": "Baguette de Tradition (französisches Traditionsbaguette)",
+    "es": "Baguette de tradición francesa",
+    "fr": "Baguette de tradition",
+    "native": "Baguette de Tradition"
+  },
+  "aliases": ["tradition baguette", "pain tradition"],
+  "description": {
+    "en": "The long, crackly loaf that defines French bread: a slow, retarded dough of levain and a little yeast, with an open, irregular crumb. French law allows only flour, water, salt and leavening in it, and it is best eaten within hours of the oven.",
+    "de": "Das lange, krachend krustige Brot, das französisches Brot definiert: ein langsam geführter Teig aus Sauerteig und einer Spur Hefe mit offener, unregelmäßiger Krume. Gesetzlich nur Mehl, Wasser, Salz und Triebmittel erlaubt, am besten binnen Stunden nach dem Backen genossen.",
+    "es": "La hogaza larga y crujiente que define el pan francés: una masa de fermentación lenta con levain y un toque de levadura, de miga abierta e irregular. La ley francesa solo permite harina, agua, sal y fermento, y está en su mejor momento pocas horas después de hornear.",
+    "fr": "La miche longue à la croûte craquante qui incarne le pain français : un levain relevé d'une pointe de levure, longuement pointé, pour une mie ouverte et irrégulière. La loi n'autorise que farine, eau, sel et levain ou levure, à déguster dans les heures suivant la cuisson."
+  },
+  "origin": { "country": "FR", "region": "national", "note": "Legally defined since a 1993 decree: 'baguette de tradition française' may contain only wheat flour, water, salt and leavening, no additives, no freezing during production." },
+  "leaven": "hybrid",
+  "family": "baguette",
+  "formula": {
+    "hydrationPct": 76,
+    "saltPct": 1.8,
+    "yeastPct": 0.2,
+    "prefermentedFlourPct": 9,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500, "note": "T65 tradition flour" },
+    { "key": "water", "grams": 370 },
+    { "key": "levain", "grams": 100, "note": "active liquid levain" },
+    { "key": "fresh-yeast", "grams": 3 },
+    { "key": "salt", "grams": 10 }
+  ],
+  "yield": { "count": 3, "pieceGrams": 260, "shape": "long baguette" },
+  "time": { "totalMin": 1150, "activeMin": 40, "bulkMin": 840, "proofMin": 180, "bakeMin": 30, "overnight": true },
+  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "difficulty": 4,
+  "crumb": "open",
+  "crust": "crackly",
+  "flavors": ["wheaty", "tangy", "yeasty"],
+  "purposes": ["everyday", "sandwich", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Famously fast to stale; best the day it's baked. Freeze and re-crisp in a hot oven if needed." },
+  "equipment": ["baking-stone", "couche"],
+  "method": [
+    { "title": "Autolyse", "summary": "Mix most of the flour with most of the water and let it rest so the flour hydrates before any leavening is added." },
+    { "title": "Mix", "summary": "Work in the levain, yeast, salt and remaining water; knead until the dough is smooth and elastic." },
+    { "title": "Bulk and retard", "summary": "Ferment an hour at room temperature with a fold, then move to the fridge overnight to build flavor slowly." },
+    { "title": "Pre-shape", "summary": "Divide into equal pieces, fold each into a loose rectangle and let relax." },
+    { "title": "Shape", "summary": "Roll each piece firmly into a long, even baguette and set seam-side up under a floured cloth." },
+    { "title": "Proof", "summary": "Let the shaped loaves rest about an hour until puffy but not slack." },
+    { "title": "Score and bake", "summary": "Slash with quick, angled cuts, load onto a hot stone with steam, and bake until deeply golden and crackling." }
+  ],
+  "source": { "url": "https://la-boite-a-pain.com/baguette-tradition-recette/", "site": "La boîte à pain", "retrieved": "2026-07-17", "adaptation": "Percentages recomputed to include the levain's own flour and water in the baker's-percentage totals." },
+  "tags": ["boulangerie", "levain-yeast-hybrid"]
+}

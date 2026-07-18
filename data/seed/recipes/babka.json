@@ -1,0 +1,76 @@
+{
+  "slug": "babka",
+  "name": {
+    "en": "Babka (Chocolate-Swirl Sweet Bread)",
+    "de": "Babka (Schokoladen-Wirbelbrot)",
+    "es": "Babka (pan dulce enrollado de chocolate)",
+    "fr": "Babka (brioche roulée au chocolat)",
+    "native": "бабка"
+  },
+  "aliases": ["Jewish babka", "chocolate babka", "cinnamon babka"],
+  "description": {
+    "en": "A rich, twisted loaf born in Ashkenazi kitchens: yeasted dough rolled around melting chocolate or cinnamon, then split and braided so the swirl shows in every slice. A holiday treat that became a brunch-table classic.",
+    "de": "Ein üppiges Wirbelbrot aus aschkenasischen Küchen: Hefeteig, um schmelzende Schokolade oder Zimt gerollt, dann gespalten und geflochten, sodass die Wirbel in jeder Scheibe sichtbar sind. Ein Festtagsgebäck, das zum Brunch-Klassiker wurde.",
+    "es": "Un pan trenzado y generoso nacido en cocinas asquenazíes: masa de levadura enrollada con chocolate fundido o canela, luego partida y trenzada para que el remolino asome en cada rebanada. Un dulce festivo vuelto clásico de brunch.",
+    "fr": "Un pain torsadé et généreux né dans les cuisines ashkénazes : pâte levée roulée autour de chocolat fondant ou de cannelle, puis fendue et tressée pour que le tourbillon apparaisse à chaque tranche. Une gourmandise de fête devenue classique du brunch."
+  },
+  "origin": {
+    "country": "PL",
+    "region": "Ashkenazi communities of Poland and Ukraine; later reshaped in New York's Jewish bakeries",
+    "note": "Ashkenazi bakers rolled leftover challah or rugelach dough with sugar, cinnamon or chocolate to avoid waste. Poland and Ukraine both claim it, and it is unrelated to the taller Slavic Easter cake that shares its name."
+  },
+  "leaven": "yeast",
+  "family": "sweet-loaf",
+  "formula": {
+    "hydrationPct": 47,
+    "saltPct": 2,
+    "sugarPct": 36.3,
+    "fatPct": 34.1,
+    "yeastPct": 2.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 750, "note": "dough" },
+    { "key": "water", "grams": 255, "note": "lukewarm; source gives a 227-283g range depending on flour absorption" },
+    { "key": "egg", "grams": 100, "note": "2 large eggs, in the dough" },
+    { "key": "milk", "grams": 37, "note": "dry milk powder; not counted toward hydration since it adds no free liquid" },
+    { "key": "instant-yeast", "grams": 18 },
+    { "key": "cinnamon", "grams": 3, "note": "ground; split across the dough, filling and streusel topping" },
+    { "key": "sugar", "grams": 198, "note": "granulated: 99g in the dough, 99g in the filling" },
+    { "key": "salt", "grams": 15 },
+    { "key": "butter", "grams": 256, "note": "256g total: 142g in the dough, 57g melted into the filling, 57g melted into the streusel" },
+    { "key": "vanilla", "grams": 14, "note": "extract" },
+    { "key": "cocoa", "grams": 28, "note": "unsweetened, in the filling, plus a pinch of espresso powder to deepen the chocolate flavor" },
+    { "label": { "en": "semisweet chocolate, chopped", "de": "Zartbitterschokolade, gehackt", "es": "chocolate semiamargo picado", "fr": "chocolat mi-amer haché" }, "grams": 170, "note": "in the filling" },
+    { "key": "walnuts", "grams": 113, "note": "toasted, or pecans, in the filling" },
+    { "key": "sugar", "grams": 74, "note": "confectioners', in the streusel topping" },
+    { "key": "flour:wheat-white", "grams": 60, "note": "in the streusel topping only; not counted toward the dough's baker's percentages" },
+    { "key": "egg", "grams": 50, "note": "for an egg glaze before the streusel goes on" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 1000, "shape": "twisted loaf, 23x13cm (9x5in) pan" },
+  "time": { "totalMin": 420, "activeMin": 60, "bulkMin": 105, "proofMin": 120, "bakeMin": 55, "overnight": false },
+  "bake": { "tempC": 149, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["chocolate", "sweet", "rich", "buttery", "nutty"],
+  "purposes": ["dessert", "breakfast", "celebration", "snack"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Rich with butter and chocolate, it keeps well wrapped at room temperature for several days and freezes beautifully, whole or sliced." },
+  "equipment": ["stand-mixer", "loaf-pan"],
+  "method": [
+    { "title": "Mix the dough", "summary": "Combine water, eggs, flour, milk powder, yeast, cinnamon and sugar; rest 20 minutes, then knead in the salt, butter and vanilla until smooth and elastic." },
+    { "title": "First rise", "summary": "Let the dough rise at room temperature until puffy, about 1.5-2 hours." },
+    { "title": "Make the filling", "summary": "Blend sugar, cinnamon, cocoa and a little espresso powder with melted butter; keep the chopped chocolate and toasted nuts ready alongside." },
+    { "title": "Roll and fill", "summary": "Divide the dough in half and roll each piece into a large rectangle, then spread with the filling, chocolate and nuts." },
+    { "title": "Roll and twist", "summary": "Roll each rectangle up tightly, split the log lengthwise and twist the two strands together into a loaf pan." },
+    { "title": "Second rise", "summary": "Proof until the dough crowns just over the rim of the pan, about 1.5-2.5 hours." },
+    { "title": "Glaze, top and bake", "summary": "Brush with egg glaze, scatter with streusel, then bake at 149°C (300°F) for 50-60 minutes, tenting with foil partway through to stop over-browning." },
+    { "title": "Cool", "summary": "Rest 10 minutes in the pan, then turn out onto a rack to finish cooling before slicing." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/chocolate-babka-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Method paraphrased and condensed; water taken as the midpoint of the site's 227-283g range; egg weight estimated at 50g per large egg." },
+  "tags": ["swirl-bread", "chocolate", "eastern-european", "jewish-bakery"]
+}

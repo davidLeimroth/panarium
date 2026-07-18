@@ -1,0 +1,60 @@
+{
+  "slug": "mkate-wa-ufuta",
+  "name": {
+    "en": "Mkate wa Ufuta (Swahili Sesame Bread)",
+    "de": "Mkate wa Ufuta (Suaheli-Sesambrot)",
+    "es": "Mkate wa Ufuta (pan de sésamo suajili)",
+    "fr": "Mkate wa Ufuta (pain au sésame swahili)"
+  },
+  "aliases": ["Zanzibar sesame bread", "simsim bread"],
+  "description": {
+    "en": "A firm, sesame-coated flatbread from the Swahili coast, its dough enriched with coconut milk and egg, then pan-fried until spotted brown on both sides. Zanzibar households serve it warm alongside soups, curries and stews for dipping.",
+    "de": "Ein festes, mit Sesam bedecktes Fladenbrot von der Suaheli-Küste, der Teig mit Kokosmilch und Ei angereichert und beidseitig in der Pfanne gebraten bis gefleckt braun. In Sansibar wird es warm zu Suppen, Currys und Eintöpfen zum Eintunken serviert.",
+    "es": "Un pan plano firme cubierto de sésamo de la costa suajili, con masa enriquecida con leche de coco y huevo, frito en sartén hasta dorarse por ambos lados. En Zanzíbar se sirve tibio junto a sopas, currys y guisos para mojar.",
+    "fr": "Un pain plat ferme couvert de sésame de la côte swahilie, la pâte enrichie au lait de coco et à l'oeuf, cuite à la poêle jusqu'à brunir des deux côtés. À Zanzibar, on le sert tiède avec des soupes, currys et ragoûts pour tremper."
+  },
+  "origin": { "country": "TZ", "region": "Swahili coast (Zanzibar, coastal Kenya and Tanzania)", "note": "Reflects the Swahili coast's Indian Ocean trade history, where coconut, sesame and wheat converge in one griddle bread." },
+  "leaven": "yeast",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 48.7,
+    "saltPct": 2.1,
+    "fatPct": 27.2,
+    "yeastPct": 1.5,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 438 },
+    { "label": { "en": "coconut milk", "de": "Kokosmilch", "es": "leche de coco", "fr": "lait de coco" }, "grams": 270, "note": "full-fat, canned" },
+    { "key": "egg", "grams": 50 },
+    { "key": "active-dry-yeast", "grams": 7 },
+    { "key": "salt", "grams": 9 },
+    { "key": "olive-oil", "grams": 54, "note": "or a neutral vegetable oil" },
+    { "key": "sesame-seeds", "grams": 32, "note": "for coating both sides before cooking" }
+  ],
+  "yield": { "count": 6, "pieceGrams": 133, "shape": "round, about 16 cm wide" },
+  "time": { "totalMin": 90, "activeMin": 30, "bulkMin": 45, "bakeMin": 4, "overnight": false },
+  "bake": { "tempC": 180, "steam": false, "vessel": "skillet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["nutty", "savory", "mild"],
+  "purposes": ["side", "soup-companion", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best served warm right off the pan; leftovers reheat well in a dry skillet." },
+  "equipment": ["skillet"],
+  "method": [
+    { "title": "Mix", "summary": "Whisk flour, yeast and salt, then stir in coconut milk and egg to form a dense, firm dough, not a spongy one." },
+    { "title": "Knead", "summary": "Knead 5 to 7 minutes until smooth, adding a little more coconut milk if the dough is too dry." },
+    { "title": "Rest", "summary": "Cover with a damp towel and let rest in a warm spot 30 to 60 minutes until slightly puffier." },
+    { "title": "Shape", "summary": "Divide into 6 balls and pat each into a round about 16 cm wide and 0.5 to 1 cm thick." },
+    { "title": "Coat", "summary": "Oil the tops generously and press sesame seeds into both sides." },
+    { "title": "Cook", "summary": "Cook sesame-side down in a hot skillet 1.5 to 2 minutes until browned, flip, oil and season the other side, and cook 1 to 2 minutes more." },
+    { "title": "Serve", "summary": "Wipe the pan between breads so the seeds do not scorch; serve warm alongside soups or stews." }
+  ],
+  "source": { "url": "https://leitesculinaria.com/106462/recipes-mkate-wa-ufuta.html", "site": "Leite's Culinaria", "retrieved": "2026-07-18", "adaptation": "Coconut milk's contribution to hydration estimated at 65% of its weight and its fat at 24%, since no standard conversion is given for it; cup/tsp/tbsp quantities converted to grams." },
+  "tags": ["swahili-coast", "griddle-bread", "sesame"]
+}

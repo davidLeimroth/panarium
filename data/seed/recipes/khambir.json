@@ -1,0 +1,59 @@
+{
+  "slug": "khambir",
+  "name": {
+    "en": "Khambir (Ladakhi Leavened Bread)",
+    "de": "Khambir (gesäuertes Brot aus Ladakh)",
+    "es": "Khambir (pan leudado de Ladakh)",
+    "fr": "Khambir (pain levé du Ladakh)"
+  },
+  "aliases": ["tagi", "Ladakhi khamiri roti"],
+  "description": {
+    "en": "A thick, faintly sour whole-wheat bread from Ladakh's high-altitude Tibetan Buddhist communities, fermented then griddled and finished over an open flame for a lightly charred skin. Torn and dipped in butter tea for a warming breakfast.",
+    "de": "Ein dickes, leicht säuerliches Vollkornbrot aus den hochgelegenen tibetisch-buddhistischen Gemeinden Ladakhs, fermentiert, auf der Platte gebacken und über offener Flamme mit leicht angekohlter Haut fertiggestellt. Wird zum wärmenden Frühstück in Buttertee getunkt.",
+    "es": "Un pan integral grueso y ligeramente ácido de las comunidades budistas tibetanas de gran altitud de Ladakh, fermentado, cocido en plancha y terminado a fuego directo hasta quedar levemente tostado. Se moja en té de mantequilla para un desayuno reconfortante.",
+    "fr": "Un pain complet épais et légèrement acidulé des communautés bouddhistes tibétaines de haute altitude du Ladakh, fermenté, cuit à la plaque puis terminé à flamme directe pour une peau légèrement grillée. On le trempe dans le thé au beurre pour un petit-déjeuner réconfortant."
+  },
+  "origin": { "country": "IN", "region": "Ladakh (also Tibetan communities in Nepal and Bhutan)", "note": "A high-altitude breakfast staple, traditionally baked on a hot iron plate in a wood or dung-fired stove and served with salted butter tea (gur gur chai)." },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 67.5,
+    "saltPct": 1.5,
+    "sugarPct": 1,
+    "fatPct": 3.75,
+    "yeastPct": 0.75,
+    "flours": [
+      { "type": "wheat-whole", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-whole", "grams": 400 },
+    { "key": "salt", "grams": 6 },
+    { "key": "sugar", "grams": 4 },
+    { "key": "active-dry-yeast", "grams": 3 },
+    { "key": "water", "grams": 270, "note": "lukewarm; includes the portion used to activate the yeast" },
+    { "key": "butter", "grams": 15, "note": "ghee, brushed on after cooking" }
+  ],
+  "yield": { "count": 7, "pieceGrams": 100, "shape": "round flatbread, griddle- and open-flame-toasted, ~15 cm" },
+  "time": { "totalMin": 640, "activeMin": 25, "bulkMin": 600, "bakeMin": 15, "overnight": true },
+  "bake": { "tempC": 200, "steam": false, "vessel": "griddle" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "blistered",
+  "flavors": ["tangy", "sour", "earthy", "wheaty"],
+  "purposes": ["breakfast", "everyday", "soup-companion"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Slight fermented tang helps it keep a few days; warm on a dry pan or open flame to refresh." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Activate yeast", "summary": "Stir sugar and yeast into lukewarm water and let stand about 10 minutes until foamy." },
+    { "title": "Mix dough", "summary": "Combine whole wheat flour and salt, then knead in the yeast mixture and more water to a semi-soft dough." },
+    { "title": "Ferment", "summary": "Cover and let rise in a warm place, traditionally overnight (or about an hour with a warmer kitchen)." },
+    { "title": "Divide", "summary": "Knead briefly to deflate, then divide into lemon-sized balls." },
+    { "title": "Cook", "summary": "Roll each ball into a round and cook on a hot griddle 40-50 seconds per side." },
+    { "title": "Flame-toast", "summary": "Finish by toasting briefly over direct flame on both sides until lightly charred, then brush with ghee and serve." }
+  ],
+  "source": { "url": "https://candidtreat.com/khambir-recipe-ladakhi-khamiri-roti-recipe/", "site": "Candid Treat", "retrieved": "2026-07-18", "adaptation": "Vague volumes ('1 bowl flour', 'pinch of salt') converted to gram estimates; used the source's traditional overnight ferment as the primary timeline rather than its faster same-day shortcut." },
+  "tags": ["ladakh", "high-altitude"]
+}

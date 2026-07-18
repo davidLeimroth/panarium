@@ -1,0 +1,138 @@
+{
+  "slug": "pizza-napoletana",
+  "name": {
+    "en": "Neapolitan Pizza Dough (Pizza Napoletana)",
+    "de": "Neapolitanischer Pizzateig (Pizza Napoletana)",
+    "es": "Masa de pizza napolitana (Pizza Napoletana)",
+    "fr": "Pâte à pizza napolitaine (Pizza Napoletana)",
+    "native": "Pizza Napoletana"
+  },
+  "description": {
+    "en": "The dough behind Naples' UNESCO-listed pizza: just flour, water, a little yeast and salt, fermented up to 24 hours before being stretched by hand and flash-baked 60-90 seconds in a wood oven near 450°C. The long ferment matters more than the toppings.",
+    "de": "Der Teig hinter Neapels UNESCO-gelisteter Pizza: nur Mehl, Wasser, ein Hauch Hefe und Salz, bis zu 24 Stunden fermentiert, von Hand gezogen und in 60-90 Sekunden im Holzofen bei rund 450°C gebacken. Nicht der Belag, sondern die lange Gare ist die eigentliche Kunst.",
+    "es": "La masa de la pizza napolitana, patrimonio de la UNESCO: solo harina, agua, un toque de levadura y sal, fermentada hasta 24 horas, estirada a mano y horneada en 60-90 segundos en horno de leña a unos 450°C. El oficio está en la larga fermentación, no en los ingredientes.",
+    "fr": "La pâte de la pizza napolitaine, classée à l'UNESCO: juste farine, eau, une pointe de levure et du sel, fermentée jusqu'à 24 heures, étirée à la main et cuite en 60-90 secondes dans un four à bois à environ 450°C. Le vrai savoir-faire tient à la fermentation, pas à la garniture."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Naples, Campania",
+    "note": "Governed by the AVPN's international disciplinare; the art of Neapolitan pizza-making (Pizzaiuolo) is inscribed on UNESCO's Intangible Cultural Heritage list."
+  },
+  "leaven": "yeast",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 59,
+    "saltPct": 2.9,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 618,
+      "note": "tipo 0/00, W 220-280"
+    },
+    {
+      "key": "water",
+      "grams": 364
+    },
+    {
+      "key": "salt",
+      "grams": 18,
+      "note": "sea or table salt"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 1,
+      "note": "kept minimal for a long 8-24 hour ferment"
+    }
+  ],
+  "yield": {
+    "count": 4,
+    "pieceGrams": 250,
+    "shape": "hand-stretched disc with a thick, puffy cornicione (rim)"
+  },
+  "time": {
+    "totalMin": 1111,
+    "activeMin": 25,
+    "bulkMin": 1080,
+    "bakeMin": 1.5,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 450,
+    "steam": false,
+    "vessel": "stone"
+  },
+  "difficulty": 4,
+  "crumb": "open",
+  "crust": "blistered",
+  "flavors": [
+    "mild",
+    "wheaty",
+    "yeasty",
+    "toasty"
+  ],
+  "purposes": [
+    "street-food",
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 0.5,
+    "freezes": true,
+    "note": "This entry is for the dough itself, eaten minutes after baking; it doesn't keep like a loaf, but unbaked dough balls freeze well for later."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Dissolve a little yeast in the water, then work in the flour by hand, keeping the salt from touching the yeast directly for more than a few minutes."
+    },
+    {
+      "title": "Knead",
+      "summary": "Work the dough by hand into a smooth, elastic mass, about 20 minutes."
+    },
+    {
+      "title": "Bulk rest",
+      "summary": "Let the whole mass rest a couple of hours at room temperature before dividing."
+    },
+    {
+      "title": "Ball and ferment long",
+      "summary": "Divide into 200-280 g balls and let them ferment together at room temperature for 8 to 24 hours until soft, domed and airy."
+    },
+    {
+      "title": "Stretch by hand",
+      "summary": "Press and stretch each ball outward from the center with fingertips only, never a rolling pin, leaving a thicker rim to puff up in the oven."
+    },
+    {
+      "title": "Flash-bake",
+      "summary": "Launch onto a screaming-hot stone or wood-fired oven floor at 430-480°C and bake just 60-90 seconds until the rim blisters and chars in spots."
+    }
+  ],
+  "source": {
+    "url": "https://www.pizzanapoletana.org/en/ricetta_pizza_napoletana",
+    "site": "Associazione Verace Pizza Napoletana (AVPN)",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams scaled down from the disciplinare's official per-liter-of-water ratios to a home batch of four 250 g dough balls."
+  },
+  "tags": [
+    "unesco",
+    "wood-fired"
+  ]
+}

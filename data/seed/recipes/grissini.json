@@ -1,0 +1,140 @@
+{
+  "slug": "grissini",
+  "name": {
+    "en": "Grissini (Turin Breadsticks)",
+    "de": "Grissini (Turiner Breadsticks)",
+    "es": "Grissini (colines de Turín)",
+    "fr": "Grissini (gressins de Turin)",
+    "native": "Grissini stirati"
+  },
+  "aliases": [
+    "Turin breadsticks",
+    "grissini stirati"
+  ],
+  "description": {
+    "en": "Turin's hand-stretched breadsticks, said to have been born when a sickly young duke needed bread his stomach could handle. Each strip is pulled by hand rather than rolled, so no two are quite the same width: thin, snappy, and baked until no moisture is left to go stale.",
+    "de": "Turins handgezogene Breadsticks sollen entstanden sein, weil ein kränklicher junger Herzog ein bekömmliches Brot brauchte. Jeder Streifen wird von Hand gezogen statt gerollt, keine zwei sind gleich breit: dünn, knackig, durchgebacken bis kaum Feuchtigkeit übrig bleibt.",
+    "es": "Los colines de Turín, estirados a mano, nacieron, según se cuenta, porque un joven duque enfermizo necesitaba un pan que su estómago tolerara. Cada tira se estira a mano en vez de enrollarse, así que no hay dos iguales: finos, crujientes, horneados hasta perder toda humedad.",
+    "fr": "Les gressins de Turin, étirés à la main, seraient nés quand un jeune duc maladif eut besoin d'un pain que son estomac supporte. Chaque bâton est étiré à la main plutôt que roulé, jamais deux pareils: fins, cassants, cuits jusqu'à ne plus garder la moindre humidité."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Turin, Piedmont",
+    "note": "The hand-stretched 'stirato' shape (rather than machine-rolled) is what distinguishes true Turin grissini from generic breadstick snacks."
+  },
+  "leaven": "yeast",
+  "family": "crispbread",
+  "formula": {
+    "hydrationPct": 50,
+    "saltPct": 1.2,
+    "fatPct": 10,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 250
+    },
+    {
+      "key": "olive-oil",
+      "grams": 50,
+      "note": "plus extra for brushing before baking"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 15
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    }
+  ],
+  "yield": {
+    "count": 20,
+    "pieceGrams": 41,
+    "shape": "hand-stretched thin stick, about 25-30 cm long"
+  },
+  "time": {
+    "totalMin": 110,
+    "activeMin": 35,
+    "bulkMin": 60,
+    "bakeMin": 25,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": [
+    "wheaty",
+    "toasty",
+    "olive"
+  ],
+  "purposes": [
+    "snack",
+    "table",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 20,
+    "freezes": true,
+    "note": "Baked down to almost no moisture, so it stays crisp in a sealed tin for weeks, the whole point of a grissino is that it never truly goes stale."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Dissolve the yeast in the water and stir into the flour to form a rough dough."
+    },
+    {
+      "title": "Knead in the oil",
+      "summary": "Work in the olive oil a little at a time until smooth and elastic, about 10 minutes, then knead in the salt."
+    },
+    {
+      "title": "First rise",
+      "summary": "Press into a rough rectangle on an oiled surface and let rise about an hour."
+    },
+    {
+      "title": "Stretch by hand",
+      "summary": "Cut thin strips from one edge of the dough and stretch each by the ends until long and thin; the natural tapering at the tips is part of the look."
+    },
+    {
+      "title": "Bake dry",
+      "summary": "Arrange on a tray, brush lightly with oil, and bake at 200°C for 20-30 minutes until golden and completely dried through."
+    }
+  ],
+  "source": {
+    "url": "https://sommeliersuite.com/en/ironed-breadsticks/",
+    "site": "Sommelier Suite",
+    "retrieved": "2026-07-17",
+    "adaptation": "This version uses olive oil only; some historic Turin bakery formulas instead work lard (strutto) and diastatic malt into the dough, noted here as background but not reflected in these grams."
+  },
+  "tags": [
+    "hand-stretched",
+    "antipasto"
+  ]
+}

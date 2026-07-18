@@ -1,0 +1,65 @@
+{
+  "slug": "wheaten-bread",
+  "name": {
+    "en": "Northern Irish Wheaten Bread",
+    "de": "Nordirisches Wheaten Bread (Vollkorn-Sodabrot)",
+    "es": "Pan wheaten norirlandés (pan de soda integral)",
+    "fr": "Wheaten bread nord-irlandais (pain au bicarbonate complet)"
+  },
+  "aliases": ["wheaten", "brown soda bread"],
+  "description": {
+    "en": "Northern Ireland's everyday brown soda bread: wholemeal and plain flour mixed to a very soft dough with buttermilk, no yeast and no kneading. Baked quickly into a dense, nutty loaf, sliced thick and buttered while still warm.",
+    "de": "Nordirlands alltägliches braunes Sodabrot: Vollkorn- und Weizenmehl werden mit Buttermilch zu einem sehr weichen Teig verrührt, ganz ohne Hefe und Kneten. Schnell zu einem dichten, nussigen Brot gebacken, dick geschnitten und noch warm gebuttert.",
+    "es": "El pan de soda integral de cada día en Irlanda del Norte: harina integral y blanca se mezclan con suero de leche en una masa muy blanda, sin levadura ni amasado. Se hornea rápido en un pan denso y de sabor a nuez, cortado grueso y untado con mantequilla caliente.",
+    "fr": "Le pain de soda complet du quotidien en Irlande du Nord : farine complète et farine blanche mêlées au babeurre en une pâte très molle, sans levure ni pétrissage. Cuit rapidement en un pain dense et aux notes de noisette, tranché épais et beurré encore tiède."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "Northern Ireland",
+    "note": "The everyday brown soda bread of Ulster tables, distinct from the white soda farl; buttermilk's acid reacting with bicarbonate of soda gives the rise instead of yeast."
+  },
+  "leaven": "chemical",
+  "family": "quick",
+  "formula": {
+    "hydrationPct": 95,
+    "saltPct": 1.6,
+    "sugarPct": 3.5,
+    "fatPct": 3.5,
+    "flours": [
+      { "type": "wheat-whole", "pct": 38 },
+      { "type": "wheat-white", "pct": 62 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-whole", "grams": 142, "note": "wholemeal" },
+    { "key": "flour:wheat-white", "grams": 227, "note": "plain flour" },
+    { "key": "buttermilk", "grams": 350 },
+    { "key": "baking-soda", "grams": 7 },
+    { "label": { "en": "cream of tartar", "de": "Weinstein", "es": "cremor tártaro", "fr": "crème de tartre" }, "grams": 2 },
+    { "key": "salt", "grams": 6 },
+    { "key": "brown-sugar", "grams": 13 },
+    { "key": "olive-oil", "grams": 13 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 700, "shape": "round farmhouse loaf, deep cross scored on top" },
+  "time": { "totalMin": 65, "activeMin": 15, "bakeMin": 27, "overnight": false },
+  "bake": { "tempC": 220, "steam": false, "vessel": "sheet" },
+  "difficulty": 1,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": ["earthy", "tangy", "wheaty", "nutty"],
+  "purposes": ["everyday", "breakfast", "soup-companion"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 38 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Keeps better than white soda bread thanks to the wholemeal; many say it's best thickly sliced and toasted from day two." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix dry", "summary": "Sift the plain flour with the cream of tartar and bicarbonate of soda, then stir in the wholemeal flour, salt and brown sugar." },
+    { "title": "Add buttermilk", "summary": "Make a well and pour in most of the buttermilk with the olive oil, mixing to a very soft, slightly sticky dough; add more buttermilk if it feels dry." },
+    { "title": "Shape", "summary": "Turn out gently and pat into a round on a floured tray without kneading." },
+    { "title": "Score", "summary": "Cut a deep cross through the top so the loaf cooks through evenly." },
+    { "title": "Bake", "summary": "Bake in a hot oven until well risen and golden, 25-30 minutes." },
+    { "title": "Cool wrapped", "summary": "Check for a hollow sound when the base is tapped, then cool wrapped in a tea towel for a soft crust." }
+  ],
+  "source": { "url": "https://discovernorthernireland.com/blog/post/how-to-make-traditional-irish-wheaten-bread/", "site": "Discover Northern Ireland", "retrieved": "2026-07-18", "adaptation": "Source gave a wide buttermilk range and only 'a pinch' of salt; standardized both to defined baker's percentages, and omitted the optional wheat germ and bran boosters for a clean baseline formula." },
+  "tags": ["ulster", "brown-soda"]
+}

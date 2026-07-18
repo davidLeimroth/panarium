@@ -1,0 +1,68 @@
+{
+  "slug": "mosbolletjies",
+  "name": {
+    "en": "Mosbolletjies (Cape Must Buns)",
+    "de": "Mosbolletjies (Kap-Traubenmost-Brötchen)",
+    "es": "Mosbolletjies (bollos de mosto del Cabo)",
+    "fr": "Mosbolletjies (petits pains au moût du Cap)"
+  },
+  "aliases": ["must buns", "Cape must buns"],
+  "description": {
+    "en": "Born in the Cape winelands: soft, aniseed-scented buns once leavened with mos, the frothing grape must skimmed straight from the wine press. Baked shoulder to shoulder in a tin and brushed with syrup, they're a harvest-season heirloom.",
+    "de": "Entstanden in den Weinbergen des Kaps: weiche, mit Anis parfümierte Brötchen, einst mit 'mos' gelockert, dem schäumenden Traubenmost direkt aus der Weinpresse. Dicht an dicht in einer Form gebacken und mit Sirup bestrichen, sind sie ein Erbstück der Erntezeit.",
+    "es": "Nacidos en los viñedos del Cabo: bollos suaves y perfumados con anís, antes leudados con 'mos', el mosto de uva espumoso recién salido del lagar. Horneados hombro con hombro en un molde y pintados con almíbar, una reliquia de la temporada de cosecha.",
+    "fr": "Nés dans les vignobles du Cap : petits pains moelleux parfumés à l'anis, autrefois levés au 'mos', le moût de raisin mousseux tout juste sorti du pressoir. Cuits serrés en moule et badigeonnés de sirop, ils sont un héritage des vendanges."
+  },
+  "origin": {
+    "country": "ZA",
+    "region": "Western Cape winelands",
+    "note": "Brought by French Huguenot refugees who settled Franschhoek from 1688; traditionally leavened with mos, the partly fermented grape must left over from winemaking, hence the name (mos + bolletjies, 'must balls')."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 1.1,
+    "sugarPct": 11.4,
+    "fatPct": 13,
+    "yeastPct": 1.6,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 875 },
+    { "key": "salt", "grams": 10 },
+    { "key": "sugar", "grams": 100 },
+    { "key": "active-dry-yeast", "grams": 14 },
+    { "key": "anise", "grams": 20, "note": "whole aniseed" },
+    { "key": "butter", "grams": 113 },
+    { "label": { "en": "white grape juice (or fermented grape must)", "de": "weißer Traubensaft (oder vergorener Traubenmost)", "es": "jugo de uva blanca (o mosto de uva fermentado)", "fr": "jus de raisin blanc (ou moût de raisin fermenté)" }, "grams": 240 },
+    { "key": "milk", "grams": 120, "note": "lukewarm" },
+    { "key": "water", "grams": 237, "note": "lukewarm" },
+    { "key": "sugar", "grams": 50, "note": "for the syrup glaze brushed on after baking" }
+  ],
+  "yield": { "count": 16, "pieceGrams": 111, "shape": "soft pull-apart bun baked in a shared tin" },
+  "time": { "totalMin": 130, "activeMin": 30, "bulkMin": 30, "proofMin": 38, "bakeMin": 30, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "spiced", "fruity", "buttery"],
+  "purposes": ["breakfast", "snack", "celebration"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Eaten fresh with butter, or dried further into mosbeskuit (rusks) for a keeper that lasts weeks." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Mix dry", "summary": "Combine flour, salt, sugar, yeast and whole aniseed." },
+    { "title": "Warm the liquids", "summary": "Melt butter into the grape juice, then stir in warm milk and water." },
+    { "title": "Make the dough", "summary": "Combine wet and dry ingredients into a soft dough and knead 5-10 minutes until elastic." },
+    { "title": "First rise", "summary": "Cover and let it double, about 30 minutes." },
+    { "title": "Pack the tins", "summary": "Divide into small balls and pack them snugly, shoulder to shoulder, into buttered loaf tins." },
+    { "title": "Second rise", "summary": "Let rise again until puffy, 30-45 minutes." },
+    { "title": "Bake and glaze", "summary": "Bake until golden, then brush immediately with a warm sugar syrup while still hot." }
+  ],
+  "source": { "url": "https://www.eitanbernath.com/2017/11/14/traditional-mosbolletjies/", "site": "Eitan Bernath", "retrieved": "2026-07-17", "adaptation": "Modern grape-juice-plus-commercial-yeast version used in place of traditional fermented grape must; glaze sugar kept as a separate entry from the dough formula." },
+  "tags": ["cape-winelands", "aniseed"]
+}

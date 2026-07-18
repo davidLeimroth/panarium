@@ -1,0 +1,76 @@
+{
+  "slug": "rosca-de-reyes",
+  "name": {
+    "en": "Three Kings' Bread (Rosca de Reyes)",
+    "de": "Dreikönigskranz (Rosca de Reyes)",
+    "es": "Rosca de Reyes",
+    "fr": "Couronne des Rois mexicaine (Rosca de Reyes)"
+  },
+  "aliases": ["Three Kings Bread", "Roscón de Reyes (Spanish ancestor)", "King's Ring"],
+  "description": {
+    "en": "A butter-rich, orange-scented ring baked for Día de Reyes on January 6th, its crown set with strips of candied guava paste and glacé cherries like jewels. A tiny hidden figure of the Christ child makes whoever finds it host tamales on Candlemas.",
+    "de": "Ein buttriger, orangenduftender Hefekranz für den 6. Januar, das Dreikönigsfest: seine Krone ist mit Streifen kandierter Guavenpaste und Glasurkirschen wie Edelsteinen besetzt. Wer die versteckte Jesusfigur findet, richtet an Mariä Lichtmess die Tamales aus.",
+    "es": "Una rosca de pan dulce, mantequillosa y perfumada de naranja, para el Día de Reyes el 6 de enero: su corona luce tiras de ate de guayaba y cerezas cristalizadas como joyas. A quien le toque el muñequito escondido le tocará ofrecer los tamales en la Candelaria.",
+    "fr": "Une couronne briochée au beurre et à l'orange pour le Jour des Rois, le 6 janvier : parée de bandes de pâte de goyave confite et de cerises confites, comme des joyaux. Qui trouve la figurine cachée devra offrir les tamales à la Chandeleur."
+  },
+  "origin": {
+    "country": "MX",
+    "region": "Nationwide Mexico; a central-Mexico holiday custom above all",
+    "note": "Descends from Spain's Roscón de Reyes, brought over by Spanish colonizers; that tradition in turn traces to older European midwinter fruit-studded ring cakes with roots reaching back to Roman Saturnalia and Twelfth Night customs."
+  },
+  "leaven": "yeast",
+  "family": "ring",
+  "formula": {
+    "hydrationPct": 49.5,
+    "saltPct": 2.4,
+    "sugarPct": 20,
+    "fatPct": 34,
+    "yeastPct": 1.8,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500 },
+    { "key": "instant-yeast", "grams": 9, "note": "fast-action/instant yeast" },
+    { "key": "salt", "grams": 12, "note": "fine salt" },
+    { "key": "sugar", "grams": 100, "note": "in the dough" },
+    { "key": "butter", "grams": 170, "note": "softened, in the dough" },
+    { "key": "egg", "grams": 200, "note": "4 large eggs, in the dough" },
+    { "key": "milk", "grams": 80, "note": "whole milk" },
+    { "key": "orange-zest", "grams": 6 },
+    { "label": { "en": "orange extract", "de": "Orangenextrakt", "es": "extracto de naranja", "fr": "extrait d'orange" }, "grams": 15 },
+    { "key": "egg", "grams": 25, "note": "beaten, for the egg wash" },
+    { "key": "sugar", "grams": 12, "note": "sprinkled on top before baking" },
+    { "label": { "en": "candied guava paste strips", "de": "Streifen kandierte Guavenpaste", "es": "tiras de ate de guayaba", "fr": "bandes de pâte de goyave confite" }, "grams": 90, "note": "traditional crown decoration" },
+    { "label": { "en": "glacé cherries", "de": "Glasurkirschen", "es": "cerezas cristalizadas", "fr": "cerises confites" }, "grams": 40, "note": "red and green, for decoration" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1150, "shape": "large ring, about 30 cm across, serves 10-12" },
+  "time": { "totalMin": 250, "activeMin": 30, "bulkMin": 105, "proofMin": 45, "bakeMin": 23, "overnight": false },
+  "bake": { "tempC": 204, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "fruity", "buttery", "rich"],
+  "purposes": ["holiday", "celebration", "breakfast", "dessert"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best the day it's baked; wrap airtight and it stays soft about three days, or freeze the plain, undecorated ring." },
+  "equipment": ["stand-mixer", "sheet-pan"],
+  "method": [
+    { "title": "Mix the dough", "summary": "Combine flour with the yeast and salt on opposite sides, then work in sugar, butter, eggs, milk, orange zest and orange extract until a soft, slightly sticky dough forms with no dry flour left." },
+    { "title": "Knead", "summary": "Knead on a floured surface for 10-15 minutes until smooth and elastic enough to stretch thin without tearing." },
+    { "title": "First rise", "summary": "Cover and let the dough rise somewhere warm until nearly doubled, about 1 hour 45 minutes." },
+    { "title": "Shape the ring", "summary": "Deflate the dough, form it into a ball, then poke a hole through the center and stretch it out into a wide ring on a lined baking sheet." },
+    { "title": "Decorate and proof", "summary": "Brush the ring with beaten egg, lay strips of candied guava paste and glacé cherries over the top like jewels, then let it proof, covered, until springy, about 45 minutes." },
+    { "title": "Bake", "summary": "Bake starting hot, around 200°C (400°F), for 10 minutes, then lower the heat and continue until deep golden and the center reads close to 88°C, roughly 13 more minutes." },
+    { "title": "Cool and hide the figure", "summary": "Let the ring cool completely, then tuck a small figurine of the Christ child up into the crumb from underneath before serving." }
+  ],
+  "source": {
+    "url": "https://savortheflavour.com/rosca-de-reyes/",
+    "site": "Savor the Flavour",
+    "retrieved": "2026-07-17",
+    "adaptation": "Converted from cup measurements. Kept the classic candied-fruit topping (guava paste, glacé cherries) but omitted the source's added shortbread decoration paste for a simpler, more traditional finish."
+  },
+  "tags": ["dia-de-reyes", "epiphany", "citrus", "hidden-figurine"]
+}

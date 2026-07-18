@@ -1,0 +1,64 @@
+{
+  "slug": "sheermal",
+  "name": {
+    "en": "Sheermal (Saffron Flatbread)",
+    "de": "Sheermal (Safran-Fladenbrot)",
+    "es": "Sheermal (pan plano de azafrán)",
+    "fr": "Sheermal (pain plat au safran)",
+    "native": "شیرمال"
+  },
+  "aliases": ["shirmal", "Lucknowi sheermal"],
+  "description": {
+    "en": "A mildly sweet, saffron-scented flatbread from the royal kitchens of Awadh, its milk-enriched dough worked with generous ghee until soft and glossy. Baked, then brushed twice with saffron milk and ghee, it is torn slowly alongside rich meat curries.",
+    "de": "Ein leicht süßes, safranduftendes Fladenbrot aus den königlichen Küchen von Awadh; der Milchteig wird mit reichlich Ghee geknetet, bis er weich und glänzend ist. Gebacken und mit Safranmilch und Ghee bestrichen, isst man es langsam zu kräftigen Fleisch-Currys.",
+    "es": "Un pan plano ligeramente dulce y perfumado con azafrán, de las cocinas reales de Awadh; su masa de leche se trabaja con abundante ghee hasta quedar suave y brillante. Horneado y pincelado con leche de azafrán y ghee, se come despacio junto a curris de carne intensos.",
+    "fr": "Un pain plat légèrement sucré et parfumé au safran, issu des cuisines royales d'Awadh ; sa pâte au lait est travaillée avec beaucoup de ghee jusqu'à devenir souple et brillante. Cuit puis badigeonné de lait au safran et de ghee, il se déguste avec de riches currys de viande."
+  },
+  "origin": { "country": "IN", "region": "Lucknow, Awadh (also Hyderabad and Kashmir)", "note": "Name blends Persian 'sheer' (milk) and 'mal' (to rub/massage), tracing to Mughal and Nawabi royal kitchens." },
+  "leaven": "chemical",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 86,
+    "saltPct": 0.5,
+    "sugarPct": 1.4,
+    "fatPct": 49.8,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 281 },
+    { "key": "milk", "grams": 240, "note": "warm, in the dough" },
+    { "key": "cardamom", "grams": 1, "note": "ground" },
+    { "key": "sugar", "grams": 4 },
+    { "key": "salt", "grams": 1.5 },
+    { "key": "butter", "grams": 100, "note": "ghee, worked into the dough in stages" },
+    { "label": { "en": "kewra water (screwpine essence)", "de": "Kewra-Wasser (Schraubenpalmen-Essenz)", "es": "agua de kewra (esencia de pandano)", "fr": "eau de kewra (essence de pandanus)" }, "grams": 15 },
+    { "key": "baking-powder", "grams": 2.3, "note": "optional, for a lighter crumb" },
+    { "label": { "en": "saffron threads", "de": "Safranfäden", "es": "hebras de azafrán", "fr": "filaments de safran" }, "grams": 0.3, "note": "crushed, steeped in the brushing milk" },
+    { "key": "milk", "grams": 45, "note": "warm, for the saffron steep; brushed on after baking" },
+    { "key": "butter", "grams": 40, "note": "ghee, for the final brushing" }
+  ],
+  "yield": { "count": 8, "pieceGrams": 91, "shape": "6-7 in (15-18 cm) disc" },
+  "time": { "totalMin": 90, "activeMin": 30, "proofMin": 40, "bakeMin": 14, "overnight": false },
+  "bake": { "tempC": 230, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "buttery", "rich", "spiced"],
+  "purposes": ["celebration", "breakfast", "table"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Ghee keeps it tender for a few days; warm gently before serving. Wrap airtight; freezes well par-baked." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix dough", "summary": "Combine flour, salt and cardamom; warm the milk with the sugar until dissolved, then knead into the flour to a soft dough. Rest 15 minutes." },
+    { "title": "Perfume", "summary": "Work in the kewra water, then knead in the melted ghee a few tablespoons at a time until fully absorbed and the dough turns soft and glossy." },
+    { "title": "Rest", "summary": "Cover and rest the enriched dough about 10-12 minutes." },
+    { "title": "Divide and roll", "summary": "Divide into 8 balls, rest again briefly, then roll each into a 6-7 inch disc and prick all over with a fork." },
+    { "title": "Bake", "summary": "Bake on a greased tray in a 230°C oven for 12-15 minutes, until the edges turn golden." },
+    { "title": "Glaze", "summary": "Steep saffron in warm milk, brush the hot bread with the saffron milk, then with melted ghee, and cool on a rack." }
+  ],
+  "source": { "url": "https://www.vegrecipesofindia.com/sheermal/", "site": "Dassana's Veg Recipes", "retrieved": "2026-07-18", "adaptation": "Oven method used instead of the source's stovetop tawa for a reproducible temperature; baking powder included for a lighter crumb; kewra water treated as full water-equivalent." },
+  "tags": ["mughlai", "festive"]
+}

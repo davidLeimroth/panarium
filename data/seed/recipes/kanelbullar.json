@@ -1,0 +1,80 @@
+{
+  "slug": "kanelbullar",
+  "name": {
+    "en": "Swedish Cinnamon Buns (Kanelbullar)",
+    "de": "Schwedische Zimtschnecken (Kanelbullar)",
+    "es": "Bollos suecos de canela (Kanelbullar)",
+    "fr": "Brioches suédoises à la cannelle (Kanelbullar)",
+    "native": "Kanelbullar"
+  },
+  "aliases": ["kanelbulle", "Swedish cinnamon knots", "cardamom buns"],
+  "description": {
+    "en": "Sweden's beloved fika bun: a cardamom-scented dough twisted into a knot, filled with cinnamon and brown sugar, and topped with crunchy pearl sugar. Smaller and less sweet than its American cousin, it's celebrated every October 4 on Kanelbullens dag.",
+    "de": "Schwedens liebstes Fika-Gebäck: ein kardamomduftender Hefeteig, zum Knoten gedreht, mit Zimt und braunem Zucker gefüllt und mit knusprigem Perlzucker bestreut. Kleiner und weniger süß als sein amerikanisches Pendant, gefeiert am 4. Oktober.",
+    "es": "El bollo favorito del fika sueco: una masa perfumada con cardamomo, anudada, rellena de canela y azúcar moreno y coronada con azúcar perlado crujiente. Más pequeño y menos dulce que su primo americano, se celebra cada 4 de octubre.",
+    "fr": "La brioche fétiche du fika suédois : une pâte à la cardamome, nouée, fourrée de cannelle et de sucre roux, couronnée de sucre perlé croquant. Plus petite et moins sucrée que sa cousine américaine, fêtée chaque 4 octobre."
+  },
+  "origin": {
+    "country": "SE",
+    "region": "Sweden (nationwide)",
+    "note": "A fika staple since the early 20th century; cardamom in the dough is considered essential, not a flourish. Distinct from, and ancestral in spirit to, the larger American cinnamon roll."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 64.7,
+    "saltPct": 1.52,
+    "sugarPct": 10.9,
+    "fatPct": 18.5,
+    "yeastPct": 1.3,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 435, "note": "for the dough" },
+    { "key": "flour:wheat-white", "grams": 25, "note": "for the tangzhong (cooked flour-milk-water scald that softens the crumb)" },
+    { "key": "milk", "grams": 120, "note": "lukewarm, for the dough" },
+    { "key": "milk", "grams": 75, "note": "for the tangzhong" },
+    { "key": "water", "grams": 75, "note": "for the tangzhong" },
+    { "key": "instant-yeast", "grams": 6 },
+    { "key": "cardamom", "grams": 2, "note": "green cardamom, freshly ground" },
+    { "key": "salt", "grams": 7 },
+    { "key": "sugar", "grams": 50 },
+    { "key": "egg", "grams": 50, "note": "1 large egg" },
+    { "key": "butter", "grams": 85, "note": "melted, for the dough" },
+    { "key": "butter", "grams": 70, "note": "soft, for the filling" },
+    { "key": "brown-sugar", "grams": 40, "note": "for the filling" },
+    { "key": "cinnamon", "grams": 5, "note": "for the filling" },
+    { "key": "egg", "grams": 20, "note": "beaten, for the egg wash" },
+    { "label": { "en": "pearl sugar", "de": "Perlzucker", "es": "azúcar perlado", "fr": "sucre perlé" }, "grams": 25, "note": "for the topping (pärlsocker)" }
+  ],
+  "yield": { "count": 12, "pieceGrams": 91, "shape": "twisted knot" },
+  "time": { "totalMin": 195, "activeMin": 45, "bulkMin": 60, "proofMin": 45, "bakeMin": 13, "overnight": false },
+  "bake": { "tempC": 204, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "spiced", "buttery", "caramel"],
+  "purposes": ["breakfast", "snack", "celebration", "holiday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day they're baked since there's no icing to seal in moisture; freezes and reheats well." },
+  "equipment": ["stand-mixer", "sheet-pan"],
+  "method": [
+    { "title": "Make the tangzhong", "summary": "Whisk flour into the water and milk and cook gently, stirring, until it thickens into a smooth paste, then let it cool." },
+    { "title": "Mix the dough", "summary": "Combine flour, yeast, cardamom, salt and sugar, then work in the cooled tangzhong, egg, milk and melted butter until you have a smooth, elastic dough." },
+    { "title": "First rise", "summary": "Cover and let the dough rise until roughly doubled, about an hour." },
+    { "title": "Fill", "summary": "Roll the dough into a rectangle, spread with soft butter, and scatter the cinnamon and brown sugar evenly over the surface." },
+    { "title": "Twist into knots", "summary": "Cut the dough into strips, then twist and loop each one around your fingers into a knot, tucking the tail through the centre." },
+    { "title": "Second rise and top", "summary": "Let the shaped buns puff for about 45 minutes, then brush with beaten egg and scatter pearl sugar on top." },
+    { "title": "Bake", "summary": "Bake hot and fast, around 200-204°C (400°F), for 12-14 minutes, just until set - a few minutes too long will dry them out." }
+  ],
+  "source": {
+    "url": "https://true-north-kitchen.com/swedish-cinnamon-buns/",
+    "site": "True North Kitchen",
+    "retrieved": "2026-07-17",
+    "adaptation": "Tangzhong (cooked flour-liquid scald) is counted into the dough total, not as a preferment since nothing ferments in it. formula.* excludes the filling, egg wash and pearl-sugar topping."
+  },
+  "tags": ["fika", "cardamom", "pearl-sugar"]
+}

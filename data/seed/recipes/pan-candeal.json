@@ -1,0 +1,163 @@
+{
+  "slug": "pan-candeal",
+  "name": {
+    "en": "Pan Candeal (Castilian Sobado Bread)",
+    "de": "Pan Candeal (kastilisches Sobado-Brot)",
+    "es": "Pan Candeal",
+    "fr": "Pan Candeal (pain castillan sobado)",
+    "native": "Pan Candeal"
+  },
+  "aliases": [
+    "pan sobado",
+    "pan bregado"
+  ],
+  "description": {
+    "en": "Castile's deliberately dense bread: a stiff, singularly low-hydration dough (around 50%) repeatedly rolled and folded through a press until satin-smooth, instead of kneaded. The result is a tight, chewy crumb under a smooth, shiny crust that keeps for days rather than hours.",
+    "de": "Kastiliens bewusst dichtes Brot: ein steifer Teig mit niedriger Hydration (rund 50%), der statt geknetet immer wieder durch eine Presse gerollt und gefaltet wird, bis er seidig glatt ist. Das Ergebnis: feste Krume unter glänzender Kruste, die tagelang statt Stunden hält.",
+    "es": "El pan deliberadamente denso de Castilla: una masa firme, de hidratación singularmente baja (en torno al 50%), pasada una y otra vez por el refinado en vez de amasarse, hasta quedar sedosa. El resultado es una miga apretada bajo una corteza lisa y brillante que aguanta días.",
+    "fr": "Le pain volontairement dense de Castille: une pâte ferme, à l'hydratation singulièrement basse (environ 50%), roulée et pliée à répétition au lieu d'être pétrie, jusqu'à devenir soyeuse. Le résultat: une mie compacte sous une croûte lisse et brillante qui se garde des jours."
+  },
+  "origin": {
+    "country": "ES",
+    "region": "Castile",
+    "note": "The 'sobado' or 'bregado' rolling technique, rather than kneading, is what gives this bread its uniquely tight, non-porous crumb."
+  },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 50,
+    "saltPct": 1.7,
+    "prefermentedFlourPct": 17,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 100,
+      "note": "harina panadera, in the prefermento"
+    },
+    {
+      "key": "water",
+      "grams": 50,
+      "note": "in the prefermento"
+    },
+    {
+      "key": "salt",
+      "grams": 2,
+      "note": "in the prefermento"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 0.5,
+      "note": "in the prefermento"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "300 g harina panadera plus 200 g harina panadera recia (strong wheat flour), in the final dough"
+    },
+    {
+      "key": "water",
+      "grams": 250,
+      "note": "in the final dough"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 2.5,
+      "note": "in the final dough"
+    },
+    {
+      "key": "salt",
+      "grams": 8,
+      "note": "in the final dough"
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 913,
+    "shape": "flat torta, higher at the center, cross-scored on top"
+  },
+  "time": {
+    "totalMin": 835,
+    "activeMin": 35,
+    "proofMin": 60,
+    "bakeMin": 35,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "sheet"
+  },
+  "difficulty": 4,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": [
+    "mild",
+    "wheaty",
+    "toasty"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Low hydration and a dense, sealed crumb are exactly why candeal keeps far longer than a typical high-hydration loaf; bakers historically prized it for durability."
+  },
+  "equipment": [
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Prefermento",
+      "summary": "The day before, mix flour, water, salt and a trace of yeast into a firm dough; let it rise, then refrigerate overnight."
+    },
+    {
+      "title": "Final dough",
+      "summary": "Combine the prefermento with the remaining flours, water, yeast and salt into a very stiff dough, famously low-hydration, only about 50%."
+    },
+    {
+      "title": "The refinado",
+      "summary": "Instead of ordinary kneading, repeatedly pass the dough through a pasta roller (or under a heavy roller), folding it in half each time, until it turns smooth and satiny."
+    },
+    {
+      "title": "Shape",
+      "summary": "Press into a flat torta, higher in the center, and mark with the traditional cross-scoring and a pattern of pin-pricks so it can't over-expand."
+    },
+    {
+      "title": "Proof",
+      "summary": "Let it rise about an hour at a warm room temperature."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 190°C for 15 minutes, then 170°C for 20 minutes more, until the surface is smooth, shiny and pale gold."
+    }
+  ],
+  "source": {
+    "url": "https://invitadoinvierno.com/pan-candeal-receta/",
+    "site": "El Invitado de Invierno",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams follow the source's own stated aggregate totals (600 g flour / 300 g water / 10 g salt / 3 g yeast)."
+  },
+  "tags": [
+    "sobado",
+    "low-hydration"
+  ]
+}

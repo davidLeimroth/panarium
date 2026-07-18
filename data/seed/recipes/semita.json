@@ -1,0 +1,69 @@
+{
+  "slug": "semita",
+  "name": {
+    "en": "Semita de Piña",
+    "de": "Semita de Piña (salvadorianisches Ananas-Hefegebäck)",
+    "es": "Semita de piña",
+    "fr": "Semita de piña (pâtisserie levée salvadorienne à l'ananas)"
+  },
+  "aliases": ["semita", "Salvadoran pineapple semita"],
+  "description": {
+    "en": "A yeasted bread dough sandwiching pineapple jam, baked flat in a big pan and cut into squares rather than shaped as a loaf. A Salvadoran bakery favorite, its lattice-topped surface signals the jam hidden inside.",
+    "de": "Ein hefegetriebener Brotteig mit einer Ananasmarmelade-Füllung, flach in einer großen Form gebacken und in Quadrate geschnitten statt zu einem Brot geformt. Ein Bäckereiliebling aus El Salvador, dessen Gitteroberfläche die versteckte Marmelade verrät.",
+    "es": "Una masa de pan con levadura que envuelve mermelada de piña, horneada plana en un molde grande y cortada en cuadros en vez de darle forma de hogaza. Un favorito de las panaderías salvadoreñas, con su superficie de rejilla que delata la mermelada escondida.",
+    "fr": "Une pâte à pain levée enveloppant une confiture d'ananas, cuite à plat dans un grand moule et découpée en carrés plutôt que façonnée en pain. Une favorite des boulangeries salvadoriennes, à la surface en treillis qui trahit la confiture cachée à l'intérieur."
+  },
+  "origin": {
+    "country": "SV",
+    "region": "El Salvador (also Guatemala and Honduras, with local variants)",
+    "note": "A yeasted bread dough, not a pastry crust, sandwiches the jam filling and bakes flat in a large pan before being cut into squares; pineapple is the most traditional filling, though mango or guava versions exist."
+  },
+  "leaven": "yeast",
+  "family": "sweet-loaf",
+  "formula": {
+    "hydrationPct": 51,
+    "saltPct": 1.3,
+    "sugarPct": 7.3,
+    "fatPct": 16.5,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 688, "note": "dough" },
+    { "key": "milk", "grams": 180, "note": "dough" },
+    { "key": "butter", "grams": 113, "note": "dough" },
+    { "key": "sugar", "grams": 50, "note": "dough" },
+    { "key": "salt", "grams": 9 },
+    { "key": "water", "grams": 79, "note": "warm, for blooming the yeast" },
+    { "key": "active-dry-yeast", "grams": 7 },
+    { "key": "egg", "grams": 150, "note": "3 eggs, dough" },
+    { "label": { "en": "pineapple preserves", "de": "Ananaskonfitüre", "es": "conserva de piña", "fr": "confiture d'ananas" }, "grams": 480, "note": "filling" },
+    { "key": "cinnamon", "grams": 5, "note": "filling" },
+    { "key": "egg", "grams": 50, "note": "beaten, for egg wash" },
+    { "key": "sugar", "grams": 50, "note": "for topping before baking" }
+  ],
+  "yield": { "count": 12, "pieceGrams": 145, "shape": "large flat rectangular tart cut into 12 squares" },
+  "time": { "totalMin": 190, "activeMin": 30, "bulkMin": 75, "proofMin": 30, "bakeMin": 35, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "fruity", "spiced", "buttery"],
+  "purposes": ["dessert", "snack", "celebration"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Keeps well for several days at room temperature under a cloth; the jam filling keeps the crumb moist longer than a plain sweet roll." },
+  "equipment": ["stand-mixer", "sheet-pan"],
+  "method": [
+    { "title": "Warm the enrichments", "summary": "Heat milk, butter, sugar and salt together until the butter melts, then cool to lukewarm." },
+    { "title": "Bloom yeast", "summary": "Dissolve the yeast in warm water and let stand until foamy." },
+    { "title": "Mix & knead", "summary": "Combine the milk mixture, yeast mixture, beaten eggs and flour into a dough, then knead until smooth and elastic." },
+    { "title": "First rise", "summary": "Cover and let rise until doubled, about 1 to 1.5 hours." },
+    { "title": "Layer & fill", "summary": "Press half the dough into a greased large baking pan, spread with the cinnamon-pineapple filling leaving a border, then top with a second sheet of dough and seal the edges." },
+    { "title": "Decorate & rest", "summary": "Lay a lattice of dough strips over the top, brush with egg wash, sprinkle with sugar, and rest 30 minutes." },
+    { "title": "Bake", "summary": "Prick the surface all over, then bake until golden brown, 30-40 minutes; cool before cutting into squares." }
+  ],
+  "source": { "url": "https://www.whats4eats.com/desserts/semita-de-pina-recipe", "site": "Whats4Eats", "retrieved": "2026-07-18", "adaptation": "formula.* covers the base dough only; the pineapple filling, lattice trim and egg-sugar topping are excluded from the percentages. Cup measures converted to grams via standard baker's conversions." },
+  "tags": ["el-salvador", "filled-bread"]
+}

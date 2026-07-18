@@ -1,0 +1,57 @@
+{
+  "slug": "ruchbrot",
+  "name": {
+    "en": "Swiss Ruch Bread (Ruchbrot)",
+    "de": "Ruchbrot",
+    "es": "Ruchbrot (pan suizo de harina Ruch)",
+    "fr": "Ruchbrot (pain suisse à la farine Ruch)",
+    "native": "Ruchbrot"
+  },
+  "aliases": ["Ruchmehlbrot"],
+  "description": {
+    "en": "Switzerland's everyday loaf: a lean, all-wheat hearth bread made from Ruchmehl, the darker, bran-flecked flour milled just short of wholemeal. A long, cold fermentation gives it a nutty, faintly tangy depth under a thick, chewy crust.",
+    "de": "Das Alltagsbrot der Schweiz schlechthin: ein schlichtes Weizenbrot aus Ruchmehl, dem dunkleren, kleiehaltigen Mehl knapp unterhalb von Vollkorn. Lange, kühle Gare gibt ihm eine nussige, leicht säuerliche Tiefe unter einer kräftigen, zähen Kruste.",
+    "es": "El pan cotidiano de Suiza por excelencia: un pan sencillo, cien por cien trigo, hecho con harina Ruch, más oscura y con algo de salvado, casi integral. Una larga fermentación en frío aporta un fondo a nuez, ligeramente ácido, bajo una corteza gruesa y masticable.",
+    "fr": "Le pain du quotidien par excellence en Suisse : tout blé, à la farine Ruch, plus sombre, juste en deçà de la farine complète. Une longue fermentation au froid donne une profondeur de noisette, légèrement acidulée, sous une croûte épaisse et moelleuse."
+  },
+  "origin": { "country": "CH", "region": "German-speaking Switzerland", "note": "Ruchmehl is Switzerland's characteristic darker wheat flour, milled with more bran and germ left in than white flour but less than full wholemeal." },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 74,
+    "saltPct": 2.2,
+    "prefermentedFlourPct": 28,
+    "flours": [
+      { "type": "wheat-whole", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-whole", "grams": 425, "note": "Ruchmehl, split between an overnight pre-dough and the main dough" },
+    { "key": "water", "grams": 314 },
+    { "key": "salt", "grams": 9.3 },
+    { "key": "fresh-yeast", "grams": 2.1 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 650, "shape": "oblong hearth loaf with three diagonal slashes" },
+  "time": { "totalMin": 2237, "activeMin": 30, "bulkMin": 1380, "proofMin": 60, "bakeMin": 50, "overnight": true },
+  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "chewy",
+  "flavors": ["wheaty", "nutty", "tangy", "malty"],
+  "purposes": ["everyday", "sandwich", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "A lean, all-wheat crumb; best within a few days once wrapped in linen or paper." },
+  "equipment": ["baking-stone", "banneton"],
+  "method": [
+    { "title": "Build the pre-dough", "summary": "Mix a portion of the Ruchmehl with water and a little yeast. Ferment at room temperature for about 12 hours." },
+    { "title": "Mix the main dough", "summary": "Combine the pre-dough with the remaining Ruchmehl, water, salt and a touch more yeast. Knead until the dough passes the windowpane test." },
+    { "title": "Short warm rest with folds", "summary": "Let the dough rest about an hour at room temperature, folding it three times early on to build strength." },
+    { "title": "Long cold retard", "summary": "Refrigerate the dough for roughly 22 hours so flavor develops slowly." },
+    { "title": "Shape", "summary": "Turn the cold dough out and shape it loosely into an oblong loaf." },
+    { "title": "Final proof", "summary": "Proof seam-up in a floured banneton for about an hour." },
+    { "title": "Score and bake", "summary": "Turn out, cut three angled slashes across the top, then bake hot with steam, dropping the oven temperature partway through, until the crust is thick and deeply colored." }
+  ],
+  "source": { "url": "https://www.ploetzblog.de/rezepte/ruchbrot/id=62387c592889cc0a7902635f", "site": "Plötzblog", "author": "Lutz Geißler", "retrieved": "2026-07-17", "adaptation": "Percentages taken from the site's own stated ratios; method paraphrased and condensed." },
+  "tags": ["ruchmehl", "schweizerbrot"]
+}

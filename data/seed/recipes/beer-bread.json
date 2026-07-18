@@ -1,0 +1,60 @@
+{
+  "slug": "beer-bread",
+  "name": {
+    "en": "Beer Bread",
+    "de": "Bierbrot",
+    "es": "Pan de cerveza",
+    "fr": "Pain à la bière"
+  },
+  "aliases": ["quick beer bread", "no-yeast beer bread"],
+  "description": {
+    "en": "Self-rising flour, a can of beer, sugar and melted butter stir together in minutes with no yeast and no kneading. The beer's carbonation and a little baking powder do all the lifting, giving a moist, malty quick loaf almost as fast as turning on the oven.",
+    "de": "Selbstaufsteigendes Mehl, eine Dose Bier, Zucker und geschmolzene Butter werden in Minuten verrührt, ganz ohne Hefe und Kneten. Die Kohlensäure des Biers und etwas Backpulver übernehmen das Lockern und ergeben im Handumdrehen ein feuchtes, malziges Schnellbrot.",
+    "es": "Harina leudante, una lata de cerveza, azúcar y mantequilla derretida se mezclan en minutos, sin levadura ni amasado. La carbonatación de la cerveza y un poco de polvo de hornear hacen todo el trabajo de subir la masa, dando un pan rápido, húmedo y con sabor a malta.",
+    "fr": "Farine à levure incorporée, une canette de bière, du sucre et du beurre fondu se mélangent en quelques minutes, sans levure ni pétrissage. Le gaz de la bière et un peu de levure chimique font toute la levée, pour un pain rapide, humide et malté."
+  },
+  "origin": {
+    "country": "US",
+    "region": "American home baking, popularized through the 20th century",
+    "note": "Took off as a fast, yeast-free way to have fresh bread at home, especially valued when yeast was scarce or unreliable, such as during the Great Depression and wartime shortages."
+  },
+  "leaven": "chemical",
+  "family": "quick",
+  "formula": {
+    "hydrationPct": 109.7,
+    "saltPct": 2.6,
+    "sugarPct": 10.3,
+    "fatPct": 18.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 310, "note": "or use self-rising flour and omit the baking powder and salt below" },
+    { "key": "baking-powder", "grams": 21 },
+    { "key": "salt", "grams": 8 },
+    { "label": { "en": "beer", "de": "Bier", "es": "cerveza", "fr": "bière" }, "grams": 340, "note": "any style; lighter beers give a milder flavor, stouts and ales a stronger one" },
+    { "key": "sugar", "grams": 32 },
+    { "key": "butter", "grams": 57, "note": "melted; most stirred into the batter, a little drizzled on top before baking" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 700, "shape": "9 x 5 in loaf pan" },
+  "time": { "totalMin": 78, "activeMin": 10, "bakeMin": 48, "overnight": false },
+  "bake": { "tempC": 191, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 1,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["malty", "yeasty", "sweet"],
+  "purposes": ["everyday", "side", "snack"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Stir flour (or a self-rising flour blend), sugar and most of the melted butter into the beer until just combined into a thick, fairly smooth batter." },
+    { "title": "Pan", "summary": "Scrape into a greased loaf pan and drizzle the last of the butter over the top." },
+    { "title": "Bake", "summary": "Bake at about 190°C for 45-50 minutes until a skewer comes out clean or with just a few moist crumbs." },
+    { "title": "Cool", "summary": "Cool in the pan a few minutes, then turn out onto a rack; best sliced once fully cool." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/classic-beer-bread-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-18", "adaptation": "Self-rising flour decomposed into plain flour plus an estimated baking powder and salt content, since exact proportions vary slightly by brand." },
+  "tags": ["quick-bread", "no-yeast", "american"]
+}

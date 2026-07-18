@@ -1,0 +1,65 @@
+{
+  "slug": "huajuan",
+  "name": {
+    "en": "Huajuan (Chinese Scallion Flower Rolls)",
+    "de": "Huajuan (chinesische Frühlingszwiebel-Blütenbrötchen)",
+    "es": "Huajuan (panecillos flor de cebolleta chinos)",
+    "fr": "Huajuan (petits pains fleurs à la ciboule chinois)",
+    "native": "花卷 (huājuǎn)"
+  },
+  "aliases": ["hua juan", "flower rolls", "scallion flower buns"],
+  "description": {
+    "en": "Steamed Chinese wheat rolls, twisted and folded so their layers fan out like petals when torn open. Brushed between the folds with oil, five-spice and scallion, they are mantou's savory, spiral-layered cousin, served alongside braises and congee.",
+    "de": "Gedämpfte chinesische Weizenbrötchen, gedreht und gefaltet, sodass sich ihre Schichten beim Aufreißen wie Blütenblätter auffächern. Mit Öl, Fünf-Gewürzen und Frühlingszwiebeln gefüllt, sind sie Mantous herzhafter Vetter, serviert zu Schmorgerichten und Congee.",
+    "es": "Panecillos chinos de trigo al vapor, girados y plegados para que sus capas se abran como pétalos al partirlos. Untados entre los pliegues con aceite, cinco especias y cebolleta, son el primo salado y de capas en espiral del mantou, servidos junto a guisos y congee.",
+    "fr": "Petits pains chinois de blé cuits à la vapeur, tordus et pliés pour que leurs couches s'ouvrent comme des pétales une fois déchirés. Garnis d'huile, de cinq-épices et de ciboule, ils sont le cousin salé du mantou, servis avec des braisés et du congee."
+  },
+  "origin": { "country": "CN", "region": "nationwide, northern origin", "note": "Same steamed-wheat family as mantou, but layered with a savory scallion-oil filling and twisted into a flower shape before steaming." },
+  "leaven": "yeast",
+  "family": "steamed",
+  "formula": {
+    "hydrationPct": 66,
+    "saltPct": 1.8,
+    "sugarPct": 5,
+    "fatPct": 10.8,
+    "yeastPct": 1.2,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 250 },
+    { "key": "water", "grams": 165, "note": "lukewarm" },
+    { "key": "active-dry-yeast", "grams": 3 },
+    { "key": "sugar", "grams": 12.5 },
+    { "key": "baking-powder", "grams": 4 },
+    { "key": "salt", "grams": 1.5, "note": "in the dough" },
+    { "label": { "en": "five-spice powder", "de": "Fünf-Gewürze-Pulver", "es": "cinco especias chinas", "fr": "cinq-épices chinois" }, "grams": 1.5 },
+    { "key": "salt", "grams": 3, "note": "in the scallion filling" },
+    { "key": "vegetable-oil", "grams": 27, "note": "brushed between the layers" },
+    { "label": { "en": "scallions, finely chopped", "de": "Frühlingszwiebeln, fein gehackt", "es": "cebolletas picadas finas", "fr": "ciboules finement hachées" }, "grams": 50 }
+  ],
+  "yield": { "count": 8, "pieceGrams": 65, "shape": "twisted flower/knot roll, steamed" },
+  "time": { "totalMin": 130, "activeMin": 45, "proofMin": 30, "bakeMin": 15, "overnight": false },
+  "bake": { "tempC": 100, "steam": true, "vessel": "steamer" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["savory", "spiced", "mild", "herbal"],
+  "purposes": ["side", "everyday", "breakfast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Steams back to fluffy from frozen in about 10 minutes; a savory alternative to mantou alongside braises and congee." },
+  "equipment": ["steamer"],
+  "method": [
+    { "title": "Bloom yeast", "summary": "Stir yeast and sugar into lukewarm water and let stand until foamy, about 15-20 minutes." },
+    { "title": "Mix dough", "summary": "Combine flour, baking powder and salt, then knead in the yeast mixture until smooth and elastic, about 15-20 minutes." },
+    { "title": "Roll and season", "summary": "Roll the dough into a large thin rectangle, brush with oil, and scatter with five-spice powder, salt and chopped scallions." },
+    { "title": "Fold and cut", "summary": "Fold the sheet lengthwise into thirds, then cut crosswise into strips." },
+    { "title": "Twist into flowers", "summary": "Stack two strips, press a chopstick down the center lengthwise, stretch the ends, then wrap and tuck to form a twisted flower knot." },
+    { "title": "Proof", "summary": "Rest the shaped rolls in the steamer basket about 30 minutes until puffy." },
+    { "title": "Steam", "summary": "Steam over boiling water for 15 minutes, then let rest off the heat a few minutes before lifting the lid." }
+  ],
+  "source": { "url": "https://thewoksoflife.com/hua-juan-flower-rolls-scallion-buns/", "site": "The Woks of Life", "retrieved": "2026-07-18", "adaptation": "Cup/tbsp/tsp amounts converted to grams using standard baking references; dough salt and filling salt kept as two separate lines to mirror the source's two stages." },
+  "tags": ["steamed", "savory-bun"]
+}

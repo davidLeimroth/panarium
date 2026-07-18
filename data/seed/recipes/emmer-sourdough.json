@@ -1,0 +1,57 @@
+{
+  "slug": "emmer-sourdough",
+  "name": {
+    "en": "Emmer Sourdough",
+    "de": "Emmer-Sauerteigbrot",
+    "es": "Pan de masa madre de emmer (escanda)",
+    "fr": "Pain au levain d'amidonnier (emmer)"
+  },
+  "aliases": ["Farro sourdough"],
+  "description": {
+    "en": "Half ancient emmer, half modern bread flour, this loaf pairs the sweet, honeyed, faintly earthy taste of one of the first wheats ever farmed with enough structure for an easy weeknight bake, a gentler, nuttier cousin of the classic country loaf.",
+    "de": "Zur Hälfte uraltes Emmer, zur Hälfte modernes Weizenmehl: Dieses Brot vereint den süßen, honigartigen, leicht erdigen Geschmack eines der ersten je angebauten Weizen mit genug Struktur für ein unkompliziertes Alltagsbrot, ein nussigerer Cousin des Country-Brots.",
+    "es": "Mitad emmer ancestral, mitad harina de pan moderna: este pan combina el sabor dulce, amielado y ligeramente terroso de uno de los primeros trigos cultivados con estructura suficiente para una horneada sencilla entre semana, un primo más avellanado del clásico pan de campo.",
+    "fr": "Moitié amidonnier ancestral, moitié farine de pain moderne, ce pain marie le goût doux, miellé et légèrement terreux de l'un des tout premiers blés cultivés à une structure facile à maîtriser en semaine, cousin plus noisetté du pain de campagne classique."
+  },
+  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "Emmer (farro) is an ancient wheat first domesticated in the Fertile Crescent; this sourdough treatment is a contemporary artisan-bakery formula, not a historical recipe." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 80,
+    "saltPct": 2.2,
+    "flours": [
+      { "type": "emmer", "pct": 50 },
+      { "type": "wheat-white", "pct": 50 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:emmer", "grams": 225, "note": "whole grain, home-milled or store-bought" },
+    { "key": "flour:wheat-white", "grams": 225, "note": "bread flour" },
+    { "key": "water", "grams": 360 },
+    { "key": "sourdough-starter", "grams": 100, "note": "active, 100% hydration" },
+    { "key": "salt", "grams": 10 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 850, "shape": "boule or bâtard" },
+  "time": { "totalMin": 1240, "activeMin": 25, "bulkMin": 300, "proofMin": 750, "bakeMin": 38, "overnight": true },
+  "bake": { "tempC": 260, "steam": false, "vessel": "dutch-oven" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["nutty", "earthy", "sweet"],
+  "purposes": ["everyday", "table", "sandwich"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 45 },
+  "keeping": { "freshDays": 3, "freezes": true },
+  "equipment": ["dutch-oven", "banneton"],
+  "method": [
+    { "title": "Mix", "summary": "Combine emmer flour, bread flour, water, active starter and salt into a shaggy dough; rest 20-30 minutes." },
+    { "title": "Build strength", "summary": "Work through three rounds of stretch-and-fold spaced 20-30 minutes apart, emmer's weaker gluten needs a gentler touch than modern wheat." },
+    { "title": "Bulk ferment", "summary": "Continue fermenting at a warm room temperature, roughly 5 hours, until the dough has nearly doubled." },
+    { "title": "Shape", "summary": "Shape into a boule or bâtard; optionally roll the surface in emmer flakes for a rustic finish." },
+    { "title": "Proof", "summary": "Rest briefly at room temperature, then refrigerate 8-16 hours for a fuller flavor (or proof 1-2 hours at room temperature for a same-day bake)." },
+    { "title": "Bake", "summary": "Bake in a well-preheated covered pot at a high heat, stepping the temperature down twice and finishing uncovered until deeply colored." },
+    { "title": "Cool", "summary": "Rest at least 2 hours before slicing; internal temperature should read about 96°C when done." }
+  ],
+  "source": { "url": "https://breadtopia.com/50-emmer-farro-sourdough-bread/", "site": "Breadtopia", "retrieved": "2026-07-17" },
+  "tags": ["ancient-grain", "emmer"]
+}

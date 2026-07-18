@@ -1,0 +1,57 @@
+{
+  "slug": "arepa",
+  "name": {
+    "en": "Arepa",
+    "de": "Arepa",
+    "es": "Arepa",
+    "fr": "Arepa",
+    "native": "erepa"
+  },
+  "aliases": ["arepa venezolana", "arepa colombiana"],
+  "description": {
+    "en": "A thick, golden corn cake of precooked cornmeal, griddled then finished in the oven until the crust is firm enough to split open like a pocket. Venezuelans stuff it with cheese, shredded beef or black beans; Colombians eat it thinner, topped rather than filled.",
+    "de": "Ein dicker, goldener Maiskuchen aus vorgegartem Maismehl, angebraten und im Ofen fertiggebacken, bis die Kruste fest genug zum Aufschneiden ist. Venezolaner füllen sie mit Käse oder Rindfleisch; Kolumbianer essen sie dünner und belegt.",
+    "es": "Un grueso pastel dorado de harina de maíz precocida, dorado en plancha y horneado hasta que la corteza es firme para abrirla como bolsillo. Los venezolanos la rellenan con queso o carne; los colombianos la comen más fina y con toppings.",
+    "fr": "Une épaisse galette dorée de farine de maïs précuite, saisie puis cuite au four jusqu'à ce que la croûte soit assez ferme pour l'ouvrir en poche. Les Vénézuéliens la fourrent de fromage ou de bœuf ; les Colombiens la mangent plus fine et garnie."
+  },
+  "origin": { "country": "VE", "region": "Venezuela & Colombia (Andean/Timoto-Cuica origin)", "note": "Predates the Spanish conquest by millennia; the name descends from 'erepa', a Timoto-Cuica word for cornbread. Colombia's thinner, topped version is equally central to its own cuisine." },
+  "leaven": "none",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 211,
+    "saltPct": 4.3,
+    "fatPct": 3.2,
+    "flours": [
+      { "type": "corn", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:corn", "grams": 140, "note": "masarepa / harina precocida (precooked corn flour, e.g. Harina P.A.N.)" },
+    { "key": "water", "grams": 296, "note": "warm, about 40°C" },
+    { "key": "salt", "grams": 6 },
+    { "key": "vegetable-oil", "grams": 5, "note": "optional, for a richer texture" }
+  ],
+  "yield": { "count": 5, "pieceGrams": 89, "shape": "thick round disc, 10 cm x 2 cm, split and stuffed" },
+  "time": { "totalMin": 39, "activeMin": 20, "proofMin": 8, "bakeMin": 21, "overnight": false },
+  "bake": { "tempC": 220, "steam": false, "vessel": "griddle" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["earthy", "toasty", "savory"],
+  "purposes": ["everyday", "sandwich", "breakfast", "street-food"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm, split and stuffed right after cooking; leftovers reheat well in a toaster oven or dry skillet, and cooked arepas freeze well." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Dissolve salt", "summary": "Stir salt (and oil, if using) into warm water until dissolved." },
+    { "title": "Add flour", "summary": "Sprinkle the precooked corn flour in gradually, stirring, then knead briefly by hand once cool enough to touch." },
+    { "title": "Rest", "summary": "Let the dough rest 5-10 minutes so the flour fully hydrates into a smooth, moist, non-sticky mass." },
+    { "title": "Shape", "summary": "Divide and pat into thick discs." },
+    { "title": "Sear on the griddle", "summary": "Cook on a hot cast-iron griddle several minutes per side until a firm, golden crust forms." },
+    { "title": "Finish in the oven", "summary": "Transfer to a moderate oven to finish cooking through without burning the crust." },
+    { "title": "Split & fill", "summary": "Slice open while hot and stuff, or eat plain alongside a meal." }
+  ],
+  "source": { "url": "https://happyspicyhour.com/venezuelan-arepas/", "site": "Happy Spicy Hour", "retrieved": "2026-07-17", "adaptation": "Masarepa cup-to-gram weight estimated at 140 g (brands vary); hydration and salt percentage computed from that estimate per baker's-percentage convention." },
+  "tags": ["gluten-free", "corn-cake"]
+}

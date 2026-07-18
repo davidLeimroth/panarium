@@ -1,0 +1,60 @@
+{
+  "slug": "potato-bread",
+  "name": {
+    "en": "Irish Potato Farls",
+    "de": "Irische Kartoffel-Farls",
+    "es": "Farls irlandeses de patata",
+    "fr": "Farls irlandais à la pomme de terre"
+  },
+  "aliases": ["potato farls", "potato cakes", "fadge"],
+  "description": {
+    "en": "Leftover boiled potato, riced hot, gets worked with butter and just enough flour to bind, then rolled, cut into triangles and fried in a pan. No yeast, no baking powder, just potato starch holding it together. A cornerstone of the Ulster Fry.",
+    "de": "Übrig gebliebene, heiß passierte Salzkartoffeln werden mit Butter und wenig Mehl zum Binden verarbeitet, ausgerollt, in Dreiecke geschnitten und gebraten. Ohne Hefe oder Backpulver, nur Kartoffelstärke hält es zusammen. Fester Bestandteil des Ulster Fry.",
+    "es": "Patata hervida sobrante, pasada aún caliente, se trabaja con mantequilla y algo de harina para ligar, se estira, se corta en triángulos y se fríe. Sin levadura ni polvo de hornear, solo el almidón de la patata la une. Pieza clave del desayuno Ulster Fry.",
+    "fr": "Pomme de terre bouillie restante, passée chaude, travaillée avec du beurre et juste assez de farine pour lier, puis étalée, coupée en triangles et poêlée. Ni levure ni levure chimique, seul l'amidon la tient. Pilier du petit-déjeuner Ulster Fry."
+  },
+  "origin": {
+    "country": "IE",
+    "region": "Ireland and Northern Ireland",
+    "note": "Born from using up leftover boiled or mashed potato. The name farl comes from the Gaelic fardel, four parts, since the round is traditionally cut into quarters or sixths before frying; a centerpiece of the Ulster Fry breakfast."
+  },
+  "leaven": "none",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 196.5,
+    "saltPct": 3.5,
+    "fatPct": 22.1,
+    "flours": [
+      { "type": "potato", "pct": 55.4 },
+      { "type": "wheat-white", "pct": 44.6 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "mashed-potato", "grams": 650, "note": "peeled potatoes, boiled and riced or sieved while hot, not raw mash" },
+    { "key": "flour:wheat-white", "grams": 115, "note": "plain/all-purpose flour" },
+    { "key": "salt", "grams": 9 },
+    { "label": { "en": "black pepper", "de": "schwarzer Pfeffer", "es": "pimienta negra", "fr": "poivre noir" }, "grams": 1 },
+    { "key": "butter", "grams": 57, "note": "half worked into the dough, half for frying" }
+  ],
+  "yield": { "count": 6, "pieceGrams": 139, "shape": "triangular farl, cut from an 8 in round" },
+  "time": { "totalMin": 40, "activeMin": 20, "bakeMin": 10, "overnight": false },
+  "bake": { "tempC": 180, "steam": false, "vessel": "skillet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["savory", "buttery", "earthy"],
+  "purposes": ["breakfast", "side", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best fresh and hot from the pan; leftovers reheat well fried, and uncooked farls freeze well between sheets of parchment." },
+  "equipment": ["skillet"],
+  "method": [
+    { "title": "Boil and rice", "summary": "Boil peeled, cubed potatoes until tender, then pass through a ricer or sieve while still hot." },
+    { "title": "Mix", "summary": "Stir in half the butter, the salt and pepper, then very lightly fold in the flour, just until it comes together; overworking makes tough farls." },
+    { "title": "Roll and cut", "summary": "Pat the dough into an 8 in round about 1 cm thick, then cut into six triangles." },
+    { "title": "Fry", "summary": "Melt the remaining butter in a hot frying pan and cook the farls, no extra oil, about 5 minutes a side until golden." },
+    { "title": "Serve", "summary": "Serve hot, ideally straight from the pan alongside eggs, bacon and other fry-up staples." }
+  ],
+  "source": { "url": "https://www.biggerbolderbaking.com/authentic-irish-potato-farls/", "site": "Bigger Bolder Baking", "retrieved": "2026-07-18", "adaptation": "Boiled potato modeled as roughly 22% dry matter / 78% water to derive baker's percentages, since it fully replaces flour as the dough's main bulk here rather than acting as a minor addition." },
+  "tags": ["potato", "ireland", "griddle"]
+}

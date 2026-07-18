@@ -1,0 +1,68 @@
+{
+  "slug": "bara-brith",
+  "name": {
+    "en": "Welsh Speckled Bread (Bara Brith)",
+    "de": "Walisisches Tee-Früchtebrot (Bara Brith)",
+    "es": "Pan moteado galés (Bara Brith)",
+    "fr": "Pain tacheté gallois (Bara Brith)",
+    "native": "Bara Brith"
+  },
+  "aliases": ["Welsh tea bread", "speckled bread", "Welsh fruit loaf"],
+  "description": {
+    "en": "Wales's beloved teatime loaf: raisins, sultanas and currants steeped overnight in strong tea, then folded into a spiced batter and baked low and slow. No kneading required, just sliced thin, buttered, and served for St David's Day or Christmas.",
+    "de": "Waliens beliebtes Teebrot: Rosinen, Sultaninen und Korinthen ziehen über Nacht in starkem Tee, werden mit Gewürzen zu einem Teig verrührt und langsam gebacken. Kein Kneten nötig – dünn geschnitten und gebuttert zum St. David's Day oder Weihnachten.",
+    "es": "El pan de té favorito de Gales: pasas, sultanas y grosellas se remojan toda la noche en té negro fuerte, se mezclan con especias y se hornean despacio. Sin amasado, se sirve en rebanadas finas con mantequilla para el Día de San David o Navidad.",
+    "fr": "Le pain au thé préféré du pays de Galles : raisins secs et groseilles trempent toute la nuit dans un thé noir fort, puis sont mêlés à une pâte épicée et cuits lentement. Sans pétrissage, tranché fin et beurré, pour la Saint David ou Noël."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "Wales",
+    "note": "Two real traditions exist: an older yeast-leavened bread and this now-dominant chemically-leavened tea loaf. This entry follows the tea loaf, the version most Welsh households and cafés make today; eaten at teatime, St David's Day and Christmas."
+  },
+  "leaven": "chemical",
+  "family": "quick",
+  "formula": {
+    "hydrationPct": 135,
+    "saltPct": 0,
+    "sugarPct": 40,
+    "fatPct": 0,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 250, "note": "self-raising flour" },
+    { "label": { "en": "strong black tea", "de": "starker schwarzer Tee", "es": "té negro fuerte", "fr": "thé noir fort" }, "grams": 300, "note": "poured hot over the fruit, soaked overnight" },
+    { "key": "raisins", "grams": 400, "note": "mixed sultanas, raisins and currants" },
+    { "key": "brown-sugar", "grams": 100, "note": "dark muscovado" },
+    { "key": "egg", "grams": 50 },
+    { "label": { "en": "mixed spice", "de": "Gewürzmischung", "es": "especias mixtas", "fr": "épices mélangées" }, "grams": 5, "note": "British-style blend: cinnamon, nutmeg, allspice" },
+    { "key": "honey", "grams": 15, "note": "for glazing after baking" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1000, "shape": "2lb/900g loaf tin" },
+  "time": { "totalMin": 725, "activeMin": 20, "bakeMin": 60, "overnight": true },
+  "bake": { "tempC": 180, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["sweet", "fruity", "spiced", "malty"],
+  "purposes": ["snack", "breakfast", "holiday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 6, "freezes": true, "note": "Tea-soaked fruit keeps this loaf moist far longer than most quick breads; many say it's best on day two or three." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Soak the fruit", "summary": "Pour hot, strong tea over the mixed dried fruit, cover, and leave overnight (or at least 6 hours) until plump." },
+    { "title": "Mix the batter", "summary": "Stir the self-raising flour, muscovado sugar and mixed spice together, then fold in the soaked fruit with its liquid and the beaten egg until just combined." },
+    { "title": "Pan it up", "summary": "Scrape the thick batter into a lined loaf tin and level the top." },
+    { "title": "Bake low and slow", "summary": "Bake at 180°C for about an hour, loosely covering if the top browns too quickly, until a skewer comes out clean." },
+    { "title": "Glaze and rest", "summary": "Brush the warm loaf with honey, cool completely, then wrap and let it sit a day or two for the best flavor before slicing." }
+  ],
+  "source": {
+    "url": "https://www.visitwales.com/things-do/food-and-drink/welsh-food-and-recipes/bara-brith-recipe",
+    "site": "Visit Wales",
+    "retrieved": "2026-07-17",
+    "adaptation": "Picked the dominant chemical tea-loaf version over the older yeasted original. Hydration% treats soaking tea as dough liquid, adapted since it's absorbed by fruit, not kneaded into gluten."
+  },
+  "tags": ["teatime", "st-davids-day", "tea-soaked-fruit"]
+}

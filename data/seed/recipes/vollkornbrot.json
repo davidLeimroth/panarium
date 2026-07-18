@@ -1,0 +1,60 @@
+{
+  "slug": "vollkornbrot",
+  "name": {
+    "en": "German Wholegrain Rye (Vollkornbrot)",
+    "de": "Vollkornbrot",
+    "es": "Pan integral alemán (Vollkornbrot)",
+    "fr": "Pain complet allemand (Vollkornbrot)",
+    "native": "Vollkornbrot"
+  },
+  "aliases": ["whole grain rye", "Roggenvollkornbrot"],
+  "description": {
+    "en": "A dense, dark German pan loaf of wholegrain rye, seeds and sourdough. Almost no crumb holes, enormous flavor, it slices thin, keeps for a week and gets better by day three.",
+    "de": "Ein dichtes, dunkles Kastenbrot aus Roggenvollkorn, Saaten und Sauerteig. Kaum Poren, dafür enorm viel Aroma, dünn aufgeschnitten, eine Woche haltbar, ab Tag drei am besten.",
+    "es": "Un pan de molde alemán denso y oscuro de centeno integral, semillas y masa madre. Miga cerrada y sabor enorme: se corta fino, dura una semana y mejora al tercer día.",
+    "fr": "Un pain moulé allemand dense et sombre au seigle complet, aux graines et au levain. Mie serrée, saveur immense, il se tranche finement, se garde une semaine et s'améliore dès le troisième jour."
+  },
+  "origin": { "country": "DE", "region": "Germany-wide, strongest in the north", "note": "Protected term in Germany: Vollkornbrot must be at least 90% wholegrain." },
+  "leaven": "sourdough",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 85,
+    "saltPct": 2,
+    "prefermentedFlourPct": 40,
+    "flours": [
+      { "type": "rye-whole", "pct": 90 },
+      { "type": "rye", "pct": 10 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:rye-whole", "grams": 450, "note": "coarse rye meal (Roggenschrot)" },
+    { "key": "flour:rye", "grams": 50 },
+    { "key": "water", "grams": 425, "note": "warm, ~35°C" },
+    { "key": "sourdough-starter", "grams": 50, "note": "active rye starter" },
+    { "key": "salt", "grams": 10 },
+    { "key": "sunflower-seeds", "grams": 100, "note": "toasted" },
+    { "key": "flax-seeds", "grams": 50, "note": "soaked overnight" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1100, "shape": "pullman/tin loaf" },
+  "time": { "totalMin": 1740, "activeMin": 35, "bulkMin": 720, "proofMin": 120, "bakeMin": 75, "overnight": true },
+  "bake": { "tempC": 220, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["earthy", "sour", "nutty", "malty"],
+  "purposes": ["everyday", "sandwich", "breakfast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 90 },
+  "keeping": { "freshDays": 7, "freezes": true, "note": "Wrap in linen; wait 24h before the first slice or the crumb smears." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Sourdough & soaker", "summary": "The evening before: stir 200 g rye meal, 200 g water and 50 g starter into a sourdough; soak the flax seeds in 50 g water. Rest both overnight at room temperature (10–12 h)." },
+    { "title": "Mix", "summary": "Combine sourdough, soaker, remaining flour and water, salt and toasted sunflower seeds into a heavy, clay-like paste. No kneading, rye has no gluten network to develop; just mix thoroughly." },
+    { "title": "Bulk rest", "summary": "Rest the dough 30–45 min covered so the meal fully hydrates." },
+    { "title": "Pan & proof", "summary": "Pack into a greased tin, smooth the top with wet hands, dust with rye and proof ~2 h at warm room temperature until small cracks show and it nears the rim." },
+    { "title": "Bake", "summary": "Bake at 220°C for 15 min, then 200°C for about 60 min to a core temperature of 96–98°C. Bold bake, the dark crust is flavor." },
+    { "title": "Wait", "summary": "Cool completely, then rest wrapped for a full day before slicing; the crumb needs it to set." }
+  ],
+  "source": { "url": "https://www.ploetzblog.de/rezepte", "site": "Plötzblog", "author": "Lutz Geißler (style reference)", "retrieved": "2026-07-17", "adaptation": "Composite of classic German home-baking ratios; simplified one-stage sourdough." },
+  "tags": ["schrotbrot", "seeded"]
+}

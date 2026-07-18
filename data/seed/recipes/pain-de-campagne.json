@@ -1,0 +1,58 @@
+{
+  "slug": "pain-de-campagne",
+  "name": {
+    "en": "Pain de Campagne (French Country Bread)",
+    "de": "Pain de Campagne (französisches Landbrot)",
+    "es": "Pain de campagne (pan de campo francés)",
+    "fr": "Pain de campagne",
+    "native": "Pain de Campagne"
+  },
+  "aliases": ["country bread", "pain paysan"],
+  "description": {
+    "en": "The rustic everyday loaf of French home baking: part T80 country flour, a touch of whole rye, and a genuine overnight levain. Darker and more open than a baguette, with a mellow tang and a thick, hearty crust.",
+    "de": "Das rustikale Alltagsbrot der französischen Hausbäckerei: teils Landmehl T80, ein Schuss Roggenvollkorn und ein echter über Nacht geführter Sauerteig. Dunkler und offenporiger als ein Baguette, mit mildem Säurenote und dicker, herzhafter Kruste.",
+    "es": "La hogaza rústica cotidiana de la panadería casera francesa: harina de campo T80, un toque de centeno integral y un auténtico levain de toda la noche. Más oscura y abierta que una baguette, con un dejo ácido suave y una corteza gruesa y contundente.",
+    "fr": "La miche rustique du quotidien à la française : farine de campagne T80, une pointe de seigle complet et un vrai levain poussé toute la nuit. Plus sombre et plus alvéolée qu'une baguette, avec une acidité douce et une croûte épaisse et généreuse."
+  },
+  "origin": { "country": "FR", "region": "national, rural tradition", "note": "A catch-all term rather than one fixed recipe; every region and every boulangerie has its own blend of country flour, rye and levain." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 66,
+    "saltPct": 1.8,
+    "prefermentedFlourPct": 10,
+    "flours": [
+      { "type": "wheat-white", "pct": 90 },
+      { "type": "rye-whole", "pct": 10 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 396, "note": "T80 country flour" },
+    { "key": "flour:rye-whole", "grams": 45, "note": "for the overnight levain" },
+    { "key": "water", "grams": 292 },
+    { "key": "sourdough-starter", "grams": 9, "note": "active chef to build the levain" },
+    { "key": "salt", "grams": 8 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 600, "shape": "round boule" },
+  "time": { "totalMin": 1260, "activeMin": 30, "bulkMin": 180, "proofMin": 90, "bakeMin": 40, "overnight": true },
+  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["wheaty", "tangy", "earthy"],
+  "purposes": ["everyday", "table", "sandwich"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 10 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Keeps noticeably better than a plain white loaf thanks to the levain and rye." },
+  "equipment": ["banneton", "baking-stone"],
+  "method": [
+    { "title": "Build the levain", "summary": "The evening before, mix a spoon of active starter with the rye flour and water; leave to ripen overnight at room temperature." },
+    { "title": "Mix", "summary": "The next day, combine the T80 flour, water and salt with the ripe levain; knead by hand or machine until smooth." },
+    { "title": "Bulk ferment", "summary": "Rest about 3 hours at room temperature, folding once partway through." },
+    { "title": "Shape", "summary": "Shape into a tight round and set seam-up in a floured banneton." },
+    { "title": "Proof", "summary": "Let rise about 90 minutes until visibly puffy." },
+    { "title": "Bake", "summary": "Score, then bake hot with steam before easing the temperature down to finish through." }
+  ],
+  "source": { "url": "https://tutorial.painaulevain.fr/knowledge-base/votre-premier-pain-de-campagne-au-levain/", "site": "Pain au Levain (tutorial)", "retrieved": "2026-07-17", "adaptation": "Levain's own flour and water folded into the total baker's percentages per Panarium convention." },
+  "tags": ["levain", "rustic"]
+}

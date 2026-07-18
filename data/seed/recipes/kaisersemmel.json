@@ -1,0 +1,63 @@
+{
+  "slug": "kaisersemmel",
+  "name": {
+    "en": "Viennese Kaiser Roll",
+    "de": "Kaisersemmel",
+    "es": "Panecillo vienés Kaisersemmel",
+    "fr": "Petit pain viennois Kaisersemmel",
+    "native": "Kaisersemmel"
+  },
+  "aliases": ["Kaiser roll", "Vienna roll", "Handsemmel", "Wiener Kaisersemmel"],
+  "description": {
+    "en": "Vienna's iconic breakfast roll, its crust folded by hand into a five-point star before baking. A long, cool preferment builds flavor in an otherwise lean dough, giving a crackling crust and a mild, airy crumb that toasts beautifully.",
+    "de": "Wiens berühmtes Frühstücksbrötchen mit der von Hand gefalteten Fünf-Stern-Kruste. Ein langer, kühler Vorteig gibt dem sonst mageren Teig sein Aroma – reschen Glanz außen, helle, luftige Krume innen.",
+    "es": "El icónico panecillo vienés de desayuno, con su corteza plegada a mano en forma de estrella de cinco puntas. Una larga prefermentación en frío aporta sabor a esta masa magra, dejando una corteza crujiente y una miga clara y ligera.",
+    "fr": "Le petit pain viennois emblématique du petit-déjeuner, à la croûte pliée à la main en étoile à cinq pointes. Une longue préfermentation au frais développe l'arôme de cette pâte pourtant maigre, pour une croûte craquante et une mie claire et légère."
+  },
+  "origin": {
+    "country": "AT",
+    "region": "Vienna",
+    "note": "A Viennese bakery classic since the 18th–19th century, since spread across the whole German-speaking world as a standard breakfast roll."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 57.7,
+    "saltPct": 1.6,
+    "prefermentedFlourPct": 42.5,
+    "yeastPct": 0.7,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 499, "note": "Type 550" },
+    { "key": "water", "grams": 288, "note": "split between preferment and dough" },
+    { "key": "fresh-yeast", "grams": 10.2 },
+    { "key": "salt", "grams": 8.1 },
+    { "label": { "en": "malt flour (inactive)", "de": "inaktives Malzmehl", "es": "harina de malta (inactiva)", "fr": "farine de malt (inactive)" }, "grams": 5, "note": "for crust color and flavor; can be omitted" }
+  ],
+  "yield": { "count": 9, "pieceGrams": 90, "shape": "hand-folded five-point star roll" },
+  "time": { "totalMin": 912, "activeMin": 25, "bulkMin": 90, "proofMin": 62, "bakeMin": 25, "overnight": true },
+  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["mild", "wheaty", "yeasty"],
+  "purposes": ["breakfast", "sandwich", "everyday"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1.5, "freezes": true, "note": "Best the day it's baked; the thin crust softens fast. Refresh in a hot oven a few minutes, or freeze same-day." },
+  "equipment": ["baking-stone"],
+  "method": [
+    { "title": "Build the preferment", "summary": "The evening before, stir flour, water and a little yeast into a loose, wet preferment. Cover and let it ripen about 12 hours at room temperature, this does most of the flavor-building work." },
+    { "title": "Mix the dough", "summary": "Combine the ripened preferment with the remaining flour, water, salt and yeast. Knead to a smooth, elastic dough, lean and firm, with no fat or sugar to soften it." },
+    { "title": "Bulk ferment with folds", "summary": "Let the dough rise about 90 minutes at room temperature, folding it firmly two or three times in the first half to strengthen the gluten and even out fermentation." },
+    { "title": "Divide and rest", "summary": "Divide into nine 90 g pieces, round each one, and let them rest twice, seam-side down, so the dough relaxes enough to shape without tearing." },
+    { "title": "Fold the star", "summary": "Flatten each piece in coarse rye flour and fold it by hand into the traditional five-lobed kaiser pattern, tucking each fold under the last so the top splits into points as it bakes." },
+    { "title": "Proof briefly", "summary": "Proof seam-side down on a floured cloth for 20–25 minutes, then flip right-side up onto the baking sheet and let the surface dry uncovered for 10 minutes, this is what gives the crust its shine and crackle." },
+    { "title": "Bake with steam", "summary": "Bake at high heat with a burst of steam, then vent and finish at a slightly lower temperature until deep gold, about 25 minutes total. Cool briefly before the first bite." }
+  ],
+  "source": { "url": "https://www.ploetzblog.de/rezepte/wiener-kaisersemmel/id=627a849d05e37f4049785e91", "site": "Plötzblog", "author": "Lutz Geißler (style reference)", "retrieved": "2026-07-17", "adaptation": "Simplified from a professional 1931-style Polish-preferment formula; scaled to a home-bakeable overnight schedule, malt flour treated as optional." },
+  "tags": ["viennese", "hand-folded"]
+}

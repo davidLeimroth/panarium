@@ -1,0 +1,63 @@
+{
+  "slug": "coco-bread",
+  "name": {
+    "en": "Coco Bread",
+    "de": "Coco Bread (jamaikanisches Kokosbrot)",
+    "es": "Coco bread (pan de coco jamaicano)",
+    "fr": "Coco bread (pain à la noix de coco jamaïcain)"
+  },
+  "aliases": ["coco roll"],
+  "description": {
+    "en": "A soft, faintly sweet Jamaican roll enriched with coconut milk and butter, rolled thin, folded into a half-moon, and baked until tender. Split it open while warm for its most famous job: the pocket for a Jamaican beef patty.",
+    "de": "Ein weiches, leicht süßes jamaikanisches Brötchen, mit Kokosmilch und Butter angereichert, dünn ausgerollt, zu einem Halbmond gefaltet und weich gebacken. Warm aufgeklappt übernimmt es seine berühmteste Aufgabe: die Tasche für eine jamaikanische Beef Patty.",
+    "es": "Un panecillo jamaicano suave y algo dulce, enriquecido con leche de coco y mantequilla, estirado fino, doblado en media luna y horneado hasta quedar tierno. Se abre caliente para cumplir su función más famosa: el bolsillo de una empanada jamaicana de carne.",
+    "fr": "Un petit pain jamaïcain moelleux et légèrement sucré, enrichi de lait de coco et de beurre, étalé fin, plié en demi-lune et cuit jusqu'à devenir tendre. On l'ouvre chaud pour son rôle le plus célèbre : la poche d'un chausson à la viande jamaïcain (patty)."
+  },
+  "origin": {
+    "country": "JM",
+    "region": "nationwide",
+    "note": "Likely developed during the colonial plantation era by enslaved African and indentured Chinese and Indian laborers; today it's the classic wrapper for a Jamaican beef patty."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 51,
+    "saltPct": 1.1,
+    "sugarPct": 4.4,
+    "fatPct": 26,
+    "yeastPct": 1.3,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 563 },
+    { "key": "sugar", "grams": 25 },
+    { "key": "salt", "grams": 6 },
+    { "key": "instant-yeast", "grams": 8, "note": "quick-rise yeast" },
+    { "label": { "en": "coconut milk", "de": "Kokosmilch", "es": "leche de coco", "fr": "lait de coco" }, "grams": 397, "note": "unsweetened, warmed" },
+    { "key": "butter", "grams": 57, "note": "melted, divided between the dough and brushing" }
+  ],
+  "yield": { "count": 12, "pieceGrams": 88, "shape": "folded half-moon roll" },
+  "time": { "totalMin": 135, "activeMin": 30, "bulkMin": 75, "proofMin": 10, "bakeMin": 18, "overnight": false },
+  "bake": { "tempC": 191, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "buttery", "rich", "mild"],
+  "purposes": ["street-food", "sandwich", "snack"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fresh and still warm, split open for a patty; freezes and reheats well for a couple of months." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Combine most of the flour with sugar, salt and yeast, then stir in warm coconut milk and melted butter to a soft, sticky dough." },
+    { "title": "Knead", "summary": "Knead in the remaining flour on a floured surface until smooth, about 10 minutes." },
+    { "title": "First rise", "summary": "Cover and let double in size, 60-90 minutes." },
+    { "title": "Roll and butter", "summary": "Roll the dough thin, cut into squares, and brush each with melted butter." },
+    { "title": "Fold", "summary": "Fold each square over on itself and trim into a half-moon shape." },
+    { "title": "Rest and bake", "summary": "Brush the tops with more butter, let rest 10 minutes, then bake until golden." }
+  ],
+  "source": { "url": "https://www.196flavors.com/jamaica-coco-bread/", "site": "196 Flavors", "retrieved": "2026-07-17", "adaptation": "Coconut milk's water and fat split estimated from typical canned coconut milk, since it isn't among the taxonomy's defined conversions." },
+  "tags": ["jamaican-patty", "coconut"]
+}

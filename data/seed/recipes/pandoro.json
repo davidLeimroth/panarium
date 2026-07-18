@@ -1,0 +1,76 @@
+{
+  "slug": "pandoro",
+  "name": {
+    "en": "Pandoro (Veronese Christmas Star Bread)",
+    "de": "Pandoro (Veroneser Weihnachtsstern)",
+    "es": "Pandoro (pan navideño de Verona)",
+    "fr": "Pandoro (brioche étoilée de Vérone)",
+    "native": "Pandoro"
+  },
+  "aliases": ["Pan d'oro", "Verona Christmas bread", "golden bread"],
+  "description": {
+    "en": "Verona's Christmas centerpiece: a towering star-shaped loaf of butter-rich egg dough, gold throughout, with no candied fruit to distract from its vanilla scent. Sliced into eight-point stars and dusted heavily with powdered sugar for Christmas Eve.",
+    "de": "Veronas Weihnachtsstern: ein hoher, sternförmiger Kuchen aus butterreichem Eierteig, golden bis in die Krume, ganz ohne kandierte Früchte. In Sternscheiben geschnitten und dick mit Vanille-Puderzucker bestäubt, krönt er den Heiligabend.",
+    "es": "La estrella navideña de Verona: un pan alto en forma de estrella de ocho puntas, de masa riquísima en huevo y mantequilla, sin fruta confitada. Cortado en rodajas estrelladas y cubierto de azúcar glas con vainilla, corona la Nochebuena.",
+    "fr": "La star de Noël véronaise : une brioche haute en étoile à huit branches, dorée dedans comme dehors, sans aucun fruit confit. Tranchée en étoiles et généreusement poudrée de sucre vanillé, elle clôt en douceur le réveillon italien."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Verona, Veneto",
+    "note": "Created in 1894 by Veronese pastry chef Domenico Melegatti, who patented the eight-point star mold; it's now Italy's second Christmas bread after panettone."
+  },
+  "leaven": "yeast",
+  "family": "sweet-loaf",
+  "formula": {
+    "hydrationPct": 59.5,
+    "saltPct": 0.7,
+    "sugarPct": 34.4,
+    "fatPct": 40,
+    "prefermentedFlourPct": 22.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 425, "note": "95 g in the overnight starter, 330 g in the main dough" },
+    { "key": "water", "grams": 60, "note": "lukewarm, for the starter" },
+    { "key": "active-dry-yeast", "grams": 11, "note": "about 2 g in the starter, 9 g in the main dough" },
+    { "key": "sugar", "grams": 104, "note": "4 g in the starter, 100 g in the main dough" },
+    { "key": "salt", "grams": 3, "note": "in the starter only" },
+    { "key": "milk", "grams": 120, "note": "whole milk, lukewarm" },
+    { "key": "egg-yolk", "grams": 80, "note": "about 4 large yolks" },
+    { "key": "butter", "grams": 170, "note": "unsalted, softened, worked in gradually" },
+    { "key": "honey", "grams": 42 },
+    { "key": "vanilla", "grams": 30, "note": "vanilla bean paste, or 2 tsp extract" },
+    { "key": "lemon-zest", "grams": 3, "note": "zest of 1 lemon" },
+    { "key": "sugar", "grams": 30, "note": "powdered sugar with vanilla, for dusting after baking" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 950, "shape": "8-point star (Melegatti-style pandoro mold)" },
+  "time": { "totalMin": 1365, "activeMin": 55, "bulkMin": 180, "proofMin": 90, "bakeMin": 60, "overnight": true },
+  "bake": { "tempC": 163, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 4,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["buttery", "sweet", "rich", "honeyed"],
+  "purposes": ["celebration", "holiday", "dessert"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Wrap airtight in foil or a bag; without candied fruit to hold moisture the crumb dries a little faster than panettone." },
+  "equipment": ["stand-mixer", "loaf-pan"],
+  "method": [
+    { "title": "Overnight starter", "summary": "The evening before, stir water, a little sugar, yeast and flour into a firm dough. Let it double at room temperature, then refrigerate overnight to build flavor." },
+    { "title": "Temper and mix", "summary": "Let the chilled starter lose its chill, then combine it with warmed milk, yeast, flour, sugar and egg yolks. Knead into a smooth, elastic dough." },
+    { "title": "Work in the butter", "summary": "With the mixer running, add softened butter a little at a time along with the honey, vanilla and lemon zest, letting each addition disappear before the next so the gluten stretches around the fat instead of tearing." },
+    { "title": "Bulk rise", "summary": "Cover and let the rich dough triple in bulk somewhere warm; the sugar and butter slow the yeast, so this takes several hours." },
+    { "title": "Pan and proof", "summary": "Butter and flour the star mold thoroughly so every point releases cleanly, drop in the dough, and let it rise until it crests just above the rim." },
+    { "title": "Bake", "summary": "Bake at a moderate temperature, lowering the heat partway through, until deep gold and a skewer through the center comes out clean." },
+    { "title": "Cool and dust", "summary": "Cool briefly in the mold, then turn the loaf out fully before slicing it into star-shaped discs and burying them in vanilla-scented powdered sugar just before serving." }
+  ],
+  "source": {
+    "url": "https://www.daringgourmet.com/pandoro-recipe/",
+    "site": "The Daring Gourmet",
+    "retrieved": "2026-07-17",
+    "adaptation": "Paraphrased the starter-then-main-dough method; cross-checked the salt level and gradual butter incorporation against a second traditional recipe."
+  },
+  "tags": ["christmas", "star-mold", "veneto", "enriched-dough"]
+}

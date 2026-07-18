@@ -1,0 +1,142 @@
+{
+  "slug": "pan-de-alfacar",
+  "name": {
+    "en": "Pan de Alfacar",
+    "de": "Pan de Alfacar",
+    "es": "Pan de Alfacar",
+    "fr": "Pan de Alfacar"
+  },
+  "description": {
+    "en": "Granada's IGP village bread, baked exclusively on the stone floor of wood ovens fed with local mountain timber; no other oven type is permitted. Alfacar's spring water is credited for its character, giving a mild sourdough tang under a thick, crackling crust.",
+    "de": "Granadas g.g.A.-Dorfbrot, ausschließlich auf dem Steinboden von mit lokalem Bergholz befeuerten Holzöfen gebacken, kein anderer Ofentyp ist erlaubt. Dem Quellwasser von Alfacar wird sein Charakter zugeschrieben: milder Sauerteig-Biss unter dicker, krachender Kruste.",
+    "es": "El pan de pueblo con IGP de Granada, horneado solo sobre la piedra de hornos de leña con madera de la sierra local; no se permite otro tipo de horno. Al agua de manantial de Alfacar se le atribuye su carácter: un toque ácido suave bajo una corteza gruesa y crujiente.",
+    "fr": "Le pain de village IGP de Grenade, cuit uniquement sur la pierre de fours à bois alimentés par le bois local de la sierra; aucun autre four n'est autorisé. L'eau de source d'Alfacar lui donnerait son caractère: une pointe acidulée douce sous une croûte épaisse et croustillante."
+  },
+  "origin": {
+    "country": "ES",
+    "region": "Alfacar and Víznar, Granada, Andalusia",
+    "note": "IGP since 2011; the disciplinare permits baking only directly on a wood-fired oven's stone floor, no other oven type."
+  },
+  "leaven": "hybrid",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 60,
+    "saltPct": 1.6,
+    "prefermentedFlourPct": 9,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 300,
+      "note": "mineral or spring water"
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 75,
+      "note": "roughly 60% hydration"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 5
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 889,
+    "shape": "round hogaza or ring-shaped rosca; also small bollos"
+  },
+  "time": {
+    "totalMin": 265,
+    "activeMin": 25,
+    "bulkMin": 165,
+    "proofMin": 30,
+    "bakeMin": 35,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "stone"
+  },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": [
+    "tangy",
+    "wheaty",
+    "earthy"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "A wood-fired crust and a mild sourdough tang keep it in good shape for a few days past baking."
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine water, starter and yeast by hand, then work in the flour until a rough dough forms."
+    },
+    {
+      "title": "Aerate",
+      "summary": "Knead until elastic, dividing the dough into pieces and reuniting them to work in air, then knead in the salt dissolved in a little water."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let rise 2.5 to 4 hours at around 21°C until doubled."
+    },
+    {
+      "title": "Shape",
+      "summary": "Shape into a round hogaza, a ring-shaped rosca, or small bollos depending on the format wanted."
+    },
+    {
+      "title": "Bake with steam",
+      "summary": "Load into a wood-fired, stone-floored oven preheated to 250°C, add steam, then step the temperature down from 230°C to 210°C over about 35 minutes."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest on a rack before slicing so the crust and crumb finish setting."
+    }
+  ],
+  "source": {
+    "url": "https://www.vadepanes.com/panes/pan-de-alfacar.html",
+    "site": "VadePanes",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams as published for a 1 kg loaf; hydration and starter share line up with the IGP's own published minimums (55-60% hydration, at least 10% masa madre)."
+  },
+  "tags": [
+    "igp",
+    "wood-fired"
+  ]
+}

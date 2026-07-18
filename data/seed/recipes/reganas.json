@@ -1,0 +1,148 @@
+{
+  "slug": "reganas",
+  "name": {
+    "en": "Regañás",
+    "de": "Regañás",
+    "es": "Regañás",
+    "fr": "Regañás"
+  },
+  "description": {
+    "en": "Andalusia's paper-thin cracker-bread, said to trace to ship galleys where sailors were doled out thin, dry dough scraps 'through gritted teeth' (regañadientes), hence the name. Laminated, ball-proofed, rolled to a single millimeter and baked bone-dry for gazpacho and salmorejo.",
+    "de": "Andalusiens hauchdünnes Cracker-Brot, dessen Name von 'regañadientes' (zähneknirschend) stammen soll, so wurden dünne, trockene Teigreste einst an Matrosen in Schiffsküchen verteilt. Laminiert, gereift, dünn ausgerollt und knochentrocken gebacken, ideal zu Gazpacho.",
+    "es": "El pan-galleta finísimo de Andalucía, cuyo nombre se atribuye a 'regañadientes', como se repartían antaño estas masas secas entre la marinería en las cocinas de los barcos. Laminada, reposada en bolitas y estirada a un milímetro, se hornea hasta quedar seca, ideal con gazpacho.",
+    "fr": "Le pain-cracker très fin d'Andalousie, dont le nom viendrait de 'regañadientes' (les dents serrées), façon dont ces pâtes sèches étaient jadis distribuées aux marins dans les cuisines de bateaux. Laminée, reposée en boules, étirée à un millimètre, cuite jusqu'à devenir sèche."
+  },
+  "origin": {
+    "country": "ES",
+    "region": "Andalusia",
+    "note": "Said to trace back to ship galleys, where thin, dry dough scraps were rationed to sailors 'through gritted teeth' (a regañadientes), the likely source of the name."
+  },
+  "leaven": "hybrid",
+  "family": "crispbread",
+  "formula": {
+    "hydrationPct": 51,
+    "saltPct": 1.6,
+    "prefermentedFlourPct": 18,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 65,
+      "note": "30 g wheat flour plus 35 g strong flour, in the starter"
+    },
+    {
+      "key": "water",
+      "grams": 35,
+      "note": "in the starter"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 0.3,
+      "note": "in the starter"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 300,
+      "note": "250 g wheat flour plus 50 g strong flour, in the main dough"
+    },
+    {
+      "key": "water",
+      "grams": 150,
+      "note": "in the main dough"
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    }
+  ],
+  "yield": {
+    "count": 14,
+    "pieceGrams": 40,
+    "shape": "paper-thin cracker oval, about 1 mm thick, fork-docked"
+  },
+  "time": {
+    "totalMin": 983,
+    "activeMin": 40,
+    "bulkMin": 30,
+    "proofMin": 180,
+    "bakeMin": 13,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "sheet"
+  },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": [
+    "mild",
+    "wheaty",
+    "toasty"
+  ],
+  "purposes": [
+    "snack",
+    "side",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 30,
+    "freezes": true,
+    "note": "Baked bone-dry, so it keeps crisp in a tin for weeks, the way any good cracker-bread should."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Build the starter",
+      "summary": "Mix flour, water and a trace of yeast into a firm starter and let it ferment at least 12 hours."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine the starter with the remaining flour, water and salt; knead 5 minutes, rest 10 minutes, then knead 5 minutes more."
+    },
+    {
+      "title": "Laminate",
+      "summary": "Roll the dough to about 1 cm thick, fold into thirds, and repeat this rolling-and-folding three times until silky and refined."
+    },
+    {
+      "title": "Divide and proof",
+      "summary": "Portion into 40 g balls and let them proof about 3 hours."
+    },
+    {
+      "title": "Roll paper-thin",
+      "summary": "Stretch each ball with a rolling pin into a 1 mm-thick oval and prick all over with a fork so it bakes flat and even."
+    },
+    {
+      "title": "Bake dry",
+      "summary": "Bake at 190°C for 12-14 minutes per batch until pale gold and completely crisp, flipping if browning unevenly."
+    }
+  ],
+  "source": {
+    "url": "https://www.directoalpaladar.com/recetas-de-panes/receta-reganas-caseras-opcion-casera-para-esta-torta-pan-fina-crujiente",
+    "site": "Directo al Paladar",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams as published; this version omits olive oil, which some modern regañás recipes add and which is noted here only as a common variant."
+  },
+  "tags": [
+    "cracker-bread",
+    "laminated"
+  ]
+}

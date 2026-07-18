@@ -1,0 +1,59 @@
+{
+  "slug": "rieska",
+  "name": {
+    "en": "Finnish Barley Flatbread (Rieska)",
+    "de": "Rieska (finnisches Gersten-Fladenbrot)",
+    "es": "Pan plano de cebada finlandés (Rieska)",
+    "fr": "Galette d'orge finlandaise (Rieska)",
+    "native": "Rieska"
+  },
+  "aliases": ["ohrarieska", "barley rieska"],
+  "description": {
+    "en": "An everyday Lapland flatbread of barley flour lifted with a little baking powder, mixed to a thick batter and baked flat in minutes. No yeast, no wait, just warm, mildly nutty bread cut into wedges and eaten with butter.",
+    "de": "Ein alltägliches Fladenbrot aus Lappland, aus Gerstenmehl mit etwas Backpulver gelockert, zu einem dicken Teig verrührt und in Minuten flach gebacken. Keine Hefe, keine Wartezeit – nur warmes, mild-nussiges Brot, in Keile geschnitten und mit Butter gegessen.",
+    "es": "Un pan plano cotidiano de Laponia hecho con harina de cebada, con un poco de levadura química, mezclado hasta formar una masa espesa y horneado plano en minutos. Sin levadura, sin espera: solo pan cálido y suavemente a frutos secos, cortado en cuñas y comido con mantequilla.",
+    "fr": "Une galette quotidienne de Laponie à base de farine d'orge, à peine relevée de levure chimique, mélangée en une pâte épaisse et cuite à plat en quelques minutes. Pas de levain, pas d'attente, juste un pain chaud, légèrement noisette, coupé en quartiers et mangé avec du beurre."
+  },
+  "origin": { "country": "FI", "region": "Lapland and northern Finland", "note": "One of several rieska variants named for their flour, barley (ohrarieska), rye (ruisrieska) or potato (perunarieska)." },
+  "leaven": "chemical",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 75,
+    "saltPct": 1.5,
+    "fatPct": 12.5,
+    "flours": [
+      { "type": "barley", "pct": 75 },
+      { "type": "wheat-white", "pct": 25 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:barley", "grams": 300 },
+    { "key": "flour:wheat-white", "grams": 100 },
+    { "key": "baking-powder", "grams": 8 },
+    { "key": "salt", "grams": 6 },
+    { "key": "milk", "grams": 300 },
+    { "key": "butter", "grams": 50, "note": "melted" },
+    { "key": "egg", "grams": 50 }
+  ],
+  "yield": { "count": 6, "pieceGrams": 120, "shape": "wedge cut from one large flatbread round" },
+  "time": { "totalMin": 34, "activeMin": 15, "bakeMin": 19 },
+  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "difficulty": 1,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["nutty", "wheaty", "mild", "savory"],
+  "purposes": ["breakfast", "everyday", "snack", "soup-companion"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 75 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm the day it's baked; wrap and reheat, or freeze wedges for later." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Whisk barley flour, wheat flour, baking powder and salt, then stir in milk, melted butter and egg to a thick, smooth batter." },
+    { "title": "Spread", "summary": "Pour onto a greased sheet pan and spread into a round about 30cm across." },
+    { "title": "Bake", "summary": "Bake in a hot oven until firm and golden brown, 18-20 minutes." },
+    { "title": "Cool briefly", "summary": "Rest a few minutes on a rack." },
+    { "title": "Cut and serve", "summary": "Slice into wedges and serve warm with butter, cheese or smoked fish." }
+  ],
+  "source": { "url": "https://www.snapcalorie.com/recipes/ohrarieska_finnish_barley_flatbread.html", "site": "SnapCalorie", "retrieved": "2026-07-17" },
+  "tags": ["lapland", "quick-bread"]
+}

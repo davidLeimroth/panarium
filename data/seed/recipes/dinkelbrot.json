@@ -1,0 +1,54 @@
+{
+  "slug": "dinkelbrot",
+  "name": {
+    "en": "Spelt Sourdough Bread (Dinkelbrot)",
+    "de": "Dinkelbrot",
+    "es": "Pan de espelta alemán (Dinkelbrot)",
+    "fr": "Pain d'épeautre allemand (Dinkelbrot)"
+  },
+  "aliases": ["spelt bread", "pure spelt loaf"],
+  "description": {
+    "en": "A pure spelt sourdough loaf for bakers who find wheat too heavy but still want real gluten structure. Spelt's fragile gluten wants a gentler hand, fewer folds, careful shaping, and rewards it with a nutty, faintly sweet crumb.",
+    "de": "Ein reines Dinkelsauerteigbrot für alle, denen Weizen zu schwer ist, die aber nicht auf ein echtes Klebergerüst verzichten wollen. Dinkels empfindliches Gluten braucht sanftere Führung – weniger Falten, vorsichtiges Formen – und dankt es mit nussiger, leicht süßlicher Krume.",
+    "es": "Un pan de masa madre de espelta pura para quienes encuentran el trigo demasiado pesado pero no quieren renunciar al gluten. El gluten frágil de la espelta pide una mano más suave, menos pliegues, un formado cuidadoso, y responde con una miga de sabor a nuez, ligeramente dulce.",
+    "fr": "Un pain au levain d'épeautre pur pour qui trouve le blé trop lourd sans vouloir renoncer au gluten. Le gluten fragile de l'épeautre demande une main plus douce, moins de rabats, un façonnage soigné, et récompense par une mie légèrement sucrée aux notes de noisette."
+  },
+  "origin": { "country": "DE", "region": "Southern Germany, Baden-Württemberg", "note": "Spelt is a popular choice for those who find modern bread wheat harder to digest, though it is a wheat relative and still contains gluten." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 2.4,
+    "prefermentedFlourPct": 15,
+    "flours": [
+      { "type": "spelt", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:spelt", "grams": 500, "note": "light spelt flour, type 630" },
+    { "key": "water", "grams": 325, "note": "~28°C" },
+    { "key": "salt", "grams": 12 },
+    { "key": "sourdough-starter", "grams": 75, "note": "active spelt starter" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 860, "shape": "round hearth loaf (boule)" },
+  "time": { "totalMin": 1140, "activeMin": 25, "bulkMin": 300, "proofMin": 720, "bakeMin": 50, "overnight": true },
+  "bake": { "tempC": 220, "steam": true, "vessel": "dutch-oven" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["mild", "nutty", "tangy"],
+  "purposes": ["everyday", "sandwich", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Best within a few days; spelt crumb dries out faster than a rye sourdough." },
+  "equipment": ["banneton", "dutch-oven"],
+  "method": [
+    { "title": "Build the sourdough", "summary": "Refresh a firm spelt starter with more spelt flour and water and let it ferment about two hours in a warm spot until active." },
+    { "title": "Mix gently", "summary": "Fold the ripe sourdough into the remaining spelt flour and water; rest 30 minutes before working in the salt. Spelt's gluten is fragile, so mix gently rather than kneading hard." },
+    { "title": "Bulk ferment with folds", "summary": "Over about three hours, do a gentle stretch-and-fold every hour to build just enough strength without tearing the dough." },
+    { "title": "Shape and cold retard", "summary": "Shape into a round, place seam-up in a floured banneton, and let it mature overnight in the refrigerator, about 12 hours, for fuller flavor." },
+    { "title": "Bake covered then open", "summary": "Bake in a preheated Dutch oven, lid on for the first half to trap steam, then lid off so the crust can color and crisp." }
+  ],
+  "source": { "url": "https://www.eat-this.org/reines-dinkel-sauerteigbrot/", "site": "Eat This!", "retrieved": "2026-07-17" },
+  "tags": ["spelt", "wheat-alternative"]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "himbasha",
+  "name": {
+    "en": "Himbasha",
+    "de": "Himbasha",
+    "es": "Himbasha",
+    "fr": "Himbasha",
+    "native": "ሕምባሻ"
+  },
+  "aliases": ["hembesha", "ambasha", "Eritrean celebration bread"],
+  "description": {
+    "en": "A round, lightly sweet celebration bread from Eritrea and Ethiopia, scored on top in a decorative wheel before baking. Spiced with cardamom and enriched with butter or spiced niter kibbeh, it appears at weddings, holidays and church feast days.",
+    "de": "Ein rundes, leicht süßes Festbrot aus Eritrea und Äthiopien, vor dem Backen mit einem dekorativen Radmuster eingeritzt. Mit Kardamom gewürzt und mit Butter oder gewürztem Niter Kibbeh angereichert, erscheint es zu Hochzeiten, Feiertagen und Kirchenfesten.",
+    "es": "Un pan de fiesta redondo y ligeramente dulce de Eritrea y Etiopía, marcado en la superficie con un dibujo de rueda antes de hornear. Sazonado con cardamomo y enriquecido con mantequilla o niter kibbeh especiado, aparece en bodas, fiestas y celebraciones religiosas.",
+    "fr": "Un pain de fête rond et légèrement sucré d'Érythrée et d'Éthiopie, incisé en surface d'un motif de roue avant la cuisson. Parfumé à la cardamome et enrichi de beurre ou de niter kibbeh épicé, il apparaît aux mariages, fêtes et célébrations religieuses."
+  },
+  "origin": { "country": "ER", "region": "Eritrea and Ethiopia", "note": "Baked for weddings, holidays and other celebrations; the scored wheel pattern on top is decorative and varies by household. Closely related to the Ethiopian ambasha." },
+  "leaven": "yeast",
+  "family": "sweet-loaf",
+  "formula": {
+    "hydrationPct": 65.6,
+    "saltPct": 2.4,
+    "sugarPct": 8.9,
+    "fatPct": 15.1,
+    "yeastPct": 1.8,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 750 },
+    { "key": "water", "grams": 474, "note": "lukewarm, about 36°C" },
+    { "key": "active-dry-yeast", "grams": 13.5 },
+    { "key": "cardamom", "grams": 4, "note": "ground" },
+    { "key": "salt", "grams": 18 },
+    { "key": "sugar", "grams": 67, "note": "caster sugar" },
+    { "label": { "en": "nigella seeds", "de": "Schwarzkümmel", "es": "semillas de nigella", "fr": "graines de nigelle" }, "grams": 12, "note": "or black sesame seeds" },
+    { "key": "butter", "grams": 114, "note": "niter kibbeh (Ethiopian spiced clarified butter) or olive oil" },
+    { "key": "milk", "grams": 45, "note": "for the finishing glaze" },
+    { "key": "butter", "grams": 41, "note": "niter kibbeh or olive oil, for the finishing glaze" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 690, "shape": "flat round loaf, about 30 cm across" },
+  "time": { "totalMin": 180, "activeMin": 35, "bulkMin": 90, "proofMin": 10, "bakeMin": 30, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "spiced", "rich", "nutty"],
+  "purposes": ["celebration", "holiday", "table"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best the day or two after baking while soft; wrap well and freeze any extra loaf." },
+  "equipment": ["loaf-pan", "stand-mixer"],
+  "method": [
+    { "title": "Mix dry", "summary": "Combine flour, cardamom, sugar and nigella seeds in a bowl and make a well in the center." },
+    { "title": "Bloom yeast", "summary": "Add the yeast to the well with part of the water and let stand about 15 minutes." },
+    { "title": "Knead", "summary": "Work in the butter or niter kibbeh and the remaining water, then the salt, kneading to a soft, smooth dough." },
+    { "title": "First rise", "summary": "Cover and let rise in a warm, draft-free spot for about 90 minutes." },
+    { "title": "Shape", "summary": "Divide the dough in two, roll each piece into a wide round, and settle into greased round pans." },
+    { "title": "Rest and score", "summary": "Rest 10 minutes, then cut shallow concentric circles from the center outward to form a decorative wheel." },
+    { "title": "Glaze and bake", "summary": "Brush with milk and melted butter, then bake until deep golden brown." }
+  ],
+  "source": { "url": "https://www.196flavors.com/himbasha/", "site": "196 Flavors", "retrieved": "2026-07-18", "adaptation": "Cup/tablespoon quantities converted to grams with standard baking equivalents; niter kibbeh treated as butter for the hydration and fat math." },
+  "tags": ["celebration", "horn-of-africa", "scored-bread"]
+}

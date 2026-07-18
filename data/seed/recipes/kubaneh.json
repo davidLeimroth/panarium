@@ -1,0 +1,65 @@
+{
+  "slug": "kubaneh",
+  "name": {
+    "en": "Kubaneh",
+    "de": "Kubaneh",
+    "es": "Kubaneh",
+    "fr": "Kubaneh",
+    "native": "כובאנה"
+  },
+  "aliases": ["kubane", "koubaneh", "Yemenite pull-apart bread"],
+  "description": {
+    "en": "A rich, laminated pull-apart bread from Yemenite Jewish kitchens, baked slowly in a covered pan until deeply golden. The dough is started the evening before and served warm for Sabbath breakfast with grated tomato, hard-boiled eggs and hot zhoug sauce.",
+    "de": "Ein reichhaltiges, laminiertes Zupfbrot aus der jemenitisch-jüdischen Küche, langsam gedeckt gebacken bis es tief golden ist. Der Teig wird am Vorabend angesetzt und warm zum Sabbatfrühstück serviert, mit geriebener Tomate, gekochten Eiern und scharfer Zhoug-Sauce.",
+    "es": "Un pan rico y laminado para deshojar de la cocina judía yemenita, horneado despacio y tapado hasta quedar bien dorado. La masa se prepara la noche anterior y se sirve tibia en el desayuno de sabbat con tomate rallado, huevo duro y salsa zhoug picante.",
+    "fr": "Un pain riche et feuilleté à effeuiller, issu de la cuisine juive yéménite, cuit lentement à couvert jusqu'à devenir bien doré. La pâte est préparée la veille et servie tiède au petit-déjeuner du sabbat avec tomate râpée, oeuf dur et sauce zhoug relevée."
+  },
+  "origin": { "country": "YE", "region": "Yemenite Jewish communities, now centered in Israel", "note": "Carried to Israel by Yemenite Jewish immigrants from the 1950s onward; today it is baked far more in Israeli homes and bakeries than in Yemen itself." },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 65.4,
+    "saltPct": 1.8,
+    "sugarPct": 8.9,
+    "fatPct": 15.8,
+    "yeastPct": 2,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 450, "note": "bread flour" },
+    { "key": "water", "grams": 225 },
+    { "key": "sugar", "grams": 40 },
+    { "key": "salt", "grams": 8 },
+    { "key": "instant-yeast", "grams": 9 },
+    { "key": "egg", "grams": 80, "note": "1 whole egg plus 1 egg white" },
+    { "key": "vegetable-oil", "grams": 14 },
+    { "key": "butter", "grams": 57, "note": "softened, for laminating between folds" },
+    { "label": { "en": "nigella seeds", "de": "Schwarzkümmel", "es": "semillas de nigella", "fr": "graines de nigelle" }, "grams": 12 },
+    { "key": "egg-yolk", "grams": 17, "note": "for the egg wash before baking" }
+  ],
+  "yield": { "count": 12, "pieceGrams": 75, "shape": "pull-apart coil baked in a round pan" },
+  "time": { "totalMin": 240, "activeMin": 45, "bulkMin": 60, "proofMin": 60, "bakeMin": 30, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["buttery", "rich", "sweet", "yeasty"],
+  "purposes": ["breakfast", "table", "celebration"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best warm the day it is baked; wrap leftovers and reheat gently in foil to soften the layers again." },
+  "equipment": ["stand-mixer", "loaf-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Combine flour, sugar, yeast and salt, then add water, the egg and egg white; mix into a soft dough and work in the oil until smooth." },
+    { "title": "Bulk rise", "summary": "Cover and let the dough double in size, about 1 hour." },
+    { "title": "Laminate", "summary": "Divide into pieces and stretch each one thin with buttered fingertips. Dab with more butter, scatter nigella seeds, fold into thirds and roll into a tight coil." },
+    { "title": "Arrange", "summary": "Pack the coils cut-side up into a greased round pan, working from the center outward so they touch." },
+    { "title": "Final proof", "summary": "Cover and let rise until puffed, about 1 hour." },
+    { "title": "Bake", "summary": "Brush with egg yolk wash, scatter a few more nigella seeds, and bake until deeply golden on top." },
+    { "title": "Rest and pull apart", "summary": "Cool briefly in the pan before unmolding, then tear the coils apart to serve warm." }
+  ],
+  "source": { "url": "https://breadtopia.com/kubaneh-jewish-yemeni-bread/", "site": "Breadtopia", "retrieved": "2026-07-18", "adaptation": "Used the site's plain-yeast version rather than its sourdough option; egg and nigella seed weights converted from count/tablespoons to grams." },
+  "tags": ["shabbat", "pull-apart", "yemenite-jewish"]
+}

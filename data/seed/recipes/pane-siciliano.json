@@ -1,0 +1,151 @@
+{
+  "slug": "pane-siciliano",
+  "name": {
+    "en": "Sicilian Semolina Bread (Pane Siciliano)",
+    "de": "Sizilianisches Grießbrot (Pane Siciliano)",
+    "es": "Pan siciliano de sémola (Pane Siciliano)",
+    "fr": "Pain sicilien à la semoule (Pane Siciliano)",
+    "native": "Pane Siciliano"
+  },
+  "aliases": [
+    "mafalda",
+    "pane con la giuggiulena"
+  ],
+  "description": {
+    "en": "A deep-yellow durum loaf, thickly crusted in toasted sesame and traditionally shaped into a wavy 'mafalda' curve. Semola rimacinata gives it a nutty, faintly sweet crumb and a crust that shatters rather than bends: Sicily's everyday table bread.",
+    "de": "Ein tiefgelbes Hartweizenbrot, dick mit gerösteten Sesamsamen paniert und traditionell zur welligen 'Mafalda'-Form geformt. Der Hartweizengrieß gibt eine nussige, leicht süße Krume und eine Kruste, die eher splittert als sich biegt, Siziliens tägliches Tischbrot.",
+    "es": "Un pan amarillo intenso de sémola de trigo duro, cubierto de sésamo tostado y formado tradicionalmente en la característica curva ondulada 'mafalda'. La sémola rimacinata da una miga con sabor a nuez, algo dulce, y una corteza que se rompe en vez de doblarse.",
+    "fr": "Un pain jaune profond à la semoule de blé dur, généreusement enrobé de sésame grillé et façonné traditionnellement en vague 'mafalda'. La semoule rimacinata donne une mie aux notes de noisette, légèrement sucrée, et une croûte qui casse plutôt qu'elle ne plie."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Sicily",
+    "note": "Traditionally coated in toasted sesame (giuggiulena in Sicilian dialect) and shaped into the wavy 'mafalda' curve."
+  },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 2,
+    "fatPct": 4,
+    "prefermentedFlourPct": 50,
+    "flours": [
+      {
+        "type": "durum",
+        "pct": 100
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:durum",
+      "grams": 500,
+      "note": "semola rimacinata di grano duro"
+    },
+    {
+      "key": "water",
+      "grams": 325
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 3
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    },
+    {
+      "key": "olive-oil",
+      "grams": 20
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 15,
+      "note": "for the traditional coating, applied after dampening the shaped loaf"
+    }
+  ],
+  "yield": {
+    "count": 2,
+    "pieceGrams": 429,
+    "shape": "wavy S-shaped 'mafalda' loaf, coated in sesame"
+  },
+  "time": {
+    "totalMin": 480,
+    "activeMin": 30,
+    "bulkMin": 360,
+    "proofMin": 60,
+    "bakeMin": 20,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "pot"
+  },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": [
+    "nutty",
+    "toasty",
+    "wheaty"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Durum crumb keeps it from staling as fast as soft-wheat bread; the sesame crust softens first."
+  },
+  "equipment": [
+    "dutch-oven"
+  ],
+  "method": [
+    {
+      "title": "Starter",
+      "summary": "Dissolve the yeast in warm water and combine with a portion of the semolina; let it ferment about 3 hours at a warm 30°C until risen and bubbly."
+    },
+    {
+      "title": "Combine",
+      "summary": "Work the starter into the remaining semolina, water, salt and olive oil until a rough dough forms."
+    },
+    {
+      "title": "Fold instead of knead",
+      "summary": "Rather than one long knead, rest and fold the dough every 20-30 minutes over roughly 3 hours to build strength."
+    },
+    {
+      "title": "Shape and coat",
+      "summary": "Divide and shape into loaves, ideally the traditional S-curved mafalda; dampen the surface and roll it thickly in sesame seeds."
+    },
+    {
+      "title": "Proof",
+      "summary": "Let the shaped loaves rise until visibly puffed and airy."
+    },
+    {
+      "title": "Bake covered",
+      "summary": "Bake at 250°C in a covered pot for about 20 minutes for a shattering, seed-crusted shell."
+    }
+  ],
+  "source": {
+    "url": "https://www.alessiofarina.org/2020/11/06/pane-di-semola-rimacinata-siciliano/",
+    "site": "Alessio Farina",
+    "retrieved": "2026-07-17",
+    "adaptation": "Water averaged from the site's stated 300-350 ml range; the source flags its own process as experimental. Sesame coating and mafalda shaping reflect standard Sicilian practice."
+  },
+  "tags": [
+    "sesame",
+    "mafalda"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "brezel",
+  "name": {
+    "en": "Bavarian Lye Pretzel (Brezel)",
+    "de": "Laugenbrezel",
+    "es": "Pretzel de sosa bávaro (Brezel)",
+    "fr": "Bretzel bavarois à la lessive (Brezel)"
+  },
+  "aliases": ["pretzel", "Brezn", "Bretzel"],
+  "description": {
+    "en": "A soft yeasted knot dipped for seconds, right before baking, in a lye bath, that's what turns the crust deep mahogany, glossy and blistered. Scored down the belly and salted coarse, it bakes chewy and savory.",
+    "de": "Ein weicher Hefeknoten, der kurz vor dem Backen für Sekunden durch ein Laugenbad gezogen wird – daher die tiefbraune, glänzende, blasige Kruste. Am Bauch eingeschnitten und grob gesalzen, wird sie herzhaft-zäh gebacken.",
+    "es": "Un nudo blando de masa de levadura que, segundos antes de hornearse, se sumerge en un baño de sosa cáustica: de ahí su corteza de color caoba intenso, brillante y con ampollas. Cortado en el vientre y con sal gruesa, resulta sabroso y correoso.",
+    "fr": "Un nœud de pâte levée moelleuse, trempé quelques secondes avant cuisson dans un bain de lessive, d'où sa croûte brun acajou, brillante et cloquée. Entaillé sur le ventre et parsemé de gros sel, il cuit moelleux et salé."
+  },
+  "origin": { "country": "DE", "region": "Bavaria and Swabia (Baden-Württemberg)", "note": "The lye dip is what defines Laugengebäck as a category; without it the same dough would just be a plain roll." },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 51.5,
+    "saltPct": 1.9,
+    "fatPct": 7,
+    "prefermentedFlourPct": 48,
+    "yeastPct": 1.1,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 575, "note": "wheat flour type 550, split between pre-dough and main dough" },
+    { "key": "water", "grams": 290, "note": "cold, split between stages" },
+    { "key": "salt", "grams": 11 },
+    { "key": "fresh-yeast", "grams": 6.5 },
+    { "key": "butter", "grams": 40, "note": "or lard" }
+  ],
+  "yield": { "count": 10, "pieceGrams": 88, "shape": "classic hand-twisted pretzel knot" },
+  "time": { "totalMin": 820, "activeMin": 45, "bulkMin": 630, "proofMin": 120, "bakeMin": 14, "overnight": true },
+  "bake": { "tempC": 215, "steam": false, "vessel": "sheet" },
+  "difficulty": 4,
+  "crumb": "tight",
+  "crust": "blistered",
+  "flavors": ["savory", "buttery", "toasty", "malty"],
+  "purposes": ["snack", "street-food", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best the day it's baked; the lye crust turns leathery quickly. Refresh in a hot oven to re-crisp." },
+  "equipment": ["sheet-pan", "stand-mixer"],
+  "method": [
+    { "title": "Build a pre-dough", "summary": "The day before, mix flour, water, a little yeast and salt into a slack pre-dough (Vorteig) and let it ferment 8–12 hours at room temperature for depth of flavor." },
+    { "title": "Mix the final dough", "summary": "Combine the ripe pre-dough with more flour, water, yeast, salt and butter (or lard) into a firm, smooth dough, firmer than a typical bread dough, since it has to hold its shape through dipping." },
+    { "title": "Rest, then shape", "summary": "Let the dough rest briefly at room temperature, then divide and roll each piece into a long rope with a thick belly and thin tapering ends." },
+    { "title": "Twist and dry", "summary": "Twist each rope into the classic pretzel knot, then let the shaped pieces rest uncovered, first at room temperature, then chilled, so a thin skin forms on the surface." },
+    { "title": "Dip in lye", "summary": "Dip each pretzel briefly, just a few seconds, in a dilute food-grade sodium hydroxide solution; this is what gives the baked crust its deep color, shine and characteristic blistering. Handle it with gloves and eye protection." },
+    { "title": "Score and salt", "summary": "Cut a shallow slash along the thick belly and scatter with coarse pretzel salt." },
+    { "title": "Bake hot and fast", "summary": "Bake at high heat for around 15 minutes until deep brown, venting the oven partway through to release steam." }
+  ],
+  "source": { "url": "https://heimbaecker.de/laugenbrezeln-ein-update/", "site": "der heimbäcker", "retrieved": "2026-07-17" },
+  "tags": ["laugengebäck", "beer-garden"]
+}

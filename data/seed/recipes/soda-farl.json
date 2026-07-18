@@ -1,0 +1,60 @@
+{
+  "slug": "soda-farl",
+  "name": {
+    "en": "Soda Farl",
+    "de": "Soda Farl (nordirisches Sodabrot vom Grill)",
+    "es": "Soda farl (pan de soda norirlandés a la plancha)",
+    "fr": "Soda farl (pain au bicarbonate nord-irlandais à la plaque)"
+  },
+  "aliases": ["farl", "soda bread farl"],
+  "description": {
+    "en": "A soft soda bread dough patted flat, cut into quarters and cooked entirely on a dry griddle rather than in the oven. The pan gives a crisp, floury crust around a soft, dense interior, a fixture of the Ulster Fry.",
+    "de": "Ein weicher Sodabrotteig wird flach gedrückt, geviertelt und komplett auf der trockenen Platte statt im Ofen gebacken. Die Pfanne sorgt für eine knusprige, bemehlte Kruste um ein weiches, dichtes Inneres, fester Bestandteil des Ulster Fry.",
+    "es": "Una masa blanda de pan de soda se aplana, se corta en cuartos y se cocina por completo en una plancha seca en vez de en el horno. La plancha da una corteza crujiente y enharinada alrededor de un interior blando y denso, infaltable en el Ulster Fry.",
+    "fr": "Une pâte de pain au bicarbonate, souple, est aplatie, coupée en quartiers et cuite entièrement sur une plaque sèche plutôt qu'au four. La plaque donne une croûte croustillante et farinée autour d'une mie tendre et dense, un incontournable de l'Ulster Fry."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "Northern Ireland",
+    "note": "The word 'farl' comes from the Scots 'fardel', a quartered cake. Cooked on a dry griddle rather than baked in the oven, unlike most soda bread."
+  },
+  "leaven": "chemical",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 111,
+    "saltPct": 1.25,
+    "fatPct": 20.2,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 208 },
+    { "key": "salt", "grams": 2.6 },
+    { "key": "baking-soda", "grams": 2.5 },
+    { "key": "butter", "grams": 42, "note": "cold, divided between the dough and the griddle" },
+    { "key": "buttermilk", "grams": 225 }
+  ],
+  "yield": { "count": 4, "pieceGrams": 110, "shape": "quartered triangles cut from one 8-inch round" },
+  "time": { "totalMin": 50, "activeMin": 15, "bakeMin": 23, "overnight": false },
+  "bake": { "tempC": 180, "steam": false, "vessel": "griddle" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["tangy", "savory", "buttery", "mild"],
+  "purposes": ["breakfast", "everyday", "side"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm off the griddle; reheat in a dry pan the next day for a fry-up." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Mix dry & cut in butter", "summary": "Whisk flour, salt and baking soda, then rub in half the cold butter until the mixture looks like coarse crumbs." },
+    { "title": "Add buttermilk", "summary": "Pour in the buttermilk and mix just until a soft, slightly sticky dough forms." },
+    { "title": "Shape & cut", "summary": "Pat into an 8-inch circle on a floured surface and cut into four triangular farls." },
+    { "title": "Griddle", "summary": "Melt the remaining butter on a hot cast-iron griddle over medium heat and cook the farls 7-10 minutes per side until golden and risen." },
+    { "title": "Crisp the edges", "summary": "Stand each farl up on its cut edges for a minute or two apiece so all sides brown." },
+    { "title": "Check & serve", "summary": "Tap the base for a hollow sound, then serve warm, split and buttered or as part of a fry." }
+  ],
+  "source": { "url": "https://bakefromscratch.com/soda-farls/", "site": "Bake from Scratch", "retrieved": "2026-07-18", "adaptation": "A herb compound butter accompaniment from the source is omitted to keep this entry to the bread itself." },
+  "tags": ["ulster-fry", "griddle-bread"]
+}

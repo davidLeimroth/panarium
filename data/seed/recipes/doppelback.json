@@ -1,0 +1,61 @@
+{
+  "slug": "doppelback",
+  "name": {
+    "en": "Doppelback (Westphalian Double-Baked Rye-Wheat Loaf)",
+    "de": "Doppelback",
+    "es": "Doppelback (pan de centeno y trigo westfaliano de doble cocción)",
+    "fr": "Doppelback (pain seigle-blé westphalien à double cuisson)",
+    "native": "Doppelback"
+  },
+  "aliases": ["Roggenmischbrot Doppelback", "doppelt gebackenes Brot"],
+  "description": {
+    "en": "An East Westphalian rye-wheat pan loaf baked once, cooled, then baked again in a scorching oven. That second bake is the whole point: it deepens the crust to near-black and lets the loaf outlast an ordinary sandwich bread by days.",
+    "de": "Ein ostwestfälisches Kastenbrot aus Roggen und Weizen, das erst fertig gebacken, abgekühlt und dann noch einmal im heißen Ofen nachgebacken wird. Genau dieses zweite Backen macht die Kruste dunkel und das Brot ungewöhnlich lange haltbar.",
+    "es": "Un pan de molde westfaliano de centeno y trigo que se hornea, se deja enfriar y luego se vuelve a hornear en un horno bien caliente. Ese segundo horneado oscurece la corteza y alarga la conservación mucho más allá de un pan de molde normal.",
+    "fr": "Un pain de mie westphalien au seigle et au blé, cuit une première fois, refroidi, puis recuit dans un four bien chaud. Cette seconde cuisson fonce la croûte et prolonge sa conservation bien au-delà d'un pain de mie ordinaire."
+  },
+  "origin": { "country": "DE", "region": "Ostwestfalen / Paderborner Land", "note": "A staple found in almost every bakery in East Westphalia; named for its defining two-stage bake rather than for any single town." },
+  "leaven": "hybrid",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 64.5,
+    "saltPct": 1.8,
+    "prefermentedFlourPct": 18.4,
+    "flours": [
+      { "type": "rye", "pct": 34 },
+      { "type": "wheat-whole", "pct": 66 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:rye", "grams": 240, "note": "type 1150; split between the levain and the main dough" },
+    { "key": "flour:wheat-whole", "grams": 465, "note": "type 1050" },
+    { "key": "water", "grams": 455 },
+    { "key": "sourdough-starter", "grams": 13, "note": "mature rye starter (Anstellgut)" },
+    { "key": "salt", "grams": 13 },
+    { "key": "fresh-yeast", "grams": 10 },
+    { "key": "malt-syrup", "grams": 13, "note": "dry rye malt plus liquid inactive malt, for crust color and flavor" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1050, "shape": "buttered loaf tin (Kastenform)" },
+  "time": { "totalMin": 1470, "activeMin": 30, "bulkMin": 30, "proofMin": 240, "bakeMin": 80, "overnight": true },
+  "bake": { "tempC": 250, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["mild", "malty", "earthy", "tangy"],
+  "purposes": ["everyday", "sandwich", "toast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false },
+  "keeping": { "freshDays": 10, "freezes": true, "note": "The second bake dries and hardens the crust, which is exactly why this loaf outlasts a single-baked mixed bread by many days." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Build the rye levain", "summary": "Stir rye flour, water and a spoonful of mature rye starter together and let it ripen at room temperature overnight, 16-18 hours, until domed and fragrant." },
+    { "title": "Mix the main dough", "summary": "Add the ripe levain to more rye and wheat flour, water, salt, a small amount of fresh yeast, and rye malt. Knead until the dough is smooth, elastic and only slightly tacky." },
+    { "title": "Bulk rest", "summary": "Cover and let the dough relax for about 30 minutes at room temperature." },
+    { "title": "Shape and pan", "summary": "Round the dough briefly, then press it into a buttered loaf tin, no elaborate shaping is needed for a pan loaf." },
+    { "title": "Proof", "summary": "Proof in the tin until the dough has risen to the rim of the pan." },
+    { "title": "First bake", "summary": "Bake hot at 250°C for about 15 minutes to set the crust, then lower to 180°C for a further 45 minutes until fully baked through." },
+    { "title": "Cool, then bake again", "summary": "Turn the loaf out of the tin and let it cool for 30-45 minutes. Return it to a 180°C fan oven for a final 20 minutes, the 'Doppelback' step that darkens and firms the crust and is the reason the loaf keeps so well." }
+  ],
+  "source": { "url": "https://ketex.de/blog/doppelback/", "site": "Ketex – Der Hobbybrotbäcker", "author": "Gerd Kellner", "retrieved": "2026-07-17", "adaptation": "Percentages computed from the stated gram quantities; method paraphrased and reordered to foreground the double-bake technique." },
+  "tags": ["ostwestfalen", "kastenbrot"]
+}

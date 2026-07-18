@@ -1,0 +1,148 @@
+{
+  "slug": "pan-gallego",
+  "name": {
+    "en": "Galician Bread (Pan Gallego)",
+    "de": "Galicisches Brot (Pan Gallego)",
+    "es": "Pan Gallego",
+    "fr": "Pain galicien (Pan Gallego)",
+    "native": "Pan Gallego"
+  },
+  "description": {
+    "en": "A rustic Galician sourdough famous for huge, irregular holes and a thick, crackling crust, topped with a twisted knot (moña) pinched by hand. A rye starter and a near-100% hydration dough give it real tang and several days of shelf life for toasting.",
+    "de": "Ein rustikales galicisches Sauerteigbrot, berühmt für riesige, unregelmäßige Poren und eine dicke, krachende Kruste, gekrönt von einem handgezwickten Knoten (moña). Ein Roggensauerteig und fast 100% Hydration geben ihm echten Biss und tagelange Haltbarkeit zum Toasten.",
+    "es": "Un pan de masa madre rústico gallego, famoso por sus enormes alvéolos irregulares y una corteza gruesa y crujiente, coronado con una moña retorcida a mano. Una masa madre de centeno y una hidratación cercana al 100% le dan un toque ácido real y varios días de vida.",
+    "fr": "Un pain au levain rustique de Galice, réputé pour ses énormes alvéoles et sa croûte épaisse et craquante, coiffé d'un nœud torsadé (moña) pincé à la main. Un levain de seigle et une hydratation proche de 100% lui donnent un vrai peps acidulé et plusieurs jours de tenue."
+  },
+  "origin": {
+    "country": "ES",
+    "region": "Galicia",
+    "note": "Recently granted Protected Geographical Indication status; must contain a minimum share of native Galician flours."
+  },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 100,
+    "saltPct": 1.8,
+    "prefermentedFlourPct": 11,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 80
+      },
+      {
+        "type": "rye-whole",
+        "pct": 20
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 450
+    },
+    {
+      "key": "flour:rye-whole",
+      "grams": 50
+    },
+    {
+      "key": "water",
+      "grams": 500
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 125,
+      "note": "masa madre de centeno, a rye sourdough starter"
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1135,
+    "shape": "round loaf topped with the traditional twisted 'moña' knot"
+  },
+  "time": {
+    "totalMin": 940,
+    "activeMin": 30,
+    "bulkMin": 330,
+    "proofMin": 540,
+    "bakeMin": 60,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "stone"
+  },
+  "difficulty": 4,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": [
+    "tangy",
+    "sour",
+    "wheaty",
+    "earthy"
+  ],
+  "purposes": [
+    "toast",
+    "breakfast",
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 20
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "The rye sourdough and thick crust give it real keeping power; it's traditionally baked in large loaves meant to last several days."
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Mix and rest",
+      "summary": "Combine both flours with the water, holding back the starter, and rest at least 2 hours."
+    },
+    {
+      "title": "Add starter and fold",
+      "summary": "Work in the active rye sourdough starter, then give the dough stretch-and-folds every 30 minutes for 3-4 hours."
+    },
+    {
+      "title": "Shape the moña",
+      "summary": "Shape into a ball, pinching and lifting a piece of dough on top into the traditional twisted knot."
+    },
+    {
+      "title": "Cold retard",
+      "summary": "Place seam-up in a floured banneton and refrigerate at least 8-10 hours."
+    },
+    {
+      "title": "Bake in two temperatures",
+      "summary": "Bake at 250°C with steam for 15 minutes, then drop to 200°C for another 45 minutes."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest on a rack at least 20 minutes before cutting so the huge holes don't collapse."
+    }
+  ],
+  "source": {
+    "url": "https://www.laflordegalicia.es/blog/como-hacer-pan-gallego-receta",
+    "site": "La Flor de Galicia",
+    "retrieved": "2026-07-17",
+    "adaptation": "The rye starter is assumed at roughly 100% hydration to split into total-flour baker's percentages."
+  },
+  "tags": [
+    "moña",
+    "high-hydration"
+  ]
+}

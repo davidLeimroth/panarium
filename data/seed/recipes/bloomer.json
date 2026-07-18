@@ -1,0 +1,61 @@
+{
+  "slug": "bloomer",
+  "name": {
+    "en": "Bloomer",
+    "de": "Bloomer (englisches Weißbrot)",
+    "es": "Bloomer (pan blanco inglés)",
+    "fr": "Bloomer (pain blanc anglais)"
+  },
+  "aliases": ["English bloomer", "cob loaf"],
+  "description": {
+    "en": "England's everyday crusty white loaf: an oval hearth loaf with diagonal slashes along the top that split open in the oven. Just flour, yeast, salt and water, baked hot with steam for a thick, deep gold crust.",
+    "de": "Englands alltägliches knuspriges Weißbrot: ein ovales Brot mit diagonalen Einschnitten, die im Ofen aufreißen. Nur Mehl, Hefe, Salz und Wasser, heiß mit Schwaden gebacken für eine dicke, tiefgoldene Kruste.",
+    "es": "El pan blanco crujiente de cada día en Inglaterra: un pan ovalado con cortes diagonales en la parte superior que se abren en el horno. Solo harina, levadura, sal y agua, horneado a alta temperatura con vapor para una corteza gruesa y dorada.",
+    "fr": "Le pain blanc croustillant du quotidien en Angleterre : un pain ovale entaillé en diagonale qui s'ouvre à la cuisson. Rien que de la farine, de la levure, du sel et de l'eau, cuit à four chaud avec buée pour une croûte épaisse et dorée."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "England, nationwide",
+    "note": "A high-street bakery staple; the name is generally thought to come from the way the crust 'blooms' open along the slashes as it bakes."
+  },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 70,
+    "saltPct": 1.8,
+    "fatPct": 2.8,
+    "yeastPct": 1.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500, "note": "strong white bread flour" },
+    { "key": "water", "grams": 350, "note": "lukewarm" },
+    { "key": "salt", "grams": 9 },
+    { "key": "instant-yeast", "grams": 7 },
+    { "key": "olive-oil", "grams": 14 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 800, "shape": "long oval, three or four diagonal slashes on top" },
+  "time": { "totalMin": 180, "activeMin": 30, "bulkMin": 50, "proofMin": 40, "bakeMin": 32, "overnight": false },
+  "bake": { "tempC": 230, "steam": true, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["wheaty", "mild", "yeasty", "savory"],
+  "purposes": ["everyday", "sandwich", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Crust is at its best within hours of baking; wrap in paper, not plastic, to keep it from going soft." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix & knead", "summary": "Combine flour, yeast and salt, add water and oil, then knead 8-10 minutes to a smooth, elastic dough." },
+    { "title": "Bulk rise", "summary": "Prove in an oiled bowl until doubled, 45 minutes to an hour." },
+    { "title": "Shape", "summary": "Flatten into a rectangle, fold both short ends into the middle like a letter, turn a quarter turn, flatten again, then roll into a tight cylinder and tuck the ends under." },
+    { "title": "Final proof", "summary": "Rest seam-down on a floured tray until puffy, 35-45 minutes." },
+    { "title": "Score", "summary": "Cut three or four confident diagonal slashes along the top." },
+    { "title": "Bake with steam", "summary": "Bake at high heat with a pan of hot water in the oven base for a burst of steam, until deep golden and hollow-sounding underneath, 30-35 minutes." }
+  ],
+  "source": { "url": "https://thegreatbritishbakeoff.co.uk/recipes/all/classic-white-bloomer/", "site": "The Great British Bake Off", "retrieved": "2026-07-18", "adaptation": "Water given as a range; used the midpoint. Optional poppy seed topping omitted for a plain classic version." },
+  "tags": ["crusty-loaf", "hearth-bread"]
+}

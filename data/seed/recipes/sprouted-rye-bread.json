@@ -1,0 +1,67 @@
+{
+  "slug": "sprouted-rye-bread",
+  "name": {
+    "en": "Sprouted Rye Bread",
+    "de": "Brot aus gekeimtem Roggen",
+    "es": "Pan de centeno germinado",
+    "fr": "Pain de seigle germé"
+  },
+  "aliases": ["sprouted rye sandwich bread"],
+  "description": {
+    "en": "Sprouted wheat and rye berries are dried and milled into flour, then built into a soft, high-hydration sandwich loaf lifted with ordinary yeast rather than sourdough. Sprouting is said to sweeten the grain and make it easier to digest than plain flour.",
+    "de": "Gekeimte Weizen- und Roggenkörner werden getrocknet, gemahlen und zu einem weichen, feuchten Sandwichbrot verarbeitet, das mit gewöhnlicher Hefe statt Sauerteig aufgeht. Das Keimen soll das Korn süßer und leichter verdaulich machen als normales Mehl.",
+    "es": "Los granos germinados de trigo y centeno se secan, se muelen y se convierten en un pan de molde suave y muy hidratado, leudado con levadura común en vez de masa madre. Se dice que germinar el grano lo endulza y lo hace más digerible que la harina normal.",
+    "fr": "Des grains germés de blé et de seigle sont séchés, moulus, puis transformés en un pain de mie tendre et très hydraté, levé à la levure ordinaire plutôt qu'au levain. La germination sucrerait le grain et le rendrait plus digeste que la farine ordinaire."
+  },
+  "origin": {
+    "country": "US",
+    "region": "Modern American home baking, using pre-milled sprouted flour",
+    "note": "Builds on the older European tradition of sprouted-grain breads, but uses commercially milled sprouted flour and commercial yeast rather than a traditional sourdough culture."
+  },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 87.1,
+    "saltPct": 1.65,
+    "sugarPct": 5.9,
+    "yeastPct": 0.96,
+    "flours": [
+      { "type": "wheat-whole", "pct": 78.5 },
+      { "type": "rye-whole", "pct": 21.5 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-whole", "grams": 570, "note": "sprouted, dried and milled wholegrain wheat flour" },
+    { "key": "flour:rye-whole", "grams": 156, "note": "sprouted, dried and milled wholegrain rye flour" },
+    { "key": "water", "grams": 632, "note": "warm" },
+    { "key": "instant-yeast", "grams": 7 },
+    { "key": "salt", "grams": 12 },
+    { "key": "molasses", "grams": 43, "note": "unsulphured" },
+    { "key": "caraway", "grams": 7, "note": "toasted" },
+    { "key": "cocoa", "grams": 10, "note": "optional, for a darker color, in the style of German pumpernickel" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 646, "shape": "4.5 x 8 in loaf pans" },
+  "time": { "totalMin": 305, "activeMin": 25, "bulkMin": 90, "proofMin": 90, "bakeMin": 35, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["earthy", "malty", "herbal"],
+  "purposes": ["everyday", "sandwich", "toast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Sprouted-grain flour reportedly gives a moister, longer-keeping crumb, though it still stales like any yeasted loaf within a few days." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Combine sprouted wheat and rye flours, cocoa (if using), salt, yeast and caraway seeds, then stir in water and molasses." },
+    { "title": "Rest", "summary": "Let the shaggy dough rest 5-10 minutes, then stir again about 2 minutes until smooth." },
+    { "title": "Stretch and fold", "summary": "In an oiled bowl, stretch and fold the wet dough 4-6 times instead of kneading." },
+    { "title": "First rise", "summary": "Let rise at room temperature 1-2 hours until doubled." },
+    { "title": "Shape", "summary": "Divide in two, shape into logs and settle into loaf pans." },
+    { "title": "Second rise", "summary": "Let rise 1-2 hours until the dough crowns about 2.5 cm above the pan edges." },
+    { "title": "Bake", "summary": "Bake at 175°C for 30-35 minutes until hollow-sounding when tapped." },
+    { "title": "Cool", "summary": "Cool on a rack before slicing." }
+  ],
+  "source": { "url": "https://savorthebest.com/sprouted-rye-bread/", "site": "Savor the Best", "retrieved": "2026-07-18" },
+  "tags": ["sprouted", "rye", "sandwich"]
+}

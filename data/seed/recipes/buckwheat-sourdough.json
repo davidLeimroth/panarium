@@ -1,0 +1,64 @@
+{
+  "slug": "buckwheat-sourdough",
+  "name": {
+    "en": "Scalded Buckwheat & Malt Sourdough",
+    "de": "Sauerteigbrot mit gebrühtem Buchweizen und Malz",
+    "es": "Pan de masa madre con alforfón escaldado y malta",
+    "fr": "Pain au levain de sarrasin échaudé et malt"
+  },
+  "aliases": ["Buckwheat malt sourdough"],
+  "description": {
+    "en": "A splash of boiling water scalds the buckwheat flour to unlock its earthy depth, while barley malt syrup and a little aniseed add a sweet, faintly licorice-like finish. A high-extraction flour base keeps the crumb tender despite all the whole grain.",
+    "de": "Ein Schuss kochendes Wasser brüht das Buchweizenmehl auf und setzt seine erdige Tiefe frei, während Gerstenmalzsirup und eine Prise Anis für einen süßen, leicht lakritzartigen Abgang sorgen. Hochausgemahlenes Mehl hält die Krume trotz des vielen Vollkorns zart.",
+    "es": "Un chorro de agua hirviendo escalda la harina de alforfón para liberar su profundidad terrosa, mientras el jarabe de malta de cebada y un toque de anís aportan un final dulce y ligeramente anisado. La harina de alta extracción mantiene la miga tierna pese a tanto grano integral.",
+    "fr": "Un filet d'eau bouillante échaude la farine de sarrasin pour révéler sa profondeur terreuse, tandis que le sirop de malt d'orge et une pointe d'anis apportent une finale douce et légèrement anisée. Une farine à haute extraction garde la mie tendre malgré tout ce grain complet."
+  },
+  "origin": { "country": "US", "region": "Pacific Northwest artisan bakeries", "note": "Built around a Pacific Northwest stone-milled high-extraction flour; buckwheat itself is native to Central Asia, but this scalding technique and formula are a contemporary artisan development." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 83.1,
+    "saltPct": 2,
+    "prefermentedFlourPct": 5.8,
+    "flours": [
+      { "type": "wheat-whole", "pct": 50 },
+      { "type": "wheat-white", "pct": 45 },
+      { "type": "buckwheat", "pct": 5 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-whole", "grams": 687, "note": "high-extraction (Type 85-style) flour" },
+    { "key": "flour:wheat-whole", "grams": 183, "note": "regular whole wheat flour" },
+    { "key": "flour:buckwheat", "grams": 46, "note": "scalded with boiling water before mixing" },
+    { "key": "water", "grams": 761 },
+    { "key": "sourdough-starter", "grams": 53 },
+    { "key": "salt", "grams": 18 },
+    { "key": "malt-syrup", "grams": 46, "note": "barley malt syrup" },
+    { "key": "anise", "grams": 6, "note": "ground aniseed" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 900, "shape": "boule" },
+  "time": { "totalMin": 1630, "activeMin": 35, "bulkMin": 180, "proofMin": 1005, "bakeMin": 50, "overnight": true },
+  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["earthy", "malty", "spiced"],
+  "purposes": ["everyday", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 55 },
+  "keeping": { "freshDays": 4, "freezes": true },
+  "equipment": ["dutch-oven", "banneton"],
+  "method": [
+    { "title": "Build the levain", "summary": "Mix starter, high-extraction flour and water; ripen about 3 hours." },
+    { "title": "Scald the buckwheat", "summary": "Pour boiling water over the buckwheat flour, stir, cover and set aside to cool, this softens its structure and mellows any bitterness." },
+    { "title": "Autolyse", "summary": "Combine the high-extraction and whole wheat flours, water and the cooled scald; rest 1 hour." },
+    { "title": "Mix", "summary": "Add the levain and salt, mix until smooth, rest 10 minutes, then work in the remaining water, malt syrup and aniseed." },
+    { "title": "Bulk ferment", "summary": "Ferment about 3 hours with two stretch-and-fold sets, aiming for roughly 30% rise." },
+    { "title": "Shape", "summary": "Preshape, rest 30 minutes, then shape into boules, optionally coating the surface in sesame seeds." },
+    { "title": "Cold proof", "summary": "Refrigerate overnight, about 16-17 hours." },
+    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep and crisp." },
+    { "title": "Cool", "summary": "Rest 1-2 hours before slicing." }
+  ],
+  "source": { "url": "https://www.theperfectloaf.com/scalded-buckwheat-and-malt-sourdough-bread/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17", "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown (no exact taxonomy match); ingredient list keeps the flour as named in the source." },
+  "tags": ["buckwheat", "malt"]
+}

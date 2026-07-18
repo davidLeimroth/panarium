@@ -1,0 +1,64 @@
+{
+  "slug": "pao-de-queijo",
+  "name": {
+    "en": "Pão de Queijo (Brazilian Cheese Bread)",
+    "de": "Pão de Queijo (brasilianisches Käsebrot)",
+    "es": "Pan de queso brasileño (pão de queijo)",
+    "fr": "Pão de queijo (petit pain au fromage brésilien)",
+    "native": "Pão de queijo"
+  },
+  "aliases": ["Brazilian cheese bread", "Brazilian cheese puff"],
+  "description": {
+    "en": "A gluten-free puff born from cassava, not wheat: hot milk and oil are poured over tapioca starch, then egg and two cheeses are worked in until sticky. It bakes into a golden shell around a hollow, stretchy, cheese-pull center.",
+    "de": "Ein glutenfreies Gebäck aus Maniok, nicht aus Weizen: heiße Milch und Öl werden über Tapiokastärke gegossen, dann Ei und zwei Käsesorten eingearbeitet, bis der Teig klebrig wird. Gebacken entsteht eine goldene Schale um einen hohlen, ziehfähigen Käsekern.",
+    "es": "Un bollo sin gluten, nacido de la mandioca y no del trigo: leche y aceite calientes se vierten sobre almidón de tapioca, luego se incorporan huevo y dos quesos hasta lograr una masa pegajosa. Al hornear, forma una cáscara dorada alrededor de un centro hueco y elástico.",
+    "fr": "Un petit pain sans gluten, né du manioc et non du blé : lait et huile bouillants sont versés sur de la fécule de tapioca, puis œuf et deux fromages sont incorporés jusqu'à obtenir une pâte collante. À la cuisson, une coque dorée se forme autour d'un cœur creux et filant."
+  },
+  "origin": {
+    "country": "BR",
+    "region": "Minas Gerais",
+    "note": "Traditionally made with polvilho azedo (naturally soured tapioca starch) and Minas cheese; this version uses sweet tapioca starch with Parmesan and mozzarella for wider availability."
+  },
+  "leaven": "none",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 92,
+    "saltPct": 2,
+    "fatPct": 14.4,
+    "flours": [
+      { "type": "cassava", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:cassava", "grams": 500, "note": "tapioca starch (polvilho)" },
+    { "key": "milk", "grams": 300, "note": "whole milk" },
+    { "key": "water", "grams": 119 },
+    { "key": "vegetable-oil", "grams": 72 },
+    { "key": "salt", "grams": 10 },
+    { "key": "egg", "grams": 100, "note": "2 large eggs" },
+    { "key": "cheese", "grams": 150, "note": "Parmesan, finely grated" },
+    { "key": "cheese", "grams": 100, "note": "mozzarella, shredded" }
+  ],
+  "yield": { "count": 24, "pieceGrams": 56, "shape": "golf-ball-sized puff" },
+  "time": { "totalMin": 45, "activeMin": 20, "bakeMin": 18, "overnight": false },
+  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": ["cheesy", "savory", "rich", "mild"],
+  "purposes": ["snack", "breakfast", "side"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": false, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best piping hot from the oven; the raw shaped balls freeze beautifully and bake straight from frozen." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Boil the liquid", "summary": "Bring milk, water, oil and salt to a full boil." },
+    { "title": "Scald the starch", "summary": "Pour the hot liquid over the tapioca starch and stir until it forms a stiff, slightly stringy paste; let it cool a few minutes." },
+    { "title": "Add eggs", "summary": "Beat in the eggs one at a time until fully absorbed." },
+    { "title": "Work in cheese", "summary": "Knead or pulse in both cheeses until you have a soft, very sticky dough." },
+    { "title": "Portion", "summary": "Roll into golf-ball-sized portions with oiled hands, since the dough is too sticky to shape dry." },
+    { "title": "Bake", "summary": "Bake until puffed and golden, hollow-sounding when tapped; serve hot for the best stretchy pull." }
+  ],
+  "source": { "url": "https://www.oliviascuisine.com/authentic-brazilian-cheese-bread/", "site": "Olivia's Cuisine", "retrieved": "2026-07-17", "adaptation": "Volumes converted to grams via standard conversions; yield simplified to a single batch size." },
+  "tags": ["gluten-free", "cheese"]
+}

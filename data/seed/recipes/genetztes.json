@@ -1,0 +1,71 @@
+{
+  "slug": "genetztes",
+  "name": {
+    "en": "Genetztes Brot (Wet-Shaped Bread)",
+    "de": "Genetztes Brot",
+    "es": "Pan humedecido (Genetztes Brot)",
+    "fr": "Pain humidifié (Genetztes Brot)"
+  },
+  "aliases": ["Netzbrot", "eingenetztes Brot"],
+  "description": {
+    "en": "A Swabian specialty shaped not by scoring but by wetting: bakers slap and tighten the risen dough with soaked hands until the skin turns glassy, then bake it bare. No slashes, no bloom - just a smooth, mirror-bright crust over an open, wheaty crumb.",
+    "de": "Eine schwäbische Spezialität, die nicht eingeschnitten, sondern genetzt wird: Der reife Teig wird mit nassen Händen rund geschlagen, bis die Haut glänzt, dann unversehrt gebacken. Kein Einschnitt, kein Ausbund – nur eine spiegelglatte Kruste über lockerer, weiziger Krume.",
+    "es": "Una especialidad suaba que no se corta, sino que se humedece: la masa madura se golpea y tensa con las manos mojadas hasta que la piel brilla, y se hornea sin marcas. Sin cortes ni greña, solo una corteza lisa y brillante sobre una miga aireada de trigo.",
+    "fr": "Une spécialité souabe qu'on ne lame pas, mais qu'on mouille: la pâte mûre est tapotée et retendue à mains humides jusqu'à ce que la peau devienne brillante, puis cuite telle quelle. Ni grigne ni lamage, juste une croûte lisse et brillante sur une mie aérée."
+  },
+  "origin": {
+    "country": "DE",
+    "region": "Swabia (Baden-Württemberg)",
+    "note": "Named for the 'netzen' (wetting) technique: the shaped loaf is repeatedly moistened by hand instead of being scored, so the baked crust stays smooth and glossy rather than developing a scored ausbund."
+  },
+  "leaven": "hybrid",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 73.5,
+    "saltPct": 2.0,
+    "fatPct": 1.1,
+    "yeastPct": 0.4,
+    "prefermentedFlourPct": 21.1,
+    "flours": [
+      { "type": "spelt-whole", "pct": 21.1 },
+      { "type": "wheat-whole", "pct": 31.4 },
+      { "type": "rye", "pct": 26.4 },
+      { "type": "wheat-white", "pct": 21.1 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:spelt-whole", "grams": 124, "note": "Dinkelvollkornmehl, in the cold preferment" },
+    { "key": "flour:wheat-whole", "grams": 185, "note": "Weizenmehl Type 1050" },
+    { "key": "flour:rye", "grams": 155, "note": "Roggenmehl Type 1150" },
+    { "key": "flour:wheat-white", "grams": 124, "note": "Weizenmehl Type 550" },
+    { "key": "water", "grams": 432 },
+    { "label": { "en": "toasted ground stale bread", "de": "geröstetes, gemahlenes Altbrot", "es": "pan duro tostado y molido", "fr": "vieux pain grillé et moulu" }, "grams": 43 },
+    { "key": "fresh-yeast", "grams": 6.2, "note": "split between the preferment and main dough" },
+    { "key": "sourdough-starter", "grams": 62, "note": "mature wheat starter (Anstellgut), added directly to the main dough" },
+    { "key": "salt", "grams": 12 },
+    { "key": "butter", "grams": 6.2 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1150, "shape": "round hearth loaf, un-scored, wet-shaped" },
+  "time": { "totalMin": 1679, "activeMin": 20, "bulkMin": 90, "proofMin": 69, "bakeMin": 60, "overnight": true },
+  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "difficulty": 4,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["mild", "toasty", "tangy", "wheaty"],
+  "purposes": ["everyday", "table", "sandwich"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 52.6 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Best in the first two days; the smooth crust softens rather than staying crisp." },
+  "equipment": ["baking-stone"],
+  "method": [
+    { "title": "Cold preferment", "summary": "The day before, mix water, spelt wholemeal flour, toasted ground stale bread and a trace of yeast into a loose preferment; refrigerate covered for 24 hours." },
+    { "title": "Mix the dough", "summary": "Combine the cold preferment with the wheat and rye flours, warm water, the mature wheat starter, yeast, salt and butter; mix into a smooth, fairly soft dough." },
+    { "title": "Bulk ferment", "summary": "Let the dough rise at room temperature until well aerated, folding as needed." },
+    { "title": "Wet-shape", "summary": "With thoroughly wet hands, gather the dough and tighten it into a round by gently slapping the skin downward in the air, rather than rolling it in flour; set it seam-down on parchment." },
+    { "title": "Short rest", "summary": "Let the shaped loaf rest briefly. Skip scoring altogether, since the wet surface is meant to stay smooth." },
+    { "title": "Bake", "summary": "Bake on a hot stone with steam at high heat, then drop the oven temperature and continue until deeply glossy, about an hour total." },
+    { "title": "Cool", "summary": "Cool fully before cutting; the crust should look almost lacquered, with no cracks or blooming." }
+  ],
+  "source": { "url": "https://www.ploetzblog.de/rezepte/genetztes-brot/id=61d44d9654477a2938bc6eae", "site": "Plötzblog", "author": "Lutz Geißler", "retrieved": "2026-07-17", "adaptation": "Method paraphrased; fresh-yeast total combines the small amounts used in both the preferment and the main dough; bulk/proof split is estimated to match the source's overall stated time." },
+  "tags": ["swabian", "wet-shaped"]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "pane-pugliese",
+  "name": {
+    "en": "Apulian Bread (Pane Pugliese)",
+    "de": "Apulisches Brot (Pane Pugliese)",
+    "es": "Pan de Apulia (Pane Pugliese)",
+    "fr": "Pain des Pouilles (Pane Pugliese)",
+    "native": "Pane Pugliese"
+  },
+  "description": {
+    "en": "The everyday home-baked cousin of Altamura's DOP loaf: the same deep-yellow durum semolina and sourdough tang, minus the protected pedigree. A long autolyse lets the coarse semolina drink up the water, giving an open, chewy crumb under a crackling crust.",
+    "de": "Der bodenständige Cousin des DOP-Brots aus Altamura: derselbe tiefgelbe Hartweizengrieß und Sauerteig-Biss, nur ohne geschützten Stammbaum. Eine lange Autolyse lässt den groben Grieß das Wasser aufnehmen, offene, kaubare Krume unter krachender Kruste.",
+    "es": "El primo casero y cotidiano del pan DOP de Altamura: la misma sémola de trigo duro amarilla y el mismo toque ácido de masa madre, sin el linaje protegido. Una autolisis larga deja que la sémola gruesa absorba el agua, dando una miga abierta bajo una corteza crujiente.",
+    "fr": "Le cousin maison et quotidien du pain AOP d'Altamura: même semoule de blé dur jaune profond et même pointe acidulée de levain, sans le pedigree protégé. Une longue autolyse laisse la semoule grossière boire l'eau, pour une mie ouverte sous une croûte craquante."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Puglia (Apulia)",
+    "note": "The generic, everyday version of Apulia's durum sourdough loaf, next to the geographically-protected Pane di Altamura."
+  },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 68,
+    "saltPct": 1.8,
+    "fatPct": 2.3,
+    "prefermentedFlourPct": 12,
+    "flours": [
+      { "type": "durum", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:durum", "grams": 500, "note": "semola rimacinata di grano duro" },
+    { "key": "water", "grams": 350 },
+    { "key": "sourdough-starter", "grams": 100, "note": "active lievito madre" },
+    { "key": "salt", "grams": 10 },
+    { "key": "olive-oil", "grams": 13, "note": "optional, for a softer crumb" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 960, "shape": "round or oval hearth loaf, deeply scored" },
+  "time": { "totalMin": 524, "activeMin": 25, "bulkMin": 330, "proofMin": 90, "bakeMin": 47, "overnight": false },
+  "bake": { "tempC": 220, "steam": true, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": ["nutty", "wheaty", "tangy"],
+  "purposes": ["everyday", "table", "sandwich"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 5, "freezes": true, "note": "Durum crumb and a mature starter keep it good most of the week; slice thick for bruschetta once it's a day old." },
+  "equipment": ["stand-mixer", "baking-stone"],
+  "method": [
+    { "title": "Autolyse", "summary": "Mix the semolina with most of the water and rest 30-60 minutes so the coarse durum fully hydrates before any kneading starts." },
+    { "title": "Add the starter", "summary": "Work the active lievito madre into the rested dough until evenly combined." },
+    { "title": "Knead and salt", "summary": "Add the remaining water and salt (and the olive oil, if using) and knead 10-15 minutes to a smooth, extensible dough." },
+    { "title": "Bulk ferment", "summary": "Ferment 5-6 hours at room temperature, giving the dough two folds along the way to build strength." },
+    { "title": "Shape and proof", "summary": "Shape into a round or oval loaf and proof 1-2 hours until it's grown by about half." },
+    { "title": "Score and bake", "summary": "Score deeply and bake with steam at 220°C for 45-50 minutes until the crust is thick and deeply colored." }
+  ],
+  "source": { "url": "https://barracudamatera.it/consigli/pane-pugliese-con-lievito-madre/", "site": "Barracuda Matera", "retrieved": "2026-07-17", "adaptation": "The lievito madre is assumed at roughly 50% hydration to convert into total-flour baker's percentages; olive oil is an optional regional variant included here." },
+  "tags": ["durum-sourdough"]
+}

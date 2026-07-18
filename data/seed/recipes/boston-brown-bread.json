@@ -1,0 +1,65 @@
+{
+  "slug": "boston-brown-bread",
+  "name": {
+    "en": "Boston Brown Bread",
+    "de": "Boston Brown Bread (gedämpftes Roggen-Mais-Brot)",
+    "es": "Boston brown bread (pan de centeno y maíz al vapor)",
+    "fr": "Boston brown bread (pain vapeur au seigle et au maïs)"
+  },
+  "aliases": ["New England brown bread", "steamed brown bread"],
+  "description": {
+    "en": "A dark, dense New England bread of rye, wheat and cornmeal sweetened with molasses, steamed rather than baked in a covered can until moist and ridged. Traditionally sliced into rounds alongside baked beans for Saturday supper.",
+    "de": "Ein dunkles, dichtes Brot aus Neuengland aus Roggen, Weizen und Maismehl, mit Melasse gesüßt, gedämpft statt gebacken in einer verschlossenen Dose, bis es feucht und geriffelt ist. Traditionell in Scheiben zu gebackenen Bohnen für das Samstagsabendessen serviert.",
+    "es": "Un pan oscuro y denso de Nueva Inglaterra con centeno, trigo y harina de maíz, endulzado con melaza, cocido al vapor en una lata cerrada hasta quedar húmedo y acanalado. Se corta en rodajas junto a alubias horneadas para la cena del sábado.",
+    "fr": "Un pain sombre et dense de Nouvelle-Angleterre au seigle, au blé et à la semoule de maïs, sucré à la mélasse, cuit à la vapeur dans une boîte couverte jusqu'à devenir moelleux et strié. Tranché en rondelles avec des haricots au four pour le souper du samedi."
+  },
+  "origin": {
+    "country": "US",
+    "region": "New England (Massachusetts)",
+    "note": "Emerged in the early 1800s alongside Boston baked beans as a hearty Saturday-night supper bread; traditionally steamed, first over the open hearth and later in the reused coffee cans that gave it its ridged cylindrical shape."
+  },
+  "leaven": "chemical",
+  "family": "steamed",
+  "formula": {
+    "hydrationPct": 139,
+    "saltPct": 1.3,
+    "flours": [
+      { "type": "wheat-white", "pct": 31 },
+      { "type": "rye", "pct": 31 },
+      { "type": "corn", "pct": 38 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 71 },
+    { "key": "flour:rye", "grams": 71 },
+    { "key": "flour:corn", "grams": 85, "note": "finely ground cornmeal" },
+    { "key": "baking-powder", "grams": 2 },
+    { "key": "baking-soda", "grams": 2.5 },
+    { "key": "salt", "grams": 3 },
+    { "label": { "en": "allspice", "de": "Piment", "es": "pimienta de Jamaica", "fr": "quatre-épices" }, "grams": 0.5, "note": "optional" },
+    { "key": "buttermilk", "grams": 300 },
+    { "key": "molasses", "grams": 71 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 560, "shape": "cylindrical loaf steamed in a 28oz can, sliced into rounds" },
+  "time": { "totalMin": 100, "activeMin": 20, "bakeMin": 60, "overnight": false },
+  "bake": { "tempC": 100, "steam": true, "vessel": "steamer" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["earthy", "malty", "sweet", "savory"],
+  "purposes": ["soup-companion", "side", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 37 },
+  "keeping": { "freshDays": 5, "freezes": true, "note": "Keeps unusually well, moist for the better part of a week; good served with butter or cream cheese, or fried in butter the next day." },
+  "equipment": ["steamer"],
+  "method": [
+    { "title": "Set up the steamer", "summary": "Fill a large pot with a couple inches of water, fit a steamer rack, and bring to a simmer; butter the inside of a clean can." },
+    { "title": "Mix dry", "summary": "Whisk both flours, cornmeal, baking powder, baking soda, salt and allspice together." },
+    { "title": "Add wet", "summary": "Stir in the buttermilk and molasses just until combined into a thick batter." },
+    { "title": "Fill & cover", "summary": "Pour the batter into the prepared can and seal the top tightly with buttered foil." },
+    { "title": "Steam", "summary": "Stand the can on the rack, cover the pot, and steam at a gentle boil for about an hour, topping up the water as needed." },
+    { "title": "Cool & unmold", "summary": "Test with a skewer, cool in the can 10 minutes, then turn out onto a rack, slice into rounds and serve warm." }
+  ],
+  "source": { "url": "https://www.biggerbolderbaking.com/boston-brown-bread-in-a-can/", "site": "Bigger Bolder Baking", "author": "Gemma Stafford", "retrieved": "2026-07-18", "adaptation": "Molasses's water content estimated at a typical ~22% since it isn't one of this taxonomy's defined conversions." },
+  "tags": ["new-england", "steamed-bread"]
+}

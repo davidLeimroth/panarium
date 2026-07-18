@@ -1,0 +1,57 @@
+{
+  "slug": "pita",
+  "name": {
+    "en": "Pita",
+    "de": "Pitabrot",
+    "es": "Pan pita",
+    "fr": "Pain pita",
+    "native": "خبز عربي"
+  },
+  "aliases": ["khubz", "khubz arabi", "Arabic bread", "pocket bread"],
+  "description": {
+    "en": "A soft yeasted flatbread that puffs into a steam pocket in a blistering-hot oven, then settles to hold falafel, shawarma or a scoop of hummus. Levantine kitchens tear it warm straight off the stone.",
+    "de": "Ein weiches Hefe-Fladenbrot, das im glühend heißen Ofen eine Dampftasche aufbläst und sich danach wieder senkt, perfekt gefüllt mit Falafel, Shawarma oder als Schaufel für Hummus. In der Levante reißt man es warm direkt vom Stein.",
+    "es": "Un pan plano de levadura que se infla formando un bolsillo de vapor en un horno abrasador y luego se asienta, listo para rellenar con falafel, shawarma o para untar hummus. En el Levante se arranca caliente, recién salido de la piedra.",
+    "fr": "Un pain plat levé qui gonfle en poche de vapeur dans un four brûlant puis se tasse, prêt à accueillir falafel, chawarma ou à plonger dans le houmous. Au Levant, on le déchire tout chaud, sorti de la pierre."
+  },
+  "origin": { "country": "LB", "region": "Levant (Eastern Mediterranean)", "note": "Claimed across Lebanon, Syria, Jordan and Palestine as a daily bread; the international name 'pita' comes from Modern Greek, while the ancestral pocket flatbread is much older Middle Eastern baking." },
+  "leaven": "yeast",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 60,
+    "saltPct": 2,
+    "yeastPct": 1.1,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500, "note": "bread flour" },
+    { "key": "water", "grams": 300, "note": "warm; 100g used to bloom the yeast" },
+    { "key": "salt", "grams": 10 },
+    { "key": "active-dry-yeast", "grams": 5.5 }
+  ],
+  "yield": { "count": 8, "pieceGrams": 102, "shape": "round pocket flatbread" },
+  "time": { "totalMin": 255, "activeMin": 55, "bulkMin": 150, "proofMin": 50, "bakeMin": 5, "overnight": false },
+  "bake": { "tempC": 270, "steam": false, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["mild", "wheaty", "yeasty"],
+  "purposes": ["everyday", "sandwich", "street-food"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best warm the same day; store airtight and reheat on a dry skillet. Refrigerates about a week; freezes well." },
+  "equipment": ["baking-stone"],
+  "method": [
+    { "title": "Bloom yeast", "summary": "Stir the yeast into part of the warm water and let it sit until foamy, about 15-20 minutes." },
+    { "title": "Mix & knead", "summary": "Combine the bloomed yeast, remaining water, flour and salt into a shaggy dough, then knead 10-12 minutes until smooth and elastic." },
+    { "title": "Bulk rise", "summary": "Cover and let rise at room temperature for at least 90 minutes, until doubled." },
+    { "title": "Divide & rest", "summary": "Divide into 8 pieces, shape into tight balls, and let them relax 20-30 minutes." },
+    { "title": "Roll", "summary": "Roll each ball into an even round with no creases, then let rest again 10-20 minutes before baking." },
+    { "title": "Blast-bake", "summary": "Bake on a screaming-hot stone at the oven's maximum temperature for 4-5 minutes; the steam trapped inside forces the dough to balloon into a pocket." },
+    { "title": "Cool covered", "summary": "Stack under a towel as they come out so residual steam keeps them soft and pliable." }
+  ],
+  "source": { "url": "https://waleedasadi.com/p/authentic-levantine-pita-bread", "site": "Waleed Asadi", "retrieved": "2026-07-17", "adaptation": "Ratios and timings taken directly from a single home baker's Levantine recipe; rounded for baker's percentages." },
+  "tags": ["levant", "pocket-bread"]
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "eesti-leib",
+  "name": {
+    "en": "Estonian Rye Bread (Leib)",
+    "de": "Eesti Leib (estnisches Roggenbrot)",
+    "es": "Pan de centeno estonio (Leib)",
+    "fr": "Pain de seigle estonien (Leib)",
+    "native": "Leib"
+  },
+  "aliases": [
+    "Eesti leib",
+    "Estonian black bread"
+  ],
+  "description": {
+    "en": "Estonia's everyday dark rye, built from a slow overnight sourdough leaven and rounded out with coriander, fennel and sunflower seeds. Sweeter and more tender than its Baltic cousins, with a flavor every family swears is their own.",
+    "de": "Estlands alltägliches dunkles Roggenbrot, aufgebaut aus einem langsamen Sauerteig-Ansatz und abgerundet mit Koriander, Fenchel und Sonnenblumenkernen. Süßer und zarter als seine baltischen Vettern, mit einem Geschmack, den jede Familie als ihren eigenen ansieht.",
+    "es": "El pan de centeno cotidiano de Estonia, construido a partir de una masa madre lenta de toda la noche y redondeado con cilantro, hinojo y semillas de girasol. Más dulce y tierno que sus primos bálticos, con un sabor que cada familia jura que es el suyo.",
+    "fr": "Le pain de seigle quotidien d'Estonie, bâti sur un levain lent fermenté toute la nuit et complété de coriandre, fenouil et graines de tournesol. Plus doux et plus tendre que ses cousins baltes, avec une saveur que chaque famille jure être la sienne."
+  },
+  "origin": {
+    "country": "EE",
+    "region": "Estonia, nationwide",
+    "note": "Rye has grown in Estonia for over a thousand years; nearly every family keeps its own starter and spice mix."
+  },
+  "leaven": "sourdough",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 93,
+    "saltPct": 2.5,
+    "sugarPct": 17,
+    "prefermentedFlourPct": 55,
+    "flours": [
+      {
+        "type": "rye-whole",
+        "pct": 97
+      },
+      {
+        "type": "oat",
+        "pct": 3
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:rye-whole",
+      "grams": 1500,
+      "note": "split between the overnight leaven and the final dough"
+    },
+    {
+      "key": "rolled-oats",
+      "grams": 45
+    },
+    {
+      "key": "water",
+      "grams": 1420
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 470
+    },
+    {
+      "key": "salt",
+      "grams": 45,
+      "note": "sea salt"
+    },
+    {
+      "key": "sugar",
+      "grams": 300
+    },
+    {
+      "key": "coriander-seed",
+      "grams": 15
+    },
+    {
+      "key": "fennel-seed",
+      "grams": 15,
+      "note": "or caraway seeds"
+    },
+    {
+      "key": "sunflower-seeds",
+      "grams": 70
+    }
+  ],
+  "yield": {
+    "count": 2,
+    "pieceGrams": 1650,
+    "shape": "loaf-pan loaf or freeform sausage-shaped loaf"
+  },
+  "time": {
+    "totalMin": 1700,
+    "activeMin": 30,
+    "proofMin": 240,
+    "bakeMin": 57,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 229,
+    "steam": true,
+    "vessel": "loaf-pan"
+  },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": [
+    "sweet",
+    "sour",
+    "spiced",
+    "nutty"
+  ],
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 87
+  },
+  "keeping": {
+    "freshDays": 6,
+    "freezes": true,
+    "note": "Every family varies the fermentation length, spices and seeds; this version keeps moist about a week."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Build the leaven",
+      "summary": "Mix dark rye flour, water and sourdough starter; ferment 18-24 hours in a warm, draft-free spot until frothy."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Stir in salt, sugar, the rest of the rye flour, oats, coriander, fennel and sunflower seeds."
+    },
+    {
+      "title": "Adjust texture",
+      "summary": "Add a little extra rye flour for a firmer loaf, or leave it wetter for a more open crumb."
+    },
+    {
+      "title": "Shape",
+      "summary": "Spoon into a greased loaf pan and smooth the top with a wet spoon."
+    },
+    {
+      "title": "Proof",
+      "summary": "Let rise 2-6 hours until domed."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake hot with steam for the first stretch, then lower the heat and finish until cooked through."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cool, then cover and rest at least 2 hours before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.andreatamme.com/blog/estonian-black-bread",
+    "site": "Andrea Tamme",
+    "retrieved": "2026-07-17",
+    "adaptation": "Starter assumed at 100% hydration to estimate its internal flour/water split for baker's percentages, since the source gives it only by volume."
+  },
+  "tags": [
+    "baltic",
+    "family-recipe"
+  ]
+}

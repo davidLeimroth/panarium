@@ -1,0 +1,62 @@
+{
+  "slug": "agege-bread",
+  "name": {
+    "en": "Agege Bread",
+    "de": "Agege-Brot",
+    "es": "Pan Agege",
+    "fr": "Pain Agege"
+  },
+  "aliases": ["Nigerian sliced bread", "Lagos sweet bread"],
+  "description": {
+    "en": "A tall, pillowy-soft white loaf from Lagos, its dough softened with a cooked flour-and-water paste for extra fluff and shelf life. Sold sliced from roadside stalls across Nigeria, it is the everyday bread for sandwiches, toast or simply buttered.",
+    "de": "Ein hoher, wolkenweicher heller Laib aus Lagos, der Teig mit einer gekochten Mehl-Wasser-Paste für zusätzliche Fluffigkeit und Haltbarkeit versehen. Aufgeschnitten an Straßenständen in ganz Nigeria verkauft, ist es das Alltagsbrot für Sandwiches, Toast oder einfach mit Butter.",
+    "es": "Un pan blanco alto y esponjoso de Lagos, su masa suavizada con una pasta cocida de harina y agua para más esponjosidad y duración. Vendido en rebanadas en puestos callejeros por toda Nigeria, es el pan diario para sándwiches, tostadas o simplemente con mantequilla.",
+    "fr": "Un pain blanc haut et moelleux de Lagos, la pâte assouplie par une pâte cuite de farine et d'eau pour plus de moelleux et de conservation. Vendu tranché sur les étals de rue dans tout le Nigeria, c'est le pain quotidien pour sandwichs, tartines grillées ou simplement beurré."
+  },
+  "origin": { "country": "NG", "region": "Agege, Lagos State, and nationwide", "note": "Named for the Lagos suburb of Agege, where Jamaican immigrant baker Amos Shackleford popularized the extra-soft, tall-rising loaf now sold on nearly every Nigerian street corner." },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 70.6,
+    "saltPct": 1.6,
+    "sugarPct": 11.6,
+    "fatPct": 9.9,
+    "yeastPct": 1.2,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 42, "note": "for the tangzhong (cooked flour-water paste)" },
+    { "key": "water", "grams": 237, "note": "for the tangzhong" },
+    { "key": "flour:wheat-white", "grams": 531, "note": "bread flour, for the main dough" },
+    { "key": "sugar", "grams": 67 },
+    { "key": "instant-yeast", "grams": 7 },
+    { "key": "salt", "grams": 9 },
+    { "key": "butter", "grams": 57, "note": "melted" },
+    { "key": "milk", "grams": 180, "note": "warm" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 995, "shape": "pan loaf, built from 3-4 dough balls baked together" },
+  "time": { "totalMin": 195, "activeMin": 35, "bulkMin": 60, "proofMin": 40, "bakeMin": 45, "overnight": false },
+  "bake": { "tempC": 190, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["sweet", "buttery", "rich", "mild"],
+  "purposes": ["everyday", "sandwich", "breakfast", "toast"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "The tangzhong technique keeps it soft for several days at room temperature; slices freeze well for toast." },
+  "equipment": ["loaf-pan", "stand-mixer"],
+  "method": [
+    { "title": "Make tangzhong", "summary": "Whisk bread flour and water in a saucepan over medium heat until thickened, about 10 minutes, then cool slightly." },
+    { "title": "Mix dry", "summary": "Whisk flour, sugar, yeast and salt together and make a well in the center." },
+    { "title": "Combine", "summary": "Pour the tangzhong, warm milk and melted butter into the well and mix into a slightly sticky dough." },
+    { "title": "Knead", "summary": "Knead on a floured surface about 10 minutes until soft and elastic." },
+    { "title": "First rise", "summary": "Shape into a ball, place in a greased bowl, cover, and let rise in a warm spot about an hour, until doubled." },
+    { "title": "Shape and proof", "summary": "Punch down, divide into 3 or 4 pieces, roll into balls, and nestle together in a greased loaf pan; cover and proof about 40 minutes." },
+    { "title": "Bake", "summary": "Bake until golden brown and the center reaches about 88°C, roughly 45 minutes." }
+  ],
+  "source": { "url": "https://www.dashofjazz.com/how-to-make-agege-bread/", "site": "Dash of Jazz", "retrieved": "2026-07-18", "adaptation": "Cup/tablespoon quantities converted to grams; tangzhong flour and water folded into the overall flour and hydration totals." },
+  "tags": ["west-african", "sandwich-bread", "tangzhong"]
+}

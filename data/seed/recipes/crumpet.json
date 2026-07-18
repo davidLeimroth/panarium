@@ -1,0 +1,63 @@
+{
+  "slug": "crumpet",
+  "name": {
+    "en": "Crumpet",
+    "de": "Crumpet",
+    "es": "Crumpet",
+    "fr": "Crumpet"
+  },
+  "aliases": ["English crumpet"],
+  "description": {
+    "en": "A loose, yeasted batter poured into rings on a hot griddle rises into a spongy disc riddled with holes, browned only on the bottom, pale and porous on top. Toast it hard and let butter pool in every crater.",
+    "de": "Ein lockerer Hefeteig wird in Ringen auf einer heißen Platte gegart und geht zu einer schwammigen Scheibe voller Löcher auf – nur unten gebräunt, oben blass und porös. Kross toasten und die Butter in jedem Loch versinken lassen.",
+    "es": "Una masa líquida con levadura, vertida en aros sobre una plancha caliente, se convierte en un disco esponjoso lleno de agujeros, dorado solo por debajo y pálido y poroso por arriba. Se tuesta bien fuerte y se deja que la mantequilla se hunda en cada cráter.",
+    "fr": "Une pâte liquide levée, versée dans des cercles sur une plaque chaude, gonfle en un disque spongieux criblé de trous, doré seulement dessous, pâle et poreux dessus. On le fait griller bien fort pour laisser le beurre fondre dans chaque cratère."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "England",
+    "note": "Early flat versions go back centuries; the holey, spongy crumpet we know today took shape in the Victorian era once refined flour and reliable commercial yeast were common."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 179,
+    "saltPct": 2.4,
+    "sugarPct": 1.6,
+    "yeastPct": 2.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 250 },
+    { "key": "milk", "grams": 240, "note": "warm" },
+    { "key": "water", "grams": 237, "note": "warm" },
+    { "key": "active-dry-yeast", "grams": 6 },
+    { "key": "sugar", "grams": 4 },
+    { "key": "salt", "grams": 6 },
+    { "key": "baking-soda", "grams": 3, "note": "beaten in before the second rise, for extra bubbles" }
+  ],
+  "yield": { "count": 10, "pieceGrams": 75, "shape": "griddle-cooked disc set in a 3-inch ring" },
+  "time": { "totalMin": 170, "activeMin": 20, "bulkMin": 90, "proofMin": 30, "bakeMin": 30, "overnight": false },
+  "bake": { "tempC": 190, "steam": false, "vessel": "griddle" },
+  "difficulty": 2,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["mild", "yeasty", "toasty", "wheaty"],
+  "purposes": ["breakfast", "toast", "snack"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Best toasted rather than eaten fresh; keeps several days and freezes well." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Make the batter", "summary": "Whisk flour and salt, then beat in warm milk and water mixed with yeast and a little sugar until you have a thick, pourable batter." },
+    { "title": "First rise", "summary": "Let the batter stand somewhere warm for an hour or two until puffed and full of bubbles." },
+    { "title": "Loosen with soda", "summary": "Beat in baking soda dissolved in a little warm water to wake up a fresh round of bubbles." },
+    { "title": "Second rise", "summary": "Rest another 30 minutes until visibly aerated and slightly slack." },
+    { "title": "Pour and cook", "summary": "Ladle batter into greased rings on a hot, lightly greased griddle; cook until the tops are covered in set holes and no longer glossy." },
+    { "title": "Finish", "summary": "Flip briefly to set the top if you like more color, or leave as is for the classic pale top; cool on a rack before toasting." }
+  ],
+  "source": { "url": "https://www.daringgourmet.com/traditional-english-crumpets/", "site": "The Daring Gourmet", "retrieved": "2026-07-17", "adaptation": "Cup measures converted to grams using standard baker's conversions; ring size and batch count simplified." },
+  "tags": ["griddle-bread", "teatime"]
+}

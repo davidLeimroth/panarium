@@ -1,0 +1,138 @@
+{
+  "slug": "pane-cafone",
+  "name": {
+    "en": "Pane Cafone (Neapolitan Peasant Bread)",
+    "de": "Pane Cafone (neapolitanisches Bauernbrot)",
+    "es": "Pane Cafone (pan campesino napolitano)",
+    "fr": "Pane Cafone (pain paysan napolitain)",
+    "native": "Pane Cafone"
+  },
+  "description": {
+    "en": "Named after Campania's cafoni (peasant farmers), who fed huge wood-fired loaves to the whole household for the week. An overnight starter and a long, slow rise give it a well-holed, springy crumb under a crust so thick and hard it's practically armor.",
+    "de": "Benannt nach den cafoni, den Bauern Kampaniens, die riesige holzofengebackene Laibe für die ganze Woche buken. Ein über Nacht geführter Vorteig und eine lange, langsame Gare ergeben eine porige Krume unter einer Kruste, die so dick und hart ist, dass sie fast wie Rüstung wirkt.",
+    "es": "Llamado así por los cafoni, los campesinos de Campania, que horneaban enormes panes de horno de leña para toda la semana. Un fermento de toda la noche y una fermentación lenta dan una miga alveolada y elástica bajo una corteza tan gruesa y dura que casi parece una armadura.",
+    "fr": "Nommé d'après les cafoni, les paysans de Campanie, qui cuisaient d'énormes miches au four à bois pour toute la semaine. Un levain d'une nuit et une longue fermentation lente donnent une mie alvéolée et souple sous une croûte si épaisse qu'elle fait presque office d'armure."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Campania",
+    "note": "The name comes from 'cafone' (peasant farmer); traditional loaves baked in communal wood ovens weighed up to 4 kg to feed a household for days."
+  },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 63,
+    "saltPct": 1.8,
+    "prefermentedFlourPct": 11,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 620,
+      "note": "strong Manitoba flour"
+    },
+    {
+      "key": "water",
+      "grams": 389
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 6
+    },
+    {
+      "key": "salt",
+      "grams": 11
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1026,
+    "shape": "large rustic filone (baton), up to 4 kg in bakeries"
+  },
+  "time": {
+    "totalMin": 1063,
+    "activeMin": 35,
+    "bulkMin": 165,
+    "proofMin": 90,
+    "bakeMin": 58,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "stone"
+  },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": [
+    "wheaty",
+    "mild",
+    "yeasty"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Thick crust and a long, slow fermentation keep it honestly good for days, in the spirit of a loaf meant to feed a household all week."
+  },
+  "equipment": [
+    "stand-mixer",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build a starter",
+      "summary": "The night before, mix a small amount of flour, water, a pinch of yeast and salt into a firm starter (lievitino) and let it rest 12 hours at room temperature."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine the mature starter with most of the remaining flour and water in a mixer for about 10 minutes, then work in the last of the salt and water gradually over another 20 minutes."
+    },
+    {
+      "title": "First rise",
+      "summary": "Let the dough rest about 45 minutes."
+    },
+    {
+      "title": "Fold and rise again",
+      "summary": "Fold gently and let it rise a further 2 hours."
+    },
+    {
+      "title": "Shape and proof",
+      "summary": "Shape into one large rustic loaf and proof about 90 minutes."
+    },
+    {
+      "title": "Bake in two stages",
+      "summary": "Bake at 220°C for 20 minutes, then lower to 200°C for 35-40 minutes more, cracking the oven door near the end for a thick, crackling crust."
+    }
+  ],
+  "source": {
+    "url": "https://www.dissapore.com/ricette/pane-cafone/",
+    "site": "Dissapore",
+    "retrieved": "2026-07-17",
+    "adaptation": "Preferment (lievitino) share of total flour estimated at roughly 11%, consistent with typical pane cafone formulas; the source's headline totals for flour, water, yeast and salt are used directly."
+  },
+  "tags": [
+    "wood-fired",
+    "overnight-starter"
+  ]
+}

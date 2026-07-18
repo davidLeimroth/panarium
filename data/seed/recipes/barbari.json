@@ -1,0 +1,68 @@
+{
+  "slug": "barbari",
+  "name": {
+    "en": "Barbari (Persian Flatbread)",
+    "de": "Barbari (Persisches Fladenbrot)",
+    "es": "Barbari (Pan plano persa)",
+    "fr": "Barbari (Pain plat persan)",
+    "native": "نان بربری"
+  },
+  "aliases": ["nan-e barbari", "noon barbari"],
+  "description": {
+    "en": "A long, oval Persian flatbread with deep finger-pressed grooves, brushed with a cooked flour glaze called roomal for its glossy, crackly crust, then scattered with sesame and nigella seeds. Sold warm each morning and torn straight from the loaf.",
+    "de": "Ein langes, ovales persisches Fladenbrot mit tiefen, mit den Fingern gedrückten Rillen, bestrichen mit einer gekochten Mehlglasur namens Roomal für die glänzende, krachige Kruste, bestreut mit Sesam und Schwarzkümmel. Wird morgens warm verkauft.",
+    "es": "Un pan plano persa, largo y ovalado, con surcos profundos marcados con los dedos, pincelado con un glaseado de harina cocida llamado roomal que le da su corteza brillante y crujiente, y espolvoreado con sésamo y nigella. Se vende caliente cada mañana.",
+    "fr": "Un pain plat persan long et ovale, marqué de sillons profonds pressés du bout des doigts, badigeonné d'un glaçage de farine cuite appelé roomal qui lui donne sa croûte brillante et craquante, puis parsemé de sésame et de nigelle. Vendu chaud chaque matin."
+  },
+  "origin": { "country": "IR", "region": "Iran (nationwide)", "note": "One of Iran's everyday breakfast breads alongside sangak and lavash; now also baked across the Iranian diaspora and wider Middle East." },
+  "leaven": "yeast",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 79,
+    "saltPct": 2,
+    "sugarPct": 2,
+    "fatPct": 2.8,
+    "yeastPct": 0.6,
+    "flours": [
+      { "type": "wheat-white", "pct": 50 },
+      { "type": "wheat-whole", "pct": 50 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 250, "note": "bread flour" },
+    { "key": "flour:wheat-whole", "grams": 250 },
+    { "key": "water", "grams": 395, "note": "warm" },
+    { "key": "instant-yeast", "grams": 3 },
+    { "key": "salt", "grams": 10 },
+    { "key": "sugar", "grams": 10, "note": "or use honey" },
+    { "key": "olive-oil", "grams": 14 },
+    { "key": "sesame-seeds", "grams": 9 },
+    { "label": { "en": "nigella seeds", "de": "Schwarzkümmel", "es": "semillas de nigella", "fr": "graines de nigelle" }, "grams": 9 },
+    { "key": "flour:wheat-white", "grams": 15, "note": "for the roomal glaze" },
+    { "key": "water", "grams": 80, "note": "for the roomal glaze" },
+    { "key": "baking-soda", "grams": 1, "note": "for the roomal glaze" }
+  ],
+  "yield": { "count": 3, "pieceGrams": 349, "shape": "long oval grooved loaf" },
+  "time": { "totalMin": 858, "activeMin": 45, "bulkMin": 120, "proofMin": 48, "bakeMin": 9, "overnight": true },
+  "bake": { "tempC": 285, "steam": false, "vessel": "stone" },
+  "difficulty": 4,
+  "crumb": "open",
+  "crust": "crackly",
+  "flavors": ["wheaty", "toasty", "savory", "nutty"],
+  "purposes": ["everyday", "breakfast", "street-food"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 50 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best warm the day it's baked, as sold fresh from Iranian bakeries each morning; freezes well and refreshes in a hot oven." },
+  "equipment": ["baking-stone"],
+  "method": [
+    { "title": "Mix & cold rest", "summary": "Combine warm water, sugar, yeast, both flours, salt and oil into a shaggy, high-hydration dough; mix briefly, then refrigerate overnight (12-16 hours)." },
+    { "title": "Strengthen", "summary": "The next day, let the cold dough warm up and do a few stretch-and-folds over about 2 hours to build strength." },
+    { "title": "Divide & rest", "summary": "Divide into loaves and let rest about 30 minutes." },
+    { "title": "Shape", "summary": "Stretch each piece into a long oval, then let rest 15-20 minutes more." },
+    { "title": "Groove & glaze", "summary": "Press deep grooves down the length with oiled fingers, then brush generously with the cooked roomal flour glaze." },
+    { "title": "Seed", "summary": "Scatter sesame and nigella seeds over the glazed surface." },
+    { "title": "Blast-bake", "summary": "Bake in a very hot oven for 8-10 minutes until deep golden and crackly." }
+  ],
+  "source": { "url": "https://www.thedeliciouscrescent.com/healthy-persian-barbari-bread/", "site": "The Delicious Crescent", "retrieved": "2026-07-17", "adaptation": "Headline hydration reflects the main dough only; the roomal glaze's flour and water are listed separately but excluded from hydrationPct since it's brushed on, not fermented with the dough." },
+  "tags": ["persian", "breakfast-bread"]
+}

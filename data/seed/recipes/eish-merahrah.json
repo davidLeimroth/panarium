@@ -1,0 +1,62 @@
+{
+  "slug": "eish-merahrah",
+  "name": {
+    "en": "Eish Merahrah (Fenugreek Corn Bread)",
+    "de": "Eish Merahrah (Bockshornklee-Maisbrot)",
+    "es": "Eish Merahrah (pan de maíz y fenogreco)",
+    "fr": "Eish Merahrah (pain de maïs au fenugrec)",
+    "native": "عيش مرحرح"
+  },
+  "aliases": ["aish mehrahrah", "Upper Egypt cornbread", "fenugreek cornbread"],
+  "description": {
+    "en": "A dense, earthy flatbread from Upper Egypt's villages, its dough built from corn and wheat flours with roasted ground fenugreek folded through. Baked in wide, flat rounds meant to last, it is torn and eaten with tea, beans or a simple dip.",
+    "de": "Ein dichtes, erdiges Fladenbrot aus den Dörfern Oberägyptens, der Teig aus Mais- und Weizenmehl mit geröstetem, gemahlenem Bockshornklee. In breiten, flachen Runden gebacken, damit es lange hält, wird es zerrissen mit Tee, Bohnen oder einem einfachen Dip gegessen.",
+    "es": "Un pan plano denso y terroso de los pueblos del Alto Egipto, con masa de harina de maíz y trigo y fenogreco molido y tostado incorporado. Horneado en discos anchos y planos pensados para durar, se parte y se come con té, habas o una salsa sencilla.",
+    "fr": "Un pain plat dense et terreux des villages de Haute-Égypte, la pâte à base de farine de maïs et de blé mêlée de fenugrec torréfié et moulu. Cuit en larges disques plats pensés pour durer, il se déchire et se mange avec du thé, des fèves ou une sauce simple."
+  },
+  "origin": { "country": "EG", "region": "Upper Egypt (Sa'id), rural villages", "note": "Traditional village loaves run up to 50 cm across and are baked to keep for a week or two; fenugreek was long thought to boost the bread's protein and shelf life." },
+  "leaven": "yeast",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 68.1,
+    "saltPct": 1.1,
+    "sugarPct": 4.8,
+    "yeastPct": 0.6,
+    "flours": [
+      { "type": "wheat-white", "pct": 59.8 },
+      { "type": "corn", "pct": 40.2 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 313, "note": "hard/strong white flour" },
+    { "key": "flour:corn", "grams": 210, "note": "fine cornflour/maize flour" },
+    { "key": "water", "grams": 356, "note": "lukewarm" },
+    { "key": "active-dry-yeast", "grams": 3 },
+    { "key": "sugar", "grams": 25, "note": "brown sugar" },
+    { "key": "salt", "grams": 6 },
+    { "label": { "en": "ground fenugreek", "de": "gemahlener Bockshornklee", "es": "fenogreco molido", "fr": "fenugrec moulu" }, "grams": 1, "note": "dry-roasted before grinding" }
+  ],
+  "yield": { "count": 8, "pieceGrams": 100, "shape": "flat round, about 15 cm across" },
+  "time": { "totalMin": 165, "activeMin": 25, "bulkMin": 90, "proofMin": 25, "bakeMin": 14, "overnight": false },
+  "bake": { "tempC": 205, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["earthy", "savory", "malty", "mild"],
+  "purposes": ["everyday", "side", "breakfast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 40 },
+  "keeping": { "freshDays": 10, "freezes": true, "note": "Traditionally kept a week or two in an airtight tin, a legacy of village bread that had to last between bakings." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Bloom yeast", "summary": "Dissolve the yeast and brown sugar in the lukewarm water." },
+    { "title": "Build the dough", "summary": "Stir in the white flour with firm, consistent strokes for about a minute, then work in the salt and roasted ground fenugreek." },
+    { "title": "Add cornflour", "summary": "Gradually mix in the cornflour and a little extra white flour as needed until the dough comes together; knead 5 to 6 minutes." },
+    { "title": "First rise", "summary": "Place in an oiled bowl, cover, and let rise until doubled, about 1.5 hours, then punch down and rest 5 minutes." },
+    { "title": "Shape", "summary": "Divide into 8 pieces, flatten each between the palms, then roll into a 15 cm round." },
+    { "title": "Final proof", "summary": "Arrange on oiled sheets, cover, and rest 20 minutes." },
+    { "title": "Bake", "summary": "Bake one sheet at a time until lightly browned on both sides, 12 to 15 minutes." }
+  ],
+  "source": { "url": "http://edifyingedibles.weebly.com/breads-blog/aish-merahrah", "site": "Edifying Edibles", "retrieved": "2026-07-18", "adaptation": "Cup/teaspoon quantities converted to grams; corn flour and fenugreek weights estimated; wheat flour taken at the midpoint of the source's 2-3 cup range." },
+  "tags": ["upper-egypt", "keeper-bread", "cornbread"]
+}

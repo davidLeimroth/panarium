@@ -1,0 +1,60 @@
+{
+  "slug": "obwarzanek-krakowski",
+  "name": {
+    "en": "Kraków Pretzel Ring (Obwarzanek Krakowski)",
+    "de": "Obwarzanek Krakowski (Krakauer Brezelring)",
+    "es": "Anillo de Cracovia (Obwarzanek Krakowski)",
+    "fr": "Anneau de Cracovie (Obwarzanek Krakowski)",
+    "native": "Obwarzanek krakowski"
+  },
+  "aliases": ["Kraków bagel", "Polish pretzel ring"],
+  "description": {
+    "en": "A twisted, braided ring boiled before it's baked, giving Kraków's favorite street bread a crackly crust around a soft, chewy center. Topped with sesame, poppy or salt and sold from carts across the city since at least 1394.",
+    "de": "Ein geflochtener, verdrehter Ring, der vor dem Backen gebrüht wird und Krakaus liebstem Straßengebäck eine knusprige Kruste um einen weichen, zähen Kern verleiht. Mit Sesam, Mohn oder Salz bestreut und seit mindestens 1394 an Straßenständen verkauft.",
+    "es": "Un anillo trenzado y retorcido que se escalda antes de hornear, dando al pan callejero favorito de Cracovia una corteza crujiente alrededor de un centro suave y masticable. Cubierto de sésamo, amapola o sal, se vende en carritos de la ciudad desde al menos 1394.",
+    "fr": "Un anneau tressé et torsadé, ébouillanté avant d'être cuit, qui donne au pain de rue préféré de Cracovie une croûte craquante autour d'un cœur moelleux et élastique. Garni de sésame, de pavot ou de sel, il se vend dans des charrettes de la ville depuis au moins 1394."
+  },
+  "origin": { "country": "PL", "region": "Kraków and Wieliczka", "note": "First documented in royal ledgers from 1394; holds EU Protected Geographical Indication status, restricted to Kraków and Wieliczka." },
+  "leaven": "yeast",
+  "family": "ring",
+  "formula": {
+    "hydrationPct": 60,
+    "saltPct": 1.2,
+    "yeastPct": 1.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500 },
+    { "key": "water", "grams": 300 },
+    { "key": "active-dry-yeast", "grams": 7 },
+    { "key": "salt", "grams": 6 },
+    { "key": "baking-soda", "grams": 14, "note": "for the boiling water bath" },
+    { "key": "honey", "grams": 21, "note": "for the boiling water bath, for shine" },
+    { "key": "sesame-seeds", "grams": 15, "note": "topping, half the batch" },
+    { "key": "poppy-seeds", "grams": 15, "note": "topping, other half of the batch" }
+  ],
+  "yield": { "count": 6, "pieceGrams": 115, "shape": "twisted ring, boiled then baked" },
+  "time": { "totalMin": 145, "activeMin": 35, "bulkMin": 90, "bakeMin": 20 },
+  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": ["mild", "wheaty", "toasty", "savory"],
+  "purposes": ["street-food", "snack", "breakfast", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 0.5, "freezes": true, "note": "Best eaten within a few hours of baking, still warm from the cart; can be frozen and refreshed in the oven." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Dissolve yeast in warm water, rest 5-10 minutes, then combine with flour and salt into a smooth dough." },
+    { "title": "Rise", "summary": "Cover and let double in size, 1-2 hours." },
+    { "title": "Shape", "summary": "Divide and roll each piece into a long rope, fold in half, twist into a spiral, then join the ends into a ring." },
+    { "title": "Boil", "summary": "Simmer baking soda and honey in a large pot of water; dip each ring 15-20 seconds per side." },
+    { "title": "Top", "summary": "Transfer to a lined sheet and scatter with sesame seeds, poppy seeds or coarse salt." },
+    { "title": "Bake", "summary": "Bake until deeply golden, about 20 minutes." }
+  ],
+  "source": { "url": "https://polishhousewife.com/the-krakow-bagel-pretzel-obwarzanek-krakowski/", "site": "Polish Housewife", "retrieved": "2026-07-17" },
+  "tags": ["street-food", "pgi"]
+}

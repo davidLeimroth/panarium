@@ -1,0 +1,58 @@
+{
+  "slug": "honey-oat-sourdough",
+  "name": {
+    "en": "Honey Oat Sourdough",
+    "de": "Honig-Hafer-Sauerteigbrot",
+    "es": "Pan de masa madre de avena y miel",
+    "fr": "Pain au levain miel et avoine"
+  },
+  "aliases": ["Honey oat bread"],
+  "description": {
+    "en": "A friendly, everyday sourdough softened with rolled oats and a touch of honey. The tang is gentle, the crumb is tender and faintly sweet, and a coat of oats on the crust makes it as good toasted with butter as it is for a sandwich.",
+    "de": "Ein freundliches Alltags-Sauerteigbrot, weich durch Haferflocken und eine Prise Honig. Die Säure ist mild, die Krume zart und leicht süß, und die Haferkruste macht es getoastet mit Butter genauso gut wie im Sandwich.",
+    "es": "Un pan de masa madre cotidiano y amable, suavizado con copos de avena y un toque de miel. El sabor ácido es suave, la miga tierna y ligeramente dulce, y la costra de avena lo hace tan bueno tostado con mantequilla como en un sándwich.",
+    "fr": "Un pain au levain simple et accueillant, attendri par des flocons d'avoine et une touche de miel. L'acidité est douce, la mie tendre et légèrement sucrée, et sa croûte parsemée d'avoine le rend aussi bon grillé qu'en sandwich."
+  },
+  "origin": { "country": "US", "region": "Home-baking tradition", "note": "A home-baker favorite built on the classic honey-oatmeal loaf, updated with a wild-yeast levain in place of commercial yeast." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 70,
+    "saltPct": 2,
+    "sugarPct": 6,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500, "note": "bread flour" },
+    { "key": "rolled-oats", "grams": 50, "note": "plus extra for rolling the shaped loaf" },
+    { "key": "water", "grams": 350 },
+    { "key": "honey", "grams": 30 },
+    { "key": "sourdough-starter", "grams": 50, "note": "active, 100% hydration" },
+    { "key": "salt", "grams": 10 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 880, "shape": "bâtard" },
+  "time": { "totalMin": 900, "activeMin": 25, "bulkMin": 300, "proofMin": 600, "bakeMin": 42, "overnight": true },
+  "bake": { "tempC": 230, "steam": false, "vessel": "dutch-oven" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "chewy",
+  "flavors": ["sweet", "wheaty", "mild"],
+  "purposes": ["everyday", "sandwich", "breakfast", "toast"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 9 },
+  "keeping": { "freshDays": 4, "freezes": true },
+  "equipment": ["dutch-oven", "banneton"],
+  "method": [
+    { "title": "Mix", "summary": "Stir starter, water and honey together, then work in the flour and salt to a shaggy dough; rest about an hour." },
+    { "title": "Build strength, add oats", "summary": "Perform four stretch-and-fold sets 15-30 minutes apart, folding in the rolled oats during the second and third sets." },
+    { "title": "Bulk ferment", "summary": "Leave at room temperature until roughly doubled, about 4-6 hours total." },
+    { "title": "Shape", "summary": "Shape into a bâtard and roll the surface in dry rolled oats for a rustic, toasted-looking crust." },
+    { "title": "Cold proof", "summary": "Proof seam-side-up in a floured banneton in the refrigerator anywhere from 5 to 36 hours, to taste." },
+    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: about 30 minutes covered, then 10-15 minutes uncovered until golden brown." },
+    { "title": "Cool", "summary": "Rest on a rack until fully cool before slicing." }
+  ],
+  "source": { "url": "https://pantrymama.com/honey-oat-sourdough-bread/", "site": "The Pantry Mama", "retrieved": "2026-07-17", "adaptation": "Rolled oats treated as a soaked inclusion rather than a structural flour, so they sit outside the 100% flour base used for hydration." },
+  "tags": ["oat", "beginner-friendly"]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "roti-canai",
+  "name": {
+    "en": "Roti Canai",
+    "de": "Roti Canai",
+    "es": "Roti Canai",
+    "fr": "Roti Canai"
+  },
+  "aliases": ["roti prata", "roti chanai"],
+  "description": {
+    "en": "A butter-laminated Malaysian flatbread stretched by hand until nearly see-through, then coiled, pan-fried and clapped between the palms to shatter into flaky, pull-apart layers. Sold at all-hours mamak stalls alongside dhal curry.",
+    "de": "Ein mit Butter laminiertes malaysisches Fladenbrot, fast durchsichtig gezogen, aufgerollt, gebraten und zwischen den Händen geklatscht, bis es in zupfbare Schichten zerfällt. An Mamak-Ständen rund um die Uhr mit Dhal-Curry verkauft.",
+    "es": "Un pan plano malayo laminado con mantequilla, estirado a mano hasta quedar casi transparente, enrollado, frito en sartén y golpeado entre las palmas hasta deshacerse en capas hojaldradas. Se vende a toda hora en los puestos mamak junto con curry de dhal.",
+    "fr": "Un pain plat malaisien feuilleté au beurre, étiré à la main jusqu'à devenir presque transparent, enroulé, poêlé puis frappé entre les paumes jusqu'à se défaire en couches croustillantes. Vendu à toute heure dans les échoppes mamak avec un curry de dhal."
+  },
+  "origin": { "country": "MY", "region": "Malaysia & Singapore (Mamak / Indian-Muslim cuisine)", "note": "Descended from South Indian paratha traditions brought by Tamil Muslim immigrants; roti canai and Singapore's roti prata are close siblings of the same dough." },
+  "leaven": "none",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 68,
+    "saltPct": 1.2,
+    "sugarPct": 2,
+    "fatPct": 23,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 520, "note": "bread flour" },
+    { "key": "egg", "grams": 50 },
+    { "key": "butter", "grams": 40, "note": "melted, in the dough" },
+    { "label": { "en": "sweetened condensed milk", "de": "gezuckerte Kondensmilch", "es": "leche condensada azucarada", "fr": "lait concentré sucré" }, "grams": 20 },
+    { "key": "water", "grams": 310 },
+    { "key": "salt", "grams": 6 },
+    { "key": "butter", "grams": 100, "note": "for coating dough balls and laminating during stretching" }
+  ],
+  "yield": { "count": 10, "pieceGrams": 105, "shape": "thin stretched round or square, pan-fried, 20-25 cm" },
+  "time": { "totalMin": 850, "activeMin": 90, "bulkMin": 720, "proofMin": 10, "bakeMin": 60, "overnight": true },
+  "bake": { "tempC": 200, "steam": false, "vessel": "griddle" },
+  "difficulty": 4,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["buttery", "rich", "savory"],
+  "purposes": ["breakfast", "street-food", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best hot off the griddle, torn and fluffed by hand; keeps poorly once cool. Uncooked dough balls freeze well and cook straight from frozen, like the common frozen roti canai sold in stores." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Mix & knead", "summary": "Combine flour, egg, melted butter, condensed milk, water and salt; knead about 10 minutes, rest 10, then knead 5 more until smooth." },
+    { "title": "Butter & chill", "summary": "Divide into balls, coat each generously in butter, and refrigerate overnight in a covered, buttered container." },
+    { "title": "Stretch thin", "summary": "The next day, flatten each ball and stretch it by hand, working in more butter, until almost translucent." },
+    { "title": "Fold & coil", "summary": "Gather the thin sheet into a loose log, then coil it into a spiral and tuck the end under." },
+    { "title": "Rest", "summary": "Let the coiled dough rest about 10 minutes, then press flat." },
+    { "title": "Pan-fry", "summary": "Cook in a buttered pan over medium heat, several minutes per side, until deep golden." },
+    { "title": "Clap & serve", "summary": "Clap the hot bread between your palms to fluff and separate the layers before serving." }
+  ],
+  "source": { "url": "https://www.elmundoeats.com/homemade-roti-canai/", "site": "El Mundo Eats", "retrieved": "2026-07-17", "adaptation": "Lamination butter quantity beyond the dough itself estimated at roughly 100 g across 10 pieces, since the source calls for 'additional butter for coating and cooking' without a fixed amount." },
+  "tags": ["laminated", "mamak"]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "king-cake",
+  "name": {
+    "en": "New Orleans King Cake",
+    "de": "King Cake aus New Orleans",
+    "es": "King Cake de Nueva Orleans",
+    "fr": "King Cake de La Nouvelle-Orléans"
+  },
+  "aliases": ["Mardi Gras cake", "Carnival king cake"],
+  "description": {
+    "en": "Louisiana's Carnival-season icon: a cinnamon-swirled ring of sweet yeast dough, iced and dusted in purple, green and gold sugar, with a tiny plastic baby hidden inside. Eaten from Epiphany through Mardi Gras, finding the baby means you host next year's cake.",
+    "de": "Louisianas Ikone der Karnevalssaison: ein zimtiger Ring aus süßem Hefeteig, glasiert und mit lila, grünem und goldenem Zucker bestreut, mit einem kleinen Plastikbaby im Teig versteckt. Gegessen von Epiphanias bis Mardi Gras – wer es findet, richtet den Kuchen nächstes Jahr aus.",
+    "es": "El ícono de la temporada de Carnaval en Luisiana: un anillo de masa dulce de levadura con canela, glaseado y cubierto de azúcar morado, verde y dorado, con un pequeño bebé de plástico escondido dentro. Se come desde Epifanía hasta Mardi Gras.",
+    "fr": "L'icône de la saison du Carnaval en Louisiane : un anneau de pâte levée sucrée à la cannelle, glacé et saupoudré de sucre violet, vert et or, avec un petit bébé en plastique caché à l'intérieur. Dégusté de l'Épiphanie à Mardi Gras."
+  },
+  "origin": {
+    "country": "US",
+    "region": "Louisiana (New Orleans)",
+    "note": "Descends from the French Catholic Epiphany treat galette des rois, carried to Louisiana by French colonists. Twentieth-century New Orleans bakeries recast it into today's cinnamon-and-icing Carnival ring, distinct from both galette des rois and brioche."
+  },
+  "leaven": "yeast",
+  "family": "ring",
+  "formula": {
+    "hydrationPct": 57.1,
+    "saltPct": 0.8,
+    "sugarPct": 24.5,
+    "fatPct": 45.3,
+    "yeastPct": 1.9,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 375 },
+    { "key": "water", "grams": 59, "note": "warm, for blooming the yeast" },
+    { "key": "active-dry-yeast", "grams": 7 },
+    { "key": "milk", "grams": 60, "note": "warm" },
+    { "key": "butter", "grams": 113, "note": "softened, for the dough" },
+    { "key": "sugar", "grams": 25, "note": "for the dough" },
+    { "key": "salt", "grams": 3 },
+    { "key": "egg", "grams": 100, "note": "2 eggs" },
+    { "key": "butter", "grams": 57, "note": "melted, for the cinnamon filling" },
+    { "key": "brown-sugar", "grams": 67, "note": "packed light brown, for the filling" },
+    { "key": "cinnamon", "grams": 4, "note": "for the filling" },
+    { "label": { "en": "nutmeg", "de": "Muskatnuss", "es": "nuez moscada", "fr": "muscade" }, "grams": 1 },
+    { "key": "sugar", "grams": 120, "note": "powdered sugar, whisked with milk into the icing" },
+    { "key": "milk", "grams": 22, "note": "for the icing glaze" },
+    { "label": { "en": "almond extract", "de": "Mandelextrakt", "es": "extracto de almendra", "fr": "extrait d'amande" }, "grams": 1 },
+    { "key": "sugar", "grams": 30, "note": "colored purple, green and gold, for dusting on top" },
+    { "label": { "en": "plastic baby figurine", "de": "Plastikbaby-Figur", "es": "figura de bebé de plástico", "fr": "fève en forme de bébé" }, "grams": 5, "note": "traditional trinket tucked in from underneath after baking; inedible, optional" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 960, "shape": "one large oval/ring, serves 12-15" },
+  "time": { "totalMin": 270, "activeMin": 60, "bulkMin": 90, "proofMin": 45, "bakeMin": 30, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "spiced", "buttery", "rich", "caramel"],
+  "purposes": ["celebration", "holiday", "dessert", "table"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best the day it's iced; the enriched dough dries faster than a lean loaf, though it holds a couple of days well wrapped." },
+  "equipment": ["stand-mixer", "sheet-pan"],
+  "method": [
+    { "title": "Mix the dough", "summary": "Combine warm water, milk, yeast, sugar, butter, salt, nutmeg, eggs and flour into a soft, enriched dough; knead until smooth." },
+    { "title": "First rise", "summary": "Let the dough double in size in a warm place." },
+    { "title": "Fill", "summary": "Roll the dough into a long rectangle and spread it with melted butter, brown sugar and cinnamon." },
+    { "title": "Roll and twist", "summary": "Roll up tightly like a jelly roll, slice the log in half lengthwise, then twist the two halves together with the cut sides facing up." },
+    { "title": "Ring and proof", "summary": "Join the ends into a circle on a baking sheet and let it proof until puffy." },
+    { "title": "Bake", "summary": "Bake until golden brown and cooked through." },
+    { "title": "Decorate", "summary": "Once cool, drizzle with icing and dust bands of purple, green and gold sugar over the top; tuck the plastic baby in from underneath." }
+  ],
+  "source": {
+    "url": "https://girlraisedinthesouth.com/authentic-king-cake-mardi-gras/",
+    "site": "Girl Raised in the South",
+    "retrieved": "2026-07-17",
+    "adaptation": "Flour picked from source's 3–3½ cup range (used 3 cups) for typical hydration. Icing, decorative sugar and the baby figurine excluded from formula %s as post-bake additions."
+  },
+  "tags": ["mardi-gras", "carnival", "epiphany-season"]
+}

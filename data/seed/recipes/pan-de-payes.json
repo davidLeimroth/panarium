@@ -1,0 +1,137 @@
+{
+  "slug": "pan-de-payes",
+  "name": {
+    "en": "Pan de Payés (Catalan Country Bread)",
+    "de": "Pan de Payés (katalanisches Landbrot)",
+    "es": "Pan de Payés",
+    "fr": "Pan de Payés (pain paysan catalan)",
+    "native": "Pa de Pagès"
+  },
+  "description": {
+    "en": "A round Catalan country loaf that skips scoring entirely: bakers flip it seam-up before its final rise, so the dough bursts open along its own folds into deep, rustic cracks. A solid starter and 60-70% hydration give it big, irregular holes and real sourdough tang.",
+    "de": "Ein rundes katalanisches Landbrot ohne jedes Einschneiden: Vor der letzten Gare wird es mit der Naht nach oben gelegt, sodass der Teig entlang seiner Falten in tiefe, rustikale Risse aufplatzt. Fester Sauerteig und 60-70% Hydration sorgen für große, unregelmäßige Poren.",
+    "es": "Una hogaza redonda catalana que prescinde del greñado: los panaderos la colocan boca abajo antes de la última fermentación, para que la masa reviente a lo largo de sus propios pliegues en grietas rústicas. Una masa madre sólida y 60-70% de hidratación dan grandes alvéolos.",
+    "fr": "Une miche ronde catalane qui se passe complètement du grignage: les boulangers la retournent avant la dernière pousse pour que la pâte éclate le long de ses plis en fissures rustiques. Un levain ferme et 60-70% d'hydratation donnent de grands alvéoles irréguliers et un vrai peps."
+  },
+  "origin": {
+    "country": "ES",
+    "region": "Catalonia",
+    "note": "One of Spain's IGP-recognized breads; the round hogaza needs no scoring because the seams left from shaping crack open on their own during baking."
+  },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 63,
+    "saltPct": 1.8,
+    "prefermentedFlourPct": 11,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 325
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 90,
+      "note": "masa madre sólida, roughly 50% hydration"
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 925,
+    "shape": "round loaf (hogaza), unscored, it cracks naturally"
+  },
+  "time": {
+    "totalMin": 365,
+    "activeMin": 20,
+    "bulkMin": 180,
+    "proofMin": 130,
+    "bakeMin": 40,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crackly",
+  "flavors": [
+    "tangy",
+    "wheaty",
+    "mild"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "The sourdough and thick crust give it decent keeping power, typical of Catalonia's classic everyday country loaf."
+  },
+  "equipment": [
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, water, starter and salt into a smooth, cohesive dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let rise until doubled, about 3 hours at room temperature."
+    },
+    {
+      "title": "Shape without scoring",
+      "summary": "Shape into a round loaf and rest 10 minutes; no slashing is needed for this bread."
+    },
+    {
+      "title": "Flip the seams up",
+      "summary": "Set the dough seam-side up for its final proof so the seams crack open naturally in the oven instead of a scored top."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Let it rise again until doubled."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake starting hot around 200°C, then lower to about 165°C, roughly 40 minutes total, until deeply golden and the natural seams have burst into a rustic crust."
+    }
+  ],
+  "source": {
+    "url": "https://levanova.es/receta-pan-payes-casero/",
+    "site": "Levanova",
+    "retrieved": "2026-07-17",
+    "adaptation": "Reconstructed using this site's no-scoring, flip-to-crack method with typical pan de payés ratios (60-70% hydration, 15-20% solid starter), not the site's own commercial starter-packet amounts."
+  },
+  "tags": [
+    "no-scoring",
+    "igp"
+  ]
+}

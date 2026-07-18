@@ -1,0 +1,55 @@
+{
+  "slug": "corn-tortilla",
+  "name": {
+    "en": "Corn Tortilla",
+    "de": "Maistortilla",
+    "es": "Tortilla de maíz",
+    "fr": "Tortilla de maïs",
+    "native": "tlaxcalli"
+  },
+  "aliases": ["tortilla de maiz", "corn tortilla"],
+  "description": {
+    "en": "A thin, gluten-free flatbread of nixtamalized corn masa, pressed and griddled in under two minutes until it puffs and specks with char. The everyday wrapper for tacos, the base for enchiladas, or simply salted and eaten warm off the comal.",
+    "de": "Ein dünnes, glutenfreies Fladenbrot aus nixtamalisierter Maismasa, in unter zwei Minuten auf der Platte gebacken, bis es aufpufft und braune Flecken bekommt. Die alltägliche Hülle für Tacos, die Basis für Enchiladas, oder einfach gesalzen warm vom Comal gegessen.",
+    "es": "Un pan plano fino y sin gluten de masa de maíz nixtamalizado, prensado y cocido en el comal en menos de dos minutos hasta que se infla y se motea de tostado. El envoltorio diario para tacos, la base de las enchiladas, o simplemente salada y comida recién hecha.",
+    "fr": "Un pain plat fin et sans gluten à base de masa de maïs nixtamalisé, pressé et cuit sur le comal en moins de deux minutes jusqu'à gonfler et se tacheter de brun. L'enveloppe quotidienne des tacos, la base des enchiladas, ou simplement salée et mangée chaude."
+  },
+  "origin": { "country": "MX", "region": "Mesoamerica, nationwide Mexico", "note": "Descended from millennia-old Mesoamerican nixtamalization; the Nahuatl name for the flatbread was tlaxcalli." },
+  "leaven": "none",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 167,
+    "saltPct": 2.5,
+    "flours": [
+      { "type": "corn", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:corn", "grams": 120, "note": "masa harina; dehydrated, nixtamalized corn masa flour" },
+    { "key": "water", "grams": 200, "note": "warm, about 38°C" },
+    { "key": "salt", "grams": 3, "note": "optional" }
+  ],
+  "yield": { "count": 8, "pieceGrams": 40, "shape": "thin 6 in (15 cm) round" },
+  "time": { "totalMin": 38, "activeMin": 15, "proofMin": 18, "bakeMin": 13, "overnight": false },
+  "bake": { "tempC": 230, "steam": false, "vessel": "griddle" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["earthy", "toasty", "mild"],
+  "purposes": ["everyday", "street-food", "sandwich"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fresh and warm off the comal; once cooled it turns leathery quickly but softens again on a hot dry skillet. Refrigerates a few days or freezes stacked with parchment." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Mix masa", "summary": "Knead masa harina with warm water (and salt if using) about 2 minutes to a smooth, moist dough with the texture of soft playdough." },
+    { "title": "Rest", "summary": "Cover and let the masa rest 15-20 minutes so the flour fully hydrates." },
+    { "title": "Portion", "summary": "Divide into small, even balls." },
+    { "title": "Press", "summary": "Flatten each ball between sheets of plastic in a tortilla press (or by hand) into a thin round." },
+    { "title": "Griddle, first side", "summary": "Lay on a hot dry comal about 30 seconds, until it releases easily." },
+    { "title": "Flip twice", "summary": "Cook the second side about 30 seconds, then flip back to the first side briefly until it puffs with steam." },
+    { "title": "Keep warm", "summary": "Stack in a cloth-lined basket to stay soft and pliable." }
+  ],
+  "source": { "url": "https://masienda.com/blogs/learn/recipe-tortillas-masa-harina", "site": "Masienda", "retrieved": "2026-07-17", "adaptation": "Yield reconciled to the stated ~40 g dough balls (8 tortillas) rather than the source's separately claimed count of 10, since the two figures were inconsistent with the given dough weight." },
+  "tags": ["nixtamalized", "gluten-free", "staple"]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "porridge-sourdough",
+  "name": {
+    "en": "Oat Porridge Sourdough",
+    "de": "Hafer-Porridge-Sauerteigbrot",
+    "es": "Pan de masa madre con papilla de avena",
+    "fr": "Pain au levain au porridge d'avoine"
+  },
+  "aliases": ["Porridge bread"],
+  "description": {
+    "en": "A soft, cooked oat porridge folded through the dough pushes effective hydration far past a normal loaf, for an exceptionally moist, long-keeping crumb with a mild, toasty sweetness. Sticky and unnerving to handle, but trust the process.",
+    "de": "Ein weicher, gekochter Haferporridge, untergearbeitet in den Teig, treibt die effektive Hydration weit über ein normales Brot hinaus – für eine außergewöhnlich saftige, lange haltbare Krume mit milder, gerösteter Süße. Klebrig in der Handhabung, aber es lohnt sich zu vertrauen.",
+    "es": "Una suave papilla de avena cocida, incorporada a la masa, empuja la hidratación efectiva muy por encima de un pan normal, dando una miga excepcionalmente húmeda y de larga conservación con un dulzor suave y tostado. Pegajosa de manejar, pero confía en el proceso.",
+    "fr": "Un porridge d'avoine cuit et incorporé à la pâte pousse l'hydratation effective bien au-delà d'un pain classique, pour une mie exceptionnellement moelleuse et longue conservation, avec une douceur toastée subtile. Collante à travailler, mais il faut faire confiance au processus."
+  },
+  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "Cooked-grain porridge breads have roots across Northern Europe; this specific high-hydration sourdough treatment is a contemporary artisan formula." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 100,
+    "saltPct": 2.3,
+    "prefermentedFlourPct": 6.5,
+    "flours": [
+      { "type": "wheat-white", "pct": 68.7 },
+      { "type": "wheat-whole", "pct": 31.3 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 735 },
+    { "key": "flour:wheat-whole", "grams": 335 },
+    { "key": "water", "grams": 845, "note": "for the dough" },
+    { "key": "rolled-oats", "grams": 250, "note": "cooked into a porridge, plus extra for rolling the shaped loaf" },
+    { "key": "water", "grams": 500, "note": "to cook the oat porridge" },
+    { "key": "sourdough-starter", "grams": 18 },
+    { "key": "salt", "grams": 25 }
+  ],
+  "yield": { "count": 2, "pieceGrams": 1250, "shape": "boule" },
+  "time": { "totalMin": 1740, "activeMin": 45, "bulkMin": 330, "proofMin": 840, "bakeMin": 55, "overnight": true },
+  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "difficulty": 4,
+  "crumb": "open",
+  "crust": "crackly",
+  "flavors": ["toasty", "mild", "sweet"],
+  "purposes": ["everyday", "breakfast", "toast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 44 },
+  "keeping": { "freshDays": 5, "freezes": true, "note": "The cooked porridge keeps the crumb moist noticeably longer than a plain sourdough." },
+  "equipment": ["dutch-oven", "banneton"],
+  "method": [
+    { "title": "Build the levain", "summary": "Mix starter with flour and water; ripen about 5-6 hours." },
+    { "title": "Cook the porridge", "summary": "Simmer rolled oats in water, covered, about 16 minutes to a creamy porridge; spread on a tray and cool completely." },
+    { "title": "Mix", "summary": "Dissolve the levain in water, add both flours, and rest 1 hour; then work in salt." },
+    { "title": "Bulk ferment with porridge", "summary": "Fold the cooled porridge into the dough during the first stretch-and-fold, then continue with six sets total over about 5.5 hours, pinching apart any oat clumps." },
+    { "title": "Shape", "summary": "Divide, preshape, rest 20 minutes, then shape into boules and coat the bottoms in dry rolled oats." },
+    { "title": "Proof", "summary": "Proof 1 hour at room temperature, then overnight in the refrigerator." },
+    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 35 minutes uncovered until deep golden." },
+    { "title": "Cool", "summary": "Rest at least 1-2 hours before cutting; the interior needs time to fully set." }
+  ],
+  "source": { "url": "https://www.theperfectloaf.com/oat-porridge-sourdough/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17", "adaptation": "Hydration counts only part of the porridge's cooking water as effective dough hydration, since much of it is bound into the cooked starch rather than behaving as free water." },
+  "tags": ["porridge", "high-moisture"]
+}

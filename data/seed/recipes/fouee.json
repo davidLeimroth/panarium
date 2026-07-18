@@ -1,0 +1,62 @@
+{
+  "slug": "fouee",
+  "name": {
+    "en": "Fouée de Touraine",
+    "de": "Fouée de Touraine (Blasenbrot aus der Touraine)",
+    "es": "Fouée de Touraine (panecillo inflado del Loira)",
+    "fr": "Fouée de Touraine",
+    "native": "Fouée"
+  },
+  "aliases": ["fouace tourangelle", "fouée angevine"],
+  "description": {
+    "en": "A small, thin round of dough that puffs into a hollow pocket in a blazing-hot oven, in barely a couple of minutes at its most traditional. Split open straight from the oven and stuffed with rillettes, garlic butter or goat cheese.",
+    "de": "Ein kleiner, dünner Teigfladen, der in einem glühend heißen Ofen zu einer hohlen Tasche aufbläht, traditionell in kaum zwei Minuten. Direkt aus dem Ofen aufgerissen und mit Rillettes, Knoblauchbutter oder Ziegenkäse gefüllt.",
+    "es": "Un disco de masa pequeño y fino que se infla hasta formar una bolsa hueca en un horno abrasador, en apenas un par de minutos en su forma más tradicional. Se abre recién salido del horno y se rellena con rillettes, mantequilla de ajo o queso de cabra.",
+    "fr": "Un petit disque de pâte fine qui gonfle en une poche creuse dans un four brûlant, en à peine deux minutes dans sa version la plus traditionnelle. On la fend à la sortie du four pour la fourrer de rillettes, de beurre à l'ail ou de fromage de chèvre."
+  },
+  "origin": { "country": "FR", "region": "Touraine / Anjou (Val de Loire)", "note": "Traditionally the small test-piece a wood-oven baker threw onto the hearth floor to check whether the oven was hot enough for the day's real bake." },
+  "leaven": "yeast",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 50,
+    "saltPct": 1.4,
+    "sugarPct": 2.2,
+    "fatPct": 1.5,
+    "prefermentedFlourPct": 3,
+    "flours": [
+      { "type": "wheat-white", "pct": 89 },
+      { "type": "rye", "pct": 11 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 580, "note": "T55" },
+    { "key": "flour:rye", "grams": 70 },
+    { "key": "water", "grams": 325 },
+    { "key": "honey", "grams": 14 },
+    { "key": "salt", "grams": 9 },
+    { "key": "vegetable-oil", "grams": 10 },
+    { "key": "fresh-yeast", "grams": 15 }
+  ],
+  "yield": { "count": 5, "pieceGrams": 175, "shape": "thin puffed disc" },
+  "time": { "totalMin": 150, "activeMin": 35, "bulkMin": 75, "proofMin": 15, "bakeMin": 12, "overnight": false },
+  "bake": { "tempC": 250, "steam": false, "vessel": "stone" },
+  "difficulty": 2,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["mild", "wheaty", "earthy"],
+  "purposes": ["snack", "side", "soup-companion", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 0.5, "freezes": true, "note": "Meant to be eaten warm within the hour, split open and stuffed, it doesn't keep as a loaf." },
+  "equipment": ["baking-stone"],
+  "method": [
+    { "title": "Quick starter", "summary": "Mix a little flour, water, honey and yeast; let it bubble 15-20 minutes." },
+    { "title": "Mix the dough", "summary": "Add the remaining flours, salt and water; knead about 10 minutes to a firm, smooth dough." },
+    { "title": "Bulk ferment", "summary": "Let rise 1 to 1.5 hours." },
+    { "title": "Divide and shape", "summary": "Divide into portions, shape into rounds, and let relax briefly." },
+    { "title": "Roll thin", "summary": "Roll each piece into a thin disc, about 5mm." },
+    { "title": "Bake and stuff", "summary": "Bake very hot and fast until it puffs into a hollow pocket; split open immediately and fill with rillettes, garlic butter or goat cheese." }
+  ],
+  "source": { "url": "https://www.supertoinette.com/recette/1312/pain-fouee-de-touraine.html", "site": "Supertoinette", "retrieved": "2026-07-17", "adaptation": "Baking temperature estimated at 250°C for a home oven; source gave only a 10-15 minute bake time with no explicit temperature." },
+  "tags": ["touraine", "rillettes"]
+}

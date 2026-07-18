@@ -1,0 +1,66 @@
+{
+  "slug": "sorghum-bread",
+  "name": {
+    "en": "Gluten-Free Sorghum Loaf",
+    "de": "Glutenfreies Sorghumbrot",
+    "es": "Pan de sorgo sin gluten",
+    "fr": "Pain de sorgho sans gluten"
+  },
+  "aliases": ["100% sorghum bread", "psyllium sorghum loaf"],
+  "description": {
+    "en": "A single flour, sorghum, bound with a psyllium husk gel and lifted with yeast plus a touch of baking powder for insurance. Mild and slightly sweet, it needs a long, full cool before slicing or the crumb turns gummy, like most gluten-free psyllium loaves.",
+    "de": "Ein einziges Mehl, Sorghum, gebunden mit einem Flohsamenschalen-Gel und mit Hefe plus einer Prise Backpulver zur Sicherheit gelockert. Mild und leicht süß, braucht es vor dem Anschneiden eine lange, vollständige Abkühlzeit, sonst wird die Krume klebrig.",
+    "es": "Una sola harina, sorgo, ligada con un gel de cáscara de psilio y leudada con levadura más un toque de polvo de hornear de refuerzo. Suave y algo dulce, necesita enfriarse por completo antes de cortarlo o la miga queda pegajosa, como casi todo pan de psilio.",
+    "fr": "Une seule farine, le sorgho, liée par un gel de psyllium et levée à la levure avec un soupçon de levure chimique en renfort. Doux et légèrement sucré, il doit refroidir longuement avant d'être tranché, sinon la mie devient gommeuse, comme beaucoup de pains au psyllium."
+  },
+  "origin": {
+    "country": "US",
+    "region": "Modern gluten-free home baking",
+    "note": "Sorghum is an ancient African staple grain, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique, distinct from sorghum's traditional use in flatbreads like Sudanese kisra."
+  },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 133.3,
+    "saltPct": 2.44,
+    "sugarPct": 3.33,
+    "fatPct": 4.44,
+    "yeastPct": 1.56,
+    "flours": [
+      { "type": "sorghum", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:sorghum", "grams": 450 },
+    { "key": "water", "grams": 600 },
+    { "label": { "en": "whole psyllium husk", "de": "ganze Flohsamenschalen", "es": "cáscara de psilio entera", "fr": "psyllium en balles entières" }, "grams": 26 },
+    { "key": "vegetable-oil", "grams": 20 },
+    { "key": "instant-yeast", "grams": 7 },
+    { "key": "sugar", "grams": 15 },
+    { "key": "baking-powder", "grams": 4 },
+    { "key": "salt", "grams": 11 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1000, "shape": "9 x 5 in loaf pan" },
+  "time": { "totalMin": 480, "activeMin": 15, "proofMin": 90, "bakeMin": 105, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["mild", "earthy", "sweet"],
+  "purposes": ["everyday", "sandwich", "toast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Must cool completely, 4-5 hours, before slicing or the crumb turns gummy; a common trait of gluten-free psyllium loaves." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Make the psyllium gel", "summary": "Whisk whole psyllium husk into the water; let sit a few minutes until gelled." },
+    { "title": "Mix dry", "summary": "Combine sorghum flour, sugar, salt, yeast and baking powder in a separate bowl." },
+    { "title": "Combine", "summary": "Mix the psyllium gel and oil into the dry ingredients, 5-10 minutes with an electric mixer, into a thick, sticky batter; do not add extra flour even though it looks wet." },
+    { "title": "Pan", "summary": "Scrape into a lined 9 x 5 in metal loaf pan and smooth the top." },
+    { "title": "Proof", "summary": "Rise in a warm spot (about 24°C) 1-2 hours until the dough reaches the rim." },
+    { "title": "Bake", "summary": "Bake at 175°C for 1 hour 45 minutes." },
+    { "title": "Cool", "summary": "Cool in the pan 5-10 minutes, then on a rack for a full 4-5 hours before slicing." }
+  ],
+  "source": { "url": "https://www.natashashome.com/sorghum-bread/", "site": "Natasha's Home", "retrieved": "2026-07-18", "adaptation": "Salt recorded at the midpoint of the source's 10-12g range." },
+  "tags": ["gluten-free", "sorghum", "single-flour"]
+}

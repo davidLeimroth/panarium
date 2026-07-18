@@ -1,0 +1,63 @@
+{
+  "slug": "soft-white-hokkaido-rolls",
+  "name": {
+    "en": "Soft White Hokkaido Rolls",
+    "de": "Weiche Hokkaido-Milchbrötchen",
+    "es": "Panecillos blancos suaves de Hokkaido",
+    "fr": "Petits pains blancs moelleux d'Hokkaido"
+  },
+  "aliases": ["Hokkaido milk bread rolls", "pull-apart milk rolls"],
+  "description": {
+    "en": "Square, pillowy rolls baked touching in one pan so their sides stay pale and soft, built on the same tangzhong technique as shokupan but sweeter and richer. Named for Hokkaido's prized dairy, they pull apart in soft sheets for breakfast or the bread basket.",
+    "de": "Quadratische, wolkige Brötchen, zusammen in einer Form gebacken, sodass ihre Seiten blass und weich bleiben; dieselbe Tangzhong-Technik wie Shokupan, aber süßer und reicher. Benannt nach Hokkaidos Milchwirtschaft, zieht man sie weich zum Frühstück auseinander.",
+    "es": "Panecillos cuadrados y esponjosos horneados juntos para que sus caras queden pálidas y suaves, con la misma técnica de tangzhong que el shokupan pero más dulces. Llamados así por los lácteos de Hokkaido, se separan en capas suaves para el desayuno.",
+    "fr": "Petits pains carrés et moelleux cuits ensemble pour que leurs flancs restent pâles et tendres, sur la même technique de tangzhong que le shokupan mais plus sucrés. Nommés d'après le lait réputé d'Hokkaido, ils se détachent en tranches moelleuses au petit-déjeuner."
+  },
+  "origin": { "country": "JP", "region": "Hokkaido; sold nationwide and exported across East and Southeast Asia", "note": "Marketed worldwide under the Hokkaido name for the island's dairy reputation, even when made far from Japan." },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 53.6,
+    "saltPct": 1.2,
+    "sugarPct": 20.1,
+    "fatPct": 15.2,
+    "yeastPct": 2,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 374, "note": "bread flour: 24g cooked into the tangzhong, 350g in the final dough" },
+    { "key": "water", "grams": 59, "note": "in the tangzhong" },
+    { "key": "milk", "grams": 118, "note": "whole milk: 59g in the tangzhong, 59g in the dough" },
+    { "key": "milk", "grams": 16, "note": "dry milk powder, in the dough; not counted toward hydration" },
+    { "key": "sugar", "grams": 75 },
+    { "key": "salt", "grams": 4.5 },
+    { "key": "instant-yeast", "grams": 7.3 },
+    { "key": "egg", "grams": 50, "note": "1 large egg" },
+    { "key": "butter", "grams": 57, "note": "cubed, softened" }
+  ],
+  "yield": { "count": 9, "pieceGrams": 85, "shape": "square pull-apart roll, baked touching in a pan, ~8 cm" },
+  "time": { "totalMin": 200, "activeMin": 30, "bulkMin": 90, "proofMin": 60, "bakeMin": 18, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["sweet", "buttery", "rich", "mild"],
+  "purposes": ["breakfast", "table", "everyday", "snack"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 5, "freezes": true, "note": "Pull-apart rolls share moisture with their neighbors and stay soft for several days wrapped; freezes and reheats well." },
+  "equipment": ["stand-mixer", "loaf-pan"],
+  "method": [
+    { "title": "Make the tangzhong", "summary": "Whisk flour with water and milk in a small pot; cook over medium heat, whisking, until it thickens to a smooth, pudding-like paste, then cool 10-15 minutes." },
+    { "title": "Mix dough", "summary": "Combine bread flour, milk powder, sugar and salt; add the egg, milk and cooled tangzhong, and mix about 2 minutes to a shaggy dough." },
+    { "title": "Knead", "summary": "Work in the softened butter and knead 5-7 minutes until smooth, elastic and slightly tacky." },
+    { "title": "First rise", "summary": "Cover and proof in a warm spot 1-2 hours until doubled." },
+    { "title": "Shape", "summary": "Punch down, divide into 9 pieces, and roll each into a tight ball." },
+    { "title": "Pan and proof", "summary": "Arrange the balls touching each other in a buttered square or rectangular pan and proof, covered, about 1 hour until doubled." },
+    { "title": "Bake", "summary": "Brush with a milk wash and bake at 177°C (350°F) for 15-20 minutes until golden; cool slightly before pulling apart." }
+  ],
+  "source": { "url": "https://www.hungryhuy.com/japanese-milk-bread/", "site": "Hungry Huy", "retrieved": "2026-07-18", "adaptation": "Fluid-ounce measurements converted to grams using standard density; shaped and panned as pull-apart rolls per the source, distinguishing this from this atlas's individually spaced tangzhong milk bun." },
+  "tags": ["tangzhong", "pull-apart"]
+}

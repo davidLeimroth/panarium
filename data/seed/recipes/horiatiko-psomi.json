@@ -1,0 +1,150 @@
+{
+  "slug": "horiatiko-psomi",
+  "name": {
+    "en": "Horiatiko Psomi (Greek Village Bread)",
+    "de": "Horiatiko Psomi (griechisches Dorfbrot)",
+    "es": "Horiatiko Psomi (pan de pueblo griego)",
+    "fr": "Horiatiko Psomi (pain de village grec)",
+    "native": "Χωριάτικο ψωμί"
+  },
+  "description": {
+    "en": "Greece's everyday village loaf: a simple wheat dough given a marathon 10-12 hour rise, then baked in a covered pot so it traps its own steam. What comes out is a soft, golden loaf with a good rustic crust, the kind every Greek yiayia keeps her own version of.",
+    "de": "Griechenlands tägliches Dorfbrot: ein einfacher Weizenteig mit 10-12 Stunden Marathon-Gare, dann in einem geschlossenen Topf gebacken, der den eigenen Dampf einschließt. Heraus kommt ein weicher, goldener Laib mit rustikaler Kruste, wie ihn jede griechische Yiayia kennt.",
+    "es": "El pan de pueblo cotidiano de Grecia: una masa de trigo sencilla con una fermentación maratoniana de 10-12 horas, horneada luego en una olla tapada que atrapa su propio vapor. El resultado es un pan suave y dorado de corteza rústica; cada yiayia griega tiene su propia versión.",
+    "fr": "Le pain de village quotidien de la Grèce: une pâte de blé simple soumise à une pousse marathon de 10-12 heures, puis cuite dans une cocotte fermée qui emprisonne sa propre vapeur. Il en sort une miche moelleuse et dorée à la croûte rustique, chaque yiayia grecque a sa version."
+  },
+  "origin": {
+    "country": "GR",
+    "region": "Greece-wide",
+    "note": "A home-baking staple with countless family variations; the long, unhurried rise rather than any single ingredient is what defines it."
+  },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 63,
+    "saltPct": 2.7,
+    "fatPct": 2.7,
+    "sugarPct": 0.4,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 1000
+    },
+    {
+      "key": "water",
+      "grams": 630
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 25
+    },
+    {
+      "key": "sugar",
+      "grams": 4
+    },
+    {
+      "key": "olive-oil",
+      "grams": 27
+    },
+    {
+      "key": "salt",
+      "grams": 27
+    },
+    {
+      "key": "semolina",
+      "grams": 20,
+      "note": "for dusting the work surface while kneading"
+    }
+  ],
+  "yield": {
+    "count": 2,
+    "pieceGrams": 650,
+    "shape": "round loaves, baked in a covered pot"
+  },
+  "time": {
+    "totalMin": 734,
+    "activeMin": 25,
+    "bulkMin": 660,
+    "proofMin": 20,
+    "bakeMin": 38,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": [
+    "wheaty",
+    "mild",
+    "yeasty"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "A simple everyday loaf, good for a few days and popular for feeding a crowd at Sunday lunch."
+  },
+  "equipment": [
+    "dutch-oven"
+  ],
+  "method": [
+    {
+      "title": "Activate the yeast",
+      "summary": "Dissolve yeast and sugar in the lukewarm water and let sit 5-10 minutes until foamy."
+    },
+    {
+      "title": "Mix",
+      "summary": "Stir in half the flour, then the olive oil and salt, then the rest of the flour."
+    },
+    {
+      "title": "Knead by hand",
+      "summary": "Knead until smooth and elastic, dusting with semolina as needed, then shape into a ball."
+    },
+    {
+      "title": "Long rise",
+      "summary": "Cover and let rise at room temperature 10-12 hours, or overnight."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Deflate gently, divide in two, knead each piece briefly, and shape into round loaves."
+    },
+    {
+      "title": "Bake covered",
+      "summary": "Bake in a covered Dutch oven at 250°C for 20 minutes, then uncover and bake 15-20 minutes more until deeply golden."
+    }
+  ],
+  "source": {
+    "url": "https://www.mygreekdish.com/recipe/greek-bread-recipe-village-bread-horiatiko-psomi/",
+    "site": "My Greek Dish",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams as published; the final proof duration before baking wasn't explicitly stated by the source, so a short rest is assumed."
+  },
+  "tags": [
+    "dutch-oven",
+    "long-rise"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "bap",
+  "name": {
+    "en": "Bap (Scottish Morning Roll)",
+    "de": "Bap (schottisches Frühstücksbrötchen)",
+    "es": "Bap (panecillo escocés de la mañana)",
+    "fr": "Bap (petit pain écossais du matin)"
+  },
+  "aliases": ["morning roll", "softie", "floury bap"],
+  "description": {
+    "en": "A soft, wide, barely-browned bread roll from Scotland, brushed with milk and dusted thick with flour before baking. Known across Britain under different names, it stays soft and floury on top, never crusty.",
+    "de": "Ein weiches, breites, kaum gebräuntes Brötchen aus Schottland, vor dem Backen mit Milch bestrichen und dick mit Mehl bestäubt. In ganz Großbritannien unter verschiedenen Namen bekannt, bleibt es oben weich und mehlig, nie knusprig.",
+    "es": "Un panecillo escocés suave, ancho y apenas dorado, pincelado con leche y espolvoreado con harina antes de hornear. Conocido en toda Gran Bretaña con distintos nombres, queda suave y enharinado por encima, nunca crujiente.",
+    "fr": "Un petit pain écossais moelleux, large et à peine doré, badigeonné de lait et généreusement fariné avant la cuisson. Connu partout en Grande-Bretagne sous des noms différents, il reste tendre et farineux dessus, jamais croustillant."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "Scotland; also across England and Wales as 'morning roll', 'batch', 'cob' or 'barm'",
+    "note": "A breakfast-table and sandwich staple, deliberately baked pale and soft rather than browned and crisp."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 71,
+    "saltPct": 2.1,
+    "yeastPct": 1.6,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 425 },
+    { "key": "milk", "grams": 160, "note": "lukewarm" },
+    { "key": "water", "grams": 160, "note": "lukewarm" },
+    { "key": "instant-yeast", "grams": 7 },
+    { "key": "salt", "grams": 9 },
+    { "key": "milk", "grams": 30, "note": "for brushing the tops before baking" },
+    { "key": "flour:wheat-white", "grams": 15, "note": "for dusting the tops thickly" }
+  ],
+  "yield": { "count": 10, "pieceGrams": 72, "shape": "flattened round rolls" },
+  "time": { "totalMin": 185, "activeMin": 20, "bulkMin": 75, "proofMin": 50, "bakeMin": 17, "overnight": false },
+  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["mild", "wheaty", "savory"],
+  "purposes": ["breakfast", "everyday", "sandwich"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1.5, "freezes": true, "note": "Best very fresh and soft; the floury top doesn't hold a crisp texture past a day." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix dough", "summary": "Combine flour, yeast and salt, then stir in warm milk and water to a soft, slightly sticky dough." },
+    { "title": "Knead", "summary": "Knead by machine or hand until smooth, about 8-10 minutes by machine or 15 by hand." },
+    { "title": "Bulk rise", "summary": "Cover and let rise in an oiled bowl until doubled, 1 to 1.5 hours." },
+    { "title": "Divide & shape", "summary": "Divide into 10 equal pieces, shape into smooth balls, and space out on a lined tray." },
+    { "title": "Second rise", "summary": "Cover loosely and prove until puffy, 45 to 60 minutes." },
+    { "title": "Finish & bake", "summary": "Brush each roll with milk, dust generously with flour, and bake until just pale gold, staying soft rather than deeply browned." }
+  ],
+  "source": { "url": "https://www.biggerbolderbaking.com/scottish-baps-recipe/", "site": "Bigger Bolder Baking", "author": "Gemma Stafford", "retrieved": "2026-07-18" },
+  "tags": ["morning-roll", "floury-bap"]
+}

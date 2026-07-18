@@ -1,0 +1,65 @@
+{
+  "slug": "sally-lunn",
+  "name": {
+    "en": "Sally Lunn Bun",
+    "de": "Sally-Lunn-Brot (Bath-Teegebäck)",
+    "es": "Sally Lunn (pan de té de Bath)",
+    "fr": "Sally Lunn (brioche de Bath)"
+  },
+  "aliases": ["Sally Lunn bread", "Bath bun loaf"],
+  "description": {
+    "en": "A tall, soft, egg-and-butter-enriched bun from Bath, closer to brioche than ordinary bread. Baked as one high, round loaf, split horizontally into three layers and served warm with butter or clotted cream.",
+    "de": "Ein hohes, weiches, mit Ei und Butter angereichertes Gebäck aus Bath, näher an Brioche als an gewöhnlichem Brot. Als ein hohes, rundes Brot gebacken, waagerecht in drei Schichten geteilt und warm mit Butter oder Clotted Cream serviert.",
+    "es": "Un bollo alto y suave de Bath, enriquecido con huevo y mantequilla, más cercano a la brioche que al pan común. Se hornea como un pan alto y redondo, se parte horizontalmente en tres capas y se sirve tibio con mantequilla o nata cuajada.",
+    "fr": "Une brioche haute et moelleuse de Bath, enrichie d'œufs et de beurre, plus proche de la brioche que du pain ordinaire. Cuite en un seul pain haut et rond, tranchée à l'horizontale en trois couches et servie tiède avec du beurre ou de la crème caillée."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "Bath, Somerset, England",
+    "note": "First recorded in Bath around 1780. The name's origin is disputed between a legendary Huguenot baker known as 'Sally Lunn' and a folk etymology from the French 'sol et lune' (sun and moon), for its golden top and pale base."
+  },
+  "leaven": "yeast",
+  "family": "sweet-loaf",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 2.1,
+    "sugarPct": 12,
+    "fatPct": 20,
+    "yeastPct": 2.1,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 420 },
+    { "key": "milk", "grams": 227, "note": "warm" },
+    { "key": "butter", "grams": 85 },
+    { "key": "sugar", "grams": 50 },
+    { "key": "egg", "grams": 100, "note": "2 large eggs" },
+    { "key": "instant-yeast", "grams": 9 },
+    { "key": "salt", "grams": 9 },
+    { "key": "lemon-zest", "grams": 6, "note": "or 2 tsp vanilla extract" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 830, "shape": "single tall round loaf, sliced into three layers" },
+  "time": { "totalMin": 150, "activeMin": 20, "bulkMin": 50, "proofMin": 50, "bakeMin": 27, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["buttery", "sweet", "rich", "mild"],
+  "purposes": ["breakfast", "snack", "dessert"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Rich enough to stay soft a few days; lovely toasted once past its first-day best." },
+  "equipment": ["stand-mixer", "loaf-pan"],
+  "method": [
+    { "title": "Warm the enrichments", "summary": "Heat milk, butter and sugar together until just lukewarm, then let cool about 15 minutes." },
+    { "title": "Mix dough", "summary": "Stir in lemon zest, salt, part of the flour, the eggs and yeast, then beat until smooth." },
+    { "title": "Finish the dough", "summary": "Beat in the rest of the flour to a soft, sticky, cohesive dough." },
+    { "title": "First rise", "summary": "Cover and let rise until nearly doubled, 45-60 minutes." },
+    { "title": "Pan & second rise", "summary": "Scrape the whole dough into a buttered loaf pan and let it puff again, 45-60 minutes." },
+    { "title": "Bake", "summary": "Bake until deeply golden, tenting with foil partway through if it browns too fast, until it sounds hollow." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/little-sally-lunns-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-18", "adaptation": "Source's individual-bun (muffin tin) format adapted to the single tall loaf that is Sally Lunn's traditional presentation, using the source's own stated loaf-pan alternative and its loaf bake time." },
+  "tags": ["bath", "teatime"]
+}

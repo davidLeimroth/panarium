@@ -1,0 +1,68 @@
+{
+  "slug": "shokupan",
+  "name": {
+    "en": "Shokupan (Japanese Milk Bread)",
+    "de": "Shokupan (japanisches Milchbrot)",
+    "es": "Shokupan (pan de leche japonés)",
+    "fr": "Shokupan (pain de mie japonais au lait)",
+    "native": "食パン"
+  },
+  "aliases": ["Hokkaido milk bread", "Japanese milk bread", "shoku-pan"],
+  "description": {
+    "en": "Japan's cloud-soft sandwich loaf, its cottony crumb built on a cooked tangzhong roux that traps extra moisture in the dough. Sliced thick it becomes breakfast toast; sliced thin it becomes the crustless sandwiches sold on every corner.",
+    "de": "Japans wolkenweiches Kastenbrot verdankt seine watteweiche Krume einem gekochten Tangzhong-Kochstück, das zusätzliche Feuchtigkeit im Teig bindet. Dick geschnitten wird es zum Frühstückstoast, hauchdünn zu den krustenlosen Sandwiches an jeder Ecke.",
+    "es": "El pan de molde nuboso de Japón debe su miga algodonosa a un roux tangzhong cocido que retiene humedad extra en la masa. Cortado grueso se convierte en tostada de desayuno; cortado fino, en los sándwiches sin corteza que se venden en cada esquina.",
+    "fr": "Le pain de mie tout doux du Japon doit sa mie cotonneuse à un roux tangzhong cuit qui retient l'humidité dans la pâte. Tranché épais, il devient le pain grillé du petit-déjeuner ; tranché fin, les sandwichs sans croûte vendus à chaque coin de rue."
+  },
+  "origin": {
+    "country": "JP",
+    "region": "Nationwide; marketed abroad as Hokkaido milk bread for the region's dairy",
+    "note": "Bread itself entered Japan through 16th-century Portuguese traders. The soft, roux-based loaf builds on Japan's own yudane technique; its cousin 'tangzhong' spread internationally under a Chinese name popularized by a Taiwanese cookbook author."
+  },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 72.3,
+    "saltPct": 1.9,
+    "sugarPct": 15.9,
+    "fatPct": 18.2,
+    "yeastPct": 2.9,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 314, "note": "bread flour: 14g cooked into the tangzhong, 300g in the final dough" },
+    { "key": "water", "grams": 43, "note": "in the tangzhong" },
+    { "key": "milk", "grams": 156, "note": "whole milk: 43g in the tangzhong, 113g in the dough" },
+    { "key": "milk", "grams": 14, "note": "Baker's Special dry milk powder, in the dough; not counted toward hydration" },
+    { "key": "sugar", "grams": 50 },
+    { "key": "salt", "grams": 6 },
+    { "key": "instant-yeast", "grams": 9, "note": "1 tablespoon" },
+    { "key": "egg", "grams": 50, "note": "1 large egg" },
+    { "key": "butter", "grams": 57, "note": "melted, unsalted" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 640, "shape": "domed pullman loaf, 23x13cm (9x5in) pan" },
+  "time": { "totalMin": 260, "activeMin": 40, "bulkMin": 75, "proofMin": 45, "bakeMin": 32, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["mild", "sweet", "buttery", "rich"],
+  "purposes": ["sandwich", "toast", "breakfast", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 6, "freezes": true, "note": "The tangzhong keeps it soft far longer than a plain enriched loaf; wrap airtight and it stays pillowy nearly a week, or freeze slices for later toasting." },
+  "equipment": ["stand-mixer", "loaf-pan"],
+  "method": [
+    { "title": "Cook the tangzhong", "summary": "Whisk flour with water and milk in a small pan; cook over low heat, stirring constantly, until it thickens into a smooth paste, then cool to room temperature." },
+    { "title": "Mix the dough", "summary": "Combine the cooled tangzhong with the remaining flour, milk powder, sugar, salt, yeast, milk and egg; knead in the melted butter until smooth and elastic, about 15 minutes." },
+    { "title": "First rise", "summary": "Let the dough rise at warm room temperature until puffy, about 1-1.5 hours." },
+    { "title": "Shape", "summary": "Divide into four pieces, flatten and fold each into a tight log, then set them seam-down in the loaf pan." },
+    { "title": "Second rise", "summary": "Proof until the dough crests just over the rim, 40-50 minutes." },
+    { "title": "Bake", "summary": "Bake at 177°C (350°F) for 30-35 minutes until deep golden and the loaf sounds hollow when tapped." },
+    { "title": "Cool", "summary": "Cool briefly in the pan, then turn out onto a rack and cool fully before slicing." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/japanese-milk-bread-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Method paraphrased and condensed; egg weight estimated at 50g per large egg; instant yeast converted from 1 tbsp using standard density." },
+  "tags": ["tangzhong", "milk-bread", "pullman-loaf"]
+}

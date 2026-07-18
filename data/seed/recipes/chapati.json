@@ -1,0 +1,55 @@
+{
+  "slug": "chapati",
+  "name": {
+    "en": "Chapati (Roti)",
+    "de": "Chapati (Roti)",
+    "es": "Chapati (Roti)",
+    "fr": "Chapati (Roti)",
+    "native": "चपाती"
+  },
+  "aliases": ["roti", "phulka", "fulka"],
+  "description": {
+    "en": "A whole-wheat flatbread of just atta, water and salt, rolled thin and puffed over a bare flame or on a tawa. Made fresh at nearly every Indian and Pakistani meal, torn to scoop dal and curry.",
+    "de": "Ein Vollkorn-Fladenbrot nur aus Atta-Mehl, Wasser und Salz, dünn ausgerollt und über offener Flamme oder auf der Tawa aufgepufft. Zu fast jeder indischen und pakistanischen Mahlzeit frisch gebacken, gerissen um Dal und Curry aufzunehmen.",
+    "es": "Un pan plano integral hecho solo con harina atta, agua y sal, estirado fino e inflado sobre la llama o la tawa. Se prepara fresco en casi cada comida india y pakistaní, para rasgar y mojar en dal y curry.",
+    "fr": "Un pain plat complet fait de farine atta, d'eau et de sel, étalé fin et gonflé à la flamme nue ou sur la tawa. Préparé frais à presque chaque repas indien ou pakistanais, déchiré pour saucer dal et curry."
+  },
+  "origin": { "country": "IN", "region": "Indian subcontinent (India, Pakistan, Nepal, Bangladesh)", "note": "Daily bread across the whole subcontinent; called roti in Hindi/Urdu/Punjabi, chapati especially in western India and among the East African Indian diaspora." },
+  "leaven": "none",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 81,
+    "saltPct": 1,
+    "flours": [
+      { "type": "wheat-whole", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-whole", "grams": 280, "note": "atta (finely milled whole wheat)" },
+    { "key": "water", "grams": 227, "note": "room temperature, added gradually" },
+    { "key": "salt", "grams": 3 },
+    { "key": "butter", "grams": 10, "note": "ghee, optional, brushed on hot" }
+  ],
+  "yield": { "count": 5, "pieceGrams": 102, "shape": "thin round griddle bread" },
+  "time": { "totalMin": 58, "activeMin": 45, "proofMin": 15, "bakeMin": 13, "overnight": false },
+  "bake": { "tempC": 220, "steam": false, "vessel": "griddle" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["mild", "wheaty"],
+  "purposes": ["everyday", "side"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 1.5, "freezes": true, "note": "Best warm off the tawa; wrap in cloth to stay soft for a few hours, or stack with parchment and freeze." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Mix dough", "summary": "Stir atta, salt and warm water into a shaggy mass, then knead 5-8 minutes to a soft, smooth, tacky-but-not-sticky dough." },
+    { "title": "Rest", "summary": "Cover and rest 10-15 minutes (or up to a day chilled) so the bran hydrates fully and the dough relaxes." },
+    { "title": "Divide & roll", "summary": "Divide into equal balls, then roll each into a thin, even round, dusting lightly with flour." },
+    { "title": "First flip", "summary": "Lay on a hot dry tawa and flip as soon as the underside sets, after about 10-15 seconds." },
+    { "title": "Second flip & puff", "summary": "Cook until small bubbles and brown specks appear, flip again, then hold briefly over an open flame or press gently so it puffs with trapped steam." },
+    { "title": "Finish", "summary": "Stack warm in a cloth-lined container, brushing with ghee or butter if desired." }
+  ],
+  "source": { "url": "https://www.teaforturmeric.com/roti-chapati/", "site": "Tea for Turmeric", "retrieved": "2026-07-17", "adaptation": "Salt and finishing ghee are optional home additions; core atta-to-water ratio kept as sourced." },
+  "tags": ["unleavened", "everyday-bread"]
+}

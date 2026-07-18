@@ -1,0 +1,61 @@
+{
+  "slug": "rupjmaize",
+  "name": {
+    "en": "Latvian Coarse Rye Bread (Rupjmaize)",
+    "de": "Rupjmaize (lettisches Grobroggenbrot)",
+    "es": "Pan de centeno grueso letón (Rupjmaize)",
+    "fr": "Pain de seigle grossier letton (Rupjmaize)",
+    "native": "Rupjmaize"
+  },
+  "aliases": ["rudzu rupjā maize", "Latvian dark rye"],
+  "description": {
+    "en": "Latvia's staple loaf, rye through and through: coarse and medium meal soured overnight, sweetened just enough with brown sugar and caraway, then baked into a long, dense, dark hearth loaf. Rye has anchored this table for over a thousand years.",
+    "de": "Lettlands Grundnahrungsbrot, durch und durch Roggen: grobes und mittleres Schrot über Nacht versäuert, mit braunem Zucker und Kümmel leicht gesüßt, dann zu einem langen, dichten, dunklen Fladenlaib gebacken. Roggen prägt diesen Tisch seit über tausend Jahren.",
+    "es": "El pan básico de Letonia, centeno de principio a fin: sémola gruesa y media fermentada durante la noche, endulzada apenas con azúcar moreno y alcaravea, horneada luego en una hogaza larga, densa y oscura. El centeno sostiene esta mesa desde hace más de mil años.",
+    "fr": "Le pain de base de la Lettonie, du seigle de bout en bout : semoule grossière et moyenne fermentée toute la nuit, à peine sucrée de cassonade et de carvi, puis cuite en une longue miche dense et sombre. Le seigle nourrit cette table depuis plus de mille ans."
+  },
+  "origin": { "country": "LV", "region": "Latvia, nationwide", "note": "Rye has been grown and eaten daily in Latvia for over 1,200 years; historically baked in wood-fired hearth ovens." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 100,
+    "saltPct": 1.1,
+    "sugarPct": 4.6,
+    "prefermentedFlourPct": 8.7,
+    "flours": [
+      { "type": "rye-whole", "pct": 73 },
+      { "type": "rye", "pct": 27 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:rye-whole", "grams": 795, "note": "700g coarse rye meal plus 95g fine whole rye flour used in the sour" },
+    { "key": "flour:rye", "grams": 300, "note": "medium rye meal" },
+    { "key": "water", "grams": 1095 },
+    { "key": "sourdough-starter", "grams": 10, "note": "active rye sour" },
+    { "key": "salt", "grams": 12 },
+    { "key": "brown-sugar", "grams": 50 },
+    { "key": "caraway", "grams": 10 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1800, "shape": "long oblong hearth loaf, about 15cm x 35-40cm" },
+  "time": { "totalMin": 3230, "activeMin": 25, "bulkMin": 960, "bakeMin": 85, "overnight": true },
+  "bake": { "tempC": 220, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "crackly",
+  "flavors": ["sour", "earthy", "malty", "sweet"],
+  "purposes": ["everyday", "sandwich", "table", "side"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 8, "freezes": true, "note": "Rest 24-48 hours before the first slice; the dense crumb needs the time to set." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Build the sour", "summary": "Mix whole rye flour, water and rye starter; ferment 10-12 hours until doubled with a bubbly surface." },
+    { "title": "Mix the dough", "summary": "Combine the sour with the coarse and medium rye meals, remaining water, salt, brown sugar and caraway into a loose, batter-like dough." },
+    { "title": "Bulk ferment", "summary": "Leave at room temperature until visibly expanded and bubbling, roughly 12-16 hours in total." },
+    { "title": "Shape", "summary": "Scrape onto a floured peel or sheet and shape into a long oblong loaf." },
+    { "title": "Bake", "summary": "Bake hot, then lower the oven and continue until deeply set inside." },
+    { "title": "Rest", "summary": "Cool completely and rest 24-48 hours before the first slice." }
+  ],
+  "source": { "url": "https://theryebaker.com/latvian-coarse-ryerupja-rudzu-maize/", "site": "The Rye Baker", "author": "Stanley Ginsberg", "retrieved": "2026-07-17", "adaptation": "Medium rye meal classified under the taxonomy's 'rye' (light/medium) type per grind, distinct from the coarse and whole components classified as 'rye-whole'." },
+  "tags": ["all-rye", "caraway"]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "bagel",
+  "name": {
+    "en": "New York Bagel",
+    "de": "New Yorker Bagel",
+    "es": "Bagel neoyorquino",
+    "fr": "Bagel new-yorkais"
+  },
+  "aliases": ["beigel", "NY bagel", "water bagel"],
+  "description": {
+    "en": "A stiff, low-hydration dough gets boiled briefly in malt-sweetened water before baking, which is what gives this Lower East Side classic its shiny, chewy shell and dense, tight crumb. Bread flour and barley malt are non-negotiable.",
+    "de": "Ein fester, wenig hydratisierter Teig wird vor dem Backen kurz in malzgesüßtem Wasser gekocht – daher die glänzende, zähe Kruste und dichte Krume dieses New Yorker Klassikers. Brotmehl und Gerstenmalz sind dabei unverzichtbar.",
+    "es": "Una masa firme y de baja hidratación se hierve brevemente en agua endulzada con malta antes de hornear: de ahí la corteza brillante y masticable y la miga densa y cerrada de este clásico neoyorquino. La harina de fuerza y la malta de cebada son innegociables.",
+    "fr": "Une pâte ferme et peu hydratée est brièvement pochée dans une eau sucrée au malt avant la cuisson, ce qui donne à ce classique new-yorkais sa croûte brillante et moelleuse et sa mie dense et serrée. Farine de force et malt d'orge sont incontournables."
+  },
+  "origin": {
+    "country": "US",
+    "region": "New York City",
+    "note": "Descended from ring-shaped breads of Polish-Jewish bakers; the boil-then-bake method and malt-sweetened water are the defining New York techniques."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 58,
+    "saltPct": 1.6,
+    "sugarPct": 4,
+    "yeastPct": 0.8,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500, "note": "bread flour, high gluten" },
+    { "key": "water", "grams": 290, "note": "warm, ~35°C" },
+    { "key": "malt-syrup", "grams": 20, "note": "barley malt syrup, plus more for the boiling water" },
+    { "key": "salt", "grams": 8 },
+    { "key": "instant-yeast", "grams": 4 }
+  ],
+  "yield": { "count": 6, "pieceGrams": 137, "shape": "hand-rolled ring, boiled then baked" },
+  "time": { "totalMin": 700, "activeMin": 40, "bulkMin": 20, "proofMin": 600, "bakeMin": 18, "overnight": true },
+  "bake": { "tempC": 232, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "chewy",
+  "flavors": ["malty", "yeasty", "wheaty", "toasty"],
+  "purposes": ["breakfast", "sandwich", "everyday"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day it's baked; slice before freezing so it goes straight from freezer to toaster." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix and knead", "summary": "Combine bread flour, malt syrup, salt, yeast and water into a stiff dough and knead until smooth but firm, it should feel far drier than a sandwich loaf." },
+    { "title": "Shape", "summary": "Divide into six pieces, roll each into an even rope, then loop it around your palm and roll the seam closed into a ring." },
+    { "title": "Cold retard", "summary": "Set the shaped rings on a semolina-dusted tray, cover, and refrigerate 8–12 hours so they firm up and develop flavor slowly." },
+    { "title": "Float test", "summary": "Drop a bagel in water straight from the fridge; once it floats, the batch is ready to boil." },
+    { "title": "Boil", "summary": "Simmer each bagel about 45 seconds per side in water sweetened with barley malt syrup, this sets the shiny, chewy skin before baking." },
+    { "title": "Top and bake", "summary": "Brush with water or egg wash so seeds stick, then bake hot until deeply golden and lightly blistered." }
+  ],
+  "source": { "url": "https://thepracticalkitchen.com/hand-rolled-new-york-style-bagels-overnight-recipe/", "site": "The Practical Kitchen", "retrieved": "2026-07-17", "adaptation": "Core dough ratios kept as sourced; egg wash and optional vital wheat gluten omitted from the ingredient list." },
+  "tags": ["deli", "boiled", "nyc"]
+}

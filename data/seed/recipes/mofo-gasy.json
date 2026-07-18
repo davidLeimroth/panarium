@@ -1,0 +1,64 @@
+{
+  "slug": "mofo-gasy",
+  "name": {
+    "en": "Mofo Gasy",
+    "de": "Mofo Gasy",
+    "es": "Mofo Gasy",
+    "fr": "Mofo Gasy"
+  },
+  "aliases": ["Malagasy rice bread", "Madagascar breakfast pancakes"],
+  "description": {
+    "en": "Small, fluffy fried breakfast puffs from Madagascar, their rice-and-wheat batter yeasted and enriched with coconut milk and grated coconut. Cooked a few at a time in a multi-cavity pan and sold hot by street vendors alongside sweet coffee.",
+    "de": "Kleine, fluffige, frittierte Frühstückspuffs aus Madagaskar, ihr Reis-Weizen-Teig mit Hefe gelockert und mit Kokosmilch und geriebener Kokosnuss angereichert. In einer Pfanne mit mehreren Mulden gebacken und heiß von Straßenhändlern zu süßem Kaffee verkauft.",
+    "es": "Pequeños y esponjosos buñuelos de desayuno de Madagascar, su masa de arroz y trigo fermentada y enriquecida con leche de coco y coco rallado. Se cocinan de a pocos en un molde de varias cavidades y se venden calientes por vendedores callejeros junto a café dulce.",
+    "fr": "De petits beignets moelleux du petit-déjeuner malgache, leur pâte de riz et de blé levée puis enrichie de lait de coco et de coco râpé. Cuits par petites quantités dans une poêle à empreintes multiples et vendus chauds par les marchands ambulants avec un café sucré."
+  },
+  "origin": { "country": "MG", "region": "Madagascar, nationwide", "note": "Sold by street vendors from large multi-cavity pans each morning; the name simply means 'Malagasy bread' and distinguishes it from mofo baolina and other local breads." },
+  "leaven": "yeast",
+  "family": "fried",
+  "formula": {
+    "hydrationPct": 191.4,
+    "saltPct": 1,
+    "sugarPct": 41.7,
+    "fatPct": 54.5,
+    "yeastPct": 2.1,
+    "flours": [
+      { "type": "wheat-white", "pct": 59.5 },
+      { "type": "rice", "pct": 40.5 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 63 },
+    { "key": "flour:rice", "grams": 43, "note": "cream of rice / rice semolina" },
+    { "key": "sugar", "grams": 44 },
+    { "key": "active-dry-yeast", "grams": 2.25 },
+    { "key": "water", "grams": 119, "note": "warm" },
+    { "label": { "en": "coconut milk", "de": "Kokosmilch", "es": "leche de coco", "fr": "lait de coco" }, "grams": 120 },
+    { "key": "salt", "grams": 1 },
+    { "label": { "en": "fresh grated coconut", "de": "frisch geriebene Kokosnuss", "es": "coco rallado fresco", "fr": "noix de coco fraîche râpée" }, "grams": 27 },
+    { "key": "vanilla", "grams": 4 },
+    { "key": "butter", "grams": 28, "note": "or coconut oil, melted" }
+  ],
+  "yield": { "count": 22, "pieceGrams": 19, "shape": "small puffs from a multi-cavity pan" },
+  "time": { "totalMin": 175, "activeMin": 35, "bulkMin": 75, "proofMin": 38, "bakeMin": 15, "overnight": false },
+  "bake": { "tempC": 160, "steam": false, "vessel": "skillet" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["sweet", "buttery", "rich", "toasty"],
+  "purposes": ["breakfast", "snack", "dessert"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best eaten warm the same morning; leftovers can be frozen and reheated, though the fluffiness fades." },
+  "equipment": ["skillet"],
+  "method": [
+    { "title": "Bloom yeast", "summary": "Dissolve a little sugar and the yeast in warm water; let rest about 10 minutes until frothy." },
+    { "title": "Mix batter", "summary": "Whisk together the flours, salt and remaining sugar, then stir in vanilla, the yeast mixture and coconut milk into a smooth, thick batter." },
+    { "title": "First rise", "summary": "Cover and let sit in a warm spot 1 to 1.5 hours until roughly doubled." },
+    { "title": "Fold in coconut", "summary": "Stir in the grated coconut and let the batter rise again 30 to 45 minutes." },
+    { "title": "Cook", "summary": "Heat an oiled aebleskiver or appe pan over low heat, fill each cavity with batter, cover, and cook a few minutes per side until golden and cooked through." },
+    { "title": "Serve", "summary": "Turn the puffs out and serve them warm with sweetened coffee." }
+  ],
+  "source": { "url": "https://mayuris-jikoni.com/2018/11/26/mofo-gasy/", "site": "Mayuri's Jikoni", "retrieved": "2026-07-18", "adaptation": "Cup/tablespoon quantities converted to grams; rice semolina, coconut milk and grated coconut weights estimated since no standard conversion exists for them." },
+  "tags": ["street-food", "malagasy", "aebleskiver-pan"]
+}

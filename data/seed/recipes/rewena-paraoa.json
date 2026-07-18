@@ -1,0 +1,61 @@
+{
+  "slug": "rewena-paraoa",
+  "name": {
+    "en": "Rewena Paraoa (Māori Potato Bread)",
+    "de": "Rewena Paraoa (Māori-Kartoffelbrot)",
+    "es": "Rewena paraoa (pan de patata maorí)",
+    "fr": "Rewena paraoa (pain maori à la pomme de terre)",
+    "native": "Rewena pārāoa"
+  },
+  "aliases": ["Māori bread", "rewena bread", "potato bread"],
+  "description": {
+    "en": "A wild-fermented Māori loaf built on a 'potato bug': mashed potato, flour and sugar left to bubble for days until it's alive with natural yeast. Folded into a simple dough and baked in a tin, it comes out soft, faintly sweet, and gently sour.",
+    "de": "Ein wild fermentiertes Māori-Brot, aufgebaut auf einem 'Kartoffel-Bug': Kartoffelpüree, Mehl und Zucker blubbern tagelang, bis sie voller natürlicher Hefen sind. In einen einfachen Teig eingearbeitet und in einer Kastenform gebacken, wird es weich und sanft säuerlich.",
+    "es": "Un pan maorí de fermentación salvaje construido sobre un 'bicho de patata': puré de patata, harina y azúcar se dejan burbujear días hasta llenarse de levaduras naturales. Incorporado a una masa sencilla y horneado en molde, resulta suave, algo dulce y suavemente ácido.",
+    "fr": "Un pain maori à fermentation sauvage bâti sur un 'bug de pomme de terre' : purée de pomme de terre, farine et sucre qu'on laisse buller pendant des jours jusqu'à grouiller de levures naturelles. Incorporé à une pâte simple et cuit en moule, il devient tendre et doucement acidulé."
+  },
+  "origin": {
+    "country": "NZ",
+    "region": "nationwide, Māori communities",
+    "note": "Adopted after European contact brought potatoes and wheat; the wild-fermented 'potato bug' starter became a distinctly Māori technique, still central to hui (gatherings) and marae meals today."
+  },
+  "leaven": "sourdough",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 79,
+    "saltPct": 1,
+    "sugarPct": 8,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 600 },
+    { "key": "sugar", "grams": 50 },
+    { "key": "salt", "grams": 6 },
+    { "key": "sourdough-starter", "grams": 480, "note": "active rewena potato bug (fermented potato, flour, sugar and water)" },
+    { "key": "water", "grams": 474, "note": "warm" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1610, "shape": "tin loaf" },
+  "time": { "totalMin": 330, "activeMin": 25, "proofMin": 225, "bakeMin": 45, "overnight": false },
+  "bake": { "tempC": 185, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 4,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sour", "sweet", "earthy", "tangy"],
+  "purposes": ["everyday", "table", "celebration"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Keeps well thanks to its natural fermentation; a treasured Māori bread often served at gatherings and hui." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Grow the potato bug", "summary": "Days ahead, mash boiled potato with flour, sugar and water and leave it somewhere warm to ferment until bubbling and nearly doubled, this is the starter." },
+    { "title": "Mix the dough", "summary": "Combine flour, sugar and salt, then work in the active potato bug and warm water." },
+    { "title": "Knead", "summary": "Knead by hand or machine about 8 minutes until silky and supple; the dough stays soft and a little sticky." },
+    { "title": "Rise", "summary": "Place in a buttered tin and let it rise until doubled, anywhere from ninety minutes to several hours depending on warmth." },
+    { "title": "Bake", "summary": "Bake until deeply golden, finishing with a few minutes at a higher heat if more color is wanted." },
+    { "title": "Cool", "summary": "Rest at least 30 minutes before slicing so the soft, gently sour crumb sets." }
+  ],
+  "source": { "url": "https://www.disheswithdel.com/blog/traditional-r%C4%93wena-bread-recipe", "site": "Dishes with Del", "retrieved": "2026-07-17", "adaptation": "The potato-bug starter is treated as one opaque ingredient; its internal flour and water aren't decomposed, so hydration reflects only the dough's own added water and flour." },
+  "tags": ["maori", "wild-fermented"]
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "pane-toscano",
+  "name": {
+    "en": "Tuscan Bread (Pane Toscano)",
+    "de": "Toskanisches Brot (Pane Toscano)",
+    "es": "Pan toscano (Pane Toscano)",
+    "fr": "Pain toscan (Pane Toscano)",
+    "native": "Pane Toscano"
+  },
+  "aliases": [
+    "pane sciocco",
+    "pane sciapo"
+  ],
+  "description": {
+    "en": "Tuscany's DOP loaf breaks the first rule of bread: no salt at all, a habit some trace to medieval salt taxes. What's left is a mild, wheaty crumb under a thick, crackling crust, built to carry salty prosciutto, liver crostini and unsalted soups, not to be eaten plain.",
+    "de": "Das toskanische DOP-Brot bricht die erste Regel des Brotbackens: kein Salz, ein Brauch, den manche auf mittelalterliche Salzsteuern zurückführen. Übrig bleibt eine milde, weizige Krume unter dicker Kruste, gedacht als Träger für salzigen Schinken und Suppen, nicht zum Pur-Essen.",
+    "es": "El pan toscano con DOP rompe la primera regla del pan: nada de sal, costumbre que algunos remontan a los impuestos medievales sobre la sal. Queda una miga suave y trigueña bajo una corteza gruesa y crujiente, pensada para acompañar prosciutto salado y sopas, no para comerse sola.",
+    "fr": "Le pain toscan AOP enfreint la première règle du pain: pas de sel du tout, une habitude que certains attribuent aux taxes médiévales sur le sel. Il reste une mie douce et blé sous une croûte épaisse et craquante, faite pour porter jambon salé et soupes, pas pour se manger seule."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Tuscany",
+    "note": "DOP since 2016. Traditionally salt-free (pane sciocco/sciapo) so it can carry Tuscany's salty cured meats and soups without competing."
+  },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 62.5,
+    "saltPct": 0,
+    "fatPct": 1.7,
+    "sugarPct": 0.4,
+    "prefermentedFlourPct": 17,
+    "flours": [
+      {
+        "type": "wheat-whole",
+        "pct": 75
+      },
+      {
+        "type": "spelt-whole",
+        "pct": 25
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-whole",
+      "grams": 350,
+      "note": "farina tipo 2, a rustic semi-wholemeal wheat flour"
+    },
+    {
+      "key": "flour:spelt-whole",
+      "grams": 150,
+      "note": "whole spelt flour"
+    },
+    {
+      "key": "water",
+      "grams": 325
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 150,
+      "note": "pasta madre, refreshed the day before"
+    },
+    {
+      "key": "malt-syrup",
+      "grams": 2.5,
+      "note": "diastatic malt powder"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 10
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1037,
+    "shape": "oval hearth loaf (filone)"
+  },
+  "time": {
+    "totalMin": 302,
+    "activeMin": 25,
+    "bulkMin": 140,
+    "proofMin": 120,
+    "bakeMin": 42,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": true,
+    "vessel": "stone"
+  },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": [
+    "mild",
+    "wheaty",
+    "earthy"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "Made to be bland on purpose so it's a foil for Tuscany's salty cured meats, salt-forward soups and olive oil, not a bread meant to be eaten alone."
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Mix without salt",
+      "summary": "Combine both flours, water, malt and the refreshed starter into a shaggy dough, working in the olive oil last. No salt goes in at any stage."
+    },
+    {
+      "title": "Short rest",
+      "summary": "Cover and rest 20 minutes to relax the dough before building strength."
+    },
+    {
+      "title": "Three folds",
+      "summary": "Give the dough a stretch and fold three times, spaced 40 minutes apart, to develop structure without heavy kneading."
+    },
+    {
+      "title": "Shape and proof",
+      "summary": "Shape into an oval loaf, set seam-down in a floured cloth or banneton, and let it double in size."
+    },
+    {
+      "title": "Step the oven down",
+      "summary": "Bake starting hot with steam, then lower the temperature twice as the crust colors, finishing around 180°C, 40-45 minutes total."
+    },
+    {
+      "title": "Cool slowly",
+      "summary": "Cool completely with the oven door left ajar so the thick crust stays crackling rather than going soft."
+    }
+  ],
+  "source": {
+    "url": "https://www.lievitonaturale.org/pane_toscano_bozza.php",
+    "site": "Lievito Naturale",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams as published; the starter is assumed at roughly 50% hydration (typical Tuscan pasta madre) to split its flour/water into total-flour baker's percentages. Zero salt is original, not an omission."
+  },
+  "tags": [
+    "dop",
+    "no-salt"
+  ]
+}

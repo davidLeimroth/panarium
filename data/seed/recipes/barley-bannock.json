@@ -1,0 +1,61 @@
+{
+  "slug": "barley-bannock",
+  "name": {
+    "en": "Orkney Bere Bannock",
+    "de": "Orkney-Bannock aus Bere-Gerste",
+    "es": "Bannock de cebada bere de Orkney",
+    "fr": "Bannock d'orge bere des Orcades",
+    "native": "Bere Bannock"
+  },
+  "aliases": ["beremeal bannock", "bere bannock"],
+  "description": {
+    "en": "A quick griddle flatbread of beremeal, an ancient six-row barley still stone-ground on Orkney, lightened with a little wheat flour and raised with baking soda and cream of tartar. Split warm and buttered, it once stood in for bread across the Scottish islands.",
+    "de": "Ein schnelles Fladenbrot aus Beremeal, einer uralten sechszeiligen Gerste, die auf Orkney noch steingemahlen wird, mit etwas Weizenmehl und Natron und Weinstein gelockert. Warm aufgeschnitten und gebuttert, ersetzte es einst das Brot auf den schottischen Inseln.",
+    "es": "Un pan plano a la plancha con beremeal, cebada de seis hileras molida a la piedra en Orkney, aligerada con harina de trigo y leudada con bicarbonato y crémor tártaro. Caliente y con mantequilla, antes sustituía al pan en las islas escocesas.",
+    "fr": "Un pain plat à la poêle fait de beremeal, une orge à six rangs moulue à la meule aux Orcades, allégée de farine de blé et levée au bicarbonate et à la crème de tartre. Chaud et beurré, il tenait autrefois lieu de pain dans les îles écossaises."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "Orkney Islands, Scotland",
+    "note": "Made from beremeal, a six-row barley landrace grown in Orkney for millennia and still stone-ground at Barony Mill, one of only two working bere mills left in Britain."
+  },
+  "leaven": "chemical",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 39.1,
+    "saltPct": 0,
+    "flours": [
+      { "type": "barley", "pct": 69.1 },
+      { "type": "wheat-white", "pct": 30.9 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:barley", "grams": 280, "note": "beremeal, stone-ground" },
+    { "key": "flour:wheat-white", "grams": 125, "note": "plain flour" },
+    { "key": "baking-soda", "grams": 5 },
+    { "label": { "en": "cream of tartar", "de": "Weinstein", "es": "crémor tártaro", "fr": "crème de tartre" }, "grams": 3 },
+    { "key": "milk", "grams": 180 }
+  ],
+  "yield": { "count": 3, "pieceGrams": 198, "shape": "flat round, about 2.5 cm thick, cut into wedges" },
+  "time": { "totalMin": 35, "activeMin": 15, "bakeMin": 10 },
+  "bake": { "tempC": 180, "steam": false, "vessel": "griddle" },
+  "difficulty": 1,
+  "crumb": "tight",
+  "crust": "floury",
+  "flavors": ["earthy", "malty", "nutty"],
+  "purposes": ["side", "soup-companion", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 69.1 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best warm from the griddle the same day; this is a quick unleavened-style flatbread, not meant to keep like a yeasted loaf." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Mix dry", "summary": "Whisk together the beremeal, plain flour, baking soda and cream of tartar." },
+    { "title": "Bring together", "summary": "Stir in the milk gradually until a soft, stiff, pliable dough forms; knead briefly just until smooth." },
+    { "title": "Roll", "summary": "Roll or pat the dough out into a round about 2.5 cm thick." },
+    { "title": "Heat the griddle", "summary": "Heat a dry, ungreased griddle or heavy pan to a medium heat." },
+    { "title": "Cook", "summary": "Cook about 5 minutes a side, adjusting the heat as needed, until golden on both sides and cooked through in the middle." },
+    { "title": "Serve", "summary": "Serve warm, split and buttered, alongside soup or in place of a bread roll." }
+  ],
+  "source": { "url": "https://baronymill.com/orkney-bere-bannocks-recipe/", "site": "Barony Mill", "retrieved": "2026-07-18", "adaptation": "Cup and teaspoon measurements converted to grams using standard flour, milk and leavening-agent weight conventions; the recipe's optional salt was omitted since no quantity was given." },
+  "tags": ["ancient-grain", "scotland", "griddle"]
+}

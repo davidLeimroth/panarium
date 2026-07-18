@@ -1,0 +1,66 @@
+{
+  "slug": "knackebrod",
+  "name": {
+    "en": "Swedish Rye Crispbread (Knäckebröd)",
+    "de": "Schwedisches Knäckebrot",
+    "es": "Pan crujiente sueco (Knäckebröd)",
+    "fr": "Pain croustillant suédois (Knäckebröd)",
+    "native": "Knäckebröd"
+  },
+  "aliases": ["crispbread", "hard rye crackerbread"],
+  "description": {
+    "en": "Sweden's centuries-old keeper: a thin, docked rye-and-oat cracker bread once hung to dry on poles through the rafters. Barely leavened, endlessly crisp, and built to outlast a whole Nordic winter in the pantry.",
+    "de": "Schwedens jahrhundertealter Vorratsbrotklassiker: ein dünnes, gestochenes Knäckebrot aus Roggen und Hafer, einst zum Trocknen an Stangen unter der Decke aufgehängt. Kaum gelockert, unendlich knusprig, gemacht, um einen ganzen nordischen Winter zu überdauern.",
+    "es": "El pan de reserva centenario de Suecia: una fina galleta de centeno y avena, pinchada y antaño colgada de varas bajo el techo para secarse. Apenas leudada, infinitamente crujiente, hecha para sobrevivir todo un invierno nórdico en la despensa.",
+    "fr": "Le pain de réserve séculaire de la Suède : une fine galette de seigle et d'avoine, piquée puis jadis suspendue à des perches sous les poutres pour sécher. À peine levée, infiniment croustillante, faite pour traverser tout un hiver nordique dans le garde-manger."
+  },
+  "origin": { "country": "SE", "region": "Sweden, originally central Sweden", "note": "Dates to at least the 6th century; the center hole let loaves be strung on poles for winter storage." },
+  "leaven": "yeast",
+  "family": "crispbread",
+  "formula": {
+    "hydrationPct": 58,
+    "saltPct": 1.1,
+    "sugarPct": 1.5,
+    "fatPct": 10.3,
+    "yeastPct": 2.2,
+    "flours": [
+      { "type": "wheat-white", "pct": 46 },
+      { "type": "rye", "pct": 37 },
+      { "type": "oat", "pct": 17 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:rye", "grams": 102, "note": "dark rye flour" },
+    { "key": "flour:wheat-white", "grams": 125 },
+    { "key": "rolled-oats", "grams": 45 },
+    { "key": "milk", "grams": 178 },
+    { "key": "instant-yeast", "grams": 6 },
+    { "key": "sugar", "grams": 4 },
+    { "key": "salt", "grams": 3 },
+    { "key": "butter", "grams": 28, "note": "melted, plus extra for brushing" },
+    { "label": { "en": "coarse sea salt for topping", "de": "grobes Meersalz zum Bestreuen", "es": "sal marina gruesa para espolvorear", "fr": "gros sel de mer pour parsemer" }, "grams": 5 }
+  ],
+  "yield": { "count": 6, "pieceGrams": 55, "shape": "thin 20-23cm disc with a center hole" },
+  "time": { "totalMin": 95, "activeMin": 30, "proofMin": 60, "bakeMin": 14 },
+  "bake": { "tempC": 191, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": ["nutty", "toasty", "mild", "wheaty"],
+  "purposes": ["everyday", "snack", "breakfast", "soup-companion"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 54 },
+  "keeping": { "freshDays": 90, "freezes": false, "note": "Keeps for months in an airtight tin at room temperature; that longevity is the whole point." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Whisk rye flour, wheat flour, oats, salt, sugar and yeast together, then stir in warmed milk and melted butter to a stiff, slightly sticky dough." },
+    { "title": "Rise", "summary": "Cover and let stand at room temperature about an hour." },
+    { "title": "Divide and roll", "summary": "Portion the dough and roll each piece out paper-thin on parchment." },
+    { "title": "Dock and cut", "summary": "Prick all over with a fork or spiked roller, then cut a hole in the center for the traditional hanging pole." },
+    { "title": "Season", "summary": "Brush lightly with melted butter and scatter coarse sea salt over the surface." },
+    { "title": "Bake", "summary": "Bake hot until dry, crisp and lightly browned at the edges." },
+    { "title": "Cool and store", "summary": "Cool completely on a rack, then keep airtight, it stays crisp for months." }
+  ],
+  "source": { "url": "https://true-north-kitchen.com/rye-and-oat-crispbread/", "site": "True North Kitchen", "retrieved": "2026-07-17", "adaptation": "Converted volume measures to grams with standard conversions; oats counted within total flour for baker's percentages." },
+  "tags": ["keeper", "scandinavian-staple"]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "rigas-maize",
+  "name": {
+    "en": "Riga Rye Bread (Rīgas Maize)",
+    "de": "Rīgas Maize (lettisches Riga-Brot)",
+    "es": "Pan de Riga (Rīgas Maize)",
+    "fr": "Pain de Riga (Rīgas Maize)",
+    "native": "Rīgas maize"
+  },
+  "aliases": ["Rizhsky khleb", "Riga bread"],
+  "description": {
+    "en": "A lighter, sweeter Latvian rye than its coarse cousin rupjmaize, built mostly from wheat with just enough rye, malt and caraway to feel unmistakably Baltic. Soft-crumbed enough to pass for wheat bread, with a dark, substantial crust.",
+    "de": "Ein leichteres, süßeres lettisches Roggenbrot als sein grober Vetter Rupjmaize, größtenteils aus Weizen mit gerade genug Roggen, Malz und Kümmel, um unverkennbar baltisch zu schmecken. So weich in der Krume, dass es fast als Weizenbrot durchgeht, mit dunkler, kräftiger Kruste.",
+    "es": "Un centeno letón más ligero y dulce que su primo tosco, el rupjmaize, hecho sobre todo de trigo con centeno, malta y alcaravea justos para resultar inconfundiblemente báltico. De miga tan suave que casi podría pasar por pan de trigo, con una corteza oscura y contundente.",
+    "fr": "Un seigle letton plus léger et plus doux que son cousin rustique le rupjmaize, fait surtout de froment avec juste assez de seigle, de malt et de carvi pour rester résolument balte. Mie tendre à confondre avec du pain de froment, sous une croûte sombre et généreuse."
+  },
+  "origin": { "country": "LV", "region": "Riga", "note": "A native Latvian bread long popular among Russian bakers too; lighter and sweeter than the coarse rupjmaize style." },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 56,
+    "saltPct": 2.3,
+    "sugarPct": 8.3,
+    "fatPct": 8.3,
+    "yeastPct": 1.2,
+    "flours": [
+      { "type": "wheat-white", "pct": 70 },
+      { "type": "rye", "pct": 30 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:rye", "grams": 156, "note": "medium rye flour" },
+    { "key": "flour:wheat-white", "grams": 360 },
+    { "key": "water", "grams": 283 },
+    { "key": "malt-syrup", "grams": 43, "note": "or dark honey" },
+    { "key": "instant-yeast", "grams": 6 },
+    { "key": "salt", "grams": 12 },
+    { "key": "caraway", "grams": 11 },
+    { "key": "butter", "grams": 43, "note": "melted" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 400, "shape": "oval hearth loaf" },
+  "time": { "totalMin": 210, "activeMin": 30, "bulkMin": 90, "proofMin": 30, "bakeMin": 48 },
+  "bake": { "tempC": 191, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "chewy",
+  "flavors": ["sweet", "malty", "spiced", "mild"],
+  "purposes": ["everyday", "sandwich", "toast", "table"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Keeps about 4 days at room temperature, wrapped; freezes well up to 3 months." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Sponge", "summary": "Mix warm water with a little malt syrup, the yeast and the rye flour; rest 20 minutes until bubbly." },
+    { "title": "Mix the dough", "summary": "Stir in the remaining malt syrup, salt, caraway, melted butter and enough all-purpose flour to form a dough." },
+    { "title": "Knead", "summary": "Knead about 10 minutes until smooth and elastic." },
+    { "title": "First rise", "summary": "Cover and let rise about 1.5 hours, until nearly doubled." },
+    { "title": "Shape", "summary": "Divide in half and shape into oval loaves on a lined baking sheet." },
+    { "title": "Second rise", "summary": "Cover and rest about 30 minutes." },
+    { "title": "Bake", "summary": "Bake until the crust is dark brown and the center is fully cooked, 45-50 minutes." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/rizhsky-khleb-riga-bread-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "This Americanized version is wheat-majority; traditional Latvian Rīgas maize is typically rye-majority. Presented as sourced, with the difference flagged here." },
+  "tags": ["baltic", "malt-caraway"]
+}

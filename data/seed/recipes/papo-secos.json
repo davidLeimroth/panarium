@@ -1,0 +1,65 @@
+{
+  "slug": "papo-secos",
+  "name": {
+    "en": "Papo Secos (Portuguese Rolls)",
+    "de": "Papo Secos (portugiesische Brötchen)",
+    "es": "Papo secos (panecillos portugueses)",
+    "fr": "Papo secos (petits pains portugais)"
+  },
+  "aliases": ["Portuguese rolls", "papo-seco"],
+  "description": {
+    "en": "Portugal's everyday roll, known for a deep central crease that folds it into a plump half-moon: a lean, twice-folded dough baked hot with steam for a crackling crust around a surprisingly light, airy crumb. Also a New England bakery fixture.",
+    "de": "Portugals alltägliches Brötchen, erkennbar an der tiefen Mittelkerbe, die es zu einem prallen Halbmond faltet: ein magerer, zweifach gefalteter Teig wird heiß mit Dampf gebacken, für eine krachende Kruste um eine erstaunlich leichte, luftige Krume.",
+    "es": "El panecillo cotidiano de Portugal, reconocible por su profunda hendidura central que lo pliega en una media luna rolliza: una masa magra, doblada dos veces, se hornea caliente con vapor para lograr una corteza crujiente sobre una miga sorprendentemente ligera.",
+    "fr": "Le petit pain quotidien du Portugal, reconnaissable à son pli central profond qui le referme en une demi-lune bien pleine : une pâte maigre, pliée deux fois, cuite chaude à la vapeur pour une croûte craquante autour d'une mie étonnamment légère et aérée."
+  },
+  "origin": {
+    "country": "PT",
+    "region": "nationwide, also Portuguese-American New England",
+    "note": "The name means roughly 'dry throat'; the rolls are Portugal's most-eaten everyday bread and remain a fixture of Portuguese-American bakeries in Massachusetts and Rhode Island."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 76,
+    "saltPct": 2.9,
+    "sugarPct": 2,
+    "fatPct": 4.5,
+    "yeastPct": 1.1,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 625, "note": "bread flour" },
+    { "key": "water", "grams": 474, "note": "combined dough and yeast-activation water" },
+    { "key": "salt", "grams": 18 },
+    { "key": "butter", "grams": 28 },
+    { "key": "active-dry-yeast", "grams": 7 },
+    { "key": "sugar", "grams": 13 },
+    { "key": "cornmeal", "grams": 15, "note": "for dusting the peel and proofing cloth" }
+  ],
+  "yield": { "count": 10, "pieceGrams": 118, "shape": "crusty half-moon roll with a deep center crease" },
+  "time": { "totalMin": 720, "activeMin": 35, "bulkMin": 120, "proofMin": 50, "bakeMin": 18, "overnight": true },
+  "bake": { "tempC": 218, "steam": true, "vessel": "stone" },
+  "difficulty": 4,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": ["mild", "wheaty", "yeasty", "savory"],
+  "purposes": ["everyday", "sandwich", "table"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best eaten the day of baking while the crust still crackles; a daily-bakery staple in Portugal and Portuguese-American communities." },
+  "equipment": ["baking-stone", "couche"],
+  "method": [
+    { "title": "Activate yeast", "summary": "Stir yeast and sugar into lukewarm water and let it stand until foamy." },
+    { "title": "Mix", "summary": "Combine flour, water and butter, rest 30 minutes, then knead in the salt and yeast mixture until the dough pulls cleanly from the bowl." },
+    { "title": "First rise", "summary": "Let it double in a warm spot, about an hour." },
+    { "title": "Fold twice", "summary": "Instead of punching down, gently fold the dough over itself from all sides, rest 30 minutes, then repeat once more." },
+    { "title": "Shape", "summary": "Divide and roll into tight balls, rest, flatten into discs, then press a deep crease across the center and fold into a half-moon, twisting and flattening the pointed ends to seal." },
+    { "title": "Proof", "summary": "Arrange seam-down on a floured cloth and let rise until nearly doubled." },
+    { "title": "Bake with steam", "summary": "Bake very hot with steam for the first stretch, then slightly cooler until puffed and deeply golden." }
+  ],
+  "source": { "url": "https://leitesculinaria.com/282693/recipes-papo-secos-portuguese-rolls.html", "site": "Leite's Culinaria", "retrieved": "2026-07-17", "adaptation": "Grams kept as sourced; cornmeal dusting quantity estimated since the source gave no amount; overall timing follows the source's own stated 'about 12 hours, mostly hands-off.'" },
+  "tags": ["portuguese-bakery", "steam-baked"]
+}

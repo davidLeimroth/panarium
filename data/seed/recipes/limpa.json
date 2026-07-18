@@ -1,0 +1,70 @@
+{
+  "slug": "limpa",
+  "name": {
+    "en": "Swedish Orange-Rye Limpa",
+    "de": "Limpa (schwedisches Orangen-Roggenbrot)",
+    "es": "Limpa (pan de centeno y naranja sueco)",
+    "fr": "Limpa (pain suédois au seigle et à l'orange)",
+    "native": "Limpa"
+  },
+  "aliases": ["vörtlimpa", "Swedish rye bread"],
+  "description": {
+    "en": "A softly sweet Swedish sandwich loaf where rye meets wheat, laced with molasses, orange zest and a trio of warm seeds, caraway, anise, fennel. Classic on the Christmas julbord, just as at home toasted with salted butter any morning.",
+    "de": "Ein sanft süßes schwedisches Sandwichbrot aus Roggen und Weizen, mit Melasse, Orangenschale und drei warmen Samen – Kümmel, Anis, Fenchel. Klassiker auf dem weihnachtlichen Julbord, genauso gut geröstet mit gesalzener Butter zum Frühstück.",
+    "es": "Un pan de molde sueco suavemente dulce que mezcla centeno y trigo, con melaza, ralladura de naranja y un trío de semillas cálidas: alcaravea, anís e hinojo. Clásico en la mesa navideña, igual de bueno tostado con mantequilla salada.",
+    "fr": "Un pain de mie suédois doucement sucré mariant seigle et froment, parfumé à la mélasse, au zeste d'orange et à un trio de graines chaudes : carvi, anis, fenouil. Classique de la table de Noël, tout aussi bon grillé avec du beurre salé."
+  },
+  "origin": { "country": "SE", "region": "Sweden, nationwide", "note": "Historically tied to vörtbröd/Christmas baking, but eaten year-round as a breakfast and toasting loaf." },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 70,
+    "saltPct": 2.5,
+    "sugarPct": 21,
+    "fatPct": 16,
+    "yeastPct": 2.2,
+    "flours": [
+      { "type": "wheat-white", "pct": 70 },
+      { "type": "wheat-whole", "pct": 16 },
+      { "type": "rye-whole", "pct": 14 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 255 },
+    { "key": "flour:wheat-whole", "grams": 57, "note": "golden/whole wheat flour" },
+    { "key": "flour:rye-whole", "grams": 53, "note": "pumpernickel-style whole rye" },
+    { "key": "water", "grams": 255 },
+    { "key": "instant-yeast", "grams": 8 },
+    { "key": "molasses", "grams": 78, "note": "or dark corn syrup" },
+    { "key": "butter", "grams": 57 },
+    { "key": "salt", "grams": 9 },
+    { "key": "caraway", "grams": 4 },
+    { "key": "anise", "grams": 4 },
+    { "key": "fennel-seed", "grams": 4 },
+    { "key": "orange-zest", "grams": 5, "note": "or a few drops orange oil" },
+    { "label": { "en": "dry milk powder", "de": "Trockenmilchpulver", "es": "leche en polvo", "fr": "lait en poudre" }, "grams": 28 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 750, "shape": "round hearth loaf" },
+  "time": { "totalMin": 210, "activeMin": 25, "bulkMin": 60, "proofMin": 85, "bakeMin": 35 },
+  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "spiced", "malty", "fruity"],
+  "purposes": ["breakfast", "toast", "everyday", "holiday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 30 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Best toasted from day two onward; keep wrapped airtight." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Warm the water with the molasses, bloom the yeast, then stir in both flours, salt, spices and orange zest." },
+    { "title": "Knead", "summary": "Work in the softened butter until the dough turns smooth and elastic, about 8-10 minutes." },
+    { "title": "First rise", "summary": "Rest at room temperature roughly an hour until visibly puffy." },
+    { "title": "Shape", "summary": "Knock back gently and shape into a round loaf on a lined baking sheet." },
+    { "title": "Second rise", "summary": "Proof until noticeably swollen, 75-90 minutes." },
+    { "title": "Bake", "summary": "Bake until deeply golden, tenting with foil if it colors too fast." },
+    { "title": "Cool and toast", "summary": "Cool fully before slicing; this loaf is at its best cut thick and toasted with butter." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/swedish-limpa-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Rounded gram weights from King Arthur's ranges; dark corn syrup generalized to molasses." },
+  "tags": ["christmas", "citrus-spiced"]
+}

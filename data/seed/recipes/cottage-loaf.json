@@ -1,0 +1,61 @@
+{
+  "slug": "cottage-loaf",
+  "name": {
+    "en": "Cottage Loaf",
+    "de": "Cottage Loaf (englisches Stapelbrot)",
+    "es": "Cottage loaf (pan inglés apilado)",
+    "fr": "Cottage loaf (pain anglais empilé)"
+  },
+  "aliases": ["topknot loaf"],
+  "description": {
+    "en": "A traditional English hearth loaf shaped as two stacked balls of dough, a large one topped by a smaller one. Baked with strong white flour and a little lard, it gives a crusty, tender loaf meant to be cut across both tiers at the table.",
+    "de": "Ein traditionelles englisches Brot aus zwei gestapelten Teigkugeln, eine große mit einer kleineren obenauf. Aus Weizenmehl und etwas Schweineschmalz gebacken, ergibt es ein knuspriges, zartes Brot, das quer durch beide Etagen aufgeschnitten wird.",
+    "es": "Un pan tradicional inglés formado por dos bolas de masa apiladas, una grande con una más pequeña encima. Horneado con harina de fuerza y un poco de manteca de cerdo, da un pan crujiente y tierno que se corta a través de ambos niveles en la mesa.",
+    "fr": "Un pain anglais traditionnel formé de deux boules de pâte empilées, une grande surmontée d'une plus petite. Cuit avec de la farine de force et un peu de saindoux, il donne un pain croustillant et tendre, tranché à travers les deux étages à table."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "England, nationwide",
+    "note": "A centuries-old bakery shape, once common enough that it gave its name to a whole class of round hearth loaves; now mostly kept alive by home bakers and specialty bakeries."
+  },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 1.4,
+    "fatPct": 10,
+    "yeastPct": 1.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500, "note": "strong white bread flour" },
+    { "key": "water", "grams": 325 },
+    { "key": "lard", "grams": 50, "note": "softened" },
+    { "key": "instant-yeast", "grams": 7 },
+    { "key": "salt", "grams": 7 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 780, "shape": "two stacked balls, large cob topped by a smaller one" },
+  "time": { "totalMin": 270, "activeMin": 20, "bulkMin": 120, "proofMin": 60, "bakeMin": 37, "overnight": false },
+  "bake": { "tempC": 230, "steam": true, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "crackly",
+  "flavors": ["wheaty", "mild", "savory", "rich"],
+  "purposes": ["everyday", "table", "soup-companion"],
+  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day it's baked; the thick crust softens noticeably by day two." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix & knead", "summary": "Combine flour, yeast and salt, rub in the softened lard, then add water gradually and knead 5-10 minutes to a smooth, fairly firm dough." },
+    { "title": "Bulk rise", "summary": "Prove in an oiled bowl until doubled, anywhere from 1 to 3 hours depending on room warmth." },
+    { "title": "Shape two tiers", "summary": "Divide the dough roughly two-thirds and one-third, shape each into a tight ball, and set the small ball centered on top of the large one." },
+    { "title": "Seal the join", "summary": "Push a floured finger straight down through the center of both balls to bond the tiers so the top doesn't slide off in the oven." },
+    { "title": "Final proof & score", "summary": "Proof about an hour until puffy, then slash both tiers." },
+    { "title": "Bake hot, then lower", "summary": "Bake with steam at high heat for 15 minutes, then reduce the temperature and bake 20-25 minutes more until deep golden and hollow-sounding underneath." }
+  ],
+  "source": { "url": "https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-classic-cottage-loaf/", "site": "The Great British Bake Off", "author": "Paul Hollywood (recipe developer)", "retrieved": "2026-07-18", "adaptation": "Water given as a range across two additions; used the midpoint as a single hydration figure." },
+  "tags": ["stacked-loaf", "hearth-bread"]
+}

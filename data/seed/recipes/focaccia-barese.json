@@ -1,0 +1,197 @@
+{
+  "slug": "focaccia-barese",
+  "name": {
+    "en": "Focaccia Barese",
+    "de": "Focaccia Barese",
+    "es": "Focaccia de Bari",
+    "fr": "Focaccia de Bari"
+  },
+  "description": {
+    "en": "Bari's high-rising answer to focaccia, made tender and moist with mashed potato folded into the dough. Halved cherry tomatoes and whole pitted olives are pressed deep into the wet dough before baking, so every square arrives soft and jammy on top, crisp underneath.",
+    "de": "Baris hochgezogene Antwort auf die Focaccia: durch Kartoffelpüree im Teig besonders zart und feucht. Halbierte Kirschtomaten und ganze Oliven werden vor dem Backen tief in den nassen Teig gedrückt, jedes Stück wird oben weich-fruchtig, unten knusprig.",
+    "es": "La respuesta alta de Bari a la focaccia, tierna y húmeda gracias al puré de patata mezclado en la masa. Tomates cherry partidos y aceitunas enteras se hunden en la masa húmeda antes de hornear: cada trozo sale blando y jugoso arriba, crujiente por debajo.",
+    "fr": "La réponse généreuse de Bari à la focaccia, moelleuse et humide grâce à la purée de pomme de terre incorporée à la pâte. Tomates cerises coupées et olives entières s'enfoncent dans la pâte humide avant cuisson: chaque part ressort moelleuse dessus, croustillante dessous."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Bari, Puglia",
+    "note": "Mashed potato keeps the very wet dough workable and the crumb tender; whole, unpitted olives are traditional since the pit helps them hold moisture in the hot oven."
+  },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 81,
+    "saltPct": 3,
+    "fatPct": 6.8,
+    "prefermentedFlourPct": 19,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 60
+      },
+      {
+        "type": "durum",
+        "pct": 40
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 300,
+      "note": "tipo '0' (200 g) and strong Manitoba (100 g) blend"
+    },
+    {
+      "key": "flour:durum",
+      "grams": 200,
+      "note": "semola rimacinata"
+    },
+    {
+      "key": "water",
+      "grams": 300
+    },
+    {
+      "key": "mashed-potato",
+      "grams": 150,
+      "note": "boiled potato, mashed while still warm"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 10
+    },
+    {
+      "key": "olive-oil",
+      "grams": 34,
+      "note": "in the dough"
+    },
+    {
+      "key": "salt",
+      "grams": 15
+    },
+    {
+      "label": {
+        "en": "cherry tomatoes",
+        "de": "Kirschtomaten",
+        "es": "tomates cherry",
+        "fr": "tomates cerises"
+      },
+      "grams": 500,
+      "note": "halved, pressed cut-side up into the dough"
+    },
+    {
+      "label": {
+        "en": "black olives",
+        "de": "schwarze Oliven",
+        "es": "aceitunas negras",
+        "fr": "olives noires"
+      },
+      "grams": 60,
+      "note": "whole, with pits"
+    },
+    {
+      "label": {
+        "en": "dried oregano",
+        "de": "getrockneter Oregano",
+        "es": "orégano seco",
+        "fr": "origan séché"
+      },
+      "grams": 3
+    },
+    {
+      "key": "olive-oil",
+      "grams": 20,
+      "note": "drizzled over the topping"
+    },
+    {
+      "key": "salt",
+      "grams": 5,
+      "note": "scattered over the topping; not counted toward saltPct"
+    }
+  ],
+  "yield": {
+    "count": 2,
+    "pieceGrams": 800,
+    "shape": "30 cm round or rectangular pan, topped with tomato"
+  },
+  "time": {
+    "totalMin": 438,
+    "activeMin": 30,
+    "bulkMin": 180,
+    "proofMin": 120,
+    "bakeMin": 18,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": [
+    "olive",
+    "savory",
+    "herbal",
+    "sweet"
+  ],
+  "purposes": [
+    "everyday",
+    "snack",
+    "picnic",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1.5,
+    "freezes": true,
+    "note": "Potato keeps the crumb tender a day longer than most focacce, but it's best fresh or lightly reheated the next day."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Poolish",
+      "summary": "Mix a small portion of the flour blend with yeast and water and let it rise 2 hours at 26°C until bubbly."
+    },
+    {
+      "title": "Mash in the potato",
+      "summary": "Boil and mash the potato while still warm, then combine with the poolish, remaining flours, water, oil and salt into a soft, very wet dough."
+    },
+    {
+      "title": "Fold, don't knead",
+      "summary": "Give the dough four gentle folds instead of kneading; the hydration is too high for conventional kneading."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let the dough rise about 3 hours until roughly tripled."
+    },
+    {
+      "title": "Pan and top",
+      "summary": "Press into an oiled pan, rest 30 minutes, then press halved tomatoes and whole olives into the surface and drizzle with oil, salt and oregano."
+    },
+    {
+      "title": "Final proof and bake",
+      "summary": "Proof 1.5 hours more, then bake at 200°C on a low rack for 12-15 minutes, finishing under the grill for a few minutes until the edges crisp and char slightly."
+    }
+  ],
+  "source": {
+    "url": "https://www.tavolartegusto.it/ricetta/focaccia-barese-ricetta-originale/",
+    "site": "Tavolartegusto",
+    "retrieved": "2026-07-17",
+    "adaptation": "Hydration includes an estimated water contribution from the boiled potato (~70% water by weight), which the source's high-hydration technique relies on but doesn't quantify directly."
+  },
+  "tags": [
+    "potato-dough",
+    "olives"
+  ]
+}

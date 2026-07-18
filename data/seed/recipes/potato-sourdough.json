@@ -1,0 +1,61 @@
+{
+  "slug": "potato-sourdough",
+  "name": {
+    "en": "Roasted Potato & Rosemary Sourdough",
+    "de": "Sauerteigbrot mit gerösteten Kartoffeln und Rosmarin",
+    "es": "Pan de masa madre con patata asada y romero",
+    "fr": "Pain au levain à la pomme de terre rôtie et au romarin"
+  },
+  "aliases": ["Potato rosemary sourdough"],
+  "description": {
+    "en": "Roasted, pureed potato folds into the dough for an exceptionally soft, moist crumb and a subtle savoriness, lifted by fresh rosemary, a cousin of old-fashioned potato bread, reworked with a long wild-yeast ferment.",
+    "de": "Geröstete, pürierte Kartoffeln sorgen für eine außergewöhnlich weiche, saftige Krume und dezente Würze, aufgehellt von frischem Rosmarin – ein Verwandter des altmodischen Kartoffelbrots, neu gedacht mit langer Wildhefe-Gärung.",
+    "es": "La patata asada y hecha puré se incorpora a la masa para lograr una miga excepcionalmente suave y húmeda con un toque sabroso, realzado por romero fresco: un pariente del pan de patata tradicional, reinventado con una larga fermentación silvestre.",
+    "fr": "De la pomme de terre rôtie et réduite en purée s'incorpore à la pâte pour une mie exceptionnellement moelleuse et humide, avec une saveur subtile relevée de romarin frais, cousin du pain de pomme de terre traditionnel revisité avec une longue fermentation sauvage."
+  },
+  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "Potato bread has many regional ancestors; this long-fermented sourdough version with roasted (not boiled) potato is a contemporary artisan formula." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 80.9,
+    "saltPct": 2.2,
+    "prefermentedFlourPct": 4.3,
+    "flours": [
+      { "type": "wheat-white", "pct": 78.7 },
+      { "type": "wheat-whole", "pct": 21.3 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 695, "note": "malted white and high-gluten bread flour blend" },
+    { "key": "flour:wheat-whole", "grams": 188, "note": "stoneground whole wheat" },
+    { "key": "water", "grams": 714 },
+    { "key": "sourdough-starter", "grams": 38 },
+    { "key": "salt", "grams": 19 },
+    { "key": "mashed-potato", "grams": 464, "note": "roasted, peeled and pureed, not boiled" },
+    { "label": { "en": "fresh rosemary, chopped", "de": "frischer Rosmarin, gehackt", "es": "romero fresco picado", "fr": "romarin frais haché" }, "grams": 8 }
+  ],
+  "yield": { "count": 2, "pieceGrams": 1000, "shape": "bâtard" },
+  "time": { "totalMin": 1450, "activeMin": 45, "bulkMin": 180, "proofMin": 810, "bakeMin": 53, "overnight": true },
+  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "chewy",
+  "flavors": ["savory", "herbal", "earthy"],
+  "purposes": ["everyday", "sandwich", "side"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 21 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "The potato keeps the crumb moist noticeably longer than a plain sourdough." },
+  "equipment": ["dutch-oven", "banneton"],
+  "method": [
+    { "title": "Build the levain, roast the potato", "summary": "Mix starter with flour and water to build a levain; separately roast potatoes at 220°C for 45-60 minutes, then peel and puree." },
+    { "title": "Autolyse", "summary": "Combine the flours and water; rest 1 hour." },
+    { "title": "Mix", "summary": "Slap-and-fold in the levain and half the reserved water, rest 15 minutes, then work in salt, rosemary, potato puree and the rest of the water." },
+    { "title": "Bulk ferment", "summary": "Give two stretch-and-fold sets 30 minutes apart, then continue fermenting to about 3 hours total." },
+    { "title": "Shape", "summary": "Divide, preshape, rest 30 minutes, then shape into bâtards." },
+    { "title": "Cold proof", "summary": "Refrigerate overnight, about 13-14 hours." },
+    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden." },
+    { "title": "Cool", "summary": "Rest at least an hour before slicing." }
+  ],
+  "source": { "url": "https://www.theperfectloaf.com/sourdough-with-roasted-potato-and-rosemary-potato-bread/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17" },
+  "tags": ["potato", "rosemary"]
+}

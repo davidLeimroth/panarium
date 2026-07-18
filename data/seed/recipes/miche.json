@@ -1,0 +1,60 @@
+{
+  "slug": "miche",
+  "name": {
+    "en": "Miche (Poilâne-Style Sourdough)",
+    "de": "Miche (Sauerteigbrot im Stil von Poilâne)",
+    "es": "Miche (pan de masa madre al estilo Poilâne)",
+    "fr": "Miche façon Poilâne",
+    "native": "Miche"
+  },
+  "aliases": ["pain Poilâne", "miche de meule"],
+  "description": {
+    "en": "A giant, stone-ground sourdough round in the spirit of the Paris bakery Poilâne: mostly white wheat with a fraction of whole wheat and rye, baked long and dark. Sold by the slice, it keeps for a week and only gets better.",
+    "de": "Ein riesiges, aus Steinmühlenmehl gebackenes Sauerteigrund im Geiste der Pariser Bäckerei Poilâne: überwiegend Weißmehl mit einem Anteil Vollkorn- und Roggenmehl, lang und dunkel gebacken. Wird scheibenweise verkauft, hält eine Woche und wird nur besser.",
+    "es": "Una hogaza redonda gigante de masa madre molida a la piedra, en el espíritu de la panadería parisina Poilâne: sobre todo trigo blanco con una parte de trigo integral y centeno, horneada larga y oscura. Se vende por rebanadas, dura una semana y mejora con los días.",
+    "fr": "Une immense miche au levain moulue sur meule, dans l'esprit de la maison Poilâne : farine blanche, un peu de blé complet et de seigle, cuite longuement et bien colorée. Vendue à la tranche, elle se garde une semaine et ne fait que s'améliorer."
+  },
+  "origin": { "country": "FR", "region": "Paris (Saint-Germain-des-Prés)", "note": "Inspired by Pierre Poilâne's 1932 bakery on rue du Cherche-Midi, which built its name on a rustic sourdough round when molded white baguettes were the fashion. This entry is a home approximation of the style, not the bakery's proprietary formula." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 77,
+    "saltPct": 1.7,
+    "prefermentedFlourPct": 14,
+    "flours": [
+      { "type": "wheat-white", "pct": 66 },
+      { "type": "wheat-whole", "pct": 17 },
+      { "type": "rye", "pct": 17 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 360, "note": "T65" },
+    { "key": "flour:wheat-whole", "grams": 120, "note": "T150" },
+    { "key": "flour:rye", "grams": 120, "note": "T130" },
+    { "key": "water", "grams": 440, "note": "cold" },
+    { "key": "sourdough-starter", "grams": 200, "note": "active" },
+    { "key": "salt", "grams": 12 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1000, "shape": "grande miche ronde" },
+  "time": { "totalMin": 900, "activeMin": 30, "bulkMin": 540, "proofMin": 120, "bakeMin": 50, "overnight": false },
+  "bake": { "tempC": 240, "steam": true, "vessel": "stone" },
+  "difficulty": 4,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["tangy", "sour", "nutty", "wheaty"],
+  "purposes": ["everyday", "table", "sandwich"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 17 },
+  "keeping": { "freshDays": 7, "freezes": true, "note": "The thick crust and high hydration let a real miche keep well for a week, traditionally sold and eaten by the slice." },
+  "equipment": ["banneton", "baking-stone"],
+  "method": [
+    { "title": "Feed the starter", "summary": "Refresh the sourdough starter until active, bubbly and ready to leaven a large dough." },
+    { "title": "Mix", "summary": "Combine the three flours with cold water and the starter into a soft, quite sticky dough; mix briefly, just enough to bring it together." },
+    { "title": "Rest", "summary": "Let the dough rest about an hour before bulk fermentation begins in earnest." },
+    { "title": "Bulk ferment", "summary": "Ferment 8-10 hours at cool room temperature, well beyond a normal rise, to build real depth of flavor." },
+    { "title": "Shape", "summary": "Shape into one large round loaf." },
+    { "title": "Bake", "summary": "Bake low and long at high heat with steam until the crust is thick and deeply caramelized; cool completely before cutting." }
+  ],
+  "source": { "url": "https://www.lecoconutblog.com/2015/11/27/pain-au-levain-facon-poilane/", "site": "Le Coconut Blog", "retrieved": "2026-07-17", "adaptation": "Home-baker approximation of Poilâne's stone-ground sourdough miche; not the bakery's own secret formula. Starter's flour/water content folded into total baker's percentages." },
+  "tags": ["levain", "artisan", "grande-miche"]
+}

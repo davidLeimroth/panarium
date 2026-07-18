@@ -1,0 +1,58 @@
+{
+  "slug": "einkorn-sourdough",
+  "name": {
+    "en": "Einkorn Sourdough",
+    "de": "Einkorn-Sauerteigbrot",
+    "es": "Pan de masa madre de einkorn",
+    "fr": "Pain au levain de petit épeautre (engrain)",
+    "native": "Einkorn"
+  },
+  "aliases": ["Einkorn bread", "Triticum monococcum sourdough"],
+  "description": {
+    "en": "Baked from einkorn, humanity's oldest cultivated wheat, this loaf has a silky, pale-gold crumb and a sweet, nutty flavor unlike modern wheat. Einkorn's fragile gluten demands a gentle hand, but rewards with a taste genuinely its own.",
+    "de": "Aus Einkorn gebacken, dem ältesten Kulturweizen der Menschheit, hat dieses Brot eine seidige, hellgoldene Krume und einen süßen, nussigen Geschmack, der sich von modernem Weizen abhebt. Das brüchige Gluten verlangt Fingerspitzengefühl, belohnt aber mit einzigartigem Aroma.",
+    "es": "Horneado con einkorn, el trigo cultivado más antiguo de la humanidad, este pan tiene una miga sedosa y dorada y un sabor dulce y a frutos secos muy distinto del trigo moderno. Su gluten frágil exige mano suave, pero regala un sabor único.",
+    "fr": "Confectionné avec le petit épeautre (engrain), le blé cultivé le plus ancien de l'humanité, ce pain a une mie soyeuse et dorée pâle et une saveur douce et noisettée bien différente du blé moderne. Son gluten fragile demande de la douceur, pour un goût vraiment unique."
+  },
+  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this long-fermented sourdough treatment of it is a 21st-century artisan-bakery revival, not a historical recipe." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 75,
+    "saltPct": 2,
+    "prefermentedFlourPct": 3.5,
+    "flours": [
+      { "type": "einkorn", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:einkorn", "grams": 1105, "note": "all-purpose einkorn flour" },
+    { "key": "water", "grams": 828 },
+    { "key": "sourdough-starter", "grams": 39, "note": "100% hydration, to build the stiff levain" },
+    { "key": "salt", "grams": 22 }
+  ],
+  "yield": { "count": 2, "pieceGrams": 950, "shape": "boule" },
+  "time": { "totalMin": 1400, "activeMin": 35, "bulkMin": 210, "proofMin": 840, "bakeMin": 52, "overnight": true },
+  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "difficulty": 4,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["nutty", "wheaty", "sweet"],
+  "purposes": ["everyday", "toast", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 90 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best within the first 2-3 days; einkorn's delicate crumb dries out a little faster than modern wheat." },
+  "equipment": ["dutch-oven", "banneton"],
+  "method": [
+    { "title": "Build a stiff levain", "summary": "Mix a small amount of starter with einkorn flour and water into a stiff paste and let it ripen about 3 hours at warm room temperature until domed." },
+    { "title": "Short autolyse", "summary": "Combine the bulk of the flour and water and rest just 15 minutes, einkorn hydrates fast and doesn't need a long soak." },
+    { "title": "Mix gently", "summary": "Work in the levain and salt with wet hands, mixing gently; einkorn dough tears rather than stretches, so avoid aggressive kneading." },
+    { "title": "Bulk ferment", "summary": "Ferment about 3.5 hours with five gentle stretch-and-fold sets in the first two hours, then leave undisturbed." },
+    { "title": "Divide and shape", "summary": "Divide in two, preshape loosely, rest 15 minutes, then shape into boules using minimal flour, the dough is sticky and delicate." },
+    { "title": "Cold retard", "summary": "Proof seam-side-up in bannetons in the refrigerator for about 14 hours." },
+    { "title": "Bake", "summary": "Bake straight from the fridge in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until deep golden." },
+    { "title": "Cool", "summary": "Rest at least an hour before slicing to let the delicate crumb set." }
+  ],
+  "source": { "url": "https://www.theperfectloaf.com/einkorn-sourdough-bread/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17", "adaptation": "Percentages recomputed to include levain flour/water in the 100% flour base per house convention." },
+  "tags": ["ancient-grain", "einkorn"]
+}

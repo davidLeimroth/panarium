@@ -1,0 +1,62 @@
+{
+  "slug": "boortsog",
+  "name": {
+    "en": "Boortsog (Mongolian Fried Bread)",
+    "de": "Boortsog (mongolisches Frittierbrot)",
+    "es": "Boortsog (pan frito mongol)",
+    "fr": "Boortsog (pain frit mongol)",
+    "native": "боорцог"
+  },
+  "aliases": ["Mongolian fried dough", "boortsog cookies"],
+  "description": {
+    "en": "Small pieces of soft, lightly sweet dough cut into knots, twists or rounds and deep-fried until golden, crisp outside and fluffy within. A staple of Mongolian celebrations and everyday tea time, piled high on trays and dipped in salty milk tea.",
+    "de": "Kleine Stücke aus weichem, leicht süßem Teig, zu Knoten oder Rundlingen geschnitten und frittiert, bis sie golden, außen knusprig und innen locker sind. Fester Bestandteil mongolischer Feiern, aufgetürmt auf Tabletts und in Milchtee getunkt.",
+    "es": "Pequeños trozos de masa suave y ligeramente dulce, cortados en nudos, torzales o discos y fritos hasta quedar dorados, crujientes por fuera y esponjosos por dentro. Infaltables en las celebraciones mongolas y el té diario, apilados en bandejas y mojados en té con leche salado.",
+    "fr": "Petits morceaux de pâte moelleuse et sucrée, découpés en nœuds ou ronds et frits jusqu'à devenir dorés, croustillants dehors et moelleux dedans. Incontournable des fêtes mongoles, empilé sur des plateaux et trempé dans le thé au lait salé."
+  },
+  "origin": { "country": "MN", "region": "nationwide", "note": "A centerpiece of the Tsagaan Sar (Lunar New Year) table, often stacked in odd-numbered towers as a good-luck centerpiece." },
+  "leaven": "yeast",
+  "family": "fried",
+  "formula": {
+    "hydrationPct": 66.7,
+    "saltPct": 1.6,
+    "sugarPct": 15.5,
+    "fatPct": 28.5,
+    "yeastPct": 1.6,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 375 },
+    { "key": "water", "grams": 250, "note": "warm" },
+    { "key": "butter", "grams": 57, "note": "melted" },
+    { "key": "active-dry-yeast", "grams": 6 },
+    { "key": "sugar", "grams": 50 },
+    { "key": "salt", "grams": 6 },
+    { "label": { "en": "vanilla sugar", "de": "Vanillezucker", "es": "azúcar de vainilla", "fr": "sucre vanillé" }, "grams": 8 },
+    { "key": "vegetable-oil", "grams": 50, "note": "for deep-frying; amount absorbed is estimated" }
+  ],
+  "yield": { "count": 24, "pieceGrams": 33, "shape": "small twisted or knotted piece, deep-fried, 3-5 cm" },
+  "time": { "totalMin": 125, "activeMin": 35, "bulkMin": 60, "bakeMin": 30, "overnight": false },
+  "bake": { "tempC": 175, "steam": false, "vessel": "fryer" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["sweet", "buttery", "mild", "toasty"],
+  "purposes": ["celebration", "snack", "dessert"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Keeps several days in an airtight container, staying pleasantly crisp outside; dip in milk tea to soften if it firms up." },
+  "equipment": ["deep-fryer"],
+  "method": [
+    { "title": "Mix dough", "summary": "Combine flour, sugar, salt and vanilla sugar; stir in the yeast, melted butter and warm water to a soft dough." },
+    { "title": "Knead", "summary": "Knead 8-10 minutes until smooth and not sticky." },
+    { "title": "Rest", "summary": "Shape into a ball, cover, and let rest about an hour in a warm place." },
+    { "title": "Shape", "summary": "Roll the dough to about 1cm thick and cut into small shapes: balls, circles, triangles, knots or twists." },
+    { "title": "Fry", "summary": "Heat oil to about 175°C (350°F) and fry the pieces in small batches, turning, until evenly golden, 4-6 minutes total." },
+    { "title": "Cool and serve", "summary": "Drain and cool a few minutes, then serve with milk tea, honey or jam." }
+  ],
+  "source": { "url": "https://www.threecamellodge.com/boortsog-recipe/", "site": "Three Camel Lodge", "retrieved": "2026-07-18", "adaptation": "Salt reduced slightly from the source's 1.5 tsp for balance; frying-oil absorption and final piece count estimated per this atlas's convention for small deep-fried pieces." },
+  "tags": ["mongolian", "celebration-food"]
+}

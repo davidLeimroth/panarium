@@ -1,0 +1,58 @@
+{
+  "slug": "irish-soda-bread",
+  "name": {
+    "en": "Irish Soda Bread",
+    "de": "Irisches Sodabrot",
+    "es": "Pan de soda irlandés",
+    "fr": "Pain irlandais au bicarbonate",
+    "native": "Arán sóide"
+  },
+  "description": {
+    "en": "Ireland's fastest bread: buttermilk's acid meets baking soda for lift, no yeast or kneading required. A deep cross cut into the dough lets the dense crumb bake through and, tradition says, keeps the devil out.",
+    "de": "Irlands schnellstes Brot: Die Säure der Buttermilch trifft auf Natron und sorgt für Trieb, ganz ohne Hefe oder langes Kneten. Ein tiefes Kreuz im Teig lässt die dichte Krume durchgaren und soll der Überlieferung nach den Teufel fernhalten.",
+    "es": "El pan más rápido de Irlanda: el ácido del suero de leche se encuentra con el bicarbonato para dar impulso, sin levadura ni amasado. Una cruz profunda en la masa deja que la miga densa se cueza por dentro y, según la tradición, mantiene alejado al diablo.",
+    "fr": "Le pain le plus rapide d'Irlande : l'acidité du babeurre rencontre le bicarbonate pour lever la pâte, sans levure ni pétrissage. Une croix profonde entaillée dans la pâte laisse cuire la mie dense à cœur et, dit-on, tient le diable à distance."
+  },
+  "origin": {
+    "country": "IE",
+    "region": "nationwide, rural households",
+    "note": "First published in Irish newspapers in the 1830s; baking soda gave poor households a leavened bread without the expense of yeast."
+  },
+  "leaven": "chemical",
+  "family": "quick",
+  "formula": {
+    "hydrationPct": 81,
+    "saltPct": 1,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 580 },
+    { "key": "buttermilk", "grams": 470, "note": "cold" },
+    { "key": "baking-soda", "grams": 7 },
+    { "key": "salt", "grams": 6 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1063, "shape": "8-inch round, deep cross scored on top" },
+  "time": { "totalMin": 75, "activeMin": 15, "bakeMin": 48, "overnight": false },
+  "bake": { "tempC": 204, "steam": false, "vessel": "sheet" },
+  "difficulty": 1,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": ["tangy", "mild", "wheaty", "savory"],
+  "purposes": ["everyday", "soup-companion", "breakfast"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day it's baked or toasted the day after; stales faster than yeasted bread." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix dry", "summary": "Whisk flour, baking soda and salt together in a large bowl." },
+    { "title": "Add buttermilk", "summary": "Pour in cold buttermilk and stir just until the dough clumps together and turns too stiff to stir." },
+    { "title": "Light knead", "summary": "Turn onto a floured surface and knead only a few times, just enough to bring it together, overworking toughens it." },
+    { "title": "Shape", "summary": "Pat into an 8-inch round and set it on a baking sheet." },
+    { "title": "Score", "summary": "Cut a deep cross into the top so the center bakes through evenly." },
+    { "title": "Bake", "summary": "Bake in a hot oven until deeply golden and hollow-sounding when tapped on the bottom." }
+  ],
+  "source": { "url": "https://www.countrysidecravings.com/irish-soda-bread/", "site": "Countryside Cravings", "retrieved": "2026-07-17", "adaptation": "Kept to the traditional four ingredients; optional raisins, zest and sugar mentioned by the source were omitted." },
+  "tags": ["quick-bread", "no-knead"]
+}

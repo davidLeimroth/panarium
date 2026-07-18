@@ -1,0 +1,58 @@
+{
+  "slug": "matzo",
+  "name": {
+    "en": "Matzo",
+    "de": "Matze",
+    "es": "Matzá",
+    "fr": "Matsa",
+    "native": "מַצָּה"
+  },
+  "aliases": ["matzah", "matza", "unleavened bread"],
+  "description": {
+    "en": "A bone-dry, cracker-thin unleavened bread, docked all over and blasted in a hot oven for just minutes so no fermentation can begin. Eaten throughout Passover in place of any leavened bread, and year-round as a crisp snack.",
+    "de": "Ein knochentrockenes, cracker-dünnes ungesäuertes Brot, überall eingestochen und nur wenige Minuten im heißen Ofen gebacken, damit keine Gärung einsetzen kann. Wird während des gesamten Pessachfests anstelle jeden gesäuerten Brots gegessen, und ganzjährig als knuspriger Snack.",
+    "es": "Un pan ácimo, seco y fino como una galleta, pinchado por todas partes y horneado a fuego fuerte unos minutos para que no fermente. Se come toda la Pascua judía en lugar de pan leudado, y todo el año como aperitivo crujiente.",
+    "fr": "Un pain azyme, sec et fin comme un cracker, piqué de partout et cuit à four brûlant en quelques minutes à peine pour qu'aucune fermentation ne démarre. Mangé pendant toute la Pâque juive à la place de tout pain levé, et toute l'année comme collation croquante."
+  },
+  "origin": { "country": "IL", "region": "Jewish diaspora worldwide; ritually tied to ancient Egypt and Israel (Exodus)", "note": "Strict ritual shmura matzah for Passover uses only flour and water, mixed and baked within 18 minutes to guarantee no fermentation; this version relaxes that constraint with oil and normal resting for year-round eating." },
+  "leaven": "none",
+  "family": "crispbread",
+  "formula": {
+    "hydrationPct": 40,
+    "saltPct": 2,
+    "fatPct": 17,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 150, "note": "white bread flour" },
+    { "key": "water", "grams": 60 },
+    { "key": "olive-oil", "grams": 25 },
+    { "key": "salt", "grams": 3, "note": "in the dough" },
+    { "key": "salt", "grams": 2, "note": "coarse, sprinkled on top before baking" }
+  ],
+  "yield": { "count": 5, "pieceGrams": 48, "shape": "thin hand-sized cracker, docked" },
+  "time": { "totalMin": 62, "activeMin": 17, "bulkMin": 30, "proofMin": 15, "bakeMin": 4, "overnight": false },
+  "bake": { "tempC": 250, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": ["mild", "wheaty", "toasty"],
+  "purposes": ["holiday", "celebration", "snack"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 30, "freezes": true, "note": "Keeps for weeks in an airtight container at room temperature since it's baked bone-dry, exactly why it was chosen as the Passover bread, with no risk of ever leavening or spoiling." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix stiff dough", "summary": "Combine flour, salt and olive oil, then mix in water to a firm, non-sticky dough, about 40% hydration and cracker-like in feel." },
+    { "title": "Knead & rest", "summary": "Knead briefly, then rest covered for 30 minutes." },
+    { "title": "Divide & rest again", "summary": "Divide into pieces, shape, and rest a further 15 minutes." },
+    { "title": "Roll paper-thin", "summary": "Roll each piece out as thin as you possibly can." },
+    { "title": "Dock", "summary": "Prick all over with a fork so it bakes flat and crisp rather than puffing." },
+    { "title": "Blast-bake", "summary": "Bake at very high heat for 3-4 minutes until spotted brown and fully crisp." },
+    { "title": "Cool & store", "summary": "Cool completely on a rack. For ritual Passover use, the whole process from first water contact to oven-out must take under 18 minutes, using only flour and water." }
+  ],
+  "source": { "url": "https://www.chainbaker.com/matzah/", "site": "ChainBaker", "retrieved": "2026-07-17", "adaptation": "This version adds olive oil and normal resting for better home texture; strict ritual shmura matzah uses only flour and water, completed within 18 minutes with no resting at all." },
+  "tags": ["passover", "kosher", "ritual"]
+}

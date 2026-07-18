@@ -1,0 +1,150 @@
+{
+  "slug": "mollete-de-antequera",
+  "name": {
+    "en": "Mollete de Antequera",
+    "de": "Mollete de Antequera",
+    "es": "Mollete de Antequera",
+    "fr": "Mollete de Antequera"
+  },
+  "description": {
+    "en": "An Andalusian breakfast roll baked on purpose to stay pale and soft, never crisp: a flattened oval with an airy, spongy crumb. IGP-protected since 2020, it's split, warmed and drizzled with olive oil, tomato or ham rather than eaten straight from the oven.",
+    "de": "Ein andalusisches Frühstücksbrötchen, absichtlich blass und weich gebacken, nie knusprig: ein flach gedrücktes Oval mit luftiger, schwammiger Krume. Seit 2020 g.g.A.-geschützt, wird es aufgeschnitten, erwärmt und mit Olivenöl, Tomate oder Schinken beträufelt statt pur gegessen.",
+    "es": "Un panecillo de desayuno andaluz horneado a propósito para quedar pálido y blando, nunca crujiente: un óvalo aplastado de miga aireada y esponjosa. Con IGP desde 2020, se parte, se calienta y se moja con aceite de oliva, tomate o jamón en vez de comerse recién horneado.",
+    "fr": "Un petit pain de petit-déjeuner andalou volontairement cuit pâle et moelleux, jamais croustillant: un ovale aplati à la mie aérée et spongieuse. IGP depuis 2020, on le fend, le réchauffe et l'arrose d'huile d'olive, de tomate ou de jambon plutôt que de le manger pur du four."
+  },
+  "origin": {
+    "country": "ES",
+    "region": "Antequera, Málaga, Andalusia",
+    "note": "IGP since 2020; deliberately underbaked so the crust stays pale and soft rather than crisp, the opposite goal of most bread."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 2,
+    "fatPct": 9.2,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 80
+      },
+      {
+        "type": "durum",
+        "pct": 20
+      }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    {
+      "key": "flour:durum",
+      "grams": 100,
+      "note": "semolina"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 400,
+      "note": "250 g bread flour plus 150 g hard wheat flour"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 46
+    },
+    {
+      "key": "water",
+      "grams": 325
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 2,
+      "note": "lyophilized (freeze-dried) yeast"
+    }
+  ],
+  "yield": {
+    "count": 8,
+    "pieceGrams": 110,
+    "shape": "flattened oval roll, pale and barely colored"
+  },
+  "time": {
+    "totalMin": 219,
+    "activeMin": 20,
+    "bulkMin": 120,
+    "proofMin": 60,
+    "bakeMin": 11,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "sheet"
+  },
+  "difficulty": 2,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": [
+    "mild",
+    "wheaty",
+    "toasty"
+  ],
+  "purposes": [
+    "breakfast",
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Meant to be soft and barely baked; day-old molletes are traditionally split and toasted rather than eaten fresh."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine all ingredients and knead briefly, about 5 minutes."
+    },
+    {
+      "title": "Rest and knead again",
+      "summary": "Rest 10 minutes covered, then knead 2-3 minutes more."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Shape into a ball in an oiled container and let rise until doubled."
+    },
+    {
+      "title": "Shape",
+      "summary": "Flatten on a floured surface, roll into a taut log, then cut into 8 equal pieces and flatten each into a slipper shape about 1 cm thick."
+    },
+    {
+      "title": "Proof",
+      "summary": "Place on a floured cloth, cover, and let rise at least an hour until well puffed."
+    },
+    {
+      "title": "Bake pale",
+      "summary": "Bake at 220°C for just 10-12 minutes; the crust should stay pale and soft, never crisp or deeply colored."
+    }
+  ],
+  "source": {
+    "url": "https://invitadoinvierno.com/molletes-antequera/",
+    "site": "El Invitado de Invierno",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams as published for an 8-roll batch; olive oil converted from 50 ml using standard olive oil density."
+  },
+  "tags": [
+    "igp",
+    "underbaked"
+  ]
+}

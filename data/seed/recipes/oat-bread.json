@@ -1,0 +1,67 @@
+{
+  "slug": "oat-bread",
+  "name": {
+    "en": "Old-Fashioned Oatmeal Bread",
+    "de": "Altmodisches Haferflocken-Brot",
+    "es": "Pan de avena a la antigua",
+    "fr": "Pain à l'avoine à l'ancienne"
+  },
+  "aliases": ["oatmeal bread", "oat sandwich loaf"],
+  "description": {
+    "en": "Rolled oats soften in boiling water with oil and molasses, then get kneaded into a soft wheat dough and baked in a tin. A homestyle American sandwich loaf, tender and faintly sweet, with a good hit of whole-grain oat flavor in every slice.",
+    "de": "Haferflocken weichen in kochendem Wasser mit Öl und Melasse ein, werden dann in einen weichen Weizenteig geknetet und im Kastenformat gebacken. Ein hausgemachtes amerikanisches Sandwichbrot, zart und leicht süß, mit deutlichem Vollkorn-Hafergeschmack in jeder Scheibe.",
+    "es": "Los copos de avena se ablandan en agua hirviendo con aceite y melaza, luego se amasan en una masa de trigo suave y se hornean en molde. Un pan de molde casero americano, tierno y algo dulce, con un buen toque de sabor a avena integral en cada rebanada.",
+    "fr": "Les flocons d'avoine ramollissent dans l'eau bouillante avec de l'huile et de la mélasse, puis sont pétris dans une pâte de blé tendre et cuits en moule. Un pain de mie américain fait maison, moelleux et légèrement sucré, avec une bonne saveur d'avoine à chaque tranche."
+  },
+  "origin": {
+    "country": "US",
+    "region": "New England and general American home baking",
+    "note": "A staple of the mid-20th-century American home-baking repertoire. Oats have no gluten of their own, so they are always cut with wheat flour to get a raised loaf like this one, unlike a pure oatcake or bannock."
+  },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 71.8,
+    "saltPct": 2.1,
+    "sugarPct": 20.3,
+    "fatPct": 11.9,
+    "yeastPct": 1.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 78.8 },
+      { "type": "oat", "pct": 21.2 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 330 },
+    { "key": "flour:oat", "grams": 89, "note": "old-fashioned rolled oats, softened in boiling water before mixing" },
+    { "key": "water", "grams": 301, "note": "boiling, poured over the oats to soften them" },
+    { "key": "vegetable-oil", "grams": 50 },
+    { "key": "molasses", "grams": 85 },
+    { "key": "instant-yeast", "grams": 6 },
+    { "key": "salt", "grams": 9 },
+    { "label": { "en": "dry milk powder", "de": "Milchpulver", "es": "leche en polvo", "fr": "lait en poudre" }, "grams": 28 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 800, "shape": "8.5 x 4.5 in loaf pan" },
+  "time": { "totalMin": 235, "activeMin": 15, "bulkMin": 90, "proofMin": 53, "bakeMin": 37, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "nutty", "malty"],
+  "purposes": ["everyday", "sandwich", "toast", "breakfast"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 21.2 },
+  "keeping": { "freshDays": 4, "freezes": true },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Soak the oats", "summary": "Pour boiling water over the rolled oats, oil and molasses; stir and let cool to just warm, 15-20 minutes." },
+    { "title": "Mix", "summary": "Add flour, instant yeast, salt and dry milk powder; mix and knead into a soft, slightly sticky, craggy dough." },
+    { "title": "First rise", "summary": "Cover and let rise about 1.5 hours until puffy, though not necessarily doubled." },
+    { "title": "Shape", "summary": "Shape into a log and settle it into a greased loaf pan." },
+    { "title": "Second rise", "summary": "Cover and let rise 45-60 minutes until the crown domes about 2.5 cm above the rim." },
+    { "title": "Bake", "summary": "Bake at about 175°C for 35-38 minutes until deep golden and the internal temperature reads about 88°C, tenting with foil if it browns too fast." },
+    { "title": "Cool", "summary": "Turn out of the pan and cool on its side on a rack before slicing." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/old-fashioned-oatmeal-bread-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-18" },
+  "tags": ["oats", "sandwich", "american"]
+}

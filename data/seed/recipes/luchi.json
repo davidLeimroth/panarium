@@ -1,0 +1,57 @@
+{
+  "slug": "luchi",
+  "name": {
+    "en": "Luchi (Bengali Puffed Fried Bread)",
+    "de": "Luchi (bengalisches frittiertes Puffbrot)",
+    "es": "Luchi (pan bengalí frito inflado)",
+    "fr": "Luchi (pain bengali frit gonflé)",
+    "native": "লুচি"
+  },
+  "aliases": ["luchi puri", "loochi"],
+  "description": {
+    "en": "A small, pale Bengali bread of plain white-flour dough, rolled thin and deep-fried just until it balloons into a hollow puff. Kept deliberately unbrowned, softer and lighter than a typical poori, and served hot with potato curry for festive breakfasts.",
+    "de": "Ein kleines, blasses bengalisches Brot aus einfachem Weißmehlteig, dünn ausgerollt und frittiert, bis es zu einer hohlen Blase aufgeht. Bewusst ungebräunt und weicher als eine übliche Poori, wird es heiß mit Kartoffel-Curry zum festlichen Frühstück serviert.",
+    "es": "Un pequeño pan bengalí pálido de masa simple de harina blanca, estirado fino y frito justo hasta inflarse en una bolsa hueca. Se deja deliberadamente sin dorar, más suave que una poori típica, y se sirve caliente con curry de papa en desayunos festivos.",
+    "fr": "Un petit pain bengali pâle, à base de pâte de farine blanche simple, étalé fin et frit juste assez pour gonfler en bulle creuse. Volontairement pâle et tendre, il se sert chaud avec un curry de pomme de terre pour les petits-déjeuners de fête."
+  },
+  "origin": { "country": "IN", "region": "West Bengal (also Bangladesh, Assam, Odisha)", "note": "A festive-breakfast staple, especially during Durga Puja, usually paired with a dry potato curry (aloo dum) or chholar dal." },
+  "leaven": "none",
+  "family": "fried",
+  "formula": {
+    "hydrationPct": 52,
+    "saltPct": 1.3,
+    "fatPct": 19.4,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 310, "note": "all-purpose flour (maida)" },
+    { "key": "vegetable-oil", "grams": 27, "note": "in the dough (moyan)" },
+    { "key": "salt", "grams": 4 },
+    { "key": "water", "grams": 160, "note": "warm" },
+    { "key": "vegetable-oil", "grams": 33, "note": "for deep-frying; amount absorbed is estimated" }
+  ],
+  "yield": { "count": 11, "pieceGrams": 48, "shape": "4 in (10 cm) fried disc" },
+  "time": { "totalMin": 65, "activeMin": 30, "proofMin": 20, "bakeMin": 12, "overnight": false },
+  "bake": { "tempC": 175, "steam": false, "vessel": "fryer" },
+  "difficulty": 2,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["mild", "savory", "rich"],
+  "purposes": ["breakfast", "celebration", "everyday"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 0.3, "freezes": true, "note": "Best eaten within minutes of frying while puffed; deflates and turns tough once cold. Raw rolled rounds can be stacked with parchment and frozen for later frying." },
+  "equipment": ["deep-fryer"],
+  "method": [
+    { "title": "Mix dough", "summary": "Rub oil and salt into the flour until crumbly, then knead in warm water gradually to a dough firmer than roti but softer than poori." },
+    { "title": "Rest", "summary": "Cover with a damp cloth and rest 20 minutes to relax the gluten." },
+    { "title": "Knead and divide", "summary": "Knead again briefly until smooth, then divide into small, walnut-sized balls." },
+    { "title": "Roll", "summary": "Roll each ball into a thin 4-inch circle, using a little oil rather than dry flour so the surface stays pale." },
+    { "title": "Fry", "summary": "Slide into hot oil and gently press with a slotted spoon until it puffs into a ball; fry until just set and white, not browned." },
+    { "title": "Flip and drain", "summary": "Flip briefly to cook the other side, then lift out, drain, and serve immediately." }
+  ],
+  "source": { "url": "https://www.whiskaffair.com/bengali-luchi-recipe/", "site": "Whisk Affair", "retrieved": "2026-07-18", "adaptation": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; salt increased slightly from the source's 1/2 tsp for balance." },
+  "tags": ["bengali", "festive-breakfast"]
+}

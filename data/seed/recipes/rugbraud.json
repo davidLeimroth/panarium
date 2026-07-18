@@ -1,0 +1,158 @@
+{
+  "slug": "rugbraud",
+  "name": {
+    "en": "Icelandic Hot-Spring Rye Bread (Rúgbrauð)",
+    "de": "Rúgbrauð (isländisches Heißquellen-Roggenbrot)",
+    "es": "Pan de centeno de aguas termales islandés (Rúgbrauð)",
+    "fr": "Pain de seigle aux sources chaudes islandais (Rúgbrauð)",
+    "native": "Rúgbrauð"
+  },
+  "aliases": [
+    "hverabrauð",
+    "thunder bread",
+    "þrumari"
+  ],
+  "description": {
+    "en": "Iceland's sweet, cake-dark rye, traditionally buried in a pot near a geothermal hot spring and steam-baked underground for a full day. The oven version trades the geyser for eleven slow hours at a bare simmer, still dense, damp and molasses-sweet.",
+    "de": "Islands süßes, kuchendunkles Roggenbrot, traditionell in einem Topf nahe einer heißen Quelle vergraben und einen ganzen Tag unter der Erde gedämpft gebacken. Die Ofenversion tauscht den Geysir gegen elf Stunden bei knapper Simmerhitze – trotzdem dicht, feucht und melassesüß.",
+    "es": "El pan de centeno dulce y oscuro como un bizcocho de Islandia, enterrado junto a una fuente termal y cocido al vapor bajo tierra un día entero. La versión de horno cambia el géiser por once horas a fuego lentísimo: denso, húmedo y dulce a melaza.",
+    "fr": "Le pain de seigle sucré et sombre comme un gâteau d'Islande, enterré près d'une source chaude et cuit à la vapeur sous terre toute une journée. La version au four échange le geyser contre onze heures à feu très doux : dense, humide et sucré à la mélasse."
+  },
+  "origin": {
+    "country": "IS",
+    "region": "Iceland, notably Laugarvatn and other geothermal areas",
+    "note": "Nicknamed þrumari ('thunderer'); rye became Iceland's main grain after Denmark's 1602-1786 trade monopoly."
+  },
+  "leaven": "chemical",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 143,
+    "saltPct": 2.1,
+    "sugarPct": 46.5,
+    "flours": [
+      {
+        "type": "rye-whole",
+        "pct": 64
+      },
+      {
+        "type": "wheat-white",
+        "pct": 36
+      }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    {
+      "key": "flour:rye-whole",
+      "grams": 460
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 260
+    },
+    {
+      "key": "baking-soda",
+      "grams": 14
+    },
+    {
+      "key": "salt",
+      "grams": 15
+    },
+    {
+      "key": "buttermilk",
+      "grams": 1028
+    },
+    {
+      "label": {
+        "en": "golden syrup",
+        "de": "heller Sirup (Golden Syrup)",
+        "es": "sirope dorado (golden syrup)",
+        "fr": "sirop doré (golden syrup)"
+      },
+      "grams": 335
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1900,
+    "shape": "large round loaf baked in a covered pot"
+  },
+  "time": {
+    "totalMin": 705,
+    "activeMin": 15,
+    "bakeMin": 690,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 90,
+    "steam": false,
+    "vessel": "pot"
+  },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": [
+    "sweet",
+    "malty",
+    "earthy",
+    "rich"
+  ],
+  "purposes": [
+    "breakfast",
+    "everyday",
+    "table",
+    "celebration"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 64
+  },
+  "keeping": {
+    "freshDays": 7,
+    "freezes": true,
+    "note": "Stays moist about a week wrapped; traditionally sliced thin with butter, smoked fish or hangikjöt."
+  },
+  "equipment": [
+    "dutch-oven"
+  ],
+  "method": [
+    {
+      "title": "Mix the batter",
+      "summary": "Whisk rye flour, wheat flour, salt and baking soda, then stir in buttermilk and golden syrup to a loose, pourable batter."
+    },
+    {
+      "title": "Fill the pot",
+      "summary": "Pour the batter into a well-buttered, lidded pot or Dutch oven."
+    },
+    {
+      "title": "Cover",
+      "summary": "Top with a round of parchment and the lid to trap steam and moisture."
+    },
+    {
+      "title": "Slow-bake",
+      "summary": "Bake for many hours at a bare simmer-low oven temperature until fully set all the way through."
+    },
+    {
+      "title": "Turn out",
+      "summary": "Loosen the edges with a spatula and invert onto a cooling rack."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cool at least 20 minutes before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://thetoothsometable.com/bread/icelandic-rye-bread-rugbraud/",
+    "site": "The Toothsome Table",
+    "retrieved": "2026-07-17",
+    "adaptation": "Home-oven method from the source; the traditional version is buried and steam-baked near a geothermal hot spring for about 24 hours."
+  },
+  "tags": [
+    "geothermal",
+    "thunder-bread"
+  ]
+}

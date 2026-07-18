@@ -1,0 +1,65 @@
+{
+  "slug": "jewish-deli-rye",
+  "name": {
+    "en": "Jewish Deli Rye",
+    "de": "Jüdisches Deli-Roggenbrot",
+    "es": "Centeno estilo delicatessen judía",
+    "fr": "Pain de seigle à la juive (deli rye)"
+  },
+  "aliases": ["deli rye", "New York rye"],
+  "description": {
+    "en": "The bread built for pastrami: a mild rye sour meets bread flour and whole caraway, baked hearth-style until the crust crackles. Born in the Lower East Side's Eastern European bakeries, it's the backbone of the American Jewish deli sandwich.",
+    "de": "Das Brot für Pastrami: Ein milder Roggensauerteig trifft auf Weizenmehl und ganzen Kümmel und wird freigeschoben gebacken, bis die Kruste knackt. Entstanden in den osteuropäischen Bäckereien der Lower East Side, ist es das Rückgrat des jüdischen Deli-Sandwiches in Amerika.",
+    "es": "El pan hecho para el pastrami: una masa madre suave de centeno se une a la harina de fuerza y a la alcaravea entera, horneada sobre piedra hasta que la corteza cruje. Nacida en las panaderías de Europa del Este del Lower East Side, es la base del sándwich judío-americano.",
+    "fr": "Le pain fait pour le pastrami : un levain de seigle doux rencontre la farine de force et le carvi entier, cuit à même la sole jusqu'à ce que la croûte craque. Né dans les boulangeries d'Europe de l'Est du Lower East Side, il est la base du sandwich de deli juif new-yorkais."
+  },
+  "origin": {
+    "country": "US",
+    "region": "New York City, Lower East Side",
+    "note": "Brought by Eastern European Jewish immigrants (Poland, Russia, Ukraine) in the late 1800s; the light rye and caraway profile is a New York adaptation of older European rye traditions."
+  },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 67,
+    "saltPct": 1.8,
+    "yeastPct": 0.5,
+    "prefermentedFlourPct": 36,
+    "flours": [
+      { "type": "rye-whole", "pct": 36 },
+      { "type": "wheat-white", "pct": 64 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "sourdough-starter", "grams": 14, "note": "ripe starter, to build the rye sour" },
+    { "key": "flour:rye-whole", "grams": 237, "note": "pumpernickel-style whole rye, for the rye sour" },
+    { "key": "water", "grams": 198, "note": "for the rye sour" },
+    { "key": "flour:wheat-white", "grams": 420, "note": "bread or all-purpose flour, for the final dough" },
+    { "key": "water", "grams": 241, "note": "for the final dough" },
+    { "key": "caraway", "grams": 8, "note": "whole seeds plus a pinch ground" },
+    { "key": "salt", "grams": 12 },
+    { "key": "instant-yeast", "grams": 3 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1133, "shape": "plump oval hearth loaf, caraway-topped" },
+  "time": { "totalMin": 960, "activeMin": 30, "bulkMin": 60, "proofMin": 42, "bakeMin": 45, "overnight": true },
+  "bake": { "tempC": 238, "steam": true, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["sour", "tangy", "earthy", "herbal"],
+  "purposes": ["sandwich", "everyday", "toast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 36 },
+  "keeping": { "freshDays": 5, "freezes": true, "note": "Improves after a day; wrap tightly since rye dries out fast once cut." },
+  "equipment": ["baking-stone"],
+  "method": [
+    { "title": "Build the rye sour", "summary": "Mix a spoonful of starter with whole rye flour and water; let it ferment at room temperature overnight until active and pleasantly sour." },
+    { "title": "Mix the dough", "summary": "Combine the rye sour with bread flour, more water, caraway, salt and a touch of yeast into a smooth, workable dough." },
+    { "title": "Bulk rise", "summary": "Let the dough rise about an hour, until visibly puffy." },
+    { "title": "Shape", "summary": "Shape into a plump oval loaf and set it on a floured peel or parchment." },
+    { "title": "Final proof", "summary": "Proof uncovered until it springs back slowly when poked, about 40 minutes." },
+    { "title": "Bake covered, then open", "summary": "Bake on a hot stone, covered for the first stretch to trap steam, then uncovered until the crust is deeply crackled." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/jewish-rye-bread-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Traditional old-bread soaker (altus) omitted for a cleaner formula; caraway and rye-sour ratios kept as sourced." },
+  "tags": ["deli", "caraway", "nyc"]
+}

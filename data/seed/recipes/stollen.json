@@ -1,0 +1,77 @@
+{
+  "slug": "stollen",
+  "name": {
+    "en": "German Christmas Stollen",
+    "de": "Christstollen",
+    "es": "Stollen navideño alemán",
+    "fr": "Stollen de Noël allemand",
+    "native": "Stollen"
+  },
+  "aliases": ["Christstollen", "Dresdner Stollen", "Weihnachtsstollen", "Christmas stollen"],
+  "description": {
+    "en": "Germany's great Christmas loaf: a dense, buttery dough packed with rum-soaked raisins, candied peel and almonds, baked in its traditional folded shape and finished in butter and sugar. Wrapped and rested for weeks, it only gets better.",
+    "de": "Deutschlands großes Weihnachtsgebäck: ein dichter, butterreicher Teig voller rumgetränkter Rosinen, Zitronat und Mandeln, in der traditionellen gefalteten Form gebacken und zum Schluss in Butter und Zucker gewälzt. Gut eingepackt reift er wochenlang nach.",
+    "es": "El gran pan navideño de Alemania: una masa densa y mantecosa cargada de pasas maceradas en ron, cortezas confitadas y almendras, horneada en su forma plegada tradicional y rematada en mantequilla y azúcar. Envuelto y reposado durante semanas, mejora con el tiempo.",
+    "fr": "Le grand pain de Noël allemand : une pâte dense et beurrée, gorgée de raisins secs macérés au rhum, d'écorces confites et d'amandes, cuite dans sa forme pliée traditionnelle puis roulée dans le beurre et le sucre. Enveloppé, il se bonifie pendant des semaines."
+  },
+  "origin": {
+    "country": "DE",
+    "region": "Dresden, Saxony",
+    "note": "\"Dresdner Stollen\" is a protected geographical term; countless regional versions exist across Germany, and many include a marzipan core."
+  },
+  "leaven": "yeast",
+  "family": "sweet-loaf",
+  "formula": {
+    "hydrationPct": 31.6,
+    "saltPct": 1.2,
+    "sugarPct": 15.8,
+    "fatPct": 50,
+    "yeastPct": 3.9,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 600 },
+    { "key": "fresh-yeast", "grams": 70 },
+    { "key": "milk", "grams": 170, "note": "warm, to activate the yeast" },
+    { "key": "salt", "grams": 7 },
+    { "key": "sugar", "grams": 95, "note": "in the dough" },
+    { "key": "almonds", "grams": 122, "note": "mostly sweet almonds, a few bitter almonds for classic flavor" },
+    { "key": "butter", "grams": 250, "note": "soft" },
+    { "label": { "en": "clarified butter", "de": "Butterschmalz", "es": "mantequilla clarificada", "fr": "beurre clarifié" }, "grams": 50, "note": "used alongside regular butter; higher smoke point and better keeping" },
+    { "key": "candied-citrus", "grams": 120, "note": "lemon and orange peel (Zitronat/Orangeat)" },
+    { "key": "lemon-zest", "grams": 15 },
+    { "key": "raisins", "grams": 460, "note": "sultanas, soaked in rum overnight" },
+    { "label": { "en": "rum", "de": "Rum", "es": "ron", "fr": "rhum" }, "grams": 40, "note": "for soaking the sultanas" },
+    { "label": { "en": "stollen spice (cardamom, mace, cinnamon)", "de": "Stollengewürz (Kardamom, Muskatblüte, Zimt)", "es": "especias para stollen (cardamomo, macis, canela)", "fr": "épices à stollen (cardamome, macis, cannelle)" }, "grams": 1 },
+    { "key": "vanilla", "grams": 2, "note": "half a vanilla pod, scraped" },
+    { "key": "butter", "grams": 100, "note": "clarified, for brushing after baking" },
+    { "key": "sugar", "grams": 50, "note": "coarse, for rolling the warm loaf" },
+    { "key": "sugar", "grams": 50, "note": "powdered, for the final dusting" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1800, "shape": "folded oval loaf (Stollen)" },
+  "time": { "totalMin": 1020, "activeMin": 45, "bulkMin": 90, "bakeMin": 60, "overnight": true },
+  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "difficulty": 4,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["fruity", "buttery", "rich", "spiced", "sweet"],
+  "purposes": ["celebration", "holiday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 45, "freezes": true, "note": "Improves for weeks, wrap tightly and let it mature at least 2–3 weeks before cutting; traditionally baked well ahead of Christmas." },
+  "equipment": ["sheet-pan", "stand-mixer"],
+  "method": [
+    { "title": "Soak the fruit", "summary": "The day before, soak the sultanas in rum. Let them plump overnight so they season the dough from within rather than drying it out." },
+    { "title": "Activate the yeast", "summary": "Warm the milk and dissolve the fresh yeast into it; let it foam about 20 minutes while the rest of the ingredients come to room temperature." },
+    { "title": "Mix the dough", "summary": "Gently combine the flour with the yeasted milk, salt, sugar, butter, clarified butter, almonds, candied peel, lemon zest and vanilla into a heavy, rich dough, handle it gently rather than developing strong gluten." },
+    { "title": "First rise", "summary": "Cover and let the dough rise about 90 minutes at room temperature, until visibly puffed despite its heavy load of fruit and fat." },
+    { "title": "Fold in the fruit and shape", "summary": "Knead in the soaked, drained sultanas just until distributed, then shape into a flattened oval and fold one long side over the other, leaving the classic off-center ridge along the top." },
+    { "title": "Bake low and slow", "summary": "Bake at a moderate temperature until deeply golden and cooked through, about an hour, the dense, fruit-heavy loaf needs gentler heat than a lean bread." },
+    { "title": "Coat while warm", "summary": "While still warm, brush the loaf all over with melted butter and roll it in coarse sugar; once fully cool, dust it heavily with powdered sugar." },
+    { "title": "Rest before cutting", "summary": "Wrap well and let it mature at least two to three weeks in a cool spot before the first slice, flavor and texture both improve dramatically with time." }
+  ],
+  "source": { "url": "https://www.sachsen-tourismus.de/blog/rezept-dresdner-christstollen", "site": "Sachsen Tourismus", "retrieved": "2026-07-17", "adaptation": "Decoration sugars split into a rolling step and a dusting step; kept the sourced Butterschmalz (clarified butter, not meat lard) and bitter almonds as authentic details." },
+  "tags": ["christmas", "dresden"]
+}

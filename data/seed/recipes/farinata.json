@@ -1,0 +1,56 @@
+{
+  "slug": "farinata",
+  "name": {
+    "en": "Farinata (Genoese Chickpea Flatbread)",
+    "de": "Farinata (Genueser Kichererbsen-Fladen)",
+    "es": "Farinata (Torta de garbanzo genovesa)",
+    "fr": "Farinata (Galette de pois chiches génoise)",
+    "native": "fainâ"
+  },
+  "aliases": ["faina", "socca", "cecina"],
+  "description": {
+    "en": "A thin Ligurian batter of chickpea flour, water and olive oil, rested for hours then baked in a wide oiled pan until the top is crisp and mahogany and the inside sets custardy. Cut into wedges and eaten hot by hand, straight from a Genoa street stall.",
+    "de": "Ein dünner ligurischer Teig aus Kichererbsenmehl, Wasser und Olivenöl, stundenlang gerastet und in einer breiten, geölten Pfanne gebacken, bis die Oberfläche knusprig ist und das Innere puddingartig fest wird. In Keile geschnitten, heiß gegessen.",
+    "es": "Una masa ligur fina de harina de garbanzo, agua y aceite de oliva, reposada durante horas y horneada en una sartén ancha y aceitada hasta que la superficie queda crujiente y caoba y el interior se cuaja como un flan. Se corta en cuñas y se come caliente con la mano.",
+    "fr": "Une pâte ligure fine de farine de pois chiches, d'eau et d'huile d'olive, reposée pendant des heures puis cuite dans un large plat huilé jusqu'à ce que le dessus soit croustillant et acajou et l'intérieur pris comme un flan. Coupée en quartiers et mangée chaude à la main."
+  },
+  "origin": { "country": "IT", "region": "Liguria (Genoa)", "note": "Nearly identical to Provençal socca across the French border in Nice; both likely share a common Ligurian coastal ancestry." },
+  "leaven": "none",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 300,
+    "saltPct": 1,
+    "fatPct": 21,
+    "flours": [
+      { "type": "chickpea", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:chickpea", "grams": 300 },
+    { "key": "water", "grams": 900 },
+    { "key": "olive-oil", "grams": 64, "note": "some in the batter, some to oil the pan" },
+    { "key": "salt", "grams": 3 }
+  ],
+  "yield": { "count": 8, "pieceGrams": 158, "shape": "thin round tart, 40 cm, cut into wedges" },
+  "time": { "totalMin": 388, "activeMin": 28, "bulkMin": 360, "bakeMin": 18, "overnight": false },
+  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": ["nutty", "earthy", "savory"],
+  "purposes": ["snack", "street-food", "side"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 1, "freezes": false, "note": "Best eaten warm from the oven within the hour, crisp on top and custardy beneath; it turns rubbery once cold or reheated, and does not freeze well." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix batter", "summary": "Whisk chickpea flour into water until completely free of lumps, then stir in a little olive oil and salt." },
+    { "title": "Long rest", "summary": "Let the batter rest loosely covered at room temperature at least 4 hours, ideally 8, skimming off any foam every couple of hours." },
+    { "title": "Oil the pan", "summary": "Generously oil a wide round pan so a film of oil coats the bottom and will rise around the edges of the batter." },
+    { "title": "Pour", "summary": "Stir the rested batter well and pour it in, about 0.7-0.9 cm deep." },
+    { "title": "Bake", "summary": "Bake in a very hot oven until the top is deeply golden and the edges crisp, 15-20 minutes." },
+    { "title": "Cut & serve", "summary": "Cut into wedges with a wooden or metal spatula and serve immediately, dusted with black pepper." }
+  ],
+  "source": { "url": "https://www.asmallkitcheningenoa.com/farinata-genoa-chickpea-tart/", "site": "A Small Kitchen in Genoa", "retrieved": "2026-07-17", "adaptation": "Salt quantity estimated at about 1% of flour weight since the source says 'salt to taste'; oil quantity kept as sourced for a 40 cm pan." },
+  "tags": ["gluten-free", "ligurian"]
+}

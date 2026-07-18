@@ -1,0 +1,67 @@
+{
+  "slug": "english-muffin",
+  "name": {
+    "en": "English Muffin",
+    "de": "English Muffin",
+    "es": "Muffin inglés",
+    "fr": "Muffin anglais"
+  },
+  "aliases": ["griddle cake", "toasting muffin"],
+  "description": {
+    "en": "Cooked on a griddle rather than baked, this yeasted disc rises around a slow overnight preferment until it's honeycombed with the nooks and crannies built to trap melting butter. Split it with a fork; never cut it with a knife.",
+    "de": "Statt gebacken wird diese Hefe-Scheibe auf der Platte gegart und reift dank eines langsamen Vorteigs über Nacht zu einem Wabenmuster aus Löchern und Rissen, perfekt zum Auffangen zerlaufener Butter. Mit der Gabel aufreißen, nie mit dem Messer schneiden.",
+    "es": "Cocido en plancha en vez de horneado, este disco de levadura crece gracias a un prefermento lento durante toda la noche hasta llenarse de esos alvéolos y grietas hechos para atrapar la mantequilla derretida. Se abre con un tenedor, nunca con un cuchillo.",
+    "fr": "Cuit à la plaque plutôt qu'au four, ce disque levé gonfle grâce à un pré-ferment lent toute une nuit jusqu'à se cribler d'alvéoles et de crevasses conçues pour retenir le beurre fondu. On l'ouvre à la fourchette, jamais au couteau."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "England, commercialized in New York City",
+    "note": "Rooted in British griddle 'muffins' and crumpets; the modern packaged English muffin was popularized in the US by Samuel Bath Thomas's 1880s NYC bakery."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 77,
+    "saltPct": 1.9,
+    "sugarPct": 1.3,
+    "fatPct": 5.8,
+    "yeastPct": 0.7,
+    "prefermentedFlourPct": 61,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 190, "note": "all-purpose, for the overnight preferment" },
+    { "key": "flour:wheat-white", "grams": 120, "note": "all-purpose, for the final dough" },
+    { "key": "milk", "grams": 152, "note": "lukewarm, for the preferment" },
+    { "key": "water", "grams": 102, "note": "lukewarm, for the preferment" },
+    { "key": "instant-yeast", "grams": 2, "note": "in the preferment" },
+    { "key": "salt", "grams": 6 },
+    { "key": "sugar", "grams": 4 },
+    { "key": "butter", "grams": 18, "note": "melted" },
+    { "key": "cornmeal", "grams": 20, "note": "for dusting" }
+  ],
+  "yield": { "count": 6, "pieceGrams": 99, "shape": "3.5-inch griddle-cooked round" },
+  "time": { "totalMin": 380, "activeMin": 30, "bulkMin": 300, "proofMin": 25, "bakeMin": 25, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "griddle" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "floury",
+  "flavors": ["mild", "tangy", "yeasty", "wheaty"],
+  "purposes": ["breakfast", "toast", "sandwich"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Split with a fork, not a knife, to keep the nooks and crannies; toasts well straight from frozen." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Preferment", "summary": "Whisk flour, a little yeast, milk and water into a thick batter and let it ferment a few hours at room temperature until bubbly and faintly tangy." },
+    { "title": "Build the dough", "summary": "Fold in the remaining flour, salt, sugar and melted butter and mix just until smooth." },
+    { "title": "Bulk rise", "summary": "Let the dough rise twice, about an hour each time, folding gently between rises to build structure." },
+    { "title": "Shape", "summary": "Turn the dough out onto a cornmeal-dusted surface, pat it down, and cut into rounds, or drop scoops into greased rings." },
+    { "title": "Rest", "summary": "Let the shaped rounds relax 20–30 minutes so they puff slightly before cooking." },
+    { "title": "Griddle cook", "summary": "Cook low and slow on a dry griddle, 10–15 minutes per side, until deeply golden with no raw center and no hard crust." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/english-muffins-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Ratios preserved from the sourced version; presentation simplified." },
+  "tags": ["griddle-bread", "breakfast-classic"]
+}

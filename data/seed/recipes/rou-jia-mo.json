@@ -1,0 +1,57 @@
+{
+  "slug": "rou-jia-mo",
+  "name": {
+    "en": "Rou Jia Mo (Chinese 'Hamburger' Bread)",
+    "de": "Rou Jia Mo (chinesisches 'Hamburger'-Brot)",
+    "es": "Rou Jia Mo ('hamburguesa' china)",
+    "fr": "Rou Jia Mo ('hamburger' chinois)",
+    "native": "肉夹馍 (ròu jiā mó)"
+  },
+  "aliases": ["baijiamo", "Xi'an burger", "Chinese hamburger"],
+  "description": {
+    "en": "A chewy, split flatbread from Xi'an, pan-cooked without oil until its coiled layers turn golden and slightly flaky. Stuffed hot with long-braised, soy-and-spice pork belly, it is called China's oldest sandwich, eaten in Shaanxi for over two thousand years.",
+    "de": "Ein zähes, aufgeschnittenes Fladenbrot aus Xi'an, ohne Öl in der Pfanne gebacken, bis seine spiralig aufgerollten Schichten golden und blättrig werden. Heiß mit geschmortem Schweinebauch gefüllt, gilt es als Chinas ältestes Sandwich, seit zweitausend Jahren gegessen.",
+    "es": "Un pan plano correoso de Xi'an, cocido en sartén sin aceite hasta que sus capas en espiral quedan doradas y hojaldradas. Relleno caliente de panceta de cerdo braseada con soja y especias, se le llama el sándwich más antiguo de China, comido desde hace dos mil años.",
+    "fr": "Un pain plat moelleux et fendu de Xi'an, cuit à la poêle sans huile jusqu'à ce que ses couches en spirale deviennent dorées et feuilletées. Fourré chaud de porc longuement braisé au soja et aux épices, on l'appelle le plus ancien sandwich de Chine, mangé depuis deux mille ans."
+  },
+  "origin": { "country": "CN", "region": "Xi'an, Shaanxi province", "note": "Recognized since 2016 as part of China's intangible cultural heritage; food historians date versions of it back over 2000 years." },
+  "leaven": "yeast",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 50.7,
+    "saltPct": 1.1,
+    "yeastPct": 1.5,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 525 },
+    { "key": "active-dry-yeast", "grams": 8 },
+    { "key": "salt", "grams": 6 },
+    { "key": "water", "grams": 266, "note": "warm" },
+    { "label": { "en": "braised pork belly, chopped (with soy sauce, star anise and spices)", "de": "geschmorter Schweinebauch, gehackt (mit Sojasauce, Sternanis und Gewürzen)", "es": "panceta de cerdo braseada, picada (con salsa de soja, anís estrellado y especias)", "fr": "poitrine de porc braisée, hachée (avec sauce soja, anis étoilé et épices)" }, "grams": 300, "note": "for the filling, braised separately" }
+  ],
+  "yield": { "count": 12, "pieceGrams": 92, "shape": "split flatbread, pan-cooked, stuffed with pork, ~10 cm" },
+  "time": { "totalMin": 155, "activeMin": 40, "bulkMin": 60, "proofMin": 20, "bakeMin": 35, "overnight": false },
+  "bake": { "tempC": 190, "steam": false, "vessel": "skillet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "chewy",
+  "flavors": ["savory", "rich", "spiced", "wheaty"],
+  "purposes": ["sandwich", "street-food", "everyday"],
+  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "The plain bread reheats well from frozen on a dry pan; assemble with hot filling just before eating for the best contrast of textures." },
+  "equipment": ["skillet"],
+  "method": [
+    { "title": "Mix dough", "summary": "Combine flour, yeast and salt, then gradually work in warm water to a smooth, soft dough; knead about 10 minutes." },
+    { "title": "First rise", "summary": "Cover and let rise at room temperature about an hour until doubled." },
+    { "title": "Shape", "summary": "Deflate and knead briefly, then divide into 12 pieces; roll each into a cigar, flatten and roll again into a long strip, fold lengthwise, coil into a spiral bundle, then press flat and roll into a 4-inch disc." },
+    { "title": "Rest", "summary": "Let the shaped discs rest 20 minutes." },
+    { "title": "Pan-cook", "summary": "Cook in a dry, ungreased skillet over medium heat, covered, about 2 minutes per side, then uncovered another minute per side until golden and cooked through." },
+    { "title": "Fill", "summary": "Split each warm bread open and stuff with chopped, long-braised pork belly, prepared separately with soy sauce, star anise and other spices, along with a little braising liquid and cilantro." }
+  ],
+  "source": { "url": "https://thewoksoflife.com/chinese-hamburgers-rou-jia-mo/", "site": "The Woks of Life", "retrieved": "2026-07-18", "adaptation": "Salt increased slightly from the source's scant 3/4 tsp; the multi-hour pork braise condensed to one estimated-weight filling line, matching this atlas's treatment of complex fillings (see baozi)." },
+  "tags": ["street-food", "xian", "sandwich-bread"]
+}

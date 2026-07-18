@@ -1,0 +1,64 @@
+{
+  "slug": "rosetta",
+  "name": {
+    "en": "Rosetta (Michetta)",
+    "de": "Rosetta (Michetta)",
+    "es": "Rosetta (Michetta)",
+    "fr": "Rosetta (Michetta)",
+    "native": "Michetta"
+  },
+  "aliases": ["michetta", "stellina", "pane soffiato"],
+  "description": {
+    "en": "A crusty Milanese roll engineered to be mostly hollow: an overnight biga, a second shaping through a pasta roller, then baked upside-down so the scored top blows open into an empty dome. Split it for a sandwich and you're mostly buying crackling shell.",
+    "de": "Ein knuspriges Mailänder Brötchen, das bewusst fast hohl ist: eine über Nacht geführte Biga, ein zweites Formen mit der Nudelmaschine, dann kopfüber gebacken, sodass sich die eingeschnittene Oberseite zu einer leeren Kuppel öffnet, meist krachende Schale, kaum Krume.",
+    "es": "Un panecillo crujiente milanés diseñado para quedar casi hueco: una biga de toda la noche, un segundo formado con máquina de pasta y horneado boca abajo para que la parte marcada se abra en una cúpula vacía. Al partirlo, se compra sobre todo cáscara crujiente.",
+    "fr": "Un petit pain milanais croustillant conçu pour être presque creux: une biga d'une nuit, un second façonnage à la machine à pâtes, puis cuit à l'envers pour que le dessus incisé s'ouvre en dôme vide. En le coupant, on obtient surtout une coque craquante."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Milan, Lombardy",
+    "note": "Called michetta in Milanese dialect and rosetta elsewhere in Italy; often traced to the Austrian Kaisersemmel of Habsburg-era Milan, hollowed out to stay crisp longer in the city's humid climate."
+  },
+  "leaven": "sourdough",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 56,
+    "saltPct": 2,
+    "sugarPct": 0.4,
+    "prefermentedFlourPct": 86,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 455, "note": "strong flour (W 380), in the overnight biga" },
+    { "key": "water", "grams": 260, "note": "in the biga" },
+    { "key": "sourdough-starter", "grams": 80, "note": "refreshed starter, in the biga" },
+    { "key": "flour:wheat-white", "grams": 80, "note": "strong flour, in the final dough" },
+    { "key": "water", "grams": 40, "note": "in the final dough" },
+    { "key": "malt-syrup", "grams": 2.5, "note": "diastatic malt powder" },
+    { "key": "salt", "grams": 12 }
+  ],
+  "yield": { "count": 10, "pieceGrams": 90, "shape": "star-stamped hollow roll with a small central cap (soffiata)" },
+  "time": { "totalMin": 1462, "activeMin": 40, "bulkMin": 120, "proofMin": 240, "bakeMin": 22, "overnight": true },
+  "bake": { "tempC": 230, "steam": true, "vessel": "stone" },
+  "difficulty": 4,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": ["mild", "wheaty", "yeasty"],
+  "purposes": ["sandwich", "breakfast", "everyday"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "At its best within hours of baking; the hollow shell turns leathery by the next day, which is why Milanese bakeries sell fresh batches morning and afternoon." },
+  "equipment": ["stand-mixer", "baking-stone"],
+  "method": [
+    { "title": "Build the biga", "summary": "The night before, stir flour, water and a little starter into a firm dough. Rest 2 hours at room temperature, then refrigerate 14 hours to develop flavor slowly." },
+    { "title": "Wake it up", "summary": "Bring the cold biga back to room temperature for about 2 hours before continuing." },
+    { "title": "Final dough", "summary": "Work in the last of the flour, water, malt and salt until smooth, then ferment about 2 hours." },
+    { "title": "Shape in stages", "summary": "Divide into small rolls; run each through a pasta roller or press flat, folding the sides to the center, then re-shape into tight balls." },
+    { "title": "Force the hollow", "summary": "Score the tops, then flip them scored-side down onto a floured cloth so they proof upside-down; this inversion is what blows the center hollow in the oven." },
+    { "title": "Two-stage bake", "summary": "Bake with steam at 230°C for 10-12 minutes, then finish dry at a lower 190°C for another 10-12 minutes until pale gold and crackling." }
+  ],
+  "source": { "url": "https://www.lievitonaturale.org/panini_rosette.php", "site": "Lievito Naturale", "retrieved": "2026-07-17", "adaptation": "Starter assumed roughly 50% hydration to split into total-flour percentages; this is a home approximation of the professional star-stamped michetta, which bakeries shape with a mechanical press." },
+  "tags": ["hollow", "biga"]
+}

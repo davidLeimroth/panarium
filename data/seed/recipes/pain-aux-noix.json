@@ -1,0 +1,61 @@
+{
+  "slug": "pain-aux-noix",
+  "name": {
+    "en": "Pain aux Noix (French Walnut Bread)",
+    "de": "Pain aux Noix (französisches Walnussbrot)",
+    "es": "Pain aux noix (pan francés de nueces)",
+    "fr": "Pain aux noix",
+    "native": "Pain aux Noix"
+  },
+  "aliases": ["walnut bread", "pain de noix"],
+  "description": {
+    "en": "A levain-and-yeast hearth loaf built around toasted walnuts, with a little honey to round out their bitterness. A classic pairing for French cheese and charcuterie boards.",
+    "de": "Ein Sauerteig-Hefe-Brot rund um geröstete Walnüsse, mit etwas Honig, der ihre Bitterkeit abrundet. Ein Klassiker zu französischen Käse- und Wurstplatten.",
+    "es": "Un pan de horno con levain y levadura construido en torno a nueces tostadas, con un poco de miel que suaviza su amargor. Un clásico compañero de las tablas de queso y embutidos francesas.",
+    "fr": "Un pain de tradition au levain et à la levure, bâti autour de noix torréfiées, avec une pointe de miel pour arrondir leur amertume. Un classique des plateaux de fromages et de charcuterie."
+  },
+  "origin": { "country": "FR", "region": "national, especially Périgord and Savoie walnut country", "note": "A staple of the French cheese course, pairing particularly well with goat and blue cheeses." },
+  "leaven": "hybrid",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 73,
+    "saltPct": 1.8,
+    "sugarPct": 4.5,
+    "yeastPct": 0.45,
+    "prefermentedFlourPct": 9,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 1000, "note": "T65" },
+    { "key": "water", "grams": 700, "note": "includes the walnut soaking water" },
+    { "key": "levain", "grams": 200, "note": "liquid levain" },
+    { "key": "honey", "grams": 50 },
+    { "key": "salt", "grams": 20 },
+    { "key": "fresh-yeast", "grams": 15 },
+    { "key": "walnuts", "grams": 200, "note": "toasted, then briefly rehydrated" }
+  ],
+  "yield": { "count": 5, "pieceGrams": 350, "shape": "bâtards" },
+  "time": { "totalMin": 230, "activeMin": 35, "bulkMin": 45, "proofMin": 75, "bakeMin": 30, "overnight": false },
+  "bake": { "tempC": 230, "steam": true, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "chewy",
+  "flavors": ["nutty", "malty", "sweet", "tangy"],
+  "purposes": ["table", "side", "breakfast"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Walnut oils turn slightly after a few days at room temperature; freezing keeps it tasting fresh." },
+  "equipment": ["baking-stone", "stand-mixer"],
+  "method": [
+    { "title": "Prepare the walnuts", "summary": "Toast the walnuts lightly, then rehydrate briefly in warm water, reserving the soaking liquid." },
+    { "title": "Mix", "summary": "Combine the flour, water (plus reserved walnut water), levain, honey, salt and a touch of yeast into a smooth dough." },
+    { "title": "Fold in walnuts", "summary": "Work the toasted walnuts through at the end of kneading." },
+    { "title": "Bulk ferment", "summary": "Rest about 45 minutes." },
+    { "title": "Shape", "summary": "Divide and shape into bâtards." },
+    { "title": "Proof and bake", "summary": "Proof about 75 minutes, then bake hot with steam until richly golden." }
+  ],
+  "source": { "url": "https://technomitron.aainb.com/recettes-2/pains-speciaux/pain-aux-noix-sur-levain-liquide/", "site": "Technomitron (AAINB)", "retrieved": "2026-07-17", "adaptation": "Liquid levain's own flour/water content folded into the total baker's percentages." },
+  "tags": ["noix", "fromage"]
+}

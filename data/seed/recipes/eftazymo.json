@@ -1,0 +1,172 @@
+{
+  "slug": "eftazymo",
+  "name": {
+    "en": "Eftazymo (Cretan Chickpea-Leavened Bread)",
+    "de": "Eftazymo (kretisches Kichererbsen-Brot)",
+    "es": "Eftazymo (pan cretense con levadura de garbanzo)",
+    "fr": "Eftazymo (pain crétois au levain de pois chiches)",
+    "native": "Εφτάζυμο"
+  },
+  "aliases": [
+    "eptazymo",
+    "ftazymo"
+  ],
+  "description": {
+    "en": "Crete's island bread rises on nothing but wild yeast caught on soaked chickpeas, a culture called kounenos, no commercial yeast or flour starter involved. The long wild ferment takes patience, but it yields a loaf built to be double-baked into paximadia rusks lasting months.",
+    "de": "Kretas Inselbrot geht allein durch wilde Hefe auf, die sich auf eingeweichten Kichererbsen ansiedelt, eine Kultur namens kounenos, ganz ohne Handelshefe oder Mehl-Sauerteig. Die lange wilde Gärung braucht Geduld, doch der Lohn ist ein Brot für monatelang haltbaren Zwieback.",
+    "es": "El pan isleño de Creta fermenta solo con levaduras silvestres de garbanzos remojados, un cultivo llamado kounenos, sin levadura comercial ni masa madre de harina. La larga fermentación salvaje exige paciencia, pero da un pan pensado para hornearse dos veces en paximadia.",
+    "fr": "Le pain insulaire de Crète lève uniquement grâce à des levures sauvages captées sur des pois chiches trempés, une culture appelée kounenos, sans levure du commerce ni levain de farine. La fermentation sauvage demande de la patience, pour un pain fait pour devenir paximadia."
+  },
+  "origin": {
+    "country": "GR",
+    "region": "Crete",
+    "note": "Leavened only by kounenos, a wild culture grown on soaked chickpeas rather than flour; no commercial yeast or conventional sourdough starter is used at all."
+  },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 73,
+    "saltPct": 1.8,
+    "fatPct": 5.5,
+    "sugarPct": 1.6,
+    "prefermentedFlourPct": 50,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 88
+      },
+      {
+        "type": "chickpea",
+        "pct": 12
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:chickpea",
+      "grams": 60,
+      "note": "for the wild-fermented kounenos starter"
+    },
+    {
+      "key": "water",
+      "grams": 240,
+      "note": "cooled aromatic water, brewed with bay leaf and black pepper, for the starter"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 186,
+      "note": "added to the activated starter before its second rise"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 249,
+      "note": "remaining flour, in the final dough"
+    },
+    {
+      "key": "water",
+      "grams": 120,
+      "note": "remaining aromatic water, in the final dough"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 27
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    },
+    {
+      "key": "sugar",
+      "grams": 8,
+      "note": "brewed into the aromatic water to feed the wild fermentation"
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 4.5,
+      "note": "black and white sesame, for topping"
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 904,
+    "shape": "round loaf, sometimes double-baked into paximadia (rusks)"
+  },
+  "time": {
+    "totalMin": 1233,
+    "activeMin": 25,
+    "bulkMin": 180,
+    "proofMin": 150,
+    "bakeMin": 48,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "stone"
+  },
+  "difficulty": 4,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": [
+    "earthy",
+    "nutty",
+    "savory",
+    "herbal"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "snack"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 10,
+    "freezes": true,
+    "note": "Traditionally double-baked into paximadia (rusks) for months of shelf life, a practical trick from Crete's island pantries."
+  },
+  "equipment": [],
+  "method": [
+    {
+      "title": "Brew the aromatic water",
+      "summary": "Simmer water with bay leaves, black pepper and sugar, then cool until just warm."
+    },
+    {
+      "title": "Start the wild ferment",
+      "summary": "Stir chickpea flour into a cupful of the cooled aromatic water and leave it 12-16 hours in a warm spot until foamy; this chickpea culture (kounenos) is the only leavening in the whole bread."
+    },
+    {
+      "title": "Build the levain",
+      "summary": "Work in the first portion of wheat flour and let the mixture rise 2-4 hours until tripled."
+    },
+    {
+      "title": "Final dough",
+      "summary": "Mix in the rest of the flour, the remaining aromatic water, olive oil and salt until smooth."
+    },
+    {
+      "title": "Shape and proof",
+      "summary": "Shape into a round loaf, top with sesame seeds, and proof 2-3 hours until nearly doubled."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until deeply golden, 45-50 minutes."
+    }
+  ],
+  "source": {
+    "url": "https://gr.thehungrybites.com/eftazimo-psomi-kritiki-sintagi/",
+    "site": "The Hungry Bites",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams converted from cup/tsp measures; baking temperature wasn't specified by the source, so 200°C, typical for a rustic loaf of this size and bake time, is used."
+  },
+  "tags": [
+    "wild-fermentation",
+    "chickpea-starter"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "cassava-bread",
+  "name": {
+    "en": "Casabe (Cassava Flatbread)",
+    "de": "Casabe (Maniok-Fladenbrot)",
+    "es": "Casabe (pan plano de yuca)",
+    "fr": "Casabe (galette de manioc)",
+    "native": "Casabe"
+  },
+  "aliases": ["cassabe", "yuca bread", "Taino bread"],
+  "description": {
+    "en": "Grated cassava root, pressed bone dry and cooked on a hot griddle with no water, fat or leavening added. One of the Americas' oldest breads, first made by the Taino and still a daily staple across parts of the Caribbean and northern South America.",
+    "de": "Geriebene Maniokwurzel, knochentrocken gepresst und auf heißer Platte gebacken, ganz ohne Wasser, Fett oder Triebmittel. Eines der ältesten Brote Amerikas, einst von den Taíno erfunden und bis heute Alltagsbrot in Teilen der Karibik und Nordsüdamerikas.",
+    "es": "Raíz de yuca rallada, prensada hasta secarla del todo y cocida en plancha caliente sin agua, grasa ni levadura. Uno de los panes más antiguos de América, creado por los taínos y todavía pan cotidiano en partes del Caribe y el norte de Sudamérica.",
+    "fr": "Racine de manioc râpée, pressée à sec et cuite sur une plaque chaude sans eau, matière grasse ni levain. L'un des plus anciens pains des Amériques, inventé par les Taïnos et toujours du pain quotidien dans une partie des Caraïbes et du nord de l'Amérique du Sud."
+  },
+  "origin": {
+    "country": "DO",
+    "region": "Caribbean (Dominican Republic, Cuba, Puerto Rico, Haiti) and northern South America",
+    "note": "Descends directly from Taino and other Arawak peoples, who pressed toxic compounds out of bitter cassava before cooking it; UNESCO listed casabe as Intangible Cultural Heritage in 2024. Modern versions often use milder sweet cassava."
+  },
+  "leaven": "none",
+  "family": "crispbread",
+  "formula": {
+    "hydrationPct": 15,
+    "saltPct": 0.33,
+    "flours": [
+      { "type": "cassava", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "label": { "en": "cassava (yuca) root, peeled and finely grated", "de": "Maniokwurzel, geschält und fein gerieben", "es": "raíz de yuca, pelada y rallada fina", "fr": "racine de manioc, épluchée et râpée finement" }, "grams": 907 },
+    { "key": "salt", "grams": 3 }
+  ],
+  "yield": { "count": 12, "pieceGrams": 30, "shape": "large thin round or rectangle, griddle-cooked" },
+  "time": { "totalMin": 364, "activeMin": 30, "bulkMin": 300, "bakeMin": 24, "overnight": false },
+  "bake": { "tempC": 200, "steam": false, "vessel": "griddle" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": ["mild", "earthy"],
+  "purposes": ["everyday", "soup-companion", "snack"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 90, "freezes": true, "note": "Famous for keeping far longer than ordinary bread when kept dry; Indigenous Caribbean and South American peoples relied on it as a durable staple." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Grate", "summary": "Peel and finely grate the cassava (yuca); mix in the salt." },
+    { "title": "Press", "summary": "Wrap in a fine cloth or cheesecloth and squeeze firmly to force out as much liquid as possible." },
+    { "title": "Dry the paste", "summary": "Spread the pressed paste on a tray and rest it in the refrigerator about 5 hours, stirring every hour, so it dries further." },
+    { "title": "Heat the griddle", "summary": "Brush a dry, hot griddle or skillet lightly with oil." },
+    { "title": "Spread and cook", "summary": "Press 2-3 tablespoons of the paste per round into a thin, even circle directly on the griddle." },
+    { "title": "Cook both sides", "summary": "Cook about 1 minute per side until golden and firm, then transfer to a rack." },
+    { "title": "Cool and store", "summary": "Cool completely; the rounds crisp up further and keep for weeks if stored dry." }
+  ],
+  "source": { "url": "https://www.196flavors.com/casabe/", "site": "196 Flavors", "retrieved": "2026-07-18", "adaptation": "Hydration is unusually low here because moisture is pressed out of the grated root rather than added; per-round weight is estimated from the source's starting 2 lb (907g) of whole cassava." },
+  "tags": ["gluten-free", "ancient-technique", "caribbean"]
+}

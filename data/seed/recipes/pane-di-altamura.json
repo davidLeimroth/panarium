@@ -1,0 +1,140 @@
+{
+  "slug": "pane-di-altamura",
+  "name": {
+    "en": "Pane di Altamura",
+    "de": "Pane di Altamura",
+    "es": "Pan de Altamura",
+    "fr": "Pain d'Altamura"
+  },
+  "description": {
+    "en": "A deep-yellow durum sourdough loaf from Puglia, DOP-protected since 2003 and rooted in a very old Apulian baking tradition. Shaped with an overlapping fold, baked thick-crusted at fierce heat, and famous for staying genuinely fresh a week later.",
+    "de": "Ein tiefgelbes Hartweizen-Sauerteigbrot aus Apulien, seit 2003 g.U.-geschützt und Teil einer sehr alten apulischen Backtradition. Überlappend geformt, dickkrustig bei großer Hitze gebacken, und berühmt dafür, eine Woche später noch wirklich frisch zu sein.",
+    "es": "Un pan de sémola de trigo duro, amarillo intenso, de Apulia, con DOP desde 2003 y heredero de una tradición panadera muy antigua. Se forma con un pliegue superpuesto, se hornea con corteza gruesa a fuego fuerte, y sigue realmente fresco una semana después.",
+    "fr": "Un pain au levain de semoule de blé dur, jaune profond, des Pouilles, AOP depuis 2003 et héritier d'une très ancienne tradition boulangère locale. Façonné d'un pli superposé, cuit à croûte épaisse à four vif, réputé pour rester frais une semaine durant."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Altamura, Puglia (Apulia)",
+    "note": "Protected DOP since 2003; the disciplinare requires mostly local durum wheat varieties and a mature natural starter renewed at least three times before baking."
+  },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 59,
+    "saltPct": 1.8,
+    "prefermentedFlourPct": 12,
+    "flours": [
+      {
+        "type": "durum",
+        "pct": 100
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:durum",
+      "grams": 500,
+      "note": "semola rimacinata di grano duro"
+    },
+    {
+      "key": "water",
+      "grams": 300
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 100,
+      "note": "lievito madre; a stiff, mature durum starter renewed at least three times"
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 900,
+    "shape": "large domed loaf with an overlapping folded cap"
+  },
+  "time": {
+    "totalMin": 290,
+    "activeMin": 30,
+    "bulkMin": 90,
+    "proofMin": 105,
+    "bakeMin": 60,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": false,
+    "vessel": "stone"
+  },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": [
+    "earthy",
+    "nutty",
+    "tangy",
+    "wheaty"
+  ],
+  "purposes": [
+    "everyday",
+    "table",
+    "soup-companion",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 7,
+    "freezes": true,
+    "note": "Thick crust, durum semolina and a mature sourdough combine to keep this loaf genuinely good for a week, longer than almost any other Italian bread."
+  },
+  "equipment": [
+    "stand-mixer",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine the durum semolina with water and the mature starter; durum drinks water slowly, so mix a full 20 minutes until you get a firm, deep-yellow dough."
+    },
+    {
+      "title": "First rest",
+      "summary": "Cover and rest at least 90 minutes so the coarse semolina fully hydrates and early fermentation gets underway."
+    },
+    {
+      "title": "First shaping",
+      "summary": "Shape into a rough round and rest another 30 minutes."
+    },
+    {
+      "title": "The overlapping fold",
+      "summary": "Re-shape using the traditional 'sckuanète' technique, a smaller cap of dough folded over a larger base, then rest at least 15 minutes more."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Let the loaf proof until it visibly domes, roughly an hour, seam-side arranged so the fold holds during the oven's initial heat."
+    },
+    {
+      "title": "Bake fierce, then long",
+      "summary": "Load into a 250°C oven with the door cracked for the first 15 minutes to vent steam, then close it and bake another 45 minutes until the crust is thick, hard and deeply golden."
+    }
+  ],
+  "source": {
+    "url": "https://www.panealtamuradop.it/pane-dop/fasi-della-lavorazione/",
+    "site": "Pane di Altamura DOP",
+    "retrieved": "2026-07-17",
+    "adaptation": "Home-batch grams derived from the disciplinare's per-100kg ratios; lievito madre assumed at roughly 50% hydration (typical Apulian stiff starter) to compute total-flour percentages."
+  },
+  "tags": [
+    "dop",
+    "durum-sourdough"
+  ]
+}

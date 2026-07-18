@@ -1,0 +1,64 @@
+{
+  "slug": "putok",
+  "name": {
+    "en": "Putok (Filipino Star Bread)",
+    "de": "Putok (philippinisches Sternbrot)",
+    "es": "Putok (pan estrella filipino)",
+    "fr": "Putok (pain étoile philippin)"
+  },
+  "aliases": ["star bread", "putok bread"],
+  "description": {
+    "en": "A sweet, dense Filipino bakery bun whose name means 'burst': scissors snip a cross into the risen dough so it cracks open into a star as it bakes. Egg-washed and heavily sugared on top, it is a coffee-shop and panaderia favorite for merienda.",
+    "de": "Ein süßes, dichtes philippinisches Bäckereibrötchen, dessen Name 'Explosion' bedeutet: Eine Schere schneidet ein Kreuz in den Teig, der beim Backen sternförmig aufplatzt. Mit Ei bestrichen und gezuckert, ein Favorit von Cafés und Panaderias zur Merienda.",
+    "es": "Un bollo de panadería filipino dulce y denso cuyo nombre significa 'estallido': unas tijeras cortan una cruz en la masa levada para que se abra en forma de estrella al hornearse. Barnizado con huevo y azucarado, favorito de cafeterías y panaderías para la merienda.",
+    "fr": "Un petit pain philippin sucré et dense dont le nom signifie 'explosion' : des ciseaux entaillent une croix dans la pâte levée, qui éclate en étoile à la cuisson. Doré à l'œuf et sucré, un classique des cafés et panaderias pour le goûter."
+  },
+  "origin": { "country": "PH", "region": "nationwide panaderia bread", "note": "Shares its base dough with monay; the scored cross and heavy sugaring are what turn it into 'star bread'." },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 44,
+    "saltPct": 1.2,
+    "sugarPct": 30,
+    "fatPct": 11.4,
+    "yeastPct": 0.6,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500 },
+    { "key": "milk", "grams": 60, "note": "dry milk powder; not counted toward hydration" },
+    { "key": "sugar", "grams": 150 },
+    { "key": "salt", "grams": 6 },
+    { "key": "water", "grams": 220, "note": "lukewarm" },
+    { "key": "instant-yeast", "grams": 3 },
+    { "key": "butter", "grams": 57 },
+    { "key": "egg", "grams": 50, "note": "for the egg wash" },
+    { "key": "milk", "grams": 15, "note": "for the egg wash" },
+    { "key": "sugar", "grams": 60, "note": "topping, sprinkled generously before baking" }
+  ],
+  "yield": { "count": 20, "pieceGrams": 50, "shape": "round bun with cross-scored top, sugar-crusted, ~7 cm" },
+  "time": { "totalMin": 138, "activeMin": 30, "bulkMin": 60, "proofMin": 30, "bakeMin": 19, "overnight": false },
+  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "crackly",
+  "flavors": ["sweet", "caramel", "buttery", "mild"],
+  "purposes": ["snack", "breakfast", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fresh with the sugar top still a little crisp; freezes and reheats reasonably well wrapped in foil." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix dough", "summary": "Combine flour, milk powder, sugar and salt; activate yeast in warm water, then work in the butter and bring together into a dense dough." },
+    { "title": "Knead", "summary": "Knead 7-10 minutes until smooth." },
+    { "title": "First rise", "summary": "Cover and let rise about 1 hour in a warm spot until doubled." },
+    { "title": "Divide", "summary": "Divide into 20 pieces (about 50g each), roll into tight balls, and arrange on a lined tray." },
+    { "title": "Score", "summary": "Snip two crossing cuts across the top of each ball with scissors to form a star/crown pattern." },
+    { "title": "Second rise", "summary": "Cover and rest 30 minutes; the dough barely rises further before baking." },
+    { "title": "Finish and bake", "summary": "Brush with egg wash, sprinkle generously with sugar, and bake at 180°C (350°F) for 18-20 minutes until golden." }
+  ],
+  "source": { "url": "https://www.foxyfolksy.com/star-bread-putok/", "site": "Foxy Folksy", "retrieved": "2026-07-18", "adaptation": "Water increased slightly from the source's range for a workable dough; pieceGrams taken directly from the source's own ~50g-per-piece estimate." },
+  "tags": ["panaderia", "teatime"]
+}

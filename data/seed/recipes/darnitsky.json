@@ -1,0 +1,62 @@
+{
+  "slug": "darnitsky",
+  "name": {
+    "en": "Darnitsky Rye-Wheat Bread",
+    "de": "Darnitsky-Brot (Roggen-Weizen)",
+    "es": "Pan Darnitsky de centeno y trigo",
+    "fr": "Pain Darnitsky seigle-froment",
+    "native": "Дарницький хліб"
+  },
+  "aliases": ["Darnitskiy bread", "Ukrainian daily rye"],
+  "description": {
+    "en": "A roughly even rye-and-wheat loaf named for Kyiv's Darnytsia district, built on an overnight rye levain and a little molasses. Quietly the most common daily bread across Ukraine and Russia for decades.",
+    "de": "Ein annähernd gleichmäßiges Roggen-Weizen-Brot, benannt nach dem Kiewer Stadtteil Darnytsia, aufgebaut auf einem über Nacht geführten Roggen-Levain und einem Hauch Melasse. Unauffällig das häufigste Alltagsbrot in der Ukraine und Russland seit Jahrzehnten.",
+    "es": "Un pan de centeno y trigo a partes casi iguales, llamado así por el distrito de Darnytsia en Kiev, construido sobre un levain de centeno de toda la noche y un toque de melaza. Sin pretensiones, ha sido el pan diario más común en Ucrania y Rusia durante décadas.",
+    "fr": "Un pain à parts presque égales de seigle et de froment, nommé d'après le quartier de Darnytsia à Kiev, bâti sur un levain de seigle nocturne et une pointe de mélasse. Sans prétention, c'est le pain quotidien le plus courant en Ukraine et en Russie depuis des décennies."
+  },
+  "origin": { "country": "UA", "region": "Named for the Darnytsia district of Kyiv", "note": "Became a standard GOST-style loaf across the whole USSR, including Russia, where it remains a daily staple." },
+  "leaven": "sourdough",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 78,
+    "saltPct": 1.7,
+    "sugarPct": 3.5,
+    "prefermentedFlourPct": 30,
+    "flours": [
+      { "type": "rye-whole", "pct": 58 },
+      { "type": "wheat-white", "pct": 42 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:rye-whole", "grams": 280, "note": "split between the levain and final dough" },
+    { "key": "flour:wheat-white", "grams": 200, "note": "bread flour" },
+    { "key": "water", "grams": 375 },
+    { "key": "sourdough-starter", "grams": 15 },
+    { "key": "molasses", "grams": 7 },
+    { "key": "sugar", "grams": 10 },
+    { "key": "salt", "grams": 8 }
+  ],
+  "yield": { "count": 2, "pieceGrams": 380, "shape": "small pan loaf, about 14.5 x 10cm" },
+  "time": { "totalMin": 800, "activeMin": 25, "bulkMin": 90, "proofMin": 90, "bakeMin": 58, "overnight": true },
+  "bake": { "tempC": 220, "steam": true, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "chewy",
+  "flavors": ["sour", "malty", "earthy", "mild"],
+  "purposes": ["everyday", "sandwich", "table", "soup-companion"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 58 },
+  "keeping": { "freshDays": 5, "freezes": true, "note": "A daily loaf across the former USSR; keeps well wrapped for the better part of a week." },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Build the levain", "summary": "Mix rye starter, rye flour and water; ferment 8-10 hours at a warm 30°C until doubled." },
+    { "title": "Mix the dough", "summary": "Combine the levain with bread flour, more rye flour, water, molasses, sugar and salt." },
+    { "title": "Knead", "summary": "Mix by hand then with a dough hook a few minutes to a smooth, cohesive dough." },
+    { "title": "Bulk ferment", "summary": "Cover and rest in a warm spot about 1.5 hours." },
+    { "title": "Shape and proof", "summary": "Shape into pan loaves, dust with rye flour, and proof until just under the rim, about 1.5 hours." },
+    { "title": "Bake", "summary": "Bake hot with steam for the first stretch, then reduce heat and finish without steam." },
+    { "title": "Cool", "summary": "Spritz with water and cool completely before slicing." }
+  ],
+  "source": { "url": "https://natashasbaking.com/darnitskiy-rye-bread/", "site": "Natasha's Baking", "retrieved": "2026-07-17" },
+  "tags": ["daily-bread", "post-soviet-staple"]
+}

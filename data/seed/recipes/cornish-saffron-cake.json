@@ -1,0 +1,67 @@
+{
+  "slug": "cornish-saffron-cake",
+  "name": {
+    "en": "Cornish Saffron Cake",
+    "de": "Cornish Saffron Cake (Safran-Früchtebrot aus Cornwall)",
+    "es": "Cornish saffron cake (pan de azafrán de Cornualles)",
+    "fr": "Cornish saffron cake (pain au safran de Cornouailles)"
+  },
+  "aliases": ["saffron loaf", "saffron bun"],
+  "description": {
+    "en": "A golden, fruited yeast loaf from Cornwall, colored and perfumed with saffron threads steeped in warm milk. Studded with currants and dried fruit, it has been a church-outing and teatime treat since at least the 14th century.",
+    "de": "Ein goldenes, mit Trockenfrüchten gespicktes Hefebrot aus Cornwall, gefärbt und parfümiert mit Safranfäden, die in warmer Milch ziehen. Mit Korinthen und Trockenfrüchten durchsetzt, ist es seit mindestens dem 14. Jahrhundert ein Genuss bei Kirchenausflügen und zum Tee.",
+    "es": "Un pan de levadura dorado y frutado de Cornualles, coloreado y perfumado con hebras de azafrán maceradas en leche tibia. Repleto de grosellas y frutas secas, es un dulce de excursiones parroquiales y de la hora del té desde al menos el siglo XIV.",
+    "fr": "Un pain levé doré et fruité de Cornouailles, coloré et parfumé de filaments de safran infusés dans du lait tiède. Parsemé de raisins de Corinthe et de fruits secs, c'est une douceur d'excursions paroissiales et de l'heure du thé depuis au moins le XIVe siècle."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "Cornwall, England",
+    "note": "Saffron reached Cornwall through Mediterranean and Phoenician-era trade routes; Cornish saffron cake dates back to at least the 14th century, when the spice was a valuable trade commodity, and was a treat for church outings and celebrations."
+  },
+  "leaven": "yeast",
+  "family": "sweet-loaf",
+  "formula": {
+    "hydrationPct": 92,
+    "saltPct": 1.3,
+    "sugarPct": 12.5,
+    "fatPct": 25,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 454 },
+    { "key": "salt", "grams": 6 },
+    { "key": "butter", "grams": 113 },
+    { "label": { "en": "saffron", "de": "Safran", "es": "azafrán", "fr": "safran" }, "grams": 2, "note": "threads, soaked in the warm water" },
+    { "key": "water", "grams": 118, "note": "warm, for soaking the saffron" },
+    { "key": "fresh-yeast", "grams": 28 },
+    { "key": "sugar", "grams": 57 },
+    { "key": "milk", "grams": 237, "note": "warm" },
+    { "key": "egg", "grams": 100, "note": "2 eggs" },
+    { "key": "raisins", "grams": 85, "note": "mixed dried fruit" },
+    { "key": "raisins", "grams": 38, "note": "currants" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1120, "shape": "single loaf baked in a 2lb tin, sliced" },
+  "time": { "totalMin": 185, "activeMin": 25, "bulkMin": 90, "proofMin": 20, "bakeMin": 32, "overnight": false },
+  "bake": { "tempC": 204, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "fruity", "spiced", "rich"],
+  "purposes": ["celebration", "breakfast", "snack"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Keeps well thanks to the butter and dried fruit; many say the saffron flavor deepens a day or two after baking." },
+  "equipment": ["stand-mixer", "loaf-pan"],
+  "method": [
+    { "title": "Rub in butter", "summary": "Sift the flour with salt, then rub in the butter until the mixture looks like coarse crumbs." },
+    { "title": "Bloom & infuse", "summary": "Bloom the yeast in warm milk with a little sugar, and separately soak the saffron threads in the warm water." },
+    { "title": "Mix dough", "summary": "Whisk the eggs with the remaining sugar, combine with the saffron water and yeast mixture, then work into the flour to a smooth dough." },
+    { "title": "First rise", "summary": "Cover and let rise in a warm place until doubled, 90 minutes or more." },
+    { "title": "Add fruit & shape", "summary": "Knock back the dough, fold in the dried fruit and currants, then shape into a greased loaf tin." },
+    { "title": "Second proof & bake", "summary": "Proof about 20 minutes, brush the top with milk or cream, then bake until golden." }
+  ],
+  "source": { "url": "https://streamofflavors.com/recipes/cornish-saffron-cake/", "site": "Stream of Flavors", "retrieved": "2026-07-18", "adaptation": "Source's very light 1/4 tsp salt standardized upward to a defined baker's percentage. Yeast recorded as fresh yeast given its proportion to the flour; ounce/cup measures converted to grams." },
+  "tags": ["cornwall", "saffron"]
+}

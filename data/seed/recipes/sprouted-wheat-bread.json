@@ -1,0 +1,56 @@
+{
+  "slug": "sprouted-wheat-bread",
+  "name": {
+    "en": "Essene Sprouted Wheat Bread",
+    "de": "Essener Brot aus gekeimtem Weizen",
+    "es": "Pan esenio de trigo germinado",
+    "fr": "Pain essénien de blé germé"
+  },
+  "aliases": ["Essene bread", "manna bread", "sprouted bread"],
+  "description": {
+    "en": "Wheat berries sprout for two to three days, then are ground into a sticky paste and baked low and slow with nothing else added. The loaf turns out dense, moist and naturally sweet, a technique linked to the ancient Essenes, though the historical evidence for that link is thin.",
+    "de": "Weizenkörner keimen zwei bis drei Tage, werden zu einem klebrigen Teig gemahlen und langsam ohne weitere Zutaten gebacken. Das Brot ist dicht, feucht und von Natur aus süß, eine Technik, die den Essenern zugeschrieben wird, aber kaum belegt ist.",
+    "es": "Los granos de trigo germinan dos o tres días, se muelen en una pasta pegajosa y se hornean despacio sin añadir nada más. El pan resulta denso, húmedo y dulce, técnica atribuida a los antiguos esenios, aunque con poca base histórica.",
+    "fr": "Les grains de blé germent deux à trois jours, sont moulus en pâte collante et cuits lentement sans rien ajouter d'autre. Le pain devient dense, humide et sucré, technique attribuée aux esséniens antiques, mais peu étayée historiquement."
+  },
+  "origin": {
+    "country": "IL",
+    "region": "Judaean Desert (Qumran) in antiquity; the technique is kept alive today mostly by natural-foods bakeries",
+    "note": "Attributed to the ancient Essene sect near the Dead Sea, though scholars find little direct evidence for the link; the sprouting-and-grinding method itself is very old and appears in several ancient Near Eastern food traditions."
+  },
+  "leaven": "none",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 0,
+    "flours": [
+      { "type": "wheat-whole", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-whole", "grams": 400, "note": "hard red wheat berries, whole (not milled), sprouted 2-3 days then ground fresh into a paste" },
+    { "key": "water", "grams": 260, "note": "residual moisture retained in the berries after sprouting and rinsing; a little more may be worked in by hand" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 275, "shape": "flattened round patty, about 4 cm thick" },
+  "time": { "totalMin": 3810, "activeMin": 30, "bakeMin": 180, "overnight": true },
+  "bake": { "tempC": 121, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["sweet", "nutty", "wheaty"],
+  "purposes": ["breakfast", "snack", "everyday"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 3.5, "freezes": true, "note": "Keeps 3-4 days at room temperature and up to several weeks refrigerated; the dense, moist crumb resists staling better than yeasted bread." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Soak", "summary": "Rinse hard red wheat berries, cover with double their volume of water and soak overnight in a jar." },
+    { "title": "Sprout", "summary": "Drain and tilt the jar to drain fully; rinse and drain every 12 hours for 2-3 days until each berry grows a tail about twice its own length and tastes faintly sweet." },
+    { "title": "Grind", "summary": "Give the sprouts a final rinse, then grind them in a meat grinder, food processor or grain mill into a sticky, mottled paste." },
+    { "title": "Shape", "summary": "Knead briefly with wet or oiled hands and press into flattened patties on a lined baking sheet." },
+    { "title": "Bake low and slow", "summary": "Bake at about 120°C for 2.5 to 3.5 hours until firm but not hard, which keeps more nutrients than a hot oven would." },
+    { "title": "Cool", "summary": "Cool completely on a rack before slicing; the crumb is dense and cake-like, not airy." }
+  ],
+  "source": { "url": "https://simmerandsave.com/2013/10/18/sprouted-wheat-bread-essene-bread/", "site": "Simmer and Save", "retrieved": "2026-07-18", "adaptation": "Water content is an estimate of residual moisture in the ground sprout paste, since the source uses only wheat berries and soak/rinse water, most of which drains away rather than being measured in." },
+  "tags": ["sprouted", "flourless", "ancient-technique"]
+}

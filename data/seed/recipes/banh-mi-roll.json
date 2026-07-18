@@ -1,0 +1,62 @@
+{
+  "slug": "banh-mi-roll",
+  "name": {
+    "en": "Bánh Mì Roll (Vietnamese Baguette)",
+    "de": "Bánh-Mì-Brötchen (vietnamesisches Baguette)",
+    "es": "Panecillo bánh mì (baguette vietnamita)",
+    "fr": "Petit pain bánh mì (baguette vietnamienne)",
+    "native": "Bánh mì"
+  },
+  "aliases": ["Vietnamese baguette", "banh mi bread"],
+  "description": {
+    "en": "A French baguette gone light and fast: the same lean dough, but a shorter, hotter steam-bake gives a thinner, more shattering crust around a startlingly airy crumb, built to carry pâté, pickles and herbs without going soggy.",
+    "de": "Ein französisches Baguette, leicht und schnell gemacht: derselbe magere Teig, aber ein kürzeres, heißeres Dampfbacken sorgt für eine dünnere, splitterndere Kruste um eine erstaunlich luftige Krume – gebaut, um Pastete, Essiggemüse und Kräuter zu tragen.",
+    "es": "Una baguette francesa hecha ligera y rápida: la misma masa magra, pero una cocción al vapor más corta y caliente da una corteza más fina y crujiente sobre una miga sorprendentemente aireada, pensada para llevar paté, encurtidos y hierbas sin ablandarse.",
+    "fr": "Une baguette française rendue légère et rapide : même pâte maigre, mais une cuisson vapeur plus courte et plus chaude donne une croûte plus fine et craquante autour d'une mie étonnamment aérée, conçue pour porter pâté, pickles et herbes sans ramollir."
+  },
+  "origin": {
+    "country": "VN",
+    "region": "Saigon (Ho Chi Minh City) and nationwide",
+    "note": "Adapted from the French colonial baguette introduced in the mid-1800s; wartime wheat shortages later pushed some bakers toward lighter, sometimes rice-flour-blended doughs, shaping its thin-crusted character."
+  },
+  "leaven": "yeast",
+  "family": "baguette",
+  "formula": {
+    "hydrationPct": 60,
+    "saltPct": 0.8,
+    "sugarPct": 0.8,
+    "yeastPct": 0.67,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 375, "note": "bread flour, high protein" },
+    { "key": "water", "grams": 225 },
+    { "key": "instant-yeast", "grams": 3 },
+    { "key": "sugar", "grams": 3 },
+    { "key": "salt", "grams": 3 }
+  ],
+  "yield": { "count": 6, "pieceGrams": 102, "shape": "thin torpedo roll, about 10-12 inches" },
+  "time": { "totalMin": 145, "activeMin": 25, "proofMin": 105, "bakeMin": 12, "overnight": false },
+  "bake": { "tempC": 204, "steam": true, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crackly",
+  "flavors": ["mild", "wheaty", "yeasty", "savory"],
+  "purposes": ["sandwich", "street-food", "everyday"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best within hours of baking while the crust still crackles; classically bought fresh for same-day banh mi." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Combine flour, sugar and most of the water, then add yeast and salt and knead 7-8 minutes to a silky, slightly sticky dough." },
+    { "title": "Bulk rise", "summary": "Let the dough rise until roughly quadrupled, much longer and puffier than a French baguette rise." },
+    { "title": "Divide", "summary": "Divide into six pieces and flatten each into a small trapezoid." },
+    { "title": "Shape", "summary": "Roll each piece into a tight log with tapered ends and set it in a perforated baguette tray." },
+    { "title": "Proof", "summary": "Let the shaped rolls rise until they spring back slowly when pressed." },
+    { "title": "Score and steam-bake", "summary": "Score at an angle, mist with water, and bake hot with steam for the first stretch, then finish without steam until thin and crackling." }
+  ],
+  "source": { "url": "https://fullofplants.com/how-to-make-banh-mi-vietnamese-baguette/", "site": "Full of Plants", "retrieved": "2026-07-17", "adaptation": "Simplified to the core lean dough; bread improver, vitamin C powder and butter brushing omitted as non-traditional additions." },
+  "tags": ["street-food", "steam-baked"]
+}

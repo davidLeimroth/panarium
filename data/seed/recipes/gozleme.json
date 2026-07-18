@@ -1,0 +1,62 @@
+{
+  "slug": "gozleme",
+  "name": {
+    "en": "Gözleme (Turkish Stuffed Flatbread)",
+    "de": "Gözleme (Türkisches gefülltes Fladenbrot)",
+    "es": "Gözleme (Pan plano turco relleno)",
+    "fr": "Gözleme (Pain plat turc farci)",
+    "native": "gözleme"
+  },
+  "aliases": ["gozleme", "Turkish stuffed flatbread"],
+  "description": {
+    "en": "Paper-thin Turkish dough folded around spinach, feta and onion, then griddled on a domed sac until golden and crisp. Sold hot from market stalls and roadside stands, cut into wedges and eaten by hand.",
+    "de": "Hauchdünner türkischer Teig, um Spinat, Feta und Zwiebeln gefaltet und auf einer gewölbten Sac-Platte gebacken, bis er golden und knusprig ist. Wird heiß an Marktständen verkauft, in Keile geschnitten und mit der Hand gegessen.",
+    "es": "Masa turca finísima, doblada alrededor de espinacas, feta y cebolla, y cocida sobre un sac abombado hasta dorarse y quedar crujiente. Se vende caliente en puestos de mercado, cortada en cuñas y comida con la mano.",
+    "fr": "Une pâte turque très fine, repliée autour d'épinards, de feta et d'oignon, puis cuite sur un sac bombé jusqu'à devenir dorée et croustillante. Vendue chaude sur les étals de marché, coupée en quartiers et mangée à la main."
+  },
+  "origin": { "country": "TR", "region": "Turkey (Anatolia); nomadic Central Asian roots", "note": "The name likely derives from Turkish 'közleme', to cook on embers, reflecting origins among nomadic communities migrating from Central Asia into Anatolia." },
+  "leaven": "none",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 50,
+    "saltPct": 1.3,
+    "fatPct": 8.6,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 473 },
+    { "key": "water", "grams": 237, "note": "lukewarm" },
+    { "key": "olive-oil", "grams": 41, "note": "in the dough" },
+    { "key": "salt", "grams": 6 },
+    { "label": { "en": "baby spinach", "de": "Baby-Spinat", "es": "espinacas baby", "fr": "jeunes pousses d'épinard" }, "grams": 120, "note": "roughly chopped, for the filling" },
+    { "label": { "en": "yellow onion", "de": "gelbe Zwiebel", "es": "cebolla amarilla", "fr": "oignon jaune" }, "grams": 110, "note": "finely chopped, for the filling" },
+    { "key": "olive-oil", "grams": 27, "note": "for cooking the filling" },
+    { "key": "cheese", "grams": 150, "note": "feta, crumbled, for the filling" },
+    { "label": { "en": "Aleppo pepper", "de": "Aleppo-Pfeffer", "es": "pimienta de Alepo", "fr": "piment d'Alep" }, "grams": 1, "note": "for the filling" }
+  ],
+  "yield": { "count": 6, "pieceGrams": 194, "shape": "filled, folded square or rectangle, thin" },
+  "time": { "totalMin": 70, "activeMin": 50, "proofMin": 20, "bakeMin": 21, "overnight": false },
+  "bake": { "tempC": 220, "steam": false, "vessel": "griddle" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "crisp",
+  "flavors": ["savory", "cheesy", "spiced"],
+  "purposes": ["street-food", "snack", "everyday"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best eaten hot off the griddle while the layers are crisp; leftovers soften as the filling's moisture seeps in, though reheating on a dry pan helps. Freezes well before cooking." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Mix dough", "summary": "Combine flour, salt, olive oil and lukewarm water into a smooth, elastic dough." },
+    { "title": "Rest", "summary": "Cover and let rest about 20 minutes." },
+    { "title": "Make the filling", "summary": "Sauté onion in olive oil, wilt in the spinach, then off the heat stir in crumbled feta and Aleppo pepper." },
+    { "title": "Roll paper-thin", "summary": "Divide the dough and roll each piece into a very thin, wide round." },
+    { "title": "Fill & fold", "summary": "Spread filling over half the round, then fold into a smaller square or rectangle, sealing the edges." },
+    { "title": "Griddle", "summary": "Cook in a wide, hot dry skillet, flipping a few times, until golden and crisp on both sides." },
+    { "title": "Finish & serve", "summary": "Brush with a little olive oil, cover briefly to keep tender, then cut into wedges." }
+  ],
+  "source": { "url": "https://www.themediterraneandish.com/gozleme-turkish-flatbread/", "site": "The Mediterranean Dish", "retrieved": "2026-07-17", "adaptation": "Hydration recomputed from the source's own stated 473 g flour figure rather than its cup-based approximation, which implied a different flour weight per cup." },
+  "tags": ["street-food", "filled"]
+}

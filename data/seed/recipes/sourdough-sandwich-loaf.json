@@ -1,0 +1,63 @@
+{
+  "slug": "sourdough-sandwich-loaf",
+  "name": {
+    "en": "Sourdough Sandwich Loaf",
+    "de": "Sauerteig-Sandwichbrot (Kastenform)",
+    "es": "Pan de molde con masa madre",
+    "fr": "Pain de mie au levain"
+  },
+  "aliases": ["Sourdough pain de mie", "Sandwich sourdough"],
+  "description": {
+    "en": "A tender, evenly-crumbed pan loaf that borrows its overnight levain from the wild-sourdough world but keeps butter, milk and a touch of sugar for a soft, sliceable everyday bread built for sandwiches and toast, not big holes.",
+    "de": "Ein zartes Kastenbrot mit gleichmäßiger Krume, das seinen Übernacht-Sauerteig aus der Welt des Wildhefe-Backens entlehnt, aber mit Butter, Milch und etwas Zucker für ein weiches, gut schneidbares Alltagsbrot sorgt – gemacht für Sandwiches und Toast, nicht für große Poren.",
+    "es": "Un pan de molde tierno y de miga uniforme que toma prestado su levain de fermentación nocturna del mundo de la masa madre silvestre, pero conserva mantequilla, leche y un toque de azúcar para un pan cotidiano suave y fácil de cortar, pensado para sándwiches y tostadas.",
+    "fr": "Un pain de mie tendre à la mie régulière qui emprunte son levain de fermentation nocturne au monde du levain sauvage, tout en gardant beurre, lait et une touche de sucre pour un pain du quotidien moelleux et facile à trancher, pensé pour les sandwichs et les toasts."
+  },
+  "origin": { "country": "US", "region": "Modern American home baking", "note": "A pan-loaf adaptation that folds a wild-yeast levain into the classic American enriched sandwich bread format." },
+  "leaven": "hybrid",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 62.9,
+    "saltPct": 2,
+    "sugarPct": 6.6,
+    "fatPct": 7.5,
+    "yeastPct": 0.8,
+    "prefermentedFlourPct": 16.9,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 758, "note": "bread flour" },
+    { "key": "water", "grams": 468 },
+    { "key": "sourdough-starter", "grams": 44 },
+    { "key": "butter", "grams": 57, "note": "unsalted, softened" },
+    { "key": "sugar", "grams": 50 },
+    { "label": { "en": "nonfat dry milk powder", "de": "Magermilchpulver", "es": "leche en polvo desnatada", "fr": "lait en poudre écrémé" }, "grams": 42 },
+    { "key": "salt", "grams": 15 },
+    { "key": "instant-yeast", "grams": 6 }
+  ],
+  "yield": { "count": 2, "pieceGrams": 690, "shape": "8.5-inch pan loaf" },
+  "time": { "totalMin": 1010, "activeMin": 30, "bulkMin": 90, "proofMin": 90, "bakeMin": 32, "overnight": true },
+  "bake": { "tempC": 190, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["mild", "sweet", "buttery"],
+  "purposes": ["sandwich", "toast", "everyday", "breakfast"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 5, "freezes": true },
+  "equipment": ["loaf-pan", "stand-mixer"],
+  "method": [
+    { "title": "Build the levain", "summary": "Mix starter, bread flour and cool water; ferment about 12 hours at cool room temperature until nearly doubled." },
+    { "title": "Mix the dough", "summary": "Combine the levain with flour, warm water, butter, sugar, milk powder, salt and instant yeast; knead until smooth and elastic." },
+    { "title": "First rise", "summary": "Let the dough rise at room temperature 1-2 hours, until doubled." },
+    { "title": "Shape", "summary": "Divide in two, shape each half into a tight log, and settle into greased loaf pans." },
+    { "title": "Second proof", "summary": "Proof 1-2 hours, until the dough crowns about an inch above the rim." },
+    { "title": "Bake", "summary": "Bake at 190°C for 30-35 minutes, until golden brown and the pan sides feel firm." },
+    { "title": "Cool", "summary": "Turn out onto a rack and cool completely before slicing." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/sourdough-sandwich-bread-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base; butter's water-equivalent (16%) folded into hydration per house convention." },
+  "tags": ["sandwich", "pan-loaf", "enriched"]
+}

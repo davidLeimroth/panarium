@@ -1,0 +1,61 @@
+{
+  "slug": "khobz-dar",
+  "name": {
+    "en": "Khobz Dar (Maghrebi House Bread)",
+    "de": "Khobz Dar (Maghreb-Hausbrot)",
+    "es": "Khobz Dar (pan casero magrebí)",
+    "fr": "Khobz Dar (pain maison maghrébin)",
+    "native": "خبز الدار"
+  },
+  "aliases": ["khobz eddar", "khobz beldi", "Moroccan everyday bread"],
+  "description": {
+    "en": "The daily round loaf of Moroccan and Algerian homes, crusty outside and coarse-crumbed within, meant for tearing into pieces to scoop up tagines and salads instead of using a fork. Most families still bake their own, often finishing it at a shared neighborhood oven.",
+    "de": "Der tägliche runde Laib marokkanischer und algerischer Haushalte, außen knusprig und innen grobporig, gedacht zum Zerreißen, um Tajine und Salate aufzunehmen statt einer Gabel. Viele Familien backen ihn noch selbst, oft fertiggebacken im gemeinsamen Nachbarschaftsofen.",
+    "es": "El pan redondo diario de los hogares marroquíes y argelinos, crujiente por fuera y de miga tosca por dentro, para partir en trozos y recoger tayines y ensaladas sin tenedor. Muchas familias lo hornean en casa, a veces terminado en el horno comunitario del barrio.",
+    "fr": "Le pain rond quotidien des foyers marocains et algériens, croustillant dehors et à la mie grossière dedans, fait pour saucer tajines et salades plutôt qu'une fourchette. Beaucoup de familles le préparent encore elles-mêmes, souvent cuit au four du quartier."
+  },
+  "origin": { "country": "MA", "region": "Morocco and the wider Maghreb (Algeria, Tunisia)", "note": "Called khobz dar or khobz eddar, 'bread of the house', because nearly every family bakes its own daily round, often finishing it at a communal neighborhood oven (ferran)." },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 59.2,
+    "saltPct": 2.4,
+    "sugarPct": 1.7,
+    "fatPct": 5.4,
+    "yeastPct": 1.8,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500, "note": "bread flour or other high-gluten flour" },
+    { "key": "water", "grams": 296, "note": "warm" },
+    { "key": "salt", "grams": 12 },
+    { "key": "sugar", "grams": 8 },
+    { "key": "active-dry-yeast", "grams": 9 },
+    { "key": "vegetable-oil", "grams": 27, "note": "olive or vegetable oil" },
+    { "key": "semolina", "grams": 15, "note": "for dusting the pan, optional" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 380, "shape": "flat round loaf, about 20 cm across" },
+  "time": { "totalMin": 125, "activeMin": 25, "proofMin": 70, "bakeMin": 20, "overnight": false },
+  "bake": { "tempC": 224, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["wheaty", "mild", "yeasty", "savory"],
+  "purposes": ["everyday", "table", "side"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day it is baked, while the crust still sounds hollow when tapped; freezes well and refreshes in a hot oven." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix", "summary": "Combine flour, salt and sugar; make a well, dissolve the yeast in a little warm water in the well, then stir in the remaining water and oil." },
+    { "title": "Knead", "summary": "Knead 5 to 10 minutes to a smooth, soft, non-sticky dough." },
+    { "title": "Divide and rest", "summary": "Divide into two mounds on a semolina-dusted pan, cover, and rest 10 to 15 minutes." },
+    { "title": "Shape", "summary": "Pat each mound into a flat round loaf about half a centimeter thick." },
+    { "title": "Rise", "summary": "Cover and let rise about an hour, until it springs back gently when pressed." },
+    { "title": "Bake", "summary": "Score or prick the tops, then bake in a hot oven about 20 minutes until golden and hollow-sounding when tapped." }
+  ],
+  "source": { "url": "https://tasteofmaroc.com/moroccan-bread-khobz-recipe/", "site": "Taste of Maroc", "retrieved": "2026-07-18", "adaptation": "Cup/teaspoon/tablespoon quantities converted to grams; the source's optional pan-dusting semolina is listed at a representative small quantity rather than folded into the flour total." },
+  "tags": ["maghreb", "everyday-bread", "home-baking"]
+}

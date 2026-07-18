@@ -1,0 +1,67 @@
+{
+  "slug": "emmer-hearth",
+  "name": {
+    "en": "Garfagnana Emmer & Potato Bread",
+    "de": "Emmer-Kartoffel-Brot aus der Garfagnana",
+    "es": "Pan de escanda (emmer) y patata de Garfagnana",
+    "fr": "Pain d'amidonnier (emmer) et pomme de terre de Garfagnana",
+    "native": "Pane di Patate e Farro"
+  },
+  "aliases": ["pane garfagnanino", "farro potato bread"],
+  "description": {
+    "en": "Farro della Garfagnana, an emmer wheat with protected status, gets kneaded with mashed potato and a little yeast into a rustic Tuscan hearth loaf. Born to stretch scarce or poor cereal harvests, it became a specialty of its mountain valley in its own right.",
+    "de": "Farro della Garfagnana, ein geschützter Emmerweizen, wird mit Kartoffelpüree und etwas Hefe zu einem rustikalen toskanischen Brot geknetet. Einst entstanden, um karge Getreideernten zu strecken, wurde es zur eigenständigen Spezialität seines Bergtals.",
+    "es": "El farro della Garfagnana, una escanda (emmer) con denominación protegida, se amasa con puré de patata y algo de levadura en un pan rústico toscano. Nacido para estirar cosechas de cereal escasas, se convirtió en especialidad propia de su valle de montaña.",
+    "fr": "Le farro della Garfagnana, un amidonnier (emmer) à appellation protégée, se pétrit avec de la purée de pomme de terre et un peu de levure en un pain rustique toscan. Né pour pallier des récoltes de céréales pauvres, il est devenu une spécialité de sa vallée."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Garfagnana, Tuscany",
+    "note": "Farro della Garfagnana is emmer wheat (Triticum dicoccum) with IGP protected status. Potato stretched scarce or failed cereal harvests in this mountain valley; the mix became a local specialty in its own right, distinct from an ordinary wheat loaf."
+  },
+  "leaven": "yeast",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 56.3,
+    "saltPct": 1.84,
+    "sugarPct": 0.92,
+    "fatPct": 3.68,
+    "yeastPct": 1.53,
+    "flours": [
+      { "type": "emmer", "pct": 91.9 },
+      { "type": "potato", "pct": 8.1 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:emmer", "grams": 500, "note": "farro della Garfagnana, a regional emmer wheat with IGP protection" },
+    { "key": "mashed-potato", "grams": 200, "note": "boiled unpeeled, then peeled and mashed" },
+    { "key": "water", "grams": 150, "note": "warm, to dissolve the yeast" },
+    { "key": "fresh-yeast", "grams": 25, "note": "brewer's yeast, dissolved in the warm water first" },
+    { "key": "olive-oil", "grams": 20, "note": "amount not specified by source; typical estimate" },
+    { "key": "salt", "grams": 10, "note": "amount not specified by source; typical baker's-percentage estimate" },
+    { "key": "sugar", "grams": 5, "note": "a pinch, to help activate the yeast; amount not specified by source" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 410, "shape": "oval hearth loaf, deeply scored" },
+  "time": { "totalMin": 173, "activeMin": 25, "bulkMin": 45, "proofMin": 45, "bakeMin": 38, "overnight": false },
+  "bake": { "tempC": 200, "steam": false, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crackly",
+  "flavors": ["nutty", "earthy", "savory"],
+  "purposes": ["everyday", "table", "sandwich"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 91.9 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "The potato keeps this loaf moist noticeably longer than a plain emmer bread." },
+  "equipment": ["baking-stone"],
+  "method": [
+    { "title": "Boil the potatoes", "summary": "Boil unpeeled potatoes in salted water until tender, then peel and mash while still warm." },
+    { "title": "Proof the yeast", "summary": "Dissolve the brewer's yeast in warm water with a little sugar; wait 5-10 minutes until foamy." },
+    { "title": "Mix", "summary": "Combine the mashed potato with the emmer flour, salt and olive oil, then knead in the yeasted water for at least 10 minutes until smooth and elastic." },
+    { "title": "First rise", "summary": "Rest in an oiled, covered bowl in a warm spot 30-60 minutes until roughly doubled." },
+    { "title": "Shape and score", "summary": "Divide, shape into loaves and cut deep slashes across the top." },
+    { "title": "Second rise", "summary": "Proof another 30-60 minutes." },
+    { "title": "Bake", "summary": "Bake at 200°C for 30-45 minutes depending on loaf size, until deeply golden." }
+  ],
+  "source": { "url": "https://farrodellagarfagnana.it/essential_grid/pane-di-patate-e-farro/?lang=en", "site": "Consorzio Farro della Garfagnana IGP", "retrieved": "2026-07-18", "adaptation": "Salt, oil and sugar amounts weren't given; typical estimates used. Source's translation says 'spelt' but Garfagnana's farro is emmer; potato modeled at ~22% dry matter." },
+  "tags": ["ancient-grain", "italy", "igp"]
+}

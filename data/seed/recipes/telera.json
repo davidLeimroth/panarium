@@ -1,0 +1,64 @@
+{
+  "slug": "telera",
+  "name": {
+    "en": "Telera",
+    "de": "Telera (mexikanisches Tortabrötchen)",
+    "es": "Telera",
+    "fr": "Telera (petit pain mexicain pour torta)"
+  },
+  "aliases": ["telera roll", "torta bread"],
+  "description": {
+    "en": "The everyday roll of the Mexican torta sandwich: a soft, oval loaf marked with two parallel slashes that divide the top into three lobes. The crust is firm but chewy, sturdy enough to hold a stacked, juicy filling.",
+    "de": "Das alltägliche Brötchen für die mexikanische Torta: ein weiches, ovales Brot mit zwei parallelen Einschnitten, die die Oberseite in drei Felder teilen. Die Kruste ist fest, aber zäh, stabil genug für eine üppige, saftige Füllung.",
+    "es": "El pan de cada día de la torta mexicana: un pan ovalado y suave marcado con dos cortes paralelos que dividen la parte superior en tres lóbulos. La corteza es firme pero masticable, lo bastante resistente para sostener un relleno jugoso y abundante.",
+    "fr": "Le petit pain du quotidien pour la torta mexicaine : un pain ovale et moelleux marqué de deux entailles parallèles qui divisent le dessus en trois lobes. La croûte est ferme mais moelleuse, assez solide pour tenir une garniture généreuse et juteuse."
+  },
+  "origin": {
+    "country": "MX",
+    "region": "Mexico City and nationwide",
+    "note": "The everyday roll of the Mexican torta sandwich; its two parallel slashes, creating three lobes, make it easy to split horizontally without falling apart."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 67,
+    "saltPct": 1.8,
+    "sugarPct": 4,
+    "fatPct": 2.8,
+    "yeastPct": 1.2,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 510 },
+    { "key": "water", "grams": 340 },
+    { "key": "honey", "grams": 21 },
+    { "key": "lard", "grams": 14, "note": "or shortening or butter, melted and cooled" },
+    { "key": "salt", "grams": 9 },
+    { "key": "instant-yeast", "grams": 6 },
+    { "key": "egg", "grams": 15, "note": "beaten with water, for the egg wash glaze" }
+  ],
+  "yield": { "count": 10, "pieceGrams": 82, "shape": "oval, two parallel slashes forming three lobes, 14cm long" },
+  "time": { "totalMin": 140, "activeMin": 20, "bulkMin": 60, "proofMin": 25, "bakeMin": 21, "overnight": false },
+  "bake": { "tempC": 204, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "chewy",
+  "flavors": ["mild", "wheaty", "savory", "honeyed"],
+  "purposes": ["sandwich", "everyday", "street-food"],
+  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day it's baked for tortas; the soft crumb stales quickly, though day-old rolls toast well." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix dough", "summary": "Combine yeast, water, honey, melted fat, salt and most of the flour into a soft dough." },
+    { "title": "Knead", "summary": "Knead 6-10 minutes by machine or 10 minutes by hand until smooth and elastic, adding a little more flour if sticky." },
+    { "title": "First rise", "summary": "Cover and let rise about an hour, until doubled." },
+    { "title": "Divide & shape", "summary": "Divide into 10 pieces, roll into balls, rest 5 minutes, then shape each into a tapered oval about 14cm long." },
+    { "title": "Second rise & score", "summary": "Rest on a baking sheet while the oven preheats, then brush with egg wash and press two parallel slashes into each roll to form three lobes." },
+    { "title": "Bake", "summary": "Bake until golden brown and hollow-sounding, about 20-22 minutes; cool completely before slicing for tortas." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/telera-rolls-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-18", "adaptation": "Flour given as a range; used the midpoint. Lard chosen as the traditional fat option among the source's three alternatives." },
+  "tags": ["torta-bread", "mexican-roll"]
+}

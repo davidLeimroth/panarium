@@ -1,0 +1,162 @@
+{
+  "slug": "broa-de-milho",
+  "name": {
+    "en": "Broa de Milho (Portuguese Cornbread)",
+    "de": "Broa de Milho (portugiesisches Maisbrot)",
+    "es": "Broa de Milho (pan de maíz portugués)",
+    "fr": "Broa de Milho (pain de maïs portugais)",
+    "native": "Broa de Milho"
+  },
+  "description": {
+    "en": "A dense, deep-yellow Portuguese loaf built on scalded cornmeal, which gelatinizes into a moist, faintly sweet crumb that keeps far longer than wheat bread. A little rye and an old-dough starter round it out; the traditional partner for caldo verde soup.",
+    "de": "Ein dichtes, tiefgelbes portugiesisches Brot aus überbrühtem Maismehl, das zu einer feuchten, leicht süßen Krume geliert und viel länger hält als Weizenbrot. Etwas Roggen und ein Alt-Teig-Sauerteig runden es ab, der traditionelle Begleiter zur Caldo-verde-Suppe.",
+    "es": "Un pan portugués denso y amarillo intenso, hecho con harina de maíz escaldada que gelatiniza en una miga húmeda y ligeramente dulce que dura mucho más que el pan de trigo. Un poco de centeno y una masa madre de masa vieja lo completan; acompañante tradicional del caldo verde.",
+    "fr": "Un pain portugais dense et jaune, à base de farine de maïs ébouillantée qui gélatinise en une mie humide et légèrement sucrée, se conservant bien plus longtemps que le pain de blé. Un peu de seigle et un levain de pâte ancienne le complètent, pour accompagner le caldo verde."
+  },
+  "origin": {
+    "country": "PT",
+    "region": "Northern Portugal (Minho, Trás-os-Montes)",
+    "note": "The boiling-water scald over the cornmeal gelatinizes its starch, the technique behind broa's moist, long-keeping crumb."
+  },
+  "leaven": "hybrid",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 65,
+    "saltPct": 1.6,
+    "prefermentedFlourPct": 15,
+    "flours": [
+      {
+        "type": "corn",
+        "pct": 58
+      },
+      {
+        "type": "rye",
+        "pct": 27
+      },
+      {
+        "type": "wheat-white",
+        "pct": 15
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 75,
+      "note": "flour share of the 120 g starter (massa velha) used; make a full batch and reserve the rest"
+    },
+    {
+      "key": "water",
+      "grams": 45,
+      "note": "water portion of the 120 g starter used"
+    },
+    {
+      "key": "flour:corn",
+      "grams": 280,
+      "note": "white cornmeal"
+    },
+    {
+      "key": "flour:rye",
+      "grams": 130,
+      "note": "sifted rye flour"
+    },
+    {
+      "key": "water",
+      "grams": 200,
+      "note": "boiling, for scalding the cornmeal"
+    },
+    {
+      "key": "water",
+      "grams": 70,
+      "note": "tepid, added when mixing the final dough"
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 9,
+      "note": "optional; the starter alone can leaven it given enough time"
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 817,
+    "shape": "round, dense hearth loaf"
+  },
+  "time": {
+    "totalMin": 788,
+    "activeMin": 30,
+    "proofMin": 90,
+    "bakeMin": 35,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": false,
+    "vessel": "stone"
+  },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "crackly",
+  "flavors": [
+    "earthy",
+    "sweet",
+    "nutty"
+  ],
+  "purposes": [
+    "everyday",
+    "soup-companion",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 58
+  },
+  "keeping": {
+    "freshDays": 7,
+    "freezes": true,
+    "note": "The scalded cornmeal locks in moisture, which is why broa famously stays soft and edible far longer than a wheat loaf, traditionally baked in big batches to last the week."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Starter",
+      "summary": "The day before, mix wheat flour, water and a little bran into a firm dough (massa velha) and let it ferment 8-12 hours; you'll use about three-quarters of it here and can keep the rest going for next time."
+    },
+    {
+      "title": "Scald the cornmeal",
+      "summary": "Pour boiling water over the sifted cornmeal and stir until fully hydrated, then cool to below 40°C, about 30-45 minutes."
+    },
+    {
+      "title": "Mix",
+      "summary": "Work the rye flour, more tepid water, salt, the starter, and a little yeast if using, into the cooled cornmeal mash by hand until evenly combined."
+    },
+    {
+      "title": "Proof",
+      "summary": "Cover and let rise 1-2 hours until the surface visibly cracks, a sign it's ready."
+    },
+    {
+      "title": "Shape and bake",
+      "summary": "Shape into a round loaf and bake at 250°C for 30-40 minutes until the core reaches 98-100°C and the crust turns deep and crackly."
+    }
+  ],
+  "source": {
+    "url": "https://zinedepao.pt/17464.html",
+    "site": "Zine de Pão",
+    "retrieved": "2026-07-17",
+    "adaptation": "The starter's flour/water is scaled to the 120 g portion actually used in the final dough; make a full starter batch and reserve the remainder for your next bake, per tradition."
+  },
+  "tags": [
+    "scalded-cornmeal",
+    "caldo-verde"
+  ]
+}

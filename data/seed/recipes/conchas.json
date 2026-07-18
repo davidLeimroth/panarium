@@ -1,0 +1,76 @@
+{
+  "slug": "conchas",
+  "name": {
+    "en": "Conchas (Mexican Shell Sweet Bread)",
+    "de": "Conchas (mexikanisches Muschelgebäck)",
+    "es": "Conchas (pan dulce mexicano)",
+    "fr": "Conchas (brioches mexicaines en coquillage)",
+    "native": "Conchas"
+  },
+  "aliases": ["pan dulce", "shell bread", "concha"],
+  "description": {
+    "en": "Mexico's iconic pan dulce: a soft egg-enriched roll hooded with a sugar-butter paste scored into a seashell pattern, baked in vanilla or cocoa versions. An everyday panadería staple, best torn open and dunked in coffee or hot chocolate.",
+    "de": "Mexikos ikonisches Zuckergebäck: eine weiche, eihaltige Semmel, überzogen mit einer in Muschelform geritzten Zucker-Butter-Paste, gebacken in Vanille- oder Kakaoversion. Ein alltäglicher Bäckereiklassiker zum Eintunken in Kaffee oder Kakao.",
+    "es": "El pan dulce más icónico de México: un bollo suave y enriquecido con huevo, cubierto de una pasta de azúcar y mantequilla marcada en forma de concha, en versión vainilla o chocolate. Infaltable en la panadería, ideal remojado en café o chocolate.",
+    "fr": "Le pan dulce emblématique du Mexique : une brioche moelleuse à l'œuf, coiffée d'une pâte sucre-beurre striée en motif de coquillage, en version vanille ou chocolat. Classique quotidien de la panadería, parfait trempé dans un café ou un chocolat chaud."
+  },
+  "origin": {
+    "country": "MX",
+    "region": "Mexico (nationwide)",
+    "note": "One of dozens of shapes sold from the same panadería tray; what defines a concha is the scored shell topping, not a fixed flavor - vanilla and chocolate are the two classics."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 56.4,
+    "saltPct": 1.56,
+    "sugarPct": 14.9,
+    "fatPct": 25.1,
+    "yeastPct": 1.56,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 450, "note": "all-purpose flour, for the dough" },
+    { "key": "milk", "grams": 140, "note": "warmed, for the dough" },
+    { "key": "active-dry-yeast", "grams": 7, "note": "about 1 packet" },
+    { "key": "sugar", "grams": 67, "note": "for the dough" },
+    { "key": "salt", "grams": 7 },
+    { "key": "butter", "grams": 113, "note": "melted, for the dough" },
+    { "key": "egg", "grams": 150, "note": "3 large eggs, beaten" },
+    { "key": "flour:wheat-white", "grams": 125, "note": "for the shell topping paste; not counted toward the dough's flour percentage" },
+    { "key": "sugar", "grams": 80, "note": "powdered sugar, for the topping" },
+    { "key": "butter", "grams": 113, "note": "softened, for the topping" },
+    { "key": "vanilla", "grams": 4, "note": "flavors half the topping batch" },
+    { "key": "cocoa", "grams": 6, "note": "flavors the other half of the topping batch" }
+  ],
+  "yield": { "count": 12, "pieceGrams": 105, "shape": "round bun with scored shell topping" },
+  "time": { "totalMin": 300, "activeMin": 50, "bulkMin": 120, "proofMin": 90, "bakeMin": 21, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "buttery", "chocolate", "rich"],
+  "purposes": ["everyday", "breakfast", "snack", "celebration"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best the day of baking with coffee or hot chocolate; the crumb still freezes and reheats well after the shell softens." },
+  "equipment": ["stand-mixer", "sheet-pan"],
+  "method": [
+    { "title": "Bloom the yeast", "summary": "Stir the yeast and a little of the sugar into warm milk and let it sit until foamy." },
+    { "title": "Mix the dough", "summary": "Combine the flour, remaining sugar and salt, then work in the melted butter, beaten eggs and yeast mixture into a smooth, elastic dough." },
+    { "title": "First rise", "summary": "Cover and let the dough double at room temperature, about 2 hours." },
+    { "title": "Make the shell paste", "summary": "Beat flour, powdered sugar and softened butter together, then split the paste in two, flavouring one half with vanilla and the other with cocoa." },
+    { "title": "Shape and top", "summary": "Divide the dough into balls, press a flattened disc of shell paste over each, and score the paste in a shell pattern with a knife." },
+    { "title": "Second rise", "summary": "Let the topped buns proof until puffy, about 1.5 hours." },
+    { "title": "Bake", "summary": "Bake at around 177°C (350°F) for 18-25 minutes until the shell is set and lightly golden." }
+  ],
+  "source": {
+    "url": "https://www.isabeleats.com/conchas/",
+    "site": "Isabel Eats",
+    "retrieved": "2026-07-17",
+    "adaptation": "formula.* covers the dough only; the sugar-butter shell topping (split vanilla/cocoa) is itemized in ingredients but excluded from the flour total and hydration/sugar/fat percentages."
+  },
+  "tags": ["pan-dulce", "panaderia", "mexico"]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "bialy",
+  "name": {
+    "en": "Bialy",
+    "de": "Bialy",
+    "es": "Bialy",
+    "fr": "Bialy",
+    "native": "Bialystoker kuchen"
+  },
+  "aliases": ["Bialystoker kuchen", "onion roll"],
+  "description": {
+    "en": "A cousin to the bagel that skips the boil: this chewy, onion-and-poppy-topped roll from Białystok, Poland travelled to New York's Jewish bakeries and stayed for good. Its center is dimpled, not holed, and packed with caramelized onion.",
+    "de": "Der Bagel-Vetter, der aufs Kochen verzichtet: Dieses zähe, mit Zwiebeln und Mohn belegte Brötchen aus dem polnischen Białystok wanderte in New Yorks jüdische Bäckereien aus und blieb dort. Die Mitte ist eingedrückt, gefüllt mit karamellisierten Zwiebeln.",
+    "es": "Un primo del bagel que se salta el hervido: este panecillo masticable, cubierto de cebolla y semillas de amapola, viajó desde Białystok, Polonia, hasta las panaderías judías de Nueva York y allí se quedó. El centro está hundido y relleno de cebolla caramelizada.",
+    "fr": "Un cousin du bagel sans ébullition : ce petit pain moelleux, garni d'oignon et de graines de pavot, a voyagé de Białystok, en Pologne, jusqu'aux boulangeries juives de New York et s'y est installé. Le centre est creusé et rempli d'oignon caramélisé."
+  },
+  "origin": {
+    "country": "PL",
+    "region": "Białystok, and the Jewish bakeries of New York City",
+    "note": "Most of Białystok's Jewish bakers perished in the Holocaust, and the bialy nearly vanished with them; it survives today mainly through New York's delis and bakeries."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 61,
+    "saltPct": 2,
+    "yeastPct": 0.45,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 840, "note": "bread flour" },
+    { "key": "water", "grams": 510 },
+    { "key": "salt", "grams": 17 },
+    { "key": "instant-yeast", "grams": 4 },
+    { "label": { "en": "onion powder", "de": "Zwiebelpulver", "es": "cebolla en polvo", "fr": "oignon en poudre" }, "grams": 1, "note": "in the dough, for background flavor" },
+    { "label": { "en": "yellow onion, chopped", "de": "gelbe Zwiebel, gehackt", "es": "cebolla amarilla picada", "fr": "oignon jaune haché" }, "grams": 150, "note": "sautéed briefly for the filling" },
+    { "key": "poppy-seeds", "grams": 3, "note": "in the filling" },
+    { "key": "olive-oil", "grams": 14, "note": "for softening the onions" }
+  ],
+  "yield": { "count": 12, "pieceGrams": 128, "shape": "flattened disc with a dimpled, onion-filled center" },
+  "time": { "totalMin": 830, "activeMin": 40, "bulkMin": 720, "proofMin": 60, "bakeMin": 9, "overnight": true },
+  "bake": { "tempC": 246, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["savory", "yeasty", "toasty", "earthy"],
+  "purposes": ["breakfast", "snack", "sandwich"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fresh or lightly toasted the next day; freezes and reheats well." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Mix and cold ferment", "summary": "Combine bread flour, salt, yeast, a little onion powder and water into a smooth dough; let it ferment slowly overnight in the refrigerator for deep flavor." },
+    { "title": "Divide and rest", "summary": "Divide into twelve pieces, shape into rounds, and let them relax at room temperature for about an hour." },
+    { "title": "Cook the onions", "summary": "Sauté chopped onion briefly just to soften it and drive off excess moisture, then season with salt, pepper and poppy seeds." },
+    { "title": "Dimple", "summary": "Press a deep well into the center of each round with your fingers, pushing the dough almost to the edge so a thick collar remains around a thin center." },
+    { "title": "Fill", "summary": "Spoon a restrained amount of the onion mixture into each dimple, too much will spill and burn." },
+    { "title": "Bake hot", "summary": "Bake on cornmeal-dusted pans in a very hot oven until the edges are golden and the onions are lightly charred." }
+  ],
+  "source": { "url": "https://www.kingarthurbaking.com/recipes/classic-bialys-recipe", "site": "King Arthur Baking", "author": "Emily Teel", "retrieved": "2026-07-17", "adaptation": "Ratios kept as sourced; pan-dusting flour and ground pepper omitted from the ingredient list for brevity." },
+  "tags": ["polish-jewish", "onion", "nyc"]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "chelsea-bun",
+  "name": {
+    "en": "Chelsea Bun",
+    "de": "Chelsea Bun (Londoner Rosinenschnecke)",
+    "es": "Chelsea bun (rollo de pasas de Londres)",
+    "fr": "Chelsea bun (brioche roulée aux raisins de Londres)"
+  },
+  "aliases": ["Chelsea buns"],
+  "description": {
+    "en": "A square-cut spiral bun from 18th-century London, rolled up with butter, brown sugar, spice and currants, then baked snugly pan to pan and brushed sticky with syrup. Pulled apart from the cluster still warm for tea.",
+    "de": "Eine quadratisch geschnittene Rosinenschnecke aus dem London des 18. Jahrhunderts, mit Butter, braunem Zucker, Gewürzen und Korinthen gerollt, eng nebeneinander gebacken und klebrig-süß mit Sirup bestrichen. Frisch aus dem Verbund gezupft, zum Tee.",
+    "es": "Un rollo de forma cuadrada de la Londres del siglo XVIII, enrollado con mantequilla, azúcar moreno, especias y grosellas, horneado bien junto en la bandeja y pincelado con un almíbar pegajoso. Se separa aún caliente para tomarlo con el té.",
+    "fr": "Un petit pain roulé de forme carrée né dans le Londres du XVIIIe siècle, garni de beurre, de sucre roux, d'épices et de raisins de Corinthe, cuit serré dans le moule et badigeonné d'un sirop collant. On le détache tout chaud pour le thé."
+  },
+  "origin": {
+    "country": "GB",
+    "region": "London (Chelsea)",
+    "note": "First baked at the Chelsea Bun House, a bakery favored by the Hanoverian royal family in the 18th century; cut square because the buns are sliced from one shared spiral log baked touching in the pan."
+  },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 57,
+    "saltPct": 1.3,
+    "sugarPct": 11,
+    "fatPct": 12.5,
+    "yeastPct": 2,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 344, "note": "dough" },
+    { "key": "instant-yeast", "grams": 7 },
+    { "label": { "en": "mixed spice", "de": "britische Gewürzmischung (Mixed Spice)", "es": "mezcla de especias británica (mixed spice)", "fr": "mélange d'épices britannique (mixed spice)" }, "grams": 2, "note": "dough" },
+    { "key": "brown-sugar", "grams": 38, "note": "dough" },
+    { "key": "salt", "grams": 4.5 },
+    { "key": "butter", "grams": 43, "note": "softened, dough" },
+    { "key": "milk", "grams": 180 },
+    { "key": "egg", "grams": 50, "note": "1 large egg" },
+    { "key": "butter", "grams": 85, "note": "softened, for the filling" },
+    { "key": "brown-sugar", "grams": 100, "note": "packed, for the filling" },
+    { "label": { "en": "mixed spice", "de": "britische Gewürzmischung (Mixed Spice)", "es": "mezcla de especias británica (mixed spice)", "fr": "mélange d'épices britannique (mixed spice)" }, "grams": 4, "note": "filling" },
+    { "key": "cinnamon", "grams": 3, "note": "ground, filling" },
+    { "key": "raisins", "grams": 113, "note": "dried currants (small Zante-type raisins), traditional for this bun; filling" },
+    { "key": "candied-citrus", "grams": 36, "note": "chopped candied lemon peel, filling" },
+    { "key": "sugar", "grams": 50, "note": "for the glaze, brushed on hot from the oven" },
+    { "key": "water", "grams": 45, "note": "for the glaze syrup, simmered with the sugar" }
+  ],
+  "yield": { "count": 9, "pieceGrams": 118, "shape": "square-cut spiral bun, baked touching in a pan" },
+  "time": { "totalMin": 140, "activeMin": 25, "bulkMin": 60, "proofMin": 30, "bakeMin": 21, "overnight": false },
+  "bake": { "tempC": 190, "steam": false, "vessel": "sheet" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "spiced", "fruity", "rich"],
+  "purposes": ["snack", "breakfast", "dessert"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best the day of baking while sticky-glazed; still good split and toasted a couple of days on." },
+  "equipment": ["stand-mixer", "sheet-pan"],
+  "method": [
+    { "title": "Mix dough", "summary": "Combine flour, yeast, mixed spice, brown sugar and salt, then work in butter, milk and egg to a smooth, elastic dough, about 5-7 minutes by machine." },
+    { "title": "First rise", "summary": "Prove in a warm spot about an hour, until nearly doubled." },
+    { "title": "Roll & fill", "summary": "Roll the dough into a rectangle, spread with soft butter, then scatter brown sugar, spice, cinnamon, currants and candied peel evenly over the top." },
+    { "title": "Roll & slice", "summary": "Roll up tightly from one long edge into a log, trim the ends, and cut into 9 even slices." },
+    { "title": "Pan & proof", "summary": "Arrange the slices cut-side up, snug together, in a greased square pan, and let them puff for about 30 minutes." },
+    { "title": "Bake & glaze", "summary": "Bake until golden and cooked through, then brush the hot buns immediately with a simmered sugar-water syrup for their sticky shine." }
+  ],
+  "source": { "url": "https://www.daringgourmet.com/chelsea-buns/", "site": "The Daring Gourmet", "retrieved": "2026-07-18", "adaptation": "formula.* covers the dough only; the buttery currant filling and sugar-syrup glaze are itemized but excluded from the percentages. Cup measures converted to grams via standard baker's conversions." },
+  "tags": ["teatime", "spiral-bun"]
+}

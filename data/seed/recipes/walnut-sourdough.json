@@ -1,0 +1,60 @@
+{
+  "slug": "walnut-sourdough",
+  "name": {
+    "en": "Country Walnut Sourdough",
+    "de": "Sauerteigbrot mit Walnüssen (Tartine-Stil)",
+    "es": "Pan de campo con masa madre y nueces (estilo Tartine)",
+    "fr": "Pain rustique au levain et aux noix (style Tartine)"
+  },
+  "aliases": ["Tartine walnut bread"],
+  "description": {
+    "en": "Chad Robertson's country loaf studded with whole toasted walnuts, which turn a startling deep purple as the long ferment works on their tannins. Rich and slightly bittersweet, substantial enough to anchor a cheese board or a bowl of soup.",
+    "de": "Chad Robertsons Country-Brot, gespickt mit ganzen gerösteten Walnüssen, die durch die lange Gärung ein überraschend tiefes Violett annehmen. Reichhaltig, leicht bittersüß und kräftig genug für eine Käseplatte oder einen Teller Suppe.",
+    "es": "El pan de campo de Chad Robertson salpicado de nueces enteras tostadas, que adquieren un sorprendente tono violeta oscuro durante la larga fermentación. Rico, ligeramente agridulce y contundente, perfecto junto a una tabla de quesos o un plato de sopa.",
+    "fr": "Le pain rustique de Chad Robertson parsemé de noix entières torréfiées, qui prennent une étonnante teinte violette au fil de la longue fermentation. Riche, légèrement amer-doux et assez consistant pour accompagner un plateau de fromages ou une soupe."
+  },
+  "origin": { "country": "US", "region": "San Francisco, California", "note": "A Tartine Bakery variation on Chad Robertson's country loaf; distinct from the traditional French levain aux noix it takes inspiration from." },
+  "leaven": "sourdough",
+  "family": "hearth-loaf",
+  "formula": {
+    "hydrationPct": 77.5,
+    "saltPct": 1.8,
+    "prefermentedFlourPct": 9.9,
+    "flours": [
+      { "type": "wheat-white", "pct": 81.1 },
+      { "type": "wheat-whole", "pct": 18.9 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 900, "note": "white bread flour" },
+    { "key": "flour:wheat-whole", "grams": 210 },
+    { "key": "water", "grams": 860 },
+    { "key": "sourdough-starter", "grams": 30, "note": "mature, to build the overnight leaven" },
+    { "key": "salt", "grams": 20 },
+    { "key": "walnuts", "grams": 260, "note": "toasted, shelled" }
+  ],
+  "yield": { "count": 2, "pieceGrams": 1050, "shape": "one batard, one boule" },
+  "time": { "totalMin": 2190, "activeMin": 45, "bulkMin": 375, "proofMin": 1020, "bakeMin": 60, "overnight": true },
+  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "crackly",
+  "flavors": ["nutty", "tangy", "wheaty"],
+  "purposes": ["table", "snack", "picnic"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 19 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "The crumb around the walnuts deepens to purple-brown over the first day, a normal reaction with fermentation tannins." },
+  "equipment": ["dutch-oven", "banneton"],
+  "method": [
+    { "title": "Toast the walnuts", "summary": "Toast shelled walnuts until darkened and fragrant, about 8-10 minutes at 200°C; cool completely." },
+    { "title": "Build the leaven", "summary": "The night before, mix starter with whole wheat flour and water; ferment overnight at room temperature." },
+    { "title": "Mix and autolyse", "summary": "Dissolve the leaven in most of the water, mix in both flours, and rest about 40 minutes." },
+    { "title": "Add salt, then bulk ferment", "summary": "Work in salt and reserved water, then give the dough six stretch-and-fold turns at 30-minute intervals, folding in the toasted walnuts partway through; leave undisturbed afterward for about 3 hours." },
+    { "title": "Shape", "summary": "Divide in two, preshape, bench-rest 40 minutes, then shape one loaf as a batard and one as a boule." },
+    { "title": "Cold proof", "summary": "Retard overnight in the refrigerator, 16-18 hours." },
+    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: about 25 minutes covered, then 35 minutes uncovered until deep brown." },
+    { "title": "Cool", "summary": "Rest at least an hour before slicing to reveal the walnut-flecked crumb." }
+  ],
+  "source": { "url": "https://www.theperfectloaf.com/tartine-country-walnut-sourdough/", "site": "The Perfect Loaf", "author": "Maurizio Leo, after Chad Robertson / Tartine Bread", "retrieved": "2026-07-17", "adaptation": "Percentages include the leaven's flour/water (only part of the build is used, prorated); walnut weight estimated from the stated '2 cups'." },
+  "tags": ["tartine", "walnut"]
+}

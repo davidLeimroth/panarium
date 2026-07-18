@@ -1,0 +1,68 @@
+{
+  "slug": "challah",
+  "name": {
+    "en": "Challah (Jewish Braided Bread)",
+    "de": "Challah (jüdisches Zopfbrot)",
+    "es": "Jalá (pan trenzado judío)",
+    "fr": "Ḥalla (pain tressé juif)",
+    "native": "חלה"
+  },
+  "aliases": ["hallah", "khale", "chałka"],
+  "description": {
+    "en": "A glossy, egg-enriched braid that welcomes the Sabbath and Jewish holidays to the table. Torn rather than sliced, its pillowy, faintly sweet crumb turns next-day leftovers into legendary French toast.",
+    "de": "Ein glänzendes, eierreiches Geflecht, das Sabbat und jüdische Feiertage auf den Tisch bringt. Man reißt es, statt es zu schneiden – die weiche, leicht süße Krume macht Reste zu großartigem French Toast.",
+    "es": "Una trenza brillante y enriquecida con huevo que recibe el sabat y las fiestas judías en la mesa. Se parte con las manos, no se corta: su miga tierna y algo dulce convierte las sobras en una tostada francesa memorable.",
+    "fr": "Une tresse brillante et riche en œufs qui accueille le shabbat et les fêtes juives à table. On la déchire plutôt qu'on ne la coupe ; sa mie moelleuse et légèrement sucrée sublime le pain perdu du lendemain."
+  },
+  "origin": {
+    "country": "DE",
+    "region": "Ashkenazi communities of medieval Central Europe",
+    "note": "Genuinely contested: separating a piece of dough as 'challah' is an ancient Israelite practice from Torah law, while the braided shape is usually traced to medieval Ashkenazi Jews in Germany, likely adapting local plaited breads like Zopf."
+  },
+  "leaven": "yeast",
+  "family": "braid",
+  "formula": {
+    "hydrationPct": 47.5,
+    "saltPct": 1.5,
+    "sugarPct": 10,
+    "fatPct": 7.5,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 1000 },
+    { "key": "water", "grams": 400, "note": "cool, room temperature" },
+    { "key": "active-dry-yeast", "grams": 15, "note": "or 40g fresh yeast" },
+    { "key": "egg", "grams": 100, "note": "2 large eggs, in the dough" },
+    { "key": "sugar", "grams": 100 },
+    { "key": "salt", "grams": 15 },
+    { "key": "vegetable-oil", "grams": 75, "note": "sunflower or canola; unsalted butter may replace it for a dairy (non-parve) version" },
+    { "key": "egg", "grams": 50, "note": "for egg wash, beaten with 1 tbsp water and a pinch of salt" },
+    { "key": "sesame-seeds", "grams": 90, "note": "or poppy or nigella seeds, or a mix, for topping" }
+  ],
+  "yield": { "count": 3, "pieceGrams": 560, "shape": "three-strand braided loaf" },
+  "time": { "totalMin": 185, "activeMin": 35, "bulkMin": 40, "proofMin": 40, "bakeMin": 25, "overnight": false },
+  "bake": { "tempC": 218, "steam": false, "vessel": "sheet" },
+  "difficulty": 2,
+  "crumb": "medium",
+  "crust": "soft",
+  "flavors": ["sweet", "rich", "mild", "toasty"],
+  "purposes": ["celebration", "holiday", "table", "breakfast"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": true, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 3, "freezes": true, "note": "Best the first two days; it dries out faster than a pan loaf, so wrap it well. Stale slices make excellent French toast, and it freezes well whole or sliced." },
+  "equipment": ["stand-mixer", "sheet-pan"],
+  "method": [
+    { "title": "Mix the dough", "summary": "Combine water, yeast, flour, eggs, sugar, salt and oil; mix on low then a little faster until smooth and elastic, finishing with a short hand fold, about 7 minutes total." },
+    { "title": "First rise", "summary": "Let the dough rest at room temperature until visibly puffed, about 40 minutes." },
+    { "title": "Divide and roll", "summary": "Divide into nine equal pieces and roll each into a rope about 35cm long." },
+    { "title": "Braid", "summary": "Group the ropes in threes and plait into three loaves, tucking the ends underneath." },
+    { "title": "Second rise", "summary": "Proof the braids on lined trays until doubled, about 40 minutes." },
+    { "title": "Egg wash and seeds", "summary": "Brush generously with beaten egg and scatter with sesame, poppy or nigella seeds." },
+    { "title": "Bake", "summary": "Bake at 218°C (425°F), rotating the trays halfway through, about 25 minutes total until deep golden brown." },
+    { "title": "Cool", "summary": "Let the loaves cool fully on the pan before tearing or slicing." }
+  ],
+  "source": { "url": "https://www.jewishfoodsociety.org/recipes/classic-challah", "site": "Jewish Food Society", "author": "Uri Scheft", "retrieved": "2026-07-17", "adaptation": "Method paraphrased into fewer steps; egg weight estimated at 50g per large egg; assumed vegetable oil (not the butter alternative) for the parve version." },
+  "tags": ["shabbat", "braided", "jewish-holiday", "egg-wash"]
+}

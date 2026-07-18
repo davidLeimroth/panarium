@@ -1,0 +1,60 @@
+{
+  "slug": "faluche",
+  "name": {
+    "en": "Faluche du Nord",
+    "de": "Faluche du Nord (nordfranzösisches Fladenbrot)",
+    "es": "Faluche du Nord (panecillo plano del norte de Francia)",
+    "fr": "Faluche du Nord",
+    "native": "Faluche"
+  },
+  "aliases": ["faluche picarde"],
+  "description": {
+    "en": "A flat, pale disc of a bread from Nord-Pas-de-Calais, baked briefly at low heat so it barely colours. Soft and almost crustless, it's a breakfast staple with butter and brown sugar, and a favorite base for rillettes sandwiches.",
+    "de": "Ein flaches, blasses Fladenbrot aus dem Nord-Pas-de-Calais, kurz bei niedriger Hitze gebacken, sodass es kaum Farbe annimmt. Weich und fast ohne Kruste, ein Frühstücksklassiker mit Butter und braunem Zucker sowie eine beliebte Grundlage für Rillettes-Sandwiches.",
+    "es": "Un disco plano y pálido de pan del Nord-Pas-de-Calais, horneado brevemente a baja temperatura para que apenas coja color. Blando y casi sin corteza, es un clásico del desayuno con mantequilla y azúcar moreno, y una base favorita para sándwiches de rillettes.",
+    "fr": "Un disque plat et pâle originaire du Nord-Pas-de-Calais, cuit brièvement à basse température pour qu'il colore à peine. Moelleuse et presque sans croûte, c'est un classique du petit-déjeuner au beurre et à la cassonade, et un support de choix pour les sandwichs aux rillettes."
+  },
+  "origin": { "country": "FR", "region": "Nord-Pas-de-Calais (and Tournai, Belgium)", "note": "Said to have originated as scraps of dough flattened and baked in a wood oven not yet hot enough for the main batch of bread." },
+  "leaven": "yeast",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 56,
+    "saltPct": 1.2,
+    "sugarPct": 0.8,
+    "fatPct": 8.2,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500 },
+    { "key": "milk", "grams": 150 },
+    { "key": "water", "grams": 150 },
+    { "key": "vegetable-oil", "grams": 41, "note": "grapeseed oil" },
+    { "key": "sugar", "grams": 4 },
+    { "key": "salt", "grams": 6 },
+    { "key": "fresh-yeast", "grams": 10 }
+  ],
+  "yield": { "count": 4, "pieceGrams": 200, "shape": "flat disc" },
+  "time": { "totalMin": 290, "activeMin": 25, "bulkMin": 180, "proofMin": 60, "bakeMin": 15, "overnight": false },
+  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "difficulty": 1,
+  "crumb": "tight",
+  "crust": "floury",
+  "flavors": ["mild", "sweet"],
+  "purposes": ["breakfast", "sandwich", "snack"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Soft and pale with no protective crust, so it's best eaten the day it's made." },
+  "equipment": ["sheet-pan"],
+  "method": [
+    { "title": "Bloom", "summary": "Warm the milk and dissolve the yeast in it for a few minutes." },
+    { "title": "Mix", "summary": "Whisk in the water, oil, sugar and salt, then work into the flour to a smooth, slightly sticky dough." },
+    { "title": "Long rest", "summary": "Cover and let rest a full three hours at room temperature." },
+    { "title": "Divide and shape", "summary": "Knock back, divide into four, and roll each piece into a thin, flat disc." },
+    { "title": "Relax", "summary": "Let the discs relax about an hour." },
+    { "title": "Bake pale", "summary": "Brush with oil, dust with flour, and bake at low heat so the faluches stay pale and soft rather than browning." }
+  ],
+  "source": { "url": "https://www.lechtimarche.fr/actus/recette-chti-faluche-du-nord.html", "site": "Le Ch'ti Marché", "retrieved": "2026-07-17" },
+  "tags": ["nord", "petit-dejeuner"]
+}

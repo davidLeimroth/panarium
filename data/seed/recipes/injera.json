@@ -1,0 +1,55 @@
+{
+  "slug": "injera",
+  "name": {
+    "en": "Injera",
+    "de": "Injera",
+    "es": "Injera",
+    "fr": "Injera",
+    "native": "እንጀራ"
+  },
+  "aliases": ["Ethiopian sourdough flatbread", "enjera"],
+  "description": {
+    "en": "A spongy, sour teff flatbread fermented for days until wild yeasts riddle the batter with bubbles, then steamed on a wide griddle into a tangy, pliable round. It doubles as plate, cutlery and tablecloth under Ethiopian and Eritrean stews.",
+    "de": "Ein schwammiges, säuerliches Teff-Fladenbrot, tagelang fermentiert, bis wilde Hefen den Teig durchsetzen, dann dampfgegart zu einer würzigen, biegsamen Scheibe. Dient äthiopischen und eritreischen Eintöpfen als Teller, Besteck und Tischdecke.",
+    "es": "Un pan plano esponjoso y ácido de teff, fermentado durante días hasta que las levaduras silvestres llenan la masa de burbujas, luego cocido al vapor en una plancha ancha hasta formar un disco flexible y agrio. Sirve de plato, cubiertos y mantel bajo los guisos etíopes y eritreos.",
+    "fr": "Un pain plat spongieux et acidulé au teff, fermenté des jours durant jusqu'à cribler la pâte de bulles, puis cuit à la vapeur en un disque souple. Il sert d'assiette, de couverts et de nappe sous les ragoûts éthiopiens et érythréens."
+  },
+  "origin": { "country": "ET", "region": "Ethiopia & Eritrea", "note": "The shared national staple of both Ethiopia and Eritrea; teff blends and fermentation length vary by region and household." },
+  "leaven": "sourdough",
+  "family": "flatbread",
+  "formula": {
+    "hydrationPct": 190,
+    "saltPct": 0.8,
+    "flours": [
+      { "type": "teff", "pct": 100 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:teff", "grams": 376, "note": "whole grain teff, brown or ivory" },
+    { "key": "water", "grams": 711 },
+    { "key": "salt", "grams": 3, "note": "stirred in just before cooking, not during fermentation" },
+    { "key": "sourdough-starter", "grams": 40, "note": "optional ersho (starter from a previous batch) to kickstart fermentation" }
+  ],
+  "yield": { "count": 9, "pieceGrams": 126, "shape": "large thin spongy round, 25-30 cm" },
+  "time": { "totalMin": 4340, "activeMin": 20, "bulkMin": 4320, "bakeMin": 11, "overnight": true },
+  "bake": { "tempC": 200, "steam": true, "vessel": "griddle" },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": ["sour", "tangy", "earthy"],
+  "purposes": ["everyday", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 4, "freezes": true, "note": "Stays pliable several days at room temperature wrapped in cloth; refrigerates over a week and freezes well, though it's tangiest and spongiest fresh." },
+  "equipment": ["griddle"],
+  "method": [
+    { "title": "Mix the batter", "summary": "Whisk teff flour with water (and a spoonful of ersho starter if you have one) into a smooth, thin batter, thinner than pancake batter." },
+    { "title": "Ferment", "summary": "Cover loosely and leave at warm room temperature for 2-5 days, until it smells pleasantly sour and is full of tiny bubbles." },
+    { "title": "Season", "summary": "Stir in the salt just before cooking; the fermentation itself is done without salt." },
+    { "title": "Pour & spread", "summary": "Pour a ladleful onto a hot, lightly greased wide griddle or non-stick pan, swirling quickly to spread it thin and even." },
+    { "title": "Steam-cook", "summary": "Cover with a lid and let it steam-cook on one side only until the surface is covered in tiny holes ('eyes') and the edges lift cleanly." },
+    { "title": "Cool flat", "summary": "Slide onto a clean cloth or tray to cool uncovered so it stays pliable rather than turning gummy." }
+  ],
+  "source": { "url": "https://figaroshakes.com/cultural-ferments/injera-recipe-ethiopian-fermented-teff-flatbread/", "site": "Figaro Shakes", "retrieved": "2026-07-17", "adaptation": "Cup measurements converted to grams using a standard teff-flour weight (~188 g/cup); hydration and salt percentage computed from those converted weights per baker's-percentage convention." },
+  "tags": ["gluten-free", "fermented", "national-dish"]
+}

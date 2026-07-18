@@ -1,0 +1,65 @@
+{
+  "slug": "samoon",
+  "name": {
+    "en": "Samoon",
+    "de": "Samoon",
+    "es": "Samún",
+    "fr": "Samoun",
+    "native": "صمون"
+  },
+  "aliases": ["somun", "Iraqi diamond bread", "khubz samoon"],
+  "description": {
+    "en": "A crusty Iraqi bread with a fluffy interior, hand-shaped into a torpedo or diamond with thin tapered ends and a thick center. Baked hot on a stone until deep gold, then split open for kebab, falafel or a smear of cheese and tea on the side.",
+    "de": "Ein knuspriges irakisches Brot mit lockerer Krume, von Hand zu einer Torpedo- oder Rautenform mit dünnen Enden und dickerer Mitte geformt. Heiß auf dem Stein gebacken bis tief golden, dann aufgeschnitten für Kebab, Falafel oder mit Käse zum Tee.",
+    "es": "Un pan iraquí crujiente de miga esponjosa, formado a mano en torpedo o rombo con puntas finas y centro más grueso. Se hornea muy caliente sobre piedra hasta dorarse profundamente y se abre para rellenar con kebab, falafel o queso y té.",
+    "fr": "Un pain irakien croustillant à la mie moelleuse, façonné à la main en torpille ou en losange, avec des extrémités fines et un centre épais. Cuit très chaud sur pierre jusqu'à devenir bien doré, puis fendu pour le kebab, le falafel ou le fromage et le thé."
+  },
+  "origin": { "country": "IQ", "region": "Iraq, especially Baghdad", "note": "The name traces to Turkish somun, itself from Greek psomos ('bread'); the modern diamond shape is credited to 20th-century Baghdad bakers." },
+  "leaven": "yeast",
+  "family": "roll",
+  "formula": {
+    "hydrationPct": 77.2,
+    "saltPct": 1.2,
+    "sugarPct": 2.4,
+    "fatPct": 8,
+    "yeastPct": 2.6,
+    "flours": [
+      { "type": "wheat-white", "pct": 97.7 },
+      { "type": "wheat-whole", "pct": 2.3 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 500, "note": "all-purpose flour" },
+    { "key": "flour:wheat-whole", "grams": 12, "note": "wheat bran, whisked into the flour" },
+    { "key": "water", "grams": 237, "note": "warm, about 37°C, for blooming the yeast and mixing" },
+    { "key": "active-dry-yeast", "grams": 13.5 },
+    { "key": "sugar", "grams": 12.5 },
+    { "key": "salt", "grams": 6 },
+    { "key": "buttermilk", "grams": 180 },
+    { "key": "olive-oil", "grams": 41 },
+    { "key": "egg", "grams": 50, "note": "beaten with vinegar, for the egg wash" },
+    { "key": "sesame-seeds", "grams": 15, "note": "for topping" }
+  ],
+  "yield": { "count": 6, "pieceGrams": 165, "shape": "torpedo/diamond, thin tapered ends" },
+  "time": { "totalMin": 150, "activeMin": 35, "bulkMin": 60, "proofMin": 30, "bakeMin": 17, "overnight": false },
+  "bake": { "tempC": 218, "steam": true, "vessel": "stone" },
+  "difficulty": 3,
+  "crumb": "medium",
+  "crust": "crisp",
+  "flavors": ["mild", "wheaty", "yeasty", "savory"],
+  "purposes": ["everyday", "sandwich", "street-food"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 2 },
+  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day it is baked while the crust is crisp; freezes well and refreshes in a hot oven." },
+  "equipment": ["baking-stone", "stand-mixer"],
+  "method": [
+    { "title": "Bloom yeast", "summary": "Stir yeast and sugar into part of the warm water and let stand about 10 minutes until foamy." },
+    { "title": "Mix", "summary": "Whisk flour and wheat bran in a mixer bowl, add the yeast mixture, oil and buttermilk, and knead about 7 minutes, working in the rest of the water and then the salt until smooth." },
+    { "title": "First rise", "summary": "Cover and let the dough double in a warm spot, about 1 hour." },
+    { "title": "Shape", "summary": "Divide into 6 pieces and rest 15 minutes, then roll each into a cylinder and work the ends thin between your palms, leaving the center thick, to form a diamond." },
+    { "title": "Second rise", "summary": "Cover and let rest about 30 minutes." },
+    { "title": "Bake", "summary": "Brush with the egg-vinegar wash, sprinkle sesame seeds, and bake on a preheated stone with a pan of boiling water below for steam, until golden, 15 to 18 minutes." }
+  ],
+  "source": { "url": "https://www.196flavors.com/iraq-samoon/", "site": "196 Flavors", "retrieved": "2026-07-18", "adaptation": "Weights converted from cups/tablespoons; wheat bran folded into the flour total as a small wholegrain share; the bowl of water used only for oven steam is omitted." },
+  "tags": ["street-food", "sandwich-bread", "iraqi"]
+}

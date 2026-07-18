@@ -1,0 +1,68 @@
+{
+  "slug": "amaranth-bread",
+  "name": {
+    "en": "Amaranth Raisin Walnut Bread",
+    "de": "Amaranth-Rosinen-Walnussbrot",
+    "es": "Pan de amaranto con pasas y nueces",
+    "fr": "Pain à l'amarante, raisins secs et noix"
+  },
+  "aliases": ["amaranth quick bread"],
+  "description": {
+    "en": "Whole amaranth seed, an ancient Aztec staple once ranked alongside maize and beans, soaks and softens before folding into a quick, chemically leavened loaf with walnuts, raisins and agave syrup. No yeast, no kneading, just a sweet, nutty everyday quick bread.",
+    "de": "Ganzes Amaranthkorn, einst neben Mais und Bohnen ein Grundnahrungsmittel der Azteken, weicht ein und wird weich, bevor es in einen schnellen, chemisch gelockerten Teig mit Walnüssen, Rosinen und Agavendicksaft eingearbeitet wird. Ohne Hefe, ohne Kneten.",
+    "es": "El grano entero de amaranto, antiguo alimento básico azteca junto al maíz y el frijol, se remoja y ablanda antes de incorporarse a una masa rápida y de leudado químico con nueces, pasas y jarabe de agave. Sin levadura, sin amasado, un pan dulce y nutritivo.",
+    "fr": "Le grain entier d'amarante, ancien aliment de base aztèque au même rang que le maïs et les haricots, trempe et s'attendrit avant d'entrer dans une pâte rapide à levure chimique avec noix, raisins secs et sirop d'agave. Sans levure, sans pétrissage."
+  },
+  "origin": {
+    "country": "MX",
+    "region": "Mesoamerica, amaranth cultivation dating back 6,000-8,000 years",
+    "note": "The Aztecs called amaranth huauhtli and ranked it with maize and beans as a primary crop; this raisin-walnut quick-bread format is a modern adaptation rather than a historical Aztec recipe."
+  },
+  "leaven": "chemical",
+  "family": "quick",
+  "formula": {
+    "hydrationPct": 89.7,
+    "saltPct": 1.72,
+    "sugarPct": 47.4,
+    "fatPct": 15.5,
+    "flours": [
+      { "type": "other", "pct": 28.2 },
+      { "type": "wheat-whole", "pct": 71.8 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "label": { "en": "amaranth, whole grain", "de": "Amaranth, ganzes Korn", "es": "amaranto en grano entero", "fr": "amarante en grains entiers" }, "grams": 98 },
+    { "key": "flour:wheat-whole", "grams": 250, "note": "white whole wheat flour" },
+    { "key": "water", "grams": 237, "note": "boiling, to soak the amaranth and raisins" },
+    { "label": { "en": "agave syrup", "de": "Agavendicksaft", "es": "jarabe de agave", "fr": "sirop d'agave" }, "grams": 165 },
+    { "key": "raisins", "grams": 73 },
+    { "key": "walnuts", "grams": 110, "note": "coarsely chopped" },
+    { "key": "salt", "grams": 6 },
+    { "key": "vegetable-oil", "grams": 54, "note": "canola or other neutral oil" },
+    { "key": "egg", "grams": 100, "note": "2 large eggs" },
+    { "key": "vanilla", "grams": 4 },
+    { "key": "baking-powder", "grams": 8 }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1000, "shape": "9 x 5 x 3 in loaf pan" },
+  "time": { "totalMin": 120, "activeMin": 20, "bakeMin": 60, "overnight": false },
+  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "difficulty": 2,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["sweet", "nutty", "fruity"],
+  "purposes": ["breakfast", "snack", "dessert"],
+  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": true, "wholegrainPct": 100 },
+  "keeping": { "freshDays": 4, "freezes": true },
+  "equipment": ["loaf-pan"],
+  "method": [
+    { "title": "Soak", "summary": "Soak the amaranth and raisins together in boiling water for 15-20 minutes." },
+    { "title": "Mix wet", "summary": "Whisk together the oil, eggs, agave syrup and vanilla." },
+    { "title": "Mix dry", "summary": "Whisk the flour, baking powder, salt and walnuts together." },
+    { "title": "Combine", "summary": "Stir the wet and dry mixtures together with the soaked amaranth and raisins, plus their soaking liquid, until just combined." },
+    { "title": "Bake", "summary": "Pour into a greased loaf pan and bake at about 175°C for 1 hour until a skewer comes out clean." },
+    { "title": "Cool", "summary": "Cool in the pan 10 minutes, then turn out onto a rack to finish cooling." }
+  ],
+  "source": { "url": "https://www.gastronomersguide.com/2011/01/amaranth-raisin-walnut-bread.html", "site": "Gastronomer's Guide", "retrieved": "2026-07-18" },
+  "tags": ["ancient-grain", "mexico", "quick-bread"]
+}

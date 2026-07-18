@@ -1,0 +1,175 @@
+{
+  "slug": "focaccia-genovese",
+  "name": {
+    "en": "Focaccia Genovese",
+    "de": "Focaccia Genovese",
+    "es": "Focaccia genovesa",
+    "fr": "Focaccia génoise",
+    "native": "Fügassa"
+  },
+  "aliases": [
+    "fügassa"
+  ],
+  "description": {
+    "en": "Genoa's daily bread: a wet, olive-oil-rich dough dimpled deep with fingers and doused in a water-oil-salt brine before baking. The brine pools in the dimples, leaving salty little wells and a crumb so soft it's traditionally dunked in cappuccino for breakfast.",
+    "de": "Genuas tägliches Brot: ein nasser, olivenölreicher Teig, tief mit den Fingern eingedrückt und vor dem Backen mit einer Salzlake aus Wasser, Öl und Salz übergossen. Die Krume wird so weich, dass man sie traditionell morgens in den Cappuccino tunkt.",
+    "es": "El pan de cada día en Génova: una masa húmeda y rica en aceite de oliva, marcada con hoyuelos profundos y bañada en salmuera de agua, aceite y sal antes de hornear. La miga es tan blanda que se moja tradicionalmente en el capuchino del desayuno.",
+    "fr": "Le pain quotidien de Gênes: une pâte humide et riche en huile d'olive, creusée de profondes empreintes de doigts puis arrosée d'une saumure eau-huile-sel avant cuisson. La mie est si moelleuse qu'on la trempe traditionnellement dans le cappuccino du matin."
+  },
+  "origin": {
+    "country": "IT",
+    "region": "Genoa, Liguria",
+    "note": "The salamoia (water-oil-salt brine) poured into the dimples before the final rise is what separates this from every other Italian focaccia."
+  },
+  "leaven": "yeast",
+  "family": "pan-loaf",
+  "formula": {
+    "hydrationPct": 87,
+    "saltPct": 2.4,
+    "fatPct": 11.6,
+    "sugarPct": 1.4,
+    "prefermentedFlourPct": 20,
+    "flours": [
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "strong Manitoba (350 g) plus tipo '0' (150 g)"
+    },
+    {
+      "key": "water",
+      "grams": 300,
+      "note": "dough water"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 8
+    },
+    {
+      "key": "honey",
+      "grams": 7
+    },
+    {
+      "key": "olive-oil",
+      "grams": 30,
+      "note": "in the dough"
+    },
+    {
+      "key": "salt",
+      "grams": 10,
+      "note": "in the dough"
+    },
+    {
+      "key": "water",
+      "grams": 135,
+      "note": "for the salamoia brine"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 28,
+      "note": "for the salamoia brine, plus extra for the pan"
+    },
+    {
+      "key": "salt",
+      "grams": 2,
+      "note": "dissolved into the salamoia brine"
+    },
+    {
+      "key": "salt",
+      "grams": 15,
+      "note": "coarse crystals scattered on top; stays crunchy, not counted toward saltPct"
+    }
+  ],
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1035,
+    "shape": "40×35 cm sheet pan, cut into squares to serve"
+  },
+  "time": {
+    "totalMin": 480,
+    "activeMin": 25,
+    "bulkMin": 180,
+    "proofMin": 160,
+    "bakeMin": 18,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": false,
+    "vessel": "sheet"
+  },
+  "difficulty": 3,
+  "crumb": "open",
+  "crust": "soft",
+  "flavors": [
+    "olive",
+    "savory",
+    "mild"
+  ],
+  "purposes": [
+    "everyday",
+    "breakfast",
+    "snack",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best the day it's baked while the base still has a little crispness; it softens fast but reheats and freezes well."
+  },
+  "equipment": [
+    "sheet-pan",
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Small biga",
+      "summary": "Mix a small portion of the flour and water with the yeast into a loose starter and let it ferment 1.5-2 hours until domed."
+    },
+    {
+      "title": "Main dough",
+      "summary": "Combine the biga with the rest of the flour, water, honey, oil and salt into a soft, sticky dough. No serious kneading needed, it's meant to stay wet."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Let the dough ferment about 3 hours at warm room temperature until roughly tripled in size."
+    },
+    {
+      "title": "Pan and dimple",
+      "summary": "Oil a sheet pan generously, stretch the dough to fill it, rest 40 minutes, then drive oiled fingertips all the way to the pan to leave deep dimples across the surface."
+    },
+    {
+      "title": "Brine and rise again",
+      "summary": "Whisk water, olive oil and salt into a brine and pour it over the dimpled dough; scatter coarse salt on top and let it proof another hour so the brine soaks in."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 250°C for about 18 minutes, starting on a low rack and finishing higher, until deeply golden and the brine has crisped into little salty pools."
+    }
+  ],
+  "source": {
+    "url": "https://www.tavolartegusto.it/ricetta/focaccia-genovese-ricetta-originale/",
+    "site": "Tavolartegusto",
+    "retrieved": "2026-07-17",
+    "adaptation": "Gram quantities follow this site's recipe; total hydration is calculated including the salamoia brine water, which the dimpled dough visibly drinks in."
+  },
+  "tags": [
+    "salamoia",
+    "dimpled"
+  ]
+}

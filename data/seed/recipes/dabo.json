@@ -1,0 +1,64 @@
+{
+  "slug": "dabo",
+  "name": {
+    "en": "Dabo (Ethiopian Sabbath Bread)",
+    "de": "Dabo (äthiopisches Sabbatbrot)",
+    "es": "Dabo (pan etíope de sabbat)",
+    "fr": "Dabo (pain éthiopien du sabbat)",
+    "native": "ዳቦ"
+  },
+  "aliases": ["difo dabo", "Ethiopian Jewish challah", "Beta Israel Sabbath bread"],
+  "description": {
+    "en": "A round, lightly sweet Ethiopian Sabbath bread perfumed with turmeric, coriander and nigella, mixed as a wet dough and fermented overnight before a long, slow bake in a covered pot. Ethiopian Jewish families serve it as their Friday-night challah.",
+    "de": "Ein rundes, leicht süßes äthiopisches Sabbatbrot mit Kurkuma, Koriander und Schwarzkümmel, als feuchter Teig über Nacht fermentiert vor langsamem Backen im gedeckten Topf. Äthiopisch-jüdische Familien servieren es als Challah am Freitagabend.",
+    "es": "Un pan de sabbat etíope redondo y dulce, con cúrcuma, cilantro y nigella, en masa húmeda fermentada toda la noche antes de una cocción lenta en una olla tapada. Las familias judías etíopes lo sirven como su jalá del viernes por la noche.",
+    "fr": "Un pain de sabbat éthiopien rond et sucré, parfumé au curcuma, à la coriandre et à la nigelle, en pâte humide fermentée toute la nuit avant une cuisson lente en cocotte couverte. Les familles juives éthiopiennes le servent le vendredi soir."
+  },
+  "origin": { "country": "ET", "region": "Ethiopia and Ethiopian Jewish (Beta Israel) communities, now largely in Israel", "note": "Amharic dabo simply means bread, but the word is used for this festive round loaf served at Sabbath and holidays, unlike the everyday injera. Closely related to Eritrean himbasha." },
+  "leaven": "yeast",
+  "family": "sweet-loaf",
+  "formula": {
+    "hydrationPct": 89.2,
+    "saltPct": 4.2,
+    "sugarPct": 4.7,
+    "fatPct": 15.3,
+    "yeastPct": 0.8,
+    "flours": [
+      { "type": "wheat-white", "pct": 82.4 },
+      { "type": "wheat-whole", "pct": 17.6 }
+    ],
+    "confidence": "estimated"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 438, "note": "bread flour" },
+    { "key": "flour:wheat-whole", "grams": 94 },
+    { "key": "water", "grams": 474 },
+    { "key": "olive-oil", "grams": 81 },
+    { "key": "active-dry-yeast", "grams": 4.5 },
+    { "key": "salt", "grams": 23 },
+    { "key": "sugar", "grams": 25 },
+    { "label": { "en": "ground turmeric", "de": "gemahlene Kurkuma", "es": "cúrcuma molida", "fr": "curcuma moulu" }, "grams": 1 },
+    { "key": "coriander-seed", "grams": 6, "note": "toasted and ground" },
+    { "label": { "en": "nigella seeds", "de": "Schwarzkümmel", "es": "semillas de nigella", "fr": "graines de nigelle" }, "grams": 1.5, "note": "toasted and ground" }
+  ],
+  "yield": { "count": 1, "pieceGrams": 1010, "shape": "large round loaf baked in a covered pot" },
+  "time": { "totalMin": 610, "activeMin": 25, "bulkMin": 480, "proofMin": 30, "bakeMin": 58, "overnight": true },
+  "bake": { "tempC": 149, "steam": false, "vessel": "pot" },
+  "difficulty": 3,
+  "crumb": "tight",
+  "crust": "soft",
+  "flavors": ["spiced", "sweet", "earthy", "savory"],
+  "purposes": ["celebration", "holiday", "table"],
+  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 18 },
+  "keeping": { "freshDays": 6, "freezes": true, "note": "Keeps 5 to 7 days refrigerated in an airtight container, true to its role as a bread made once for a whole week of holiday meals." },
+  "equipment": ["dutch-oven"],
+  "method": [
+    { "title": "Mix", "summary": "Combine the flours, turmeric, coriander and nigella in a large bowl. Separately mix water, oil, yeast, salt and sugar, then stir the two together into a wet, sticky dough." },
+    { "title": "Long rise", "summary": "Transfer to a well-oiled bowl at least twice the dough's size, cover, and let ferment overnight or at least 8 hours at room temperature." },
+    { "title": "Shape", "summary": "Line a covered ovenproof pot with oiled parchment, transfer the dough in, and let rise 30 minutes more." },
+    { "title": "Bake covered", "summary": "Cover the pot tightly and bake until set, 45 to 50 minutes." },
+    { "title": "Flip and finish", "summary": "Turn the loaf out onto a rack, then return it upside down to the pot and bake 10 minutes more to brown the top." }
+  ],
+  "source": { "url": "https://www.jewishfoodsociety.org/recipes/dabo-ethiopian-bread-1", "site": "Jewish Food Society", "retrieved": "2026-07-18", "adaptation": "Cup/teaspoon/tablespoon quantities converted to grams; turmeric and nigella weights estimated using standard ground-spice density." },
+  "tags": ["celebration", "ethiopian-jewish", "overnight-ferment"]
+}

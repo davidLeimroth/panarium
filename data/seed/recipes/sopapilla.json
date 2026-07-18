@@ -1,0 +1,63 @@
+{
+  "slug": "sopapilla",
+  "name": {
+    "en": "Sopapilla",
+    "de": "Sopapilla (frittiertes Fladenbrot aus New Mexico)",
+    "es": "Sopapilla",
+    "fr": "Sopapilla (pain frit de Nouveau-Mexique)"
+  },
+  "aliases": ["sopaipilla"],
+  "description": {
+    "en": "A puffed, deep-fried bread from New Mexico, cut into wedges from a rolled dough and fried until they billow hollow like a pita. Served as a savory bread substitute, or dusted with cinnamon sugar and drizzled with honey for dessert.",
+    "de": "Ein aufgeblähtes, frittiertes Brot aus New Mexico, aus ausgerolltem Teig in Ecken geschnitten und frittiert, bis es sich hohl wie ein Pita aufbläht. Serviert als herzhafter Brotersatz oder mit Zimtzucker bestäubt und mit Honig beträufelt als Dessert.",
+    "es": "Un pan hinchado y frito de Nuevo México, cortado en cuñas de una masa estirada y frito hasta que se infla hueco como un pan pita. Se sirve como sustituto salado del pan, o espolvoreado con azúcar y canela y rociado con miel de postre.",
+    "fr": "Un pain gonflé et frit du Nouveau-Mexique, découpé en quartiers dans une pâte étalée et frit jusqu'à gonfler et devenir creux comme un pain pita. Servi comme substitut de pain salé, ou saupoudré de sucre à la cannelle et arrosé de miel en dessert."
+  },
+  "origin": {
+    "country": "US",
+    "region": "New Mexico (Albuquerque) and the American Southwest",
+    "note": "Emerged in the 1800s from the blending of Hispano and Native American foodways in New Mexico under Spanish, Mexican and American territorial rule; served as a savory bread substitute or, dusted with cinnamon sugar, as a dessert."
+  },
+  "leaven": "chemical",
+  "family": "fried",
+  "formula": {
+    "hydrationPct": 71,
+    "saltPct": 2.2,
+    "fatPct": 11,
+    "flours": [
+      { "type": "wheat-white", "pct": 100 }
+    ],
+    "confidence": "from-source"
+  },
+  "ingredients": [
+    { "key": "flour:wheat-white", "grams": 250 },
+    { "key": "baking-powder", "grams": 9 },
+    { "key": "salt", "grams": 5.5 },
+    { "key": "lard", "grams": 27, "note": "or vegetable shortening" },
+    { "key": "water", "grams": 178, "note": "warm" },
+    { "key": "vegetable-oil", "grams": 325, "note": "for deep-frying; only a small fraction is absorbed into the dough" },
+    { "key": "sugar", "grams": 50, "note": "for the cinnamon-sugar coating" },
+    { "key": "cinnamon", "grams": 3, "note": "ground, for the coating" }
+  ],
+  "yield": { "count": 20, "pieceGrams": 25, "shape": "quartered wedges from five 8-inch rolled circles" },
+  "time": { "totalMin": 35, "activeMin": 30, "bakeMin": 5, "overnight": false },
+  "bake": { "tempC": 182, "steam": false, "vessel": "fryer" },
+  "difficulty": 2,
+  "crumb": "open",
+  "crust": "crisp",
+  "flavors": ["sweet", "savory", "buttery", "mild"],
+  "purposes": ["dessert", "side", "street-food"],
+  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
+  "keeping": { "freshDays": 1, "freezes": true, "note": "Best eaten hot and puffed, minutes from the fryer; they deflate and toughen quickly once cool." },
+  "equipment": ["deep-fryer"],
+  "method": [
+    { "title": "Mix dough", "summary": "Sift the flour with the baking powder and salt, cut in the shortening until it looks like coarse crumbs, then stir in the warm water until the dough just comes together." },
+    { "title": "Rest", "summary": "Let the dough rest briefly, then divide into 5 pieces." },
+    { "title": "Roll & cut", "summary": "Roll each piece into an 8-inch circle and cut into quarters, for 20 wedges total." },
+    { "title": "Fry", "summary": "Heat oil to 350-365°F (177-185°C) and fry the wedges a few at a time, flipping once, until they puff up and turn evenly golden." },
+    { "title": "Drain", "summary": "Lift out onto paper towels to drain." },
+    { "title": "Coat & serve", "summary": "Toss the warm sopapillas in cinnamon sugar and serve with honey for drizzling." }
+  ],
+  "source": { "url": "https://muybuenoblog.com/sopaipillas/", "site": "Muy Bueno", "retrieved": "2026-07-18", "adaptation": "Frying oil listed separately since only a small fraction is absorbed into the dough; formula reflects the dough only. Lard used per the source's shortening alternative." },
+  "tags": ["new-mexico", "fried-bread"]
+}
