@@ -6,7 +6,9 @@
     "es": "Bath bun (bollo inglés con azúcar en grano)",
     "fr": "Bath bun (petit pain anglais au sucre en grains)"
   },
-  "aliases": ["Bath buns"],
+  "aliases": [
+    "Bath buns"
+  ],
   "description": {
     "en": "A rich, brioche-like bun from the English spa town of Bath, studded with currants and candied peel and topped with coarse nib sugar for crunch. An 18th-century tea-time favorite, said to be beloved by Jane Austen.",
     "de": "Ein reichhaltiges, brioche-artiges Brötchen aus der englischen Kurstadt Bath, gespickt mit Korinthen und kandierter Schale und mit grobem Hagelzucker für den Knusper bestreut. Ein Teestunden-Favorit des 18. Jahrhunderts, angeblich von Jane Austen geliebt.",
@@ -26,43 +28,155 @@
     "sugarPct": 16.5,
     "fatPct": 42,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 170, "note": "dough" },
-    { "key": "salt", "grams": 3 },
-    { "key": "butter", "grams": 71, "note": "softened, dough" },
-    { "key": "sugar", "grams": 28, "note": "cane sugar, dough" },
-    { "key": "fresh-yeast", "grams": 14 },
-    { "key": "egg", "grams": 50, "note": "1 egg, dough" },
-    { "key": "milk", "grams": 60 },
-    { "key": "lemon-zest", "grams": 1 },
-    { "key": "raisins", "grams": 9, "note": "dried currants, filling" },
-    { "key": "candied-citrus", "grams": 12, "note": "chopped candied orange peel, filling" },
-    { "key": "egg", "grams": 15, "note": "beaten, for egg wash before baking" },
-    { "key": "sugar", "grams": 13, "note": "coarse nib or pearl sugar, sprinkled on top before baking" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 170,
+      "note": "dough"
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "key": "butter",
+      "grams": 71,
+      "note": "softened, dough"
+    },
+    {
+      "key": "sugar",
+      "grams": 28,
+      "note": "cane sugar, dough"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 14
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "1 egg, dough"
+    },
+    {
+      "key": "milk",
+      "grams": 60
+    },
+    {
+      "key": "lemon-zest",
+      "grams": 1
+    },
+    {
+      "key": "raisins",
+      "grams": 9,
+      "note": "dried currants, filling"
+    },
+    {
+      "key": "candied-citrus",
+      "grams": 12,
+      "note": "chopped candied orange peel, filling"
+    },
+    {
+      "key": "egg",
+      "grams": 15,
+      "note": "beaten, for egg wash before baking"
+    },
+    {
+      "key": "sugar",
+      "grams": 13,
+      "note": "coarse nib or pearl sugar, sprinkled on top before baking"
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 105, "shape": "large individual bun" },
-  "time": { "totalMin": 100, "activeMin": 20, "bulkMin": 45, "proofMin": 10, "bakeMin": 17, "overnight": false },
-  "bake": { "tempC": 218, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 105,
+    "shape": "large individual bun"
+  },
+  "time": {
+    "totalMin": 100,
+    "activeMin": 20,
+    "bulkMin": 45,
+    "proofMin": 10,
+    "bakeMin": 17,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 218,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "fruity", "rich"],
-  "purposes": ["snack", "breakfast", "celebration"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fresh the day they're baked, while the nib sugar still crunches; day-old buns are good split and toasted." },
-  "equipment": ["stand-mixer", "sheet-pan"],
-  "method": [
-    { "title": "Rub in butter", "summary": "Sift the flour with the salt, then rub in the butter until the mixture looks like coarse crumbs." },
-    { "title": "Bloom & mix", "summary": "Whisk the warm milk with the yeast and a pinch of the sugar until frothy, then beat in the egg, lemon zest and remaining sugar, and combine with the flour mixture." },
-    { "title": "Knead & first rise", "summary": "Knead into a smooth, elastic dough for about 10 minutes, then cover and prove in a warm place until doubled, about 45 minutes." },
-    { "title": "Add fruit", "summary": "Knead in the currants and candied orange peel just until distributed." },
-    { "title": "Shape & short second rise", "summary": "Divide into 4 balls, space on a greased tray, and let puff for about 10 minutes." },
-    { "title": "Glaze, top & bake", "summary": "Brush with beaten egg, scatter with coarse nib sugar, and bake until golden." }
+  "flavors": [
+    "sweet",
+    "buttery",
+    "fruity",
+    "rich"
   ],
-  "source": { "url": "https://streamofflavors.com/recipes/bath-buns-recipe/", "site": "Stream of Flavors", "retrieved": "2026-07-18", "adaptation": "formula.* covers the dough only; egg wash and nib-sugar topping are excluded. Source's '1/2 oz active yeast' recorded as fresh yeast; ounce/cup measures converted to grams via standard conversions." },
-  "tags": ["bath", "teatime"]
+  "purposes": [
+    "snack",
+    "breakfast",
+    "celebration"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best fresh the day they're baked, while the nib sugar still crunches; day-old buns are good split and toasted."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Rub in butter",
+      "summary": "Sift the flour with the salt, then rub in the butter until the mixture looks like coarse crumbs."
+    },
+    {
+      "title": "Bloom & mix",
+      "summary": "Whisk the warm milk with the yeast and a pinch of the sugar until frothy, then beat in the egg, lemon zest and remaining sugar, and combine with the flour mixture."
+    },
+    {
+      "title": "Knead & first rise",
+      "summary": "Knead into a smooth, elastic dough for about 10 minutes, then cover and prove in a warm place until doubled, about 45 minutes."
+    },
+    {
+      "title": "Add fruit",
+      "summary": "Knead in the currants and candied orange peel just until distributed."
+    },
+    {
+      "title": "Shape & short second rise",
+      "summary": "Divide into 4 balls, space on a greased tray, and let puff for about 10 minutes."
+    },
+    {
+      "title": "Glaze, top & bake",
+      "summary": "Brush with beaten egg, scatter with coarse nib sugar, and bake until golden."
+    }
+  ],
+  "source": {
+    "url": "https://streamofflavors.com/recipes/bath-buns-recipe/",
+    "site": "Stream of Flavors",
+    "retrieved": "2026-07-18",
+    "adaptation": "formula.* covers the dough only; egg wash and nib-sugar topping are excluded. Source's '1/2 oz active yeast' recorded as fresh yeast; ounce/cup measures converted to grams via standard conversions."
+  },
+  "tags": [
+    "bath",
+    "teatime"
+  ],
+  "doughType": "dough"
 }

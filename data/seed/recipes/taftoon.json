@@ -7,14 +7,21 @@
     "fr": "Taftoon (Pain persan au tandoor)",
     "native": "تافتون"
   },
-  "aliases": ["taftan", "nan-e taftoon"],
+  "aliases": [
+    "taftan",
+    "nan-e taftoon"
+  ],
   "description": {
     "en": "A saffron-washed Persian flatbread with a thick, docked center and a puffed rim, traditionally slapped onto the scorching wall of a tandoor. Scented with nigella seed and a touch of sweetness, it's torn warm alongside breakfast tea.",
     "de": "Ein mit Safran bestrichenes persisches Fladenbrot mit dick eingestochener Mitte und aufgepufftem Rand, traditionell an die glühend heiße Tandoor-Wand geklatscht. Mit Schwarzkümmel und einer Spur Süße verfeinert, wird es warm zum Frühstückstee gerissen.",
     "es": "Un pan plano persa pincelado con azafrán, de centro grueso y marcado y borde inflado, tradicionalmente adherido a la pared abrasadora de un horno tandoor. Perfumado con semillas de nigella y un toque de dulzor, se arranca caliente junto al té del desayuno.",
     "fr": "Un pain plat persan badigeonné de safran, au centre épais et piqué et au bord gonflé, traditionnellement plaqué contre la paroi brûlante d'un four tandoor. Parfumé à la nigelle et légèrement sucré, on le déchire chaud avec le thé du matin."
   },
-  "origin": { "country": "IR", "region": "Iran & Afghanistan/Pakistan border regions", "note": "The name comes from Persian 'taftan', to heat or kindle; closely related to Afghan and Pakistani tandoor breads of the same family." },
+  "origin": {
+    "country": "IR",
+    "region": "Iran & Afghanistan/Pakistan border regions",
+    "note": "The name comes from Persian 'taftan', to heat or kindle; closely related to Afghan and Pakistani tandoor breads of the same family."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -24,41 +31,152 @@
     "fatPct": 7.5,
     "yeastPct": 1.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 375 },
-    { "key": "active-dry-yeast", "grams": 6 },
-    { "key": "yogurt", "grams": 30 },
-    { "key": "butter", "grams": 28, "note": "melted" },
-    { "key": "sugar", "grams": 13 },
-    { "key": "salt", "grams": 9 },
-    { "key": "milk", "grams": 267, "note": "warm" },
-    { "label": { "en": "saffron threads", "de": "Safranfäden", "es": "hebras de azafrán", "fr": "filaments de safran" }, "grams": 0.2, "note": "steeped in a little milk, brushed on top before baking" },
-    { "label": { "en": "nigella seeds", "de": "Schwarzkümmel", "es": "semillas de nigella", "fr": "graines de nigelle" }, "grams": 6, "note": "topping" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 375
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 6
+    },
+    {
+      "key": "yogurt",
+      "grams": 30
+    },
+    {
+      "key": "butter",
+      "grams": 28,
+      "note": "melted"
+    },
+    {
+      "key": "sugar",
+      "grams": 13
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    },
+    {
+      "key": "milk",
+      "grams": 267,
+      "note": "warm"
+    },
+    {
+      "label": {
+        "en": "saffron threads",
+        "de": "Safranfäden",
+        "es": "hebras de azafrán",
+        "fr": "filaments de safran"
+      },
+      "grams": 0.2,
+      "note": "steeped in a little milk, brushed on top before baking"
+    },
+    {
+      "label": {
+        "en": "nigella seeds",
+        "de": "Schwarzkümmel",
+        "es": "semillas de nigella",
+        "fr": "graines de nigelle"
+      },
+      "grams": 6,
+      "note": "topping"
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 92, "shape": "round, about 13 cm, thick edge, docked center" },
-  "time": { "totalMin": 132, "activeMin": 37, "bulkMin": 75, "proofMin": 20, "bakeMin": 14, "overnight": false },
-  "bake": { "tempC": 204, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 92,
+    "shape": "round, about 13 cm, thick edge, docked center"
+  },
+  "time": {
+    "totalMin": 132,
+    "activeMin": 37,
+    "bulkMin": 75,
+    "proofMin": 20,
+    "bakeMin": 14,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 204,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "tangy", "buttery", "spiced"],
-  "purposes": ["breakfast", "everyday", "side"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm the day it's baked; stays soft a couple of days wrapped, and freezes well." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Proof yeast", "summary": "Stir yeast and sugar into warm milk; let stand 10 minutes until foamy." },
-    { "title": "Mix dough", "summary": "Combine flour, salt, melted butter and yogurt, then work in the yeast mixture to a soft, slightly sticky dough; knead until smooth." },
-    { "title": "First rise", "summary": "Cover and let rise 1 to 1.5 hours until doubled." },
-    { "title": "Divide & shape", "summary": "Divide into 8 pieces and shape into rounds about 13 cm across with a thicker rim." },
-    { "title": "Rest, wash & dock", "summary": "Rest 20 minutes, brush with saffron-milk wash, then press deep indentations in the center with your fingers, leaving the rim intact; scatter with nigella seeds." },
-    { "title": "Bake", "summary": "Bake in a hot oven 12-15 minutes until golden." },
-    { "title": "Serve warm", "summary": "Best eaten warm, torn by hand." }
+  "flavors": [
+    "sweet",
+    "tangy",
+    "buttery",
+    "spiced"
   ],
-  "source": { "url": "https://www.mycookingjourney.com/taftan-bread-taftoon/", "site": "My Cooking Journey", "retrieved": "2026-07-17", "adaptation": "Hydration includes milk, yogurt and butter's water content per baker's-percentage convention; this version is oven-baked at 400°F rather than in a true tandoor." },
-  "tags": ["tandoor", "saffron"]
+  "purposes": [
+    "breakfast",
+    "everyday",
+    "side"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best warm the day it's baked; stays soft a couple of days wrapped, and freezes well."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Proof yeast",
+      "summary": "Stir yeast and sugar into warm milk; let stand 10 minutes until foamy."
+    },
+    {
+      "title": "Mix dough",
+      "summary": "Combine flour, salt, melted butter and yogurt, then work in the yeast mixture to a soft, slightly sticky dough; knead until smooth."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise 1 to 1.5 hours until doubled."
+    },
+    {
+      "title": "Divide & shape",
+      "summary": "Divide into 8 pieces and shape into rounds about 13 cm across with a thicker rim."
+    },
+    {
+      "title": "Rest, wash & dock",
+      "summary": "Rest 20 minutes, brush with saffron-milk wash, then press deep indentations in the center with your fingers, leaving the rim intact; scatter with nigella seeds."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a hot oven 12-15 minutes until golden."
+    },
+    {
+      "title": "Serve warm",
+      "summary": "Best eaten warm, torn by hand."
+    }
+  ],
+  "source": {
+    "url": "https://www.mycookingjourney.com/taftan-bread-taftoon/",
+    "site": "My Cooking Journey",
+    "retrieved": "2026-07-17",
+    "adaptation": "Hydration includes milk, yogurt and butter's water content per baker's-percentage convention; this version is oven-baked at 400°F rather than in a true tandoor."
+  },
+  "tags": [
+    "tandoor",
+    "saffron"
+  ],
+  "doughType": "dough"
 }

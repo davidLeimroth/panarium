@@ -6,14 +6,21 @@
     "es": "Tortilla de harina",
     "fr": "Tortilla de blé"
   },
-  "aliases": ["tortilla de harina", "harina tortilla"],
+  "aliases": [
+    "tortilla de harina",
+    "harina tortilla"
+  ],
   "description": {
     "en": "A soft, pliable wheat flatbread enriched with lard, rolled thin and griddled just a minute a side until lightly spotted. The everyday wrap of the US-Mexico borderlands, holding burritos, breakfast tacos and quesadillas alike.",
     "de": "Ein weiches, biegsames Weizen-Fladenbrot mit Schweineschmalz, dünn ausgerollt und nur eine Minute pro Seite auf der Platte gebacken, bis es leicht gefleckt ist. Die alltägliche Hülle der US-mexikanischen Grenzregion, für Burritos, Frühstückstacos und Quesadillas.",
     "es": "Un pan plano de trigo, suave y flexible, enriquecido con manteca, estirado fino y cocido apenas un minuto por lado en el comal hasta dorarse ligeramente. El envoltorio cotidiano de la frontera entre México y Estados Unidos, para burritos, tacos de desayuno y quesadillas.",
     "fr": "Un pain plat de blé, souple et tendre, enrichi au saindoux, étalé fin et cuit à peine une minute de chaque côté sur le comal jusqu'à légèrement se tacheter. L'enveloppe quotidienne de la frontière américano-mexicaine, pour burritos, tacos du matin et quesadillas."
   },
-  "origin": { "country": "MX", "region": "Northern Mexico (Sonora, Chihuahua) & US-Mexico borderlands", "note": "Sonoran in origin; became the everyday bread of the whole US Southwest through border and migrant cooking." },
+  "origin": {
+    "country": "MX",
+    "region": "Northern Mexico (Sonora, Chihuahua) & US-Mexico borderlands",
+    "note": "Sonoran in origin; became the everyday bread of the whole US Southwest through border and migrant cooking."
+  },
   "leaven": "chemical",
   "family": "flatbread",
   "formula": {
@@ -21,37 +28,122 @@
     "saltPct": 1.4,
     "fatPct": 5.2,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500, "note": "all-purpose flour" },
-    { "key": "lard", "grams": 26 },
-    { "key": "baking-powder", "grams": 3 },
-    { "key": "salt", "grams": 7 },
-    { "key": "water", "grams": 296, "note": "hot" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "all-purpose flour"
+    },
+    {
+      "key": "lard",
+      "grams": 26
+    },
+    {
+      "key": "baking-powder",
+      "grams": 3
+    },
+    {
+      "key": "salt",
+      "grams": 7
+    },
+    {
+      "key": "water",
+      "grams": 296,
+      "note": "hot"
+    }
   ],
-  "yield": { "count": 13, "pieceGrams": 64, "shape": "7-8 in (18-20 cm) round" },
-  "time": { "totalMin": 33, "activeMin": 28, "proofMin": 5, "bakeMin": 13, "overnight": false },
-  "bake": { "tempC": 220, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 13,
+    "pieceGrams": 64,
+    "shape": "7-8 in (18-20 cm) round"
+  },
+  "time": {
+    "totalMin": 33,
+    "activeMin": 28,
+    "proofMin": 5,
+    "bakeMin": 13,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["mild", "wheaty", "rich"],
-  "purposes": ["everyday", "sandwich", "street-food"],
-  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "Keeps soft several days sealed at room temperature thanks to the fat content; reheat briefly on a dry skillet. Freezes well stacked with parchment." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix dry", "summary": "Whisk flour, baking powder and salt, then rub or cut in the lard until crumbly." },
-    { "title": "Add water", "summary": "Pour in hot water and mix to a shaggy dough; the heat helps develop just enough gluten." },
-    { "title": "Knead", "summary": "Knead 3-5 minutes until smooth, soft and elastic; rest briefly only if it resists rolling." },
-    { "title": "Divide", "summary": "Portion into small balls and let them relax a few minutes." },
-    { "title": "Roll thin", "summary": "Roll each ball into a thin, even round." },
-    { "title": "Griddle", "summary": "Cook on a hot dry comal about a minute per side until lightly spotted, pressing down any air pockets with a folded towel." },
-    { "title": "Keep warm", "summary": "Stack in a cloth or tortilla warmer to stay soft and pliable." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "rich"
   ],
-  "source": { "url": "https://muybuenoblog.com/homemade-flour-tortillas-video/", "site": "Muy Bueno", "retrieved": "2026-07-17", "adaptation": "Hydration recalculated from the source's cup measurements using standard gram conversions (125 g/cup flour, 237 g/cup water); notably higher than the source's own self-reported figure." },
-  "tags": ["borderlands", "lard-dough"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "street-food"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": false,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "Keeps soft several days sealed at room temperature thanks to the fat content; reheat briefly on a dry skillet. Freezes well stacked with parchment."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix dry",
+      "summary": "Whisk flour, baking powder and salt, then rub or cut in the lard until crumbly."
+    },
+    {
+      "title": "Add water",
+      "summary": "Pour in hot water and mix to a shaggy dough; the heat helps develop just enough gluten."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead 3-5 minutes until smooth, soft and elastic; rest briefly only if it resists rolling."
+    },
+    {
+      "title": "Divide",
+      "summary": "Portion into small balls and let them relax a few minutes."
+    },
+    {
+      "title": "Roll thin",
+      "summary": "Roll each ball into a thin, even round."
+    },
+    {
+      "title": "Griddle",
+      "summary": "Cook on a hot dry comal about a minute per side until lightly spotted, pressing down any air pockets with a folded towel."
+    },
+    {
+      "title": "Keep warm",
+      "summary": "Stack in a cloth or tortilla warmer to stay soft and pliable."
+    }
+  ],
+  "source": {
+    "url": "https://muybuenoblog.com/homemade-flour-tortillas-video/",
+    "site": "Muy Bueno",
+    "retrieved": "2026-07-17",
+    "adaptation": "Hydration recalculated from the source's cup measurements using standard gram conversions (125 g/cup flour, 237 g/cup water); notably higher than the source's own self-reported figure."
+  },
+  "tags": [
+    "borderlands",
+    "lard-dough"
+  ],
+  "doughType": "dough"
 }

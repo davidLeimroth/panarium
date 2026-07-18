@@ -117,6 +117,7 @@ message Recipe {
   repeated MethodStep method = 21;
   Source source = 22;
   repeated string tags = 23;
+  string dough_type = 24; // dough | batter | paste | stiff (optional)
 }
 
 // ---------- read API ----------

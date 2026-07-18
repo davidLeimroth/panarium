@@ -7,7 +7,11 @@
     "fr": "Vasilopita (Pain du Nouvel An de Saint-Basile)",
     "native": "Βασιλόπιτα"
   },
-  "aliases": ["Vasilopita tsoureki", "St Basil's bread", "Greek New Year bread"],
+  "aliases": [
+    "Vasilopita tsoureki",
+    "St Basil's bread",
+    "Greek New Year bread"
+  ],
   "description": {
     "en": "Greece's New Year loaf, cut open on January 1st for St Basil's Day with a coin baked inside for good luck. This yeasted, tsoureki-style version is scented with mahlab and mastic; many families bake a simpler cake instead.",
     "de": "Griechenlands Neujahrsbrot, das am 1. Januar zum Basiliusfest angeschnitten wird - mit einer Münze für Glück im neuen Jahr. Diese Hefeteig-Version im Tsoureki-Stil duftet nach Mahlab und Mastix; manche backen lieber einen Kuchen.",
@@ -16,7 +20,7 @@
   },
   "origin": {
     "country": "GR",
-    "region": "Greece, also Cyprus",
+    "region": "also Cyprus",
     "note": "Named for St Basil of Caesarea, a 4th-century bishop remembered for generosity to the poor; a coin baked into the dough brings its finder luck for the coming year."
   },
   "leaven": "yeast",
@@ -27,43 +31,155 @@
     "sugarPct": 25.3,
     "fatPct": 13.8,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 435 },
-    { "key": "sugar", "grams": 110 },
-    { "key": "milk", "grams": 75 },
-    { "key": "butter", "grams": 60 },
-    { "key": "instant-yeast", "grams": 12 },
-    { "key": "water", "grams": 65, "note": "tepid, to activate the yeast" },
-    { "key": "salt", "grams": 7 },
-    { "key": "orange-zest", "grams": 3, "note": "from about half an orange" },
-    { "key": "egg", "grams": 100, "note": "2 large eggs" },
-    { "label": { "en": "mahlab (ground cherry-pit spice)", "de": "Mahlab (gemahlenes Kirschkerngewürz)", "es": "majlab (especia de hueso de cereza molido)", "fr": "mahleb (épice de noyau de cerise moulue)" }, "grams": 4 },
-    { "label": { "en": "mastic resin, ground", "de": "Mastix-Harz, gemahlen", "es": "resina de almáciga, molida", "fr": "résine de mastic, moulue" }, "grams": 1, "note": "crushed with a little of the sugar" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 435
+    },
+    {
+      "key": "sugar",
+      "grams": 110
+    },
+    {
+      "key": "milk",
+      "grams": 75
+    },
+    {
+      "key": "butter",
+      "grams": 60
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 12
+    },
+    {
+      "key": "water",
+      "grams": 65,
+      "note": "tepid, to activate the yeast"
+    },
+    {
+      "key": "salt",
+      "grams": 7
+    },
+    {
+      "key": "orange-zest",
+      "grams": 3,
+      "note": "from about half an orange"
+    },
+    {
+      "key": "egg",
+      "grams": 100,
+      "note": "2 large eggs"
+    },
+    {
+      "label": {
+        "en": "mahlab (ground cherry-pit spice)",
+        "de": "Mahlab (gemahlenes Kirschkerngewürz)",
+        "es": "majlab (especia de hueso de cereza molido)",
+        "fr": "mahleb (épice de noyau de cerise moulue)"
+      },
+      "grams": 4
+    },
+    {
+      "label": {
+        "en": "mastic resin, ground",
+        "de": "Mastix-Harz, gemahlen",
+        "es": "resina de almáciga, molida",
+        "fr": "résine de mastic, moulue"
+      },
+      "grams": 1,
+      "note": "crushed with a little of the sugar"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 780, "shape": "braided rope coiled into a round tin" },
-  "time": { "totalMin": 335, "activeMin": 35, "bulkMin": 120, "proofMin": 120, "bakeMin": 30, "overnight": false },
-  "bake": { "tempC": 150, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 780,
+    "shape": "braided rope coiled into a round tin"
+  },
+  "time": {
+    "totalMin": 335,
+    "activeMin": 35,
+    "bulkMin": 120,
+    "proofMin": 120,
+    "bakeMin": 30,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 150,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "spiced", "buttery", "fruity"],
-  "purposes": ["celebration", "holiday", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Mastic and the high sugar content keep it soft for several days, unusually long for a yeasted loaf." },
-  "equipment": ["stand-mixer", "loaf-pan"],
+  "flavors": [
+    "sweet",
+    "spiced",
+    "buttery",
+    "fruity"
+  ],
+  "purposes": [
+    "celebration",
+    "holiday",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Mastic and the high sugar content keep it soft for several days, unusually long for a yeasted loaf."
+  },
+  "equipment": [
+    "stand-mixer",
+    "loaf-pan"
+  ],
   "method": [
-    { "title": "Melt and cool", "summary": "Warm the milk with the sugar and butter until melted, then cool to lukewarm." },
-    { "title": "Bloom the yeast", "summary": "Whisk the yeast into the tepid water and let it turn foamy." },
-    { "title": "Flavor the flour", "summary": "Crush the mahlab and mastic together and stir them into the flour along with the salt and orange zest." },
-    { "title": "Mix the dough", "summary": "Whisk the eggs into the cooled milk mixture, combine with the yeast water, pour over the flour, and bring together into a rough dough." },
-    { "title": "Knead", "summary": "Knead with a dough hook for about 15 minutes until smooth, glossy and elastic." },
-    { "title": "First rise", "summary": "Cover and let the dough double in size, roughly 2 hours." },
-    { "title": "Braid, coil and hide the coin", "summary": "Divide into three ropes, braid them, then coil the braid into a buttered tin, tucking a foil-wrapped coin into the underside of the dough. Proof again for about 2 hours." },
-    { "title": "Bake and finish", "summary": "Bake at a gentle 150°C for about 30 minutes until deep gold and hollow-sounding, then cool fully before glazing and scattering with toasted almonds." }
+    {
+      "title": "Melt and cool",
+      "summary": "Warm the milk with the sugar and butter until melted, then cool to lukewarm."
+    },
+    {
+      "title": "Bloom the yeast",
+      "summary": "Whisk the yeast into the tepid water and let it turn foamy."
+    },
+    {
+      "title": "Flavor the flour",
+      "summary": "Crush the mahlab and mastic together and stir them into the flour along with the salt and orange zest."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Whisk the eggs into the cooled milk mixture, combine with the yeast water, pour over the flour, and bring together into a rough dough."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead with a dough hook for about 15 minutes until smooth, glossy and elastic."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let the dough double in size, roughly 2 hours."
+    },
+    {
+      "title": "Braid, coil and hide the coin",
+      "summary": "Divide into three ropes, braid them, then coil the braid into a buttered tin, tucking a foil-wrapped coin into the underside of the dough. Proof again for about 2 hours."
+    },
+    {
+      "title": "Bake and finish",
+      "summary": "Bake at a gentle 150°C for about 30 minutes until deep gold and hollow-sounding, then cool fully before glazing and scattering with toasted almonds."
+    }
   ],
   "source": {
     "url": "https://www.mygreekdish.com/recipe/vasilopita-tsoureki-recipe-greek-new-years-bread-vasilopita-bread/",
@@ -71,5 +187,10 @@
     "retrieved": "2026-07-17",
     "adaptation": "Salt raised slightly from the source's 1/2 tsp for balance. Coin custom and cake-variant note per Wikipedia's Vasilopita entry."
   },
-  "tags": ["new-year", "coin-bread", "tsoureki-style"]
+  "tags": [
+    "new-year",
+    "coin-bread",
+    "tsoureki-style"
+  ],
+  "doughType": "stiff"
 }

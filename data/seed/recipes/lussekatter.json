@@ -7,14 +7,22 @@
     "fr": "Lussekatter (brioches suédoises au safran)",
     "native": "Lussekatter"
   },
-  "aliases": ["lussebulle", "St. Lucia buns", "saffron buns"],
+  "aliases": [
+    "lussebulle",
+    "St. Lucia buns",
+    "saffron buns"
+  ],
   "description": {
     "en": "Golden S-curled buns scented with saffron and studded with raisin 'eyes,' baked across Sweden for St. Lucia Day on December 13th. Children in white robes and candle crowns carry trays of them at dawn processions marking the year's darkest morning.",
     "de": "Goldene, S-förmig gerollte Brötchen mit Safranduft und Rosinen als 'Augen', gebacken in ganz Schweden zum Luciatag am 13. Dezember. Kinder in weißen Gewändern und Kerzenkronen tragen sie bei Umzügen im Morgengrauen des dunkelsten Tages im Jahr.",
     "es": "Bollos dorados enrollados en forma de S, perfumados con azafrán y con pasas a modo de 'ojos', horneados en toda Suecia para el día de Santa Lucía, el 13 de diciembre. Niños con túnicas blancas y coronas de velas los llevan en procesión al amanecer.",
     "fr": "Petits pains dorés enroulés en S, parfumés au safran et marqués de raisins en guise d'yeux, cuits dans toute la Suède pour la Sainte-Lucie, le 13 décembre. Des enfants en robe blanche et couronne de bougies les portent lors des processions à l'aube."
   },
-  "origin": { "country": "SE", "region": "Sweden (also Norway and Denmark)", "note": "Named 'Lucia's cats' for their curled shape; the tradition blends the medieval St. Lucia light festival with early-20th-century saffron marketing by Swedish millers and bakers." },
+  "origin": {
+    "country": "SE",
+    "region": "Sweden (also Norway and Denmark)",
+    "note": "Named 'Lucia's cats' for their curled shape; the tradition blends the medieval St. Lucia light festival with early-20th-century saffron marketing by Swedish millers and bakers."
+  },
   "leaven": "yeast",
   "family": "roll",
   "formula": {
@@ -24,40 +32,149 @@
     "fatPct": 20,
     "yeastPct": 5,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 1000 },
-    { "key": "milk", "grams": 500, "note": "room temperature" },
-    { "key": "fresh-yeast", "grams": 50 },
-    { "key": "butter", "grams": 200, "note": "salted, softened" },
-    { "key": "sugar", "grams": 154, "note": "150 g in the dough, 4 g for grinding the saffron" },
-    { "key": "salt", "grams": 3, "note": "estimated from the salted butter; add a pinch more if using unsalted" },
-    { "label": { "en": "Saffron threads", "de": "Safranfäden", "es": "Hebras de azafrán", "fr": "Filaments de safran" }, "grams": 1.5, "note": "ground with sugar and steeped in 2 tbsp rum or brandy" },
-    { "key": "egg", "grams": 50, "note": "for egg wash" },
-    { "key": "raisins", "grams": 40, "note": "2 pressed into each bun" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 1000
+    },
+    {
+      "key": "milk",
+      "grams": 500,
+      "note": "room temperature"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 50
+    },
+    {
+      "key": "butter",
+      "grams": 200,
+      "note": "salted, softened"
+    },
+    {
+      "key": "sugar",
+      "grams": 154,
+      "note": "150 g in the dough, 4 g for grinding the saffron"
+    },
+    {
+      "key": "salt",
+      "grams": 3,
+      "note": "estimated from the salted butter; add a pinch more if using unsalted"
+    },
+    {
+      "label": {
+        "en": "Saffron threads",
+        "de": "Safranfäden",
+        "es": "Hebras de azafrán",
+        "fr": "Filaments de safran"
+      },
+      "grams": 1.5,
+      "note": "ground with sugar and steeped in 2 tbsp rum or brandy"
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "for egg wash"
+    },
+    {
+      "key": "raisins",
+      "grams": 40,
+      "note": "2 pressed into each bun"
+    }
   ],
-  "yield": { "count": 40, "pieceGrams": 50, "shape": "S-curled bun (\"Lucia's cat\") with a raisin in each spiral" },
-  "time": { "totalMin": 160, "activeMin": 45, "bulkMin": 60, "proofMin": 30, "bakeMin": 8, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 40,
+    "pieceGrams": 50,
+    "shape": "S-curled bun (\"Lucia's cat\") with a raisin in each spiral"
+  },
+  "time": {
+    "totalMin": 160,
+    "activeMin": 45,
+    "bulkMin": 60,
+    "proofMin": 30,
+    "bakeMin": 8,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["spiced", "sweet", "buttery", "rich"],
-  "purposes": ["holiday", "celebration", "breakfast", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day they're baked while the crumb is still pillowy; freeze extras and refresh in a warm oven." },
-  "equipment": ["stand-mixer", "sheet-pan"],
-  "method": [
-    { "title": "Bloom the saffron", "summary": "Grind the saffron threads with a little sugar, then steep in warm rum or brandy while you start the dough." },
-    { "title": "Mix the dough", "summary": "Crumble the yeast into lukewarm milk, then work in softened butter, sugar, the saffron infusion, salt and flour into a smooth, elastic dough." },
-    { "title": "First rise", "summary": "Cover and let the dough double, about 1 hour in a warm spot." },
-    { "title": "Shape the S-curls", "summary": "Divide into small pieces, roll each into a 20 cm rope, then curl both ends inward in opposite directions to form a tight S. Press a raisin into the center of each spiral." },
-    { "title": "Second rise", "summary": "Let the shaped buns puff for about 30 minutes." },
-    { "title": "Bake", "summary": "Brush with beaten egg and bake at 200°C for about 8 minutes until golden." }
+  "flavors": [
+    "spiced",
+    "sweet",
+    "buttery",
+    "rich"
   ],
-  "source": { "url": "https://alwaysusebutter.com/lussekatter-traditional-swedish-saffron-buns/", "site": "Always Use Butter", "retrieved": "2026-07-17", "adaptation": "Salt estimated from the salted butter the source specifies, since no separate salt is listed; the rum soak and egg wash are treated as minor additions outside the headline formula." },
-  "tags": ["st-lucia", "saffron", "advent"]
+  "purposes": [
+    "holiday",
+    "celebration",
+    "breakfast",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best the day they're baked while the crumb is still pillowy; freeze extras and refresh in a warm oven."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom the saffron",
+      "summary": "Grind the saffron threads with a little sugar, then steep in warm rum or brandy while you start the dough."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Crumble the yeast into lukewarm milk, then work in softened butter, sugar, the saffron infusion, salt and flour into a smooth, elastic dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let the dough double, about 1 hour in a warm spot."
+    },
+    {
+      "title": "Shape the S-curls",
+      "summary": "Divide into small pieces, roll each into a 20 cm rope, then curl both ends inward in opposite directions to form a tight S. Press a raisin into the center of each spiral."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Let the shaped buns puff for about 30 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Brush with beaten egg and bake at 200°C for about 8 minutes until golden."
+    }
+  ],
+  "source": {
+    "url": "https://alwaysusebutter.com/lussekatter-traditional-swedish-saffron-buns/",
+    "site": "Always Use Butter",
+    "retrieved": "2026-07-17",
+    "adaptation": "Salt estimated from the salted butter the source specifies, since no separate salt is listed; the rum soak and egg wash are treated as minor additions outside the headline formula."
+  },
+  "tags": [
+    "st-lucia",
+    "saffron",
+    "advent"
+  ],
+  "doughType": "dough"
 }

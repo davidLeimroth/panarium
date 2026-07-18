@@ -7,7 +7,11 @@
     "fr": "Pain de Noël norvégien (Julekake)",
     "native": "Julekake"
   },
-  "aliases": ["julekage", "julebrød", "Norwegian Christmas bread"],
+  "aliases": [
+    "julekage",
+    "julebrød",
+    "Norwegian Christmas bread"
+  ],
   "description": {
     "en": "Norway's Christmas loaf, a cardamom-scented dough studded with raisins and candied peel. Baked through Advent and sliced for kaffemat with coffee, butter or brunost - Sweden and Denmark claim close cousins of their own.",
     "de": "Norwegens Weihnachtsbrot: ein kardamomduftender Hefeteig gespickt mit Rosinen und kandierten Früchten. In der Adventszeit gebacken, wird es zum Kaffee mit Butter oder Braunkäse serviert - auch Schweden und Dänemark haben eigene Varianten.",
@@ -16,7 +20,6 @@
   },
   "origin": {
     "country": "NO",
-    "region": "Norway",
     "note": "Also spelled julekage or julebrød; close cousins are claimed by Sweden and Denmark. Traditionally served as kaffemat, a coffee-table treat, throughout the Christmas season."
   },
   "leaven": "yeast",
@@ -27,42 +30,140 @@
     "sugarPct": 17.6,
     "fatPct": 17.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 850 },
-    { "key": "milk", "grams": 500 },
-    { "key": "sugar", "grams": 150 },
-    { "key": "butter", "grams": 150, "note": "cold, cut into pieces" },
-    { "key": "active-dry-yeast", "grams": 14 },
-    { "key": "egg", "grams": 50 },
-    { "key": "salt", "grams": 15 },
-    { "key": "cardamom", "grams": 4, "note": "freshly ground" },
-    { "key": "raisins", "grams": 150 },
-    { "key": "candied-citrus", "grams": 100, "note": "finely diced candied peel (sukat)" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 850
+    },
+    {
+      "key": "milk",
+      "grams": 500
+    },
+    {
+      "key": "sugar",
+      "grams": 150
+    },
+    {
+      "key": "butter",
+      "grams": 150,
+      "note": "cold, cut into pieces"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 14
+    },
+    {
+      "key": "egg",
+      "grams": 50
+    },
+    {
+      "key": "salt",
+      "grams": 15
+    },
+    {
+      "key": "cardamom",
+      "grams": 4,
+      "note": "freshly ground"
+    },
+    {
+      "key": "raisins",
+      "grams": 150
+    },
+    {
+      "key": "candied-citrus",
+      "grams": 100,
+      "note": "finely diced candied peel (sukat)"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 870, "shape": "round loaf" },
-  "time": { "totalMin": 175, "activeMin": 30, "bulkMin": 45, "proofMin": 30, "bakeMin": 38, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 870,
+    "shape": "round loaf"
+  },
+  "time": {
+    "totalMin": 175,
+    "activeMin": 30,
+    "bulkMin": 45,
+    "proofMin": 30,
+    "bakeMin": 38,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "spiced", "fruity", "buttery"],
-  "purposes": ["celebration", "holiday", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Stays tender a few days wrapped; delicious toasted with butter once a day or two old." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "sweet",
+    "spiced",
+    "fruity",
+    "buttery"
+  ],
+  "purposes": [
+    "celebration",
+    "holiday",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Stays tender a few days wrapped; delicious toasted with butter once a day or two old."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Scald and cool the milk", "summary": "Heat the milk with the cardamom until steaming, then cool to lukewarm and whisk in the yeast." },
-    { "title": "Mix the dough", "summary": "Combine the milk mixture with the sugar, egg and about half the flour in a stand mixer; knead on low speed, adding the rest of the flour, for about 8 minutes." },
-    { "title": "Work in the butter", "summary": "Add the cold butter a piece at a time, kneading on medium speed for another 5 minutes until the dough turns smooth and elastic." },
-    { "title": "Fold in the fruit", "summary": "Knead in the raisins and candied peel by hand until they are evenly distributed through the dough." },
-    { "title": "First rise", "summary": "Cover and let rise in a warm spot until doubled, about 45 minutes." },
-    { "title": "Shape", "summary": "Divide the dough in two, shape each half into a round loaf, score the tops, and set on a lined sheet for a second rise of about 30 minutes." },
-    { "title": "Bake", "summary": "Brush with beaten egg and bake at 180°C for 35-40 minutes until deep golden and hollow-sounding when tapped." },
-    { "title": "Serve", "summary": "Cool before slicing, then serve as kaffemat with butter, brown cheese or jam alongside coffee." }
+    {
+      "title": "Scald and cool the milk",
+      "summary": "Heat the milk with the cardamom until steaming, then cool to lukewarm and whisk in the yeast."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the milk mixture with the sugar, egg and about half the flour in a stand mixer; knead on low speed, adding the rest of the flour, for about 8 minutes."
+    },
+    {
+      "title": "Work in the butter",
+      "summary": "Add the cold butter a piece at a time, kneading on medium speed for another 5 minutes until the dough turns smooth and elastic."
+    },
+    {
+      "title": "Fold in the fruit",
+      "summary": "Knead in the raisins and candied peel by hand until they are evenly distributed through the dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise in a warm spot until doubled, about 45 minutes."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide the dough in two, shape each half into a round loaf, score the tops, and set on a lined sheet for a second rise of about 30 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Brush with beaten egg and bake at 180°C for 35-40 minutes until deep golden and hollow-sounding when tapped."
+    },
+    {
+      "title": "Serve",
+      "summary": "Cool before slicing, then serve as kaffemat with butter, brown cheese or jam alongside coffee."
+    }
   ],
   "source": {
     "url": "https://northwildkitchen.com/julekake-norwegian-christmas-bread/",
@@ -70,5 +171,10 @@
     "retrieved": "2026-07-17",
     "adaptation": "Salt, not given by this source, was set to about 1.8% of the flour weight, matching the proportion used in a second Norwegian julekake recipe; all other ratios are this source's own."
   },
-  "tags": ["christmas", "cardamom", "candied-peel"]
+  "tags": [
+    "christmas",
+    "cardamom",
+    "candied-peel"
+  ],
+  "doughType": "dough"
 }

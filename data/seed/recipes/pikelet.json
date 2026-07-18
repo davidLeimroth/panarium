@@ -6,7 +6,9 @@
     "es": "Pikelet (crumpet plano inglés)",
     "fr": "Pikelet (crumpet plat anglais)"
   },
-  "aliases": ["English pikelet"],
+  "aliases": [
+    "English pikelet"
+  ],
   "description": {
     "en": "A thinner, ringless cousin of the crumpet: the same yeasted batter, but spooned freeform onto the griddle so it spreads thin and irregular instead of holding a deep, ring-molded shape. Griddled fast and eaten warm with butter.",
     "de": "Ein dünnerer, ringloser Verwandter des Crumpets: derselbe hefegetriebene Teig, aber freihändig auf die Platte gelöffelt, sodass er dünn und unregelmäßig zerläuft statt in einer tiefen Ringform zu bleiben. Schnell gebacken, warm mit Butter gegessen.",
@@ -26,40 +28,138 @@
     "sugarPct": 0.9,
     "yeastPct": 1.3,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 125, "note": "strong bread flour" },
-    { "key": "flour:wheat-white", "grams": 100, "note": "plain flour" },
-    { "key": "instant-yeast", "grams": 3, "note": "fast-action dried yeast" },
-    { "key": "salt", "grams": 4.5 },
-    { "key": "sugar", "grams": 2 },
-    { "key": "baking-soda", "grams": 2.5 },
-    { "key": "milk", "grams": 150 },
-    { "key": "water", "grams": 150, "note": "warm" },
-    { "key": "butter", "grams": 5, "note": "for greasing the griddle" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 125,
+      "note": "strong bread flour"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 100,
+      "note": "plain flour"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3,
+      "note": "fast-action dried yeast"
+    },
+    {
+      "key": "salt",
+      "grams": 4.5
+    },
+    {
+      "key": "sugar",
+      "grams": 2
+    },
+    {
+      "key": "baking-soda",
+      "grams": 2.5
+    },
+    {
+      "key": "milk",
+      "grams": 150
+    },
+    {
+      "key": "water",
+      "grams": 150,
+      "note": "warm"
+    },
+    {
+      "key": "butter",
+      "grams": 5,
+      "note": "for greasing the griddle"
+    }
   ],
-  "yield": { "count": 12, "pieceGrams": 40, "shape": "thin, irregular griddle rounds, wider than a ringed crumpet" },
-  "time": { "totalMin": 120, "activeMin": 15, "bulkMin": 90, "bakeMin": 20, "overnight": false },
-  "bake": { "tempC": 190, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 12,
+    "pieceGrams": 40,
+    "shape": "thin, irregular griddle rounds, wider than a ringed crumpet"
+  },
+  "time": {
+    "totalMin": 120,
+    "activeMin": 15,
+    "bulkMin": 90,
+    "bakeMin": 20,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 2,
   "crumb": "open",
   "crust": "soft",
-  "flavors": ["mild", "wheaty", "savory", "yeasty"],
-  "purposes": ["breakfast", "snack", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fresh and warm, or lightly toasted the next day like a crumpet." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix batter start", "summary": "Combine part of the warm milk and water with the flours, sugar and yeast, and whisk to a smooth paste." },
-    { "title": "Loosen", "summary": "Gradually whisk in the rest of the liquid until the batter is smooth and pourable." },
-    { "title": "Ferment", "summary": "Cover and rest at room temperature until bubbly, 1 to 2 hours." },
-    { "title": "Finish batter", "summary": "Stir in the salt and sieved bicarbonate of soda just before cooking." },
-    { "title": "Griddle", "summary": "Lightly grease a hot griddle or frying pan and spoon on the batter freeform, without rings, cooking a few at a time." },
-    { "title": "Cook & flip", "summary": "Cook undisturbed until the surface dries and bubbles, about 4-5 minutes, then flip briefly to finish, 1-2 minutes more." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "savory",
+    "yeasty"
   ],
-  "source": { "url": "https://www.littlesugarsnaps.com/pikelets/", "site": "Little Sugar Snaps", "retrieved": "2026-07-18", "adaptation": "Plain version chosen; the source's optional currant fruit-pikelet variant is omitted here to keep this entry distinct from the atlas's other dried-fruit breads." },
-  "tags": ["griddle-bread", "yorkshire"]
+  "purposes": [
+    "breakfast",
+    "snack",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best fresh and warm, or lightly toasted the next day like a crumpet."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix batter start",
+      "summary": "Combine part of the warm milk and water with the flours, sugar and yeast, and whisk to a smooth paste."
+    },
+    {
+      "title": "Loosen",
+      "summary": "Gradually whisk in the rest of the liquid until the batter is smooth and pourable."
+    },
+    {
+      "title": "Ferment",
+      "summary": "Cover and rest at room temperature until bubbly, 1 to 2 hours."
+    },
+    {
+      "title": "Finish batter",
+      "summary": "Stir in the salt and sieved bicarbonate of soda just before cooking."
+    },
+    {
+      "title": "Griddle",
+      "summary": "Lightly grease a hot griddle or frying pan and spoon on the batter freeform, without rings, cooking a few at a time."
+    },
+    {
+      "title": "Cook & flip",
+      "summary": "Cook undisturbed until the surface dries and bubbles, about 4-5 minutes, then flip briefly to finish, 1-2 minutes more."
+    }
+  ],
+  "source": {
+    "url": "https://www.littlesugarsnaps.com/pikelets/",
+    "site": "Little Sugar Snaps",
+    "retrieved": "2026-07-18",
+    "adaptation": "Plain version chosen; the source's optional currant fruit-pikelet variant is omitted here to keep this entry distinct from the atlas's other dried-fruit breads."
+  },
+  "tags": [
+    "griddle-bread",
+    "yorkshire"
+  ],
+  "doughType": "batter"
 }

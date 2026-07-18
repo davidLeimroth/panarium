@@ -7,14 +7,22 @@
     "fr": "Kulcha (pain plat levé du Pendjab)",
     "native": "कुलचा"
   },
-  "aliases": ["butter kulcha", "amritsari kulcha", "kulcha naan"],
+  "aliases": [
+    "butter kulcha",
+    "amritsari kulcha",
+    "kulcha naan"
+  ],
   "description": {
     "en": "A soft North Indian flatbread leavened with yogurt, baking soda and baking powder instead of yeast, the trait that sets it apart from naan. Cooked on a hot griddle until spotted brown, brushed with butter, and torn to scoop chickpea curry.",
     "de": "Ein weiches nordindisches Fladenbrot, das mit Joghurt, Natron und Backpulver statt mit Hefe gesäuert wird, der Hauptunterschied zu Naan. Auf heißem Blech gebacken, bis braune Flecken entstehen, mit Butter bestrichen und zum Kichererbsen-Curry gerissen.",
     "es": "Un pan plano suave del norte de India, leudado con yogur, bicarbonato y polvo de hornear en vez de levadura, lo que lo distingue del naan. Se cocina en plancha caliente hasta dorarse en manchas, se unta con mantequilla y se usa para mojar curry de garbanzos.",
     "fr": "Un pain plat moelleux du nord de l'Inde, levé au yaourt, au bicarbonate et à la levure chimique plutôt qu'à la levure boulangère, ce qui le distingue du naan. Cuit sur plaque brûlante jusqu'à brunir par taches, badigeonné de beurre, il sert à saucer le curry de pois chiches."
   },
-  "origin": { "country": "IN", "region": "Punjab (Amritsar), North India", "note": "Kulcha is a Punjabi original, distinct from naan's Persian tandoor lineage even though both bake in similar ovens today." },
+  "origin": {
+    "country": "IN",
+    "region": "Punjab (Amritsar), North India",
+    "note": "Kulcha is a Punjabi original, distinct from naan's Persian tandoor lineage even though both bake in similar ovens today."
+  },
   "leaven": "chemical",
   "family": "flatbread",
   "formula": {
@@ -23,39 +31,133 @@
     "sugarPct": 2.9,
     "fatPct": 16.1,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 280, "note": "all-purpose flour (maida)" },
-    { "key": "yogurt", "grams": 120, "note": "full-fat, room temperature" },
-    { "key": "milk", "grams": 60, "note": "warm" },
-    { "key": "vegetable-oil", "grams": 30 },
-    { "key": "sugar", "grams": 8 },
-    { "key": "baking-powder", "grams": 4 },
-    { "key": "baking-soda", "grams": 1.5 },
-    { "key": "salt", "grams": 4 },
-    { "key": "butter", "grams": 15, "note": "melted, brushed on after cooking" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 280,
+      "note": "all-purpose flour (maida)"
+    },
+    {
+      "key": "yogurt",
+      "grams": 120,
+      "note": "full-fat, room temperature"
+    },
+    {
+      "key": "milk",
+      "grams": 60,
+      "note": "warm"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 30
+    },
+    {
+      "key": "sugar",
+      "grams": 8
+    },
+    {
+      "key": "baking-powder",
+      "grams": 4
+    },
+    {
+      "key": "baking-soda",
+      "grams": 1.5
+    },
+    {
+      "key": "salt",
+      "grams": 4
+    },
+    {
+      "key": "butter",
+      "grams": 15,
+      "note": "melted, brushed on after cooking"
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 85, "shape": "6 in (15 cm) disc" },
-  "time": { "totalMin": 80, "activeMin": 35, "proofMin": 20, "bakeMin": 24, "overnight": false },
-  "bake": { "tempC": 230, "steam": false, "vessel": "skillet" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 85,
+    "shape": "6 in (15 cm) disc"
+  },
+  "time": {
+    "totalMin": 80,
+    "activeMin": 35,
+    "proofMin": 20,
+    "bakeMin": 24,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": false,
+    "vessel": "skillet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["tangy", "buttery", "mild", "savory"],
-  "purposes": ["street-food", "side", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best eaten hot off the tawa; reheat on a dry pan. Uncooked dough balls freeze well between parchment." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix dough", "summary": "Whisk flour with baking soda, baking powder, sugar and salt, then work in yogurt, oil and warm milk to a soft, smooth dough; knead about 7 minutes." },
-    { "title": "Rest", "summary": "Cover and rest about 20 minutes at room temperature so the chemical leaveners get to work and gluten relaxes." },
-    { "title": "Divide and shape", "summary": "Divide into 6 balls and roll each into a 6-inch disc, keeping some thickness for a soft bite." },
-    { "title": "Cook", "summary": "Lay on a hot, dry griddle; cook until bubbles rise on the surface, flip, and cook the other side until brown spots appear." },
-    { "title": "Finish", "summary": "Brush hot off the pan with melted butter and serve immediately, torn by hand, with a chickpea or lentil curry." }
+  "flavors": [
+    "tangy",
+    "buttery",
+    "mild",
+    "savory"
   ],
-  "source": { "url": "https://www.indianhealthyrecipes.com/kulcha-recipe/", "site": "Swasthi's Recipes", "retrieved": "2026-07-18", "adaptation": "Simplified to a plain butter kulcha; source's potato-paneer stuffing omitted for a clean bread entry. Hydration treats yogurt like milk at ~88% water per atlas convention." },
-  "tags": ["punjabi", "tawa-bread"]
+  "purposes": [
+    "street-food",
+    "side",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best eaten hot off the tawa; reheat on a dry pan. Uncooked dough balls freeze well between parchment."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Whisk flour with baking soda, baking powder, sugar and salt, then work in yogurt, oil and warm milk to a soft, smooth dough; knead about 7 minutes."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cover and rest about 20 minutes at room temperature so the chemical leaveners get to work and gluten relaxes."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Divide into 6 balls and roll each into a 6-inch disc, keeping some thickness for a soft bite."
+    },
+    {
+      "title": "Cook",
+      "summary": "Lay on a hot, dry griddle; cook until bubbles rise on the surface, flip, and cook the other side until brown spots appear."
+    },
+    {
+      "title": "Finish",
+      "summary": "Brush hot off the pan with melted butter and serve immediately, torn by hand, with a chickpea or lentil curry."
+    }
+  ],
+  "source": {
+    "url": "https://www.indianhealthyrecipes.com/kulcha-recipe/",
+    "site": "Swasthi's Recipes",
+    "retrieved": "2026-07-18",
+    "adaptation": "Simplified to a plain butter kulcha; source's potato-paneer stuffing omitted for a clean bread entry. Hydration treats yogurt like milk at ~88% water per atlas convention."
+  },
+  "tags": [
+    "punjabi",
+    "tawa-bread"
+  ],
+  "doughType": "dough"
 }

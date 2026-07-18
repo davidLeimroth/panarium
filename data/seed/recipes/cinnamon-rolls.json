@@ -6,7 +6,11 @@
     "es": "Rollos de canela (estilo americano)",
     "fr": "Rouleaux à la cannelle (façon américaine)"
   },
-  "aliases": ["cinnamon buns", "American cinnamon rolls", "iced cinnamon rolls"],
+  "aliases": [
+    "cinnamon buns",
+    "American cinnamon rolls",
+    "iced cinnamon rolls"
+  ],
   "description": {
     "en": "A big, softly spiraled sweet roll swirled with cinnamon and brown sugar, usually finished with a thick cream cheese icing. Descended from Scandinavian immigrant baking, it became an American bakery icon for weekend mornings and Christmas Day.",
     "de": "Eine große, weich aufgerollte süße Schnecke mit Zimt-Zucker-Füllung, meist dick mit Frischkäse-Guss bestrichen. Von skandinavischen Einwanderern abstammend, wurde sie zur amerikanischen Bäckerei-Ikone für Wochenendmorgen und den Weihnachtstag.",
@@ -21,51 +25,174 @@
   "leaven": "yeast",
   "family": "roll",
   "formula": {
-    "hydrationPct": 55.0,
+    "hydrationPct": 55,
     "saltPct": 1.75,
     "sugarPct": 17.5,
     "fatPct": 20.2,
     "yeastPct": 2.1,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 570, "note": "bread or all-purpose flour, for the dough" },
-    { "key": "milk", "grams": 250, "note": "warm, for the dough" },
-    { "key": "sugar", "grams": 100, "note": "for the dough" },
-    { "key": "egg", "grams": 100, "note": "2 large eggs" },
-    { "key": "butter", "grams": 115, "note": "softened, for the dough" },
-    { "key": "salt", "grams": 10 },
-    { "key": "instant-yeast", "grams": 12 },
-    { "key": "butter", "grams": 115, "note": "softened, for the filling" },
-    { "key": "brown-sugar", "grams": 130, "note": "packed, for the filling" },
-    { "key": "cinnamon", "grams": 10, "note": "ground, for the filling" },
-    { "label": { "en": "cream cheese", "de": "Frischkäse", "es": "queso crema", "fr": "fromage à la crème" }, "grams": 115, "note": "softened, for the icing" },
-    { "key": "sugar", "grams": 120, "note": "powdered/confectioners', for the icing" },
-    { "key": "milk", "grams": 15, "note": "or heavy cream, for the icing" },
-    { "key": "vanilla", "grams": 2, "note": "for the icing" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 570,
+      "note": "bread or all-purpose flour, for the dough"
+    },
+    {
+      "key": "milk",
+      "grams": 250,
+      "note": "warm, for the dough"
+    },
+    {
+      "key": "sugar",
+      "grams": 100,
+      "note": "for the dough"
+    },
+    {
+      "key": "egg",
+      "grams": 100,
+      "note": "2 large eggs"
+    },
+    {
+      "key": "butter",
+      "grams": 115,
+      "note": "softened, for the dough"
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 12
+    },
+    {
+      "key": "butter",
+      "grams": 115,
+      "note": "softened, for the filling"
+    },
+    {
+      "key": "brown-sugar",
+      "grams": 130,
+      "note": "packed, for the filling"
+    },
+    {
+      "key": "cinnamon",
+      "grams": 10,
+      "note": "ground, for the filling"
+    },
+    {
+      "label": {
+        "en": "cream cheese",
+        "de": "Frischkäse",
+        "es": "queso crema",
+        "fr": "fromage à la crème"
+      },
+      "grams": 115,
+      "note": "softened, for the icing"
+    },
+    {
+      "key": "sugar",
+      "grams": 120,
+      "note": "powdered/confectioners', for the icing"
+    },
+    {
+      "key": "milk",
+      "grams": 15,
+      "note": "or heavy cream, for the icing"
+    },
+    {
+      "key": "vanilla",
+      "grams": 2,
+      "note": "for the icing"
+    }
   ],
-  "yield": { "count": 12, "pieceGrams": 118, "shape": "spiral-cut roll, iced" },
-  "time": { "totalMin": 870, "activeMin": 40, "bulkMin": 105, "proofMin": 690, "bakeMin": 27, "overnight": true },
-  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 12,
+    "pieceGrams": 118,
+    "shape": "spiral-cut roll, iced"
+  },
+  "time": {
+    "totalMin": 870,
+    "activeMin": 40,
+    "bulkMin": 105,
+    "proofMin": 690,
+    "bakeMin": 27,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "spiced", "rich", "caramel"],
-  "purposes": ["breakfast", "celebration", "holiday", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Best day one; the cream cheese icing means leftovers should be refrigerated rather than left out." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "sweet",
+    "buttery",
+    "spiced",
+    "rich",
+    "caramel"
+  ],
+  "purposes": [
+    "breakfast",
+    "celebration",
+    "holiday",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Best day one; the cream cheese icing means leftovers should be refrigerated rather than left out."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Bloom the yeast", "summary": "Warm the milk, stir in a spoonful of the sugar and the yeast, and let it sit until foamy, about 5-10 minutes." },
-    { "title": "Mix and knead", "summary": "Beat in the rest of the sugar, the butter, eggs and salt, then work in the flour and knead until you have a smooth, elastic dough." },
-    { "title": "First rise", "summary": "Cover and let the dough double in size at room temperature, roughly 1.5-2 hours." },
-    { "title": "Fill and roll", "summary": "Roll the dough into a large rectangle, spread with soft butter, scatter the cinnamon-brown-sugar filling to the edges, then roll into a tight log and slice into 12 rounds." },
-    { "title": "Shape, then chill or proof", "summary": "Arrange the rolls in a baking dish. Either let them puff for about an hour at room temperature, or cover and refrigerate overnight for a slow rise, bringing them back to room temperature before baking." },
-    { "title": "Bake", "summary": "Bake at around 177°C (350°F) for 25-28 minutes until golden, tenting loosely with foil if they colour too quickly." },
-    { "title": "Ice and serve", "summary": "Beat the cream cheese, butter, powdered sugar, milk and vanilla into a smooth icing and spread it over the rolls while still warm." }
+    {
+      "title": "Bloom the yeast",
+      "summary": "Warm the milk, stir in a spoonful of the sugar and the yeast, and let it sit until foamy, about 5-10 minutes."
+    },
+    {
+      "title": "Mix and knead",
+      "summary": "Beat in the rest of the sugar, the butter, eggs and salt, then work in the flour and knead until you have a smooth, elastic dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let the dough double in size at room temperature, roughly 1.5-2 hours."
+    },
+    {
+      "title": "Fill and roll",
+      "summary": "Roll the dough into a large rectangle, spread with soft butter, scatter the cinnamon-brown-sugar filling to the edges, then roll into a tight log and slice into 12 rounds."
+    },
+    {
+      "title": "Shape, then chill or proof",
+      "summary": "Arrange the rolls in a baking dish. Either let them puff for about an hour at room temperature, or cover and refrigerate overnight for a slow rise, bringing them back to room temperature before baking."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at around 177°C (350°F) for 25-28 minutes until golden, tenting loosely with foil if they colour too quickly."
+    },
+    {
+      "title": "Ice and serve",
+      "summary": "Beat the cream cheese, butter, powdered sugar, milk and vanilla into a smooth icing and spread it over the rolls while still warm."
+    }
   ],
   "source": {
     "url": "https://sallysbakingaddiction.com/overnight-cinnamon-rolls/",
@@ -73,5 +200,10 @@
     "retrieved": "2026-07-17",
     "adaptation": "formula.* covers the dough only; the cinnamon-sugar filling and cream cheese icing are itemized but excluded from the percentages. Salt nudged up slightly from source for balance."
   },
-  "tags": ["breakfast-pastry", "americana", "iced-bun"]
+  "tags": [
+    "breakfast-pastry",
+    "americana",
+    "iced-bun"
+  ],
+  "doughType": "dough"
 }

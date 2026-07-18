@@ -6,7 +6,11 @@
     "es": "Potato farl (pan de patata norirlandés)",
     "fr": "Potato farl (pain de pomme de terre nord-irlandais)"
   },
-  "aliases": ["potato bread", "potato cake", "tattie bread"],
+  "aliases": [
+    "potato bread",
+    "potato cake",
+    "tattie bread"
+  ],
   "description": {
     "en": "Leftover mashed potato worked into a little flour and butter, rolled flat, cut into wedges and dry-fried until spotted golden. No oven, no yeast, no waste. Central to the Ulster Fry alongside soda farl, bacon and eggs.",
     "de": "Übrig gebliebenes Kartoffelpüree wird mit etwas Mehl und Butter verknetet, flach ausgerollt, in Ecken geschnitten und trocken gebraten, bis es golden gefleckt ist. Kein Ofen, keine Hefe, keine Verschwendung. Fester Bestandteil des Ulster Fry neben Soda Farl, Speck und Eiern.",
@@ -25,36 +29,124 @@
     "saltPct": 1.2,
     "fatPct": 7.5,
     "flours": [
-      { "type": "potato", "pct": 85 },
-      { "type": "wheat-white", "pct": 15 }
+      {
+        "type": "potato",
+        "pct": 85
+      },
+      {
+        "type": "wheat-white",
+        "pct": 15
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "mashed-potato", "grams": 650, "note": "riced or well-mashed, still warm" },
-    { "key": "flour:wheat-white", "grams": 115 },
-    { "key": "salt", "grams": 9 },
-    { "label": { "en": "black pepper", "de": "schwarzer Pfeffer", "es": "pimienta negra", "fr": "poivre noir" }, "grams": 1 },
-    { "key": "butter", "grams": 57, "note": "divided between the dough and the frying pan" }
+    {
+      "key": "mashed-potato",
+      "grams": 650,
+      "note": "riced or well-mashed, still warm"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 115
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    },
+    {
+      "label": {
+        "en": "black pepper",
+        "de": "schwarzer Pfeffer",
+        "es": "pimienta negra",
+        "fr": "poivre noir"
+      },
+      "grams": 1
+    },
+    {
+      "key": "butter",
+      "grams": 57,
+      "note": "divided between the dough and the frying pan"
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 125, "shape": "wedges cut from one 8-inch round" },
-  "time": { "totalMin": 40, "activeMin": 30, "bakeMin": 10, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "skillet" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 125,
+    "shape": "wedges cut from one 8-inch round"
+  },
+  "time": {
+    "totalMin": 40,
+    "activeMin": 30,
+    "bakeMin": 10,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "skillet"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["earthy", "savory", "buttery", "mild"],
-  "purposes": ["breakfast", "everyday", "side"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fried fresh and hot; leftovers reheat well in a dry pan or under the grill for a fry-up the next day." },
-  "equipment": ["skillet"],
-  "method": [
-    { "title": "Boil & rice", "summary": "Boil peeled potato chunks until tender, drain well, and press through a sieve or ricer while still hot for a light, lump-free mash." },
-    { "title": "Work in flour", "summary": "Stir in half the butter, the salt and pepper, then work in the flour just until a soft dough comes together." },
-    { "title": "Roll & cut", "summary": "Pat the dough into an 8-inch disc on a floured surface and cut into wedges." },
-    { "title": "Fry", "summary": "Melt the remaining butter in a hot, dry frying pan and fry the wedges in batches until golden-brown and spotted, about 5 minutes a side." },
-    { "title": "Serve hot", "summary": "Serve straight from the pan as part of a fry-up, or split and fry again the next day." }
+  "flavors": [
+    "earthy",
+    "savory",
+    "buttery",
+    "mild"
   ],
-  "source": { "url": "https://www.biggerbolderbaking.com/authentic-irish-potato-farls/", "site": "Bigger Bolder Baking", "author": "Gemma Stafford", "retrieved": "2026-07-18", "adaptation": "Uses no chemical leavener, relying on potato and pan heat alone. Potato treated as the primary flour per baker's-percentage convention (as with lefse); hydration reflects only the added butter." },
-  "tags": ["ulster-fry", "potato-bread"]
+  "purposes": [
+    "breakfast",
+    "everyday",
+    "side"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best fried fresh and hot; leftovers reheat well in a dry pan or under the grill for a fry-up the next day."
+  },
+  "equipment": [
+    "skillet"
+  ],
+  "method": [
+    {
+      "title": "Boil & rice",
+      "summary": "Boil peeled potato chunks until tender, drain well, and press through a sieve or ricer while still hot for a light, lump-free mash."
+    },
+    {
+      "title": "Work in flour",
+      "summary": "Stir in half the butter, the salt and pepper, then work in the flour just until a soft dough comes together."
+    },
+    {
+      "title": "Roll & cut",
+      "summary": "Pat the dough into an 8-inch disc on a floured surface and cut into wedges."
+    },
+    {
+      "title": "Fry",
+      "summary": "Melt the remaining butter in a hot, dry frying pan and fry the wedges in batches until golden-brown and spotted, about 5 minutes a side."
+    },
+    {
+      "title": "Serve hot",
+      "summary": "Serve straight from the pan as part of a fry-up, or split and fry again the next day."
+    }
+  ],
+  "source": {
+    "url": "https://www.biggerbolderbaking.com/authentic-irish-potato-farls/",
+    "site": "Bigger Bolder Baking",
+    "author": "Gemma Stafford",
+    "retrieved": "2026-07-18",
+    "adaptation": "Uses no chemical leavener, relying on potato and pan heat alone. Potato treated as the primary flour per baker's-percentage convention (as with lefse); hydration reflects only the added butter."
+  },
+  "tags": [
+    "ulster-fry",
+    "potato-bread"
+  ],
+  "doughType": "stiff"
 }

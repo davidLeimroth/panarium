@@ -7,7 +7,11 @@
     "fr": "Pain sucré açorien (Pão Doce / Massa Sovada)",
     "native": "Massa Sovada"
   },
-  "aliases": ["Massa Sovada", "Holy Ghost bread", "Hawaiian sweet bread ancestor"],
+  "aliases": [
+    "Massa Sovada",
+    "Holy Ghost bread",
+    "Hawaiian sweet bread ancestor"
+  ],
   "description": {
     "en": "A pillowy, egg-gold Azorean round loaf, sweetened with sugar and lemon zest, baked for the Holy Ghost festivals that light up Azorean summers. Emigrants carried the dough to Hawaii, where it became the ancestor of Hawaiian sweet bread.",
     "de": "Ein locker-goldenes Azoren-Rundbrot mit Zucker und Zitronenschale, gebacken zu den Feiern des Heiligen Geistes, die den Sommer auf den Azoren prägen. Auswanderer brachten den Teig nach Hawaii, wo daraus das Hawaiian Sweet Bread wurde.",
@@ -27,42 +31,142 @@
     "sugarPct": 12.9,
     "fatPct": 19.3,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 700 },
-    { "key": "milk", "grams": 180, "note": "warmed" },
-    { "key": "egg", "grams": 200, "note": "about 4 large eggs" },
-    { "key": "butter", "grams": 135, "note": "softened" },
-    { "key": "sugar", "grams": 90 },
-    { "key": "water", "grams": 76, "note": "warm, for blooming the yeast" },
-    { "key": "salt", "grams": 11 },
-    { "key": "fresh-yeast", "grams": 20 },
-    { "key": "lemon-zest", "grams": 5, "note": "from about 1 lemon" },
-    { "key": "mashed-potato", "grams": 60, "note": "mashed sweet potato, a traditional Azorean addition" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 700
+    },
+    {
+      "key": "milk",
+      "grams": 180,
+      "note": "warmed"
+    },
+    {
+      "key": "egg",
+      "grams": 200,
+      "note": "about 4 large eggs"
+    },
+    {
+      "key": "butter",
+      "grams": 135,
+      "note": "softened"
+    },
+    {
+      "key": "sugar",
+      "grams": 90
+    },
+    {
+      "key": "water",
+      "grams": 76,
+      "note": "warm, for blooming the yeast"
+    },
+    {
+      "key": "salt",
+      "grams": 11
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 20
+    },
+    {
+      "key": "lemon-zest",
+      "grams": 5,
+      "note": "from about 1 lemon"
+    },
+    {
+      "key": "mashed-potato",
+      "grams": 60,
+      "note": "mashed sweet potato, a traditional Azorean addition"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1300, "shape": "large round loaf, egg-washed and often cross-scored" },
-  "time": { "totalMin": 420, "activeMin": 40, "bulkMin": 180, "proofMin": 90, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1300,
+    "shape": "large round loaf, egg-washed and often cross-scored"
+  },
+  "time": {
+    "totalMin": 420,
+    "activeMin": 40,
+    "bulkMin": 180,
+    "proofMin": 90,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "rich"],
-  "purposes": ["celebration", "holiday", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Best the day it's baked; toasts well or makes fine French toast from day two on." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "sweet",
+    "buttery",
+    "rich"
+  ],
+  "purposes": [
+    "celebration",
+    "holiday",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Best the day it's baked; toasts well or makes fine French toast from day two on."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Wake the yeast", "summary": "Dissolve the fresh yeast in the warm water with a pinch of the sugar and let it foam for about 10 minutes." },
-    { "title": "Build the dough", "summary": "Beat the eggs with the sugar and lemon zest until pale, then work in the flour, warmed milk and mashed sweet potato along with the yeast mixture." },
-    { "title": "Knead in butter and salt", "summary": "Knead well past the point the dough first comes together, then work in the softened butter and salt until the dough turns glossy, smooth and elastic - this bread wants a longer knead than a plain loaf." },
-    { "title": "Bulk rise", "summary": "Cover and let rise at room temperature until roughly doubled, about 3 hours." },
-    { "title": "Shape", "summary": "Deflate gently and shape into one large round loaf on a lined baking sheet." },
-    { "title": "Final proof", "summary": "Cover loosely and proof until visibly puffy, about 90 minutes." },
-    { "title": "Bake", "summary": "Brush with beaten egg, optionally score a shallow cross on top, and bake at 180°C for about 45 minutes until deeply golden." },
-    { "title": "Cool", "summary": "Cool completely on a rack before slicing; the crumb is tender and slightly stringy when pulled apart." }
+    {
+      "title": "Wake the yeast",
+      "summary": "Dissolve the fresh yeast in the warm water with a pinch of the sugar and let it foam for about 10 minutes."
+    },
+    {
+      "title": "Build the dough",
+      "summary": "Beat the eggs with the sugar and lemon zest until pale, then work in the flour, warmed milk and mashed sweet potato along with the yeast mixture."
+    },
+    {
+      "title": "Knead in butter and salt",
+      "summary": "Knead well past the point the dough first comes together, then work in the softened butter and salt until the dough turns glossy, smooth and elastic - this bread wants a longer knead than a plain loaf."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Cover and let rise at room temperature until roughly doubled, about 3 hours."
+    },
+    {
+      "title": "Shape",
+      "summary": "Deflate gently and shape into one large round loaf on a lined baking sheet."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Cover loosely and proof until visibly puffy, about 90 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Brush with beaten egg, optionally score a shallow cross on top, and bake at 180°C for about 45 minutes until deeply golden."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool completely on a rack before slicing; the crumb is tender and slightly stringy when pulled apart."
+    }
   ],
   "source": {
     "url": "https://byacores.com/en/azorean-sweet-bread/",
@@ -70,5 +174,10 @@
     "retrieved": "2026-07-17",
     "adaptation": "Ratios composited from this Azorean recipe with a moderate hydration increase; the overnight starter was simplified to one stage. Hawaii lineage per Wikipedia's Portuguese sweet bread entry."
   },
-  "tags": ["azores", "holy-ghost-festival", "hawaii-lineage"]
+  "tags": [
+    "azores",
+    "holy-ghost-festival",
+    "hawaii-lineage"
+  ],
+  "doughType": "dough"
 }

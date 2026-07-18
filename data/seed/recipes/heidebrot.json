@@ -6,7 +6,9 @@
     "es": "Pan del brezal (Heidebrot)",
     "fr": "Pain de la lande (Heidebrot)"
   },
-  "aliases": ["Lüneburger Heidebrot"],
+  "aliases": [
+    "Lüneburger Heidebrot"
+  ],
   "description": {
     "en": "Named for the Lüneburg Heath, whose thin, sandy soil favors buckwheat - locally called Heidekorn - over wheat. This sourdough loaf folds a little of that buckwheat and wholegrain rye into a mostly-wheat dough: rustic crust, nutty, earthy crumb.",
     "de": "Benannt nach der Lüneburger Heide, deren sandige Böden eher Buchweizen – dort 'Heidekorn' genannt – als Weizen tragen. Dieses Sauerteigbrot mischt etwas Buchweizen und Roggenvollkornmehl in einen überwiegend weizenen Teig: rustikale Kruste, nussig-erdige Krume.",
@@ -24,43 +26,144 @@
     "hydrationPct": 68.4,
     "saltPct": 1.6,
     "yeastPct": 0.1,
-    "prefermentedFlourPct": 14.0,
+    "prefermentedFlourPct": 14,
     "flours": [
-      { "type": "wheat-white", "pct": 84.0 },
-      { "type": "rye-whole", "pct": 8.0 },
-      { "type": "buckwheat", "pct": 8.0 }
+      {
+        "type": "wheat-white",
+        "pct": 84
+      },
+      {
+        "type": "rye-whole",
+        "pct": 8
+      },
+      {
+        "type": "buckwheat",
+        "pct": 8
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 1050, "note": "Weizenmehl Type 550, split between sourdough and main dough" },
-    { "key": "flour:rye-whole", "grams": 100, "note": "Roggenvollkornmehl" },
-    { "key": "flour:buckwheat", "grams": 100, "note": "Buchweizenvollkornmehl, the region's traditional \"Heidekorn\"" },
-    { "key": "water", "grams": 855 },
-    { "key": "sourdough-starter", "grams": 17 },
-    { "key": "salt", "grams": 20 },
-    { "key": "fresh-yeast", "grams": 5 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 1050,
+      "note": "Weizenmehl Type 550, split between sourdough and main dough"
+    },
+    {
+      "key": "flour:rye-whole",
+      "grams": 100,
+      "note": "Roggenvollkornmehl"
+    },
+    {
+      "key": "flour:buckwheat",
+      "grams": 100,
+      "note": "Buchweizenvollkornmehl, the region's traditional \"Heidekorn\""
+    },
+    {
+      "key": "water",
+      "grams": 855
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 17
+    },
+    {
+      "key": "salt",
+      "grams": 20
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 5
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 1075, "shape": "round loaves, proofed in baskets" },
-  "time": { "totalMin": 930, "activeMin": 30, "bulkMin": 75, "proofMin": 60, "bakeMin": 45, "overnight": true },
-  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 1075,
+    "shape": "round loaves, proofed in baskets"
+  },
+  "time": {
+    "totalMin": 930,
+    "activeMin": 30,
+    "bulkMin": 75,
+    "proofMin": 60,
+    "bakeMin": 45,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["earthy", "nutty", "tangy", "wheaty"],
-  "purposes": ["everyday", "table", "sandwich"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 16.0 },
-  "keeping": { "freshDays": 4.5, "freezes": true, "note": "Sourdough tang and the rye-buckwheat blend keep it moist for several days; freezes well sliced." },
-  "equipment": ["banneton", "baking-stone"],
-  "method": [
-    { "title": "Build the sourdough", "summary": "Mix flour, water and a little starter; ferment covered overnight at room temperature until ripe and domed." },
-    { "title": "Mix the dough", "summary": "Combine the ripe sourdough with the remaining wheat flour, the rye and buckwheat wholegrain flours, water, salt and a small amount of yeast; mix into a smooth dough." },
-    { "title": "Bulk ferment", "summary": "Cover and let rise until visibly expanded, folding once or twice to build strength." },
-    { "title": "Divide and shape", "summary": "Divide in two, shape each piece into a tight round, and set seam-up in floured proofing baskets." },
-    { "title": "Final proof", "summary": "Let rise covered until nicely domed and springy." },
-    { "title": "Bake", "summary": "Turn out onto a hot stone, bake with steam at high heat, then drop the temperature and continue until deeply browned, about 45 minutes total." },
-    { "title": "Cool", "summary": "Cool completely on a rack before slicing." }
+  "flavors": [
+    "earthy",
+    "nutty",
+    "tangy",
+    "wheaty"
   ],
-  "source": { "url": "https://www.hefe-und-mehr.de/2012/06/heidebrot/", "site": "Hefe und mehr", "retrieved": "2026-07-17", "adaptation": "Method paraphrased; the source does not mention a rolled-oats topping, so none is included; overall timing outside the stated bake time is estimated from typical practice for this style." },
-  "tags": ["lueneburger-heide", "buckwheat"]
+  "purposes": [
+    "everyday",
+    "table",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 16
+  },
+  "keeping": {
+    "freshDays": 4.5,
+    "freezes": true,
+    "note": "Sourdough tang and the rye-buckwheat blend keep it moist for several days; freezes well sliced."
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build the sourdough",
+      "summary": "Mix flour, water and a little starter; ferment covered overnight at room temperature until ripe and domed."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the ripe sourdough with the remaining wheat flour, the rye and buckwheat wholegrain flours, water, salt and a small amount of yeast; mix into a smooth dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Cover and let rise until visibly expanded, folding once or twice to build strength."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Divide in two, shape each piece into a tight round, and set seam-up in floured proofing baskets."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Let rise covered until nicely domed and springy."
+    },
+    {
+      "title": "Bake",
+      "summary": "Turn out onto a hot stone, bake with steam at high heat, then drop the temperature and continue until deeply browned, about 45 minutes total."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool completely on a rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.hefe-und-mehr.de/2012/06/heidebrot/",
+    "site": "Hefe und mehr",
+    "retrieved": "2026-07-17",
+    "adaptation": "Method paraphrased; the source does not mention a rolled-oats topping, so none is included; overall timing outside the stated bake time is estimated from typical practice for this style."
+  },
+  "tags": [
+    "lueneburger-heide",
+    "buckwheat"
+  ],
+  "doughType": "dough"
 }

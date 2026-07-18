@@ -6,7 +6,10 @@
     "es": "Pan de quinoa alto en proteína",
     "fr": "Pain de quinoa riche en protéines"
   },
-  "aliases": ["quinoa sandwich bread", "gluten-free quinoa loaf"],
+  "aliases": [
+    "quinoa sandwich bread",
+    "gluten-free quinoa loaf"
+  ],
   "description": {
     "en": "Toasted quinoa flour joins chickpea flour, sorghum flour and potato starch in a yeasted, egg-enriched batter loaf, entirely gluten-free. Quinoa was the Inca's Golden Grain of the Andes; here it becomes a protein-rich, nutty sandwich bread with no wheat at all.",
     "de": "Geröstetes Quinoamehl trifft auf Kichererbsenmehl, Sorghummehl und Kartoffelstärke in einem hefegetriebenen, eireichen Teig, ganz ohne Weizen. Quinoa war das goldene Korn der Anden der Inka; hier wird es zu einem proteinreichen, nussigen Sandwichbrot.",
@@ -27,45 +30,171 @@
     "fatPct": 7.09,
     "yeastPct": 1.38,
     "flours": [
-      { "type": "chickpea", "pct": 19.9 },
-      { "type": "other", "pct": 26 },
-      { "type": "sorghum", "pct": 19.5 },
-      { "type": "potato", "pct": 34.6 }
+      {
+        "type": "chickpea",
+        "pct": 19.9
+      },
+      {
+        "type": "other",
+        "pct": 26
+      },
+      {
+        "type": "sorghum",
+        "pct": 19.5
+      },
+      {
+        "type": "potato",
+        "pct": 34.6
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:chickpea", "grams": 115 },
-    { "label": { "en": "quinoa flour, toasted", "de": "Quinoamehl, geröstet", "es": "harina de quinoa, tostada", "fr": "farine de quinoa, torréfiée" }, "grams": 150 },
-    { "key": "flour:sorghum", "grams": 113 },
-    { "key": "flour:potato", "grams": 200, "note": "potato starch, not whole potato flour" },
-    { "label": { "en": "xanthan gum", "de": "Xanthan", "es": "goma xantana", "fr": "gomme xanthane" }, "grams": 6 },
-    { "key": "salt", "grams": 6 },
-    { "key": "active-dry-yeast", "grams": 8 },
-    { "key": "water", "grams": 356 },
-    { "key": "honey", "grams": 43 },
-    { "key": "egg", "grams": 150, "note": "3 large eggs" },
-    { "label": { "en": "almond oil", "de": "Mandelöl", "es": "aceite de almendras", "fr": "huile d'amande" }, "grams": 41 }
+    {
+      "key": "flour:chickpea",
+      "grams": 115
+    },
+    {
+      "label": {
+        "en": "quinoa flour, toasted",
+        "de": "Quinoamehl, geröstet",
+        "es": "harina de quinoa, tostada",
+        "fr": "farine de quinoa, torréfiée"
+      },
+      "grams": 150
+    },
+    {
+      "key": "flour:sorghum",
+      "grams": 113
+    },
+    {
+      "key": "flour:potato",
+      "grams": 200,
+      "note": "potato starch, not whole potato flour"
+    },
+    {
+      "label": {
+        "en": "xanthan gum",
+        "de": "Xanthan",
+        "es": "goma xantana",
+        "fr": "gomme xanthane"
+      },
+      "grams": 6
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 8
+    },
+    {
+      "key": "water",
+      "grams": 356
+    },
+    {
+      "key": "honey",
+      "grams": 43
+    },
+    {
+      "key": "egg",
+      "grams": 150,
+      "note": "3 large eggs"
+    },
+    {
+      "label": {
+        "en": "almond oil",
+        "de": "Mandelöl",
+        "es": "aceite de almendras",
+        "fr": "huile d'amande"
+      },
+      "grams": 41
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1050, "shape": "standard loaf pan" },
-  "time": { "totalMin": 128, "activeMin": 15, "proofMin": 38, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 191, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1050,
+    "shape": "standard loaf pan"
+  },
+  "time": {
+    "totalMin": 128,
+    "activeMin": 15,
+    "proofMin": 38,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 191,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["nutty", "earthy", "sweet"],
-  "purposes": ["everyday", "sandwich", "toast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": true, "wholegrainPct": 65.4 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best the day it's baked; freeze anything left over, since this multi-flour gluten-free loaf stales quickly." },
-  "equipment": ["loaf-pan", "stand-mixer"],
-  "method": [
-    { "title": "Bloom the yeast", "summary": "Whisk honey into warm water, stir in the yeast and let stand 5-8 minutes until puffy." },
-    { "title": "Mix dry", "summary": "Whisk chickpea flour, toasted quinoa flour, sorghum flour, potato starch, xanthan gum and salt together." },
-    { "title": "Combine", "summary": "Beat eggs and oil together, then mix the yeast mixture and the egg mixture into the dry ingredients for 2-3 minutes; this is a thick batter, not a kneadable dough." },
-    { "title": "Pan and proof", "summary": "Scrape into a lined loaf pan and let rise in a warm spot 30-45 minutes until doubled; there is no second rise." },
-    { "title": "Bake", "summary": "Bake at about 190°C for 40-50 minutes until browned and hollow-sounding." },
-    { "title": "Cool", "summary": "Cool completely on a rack before slicing." }
+  "flavors": [
+    "nutty",
+    "earthy",
+    "sweet"
   ],
-  "source": { "url": "https://www.simplyquinoa.com/high-protein-quinoa-bread-recipe/", "site": "Simply Quinoa", "retrieved": "2026-07-18", "adaptation": "Cup measurements for the four flour/starch components converted to grams using estimated typical densities; potato starch counted under the taxonomy's potato flour type." },
-  "tags": ["gluten-free", "quinoa", "andes"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "toast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": false,
+    "containsDairy": false,
+    "containsEgg": true,
+    "wholegrainPct": 65.4
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best the day it's baked; freeze anything left over, since this multi-flour gluten-free loaf stales quickly."
+  },
+  "equipment": [
+    "loaf-pan",
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Bloom the yeast",
+      "summary": "Whisk honey into warm water, stir in the yeast and let stand 5-8 minutes until puffy."
+    },
+    {
+      "title": "Mix dry",
+      "summary": "Whisk chickpea flour, toasted quinoa flour, sorghum flour, potato starch, xanthan gum and salt together."
+    },
+    {
+      "title": "Combine",
+      "summary": "Beat eggs and oil together, then mix the yeast mixture and the egg mixture into the dry ingredients for 2-3 minutes; this is a thick batter, not a kneadable dough."
+    },
+    {
+      "title": "Pan and proof",
+      "summary": "Scrape into a lined loaf pan and let rise in a warm spot 30-45 minutes until doubled; there is no second rise."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at about 190°C for 40-50 minutes until browned and hollow-sounding."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool completely on a rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.simplyquinoa.com/high-protein-quinoa-bread-recipe/",
+    "site": "Simply Quinoa",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup measurements for the four flour/starch components converted to grams using estimated typical densities; potato starch counted under the taxonomy's potato flour type."
+  },
+  "tags": [
+    "gluten-free",
+    "quinoa",
+    "andes"
+  ],
+  "doughType": "dough"
 }

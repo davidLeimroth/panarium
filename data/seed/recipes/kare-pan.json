@@ -7,14 +7,21 @@
     "fr": "Kare-pan (pain au curry japonais)",
     "native": "カレーパン"
   },
-  "aliases": ["curry bread", "curry pan"],
+  "aliases": [
+    "curry bread",
+    "curry pan"
+  ],
   "description": {
     "en": "A yeasted bun sealed around thick, chilled Japanese curry, breaded in panko and deep-fried until the shell turns into a crisp, shard-like crust. A bakery-case staple, eaten out of hand as a savory snack rather than with a knife and fork.",
     "de": "Ein Hefebrötchen, um dickflüssiges, gekühltes japanisches Curry verschlossen, in Panko paniert und frittiert, bis die Schale knusprig und splittrig wird. Ein Bäckerei-Standard, aus der Hand gegessen statt mit Messer und Gabel.",
     "es": "Un bollo de levadura sellado alrededor de curry japonés espeso y frío, empanizado en panko y frito hasta que la cáscara se convierte en una corteza crujiente y quebradiza. Un clásico de la vitrina de panadería, se come con la mano como aperitivo salado, sin cuchillo ni tenedor.",
     "fr": "Un petit pain levé scellé autour d'un curry japonais épais et refroidi, pané au panko et frit jusqu'à ce que la coque devienne une croûte croustillante et cassante. Un classique de vitrine de boulangerie, mangé à la main comme en-cas salé plutôt qu'au couteau et à la fourchette."
   },
-  "origin": { "country": "JP", "region": "nationwide", "note": "One of the most popular savory kashipan alongside yakisoba-pan; sold hot at bakeries, convenience stores and festival stalls." },
+  "origin": {
+    "country": "JP",
+    "region": "nationwide",
+    "note": "One of the most popular savory kashipan alongside yakisoba-pan; sold hot at bakeries, convenience stores and festival stalls."
+  },
   "leaven": "yeast",
   "family": "fried",
   "formula": {
@@ -24,42 +31,157 @@
     "fatPct": 4.9,
     "yeastPct": 1.5,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 206, "note": "156g bread flour + 50g cake flour" },
-    { "key": "milk", "grams": 125 },
-    { "key": "sugar", "grams": 15 },
-    { "key": "salt", "grams": 4 },
-    { "key": "instant-yeast", "grams": 3 },
-    { "key": "butter", "grams": 10 },
-    { "label": { "en": "Japanese curry filling, thick and chilled (with vegetables and meat)", "de": "japanische Curry-Füllung, dickflüssig und gekühlt (mit Gemüse und Fleisch)", "es": "relleno de curry japonés, espeso y frío (con verduras y carne)", "fr": "garniture de curry japonais, épaisse et refroidie (avec légumes et viande)" }, "grams": 180, "note": "about 1-1.5 tbsp per bun" },
-    { "key": "egg", "grams": 50, "note": "for the egg wash" },
-    { "label": { "en": "panko breadcrumbs", "de": "Panko-Semmelbrösel", "es": "pan rallado panko", "fr": "chapelure panko" }, "grams": 50 },
-    { "key": "vegetable-oil", "grams": 40, "note": "for deep-frying; amount absorbed is estimated" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 206,
+      "note": "156g bread flour + 50g cake flour"
+    },
+    {
+      "key": "milk",
+      "grams": 125
+    },
+    {
+      "key": "sugar",
+      "grams": 15
+    },
+    {
+      "key": "salt",
+      "grams": 4
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3
+    },
+    {
+      "key": "butter",
+      "grams": 10
+    },
+    {
+      "label": {
+        "en": "Japanese curry filling, thick and chilled (with vegetables and meat)",
+        "de": "japanische Curry-Füllung, dickflüssig und gekühlt (mit Gemüse und Fleisch)",
+        "es": "relleno de curry japonés, espeso y frío (con verduras y carne)",
+        "fr": "garniture de curry japonais, épaisse et refroidie (avec légumes et viande)"
+      },
+      "grams": 180,
+      "note": "about 1-1.5 tbsp per bun"
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "for the egg wash"
+    },
+    {
+      "label": {
+        "en": "panko breadcrumbs",
+        "de": "Panko-Semmelbrösel",
+        "es": "pan rallado panko",
+        "fr": "chapelure panko"
+      },
+      "grams": 50
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 40,
+      "note": "for deep-frying; amount absorbed is estimated"
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 85, "shape": "oval stuffed bun, panko-crusted, deep-fried, ~10 cm" },
-  "time": { "totalMin": 170, "activeMin": 35, "bulkMin": 60, "proofMin": 55, "bakeMin": 20, "overnight": false },
-  "bake": { "tempC": 160, "steam": false, "vessel": "fryer" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 85,
+    "shape": "oval stuffed bun, panko-crusted, deep-fried, ~10 cm"
+  },
+  "time": {
+    "totalMin": 170,
+    "activeMin": 35,
+    "bulkMin": 60,
+    "proofMin": 55,
+    "bakeMin": 20,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 160,
+    "steam": false,
+    "vessel": "fryer"
+  },
   "difficulty": 4,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["savory", "spiced", "rich", "toasty"],
-  "purposes": ["street-food", "snack", "everyday"],
-  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Crispest eaten hot the day it is fried; keeps refrigerated a few days or frozen several weeks, then reheat in a 180°C (350°F) oven to recrisp." },
-  "equipment": ["deep-fryer"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine bread flour, cake flour, salt and sugar; warm the milk, stir in the yeast, then knead into the flour with the butter until smooth, about 5 minutes." },
-    { "title": "First rise", "summary": "Cover and proof about 1 hour at warm room temperature until doubled." },
-    { "title": "Divide and rest", "summary": "Divide into 8 pieces, shape into balls, and rest 15 minutes." },
-    { "title": "Fill", "summary": "Roll each piece into a circle, thinning only the edges, spoon in cold, thick curry, and pinch the edges tightly to seal." },
-    { "title": "Final proof", "summary": "Proof the sealed buns 45-60 minutes until about one and a half times their size." },
-    { "title": "Bread", "summary": "Dip each bun in beaten egg, then roll in panko breadcrumbs to coat evenly." },
-    { "title": "Fry", "summary": "Heat oil to about 160°C (320°F) and fry the buns seam-side down first, turning, until deep golden on all sides, about 2-3 minutes." }
+  "flavors": [
+    "savory",
+    "spiced",
+    "rich",
+    "toasty"
   ],
-  "source": { "url": "https://www.justonecookbook.com/curry-bread/", "site": "Just One Cookbook", "retrieved": "2026-07-18", "adaptation": "Cup/tsp amounts converted to grams; curry filling condensed to one estimated-weight line rather than a full recipe, matching this atlas's treatment of complex fillings (see baozi)." },
-  "tags": ["kashipan", "deep-fried", "savory-bun"]
+  "purposes": [
+    "street-food",
+    "snack",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": false,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Crispest eaten hot the day it is fried; keeps refrigerated a few days or frozen several weeks, then reheat in a 180°C (350°F) oven to recrisp."
+  },
+  "equipment": [
+    "deep-fryer"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine bread flour, cake flour, salt and sugar; warm the milk, stir in the yeast, then knead into the flour with the butter until smooth, about 5 minutes."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and proof about 1 hour at warm room temperature until doubled."
+    },
+    {
+      "title": "Divide and rest",
+      "summary": "Divide into 8 pieces, shape into balls, and rest 15 minutes."
+    },
+    {
+      "title": "Fill",
+      "summary": "Roll each piece into a circle, thinning only the edges, spoon in cold, thick curry, and pinch the edges tightly to seal."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Proof the sealed buns 45-60 minutes until about one and a half times their size."
+    },
+    {
+      "title": "Bread",
+      "summary": "Dip each bun in beaten egg, then roll in panko breadcrumbs to coat evenly."
+    },
+    {
+      "title": "Fry",
+      "summary": "Heat oil to about 160°C (320°F) and fry the buns seam-side down first, turning, until deep golden on all sides, about 2-3 minutes."
+    }
+  ],
+  "source": {
+    "url": "https://www.justonecookbook.com/curry-bread/",
+    "site": "Just One Cookbook",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup/tsp amounts converted to grams; curry filling condensed to one estimated-weight line rather than a full recipe, matching this atlas's treatment of complex fillings (see baozi)."
+  },
+  "tags": [
+    "kashipan",
+    "deep-fried",
+    "savory-bun"
+  ],
+  "doughType": "dough"
 }

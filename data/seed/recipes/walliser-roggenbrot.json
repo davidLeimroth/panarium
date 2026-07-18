@@ -6,7 +6,11 @@
     "es": "Pan de centeno del Valais (Walliser Roggenbrot)",
     "fr": "Pain de seigle valaisan"
   },
-  "aliases": ["Walliserbrot", "Pain de seigle valaisan", "Valais rye bread"],
+  "aliases": [
+    "Walliserbrot",
+    "Pain de seigle valaisan",
+    "Valais rye bread"
+  ],
   "description": {
     "en": "An almost pure rye hearth loaf from the Swiss canton of Valais, AOP-protected and built for the mountains: a long, cool sourdough rise, a thick cracked crust, and a dense, tangy crumb once meant to feed a village for months.",
     "de": "Ein fast reines Roggen-Hearth-Brot aus dem Schweizer Wallis, AOP-geschützt und für die Berge gemacht: langer, kühler Sauerteiggang, dicke, aufgerissene Kruste und dichte, würzige Krume – einst monatelang haltbares Dorfbrot.",
@@ -25,36 +29,121 @@
     "saltPct": 2.3,
     "prefermentedFlourPct": 22.7,
     "flours": [
-      { "type": "rye-whole", "pct": 100 }
+      {
+        "type": "rye-whole",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 724, "note": "coarse and fine rye wholemeal combined" },
-    { "key": "water", "grams": 556, "note": "warm, ~40–45°C, rye ferments best warm" },
-    { "key": "sourdough-starter", "grams": 40, "note": "active rye starter (Anstellgut)" },
-    { "key": "salt", "grams": 17 }
+    {
+      "key": "flour:rye-whole",
+      "grams": 724,
+      "note": "coarse and fine rye wholemeal combined"
+    },
+    {
+      "key": "water",
+      "grams": 556,
+      "note": "warm, ~40–45°C, rye ferments best warm"
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 40,
+      "note": "active rye starter (Anstellgut)"
+    },
+    {
+      "key": "salt",
+      "grams": 17
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 600, "shape": "round, cone-shaped loaf" },
-  "time": { "totalMin": 1065, "activeMin": 25, "bulkMin": 75, "proofMin": 75, "bakeMin": 50, "overnight": true },
-  "bake": { "tempC": 250, "steam": false, "vessel": "stone" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 600,
+    "shape": "round, cone-shaped loaf"
+  },
+  "time": {
+    "totalMin": 1065,
+    "activeMin": 25,
+    "bulkMin": 75,
+    "proofMin": 75,
+    "bakeMin": 50,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": false,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "crackly",
-  "flavors": ["earthy", "sour", "malty", "savory"],
-  "purposes": ["everyday", "table", "soup-companion"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 7, "freezes": true, "note": "Wrap in linen or paper; this alpine keeping bread stays good a week or more and slices thinner as it rests." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Build the rye sourdough", "summary": "The evening before, stir warm water, rye wholemeal and a spoonful of active rye starter with a little salt into a thick paste. Cover and let it ferment 12–16 hours at room temperature." },
-    { "title": "Mix the dough", "summary": "Add the remaining rye meal, warm water and salt to the ripe sourdough. Mix just until it comes together into a heavy, cohesive dough, there's no gluten network to develop, so don't overwork it." },
-    { "title": "Bulk rise", "summary": "Cover and let the dough rest about an hour to 90 minutes at room temperature, keeping it warm; rye sourdough performs best around 29°C." },
-    { "title": "Shape", "summary": "Divide into two pieces and shape each by hand into a tapered, cone-like round. Roll the outside in rye meal and set on a floured cloth." },
-    { "title": "Final proof", "summary": "Let the loaves proof uncovered for an hour to 90 minutes, until deep cracks open across the floured surface, the traditional cue that they're ready to bake." },
-    { "title": "Bake hard, then ease off", "summary": "Bake in a very hot oven without steam, venting briefly after a few minutes and dropping the temperature partway through. Bake about 50 minutes until deeply crusted." },
-    { "title": "Cool and slice thin", "summary": "Let the loaves cool completely before cutting. This bread is dense and intense, traditionally sliced paper-thin for alpine cheese and dried meats." }
+  "flavors": [
+    "earthy",
+    "sour",
+    "malty",
+    "savory"
   ],
-  "source": { "url": "https://heimbaecker.de/walliser-roggenbrot-pain-de-seigle-valaisan/", "site": "der heimbäcker", "retrieved": "2026-07-17", "adaptation": "Optional soaked walnuts from the source omitted for the plain version; rounded to two 600 g loaves." },
-  "tags": ["alpine", "aop"]
+  "purposes": [
+    "everyday",
+    "table",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 7,
+    "freezes": true,
+    "note": "Wrap in linen or paper; this alpine keeping bread stays good a week or more and slices thinner as it rests."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build the rye sourdough",
+      "summary": "The evening before, stir warm water, rye wholemeal and a spoonful of active rye starter with a little salt into a thick paste. Cover and let it ferment 12–16 hours at room temperature."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Add the remaining rye meal, warm water and salt to the ripe sourdough. Mix just until it comes together into a heavy, cohesive dough, there's no gluten network to develop, so don't overwork it."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Cover and let the dough rest about an hour to 90 minutes at room temperature, keeping it warm; rye sourdough performs best around 29°C."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into two pieces and shape each by hand into a tapered, cone-like round. Roll the outside in rye meal and set on a floured cloth."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Let the loaves proof uncovered for an hour to 90 minutes, until deep cracks open across the floured surface, the traditional cue that they're ready to bake."
+    },
+    {
+      "title": "Bake hard, then ease off",
+      "summary": "Bake in a very hot oven without steam, venting briefly after a few minutes and dropping the temperature partway through. Bake about 50 minutes until deeply crusted."
+    },
+    {
+      "title": "Cool and slice thin",
+      "summary": "Let the loaves cool completely before cutting. This bread is dense and intense, traditionally sliced paper-thin for alpine cheese and dried meats."
+    }
+  ],
+  "source": {
+    "url": "https://heimbaecker.de/walliser-roggenbrot-pain-de-seigle-valaisan/",
+    "site": "der heimbäcker",
+    "retrieved": "2026-07-17",
+    "adaptation": "Optional soaked walnuts from the source omitted for the plain version; rounded to two 600 g loaves."
+  },
+  "tags": [
+    "alpine",
+    "aop"
+  ],
+  "doughType": "paste"
 }

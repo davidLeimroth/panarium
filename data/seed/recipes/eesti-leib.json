@@ -19,7 +19,7 @@
   },
   "origin": {
     "country": "EE",
-    "region": "Estonia, nationwide",
+    "region": "nationwide",
     "note": "Rye has grown in Estonia for over a thousand years; nearly every family keeps its own starter and spice mix."
   },
   "leaven": "sourdough",
@@ -169,5 +169,6 @@
   "tags": [
     "baltic",
     "family-recipe"
-  ]
+  ],
+  "doughType": "paste"
 }

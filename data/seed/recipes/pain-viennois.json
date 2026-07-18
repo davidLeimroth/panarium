@@ -7,14 +7,20 @@
     "fr": "Pain viennois",
     "native": "Pain Viennois"
   },
-  "aliases": ["viennoise"],
+  "aliases": [
+    "viennoise"
+  ],
   "description": {
     "en": "A long, soft-crusted loaf lightly enriched with milk, butter, egg and sugar, scored in the classic diagonal 'saucisson' pattern. Despite the name, this milk-bread take on Vienna's baking is a Parisian invention.",
     "de": "Ein langes Brot mit weicher Kruste, leicht angereichert mit Milch, Butter, Ei und Zucker, mit dem klassischen schrägen 'Saucisson'-Schnittmuster eingeschnitten. Trotz des Namens ist diese milchbrotartige Anlehnung an die Wiener Bäckerei eine Pariser Erfindung.",
     "es": "Una hogaza larga de corteza suave, ligeramente enriquecida con leche, mantequilla, huevo y azúcar, marcada con el clásico corte diagonal en 'saucisson'. Pese al nombre, esta versión con leche del pan vienés es en realidad una invención parisina.",
     "fr": "Un pain long à la croûte souple, légèrement enrichi de lait, de beurre, d'œuf et de sucre, grigné du classique motif en 'saucisson'. Malgré son nom, ce pain au lait inspiré de Vienne est en réalité une invention parisienne."
   },
-  "origin": { "country": "FR", "region": "Paris", "note": "Created in 1839 when the Austrian officer August Zang opened his 'Boulangerie Viennoise' on rue de Richelieu, introducing mechanical kneading and steam ovens; Parisian bakers then built their own milk-and-butter loaf inspired by his techniques." },
+  "origin": {
+    "country": "FR",
+    "region": "Paris",
+    "note": "Created in 1839 when the Austrian officer August Zang opened his 'Boulangerie Viennoise' on rue de Richelieu, introducing mechanical kneading and steam ovens; Parisian bakers then built their own milk-and-butter loaf inspired by his techniques."
+  },
   "leaven": "yeast",
   "family": "baguette",
   "formula": {
@@ -23,38 +29,126 @@
     "sugarPct": 8,
     "fatPct": 15,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 1000, "note": "T55" },
-    { "key": "water", "grams": 450 },
-    { "key": "butter", "grams": 150 },
-    { "key": "egg", "grams": 100, "note": "about 2 eggs" },
-    { "key": "sugar", "grams": 80 },
-    { "key": "salt", "grams": 18 },
-    { "key": "fresh-yeast", "grams": 40 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 1000,
+      "note": "T55"
+    },
+    {
+      "key": "water",
+      "grams": 450
+    },
+    {
+      "key": "butter",
+      "grams": 150
+    },
+    {
+      "key": "egg",
+      "grams": 100,
+      "note": "about 2 eggs"
+    },
+    {
+      "key": "sugar",
+      "grams": 80
+    },
+    {
+      "key": "salt",
+      "grams": 18
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 40
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 270, "shape": "long stick, saucisson-scored" },
-  "time": { "totalMin": 245, "activeMin": 40, "bulkMin": 60, "proofMin": 120, "bakeMin": 16, "overnight": false },
-  "bake": { "tempC": 220, "steam": true, "vessel": "sheet" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 270,
+    "shape": "long stick, saucisson-scored"
+  },
+  "time": {
+    "totalMin": 245,
+    "activeMin": 40,
+    "bulkMin": 60,
+    "proofMin": 120,
+    "bakeMin": 16,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": true,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["mild", "sweet", "buttery"],
-  "purposes": ["breakfast", "sandwich", "snack"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Softer and slightly longer-keeping than a plain baguette thanks to the milk and butter." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Combine flour, water, egg, sugar and salt with the yeast; knead until smooth and elastic." },
-    { "title": "Bulk ferment", "summary": "Let rise about an hour." },
-    { "title": "Divide and shape", "summary": "Divide into pieces, let rest briefly, then roll each into a long, even stick." },
-    { "title": "Proof", "summary": "Let rise until puffy, about 1.5 hours." },
-    { "title": "Score", "summary": "Brush with egg wash and slash diagonally in the classic overlapping 'saucisson' pattern." },
-    { "title": "Bake", "summary": "Bake hot with steam until glossy and golden." }
+  "flavors": [
+    "mild",
+    "sweet",
+    "buttery"
   ],
-  "source": { "url": "https://technomitron.aainb.com/recettes-2/pains-speciaux/pain-viennois/", "site": "Technomitron (AAINB)", "retrieved": "2026-07-17" },
-  "tags": ["viennoiserie", "lait"]
+  "purposes": [
+    "breakfast",
+    "sandwich",
+    "snack"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Softer and slightly longer-keeping than a plain baguette thanks to the milk and butter."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, water, egg, sugar and salt with the yeast; knead until smooth and elastic."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let rise about an hour."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Divide into pieces, let rest briefly, then roll each into a long, even stick."
+    },
+    {
+      "title": "Proof",
+      "summary": "Let rise until puffy, about 1.5 hours."
+    },
+    {
+      "title": "Score",
+      "summary": "Brush with egg wash and slash diagonally in the classic overlapping 'saucisson' pattern."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake hot with steam until glossy and golden."
+    }
+  ],
+  "source": {
+    "url": "https://technomitron.aainb.com/recettes-2/pains-speciaux/pain-viennois/",
+    "site": "Technomitron (AAINB)",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "viennoiserie",
+    "lait"
+  ],
+  "doughType": "dough"
 }

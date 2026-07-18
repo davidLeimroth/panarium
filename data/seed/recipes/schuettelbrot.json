@@ -7,14 +7,21 @@
     "fr": "Pain croustillant de seigle secoué du Tyrol du Sud (Schüttelbrot)",
     "native": "Schüttelbrot"
   },
-  "aliases": ["Südtiroler Schüttelbrot", "shaken bread"],
+  "aliases": [
+    "Südtiroler Schüttelbrot",
+    "shaken bread"
+  ],
   "description": {
     "en": "A paper-thin, rock-hard rye crispbread from the South Tyrolean Alps. Its wet, unkneadable dough is shaken flat by hand rather than rolled or shaped, the technique that gives Schüttelbrot its name. Heavily spiced and baked bone-dry, it keeps for months.",
     "de": "Ein hauchdünnes, knuspriges Roggen-Fladenbrot aus den Südtiroler Bergen: Der sehr weiche, nicht knetbare Teig wird von Hand geschüttelt statt gerollt oder geformt, daher der Name. Kräftig gewürzt und knochentrocken gebacken, hält es sich monatelang.",
     "es": "Un pan crujiente de centeno, delgadísimo, de los Alpes del Tirol del Sur: la masa, muy blanda e imposible de amasar, se sacude a mano en vez de estirarse o formarse, de ahí su nombre. Muy especiado y horneado hasta quedar bien seco, se conserva meses.",
     "fr": "Un pain croustillant de seigle très fin, venu des Alpes du Tyrol du Sud : la pâte, très molle et impossible à pétrir, est secouée à la main plutôt que roulée ou façonnée, d'où son nom. Très épicé et cuit jusqu'à devenir bien sec, il se conserve des mois."
   },
-  "origin": { "country": "IT", "region": "South Tyrol / Alto Adige (Südtirol)", "note": "A German-speaking Alpine province of Italy; Schüttelbrot is a historic farmhouse keeping-bread shared with neighboring North and East Tyrol in Austria." },
+  "origin": {
+    "country": "IT",
+    "region": "South Tyrol / Alto Adige (Südtirol)",
+    "note": "A German-speaking Alpine province of Italy; Schüttelbrot is a historic farmhouse keeping-bread shared with neighboring North and East Tyrol in Austria."
+  },
   "leaven": "yeast",
   "family": "crispbread",
   "formula": {
@@ -22,43 +29,158 @@
     "saltPct": 1.5,
     "prefermentedFlourPct": 25,
     "flours": [
-      { "type": "rye-whole", "pct": 75 },
-      { "type": "wheat-whole", "pct": 25 }
+      {
+        "type": "rye-whole",
+        "pct": 75
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 25
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 900, "note": "split between a yeasted pre-ferment and the main dough" },
-    { "key": "flour:wheat-whole", "grams": 300, "note": "Italian Tipo 1 flour" },
-    { "key": "water", "grams": 1300 },
-    { "key": "fresh-yeast", "grams": 42, "note": "one full yeast cube, split across both stages" },
-    { "key": "salt", "grams": 18 },
-    { "key": "caraway", "grams": 2.5, "note": "ground" },
-    { "key": "fennel-seed", "grams": 2.5, "note": "ground" },
-    { "key": "anise", "grams": 2.5, "note": "ground" },
-    { "key": "coriander-seed", "grams": 2.5, "note": "ground" },
-    { "label": { "en": "fenugreek (Brotklee)", "de": "Brotklee (Schabzigerklee)", "es": "fenogreco", "fr": "fenugrec" }, "grams": 2.5, "note": "ground; traditional Tyrolean spice-mix component" }
+    {
+      "key": "flour:rye-whole",
+      "grams": 900,
+      "note": "split between a yeasted pre-ferment and the main dough"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 300,
+      "note": "Italian Tipo 1 flour"
+    },
+    {
+      "key": "water",
+      "grams": 1300
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 42,
+      "note": "one full yeast cube, split across both stages"
+    },
+    {
+      "key": "salt",
+      "grams": 18
+    },
+    {
+      "key": "caraway",
+      "grams": 2.5,
+      "note": "ground"
+    },
+    {
+      "key": "fennel-seed",
+      "grams": 2.5,
+      "note": "ground"
+    },
+    {
+      "key": "anise",
+      "grams": 2.5,
+      "note": "ground"
+    },
+    {
+      "key": "coriander-seed",
+      "grams": 2.5,
+      "note": "ground"
+    },
+    {
+      "label": {
+        "en": "fenugreek (Brotklee)",
+        "de": "Brotklee (Schabzigerklee)",
+        "es": "fenogreco",
+        "fr": "fenugrec"
+      },
+      "grams": 2.5,
+      "note": "ground; traditional Tyrolean spice-mix component"
+    }
   ],
-  "yield": { "count": 12, "pieceGrams": 140, "shape": "paper-thin rounds, shaken flat by hand" },
-  "time": { "totalMin": 210, "activeMin": 45, "bulkMin": 95, "proofMin": 20, "bakeMin": 28, "overnight": false },
-  "bake": { "tempC": 210, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 12,
+    "pieceGrams": 140,
+    "shape": "paper-thin rounds, shaken flat by hand"
+  },
+  "time": {
+    "totalMin": 210,
+    "activeMin": 45,
+    "bulkMin": 95,
+    "proofMin": 20,
+    "bakeMin": 28,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 210,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 4,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["spiced", "earthy", "herbal", "savory"],
-  "purposes": ["snack", "soup-companion", "table"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false },
-  "keeping": { "freshDays": 120, "freezes": false, "note": "Baked hard and thin specifically to dry out fully, a keeping-bread built to last months in a dry pantry, not a fresh-eating loaf." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Build a rye pre-ferment", "summary": "Mix rye flour, water and yeast into a loose paste and let it rise for about an hour." },
-    { "title": "Mix the main dough", "summary": "Work in more rye flour, wheat flour, water, salt, yeast and a generous blend of ground caraway, fennel, anise, coriander and fenugreek. The result is far wetter than any kneadable bread dough." },
-    { "title": "Rest and divide", "summary": "Let the dough rest 30-40 minutes, then divide it into equal portions." },
-    { "title": "Second rest", "summary": "Let the divided pieces rest a further 20 minutes." },
-    { "title": "Shake into shape", "summary": "Flour a board or tray heavily and, working one portion at a time, shake and toss the sticky dough by hand until it spreads itself into a thin, even round, shaking rather than rolling or kneading is what defines this bread." },
-    { "title": "Bake", "summary": "Bake the rounds on a bran-dusted pan in a hot oven until crisp and golden." },
-    { "title": "Dry", "summary": "Leave the baked breads somewhere cool and airy to finish drying out completely, which is what lets them keep for months." }
+  "flavors": [
+    "spiced",
+    "earthy",
+    "herbal",
+    "savory"
   ],
-  "source": { "url": "https://www.pursuedtirol.com/de/ueber-uns/genussmagazin/suedtiroler-rezepte/suedtiroler-schuettelbrot-selber-machen", "site": "Pur Südtirol", "retrieved": "2026-07-17", "adaptation": "Percentages computed from the stated gram/ml quantities; method paraphrased; the traditional wooden shaking board has no matching equipment enum value so only the baking pan is listed." },
-  "tags": ["suedtirol", "geschuettelt"]
+  "purposes": [
+    "snack",
+    "soup-companion",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false
+  },
+  "keeping": {
+    "freshDays": 120,
+    "freezes": false,
+    "note": "Baked hard and thin specifically to dry out fully, a keeping-bread built to last months in a dry pantry, not a fresh-eating loaf."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Build a rye pre-ferment",
+      "summary": "Mix rye flour, water and yeast into a loose paste and let it rise for about an hour."
+    },
+    {
+      "title": "Mix the main dough",
+      "summary": "Work in more rye flour, wheat flour, water, salt, yeast and a generous blend of ground caraway, fennel, anise, coriander and fenugreek. The result is far wetter than any kneadable bread dough."
+    },
+    {
+      "title": "Rest and divide",
+      "summary": "Let the dough rest 30-40 minutes, then divide it into equal portions."
+    },
+    {
+      "title": "Second rest",
+      "summary": "Let the divided pieces rest a further 20 minutes."
+    },
+    {
+      "title": "Shake into shape",
+      "summary": "Flour a board or tray heavily and, working one portion at a time, shake and toss the sticky dough by hand until it spreads itself into a thin, even round, shaking rather than rolling or kneading is what defines this bread."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake the rounds on a bran-dusted pan in a hot oven until crisp and golden."
+    },
+    {
+      "title": "Dry",
+      "summary": "Leave the baked breads somewhere cool and airy to finish drying out completely, which is what lets them keep for months."
+    }
+  ],
+  "source": {
+    "url": "https://www.pursuedtirol.com/de/ueber-uns/genussmagazin/suedtiroler-rezepte/suedtiroler-schuettelbrot-selber-machen",
+    "site": "Pur Südtirol",
+    "retrieved": "2026-07-17",
+    "adaptation": "Percentages computed from the stated gram/ml quantities; method paraphrased; the traditional wooden shaking board has no matching equipment enum value so only the baking pan is listed."
+  },
+  "tags": [
+    "suedtirol",
+    "geschuettelt"
+  ],
+  "doughType": "paste"
 }

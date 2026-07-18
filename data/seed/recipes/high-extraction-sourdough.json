@@ -6,14 +6,21 @@
     "es": "Pan de masa madre con harina de alta extracción",
     "fr": "Pain au levain à la farine à haute extraction"
   },
-  "aliases": ["My Best Sourdough", "Type 85 sourdough"],
+  "aliases": [
+    "My Best Sourdough",
+    "Type 85 sourdough"
+  ],
   "description": {
     "en": "Built entirely on a single high-extraction flour, milled with more bran and germ than white flour but less than full whole wheat. The result: a glossy, custard-like crumb, toasted-grain flavor and a genuinely crackling crust.",
     "de": "Vollständig aus einem einzigen hochausgemahlenen Mehl gebacken, das mehr Kleie und Keim als Weißmehl enthält, aber weniger als reines Vollkornmehl. Das Ergebnis: eine glänzende, cremige Krume, gerösteter Getreidegeschmack und eine wirklich krachende Kruste.",
     "es": "Elaborado por completo con una única harina de alta extracción, con más salvado y germen que la harina blanca pero menos que el trigo integral puro. El resultado: una miga brillante y cremosa, sabor a grano tostado y una corteza verdaderamente crujiente.",
     "fr": "Construit entièrement sur une seule farine à haute extraction, avec plus de son et de germe que la farine blanche mais moins qu'un blé complet intégral. Le résultat: une mie brillante et onctueuse, un goût de grain torréfié et une croûte vraiment craquante."
   },
-  "origin": { "country": "US", "region": "Pacific Northwest artisan bakeries", "note": "Built around Cairnspring Mills' stone-milled Trailblazer flour from Washington State; part of the broader high-extraction-flour movement in contemporary American artisan baking." },
+  "origin": {
+    "country": "US",
+    "region": "Pacific Northwest artisan bakeries",
+    "note": "Built around Cairnspring Mills' stone-milled Trailblazer flour from Washington State; part of the broader high-extraction-flour movement in contemporary American artisan baking."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -21,38 +28,126 @@
     "saltPct": 1.8,
     "prefermentedFlourPct": 6.3,
     "flours": [
-      { "type": "wheat-white", "pct": 60 },
-      { "type": "wheat-whole", "pct": 40 }
+      {
+        "type": "wheat-white",
+        "pct": 60
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 40
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 946, "note": "single high-extraction (Type 85-style) flour, e.g. Cairnspring Trailblazer" },
-    { "key": "water", "grams": 806 },
-    { "key": "sourdough-starter", "grams": 30 },
-    { "key": "salt", "grams": 17 }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 946,
+      "note": "single high-extraction (Type 85-style) flour, e.g. Cairnspring Trailblazer"
+    },
+    {
+      "key": "water",
+      "grams": 806
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 30
+    },
+    {
+      "key": "salt",
+      "grams": 17
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 900, "shape": "boule or bâtard" },
-  "time": { "totalMin": 1710, "activeMin": 40, "bulkMin": 240, "proofMin": 1080, "bakeMin": 53, "overnight": true },
-  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 900,
+    "shape": "boule or bâtard"
+  },
+  "time": {
+    "totalMin": 1710,
+    "activeMin": 40,
+    "bulkMin": 240,
+    "proofMin": 1080,
+    "bakeMin": 53,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["toasty", "malty", "tangy"],
-  "purposes": ["everyday", "table"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 40 },
-  "keeping": { "freshDays": 4, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Build the levain", "summary": "Mix starter with the high-extraction flour and water; ripen about 5 hours." },
-    { "title": "Autolyse", "summary": "Combine the remaining flour and water; rest 1.5 hours." },
-    { "title": "Mix", "summary": "Add the levain, remaining water and salt; develop through slap-and-fold or bowl folds until smooth." },
-    { "title": "Bulk ferment", "summary": "Ferment about 4 hours with six sequential stretch-and-fold sets." },
-    { "title": "Shape", "summary": "Divide, preshape into tight rounds, bench-rest 35 minutes, then final-shape as boule or bâtard." },
-    { "title": "Cold proof", "summary": "Proof in sealed baskets in the refrigerator overnight, about 18 hours." },
-    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered, then 30-35 minutes uncovered until the internal temperature reaches 96-98°C." },
-    { "title": "Cool", "summary": "Rest at least an hour before slicing." }
+  "flavors": [
+    "toasty",
+    "malty",
+    "tangy"
   ],
-  "source": { "url": "https://cairnspring.com/blogs/recipes/my-best-sourdough", "site": "Cairnspring Mills", "author": "Maurizio Leo, from 'The Perfect Loaf' (2022)", "retrieved": "2026-07-17", "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown, since no exact taxonomy match exists for it." },
-  "tags": ["high-extraction", "single-flour"]
+  "purposes": [
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 40
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build the levain",
+      "summary": "Mix starter with the high-extraction flour and water; ripen about 5 hours."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Combine the remaining flour and water; rest 1.5 hours."
+    },
+    {
+      "title": "Mix",
+      "summary": "Add the levain, remaining water and salt; develop through slap-and-fold or bowl folds until smooth."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Ferment about 4 hours with six sequential stretch-and-fold sets."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide, preshape into tight rounds, bench-rest 35 minutes, then final-shape as boule or bâtard."
+    },
+    {
+      "title": "Cold proof",
+      "summary": "Proof in sealed baskets in the refrigerator overnight, about 18 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered, then 30-35 minutes uncovered until the internal temperature reaches 96-98°C."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest at least an hour before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://cairnspring.com/blogs/recipes/my-best-sourdough",
+    "site": "Cairnspring Mills",
+    "author": "Maurizio Leo, from 'The Perfect Loaf' (2022)",
+    "retrieved": "2026-07-17",
+    "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown, since no exact taxonomy match exists for it."
+  },
+  "tags": [
+    "high-extraction",
+    "single-flour"
+  ],
+  "doughType": "dough"
 }

@@ -7,14 +7,21 @@
     "fr": "Pain de mie",
     "native": "Pain de Mie"
   },
-  "aliases": ["French white sandwich bread", "pain de mie fermé"],
+  "aliases": [
+    "French white sandwich bread",
+    "pain de mie fermé"
+  ],
   "description": {
     "en": "Milk- and butter-enriched dough baked in a lidded tin so it can't rise past the mold, giving an ultra-tight, cottony crumb and barely any crust. Built for perfectly square, thin sandwich and toast slices.",
     "de": "Ein mit Milch und Butter angereicherter Teig, der in einer Form mit Deckel gebacken wird, sodass er nicht über die Form hinaus aufgehen kann, das ergibt eine extrem feine, wattige Krume und kaum Kruste. Gemacht für perfekt quadratische, dünne Sandwich- und Toastscheiben.",
     "es": "Una masa enriquecida con leche y mantequilla horneada en un molde con tapa que impide que suba más allá de su forma, lo que da una miga extremadamente prieta y algodonosa y apenas corteza. Pensado para rebanadas cuadradas y finas, perfectas para sándwich y tostadas.",
     "fr": "Une pâte enrichie au lait et au beurre, cuite dans un moule à couvercle qui l'empêche de dépasser le moule, ce qui donne une mie extrêmement serrée et cotonneuse et presque pas de croûte. Conçu pour des tranches carrées et fines, idéales en sandwich ou grillées."
   },
-  "origin": { "country": "FR", "region": "national", "note": "France's answer to English-style tin bread, ubiquitous in French kitchens for croque-monsieur and toast." },
+  "origin": {
+    "country": "FR",
+    "region": "national",
+    "note": "France's answer to English-style tin bread, ubiquitous in French kitchens for croque-monsieur and toast."
+  },
   "leaven": "yeast",
   "family": "pan-loaf",
   "formula": {
@@ -23,37 +30,123 @@
     "sugarPct": 2,
     "fatPct": 6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "milk", "grams": 300 },
-    { "key": "butter", "grams": 30, "note": "softened" },
-    { "key": "sugar", "grams": 10 },
-    { "key": "salt", "grams": 6 },
-    { "key": "instant-yeast", "grams": 8, "note": "dry baker's yeast" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "milk",
+      "grams": 300
+    },
+    {
+      "key": "butter",
+      "grams": 30,
+      "note": "softened"
+    },
+    {
+      "key": "sugar",
+      "grams": 10
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 8,
+      "note": "dry baker's yeast"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 750, "shape": "22x10x10cm lidded tin loaf" },
-  "time": { "totalMin": 230, "activeMin": 30, "bulkMin": 90, "proofMin": 60, "bakeMin": 35, "overnight": false },
-  "bake": { "tempC": 210, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 750,
+    "shape": "22x10x10cm lidded tin loaf"
+  },
+  "time": {
+    "totalMin": 230,
+    "activeMin": 30,
+    "bulkMin": 90,
+    "proofMin": 60,
+    "bakeMin": 35,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 210,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["mild", "buttery", "sweet"],
-  "purposes": ["sandwich", "toast", "breakfast", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "Slices and freezes exceptionally well for toast throughout the week." },
-  "equipment": ["pullman-pan"],
-  "method": [
-    { "title": "Bloom the yeast", "summary": "Warm the milk gently and dissolve the yeast in it." },
-    { "title": "Mix", "summary": "Combine flour, sugar and salt, then work in the milk-yeast mixture and the softened butter; knead until smooth and elastic." },
-    { "title": "First rise", "summary": "Let rise about 90 minutes until doubled." },
-    { "title": "Shape", "summary": "Degas and roll into a tight cylinder to fit a buttered lidded tin." },
-    { "title": "Proof", "summary": "Proof until the dough nears the rim, then close the lid." },
-    { "title": "Bake", "summary": "Bake covered until fully set and golden at the ends; cool before slicing thin." }
+  "flavors": [
+    "mild",
+    "buttery",
+    "sweet"
   ],
-  "source": { "url": "https://www.latelierderoxane.com/recettes/recette-pain-de-mie-moelleux/", "site": "L'Atelier de Roxane", "retrieved": "2026-07-17" },
-  "tags": ["moule", "sandwich"]
+  "purposes": [
+    "sandwich",
+    "toast",
+    "breakfast",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "Slices and freezes exceptionally well for toast throughout the week."
+  },
+  "equipment": [
+    "pullman-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom the yeast",
+      "summary": "Warm the milk gently and dissolve the yeast in it."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine flour, sugar and salt, then work in the milk-yeast mixture and the softened butter; knead until smooth and elastic."
+    },
+    {
+      "title": "First rise",
+      "summary": "Let rise about 90 minutes until doubled."
+    },
+    {
+      "title": "Shape",
+      "summary": "Degas and roll into a tight cylinder to fit a buttered lidded tin."
+    },
+    {
+      "title": "Proof",
+      "summary": "Proof until the dough nears the rim, then close the lid."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake covered until fully set and golden at the ends; cool before slicing thin."
+    }
+  ],
+  "source": {
+    "url": "https://www.latelierderoxane.com/recettes/recette-pain-de-mie-moelleux/",
+    "site": "L'Atelier de Roxane",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "moule",
+    "sandwich"
+  ],
+  "doughType": "dough"
 }

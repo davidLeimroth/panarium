@@ -6,14 +6,21 @@
     "es": "Pan rústico del campesino (Bauernbrot)",
     "fr": "Pain rustique du fermier (Bauernbrot)"
   },
-  "aliases": ["farmer's bread", "farmhouse loaf"],
+  "aliases": [
+    "farmer's bread",
+    "farmhouse loaf"
+  ],
   "description": {
     "en": "A round, cross-scored sourdough loaf of rye and wheat, baked bold for a thick, crackling crust. Bauernbrot means honest, no-frills bread, hearty with soup, sturdy enough to last the week.",
     "de": "Ein rundes, kreuzweise eingeschnittenes Sauerteigbrot aus Roggen und Weizen, kräftig ausgebacken für eine dicke, krachende Kruste. Bauernbrot ist ehrliches Brot ohne Schnickschnack – deftig zur Suppe, hält die ganze Woche.",
     "es": "Un pan redondo de masa madre, centeno y trigo, marcado en cruz y horneado con fuerza para una corteza gruesa y crujiente. El Bauernbrot es pan campesino sin adornos: contundente con la sopa, dura toda la semana.",
     "fr": "Un pain rond au levain, seigle et blé, marqué d'une croix et cuit fort pour une croûte épaisse et craquante. Le Bauernbrot est un pain paysan sans artifice, robuste avec la soupe, il tient toute la semaine."
   },
-  "origin": { "country": "DE", "region": "Germany and Austria, farmhouse tradition", "note": "Not a legally defined term like Vollkornbrot, Bauernbrot describes a rustic round style of mixed rye-wheat sourdough rather than a fixed ratio." },
+  "origin": {
+    "country": "DE",
+    "region": "Germany and Austria, farmhouse tradition",
+    "note": "Not a legally defined term like Vollkornbrot, Bauernbrot describes a rustic round style of mixed rye-wheat sourdough rather than a fixed ratio."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -21,39 +28,136 @@
     "saltPct": 1.9,
     "prefermentedFlourPct": 30,
     "flours": [
-      { "type": "rye-whole", "pct": 20 },
-      { "type": "rye", "pct": 49 },
-      { "type": "wheat-whole", "pct": 31 }
+      {
+        "type": "rye-whole",
+        "pct": 20
+      },
+      {
+        "type": "rye",
+        "pct": 49
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 31
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 99, "note": "coarse rye whole meal, in the sourdough" },
-    { "key": "flour:rye", "grams": 239, "note": "rye flour type 1150, split between sourdough and main dough" },
-    { "key": "flour:wheat-whole", "grams": 148, "note": "wheat type 1050 plus whole wheat flour" },
-    { "key": "water", "grams": 338, "note": "warm, 40–50°C" },
-    { "key": "salt", "grams": 9 },
-    { "key": "sourdough-starter", "grams": 15, "note": "soft rye starter, TA 200" }
+    {
+      "key": "flour:rye-whole",
+      "grams": 99,
+      "note": "coarse rye whole meal, in the sourdough"
+    },
+    {
+      "key": "flour:rye",
+      "grams": 239,
+      "note": "rye flour type 1150, split between sourdough and main dough"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 148,
+      "note": "wheat type 1050 plus whole wheat flour"
+    },
+    {
+      "key": "water",
+      "grams": 338,
+      "note": "warm, 40–50°C"
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 15,
+      "note": "soft rye starter, TA 200"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 800, "shape": "round hearth loaf, cross-hatch scored" },
-  "time": { "totalMin": 1040, "activeMin": 20, "bulkMin": 855, "proofMin": 45, "bakeMin": 50, "overnight": true },
-  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 800,
+    "shape": "round hearth loaf, cross-hatch scored"
+  },
+  "time": {
+    "totalMin": 1040,
+    "activeMin": 20,
+    "bulkMin": 855,
+    "proofMin": 45,
+    "bakeMin": 50,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["tangy", "earthy", "malty", "wheaty"],
-  "purposes": ["everyday", "sandwich", "soup-companion"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 51 },
-  "keeping": { "freshDays": 6, "freezes": true, "note": "Keeps well wrapped in linen; flavor rounds out by day two." },
-  "equipment": ["banneton", "baking-stone"],
-  "method": [
-    { "title": "Build the sourdough", "summary": "The night before, stir rye whole meal, rye flour, warm water and a little mature starter together and let it sour about 12 hours at room temperature." },
-    { "title": "Mix the dough", "summary": "Combine the ripe sourdough with more rye flour, wheat flour, whole wheat flour, salt and warm water into a firm, workable dough." },
-    { "title": "Bulk ferment", "summary": "Let the dough rest around two hours at room temperature, folding it gently once or twice to redistribute warmth and build strength." },
-    { "title": "Shape and mark", "summary": "Shape into a tight round, then rest seam-down in a floured basket. Just before baking, cut the traditional cross-hatch on top, as much a farmhouse signature as a guide for the oven spring." },
-    { "title": "Bake hot with steam", "summary": "Bake on a hot stone with a strong burst of steam, starting near 250°C and dropping to 220°C once the crust sets, about 50 minutes total." },
-    { "title": "Cool fully", "summary": "Let it cool completely on a rack before cutting; the crumb is still setting." }
+  "flavors": [
+    "tangy",
+    "earthy",
+    "malty",
+    "wheaty"
   ],
-  "source": { "url": "https://www.ploetzblog.de/rezepte/rustikales-bauernbrot/id=623348df2889cc0a79026201", "site": "Plötzblog", "author": "Lutz Geißler", "retrieved": "2026-07-17" },
-  "tags": ["rustic", "cross-scored"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 51
+  },
+  "keeping": {
+    "freshDays": 6,
+    "freezes": true,
+    "note": "Keeps well wrapped in linen; flavor rounds out by day two."
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build the sourdough",
+      "summary": "The night before, stir rye whole meal, rye flour, warm water and a little mature starter together and let it sour about 12 hours at room temperature."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the ripe sourdough with more rye flour, wheat flour, whole wheat flour, salt and warm water into a firm, workable dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let the dough rest around two hours at room temperature, folding it gently once or twice to redistribute warmth and build strength."
+    },
+    {
+      "title": "Shape and mark",
+      "summary": "Shape into a tight round, then rest seam-down in a floured basket. Just before baking, cut the traditional cross-hatch on top, as much a farmhouse signature as a guide for the oven spring."
+    },
+    {
+      "title": "Bake hot with steam",
+      "summary": "Bake on a hot stone with a strong burst of steam, starting near 250°C and dropping to 220°C once the crust sets, about 50 minutes total."
+    },
+    {
+      "title": "Cool fully",
+      "summary": "Let it cool completely on a rack before cutting; the crumb is still setting."
+    }
+  ],
+  "source": {
+    "url": "https://www.ploetzblog.de/rezepte/rustikales-bauernbrot/id=623348df2889cc0a79026201",
+    "site": "Plötzblog",
+    "author": "Lutz Geißler",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "rustic",
+    "cross-scored"
+  ],
+  "doughType": "paste"
 }

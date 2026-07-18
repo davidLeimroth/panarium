@@ -7,7 +7,11 @@
     "fr": "Brioche tressée de Noël tchèque (Vánočka)",
     "native": "Vánočka"
   },
-  "aliases": ["Houska", "Czech Christmas bread", "vanocka"],
+  "aliases": [
+    "Houska",
+    "Czech Christmas bread",
+    "vanocka"
+  ],
   "description": {
     "en": "A towering Czech Christmas braid: a big four-strand plait topped with a three-strand braid and then a twist, egg-yolk-rich and studded with raisins and almonds. Baked for Christmas Eve and morning, its tiers are read as the swaddled Christ child.",
     "de": "Ein hoch aufgetürmter tschechischer Weihnachtszopf: ein großer Vierstrangzopf, darauf ein Dreier- und zuletzt ein gedrehter Zweierzopf, reich an Eigelb und gespickt mit Rosinen und Mandeln. Zu Heiligabend gebacken, gedeutet als das gewickelte Christkind.",
@@ -28,44 +32,153 @@
     "fatPct": 19.8,
     "yeastPct": 1.2,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 580 },
-    { "key": "milk", "grams": 290, "note": "warmed" },
-    { "key": "active-dry-yeast", "grams": 9 },
-    { "key": "salt", "grams": 8 },
-    { "key": "sugar", "grams": 150 },
-    { "key": "egg-yolk", "grams": 36, "note": "2 large yolks" },
-    { "key": "butter", "grams": 115, "note": "melted" },
-    { "key": "lemon-zest", "grams": 6 },
-    { "key": "raisins", "grams": 50 },
-    { "key": "almonds", "grams": 60, "note": "chopped, worked into the dough" },
-    { "key": "egg", "grams": 50, "note": "beaten, for the egg wash" },
-    { "key": "almonds", "grams": 30, "note": "sliced, sprinkled on top before baking" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 580
+    },
+    {
+      "key": "milk",
+      "grams": 290,
+      "note": "warmed"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 9
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "sugar",
+      "grams": 150
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 36,
+      "note": "2 large yolks"
+    },
+    {
+      "key": "butter",
+      "grams": 115,
+      "note": "melted"
+    },
+    {
+      "key": "lemon-zest",
+      "grams": 6
+    },
+    {
+      "key": "raisins",
+      "grams": 50
+    },
+    {
+      "key": "almonds",
+      "grams": 60,
+      "note": "chopped, worked into the dough"
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "beaten, for the egg wash"
+    },
+    {
+      "key": "almonds",
+      "grams": 30,
+      "note": "sliced, sprinkled on top before baking"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1150, "shape": "three-tiered braid: 4 strands over 3 over a twist" },
-  "time": { "totalMin": 330, "activeMin": 60, "bulkMin": 120, "proofMin": 45, "bakeMin": 40, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1150,
+    "shape": "three-tiered braid: 4 strands over 3 over a twist"
+  },
+  "time": {
+    "totalMin": 330,
+    "activeMin": 60,
+    "bulkMin": 120,
+    "proofMin": 45,
+    "bakeMin": 40,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "nutty", "fruity", "rich"],
-  "purposes": ["holiday", "celebration", "breakfast", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Wrapped loosely, the butter and egg keep it soft for four to five days; it also freezes well whole or pre-sliced." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "sweet",
+    "buttery",
+    "nutty",
+    "fruity",
+    "rich"
+  ],
+  "purposes": [
+    "holiday",
+    "celebration",
+    "breakfast",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Wrapped loosely, the butter and egg keep it soft for four to five days; it also freezes well whole or pre-sliced."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Bloom the yeast", "summary": "Warm the milk, stir in the yeast and a little sugar, and let it stand until foamy, about 10 minutes." },
-    { "title": "Mix the dough", "summary": "Combine the flour, remaining sugar, salt and lemon zest, then add the melted butter, egg yolks and the yeast mixture and bring together into a dough." },
-    { "title": "Knead and add mix-ins", "summary": "Knead on medium speed for several minutes until the dough passes the windowpane test, then work in the raisins and chopped almonds." },
-    { "title": "First rise", "summary": "Shape into a ball, cover, and let rise somewhere warm until roughly doubled, one and a half to two hours." },
-    { "title": "Divide and braid", "summary": "Divide the dough into nine pieces of decreasing size and roll each into a rope. Braid four into the base, three into a smaller middle layer, and twist the last two for the top; stack the layers and secure with a few skewers." },
-    { "title": "Second rise", "summary": "Cover loosely and let the stacked braid rise until nicely puffed, about 45 minutes, misting it lightly partway through so the surface doesn't dry out." },
-    { "title": "Egg wash and bake", "summary": "Brush all over with beaten egg, scatter sliced almonds on top, then bake starting hot and finishing at a lower heat, about 40 minutes total, tenting with foil once the top is dark enough." },
-    { "title": "Cool and slice", "summary": "Remove the skewers, cool the loaf completely on a rack, then dust with powdered sugar before slicing." }
+    {
+      "title": "Bloom the yeast",
+      "summary": "Warm the milk, stir in the yeast and a little sugar, and let it stand until foamy, about 10 minutes."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the flour, remaining sugar, salt and lemon zest, then add the melted butter, egg yolks and the yeast mixture and bring together into a dough."
+    },
+    {
+      "title": "Knead and add mix-ins",
+      "summary": "Knead on medium speed for several minutes until the dough passes the windowpane test, then work in the raisins and chopped almonds."
+    },
+    {
+      "title": "First rise",
+      "summary": "Shape into a ball, cover, and let rise somewhere warm until roughly doubled, one and a half to two hours."
+    },
+    {
+      "title": "Divide and braid",
+      "summary": "Divide the dough into nine pieces of decreasing size and roll each into a rope. Braid four into the base, three into a smaller middle layer, and twist the last two for the top; stack the layers and secure with a few skewers."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Cover loosely and let the stacked braid rise until nicely puffed, about 45 minutes, misting it lightly partway through so the surface doesn't dry out."
+    },
+    {
+      "title": "Egg wash and bake",
+      "summary": "Brush all over with beaten egg, scatter sliced almonds on top, then bake starting hot and finishing at a lower heat, about 40 minutes total, tenting with foil once the top is dark enough."
+    },
+    {
+      "title": "Cool and slice",
+      "summary": "Remove the skewers, cool the loaf completely on a rack, then dust with powdered sugar before slicing."
+    }
   ],
   "source": {
     "url": "https://www.cooklikeczechs.com/vanocka-recipe/",
@@ -73,5 +186,11 @@
     "retrieved": "2026-07-17",
     "adaptation": "Cross-checked against two other Czech sources: salt nudged up slightly; almonds added into the dough, not just on top, matching several traditional versions. yeastPct is instant-yeast-equivalent."
   },
-  "tags": ["christmas", "braided", "egg-rich", "houska"]
+  "tags": [
+    "christmas",
+    "braided",
+    "egg-rich",
+    "houska"
+  ],
+  "doughType": "dough"
 }

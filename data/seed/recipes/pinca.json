@@ -7,14 +7,21 @@
     "fr": "Pinca (pain de Pâques croate)",
     "native": "Pinca"
   },
-  "aliases": ["sirnica", "Croatian Easter bread"],
+  "aliases": [
+    "sirnica",
+    "Croatian Easter bread"
+  ],
   "description": {
     "en": "A softly domed Dalmatian Easter loaf, its top slashed into a cross before baking and brushed with sugar syrup for a faint sheen. Rich with butter, egg yolks and citrus zest, it appears on Croatian tables on Holy Saturday alongside cured ham and colored eggs.",
     "de": "Ein sanft gewölbtes dalmatinisches Osterbrot, dessen Oberseite vor dem Backen kreuz- oder sternförmig eingeschnitten und mit Zuckersirup bestrichen wird. Reich an Butter, Eigelb und Zitrusschale, kommt es am Karsamstag mit Schinken und bunten Eiern auf kroatische Tische.",
     "es": "Un pan de Pascua dálmata, marcado con una cruz antes de hornear y pincelado con almíbar para un brillo sutil. Rico en mantequilla, yemas y cítricos, aparece en las mesas croatas el Sábado Santo junto al jamón curado y los huevos pintados.",
     "fr": "Un pain de Pâques dalmate, incisé en croix avant cuisson et badigeonné de sirop pour un léger lustre. Riche en beurre, jaunes d'œufs et zestes d'agrumes, il trône sur les tables croates le Samedi saint, aux côtés du jambon fumé et des œufs colorés."
   },
-  "origin": { "country": "HR", "region": "Dalmatia, Croatia", "note": "Also called 'sirnica' in regions where a little fresh cheese is worked into the dough; bakers still debate whether raisins or candied fruit belong in a proper pinca." },
+  "origin": {
+    "country": "HR",
+    "region": "Dalmatia, Croatia",
+    "note": "Also called 'sirnica' in regions where a little fresh cheese is worked into the dough; bakers still debate whether raisins or candied fruit belong in a proper pinca."
+  },
   "leaven": "yeast",
   "family": "sweet-loaf",
   "formula": {
@@ -24,46 +31,173 @@
     "fatPct": 22.5,
     "yeastPct": 0.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 1000 },
-    { "key": "milk", "grams": 480 },
-    { "key": "butter", "grams": 140, "note": "softened" },
-    { "label": { "en": "Vegetable shortening", "de": "Pflanzenfett (fest)", "es": "Manteca vegetal", "fr": "Graisse végétale" }, "grams": 85 },
-    { "key": "sugar", "grams": 225 },
-    { "key": "vanilla", "grams": 16, "note": "as 2 packets vanilla sugar" },
-    { "key": "egg", "grams": 150, "note": "3 whole eggs" },
-    { "key": "egg-yolk", "grams": 36, "note": "2 extra yolks" },
-    { "key": "active-dry-yeast", "grams": 6 },
-    { "key": "lemon-zest", "grams": 5 },
-    { "key": "orange-zest", "grams": 5 },
-    { "key": "salt", "grams": 2, "note": "a pinch, per the source" },
-    { "key": "sugar", "grams": 12, "note": "simple syrup glaze brushed on after the first bake; not counted toward the dough's sugar%" },
-    { "key": "water", "grams": 60, "note": "for the glaze syrup; not counted toward hydration" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 1000
+    },
+    {
+      "key": "milk",
+      "grams": 480
+    },
+    {
+      "key": "butter",
+      "grams": 140,
+      "note": "softened"
+    },
+    {
+      "label": {
+        "en": "Vegetable shortening",
+        "de": "Pflanzenfett (fest)",
+        "es": "Manteca vegetal",
+        "fr": "Graisse végétale"
+      },
+      "grams": 85
+    },
+    {
+      "key": "sugar",
+      "grams": 225
+    },
+    {
+      "key": "vanilla",
+      "grams": 16,
+      "note": "as 2 packets vanilla sugar"
+    },
+    {
+      "key": "egg",
+      "grams": 150,
+      "note": "3 whole eggs"
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 36,
+      "note": "2 extra yolks"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 6
+    },
+    {
+      "key": "lemon-zest",
+      "grams": 5
+    },
+    {
+      "key": "orange-zest",
+      "grams": 5
+    },
+    {
+      "key": "salt",
+      "grams": 2,
+      "note": "a pinch, per the source"
+    },
+    {
+      "key": "sugar",
+      "grams": 12,
+      "note": "simple syrup glaze brushed on after the first bake; not counted toward the dough's sugar%"
+    },
+    {
+      "key": "water",
+      "grams": 60,
+      "note": "for the glaze syrup; not counted toward hydration"
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 540, "shape": "round loaf slashed with a cross or three-way cut" },
-  "time": { "totalMin": 210, "activeMin": 40, "bulkMin": 90, "proofMin": 20, "bakeMin": 40, "overnight": false },
-  "bake": { "tempC": 150, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 540,
+    "shape": "round loaf slashed with a cross or three-way cut"
+  },
+  "time": {
+    "totalMin": 210,
+    "activeMin": 40,
+    "bulkMin": 90,
+    "proofMin": 20,
+    "bakeMin": 40,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 150,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "rich", "fruity"],
-  "purposes": ["holiday", "celebration", "breakfast", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "The butter-and-shortening crumb stays tender for a few days; the syrup glaze also helps keep the crust from drying out." },
-  "equipment": ["stand-mixer", "sheet-pan"],
-  "method": [
-    { "title": "Cream and flavor", "summary": "Beat eggs, egg yolks and sugar until pale, then stir in citrus zest and vanilla sugar." },
-    { "title": "Build the dough", "summary": "Dissolve the yeast in a little warm milk and let it foam, then combine with the egg mixture, remaining milk, melted butter and shortening, salt and flour into a smooth, soft dough. Knead well." },
-    { "title": "First rise", "summary": "Cover and let the dough double in a warm place, about 1.5 hours." },
-    { "title": "Divide and rest", "summary": "Divide the dough into four balls, shape them round, and let them rest briefly on a lined sheet." },
-    { "title": "Score and proof", "summary": "Slash a cross into the top of each loaf, then let them puff for about 20 minutes before baking." },
-    { "title": "Bake", "summary": "Bake at 150°C for about 30 minutes, then brush with a light sugar syrup and bake 10 minutes more until deep gold." },
-    { "title": "Cool", "summary": "Cool on a rack; the crust stays soft and faintly sticky from the syrup." }
+  "flavors": [
+    "sweet",
+    "buttery",
+    "rich",
+    "fruity"
   ],
-  "source": { "url": "https://www.196flavors.com/pinca/", "site": "196 Flavors", "retrieved": "2026-07-17", "adaptation": "Salt recorded as a small estimated pinch per the source's own wording; yield estimated at four ~540 g loaves from the summed ingredient weight." },
-  "tags": ["easter", "dalmatia", "holy-saturday"]
+  "purposes": [
+    "holiday",
+    "celebration",
+    "breakfast",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "The butter-and-shortening crumb stays tender for a few days; the syrup glaze also helps keep the crust from drying out."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Cream and flavor",
+      "summary": "Beat eggs, egg yolks and sugar until pale, then stir in citrus zest and vanilla sugar."
+    },
+    {
+      "title": "Build the dough",
+      "summary": "Dissolve the yeast in a little warm milk and let it foam, then combine with the egg mixture, remaining milk, melted butter and shortening, salt and flour into a smooth, soft dough. Knead well."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let the dough double in a warm place, about 1.5 hours."
+    },
+    {
+      "title": "Divide and rest",
+      "summary": "Divide the dough into four balls, shape them round, and let them rest briefly on a lined sheet."
+    },
+    {
+      "title": "Score and proof",
+      "summary": "Slash a cross into the top of each loaf, then let them puff for about 20 minutes before baking."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 150°C for about 30 minutes, then brush with a light sugar syrup and bake 10 minutes more until deep gold."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool on a rack; the crust stays soft and faintly sticky from the syrup."
+    }
+  ],
+  "source": {
+    "url": "https://www.196flavors.com/pinca/",
+    "site": "196 Flavors",
+    "retrieved": "2026-07-17",
+    "adaptation": "Salt recorded as a small estimated pinch per the source's own wording; yield estimated at four ~540 g loaves from the summed ingredient weight."
+  },
+  "tags": [
+    "easter",
+    "dalmatia",
+    "holy-saturday"
+  ],
+  "doughType": "dough"
 }

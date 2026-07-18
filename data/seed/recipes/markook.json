@@ -7,14 +7,22 @@
     "fr": "Markook (Pain saj)",
     "native": "خبز مرقوق"
   },
-  "aliases": ["markouk", "shrak", "khubz ruqaq"],
+  "aliases": [
+    "markouk",
+    "shrak",
+    "khubz ruqaq"
+  ],
   "description": {
     "en": "A whole-wheat Levantine flatbread stretched by hand until paper-thin and almost translucent, then draped over a scorching convex saj dome and cooked in under a minute. Folded around labneh, za'atar or grilled meats, or kept dry as a long-lasting wrap.",
     "de": "Ein levantinisches Vollkorn-Fladenbrot, von Hand papierdünn und fast durchscheinend gezogen, über eine glühend heiße gewölbte Saj-Platte gelegt und in unter einer Minute gebacken. Gefaltet um Labneh, Za'atar oder Gegrilltes, oder trocken als lang haltbarer Wrap aufbewahrt.",
     "es": "Un pan plano levantino de trigo integral, estirado a mano hasta quedar fino como el papel, colocado sobre una plancha convexa al rojo vivo y cocido en menos de un minuto. Se dobla con labneh, za'atar o carnes, o se guarda seco como envoltorio.",
     "fr": "Un pain plat levantin de blé complet, étiré à la main jusqu'à devenir fin comme du papier et presque translucide, posé sur un dôme saj brûlant et cuit en moins d'une minute. Plié autour de labné, de za'atar ou de grillades, ou gardé sec comme galette de conservation."
   },
-  "origin": { "country": "LB", "region": "Levant (Lebanon, Syria, Jordan, Palestine)", "note": "Known by several regional names: markook, shrak, mashrouh, khubz ruqaq; a favorite for mezze tables and as a long-keeping travel bread." },
+  "origin": {
+    "country": "LB",
+    "region": "Levant (Lebanon, Syria, Jordan, Palestine)",
+    "note": "Known by several regional names: markook, shrak, mashrouh, khubz ruqaq; a favorite for mezze tables and as a long-keeping travel bread."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -23,38 +31,125 @@
     "sugarPct": 1,
     "yeastPct": 0.07,
     "flours": [
-      { "type": "wheat-white", "pct": 68 },
-      { "type": "wheat-whole", "pct": 32 }
+      {
+        "type": "wheat-white",
+        "pct": 68
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 32
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 342 },
-    { "key": "flour:wheat-whole", "grams": 158 },
-    { "key": "water", "grams": 411, "note": "cold" },
-    { "key": "salt", "grams": 5 },
-    { "key": "sugar", "grams": 5 },
-    { "key": "instant-yeast", "grams": 0.35, "note": "just a touch, relies on a long slow rest rather than yeast power" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 342
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 158
+    },
+    {
+      "key": "water",
+      "grams": 411,
+      "note": "cold"
+    },
+    {
+      "key": "salt",
+      "grams": 5
+    },
+    {
+      "key": "sugar",
+      "grams": 5
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 0.35,
+      "note": "just a touch, relies on a long slow rest rather than yeast power"
+    }
   ],
-  "yield": { "count": 7, "pieceGrams": 132, "shape": "paper-thin round, stretched to 40-60cm before cooking" },
-  "time": { "totalMin": 343, "activeMin": 43, "bulkMin": 300, "bakeMin": 11, "overnight": false },
-  "bake": { "tempC": 290, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 7,
+    "pieceGrams": 132,
+    "shape": "paper-thin round, stretched to 40-60cm before cooking"
+  },
+  "time": {
+    "totalMin": 343,
+    "activeMin": 43,
+    "bulkMin": 300,
+    "bakeMin": 11,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 290,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 4,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["mild", "wheaty"],
-  "purposes": ["everyday", "sandwich", "side"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 32 },
-  "keeping": { "freshDays": 7, "freezes": true, "note": "Keeps up to a week at room temperature in an airtight container, much longer refrigerated, and freezes for months. Fold into quarters once cooled for easy storage." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine both flours, salt, sugar and yeast, then work in cold water to a soft, smooth dough." },
-    { "title": "Long slow rest", "summary": "Divide into balls, dust with cornmeal, and rest covered at least 5 hours, or overnight, until relaxed and extensible." },
-    { "title": "Stretch paper-thin", "summary": "Working over a rounded cushion or your knuckles, gently stretch each ball into a huge, almost see-through sheet." },
-    { "title": "Cook briefly", "summary": "Drape onto a very hot convex saj dome (or an inverted wok) and cook one side only, 15 seconds to 2 minutes depending on the surface, until lightly browned." },
-    { "title": "Cool flat", "summary": "Lay flat to cool so it doesn't stick to itself." },
-    { "title": "Fold for storage", "summary": "Fold into quarters or triangles; keeps well at room temperature for later use." }
+  "flavors": [
+    "mild",
+    "wheaty"
   ],
-  "source": { "url": "https://www.alphafoodie.com/markouk-saj-bread/", "site": "Alphafoodie", "retrieved": "2026-07-17", "adaptation": "Rescaled from the source's large 40-piece batch to a 500g-flour batch, preserving ratios; hydration recomputed from the source's explicit quantities, not its separately stated approximate range." },
-  "tags": ["stretched", "long-keeping"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "side"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 32
+  },
+  "keeping": {
+    "freshDays": 7,
+    "freezes": true,
+    "note": "Keeps up to a week at room temperature in an airtight container, much longer refrigerated, and freezes for months. Fold into quarters once cooled for easy storage."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine both flours, salt, sugar and yeast, then work in cold water to a soft, smooth dough."
+    },
+    {
+      "title": "Long slow rest",
+      "summary": "Divide into balls, dust with cornmeal, and rest covered at least 5 hours, or overnight, until relaxed and extensible."
+    },
+    {
+      "title": "Stretch paper-thin",
+      "summary": "Working over a rounded cushion or your knuckles, gently stretch each ball into a huge, almost see-through sheet."
+    },
+    {
+      "title": "Cook briefly",
+      "summary": "Drape onto a very hot convex saj dome (or an inverted wok) and cook one side only, 15 seconds to 2 minutes depending on the surface, until lightly browned."
+    },
+    {
+      "title": "Cool flat",
+      "summary": "Lay flat to cool so it doesn't stick to itself."
+    },
+    {
+      "title": "Fold for storage",
+      "summary": "Fold into quarters or triangles; keeps well at room temperature for later use."
+    }
+  ],
+  "source": {
+    "url": "https://www.alphafoodie.com/markouk-saj-bread/",
+    "site": "Alphafoodie",
+    "retrieved": "2026-07-17",
+    "adaptation": "Rescaled from the source's large 40-piece batch to a 500g-flour batch, preserving ratios; hydration recomputed from the source's explicit quantities, not its separately stated approximate range."
+  },
+  "tags": [
+    "stretched",
+    "long-keeping"
+  ],
+  "doughType": "dough"
 }

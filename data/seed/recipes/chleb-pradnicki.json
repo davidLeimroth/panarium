@@ -7,14 +7,21 @@
     "fr": "Pain de seigle Prądnicki de Cracovie (Chleb Prądnicki)",
     "native": "Chleb prądnicki"
   },
-  "aliases": ["Prądnik bread", "chleb żytni prądnicki"],
+  "aliases": [
+    "Prądnik bread",
+    "chleb żytni prądnicki"
+  ],
   "description": {
     "en": "A dense, all-rye sourdough once baked in giant loaves by the watermills of Kraków's Prądnik valley, first recorded in 1421. A thick crust and a week-long shelf life made it a market staple for nobility and townsfolk alike.",
     "de": "Ein dichtes, reines Roggensauerteigbrot, einst in riesigen Laiben von den Wassermühlen im Krakauer Prądnik-Tal gebacken und erstmals 1421 urkundlich erwähnt. Dicke Kruste und eine Woche Haltbarkeit machten es zum Marktstandard für Adel und Bürger gleichermaßen.",
     "es": "Un denso pan de masa madre de centeno puro, horneado antaño en enormes hogazas por los molinos del valle de Prądnik en Cracovia, documentado desde 1421. Su gruesa corteza y una semana de conservación lo hicieron básico de mercado para nobles y plebeyos.",
     "fr": "Un pain au levain dense, tout en seigle, autrefois cuit en énormes miches par les moulins de la vallée de Prądnik à Cracovie, mentionné dès 1421. Sa croûte épaisse et sa conservation d'une semaine en ont fait un incontournable du marché, noblesse comme peuple."
   },
-  "origin": { "country": "PL", "region": "Prądnik valley, Kraków", "note": "Documented from 1421; historical loaves reached 14kg. Holds EU Protected Geographical Indication status." },
+  "origin": {
+    "country": "PL",
+    "region": "Prądnik valley, Kraków",
+    "note": "Documented from 1421; historical loaves reached 14kg. Holds EU Protected Geographical Indication status."
+  },
   "leaven": "sourdough",
   "family": "pan-loaf",
   "formula": {
@@ -22,37 +29,124 @@
     "saltPct": 1.1,
     "prefermentedFlourPct": 5,
     "flours": [
-      { "type": "rye-whole", "pct": 100 }
+      {
+        "type": "rye-whole",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "sourdough-starter", "grams": 100, "note": "active rye starter" },
-    { "key": "flour:rye-whole", "grams": 1000 },
-    { "key": "water", "grams": 650 },
-    { "key": "salt", "grams": 12 },
-    { "key": "sunflower-seeds", "grams": 150 }
+    {
+      "key": "sourdough-starter",
+      "grams": 100,
+      "note": "active rye starter"
+    },
+    {
+      "key": "flour:rye-whole",
+      "grams": 1000
+    },
+    {
+      "key": "water",
+      "grams": 650
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    },
+    {
+      "key": "sunflower-seeds",
+      "grams": 150
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 820, "shape": "loaf-pan loaf, scored criss-cross" },
-  "time": { "totalMin": 685, "activeMin": 30, "bulkMin": 480, "proofMin": 120, "bakeMin": 55, "overnight": true },
-  "bake": { "tempC": 200, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 820,
+    "shape": "loaf-pan loaf, scored criss-cross"
+  },
+  "time": {
+    "totalMin": 685,
+    "activeMin": 30,
+    "bulkMin": 480,
+    "proofMin": 120,
+    "bakeMin": 55,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "crackly",
-  "flavors": ["sour", "earthy", "nutty", "malty"],
-  "purposes": ["everyday", "sandwich", "table", "soup-companion"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 7, "freezes": true, "note": "Best from the second day on; historically baked in giant multi-kilogram loaves built to keep for weeks." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Feed the starter", "summary": "Build or refresh an active rye sourdough starter." },
-    { "title": "Mix", "summary": "Combine the starter with rye flour and warm water; rest covered 8 hours or overnight." },
-    { "title": "Season", "summary": "Work in the remaining water and salt, then knead in the sunflower seeds and more rye flour to a workable, slightly sticky dough." },
-    { "title": "Shape", "summary": "Divide between two loaf pans and score the tops in a criss-cross pattern." },
-    { "title": "Proof", "summary": "Brush with boiling water and let rise about 2 hours in a warm spot." },
-    { "title": "Bake", "summary": "Blast the oven at maximum heat, then bake at 200°C, brushing again with boiling water partway through." },
-    { "title": "Rest", "summary": "Cool completely; the flavor is best from the second day on." }
+  "flavors": [
+    "sour",
+    "earthy",
+    "nutty",
+    "malty"
   ],
-  "source": { "url": "https://en.wikipedia.org/wiki/Pr%C4%85dnik_bread", "site": "Wikipedia", "retrieved": "2026-07-17", "adaptation": "The historical guild recipe is not publicly published; proportions are estimated from generic Polish all-rye sourdough formulas and scaled down from the loaf's traditional multi-kilogram size." },
-  "tags": ["pgi", "historic-guild-bread"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "table",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 7,
+    "freezes": true,
+    "note": "Best from the second day on; historically baked in giant multi-kilogram loaves built to keep for weeks."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Feed the starter",
+      "summary": "Build or refresh an active rye sourdough starter."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine the starter with rye flour and warm water; rest covered 8 hours or overnight."
+    },
+    {
+      "title": "Season",
+      "summary": "Work in the remaining water and salt, then knead in the sunflower seeds and more rye flour to a workable, slightly sticky dough."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide between two loaf pans and score the tops in a criss-cross pattern."
+    },
+    {
+      "title": "Proof",
+      "summary": "Brush with boiling water and let rise about 2 hours in a warm spot."
+    },
+    {
+      "title": "Bake",
+      "summary": "Blast the oven at maximum heat, then bake at 200°C, brushing again with boiling water partway through."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cool completely; the flavor is best from the second day on."
+    }
+  ],
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Pr%C4%85dnik_bread",
+    "site": "Wikipedia",
+    "retrieved": "2026-07-17",
+    "adaptation": "The historical guild recipe is not publicly published; proportions are estimated from generic Polish all-rye sourdough formulas and scaled down from the loaf's traditional multi-kilogram size."
+  },
+  "tags": [
+    "pgi",
+    "historic-guild-bread"
+  ],
+  "doughType": "paste"
 }

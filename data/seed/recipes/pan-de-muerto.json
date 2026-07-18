@@ -6,7 +6,10 @@
     "es": "Pan de Muerto",
     "fr": "Pain des Morts (Pan de Muerto)"
   },
-  "aliases": ["Bread of the Dead", "pan de los muertos"],
+  "aliases": [
+    "Bread of the Dead",
+    "pan de los muertos"
+  ],
   "description": {
     "en": "Mexico's Day of the Dead loaf: a rich, orange-and-anise sweet bread crossed with dough 'bones' and a round knob standing in for a skull, brushed with butter and rolled in sugar. Baked for family altars and breakfast on November 1st and 2nd.",
     "de": "Mexikos Brot zum Tag der Toten: ein buttrig-süßer Hefeteig mit Orangen- und Anisaroma, gekreuzt mit Teig-'Knochen' und einer runden Kuppel als Schädel, mit Butter bestrichen und in Zucker gewälzt. Für Ahnenaltäre und Frühstück am 1./2. November.",
@@ -28,43 +31,157 @@
     "prefermentedFlourPct": 12.5,
     "yeastPct": 1.9,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 480, "note": "60 g in the sponge, the rest in the final dough" },
-    { "key": "milk", "grams": 113, "note": "lukewarm, in the sponge" },
-    { "key": "instant-yeast", "grams": 9, "note": "in the sponge" },
-    { "key": "sugar", "grams": 99, "note": "in the dough" },
-    { "key": "salt", "grams": 6 },
-    { "key": "egg", "grams": 200, "note": "4 large eggs" },
-    { "key": "butter", "grams": 226, "note": "in the dough" },
-    { "key": "anise", "grams": 4, "note": "seeds" },
-    { "key": "orange-zest", "grams": 4 },
-    { "label": { "en": "orange blossom water", "de": "Orangenblütenwasser", "es": "agua de azahar", "fr": "eau de fleur d'oranger" }, "grams": 28 },
-    { "key": "butter", "grams": 85, "note": "melted, for basting the baked loaves" },
-    { "key": "sugar", "grams": 66, "note": "for rolling the butter-basted loaves" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 480,
+      "note": "60 g in the sponge, the rest in the final dough"
+    },
+    {
+      "key": "milk",
+      "grams": 113,
+      "note": "lukewarm, in the sponge"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 9,
+      "note": "in the sponge"
+    },
+    {
+      "key": "sugar",
+      "grams": 99,
+      "note": "in the dough"
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "egg",
+      "grams": 200,
+      "note": "4 large eggs"
+    },
+    {
+      "key": "butter",
+      "grams": 226,
+      "note": "in the dough"
+    },
+    {
+      "key": "anise",
+      "grams": 4,
+      "note": "seeds"
+    },
+    {
+      "key": "orange-zest",
+      "grams": 4
+    },
+    {
+      "label": {
+        "en": "orange blossom water",
+        "de": "Orangenblütenwasser",
+        "es": "agua de azahar",
+        "fr": "eau de fleur d'oranger"
+      },
+      "grams": 28
+    },
+    {
+      "key": "butter",
+      "grams": 85,
+      "note": "melted, for basting the baked loaves"
+    },
+    {
+      "key": "sugar",
+      "grams": 66,
+      "note": "for rolling the butter-basted loaves"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 580, "shape": "two 20 cm round loaves, crossed bones and a skull knob" },
-  "time": { "totalMin": 1080, "activeMin": 60, "bulkMin": 825, "proofMin": 75, "bakeMin": 42, "overnight": true },
-  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 580,
+    "shape": "two 20 cm round loaves, crossed bones and a skull knob"
+  },
+  "time": {
+    "totalMin": 1080,
+    "activeMin": 60,
+    "bulkMin": 825,
+    "proofMin": 75,
+    "bakeMin": 42,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "fruity", "spiced", "buttery", "rich"],
-  "purposes": ["holiday", "celebration", "dessert", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Keeps about 3 days well wrapped at room temperature thanks to all the butter; the sugared crust softens first, so it's best within a day or two." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "sweet",
+    "fruity",
+    "spiced",
+    "buttery",
+    "rich"
+  ],
+  "purposes": [
+    "holiday",
+    "celebration",
+    "dessert",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Keeps about 3 days well wrapped at room temperature thanks to all the butter; the sugared crust softens first, so it's best within a day or two."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Build the sponge", "summary": "Stir warm milk with a little yeast, sugar and flour and let it sit until visibly bubbling, about 20-25 minutes." },
-    { "title": "Mix and knead", "summary": "Beat in the remaining flour, salt, sugar, eggs, orange zest, anise and orange blossom water, then knead until the dough slaps the bowl; work in the butter gradually until glossy and smooth." },
-    { "title": "First rise, then cold retard", "summary": "Let the dough roughly double at room temperature, then refrigerate it covered overnight to firm up and deepen in flavor." },
-    { "title": "Shape the loaves and bones", "summary": "Let the chilled dough warm up, then divide it: shape two large rounds for the loaves, and from the rest roll thin ropes pinched at intervals to look like bones, plus small balls for the skull knobs." },
-    { "title": "Assemble and proof", "summary": "Cross two bone-shaped ropes over each round, anchor a ball in the center, then let the loaves proof, covered, until puffy, about an hour to 90 minutes." },
-    { "title": "Bake", "summary": "Bake until lightly browned, then tent with foil and continue until deeply golden and cooked through, about 40-45 minutes total." },
-    { "title": "Finish", "summary": "While still warm, brush the loaves generously with melted butter section by section and coat immediately in sugar before it cools." }
+    {
+      "title": "Build the sponge",
+      "summary": "Stir warm milk with a little yeast, sugar and flour and let it sit until visibly bubbling, about 20-25 minutes."
+    },
+    {
+      "title": "Mix and knead",
+      "summary": "Beat in the remaining flour, salt, sugar, eggs, orange zest, anise and orange blossom water, then knead until the dough slaps the bowl; work in the butter gradually until glossy and smooth."
+    },
+    {
+      "title": "First rise, then cold retard",
+      "summary": "Let the dough roughly double at room temperature, then refrigerate it covered overnight to firm up and deepen in flavor."
+    },
+    {
+      "title": "Shape the loaves and bones",
+      "summary": "Let the chilled dough warm up, then divide it: shape two large rounds for the loaves, and from the rest roll thin ropes pinched at intervals to look like bones, plus small balls for the skull knobs."
+    },
+    {
+      "title": "Assemble and proof",
+      "summary": "Cross two bone-shaped ropes over each round, anchor a ball in the center, then let the loaves proof, covered, until puffy, about an hour to 90 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until lightly browned, then tent with foil and continue until deeply golden and cooked through, about 40-45 minutes total."
+    },
+    {
+      "title": "Finish",
+      "summary": "While still warm, brush the loaves generously with melted butter section by section and coat immediately in sugar before it cools."
+    }
   ],
   "source": {
     "url": "https://www.kingarthurbaking.com/recipes/pan-de-muerto-day-of-the-dead-bread-recipe",
@@ -72,5 +189,11 @@
     "retrieved": "2026-07-17",
     "adaptation": "formula.* covers the mixed dough only; the basting butter and finishing sugar coat are listed as separate ingredients, not counted in fatPct/sugarPct."
   },
-  "tags": ["dia-de-muertos", "orange-anise", "altar-bread", "enriched"]
+  "tags": [
+    "dia-de-muertos",
+    "orange-anise",
+    "altar-bread",
+    "enriched"
+  ],
+  "doughType": "dough"
 }

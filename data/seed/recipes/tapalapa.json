@@ -6,14 +6,22 @@
     "es": "Tapalapa",
     "fr": "Tapalapa"
   },
-  "aliases": ["tapalapa bread", "Senegalese baguette", "petit pain sénégalais"],
+  "aliases": [
+    "tapalapa bread",
+    "Senegalese baguette",
+    "petit pain sénégalais"
+  ],
   "description": {
     "en": "A West African take on the French baguette, its dough stretched with millet, corn and cowpea flour and baked in wood-fired mud ovens. Denser and more filling than its ancestor, it is torn for breakfast alongside beans, fish or fried akara.",
     "de": "Eine westafrikanische Variante des französischen Baguettes, der Teig mit Hirse-, Mais- und Kuherbsenmehl gestreckt und in holzbefeuerten Lehmöfen gebacken. Dichter und sättigender als sein Vorbild, wird es zum Frühstück zu Bohnen, Fisch oder frittiertem Akara gerissen.",
     "es": "Una versión de África Occidental de la baguette francesa, con masa estirada con harina de mijo, maíz y frijol de vaca, horneada en hornos de barro con leña. Más densa y sustanciosa que su antecesora, se parte para el desayuno junto a frijoles, pescado o akara frito.",
     "fr": "Une version ouest-africaine de la baguette française, la pâte enrichie de farine de mil, de maïs et de niébé, cuite en four de terre au bois. Plus dense que son ancêtre, on la déchire au petit-déjeuner avec haricots, poisson ou akara frit."
   },
-  "origin": { "country": "SN", "region": "Senegal, Gambia, Mauritania and Guinea", "note": "Adapted from the French colonial baguette but stretched with millet, maize and cowpea flour and baked in wood-fired mud-brick ovens; heavier and more filling than its French ancestor." },
+  "origin": {
+    "country": "SN",
+    "region": "Gambia, Mauritania and Guinea",
+    "note": "Adapted from the French colonial baguette but stretched with millet, maize and cowpea flour and baked in wood-fired mud-brick ovens; heavier and more filling than its French ancestor."
+  },
   "leaven": "yeast",
   "family": "baguette",
   "formula": {
@@ -21,41 +29,143 @@
     "saltPct": 1.2,
     "yeastPct": 1.9,
     "flours": [
-      { "type": "wheat-white", "pct": 32.3 },
-      { "type": "millet", "pct": 15.8 },
-      { "type": "corn", "pct": 43.3 },
-      { "type": "chickpea", "pct": 8.6 }
+      {
+        "type": "wheat-white",
+        "pct": 32.3
+      },
+      {
+        "type": "millet",
+        "pct": 15.8
+      },
+      {
+        "type": "corn",
+        "pct": 43.3
+      },
+      {
+        "type": "chickpea",
+        "pct": 8.6
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 156 },
-    { "key": "flour:millet", "grams": 77 },
-    { "key": "flour:corn", "grams": 210, "note": "yellow corn flour" },
-    { "key": "flour:chickpea", "grams": 42, "note": "cowpea (black-eyed pea) flour; chickpea is the closest taxonomy match" },
-    { "key": "water", "grams": 356, "note": "warm" },
-    { "key": "active-dry-yeast", "grams": 9 },
-    { "key": "salt", "grams": 6 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 156
+    },
+    {
+      "key": "flour:millet",
+      "grams": 77
+    },
+    {
+      "key": "flour:corn",
+      "grams": 210,
+      "note": "yellow corn flour"
+    },
+    {
+      "key": "flour:chickpea",
+      "grams": 42,
+      "note": "cowpea (black-eyed pea) flour; chickpea is the closest taxonomy match"
+    },
+    {
+      "key": "water",
+      "grams": 356,
+      "note": "warm"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 9
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    }
   ],
-  "yield": { "count": 3, "pieceGrams": 251, "shape": "baguette loaf" },
-  "time": { "totalMin": 140, "activeMin": 25, "bulkMin": 60, "proofMin": 30, "bakeMin": 15, "overnight": false },
-  "bake": { "tempC": 220, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 3,
+    "pieceGrams": 251,
+    "shape": "baguette loaf"
+  },
+  "time": {
+    "totalMin": 140,
+    "activeMin": 25,
+    "bulkMin": 60,
+    "proofMin": 30,
+    "bakeMin": 15,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "chewy",
-  "flavors": ["earthy", "wheaty", "savory", "nutty"],
-  "purposes": ["everyday", "breakfast", "side"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 68 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best the day it is baked; the dense multigrain crumb keeps a little longer than plain wheat bread and toasts well after a day or two." },
-  "equipment": ["sheet-pan", "stand-mixer"],
-  "method": [
-    { "title": "Mix", "summary": "Combine the wheat, millet, corn and cowpea flours in a mixer bowl, then add salt, yeast and water; knead until smooth and elastic." },
-    { "title": "First rise", "summary": "Place in a greased bowl, cover, and let rise in a warm spot until doubled, about 1 hour." },
-    { "title": "Shape", "summary": "Cut the dough into 3 pieces and shape each into a baguette-style loaf." },
-    { "title": "Second rise", "summary": "Place on a baking sheet, optionally dusted with cornmeal, cover, and let rise 30 minutes." },
-    { "title": "Score", "summary": "Cut one long, shallow slash along the top of each loaf." },
-    { "title": "Bake", "summary": "Bake in a hot oven until golden brown, about 15 minutes." }
+  "flavors": [
+    "earthy",
+    "wheaty",
+    "savory",
+    "nutty"
   ],
-  "source": { "url": "https://www.196flavors.com/gambia-tapalapa/", "site": "196 Flavors", "retrieved": "2026-07-18", "adaptation": "Cup quantities for millet, corn and cowpea flours converted to grams using estimated densities; cowpea flour mapped to the taxonomy's chickpea type as the closest legume-flour match." },
-  "tags": ["west-african", "multigrain", "wood-oven"]
+  "purposes": [
+    "everyday",
+    "breakfast",
+    "side"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 68
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best the day it is baked; the dense multigrain crumb keeps a little longer than plain wheat bread and toasts well after a day or two."
+  },
+  "equipment": [
+    "sheet-pan",
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine the wheat, millet, corn and cowpea flours in a mixer bowl, then add salt, yeast and water; knead until smooth and elastic."
+    },
+    {
+      "title": "First rise",
+      "summary": "Place in a greased bowl, cover, and let rise in a warm spot until doubled, about 1 hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Cut the dough into 3 pieces and shape each into a baguette-style loaf."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Place on a baking sheet, optionally dusted with cornmeal, cover, and let rise 30 minutes."
+    },
+    {
+      "title": "Score",
+      "summary": "Cut one long, shallow slash along the top of each loaf."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a hot oven until golden brown, about 15 minutes."
+    }
+  ],
+  "source": {
+    "url": "https://www.196flavors.com/gambia-tapalapa/",
+    "site": "196 Flavors",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup quantities for millet, corn and cowpea flours converted to grams using estimated densities; cowpea flour mapped to the taxonomy's chickpea type as the closest legume-flour match."
+  },
+  "tags": [
+    "west-african",
+    "multigrain",
+    "wood-oven"
+  ],
+  "doughType": "dough"
 }

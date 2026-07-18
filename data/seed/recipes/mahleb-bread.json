@@ -7,14 +7,22 @@
     "fr": "Pain au mahlab et sésame",
     "native": "خبز بالمحلب"
   },
-  "aliases": ["ka'ak bi mahlab", "mahlab spice bread", "khubz mahlab"],
+  "aliases": [
+    "ka'ak bi mahlab",
+    "mahlab spice bread",
+    "khubz mahlab"
+  ],
   "description": {
     "en": "A crisp, spiced flatbread from Levantine and Egyptian kitchens, its dough rubbed with olive oil and studded with mahlab, anise, fennel and sesame. Rolled thin and baked at high heat until deeply golden, it keeps for days as a dunking bread for tea or coffee.",
     "de": "Ein knuspriges Gewürzfladenbrot aus der levantinischen und ägyptischen Küche, der Teig mit Olivenöl vermengt und mit Mahlab, Anis, Fenchel und Sesam gespickt. Dünn ausgerollt und heiß gebacken bis tief golden, hält es sich tagelang zum Eintunken in Tee oder Kaffee.",
     "es": "Un pan plano y crujiente con especias de la cocina levantina y egipcia, con masa mezclada con aceite de oliva y sazonada con mahlab, anís, hinojo y sésamo. Se estira fino y se hornea a fuego fuerte hasta dorarse, y aguanta días para mojar en té o café.",
     "fr": "Un pain plat croustillant et épicé du Levant et d'Égypte, la pâte à l'huile d'olive parfumée au mahlab, à l'anis, au fenouil et au sésame. Étalée fine et cuite à four très chaud, elle se garde des jours pour tremper dans le thé ou le café."
   },
-  "origin": { "country": "LB", "region": "Levant and Egypt", "note": "Mahlab, ground from St. Lucie cherry pits, flavors sweet breads and pastries across the Eastern Mediterranean; this seeded, olive-oil version is a home-bakery teatime bread rather than a festival loaf." },
+  "origin": {
+    "country": "LB",
+    "region": "Levant and Egypt",
+    "note": "Mahlab, ground from St. Lucie cherry pits, flavors sweet breads and pastries across the Eastern Mediterranean; this seeded, olive-oil version is a home-bakery teatime bread rather than a festival loaf."
+  },
   "leaven": "yeast",
   "family": "crispbread",
   "formula": {
@@ -24,43 +32,161 @@
     "fatPct": 24.6,
     "yeastPct": 1.4,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 625 },
-    { "key": "water", "grams": 480 },
-    { "key": "olive-oil", "grams": 154, "note": "rubbed into the flour until sandy, plus extra for brushing" },
-    { "label": { "en": "milk powder", "de": "Milchpulver", "es": "leche en polvo", "fr": "lait en poudre" }, "grams": 68 },
-    { "key": "active-dry-yeast", "grams": 9 },
-    { "key": "sugar", "grams": 8 },
-    { "key": "salt", "grams": 10, "note": "not specified by source; a modest amount added as is typical for yeasted dough" },
-    { "key": "anise", "grams": 18, "note": "whole and ground seeds, combined" },
-    { "key": "fennel-seed", "grams": 1.2, "note": "ground" },
-    { "label": { "en": "ground mahlab", "de": "gemahlenes Mahlab", "es": "mahlab molido", "fr": "mahlab moulu" }, "grams": 1 },
-    { "key": "sesame-seeds", "grams": 27, "note": "white and optional black sesame, for the dough and topping" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 625
+    },
+    {
+      "key": "water",
+      "grams": 480
+    },
+    {
+      "key": "olive-oil",
+      "grams": 154,
+      "note": "rubbed into the flour until sandy, plus extra for brushing"
+    },
+    {
+      "label": {
+        "en": "milk powder",
+        "de": "Milchpulver",
+        "es": "leche en polvo",
+        "fr": "lait en poudre"
+      },
+      "grams": 68
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 9
+    },
+    {
+      "key": "sugar",
+      "grams": 8
+    },
+    {
+      "key": "salt",
+      "grams": 10,
+      "note": "not specified by source; a modest amount added as is typical for yeasted dough"
+    },
+    {
+      "key": "anise",
+      "grams": 18,
+      "note": "whole and ground seeds, combined"
+    },
+    {
+      "key": "fennel-seed",
+      "grams": 1.2,
+      "note": "ground"
+    },
+    {
+      "label": {
+        "en": "ground mahlab",
+        "de": "gemahlenes Mahlab",
+        "es": "mahlab molido",
+        "fr": "mahlab moulu"
+      },
+      "grams": 1
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 27,
+      "note": "white and optional black sesame, for the dough and topping"
+    }
   ],
-  "yield": { "count": 10, "pieceGrams": 115, "shape": "thin round, about 1 cm thick" },
-  "time": { "totalMin": 130, "activeMin": 40, "bulkMin": 60, "bakeMin": 15, "overnight": false },
-  "bake": { "tempC": 270, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 10,
+    "pieceGrams": 115,
+    "shape": "thin round, about 1 cm thick"
+  },
+  "time": {
+    "totalMin": 130,
+    "activeMin": 40,
+    "bulkMin": 60,
+    "bakeMin": 15,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 270,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["spiced", "nutty", "toasty", "savory"],
-  "purposes": ["snack", "breakfast", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 10, "freezes": true, "note": "Its whole point is long shelf life: keeps over a week in an airtight tin and needs no reheating." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Bloom yeast", "summary": "Dissolve the sugar and yeast in part of the water; let stand until foamy." },
-    { "title": "Mix dry ingredients", "summary": "Combine flour, milk powder, anise, sesame, mahlab and fennel, then rub in the olive oil until the mixture looks like wet sand." },
-    { "title": "Knead", "summary": "Add the yeast mixture and the remaining water; knead into a smooth, firm dough." },
-    { "title": "Rise", "summary": "Cover and let the dough double in size, about 1 hour." },
-    { "title": "Shape", "summary": "Divide into pieces and roll each into a thin round, about 1 cm thick or thinner for a crisper result." },
-    { "title": "Top", "summary": "Arrange on an oiled tray, brush with olive oil, and scatter over more sesame seeds." },
-    { "title": "Bake", "summary": "Bake in a very hot oven until the undersides are deep gold, then broil briefly to color the tops." }
+  "flavors": [
+    "spiced",
+    "nutty",
+    "toasty",
+    "savory"
   ],
-  "source": { "url": "https://honestcooking.com/middle-eastern-seeds-olive-oil-bread-recipe/", "site": "Honest Cooking", "retrieved": "2026-07-18", "adaptation": "Cup measures converted to grams; source did not list salt, so a modest typical amount was added; chose the 10-large-piece option over the 20-small alternative." },
-  "tags": ["teatime", "seeded", "keeper-bread"]
+  "purposes": [
+    "snack",
+    "breakfast",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 10,
+    "freezes": true,
+    "note": "Its whole point is long shelf life: keeps over a week in an airtight tin and needs no reheating."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom yeast",
+      "summary": "Dissolve the sugar and yeast in part of the water; let stand until foamy."
+    },
+    {
+      "title": "Mix dry ingredients",
+      "summary": "Combine flour, milk powder, anise, sesame, mahlab and fennel, then rub in the olive oil until the mixture looks like wet sand."
+    },
+    {
+      "title": "Knead",
+      "summary": "Add the yeast mixture and the remaining water; knead into a smooth, firm dough."
+    },
+    {
+      "title": "Rise",
+      "summary": "Cover and let the dough double in size, about 1 hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into pieces and roll each into a thin round, about 1 cm thick or thinner for a crisper result."
+    },
+    {
+      "title": "Top",
+      "summary": "Arrange on an oiled tray, brush with olive oil, and scatter over more sesame seeds."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a very hot oven until the undersides are deep gold, then broil briefly to color the tops."
+    }
+  ],
+  "source": {
+    "url": "https://honestcooking.com/middle-eastern-seeds-olive-oil-bread-recipe/",
+    "site": "Honest Cooking",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup measures converted to grams; source did not list salt, so a modest typical amount was added; chose the 10-large-piece option over the 20-small alternative."
+  },
+  "tags": [
+    "teatime",
+    "seeded",
+    "keeper-bread"
+  ],
+  "doughType": "dough"
 }

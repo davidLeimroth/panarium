@@ -6,14 +6,21 @@
     "es": "Pan de masa madre con aceitunas verdes y hierbas",
     "fr": "Pain au levain aux olives vertes et aux herbes"
   },
-  "aliases": ["Olive sourdough", "Castelvetrano olive bread"],
+  "aliases": [
+    "Olive sourdough",
+    "Castelvetrano olive bread"
+  ],
   "description": {
     "en": "Briny Castelvetrano-style green olives and a scattering of herbes de Provence turn a simple wheat sourdough into a Mediterranean-leaning table loaf. Salty, herbal and faintly tangy, it needs nothing more than a good olive oil alongside.",
     "de": "Salzig-milde grüne Oliven nach Castelvetrano-Art und eine Prise Herbes de Provence machen aus einem schlichten Weizensauerteig ein mediterran angehauchtes Tischbrot. Salzig, kräuterwürzig und leicht säuerlich – dazu braucht es nur ein gutes Olivenöl.",
     "es": "Aceitunas verdes saladas al estilo Castelvetrano y un toque de hierbas de Provenza convierten un sencillo pan de trigo con masa madre en un pan de mesa de aire mediterráneo. Salado, herbáceo y ligeramente ácido, no necesita más que un buen aceite de oliva al lado.",
     "fr": "Des olives vertes salées façon Castelvetrano et une pincée d'herbes de Provence transforment un simple levain de blé en un pain de table aux accents méditerranéens. Salé, herbacé et légèrement acidulé, il ne demande qu'une bonne huile d'olive à ses côtés."
   },
-  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "A Mediterranean-leaning mix-in on the standard American artisan sourdough base, not tied to a single olive-growing region." },
+  "origin": {
+    "country": "US",
+    "region": "Modern American artisan bakeries",
+    "note": "A Mediterranean-leaning mix-in on the standard American artisan sourdough base, not tied to a single olive-growing region."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -21,41 +28,149 @@
     "saltPct": 1.7,
     "prefermentedFlourPct": 6,
     "flours": [
-      { "type": "wheat-white", "pct": 68.8 },
-      { "type": "wheat-whole", "pct": 31.2 }
+      {
+        "type": "wheat-white",
+        "pct": 68.8
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 31.2
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 646, "note": "bread flour" },
-    { "key": "flour:wheat-whole", "grams": 293 },
-    { "key": "water", "grams": 719 },
-    { "key": "sourdough-starter", "grams": 28 },
-    { "key": "salt", "grams": 16 },
-    { "label": { "en": "green olives, pitted and rinsed", "de": "grüne Oliven, entsteint und abgespült", "es": "aceitunas verdes, deshuesadas y enjuagadas", "fr": "olives vertes dénoyautées et rincées" }, "grams": 203 },
-    { "label": { "en": "herbes de Provence", "de": "Kräuter der Provence", "es": "hierbas de Provenza", "fr": "herbes de Provence" }, "grams": 7 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 646,
+      "note": "bread flour"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 293
+    },
+    {
+      "key": "water",
+      "grams": 719
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 28
+    },
+    {
+      "key": "salt",
+      "grams": 16
+    },
+    {
+      "label": {
+        "en": "green olives, pitted and rinsed",
+        "de": "grüne Oliven, entsteint und abgespült",
+        "es": "aceitunas verdes, deshuesadas y enjuagadas",
+        "fr": "olives vertes dénoyautées et rincées"
+      },
+      "grams": 203
+    },
+    {
+      "label": {
+        "en": "herbes de Provence",
+        "de": "Kräuter der Provence",
+        "es": "hierbas de Provenza",
+        "fr": "herbes de Provence"
+      },
+      "grams": 7
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 900, "shape": "batard or boule" },
-  "time": { "totalMin": 1605, "activeMin": 35, "bulkMin": 225, "proofMin": 840, "bakeMin": 50, "overnight": true },
-  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 900,
+    "shape": "batard or boule"
+  },
+  "time": {
+    "totalMin": 1605,
+    "activeMin": 35,
+    "bulkMin": 225,
+    "proofMin": 840,
+    "bakeMin": 50,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["olive", "herbal", "savory"],
-  "purposes": ["table", "snack", "side"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 31 },
-  "keeping": { "freshDays": 3, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Build the levain", "summary": "Mix starter, bread flour, whole wheat flour and water; ripen about 5 hours." },
-    { "title": "Autolyse", "summary": "Combine the remaining flours and water; rest 1 hour." },
-    { "title": "Mix", "summary": "Work in the levain, then the salt and reserved water." },
-    { "title": "Bulk ferment with olives", "summary": "Fold in the rinsed, pitted olives and herbes de Provence during the first stretch-and-fold, then continue with two more sets over about 3.5 hours." },
-    { "title": "Shape", "summary": "Divide, preshape, rest 30 minutes, then shape into batards or boules; optionally roll in wheat germ." },
-    { "title": "Cold proof", "summary": "Proof seam-side-up in the refrigerator overnight, about 14 hours." },
-    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep gold and the interior reads 96°C." },
-    { "title": "Cool", "summary": "Rest 1-2 hours before slicing." }
+  "flavors": [
+    "olive",
+    "herbal",
+    "savory"
   ],
-  "source": { "url": "https://www.theperfectloaf.com/green-olive-and-herb-sourdough-bread/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17", "adaptation": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base per house convention (the source's own published percentages exclude it)." },
-  "tags": ["olive", "mediterranean-leaning"]
+  "purposes": [
+    "table",
+    "snack",
+    "side"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 31
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build the levain",
+      "summary": "Mix starter, bread flour, whole wheat flour and water; ripen about 5 hours."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Combine the remaining flours and water; rest 1 hour."
+    },
+    {
+      "title": "Mix",
+      "summary": "Work in the levain, then the salt and reserved water."
+    },
+    {
+      "title": "Bulk ferment with olives",
+      "summary": "Fold in the rinsed, pitted olives and herbes de Provence during the first stretch-and-fold, then continue with two more sets over about 3.5 hours."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide, preshape, rest 30 minutes, then shape into batards or boules; optionally roll in wheat germ."
+    },
+    {
+      "title": "Cold proof",
+      "summary": "Proof seam-side-up in the refrigerator overnight, about 14 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep gold and the interior reads 96°C."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest 1-2 hours before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.theperfectloaf.com/green-olive-and-herb-sourdough-bread/",
+    "site": "The Perfect Loaf",
+    "author": "Maurizio Leo",
+    "retrieved": "2026-07-17",
+    "adaptation": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base per house convention (the source's own published percentages exclude it)."
+  },
+  "tags": [
+    "olive",
+    "mediterranean-leaning"
+  ],
+  "doughType": "dough"
 }

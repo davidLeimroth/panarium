@@ -7,50 +7,138 @@
     "fr": "Galette ancestrale norvégienne (Flatbrød)",
     "native": "Flatbrød"
   },
-  "aliases": ["Norwegian crispbread", "Viking flatbread"],
+  "aliases": [
+    "Norwegian crispbread",
+    "Viking flatbread"
+  ],
   "description": {
     "en": "Norway's Viking-age cracker bread: just barley flour, wheat, salt and water, rolled paper-thin and griddled dry until it snaps. Once stacked feet-high by the bakstekjerring for a winter's worth of keeping, still shatteringly crisp today.",
     "de": "Norwegens Knäckebrot aus der Wikingerzeit: nur Gerstenmehl, Weizen, Salz und Wasser, hauchdünn ausgerollt und trocken auf der Platte gebacken, bis es knackt. Einst von der Bakstekjerring meterhoch für einen ganzen Winter gestapelt, heute noch genauso splitterig knusprig.",
     "es": "El pan cracker de la era vikinga de Noruega: solo harina de cebada, trigo, sal y agua, extendido finísimo y cocido en seco en la plancha hasta que cruje. Antaño apilado metros de alto por la bakstekjerring para todo un invierno, hoy sigue igual de crujiente.",
     "fr": "Le pain-cracker de l'ère viking en Norvège : farine d'orge, froment, sel et eau, étalés ultra-fin et cuits à sec sur la plaque jusqu'à ce qu'ils craquent. Autrefois empilés sur des mètres par la bakstekjerring pour l'hiver, toujours aussi croustillants aujourd'hui."
   },
-  "origin": { "country": "NO", "region": "Norway, nationwide", "note": "Traces to Viking-era cooking on flat stones; historically made from whatever grain was on hand, most often barley." },
+  "origin": {
+    "country": "NO",
+    "region": "nationwide",
+    "note": "Traces to Viking-era cooking on flat stones; historically made from whatever grain was on hand, most often barley."
+  },
   "leaven": "none",
   "family": "crispbread",
   "formula": {
     "hydrationPct": 49,
     "saltPct": 1.4,
     "flours": [
-      { "type": "wheat-white", "pct": 51 },
-      { "type": "barley", "pct": 49 }
+      {
+        "type": "wheat-white",
+        "pct": 51
+      },
+      {
+        "type": "barley",
+        "pct": 49
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:barley", "grams": 180 },
-    { "key": "flour:wheat-white", "grams": 190 },
-    { "key": "salt", "grams": 5 },
-    { "key": "water", "grams": 180 }
+    {
+      "key": "flour:barley",
+      "grams": 180
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 190
+    },
+    {
+      "key": "salt",
+      "grams": 5
+    },
+    {
+      "key": "water",
+      "grams": 180
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 60, "shape": "paper-thin 20-25cm round" },
-  "time": { "totalMin": 80, "activeMin": 50, "proofMin": 30, "bakeMin": 12 },
-  "bake": { "tempC": 190, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 60,
+    "shape": "paper-thin 20-25cm round"
+  },
+  "time": {
+    "totalMin": 80,
+    "activeMin": 50,
+    "proofMin": 30,
+    "bakeMin": 12
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["nutty", "wheaty", "mild", "earthy"],
-  "purposes": ["soup-companion", "everyday", "snack", "side"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 49 },
-  "keeping": { "freshDays": 180, "freezes": false, "note": "Keeps for months in a dry tin, food built for a Norwegian winter, no freezer required." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix", "summary": "Combine barley flour, all-purpose flour and salt, then work in warm water to a smooth, firm dough." },
-    { "title": "Rest", "summary": "Cover and let rest 30 minutes." },
-    { "title": "Portion", "summary": "Divide into six pieces and roll each into a ball." },
-    { "title": "Roll thin", "summary": "Flatten and roll each piece paper-thin, rotating often to keep it round." },
-    { "title": "Cook", "summary": "Dry-griddle each round over medium-high heat, 30-60 seconds per side, until brown-spotted." },
-    { "title": "Cool and store", "summary": "Cool on a rack until it snaps cleanly, then keep in an airtight tin." }
+  "flavors": [
+    "nutty",
+    "wheaty",
+    "mild",
+    "earthy"
   ],
-  "source": { "url": "https://thenordicdish.com/norwegian-flatbrod-flatbread-recipe-masterclass/", "site": "The Nordic Dish", "retrieved": "2026-07-17", "adaptation": "Used the base grain-and-water version (no potato or butter option) to keep this entry distinct from the potato-based lefse." },
-  "tags": ["viking-era", "keeper"]
+  "purposes": [
+    "soup-companion",
+    "everyday",
+    "snack",
+    "side"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 49
+  },
+  "keeping": {
+    "freshDays": 180,
+    "freezes": false,
+    "note": "Keeps for months in a dry tin, food built for a Norwegian winter, no freezer required."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine barley flour, all-purpose flour and salt, then work in warm water to a smooth, firm dough."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cover and let rest 30 minutes."
+    },
+    {
+      "title": "Portion",
+      "summary": "Divide into six pieces and roll each into a ball."
+    },
+    {
+      "title": "Roll thin",
+      "summary": "Flatten and roll each piece paper-thin, rotating often to keep it round."
+    },
+    {
+      "title": "Cook",
+      "summary": "Dry-griddle each round over medium-high heat, 30-60 seconds per side, until brown-spotted."
+    },
+    {
+      "title": "Cool and store",
+      "summary": "Cool on a rack until it snaps cleanly, then keep in an airtight tin."
+    }
+  ],
+  "source": {
+    "url": "https://thenordicdish.com/norwegian-flatbrod-flatbread-recipe-masterclass/",
+    "site": "The Nordic Dish",
+    "retrieved": "2026-07-17",
+    "adaptation": "Used the base grain-and-water version (no potato or butter option) to keep this entry distinct from the potato-based lefse."
+  },
+  "tags": [
+    "viking-era",
+    "keeper"
+  ],
+  "doughType": "stiff"
 }

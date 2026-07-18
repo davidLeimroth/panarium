@@ -7,14 +7,21 @@
     "fr": "Pain complet norvégien (Grovbrød)",
     "native": "Grovbrød"
   },
-  "aliases": ["Norwegian brown bread", "coarse bread"],
+  "aliases": [
+    "Norwegian brown bread",
+    "coarse bread"
+  ],
   "description": {
     "en": "Norway's daily sandwich loaf: whole wheat, a little rye and a scattering of bran and seeds, kneaded into a hearty pan bread with a light natural sweetness. The everyday backbone of the Norwegian breakfast and packed-lunch table.",
     "de": "Norwegens tägliches Sandwichbrot: Vollkornweizen, ein wenig Roggen und eine Prise Kleie und Saaten, zu einem herzhaften Kastenbrot mit leichter natürlicher Süße geknetet. Das alltägliche Rückgrat des norwegischen Frühstücks- und Lunchpakettischs.",
     "es": "El pan de molde diario de Noruega: trigo integral, un poco de centeno y un toque de salvado y semillas, amasado en un pan de molde contundente con una ligera dulzura natural. El pilar cotidiano del desayuno y la fiambrera noruegos.",
     "fr": "Le pain de mie quotidien de la Norvège : blé complet, un peu de seigle et une touche de son et de graines, pétri en un pain de mie généreux à la douceur naturelle discrète. Le pilier de tous les jours du petit-déjeuner et du panier-repas norvégien."
   },
-  "origin": { "country": "NO", "region": "Norway, nationwide", "note": "The everyday counterpart to festive breads like lefse and vörtbröd-style loaves; built around whole grains, bran and seeds." },
+  "origin": {
+    "country": "NO",
+    "region": "nationwide",
+    "note": "The everyday counterpart to festive breads like lefse and vörtbröd-style loaves; built around whole grains, bran and seeds."
+  },
   "leaven": "yeast",
   "family": "pan-loaf",
   "formula": {
@@ -22,42 +29,153 @@
     "saltPct": 1.2,
     "yeastPct": 0.7,
     "flours": [
-      { "type": "wheat-white", "pct": 46 },
-      { "type": "wheat-whole", "pct": 46 },
-      { "type": "rye-whole", "pct": 8 }
+      {
+        "type": "wheat-white",
+        "pct": 46
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 46
+      },
+      {
+        "type": "rye-whole",
+        "pct": 8
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 240 },
-    { "key": "flour:wheat-white", "grams": 240, "note": "strong bread flour" },
-    { "key": "flour:rye-whole", "grams": 40 },
-    { "label": { "en": "wheat bran", "de": "Weizenkleie", "es": "salvado de trigo", "fr": "son de blé" }, "grams": 50 },
-    { "key": "instant-yeast", "grams": 3.5 },
-    { "key": "salt", "grams": 6 },
-    { "key": "water", "grams": 480 },
-    { "label": { "en": "mixed seeds (sunflower, pumpkin, flax, sesame)", "de": "gemischte Saaten (Sonnenblume, Kürbis, Lein, Sesam)", "es": "semillas variadas (girasol, calabaza, lino, sésamo)", "fr": "graines mélangées (tournesol, courge, lin, sésame)" }, "grams": 30 }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 240
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 240,
+      "note": "strong bread flour"
+    },
+    {
+      "key": "flour:rye-whole",
+      "grams": 40
+    },
+    {
+      "label": {
+        "en": "wheat bran",
+        "de": "Weizenkleie",
+        "es": "salvado de trigo",
+        "fr": "son de blé"
+      },
+      "grams": 50
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3.5
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "water",
+      "grams": 480
+    },
+    {
+      "label": {
+        "en": "mixed seeds (sunflower, pumpkin, flax, sesame)",
+        "de": "gemischte Saaten (Sonnenblume, Kürbis, Lein, Sesam)",
+        "es": "semillas variadas (girasol, calabaza, lino, sésamo)",
+        "fr": "graines mélangées (tournesol, courge, lin, sésame)"
+      },
+      "grams": 30
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 950, "shape": "9x5-inch pan loaf" },
-  "time": { "totalMin": 290, "activeMin": 25, "bulkMin": 180, "proofMin": 45, "bakeMin": 40 },
-  "bake": { "tempC": 200, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 950,
+    "shape": "9x5-inch pan loaf"
+  },
+  "time": {
+    "totalMin": 290,
+    "activeMin": 25,
+    "bulkMin": 180,
+    "proofMin": 45,
+    "bakeMin": 40
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["wheaty", "nutty", "earthy", "mild"],
-  "purposes": ["everyday", "sandwich", "breakfast", "toast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 54 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Keeps about 2 days at room temperature in an airtight bag; freezes well sliced." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Combine whole wheat flour, white flour, rye flour, bran, yeast and salt in a stand mixer." },
-    { "title": "Knead", "summary": "Add warm water and knead about 10 minutes to a smooth, dense dough." },
-    { "title": "First rise", "summary": "Cover and let rise in a warm spot about 3 hours." },
-    { "title": "Shape", "summary": "Shape into a round, rest 10 minutes, then form into an oblong loaf and place in a buttered pan." },
-    { "title": "Second rise", "summary": "Cover and let rise about 45 minutes until doubled." },
-    { "title": "Top and bake", "summary": "Brush with water, press on the mixed seeds, and bake until golden brown, about 40 minutes." },
-    { "title": "Cool", "summary": "Cool in the pan briefly, then turn out onto a rack to cool fully." }
+  "flavors": [
+    "wheaty",
+    "nutty",
+    "earthy",
+    "mild"
   ],
-  "source": { "url": "https://northwildkitchen.com/hearty-whole-grain-bread/", "site": "North Wild Kitchen", "retrieved": "2026-07-17", "adaptation": "Wheat bran kept as a separate ingredient outside the flour-percentage total, since the taxonomy has no bran flour type." },
-  "tags": ["daily-bread", "seeded"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast",
+    "toast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 54
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Keeps about 2 days at room temperature in an airtight bag; freezes well sliced."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine whole wheat flour, white flour, rye flour, bran, yeast and salt in a stand mixer."
+    },
+    {
+      "title": "Knead",
+      "summary": "Add warm water and knead about 10 minutes to a smooth, dense dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise in a warm spot about 3 hours."
+    },
+    {
+      "title": "Shape",
+      "summary": "Shape into a round, rest 10 minutes, then form into an oblong loaf and place in a buttered pan."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Cover and let rise about 45 minutes until doubled."
+    },
+    {
+      "title": "Top and bake",
+      "summary": "Brush with water, press on the mixed seeds, and bake until golden brown, about 40 minutes."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool in the pan briefly, then turn out onto a rack to cool fully."
+    }
+  ],
+  "source": {
+    "url": "https://northwildkitchen.com/hearty-whole-grain-bread/",
+    "site": "North Wild Kitchen",
+    "retrieved": "2026-07-17",
+    "adaptation": "Wheat bran kept as a separate ingredient outside the flour-percentage total, since the taxonomy has no bran flour type."
+  },
+  "tags": [
+    "daily-bread",
+    "seeded"
+  ],
+  "doughType": "dough"
 }

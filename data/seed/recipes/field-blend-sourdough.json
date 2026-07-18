@@ -6,14 +6,21 @@
     "es": "Pan de masa madre 'Field Blend' (mezcla de trigo y centeno)",
     "fr": "Pain au levain 'Field Blend' (mélange de blés)"
   },
-  "aliases": ["Forkish Field Blend #2", "White, whole wheat and rye sourdough"],
+  "aliases": [
+    "Forkish Field Blend #2",
+    "White, whole wheat and rye sourdough"
+  ],
   "description": {
     "en": "Ken Forkish's homage to the winemaker's field blend: white, whole wheat and whole rye flours fermented together with both a wild levain and a little commercial yeast for insurance. The rye adds a deep, faintly sour, earthy note beneath a wide-open crumb.",
     "de": "Ken Forkishs Hommage an den Field Blend der Winzer: helles Weizenmehl, Vollkornweizen und Vollkornroggen, gemeinsam vergoren mit wildem Sauerteig und einer Prise Hefe zur Absicherung. Der Roggen sorgt für eine tiefe, leicht säuerliche, erdige Note unter einer weit offenen Krume.",
     "es": "El homenaje de Ken Forkish al 'field blend' de los enólogos: trigo blanco, integral y centeno integral fermentados juntos con un levain silvestre y un toque de levadura comercial como seguro. El centeno aporta una nota profunda y terrosa bajo una miga bien abierta.",
     "fr": "L'hommage de Ken Forkish à l'assemblage des vignerons: blé blanc, complet et seigle complet fermentés ensemble avec un levain sauvage et une pointe de levure commerciale par précaution. Le seigle apporte une note profonde et terreuse sous une mie grande ouverte."
   },
-  "origin": { "country": "US", "region": "Portland, Oregon", "note": "From Ken Forkish's 'Flour Water Salt Yeast' (2012), by way of Ken's Artisan Bakery; the 'field blend' name borrows from winemaking's practice of co-fermenting several grape varieties." },
+  "origin": {
+    "country": "US",
+    "region": "Portland, Oregon",
+    "note": "From Ken Forkish's 'Flour Water Salt Yeast' (2012), by way of Ken's Artisan Bakery; the 'field blend' name borrows from winemaking's practice of co-fermenting several grape varieties."
+  },
   "leaven": "hybrid",
   "family": "hearth-loaf",
   "formula": {
@@ -22,41 +29,141 @@
     "yeastPct": 0.2,
     "prefermentedFlourPct": 8,
     "flours": [
-      { "type": "wheat-white", "pct": 70 },
-      { "type": "wheat-whole", "pct": 12.5 },
-      { "type": "rye-whole", "pct": 17.5 }
+      {
+        "type": "wheat-white",
+        "pct": 70
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 12.5
+      },
+      {
+        "type": "rye-whole",
+        "pct": 17.5
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 700, "note": "bread flour" },
-    { "key": "flour:wheat-whole", "grams": 125 },
-    { "key": "flour:rye-whole", "grams": 175 },
-    { "key": "water", "grams": 780 },
-    { "key": "levain", "grams": 180, "note": "built the day before from starter, flour and water" },
-    { "key": "salt", "grams": 21 },
-    { "key": "instant-yeast", "grams": 2, "note": "a small insurance amount alongside the wild levain" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 700,
+      "note": "bread flour"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 125
+    },
+    {
+      "key": "flour:rye-whole",
+      "grams": 175
+    },
+    {
+      "key": "water",
+      "grams": 780
+    },
+    {
+      "key": "levain",
+      "grams": 180,
+      "note": "built the day before from starter, flour and water"
+    },
+    {
+      "key": "salt",
+      "grams": 21
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 2,
+      "note": "a small insurance amount alongside the wild levain"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 850, "shape": "boule" },
-  "time": { "totalMin": 1800, "activeMin": 35, "bulkMin": 300, "proofMin": 720, "bakeMin": 50, "overnight": true },
-  "bake": { "tempC": 246, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 850,
+    "shape": "boule"
+  },
+  "time": {
+    "totalMin": 1800,
+    "activeMin": 35,
+    "bulkMin": 300,
+    "proofMin": 720,
+    "bakeMin": 50,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 246,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["earthy", "malty", "wheaty"],
-  "purposes": ["everyday", "table"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 30 },
-  "keeping": { "freshDays": 4, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Build the levain", "summary": "The day before, mix a portion of mature starter with flour and water; let it ripen at room temperature." },
-    { "title": "Mix", "summary": "Combine the white, whole wheat and whole rye flours with water, the ripe levain, salt and a small amount of instant yeast into a shaggy dough." },
-    { "title": "Bulk ferment", "summary": "Ferment about 5 hours at room temperature with a few folds, until the dough has roughly doubled." },
-    { "title": "Shape", "summary": "Divide, shape into boules, and place seam-side up in floured bannetons." },
-    { "title": "Cold retard", "summary": "Refrigerate overnight, about 12 hours, for fuller flavor." },
-    { "title": "Bake", "summary": "Bake in a preheated cast-iron combo cooker at a high heat (about 246°C): roughly 30 minutes covered, then 20 minutes uncovered until dark brown." },
-    { "title": "Cool", "summary": "Rest at least an hour before slicing." }
+  "flavors": [
+    "earthy",
+    "malty",
+    "wheaty"
   ],
-  "source": { "url": "http://bakingartisanbread.blogspot.com/2014/03/ken-forkishs-field-blend-2.html", "site": "Baking Artisan Bread", "author": "After Ken Forkish / Flour Water Salt Yeast", "retrieved": "2026-07-17", "adaptation": "Source gives flour percentages and partial timing from a halved batch, but not hydration or salt; those and the gram scale are estimated from Forkish's well-documented formula conventions." },
-  "tags": ["forkish", "mixed-grain", "hybrid-leaven"]
+  "purposes": [
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 30
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build the levain",
+      "summary": "The day before, mix a portion of mature starter with flour and water; let it ripen at room temperature."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine the white, whole wheat and whole rye flours with water, the ripe levain, salt and a small amount of instant yeast into a shaggy dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Ferment about 5 hours at room temperature with a few folds, until the dough has roughly doubled."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide, shape into boules, and place seam-side up in floured bannetons."
+    },
+    {
+      "title": "Cold retard",
+      "summary": "Refrigerate overnight, about 12 hours, for fuller flavor."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a preheated cast-iron combo cooker at a high heat (about 246°C): roughly 30 minutes covered, then 20 minutes uncovered until dark brown."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest at least an hour before slicing."
+    }
+  ],
+  "source": {
+    "url": "http://bakingartisanbread.blogspot.com/2014/03/ken-forkishs-field-blend-2.html",
+    "site": "Baking Artisan Bread",
+    "author": "After Ken Forkish / Flour Water Salt Yeast",
+    "retrieved": "2026-07-17",
+    "adaptation": "Source gives flour percentages and partial timing from a halved batch, but not hydration or salt; those and the gram scale are estimated from Forkish's well-documented formula conventions."
+  },
+  "tags": [
+    "forkish",
+    "mixed-grain",
+    "hybrid-leaven"
+  ],
+  "doughType": "dough"
 }

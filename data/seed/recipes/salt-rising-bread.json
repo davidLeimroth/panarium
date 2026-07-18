@@ -6,7 +6,9 @@
     "es": "Salt-rising bread (pan de fermentación bacteriana de los Apalaches)",
     "fr": "Salt-rising bread (pain à fermentation bactérienne des Appalaches)"
   },
-  "aliases": ["salt rising bread"],
+  "aliases": [
+    "salt rising bread"
+  ],
   "description": {
     "en": "An Appalachian pan loaf raised not by yeast but by wild bacteria cultured overnight from cornmeal and milk into a pungent, foaming starter. Slow and temperature-sensitive to make, with a tight crumb and a famously long, cheese-like keeping quality.",
     "de": "Ein Kastenbrot aus den Appalachen, nicht durch Hefe, sondern durch wilde Bakterien getrieben, über Nacht aus Maismehl und Milch zu einem stark riechenden, schäumenden Ansatz herangezogen. Langsam in der Herstellung, mit dichter Krume und langer, käseartiger Haltbarkeit.",
@@ -27,43 +29,157 @@
     "fatPct": 12,
     "prefermentedFlourPct": 41,
     "flours": [
-      { "type": "corn", "pct": 3 },
-      { "type": "wheat-white", "pct": 97 }
+      {
+        "type": "corn",
+        "pct": 3
+      },
+      {
+        "type": "wheat-white",
+        "pct": 97
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "milk", "grams": 57, "note": "starter 1" },
-    { "key": "cornmeal", "grams": 14, "note": "starter 1" },
-    { "key": "sugar", "grams": 4, "note": "starter 1" },
-    { "key": "water", "grams": 227, "note": "hot, 49-54°C; starter 2" },
-    { "key": "salt", "grams": 3, "note": "starter 2" },
-    { "key": "baking-soda", "grams": 2.5, "note": "starter 2" },
-    { "key": "sugar", "grams": 2, "note": "starter 2" },
-    { "key": "flour:wheat-white", "grams": 180, "note": "starter 2" },
-    { "key": "butter", "grams": 57, "note": "soft, final dough" },
-    { "key": "salt", "grams": 3, "note": "final dough" },
-    { "key": "flour:wheat-white", "grams": 285, "note": "final dough" }
+    {
+      "key": "milk",
+      "grams": 57,
+      "note": "starter 1"
+    },
+    {
+      "key": "cornmeal",
+      "grams": 14,
+      "note": "starter 1"
+    },
+    {
+      "key": "sugar",
+      "grams": 4,
+      "note": "starter 1"
+    },
+    {
+      "key": "water",
+      "grams": 227,
+      "note": "hot, 49-54°C; starter 2"
+    },
+    {
+      "key": "salt",
+      "grams": 3,
+      "note": "starter 2"
+    },
+    {
+      "key": "baking-soda",
+      "grams": 2.5,
+      "note": "starter 2"
+    },
+    {
+      "key": "sugar",
+      "grams": 2,
+      "note": "starter 2"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 180,
+      "note": "starter 2"
+    },
+    {
+      "key": "butter",
+      "grams": 57,
+      "note": "soft, final dough"
+    },
+    {
+      "key": "salt",
+      "grams": 3,
+      "note": "final dough"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 285,
+      "note": "final dough"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 750, "shape": "single pan loaf, 8.5 x 4.5 inch" },
-  "time": { "totalMin": 1100, "activeMin": 30, "bulkMin": 780, "proofMin": 240, "bakeMin": 37, "overnight": true },
-  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 750,
+    "shape": "single pan loaf, 8.5 x 4.5 inch"
+  },
+  "time": {
+    "totalMin": 1100,
+    "activeMin": 30,
+    "bulkMin": 780,
+    "proofMin": 240,
+    "bakeMin": 37,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 4,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["sour", "earthy", "savory", "toasty"],
-  "purposes": ["everyday", "toast", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 6, "freezes": true, "note": "Famous for keeping exceptionally well past a week, unusual for a bread without preservatives; the flavor mellows and rounds out a day or two after baking." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Build starter one", "summary": "Stir warm milk, cornmeal and sugar together in a jar, cover, and hold at 32-38°C for 8-12 hours until bubbly and pungent." },
-    { "title": "Build starter two", "summary": "Whisk hot water, salt, baking soda, sugar and flour into starter one, then hold warm again for 2-4 hours until actively foaming." },
-    { "title": "Mix final dough", "summary": "Beat in the soft butter, salt and remaining flour to a soft dough." },
-    { "title": "Rise", "summary": "Scrape into a buttered loaf pan and let rise in a warm spot until it crests the rim, up to 4 hours." },
-    { "title": "Bake", "summary": "Bake until deeply golden and a skewer comes out clean, 35-40 minutes." },
-    { "title": "Cool", "summary": "Rest in the pan 10 minutes, then turn out onto a rack to cool completely before slicing." }
+  "flavors": [
+    "sour",
+    "earthy",
+    "savory",
+    "toasty"
   ],
-  "source": { "url": "https://www.kingarthurbaking.com/recipes/classic-american-salt-rising-bread-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-18", "adaptation": "Classified leaven as chemical per the source's framing of the added baking soda, though the primary rise is wild bacterial fermentation in the two starters, a mechanism outside this taxonomy's enum." },
-  "tags": ["appalachian", "bacterial-ferment"]
+  "purposes": [
+    "everyday",
+    "toast",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 6,
+    "freezes": true,
+    "note": "Famous for keeping exceptionally well past a week, unusual for a bread without preservatives; the flavor mellows and rounds out a day or two after baking."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Build starter one",
+      "summary": "Stir warm milk, cornmeal and sugar together in a jar, cover, and hold at 32-38°C for 8-12 hours until bubbly and pungent."
+    },
+    {
+      "title": "Build starter two",
+      "summary": "Whisk hot water, salt, baking soda, sugar and flour into starter one, then hold warm again for 2-4 hours until actively foaming."
+    },
+    {
+      "title": "Mix final dough",
+      "summary": "Beat in the soft butter, salt and remaining flour to a soft dough."
+    },
+    {
+      "title": "Rise",
+      "summary": "Scrape into a buttered loaf pan and let rise in a warm spot until it crests the rim, up to 4 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until deeply golden and a skewer comes out clean, 35-40 minutes."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest in the pan 10 minutes, then turn out onto a rack to cool completely before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.kingarthurbaking.com/recipes/classic-american-salt-rising-bread-recipe",
+    "site": "King Arthur Baking",
+    "retrieved": "2026-07-18",
+    "adaptation": "Classified leaven as chemical per the source's framing of the added baking soda, though the primary rise is wild bacterial fermentation in the two starters, a mechanism outside this taxonomy's enum."
+  },
+  "tags": [
+    "appalachian",
+    "bacterial-ferment"
+  ],
+  "doughType": "dough"
 }

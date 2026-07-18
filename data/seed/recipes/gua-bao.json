@@ -7,7 +7,10 @@
     "fr": "Gua bao (petit pain vapeur plié taïwanais)",
     "native": "割包 / 刈包 (guàbāo)"
   },
-  "aliases": ["cut bun", "Taiwanese pork belly bun"],
+  "aliases": [
+    "cut bun",
+    "Taiwanese pork belly bun"
+  ],
   "description": {
     "en": "Taiwan's answer to the sandwich: a flat, faintly sweet steamed bun is folded like a coin purse around braised pork belly, pickled mustard greens and crushed peanuts. Steamed, not baked, so it stays soft enough to fold without ever cracking.",
     "de": "Taiwans Antwort auf das Sandwich: Ein flaches, leicht süßes Dampfbrötchen wird wie ein Geldbeutel um geschmorten Schweinebauch, eingelegtes Senfgemüse und gehackte Erdnüsse gefaltet. Gedämpft statt gebacken, bleibt es weich genug, um ohne zu reißen zu falten.",
@@ -27,38 +30,139 @@
     "sugarPct": 1.3,
     "yeastPct": 1,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 300 },
-    { "key": "water", "grams": 155, "note": "lukewarm" },
-    { "key": "instant-yeast", "grams": 3 },
-    { "key": "baking-powder", "grams": 4 },
-    { "key": "sugar", "grams": 4 },
-    { "label": { "en": "braised pork belly, sliced", "de": "geschmorter Schweinebauch, in Scheiben", "es": "panceta de cerdo braseada, en lonchas", "fr": "poitrine de porc braisée, tranchée" }, "grams": 400, "note": "traditional filling, braised separately and folded in at serving" },
-    { "label": { "en": "pickled mustard greens and crushed peanuts", "de": "eingelegtes Senfgemüse und gehackte Erdnüsse", "es": "mostaza china encurtida y maní triturado", "fr": "légumes moutarde marinés et cacahuètes concassées" }, "grams": 80, "note": "traditional garnish" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 300
+    },
+    {
+      "key": "water",
+      "grams": 155,
+      "note": "lukewarm"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3
+    },
+    {
+      "key": "baking-powder",
+      "grams": 4
+    },
+    {
+      "key": "sugar",
+      "grams": 4
+    },
+    {
+      "label": {
+        "en": "braised pork belly, sliced",
+        "de": "geschmorter Schweinebauch, in Scheiben",
+        "es": "panceta de cerdo braseada, en lonchas",
+        "fr": "poitrine de porc braisée, tranchée"
+      },
+      "grams": 400,
+      "note": "traditional filling, braised separately and folded in at serving"
+    },
+    {
+      "label": {
+        "en": "pickled mustard greens and crushed peanuts",
+        "de": "eingelegtes Senfgemüse und gehackte Erdnüsse",
+        "es": "mostaza china encurtida y maní triturado",
+        "fr": "légumes moutarde marinés et cacahuètes concassées"
+      },
+      "grams": 80,
+      "note": "traditional garnish"
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 58, "shape": "folded oval steamed bun (bun only, unfilled)" },
-  "time": { "totalMin": 105, "activeMin": 20, "bulkMin": 45, "proofMin": 30, "bakeMin": 10, "overnight": false },
-  "bake": { "tempC": 100, "steam": true, "vessel": "steamer" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 58,
+    "shape": "folded oval steamed bun (bun only, unfilled)"
+  },
+  "time": {
+    "totalMin": 105,
+    "activeMin": 20,
+    "bulkMin": 45,
+    "proofMin": 30,
+    "bakeMin": 10,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 100,
+    "steam": true,
+    "vessel": "steamer"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["mild", "savory", "sweet", "wheaty"],
-  "purposes": ["street-food", "sandwich", "snack"],
-  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "The plain steamed bun freezes and resteams beautifully; classically assembled fresh with hot braised pork at serving." },
-  "equipment": ["steamer"],
-  "method": [
-    { "title": "Mix", "summary": "Combine flour, yeast, baking powder and sugar, then work in water to a smooth, soft dough." },
-    { "title": "Rise", "summary": "Let the dough rise until noticeably puffy." },
-    { "title": "Divide and shape", "summary": "Divide into pieces, flatten each into an oval, brush lightly with oil, and fold in half with a piece of parchment inside so the fold won't seal shut." },
-    { "title": "Proof", "summary": "Rest the folded buns about 30 minutes until slightly enlarged." },
-    { "title": "Steam", "summary": "Steam over a full boil for about 10 minutes." },
-    { "title": "Fill", "summary": "Prise open the warm bun and fill with braised pork belly, pickled mustard greens and crushed peanuts." }
+  "flavors": [
+    "mild",
+    "savory",
+    "sweet",
+    "wheaty"
   ],
-  "source": { "url": "https://redhousespice.com/gua-bao-pork-belly-buns/", "site": "Red House Spice", "retrieved": "2026-07-17", "adaptation": "Bun dough grams kept as sourced; a short bulk rise was added as standard practice since the source's steps jumped straight to shaping; pork and garnish quantities are a typical per-bun estimate." },
-  "tags": ["street-food", "folded-bun"]
+  "purposes": [
+    "street-food",
+    "sandwich",
+    "snack"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": false,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "The plain steamed bun freezes and resteams beautifully; classically assembled fresh with hot braised pork at serving."
+  },
+  "equipment": [
+    "steamer"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, yeast, baking powder and sugar, then work in water to a smooth, soft dough."
+    },
+    {
+      "title": "Rise",
+      "summary": "Let the dough rise until noticeably puffy."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Divide into pieces, flatten each into an oval, brush lightly with oil, and fold in half with a piece of parchment inside so the fold won't seal shut."
+    },
+    {
+      "title": "Proof",
+      "summary": "Rest the folded buns about 30 minutes until slightly enlarged."
+    },
+    {
+      "title": "Steam",
+      "summary": "Steam over a full boil for about 10 minutes."
+    },
+    {
+      "title": "Fill",
+      "summary": "Prise open the warm bun and fill with braised pork belly, pickled mustard greens and crushed peanuts."
+    }
+  ],
+  "source": {
+    "url": "https://redhousespice.com/gua-bao-pork-belly-buns/",
+    "site": "Red House Spice",
+    "retrieved": "2026-07-17",
+    "adaptation": "Bun dough grams kept as sourced; a short bulk rise was added as standard practice since the source's steps jumped straight to shaping; pork and garnish quantities are a typical per-bun estimate."
+  },
+  "tags": [
+    "street-food",
+    "folded-bun"
+  ],
+  "doughType": "dough"
 }

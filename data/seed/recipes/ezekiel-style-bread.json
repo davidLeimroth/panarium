@@ -6,7 +6,10 @@
     "es": "Pan Ezequiel de granos y legumbres germinados",
     "fr": "Pain Ézéchiel aux céréales et légumineuses germées"
   },
-  "aliases": ["Ezekiel 4:9 bread", "sprouted grain and legume bread"],
+  "aliases": [
+    "Ezekiel 4:9 bread",
+    "sprouted grain and legume bread"
+  ],
   "description": {
     "en": "Wheat, spelt, barley and millet sprout alongside lentils and three kinds of beans, then all get milled together into one flour and mixed into a soft, honey-sweetened yeasted loaf. The blend follows a verse in the book of Ezekiel and yields a complete plant protein.",
     "de": "Weizen, Dinkel, Gerste und Hirse keimen zusammen mit Linsen und drei Bohnensorten, werden dann gemeinsam gemahlen und zu einem weichen, honigsüßen Hefebrot verarbeitet. Die Mischung folgt einem Vers im Buch Ezechiel und liefert ein vollständiges pflanzliches Protein.",
@@ -27,48 +30,192 @@
     "fatPct": 10,
     "yeastPct": 1.7,
     "flours": [
-      { "type": "wheat-whole", "pct": 46.5 },
-      { "type": "spelt-whole", "pct": 27.9 },
-      { "type": "barley", "pct": 9.3 },
-      { "type": "millet", "pct": 4.7 },
-      { "type": "other", "pct": 11.6 }
+      {
+        "type": "wheat-whole",
+        "pct": 46.5
+      },
+      {
+        "type": "spelt-whole",
+        "pct": 27.9
+      },
+      {
+        "type": "barley",
+        "pct": 9.3
+      },
+      {
+        "type": "millet",
+        "pct": 4.7
+      },
+      {
+        "type": "other",
+        "pct": 11.6
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 500, "note": "hard wheat berries, sprouted 2-3 days then milled" },
-    { "key": "flour:spelt-whole", "grams": 300, "note": "spelt berries, sprouted then milled" },
-    { "key": "flour:barley", "grams": 100, "note": "hulled barley, sprouted then milled" },
-    { "key": "flour:millet", "grams": 50, "note": "sprouted then milled" },
-    { "label": { "en": "green lentils, sprouted then milled", "de": "grüne Linsen, gekeimt und gemahlen", "es": "lentejas verdes germinadas y molidas", "fr": "lentilles vertes germées et moulues" }, "grams": 50 },
-    { "label": { "en": "dry great northern beans, sprouted then milled", "de": "weiße Bohnen, gekeimt und gemahlen", "es": "alubias blancas germinadas y molidas", "fr": "haricots blancs germés et moulus" }, "grams": 25 },
-    { "label": { "en": "dry kidney beans, sprouted then milled", "de": "Kidneybohnen, gekeimt und gemahlen", "es": "judías rojas germinadas y molidas", "fr": "haricots rouges germés et moulus" }, "grams": 25 },
-    { "label": { "en": "dry pinto beans, sprouted then milled", "de": "Pintobohnen, gekeimt und gemahlen", "es": "frijoles pintos germinados y molidos", "fr": "haricots pinto germés et moulus" }, "grams": 25 },
-    { "key": "water", "grams": 948 },
-    { "key": "honey", "grams": 383 },
-    { "key": "olive-oil", "grams": 108, "note": "or coconut oil" },
-    { "key": "salt", "grams": 12 },
-    { "key": "active-dry-yeast", "grams": 18 }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 500,
+      "note": "hard wheat berries, sprouted 2-3 days then milled"
+    },
+    {
+      "key": "flour:spelt-whole",
+      "grams": 300,
+      "note": "spelt berries, sprouted then milled"
+    },
+    {
+      "key": "flour:barley",
+      "grams": 100,
+      "note": "hulled barley, sprouted then milled"
+    },
+    {
+      "key": "flour:millet",
+      "grams": 50,
+      "note": "sprouted then milled"
+    },
+    {
+      "label": {
+        "en": "green lentils, sprouted then milled",
+        "de": "grüne Linsen, gekeimt und gemahlen",
+        "es": "lentejas verdes germinadas y molidas",
+        "fr": "lentilles vertes germées et moulues"
+      },
+      "grams": 50
+    },
+    {
+      "label": {
+        "en": "dry great northern beans, sprouted then milled",
+        "de": "weiße Bohnen, gekeimt und gemahlen",
+        "es": "alubias blancas germinadas y molidas",
+        "fr": "haricots blancs germés et moulus"
+      },
+      "grams": 25
+    },
+    {
+      "label": {
+        "en": "dry kidney beans, sprouted then milled",
+        "de": "Kidneybohnen, gekeimt und gemahlen",
+        "es": "judías rojas germinadas y molidas",
+        "fr": "haricots rouges germés et moulus"
+      },
+      "grams": 25
+    },
+    {
+      "label": {
+        "en": "dry pinto beans, sprouted then milled",
+        "de": "Pintobohnen, gekeimt und gemahlen",
+        "es": "frijoles pintos germinados y molidos",
+        "fr": "haricots pinto germés et moulus"
+      },
+      "grams": 25
+    },
+    {
+      "key": "water",
+      "grams": 948
+    },
+    {
+      "key": "honey",
+      "grams": 383
+    },
+    {
+      "key": "olive-oil",
+      "grams": 108,
+      "note": "or coconut oil"
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 18
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 1272, "shape": "sandwich loaf pan" },
-  "time": { "totalMin": 3765, "activeMin": 45, "proofMin": 60, "bakeMin": 40, "overnight": true },
-  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 1272,
+    "shape": "sandwich loaf pan"
+  },
+  "time": {
+    "totalMin": 3765,
+    "activeMin": 45,
+    "proofMin": 60,
+    "bakeMin": 40,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["earthy", "nutty", "sweet"],
-  "purposes": ["everyday", "sandwich", "toast", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "A dense, moist multigrain loaf that keeps well; commercial versions of this bread are always sold refrigerated or frozen since there are no preservatives." },
-  "equipment": ["loaf-pan", "stand-mixer"],
-  "method": [
-    { "title": "Sprout", "summary": "Soak wheat, spelt, barley and millet together, and the lentils and beans separately, then rinse and drain twice a day for 2-3 days until each shows a small sprout tail." },
-    { "title": "Dry and mill", "summary": "Dehydrate the sprouted grains and legumes until fully dry, then grind them together into a single fine flour." },
-    { "title": "Mix the dough", "summary": "Warm water with honey, oil, salt and yeast, then work in the sprouted-grain flour and knead about 10 minutes into a soft, batter-like dough." },
-    { "title": "Pan and proof", "summary": "Divide into loaf pans and let rise, covered, about an hour until the dough nears the rim." },
-    { "title": "Bake", "summary": "Bake at around 175°C for 30-50 minutes, depending on pan size, until the internal temperature reads about 88°C." },
-    { "title": "Cool", "summary": "Turn out and cool completely on a rack before slicing." }
+  "flavors": [
+    "earthy",
+    "nutty",
+    "sweet"
   ],
-  "source": { "url": "https://www.theprairiehomestead.com/2012/11/make-your-own-ezekiel-bread-guest-post.html", "site": "The Prairie Homestead", "retrieved": "2026-07-18", "adaptation": "Cup measurements for grains, legumes and liquids converted to grams using standard dry-grain and liquid weight conventions; the whey option was recorded as water for a dairy-free base." },
-  "tags": ["sprouted", "biblical", "legumes"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "toast",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "A dense, moist multigrain loaf that keeps well; commercial versions of this bread are always sold refrigerated or frozen since there are no preservatives."
+  },
+  "equipment": [
+    "loaf-pan",
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Sprout",
+      "summary": "Soak wheat, spelt, barley and millet together, and the lentils and beans separately, then rinse and drain twice a day for 2-3 days until each shows a small sprout tail."
+    },
+    {
+      "title": "Dry and mill",
+      "summary": "Dehydrate the sprouted grains and legumes until fully dry, then grind them together into a single fine flour."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Warm water with honey, oil, salt and yeast, then work in the sprouted-grain flour and knead about 10 minutes into a soft, batter-like dough."
+    },
+    {
+      "title": "Pan and proof",
+      "summary": "Divide into loaf pans and let rise, covered, about an hour until the dough nears the rim."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at around 175°C for 30-50 minutes, depending on pan size, until the internal temperature reads about 88°C."
+    },
+    {
+      "title": "Cool",
+      "summary": "Turn out and cool completely on a rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.theprairiehomestead.com/2012/11/make-your-own-ezekiel-bread-guest-post.html",
+    "site": "The Prairie Homestead",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup measurements for grains, legumes and liquids converted to grams using standard dry-grain and liquid weight conventions; the whey option was recorded as water for a dairy-free base."
+  },
+  "tags": [
+    "sprouted",
+    "biblical",
+    "legumes"
+  ],
+  "doughType": "dough"
 }

@@ -32,6 +32,7 @@
     },
     "leaven": { "enum": ["sourdough", "yeast", "hybrid", "chemical", "none"] },
     "family": { "enum": ["hearth-loaf", "pan-loaf", "baguette", "flatbread", "roll", "braid", "ring", "crispbread", "steamed", "fried", "quick", "sweet-loaf"] },
+    "doughType": { "enum": ["dough", "batter", "paste", "stiff"], "description": "optional: physical class of the unbaked mass; defaults to dough" },
     "formula": {
       "type": "object", "required": ["hydrationPct", "saltPct", "flours"], "additionalProperties": false,
       "properties": {

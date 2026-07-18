@@ -6,14 +6,22 @@
     "es": "Roosterkoek",
     "fr": "Roosterkoek"
   },
-  "aliases": ["roosterbrood", "braai bread", "grid cakes"],
+  "aliases": [
+    "roosterbrood",
+    "braai bread",
+    "grid cakes"
+  ],
   "description": {
     "en": "Small yeasted rolls grilled directly over braai coals until spotted brown and lightly smoky, turned often so they cook through without burning. Split hot and spread with butter, then jam or cheese, they are the bread course of any South African braai.",
     "de": "Kleine Hefebrötchen, direkt über Braai-Kohlen gegrillt bis gefleckt braun und leicht rauchig, oft gewendet, damit sie durchgaren ohne zu verbrennen. Heiß aufgeschnitten, mit Butter, Marmelade oder Käse bestrichen: die Brotbeilage jedes südafrikanischen Braais.",
     "es": "Pequeños panecillos de levadura asados sobre las brasas del braai hasta dorarse con manchas y ahumarse ligeramente, volteados a menudo para que no se quemen. Partidos calientes y untados con mantequilla, mermelada o queso: el pan de cualquier braai sudafricano.",
     "fr": "De petits pains levés grillés directement sur les braises du braai jusqu'à brunir par taches et devenir légèrement fumés, retournés souvent pour cuire sans brûler. Fendus chauds et tartinés de beurre, puis de confiture ou de fromage, ils sont le pain de tout braai sud-africain."
   },
-  "origin": { "country": "ZA", "region": "South Africa, nationwide", "note": "Named from rooster (the grill grid) and koek (cake) in Afrikaans; a fixture of the braai (barbecue) alongside grilled meat, cooked directly over the coals rather than in an oven." },
+  "origin": {
+    "country": "ZA",
+    "region": "nationwide",
+    "note": "Named from rooster (the grill grid) and koek (cake) in Afrikaans; a fixture of the braai (barbecue) alongside grilled meat, cooked directly over the coals rather than in an oven."
+  },
   "leaven": "yeast",
   "family": "roll",
   "formula": {
@@ -21,34 +29,112 @@
     "saltPct": 0.6,
     "yeastPct": 1.4,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500, "note": "cake flour" },
-    { "key": "water", "grams": 415, "note": "lukewarm" },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "salt", "grams": 3 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "cake flour"
+    },
+    {
+      "key": "water",
+      "grams": 415,
+      "note": "lukewarm"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    }
   ],
-  "yield": { "count": 12, "pieceGrams": 68, "shape": "small rolls" },
-  "time": { "totalMin": 100, "activeMin": 20, "bulkMin": 60, "bakeMin": 15, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 12,
+    "pieceGrams": 68,
+    "shape": "small rolls"
+  },
+  "time": {
+    "totalMin": 100,
+    "activeMin": 20,
+    "bulkMin": 60,
+    "bakeMin": 15,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "blistered",
-  "flavors": ["mild", "wheaty", "smoky", "yeasty"],
-  "purposes": ["side", "picnic", "everyday"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best hot off the coals with butter; leftovers dry out quickly, though the shaped dough balls can be frozen unbaked." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix", "summary": "Combine flour, yeast and salt, then add the water and mix by hand into a cohesive dough." },
-    { "title": "Rise", "summary": "Cover directly with cling wrap pressed onto the dough's surface and let rise about 1 hour." },
-    { "title": "Shape", "summary": "Turn out onto a floured surface, dust with more flour, and divide into 12 portions." },
-    { "title": "Grill", "summary": "Place the portions on a braai grid over coals that are not too hot, and cook about 15 minutes, turning often, until browned with dark spots." },
-    { "title": "Serve", "summary": "Serve hot, split open and spread with butter." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "smoky",
+    "yeasty"
   ],
-  "source": { "url": "https://braai.com/roosterkoek/", "site": "Braai.com (Jan Braai)", "retrieved": "2026-07-18", "adaptation": "Cup/teaspoon quantities converted to grams; the source's ingredient list is intentionally minimal (no sugar or oil), reflecting the traditional simple recipe." },
-  "tags": ["braai", "south-african", "grilled-bread"]
+  "purposes": [
+    "side",
+    "picnic",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best hot off the coals with butter; leftovers dry out quickly, though the shaped dough balls can be frozen unbaked."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, yeast and salt, then add the water and mix by hand into a cohesive dough."
+    },
+    {
+      "title": "Rise",
+      "summary": "Cover directly with cling wrap pressed onto the dough's surface and let rise about 1 hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Turn out onto a floured surface, dust with more flour, and divide into 12 portions."
+    },
+    {
+      "title": "Grill",
+      "summary": "Place the portions on a braai grid over coals that are not too hot, and cook about 15 minutes, turning often, until browned with dark spots."
+    },
+    {
+      "title": "Serve",
+      "summary": "Serve hot, split open and spread with butter."
+    }
+  ],
+  "source": {
+    "url": "https://braai.com/roosterkoek/",
+    "site": "Braai.com (Jan Braai)",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup/teaspoon quantities converted to grams; the source's ingredient list is intentionally minimal (no sugar or oil), reflecting the traditional simple recipe."
+  },
+  "tags": [
+    "braai",
+    "south-african",
+    "grilled-bread"
+  ],
+  "doughType": "dough"
 }

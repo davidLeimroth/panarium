@@ -7,14 +7,21 @@
     "fr": "Pain de moût de Noël suédois (Vörtbröd)",
     "native": "Vörtbröd"
   },
-  "aliases": ["vörtlimpa", "julbröd"],
+  "aliases": [
+    "vörtlimpa",
+    "julbröd"
+  ],
   "description": {
     "en": "Sweden's spiced Christmas rye, deepened with dark beer standing in for brewer's wort, sweetened with syrup and studded with raisins. Warmly scented with ginger, clove and cardamom, it's a fixture of the julbord beside ham and pickled herring.",
     "de": "Schwedens würziges Weihnachtsroggenbrot, mit dunklem Bier statt Braumaische vertieft, mit Sirup gesüßt und mit Rosinen gespickt. Warm duftend nach Ingwer, Nelke und Kardamom, ein fester Bestandteil des Julbord neben Schinken und eingelegtem Hering.",
     "es": "El pan de centeno especiado navideño de Suecia, profundizado con cerveza oscura en lugar del mosto cervecero, endulzado con sirope y salpicado de pasas. Con un cálido aroma a jengibre, clavo y cardamomo, es fijo en la mesa navideña junto al jamón y el arenque encurtido.",
     "fr": "Le pain de seigle épicé de Noël en Suède, approfondi à la bière brune en lieu et place du moût de brasserie, sucré au sirop et parsemé de raisins secs. Parfumé au gingembre, au clou de girofle et à la cardamome, un incontournable du buffet de Noël."
   },
-  "origin": { "country": "SE", "region": "Sweden, nationwide", "note": "Named for vört, the sweet brewer's wort traditionally used in the dough; modern versions substitute dark beer or julmust." },
+  "origin": {
+    "country": "SE",
+    "region": "nationwide",
+    "note": "Named for vört, the sweet brewer's wort traditionally used in the dough; modern versions substitute dark beer or julmust."
+  },
   "leaven": "yeast",
   "family": "hearth-loaf",
   "formula": {
@@ -23,45 +30,177 @@
     "sugarPct": 24,
     "fatPct": 16,
     "flours": [
-      { "type": "rye", "pct": 100 }
+      {
+        "type": "rye",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye", "grams": 582 },
-    { "key": "fresh-yeast", "grams": 50 },
-    { "key": "molasses", "grams": 140, "note": "or dark Swedish brödsirap" },
-    { "key": "vegetable-oil", "grams": 45, "note": "rapeseed/canola oil" },
-    { "label": { "en": "stout or porter beer", "de": "Stout- oder Porterbier", "es": "cerveza stout o porter", "fr": "bière stout ou porter" }, "grams": 300 },
-    { "label": { "en": "dark Christmas beer", "de": "dunkles Weihnachtsbier", "es": "cerveza oscura navideña", "fr": "bière brune de Noël" }, "grams": 250 },
-    { "key": "butter", "grams": 50 },
-    { "label": { "en": "ground ginger", "de": "gemahlener Ingwer", "es": "jengibre molido", "fr": "gingembre moulu" }, "grams": 8 },
-    { "label": { "en": "ground cloves", "de": "gemahlene Nelken", "es": "clavo molido", "fr": "clou de girofle moulu" }, "grams": 6 },
-    { "key": "orange-zest", "grams": 3, "note": "or dried bitter orange peel (pomeransskal)" },
-    { "key": "cardamom", "grams": 3 },
-    { "key": "salt", "grams": 18 },
-    { "key": "raisins", "grams": 210 }
+    {
+      "key": "flour:rye",
+      "grams": 582
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 50
+    },
+    {
+      "key": "molasses",
+      "grams": 140,
+      "note": "or dark Swedish brödsirap"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 45,
+      "note": "rapeseed/canola oil"
+    },
+    {
+      "label": {
+        "en": "stout or porter beer",
+        "de": "Stout- oder Porterbier",
+        "es": "cerveza stout o porter",
+        "fr": "bière stout ou porter"
+      },
+      "grams": 300
+    },
+    {
+      "label": {
+        "en": "dark Christmas beer",
+        "de": "dunkles Weihnachtsbier",
+        "es": "cerveza oscura navideña",
+        "fr": "bière brune de Noël"
+      },
+      "grams": 250
+    },
+    {
+      "key": "butter",
+      "grams": 50
+    },
+    {
+      "label": {
+        "en": "ground ginger",
+        "de": "gemahlener Ingwer",
+        "es": "jengibre molido",
+        "fr": "gingembre moulu"
+      },
+      "grams": 8
+    },
+    {
+      "label": {
+        "en": "ground cloves",
+        "de": "gemahlene Nelken",
+        "es": "clavo molido",
+        "fr": "clou de girofle moulu"
+      },
+      "grams": 6
+    },
+    {
+      "key": "orange-zest",
+      "grams": 3,
+      "note": "or dried bitter orange peel (pomeransskal)"
+    },
+    {
+      "key": "cardamom",
+      "grams": 3
+    },
+    {
+      "key": "salt",
+      "grams": 18
+    },
+    {
+      "key": "raisins",
+      "grams": 210
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 700, "shape": "oblong hearth loaf" },
-  "time": { "totalMin": 195, "activeMin": 25, "bulkMin": 60, "proofMin": 60, "bakeMin": 50 },
-  "bake": { "tempC": 175, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 700,
+    "shape": "oblong hearth loaf"
+  },
+  "time": {
+    "totalMin": 195,
+    "activeMin": 25,
+    "bulkMin": 60,
+    "proofMin": 60,
+    "bakeMin": 50
+  },
+  "bake": {
+    "tempC": 175,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["spiced", "sweet", "malty", "fruity"],
-  "purposes": ["holiday", "celebration", "table", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "A julbord classic; keeps well wrapped for the better part of a week." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Reduce the beer", "summary": "Bring the beer to a boil and reduce by roughly half; cool to room temperature." },
-    { "title": "Bloom the yeast", "summary": "Crumble yeast into the cooled beer along with the oil and syrup." },
-    { "title": "Mix", "summary": "Melt butter with the ginger, cloves, orange peel, cardamom and salt, cool slightly, then stir in; add the raisins and work in the rye flour to a soft, elastic dough." },
-    { "title": "First rise", "summary": "Cover and let double in size, about an hour." },
-    { "title": "Shape", "summary": "Divide in two and shape into oblong loaves on a lined tray." },
-    { "title": "Second rise", "summary": "Cover and rest about an hour." },
-    { "title": "Bake", "summary": "Bake at a moderate temperature, then lower the heat and finish until deeply colored, about 50 minutes total." }
+  "flavors": [
+    "spiced",
+    "sweet",
+    "malty",
+    "fruity"
   ],
-  "source": { "url": "https://lelasfood.wordpress.com/2013/12/10/swedish-christmas-bread-vortbrod/", "site": "Lela's Food", "retrieved": "2026-07-17", "adaptation": "Dark bread syrup (brödsirap) mapped to molasses and bitter orange peel to orange zest, since the taxonomy has no exact matching keys; volumes converted to grams with standard density estimates." },
-  "tags": ["christmas", "spiced-rye"]
+  "purposes": [
+    "holiday",
+    "celebration",
+    "table",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "A julbord classic; keeps well wrapped for the better part of a week."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Reduce the beer",
+      "summary": "Bring the beer to a boil and reduce by roughly half; cool to room temperature."
+    },
+    {
+      "title": "Bloom the yeast",
+      "summary": "Crumble yeast into the cooled beer along with the oil and syrup."
+    },
+    {
+      "title": "Mix",
+      "summary": "Melt butter with the ginger, cloves, orange peel, cardamom and salt, cool slightly, then stir in; add the raisins and work in the rye flour to a soft, elastic dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let double in size, about an hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide in two and shape into oblong loaves on a lined tray."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Cover and rest about an hour."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at a moderate temperature, then lower the heat and finish until deeply colored, about 50 minutes total."
+    }
+  ],
+  "source": {
+    "url": "https://lelasfood.wordpress.com/2013/12/10/swedish-christmas-bread-vortbrod/",
+    "site": "Lela's Food",
+    "retrieved": "2026-07-17",
+    "adaptation": "Dark bread syrup (brödsirap) mapped to molasses and bitter orange peel to orange zest, since the taxonomy has no exact matching keys; volumes converted to grams with standard density estimates."
+  },
+  "tags": [
+    "christmas",
+    "spiced-rye"
+  ],
+  "doughType": "paste"
 }

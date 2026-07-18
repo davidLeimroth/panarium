@@ -6,7 +6,10 @@
     "es": "Marraqueta",
     "fr": "Marraqueta"
   },
-  "aliases": ["pan batido", "pan francés"],
+  "aliases": [
+    "pan batido",
+    "pan francés"
+  ],
   "description": {
     "en": "Chile's daily bread, invented by French immigrant bakers in Valparaíso: two small dough balls are pressed together with a cross so it looks, and tears, like four rolls in one. A tray of oven steam gives it a glass-crisp, crackling crust.",
     "de": "Chiles tägliches Brot, erfunden von französischen Einwandererbäckern in Valparaíso: Zwei kleine Teigkugeln werden mit einem Kreuz zusammengedrückt, sodass es wie vier Brötchen in einem aussieht und sich so teilen lässt. Dampf im Ofen sorgt für eine glasig-knusprige Kruste.",
@@ -27,38 +30,128 @@
     "fatPct": 1,
     "yeastPct": 1.8,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 1000 },
-    { "key": "water", "grams": 600, "note": "lukewarm" },
-    { "key": "salt", "grams": 18 },
-    { "key": "active-dry-yeast", "grams": 18 },
-    { "key": "sugar", "grams": 4 },
-    { "key": "vegetable-oil", "grams": 10, "note": "for brushing before baking" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 1000
+    },
+    {
+      "key": "water",
+      "grams": 600,
+      "note": "lukewarm"
+    },
+    {
+      "key": "salt",
+      "grams": 18
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 18
+    },
+    {
+      "key": "sugar",
+      "grams": 4
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 10,
+      "note": "for brushing before baking"
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 206, "shape": "two joined 100g balls pressed with a cross, four-lobed look" },
-  "time": { "totalMin": 150, "activeMin": 30, "bulkMin": 30, "proofMin": 60, "bakeMin": 30, "overnight": false },
-  "bake": { "tempC": 220, "steam": true, "vessel": "sheet" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 206,
+    "shape": "two joined 100g balls pressed with a cross, four-lobed look"
+  },
+  "time": {
+    "totalMin": 150,
+    "activeMin": 30,
+    "bulkMin": 30,
+    "proofMin": 60,
+    "bakeMin": 30,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": true,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["mild", "wheaty", "yeasty", "savory"],
-  "purposes": ["everyday", "breakfast", "sandwich"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best within hours of baking, when the crust still crackles; Chileans buy it fresh nearly every day." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Activate the yeast", "summary": "Dissolve yeast and a little sugar in warm water and let it stand until foamy." },
-    { "title": "Mix the dough", "summary": "Combine flour and salt, then work in the yeasted water until a rough dough forms." },
-    { "title": "Knead and ferment", "summary": "Knead about 10 minutes until smooth and uniform, then let it rise until puffy, about 30 minutes." },
-    { "title": "Portion and rest", "summary": "Divide into roughly 100g balls and let them rest, covered, for about half an hour." },
-    { "title": "Join and mark", "summary": "Press two balls together end to end, then push a floured dowel firmly through the center to create the classic four-lobed silhouette." },
-    { "title": "Final rise", "summary": "Let the shaped loaves rest until puffy, then brush lightly with oil." },
-    { "title": "Bake with steam", "summary": "Bake in a hot oven with a tray of boiling water for the first stretch, which keeps the crust glassy and lets it expand fully." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "yeasty",
+    "savory"
   ],
-  "source": { "url": "https://www.chileanfoodrecipes.com/marraqueta-bread-recipe/", "site": "Chilean Food Recipes", "retrieved": "2026-07-17", "adaptation": "Scaled ratios kept as sourced; 'dry yeast' treated as active-dry yeast." },
-  "tags": ["chilean-staple", "steam-baked"]
+  "purposes": [
+    "everyday",
+    "breakfast",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best within hours of baking, when the crust still crackles; Chileans buy it fresh nearly every day."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Activate the yeast",
+      "summary": "Dissolve yeast and a little sugar in warm water and let it stand until foamy."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine flour and salt, then work in the yeasted water until a rough dough forms."
+    },
+    {
+      "title": "Knead and ferment",
+      "summary": "Knead about 10 minutes until smooth and uniform, then let it rise until puffy, about 30 minutes."
+    },
+    {
+      "title": "Portion and rest",
+      "summary": "Divide into roughly 100g balls and let them rest, covered, for about half an hour."
+    },
+    {
+      "title": "Join and mark",
+      "summary": "Press two balls together end to end, then push a floured dowel firmly through the center to create the classic four-lobed silhouette."
+    },
+    {
+      "title": "Final rise",
+      "summary": "Let the shaped loaves rest until puffy, then brush lightly with oil."
+    },
+    {
+      "title": "Bake with steam",
+      "summary": "Bake in a hot oven with a tray of boiling water for the first stretch, which keeps the crust glassy and lets it expand fully."
+    }
+  ],
+  "source": {
+    "url": "https://www.chileanfoodrecipes.com/marraqueta-bread-recipe/",
+    "site": "Chilean Food Recipes",
+    "retrieved": "2026-07-17",
+    "adaptation": "Scaled ratios kept as sourced; 'dry yeast' treated as active-dry yeast."
+  },
+  "tags": [
+    "chilean-staple",
+    "steam-baked"
+  ],
+  "doughType": "dough"
 }

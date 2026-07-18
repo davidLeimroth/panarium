@@ -6,14 +6,19 @@
     "es": "Pan de semillas de girasol",
     "fr": "Pain aux graines de tournesol"
   },
-  "aliases": ["Sonnenblumenkernbrot"],
+  "aliases": [
+    "Sonnenblumenkernbrot"
+  ],
   "description": {
     "en": "A rye-and-wheat sourdough pan loaf built on two separately-fed starters and a soaker of roasted sunflower seeds, then rolled in more seeds before baking. Everyday German baking at its best: nutty, faintly tangy, right for a thick slice of butter.",
     "de": "Ein Roggen-Weizen-Sauerteigbrot aus zwei getrennt geführten Sauerteigen und einem Quellstück aus gerösteten Sonnenblumenkernen, vor dem Backen nochmals in Kernen gewälzt. Deutsches Alltagsbrot in Bestform: nussig, mild-säuerlich, ideal dick mit Butter.",
     "es": "Un pan de molde de centeno y trigo con dos masas madre distintas y un remojo de pepitas de girasol tostadas, rebozado en más semillas antes de hornear. El pan cotidiano alemán en su mejor versión: notas a nuez, un ligero toque ácido, perfecto con mantequilla.",
     "fr": "Un pain moulé au seigle et au blé, bâti sur deux levains distincts et une trempe de graines de tournesol grillées, roulé dans d'autres graines avant la cuisson. Le pain quotidien allemand dans toute sa simplicité: noisette, légèrement acidulé, sous le beurre."
   },
-  "origin": { "country": "DE", "region": "Germany-wide" },
+  "origin": {
+    "country": "DE",
+    "region": "Germany-wide"
+  },
   "leaven": "sourdough",
   "family": "pan-loaf",
   "formula": {
@@ -21,42 +26,149 @@
     "saltPct": 2.1,
     "prefermentedFlourPct": 35.9,
     "flours": [
-      { "type": "rye-whole", "pct": 20.4 },
-      { "type": "rye", "pct": 49.2 },
-      { "type": "wheat-whole", "pct": 30.4 }
+      {
+        "type": "rye-whole",
+        "pct": 20.4
+      },
+      {
+        "type": "rye",
+        "pct": 49.2
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 30.4
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 131, "note": "Roggenschrot, coarse sifted rye meal, in the rye sourdough" },
-    { "key": "flour:rye", "grams": 315, "note": "Roggenmehl Type 1370, in the main dough" },
-    { "key": "flour:wheat-whole", "grams": 195, "note": "99g wholemeal in the wheat sourdough plus 96g Type 1050 in the main dough" },
-    { "key": "water", "grams": 592, "note": "across both sourdoughs, the seed soaker and the main dough" },
-    { "key": "sourdough-starter", "grams": 31.3, "note": "26g rye starter and 5.3g wheat starter, to build the two levains" },
-    { "key": "salt", "grams": 13.6 },
-    { "key": "sunflower-seeds", "grams": 263, "note": "roasted, for the soaker; more for rolling the shaped loaf" }
+    {
+      "key": "flour:rye-whole",
+      "grams": 131,
+      "note": "Roggenschrot, coarse sifted rye meal, in the rye sourdough"
+    },
+    {
+      "key": "flour:rye",
+      "grams": 315,
+      "note": "Roggenmehl Type 1370, in the main dough"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 195,
+      "note": "99g wholemeal in the wheat sourdough plus 96g Type 1050 in the main dough"
+    },
+    {
+      "key": "water",
+      "grams": 592,
+      "note": "across both sourdoughs, the seed soaker and the main dough"
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 31.3,
+      "note": "26g rye starter and 5.3g wheat starter, to build the two levains"
+    },
+    {
+      "key": "salt",
+      "grams": 13.6
+    },
+    {
+      "key": "sunflower-seeds",
+      "grams": 263,
+      "note": "roasted, for the soaker; more for rolling the shaped loaf"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1550, "shape": "pan loaf, 23x11x10cm tin, rolled in sunflower seeds" },
-  "time": { "totalMin": 969, "activeMin": 25, "bulkMin": 45, "proofMin": 90, "bakeMin": 80, "overnight": true },
-  "bake": { "tempC": 250, "steam": true, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1550,
+    "shape": "pan loaf, 23x11x10cm tin, rolled in sunflower seeds"
+  },
+  "time": {
+    "totalMin": 969,
+    "activeMin": 25,
+    "bulkMin": 45,
+    "proofMin": 90,
+    "bakeMin": 80,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["nutty", "tangy", "earthy", "wheaty"],
-  "purposes": ["everyday", "sandwich", "breakfast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 50.9 },
-  "keeping": { "freshDays": 6, "freezes": true, "note": "Wrap once fully cooled; the seeded crumb stays moist for the better part of a week." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Two sourdoughs", "summary": "The evening before, build a rye sourdough from coarse sifted rye meal, water, rye starter and salt, and separately a wheat sourdough from wholemeal flour, water and wheat starter. Ferment both covered overnight." },
-    { "title": "Soaker", "summary": "At the same time, pour water over roasted sunflower seeds and let them soak overnight to soften." },
-    { "title": "Mix", "summary": "Combine both ripe sourdoughs with the remaining rye and wheat flour, roasted sunflower seed meal, salt and hot water; mix until smooth, then fold in the soaked seeds." },
-    { "title": "Rest", "summary": "Cover and let the dough relax briefly at room temperature before shaping." },
-    { "title": "Shape", "summary": "Shape into a firm log and roll it in whole sunflower seeds, then settle it seam-down into a greased tin." },
-    { "title": "Proof", "summary": "Cover and proof about 1.5 hours at room temperature." },
-    { "title": "Bake", "summary": "Bake hot with steam, venting after 20 minutes and dropping the temperature, for about 80 minutes total." },
-    { "title": "Cool", "summary": "Turn out right away and cool fully on a rack before slicing." }
+  "flavors": [
+    "nutty",
+    "tangy",
+    "earthy",
+    "wheaty"
   ],
-  "source": { "url": "https://www.ploetzblog.de/rezepte/sonnenblumenbrot/id=61c072545398e06c23be4802", "site": "Plötzblog", "author": "Lutz Geißler", "retrieved": "2026-07-17", "adaptation": "Method paraphrased; the source's unquantified extra seeds for rolling the loaf are not counted separately in the ingredient total." },
-  "tags": ["seeded", "bi-levain"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 50.9
+  },
+  "keeping": {
+    "freshDays": 6,
+    "freezes": true,
+    "note": "Wrap once fully cooled; the seeded crumb stays moist for the better part of a week."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Two sourdoughs",
+      "summary": "The evening before, build a rye sourdough from coarse sifted rye meal, water, rye starter and salt, and separately a wheat sourdough from wholemeal flour, water and wheat starter. Ferment both covered overnight."
+    },
+    {
+      "title": "Soaker",
+      "summary": "At the same time, pour water over roasted sunflower seeds and let them soak overnight to soften."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine both ripe sourdoughs with the remaining rye and wheat flour, roasted sunflower seed meal, salt and hot water; mix until smooth, then fold in the soaked seeds."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cover and let the dough relax briefly at room temperature before shaping."
+    },
+    {
+      "title": "Shape",
+      "summary": "Shape into a firm log and roll it in whole sunflower seeds, then settle it seam-down into a greased tin."
+    },
+    {
+      "title": "Proof",
+      "summary": "Cover and proof about 1.5 hours at room temperature."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake hot with steam, venting after 20 minutes and dropping the temperature, for about 80 minutes total."
+    },
+    {
+      "title": "Cool",
+      "summary": "Turn out right away and cool fully on a rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.ploetzblog.de/rezepte/sonnenblumenbrot/id=61c072545398e06c23be4802",
+    "site": "Plötzblog",
+    "author": "Lutz Geißler",
+    "retrieved": "2026-07-17",
+    "adaptation": "Method paraphrased; the source's unquantified extra seeds for rolling the loaf are not counted separately in the ingredient total."
+  },
+  "tags": [
+    "seeded",
+    "bi-levain"
+  ],
+  "doughType": "paste"
 }

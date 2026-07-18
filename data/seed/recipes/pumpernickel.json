@@ -6,48 +6,131 @@
     "es": "Pumpernickel westfaliano",
     "fr": "Pumpernickel westphalien"
   },
-  "aliases": ["Westphalian black bread"],
+  "aliases": [
+    "Westphalian black bread"
+  ],
   "description": {
     "en": "Deep black, dense and faintly sweet: whole rye meal steamed low and slow for the better part of a day in a sealed tin, rather than truly baked. The long gentle heat turns starch into malt sugar, no sweetener needed.",
     "de": "Tiefschwarz, dicht und leicht süßlich: grobes Roggenschrot, das in der geschlossenen Form fast einen ganzen Tag lang eher gegart als gebacken wird. Die lange, milde Hitze wandelt Stärke in Malzzucker um – ganz ohne Süßungsmittel.",
     "es": "Negro intenso, denso y ligeramente dulce: centeno integral grueso cocido muy despacio, casi un día entero, en un molde cerrado, más cocinado al vapor que horneado. El calor bajo y prolongado convierte el almidón en azúcar de malta, sin endulzante alguno.",
     "fr": "Noir profond, dense et légèrement sucré : une farine de seigle complet grossière, cuite tout doucement, presque une journée entière, dans un moule fermé, plus étuvée que cuite. La chaleur basse et longue transforme l'amidon en sucre de malt, sans aucun sucre ajouté."
   },
-  "origin": { "country": "DE", "region": "Westphalia (Westfalen)", "note": "Traditionally just rye meal, water and salt; the color and sweetness come entirely from the long, low bake, not from added sugar or molasses." },
+  "origin": {
+    "country": "DE",
+    "region": "Westphalia (Westfalen)",
+    "note": "Traditionally just rye meal, water and salt; the color and sweetness come entirely from the long, low bake, not from added sugar or molasses."
+  },
   "leaven": "sourdough",
   "family": "pan-loaf",
   "formula": {
     "hydrationPct": 86,
     "saltPct": 1.9,
     "flours": [
-      { "type": "rye-whole", "pct": 100 }
+      {
+        "type": "rye-whole",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 1050, "note": "coarse/medium whole rye meal (Roggenschrot)" },
-    { "key": "water", "grams": 900 },
-    { "key": "salt", "grams": 20 },
-    { "key": "sourdough-starter", "grams": 50, "note": "active rye starter" }
+    {
+      "key": "flour:rye-whole",
+      "grams": 1050,
+      "note": "coarse/medium whole rye meal (Roggenschrot)"
+    },
+    {
+      "key": "water",
+      "grams": 900
+    },
+    {
+      "key": "salt",
+      "grams": 20
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 50,
+      "note": "active rye starter"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1900, "shape": "pullman/lidded tin loaf" },
-  "time": { "totalMin": 2480, "activeMin": 20, "bulkMin": 60, "bakeMin": 1440, "overnight": true },
-  "bake": { "tempC": 100, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1900,
+    "shape": "pullman/lidded tin loaf"
+  },
+  "time": {
+    "totalMin": 2480,
+    "activeMin": 20,
+    "bulkMin": 60,
+    "bakeMin": 1440,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 100,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["earthy", "sweet", "malty", "sour"],
-  "purposes": ["everyday", "sandwich", "breakfast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 14, "freezes": true, "note": "Keeps unusually long thanks to the dense crumb and low residual sugars; slice thin." },
-  "equipment": ["pullman-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Stir coarse rye meal, water, salt and a portion of active rye starter into a thick, wet paste, there's no kneading, since rye builds no gluten network." },
-    { "title": "Short rest", "summary": "Cover and let the mixture rest 45–60 minutes at room temperature; it won't rise much, it just needs to hydrate fully." },
-    { "title": "Pack the tin", "summary": "Pack the dense paste into a well-greased, lidded loaf tin, pressing out air pockets, and seal it." },
-    { "title": "Long, slow bake", "summary": "Bake covered at a moderate heat for about an hour, then drop to a very low temperature and hold it there for roughly a day. This is closer to slow steaming than baking: rye enzymes keep converting starch into malt sugar, which is where the sweetness and near-black color come from." },
-    { "title": "Rest before slicing", "summary": "Cool completely, then let the loaf rest at least a full day before the first slice; cutting too soon leaves it gummy." }
+  "flavors": [
+    "earthy",
+    "sweet",
+    "malty",
+    "sour"
   ],
-  "source": { "url": "https://kleineprise.de/pumpernickel-rezept/", "site": "kleineprise.de", "retrieved": "2026-07-17", "adaptation": "Home-style simplified version; some traditional Westphalian pumpernickel recipes ferment longer before the long low-temperature bake." },
-  "tags": ["schwarzbrot", "westfalen"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 14,
+    "freezes": true,
+    "note": "Keeps unusually long thanks to the dense crumb and low residual sugars; slice thin."
+  },
+  "equipment": [
+    "pullman-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Stir coarse rye meal, water, salt and a portion of active rye starter into a thick, wet paste, there's no kneading, since rye builds no gluten network."
+    },
+    {
+      "title": "Short rest",
+      "summary": "Cover and let the mixture rest 45–60 minutes at room temperature; it won't rise much, it just needs to hydrate fully."
+    },
+    {
+      "title": "Pack the tin",
+      "summary": "Pack the dense paste into a well-greased, lidded loaf tin, pressing out air pockets, and seal it."
+    },
+    {
+      "title": "Long, slow bake",
+      "summary": "Bake covered at a moderate heat for about an hour, then drop to a very low temperature and hold it there for roughly a day. This is closer to slow steaming than baking: rye enzymes keep converting starch into malt sugar, which is where the sweetness and near-black color come from."
+    },
+    {
+      "title": "Rest before slicing",
+      "summary": "Cool completely, then let the loaf rest at least a full day before the first slice; cutting too soon leaves it gummy."
+    }
+  ],
+  "source": {
+    "url": "https://kleineprise.de/pumpernickel-rezept/",
+    "site": "kleineprise.de",
+    "retrieved": "2026-07-17",
+    "adaptation": "Home-style simplified version; some traditional Westphalian pumpernickel recipes ferment longer before the long low-temperature bake."
+  },
+  "tags": [
+    "schwarzbrot",
+    "westfalen"
+  ],
+  "doughType": "paste"
 }

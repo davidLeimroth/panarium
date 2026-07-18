@@ -7,7 +7,9 @@
     "fr": "Mantou (petit pain vapeur)",
     "native": "馒头 (mántóu)"
   },
-  "aliases": ["Chinese steamed bun"],
+  "aliases": [
+    "Chinese steamed bun"
+  ],
   "description": {
     "en": "Northern China's answer to bread: wheat dough steamed instead of baked, so no crust ever forms, just a smooth, cloud-white skin over a springy, faintly sweet crumb. Eaten plain, dipped, or torn open beside saucy braises.",
     "de": "Nordchinas Antwort auf Brot: Weizenteig wird gedämpft statt gebacken, sodass sich nie eine Kruste bildet – nur eine glatte, wolkenweiße Haut über einer sprungkräftigen, leicht süßen Krume. Pur gegessen, getunkt oder neben Schmorgerichten aufgerissen.",
@@ -27,36 +29,118 @@
     "sugarPct": 5,
     "yeastPct": 1.2,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 250 },
-    { "key": "instant-yeast", "grams": 3 },
-    { "key": "baking-powder", "grams": 3 },
-    { "key": "sugar", "grams": 13 },
-    { "key": "water", "grams": 130, "note": "lukewarm" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 250
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3
+    },
+    {
+      "key": "baking-powder",
+      "grams": 3
+    },
+    {
+      "key": "sugar",
+      "grams": 13
+    },
+    {
+      "key": "water",
+      "grams": 130,
+      "note": "lukewarm"
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 67, "shape": "smooth round steamed bun" },
-  "time": { "totalMin": 70, "activeMin": 25, "proofMin": 30, "bakeMin": 12, "overnight": false },
-  "bake": { "tempC": 100, "steam": true, "vessel": "steamer" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 67,
+    "shape": "smooth round steamed bun"
+  },
+  "time": {
+    "totalMin": 70,
+    "activeMin": 25,
+    "proofMin": 30,
+    "bakeMin": 12,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 100,
+    "steam": true,
+    "vessel": "steamer"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["mild", "sweet", "wheaty", "yeasty"],
-  "purposes": ["side", "everyday", "breakfast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Steams back to fluffy from frozen in about 10 minutes; a staple side for saucy northern Chinese dishes." },
-  "equipment": ["steamer"],
-  "method": [
-    { "title": "Mix", "summary": "Combine flour, yeast, baking powder and sugar, then gradually work in water to a smooth, medium-firm dough." },
-    { "title": "Knead", "summary": "Knead until completely smooth, resting partway through if working by hand." },
-    { "title": "Shape", "summary": "Divide into six pieces and roll each between your palms into a taut, smooth ball." },
-    { "title": "Proof", "summary": "Set the buns in a steamer basket and let them puff for about 30 minutes at room temperature." },
-    { "title": "Steam", "summary": "Set the steamer over cold water, bring to a boil, then reduce to medium-low and steam 10-12 minutes." },
-    { "title": "Rest before opening", "summary": "Let the buns sit off the heat for a couple of minutes before lifting the lid so they don't collapse in the temperature shock." }
+  "flavors": [
+    "mild",
+    "sweet",
+    "wheaty",
+    "yeasty"
   ],
-  "source": { "url": "https://redhousespice.com/mantou-steamed-buns/", "site": "Red House Spice", "retrieved": "2026-07-17", "adaptation": "Grams kept as sourced; optional date-topped flower shaping omitted in favor of the plain round bun." },
-  "tags": ["staple", "steamed"]
+  "purposes": [
+    "side",
+    "everyday",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Steams back to fluffy from frozen in about 10 minutes; a staple side for saucy northern Chinese dishes."
+  },
+  "equipment": [
+    "steamer"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, yeast, baking powder and sugar, then gradually work in water to a smooth, medium-firm dough."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead until completely smooth, resting partway through if working by hand."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into six pieces and roll each between your palms into a taut, smooth ball."
+    },
+    {
+      "title": "Proof",
+      "summary": "Set the buns in a steamer basket and let them puff for about 30 minutes at room temperature."
+    },
+    {
+      "title": "Steam",
+      "summary": "Set the steamer over cold water, bring to a boil, then reduce to medium-low and steam 10-12 minutes."
+    },
+    {
+      "title": "Rest before opening",
+      "summary": "Let the buns sit off the heat for a couple of minutes before lifting the lid so they don't collapse in the temperature shock."
+    }
+  ],
+  "source": {
+    "url": "https://redhousespice.com/mantou-steamed-buns/",
+    "site": "Red House Spice",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams kept as sourced; optional date-topped flower shaping omitted in favor of the plain round bun."
+  },
+  "tags": [
+    "staple",
+    "steamed"
+  ],
+  "doughType": "dough"
 }

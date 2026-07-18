@@ -7,14 +7,21 @@
     "fr": "Pain Borodinsky",
     "native": "Бородинский хлеб"
   },
-  "aliases": ["Russian coriander rye", "Borodinsky khleb"],
+  "aliases": [
+    "Russian coriander rye",
+    "Borodinsky khleb"
+  ],
   "description": {
     "en": "Russia's iconic dark rye: a scalded, malt-sweetened dough deepened with molasses and a little cocoa, crowned with whole coriander seed. Named for the 1812 battlefield, it's dense, faintly sweet-sour, and distinctive.",
     "de": "Russlands ikonisches dunkles Roggenbrot: ein eingebrühter, mit Malz gesüßter Teig, vertieft mit Melasse und einem Hauch Kakao, gekrönt mit ganzen Koriandersamen. Benannt nach dem Schlachtfeld von 1812 – dicht, leicht süßsäuerlich und unverwechselbar.",
     "es": "El icónico pan de centeno oscuro de Rusia: una masa escaldada y endulzada con malta, profundizada con melaza y un toque de cacao, coronada con semillas enteras de cilantro. Bautizado por el campo de batalla de 1812, denso, sutilmente agridulce e inconfundible.",
     "fr": "Le pain de seigle sombre emblématique de la Russie : une pâte échaudée, sucrée au malt, approfondie de mélasse et d'une pointe de cacao, couronnée de graines de coriandre entières. Nommé d'après le champ de bataille de 1812, dense, subtilement doux-acidulé et unique en son genre."
   },
-  "origin": { "country": "RU", "region": "Russia, nationwide", "note": "Traditionally credited to nuns commemorating the 1812 Battle of Borodino; a GOST-standard formula since the Soviet era." },
+  "origin": {
+    "country": "RU",
+    "region": "nationwide",
+    "note": "Traditionally credited to nuns commemorating the 1812 Battle of Borodino; a GOST-standard formula since the Soviet era."
+  },
   "leaven": "yeast",
   "family": "pan-loaf",
   "formula": {
@@ -24,42 +31,147 @@
     "prefermentedFlourPct": 18,
     "yeastPct": 0.9,
     "flours": [
-      { "type": "rye-whole", "pct": 64 },
-      { "type": "wheat-white", "pct": 36 }
+      {
+        "type": "rye-whole",
+        "pct": 64
+      },
+      {
+        "type": "wheat-white",
+        "pct": 36
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 210, "note": "180g wholemeal rye plus 30g diastatic red rye malt, split across scald, preferment and final dough" },
-    { "key": "flour:wheat-white", "grams": 120 },
-    { "key": "water", "grams": 340, "note": "split across scald, preferment and final dough" },
-    { "key": "instant-yeast", "grams": 3 },
-    { "key": "salt", "grams": 8 },
-    { "key": "molasses", "grams": 25 },
-    { "key": "coriander-seed", "grams": 8, "note": "crushed, plus whole seed for topping" },
-    { "key": "caraway", "grams": 8, "note": "crushed" },
-    { "key": "cocoa", "grams": 6 }
+    {
+      "key": "flour:rye-whole",
+      "grams": 210,
+      "note": "180g wholemeal rye plus 30g diastatic red rye malt, split across scald, preferment and final dough"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 120
+    },
+    {
+      "key": "water",
+      "grams": 340,
+      "note": "split across scald, preferment and final dough"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "molasses",
+      "grams": 25
+    },
+    {
+      "key": "coriander-seed",
+      "grams": 8,
+      "note": "crushed, plus whole seed for topping"
+    },
+    {
+      "key": "caraway",
+      "grams": 8,
+      "note": "crushed"
+    },
+    {
+      "key": "cocoa",
+      "grams": 6
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 650, "shape": "pan loaf, domed top" },
-  "time": { "totalMin": 1170, "activeMin": 35, "bulkMin": 120, "proofMin": 60, "bakeMin": 55, "overnight": true },
-  "bake": { "tempC": 200, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 650,
+    "shape": "pan loaf, domed top"
+  },
+  "time": {
+    "totalMin": 1170,
+    "activeMin": 35,
+    "bulkMin": 120,
+    "proofMin": 60,
+    "bakeMin": 55,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 4,
   "crumb": "tight",
   "crust": "chewy",
-  "flavors": ["malty", "spiced", "sweet", "earthy"],
-  "purposes": ["everyday", "sandwich", "table", "soup-companion"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 64 },
-  "keeping": { "freshDays": 6, "freezes": true, "note": "Wrap well; the coriander crust softens but the flavor deepens over the following days." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Make the scald", "summary": "Pour boiling water over crushed coriander, caraway, malted rye and part of the rye flour; hold warm for hours to gelatinize and sweeten." },
-    { "title": "Build the preferment", "summary": "Mix rye flour, water and a little yeast; ferment about 12 hours until active." },
-    { "title": "Mix the dough", "summary": "Combine the scald, preferment, remaining rye and wheat flours, salt, molasses and cocoa into a soft, sticky dough." },
-    { "title": "Bulk ferment", "summary": "Rest about 2 hours, folding once partway through." },
-    { "title": "Pan and proof", "summary": "Shape into a pan loaf and proof about an hour until domed." },
-    { "title": "Top and bake", "summary": "Scatter whole coriander seed over the top, then bake until deeply set." },
-    { "title": "Cool", "summary": "Rest at least a few hours, ideally overnight, before slicing to avoid a gummy crumb." }
+  "flavors": [
+    "malty",
+    "spiced",
+    "sweet",
+    "earthy"
   ],
-  "source": { "url": "https://www.chainbaker.com/borodinsky/", "site": "ChainBaker", "retrieved": "2026-07-17", "adaptation": "Malted rye folded into the rye-whole total-flour percentage since the taxonomy has no separate malt-flour type; preferment here is yeasted rather than a wild rye sourdough as in historic versions." },
-  "tags": ["russian-classic", "coriander-crust"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "table",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 64
+  },
+  "keeping": {
+    "freshDays": 6,
+    "freezes": true,
+    "note": "Wrap well; the coriander crust softens but the flavor deepens over the following days."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Make the scald",
+      "summary": "Pour boiling water over crushed coriander, caraway, malted rye and part of the rye flour; hold warm for hours to gelatinize and sweeten."
+    },
+    {
+      "title": "Build the preferment",
+      "summary": "Mix rye flour, water and a little yeast; ferment about 12 hours until active."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the scald, preferment, remaining rye and wheat flours, salt, molasses and cocoa into a soft, sticky dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Rest about 2 hours, folding once partway through."
+    },
+    {
+      "title": "Pan and proof",
+      "summary": "Shape into a pan loaf and proof about an hour until domed."
+    },
+    {
+      "title": "Top and bake",
+      "summary": "Scatter whole coriander seed over the top, then bake until deeply set."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest at least a few hours, ideally overnight, before slicing to avoid a gummy crumb."
+    }
+  ],
+  "source": {
+    "url": "https://www.chainbaker.com/borodinsky/",
+    "site": "ChainBaker",
+    "retrieved": "2026-07-17",
+    "adaptation": "Malted rye folded into the rye-whole total-flour percentage since the taxonomy has no separate malt-flour type; preferment here is yeasted rather than a wild rye sourdough as in historic versions."
+  },
+  "tags": [
+    "russian-classic",
+    "coriander-crust"
+  ],
+  "doughType": "paste"
 }

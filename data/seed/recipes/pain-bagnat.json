@@ -7,14 +7,20 @@
     "fr": "Pain rond pour pan bagnat",
     "native": "Pain Bagnat"
   },
-  "aliases": ["pan bagnat bread"],
+  "aliases": [
+    "pan bagnat bread"
+  ],
   "description": {
     "en": "The firm-crusted, dense-crumbed round roll of Nice, built to soak up olive oil and hold a Niçoise salad filling without falling apart. This is the plain bread itself, the base of the famous pan bagnat sandwich.",
     "de": "Das feste, dichtkrumige Rundbrötchen aus Nizza, gemacht, um Olivenöl aufzusaugen und eine Salade-niçoise-Füllung zu tragen, ohne auseinanderzufallen. Dies ist das reine Brot selbst, die Grundlage des berühmten Pan-Bagnat-Sandwiches.",
     "es": "El panecillo redondo de corteza firme y miga densa de Niza, hecho para absorber aceite de oliva y sostener un relleno de ensalada niçoise sin deshacerse. Este es el pan solo, la base del famoso sándwich pan bagnat.",
     "fr": "Le petit pain rond à la croûte ferme et à la mie dense de Nice, fait pour absorber l'huile d'olive et tenir une garniture de salade niçoise sans se défaire. Voici le pain seul, la base du célèbre sandwich pan bagnat."
   },
-  "origin": { "country": "FR", "region": "Nice (Alpes-Maritimes, Provence)", "note": "'Pan bagnat' means 'wet bread' in old Niçois, the name of the finished sandwich, born as portable food for 19th-century fishermen and market workers. This entry is the plain roll itself." },
+  "origin": {
+    "country": "FR",
+    "region": "Nice (Alpes-Maritimes, Provence)",
+    "note": "'Pan bagnat' means 'wet bread' in old Niçois, the name of the finished sandwich, born as portable food for 19th-century fishermen and market workers. This entry is the plain roll itself."
+  },
   "leaven": "yeast",
   "family": "roll",
   "formula": {
@@ -22,36 +28,118 @@
     "saltPct": 2,
     "fatPct": 5.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 250, "note": "T55" },
-    { "key": "water", "grams": 150 },
-    { "key": "olive-oil", "grams": 14 },
-    { "key": "salt", "grams": 5 },
-    { "key": "instant-yeast", "grams": 5 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 250,
+      "note": "T55"
+    },
+    {
+      "key": "water",
+      "grams": 150
+    },
+    {
+      "key": "olive-oil",
+      "grams": 14
+    },
+    {
+      "key": "salt",
+      "grams": 5
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 5
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 180, "shape": "round roll, about 20cm" },
-  "time": { "totalMin": 120, "activeMin": 25, "bulkMin": 30, "proofMin": 30, "bakeMin": 12, "overnight": false },
-  "bake": { "tempC": 220, "steam": true, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 180,
+    "shape": "round roll, about 20cm"
+  },
+  "time": {
+    "totalMin": 120,
+    "activeMin": 25,
+    "bulkMin": 30,
+    "proofMin": 30,
+    "bakeMin": 12,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": true,
+    "vessel": "sheet"
+  },
   "difficulty": 1,
   "crumb": "tight",
   "crust": "chewy",
-  "flavors": ["wheaty", "olive", "mild"],
-  "purposes": ["sandwich", "picnic", "street-food"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Needs to hold its structure for a day, pan bagnat is famously better the next day once the filling's oil has soaked in." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Bloom", "summary": "Dissolve the yeast in warm water and let it bubble a few minutes." },
-    { "title": "Mix", "summary": "Work in the flour, salt and olive oil; knead about ten minutes until smooth." },
-    { "title": "First rise", "summary": "Let rise 30 minutes." },
-    { "title": "Shape", "summary": "Divide in two, shape into tight balls, then flatten slightly into rounds about 20cm across." },
-    { "title": "Proof", "summary": "Proof a further 30 minutes." },
-    { "title": "Bake", "summary": "Bake with steam until golden and firm, sturdy enough to hold a well-soaked Niçoise filling." }
+  "flavors": [
+    "wheaty",
+    "olive",
+    "mild"
   ],
-  "source": { "url": "https://www.marciatack.fr/recette-pains-ronds/", "site": "MarciaTack", "retrieved": "2026-07-17", "adaptation": "Salt increased slightly from the source's volumetric 3g to 5g (2%) for standard French bread-salting practice." },
-  "tags": ["nice", "salade-nicoise"]
+  "purposes": [
+    "sandwich",
+    "picnic",
+    "street-food"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Needs to hold its structure for a day, pan bagnat is famously better the next day once the filling's oil has soaked in."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom",
+      "summary": "Dissolve the yeast in warm water and let it bubble a few minutes."
+    },
+    {
+      "title": "Mix",
+      "summary": "Work in the flour, salt and olive oil; knead about ten minutes until smooth."
+    },
+    {
+      "title": "First rise",
+      "summary": "Let rise 30 minutes."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide in two, shape into tight balls, then flatten slightly into rounds about 20cm across."
+    },
+    {
+      "title": "Proof",
+      "summary": "Proof a further 30 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake with steam until golden and firm, sturdy enough to hold a well-soaked Niçoise filling."
+    }
+  ],
+  "source": {
+    "url": "https://www.marciatack.fr/recette-pains-ronds/",
+    "site": "MarciaTack",
+    "retrieved": "2026-07-17",
+    "adaptation": "Salt increased slightly from the source's volumetric 3g to 5g (2%) for standard French bread-salting practice."
+  },
+  "tags": [
+    "nice",
+    "salade-nicoise"
+  ],
+  "doughType": "dough"
 }

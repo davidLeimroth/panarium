@@ -6,7 +6,10 @@
     "es": "Johnnycake de Rhode Island (torta de maíz)",
     "fr": "Johnnycake de Rhode Island (galette de maïs)"
   },
-  "aliases": ["journey cake", "jonnycake"],
+  "aliases": [
+    "journey cake",
+    "jonnycake"
+  ],
   "description": {
     "en": "A pan-fried cornmeal cake older than the United States itself: white flint cornmeal is scalded into a thick mush, rested, then fried in fat until crisp outside and soft within. No flour, no leavening, no yeast.",
     "de": "Ein in der Pfanne gebratener Maiskuchen, älter als die USA selbst: weißes Maismehl wird zu einem dicken Brei aufgekocht, ruht kurz und wird dann in Fett gebraten, bis er außen knusprig und innen weich ist. Kein Weizenmehl, kein Triebmittel, keine Hefe.",
@@ -26,37 +29,124 @@
     "sugarPct": 8.7,
     "fatPct": 28,
     "flours": [
-      { "type": "corn", "pct": 100 }
+      {
+        "type": "corn",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:corn", "grams": 150, "note": "stone-ground white or yellow cornmeal" },
-    { "key": "sugar", "grams": 13 },
-    { "key": "salt", "grams": 3 },
-    { "key": "water", "grams": 592, "note": "boiling" },
-    { "key": "butter", "grams": 28, "note": "for the batter" },
-    { "key": "butter", "grams": 14, "note": "or oil/bacon grease, for frying" }
+    {
+      "key": "flour:corn",
+      "grams": 150,
+      "note": "stone-ground white or yellow cornmeal"
+    },
+    {
+      "key": "sugar",
+      "grams": 13
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "key": "water",
+      "grams": 592,
+      "note": "boiling"
+    },
+    {
+      "key": "butter",
+      "grams": 28,
+      "note": "for the batter"
+    },
+    {
+      "key": "butter",
+      "grams": 14,
+      "note": "or oil/bacon grease, for frying"
+    }
   ],
-  "yield": { "count": 12, "pieceGrams": 50, "shape": "3-inch fried rounds, about 1/4 inch thick" },
-  "time": { "totalMin": 45, "activeMin": 20, "bakeMin": 25, "overnight": false },
-  "bake": { "tempC": 190, "steam": false, "vessel": "skillet" },
+  "yield": {
+    "count": 12,
+    "pieceGrams": 50,
+    "shape": "3-inch fried rounds, about 1/4 inch thick"
+  },
+  "time": {
+    "totalMin": 45,
+    "activeMin": 20,
+    "bakeMin": 25,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "skillet"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["earthy", "sweet", "savory", "toasty"],
-  "purposes": ["breakfast", "side", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": false, "containsDairy": true, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best hot off the griddle; these don't keep well and are meant to be eaten fresh, though extra batter keeps a day refrigerated." },
-  "equipment": ["skillet"],
-  "method": [
-    { "title": "Make the mush", "summary": "Whisk the cornmeal, salt and sugar into boiling water off the heat until smooth, then stir in the butter." },
-    { "title": "Rest the batter", "summary": "Let the mixture rest about 15 minutes until it thickens to a soft, mashed-potato consistency." },
-    { "title": "Heat the pan", "summary": "Heat a well-greased cast-iron or heavy pan over medium-high heat." },
-    { "title": "Drop & flatten", "summary": "Drop quarter-cup scoops onto the hot pan, spacing them apart, and gently flatten each to about 1/4 inch thick." },
-    { "title": "Fry both sides", "summary": "Fry undisturbed until the edges brown, 6-12 minutes, then flip and fry the other side until golden and crisp." },
-    { "title": "Keep warm", "summary": "Transfer to a rack in a warm oven while frying the rest, then serve hot." }
+  "flavors": [
+    "earthy",
+    "sweet",
+    "savory",
+    "toasty"
   ],
-  "source": { "url": "https://www.daringgourmet.com/traditional-johnny-cakes/", "site": "The Daring Gourmet", "retrieved": "2026-07-18", "adaptation": "Frying fat quantity estimated since the source leaves the amount to the cook's discretion." },
-  "tags": ["new-england", "griddle-bread"]
+  "purposes": [
+    "breakfast",
+    "side",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": false,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best hot off the griddle; these don't keep well and are meant to be eaten fresh, though extra batter keeps a day refrigerated."
+  },
+  "equipment": [
+    "skillet"
+  ],
+  "method": [
+    {
+      "title": "Make the mush",
+      "summary": "Whisk the cornmeal, salt and sugar into boiling water off the heat until smooth, then stir in the butter."
+    },
+    {
+      "title": "Rest the batter",
+      "summary": "Let the mixture rest about 15 minutes until it thickens to a soft, mashed-potato consistency."
+    },
+    {
+      "title": "Heat the pan",
+      "summary": "Heat a well-greased cast-iron or heavy pan over medium-high heat."
+    },
+    {
+      "title": "Drop & flatten",
+      "summary": "Drop quarter-cup scoops onto the hot pan, spacing them apart, and gently flatten each to about 1/4 inch thick."
+    },
+    {
+      "title": "Fry both sides",
+      "summary": "Fry undisturbed until the edges brown, 6-12 minutes, then flip and fry the other side until golden and crisp."
+    },
+    {
+      "title": "Keep warm",
+      "summary": "Transfer to a rack in a warm oven while frying the rest, then serve hot."
+    }
+  ],
+  "source": {
+    "url": "https://www.daringgourmet.com/traditional-johnny-cakes/",
+    "site": "The Daring Gourmet",
+    "retrieved": "2026-07-18",
+    "adaptation": "Frying fat quantity estimated since the source leaves the amount to the cook's discretion."
+  },
+  "tags": [
+    "new-england",
+    "griddle-bread"
+  ],
+  "doughType": "batter"
 }

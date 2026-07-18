@@ -7,14 +7,21 @@
     "fr": "Tourte carélienne (Karjalanpiirakka)",
     "native": "Karjalanpiirakka"
   },
-  "aliases": ["Karelian pasty", "riisipiirakka"],
+  "aliases": [
+    "Karelian pasty",
+    "riisipiirakka"
+  ],
   "description": {
     "en": "A wafer-thin rye crust pleated into an open oval and filled with creamy milk-rice porridge, baked blistering hot until the edges crackle. Finland's favorite savory pastry, always finished with a smear of egg butter.",
     "de": "Eine hauchdünne Roggenkruste, zu einem offenen Oval gefaltet und mit cremigem Milchreisbrei gefüllt, glühend heiß gebacken, bis die Ränder knacken. Finnlands liebstes herzhaftes Gebäck, immer vollendet mit einem Klecks Eierbutter.",
     "es": "Una fina corteza de centeno plegada en un óvalo abierto y rellena de cremoso arroz con leche, horneada a fuego altísimo hasta que los bordes crujen. El pastel salado favorito de Finlandia, siempre rematado con un toque de mantequilla de huevo.",
     "fr": "Une croûte de seigle ultra-fine, pliée en ovale ouvert et garnie d'un crémeux riz au lait, cuite à four brûlant jusqu'à ce que les bords craquent. La pâtisserie salée préférée de la Finlande, toujours terminée d'une touche de beurre à l'œuf."
   },
-  "origin": { "country": "FI", "region": "Karelia", "note": "First written mention dates to 1686; the rye crust once held barley or talkkuna fillings before rice porridge became standard." },
+  "origin": {
+    "country": "FI",
+    "region": "Karelia",
+    "note": "First written mention dates to 1686; the rye crust once held barley or talkkuna fillings before rice porridge became standard."
+  },
   "leaven": "none",
   "family": "roll",
   "formula": {
@@ -22,44 +29,162 @@
     "saltPct": 2,
     "fatPct": 10,
     "flours": [
-      { "type": "rye-whole", "pct": 67 },
-      { "type": "wheat-white", "pct": 33 }
+      {
+        "type": "rye-whole",
+        "pct": 67
+      },
+      {
+        "type": "wheat-white",
+        "pct": 33
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 100 },
-    { "key": "flour:wheat-white", "grams": 50, "note": "or spelt flour" },
-    { "key": "salt", "grams": 3, "note": "in the crust" },
-    { "key": "water", "grams": 80, "note": "in the crust" },
-    { "key": "butter", "grams": 15, "note": "melted, in the crust" },
-    { "key": "butter", "grams": 50, "note": "for brushing after baking" },
-    { "label": { "en": "short-grain rice", "de": "Rundkornreis", "es": "arroz de grano corto", "fr": "riz rond" }, "grams": 150 },
-    { "key": "milk", "grams": 1000, "note": "whole milk, for the rice filling" },
-    { "key": "butter", "grams": 50, "note": "in the rice filling" },
-    { "key": "egg", "grams": 200, "note": "hard-boiled, for the egg butter (munavoi)" },
-    { "key": "butter", "grams": 120, "note": "softened, for the egg butter" }
+    {
+      "key": "flour:rye-whole",
+      "grams": 100
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 50,
+      "note": "or spelt flour"
+    },
+    {
+      "key": "salt",
+      "grams": 3,
+      "note": "in the crust"
+    },
+    {
+      "key": "water",
+      "grams": 80,
+      "note": "in the crust"
+    },
+    {
+      "key": "butter",
+      "grams": 15,
+      "note": "melted, in the crust"
+    },
+    {
+      "key": "butter",
+      "grams": 50,
+      "note": "for brushing after baking"
+    },
+    {
+      "label": {
+        "en": "short-grain rice",
+        "de": "Rundkornreis",
+        "es": "arroz de grano corto",
+        "fr": "riz rond"
+      },
+      "grams": 150
+    },
+    {
+      "key": "milk",
+      "grams": 1000,
+      "note": "whole milk, for the rice filling"
+    },
+    {
+      "key": "butter",
+      "grams": 50,
+      "note": "in the rice filling"
+    },
+    {
+      "key": "egg",
+      "grams": 200,
+      "note": "hard-boiled, for the egg butter (munavoi)"
+    },
+    {
+      "key": "butter",
+      "grams": 120,
+      "note": "softened, for the egg butter"
+    }
   ],
-  "yield": { "count": 9, "pieceGrams": 55, "shape": "thin oval hand-pie with a pleated rye crust, about 13cm long" },
-  "time": { "totalMin": 110, "activeMin": 75, "bakeMin": 15 },
-  "bake": { "tempC": 260, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 9,
+    "pieceGrams": 55,
+    "shape": "thin oval hand-pie with a pleated rye crust, about 13cm long"
+  },
+  "time": {
+    "totalMin": 110,
+    "activeMin": 75,
+    "bakeMin": 15
+  },
+  "bake": {
+    "tempC": 260,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 4,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["earthy", "savory", "nutty", "mild"],
-  "purposes": ["breakfast", "snack", "everyday", "table"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 67 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm the day of baking; reheat gently, or freeze unfilled crusts." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Cook the filling", "summary": "Simmer rice in water until absorbed, stir in milk and butter, then cook low and slow, stirring, until thick and smooth. Cool completely." },
-    { "title": "Make the dough", "summary": "Mix rye flour, wheat flour, salt, water and melted butter into a firm, non-sticky dough." },
-    { "title": "Shape the crusts", "summary": "Roll a cylinder of dough, cut into pieces, and roll each almost translucently thin into an oval." },
-    { "title": "Fill", "summary": "Spread cooled rice porridge over the center, leaving a bare border." },
-    { "title": "Pleat", "summary": "Fold the edges over in small pleats to form the classic open, ridged rim." },
-    { "title": "Bake", "summary": "Bake in a very hot oven until the crust is crisp and lightly browned, 10-15 minutes." },
-    { "title": "Finish", "summary": "Brush hot from the oven with melted butter and serve with egg butter, chopped hard-boiled egg stirred into softened butter." }
+  "flavors": [
+    "earthy",
+    "savory",
+    "nutty",
+    "mild"
   ],
-  "source": { "url": "https://bake-street.com/en/karjalanpiirakka-or-karelian-pies/", "site": "Bake Street", "retrieved": "2026-07-17", "adaptation": "Baker's percentages computed from the crust flour only; the rice filling and egg butter are listed as ingredients but excluded from the flour totals." },
-  "tags": ["karelia", "rice-filled"]
+  "purposes": [
+    "breakfast",
+    "snack",
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 67
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best warm the day of baking; reheat gently, or freeze unfilled crusts."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Cook the filling",
+      "summary": "Simmer rice in water until absorbed, stir in milk and butter, then cook low and slow, stirring, until thick and smooth. Cool completely."
+    },
+    {
+      "title": "Make the dough",
+      "summary": "Mix rye flour, wheat flour, salt, water and melted butter into a firm, non-sticky dough."
+    },
+    {
+      "title": "Shape the crusts",
+      "summary": "Roll a cylinder of dough, cut into pieces, and roll each almost translucently thin into an oval."
+    },
+    {
+      "title": "Fill",
+      "summary": "Spread cooled rice porridge over the center, leaving a bare border."
+    },
+    {
+      "title": "Pleat",
+      "summary": "Fold the edges over in small pleats to form the classic open, ridged rim."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a very hot oven until the crust is crisp and lightly browned, 10-15 minutes."
+    },
+    {
+      "title": "Finish",
+      "summary": "Brush hot from the oven with melted butter and serve with egg butter, chopped hard-boiled egg stirred into softened butter."
+    }
+  ],
+  "source": {
+    "url": "https://bake-street.com/en/karjalanpiirakka-or-karelian-pies/",
+    "site": "Bake Street",
+    "retrieved": "2026-07-17",
+    "adaptation": "Baker's percentages computed from the crust flour only; the rice filling and egg butter are listed as ingredients but excluded from the flour totals."
+  },
+  "tags": [
+    "karelia",
+    "rice-filled"
+  ],
+  "doughType": "paste"
 }

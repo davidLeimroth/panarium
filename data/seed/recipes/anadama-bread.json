@@ -26,43 +26,156 @@
     "fatPct": 9,
     "yeastPct": 1.6,
     "flours": [
-      { "type": "corn", "pct": 24 },
-      { "type": "wheat-white", "pct": 52 },
-      { "type": "wheat-whole", "pct": 24 }
+      {
+        "type": "corn",
+        "pct": 24
+      },
+      {
+        "type": "wheat-white",
+        "pct": 52
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 24
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:corn", "grams": 113, "note": "yellow cornmeal" },
-    { "key": "salt", "grams": 8 },
-    { "key": "butter", "grams": 43 },
-    { "key": "molasses", "grams": 85, "note": "dark/robust preferred" },
-    { "key": "water", "grams": 240, "note": "boiling, to scald the cornmeal" },
-    { "label": { "en": "dry milk powder", "de": "Magermilchpulver", "es": "leche en polvo", "fr": "lait en poudre" }, "grams": 28 },
-    { "key": "flour:wheat-white", "grams": 240, "note": "all-purpose" },
-    { "key": "flour:wheat-whole", "grams": 113, "note": "white whole wheat" },
-    { "key": "instant-yeast", "grams": 8 }
+    {
+      "key": "flour:corn",
+      "grams": 113,
+      "note": "yellow cornmeal"
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "butter",
+      "grams": 43
+    },
+    {
+      "key": "molasses",
+      "grams": 85,
+      "note": "dark/robust preferred"
+    },
+    {
+      "key": "water",
+      "grams": 240,
+      "note": "boiling, to scald the cornmeal"
+    },
+    {
+      "label": {
+        "en": "dry milk powder",
+        "de": "Magermilchpulver",
+        "es": "leche en polvo",
+        "fr": "lait en poudre"
+      },
+      "grams": 28
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 240,
+      "note": "all-purpose"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 113,
+      "note": "white whole wheat"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 8
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 878, "shape": "8.5-inch pan loaf" },
-  "time": { "totalMin": 230, "activeMin": 25, "bulkMin": 60, "proofMin": 90, "bakeMin": 38, "overnight": false },
-  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 878,
+    "shape": "8.5-inch pan loaf"
+  },
+  "time": {
+    "totalMin": 230,
+    "activeMin": 25,
+    "bulkMin": 60,
+    "proofMin": 90,
+    "bakeMin": 38,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "earthy", "caramel", "rich"],
-  "purposes": ["sandwich", "toast", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 48 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "Stays moist for most of a week thanks to the molasses; slices best after resting a day." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Scald the cornmeal", "summary": "Whisk cornmeal and salt, stir in butter, molasses and boiling water until smooth, and let the mixture cool to lukewarm." },
-    { "title": "Build the dough", "summary": "Mix in dry milk powder, both flours and yeast; let the shaggy dough rest 20 minutes before kneading." },
-    { "title": "Knead", "summary": "Knead until smooth and elastic, about 7 minutes by machine or a bit longer by hand." },
-    { "title": "First rise", "summary": "Cover and let the dough double in size, about an hour." },
-    { "title": "Shape", "summary": "Shape into a log and settle it into a greased loaf pan." },
-    { "title": "Second rise", "summary": "Let it rise until the center crests about an inch above the rim of the pan." },
-    { "title": "Bake", "summary": "Bake until deeply browned and the loaf sounds hollow, with an internal temperature near 88°C (190°F)." }
+  "flavors": [
+    "sweet",
+    "earthy",
+    "caramel",
+    "rich"
   ],
-  "source": { "url": "https://www.kingarthurbaking.com/recipes/new-england-anadama-bread-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Grams kept as sourced; scalding water quantity set at the recipe's own suggested midpoint." },
-  "tags": ["molasses", "new-england"]
+  "purposes": [
+    "sandwich",
+    "toast",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 48
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "Stays moist for most of a week thanks to the molasses; slices best after resting a day."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Scald the cornmeal",
+      "summary": "Whisk cornmeal and salt, stir in butter, molasses and boiling water until smooth, and let the mixture cool to lukewarm."
+    },
+    {
+      "title": "Build the dough",
+      "summary": "Mix in dry milk powder, both flours and yeast; let the shaggy dough rest 20 minutes before kneading."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead until smooth and elastic, about 7 minutes by machine or a bit longer by hand."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let the dough double in size, about an hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Shape into a log and settle it into a greased loaf pan."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Let it rise until the center crests about an inch above the rim of the pan."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until deeply browned and the loaf sounds hollow, with an internal temperature near 88°C (190°F)."
+    }
+  ],
+  "source": {
+    "url": "https://www.kingarthurbaking.com/recipes/new-england-anadama-bread-recipe",
+    "site": "King Arthur Baking",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams kept as sourced; scalding water quantity set at the recipe's own suggested midpoint."
+  },
+  "tags": [
+    "molasses",
+    "new-england"
+  ],
+  "doughType": "dough"
 }

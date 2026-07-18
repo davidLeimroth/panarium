@@ -6,7 +6,9 @@
     "es": "Pandesal",
     "fr": "Pandesal"
   },
-  "aliases": ["pan de sal"],
+  "aliases": [
+    "pan de sal"
+  ],
   "description": {
     "en": "The Philippines' breakfast bread, born from Spanish 'pan de sal' and gone sweeter and softer over centuries: an egg-and-milk-enriched roll rolled in breadcrumbs before baking, best torn open steaming hot and dunked in coffee.",
     "de": "Das philippinische Frühstücksbrötchen, entstanden aus dem spanischen 'pan de sal' und über Jahrhunderte süßer und weicher geworden: ein mit Ei und Milch angereichertes Brötchen, vor dem Backen in Semmelbröseln gewälzt, dampfend heiß in Kaffee getunkt.",
@@ -27,40 +29,144 @@
     "fatPct": 11,
     "yeastPct": 1.4,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 520, "note": "half all-purpose, half bread flour" },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "sugar", "grams": 100 },
-    { "key": "salt", "grams": 6 },
-    { "key": "milk", "grams": 240, "note": "warm" },
-    { "key": "egg", "grams": 100, "note": "2 eggs" },
-    { "key": "butter", "grams": 57, "note": "softened" },
-    { "label": { "en": "dried breadcrumbs", "de": "Semmelbrösel", "es": "pan rallado", "fr": "chapelure" }, "grams": 40, "note": "for rolling the shaped rolls before baking" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 520,
+      "note": "half all-purpose, half bread flour"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "sugar",
+      "grams": 100
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "milk",
+      "grams": 240,
+      "note": "warm"
+    },
+    {
+      "key": "egg",
+      "grams": 100,
+      "note": "2 eggs"
+    },
+    {
+      "key": "butter",
+      "grams": 57,
+      "note": "softened"
+    },
+    {
+      "label": {
+        "en": "dried breadcrumbs",
+        "de": "Semmelbrösel",
+        "es": "pan rallado",
+        "fr": "chapelure"
+      },
+      "grams": 40,
+      "note": "for rolling the shaped rolls before baking"
+    }
   ],
-  "yield": { "count": 16, "pieceGrams": 67, "shape": "oval roll rolled in breadcrumbs" },
-  "time": { "totalMin": 170, "activeMin": 35, "bulkMin": 60, "proofMin": 60, "bakeMin": 13, "overnight": false },
-  "bake": { "tempC": 191, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 16,
+    "pieceGrams": 67,
+    "shape": "oval roll rolled in breadcrumbs"
+  },
+  "time": {
+    "totalMin": 170,
+    "activeMin": 35,
+    "bulkMin": 60,
+    "proofMin": 60,
+    "bakeMin": 13,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 191,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "floury",
-  "flavors": ["sweet", "buttery", "mild", "rich"],
-  "purposes": ["breakfast", "snack", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm the morning it's baked, often dunked in coffee or filled with corned beef; reheats well from frozen." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Combine both flours, sugar, salt and yeast, then work in warm milk and eggs to a rough dough." },
-    { "title": "Knead", "summary": "Knead 8-10 minutes to a strong gluten structure, then work in softened butter a little at a time." },
-    { "title": "First rise", "summary": "Let the dough double, about an hour, then gently deflate it." },
-    { "title": "Shape", "summary": "Roll into logs, cut into portions, and shape each into a smooth ball or short log." },
-    { "title": "Coat", "summary": "Roll each piece in dried breadcrumbs and set it on a breadcrumb-dusted tray." },
-    { "title": "Second rise", "summary": "Cover and let rise again until doubled, about an hour." },
-    { "title": "Bake", "summary": "Bake until golden on top, soft and light inside." }
+  "flavors": [
+    "sweet",
+    "buttery",
+    "mild",
+    "rich"
   ],
-  "source": { "url": "https://www.hungryhuy.com/pandesal/", "site": "Hungry Huy", "retrieved": "2026-07-17", "adaptation": "Grams kept as sourced; the two flour types combined into a single ingredient entry." },
-  "tags": ["breakfast-bread", "breadcrumb-coated"]
+  "purposes": [
+    "breakfast",
+    "snack",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best warm the morning it's baked, often dunked in coffee or filled with corned beef; reheats well from frozen."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine both flours, sugar, salt and yeast, then work in warm milk and eggs to a rough dough."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead 8-10 minutes to a strong gluten structure, then work in softened butter a little at a time."
+    },
+    {
+      "title": "First rise",
+      "summary": "Let the dough double, about an hour, then gently deflate it."
+    },
+    {
+      "title": "Shape",
+      "summary": "Roll into logs, cut into portions, and shape each into a smooth ball or short log."
+    },
+    {
+      "title": "Coat",
+      "summary": "Roll each piece in dried breadcrumbs and set it on a breadcrumb-dusted tray."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Cover and let rise again until doubled, about an hour."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until golden on top, soft and light inside."
+    }
+  ],
+  "source": {
+    "url": "https://www.hungryhuy.com/pandesal/",
+    "site": "Hungry Huy",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams kept as sourced; the two flour types combined into a single ingredient entry."
+  },
+  "tags": [
+    "breakfast-bread",
+    "breadcrumb-coated"
+  ],
+  "doughType": "dough"
 }

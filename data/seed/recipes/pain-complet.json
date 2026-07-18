@@ -7,14 +7,21 @@
     "fr": "Pain complet",
     "native": "Pain Complet"
   },
-  "aliases": ["whole wheat bread", "pain intégral"],
+  "aliases": [
+    "whole wheat bread",
+    "pain intégral"
+  ],
   "description": {
     "en": "The everyday whole-wheat loaf of French bakeries: 100% T150 flour, a same-day yeasted rise, and a nutty, faintly sweet crumb. Simpler and quicker than a levain loaf, but still deeply flavored.",
     "de": "Das alltägliche Vollkornbrot der französischen Bäckerei: 100% T150-Mehl, ein Hefeteig mit Gare am selben Tag und eine nussige, leicht süßliche Krume. Einfacher und schneller als ein Sauerteigbrot, aber dennoch aromatisch.",
     "es": "La hogaza integral cotidiana de las panaderías francesas: 100% harina T150, fermentación con levadura en el mismo día y una miga de sabor a nuez, ligeramente dulce. Más simple y rápida que un pan con levain, pero igualmente sabrosa.",
     "fr": "Le pain complet du quotidien à la française : 100% farine T150, une pousse à la levure bouclée le jour même et une mie au goût de noisette, légèrement sucrée. Plus simple et plus rapide qu'un pain au levain, mais tout aussi savoureux."
   },
-  "origin": { "country": "FR", "region": "national", "note": "The standard 'brown bread' of French boulangeries, distinct from the more rustic, often sourdough-leavened pain de campagne." },
+  "origin": {
+    "country": "FR",
+    "region": "national",
+    "note": "The standard 'brown bread' of French boulangeries, distinct from the more rustic, often sourdough-leavened pain de campagne."
+  },
   "leaven": "yeast",
   "family": "hearth-loaf",
   "formula": {
@@ -22,35 +29,114 @@
     "saltPct": 2,
     "yeastPct": 0.8,
     "flours": [
-      { "type": "wheat-whole", "pct": 100 }
+      {
+        "type": "wheat-whole",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 500, "note": "T150" },
-    { "key": "water", "grams": 320 },
-    { "key": "fresh-yeast", "grams": 12 },
-    { "key": "salt", "grams": 10 }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 500,
+      "note": "T150"
+    },
+    {
+      "key": "water",
+      "grams": 320
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 12
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 750, "shape": "bâtard or boule" },
-  "time": { "totalMin": 190, "activeMin": 25, "bulkMin": 60, "proofMin": 45, "bakeMin": 33, "overnight": false },
-  "bake": { "tempC": 230, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 750,
+    "shape": "bâtard or boule"
+  },
+  "time": {
+    "totalMin": 190,
+    "activeMin": 25,
+    "bulkMin": 60,
+    "proofMin": 45,
+    "bakeMin": 33,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["wheaty", "nutty", "earthy"],
-  "purposes": ["everyday", "sandwich", "breakfast", "toast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Slices and freezes well for toast during the week." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Bloom the yeast", "summary": "Dissolve the fresh yeast in the warm water." },
-    { "title": "Mix", "summary": "Add the whole wheat flour and salt and knead 8-12 minutes to a smooth, supple dough." },
-    { "title": "First rise", "summary": "Cover and let rise about an hour at room temperature until doubled." },
-    { "title": "Shape", "summary": "Degas gently and shape into a ball or bâtard." },
-    { "title": "Proof", "summary": "Let rise a further 45 minutes." },
-    { "title": "Bake", "summary": "Score and bake hot with steam until deeply golden and hollow-sounding when tapped." }
+  "flavors": [
+    "wheaty",
+    "nutty",
+    "earthy"
   ],
-  "source": { "url": "https://www.aliciarecette.com/recette-pain-complet/", "site": "Alicia Recette", "retrieved": "2026-07-17" },
-  "tags": ["everyday", "T150"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast",
+    "toast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Slices and freezes well for toast during the week."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Bloom the yeast",
+      "summary": "Dissolve the fresh yeast in the warm water."
+    },
+    {
+      "title": "Mix",
+      "summary": "Add the whole wheat flour and salt and knead 8-12 minutes to a smooth, supple dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise about an hour at room temperature until doubled."
+    },
+    {
+      "title": "Shape",
+      "summary": "Degas gently and shape into a ball or bâtard."
+    },
+    {
+      "title": "Proof",
+      "summary": "Let rise a further 45 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Score and bake hot with steam until deeply golden and hollow-sounding when tapped."
+    }
+  ],
+  "source": {
+    "url": "https://www.aliciarecette.com/recette-pain-complet/",
+    "site": "Alicia Recette",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "everyday",
+    "T150"
+  ],
+  "doughType": "dough"
 }

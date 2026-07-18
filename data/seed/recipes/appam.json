@@ -7,14 +7,22 @@
     "fr": "Appam (pain fermenté au riz et à la noix de coco)",
     "native": "അപ്പം"
   },
-  "aliases": ["palappam", "hoppers", "vellayappam"],
+  "aliases": [
+    "palappam",
+    "hoppers",
+    "vellayappam"
+  ],
   "description": {
     "en": "A bowl-shaped Kerala bread from a fermented rice and coconut batter, swirled in a curved pan until the edges turn thin and lacy while the center stays soft and spongy. Naturally gluten-free, it is scooped up with coconut milk stew or egg curry for breakfast.",
     "de": "Ein schüsselförmiges Brot aus Kerala aus fermentiertem Reis-Kokos-Teig, in einer gewölbten Pfanne geschwenkt, bis die Ränder dünn und spitzenartig werden und die Mitte weich bleibt. Glutenfrei, zum Frühstück mit Kokosmilch-Eintopf oder Eier-Curry gegessen.",
     "es": "Un pan de Kerala con forma de cuenco, de masa fermentada de arroz y coco, girado en una sartén curva hasta que los bordes quedan finos y de encaje y el centro queda suave. Sin gluten, se come con guiso de coco o curry de huevo en el desayuno.",
     "fr": "Un pain de Kerala en forme de bol, à base de pâte fermentée de riz et de coco, tourné dans une poêle incurvée jusqu'à ce que les bords deviennent fins et dentelés et le centre moelleux. Sans gluten, servi avec un ragoût au coco ou un curry d'œuf au petit-déjeuner."
   },
-  "origin": { "country": "IN", "region": "Kerala, South India (also Sri Lanka as 'hoppers')", "note": "Traditionally fermented with toddy, a mild palm wine; commercial yeast is the common home-kitchen substitute today." },
+  "origin": {
+    "country": "IN",
+    "region": "Kerala, South India (also Sri Lanka as 'hoppers')",
+    "note": "Traditionally fermented with toddy, a mild palm wine; commercial yeast is the common home-kitchen substitute today."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -22,37 +30,130 @@
     "saltPct": 1.5,
     "sugarPct": 6.3,
     "flours": [
-      { "type": "rice", "pct": 100 }
+      {
+        "type": "rice",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:rice", "grams": 400, "note": "raw white rice, soaked and ground; a portion is cooked into a soft porridge and blended back in" },
-    { "key": "water", "grams": 592, "note": "for grinding the rice and cooking the porridge, combined" },
-    { "label": { "en": "fresh coconut milk", "de": "frische Kokosmilch", "es": "leche de coco fresca", "fr": "lait de coco frais" }, "grams": 370, "note": "grated coconut blended with water and strained" },
-    { "key": "sugar", "grams": 25 },
-    { "key": "salt", "grams": 6 },
-    { "key": "active-dry-yeast", "grams": 2.5 }
+    {
+      "key": "flour:rice",
+      "grams": 400,
+      "note": "raw white rice, soaked and ground; a portion is cooked into a soft porridge and blended back in"
+    },
+    {
+      "key": "water",
+      "grams": 592,
+      "note": "for grinding the rice and cooking the porridge, combined"
+    },
+    {
+      "label": {
+        "en": "fresh coconut milk",
+        "de": "frische Kokosmilch",
+        "es": "leche de coco fresca",
+        "fr": "lait de coco frais"
+      },
+      "grams": 370,
+      "note": "grated coconut blended with water and strained"
+    },
+    {
+      "key": "sugar",
+      "grams": 25
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 2.5
+    }
   ],
-  "yield": { "count": 16, "pieceGrams": 87, "shape": "bowl-shaped, lacy edges, soft spongy center, ~15 cm" },
-  "time": { "totalMin": 1020, "activeMin": 35, "bulkMin": 960, "bakeMin": 25, "overnight": true },
-  "bake": { "tempC": 190, "steam": true, "vessel": "skillet" },
+  "yield": {
+    "count": 16,
+    "pieceGrams": 87,
+    "shape": "bowl-shaped, lacy edges, soft spongy center, ~15 cm"
+  },
+  "time": {
+    "totalMin": 1020,
+    "activeMin": 35,
+    "bulkMin": 960,
+    "bakeMin": 25,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": true,
+    "vessel": "skillet"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "soft",
-  "flavors": ["sweet", "nutty", "tangy", "mild"],
-  "purposes": ["breakfast", "everyday", "table"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best fresh and warm, spongy center and crisp lace edges; reheat covered with a splash of water to re-soften. Batter or cooked appam both freeze reasonably well." },
-  "equipment": ["skillet"],
-  "method": [
-    { "title": "Soak and grind", "summary": "Soak rice for several hours, then grind fine with water; cook a portion of the ground batter into a soft porridge and blend it back in for body." },
-    { "title": "Add coconut", "summary": "Blend fresh coconut with water, strain, and stir the coconut milk into the rice batter along with sugar and salt." },
-    { "title": "Ferment", "summary": "Stir in the yeast, cover, and let the batter rise 8 or more hours (overnight is easiest) until light and full of bubbles." },
-    { "title": "Thin", "summary": "Just before cooking, loosen the fermented batter with a little extra water or coconut milk to a thin, pourable consistency." },
-    { "title": "Swirl and cook", "summary": "Ladle batter into a hot, lightly oiled curved appam pan, swirling quickly to coat the sides thinly and leave a pool in the center." },
-    { "title": "Steam covered", "summary": "Cover with a lid and cook a couple of minutes, until the lacy edges turn golden and the spongy center is set." }
+  "flavors": [
+    "sweet",
+    "nutty",
+    "tangy",
+    "mild"
   ],
-  "source": { "url": "https://www.kannammacooks.com/kerala-appam-kerala-palappam-recipe/", "site": "Kannamma Cooks", "retrieved": "2026-07-18", "adaptation": "Cup-to-gram conversions estimated for rice, coconut and yeast; strained coconut water simplified to one 'coconut milk' ingredient; salt reduced slightly for balance." },
-  "tags": ["kerala", "gluten-free", "fermented-batter"]
+  "purposes": [
+    "breakfast",
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": false,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best fresh and warm, spongy center and crisp lace edges; reheat covered with a splash of water to re-soften. Batter or cooked appam both freeze reasonably well."
+  },
+  "equipment": [
+    "skillet"
+  ],
+  "method": [
+    {
+      "title": "Soak and grind",
+      "summary": "Soak rice for several hours, then grind fine with water; cook a portion of the ground batter into a soft porridge and blend it back in for body."
+    },
+    {
+      "title": "Add coconut",
+      "summary": "Blend fresh coconut with water, strain, and stir the coconut milk into the rice batter along with sugar and salt."
+    },
+    {
+      "title": "Ferment",
+      "summary": "Stir in the yeast, cover, and let the batter rise 8 or more hours (overnight is easiest) until light and full of bubbles."
+    },
+    {
+      "title": "Thin",
+      "summary": "Just before cooking, loosen the fermented batter with a little extra water or coconut milk to a thin, pourable consistency."
+    },
+    {
+      "title": "Swirl and cook",
+      "summary": "Ladle batter into a hot, lightly oiled curved appam pan, swirling quickly to coat the sides thinly and leave a pool in the center."
+    },
+    {
+      "title": "Steam covered",
+      "summary": "Cover with a lid and cook a couple of minutes, until the lacy edges turn golden and the spongy center is set."
+    }
+  ],
+  "source": {
+    "url": "https://www.kannammacooks.com/kerala-appam-kerala-palappam-recipe/",
+    "site": "Kannamma Cooks",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup-to-gram conversions estimated for rice, coconut and yeast; strained coconut water simplified to one 'coconut milk' ingredient; salt reduced slightly for balance."
+  },
+  "tags": [
+    "kerala",
+    "gluten-free",
+    "fermented-batter"
+  ],
+  "doughType": "batter"
 }

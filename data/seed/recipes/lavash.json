@@ -7,14 +7,21 @@
     "fr": "Lavash",
     "native": "լավաշ"
   },
-  "aliases": ["Armenian flatbread", "lavaş"],
+  "aliases": [
+    "Armenian flatbread",
+    "lavaş"
+  ],
   "description": {
     "en": "A soft, thin Armenian wheat flatbread, rolled paper-thin and blistered quickly on a hot griddle. Wrapped around cheese, herbs and grilled meats, or dried crisp as a keeper.",
     "de": "Ein weiches, dünnes armenisches Weizen-Fladenbrot, hauchdünn ausgerollt und schnell auf heißer Platte gebacken, bis es Blasen wirft. Wird um Käse, Kräuter und Gegrilltes gewickelt oder knusprig getrocknet.",
     "es": "Un pan plano armenio de trigo, suave y fino, estirado finísimo y dorado rápido en una plancha caliente hasta ampollarse. Se envuelve con queso, hierbas y carnes a la parrilla, o se seca crujiente para guardar.",
     "fr": "Un pain plat arménien au blé, souple et fin, étalé très mince et cuit vite sur une plaque chaude jusqu'à cloquer. On l'enroule autour de fromage, d'herbes et de grillades, ou on le sèche en galette croquante."
   },
-  "origin": { "country": "AM", "region": "Armenia, South Caucasus", "note": "UNESCO-listed as an element of Armenian intangible cultural heritage (2014); also baked across Iran, Turkey, Azerbaijan and Central Asia, traditionally in a tonir clay oven." },
+  "origin": {
+    "country": "AM",
+    "region": "South Caucasus",
+    "note": "UNESCO-listed as an element of Armenian intangible cultural heritage (2014); also baked across Iran, Turkey, Azerbaijan and Central Asia, traditionally in a tonir clay oven."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -24,39 +31,132 @@
     "fatPct": 3,
     "yeastPct": 1.5,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 470, "note": "all-purpose flour" },
-    { "key": "water", "grams": 178, "note": "lukewarm" },
-    { "key": "milk", "grams": 180, "note": "lukewarm" },
-    { "key": "active-dry-yeast", "grams": 7 },
-    { "key": "olive-oil", "grams": 14 },
-    { "key": "honey", "grams": 7 },
-    { "key": "salt", "grams": 9 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 470,
+      "note": "all-purpose flour"
+    },
+    {
+      "key": "water",
+      "grams": 178,
+      "note": "lukewarm"
+    },
+    {
+      "key": "milk",
+      "grams": 180,
+      "note": "lukewarm"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 7
+    },
+    {
+      "key": "olive-oil",
+      "grams": 14
+    },
+    {
+      "key": "honey",
+      "grams": 7
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 144, "shape": "large thin oval or rectangle wrap" },
-  "time": { "totalMin": 110, "activeMin": 30, "bulkMin": 60, "proofMin": 12, "bakeMin": 9, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 144,
+    "shape": "large thin oval or rectangle wrap"
+  },
+  "time": {
+    "totalMin": 110,
+    "activeMin": 30,
+    "bulkMin": 60,
+    "proofMin": 12,
+    "bakeMin": 9,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "blistered",
-  "flavors": ["mild", "wheaty", "honeyed"],
-  "purposes": ["everyday", "sandwich", "street-food"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Stays pliable a couple of days wrapped; once stiff, mist with water and wrap in a towel to soften. Freezes well." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Activate yeast", "summary": "Whisk yeast into warm water and milk with the oil and honey; let stand until foamy." },
-    { "title": "Mix & knead", "summary": "Stir in flour and salt, then knead about 7-10 minutes to a smooth, soft dough." },
-    { "title": "First rise", "summary": "Cover and let rise about an hour until doubled." },
-    { "title": "Divide & rest", "summary": "Divide into pieces, shape into balls, and let relax 10-15 minutes." },
-    { "title": "Roll paper-thin", "summary": "Roll each piece out as thin as possible on a floured surface." },
-    { "title": "Griddle-cook", "summary": "Cook on a lightly oiled, medium-hot griddle about 45-60 seconds per side until spotted and bubbling." },
-    { "title": "Keep soft", "summary": "Stack under a towel while warm so the sheets stay pliable for wrapping." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "honeyed"
   ],
-  "source": { "url": "https://www.daringgourmet.com/lavash-bread/", "site": "The Daring Gourmet", "retrieved": "2026-07-17", "adaptation": "Hydration recalculated to include the milk's water content per baker's-percentage convention; the source's own figure counted only the added water." },
-  "tags": ["unesco", "wrap-bread"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "street-food"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Stays pliable a couple of days wrapped; once stiff, mist with water and wrap in a towel to soften. Freezes well."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Activate yeast",
+      "summary": "Whisk yeast into warm water and milk with the oil and honey; let stand until foamy."
+    },
+    {
+      "title": "Mix & knead",
+      "summary": "Stir in flour and salt, then knead about 7-10 minutes to a smooth, soft dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise about an hour until doubled."
+    },
+    {
+      "title": "Divide & rest",
+      "summary": "Divide into pieces, shape into balls, and let relax 10-15 minutes."
+    },
+    {
+      "title": "Roll paper-thin",
+      "summary": "Roll each piece out as thin as possible on a floured surface."
+    },
+    {
+      "title": "Griddle-cook",
+      "summary": "Cook on a lightly oiled, medium-hot griddle about 45-60 seconds per side until spotted and bubbling."
+    },
+    {
+      "title": "Keep soft",
+      "summary": "Stack under a towel while warm so the sheets stay pliable for wrapping."
+    }
+  ],
+  "source": {
+    "url": "https://www.daringgourmet.com/lavash-bread/",
+    "site": "The Daring Gourmet",
+    "retrieved": "2026-07-17",
+    "adaptation": "Hydration recalculated to include the milk's water content per baker's-percentage convention; the source's own figure counted only the added water."
+  },
+  "tags": [
+    "unesco",
+    "wrap-bread"
+  ],
+  "doughType": "dough"
 }

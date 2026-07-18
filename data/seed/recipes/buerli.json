@@ -7,14 +7,22 @@
     "fr": "Bürli (petit pain suisse)",
     "native": "Bürli"
   },
-  "aliases": ["St. Galler Bürli", "Doppelbürli", "Bauernbrötli"],
+  "aliases": [
+    "St. Galler Bürli",
+    "Doppelbürli",
+    "Bauernbrötli"
+  ],
   "description": {
     "en": "A small, rustic Swiss roll with a crackling, deeply baked crust around a light, irregular crumb, traditionally baked touching in pairs, then torn apart. The classic partner for a grilled sausage, and an everyday roll across German-speaking Switzerland.",
     "de": "Ein kleines, rustikales Schweizer Brötchen mit knisternder, tief ausgebackener Kruste und lockerer, unregelmäßiger Krume, traditionell paarweise gebacken und dann auseinandergerissen. Der klassische Partner zur Bratwurst, alltäglich in der Deutschschweiz.",
     "es": "Un panecillo suizo rústico y pequeño, de corteza crujiente y bien horneada y miga ligera e irregular, horneado tradicionalmente en pareja y separado luego a mano. El acompañante clásico de la salchicha a la parrilla, un pan cotidiano en la Suiza alemana.",
     "fr": "Un petit pain suisse rustique à la croûte craquante bien cuite et à la mie légère et irrégulière, traditionnellement cuit en paire puis séparé à la main. L'accompagnement classique de la saucisse grillée, un pain du quotidien en Suisse alémanique."
   },
-  "origin": { "country": "CH", "region": "German-speaking Switzerland, especially St. Gallen", "note": "St. Gallen is often cited as the Bürli's home; near-identical rolls (Bauernbrötli, Ruch-Bürli) appear region-wide under local names." },
+  "origin": {
+    "country": "CH",
+    "region": "German-speaking Switzerland, especially St. Gallen",
+    "note": "St. Gallen is often cited as the Bürli's home; near-identical rolls (Bauernbrötli, Ruch-Bürli) appear region-wide under local names."
+  },
   "leaven": "hybrid",
   "family": "roll",
   "formula": {
@@ -23,44 +31,157 @@
     "fatPct": 1,
     "prefermentedFlourPct": 18.2,
     "flours": [
-      { "type": "wheat-white", "pct": 41.7 },
-      { "type": "wheat-whole", "pct": 38.5 },
-      { "type": "spelt-whole", "pct": 15 },
-      { "type": "rye", "pct": 4.8 }
+      {
+        "type": "wheat-white",
+        "pct": 41.7
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 38.5
+      },
+      {
+        "type": "spelt-whole",
+        "pct": 15
+      },
+      {
+        "type": "rye",
+        "pct": 4.8
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 258, "note": "type 550" },
-    { "key": "flour:wheat-whole", "grams": 258, "note": "type 1050" },
-    { "key": "flour:spelt-whole", "grams": 101, "note": "in the overnight pre-dough" },
-    { "key": "flour:rye", "grams": 32, "note": "type 997" },
-    { "key": "water", "grams": 490 },
-    { "key": "sourdough-starter", "grams": 32, "note": "mature, stiff wheat starter (TA 150)" },
-    { "key": "salt", "grams": 14 },
-    { "key": "fresh-yeast", "grams": 7.7, "note": "1 g in the pre-dough, 6.7 g in the main dough" },
-    { "key": "olive-oil", "grams": 6.7 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 258,
+      "note": "type 550"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 258,
+      "note": "type 1050"
+    },
+    {
+      "key": "flour:spelt-whole",
+      "grams": 101,
+      "note": "in the overnight pre-dough"
+    },
+    {
+      "key": "flour:rye",
+      "grams": 32,
+      "note": "type 997"
+    },
+    {
+      "key": "water",
+      "grams": 490
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 32,
+      "note": "mature, stiff wheat starter (TA 150)"
+    },
+    {
+      "key": "salt",
+      "grams": 14
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 7.7,
+      "note": "1 g in the pre-dough, 6.7 g in the main dough"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 6.7
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 140, "shape": "oval rolls baked in touching pairs (Doppelbürli)" },
-  "time": { "totalMin": 1081, "activeMin": 40, "bulkMin": 150, "proofMin": 30, "bakeMin": 20, "overnight": true },
-  "bake": { "tempC": 270, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 140,
+    "shape": "oval rolls baked in touching pairs (Doppelbürli)"
+  },
+  "time": {
+    "totalMin": 1081,
+    "activeMin": 40,
+    "bulkMin": 150,
+    "proofMin": 30,
+    "bakeMin": 20,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 270,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["wheaty", "tangy", "nutty", "mild"],
-  "purposes": ["everyday", "sandwich", "street-food"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 15 },
-  "keeping": { "freshDays": 1.5, "freezes": true, "note": "The crackling crust softens fast; best the day it's baked, or split and toasted the next day." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Build the pre-dough", "summary": "Mix spelt wholegrain flour, water and a little yeast into a soft paste. Ferment 2 hours at room temperature, then retard overnight in the fridge." },
-    { "title": "Mix the main dough", "summary": "Combine the pre-dough with white and higher-extraction wheat flours, rye flour, water, salt, a little more yeast, and a spoon of mature wheat sourdough starter. Knead in stages, working in the last of the water and then olive oil gradually, until the dough passes the windowpane test." },
-    { "title": "Bulk ferment with folds", "summary": "Let the dough rise about 2.5 hours at warm room temperature, giving it four gentle stretch-and-folds early on to build strength while keeping the crumb open and irregular." },
-    { "title": "Divide gently", "summary": "Portion the risen dough into small pieces, handling it as lightly as possible so the bubbly structure survives." },
-    { "title": "Shape and pair", "summary": "Round each piece loosely and set them down in touching pairs, seam-side down." },
-    { "title": "Final proof", "summary": "Let the paired rolls rise, covered, for about 30 minutes." },
-    { "title": "Bake with steam", "summary": "Slide onto a very hot baking stone, steam heavily at first, then ease off both the steam and the oven temperature until the crust is dark and crackling." }
+  "flavors": [
+    "wheaty",
+    "tangy",
+    "nutty",
+    "mild"
   ],
-  "source": { "url": "https://www.ploetzblog.de/rezepte/schweizer-buerli/id=621de550bc8f7e40a2857ea3", "site": "Plötzblog", "author": "Lutz Geißler", "retrieved": "2026-07-17", "adaptation": "Baker's percentages reconciled by resolving the stiff starter (TA 150) into its flour/water components; method paraphrased into fewer steps." },
-  "tags": ["st-gallen", "doppelbuerli"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "street-food"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 15
+  },
+  "keeping": {
+    "freshDays": 1.5,
+    "freezes": true,
+    "note": "The crackling crust softens fast; best the day it's baked, or split and toasted the next day."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build the pre-dough",
+      "summary": "Mix spelt wholegrain flour, water and a little yeast into a soft paste. Ferment 2 hours at room temperature, then retard overnight in the fridge."
+    },
+    {
+      "title": "Mix the main dough",
+      "summary": "Combine the pre-dough with white and higher-extraction wheat flours, rye flour, water, salt, a little more yeast, and a spoon of mature wheat sourdough starter. Knead in stages, working in the last of the water and then olive oil gradually, until the dough passes the windowpane test."
+    },
+    {
+      "title": "Bulk ferment with folds",
+      "summary": "Let the dough rise about 2.5 hours at warm room temperature, giving it four gentle stretch-and-folds early on to build strength while keeping the crumb open and irregular."
+    },
+    {
+      "title": "Divide gently",
+      "summary": "Portion the risen dough into small pieces, handling it as lightly as possible so the bubbly structure survives."
+    },
+    {
+      "title": "Shape and pair",
+      "summary": "Round each piece loosely and set them down in touching pairs, seam-side down."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Let the paired rolls rise, covered, for about 30 minutes."
+    },
+    {
+      "title": "Bake with steam",
+      "summary": "Slide onto a very hot baking stone, steam heavily at first, then ease off both the steam and the oven temperature until the crust is dark and crackling."
+    }
+  ],
+  "source": {
+    "url": "https://www.ploetzblog.de/rezepte/schweizer-buerli/id=621de550bc8f7e40a2857ea3",
+    "site": "Plötzblog",
+    "author": "Lutz Geißler",
+    "retrieved": "2026-07-17",
+    "adaptation": "Baker's percentages reconciled by resolving the stiff starter (TA 150) into its flour/water components; method paraphrased into fewer steps."
+  },
+  "tags": [
+    "st-gallen",
+    "doppelbuerli"
+  ],
+  "doughType": "dough"
 }

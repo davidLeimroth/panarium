@@ -6,7 +6,11 @@
     "es": "Pan de ración alemán (Kommissbrot)",
     "fr": "Pain de munition allemand (Kommissbrot)"
   },
-  "aliases": ["Kommißbrot", "ration bread", "commissary bread"],
+  "aliases": [
+    "Kommißbrot",
+    "ration bread",
+    "commissary bread"
+  ],
   "description": {
     "en": "Germany's old army-ration loaf: a straight rye sourdough baked low and slow in a tin until the crust turns thick and dark. Built for durability, not delicacy - it once had to survive weeks in a soldier's pack and still taste of something.",
     "de": "Das alte deutsche Kommissbrot: ein reiner Roggensauerteig, lang und mäßig heiß im Kastenbrot gebacken, bis die Kruste dick und dunkel wird. Für Haltbarkeit gemacht, nicht für Zartheit – einst wochenlang im Tornister haltbar.",
@@ -27,39 +31,142 @@
     "yeastPct": 0.3,
     "prefermentedFlourPct": 45,
     "flours": [
-      { "type": "rye", "pct": 100 }
+      {
+        "type": "rye",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye", "grams": 800, "note": "Roggenmehl Type 1370, split between sourdough and main dough" },
-    { "key": "water", "grams": 628 },
-    { "key": "sourdough-starter", "grams": 36, "note": "Anstellgut, to build the sourdough" },
-    { "key": "salt", "grams": 18 },
-    { "key": "fresh-yeast", "grams": 8 },
-    { "label": { "en": "sugar beet syrup", "de": "Zuckerrübensirup (Rübenkraut)", "es": "jarabe de remolacha azucarera", "fr": "sirop de betterave sucrière" }, "grams": 40 },
-    { "label": { "en": "roasted rye malt (for color)", "de": "Roggenfärbemalz", "es": "malta de centeno tostada (para el color)", "fr": "malt de seigle torréfié (pour la couleur)" }, "grams": 20 }
+    {
+      "key": "flour:rye",
+      "grams": 800,
+      "note": "Roggenmehl Type 1370, split between sourdough and main dough"
+    },
+    {
+      "key": "water",
+      "grams": 628
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 36,
+      "note": "Anstellgut, to build the sourdough"
+    },
+    {
+      "key": "salt",
+      "grams": 18
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 8
+    },
+    {
+      "label": {
+        "en": "sugar beet syrup",
+        "de": "Zuckerrübensirup (Rübenkraut)",
+        "es": "jarabe de remolacha azucarera",
+        "fr": "sirop de betterave sucrière"
+      },
+      "grams": 40
+    },
+    {
+      "label": {
+        "en": "roasted rye malt (for color)",
+        "de": "Roggenfärbemalz",
+        "es": "malta de centeno tostada (para el color)",
+        "fr": "malt de seigle torréfié (pour la couleur)"
+      },
+      "grams": 20
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1500, "shape": "large pan loaf, 1.5kg tin" },
-  "time": { "totalMin": 2360, "activeMin": 20, "bulkMin": 35, "proofMin": 75, "bakeMin": 73, "overnight": true },
-  "bake": { "tempC": 240, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1500,
+    "shape": "large pan loaf, 1.5kg tin"
+  },
+  "time": {
+    "totalMin": 2360,
+    "activeMin": 20,
+    "bulkMin": 35,
+    "proofMin": 75,
+    "bakeMin": 73,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 240,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "chewy",
-  "flavors": ["sour", "malty", "earthy", "sweet"],
-  "purposes": ["everyday", "sandwich", "soup-companion"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 14, "freezes": true, "note": "Keeps up to two weeks at room temperature; let it rest a full day before the first slice." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Build the sourdough", "summary": "Mix rye flour, lukewarm water and starter; ferment covered about 12 hours, starting slightly warm and cooling gradually." },
-    { "title": "Mix the dough", "summary": "Combine the ripe sourdough with the remaining rye flour, water, salt, beet syrup, roasted rye malt and a little fresh yeast into a thick, plaster-like mass. There is no real kneading, just thorough mixing." },
-    { "title": "Rest", "summary": "Cover and let the dough relax 30-40 minutes so the rye flour fully hydrates." },
-    { "title": "Shape wet", "summary": "Wet your hands, tools and the work surface, then roll the dough into a log and ease it into a greased tin, smoothing the top with a wet scraper." },
-    { "title": "Final proof", "summary": "Dust with rye flour and let rise about 70-80 minutes at room temperature until it reaches the rim and shows small surface cracks." },
-    { "title": "Bake", "summary": "Bake hot, then step the oven down and continue until deeply crusted, about 70-75 minutes total." },
-    { "title": "Rest before slicing", "summary": "Cool completely, then let the loaf sit at least a day; the dense crumb needs that time to firm up for clean slices." }
+  "flavors": [
+    "sour",
+    "malty",
+    "earthy",
+    "sweet"
   ],
-  "source": { "url": "https://brotdoc.com/2012/11/01/kommissbrot/", "site": "Brotdoc", "retrieved": "2026-07-17", "adaptation": "Method paraphrased; used the recipe's regular fresh-yeast option (8g) rather than its organic-yeast variant (16g)." },
-  "tags": ["historic", "military-ration"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 14,
+    "freezes": true,
+    "note": "Keeps up to two weeks at room temperature; let it rest a full day before the first slice."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Build the sourdough",
+      "summary": "Mix rye flour, lukewarm water and starter; ferment covered about 12 hours, starting slightly warm and cooling gradually."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the ripe sourdough with the remaining rye flour, water, salt, beet syrup, roasted rye malt and a little fresh yeast into a thick, plaster-like mass. There is no real kneading, just thorough mixing."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cover and let the dough relax 30-40 minutes so the rye flour fully hydrates."
+    },
+    {
+      "title": "Shape wet",
+      "summary": "Wet your hands, tools and the work surface, then roll the dough into a log and ease it into a greased tin, smoothing the top with a wet scraper."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Dust with rye flour and let rise about 70-80 minutes at room temperature until it reaches the rim and shows small surface cracks."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake hot, then step the oven down and continue until deeply crusted, about 70-75 minutes total."
+    },
+    {
+      "title": "Rest before slicing",
+      "summary": "Cool completely, then let the loaf sit at least a day; the dense crumb needs that time to firm up for clean slices."
+    }
+  ],
+  "source": {
+    "url": "https://brotdoc.com/2012/11/01/kommissbrot/",
+    "site": "Brotdoc",
+    "retrieved": "2026-07-17",
+    "adaptation": "Method paraphrased; used the recipe's regular fresh-yeast option (8g) rather than its organic-yeast variant (16g)."
+  },
+  "tags": [
+    "historic",
+    "military-ration"
+  ],
+  "doughType": "paste"
 }

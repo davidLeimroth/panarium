@@ -24,38 +24,133 @@
     "hydrationPct": 54.5,
     "saltPct": 1.6,
     "flours": [
-      { "type": "wheat-whole", "pct": 100 }
+      {
+        "type": "wheat-whole",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 550 },
-    { "key": "water", "grams": 300 },
-    { "key": "instant-yeast", "grams": 4.5 },
-    { "key": "salt", "grams": 9 },
-    { "label": { "en": "pitted olives, chopped", "de": "entkernte Oliven, gehackt", "es": "aceitunas deshuesadas picadas", "fr": "olives dénoyautées hachées" }, "grams": 75 },
-    { "key": "sesame-seeds", "grams": 10, "note": "optional, for topping" },
-    { "key": "olive-oil", "grams": 10, "note": "for oiling the rising bowl" }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 550
+    },
+    {
+      "key": "water",
+      "grams": 300
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 4.5
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    },
+    {
+      "label": {
+        "en": "pitted olives, chopped",
+        "de": "entkernte Oliven, gehackt",
+        "es": "aceitunas deshuesadas picadas",
+        "fr": "olives dénoyautées hachées"
+      },
+      "grams": 75
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 10,
+      "note": "optional, for topping"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 10,
+      "note": "for oiling the rising bowl"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 939, "shape": "round loaf, baked in a covered pot" },
-  "time": { "totalMin": 273, "activeMin": 20, "bulkMin": 165, "proofMin": 45, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 939,
+    "shape": "round loaf, baked in a covered pot"
+  },
+  "time": {
+    "totalMin": 273,
+    "activeMin": 20,
+    "bulkMin": 165,
+    "proofMin": 45,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["olive", "savory", "earthy"],
-  "purposes": ["everyday", "table", "snack"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Good for a few days; the olives keep the crumb from drying out as fast as a plain loaf." },
-  "equipment": ["dutch-oven", "stand-mixer"],
-  "method": [
-    { "title": "Mix", "summary": "Combine flour, yeast, salt and water in a stand mixer with a dough hook, about 6-8 minutes, until smooth." },
-    { "title": "First rise", "summary": "Cover and let rise 2.5-3 hours at room temperature until doubled." },
-    { "title": "Fold in the olives", "summary": "Gently work the chopped olives through the dough without overworking it." },
-    { "title": "Shape", "summary": "Shape into a round loaf, optionally topping with sesame seeds." },
-    { "title": "Second rise", "summary": "Let proof 45 minutes." },
-    { "title": "Bake covered", "summary": "Bake in a covered Dutch oven at 230°C for 30 minutes, then uncover and bake 15 minutes more until golden." }
+  "flavors": [
+    "olive",
+    "savory",
+    "earthy"
   ],
-  "source": { "url": "https://www.argiro.gr/recipe/eliopsomo/", "site": "Argiro.gr", "retrieved": "2026-07-17", "adaptation": "Flour classified as whole wheat, one of the two options the source offers; olive quantity converted from a half-cup measure." },
-  "tags": ["olives", "dutch-oven"]
+  "purposes": [
+    "everyday",
+    "table",
+    "snack"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Good for a few days; the olives keep the crumb from drying out as fast as a plain loaf."
+  },
+  "equipment": [
+    "dutch-oven",
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, yeast, salt and water in a stand mixer with a dough hook, about 6-8 minutes, until smooth."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise 2.5-3 hours at room temperature until doubled."
+    },
+    {
+      "title": "Fold in the olives",
+      "summary": "Gently work the chopped olives through the dough without overworking it."
+    },
+    {
+      "title": "Shape",
+      "summary": "Shape into a round loaf, optionally topping with sesame seeds."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Let proof 45 minutes."
+    },
+    {
+      "title": "Bake covered",
+      "summary": "Bake in a covered Dutch oven at 230°C for 30 minutes, then uncover and bake 15 minutes more until golden."
+    }
+  ],
+  "source": {
+    "url": "https://www.argiro.gr/recipe/eliopsomo/",
+    "site": "Argiro.gr",
+    "retrieved": "2026-07-17",
+    "adaptation": "Flour classified as whole wheat, one of the two options the source offers; olive quantity converted from a half-cup measure."
+  },
+  "tags": [
+    "olives",
+    "dutch-oven"
+  ],
+  "doughType": "dough"
 }

@@ -886,6 +886,7 @@ type Recipe struct {
 	Method        []*MethodStep          `protobuf:"bytes,21,rep,name=method,proto3" json:"method,omitempty"`
 	Source        *Source                `protobuf:"bytes,22,opt,name=source,proto3" json:"source,omitempty"`
 	Tags          []string               `protobuf:"bytes,23,rep,name=tags,proto3" json:"tags,omitempty"`
+	DoughType     string                 `protobuf:"bytes,24,opt,name=dough_type,json=doughType,proto3" json:"dough_type,omitempty"` // dough | batter | paste | stiff (optional)
 	unknownFields protoimpl.UnknownFields
 	sizeCache     protoimpl.SizeCache
 }
@@ -1079,6 +1080,13 @@ func (x *Recipe) GetTags() []string {
 		return x.Tags
 	}
 	return nil
+}
+
+func (x *Recipe) GetDoughType() string {
+	if x != nil {
+		return x.DoughType
+	}
+	return ""
 }
 
 type SearchRecipesRequest struct {
@@ -1879,7 +1887,7 @@ const file_bread_v1_bread_proto_rawDesc = "" +
 	"\x06Origin\x12\x18\n" +
 	"\acountry\x18\x01 \x01(\tR\acountry\x12\x16\n" +
 	"\x06region\x18\x02 \x01(\tR\x06region\x12\x12\n" +
-	"\x04note\x18\x03 \x01(\tR\x04note\"\xb1\x06\n" +
+	"\x04note\x18\x03 \x01(\tR\x04note\"\xd0\x06\n" +
 	"\x06Recipe\x12\x12\n" +
 	"\x04slug\x18\x01 \x01(\tR\x04slug\x12+\n" +
 	"\x04name\x18\x02 \x01(\v2\x17.bread.v1.LocalizedTextR\x04name\x12\x18\n" +
@@ -1906,7 +1914,9 @@ const file_bread_v1_bread_proto_rawDesc = "" +
 	"\tequipment\x18\x14 \x03(\tR\tequipment\x12,\n" +
 	"\x06method\x18\x15 \x03(\v2\x14.bread.v1.MethodStepR\x06method\x12(\n" +
 	"\x06source\x18\x16 \x01(\v2\x10.bread.v1.SourceR\x06source\x12\x12\n" +
-	"\x04tags\x18\x17 \x03(\tR\x04tags\"\xdc\x04\n" +
+	"\x04tags\x18\x17 \x03(\tR\x04tags\x12\x1d\n" +
+	"\n" +
+	"dough_type\x18\x18 \x01(\tR\tdoughType\"\xdc\x04\n" +
 	"\x14SearchRecipesRequest\x12\x14\n" +
 	"\x05query\x18\x01 \x01(\tR\x05query\x12\x12\n" +
 	"\x04lang\x18\x02 \x01(\tR\x04lang\x12\x18\n" +

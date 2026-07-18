@@ -33,6 +33,7 @@ export const recipeSchema = z
     }),
     leaven: z.enum(LEAVENS),
     family: z.enum(FAMILIES),
+    doughType: z.enum(['dough', 'batter', 'paste', 'stiff']).optional(),
     formula: z.object({
       hydrationPct: z.number().min(0).max(400),
       saltPct: z.number().min(0).max(8),

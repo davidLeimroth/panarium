@@ -7,14 +7,21 @@
     "fr": "Desem (pain complet au levain flamand)",
     "native": "Desem"
   },
-  "aliases": ["Desembrood", "Flemish whole wheat sourdough"],
+  "aliases": [
+    "Desembrood",
+    "Flemish whole wheat sourdough"
+  ],
   "description": {
     "en": "A rare Flemish tradition: 100% whole wheat leavened by a starter kept cold and fed only on fresh-milled flour, never store yeast. The result is surprisingly mild, sweetly aromatic bread, nothing like the sharp tang of San Francisco sourdough.",
     "de": "Eine seltene flämische Tradition: reines Weizenvollkornbrot, gesäuert mit einem kühl gehaltenen Sauerteig, der nur mit frisch gemahlenem Mehl gefüttert wird. Das Ergebnis ist überraschend mild und süßlich-aromatisch, ganz anders als der scharfe San-Francisco-Sauerteig.",
     "es": "Una tradición flamenca poco común: pan 100% integral fermentado con un cultivo mantenido en frío y alimentado solo con harina recién molida. El resultado es sorprendentemente suave y dulcemente aromático, muy distinto del sabor ácido de la masa madre de San Francisco.",
     "fr": "Une tradition flamande rare: du pain 100% complet levé par un levain maintenu au frais et nourri uniquement de farine fraîchement moulue. Le résultat est étonnamment doux et aromatique, rien à voir avec l'acidité franche du levain de San Francisco."
   },
-  "origin": { "country": "BE", "region": "Flanders", "note": "Popularized outside Belgium by Laurel Robertson's 'Laurel's Kitchen Bread Book'; the starter is grown in cool flour rather than inoculated from the air." },
+  "origin": {
+    "country": "BE",
+    "region": "Flanders",
+    "note": "Popularized outside Belgium by Laurel Robertson's 'Laurel's Kitchen Bread Book'; the starter is grown in cool flour rather than inoculated from the air."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -22,37 +29,124 @@
     "saltPct": 1.8,
     "prefermentedFlourPct": 11.1,
     "flours": [
-      { "type": "wheat-whole", "pct": 100 }
+      {
+        "type": "wheat-whole",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 350, "note": "hard white spring wheat, freshly milled" },
-    { "key": "flour:wheat-whole", "grams": 100, "note": "Red Fife heritage wheat, freshly milled" },
-    { "key": "water", "grams": 365 },
-    { "key": "sourdough-starter", "grams": 20, "note": "mature desem culture, kept cool and fed only on flour" },
-    { "key": "salt", "grams": 8 }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 350,
+      "note": "hard white spring wheat, freshly milled"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 100,
+      "note": "Red Fife heritage wheat, freshly milled"
+    },
+    {
+      "key": "water",
+      "grams": 365
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 20,
+      "note": "mature desem culture, kept cool and fed only on flour"
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 780, "shape": "boule" },
-  "time": { "totalMin": 1770, "activeMin": 30, "bulkMin": 300, "proofMin": 720, "bakeMin": 30, "overnight": true },
-  "bake": { "tempC": 260, "steam": false, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 780,
+    "shape": "boule"
+  },
+  "time": {
+    "totalMin": 1770,
+    "activeMin": 30,
+    "bulkMin": 300,
+    "proofMin": 720,
+    "bakeMin": 30,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 260,
+    "steam": false,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 5,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["wheaty", "nutty", "fruity"],
-  "purposes": ["everyday", "table"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "Improves a day after baking as the whole-grain crumb settles." },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Maintain the desem culture", "summary": "Keep a whole-wheat-only starter buried in a cool bed of flour (10-18°C), fed every few days; it draws its leavening purely from organisms in the grain, never a commercial yeast." },
-    { "title": "Build the levain", "summary": "The day before baking, mix a portion of desem culture with fresh-milled flour and water; let it ripen 8-12 hours." },
-    { "title": "Mix", "summary": "Combine the ripe levain with the remaining freshly milled whole wheat flours, water and salt into a shaggy dough." },
-    { "title": "Bulk ferment", "summary": "Rest 20-30 minutes, then work through a few stretch-and-folds over 4-8 hours until the dough has expanded by about 90%." },
-    { "title": "Shape and proof", "summary": "Shape into a tight boule and proof either 1-2 hours at room temperature or, for deeper flavor, 20-40 minutes on the counter followed by an overnight cold retard." },
-    { "title": "Bake hot, then step down", "summary": "Bake in a well-preheated covered pot: very hot initially, then reduce twice, finishing uncovered for a dark crust and a hollow sound when tapped." },
-    { "title": "Cool fully", "summary": "Let the loaf rest at least 2 hours before cutting so the dense, all-whole-grain crumb finishes setting." }
+  "flavors": [
+    "wheaty",
+    "nutty",
+    "fruity"
   ],
-  "source": { "url": "https://breadtopia.com/whole-grain-desem-bread/", "site": "Breadtopia", "retrieved": "2026-07-17", "adaptation": "Percentages recomputed to include the levain's flour and water in the 100% flour base per house convention." },
-  "tags": ["whole-grain", "heritage-starter"]
+  "purposes": [
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "Improves a day after baking as the whole-grain crumb settles."
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Maintain the desem culture",
+      "summary": "Keep a whole-wheat-only starter buried in a cool bed of flour (10-18°C), fed every few days; it draws its leavening purely from organisms in the grain, never a commercial yeast."
+    },
+    {
+      "title": "Build the levain",
+      "summary": "The day before baking, mix a portion of desem culture with fresh-milled flour and water; let it ripen 8-12 hours."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine the ripe levain with the remaining freshly milled whole wheat flours, water and salt into a shaggy dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Rest 20-30 minutes, then work through a few stretch-and-folds over 4-8 hours until the dough has expanded by about 90%."
+    },
+    {
+      "title": "Shape and proof",
+      "summary": "Shape into a tight boule and proof either 1-2 hours at room temperature or, for deeper flavor, 20-40 minutes on the counter followed by an overnight cold retard."
+    },
+    {
+      "title": "Bake hot, then step down",
+      "summary": "Bake in a well-preheated covered pot: very hot initially, then reduce twice, finishing uncovered for a dark crust and a hollow sound when tapped."
+    },
+    {
+      "title": "Cool fully",
+      "summary": "Let the loaf rest at least 2 hours before cutting so the dense, all-whole-grain crumb finishes setting."
+    }
+  ],
+  "source": {
+    "url": "https://breadtopia.com/whole-grain-desem-bread/",
+    "site": "Breadtopia",
+    "retrieved": "2026-07-17",
+    "adaptation": "Percentages recomputed to include the levain's flour and water in the 100% flour base per house convention."
+  },
+  "tags": [
+    "whole-grain",
+    "heritage-starter"
+  ],
+  "doughType": "dough"
 }

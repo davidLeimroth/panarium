@@ -22,6 +22,18 @@ The zod validator in the app rejects anything else at build time.
 | `quick` | chemically leavened batter/dough (cornbread, soda bread) |
 | `sweet-loaf` | enriched sweet celebration breads (panettone, babka, stollen) |
 
+## doughType (optional — the physical class of the unbaked mass)
+| value | meaning |
+|---|---|
+| `dough` | kneadable, shapeable mass (default; the overwhelming majority of breads) |
+| `batter` | pourable, not shapeable (injera, crumpet, farinata, appam, roti-jala, johnnycake, mofo-gasy, kisra, pikelet) |
+| `paste` | mixed not kneaded, high-rye or starch (100% rye panary loaves, cassava-bread) |
+| `stiff` | very low hydration, below 50% (bagel, hardtack, pan-candeal, tortillas) |
+
+Omit the field when `dough` is the right label; the build treats a missing
+`doughType` as `dough`. Excluded from per-family hydration statistics and from
+the fitted relationships in `data/science/derived-formulas.json`.
+
 ## flours[].type (multi, with pct summing to 100)
 `wheat-white` `wheat-whole` `durum` `rye` `rye-whole` `spelt` `spelt-whole`
 `einkorn` `emmer` `khorasan` `barley` `oat` `corn` `rice` `buckwheat` `teff`

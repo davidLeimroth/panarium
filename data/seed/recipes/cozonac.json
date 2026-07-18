@@ -7,7 +7,11 @@
     "fr": "Cozonac (brioche roumaine au tourbillon de noix)",
     "native": "Cozonac"
   },
-  "aliases": ["kozunak (Bulgaria)", "Romanian Christmas bread", "walnut swirl bread"],
+  "aliases": [
+    "kozunak (Bulgaria)",
+    "Romanian Christmas bread",
+    "walnut swirl bread"
+  ],
   "description": {
     "en": "Romania's holiday centerpiece: a soft, egg-yellow yeasted loaf twisted around a walnut-cocoa filling before baking, so every slice reveals a dark marbled swirl. Cozonac appears at both Christmas and Easter, always cut thick and shared.",
     "de": "Rumäniens Festtagsgebäck: ein weicher, eigelbgelber Hefeteig, der vor dem Backen um eine Walnuss-Kakao-Füllung gedreht wird, sodass jede Scheibe eine dunkle Marmorierung zeigt. Cozonac kommt zu Weihnachten wie zu Ostern auf den Tisch.",
@@ -28,46 +32,173 @@
     "fatPct": 23.6,
     "yeastPct": 1.9,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 360 },
-    { "key": "milk", "grams": 240, "note": "warm" },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "sugar", "grams": 67, "note": "in the dough" },
-    { "key": "egg-yolk", "grams": 72, "note": "about 4 yolks" },
-    { "label": { "en": "sour cream", "de": "Saure Sahne", "es": "crema agria", "fr": "crème fraîche épaisse" }, "grams": 30 },
-    { "key": "butter", "grams": 85, "note": "unsalted, softened" },
-    { "key": "salt", "grams": 2 },
-    { "key": "vanilla", "grams": 17, "note": "13 g in the dough, 4 g in the filling" },
-    { "key": "orange-zest", "grams": 5 },
-    { "key": "walnuts", "grams": 360, "note": "finely ground, for the filling" },
-    { "key": "sugar", "grams": 133, "note": "in the filling" },
-    { "key": "egg", "grams": 90, "note": "3 egg whites, for the filling" },
-    { "key": "cocoa", "grams": 18, "note": "unsweetened, for the filling" },
-    { "label": { "en": "rum extract", "de": "Rumaroma", "es": "extracto de ron", "fr": "arôme de rhum" }, "grams": 8, "note": "in the filling" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 360
+    },
+    {
+      "key": "milk",
+      "grams": 240,
+      "note": "warm"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "sugar",
+      "grams": 67,
+      "note": "in the dough"
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 72,
+      "note": "about 4 yolks"
+    },
+    {
+      "label": {
+        "en": "sour cream",
+        "de": "Saure Sahne",
+        "es": "crema agria",
+        "fr": "crème fraîche épaisse"
+      },
+      "grams": 30
+    },
+    {
+      "key": "butter",
+      "grams": 85,
+      "note": "unsalted, softened"
+    },
+    {
+      "key": "salt",
+      "grams": 2
+    },
+    {
+      "key": "vanilla",
+      "grams": 17,
+      "note": "13 g in the dough, 4 g in the filling"
+    },
+    {
+      "key": "orange-zest",
+      "grams": 5
+    },
+    {
+      "key": "walnuts",
+      "grams": 360,
+      "note": "finely ground, for the filling"
+    },
+    {
+      "key": "sugar",
+      "grams": 133,
+      "note": "in the filling"
+    },
+    {
+      "key": "egg",
+      "grams": 90,
+      "note": "3 egg whites, for the filling"
+    },
+    {
+      "key": "cocoa",
+      "grams": 18,
+      "note": "unsweetened, for the filling"
+    },
+    {
+      "label": {
+        "en": "rum extract",
+        "de": "Rumaroma",
+        "es": "extracto de ron",
+        "fr": "arôme de rhum"
+      },
+      "grams": 8,
+      "note": "in the filling"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 700, "shape": "twisted double-strand loaf in a pan" },
-  "time": { "totalMin": 317, "activeMin": 55, "bulkMin": 90, "proofMin": 60, "bakeMin": 52, "overnight": false },
-  "bake": { "tempC": 177, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 700,
+    "shape": "twisted double-strand loaf in a pan"
+  },
+  "time": {
+    "totalMin": 317,
+    "activeMin": 55,
+    "bulkMin": 90,
+    "proofMin": 60,
+    "bakeMin": 52,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "nutty", "chocolate", "rich"],
-  "purposes": ["celebration", "holiday", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Wrapped well, the buttery crumb stays moist for days; freezes nicely sliced for later." },
-  "equipment": ["stand-mixer", "loaf-pan"],
+  "flavors": [
+    "sweet",
+    "nutty",
+    "chocolate",
+    "rich"
+  ],
+  "purposes": [
+    "celebration",
+    "holiday",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Wrapped well, the buttery crumb stays moist for days; freezes nicely sliced for later."
+  },
+  "equipment": [
+    "stand-mixer",
+    "loaf-pan"
+  ],
   "method": [
-    { "title": "Activate the yeast", "summary": "Warm the milk, stir in the yeast and a pinch of sugar, and let it foam for a few minutes." },
-    { "title": "Mix the dough", "summary": "Whisk egg yolks with sugar, vanilla, sour cream and orange zest, then combine with the yeasted milk, flour and salt. Work in the softened butter and knead to a soft, glossy dough; let it rise until doubled." },
-    { "title": "Make the filling", "summary": "Whisk egg whites with sugar, ground walnuts, cocoa and a little rum flavoring into a thick, spreadable paste." },
-    { "title": "Roll and fill", "summary": "Divide the risen dough, roll each piece into a rectangle, spread with the walnut-cocoa filling, and roll up tightly into a log." },
-    { "title": "Twist and pan", "summary": "Cut each log in half lengthwise and twist the two cut sides together so the filling spirals through, then settle the twist into a buttered loaf pan." },
-    { "title": "Second rise", "summary": "Cover and proof again until puffy and nearly to the rim of the pan." },
-    { "title": "Bake and cool", "summary": "Bake until deep gold and a skewer comes out clean, then cool fully before slicing to reveal the marbled swirl." }
+    {
+      "title": "Activate the yeast",
+      "summary": "Warm the milk, stir in the yeast and a pinch of sugar, and let it foam for a few minutes."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Whisk egg yolks with sugar, vanilla, sour cream and orange zest, then combine with the yeasted milk, flour and salt. Work in the softened butter and knead to a soft, glossy dough; let it rise until doubled."
+    },
+    {
+      "title": "Make the filling",
+      "summary": "Whisk egg whites with sugar, ground walnuts, cocoa and a little rum flavoring into a thick, spreadable paste."
+    },
+    {
+      "title": "Roll and fill",
+      "summary": "Divide the risen dough, roll each piece into a rectangle, spread with the walnut-cocoa filling, and roll up tightly into a log."
+    },
+    {
+      "title": "Twist and pan",
+      "summary": "Cut each log in half lengthwise and twist the two cut sides together so the filling spirals through, then settle the twist into a buttered loaf pan."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Cover and proof again until puffy and nearly to the rim of the pan."
+    },
+    {
+      "title": "Bake and cool",
+      "summary": "Bake until deep gold and a skewer comes out clean, then cool fully before slicing to reveal the marbled swirl."
+    }
   ],
   "source": {
     "url": "https://letthebakingbegin.com/cozonac-romanian-easter-christmas-bread/",
@@ -75,5 +206,11 @@
     "retrieved": "2026-07-17",
     "adaptation": "Method paraphrased; added a small amount of orange zest to the dough as a common regional touch; formula percentages count the dough only, filling sugar/nuts excluded."
   },
-  "tags": ["christmas", "easter", "walnut", "swirl"]
+  "tags": [
+    "christmas",
+    "easter",
+    "walnut",
+    "swirl"
+  ],
+  "doughType": "dough"
 }

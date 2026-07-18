@@ -6,7 +6,9 @@
     "es": "Selkirk bannock (pan de frutas escocés)",
     "fr": "Selkirk bannock (pain aux fruits écossais)"
   },
-  "aliases": ["Selkirk bannock loaf"],
+  "aliases": [
+    "Selkirk bannock loaf"
+  ],
   "description": {
     "en": "A large, rich, single round loaf from the Scottish Borders, packed with sultanas and enriched with butter and milk. Unlike a flat griddle bannock, this one is yeasted and oven-baked, sliced thick for tea.",
     "de": "Ein großes, reichhaltiges rundes Brot aus den schottischen Borders, voller Sultaninen und mit Butter und Milch angereichert. Anders als ein flacher Griddle-Bannock wird dieser mit Hefe getrieben und im Ofen gebacken, dick aufgeschnitten zum Tee.",
@@ -27,39 +29,134 @@
     "fatPct": 20,
     "yeastPct": 1.4,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "salt", "grams": 6 },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "brown-sugar", "grams": 65 },
-    { "key": "milk", "grams": 250, "note": "warm" },
-    { "key": "butter", "grams": 100 },
-    { "key": "raisins", "grams": 300, "note": "sultanas, traditionally imported from Turkey" },
-    { "key": "milk", "grams": 15, "note": "for glazing before baking" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "brown-sugar",
+      "grams": 65
+    },
+    {
+      "key": "milk",
+      "grams": 250,
+      "note": "warm"
+    },
+    {
+      "key": "butter",
+      "grams": 100
+    },
+    {
+      "key": "raisins",
+      "grams": 300,
+      "note": "sultanas, traditionally imported from Turkey"
+    },
+    {
+      "key": "milk",
+      "grams": 15,
+      "note": "for glazing before baking"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1130, "shape": "single large round loaf, cut into thick slices for tea" },
-  "time": { "totalMin": 210, "activeMin": 20, "bulkMin": 60, "proofMin": 55, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 175, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1130,
+    "shape": "single large round loaf, cut into thick slices for tea"
+  },
+  "time": {
+    "totalMin": 210,
+    "activeMin": 20,
+    "bulkMin": 60,
+    "proofMin": 55,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 175,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "fruity", "buttery", "rich"],
-  "purposes": ["celebration", "breakfast", "snack", "holiday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Keeps well thanks to the butter and dried fruit; traditionally toasted and buttered once a few days old." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Combine flour, sugar, salt, yeast and dried fruit in a bowl." },
-    { "title": "Add warm milk & butter", "summary": "Heat the milk and butter together to lukewarm, work into the dry ingredients, and knead about 5 minutes to a cohesive dough." },
-    { "title": "First rise", "summary": "Prove in a warm place about an hour, until doubled." },
-    { "title": "Knock back & shape", "summary": "Briefly knead again, then shape into a single large round loaf." },
-    { "title": "Second rise", "summary": "Prove 45 minutes to an hour, until doubled again." },
-    { "title": "Glaze & bake", "summary": "Brush with milk and bake until deeply golden and hollow-sounding underneath, 40-50 minutes; cool completely before slicing." }
+  "flavors": [
+    "sweet",
+    "fruity",
+    "buttery",
+    "rich"
   ],
-  "source": { "url": "https://scottishscran.com/easy-selkirk-bannock-recipe/", "site": "Scottish Scran", "retrieved": "2026-07-18", "adaptation": "Source called for only 'a pinch' of salt; standardized to a defined baker's percentage." },
-  "tags": ["scottish-borders", "fruit-loaf"]
+  "purposes": [
+    "celebration",
+    "breakfast",
+    "snack",
+    "holiday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Keeps well thanks to the butter and dried fruit; traditionally toasted and buttered once a few days old."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, sugar, salt, yeast and dried fruit in a bowl."
+    },
+    {
+      "title": "Add warm milk & butter",
+      "summary": "Heat the milk and butter together to lukewarm, work into the dry ingredients, and knead about 5 minutes to a cohesive dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Prove in a warm place about an hour, until doubled."
+    },
+    {
+      "title": "Knock back & shape",
+      "summary": "Briefly knead again, then shape into a single large round loaf."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Prove 45 minutes to an hour, until doubled again."
+    },
+    {
+      "title": "Glaze & bake",
+      "summary": "Brush with milk and bake until deeply golden and hollow-sounding underneath, 40-50 minutes; cool completely before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://scottishscran.com/easy-selkirk-bannock-recipe/",
+    "site": "Scottish Scran",
+    "retrieved": "2026-07-18",
+    "adaptation": "Source called for only 'a pinch' of salt; standardized to a defined baker's percentage."
+  },
+  "tags": [
+    "scottish-borders",
+    "fruit-loaf"
+  ],
+  "doughType": "dough"
 }

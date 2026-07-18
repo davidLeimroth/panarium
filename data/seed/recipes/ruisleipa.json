@@ -7,14 +7,22 @@
     "fr": "Anneau de seigle finlandais (Ruisreikäleipä)",
     "native": "Ruisreikäleipä"
   },
-  "aliases": ["ruisleipä", "rye hole bread", "reikäleipä"],
+  "aliases": [
+    "ruisleipä",
+    "rye hole bread",
+    "reikäleipä"
+  ],
   "description": {
     "en": "A flat, chewy ring of pure Finnish rye with a hole punched through the middle, once strung on a pole to dry, now baked fresh with a long sourdough tang and a quietly sweet, nutty finish.",
     "de": "Ein flacher, kauziger Ring aus reinem finnischem Roggen mit einem Loch in der Mitte – einst zum Trocknen an einer Stange aufgehängt, heute frisch gebacken mit langer Sauerteigsäure und leise süßem, nussigem Abgang.",
     "es": "Un anillo plano y masticable de centeno finlandés puro con un agujero en el centro, antes colgado de una vara para secarse, hoy horneado fresco con una larga acidez de masa madre y un final sutilmente dulce y a frutos secos.",
     "fr": "Un anneau plat et moelleux de pur seigle finlandais percé d'un trou en son centre, jadis enfilé sur une perche pour sécher, aujourd'hui cuit frais avec une longue acidité de levain et une finale discrètement douce et noisetée."
   },
-  "origin": { "country": "FI", "region": "Western Finland", "note": "The center hole let loaves hang on poles from the rafters for slow drying and storage." },
+  "origin": {
+    "country": "FI",
+    "region": "Western Finland",
+    "note": "The center hole let loaves hang on poles from the rafters for slow drying and storage."
+  },
   "leaven": "hybrid",
   "family": "ring",
   "formula": {
@@ -23,39 +31,135 @@
     "prefermentedFlourPct": 37,
     "yeastPct": 0.13,
     "flours": [
-      { "type": "rye-whole", "pct": 91 },
-      { "type": "wheat-white", "pct": 9 }
+      {
+        "type": "rye-whole",
+        "pct": 91
+      },
+      {
+        "type": "wheat-white",
+        "pct": 9
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 677, "note": "split across an overnight sour and the final dough" },
-    { "key": "flour:wheat-white", "grams": 68, "note": "bread flour" },
-    { "key": "water", "grams": 723 },
-    { "key": "sourdough-starter", "grams": 11, "note": "active rye sour" },
-    { "key": "instant-yeast", "grams": 1 },
-    { "key": "salt", "grams": 14 }
+    {
+      "key": "flour:rye-whole",
+      "grams": 677,
+      "note": "split across an overnight sour and the final dough"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 68,
+      "note": "bread flour"
+    },
+    {
+      "key": "water",
+      "grams": 723
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 11,
+      "note": "active rye sour"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 1
+    },
+    {
+      "key": "salt",
+      "grams": 14
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 650, "shape": "flat ring, about 35cm across, with a center hole" },
-  "time": { "totalMin": 1150, "activeMin": 35, "bulkMin": 75, "proofMin": 55, "bakeMin": 42, "overnight": true },
-  "bake": { "tempC": 227, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 650,
+    "shape": "flat ring, about 35cm across, with a center hole"
+  },
+  "time": {
+    "totalMin": 1150,
+    "activeMin": 35,
+    "bulkMin": 75,
+    "proofMin": 55,
+    "bakeMin": 42,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 227,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "chewy",
-  "flavors": ["sour", "nutty", "malty", "earthy"],
-  "purposes": ["everyday", "sandwich", "breakfast", "table"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 91 },
-  "keeping": { "freshDays": 6, "freezes": true, "note": "Traditionally hung to dry for weeks; fresh-baked loaves keep well wrapped for under a week." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Build the sour", "summary": "Mix whole rye flour, water and rye starter; ferment overnight, 14-18 hours, until active and pleasantly sour." },
-    { "title": "Mix the dough", "summary": "Combine the sour with more rye flour, the bread flour, water, salt and a pinch of instant yeast into a smooth, wet dough." },
-    { "title": "Bulk ferment", "summary": "Let rise in a warm spot until doubled, roughly 1-1.5 hours." },
-    { "title": "Shape", "summary": "Divide in two, round into balls, then roll each into a wide, flat disc about 35cm across." },
-    { "title": "Punch and proof", "summary": "Cut a hole through the center and proof until the surface shows cracks, 45-60 minutes." },
-    { "title": "Bake", "summary": "Dock thoroughly, then bake hot with steam for the first few minutes, finishing without steam until deeply set." },
-    { "title": "Finish", "summary": "Brush with boiling water straight from the oven for a glossy, chewy crust." }
+  "flavors": [
+    "sour",
+    "nutty",
+    "malty",
+    "earthy"
   ],
-  "source": { "url": "https://theryebaker.com/halme-bakerys-ring-rye-ruisreikaleipa-finland/", "site": "The Rye Baker", "author": "Stanley Ginsberg", "retrieved": "2026-07-17", "adaptation": "Simplified to the two main loaves; the source's two small bonus rolls are omitted." },
-  "tags": ["hole-bread", "sourdough"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 91
+  },
+  "keeping": {
+    "freshDays": 6,
+    "freezes": true,
+    "note": "Traditionally hung to dry for weeks; fresh-baked loaves keep well wrapped for under a week."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build the sour",
+      "summary": "Mix whole rye flour, water and rye starter; ferment overnight, 14-18 hours, until active and pleasantly sour."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the sour with more rye flour, the bread flour, water, salt and a pinch of instant yeast into a smooth, wet dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let rise in a warm spot until doubled, roughly 1-1.5 hours."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide in two, round into balls, then roll each into a wide, flat disc about 35cm across."
+    },
+    {
+      "title": "Punch and proof",
+      "summary": "Cut a hole through the center and proof until the surface shows cracks, 45-60 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Dock thoroughly, then bake hot with steam for the first few minutes, finishing without steam until deeply set."
+    },
+    {
+      "title": "Finish",
+      "summary": "Brush with boiling water straight from the oven for a glossy, chewy crust."
+    }
+  ],
+  "source": {
+    "url": "https://theryebaker.com/halme-bakerys-ring-rye-ruisreikaleipa-finland/",
+    "site": "The Rye Baker",
+    "author": "Stanley Ginsberg",
+    "retrieved": "2026-07-17",
+    "adaptation": "Simplified to the two main loaves; the source's two small bonus rolls are omitted."
+  },
+  "tags": [
+    "hole-bread",
+    "sourdough"
+  ],
+  "doughType": "paste"
 }

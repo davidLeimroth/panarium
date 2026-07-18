@@ -7,7 +7,11 @@
     "fr": "Koulitch (brioche de Pâques russe)",
     "native": "Кулич"
   },
-  "aliases": ["Russian Easter bread", "kulič", "paschal bread"],
+  "aliases": [
+    "Russian Easter bread",
+    "kulič",
+    "paschal bread"
+  ],
   "description": {
     "en": "Russia's Orthodox Easter bread: a tall saffron-and-vanilla column studded with raisins and candied peel, baked in a tube mold until it domes over the rim. Iced white and sprinkled, it's blessed at church and eaten fresh on Easter morning.",
     "de": "Russlands orthodoxes Osterbrot: eine hohe, nach Safran und Vanille duftende Säule voller Rosinen und kandierter Schale, in einer Röhrenform gebacken, bis sie über den Rand kuppelt. Weiß glasiert, wird es gesegnet und am Ostermorgen gegessen.",
@@ -28,46 +32,177 @@
     "fatPct": 37.9,
     "prefermentedFlourPct": 23,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 435, "note": "high-protein bread flour; 100 g in the overnight preferment, 335 g in the main dough" },
-    { "key": "water", "grams": 114, "note": "for the preferment" },
-    { "key": "fresh-yeast", "grams": 13, "note": "1 g in the preferment, 12 g in the main dough" },
-    { "key": "sugar", "grams": 55, "note": "in the dough" },
-    { "key": "honey", "grams": 28 },
-    { "key": "egg", "grams": 200, "note": "3 large eggs plus 1 extra yolk" },
-    { "key": "butter", "grams": 165, "note": "cold, cubed" },
-    { "key": "salt", "grams": 7 },
-    { "key": "vanilla", "grams": 2, "note": "seeds scraped from about half a vanilla pod" },
-    { "label": { "en": "saffron threads", "de": "Safranfäden", "es": "hebras de azafrán", "fr": "pistils de safran" }, "grams": 0.3, "note": "steeped in warm milk; traditional but often left out today" },
-    { "key": "raisins", "grams": 100, "note": "sultanas, soaked in a spiced rum syrup and drained" },
-    { "key": "candied-citrus", "grams": 50, "note": "candied orange peel, for the traditional studded crumb" },
-    { "key": "egg", "grams": 38, "note": "egg white only, whisked into the icing" },
-    { "key": "sugar", "grams": 76, "note": "for the icing, whisked with the egg white" },
-    { "label": { "en": "colored sugar sprinkles", "de": "bunte Zuckerstreusel", "es": "fideos de azúcar de colores", "fr": "vermicelles en sucre colorés" }, "grams": 8, "note": "for decorating the icing" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 435,
+      "note": "high-protein bread flour; 100 g in the overnight preferment, 335 g in the main dough"
+    },
+    {
+      "key": "water",
+      "grams": 114,
+      "note": "for the preferment"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 13,
+      "note": "1 g in the preferment, 12 g in the main dough"
+    },
+    {
+      "key": "sugar",
+      "grams": 55,
+      "note": "in the dough"
+    },
+    {
+      "key": "honey",
+      "grams": 28
+    },
+    {
+      "key": "egg",
+      "grams": 200,
+      "note": "3 large eggs plus 1 extra yolk"
+    },
+    {
+      "key": "butter",
+      "grams": 165,
+      "note": "cold, cubed"
+    },
+    {
+      "key": "salt",
+      "grams": 7
+    },
+    {
+      "key": "vanilla",
+      "grams": 2,
+      "note": "seeds scraped from about half a vanilla pod"
+    },
+    {
+      "label": {
+        "en": "saffron threads",
+        "de": "Safranfäden",
+        "es": "hebras de azafrán",
+        "fr": "pistils de safran"
+      },
+      "grams": 0.3,
+      "note": "steeped in warm milk; traditional but often left out today"
+    },
+    {
+      "key": "raisins",
+      "grams": 100,
+      "note": "sultanas, soaked in a spiced rum syrup and drained"
+    },
+    {
+      "key": "candied-citrus",
+      "grams": 50,
+      "note": "candied orange peel, for the traditional studded crumb"
+    },
+    {
+      "key": "egg",
+      "grams": 38,
+      "note": "egg white only, whisked into the icing"
+    },
+    {
+      "key": "sugar",
+      "grams": 76,
+      "note": "for the icing, whisked with the egg white"
+    },
+    {
+      "label": {
+        "en": "colored sugar sprinkles",
+        "de": "bunte Zuckerstreusel",
+        "es": "fideos de azúcar de colores",
+        "fr": "vermicelles en sucre colorés"
+      },
+      "grams": 8,
+      "note": "for decorating the icing"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1160, "shape": "tall cylindrical dome in a tube mold or tall can" },
-  "time": { "totalMin": 1912, "activeMin": 50, "bulkMin": 180, "proofMin": 960, "bakeMin": 52, "overnight": true },
-  "bake": { "tempC": 170, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1160,
+    "shape": "tall cylindrical dome in a tube mold or tall can"
+  },
+  "time": {
+    "totalMin": 1912,
+    "activeMin": 50,
+    "bulkMin": 180,
+    "proofMin": 960,
+    "bakeMin": 52,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 170,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 4,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "spiced", "fruity", "rich"],
-  "purposes": ["celebration", "holiday", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Best within a few days; the iced dome means it's kept loosely covered rather than sealed airtight." },
-  "equipment": ["stand-mixer", "loaf-pan"],
+  "flavors": [
+    "sweet",
+    "buttery",
+    "spiced",
+    "fruity",
+    "rich"
+  ],
+  "purposes": [
+    "celebration",
+    "holiday",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Best within a few days; the iced dome means it's kept loosely covered rather than sealed airtight."
+  },
+  "equipment": [
+    "stand-mixer",
+    "loaf-pan"
+  ],
   "method": [
-    { "title": "Build the preferment", "summary": "The evening before, stir flour, water and a small amount of yeast into a loose batter and let it ferment overnight at room temperature until bubbly." },
-    { "title": "Mix the dough", "summary": "Combine the preferment with more flour, sugar, honey, yeast, eggs, salt and the scraped vanilla seeds, plus a pinch of saffron steeped in warm milk if using; knead smooth, then work in the cold butter piece by piece." },
-    { "title": "Bulk ferment", "summary": "Let the dough rise at cool room temperature for several hours until roughly doubled, folding in the drained, syrup-soaked raisins and candied peel partway through." },
-    { "title": "Shape and proof", "summary": "Fill a well-buttered tall cylindrical mold or lined can about halfway with dough, then let it rise until it nears the rim." },
-    { "title": "Cold retard", "summary": "Refrigerate the shaped loaf overnight so the flavor deepens and the crumb firms up enough to hold its tall dome once baked." },
-    { "title": "Temper and bake", "summary": "Let the mold return to room temperature, then bake until deeply golden and a skewer confirms it's cooked through, tenting the top if it browns too fast." },
-    { "title": "Ice and decorate", "summary": "Once fully cooled, whip egg white and sugar into a glossy icing, let it run down the dome, and finish with colorful sprinkles before slicing." }
+    {
+      "title": "Build the preferment",
+      "summary": "The evening before, stir flour, water and a small amount of yeast into a loose batter and let it ferment overnight at room temperature until bubbly."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the preferment with more flour, sugar, honey, yeast, eggs, salt and the scraped vanilla seeds, plus a pinch of saffron steeped in warm milk if using; knead smooth, then work in the cold butter piece by piece."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let the dough rise at cool room temperature for several hours until roughly doubled, folding in the drained, syrup-soaked raisins and candied peel partway through."
+    },
+    {
+      "title": "Shape and proof",
+      "summary": "Fill a well-buttered tall cylindrical mold or lined can about halfway with dough, then let it rise until it nears the rim."
+    },
+    {
+      "title": "Cold retard",
+      "summary": "Refrigerate the shaped loaf overnight so the flavor deepens and the crumb firms up enough to hold its tall dome once baked."
+    },
+    {
+      "title": "Temper and bake",
+      "summary": "Let the mold return to room temperature, then bake until deeply golden and a skewer confirms it's cooked through, tenting the top if it browns too fast."
+    },
+    {
+      "title": "Ice and decorate",
+      "summary": "Once fully cooled, whip egg white and sugar into a glossy icing, let it run down the dome, and finish with colorful sprinkles before slicing."
+    }
   ],
   "source": {
     "url": "https://bake-street.com/en/kulich-russian-easter-bread/",
@@ -75,5 +210,11 @@
     "retrieved": "2026-07-17",
     "adaptation": "Swapped the source's modern berry/nut/petal garnish for a classic icing-and-sprinkles finish; added a pinch of saffron and some candied peel alongside its raisins, per traditional kulich practice."
   },
-  "tags": ["easter", "orthodox", "saffron", "tall-mold"]
+  "tags": [
+    "easter",
+    "orthodox",
+    "saffron",
+    "tall-mold"
+  ],
+  "doughType": "dough"
 }

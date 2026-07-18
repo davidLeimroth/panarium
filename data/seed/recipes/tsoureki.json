@@ -7,7 +7,11 @@
     "fr": "Tsoureki (tresse de Pâques grecque)",
     "native": "Τσουρέκι"
   },
-  "aliases": ["Greek Easter bread", "lambropsomo", "tsourekaki"],
+  "aliases": [
+    "Greek Easter bread",
+    "lambropsomo",
+    "tsourekaki"
+  ],
   "description": {
     "en": "Greece's Easter bread: a glossy three-strand braid perfumed with mahlab and mastic, its pull-apart threads said to echo the resurrection. Families often nestle a red-dyed egg into the braid before baking it fresh for Holy Saturday.",
     "de": "Griechenlands Osterbrot: ein glänzender Dreierzopf mit dem Aroma von Mahlep und Mastix, dessen zupfbare Fäden an die Auferstehung erinnern sollen. Oft wird ein rot gefärbtes Ei mit eingeflochten, frisch gebacken für Karsamstag.",
@@ -27,44 +31,164 @@
     "sugarPct": 26.4,
     "fatPct": 15.5,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 870 },
-    { "key": "water", "grams": 110, "note": "lukewarm, to bloom the yeast" },
-    { "key": "active-dry-yeast", "grams": 24 },
-    { "key": "milk", "grams": 150, "note": "room temperature" },
-    { "key": "butter", "grams": 135, "note": "room temperature" },
-    { "key": "sugar", "grams": 230 },
-    { "key": "egg", "grams": 200, "note": "4 medium eggs, for the dough" },
-    { "key": "orange-zest", "grams": 5, "note": "zest of 1 orange" },
-    { "label": { "en": "ground mahlab (mahlepi)", "de": "gemahlener Mahlep (Mahlepi)", "es": "mahlab molido (mahlepi)", "fr": "mahlab moulu (mahlepi)" }, "grams": 10 },
-    { "label": { "en": "ground mastic (mastiha)", "de": "gemahlener Mastix (Mastiha)", "es": "almáciga molida (mastiha)", "fr": "mastic moulu (mastiha)" }, "grams": 3, "note": "ground with a pinch of sugar so it doesn't turn gummy" },
-    { "key": "egg", "grams": 50, "note": "beaten with a little water, for the egg wash" },
-    { "key": "almonds", "grams": 15, "note": "sliced, scattered on top before baking" },
-    { "key": "egg", "grams": 60, "note": "one red-dyed hard-boiled egg tucked into the braid for Easter (festive variant)" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 870
+    },
+    {
+      "key": "water",
+      "grams": 110,
+      "note": "lukewarm, to bloom the yeast"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 24
+    },
+    {
+      "key": "milk",
+      "grams": 150,
+      "note": "room temperature"
+    },
+    {
+      "key": "butter",
+      "grams": 135,
+      "note": "room temperature"
+    },
+    {
+      "key": "sugar",
+      "grams": 230
+    },
+    {
+      "key": "egg",
+      "grams": 200,
+      "note": "4 medium eggs, for the dough"
+    },
+    {
+      "key": "orange-zest",
+      "grams": 5,
+      "note": "zest of 1 orange"
+    },
+    {
+      "label": {
+        "en": "ground mahlab (mahlepi)",
+        "de": "gemahlener Mahlep (Mahlepi)",
+        "es": "mahlab molido (mahlepi)",
+        "fr": "mahlab moulu (mahlepi)"
+      },
+      "grams": 10
+    },
+    {
+      "label": {
+        "en": "ground mastic (mastiha)",
+        "de": "gemahlener Mastix (Mastiha)",
+        "es": "almáciga molida (mastiha)",
+        "fr": "mastic moulu (mastiha)"
+      },
+      "grams": 3,
+      "note": "ground with a pinch of sugar so it doesn't turn gummy"
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "beaten with a little water, for the egg wash"
+    },
+    {
+      "key": "almonds",
+      "grams": 15,
+      "note": "sliced, scattered on top before baking"
+    },
+    {
+      "key": "egg",
+      "grams": 60,
+      "note": "one red-dyed hard-boiled egg tucked into the braid for Easter (festive variant)"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 870, "shape": "three-strand braid" },
-  "time": { "totalMin": 410, "activeMin": 45, "bulkMin": 210, "proofMin": 60, "bakeMin": 35, "overnight": false },
-  "bake": { "tempC": 150, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 870,
+    "shape": "three-strand braid"
+  },
+  "time": {
+    "totalMin": 410,
+    "activeMin": 45,
+    "bulkMin": 210,
+    "proofMin": 60,
+    "bakeMin": 35,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 150,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "soft",
-  "flavors": ["spiced", "sweet", "buttery", "rich"],
-  "purposes": ["celebration", "holiday", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 5.5, "freezes": true, "note": "Stays soft wrapped for the better part of a week; a light sugar-syrup brush after baking keeps it tender even longer." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "spiced",
+    "sweet",
+    "buttery",
+    "rich"
+  ],
+  "purposes": [
+    "celebration",
+    "holiday",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 5.5,
+    "freezes": true,
+    "note": "Stays soft wrapped for the better part of a week; a light sugar-syrup brush after baking keeps it tender even longer."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Bloom the yeast", "summary": "Dissolve the yeast in lukewarm water and let it foam, while the milk warms slightly and the butter comes to room temperature." },
-    { "title": "Build the dough", "summary": "Mix the flour with the ground mahlab and mastic, then work in the sugar, eggs, milk, butter, orange zest and bloomed yeast. Knead into a soft, very elastic dough, no salt goes in, so the yeast can push the rise along unhindered." },
-    { "title": "Bulk rise", "summary": "Let the dough roughly triple somewhere warm; the sugar and fat slow the yeast, so this stretches to several hours." },
-    { "title": "Stretch and braid", "summary": "Divide the risen dough into strands and pull each one out lengthwise before braiding, the stretching aligns the gluten and produces tsoureki's signature pull-apart threads." },
-    { "title": "Second proof", "summary": "Let the braided loaves rise again, snug rather than loose, until visibly puffy, tucking a red-dyed hard-boiled egg into a gap for the Easter version." },
-    { "title": "Egg wash and bake", "summary": "Brush with beaten egg, scatter with almond slivers, and bake at a gentle temperature until deep gold and fully cooked through." },
-    { "title": "Cool", "summary": "Cool on a rack before slicing; the crumb keeps pulling into strands for days afterward, which is half the point." }
+    {
+      "title": "Bloom the yeast",
+      "summary": "Dissolve the yeast in lukewarm water and let it foam, while the milk warms slightly and the butter comes to room temperature."
+    },
+    {
+      "title": "Build the dough",
+      "summary": "Mix the flour with the ground mahlab and mastic, then work in the sugar, eggs, milk, butter, orange zest and bloomed yeast. Knead into a soft, very elastic dough, no salt goes in, so the yeast can push the rise along unhindered."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Let the dough roughly triple somewhere warm; the sugar and fat slow the yeast, so this stretches to several hours."
+    },
+    {
+      "title": "Stretch and braid",
+      "summary": "Divide the risen dough into strands and pull each one out lengthwise before braiding, the stretching aligns the gluten and produces tsoureki's signature pull-apart threads."
+    },
+    {
+      "title": "Second proof",
+      "summary": "Let the braided loaves rise again, snug rather than loose, until visibly puffy, tucking a red-dyed hard-boiled egg into a gap for the Easter version."
+    },
+    {
+      "title": "Egg wash and bake",
+      "summary": "Brush with beaten egg, scatter with almond slivers, and bake at a gentle temperature until deep gold and fully cooked through."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool on a rack before slicing; the crumb keeps pulling into strands for days afterward, which is half the point."
+    }
   ],
   "source": {
     "url": "https://www.mygreekdish.com/recipe/tsoureki-recipe-traditional-greek-easter-bread/",
@@ -72,5 +196,11 @@
     "retrieved": "2026-07-17",
     "adaptation": "Method paraphrased; omitted salt to match the source's explicit no-salt formulation, and added the red-egg-in-the-braid detail as a noted festive variant beyond the base recipe."
   },
-  "tags": ["easter", "orthodox", "braided", "mahlab-mastic"]
+  "tags": [
+    "easter",
+    "orthodox",
+    "braided",
+    "mahlab-mastic"
+  ],
+  "doughType": "stiff"
 }

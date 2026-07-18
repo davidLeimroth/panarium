@@ -7,14 +7,21 @@
     "fr": "Talami",
     "native": "طلامي"
   },
-  "aliases": ["talame", "Lebanese focaccia", "khubz talami"],
+  "aliases": [
+    "talame",
+    "Lebanese focaccia",
+    "khubz talami"
+  ],
   "description": {
     "en": "A very wet, poured dough baked flat in a pan until the bottom turns deep gold and the crumb stays open and tender, Lebanon's answer to focaccia. Topped simply with sesame, nigella or za'atar and torn into pieces to share at the table.",
     "de": "Ein sehr feuchter, gegossener Teig, flach in einer Form gebacken bis der Boden tief golden wird und die Krume offen und zart bleibt, Libanons Antwort auf Focaccia. Einfach mit Sesam, Schwarzkümmel oder Za'atar belegt und in Stücken am Tisch geteilt.",
     "es": "Una masa muy húmeda, vertida y horneada plana en un molde hasta que la base se dora profundamente y la miga queda abierta y tierna, la respuesta libanesa a la focaccia. Se cubre simplemente con sésamo, nigella o za'atar y se comparte en trozos en la mesa.",
     "fr": "Une pâte très humide, versée et cuite à plat dans un moule jusqu'à ce que le fond devienne bien doré et que la mie reste ouverte et tendre, la réponse libanaise à la focaccia. Garnie simplement de sésame, de nigelle ou de za'atar et partagée en morceaux à table."
   },
-  "origin": { "country": "LB", "region": "Lebanon", "note": "A wet, poured dough related in technique to Italian focaccia; home bakers top it with za'atar, sesame or nigella, or send it out to a communal oven for baking." },
+  "origin": {
+    "country": "LB",
+    "note": "A wet, poured dough related in technique to Italian focaccia; home bakers top it with za'atar, sesame or nigella, or send it out to a communal oven for baking."
+  },
   "leaven": "yeast",
   "family": "pan-loaf",
   "formula": {
@@ -24,38 +31,130 @@
     "fatPct": 5.4,
     "yeastPct": 1.4,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "water", "grams": 533, "note": "warm, added gradually while beating" },
-    { "key": "sugar", "grams": 50 },
-    { "key": "salt", "grams": 18 },
-    { "key": "active-dry-yeast", "grams": 7 },
-    { "key": "vegetable-oil", "grams": 27 },
-    { "key": "sesame-seeds", "grams": 15, "note": "topping; nigella seeds or za'atar are common alternatives" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 533,
+      "note": "warm, added gradually while beating"
+    },
+    {
+      "key": "sugar",
+      "grams": 50
+    },
+    {
+      "key": "salt",
+      "grams": 18
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 7
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 27
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 15,
+      "note": "topping; nigella seeds or za'atar are common alternatives"
+    }
   ],
-  "yield": { "count": 10, "pieceGrams": 98, "shape": "flat sheet, cut into pieces" },
-  "time": { "totalMin": 220, "activeMin": 15, "bulkMin": 105, "proofMin": 60, "bakeMin": 25, "overnight": false },
-  "bake": { "tempC": 204, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 10,
+    "pieceGrams": 98,
+    "shape": "flat sheet, cut into pieces"
+  },
+  "time": {
+    "totalMin": 220,
+    "activeMin": 15,
+    "bulkMin": 105,
+    "proofMin": 60,
+    "bakeMin": 25,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 204,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crisp",
-  "flavors": ["mild", "wheaty", "savory", "herbal"],
-  "purposes": ["table", "side", "everyday"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm the day it is baked; wrap and freeze extra pieces, then reheat in a hot oven." },
-  "equipment": ["sheet-pan", "stand-mixer"],
-  "method": [
-    { "title": "Bloom yeast", "summary": "Dissolve yeast and sugar in part of the warm water; let stand about 10 minutes until foamy." },
-    { "title": "Mix", "summary": "In a stand mixer with the paddle attachment, beat in the flour and remaining water until the batter is smooth, elastic and climbs the paddle." },
-    { "title": "First rise", "summary": "Cover and let rise 90 minutes to 2 hours, until doubled." },
-    { "title": "Pour and rise again", "summary": "Pour and spread the slack dough into an oiled sheet pan or cast iron skillet, cover, and let rise about 1 hour." },
-    { "title": "Top", "summary": "Scatter the surface with sesame seeds, za'atar or nigella." },
-    { "title": "Bake", "summary": "Bake in a very hot, preheated oven, then lower the heat and bake until deep golden brown, about 25 minutes." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "savory",
+    "herbal"
   ],
-  "source": { "url": "https://maureenabood.com/garlic-butter-glazed-talami-bread/", "site": "Maureen Abood", "retrieved": "2026-07-18", "adaptation": "Used the base dough only; the source's garlic-butter finish (a modern variant) was replaced with the more traditional sesame/za'atar/nigella toppings the same site describes elsewhere." },
-  "tags": ["lebanese", "focaccia-style", "poured-dough"]
+  "purposes": [
+    "table",
+    "side",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best warm the day it is baked; wrap and freeze extra pieces, then reheat in a hot oven."
+  },
+  "equipment": [
+    "sheet-pan",
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Bloom yeast",
+      "summary": "Dissolve yeast and sugar in part of the warm water; let stand about 10 minutes until foamy."
+    },
+    {
+      "title": "Mix",
+      "summary": "In a stand mixer with the paddle attachment, beat in the flour and remaining water until the batter is smooth, elastic and climbs the paddle."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise 90 minutes to 2 hours, until doubled."
+    },
+    {
+      "title": "Pour and rise again",
+      "summary": "Pour and spread the slack dough into an oiled sheet pan or cast iron skillet, cover, and let rise about 1 hour."
+    },
+    {
+      "title": "Top",
+      "summary": "Scatter the surface with sesame seeds, za'atar or nigella."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a very hot, preheated oven, then lower the heat and bake until deep golden brown, about 25 minutes."
+    }
+  ],
+  "source": {
+    "url": "https://maureenabood.com/garlic-butter-glazed-talami-bread/",
+    "site": "Maureen Abood",
+    "retrieved": "2026-07-18",
+    "adaptation": "Used the base dough only; the source's garlic-butter finish (a modern variant) was replaced with the more traditional sesame/za'atar/nigella toppings the same site describes elsewhere."
+  },
+  "tags": [
+    "lebanese",
+    "focaccia-style",
+    "poured-dough"
+  ],
+  "doughType": "dough"
 }

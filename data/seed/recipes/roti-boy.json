@@ -6,14 +6,23 @@
     "es": "Roti Boy (bollo de café malayo)",
     "fr": "Roti Boy (petit pain au café malaisien)"
   },
-  "aliases": ["rotiboy", "coffee bun", "papparoti", "kopi roti"],
+  "aliases": [
+    "rotiboy",
+    "coffee bun",
+    "papparoti",
+    "kopi roti"
+  ],
   "description": {
     "en": "A Penang bakery bun stuffed with a frozen butter cube that melts into a molten center as it bakes, piped over with a coffee cookie batter that hardens into a crackled crust. Sold hot from ovens set into shopping-mall kiosks across Malaysia and beyond.",
     "de": "Ein Brötchen aus Penang, gefüllt mit einem gefrorenen Butterwürfel, der beim Backen schmilzt, überzogen mit einem Kaffee-Kekseteig, der zu einer rissigen Kruste aushärtet. Heiß verkauft aus Öfen in Einkaufszentren in ganz Malaysia und darüber hinaus.",
     "es": "Un bollo de Penang relleno con un cubo de mantequilla congelada que se derrite al hornearse, cubierto con masa de galleta de café que se endurece en corteza agrietada. Se vende caliente en quioscos de centros comerciales por toda Malasia y más allá.",
     "fr": "Un petit pain de Penang fourré d'un cube de beurre congelé qui fond à la cuisson, nappé d'une pâte à biscuit au café qui durcit en croûte craquelée. Vendu chaud dans des kiosques de centres commerciaux à travers la Malaisie et au-delà."
   },
-  "origin": { "country": "MY", "region": "Penang, sold nationwide and exported across Asia", "note": "Created in 1998 at a Bukit Mertajam bakery; the name means 'bread boy' and the chain popularized the bun as 'Rotiboy', later widely copied under names like Papparoti." },
+  "origin": {
+    "country": "MY",
+    "region": "Penang, sold nationwide and exported across Asia",
+    "note": "Created in 1998 at a Bukit Mertajam bakery; the name means 'bread boy' and the chain popularized the bun as 'Rotiboy', later widely copied under names like Papparoti."
+  },
   "leaven": "yeast",
   "family": "roll",
   "formula": {
@@ -23,46 +32,177 @@
     "fatPct": 10,
     "yeastPct": 3.5,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 200, "note": "bread flour, for the dough" },
-    { "key": "sugar", "grams": 40 },
-    { "key": "salt", "grams": 3 },
-    { "key": "milk", "grams": 35, "note": "dry milk powder; not counted toward hydration" },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "water", "grams": 90 },
-    { "key": "egg", "grams": 50 },
-    { "key": "butter", "grams": 20, "note": "in the dough" },
-    { "key": "butter", "grams": 60, "note": "filling, frozen into six 10g cubes" },
-    { "key": "butter", "grams": 60, "note": "for the coffee topping" },
-    { "key": "sugar", "grams": 60, "note": "for the coffee topping" },
-    { "key": "egg", "grams": 50, "note": "for the coffee topping" },
-    { "label": { "en": "instant coffee powder", "de": "löslicher Kaffee", "es": "café instantáneo en polvo", "fr": "café soluble en poudre" }, "grams": 6 },
-    { "key": "water", "grams": 15, "note": "boiling, to dissolve the coffee for the topping" },
-    { "label": { "en": "all-purpose flour (for the coffee topping)", "de": "Weizenmehl Type 405 (für den Kaffee-Belag)", "es": "harina todo uso (para la cobertura de café)", "fr": "farine tout usage (pour le glaçage au café)" }, "grams": 80 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 200,
+      "note": "bread flour, for the dough"
+    },
+    {
+      "key": "sugar",
+      "grams": 40
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "key": "milk",
+      "grams": 35,
+      "note": "dry milk powder; not counted toward hydration"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "water",
+      "grams": 90
+    },
+    {
+      "key": "egg",
+      "grams": 50
+    },
+    {
+      "key": "butter",
+      "grams": 20,
+      "note": "in the dough"
+    },
+    {
+      "key": "butter",
+      "grams": 60,
+      "note": "filling, frozen into six 10g cubes"
+    },
+    {
+      "key": "butter",
+      "grams": 60,
+      "note": "for the coffee topping"
+    },
+    {
+      "key": "sugar",
+      "grams": 60,
+      "note": "for the coffee topping"
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "for the coffee topping"
+    },
+    {
+      "label": {
+        "en": "instant coffee powder",
+        "de": "löslicher Kaffee",
+        "es": "café instantáneo en polvo",
+        "fr": "café soluble en poudre"
+      },
+      "grams": 6
+    },
+    {
+      "key": "water",
+      "grams": 15,
+      "note": "boiling, to dissolve the coffee for the topping"
+    },
+    {
+      "label": {
+        "en": "all-purpose flour (for the coffee topping)",
+        "de": "Weizenmehl Type 405 (für den Kaffee-Belag)",
+        "es": "harina todo uso (para la cobertura de café)",
+        "fr": "farine tout usage (pour le glaçage au café)"
+      },
+      "grams": 80
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 129, "shape": "round bun, butter-filled, coffee cookie topping, ~8 cm" },
-  "time": { "totalMin": 150, "activeMin": 35, "bulkMin": 52, "proofMin": 45, "bakeMin": 20, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 129,
+    "shape": "round bun, butter-filled, coffee cookie topping, ~8 cm"
+  },
+  "time": {
+    "totalMin": 150,
+    "activeMin": 35,
+    "bulkMin": 52,
+    "proofMin": 45,
+    "bakeMin": 20,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 4,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["sweet", "buttery", "rich", "toasty"],
-  "purposes": ["snack", "breakfast", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best warm from the oven while the butter center is still melty; reheat briefly to re-soften. Freezes acceptably, though the topping loses some crispness." },
-  "equipment": ["stand-mixer", "sheet-pan"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine flour, sugar, salt, milk powder and yeast; add egg and water and knead about 4 minutes, then work in the butter and knead 8 more minutes to a smooth, elastic dough." },
-    { "title": "First rise", "summary": "Cover and proof 45-60 minutes until doubled." },
-    { "title": "Fill", "summary": "Freeze 10g butter cubes; divide the dough into 6 portions, flatten each around a frozen butter cube, and seal tightly into a smooth ball." },
-    { "title": "Second rise", "summary": "Proof again until puffy and nearly doubled." },
-    { "title": "Make the topping", "summary": "Dissolve instant coffee in boiling water; cream butter and sugar, beat in the egg and coffee, then fold in the flour to a soft, pipeable paste." },
-    { "title": "Pipe and bake", "summary": "Pipe the coffee topping in a spiral over the top two-thirds of each bun and bake at 180°C (355°F) for about 20 minutes until the topping is crisp and golden." }
+  "flavors": [
+    "sweet",
+    "buttery",
+    "rich",
+    "toasty"
   ],
-  "source": { "url": "https://tasteasianfood.com/rotiboy-coffee-bun/", "site": "Taste of Asian Food", "retrieved": "2026-07-18", "adaptation": "Formula percentages describe the bread dough only; the coffee topping and butter filling are listed separately and excluded, as with melonpan. Salt increased slightly for balance." },
-  "tags": ["kopitiam", "filled-bun"]
+  "purposes": [
+    "snack",
+    "breakfast",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best warm from the oven while the butter center is still melty; reheat briefly to re-soften. Freezes acceptably, though the topping loses some crispness."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine flour, sugar, salt, milk powder and yeast; add egg and water and knead about 4 minutes, then work in the butter and knead 8 more minutes to a smooth, elastic dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and proof 45-60 minutes until doubled."
+    },
+    {
+      "title": "Fill",
+      "summary": "Freeze 10g butter cubes; divide the dough into 6 portions, flatten each around a frozen butter cube, and seal tightly into a smooth ball."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Proof again until puffy and nearly doubled."
+    },
+    {
+      "title": "Make the topping",
+      "summary": "Dissolve instant coffee in boiling water; cream butter and sugar, beat in the egg and coffee, then fold in the flour to a soft, pipeable paste."
+    },
+    {
+      "title": "Pipe and bake",
+      "summary": "Pipe the coffee topping in a spiral over the top two-thirds of each bun and bake at 180°C (355°F) for about 20 minutes until the topping is crisp and golden."
+    }
+  ],
+  "source": {
+    "url": "https://tasteasianfood.com/rotiboy-coffee-bun/",
+    "site": "Taste of Asian Food",
+    "retrieved": "2026-07-18",
+    "adaptation": "Formula percentages describe the bread dough only; the coffee topping and butter filling are listed separately and excluded, as with melonpan. Salt increased slightly for balance."
+  },
+  "tags": [
+    "kopitiam",
+    "filled-bun"
+  ],
+  "doughType": "dough"
 }

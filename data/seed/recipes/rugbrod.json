@@ -7,14 +7,21 @@
     "fr": "Pain de seigle danois (Rugbrød)",
     "native": "Rugbrød"
   },
-  "aliases": ["Danish sourdough rye", "rugbrød på surdej"],
+  "aliases": [
+    "Danish sourdough rye",
+    "rugbrød på surdej"
+  ],
   "description": {
     "en": "Denmark's everyday sourdough rye: a two-stage sour, cracked and wholegrain rye, a splash of beer and four toasted seeds baked low and slow in a tin. Thin-sliced for smørrebrød, it only improves after a day's rest.",
     "de": "Dänemarks tägliches Sauerteig-Roggenbrot: ein zweistufiger Sauerteig, grober und feiner Vollkornroggen, ein Schuss Bier und vier geröstete Saaten, langsam im Kasten gebacken. Dünn geschnitten für Smørrebrød, wird es nach einem Ruhetag nur besser.",
     "es": "El pan de centeno con masa madre de cada día en Dinamarca: una masa madre en dos etapas, centeno integral fino y grueso, un toque de cerveza y cuatro semillas tostadas, horneado despacio en molde. Cortado fino para el smørrebrød, mejora tras un día de reposo.",
     "fr": "Le pain de seigle au levain du quotidien danois : un levain en deux étapes, seigle complet fin et grossier, une touche de bière et quatre graines torréfiées, cuit lentement en moule. Tranché fin pour le smørrebrød, il ne fait que s'améliorer après un jour de repos."
   },
-  "origin": { "country": "DK", "region": "Denmark, nationwide", "note": "A daily staple since the Middle Ages and the base of smørrebrød, Denmark's open sandwich tradition." },
+  "origin": {
+    "country": "DK",
+    "region": "nationwide",
+    "note": "A daily staple since the Middle Ages and the base of smørrebrød, Denmark's open sandwich tradition."
+  },
   "leaven": "sourdough",
   "family": "pan-loaf",
   "formula": {
@@ -23,44 +30,158 @@
     "sugarPct": 3.3,
     "prefermentedFlourPct": 51,
     "flours": [
-      { "type": "rye-whole", "pct": 84 },
-      { "type": "wheat-whole", "pct": 16 }
+      {
+        "type": "rye-whole",
+        "pct": 84
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 16
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 635, "note": "wholegrain rye flour plus cracked rye meal, split across two sour stages" },
-    { "key": "flour:wheat-whole", "grams": 118 },
-    { "key": "water", "grams": 385 },
-    { "label": { "en": "dark lager beer", "de": "dunkles Lagerbier", "es": "cerveza lager oscura", "fr": "bière brune" }, "grams": 160 },
-    { "key": "sourdough-starter", "grams": 5, "note": "active rye sour culture" },
-    { "key": "salt", "grams": 20 },
-    { "key": "molasses", "grams": 25, "note": "or dark corn syrup" },
-    { "key": "pumpkin-seeds", "grams": 50 },
-    { "key": "sunflower-seeds", "grams": 50 },
-    { "key": "flax-seeds", "grams": 35 },
-    { "key": "sesame-seeds", "grams": 18 }
+    {
+      "key": "flour:rye-whole",
+      "grams": 635,
+      "note": "wholegrain rye flour plus cracked rye meal, split across two sour stages"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 118
+    },
+    {
+      "key": "water",
+      "grams": 385
+    },
+    {
+      "label": {
+        "en": "dark lager beer",
+        "de": "dunkles Lagerbier",
+        "es": "cerveza lager oscura",
+        "fr": "bière brune"
+      },
+      "grams": 160
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 5,
+      "note": "active rye sour culture"
+    },
+    {
+      "key": "salt",
+      "grams": 20
+    },
+    {
+      "key": "molasses",
+      "grams": 25,
+      "note": "or dark corn syrup"
+    },
+    {
+      "key": "pumpkin-seeds",
+      "grams": 50
+    },
+    {
+      "key": "sunflower-seeds",
+      "grams": 50
+    },
+    {
+      "key": "flax-seeds",
+      "grams": 35
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 18
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1250, "shape": "pullman/tin loaf" },
-  "time": { "totalMin": 1740, "activeMin": 40, "proofMin": 240, "bakeMin": 80, "overnight": true },
-  "bake": { "tempC": 225, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1250,
+    "shape": "pullman/tin loaf"
+  },
+  "time": {
+    "totalMin": 1740,
+    "activeMin": 40,
+    "proofMin": 240,
+    "bakeMin": 80,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 225,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["sour", "malty", "nutty", "earthy"],
-  "purposes": ["everyday", "sandwich", "breakfast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 7, "freezes": true, "note": "Wrap and rest a full day before the first slice; the crumb needs it to set." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "First sour", "summary": "Mix a portion of wholegrain rye flour with water and a spoon of mature rye starter; let it ferment overnight at room temperature until doubled." },
-    { "title": "Second sour", "summary": "Fold in more rye flour, water, the salt, molasses and toasted seeds; ferment again overnight into a bubbling, well-risen sponge." },
-    { "title": "Mix final dough", "summary": "Work in the cracked rye meal, whole wheat flour and beer to a heavy, pourable batter-dough. No kneading, rye has nothing to develop." },
-    { "title": "Pan", "summary": "Scrape into a greased loaf tin and smooth the top with a wet hand." },
-    { "title": "Proof", "summary": "Let it rise at room temperature until it crowns the rim and small surface cracks appear." },
-    { "title": "Bake", "summary": "Bake hot without steam until deeply browned and fully cooked through." },
-    { "title": "Rest", "summary": "Cool completely, then wrap and wait a full day before slicing thin." }
+  "flavors": [
+    "sour",
+    "malty",
+    "nutty",
+    "earthy"
   ],
-  "source": { "url": "https://theryebaker.com/sourdough-danish-rye/", "site": "The Rye Baker", "author": "Stanley Ginsberg", "retrieved": "2026-07-17", "adaptation": "Scaled to a single home loaf from the source's two-loaf bakery formula; percentages preserved." },
-  "tags": ["smørrebrød", "seeded"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 7,
+    "freezes": true,
+    "note": "Wrap and rest a full day before the first slice; the crumb needs it to set."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "First sour",
+      "summary": "Mix a portion of wholegrain rye flour with water and a spoon of mature rye starter; let it ferment overnight at room temperature until doubled."
+    },
+    {
+      "title": "Second sour",
+      "summary": "Fold in more rye flour, water, the salt, molasses and toasted seeds; ferment again overnight into a bubbling, well-risen sponge."
+    },
+    {
+      "title": "Mix final dough",
+      "summary": "Work in the cracked rye meal, whole wheat flour and beer to a heavy, pourable batter-dough. No kneading, rye has nothing to develop."
+    },
+    {
+      "title": "Pan",
+      "summary": "Scrape into a greased loaf tin and smooth the top with a wet hand."
+    },
+    {
+      "title": "Proof",
+      "summary": "Let it rise at room temperature until it crowns the rim and small surface cracks appear."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake hot without steam until deeply browned and fully cooked through."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cool completely, then wrap and wait a full day before slicing thin."
+    }
+  ],
+  "source": {
+    "url": "https://theryebaker.com/sourdough-danish-rye/",
+    "site": "The Rye Baker",
+    "author": "Stanley Ginsberg",
+    "retrieved": "2026-07-17",
+    "adaptation": "Scaled to a single home loaf from the source's two-loaf bakery formula; percentages preserved."
+  },
+  "tags": [
+    "smørrebrød",
+    "seeded"
+  ],
+  "doughType": "paste"
 }

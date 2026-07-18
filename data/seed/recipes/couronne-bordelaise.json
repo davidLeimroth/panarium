@@ -7,14 +7,20 @@
     "fr": "Couronne bordelaise",
     "native": "Couronne Bordelaise"
   },
-  "aliases": ["couronne gasconne"],
+  "aliases": [
+    "couronne gasconne"
+  ],
   "description": {
     "en": "A ring of nine joined dough balls around a central disc, its flaps cut and folded like flower petals. Built from a levain-and-yeast country dough with a touch of whole wheat, it's Bordeaux's striking answer to pain de campagne.",
     "de": "Ein Ring aus neun aneinandergefügten Teigkugeln um eine mittlere Scheibe, deren Zipfel wie Blütenblätter eingeschnitten und gefaltet werden. Aus einem Sauerteig-Hefe-Landbrotteig mit etwas Vollkornmehl gebaut, ist es Bordeaux' auffällige Antwort auf den Pain de Campagne.",
     "es": "Un anillo de nueve bolas de masa unidas alrededor de un disco central, con sus solapas cortadas y plegadas como pétalos de flor. Hecha con una masa de campo con levain y levadura y un toque de trigo integral, es la llamativa respuesta de Burdeos al pain de campagne.",
     "fr": "Une couronne de neuf boules de pâte soudées autour d'un disque central, aux pointes incisées et rabattues comme des pétales. Pâte de campagne au levain et à la levure, relevée d'un peu de blé complet : la réponse spectaculaire de Bordeaux au pain de campagne."
   },
-  "origin": { "country": "FR", "region": "Bordeaux / Gascony (Sud-Ouest)", "note": "Traditionally shaped from 8 or 9 balls with a small rosette on top; made with only 6 balls, the same shape is called a couronne gasconne." },
+  "origin": {
+    "country": "FR",
+    "region": "Bordeaux / Gascony (Sud-Ouest)",
+    "note": "Traditionally shaped from 8 or 9 balls with a small rosette on top; made with only 6 balls, the same shape is called a couronne gasconne."
+  },
   "leaven": "hybrid",
   "family": "ring",
   "formula": {
@@ -22,38 +28,127 @@
     "saltPct": 2.1,
     "prefermentedFlourPct": 15,
     "flours": [
-      { "type": "wheat-white", "pct": 86 },
-      { "type": "wheat-whole", "pct": 14 }
+      {
+        "type": "wheat-white",
+        "pct": 86
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 14
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500, "note": "T65" },
-    { "key": "flour:wheat-whole", "grams": 100, "note": "T110" },
-    { "key": "water", "grams": 360 },
-    { "key": "levain", "grams": 205 },
-    { "key": "salt", "grams": 15 },
-    { "key": "instant-yeast", "grams": 8 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "T65"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 100,
+      "note": "T110"
+    },
+    {
+      "key": "water",
+      "grams": 360
+    },
+    {
+      "key": "levain",
+      "grams": 205
+    },
+    {
+      "key": "salt",
+      "grams": 15
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 8
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1000, "shape": "crown of 9 balls plus centre" },
-  "time": { "totalMin": 280, "activeMin": 35, "bulkMin": 90, "proofMin": 90, "bakeMin": 35, "overnight": false },
-  "bake": { "tempC": 230, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1000,
+    "shape": "crown of 9 balls plus centre"
+  },
+  "time": {
+    "totalMin": 280,
+    "activeMin": 35,
+    "bulkMin": 90,
+    "proofMin": 90,
+    "bakeMin": 35,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["wheaty", "tangy", "nutty"],
-  "purposes": ["table", "everyday", "sandwich"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 14 },
-  "keeping": { "freshDays": 3, "freezes": true },
-  "equipment": ["baking-stone", "banneton"],
-  "method": [
-    { "title": "Mix", "summary": "Combine water, salt and levain, then work in the two flours and yeast to a smooth dough; knead well." },
-    { "title": "Bulk ferment", "summary": "Ferment until roughly doubled." },
-    { "title": "Divide", "summary": "Divide into nine even balls plus one larger ball for the center." },
-    { "title": "Shape the crown", "summary": "Flatten the large ball into a disc for the middle and arrange the nine balls in a ring around it." },
-    { "title": "Cut and fold", "summary": "Snip radial cuts between the balls and fold each flap over its neighbor to lock the ring together." },
-    { "title": "Proof and bake", "summary": "Proof until puffy, then bake hot with steam until deeply golden." }
+  "flavors": [
+    "wheaty",
+    "tangy",
+    "nutty"
   ],
-  "source": { "url": "https://croquantfondantgourmand.com/couronne-bordelaise/", "site": "Croquant Fondant Gourmand", "retrieved": "2026-07-17", "adaptation": "Levain's own flour/water content estimated (assumed 100%-hydration liquid levain) and folded into total baker's percentages." },
-  "tags": ["bordeaux", "couronne"]
+  "purposes": [
+    "table",
+    "everyday",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 14
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true
+  },
+  "equipment": [
+    "baking-stone",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine water, salt and levain, then work in the two flours and yeast to a smooth dough; knead well."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Ferment until roughly doubled."
+    },
+    {
+      "title": "Divide",
+      "summary": "Divide into nine even balls plus one larger ball for the center."
+    },
+    {
+      "title": "Shape the crown",
+      "summary": "Flatten the large ball into a disc for the middle and arrange the nine balls in a ring around it."
+    },
+    {
+      "title": "Cut and fold",
+      "summary": "Snip radial cuts between the balls and fold each flap over its neighbor to lock the ring together."
+    },
+    {
+      "title": "Proof and bake",
+      "summary": "Proof until puffy, then bake hot with steam until deeply golden."
+    }
+  ],
+  "source": {
+    "url": "https://croquantfondantgourmand.com/couronne-bordelaise/",
+    "site": "Croquant Fondant Gourmand",
+    "retrieved": "2026-07-17",
+    "adaptation": "Levain's own flour/water content estimated (assumed 100%-hydration liquid levain) and folded into total baker's percentages."
+  },
+  "tags": [
+    "bordeaux",
+    "couronne"
+  ],
+  "doughType": "dough"
 }

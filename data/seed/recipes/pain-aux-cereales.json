@@ -7,14 +7,21 @@
     "fr": "Pain aux céréales",
     "native": "Pain aux Céréales"
   },
-  "aliases": ["multigrain bread", "pain 7 céréales"],
+  "aliases": [
+    "multigrain bread",
+    "pain 7 céréales"
+  ],
   "description": {
     "en": "A hearty bakery loaf built on wheat and whole rye flour, studded with a toasted mix of flax, sunflower, sesame, millet and poppy seeds. Nuttier and more filling than a plain white loaf, and a favorite for weekday sandwiches.",
     "de": "Ein herzhaftes Bäckereibrot auf Basis von Weizen- und Roggenvollkornmehl, gespickt mit einer gerösteten Mischung aus Lein-, Sonnenblumen-, Sesam-, Hirse- und Mohnsamen. Nussiger und sättigender als ein reines Weißbrot, ein Favorit für Pausenbrote unter der Woche.",
     "es": "Una hogaza de panadería contundente, hecha con trigo y harina integral de centeno, salpicada de una mezcla tostada de semillas de lino, girasol, sésamo, mijo y amapola. Más sabrosa y saciante que una hogaza blanca simple, favorita para los bocadillos entre semana.",
     "fr": "Un pain de boulangerie généreux, à base de blé et de farine de seigle complète, parsemé d'un mélange de graines de lin, tournesol, sésame, millet et pavot légèrement torréfiées. Plus goûteux et nourrissant qu'un pain blanc classique, un favori pour les sandwichs de la semaine."
   },
-  "origin": { "country": "FR", "region": "national", "note": "A modern boulangerie staple rather than a historic regional bread, popularized as bakeries diversified beyond baguette and pain de campagne." },
+  "origin": {
+    "country": "FR",
+    "region": "national",
+    "note": "A modern boulangerie staple rather than a historic regional bread, popularized as bakeries diversified beyond baguette and pain de campagne."
+  },
   "leaven": "yeast",
   "family": "hearth-loaf",
   "formula": {
@@ -23,45 +30,161 @@
     "sugarPct": 1.7,
     "fatPct": 3.9,
     "flours": [
-      { "type": "wheat-white", "pct": 71 },
-      { "type": "rye-whole", "pct": 29 }
+      {
+        "type": "wheat-white",
+        "pct": 71
+      },
+      {
+        "type": "rye-whole",
+        "pct": 29
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500, "note": "T65" },
-    { "key": "flour:rye-whole", "grams": 200 },
-    { "key": "water", "grams": 400 },
-    { "key": "olive-oil", "grams": 27 },
-    { "key": "sugar", "grams": 12, "note": "cassonade" },
-    { "key": "salt", "grams": 10 },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "flax-seeds", "grams": 40 },
-    { "key": "sunflower-seeds", "grams": 40 },
-    { "key": "sesame-seeds", "grams": 20 },
-    { "label": { "en": "millet seeds", "de": "Hirsesamen", "es": "semillas de mijo", "fr": "graines de millet" }, "grams": 10 },
-    { "key": "poppy-seeds", "grams": 10 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "T65"
+    },
+    {
+      "key": "flour:rye-whole",
+      "grams": 200
+    },
+    {
+      "key": "water",
+      "grams": 400
+    },
+    {
+      "key": "olive-oil",
+      "grams": 27
+    },
+    {
+      "key": "sugar",
+      "grams": 12,
+      "note": "cassonade"
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "flax-seeds",
+      "grams": 40
+    },
+    {
+      "key": "sunflower-seeds",
+      "grams": 40
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 20
+    },
+    {
+      "label": {
+        "en": "millet seeds",
+        "de": "Hirsesamen",
+        "es": "semillas de mijo",
+        "fr": "graines de millet"
+      },
+      "grams": 10
+    },
+    {
+      "key": "poppy-seeds",
+      "grams": 10
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 570, "shape": "free-standing loaf" },
-  "time": { "totalMin": 385, "activeMin": 35, "bulkMin": 120, "proofMin": 90, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 570,
+    "shape": "free-standing loaf"
+  },
+  "time": {
+    "totalMin": 385,
+    "activeMin": 35,
+    "bulkMin": 120,
+    "proofMin": 90,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["nutty", "wheaty", "toasty", "earthy"],
-  "purposes": ["everyday", "sandwich", "breakfast", "toast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 29 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "The seed mix helps it stay moist longer than a plain white loaf." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Toast the seeds", "summary": "Lightly toast the seed mix to bring out its flavor." },
-    { "title": "Autolyse", "summary": "Rest the two flours with the water about 45 minutes." },
-    { "title": "Knead", "summary": "Work in the yeast, salt, oil and sugar until smooth and elastic." },
-    { "title": "Fold in seeds", "summary": "Fold the toasted seeds through the dough." },
-    { "title": "Bulk ferment", "summary": "Ferment about 2 hours until roughly tripled." },
-    { "title": "Shape and proof", "summary": "Divide into two loaves, shape, and proof until well puffed." },
-    { "title": "Bake", "summary": "Score and bake hot with steam, finishing at a slightly lower heat until fully cooked through." }
+  "flavors": [
+    "nutty",
+    "wheaty",
+    "toasty",
+    "earthy"
   ],
-  "source": { "url": "https://lavalentonnaise.fr/2026/04/01/pain-aux-cereales-parfait-recette-bienfaits-boulangerie/", "site": "La Valentonnaise", "retrieved": "2026-07-17" },
-  "tags": ["graines", "multigrain"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast",
+    "toast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 29
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "The seed mix helps it stay moist longer than a plain white loaf."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Toast the seeds",
+      "summary": "Lightly toast the seed mix to bring out its flavor."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Rest the two flours with the water about 45 minutes."
+    },
+    {
+      "title": "Knead",
+      "summary": "Work in the yeast, salt, oil and sugar until smooth and elastic."
+    },
+    {
+      "title": "Fold in seeds",
+      "summary": "Fold the toasted seeds through the dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Ferment about 2 hours until roughly tripled."
+    },
+    {
+      "title": "Shape and proof",
+      "summary": "Divide into two loaves, shape, and proof until well puffed."
+    },
+    {
+      "title": "Bake",
+      "summary": "Score and bake hot with steam, finishing at a slightly lower heat until fully cooked through."
+    }
+  ],
+  "source": {
+    "url": "https://lavalentonnaise.fr/2026/04/01/pain-aux-cereales-parfait-recette-bienfaits-boulangerie/",
+    "site": "La Valentonnaise",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "graines",
+    "multigrain"
+  ],
+  "doughType": "dough"
 }

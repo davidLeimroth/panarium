@@ -6,14 +6,21 @@
     "es": "Sel Roti (pan de arroz nepalí en forma de anillo)",
     "fr": "Sel Roti (pain de riz népalais en anneau)"
   },
-  "aliases": ["sel roti", "Nepali rice doughnut"],
+  "aliases": [
+    "sel roti",
+    "Nepali rice doughnut"
+  ],
   "description": {
     "en": "A ring-shaped Nepali bread piped by hand from a sweet rice-and-banana batter straight into hot oil. Crackling crisp outside and soft within, it is the signature treat of the Dashain and Tihar festivals across Nepal, Sikkim and Darjeeling.",
     "de": "Ein ringförmiges nepalesisches Brot, das von Hand aus einem süßen Reis-Bananen-Teig direkt in heißes Öl gespritzt wird. Außen knackig knusprig, innen weich, ist es die Signature-Leckerei der Dashain- und Tihar-Feste in Nepal, Sikkim und Darjeeling.",
     "es": "Un pan nepalí en forma de anillo, formado a mano con una masa dulce de arroz y plátano directamente en aceite caliente. Crujiente y crepitante por fuera, suave por dentro, es el dulce insignia de los festivales Dashain y Tihar en Nepal, Sikkim y Darjeeling.",
     "fr": "Un pain népalais en anneau, façonné à la main à partir d'une pâte sucrée de riz et de banane directement dans l'huile chaude. Croustillant dehors, moelleux dedans, douceur emblématique des festivals Dashain et Tihar au Népal, au Sikkim et à Darjeeling."
   },
-  "origin": { "country": "NP", "region": "nationwide (also Sikkim, Darjeeling and Kumaon)", "note": "Centered on the Dashain and Tihar festivals, when households fry large batches to share with neighbors and visiting family." },
+  "origin": {
+    "country": "NP",
+    "region": "nationwide (also Sikkim, Darjeeling and Kumaon)",
+    "note": "Centered on the Dashain and Tihar festivals, when households fry large batches to share with neighbors and visiting family."
+  },
   "leaven": "none",
   "family": "fried",
   "formula": {
@@ -22,40 +29,145 @@
     "sugarPct": 33.3,
     "fatPct": 22.7,
     "flours": [
-      { "type": "rice", "pct": 100 }
+      {
+        "type": "rice",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:rice", "grams": 300, "note": "short-grain rice, soaked 5-6 hours then ground to a paste" },
-    { "key": "water", "grams": 150, "note": "for soaking the rice and thinning the batter; source did not fully quantify, estimated" },
-    { "key": "milk", "grams": 60 },
-    { "key": "sugar", "grams": 100 },
-    { "label": { "en": "mashed ripe banana", "de": "zerdrückte reife Banane", "es": "plátano maduro triturado", "fr": "banane mûre écrasée" }, "grams": 120 },
-    { "key": "cardamom", "grams": 1, "note": "ground" },
-    { "key": "butter", "grams": 28, "note": "ghee, melted" },
-    { "key": "salt", "grams": 1 },
-    { "key": "vegetable-oil", "grams": 40, "note": "for deep-frying; amount absorbed is estimated" }
+    {
+      "key": "flour:rice",
+      "grams": 300,
+      "note": "short-grain rice, soaked 5-6 hours then ground to a paste"
+    },
+    {
+      "key": "water",
+      "grams": 150,
+      "note": "for soaking the rice and thinning the batter; source did not fully quantify, estimated"
+    },
+    {
+      "key": "milk",
+      "grams": 60
+    },
+    {
+      "key": "sugar",
+      "grams": 100
+    },
+    {
+      "label": {
+        "en": "mashed ripe banana",
+        "de": "zerdrückte reife Banane",
+        "es": "plátano maduro triturado",
+        "fr": "banane mûre écrasée"
+      },
+      "grams": 120
+    },
+    {
+      "key": "cardamom",
+      "grams": 1,
+      "note": "ground"
+    },
+    {
+      "key": "butter",
+      "grams": 28,
+      "note": "ghee, melted"
+    },
+    {
+      "key": "salt",
+      "grams": 1
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 40,
+      "note": "for deep-frying; amount absorbed is estimated"
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 100, "shape": "ring/pretzel-shaped, deep-fried, ~12 cm diameter" },
-  "time": { "totalMin": 440, "activeMin": 30, "bulkMin": 360, "proofMin": 30, "bakeMin": 20, "overnight": true },
-  "bake": { "tempC": 185, "steam": false, "vessel": "fryer" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 100,
+    "shape": "ring/pretzel-shaped, deep-fried, ~12 cm diameter"
+  },
+  "time": {
+    "totalMin": 440,
+    "activeMin": 30,
+    "bulkMin": 360,
+    "proofMin": 30,
+    "bakeMin": 20,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 185,
+    "steam": false,
+    "vessel": "fryer"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["sweet", "fruity", "spiced", "rich"],
-  "purposes": ["celebration", "holiday", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": false, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best fresh, still faintly warm and crackly; toughens by the next day. Freezes reasonably and can be gently reheated." },
-  "equipment": ["deep-fryer"],
-  "method": [
-    { "title": "Soak rice", "summary": "Rinse rice and soak 5-6 hours or overnight, then drain." },
-    { "title": "Blend", "summary": "Blend the soaked rice with milk and a little water to a thick, smooth paste." },
-    { "title": "Season", "summary": "Mix in sugar, mashed banana, cardamom, melted ghee and a pinch of salt until the batter is lump-free and pourable; rest covered at least 30 minutes." },
-    { "title": "Heat oil", "summary": "Heat oil in a deep pan to medium temperature, hot enough that a drop of batter sizzles and rises right away." },
-    { "title": "Pipe rings", "summary": "Pour or pipe the batter directly into the hot oil in a ring shape, by hand or with a piping bag." },
-    { "title": "Fry and drain", "summary": "Fry one or two rings at a time, turning gently, until golden brown on both sides, then drain on paper towels." }
+  "flavors": [
+    "sweet",
+    "fruity",
+    "spiced",
+    "rich"
   ],
-  "source": { "url": "https://delishglobe.com/recipe/sel-roti-nepali-rice-doughnut/", "site": "DelishGlobe", "retrieved": "2026-07-18", "adaptation": "Omitted the source's optional wheat-flour binder for a traditional rice-only batter; added estimated water since the source didn't specify how much thins the batter; fry-oil absorption estimated." },
-  "tags": ["nepali", "festival-food", "gluten-free"]
+  "purposes": [
+    "celebration",
+    "holiday",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": false,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best fresh, still faintly warm and crackly; toughens by the next day. Freezes reasonably and can be gently reheated."
+  },
+  "equipment": [
+    "deep-fryer"
+  ],
+  "method": [
+    {
+      "title": "Soak rice",
+      "summary": "Rinse rice and soak 5-6 hours or overnight, then drain."
+    },
+    {
+      "title": "Blend",
+      "summary": "Blend the soaked rice with milk and a little water to a thick, smooth paste."
+    },
+    {
+      "title": "Season",
+      "summary": "Mix in sugar, mashed banana, cardamom, melted ghee and a pinch of salt until the batter is lump-free and pourable; rest covered at least 30 minutes."
+    },
+    {
+      "title": "Heat oil",
+      "summary": "Heat oil in a deep pan to medium temperature, hot enough that a drop of batter sizzles and rises right away."
+    },
+    {
+      "title": "Pipe rings",
+      "summary": "Pour or pipe the batter directly into the hot oil in a ring shape, by hand or with a piping bag."
+    },
+    {
+      "title": "Fry and drain",
+      "summary": "Fry one or two rings at a time, turning gently, until golden brown on both sides, then drain on paper towels."
+    }
+  ],
+  "source": {
+    "url": "https://delishglobe.com/recipe/sel-roti-nepali-rice-doughnut/",
+    "site": "DelishGlobe",
+    "retrieved": "2026-07-18",
+    "adaptation": "Omitted the source's optional wheat-flour binder for a traditional rice-only batter; added estimated water since the source didn't specify how much thins the batter; fry-oil absorption estimated."
+  },
+  "tags": [
+    "nepali",
+    "festival-food",
+    "gluten-free"
+  ],
+  "doughType": "dough"
 }

@@ -7,7 +7,11 @@
     "fr": "Roulé polonais au pavot (Makowiec)",
     "native": "Makowiec"
   },
-  "aliases": ["poppy seed roll", "poppyseed babka", "strucla makowa"],
+  "aliases": [
+    "poppy seed roll",
+    "poppyseed babka",
+    "strucla makowa"
+  ],
   "description": {
     "en": "A tight spiral of sweet dough and poppyseed filling, sliced like a loaf, that fills Polish homes at Christmas and Easter. Poppy seeds stand for prosperity, so this rolled bread is as much a good-luck charm as a treat.",
     "de": "Ein straff gerolltes Hefegebäck mit süßer Mohnfüllung, das an Weihnachten und Ostern in polnischen Küchen duftet. Mohn steht für Wohlstand - dieses gerollte Gebäck ist ebenso Glücksbringer wie Süßspeise.",
@@ -16,7 +20,6 @@
   },
   "origin": {
     "country": "PL",
-    "region": "Poland",
     "note": "Close kin to babka and stollen; poppy seeds are a traditional symbol of wealth and abundance for the year ahead, especially at the Christmas Eve supper (Wigilia)."
   },
   "leaven": "yeast",
@@ -27,45 +30,158 @@
     "sugarPct": 35.8,
     "fatPct": 12,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "milk", "grams": 250 },
-    { "key": "sugar", "grams": 15, "note": "for the dough" },
-    { "key": "sugar", "grams": 100, "note": "for the poppyseed filling" },
-    { "key": "active-dry-yeast", "grams": 14 },
-    { "key": "salt", "grams": 6 },
-    { "key": "egg-yolk", "grams": 40, "note": "2 yolks, for the dough" },
-    { "key": "butter", "grams": 50, "note": "for the dough" },
-    { "key": "butter", "grams": 10, "note": "melted into the filling" },
-    { "key": "poppy-seeds", "grams": 300, "note": "soaked in boiling water, then drained and finely ground" },
-    { "key": "egg", "grams": 60, "note": "whites only, bind the filling" },
-    { "key": "honey", "grams": 64, "note": "in the filling" },
-    { "key": "raisins", "grams": 150, "note": "folded into the filling" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "milk",
+      "grams": 250
+    },
+    {
+      "key": "sugar",
+      "grams": 15,
+      "note": "for the dough"
+    },
+    {
+      "key": "sugar",
+      "grams": 100,
+      "note": "for the poppyseed filling"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 14
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 40,
+      "note": "2 yolks, for the dough"
+    },
+    {
+      "key": "butter",
+      "grams": 50,
+      "note": "for the dough"
+    },
+    {
+      "key": "butter",
+      "grams": 10,
+      "note": "melted into the filling"
+    },
+    {
+      "key": "poppy-seeds",
+      "grams": 300,
+      "note": "soaked in boiling water, then drained and finely ground"
+    },
+    {
+      "key": "egg",
+      "grams": 60,
+      "note": "whites only, bind the filling"
+    },
+    {
+      "key": "honey",
+      "grams": 64,
+      "note": "in the filling"
+    },
+    {
+      "key": "raisins",
+      "grams": 150,
+      "note": "folded into the filling"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 700, "shape": "tight spiral log, sliced crosswise" },
-  "time": { "totalMin": 870, "activeMin": 45, "bulkMin": 120, "proofMin": 40, "bakeMin": 38, "overnight": true },
-  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 700,
+    "shape": "tight spiral log, sliced crosswise"
+  },
+  "time": {
+    "totalMin": 870,
+    "activeMin": 45,
+    "bulkMin": 120,
+    "proofMin": 40,
+    "bakeMin": 38,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["sweet", "nutty", "honeyed", "fruity"],
-  "purposes": ["celebration", "holiday", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Improves overnight as the filling settles; slice thin once fully cooled so the spiral holds together." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "sweet",
+    "nutty",
+    "honeyed",
+    "fruity"
+  ],
+  "purposes": [
+    "celebration",
+    "holiday",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Improves overnight as the filling settles; slice thin once fully cooled so the spiral holds together."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Soak and grind the poppy seeds", "summary": "Cover the poppy seeds in boiling water and let them soak several hours or overnight, then drain well and grind fine in a food processor or spice grinder." },
-    { "title": "Build the filling", "summary": "Stir the ground poppy seeds with sugar, honey, melted butter, egg whites and raisins into a thick, spreadable paste." },
-    { "title": "Make the dough", "summary": "Warm the milk with the dough's sugar and butter, whisk in the yeast, then mix with the egg yolks, flour and salt into a soft dough; knead until smooth." },
-    { "title": "First rise", "summary": "Cover and let the dough rise until roughly doubled, about 2 hours." },
-    { "title": "Roll and fill", "summary": "Roll the dough into a large, thin rectangle and spread the poppyseed filling edge to edge, leaving a small border." },
-    { "title": "Roll into a spiral", "summary": "Roll up tightly from the long side into a log, pinch the seam shut, and set it seam-down on a lined sheet." },
-    { "title": "Second rise and bake", "summary": "Proof for about 35-40 minutes, brush with beaten egg, and bake at 180°C for around 40 minutes until deeply browned." },
-    { "title": "Cool and glaze", "summary": "Cool completely before slicing so the swirl holds its shape, then finish with a thin powdered-sugar glaze if you like." }
+    {
+      "title": "Soak and grind the poppy seeds",
+      "summary": "Cover the poppy seeds in boiling water and let them soak several hours or overnight, then drain well and grind fine in a food processor or spice grinder."
+    },
+    {
+      "title": "Build the filling",
+      "summary": "Stir the ground poppy seeds with sugar, honey, melted butter, egg whites and raisins into a thick, spreadable paste."
+    },
+    {
+      "title": "Make the dough",
+      "summary": "Warm the milk with the dough's sugar and butter, whisk in the yeast, then mix with the egg yolks, flour and salt into a soft dough; knead until smooth."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let the dough rise until roughly doubled, about 2 hours."
+    },
+    {
+      "title": "Roll and fill",
+      "summary": "Roll the dough into a large, thin rectangle and spread the poppyseed filling edge to edge, leaving a small border."
+    },
+    {
+      "title": "Roll into a spiral",
+      "summary": "Roll up tightly from the long side into a log, pinch the seam shut, and set it seam-down on a lined sheet."
+    },
+    {
+      "title": "Second rise and bake",
+      "summary": "Proof for about 35-40 minutes, brush with beaten egg, and bake at 180°C for around 40 minutes until deeply browned."
+    },
+    {
+      "title": "Cool and glaze",
+      "summary": "Cool completely before slicing so the swirl holds its shape, then finish with a thin powdered-sugar glaze if you like."
+    }
   ],
   "source": {
     "url": "https://polishhousewife.com/makowiec-polish-poppy-seed-roll/",
@@ -73,5 +189,10 @@
     "retrieved": "2026-07-17",
     "adaptation": "sugarPct, fatPct and hydration include the filling's sugar, honey, butter and egg whites, not just the dough's own - the filling carries most of the sweetness in this rolled loaf."
   },
-  "tags": ["christmas", "easter", "poppy-seed"]
+  "tags": [
+    "christmas",
+    "easter",
+    "poppy-seed"
+  ],
+  "doughType": "dough"
 }

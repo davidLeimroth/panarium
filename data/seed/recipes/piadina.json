@@ -7,14 +7,21 @@
     "fr": "Piadina Romagnola",
     "native": "pjadèna"
   },
-  "aliases": ["piada", "pjadena"],
+  "aliases": [
+    "piada",
+    "pjadena"
+  ],
   "description": {
     "en": "A thin, lard-enriched flatbread from Romagna, griddled on a traditional terracotta testo until lightly golden and faintly blistered. Folded warm around prosciutto, squacquerone cheese and rocket, it became Italy's favorite roadside street food.",
     "de": "Ein dünnes, mit Schweineschmalz angereichertes Fladenbrot aus der Romagna, auf einer traditionellen Terrakotta-Platte gebacken, bis es leicht golden und blasig ist. Warm gefaltet um Prosciutto, Squacquerone-Käse und Rucola, wurde es zu Italiens beliebtestem Streetfood.",
     "es": "Un pan plano fino, enriquecido con manteca de cerdo, de la Romaña, cocido sobre un testo tradicional de terracota hasta quedar ligeramente dorado y ampollado. Doblado caliente con prosciutto, queso squacquerone y rúcula, se convirtió en la comida callejera favorita de Italia.",
     "fr": "Un pain plat fin, enrichi au saindoux, originaire de Romagne, cuit sur un testo traditionnel en terre cuite jusqu'à devenir légèrement doré et cloqué. Plié chaud autour de prosciutto, de fromage squacquerone et de roquette, il est devenu le street-food préféré d'Italie."
   },
-  "origin": { "country": "IT", "region": "Romagna (Emilia-Romagna)", "note": "EU-protected as a Protected Geographical Indication (PGI); popularized nationally by poet Giovanni Pascoli and as 1950s roadside street food." },
+  "origin": {
+    "country": "IT",
+    "region": "Romagna (Emilia-Romagna)",
+    "note": "EU-protected as a Protected Geographical Indication (PGI); popularized nationally by poet Giovanni Pascoli and as 1950s roadside street food."
+  },
   "leaven": "chemical",
   "family": "flatbread",
   "formula": {
@@ -22,36 +29,118 @@
     "saltPct": 1.2,
     "fatPct": 16,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "water", "grams": 220, "note": "room temperature" },
-    { "key": "lard", "grams": 80 },
-    { "key": "salt", "grams": 6 },
-    { "key": "baking-soda", "grams": 1.6 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 220,
+      "note": "room temperature"
+    },
+    {
+      "key": "lard",
+      "grams": 80
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "baking-soda",
+      "grams": 1.6
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 135, "shape": "thin round, 20-25 cm, 4-5mm thick" },
-  "time": { "totalMin": 80, "activeMin": 38, "bulkMin": 30, "proofMin": 10, "bakeMin": 24, "overnight": false },
-  "bake": { "tempC": 220, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 135,
+    "shape": "thin round, 20-25 cm, 4-5mm thick"
+  },
+  "time": {
+    "totalMin": 80,
+    "activeMin": 38,
+    "bulkMin": 30,
+    "proofMin": 10,
+    "bakeMin": 24,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "chewy",
-  "flavors": ["savory", "rich", "wheaty"],
-  "purposes": ["everyday", "sandwich", "street-food"],
-  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fresh off the griddle, folded warm around a filling; keeps a day or two wrapped and reheats well on a dry pan. Freezes raw or cooked." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix dough", "summary": "Dissolve salt and baking soda into the water, then work in the lard and flour to a smooth, firm dough." },
-    { "title": "First rest", "summary": "Cover and rest at room temperature for 30 minutes." },
-    { "title": "Divide", "summary": "Portion into 6 balls and rest a further 10 minutes." },
-    { "title": "Roll thin", "summary": "Roll each ball into a thin round, about 4-5mm thick." },
-    { "title": "Griddle", "summary": "Cook on a hot dry griddle or traditional terracotta testo, about 2 minutes per side, pricking bubbles with a fork so it stays flat." },
-    { "title": "Fold & fill", "summary": "Serve warm, folded around prosciutto, cheese and greens, or any savory filling." }
+  "flavors": [
+    "savory",
+    "rich",
+    "wheaty"
   ],
-  "source": { "url": "https://www.recipesfromitaly.com/piadina-recipe-italian-flatbread/", "site": "Recipes from Italy", "retrieved": "2026-07-17", "adaptation": "Lard version used (recipe offers oil or lard); piece weight recalculated from the full ingredient list's total dough weight, since the source's stated per-ball weight didn't match its own quantities." },
-  "tags": ["pgi", "street-food"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "street-food"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": false,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best fresh off the griddle, folded warm around a filling; keeps a day or two wrapped and reheats well on a dry pan. Freezes raw or cooked."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Dissolve salt and baking soda into the water, then work in the lard and flour to a smooth, firm dough."
+    },
+    {
+      "title": "First rest",
+      "summary": "Cover and rest at room temperature for 30 minutes."
+    },
+    {
+      "title": "Divide",
+      "summary": "Portion into 6 balls and rest a further 10 minutes."
+    },
+    {
+      "title": "Roll thin",
+      "summary": "Roll each ball into a thin round, about 4-5mm thick."
+    },
+    {
+      "title": "Griddle",
+      "summary": "Cook on a hot dry griddle or traditional terracotta testo, about 2 minutes per side, pricking bubbles with a fork so it stays flat."
+    },
+    {
+      "title": "Fold & fill",
+      "summary": "Serve warm, folded around prosciutto, cheese and greens, or any savory filling."
+    }
+  ],
+  "source": {
+    "url": "https://www.recipesfromitaly.com/piadina-recipe-italian-flatbread/",
+    "site": "Recipes from Italy",
+    "retrieved": "2026-07-17",
+    "adaptation": "Lard version used (recipe offers oil or lard); piece weight recalculated from the full ingredient list's total dough weight, since the source's stated per-ball weight didn't match its own quantities."
+  },
+  "tags": [
+    "pgi",
+    "street-food"
+  ],
+  "doughType": "stiff"
 }

@@ -6,14 +6,21 @@
     "es": "Pan de masa madre con semillas",
     "fr": "Pain au levain aux graines"
   },
-  "aliases": ["Multi-seed sourdough", "High-fiber sourdough"],
+  "aliases": [
+    "Multi-seed sourdough",
+    "High-fiber sourdough"
+  ],
   "description": {
     "en": "A hearty, fiber-rich loaf built on flax, sesame, sunflower and fennel seeds, with a touch of semolina for a shatteringly crisp crust. Toasty, nutty and substantial, it makes a whole meal of buttered toast.",
     "de": "Ein herzhaftes, ballaststoffreiches Brot auf einem Bett aus Lein-, Sesam-, Sonnenblumen- und Fenchelsamen, mit etwas Hartweizengrieß für eine herrlich knusprige Kruste. Geröstet-nussig und kräftig – schon eine Scheibe mit Butter macht satt.",
     "es": "Un pan contundente y rico en fibra, construido sobre semillas de lino, sésamo, girasol e hinojo, con un toque de sémola para una corteza extraordinariamente crujiente. Tostado, con sabor a frutos secos y sustancioso: una tostada con mantequilla ya es una comida.",
     "fr": "Un pain généreux et riche en fibres, construit sur un lit de graines de lin, sésame, tournesol et fenouil, avec une pointe de semoule pour une croûte merveilleusement croustillante. Grillé-noisetté et consistant, une tartine beurrée suffit à faire un repas."
   },
-  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "A contemporary high-fiber formula from the artisan home-baking movement." },
+  "origin": {
+    "country": "US",
+    "region": "Modern American artisan bakeries",
+    "note": "A contemporary high-fiber formula from the artisan home-baking movement."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -21,46 +28,165 @@
     "saltPct": 1.8,
     "prefermentedFlourPct": 6.7,
     "flours": [
-      { "type": "wheat-white", "pct": 74.9 },
-      { "type": "durum", "pct": 15 },
-      { "type": "wheat-whole", "pct": 10.1 }
+      {
+        "type": "wheat-white",
+        "pct": 74.9
+      },
+      {
+        "type": "durum",
+        "pct": 15
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 10.1
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 666, "note": "medium-protein bread flour" },
-    { "key": "flour:durum", "grams": 133, "note": "semolina" },
-    { "key": "flour:wheat-whole", "grams": 90 },
-    { "key": "water", "grams": 738 },
-    { "key": "sourdough-starter", "grams": 30 },
-    { "key": "salt", "grams": 16 },
-    { "key": "flax-seeds", "grams": 40, "note": "soaked" },
-    { "key": "sesame-seeds", "grams": 40, "note": "soaked" },
-    { "key": "fennel-seed", "grams": 13, "note": "soaked" },
-    { "key": "sunflower-seeds", "grams": 40, "note": "unroasted" },
-    { "key": "lemon-zest", "grams": 8, "note": "optional" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 666,
+      "note": "medium-protein bread flour"
+    },
+    {
+      "key": "flour:durum",
+      "grams": 133,
+      "note": "semolina"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 90
+    },
+    {
+      "key": "water",
+      "grams": 738
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 30
+    },
+    {
+      "key": "salt",
+      "grams": 16
+    },
+    {
+      "key": "flax-seeds",
+      "grams": 40,
+      "note": "soaked"
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 40,
+      "note": "soaked"
+    },
+    {
+      "key": "fennel-seed",
+      "grams": 13,
+      "note": "soaked"
+    },
+    {
+      "key": "sunflower-seeds",
+      "grams": 40,
+      "note": "unroasted"
+    },
+    {
+      "key": "lemon-zest",
+      "grams": 8,
+      "note": "optional"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 900, "shape": "boule or bâtard" },
-  "time": { "totalMin": 1585, "activeMin": 45, "bulkMin": 210, "proofMin": 880, "bakeMin": 55, "overnight": true },
-  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 900,
+    "shape": "boule or bâtard"
+  },
+  "time": {
+    "totalMin": 1585,
+    "activeMin": 45,
+    "bulkMin": 210,
+    "proofMin": 880,
+    "bakeMin": 55,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["nutty", "toasty", "wheaty"],
-  "purposes": ["everyday", "breakfast", "toast", "sandwich"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 10 },
-  "keeping": { "freshDays": 4, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Build the levain and soak seeds", "summary": "Mix a small levain of bread and whole wheat flour, starter and water; ripen about 5 hours. Meanwhile soak flax, sesame and fennel seeds in hot water." },
-    { "title": "Autolyse", "summary": "Combine the bread flour, semolina, whole wheat flour and water; rest 1 hour." },
-    { "title": "Mix", "summary": "Slap-and-fold the autolysed dough with the ripe levain and salt for a few minutes." },
-    { "title": "Bulk ferment", "summary": "Over about 3.5 hours, give four stretch-and-fold sets 30 minutes apart, working in the drained seed soaker, raw sunflower seeds and lemon zest during the first set." },
-    { "title": "Shape and coat", "summary": "Divide, preshape, rest 30 minutes, then shape into a boule or bâtard and roll the surface in the reserved seed mix." },
-    { "title": "Cold proof", "summary": "Proof seam-side-up in the refrigerator overnight, about 14-15 hours." },
-    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden." },
-    { "title": "Cool", "summary": "Rest at least an hour before slicing." }
+  "flavors": [
+    "nutty",
+    "toasty",
+    "wheaty"
   ],
-  "source": { "url": "https://www.theperfectloaf.com/seeded-sourdough/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17" },
-  "tags": ["seeded", "high-fiber"]
+  "purposes": [
+    "everyday",
+    "breakfast",
+    "toast",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 10
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build the levain and soak seeds",
+      "summary": "Mix a small levain of bread and whole wheat flour, starter and water; ripen about 5 hours. Meanwhile soak flax, sesame and fennel seeds in hot water."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Combine the bread flour, semolina, whole wheat flour and water; rest 1 hour."
+    },
+    {
+      "title": "Mix",
+      "summary": "Slap-and-fold the autolysed dough with the ripe levain and salt for a few minutes."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Over about 3.5 hours, give four stretch-and-fold sets 30 minutes apart, working in the drained seed soaker, raw sunflower seeds and lemon zest during the first set."
+    },
+    {
+      "title": "Shape and coat",
+      "summary": "Divide, preshape, rest 30 minutes, then shape into a boule or bâtard and roll the surface in the reserved seed mix."
+    },
+    {
+      "title": "Cold proof",
+      "summary": "Proof seam-side-up in the refrigerator overnight, about 14-15 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest at least an hour before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.theperfectloaf.com/seeded-sourdough/",
+    "site": "The Perfect Loaf",
+    "author": "Maurizio Leo",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "seeded",
+    "high-fiber"
+  ],
+  "doughType": "dough"
 }

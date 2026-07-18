@@ -23,34 +23,110 @@
     "hydrationPct": 85,
     "saltPct": 2,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 400, "note": "strong bread flour" },
-    { "key": "water", "grams": 340 },
-    { "key": "salt", "grams": 8 },
-    { "key": "instant-yeast", "grams": 3 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 400,
+      "note": "strong bread flour"
+    },
+    {
+      "key": "water",
+      "grams": 340
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 188, "shape": "thin, glass-like rectangle, irregularly cut" },
-  "time": { "totalMin": 750, "activeMin": 30, "bulkMin": 300, "proofMin": 30, "bakeMin": 28, "overnight": true },
-  "bake": { "tempC": 240, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 188,
+    "shape": "thin, glass-like rectangle, irregularly cut"
+  },
+  "time": {
+    "totalMin": 750,
+    "activeMin": 30,
+    "bulkMin": 300,
+    "proofMin": 30,
+    "bakeMin": 28,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 240,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 4,
   "crumb": "open",
   "crust": "crisp",
-  "flavors": ["mild", "wheaty", "yeasty"],
-  "purposes": ["side", "table", "snack"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 0.5, "freezes": true, "note": "The paper-thin crust means it's at its peak within hours of baking and doesn't keep like a denser loaf, though it freezes and retoasts nicely." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Mix a very wet dough", "summary": "Combine flour, water, salt and yeast; the result looks more like a thick batter than a bread dough. Rest 10 minutes." },
-    { "title": "Build strength with folds", "summary": "Stretch and fold the dough in the bowl every 30 minutes for about 2 hours, alternating direction each time." },
-    { "title": "Bulk ferment", "summary": "Let it rise until doubled, either at room temperature or slowly overnight in the refrigerator for deeper flavor." },
-    { "title": "Divide without degassing", "summary": "Tip onto a heavily floured surface and cut into rough rectangles, handling the dough as little as possible to protect the bubbles." },
-    { "title": "Bake hot with steam", "summary": "Bake at 240°C with a pan of water in the oven for the first few minutes, 25-30 minutes total, until completely dried out and deeply crackled." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "yeasty"
   ],
-  "source": { "url": "https://invitadoinvierno.com/pan-cristal/", "site": "El Invitado de Invierno", "retrieved": "2026-07-17", "adaptation": "Grams as published; total elapsed time reflects the site's overnight cold-fermentation option, which most bakers use for better flavor and an easier schedule." },
-  "tags": ["high-hydration", "tapas"]
+  "purposes": [
+    "side",
+    "table",
+    "snack"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 0.5,
+    "freezes": true,
+    "note": "The paper-thin crust means it's at its peak within hours of baking and doesn't keep like a denser loaf, though it freezes and retoasts nicely."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Mix a very wet dough",
+      "summary": "Combine flour, water, salt and yeast; the result looks more like a thick batter than a bread dough. Rest 10 minutes."
+    },
+    {
+      "title": "Build strength with folds",
+      "summary": "Stretch and fold the dough in the bowl every 30 minutes for about 2 hours, alternating direction each time."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let it rise until doubled, either at room temperature or slowly overnight in the refrigerator for deeper flavor."
+    },
+    {
+      "title": "Divide without degassing",
+      "summary": "Tip onto a heavily floured surface and cut into rough rectangles, handling the dough as little as possible to protect the bubbles."
+    },
+    {
+      "title": "Bake hot with steam",
+      "summary": "Bake at 240°C with a pan of water in the oven for the first few minutes, 25-30 minutes total, until completely dried out and deeply crackled."
+    }
+  ],
+  "source": {
+    "url": "https://invitadoinvierno.com/pan-cristal/",
+    "site": "El Invitado de Invierno",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams as published; total elapsed time reflects the site's overnight cold-fermentation option, which most bakers use for better flavor and an easier schedule."
+  },
+  "tags": [
+    "high-hydration",
+    "tapas"
+  ],
+  "doughType": "dough"
 }

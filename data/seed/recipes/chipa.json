@@ -6,7 +6,10 @@
     "es": "Chipa",
     "fr": "Chipa (pain au fromage paraguayen au manioc)"
   },
-  "aliases": ["chipa paraguaya", "rosquitas de chipa"],
+  "aliases": [
+    "chipa paraguaya",
+    "rosquitas de chipa"
+  ],
   "description": {
     "en": "Paraguay's gluten-free cheese bread: cassava starch, egg and plenty of cheese worked into a dough and shaped into small rings. Firmer and less stretchy than Brazil's pao de queijo, often lifted with a note of anise.",
     "de": "Paraguays glutenfreies Käsebrot: Maniokstärke, Ei und reichlich Käse werden zu einem Teig verarbeitet und zu kleinen Ringen geformt. Fester und weniger dehnbar als Brasiliens Pão de Queijo, oft mit einer Note Anis verfeinert.",
@@ -15,7 +18,7 @@
   },
   "origin": {
     "country": "PY",
-    "region": "Paraguay, nationwide (also northern Argentina)",
+    "region": "nationwide (also northern Argentina)",
     "note": "Distinct from Brazil's pao de queijo: firmer, less stretchy, shaped into rings rather than small balls, and often flavored with anise. A year-round snack, especially popular around Easter."
   },
   "leaven": "chemical",
@@ -25,39 +28,133 @@
     "saltPct": 1.25,
     "fatPct": 14,
     "flours": [
-      { "type": "cassava", "pct": 100 }
+      {
+        "type": "cassava",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:cassava", "grams": 400, "note": "cassava/tapioca starch" },
-    { "key": "cheese", "grams": 300, "note": "grated mozzarella" },
-    { "key": "egg", "grams": 150, "note": "3 large eggs" },
-    { "key": "vegetable-oil", "grams": 55, "note": "or butter/lard" },
-    { "key": "milk", "grams": 120 },
-    { "key": "baking-powder", "grams": 5 },
-    { "key": "salt", "grams": 5 },
-    { "key": "anise", "grams": 1, "note": "optional, whole seeds" }
+    {
+      "key": "flour:cassava",
+      "grams": 400,
+      "note": "cassava/tapioca starch"
+    },
+    {
+      "key": "cheese",
+      "grams": 300,
+      "note": "grated mozzarella"
+    },
+    {
+      "key": "egg",
+      "grams": 150,
+      "note": "3 large eggs"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 55,
+      "note": "or butter/lard"
+    },
+    {
+      "key": "milk",
+      "grams": 120
+    },
+    {
+      "key": "baking-powder",
+      "grams": 5
+    },
+    {
+      "key": "salt",
+      "grams": 5
+    },
+    {
+      "key": "anise",
+      "grams": 1,
+      "note": "optional, whole seeds"
+    }
   ],
-  "yield": { "count": 20, "pieceGrams": 43, "shape": "small rings (rosquitas), rolled and joined into a loop" },
-  "time": { "totalMin": 50, "activeMin": 20, "bakeMin": 18, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 20,
+    "pieceGrams": 43,
+    "shape": "small rings (rosquitas), rolled and joined into a loop"
+  },
+  "time": {
+    "totalMin": 50,
+    "activeMin": 20,
+    "bakeMin": 18,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["cheesy", "savory", "toasty", "mild"],
-  "purposes": ["snack", "breakfast", "holiday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": false, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best eaten warm the day it's baked while the cheesy chew is at its peak; reheats acceptably from frozen." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix wet", "summary": "Whisk the eggs, oil and milk together." },
-    { "title": "Add starch", "summary": "Whisk in half the cassava starch with the baking powder until smooth." },
-    { "title": "Finish dough", "summary": "Work in the remaining starch, the grated cheese, salt and anise seeds until a pliable dough forms." },
-    { "title": "Shape rings", "summary": "Divide into small portions, roll each into a short strip, and join the ends into a ring." },
-    { "title": "Space & bake", "summary": "Arrange the rings on a lined tray with space between them and bake until golden, 15-20 minutes." },
-    { "title": "Serve warm", "summary": "Eat warm as a snack, alongside coffee or cocido." }
+  "flavors": [
+    "cheesy",
+    "savory",
+    "toasty",
+    "mild"
   ],
-  "source": { "url": "https://www.laylita.com/recipes/paraguayan-chipa-cheese-bread/", "site": "Laylita's Recipes", "retrieved": "2026-07-18", "adaptation": "Source's vague 'pinch' of salt standardized to a small defined baker's percentage, reflecting that the cheese itself supplies much of the seasoning." },
-  "tags": ["paraguay", "gluten-free"]
+  "purposes": [
+    "snack",
+    "breakfast",
+    "holiday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": false,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best eaten warm the day it's baked while the cheesy chew is at its peak; reheats acceptably from frozen."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix wet",
+      "summary": "Whisk the eggs, oil and milk together."
+    },
+    {
+      "title": "Add starch",
+      "summary": "Whisk in half the cassava starch with the baking powder until smooth."
+    },
+    {
+      "title": "Finish dough",
+      "summary": "Work in the remaining starch, the grated cheese, salt and anise seeds until a pliable dough forms."
+    },
+    {
+      "title": "Shape rings",
+      "summary": "Divide into small portions, roll each into a short strip, and join the ends into a ring."
+    },
+    {
+      "title": "Space & bake",
+      "summary": "Arrange the rings on a lined tray with space between them and bake until golden, 15-20 minutes."
+    },
+    {
+      "title": "Serve warm",
+      "summary": "Eat warm as a snack, alongside coffee or cocido."
+    }
+  ],
+  "source": {
+    "url": "https://www.laylita.com/recipes/paraguayan-chipa-cheese-bread/",
+    "site": "Laylita's Recipes",
+    "retrieved": "2026-07-18",
+    "adaptation": "Source's vague 'pinch' of salt standardized to a small defined baker's percentage, reflecting that the cheese itself supplies much of the seasoning."
+  },
+  "tags": [
+    "paraguay",
+    "gluten-free"
+  ],
+  "doughType": "dough"
 }

@@ -6,7 +6,10 @@
     "es": "Pan de pepitas de calabaza de Estiria",
     "fr": "Pain aux graines de courge de Styrie"
   },
-  "aliases": ["Kürbiskernbrot", "Steirer"],
+  "aliases": [
+    "Kürbiskernbrot",
+    "Steirer"
+  ],
   "description": {
     "en": "A Styrian farmhouse loaf built on a scalded pumpkin-seed soaker, a short rye sourdough and a dash of the region's dark green pumpkin seed oil. Rolled in seeds before baking, it slices moist and nutty, equally good under ham or soft cheese.",
     "de": "Ein steirisches Bauernbrot aus einem gebrühten Kürbiskernstück, kurzem Roggensauerteig und einem Schuss dunkelgrünem Kürbiskernöl. Vor dem Backen in Kernen gewälzt, schmeckt es saftig-nussig – ideal zu Speck oder würzigem Käse.",
@@ -26,45 +29,167 @@
     "fatPct": 5.3,
     "prefermentedFlourPct": 21.1,
     "flours": [
-      { "type": "spelt-whole", "pct": 17.5 },
-      { "type": "rye", "pct": 21.1 },
-      { "type": "wheat-white", "pct": 61.4 }
+      {
+        "type": "spelt-whole",
+        "pct": 17.5
+      },
+      {
+        "type": "rye",
+        "pct": 21.1
+      },
+      {
+        "type": "wheat-white",
+        "pct": 61.4
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:spelt-whole", "grams": 100, "note": "Dinkelvollkornmehl, scalded into the soaker" },
-    { "key": "flour:rye", "grams": 120, "note": "dark rye, Type 1150, for the sourdough" },
-    { "key": "flour:wheat-white", "grams": 350, "note": "Halbweißmehl, Type 720" },
-    { "key": "water", "grams": 670, "note": "550g boiling, scalded over the soaker; 120g in the sourdough build" },
-    { "key": "sourdough-starter", "grams": 10, "note": "active culture to build the rye sourdough" },
-    { "key": "salt", "grams": 12 },
-    { "key": "fresh-yeast", "grams": 7 },
-    { "key": "pumpkin-seeds", "grams": 170, "note": "roasted, for the soaker and rolling" },
-    { "label": { "en": "pumpkin seed oil", "de": "Kürbiskernöl", "es": "aceite de semillas de calabaza", "fr": "huile de pépins de courge" }, "grams": 30 },
-    { "key": "cheese", "grams": 60, "note": "Speisequark, fresh curd cheese" }
+    {
+      "key": "flour:spelt-whole",
+      "grams": 100,
+      "note": "Dinkelvollkornmehl, scalded into the soaker"
+    },
+    {
+      "key": "flour:rye",
+      "grams": 120,
+      "note": "dark rye, Type 1150, for the sourdough"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 350,
+      "note": "Halbweißmehl, Type 720"
+    },
+    {
+      "key": "water",
+      "grams": 670,
+      "note": "550g boiling, scalded over the soaker; 120g in the sourdough build"
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 10,
+      "note": "active culture to build the rye sourdough"
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 7
+    },
+    {
+      "key": "pumpkin-seeds",
+      "grams": 170,
+      "note": "roasted, for the soaker and rolling"
+    },
+    {
+      "label": {
+        "en": "pumpkin seed oil",
+        "de": "Kürbiskernöl",
+        "es": "aceite de semillas de calabaza",
+        "fr": "huile de pépins de courge"
+      },
+      "grams": 30
+    },
+    {
+      "key": "cheese",
+      "grams": 60,
+      "note": "Speisequark, fresh curd cheese"
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 382, "shape": "small tins, 22x9x6cm, rolled in pumpkin seeds" },
-  "time": { "totalMin": 1440, "activeMin": 30, "bulkMin": 90, "proofMin": 50, "bakeMin": 30, "overnight": true },
-  "bake": { "tempC": 230, "steam": true, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 382,
+    "shape": "small tins, 22x9x6cm, rolled in pumpkin seeds"
+  },
+  "time": {
+    "totalMin": 1440,
+    "activeMin": 30,
+    "bulkMin": 90,
+    "proofMin": 50,
+    "bakeMin": 30,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["nutty", "earthy", "tangy", "savory"],
-  "purposes": ["everyday", "sandwich", "table"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 17.5 },
-  "keeping": { "freshDays": 3.5, "freezes": true, "note": "Keeps 3-4 days in a cloth bag or breadbox; freezes well for up to two months." },
-  "equipment": ["loaf-pan", "stand-mixer"],
-  "method": [
-    { "title": "Scald the soaker", "summary": "Pour boiling water over spelt wholemeal flour and roasted pumpkin seeds, stir well, cover and rest overnight." },
-    { "title": "Build the rye sourdough", "summary": "Combine dark rye flour, water and a little active culture; ferment covered at room temperature 8-12 hours." },
-    { "title": "Mix the dough", "summary": "Combine the soaker, the sourdough, the white flour, pumpkin seed oil, fresh yeast, salt and curd cheese; mix briefly then knead until smooth, about 8 minutes." },
-    { "title": "Bulk ferment", "summary": "Let the dough rise about 90 minutes, folding once partway through with wet hands." },
-    { "title": "Divide and shape", "summary": "Divide into four pieces, roll each in pumpkin seeds, shape into short loaves and settle into greased tins." },
-    { "title": "Final proof", "summary": "Cover and let rise 45-60 minutes until domed." },
-    { "title": "Bake", "summary": "Bake with steam at high heat, then vent and finish at a lower temperature until deeply colored, about 30 minutes total." },
-    { "title": "Cool", "summary": "Unmold immediately and cool on a rack before slicing." }
+  "flavors": [
+    "nutty",
+    "earthy",
+    "tangy",
+    "savory"
   ],
-  "source": { "url": "https://www.marcelpaa.com/rezepte/steirisches-kuerbiskernbrot/", "site": "Marcel Paa - Einfach Backen", "retrieved": "2026-07-17", "adaptation": "Method paraphrased; ingredient grams kept at the source's stated 4-loaf batch size rather than scaled to a single loaf." },
-  "tags": ["steiermark", "seeded"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 17.5
+  },
+  "keeping": {
+    "freshDays": 3.5,
+    "freezes": true,
+    "note": "Keeps 3-4 days in a cloth bag or breadbox; freezes well for up to two months."
+  },
+  "equipment": [
+    "loaf-pan",
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Scald the soaker",
+      "summary": "Pour boiling water over spelt wholemeal flour and roasted pumpkin seeds, stir well, cover and rest overnight."
+    },
+    {
+      "title": "Build the rye sourdough",
+      "summary": "Combine dark rye flour, water and a little active culture; ferment covered at room temperature 8-12 hours."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the soaker, the sourdough, the white flour, pumpkin seed oil, fresh yeast, salt and curd cheese; mix briefly then knead until smooth, about 8 minutes."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let the dough rise about 90 minutes, folding once partway through with wet hands."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Divide into four pieces, roll each in pumpkin seeds, shape into short loaves and settle into greased tins."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Cover and let rise 45-60 minutes until domed."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake with steam at high heat, then vent and finish at a lower temperature until deeply colored, about 30 minutes total."
+    },
+    {
+      "title": "Cool",
+      "summary": "Unmold immediately and cool on a rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.marcelpaa.com/rezepte/steirisches-kuerbiskernbrot/",
+    "site": "Marcel Paa - Einfach Backen",
+    "retrieved": "2026-07-17",
+    "adaptation": "Method paraphrased; ingredient grams kept at the source's stated 4-loaf batch size rather than scaled to a single loaf."
+  },
+  "tags": [
+    "steiermark",
+    "seeded"
+  ],
+  "doughType": "dough"
 }

@@ -6,7 +6,10 @@
     "es": "Pan sobao",
     "fr": "Pan sobao (pain tendre de Porto Rico)"
   },
-  "aliases": ["pan de manteca", "Puerto Rican bread"],
+  "aliases": [
+    "pan de manteca",
+    "Puerto Rican bread"
+  ],
   "description": {
     "en": "Puerto Rico's soft, everyday bakery bread: a lard-enriched log with a shiny, faintly sticky crust and a soft, cloud-like interior. The name means 'kneaded bread', for the long, intensive kneading behind its texture.",
     "de": "Puerto Ricos weiches Alltagsbrot aus der Bäckerei: ein mit Schweineschmalz angereichertes Brot mit glänzender, leicht klebriger Kruste und weichem, wolkigem Inneren. Der Name bedeutet 'geknetetes Brot', nach dem langen, intensiven Kneten hinter seiner Textur.",
@@ -15,7 +18,7 @@
   },
   "origin": {
     "country": "PR",
-    "region": "Puerto Rico, island-wide",
+    "region": "island-wide",
     "note": "Named 'sobao' (kneaded) for its intensively worked dough; also called pan de manteca for its traditional lard, a staple of the neighborhood panadería."
   },
   "leaven": "yeast",
@@ -27,41 +30,147 @@
     "fatPct": 7.7,
     "prefermentedFlourPct": 2.4,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 16, "note": "poolish" },
-    { "key": "water", "grams": 30, "note": "poolish" },
-    { "key": "active-dry-yeast", "grams": 0.5, "note": "poolish" },
-    { "key": "water", "grams": 350, "note": "main dough, divided for blooming yeast and mixing" },
-    { "key": "sugar", "grams": 37 },
-    { "key": "active-dry-yeast", "grams": 15, "note": "2 packages, main dough" },
-    { "key": "lard", "grams": 51, "note": "or shortening" },
-    { "key": "flour:wheat-white", "grams": 648, "note": "main dough" },
-    { "key": "salt", "grams": 8 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 16,
+      "note": "poolish"
+    },
+    {
+      "key": "water",
+      "grams": 30,
+      "note": "poolish"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 0.5,
+      "note": "poolish"
+    },
+    {
+      "key": "water",
+      "grams": 350,
+      "note": "main dough, divided for blooming yeast and mixing"
+    },
+    {
+      "key": "sugar",
+      "grams": 37
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 15,
+      "note": "2 packages, main dough"
+    },
+    {
+      "key": "lard",
+      "grams": 51,
+      "note": "or shortening"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 648,
+      "note": "main dough"
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 525, "shape": "two 12-inch logs" },
-  "time": { "totalMin": 1380, "activeMin": 40, "bulkMin": 60, "proofMin": 45, "bakeMin": 17, "overnight": true },
-  "bake": { "tempC": 204, "steam": true, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 525,
+    "shape": "two 12-inch logs"
+  },
+  "time": {
+    "totalMin": 1380,
+    "activeMin": 40,
+    "bulkMin": 60,
+    "proofMin": 45,
+    "bakeMin": 17,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 204,
+    "steam": true,
+    "vessel": "sheet"
+  },
   "difficulty": 4,
   "crumb": "open",
   "crust": "soft",
-  "flavors": ["mild", "sweet", "savory", "wheaty"],
-  "purposes": ["everyday", "sandwich", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Stays soft longer than a crusty hearth loaf thanks to the lard; great for sandwiches for a couple of days." },
-  "equipment": ["stand-mixer", "sheet-pan", "skillet"],
-  "method": [
-    { "title": "Build the poolish", "summary": "Stir flour, water and a pinch of yeast together, ferment at room temperature about 8 hours, then refrigerate until the next day." },
-    { "title": "Bloom yeast", "summary": "Let the poolish come to room temperature, then bloom the remaining yeast in warm water with the sugar." },
-    { "title": "Mix dough", "summary": "Beat in the lard and poolish, then gradually mix in the flour and salt to a soft dough." },
-    { "title": "Knead & rise", "summary": "Knead about 10 minutes until smooth, then let rise in an oiled bowl until doubled, about an hour." },
-    { "title": "Shape", "summary": "Punch down, divide in two, and roll each half by hand into a 12-inch log." },
-    { "title": "Final proof", "summary": "Proof on a lined sheet pan until doubled, 30-60 minutes." },
-    { "title": "Bake with steam", "summary": "Bake in a hot oven with a pan of ice for a burst of steam, until golden and hollow-sounding, 15-20 minutes." }
+  "flavors": [
+    "mild",
+    "sweet",
+    "savory",
+    "wheaty"
   ],
-  "source": { "url": "https://senseandedibility.com/pan-sobao-puerto-rican-bread/", "site": "Sense & Edibility", "retrieved": "2026-07-18", "adaptation": "Flour and water ranges given as midpoints. Poolish refrigeration time shortened from the source's stated maximum of 24 hours to a more typical overnight rest for the total-time estimate." },
-  "tags": ["puerto-rico", "panaderia"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": false,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Stays soft longer than a crusty hearth loaf thanks to the lard; great for sandwiches for a couple of days."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan",
+    "skillet"
+  ],
+  "method": [
+    {
+      "title": "Build the poolish",
+      "summary": "Stir flour, water and a pinch of yeast together, ferment at room temperature about 8 hours, then refrigerate until the next day."
+    },
+    {
+      "title": "Bloom yeast",
+      "summary": "Let the poolish come to room temperature, then bloom the remaining yeast in warm water with the sugar."
+    },
+    {
+      "title": "Mix dough",
+      "summary": "Beat in the lard and poolish, then gradually mix in the flour and salt to a soft dough."
+    },
+    {
+      "title": "Knead & rise",
+      "summary": "Knead about 10 minutes until smooth, then let rise in an oiled bowl until doubled, about an hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Punch down, divide in two, and roll each half by hand into a 12-inch log."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Proof on a lined sheet pan until doubled, 30-60 minutes."
+    },
+    {
+      "title": "Bake with steam",
+      "summary": "Bake in a hot oven with a pan of ice for a burst of steam, until golden and hollow-sounding, 15-20 minutes."
+    }
+  ],
+  "source": {
+    "url": "https://senseandedibility.com/pan-sobao-puerto-rican-bread/",
+    "site": "Sense & Edibility",
+    "retrieved": "2026-07-18",
+    "adaptation": "Flour and water ranges given as midpoints. Poolish refrigeration time shortened from the source's stated maximum of 24 hours to a more typical overnight rest for the total-time estimate."
+  },
+  "tags": [
+    "puerto-rico",
+    "panaderia"
+  ],
+  "doughType": "dough"
 }

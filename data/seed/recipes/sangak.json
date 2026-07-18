@@ -7,14 +7,20 @@
     "fr": "Sangak (Pain persan aux pierres)",
     "native": "سنگک"
   },
-  "aliases": ["naan-e sangak"],
+  "aliases": [
+    "naan-e sangak"
+  ],
   "description": {
     "en": "Iran's whole-wheat sourdough flatbread, stretched into a long sheet and baked directly on hot river stones until deeply dimpled and blistered. Torn into pieces at breakfast bakeries and eaten still steaming.",
     "de": "Irans Sauerteig-Fladenbrot aus Vollkornweizen, zu einer langen Bahn gezogen und direkt auf heißen Flusssteinen gebacken, bis es tief genarbt und blasig ist. Wird in Frühstücksbäckereien in Stücke gerissen und noch dampfend gegessen.",
     "es": "El pan plano de masa madre integral de Irán, estirado en una larga lámina y horneado directamente sobre piedras de río calientes hasta quedar profundamente marcado y ampollado. Se arranca en las panaderías matutinas y se come aún humeante.",
     "fr": "Le pain plat au levain de blé complet de l'Iran, étiré en une longue feuille et cuit directement sur des galets de rivière brûlants jusqu'à devenir profondément creusé et cloqué. On le déchire dans les boulangeries du matin, encore fumant."
   },
-  "origin": { "country": "IR", "region": "Iran (nationwide, especially Tehran bakeries)", "note": "The name means 'little stone' in Farsi, from the river-pebble baking surface; widely regarded as Iran's national bread." },
+  "origin": {
+    "country": "IR",
+    "region": "Iran (nationwide, especially Tehran bakeries)",
+    "note": "The name means 'little stone' in Farsi, from the river-pebble baking surface; widely regarded as Iran's national bread."
+  },
   "leaven": "sourdough",
   "family": "flatbread",
   "formula": {
@@ -24,41 +30,141 @@
     "fatPct": 6.3,
     "prefermentedFlourPct": 21,
     "flours": [
-      { "type": "wheat-whole", "pct": 60 },
-      { "type": "wheat-white", "pct": 40 }
+      {
+        "type": "wheat-whole",
+        "pct": 60
+      },
+      {
+        "type": "wheat-white",
+        "pct": 40
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 130 },
-    { "key": "flour:wheat-white", "grams": 40 },
-    { "key": "sourdough-starter", "grams": 90, "note": "active starter, assumed ~100% hydration" },
-    { "key": "water", "grams": 118 },
-    { "key": "honey", "grams": 4 },
-    { "key": "salt", "grams": 3 },
-    { "key": "olive-oil", "grams": 14, "note": "for kneading in and for oiling hands to dimple" },
-    { "key": "sesame-seeds", "grams": 10, "note": "pressed into the dimples before baking" }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 130
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 40
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 90,
+      "note": "active starter, assumed ~100% hydration"
+    },
+    {
+      "key": "water",
+      "grams": 118
+    },
+    {
+      "key": "honey",
+      "grams": 4
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "key": "olive-oil",
+      "grams": 14,
+      "note": "for kneading in and for oiling hands to dimple"
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 10,
+      "note": "pressed into the dimples before baking"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 409, "shape": "long thin dimpled sheet (traditionally up to 1 m)" },
-  "time": { "totalMin": 215, "activeMin": 30, "bulkMin": 180, "proofMin": 30, "bakeMin": 8, "overnight": false },
-  "bake": { "tempC": 260, "steam": false, "vessel": "stone" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 409,
+    "shape": "long thin dimpled sheet (traditionally up to 1 m)"
+  },
+  "time": {
+    "totalMin": 215,
+    "activeMin": 30,
+    "bulkMin": 180,
+    "proofMin": 30,
+    "bakeMin": 8,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 260,
+    "steam": false,
+    "vessel": "stone"
+  },
   "difficulty": 4,
   "crumb": "open",
   "crust": "blistered",
-  "flavors": ["nutty", "earthy", "tangy", "wheaty"],
-  "purposes": ["everyday", "street-food", "breakfast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 60 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best the day it's baked, still warm; store airtight to slow staling, and freeze for longer keeping." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Build the dough", "summary": "Mix active sourdough starter with the whole wheat and white flours, water, honey and salt into a shaggy dough; rest 1 hour." },
-    { "title": "Stretch & fold", "summary": "Fold the dough over itself every 30 minutes, four times, to build strength without hard kneading." },
-    { "title": "Bulk ferment", "summary": "Let it continue fermenting through the folds, roughly 2-3 hours total, until airy and extensible." },
-    { "title": "Rest before shaping", "summary": "Give the dough a final rest of at least 30 minutes." },
-    { "title": "Stretch into a sheet", "summary": "Oil your hands and stretch the dough into a long, thin sheet on a floured peel or tray." },
-    { "title": "Dimple & seed", "summary": "Press fingers repeatedly into the surface to create the signature dimples, then scatter sesame seeds over the top." },
-    { "title": "Stone-bake", "summary": "Slide onto a screaming-hot baking stone (or heated pebbles) and bake 6-9 minutes until deeply blistered and browned." }
+  "flavors": [
+    "nutty",
+    "earthy",
+    "tangy",
+    "wheaty"
   ],
-  "source": { "url": "https://www.proportionalplate.com/sangak/", "site": "Proportional Plate", "retrieved": "2026-07-17", "adaptation": "Hydration and preferment % recalculated to include the starter's own flour and water, per baker's-percentage convention; starter assumed ~100% hydration since the source didn't specify." },
-  "tags": ["sourdough", "stone-baked"]
+  "purposes": [
+    "everyday",
+    "street-food",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 60
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best the day it's baked, still warm; store airtight to slow staling, and freeze for longer keeping."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build the dough",
+      "summary": "Mix active sourdough starter with the whole wheat and white flours, water, honey and salt into a shaggy dough; rest 1 hour."
+    },
+    {
+      "title": "Stretch & fold",
+      "summary": "Fold the dough over itself every 30 minutes, four times, to build strength without hard kneading."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let it continue fermenting through the folds, roughly 2-3 hours total, until airy and extensible."
+    },
+    {
+      "title": "Rest before shaping",
+      "summary": "Give the dough a final rest of at least 30 minutes."
+    },
+    {
+      "title": "Stretch into a sheet",
+      "summary": "Oil your hands and stretch the dough into a long, thin sheet on a floured peel or tray."
+    },
+    {
+      "title": "Dimple & seed",
+      "summary": "Press fingers repeatedly into the surface to create the signature dimples, then scatter sesame seeds over the top."
+    },
+    {
+      "title": "Stone-bake",
+      "summary": "Slide onto a screaming-hot baking stone (or heated pebbles) and bake 6-9 minutes until deeply blistered and browned."
+    }
+  ],
+  "source": {
+    "url": "https://www.proportionalplate.com/sangak/",
+    "site": "Proportional Plate",
+    "retrieved": "2026-07-17",
+    "adaptation": "Hydration and preferment % recalculated to include the starter's own flour and water, per baker's-percentage convention; starter assumed ~100% hydration since the source didn't specify."
+  },
+  "tags": [
+    "sourdough",
+    "stone-baked"
+  ],
+  "doughType": "dough"
 }

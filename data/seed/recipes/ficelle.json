@@ -7,14 +7,20 @@
     "fr": "Ficelle",
     "native": "Ficelle"
   },
-  "aliases": ["baguette ficelle"],
+  "aliases": [
+    "baguette ficelle"
+  ],
   "description": {
     "en": "A baguette pulled thin, literally 'string', about half the weight of a regular baguette and baked fast. Mostly crackling crust with just a thread of crumb, it's the bread-basket favorite for a reason.",
     "de": "Ein Baguette, dünn ausgezogen, wörtlich 'Schnur', etwa halb so schwer wie ein normales Baguette und schnell gebacken. Fast nur krachende Kruste mit nur einem Hauch Krume; nicht ohne Grund der Liebling im Brotkorb.",
     "es": "Una baguette estirada muy fina, literalmente 'cordel', de casi la mitad del peso de una baguette normal y horneada rápido. Casi toda corteza crujiente con apenas un hilo de miga; no en vano la favorita del cesto de pan.",
     "fr": "Une baguette étirée très fine, littéralement une 'ficelle', pesant environ moitié moins qu'une baguette classique et cuite rapidement. Presque toute en croûte craquante avec un simple fil de mie, c'est la reine de la panière."
   },
-  "origin": { "country": "FR", "region": "national", "note": "A thinner sibling of the baguette, valued for its extra-high crust-to-crumb ratio and quick bake." },
+  "origin": {
+    "country": "FR",
+    "region": "national",
+    "note": "A thinner sibling of the baguette, valued for its extra-high crust-to-crumb ratio and quick bake."
+  },
   "leaven": "yeast",
   "family": "baguette",
   "formula": {
@@ -22,35 +28,114 @@
     "saltPct": 2,
     "yeastPct": 1,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "water", "grams": 325 },
-    { "key": "salt", "grams": 10 },
-    { "key": "instant-yeast", "grams": 5 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 325
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 5
+    }
   ],
-  "yield": { "count": 5, "pieceGrams": 120, "shape": "very thin stick" },
-  "time": { "totalMin": 280, "activeMin": 30, "bulkMin": 180, "proofMin": 60, "bakeMin": 15, "overnight": false },
-  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 5,
+    "pieceGrams": 120,
+    "shape": "very thin stick"
+  },
+  "time": {
+    "totalMin": 280,
+    "activeMin": 30,
+    "bulkMin": 180,
+    "proofMin": 60,
+    "bakeMin": 15,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 2,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["wheaty", "yeasty", "mild"],
-  "purposes": ["snack", "everyday", "side"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 0.5, "freezes": true, "note": "Even faster to stale than a baguette given how thin it is; a classic same-day, bistro bread-basket loaf." },
-  "equipment": ["baking-stone", "couche"],
-  "method": [
-    { "title": "Bloom", "summary": "Dissolve the yeast in the water, then mix in the flour and salt to a smooth dough." },
-    { "title": "First rise", "summary": "Bulk ferment about 90 minutes." },
-    { "title": "Second rise", "summary": "Degas and let rise again to build more flavor and structure." },
-    { "title": "Shape", "summary": "Divide into small pieces and roll each into a very thin, long stick, noticeably thinner than a baguette." },
-    { "title": "Proof", "summary": "Rest under a cloth about an hour." },
-    { "title": "Bake", "summary": "Score lightly and bake hot with steam for a short time until deeply crackled." }
+  "flavors": [
+    "wheaty",
+    "yeasty",
+    "mild"
   ],
-  "source": { "url": "https://www.votrepain.com/pain-ficelle-c-est-une-baguette-toute-simple-et-merveilleuse.html", "site": "VotrePain", "retrieved": "2026-07-17", "adaptation": "Source's volumetric measures were imprecise; hydration and salt adjusted to typical lean-baguette ratios." },
-  "tags": ["apero", "corbeille-a-pain"]
+  "purposes": [
+    "snack",
+    "everyday",
+    "side"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 0.5,
+    "freezes": true,
+    "note": "Even faster to stale than a baguette given how thin it is; a classic same-day, bistro bread-basket loaf."
+  },
+  "equipment": [
+    "baking-stone",
+    "couche"
+  ],
+  "method": [
+    {
+      "title": "Bloom",
+      "summary": "Dissolve the yeast in the water, then mix in the flour and salt to a smooth dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Bulk ferment about 90 minutes."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Degas and let rise again to build more flavor and structure."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into small pieces and roll each into a very thin, long stick, noticeably thinner than a baguette."
+    },
+    {
+      "title": "Proof",
+      "summary": "Rest under a cloth about an hour."
+    },
+    {
+      "title": "Bake",
+      "summary": "Score lightly and bake hot with steam for a short time until deeply crackled."
+    }
+  ],
+  "source": {
+    "url": "https://www.votrepain.com/pain-ficelle-c-est-une-baguette-toute-simple-et-merveilleuse.html",
+    "site": "VotrePain",
+    "retrieved": "2026-07-17",
+    "adaptation": "Source's volumetric measures were imprecise; hydration and salt adjusted to typical lean-baguette ratios."
+  },
+  "tags": [
+    "apero",
+    "corbeille-a-pain"
+  ],
+  "doughType": "dough"
 }

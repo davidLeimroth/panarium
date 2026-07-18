@@ -7,14 +7,21 @@
     "fr": "Brioche pur beurre",
     "native": "Brioche"
   },
-  "aliases": ["brioche Nanterre", "brioche à tête"],
+  "aliases": [
+    "brioche Nanterre",
+    "brioche à tête"
+  ],
   "description": {
     "en": "Half bread, half pastry: a butter- and egg-rich yeasted dough, half the weight of the flour again in butter, folded and chilled until workable, then baked into a glossy, deeply tender, pull-apart loaf.",
     "de": "Halb Brot, halb Gebäck: ein hefegelockerter Teig reich an Butter und Eiern, die Hälfte des Mehlgewichts nochmals an Butter, der gefaltet und gekühlt wird, bis er sich verarbeiten lässt, und zu einem glänzenden, butterzarten Zupfbrot gebacken wird.",
     "es": "Mitad pan, mitad pastelería: una masa levada rica en mantequilla y huevo, la mitad del peso de la harina otra vez en mantequilla, que se pliega y enfría hasta poder trabajarla, y se hornea hasta lograr una hogaza brillante, tiernísima y para deshilachar.",
     "fr": "Mi-pain, mi-pâtisserie : une pâte levée riche en beurre et en œufs, la moitié du poids de la farine, encore en beurre, qu'on rabat et qu'on fait refroidir jusqu'à ce qu'elle soit maniable, puis qu'on cuit en une brioche filante, dorée et fondante."
   },
-  "origin": { "country": "FR", "region": "national, especially Normandy and Île-de-France", "note": "A centuries-old enriched bread, standardized into its modern buttery form by 19th-century Parisian pâtissiers-boulangers." },
+  "origin": {
+    "country": "FR",
+    "region": "national, especially Normandy and Île-de-France",
+    "note": "A centuries-old enriched bread, standardized into its modern buttery form by 19th-century Parisian pâtissiers-boulangers."
+  },
   "leaven": "yeast",
   "family": "sweet-loaf",
   "formula": {
@@ -23,38 +30,129 @@
     "sugarPct": 13,
     "fatPct": 50,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500, "note": "T45" },
-    { "key": "egg", "grams": 300, "note": "about 5 eggs" },
-    { "key": "butter", "grams": 250, "note": "room temperature" },
-    { "key": "sugar", "grams": 65 },
-    { "key": "salt", "grams": 10 },
-    { "key": "fresh-yeast", "grams": 20 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "T45"
+    },
+    {
+      "key": "egg",
+      "grams": 300,
+      "note": "about 5 eggs"
+    },
+    {
+      "key": "butter",
+      "grams": 250,
+      "note": "room temperature"
+    },
+    {
+      "key": "sugar",
+      "grams": 65
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 20
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1050, "shape": "brioche Nanterre (loaf mold)" },
-  "time": { "totalMin": 1010, "activeMin": 40, "bulkMin": 810, "proofMin": 105, "bakeMin": 25, "overnight": true },
-  "bake": { "tempC": 190, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1050,
+    "shape": "brioche Nanterre (loaf mold)"
+  },
+  "time": {
+    "totalMin": 1010,
+    "activeMin": 40,
+    "bulkMin": 810,
+    "proofMin": 105,
+    "bakeMin": 25,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 4,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["buttery", "rich", "sweet"],
-  "purposes": ["breakfast", "dessert", "celebration", "snack"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Best the first day or two; wonderful toasted or turned into pain perdu afterward." },
-  "equipment": ["stand-mixer", "loaf-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Combine flour, sugar, salt and yeast with the eggs into a shaggy dough; knead until it starts to come together." },
-    { "title": "Add the butter", "summary": "Work in the soft butter gradually until the dough is smooth, glossy and pulls cleanly away from the bowl." },
-    { "title": "First rise", "summary": "Bulk ferment about 90 minutes with a few gentle folds along the way." },
-    { "title": "Chill overnight", "summary": "Refrigerate the dough overnight, this firms the butter and makes the sticky dough far easier to handle." },
-    { "title": "Shape", "summary": "Shape into a loaf or a crown of balls, place in a buttered mold, and let it come back to life." },
-    { "title": "Proof", "summary": "Proof until visibly puffy, roughly 1.5-2 hours." },
-    { "title": "Bake", "summary": "Brush with egg wash and bake until deeply golden, tenting with foil if it colors too fast." }
+  "flavors": [
+    "buttery",
+    "rich",
+    "sweet"
   ],
-  "source": { "url": "https://www.floured.fr/recette-de-brioche-pure-beurre-recette-cap/", "site": "Floured", "retrieved": "2026-07-17" },
-  "tags": ["viennoiserie", "enriched"]
+  "purposes": [
+    "breakfast",
+    "dessert",
+    "celebration",
+    "snack"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Best the first day or two; wonderful toasted or turned into pain perdu afterward."
+  },
+  "equipment": [
+    "stand-mixer",
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, sugar, salt and yeast with the eggs into a shaggy dough; knead until it starts to come together."
+    },
+    {
+      "title": "Add the butter",
+      "summary": "Work in the soft butter gradually until the dough is smooth, glossy and pulls cleanly away from the bowl."
+    },
+    {
+      "title": "First rise",
+      "summary": "Bulk ferment about 90 minutes with a few gentle folds along the way."
+    },
+    {
+      "title": "Chill overnight",
+      "summary": "Refrigerate the dough overnight, this firms the butter and makes the sticky dough far easier to handle."
+    },
+    {
+      "title": "Shape",
+      "summary": "Shape into a loaf or a crown of balls, place in a buttered mold, and let it come back to life."
+    },
+    {
+      "title": "Proof",
+      "summary": "Proof until visibly puffy, roughly 1.5-2 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Brush with egg wash and bake until deeply golden, tenting with foil if it colors too fast."
+    }
+  ],
+  "source": {
+    "url": "https://www.floured.fr/recette-de-brioche-pure-beurre-recette-cap/",
+    "site": "Floured",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "viennoiserie",
+    "enriched"
+  ],
+  "doughType": "dough"
 }

@@ -6,7 +6,9 @@
     "es": "Panecillos Parker House",
     "fr": "Petits pains Parker House"
   },
-  "aliases": ["Boston dinner rolls"],
+  "aliases": [
+    "Boston dinner rolls"
+  ],
   "description": {
     "en": "Boston's Parker House hotel gave America its buttery dinner roll: a soft, potato-tender dough rolled thin, brushed with butter, and folded over on itself before the final rise so every roll pulls apart into two buttery layers.",
     "de": "Bostons Parker House Hotel schenkte Amerika sein buttriges Tischbrötchen: Ein weicher, durch Kartoffelmehl zarter Teig wird dünn ausgerollt, mit Butter bestrichen und vor dem Gehen gefaltet, sodass sich jedes Brötchen in zwei buttrige Schichten teilen lässt.",
@@ -27,42 +29,146 @@
     "fatPct": 23,
     "yeastPct": 1.8,
     "flours": [
-      { "type": "wheat-white", "pct": 88 },
-      { "type": "potato", "pct": 12 }
+      {
+        "type": "wheat-white",
+        "pct": 88
+      },
+      {
+        "type": "potato",
+        "pct": 12
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 360 },
-    { "key": "flour:potato", "grams": 50, "note": "potato flour, or dried potato flakes, for a tender crumb" },
-    { "key": "instant-yeast", "grams": 8 },
-    { "key": "sugar", "grams": 39 },
-    { "key": "salt", "grams": 8 },
-    { "key": "butter", "grams": 43, "note": "softened, mixed into the dough" },
-    { "key": "milk", "grams": 227 },
-    { "key": "egg", "grams": 50 },
-    { "key": "butter", "grams": 53, "note": "melted, for folding into and brushing over the rolls" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 360
+    },
+    {
+      "key": "flour:potato",
+      "grams": 50,
+      "note": "potato flour, or dried potato flakes, for a tender crumb"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 8
+    },
+    {
+      "key": "sugar",
+      "grams": 39
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "butter",
+      "grams": 43,
+      "note": "softened, mixed into the dough"
+    },
+    {
+      "key": "milk",
+      "grams": 227
+    },
+    {
+      "key": "egg",
+      "grams": 50
+    },
+    {
+      "key": "butter",
+      "grams": 53,
+      "note": "melted, for folding into and brushing over the rolls"
+    }
   ],
-  "yield": { "count": 16, "pieceGrams": 52, "shape": "folded rectangular roll, about 2.25 x 3 inches" },
-  "time": { "totalMin": 163, "activeMin": 35, "bulkMin": 60, "proofMin": 45, "bakeMin": 22, "overnight": false },
-  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 16,
+    "pieceGrams": 52,
+    "shape": "folded rectangular roll, about 2.25 x 3 inches"
+  },
+  "time": {
+    "totalMin": 163,
+    "activeMin": 35,
+    "bulkMin": 60,
+    "proofMin": 45,
+    "bakeMin": 22,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["buttery", "rich", "sweet", "mild"],
-  "purposes": ["table", "celebration", "holiday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Reheats well; brush with a little extra melted butter after warming through." },
-  "equipment": ["stand-mixer", "sheet-pan"],
-  "method": [
-    { "title": "Mix the dough", "summary": "Combine flour, potato flour, yeast, sugar, salt, softened butter, milk and egg into a soft, smooth dough." },
-    { "title": "First rise", "summary": "Let it rise in a covered bowl until doubled, about an hour." },
-    { "title": "Roll and butter", "summary": "Roll the dough into a rectangle and brush it generously with melted butter." },
-    { "title": "Fold", "summary": "Fold the dough over on itself lengthwise, leaving a small overhang, then cut into individual rolls." },
-    { "title": "Second rise", "summary": "Arrange snugly in a buttered pan and let rise until puffy, about 45 minutes." },
-    { "title": "Bake", "summary": "Bake until golden on top." },
-    { "title": "Glaze", "summary": "Brush the hot rolls with more melted butter as soon as they come out of the oven." }
+  "flavors": [
+    "buttery",
+    "rich",
+    "sweet",
+    "mild"
   ],
-  "source": { "url": "https://www.kingarthurbaking.com/recipes/parker-house-rolls-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Grams kept as sourced; brushing butter counted into the fat total since it is folded into and over every roll." },
-  "tags": ["thanksgiving", "enriched"]
+  "purposes": [
+    "table",
+    "celebration",
+    "holiday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Reheats well; brush with a little extra melted butter after warming through."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix the dough",
+      "summary": "Combine flour, potato flour, yeast, sugar, salt, softened butter, milk and egg into a soft, smooth dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Let it rise in a covered bowl until doubled, about an hour."
+    },
+    {
+      "title": "Roll and butter",
+      "summary": "Roll the dough into a rectangle and brush it generously with melted butter."
+    },
+    {
+      "title": "Fold",
+      "summary": "Fold the dough over on itself lengthwise, leaving a small overhang, then cut into individual rolls."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Arrange snugly in a buttered pan and let rise until puffy, about 45 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until golden on top."
+    },
+    {
+      "title": "Glaze",
+      "summary": "Brush the hot rolls with more melted butter as soon as they come out of the oven."
+    }
+  ],
+  "source": {
+    "url": "https://www.kingarthurbaking.com/recipes/parker-house-rolls-recipe",
+    "site": "King Arthur Baking",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams kept as sourced; brushing butter counted into the fat total since it is folded into and over every roll."
+  },
+  "tags": [
+    "thanksgiving",
+    "enriched"
+  ],
+  "doughType": "dough"
 }

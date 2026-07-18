@@ -7,14 +7,21 @@
     "fr": "Melonpan (petit pain sucré à croûte de biscuit)",
     "native": "メロンパン"
   },
-  "aliases": ["melon pan", "melon bread"],
+  "aliases": [
+    "melon pan",
+    "melon bread"
+  ],
   "description": {
     "en": "A Japanese sweet bun named for its cross-hatched, cantaloupe-like crust rather than any melon flavor. A soft milk-bread center is wrapped in a separate cookie dough that bakes into a crisp, sugary shell, giving one bun two textures in every bite.",
     "de": "Ein japanisches süßes Brötchen, benannt nach seiner rautenförmig geritzten, melonenartigen Kruste, nicht nach Melonengeschmack. Ein weicher Milchbrot-Kern steckt in einem separaten Keksteig, der knusprig und zuckrig bäckt: zwei Texturen in jedem Bissen.",
     "es": "Un bollo dulce japonés llamado así por su corteza cuadriculada que recuerda a un melón, no por su sabor. Un centro suave de pan de leche se envuelve en masa de galleta aparte, horneada hasta quedar crujiente y azucarada: dos texturas en cada bocado.",
     "fr": "Un petit pain sucré japonais nommé d'après sa croûte quadrillée évoquant un melon, sans aucun goût de melon. Un cœur moelleux de pain au lait est enveloppé d'une pâte à biscuit séparée qui cuit en une coque croustillante et sucrée, offrant deux textures à chaque bouchée."
   },
-  "origin": { "country": "JP", "region": "nationwide", "note": "Part of the kashipan (sweet bread) family sold at every Japanese bakery and convenience store; regional cousins swap the cookie crust for cocoa or matcha versions." },
+  "origin": {
+    "country": "JP",
+    "region": "nationwide",
+    "note": "Part of the kashipan (sweet bread) family sold at every Japanese bakery and convenience store; regional cousins swap the cookie crust for cocoa or matcha versions."
+  },
   "leaven": "yeast",
   "family": "roll",
   "formula": {
@@ -24,46 +31,169 @@
     "fatPct": 14,
     "yeastPct": 1.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 250, "note": "225g bread flour + 25g cake flour, for the bread dough" },
-    { "key": "water", "grams": 50 },
-    { "key": "milk", "grams": 50 },
-    { "key": "sugar", "grams": 37.5 },
-    { "key": "salt", "grams": 4 },
-    { "key": "instant-yeast", "grams": 4 },
-    { "key": "egg", "grams": 50 },
-    { "key": "butter", "grams": 35 },
-    { "label": { "en": "cake flour (for the cookie crust)", "de": "Mehl Type 405 (für die Kekskruste)", "es": "harina floja (para la corteza de galleta)", "fr": "farine faible (pour la croûte biscuit)" }, "grams": 200 },
-    { "key": "butter", "grams": 60, "note": "for the cookie crust" },
-    { "key": "sugar", "grams": 100, "note": "for the cookie crust" },
-    { "key": "egg", "grams": 50, "note": "for the cookie crust" },
-    { "key": "baking-powder", "grams": 2 },
-    { "key": "sugar", "grams": 25, "note": "for rolling the shaped buns before scoring" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 250,
+      "note": "225g bread flour + 25g cake flour, for the bread dough"
+    },
+    {
+      "key": "water",
+      "grams": 50
+    },
+    {
+      "key": "milk",
+      "grams": 50
+    },
+    {
+      "key": "sugar",
+      "grams": 37.5
+    },
+    {
+      "key": "salt",
+      "grams": 4
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 4
+    },
+    {
+      "key": "egg",
+      "grams": 50
+    },
+    {
+      "key": "butter",
+      "grams": 35
+    },
+    {
+      "label": {
+        "en": "cake flour (for the cookie crust)",
+        "de": "Mehl Type 405 (für die Kekskruste)",
+        "es": "harina floja (para la corteza de galleta)",
+        "fr": "farine faible (pour la croûte biscuit)"
+      },
+      "grams": 200
+    },
+    {
+      "key": "butter",
+      "grams": 60,
+      "note": "for the cookie crust"
+    },
+    {
+      "key": "sugar",
+      "grams": 100,
+      "note": "for the cookie crust"
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "for the cookie crust"
+    },
+    {
+      "key": "baking-powder",
+      "grams": 2
+    },
+    {
+      "key": "sugar",
+      "grams": 25,
+      "note": "for rolling the shaped buns before scoring"
+    }
   ],
-  "yield": { "count": 10, "pieceGrams": 92, "shape": "round bun, cross-hatched cookie crust, ~9 cm" },
-  "time": { "totalMin": 210, "activeMin": 40, "bulkMin": 90, "proofMin": 65, "bakeMin": 14, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 10,
+    "pieceGrams": 92,
+    "shape": "round bun, cross-hatched cookie crust, ~9 cm"
+  },
+  "time": {
+    "totalMin": 210,
+    "activeMin": 40,
+    "bulkMin": 90,
+    "proofMin": 65,
+    "bakeMin": 14,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 4,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["sweet", "buttery", "rich", "toasty"],
-  "purposes": ["snack", "breakfast", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "The cookie crust is crispest the day it is baked and softens as it sits; still freezes and reheats acceptably in a toaster oven." },
-  "equipment": ["stand-mixer", "sheet-pan"],
-  "method": [
-    { "title": "Mix bread dough", "summary": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water, then knead in the butter until a smooth, elastic dough forms." },
-    { "title": "First rise", "summary": "Cover and proof about 1-2 hours until doubled." },
-    { "title": "Make the cookie dough", "summary": "Cream butter and sugar, beat in the egg, then fold in sifted cake flour and baking powder to a soft, non-sticky dough." },
-    { "title": "Divide and rest", "summary": "Divide the bread dough into 10 pieces, shape into balls, and rest 15 minutes; divide the cookie dough into 10 matching pieces." },
-    { "title": "Wrap and score", "summary": "Flatten a piece of cookie dough into a disc, wrap it over a bread ball, roll the bun in sugar, then score a crosshatch pattern on top." },
-    { "title": "Final proof", "summary": "Proof about 50 minutes until the buns puff to one and a half times their size." },
-    { "title": "Bake", "summary": "Bake at 180°C (350°F) for 13-15 minutes until the cookie crust turns light golden." }
+  "flavors": [
+    "sweet",
+    "buttery",
+    "rich",
+    "toasty"
   ],
-  "source": { "url": "https://www.justonecookbook.com/melon-pan/", "site": "Just One Cookbook", "retrieved": "2026-07-18", "adaptation": "Formula percentages describe the yeasted bread dough only; the cookie-dough crust is listed separately and excluded from the formula, since it isn't a bread dough. Salt estimated at standard density." },
-  "tags": ["kashipan", "cookie-crust"]
+  "purposes": [
+    "snack",
+    "breakfast",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "The cookie crust is crispest the day it is baked and softens as it sits; still freezes and reheats acceptably in a toaster oven."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix bread dough",
+      "summary": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water, then knead in the butter until a smooth, elastic dough forms."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and proof about 1-2 hours until doubled."
+    },
+    {
+      "title": "Make the cookie dough",
+      "summary": "Cream butter and sugar, beat in the egg, then fold in sifted cake flour and baking powder to a soft, non-sticky dough."
+    },
+    {
+      "title": "Divide and rest",
+      "summary": "Divide the bread dough into 10 pieces, shape into balls, and rest 15 minutes; divide the cookie dough into 10 matching pieces."
+    },
+    {
+      "title": "Wrap and score",
+      "summary": "Flatten a piece of cookie dough into a disc, wrap it over a bread ball, roll the bun in sugar, then score a crosshatch pattern on top."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Proof about 50 minutes until the buns puff to one and a half times their size."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 180°C (350°F) for 13-15 minutes until the cookie crust turns light golden."
+    }
+  ],
+  "source": {
+    "url": "https://www.justonecookbook.com/melon-pan/",
+    "site": "Just One Cookbook",
+    "retrieved": "2026-07-18",
+    "adaptation": "Formula percentages describe the yeasted bread dough only; the cookie-dough crust is listed separately and excluded from the formula, since it isn't a bread dough. Salt estimated at standard density."
+  },
+  "tags": [
+    "kashipan",
+    "cookie-crust"
+  ],
+  "doughType": "dough"
 }

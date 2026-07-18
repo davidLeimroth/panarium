@@ -7,14 +7,22 @@
     "fr": "Ka'ak al-Quds (pain au sésame de Jérusalem)",
     "native": "كعك القدس"
   },
-  "aliases": ["ka'ek al-quds", "Jerusalem bagel", "Jerusalem sesame bread"],
+  "aliases": [
+    "ka'ek al-quds",
+    "Jerusalem bagel",
+    "Jerusalem sesame bread"
+  ],
   "description": {
     "en": "A large sesame-crusted bread ring from Jerusalem, chewy inside and crackling outside, shaped into a long oval loop. Street vendors sell it warm from cart ovens with a boiled egg and a twist of za'atar for dipping, a fixture of Palestinian mornings.",
     "de": "Ein großer, sesambedeckter Brotring aus Jerusalem, innen zäh, außen krachend, zu einer länglichen Ovalschlaufe geformt. Straßenhändler verkaufen ihn warm vom Wagenofen mit einem gekochten Ei und etwas Za'atar zum Dippen, fester Bestandteil palästinensischer Morgen.",
     "es": "Un gran anillo de pan cubierto de sésamo de Jerusalén, tierno por dentro y crujiente por fuera, formado en un óvalo alargado. Los vendedores callejeros lo venden tibio desde carritos con horno, con un huevo duro y za'atar para mojar, parte fija de las mañanas palestinas.",
     "fr": "Un grand anneau de pain de Jérusalem couvert de sésame, moelleux à l'intérieur et croustillant à l'extérieur, façonné en une longue boucle ovale. Les vendeurs de rue le proposent tiède avec un oeuf dur et un peu de za'atar à tremper, un classique des matins palestiniens."
   },
-  "origin": { "country": "PS", "region": "Jerusalem and the West Bank", "note": "Sold since Ottoman times by street vendors near Jerusalem's Old City gates; Palestinians consider the Jerusalem version the definitive one across the region." },
+  "origin": {
+    "country": "PS",
+    "region": "Jerusalem and the West Bank",
+    "note": "Sold since Ottoman times by street vendors near Jerusalem's Old City gates; Palestinians consider the Jerusalem version the definitive one across the region."
+  },
   "leaven": "yeast",
   "family": "ring",
   "formula": {
@@ -24,40 +32,139 @@
     "fatPct": 7.2,
     "yeastPct": 1.2,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 750, "note": "all-purpose flour" },
-    { "key": "water", "grams": 593, "note": "warm" },
-    { "key": "instant-yeast", "grams": 9 },
-    { "key": "sugar", "grams": 12.5 },
-    { "key": "salt", "grams": 18 },
-    { "key": "olive-oil", "grams": 54 },
-    { "key": "milk", "grams": 60, "note": "for brushing before the sesame coating" },
-    { "key": "sesame-seeds", "grams": 100, "note": "hulled, toasted, coats both sides; source sets out a full 8 oz for dipping but much of it does not adhere" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 750,
+      "note": "all-purpose flour"
+    },
+    {
+      "key": "water",
+      "grams": 593,
+      "note": "warm"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 9
+    },
+    {
+      "key": "sugar",
+      "grams": 12.5
+    },
+    {
+      "key": "salt",
+      "grams": 18
+    },
+    {
+      "key": "olive-oil",
+      "grams": 54
+    },
+    {
+      "key": "milk",
+      "grams": 60,
+      "note": "for brushing before the sesame coating"
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 100,
+      "note": "hulled, toasted, coats both sides; source sets out a full 8 oz for dipping but much of it does not adhere"
+    }
   ],
-  "yield": { "count": 5, "pieceGrams": 290, "shape": "long oval ring/loop" },
-  "time": { "totalMin": 175, "activeMin": 40, "bulkMin": 60, "proofMin": 45, "bakeMin": 20, "overnight": false },
-  "bake": { "tempC": 232, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 5,
+    "pieceGrams": 290,
+    "shape": "long oval ring/loop"
+  },
+  "time": {
+    "totalMin": 175,
+    "activeMin": 40,
+    "bulkMin": 60,
+    "proofMin": 45,
+    "bakeMin": 20,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 232,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["nutty", "toasty", "savory", "mild"],
-  "purposes": ["street-food", "breakfast", "snack"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm the day it is baked; freezes well and crisps back up in a toaster or hot oven." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Bloom yeast", "summary": "Stir yeast and sugar into the warm water and let sit briefly until active." },
-    { "title": "Mix and knead", "summary": "Add flour, salt and olive oil; knead until a smooth, elastic dough forms." },
-    { "title": "First rise", "summary": "Oil the dough, cover, and let it rise in a warm spot for about an hour." },
-    { "title": "Shape", "summary": "Divide into 5 balls and rest 15 minutes, then roll each into a long log and join the ends into an oval loop." },
-    { "title": "Coat", "summary": "Brush each ring with milk and press both sides firmly into a tray of sesame seeds." },
-    { "title": "Second rest", "summary": "Cover and let the rings rest about 30 minutes before baking." },
-    { "title": "Bake", "summary": "Bake on a hot tray until golden, then broil briefly for a deep, crackling crust." }
+  "flavors": [
+    "nutty",
+    "toasty",
+    "savory",
+    "mild"
   ],
-  "source": { "url": "https://palestineinadish.com/recipes/kaek-al-quds-a-crusty-and-simple-jerusalem-sesame-bread/", "site": "Palestine in a Dish", "retrieved": "2026-07-18", "adaptation": "Cup/tablespoon quantities converted to grams with standard baking equivalents; sesame quantity reduced from the source's full 8 oz dipping tray to an estimated adhered coating weight." },
-  "tags": ["street-food", "jerusalem", "sesame-ring"]
+  "purposes": [
+    "street-food",
+    "breakfast",
+    "snack"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best warm the day it is baked; freezes well and crisps back up in a toaster or hot oven."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom yeast",
+      "summary": "Stir yeast and sugar into the warm water and let sit briefly until active."
+    },
+    {
+      "title": "Mix and knead",
+      "summary": "Add flour, salt and olive oil; knead until a smooth, elastic dough forms."
+    },
+    {
+      "title": "First rise",
+      "summary": "Oil the dough, cover, and let it rise in a warm spot for about an hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into 5 balls and rest 15 minutes, then roll each into a long log and join the ends into an oval loop."
+    },
+    {
+      "title": "Coat",
+      "summary": "Brush each ring with milk and press both sides firmly into a tray of sesame seeds."
+    },
+    {
+      "title": "Second rest",
+      "summary": "Cover and let the rings rest about 30 minutes before baking."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake on a hot tray until golden, then broil briefly for a deep, crackling crust."
+    }
+  ],
+  "source": {
+    "url": "https://palestineinadish.com/recipes/kaek-al-quds-a-crusty-and-simple-jerusalem-sesame-bread/",
+    "site": "Palestine in a Dish",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup/tablespoon quantities converted to grams with standard baking equivalents; sesame quantity reduced from the source's full 8 oz dipping tray to an estimated adhered coating weight."
+  },
+  "tags": [
+    "street-food",
+    "jerusalem",
+    "sesame-ring"
+  ],
+  "doughType": "dough"
 }

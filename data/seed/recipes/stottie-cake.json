@@ -7,7 +7,10 @@
     "fr": "Stottie cake (galette du nord-est de l'Angleterre)",
     "native": "Stottie"
   },
-  "aliases": ["stotty", "stotty cake"],
+  "aliases": [
+    "stotty",
+    "stotty cake"
+  ],
   "description": {
     "en": "A thick, dense disc of bread from Newcastle and the North East, dimpled in the center and baked low and slow for a chewy crumb and soft, floury crust. Split and filled like a giant roll, classically with ham and pease pudding.",
     "de": "Eine dicke, dichte Brotscheibe aus Newcastle und Nordostengland, in der Mitte eingedrückt und langsam bei milder Hitze gebacken, für eine zähe Krume und weiche, bemehlte Kruste. Aufgeschnitten und gefüllt wie ein riesiges Brötchen, klassisch mit Schinken und Erbsenpüree.",
@@ -26,37 +29,127 @@
     "saltPct": 1.3,
     "sugarPct": 0.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 690 },
-    { "key": "water", "grams": 470, "note": "warm, divided" },
-    { "key": "salt", "grams": 9 },
-    { "key": "sugar", "grams": 4 },
-    { "key": "active-dry-yeast", "grams": 10 },
-    { "label": { "en": "white pepper", "de": "weißer Pfeffer", "es": "pimienta blanca", "fr": "poivre blanc" }, "grams": 1, "note": "a distinctive, subtle Tyneside touch" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 690
+    },
+    {
+      "key": "water",
+      "grams": 470,
+      "note": "warm, divided"
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    },
+    {
+      "key": "sugar",
+      "grams": 4
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 10
+    },
+    {
+      "label": {
+        "en": "white pepper",
+        "de": "weißer Pfeffer",
+        "es": "pimienta blanca",
+        "fr": "poivre blanc"
+      },
+      "grams": 1,
+      "note": "a distinctive, subtle Tyneside touch"
+    }
   ],
-  "yield": { "count": 3, "pieceGrams": 370, "shape": "large flattened round, deep thumb-dimple in the center" },
-  "time": { "totalMin": 155, "activeMin": 30, "bulkMin": 60, "bakeMin": 42, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 3,
+    "pieceGrams": 370,
+    "shape": "large flattened round, deep thumb-dimple in the center"
+  },
+  "time": {
+    "totalMin": 155,
+    "activeMin": 30,
+    "bulkMin": 60,
+    "bakeMin": 42,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["wheaty", "mild", "savory", "yeasty"],
-  "purposes": ["sandwich", "everyday"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Dense crumb holds up well to hearty fillings for a day or two; split and toast if it firms up." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Bloom yeast", "summary": "Dissolve the yeast and sugar in a little of the warm water and let it stand until foamy, about 15 minutes." },
-    { "title": "Mix dough", "summary": "Stir together flour, salt and white pepper, then pour in the yeast mixture and remaining water to form a soft dough." },
-    { "title": "Knead", "summary": "Knead by machine or hand until smooth and elastic, about 10-15 minutes total." },
-    { "title": "Bulk rise", "summary": "Cover and let rise in a warm spot until doubled, about an hour." },
-    { "title": "Shape & dimple", "summary": "Divide into pieces, flatten each by hand into a thick disc, and press a deep dimple into the center so it bakes flat instead of doming." },
-    { "title": "Bake low and slow", "summary": "Bake hot for the first few minutes, then turn off the oven and let the residual heat finish the loaves slowly for their signature dense, chewy crumb." }
+  "flavors": [
+    "wheaty",
+    "mild",
+    "savory",
+    "yeasty"
   ],
-  "source": { "url": "https://www.196flavors.com/united-kingdom-stottie-cake-stotty/", "site": "196 Flavors", "retrieved": "2026-07-18", "adaptation": "Cup measures converted to grams via standard baker's conversions; this source's version omits added fat, unlike some modern recipes that add lard, dripping or oil." },
-  "tags": ["geordie", "tyneside"]
+  "purposes": [
+    "sandwich",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Dense crumb holds up well to hearty fillings for a day or two; split and toast if it firms up."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom yeast",
+      "summary": "Dissolve the yeast and sugar in a little of the warm water and let it stand until foamy, about 15 minutes."
+    },
+    {
+      "title": "Mix dough",
+      "summary": "Stir together flour, salt and white pepper, then pour in the yeast mixture and remaining water to form a soft dough."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead by machine or hand until smooth and elastic, about 10-15 minutes total."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Cover and let rise in a warm spot until doubled, about an hour."
+    },
+    {
+      "title": "Shape & dimple",
+      "summary": "Divide into pieces, flatten each by hand into a thick disc, and press a deep dimple into the center so it bakes flat instead of doming."
+    },
+    {
+      "title": "Bake low and slow",
+      "summary": "Bake hot for the first few minutes, then turn off the oven and let the residual heat finish the loaves slowly for their signature dense, chewy crumb."
+    }
+  ],
+  "source": {
+    "url": "https://www.196flavors.com/united-kingdom-stottie-cake-stotty/",
+    "site": "196 Flavors",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup measures converted to grams via standard baker's conversions; this source's version omits added fat, unlike some modern recipes that add lard, dripping or oil."
+  },
+  "tags": [
+    "geordie",
+    "tyneside"
+  ],
+  "doughType": "dough"
 }

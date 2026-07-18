@@ -6,14 +6,20 @@
     "es": "Pan de masa madre de espelta",
     "fr": "Pain au levain d'épeautre"
   },
-  "aliases": ["Dinkel sourdough"],
+  "aliases": [
+    "Dinkel sourdough"
+  ],
   "description": {
     "en": "Freshly milled spelt folded through a high-extraction wheat dough for a loaf that's noticeably sweeter and nuttier than a plain wheat sourdough, with a softer bite. Spelt's extensible, fragile gluten calls for a gentler hand, but the payoff is real character.",
     "de": "Frisch gemahlener Dinkel, eingearbeitet in einen hochausgemahlenen Weizenteig – ein Brot, spürbar süßer und nussiger als reines Weizensauerteigbrot, mit weicherem Biss. Dinkels dehnbares, empfindliches Gluten verlangt eine sanftere Hand, belohnt aber mit echtem Charakter.",
     "es": "Espelta recién molida incorporada a una masa de trigo de alta extracción, para un pan más dulce y con más sabor a frutos secos que uno de trigo puro, con miga más suave. El gluten frágil de la espelta pide mano suave, pero el resultado tiene carácter propio.",
     "fr": "De l'épeautre fraîchement moulu incorporé à une pâte de blé à haute extraction, pour un pain nettement plus doux et noisetté qu'un levain de blé pur, à la mie plus tendre. Le gluten extensible et fragile de l'épeautre demande plus de douceur, mais le résultat a un vrai caractère."
   },
-  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "Spelt has deep Central European roots, but this long-fermented, high-hydration treatment is a contemporary artisan-bakery formula." },
+  "origin": {
+    "country": "US",
+    "region": "Modern American artisan bakeries",
+    "note": "Spelt has deep Central European roots, but this long-fermented, high-hydration treatment is a contemporary artisan-bakery formula."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -21,41 +27,140 @@
     "saltPct": 2.3,
     "prefermentedFlourPct": 3.9,
     "flours": [
-      { "type": "wheat-white", "pct": 58 },
-      { "type": "wheat-whole", "pct": 12 },
-      { "type": "spelt-whole", "pct": 30 }
+      {
+        "type": "wheat-white",
+        "pct": 58
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 12
+      },
+      {
+        "type": "spelt-whole",
+        "pct": 30
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 381, "note": "bread flour" },
-    { "key": "flour:wheat-whole", "grams": 286, "note": "high-extraction (Type 85-style) flour" },
-    { "key": "flour:spelt-whole", "grams": 285, "note": "freshly milled" },
-    { "key": "water", "grams": 808 },
-    { "key": "sourdough-starter", "grams": 19 },
-    { "key": "salt", "grams": 22 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 381,
+      "note": "bread flour"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 286,
+      "note": "high-extraction (Type 85-style) flour"
+    },
+    {
+      "key": "flour:spelt-whole",
+      "grams": 285,
+      "note": "freshly milled"
+    },
+    {
+      "key": "water",
+      "grams": 808
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 19
+    },
+    {
+      "key": "salt",
+      "grams": 22
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 900, "shape": "boule or bâtard" },
-  "time": { "totalMin": 1650, "activeMin": 40, "bulkMin": 270, "proofMin": 840, "bakeMin": 53, "overnight": true },
-  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 900,
+    "shape": "boule or bâtard"
+  },
+  "time": {
+    "totalMin": 1650,
+    "activeMin": 40,
+    "bulkMin": 270,
+    "proofMin": 840,
+    "bakeMin": 53,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["nutty", "sweet", "wheaty"],
-  "purposes": ["everyday", "table"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 42 },
-  "keeping": { "freshDays": 4, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Build the levain", "summary": "Mix starter with bread flour, high-extraction flour and water; ripen 5-6 hours at warm room temperature." },
-    { "title": "Autolyse", "summary": "Combine the remaining flours, including the freshly milled spelt, with water; rest 30 minutes with the levain already mixed in." },
-    { "title": "Mix", "summary": "Slap-and-fold briefly to bring the dough together, about 5 minutes." },
-    { "title": "Bulk ferment", "summary": "Ferment about 4.5 hours, giving four stretch-and-fold sets in the first hour; go easy since spelt slackens more than wheat as fermentation progresses." },
-    { "title": "Shape", "summary": "Divide, preshape, rest 20 minutes, then shape and bench-rest another 25 minutes." },
-    { "title": "Cold retard", "summary": "Refrigerate overnight, about 14 hours." },
-    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered for a dark crust." },
-    { "title": "Cool", "summary": "Rest fully on a wire rack before slicing." }
+  "flavors": [
+    "nutty",
+    "sweet",
+    "wheaty"
   ],
-  "source": { "url": "https://www.theperfectloaf.com/spelt-sourdough/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17", "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown; only the levain fraction actually used in the dough is counted, prorated from the full build." },
-  "tags": ["spelt", "ancient-grain"]
+  "purposes": [
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 42
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build the levain",
+      "summary": "Mix starter with bread flour, high-extraction flour and water; ripen 5-6 hours at warm room temperature."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Combine the remaining flours, including the freshly milled spelt, with water; rest 30 minutes with the levain already mixed in."
+    },
+    {
+      "title": "Mix",
+      "summary": "Slap-and-fold briefly to bring the dough together, about 5 minutes."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Ferment about 4.5 hours, giving four stretch-and-fold sets in the first hour; go easy since spelt slackens more than wheat as fermentation progresses."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide, preshape, rest 20 minutes, then shape and bench-rest another 25 minutes."
+    },
+    {
+      "title": "Cold retard",
+      "summary": "Refrigerate overnight, about 14 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered for a dark crust."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest fully on a wire rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.theperfectloaf.com/spelt-sourdough/",
+    "site": "The Perfect Loaf",
+    "author": "Maurizio Leo",
+    "retrieved": "2026-07-17",
+    "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown; only the levain fraction actually used in the dough is counted, prorated from the full build."
+  },
+  "tags": [
+    "spelt",
+    "ancient-grain"
+  ],
+  "doughType": "dough"
 }

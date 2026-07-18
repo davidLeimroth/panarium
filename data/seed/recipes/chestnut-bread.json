@@ -7,7 +7,10 @@
     "fr": "Pane di San Martino (pain italien aux châtaignes)",
     "native": "Pane di San Martino"
   },
-  "aliases": ["Italian chestnut bread", "pane di castagne"],
+  "aliases": [
+    "Italian chestnut bread",
+    "pane di castagne"
+  ],
   "description": {
     "en": "Chestnut flour, wheat or spelt flour and walnuts, built on a sourdough leaven plus a little fresh yeast. Baked in Italy's chestnut hills for Saint Martin's feast day, it carries the sweet, nutty flavor that once helped poor mountain villages survive when wheat was scarce.",
     "de": "Kastanienmehl, Weizen- oder Dinkelmehl und Walnüsse, getragen von einem Sauerteig-Ansatz und etwas frischer Hefe. In Italiens Kastanienregionen zum Martinstag im November gebacken, trägt es den süßen, nussigen Geschmack, der armen Bergdörfern half, wenn Weizen knapp war.",
@@ -28,44 +31,168 @@
     "yeastPct": 0.6,
     "prefermentedFlourPct": 17.2,
     "flours": [
-      { "type": "other", "pct": 41.4 },
-      { "type": "wheat-white", "pct": 58.6 }
+      {
+        "type": "other",
+        "pct": 41.4
+      },
+      {
+        "type": "wheat-white",
+        "pct": 58.6
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "label": { "en": "chestnut flour", "de": "Kastanienmehl", "es": "harina de castañas", "fr": "farine de châtaigne" }, "grams": 50, "note": "in the pre-ferment" },
-    { "label": { "en": "chestnut flour", "de": "Kastanienmehl", "es": "harina de castañas", "fr": "farine de châtaigne" }, "grams": 250, "note": "in the main dough" },
-    { "key": "flour:wheat-white", "grams": 50, "note": "in the pre-ferment; wheat or spelt flour" },
-    { "key": "flour:wheat-white", "grams": 350, "note": "in the main dough; wheat or spelt flour" },
-    { "key": "fresh-yeast", "grams": 12 },
-    { "key": "sourdough-starter", "grams": 50, "note": "mature wheat or spelt leaven, 100% hydration" },
-    { "key": "water", "grams": 180, "note": "in the pre-ferment" },
-    { "key": "water", "grams": 300, "note": "in the main dough" },
-    { "key": "olive-oil", "grams": 20 },
-    { "key": "salt", "grams": 12 },
-    { "key": "walnuts", "grams": 180, "note": "roughly chopped, worked in after the initial knead" }
+    {
+      "label": {
+        "en": "chestnut flour",
+        "de": "Kastanienmehl",
+        "es": "harina de castañas",
+        "fr": "farine de châtaigne"
+      },
+      "grams": 50,
+      "note": "in the pre-ferment"
+    },
+    {
+      "label": {
+        "en": "chestnut flour",
+        "de": "Kastanienmehl",
+        "es": "harina de castañas",
+        "fr": "farine de châtaigne"
+      },
+      "grams": 250,
+      "note": "in the main dough"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 50,
+      "note": "in the pre-ferment; wheat or spelt flour"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 350,
+      "note": "in the main dough; wheat or spelt flour"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 12
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 50,
+      "note": "mature wheat or spelt leaven, 100% hydration"
+    },
+    {
+      "key": "water",
+      "grams": 180,
+      "note": "in the pre-ferment"
+    },
+    {
+      "key": "water",
+      "grams": 300,
+      "note": "in the main dough"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 20
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    },
+    {
+      "key": "walnuts",
+      "grams": 180,
+      "note": "roughly chopped, worked in after the initial knead"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 727, "shape": "round or oval hearth loaf" },
-  "time": { "totalMin": 360, "activeMin": 30, "bulkMin": 20, "proofMin": 120, "bakeMin": 40, "overnight": false },
-  "bake": { "tempC": 220, "steam": false, "vessel": "stone" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 727,
+    "shape": "round or oval hearth loaf"
+  },
+  "time": {
+    "totalMin": 360,
+    "activeMin": 30,
+    "bulkMin": 20,
+    "proofMin": 120,
+    "bakeMin": 40,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "stone"
+  },
   "difficulty": 4,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["nutty", "earthy", "sweet"],
-  "purposes": ["everyday", "table", "celebration"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 41.4 },
-  "keeping": { "freshDays": 5, "freezes": true },
-  "equipment": ["banneton", "baking-stone"],
-  "method": [
-    { "title": "Build the pre-ferment", "summary": "Mix chestnut flour, wheat or spelt flour, fresh yeast, the mature leaven and water into a loose sponge; ferment about 2 hours." },
-    { "title": "Mix the main dough", "summary": "Combine the sponge with the remaining chestnut and wheat/spelt flours, water, olive oil and salt; mix until evenly moistened, then knead." },
-    { "title": "Rest, then fold in walnuts", "summary": "Rest 10 minutes, work in the chopped walnuts gently, then rest another 10 minutes." },
-    { "title": "Divide and shape", "summary": "Divide in two, shape into rounds and set seam-side up in floured baskets." },
-    { "title": "Proof", "summary": "Proof about 2 hours in a warm spot until visibly puffed." },
-    { "title": "Score and bake", "summary": "Score the tops, bake at 220°C for 20 minutes, then drop to 200°C for 20 minutes more until deeply colored and hollow-sounding." },
-    { "title": "Cool", "summary": "Cool completely on a rack before slicing." }
+  "flavors": [
+    "nutty",
+    "earthy",
+    "sweet"
   ],
-  "source": { "url": "https://breadcakesandale.com/2012/11/23/pane-di-san-martino/", "site": "Bread, Cakes and Ale", "retrieved": "2026-07-18", "adaptation": "Source offers 'wheat or spelt flour' throughout; recorded here as wheat-white. The mature leaven is assumed a 100%-hydration wheat-based starter for percentage purposes." },
-  "tags": ["ancient-grain", "italy", "walnuts"]
+  "purposes": [
+    "everyday",
+    "table",
+    "celebration"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 41.4
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build the pre-ferment",
+      "summary": "Mix chestnut flour, wheat or spelt flour, fresh yeast, the mature leaven and water into a loose sponge; ferment about 2 hours."
+    },
+    {
+      "title": "Mix the main dough",
+      "summary": "Combine the sponge with the remaining chestnut and wheat/spelt flours, water, olive oil and salt; mix until evenly moistened, then knead."
+    },
+    {
+      "title": "Rest, then fold in walnuts",
+      "summary": "Rest 10 minutes, work in the chopped walnuts gently, then rest another 10 minutes."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Divide in two, shape into rounds and set seam-side up in floured baskets."
+    },
+    {
+      "title": "Proof",
+      "summary": "Proof about 2 hours in a warm spot until visibly puffed."
+    },
+    {
+      "title": "Score and bake",
+      "summary": "Score the tops, bake at 220°C for 20 minutes, then drop to 200°C for 20 minutes more until deeply colored and hollow-sounding."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool completely on a rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://breadcakesandale.com/2012/11/23/pane-di-san-martino/",
+    "site": "Bread, Cakes and Ale",
+    "retrieved": "2026-07-18",
+    "adaptation": "Source offers 'wheat or spelt flour' throughout; recorded here as wheat-white. The mature leaven is assumed a 100%-hydration wheat-based starter for percentage purposes."
+  },
+  "tags": [
+    "ancient-grain",
+    "italy",
+    "walnuts"
+  ],
+  "doughType": "dough"
 }

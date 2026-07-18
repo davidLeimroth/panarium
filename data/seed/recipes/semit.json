@@ -7,14 +7,21 @@
     "fr": "Semit (anneaux au sésame égyptiens)",
     "native": "سميط"
   },
-  "aliases": ["simit misri", "Egyptian sesame bread ring"],
+  "aliases": [
+    "simit misri",
+    "Egyptian sesame bread ring"
+  ],
   "description": {
     "en": "A pair of thin ropes coiled and pinched into one ring, dipped in a molasses wash and rolled thick in sesame before baking. Cairo street carts sell it warm at breakfast, torn apart alongside a boiled egg and a pinch of dukkah spice mix.",
     "de": "Zwei dünne Teigstränge werden zu einem Ring gedreht, in eine Melasselösung getaucht und dick in Sesam gewälzt, bevor sie gebacken werden. Kairoer Straßenstände verkaufen es warm zum Frühstück, aufgerissen zu einem gekochten Ei und etwas Dukkah-Gewürz.",
     "es": "Dos finas cuerdas de masa se enroscan en un anillo, se bañan en melaza y se cubren bien de sésamo antes de hornear. Los puestos callejeros de El Cairo lo venden tibio en el desayuno, para partir junto a un huevo duro y un poco de dukkah.",
     "fr": "Deux fines cordes de pâte sont enroulées en un anneau, trempées dans une mélasse diluée puis largement roulées dans le sésame avant la cuisson. Les vendeurs de rue du Caire le proposent tiède au petit-déjeuner, à déchirer avec un oeuf dur et un peu de dukkah."
   },
-  "origin": { "country": "EG", "region": "Egypt, nationwide, especially Cairo and Alexandria street stalls", "note": "Related to Turkish simit and the wider Ottoman sesame-ring family, but sized and served differently in Egypt, often alongside boiled eggs and dukkah." },
+  "origin": {
+    "country": "EG",
+    "region": "nationwide, especially Cairo and Alexandria street stalls",
+    "note": "Related to Turkish simit and the wider Ottoman sesame-ring family, but sized and served differently in Egypt, often alongside boiled eggs and dukkah."
+  },
   "leaven": "yeast",
   "family": "ring",
   "formula": {
@@ -24,40 +31,136 @@
     "fatPct": 6,
     "yeastPct": 0.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "water", "grams": 250 },
-    { "key": "vegetable-oil", "grams": 30 },
-    { "key": "sugar", "grams": 30 },
-    { "key": "salt", "grams": 10 },
-    { "key": "instant-yeast", "grams": 3 },
-    { "key": "molasses", "grams": 20, "note": "diluted in water for the sticky coating before rolling in sesame" },
-    { "key": "sesame-seeds", "grams": 50 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 250
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 30
+    },
+    {
+      "key": "sugar",
+      "grams": 30
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3
+    },
+    {
+      "key": "molasses",
+      "grams": 20,
+      "note": "diluted in water for the sticky coating before rolling in sesame"
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 50
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 200, "shape": "twisted double ring" },
-  "time": { "totalMin": 195, "activeMin": 35, "bulkMin": 90, "proofMin": 30, "bakeMin": 18, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 200,
+    "shape": "twisted double ring"
+  },
+  "time": {
+    "totalMin": 195,
+    "activeMin": 35,
+    "bulkMin": 90,
+    "proofMin": 30,
+    "bakeMin": 18,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["nutty", "toasty", "sweet", "savory"],
-  "purposes": ["breakfast", "street-food", "snack"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Keeps a few days in a paper bag; refresh in a hot oven to recrisp the sesame crust." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix and knead", "summary": "Combine flour, water, oil, sugar, salt and yeast; knead 5 to 10 minutes until smooth and elastic." },
-    { "title": "First rise", "summary": "Cover and let rise about 1.5 hours, until nearly doubled." },
-    { "title": "Divide", "summary": "Split into 8 pieces, shape into balls, and rest 10 minutes." },
-    { "title": "Shape rings", "summary": "Roll two balls each into a long thin rope, twist or coil the pair together, and pinch the ends into a ring." },
-    { "title": "Second rise", "summary": "Rest the shaped rings on parchment for 30 minutes." },
-    { "title": "Coat", "summary": "Dip each ring in a molasses-water mixture, then roll it in sesame seeds." },
-    { "title": "Bake", "summary": "Bake until golden brown and the sesame seeds are toasted." }
+  "flavors": [
+    "nutty",
+    "toasty",
+    "sweet",
+    "savory"
   ],
-  "source": { "url": "https://tableya.net/recipes/the-breads-of-egypt-semit", "site": "Tableya", "retrieved": "2026-07-18", "adaptation": "Yeast converted from 1 teaspoon to grams; the molasses dip's dilution water is mostly discarded, so it is left out; the dukkah accompaniment is a side condiment, not a bread ingredient." },
-  "tags": ["street-food", "egyptian", "sesame-ring"]
+  "purposes": [
+    "breakfast",
+    "street-food",
+    "snack"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Keeps a few days in a paper bag; refresh in a hot oven to recrisp the sesame crust."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix and knead",
+      "summary": "Combine flour, water, oil, sugar, salt and yeast; knead 5 to 10 minutes until smooth and elastic."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise about 1.5 hours, until nearly doubled."
+    },
+    {
+      "title": "Divide",
+      "summary": "Split into 8 pieces, shape into balls, and rest 10 minutes."
+    },
+    {
+      "title": "Shape rings",
+      "summary": "Roll two balls each into a long thin rope, twist or coil the pair together, and pinch the ends into a ring."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Rest the shaped rings on parchment for 30 minutes."
+    },
+    {
+      "title": "Coat",
+      "summary": "Dip each ring in a molasses-water mixture, then roll it in sesame seeds."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until golden brown and the sesame seeds are toasted."
+    }
+  ],
+  "source": {
+    "url": "https://tableya.net/recipes/the-breads-of-egypt-semit",
+    "site": "Tableya",
+    "retrieved": "2026-07-18",
+    "adaptation": "Yeast converted from 1 teaspoon to grams; the molasses dip's dilution water is mostly discarded, so it is left out; the dukkah accompaniment is a side condiment, not a bread ingredient."
+  },
+  "tags": [
+    "street-food",
+    "egyptian",
+    "sesame-ring"
+  ],
+  "doughType": "dough"
 }

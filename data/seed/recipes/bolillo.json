@@ -6,7 +6,10 @@
     "es": "Bolillo",
     "fr": "Bolillo"
   },
-  "aliases": ["pan francés", "pan blanco"],
+  "aliases": [
+    "pan francés",
+    "pan blanco"
+  ],
   "description": {
     "en": "Mexico's everyday roll, born of French technique on Mexican soil: a lean, lard-enriched dough shaped into tapered torpedoes, scored down the spine, and baked hard with steam until the crust shatters over a light, tender crumb.",
     "de": "Mexikos alltägliches Brötchen, entstanden aus französischer Technik auf mexikanischem Boden: ein magerer, mit Schmalz angereicherter Teig wird zu spitzen Torpedos geformt, längs eingeschnitten und mit Dampf hart gebacken, bis die Kruste über zarter Krume splittert.",
@@ -27,38 +30,128 @@
     "fatPct": 5,
     "yeastPct": 1.8,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "lard", "grams": 25, "note": "or unsalted butter" },
-    { "key": "sugar", "grams": 15 },
-    { "key": "salt", "grams": 11 },
-    { "key": "instant-yeast", "grams": 9 },
-    { "key": "water", "grams": 350, "note": "warm" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "lard",
+      "grams": 25,
+      "note": "or unsalted butter"
+    },
+    {
+      "key": "sugar",
+      "grams": 15
+    },
+    {
+      "key": "salt",
+      "grams": 11
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 9
+    },
+    {
+      "key": "water",
+      "grams": 350,
+      "note": "warm"
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 152, "shape": "tapered torpedo roll, about 6 inches" },
-  "time": { "totalMin": 165, "activeMin": 30, "bulkMin": 60, "proofMin": 45, "bakeMin": 28, "overnight": false },
-  "bake": { "tempC": 232, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 152,
+    "shape": "tapered torpedo roll, about 6 inches"
+  },
+  "time": {
+    "totalMin": 165,
+    "activeMin": 30,
+    "bulkMin": 60,
+    "proofMin": 45,
+    "bakeMin": 28,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 232,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["mild", "wheaty", "yeasty", "savory"],
-  "purposes": ["sandwich", "everyday", "table"],
-  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best within hours while the crust still shatters; reheat briefly to revive a day-old roll." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Mix", "summary": "Combine flour, lard, sugar, salt, yeast and water into a soft dough and let it rest 15 minutes before kneading." },
-    { "title": "Knead", "summary": "Knead until tacky and springy, 5-8 minutes." },
-    { "title": "First rise", "summary": "Let the dough double in size, about an hour." },
-    { "title": "Preshape", "summary": "Divide into six pieces, roll into cylinders, and let them rest 10 minutes." },
-    { "title": "Shape", "summary": "Roll each piece into a six-inch torpedo with tapered, pointed ends." },
-    { "title": "Second rise", "summary": "Proof until puffy, 30-45 minutes." },
-    { "title": "Score and bake", "summary": "Cut a line down the center of each roll and bake hot with steam until deeply golden and crackling." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "yeasty",
+    "savory"
   ],
-  "source": { "url": "https://www.kingarthurbaking.com/recipes/bolillos", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Grams kept as sourced; traditional lard option kept over the butter alternative." },
-  "tags": ["torta", "everyday-bread"]
+  "purposes": [
+    "sandwich",
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": false,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best within hours while the crust still shatters; reheat briefly to revive a day-old roll."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine flour, lard, sugar, salt, yeast and water into a soft dough and let it rest 15 minutes before kneading."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead until tacky and springy, 5-8 minutes."
+    },
+    {
+      "title": "First rise",
+      "summary": "Let the dough double in size, about an hour."
+    },
+    {
+      "title": "Preshape",
+      "summary": "Divide into six pieces, roll into cylinders, and let them rest 10 minutes."
+    },
+    {
+      "title": "Shape",
+      "summary": "Roll each piece into a six-inch torpedo with tapered, pointed ends."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Proof until puffy, 30-45 minutes."
+    },
+    {
+      "title": "Score and bake",
+      "summary": "Cut a line down the center of each roll and bake hot with steam until deeply golden and crackling."
+    }
+  ],
+  "source": {
+    "url": "https://www.kingarthurbaking.com/recipes/bolillos",
+    "site": "King Arthur Baking",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams kept as sourced; traditional lard option kept over the butter alternative."
+  },
+  "tags": [
+    "torta",
+    "everyday-bread"
+  ],
+  "doughType": "dough"
 }

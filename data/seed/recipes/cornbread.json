@@ -6,7 +6,9 @@
     "es": "Pan de maíz sureño",
     "fr": "Pain de maïs du Sud (cornbread)"
   },
-  "aliases": ["skillet cornbread"],
+  "aliases": [
+    "skillet cornbread"
+  ],
   "description": {
     "en": "No sugar, no apology: white or yellow stone-ground cornmeal meets buttermilk and egg in a batter poured into a screaming-hot, well-greased cast-iron skillet. The pan makes it, a shattering, almost-fried crust around a tender, corn-sweet center.",
     "de": "Kein Zucker, keine Entschuldigung: grob gemahlenes weißes oder gelbes Maismehl trifft auf Buttermilch und Ei, der Teig kommt in eine glühend heiße, gut gefettete Gusseisenpfanne. Die Pfanne macht's: eine splitternde, fast frittierte Kruste um einen zarten, mais-süßen Kern.",
@@ -25,40 +27,136 @@
     "saltPct": 1.4,
     "fatPct": 15,
     "flours": [
-      { "type": "corn", "pct": 75 },
-      { "type": "wheat-white", "pct": 25 }
+      {
+        "type": "corn",
+        "pct": 75
+      },
+      {
+        "type": "wheat-white",
+        "pct": 25
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:corn", "grams": 276, "note": "stone-ground cornmeal, yellow or white" },
-    { "key": "flour:wheat-white", "grams": 94, "note": "all-purpose, for structure" },
-    { "key": "baking-powder", "grams": 8 },
-    { "key": "baking-soda", "grams": 2.5 },
-    { "key": "salt", "grams": 5 },
-    { "key": "buttermilk", "grams": 480 },
-    { "key": "egg", "grams": 100, "note": "2 large eggs" },
-    { "key": "vegetable-oil", "grams": 54, "note": "peanut oil traditionally; more reserved for greasing the skillet" }
+    {
+      "key": "flour:corn",
+      "grams": 276,
+      "note": "stone-ground cornmeal, yellow or white"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 94,
+      "note": "all-purpose, for structure"
+    },
+    {
+      "key": "baking-powder",
+      "grams": 8
+    },
+    {
+      "key": "baking-soda",
+      "grams": 2.5
+    },
+    {
+      "key": "salt",
+      "grams": 5
+    },
+    {
+      "key": "buttermilk",
+      "grams": 480
+    },
+    {
+      "key": "egg",
+      "grams": 100,
+      "note": "2 large eggs"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 54,
+      "note": "peanut oil traditionally; more reserved for greasing the skillet"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1020, "shape": "10-inch cast-iron skillet round, cut into wedges to serve" },
-  "time": { "totalMin": 45, "activeMin": 15, "bakeMin": 20, "overnight": false },
-  "bake": { "tempC": 232, "steam": false, "vessel": "skillet" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1020,
+    "shape": "10-inch cast-iron skillet round, cut into wedges to serve"
+  },
+  "time": {
+    "totalMin": 45,
+    "activeMin": 15,
+    "bakeMin": 20,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 232,
+    "steam": false,
+    "vessel": "skillet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["earthy", "savory", "toasty", "nutty"],
-  "purposes": ["side", "soup-companion", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 75 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm from the skillet the same day; wrap and freeze extra wedges to reheat." },
-  "equipment": ["skillet"],
-  "method": [
-    { "title": "Preheat the skillet", "summary": "Set a well-greased 10-inch cast-iron skillet in a very hot oven for 5-10 minutes so it's smoking-hot before the batter goes in." },
-    { "title": "Mix dry", "summary": "Whisk cornmeal, flour, baking powder, baking soda and salt together." },
-    { "title": "Mix wet", "summary": "Beat buttermilk, eggs and oil together in a separate bowl." },
-    { "title": "Combine", "summary": "Stir the wet mixture into the dry just until combined; do not overmix." },
-    { "title": "Sear and bake", "summary": "Carefully swirl the hot oil around the skillet to coat it, pour in the batter so it sizzles, and bake until golden and set." },
-    { "title": "Rest, then unmold", "summary": "Cool a few minutes in the pan before turning out, or simply serve straight from the skillet." }
+  "flavors": [
+    "earthy",
+    "savory",
+    "toasty",
+    "nutty"
   ],
-  "source": { "url": "https://www.gritsandpinecones.com/traditional-southern-style-cornbread/", "site": "Grits and Pinecones", "retrieved": "2026-07-17", "adaptation": "Cup measures converted to grams via standard baker's conversions; greasing oil kept separate from the batter total." },
-  "tags": ["cast-iron", "no-sugar"]
+  "purposes": [
+    "side",
+    "soup-companion",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 75
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best warm from the skillet the same day; wrap and freeze extra wedges to reheat."
+  },
+  "equipment": [
+    "skillet"
+  ],
+  "method": [
+    {
+      "title": "Preheat the skillet",
+      "summary": "Set a well-greased 10-inch cast-iron skillet in a very hot oven for 5-10 minutes so it's smoking-hot before the batter goes in."
+    },
+    {
+      "title": "Mix dry",
+      "summary": "Whisk cornmeal, flour, baking powder, baking soda and salt together."
+    },
+    {
+      "title": "Mix wet",
+      "summary": "Beat buttermilk, eggs and oil together in a separate bowl."
+    },
+    {
+      "title": "Combine",
+      "summary": "Stir the wet mixture into the dry just until combined; do not overmix."
+    },
+    {
+      "title": "Sear and bake",
+      "summary": "Carefully swirl the hot oil around the skillet to coat it, pour in the batter so it sizzles, and bake until golden and set."
+    },
+    {
+      "title": "Rest, then unmold",
+      "summary": "Cool a few minutes in the pan before turning out, or simply serve straight from the skillet."
+    }
+  ],
+  "source": {
+    "url": "https://www.gritsandpinecones.com/traditional-southern-style-cornbread/",
+    "site": "Grits and Pinecones",
+    "retrieved": "2026-07-17",
+    "adaptation": "Cup measures converted to grams via standard baker's conversions; greasing oil kept separate from the batter total."
+  },
+  "tags": [
+    "cast-iron",
+    "no-sugar"
+  ],
+  "doughType": "batter"
 }

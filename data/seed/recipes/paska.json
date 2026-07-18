@@ -7,7 +7,10 @@
     "fr": "Paska (pain de Pâques ukrainien)",
     "native": "Паска"
   },
-  "aliases": ["paska bread", "pasky"],
+  "aliases": [
+    "paska bread",
+    "pasky"
+  ],
   "description": {
     "en": "Ukraine's Easter centerpiece: a round, golden egg bread crowned with dough crosses, braids and rosettes, carried to church in the Easter basket for blessing. Gently sweet, the ornament, not the sugar, does the celebrating.",
     "de": "Das Herzstück des ukrainischen Osterfests: ein rundes, goldenes Eierbrot mit Kreuzen, Zöpfen und Rosetten aus Teig, das im Osterkorb zur Segnung in die Kirche getragen wird. Nur mild gesüßt, hier feiert der Schmuck, nicht der Zucker.",
@@ -28,38 +31,127 @@
     "fatPct": 6.3,
     "yeastPct": 1.3,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 800, "note": "bread flour or high-protein all-purpose" },
-    { "key": "milk", "grams": 350, "note": "whole, warmed to ~43°C" },
-    { "key": "egg", "grams": 150, "note": "3 large" },
-    { "key": "butter", "grams": 50, "note": "melted" },
-    { "key": "sugar", "grams": 75 },
-    { "key": "active-dry-yeast", "grams": 14, "note": "2 packets" },
-    { "key": "salt", "grams": 14 },
-    { "key": "raisins", "grams": 75, "note": "optional; some families add saffron instead" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 800,
+      "note": "bread flour or high-protein all-purpose"
+    },
+    {
+      "key": "milk",
+      "grams": 350,
+      "note": "whole, warmed to ~43°C"
+    },
+    {
+      "key": "egg",
+      "grams": 150,
+      "note": "3 large"
+    },
+    {
+      "key": "butter",
+      "grams": 50,
+      "note": "melted"
+    },
+    {
+      "key": "sugar",
+      "grams": 75
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 14,
+      "note": "2 packets"
+    },
+    {
+      "key": "salt",
+      "grams": 14
+    },
+    {
+      "key": "raisins",
+      "grams": 75,
+      "note": "optional; some families add saffron instead"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1400, "shape": "tall round loaf in a 23 cm springform, decorated top" },
-  "time": { "totalMin": 255, "activeMin": 40, "bulkMin": 60, "proofMin": 45, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 175, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1400,
+    "shape": "tall round loaf in a 23 cm springform, decorated top"
+  },
+  "time": {
+    "totalMin": 255,
+    "activeMin": 40,
+    "bulkMin": 60,
+    "proofMin": 45,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 175,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "yeasty"],
-  "purposes": ["holiday", "celebration", "breakfast", "table"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Best fresh with butter or cheese; toast day-three slices." },
-  "equipment": ["loaf-pan", "stand-mixer"],
+  "flavors": [
+    "sweet",
+    "buttery",
+    "yeasty"
+  ],
+  "purposes": [
+    "holiday",
+    "celebration",
+    "breakfast",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Best fresh with butter or cheese; toast day-three slices."
+  },
+  "equipment": [
+    "loaf-pan",
+    "stand-mixer"
+  ],
   "method": [
-    { "title": "Wake the yeast", "summary": "Warm the milk to about 43°C. Dissolve a spoonful of the sugar in a third of it, sprinkle the yeast on top and wait 5–10 minutes until it foams." },
-    { "title": "Mix and knead", "summary": "Whisk flour, salt and remaining sugar. Work in the eggs and yeast milk, kneading while the rest of the milk goes in. Add the melted butter and knead 7–10 minutes more to a soft, supple dough; fold in raisins if using." },
-    { "title": "First rise", "summary": "Cover and let rise in a warm spot about 1 hour, until doubled." },
-    { "title": "Shape and decorate", "summary": "Press half the dough into a deep, greased round pan. From the rest, roll thin ropes and form crosses, braids and spiral rosettes; arrange them over the top and fix with a dab of water." },
-    { "title": "Proof", "summary": "Cover and proof about 45 minutes, until almost doubled and the decorations have plumped." },
-    { "title": "Bake", "summary": "Bake at 175°C for 40–50 minutes to a deep gold, tenting with foil if the top darkens early; the core should reach 88°C. Rest 10 minutes in the pan, then cool on a rack." }
+    {
+      "title": "Wake the yeast",
+      "summary": "Warm the milk to about 43°C. Dissolve a spoonful of the sugar in a third of it, sprinkle the yeast on top and wait 5–10 minutes until it foams."
+    },
+    {
+      "title": "Mix and knead",
+      "summary": "Whisk flour, salt and remaining sugar. Work in the eggs and yeast milk, kneading while the rest of the milk goes in. Add the melted butter and knead 7–10 minutes more to a soft, supple dough; fold in raisins if using."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise in a warm spot about 1 hour, until doubled."
+    },
+    {
+      "title": "Shape and decorate",
+      "summary": "Press half the dough into a deep, greased round pan. From the rest, roll thin ropes and form crosses, braids and spiral rosettes; arrange them over the top and fix with a dab of water."
+    },
+    {
+      "title": "Proof",
+      "summary": "Cover and proof about 45 minutes, until almost doubled and the decorations have plumped."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 175°C for 40–50 minutes to a deep gold, tenting with foil if the top darkens early; the core should reach 88°C. Rest 10 minutes in the pan, then cool on a rack."
+    }
   ],
   "source": {
     "url": "https://oventales.com/ukranian-paska/",
@@ -67,5 +159,10 @@
     "retrieved": "2026-07-17",
     "adaptation": "Yeast normalized to 14 g active dry (the source's tsp and gram figures disagree); yeastPct given as instant-yeast equivalent."
   },
-  "tags": ["easter", "blessed-basket", "decorated"]
+  "tags": [
+    "easter",
+    "blessed-basket",
+    "decorated"
+  ],
+  "doughType": "dough"
 }

@@ -6,7 +6,10 @@
     "es": "Bannock de las Primeras Naciones (pan de sartén canadiense)",
     "fr": "Bannock des Premières Nations (pain de poêle canadien)"
   },
-  "aliases": ["bannock", "Metis bannock"],
+  "aliases": [
+    "bannock",
+    "Metis bannock"
+  ],
   "description": {
     "en": "A simple pan-fried bread of flour, baking powder, oil and water, pressed flat into a hot cast-iron pan until golden with charred spots and hollow air pockets inside. A staple across Indigenous communities in Canada, each with its own name and version.",
     "de": "Ein einfaches Pfannenbrot aus Mehl, Backpulver, Öl und Wasser, flach in eine heiße Gusseisenpfanne gedrückt, bis es golden mit angesengten Stellen und Lufttaschen innen ist. Ein Grundnahrungsmittel indigener Gemeinschaften Kanadas, jede mit eigenem Namen.",
@@ -25,35 +28,114 @@
     "saltPct": 0,
     "fatPct": 9,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 460 },
-    { "key": "baking-powder", "grams": 15 },
-    { "key": "vegetable-oil", "grams": 41 },
-    { "key": "water", "grams": 250, "note": "cold" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 460
+    },
+    {
+      "key": "baking-powder",
+      "grams": 15
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 41
+    },
+    {
+      "key": "water",
+      "grams": 250,
+      "note": "cold"
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 172, "shape": "flattened rounds pressed into a hot pan over an open fire" },
-  "time": { "totalMin": 35, "activeMin": 15, "bakeMin": 15, "overnight": false },
-  "bake": { "tempC": 190, "steam": false, "vessel": "skillet" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 172,
+    "shape": "flattened rounds pressed into a hot pan over an open fire"
+  },
+  "time": {
+    "totalMin": 35,
+    "activeMin": 15,
+    "bakeMin": 15,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "skillet"
+  },
   "difficulty": 1,
   "crumb": "open",
   "crust": "crisp",
-  "flavors": ["wheaty", "mild", "savory", "toasty"],
-  "purposes": ["everyday", "side", "soup-companion"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best hot from the pan; a simple camp bread meant to be eaten fresh rather than stored." },
-  "equipment": ["skillet"],
-  "method": [
-    { "title": "Mix dry", "summary": "Whisk the flour and baking powder together." },
-    { "title": "Add wet", "summary": "Stir in the oil, then the cold water, just until a soft dough comes together." },
-    { "title": "Divide", "summary": "Divide the dough into portions and pat each into a flattened round." },
-    { "title": "Heat the pan", "summary": "Get a cast-iron pan hot, traditionally over an open fire." },
-    { "title": "Press & cook", "summary": "Press each round into the hot pan and cook about 15 minutes, turning as needed, until golden and cooked through with a few charred spots." },
-    { "title": "Serve hot", "summary": "Eat plain, or split and filled, straight from the pan." }
+  "flavors": [
+    "wheaty",
+    "mild",
+    "savory",
+    "toasty"
   ],
-  "source": { "url": "https://parks.canada.ca/culture/gourmand-gourmet/recette-recipe66", "site": "Parks Canada", "retrieved": "2026-07-18", "adaptation": "Source gives no salt and no fixed yield; left as in the original rather than adding ingredients not in the source. Portion count and weight are this atlas's own estimate for this size of dough." },
-  "tags": ["indigenous", "metis", "canada"]
+  "purposes": [
+    "everyday",
+    "side",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best hot from the pan; a simple camp bread meant to be eaten fresh rather than stored."
+  },
+  "equipment": [
+    "skillet"
+  ],
+  "method": [
+    {
+      "title": "Mix dry",
+      "summary": "Whisk the flour and baking powder together."
+    },
+    {
+      "title": "Add wet",
+      "summary": "Stir in the oil, then the cold water, just until a soft dough comes together."
+    },
+    {
+      "title": "Divide",
+      "summary": "Divide the dough into portions and pat each into a flattened round."
+    },
+    {
+      "title": "Heat the pan",
+      "summary": "Get a cast-iron pan hot, traditionally over an open fire."
+    },
+    {
+      "title": "Press & cook",
+      "summary": "Press each round into the hot pan and cook about 15 minutes, turning as needed, until golden and cooked through with a few charred spots."
+    },
+    {
+      "title": "Serve hot",
+      "summary": "Eat plain, or split and filled, straight from the pan."
+    }
+  ],
+  "source": {
+    "url": "https://parks.canada.ca/culture/gourmand-gourmet/recette-recipe66",
+    "site": "Parks Canada",
+    "retrieved": "2026-07-18",
+    "adaptation": "Source gives no salt and no fixed yield; left as in the original rather than adding ingredients not in the source. Portion count and weight are this atlas's own estimate for this size of dough."
+  },
+  "tags": [
+    "indigenous",
+    "metis",
+    "canada"
+  ],
+  "doughType": "dough"
 }

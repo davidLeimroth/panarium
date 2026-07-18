@@ -6,14 +6,21 @@
     "es": "Pan frito (Frybread)",
     "fr": "Pain frit (Frybread)"
   },
-  "aliases": ["Indian fry bread", "Navajo fry bread"],
+  "aliases": [
+    "Indian fry bread",
+    "Navajo fry bread"
+  ],
   "description": {
     "en": "A puffed, golden disc of simple dough deep-fried to order, its history rooted in the flour and lard rations forced on the Navajo during the 1860s Long Walk. Eaten plain with honey, or piled with meat, beans and cheese as an Indian taco.",
     "de": "Eine aufgepuffte, goldene Scheibe aus einfachem Teig, frisch frittiert, ihre Geschichte wurzelt in den Mehl- und Schmalz-Rationen, die den Navajo beim 'Long Walk' der 1860er aufgezwungen wurden. Pur mit Honig, oder als 'Indian Taco' beladen.",
     "es": "Un disco dorado e inflado de masa sencilla, frito al momento, cuya historia se enraíza en las raciones de harina y manteca impuestas a los navajos durante la 'Larga Caminata' de la década de 1860. Se come solo con miel, o cargado con carne, frijoles y queso como 'taco indio'.",
     "fr": "Un disque doré et gonflé de pâte simple, frit à la commande, dont l'histoire s'enracine dans les rations imposées aux Navajos pendant la 'Longue Marche' des années 1860. Mangé nature avec du miel, ou garni en 'taco indien'."
   },
-  "origin": { "country": "US", "region": "Navajo Nation, American Southwest", "note": "Created from the flour, lard and salt rations forced on the Navajo during the 1864 Long Walk relocation; a food of survival now claimed across many Native nations, and debated as a symbol of both resilience and colonization." },
+  "origin": {
+    "country": "US",
+    "region": "Navajo Nation, American Southwest",
+    "note": "Created from the flour, lard and salt rations forced on the Navajo during the 1864 Long Walk relocation; a food of survival now claimed across many Native nations, and debated as a symbol of both resilience and colonization."
+  },
   "leaven": "chemical",
   "family": "fried",
   "formula": {
@@ -21,37 +28,122 @@
     "saltPct": 1.2,
     "fatPct": 38.4,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 250 },
-    { "key": "salt", "grams": 3 },
-    { "key": "baking-powder", "grams": 12 },
-    { "key": "vegetable-oil", "grams": 26, "note": "shortening, lard or oil in the dough, optional" },
-    { "key": "water", "grams": 207 },
-    { "key": "vegetable-oil", "grams": 70, "note": "for deep-frying; amount absorbed is estimated" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 250
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "key": "baking-powder",
+      "grams": 12
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 26,
+      "note": "shortening, lard or oil in the dough, optional"
+    },
+    {
+      "key": "water",
+      "grams": 207
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 70,
+      "note": "for deep-frying; amount absorbed is estimated"
+    }
   ],
-  "yield": { "count": 7, "pieceGrams": 75, "shape": "thin round or oval, deep-fried, 15-20 cm" },
-  "time": { "totalMin": 86, "activeMin": 40, "proofMin": 45, "bakeMin": 25, "overnight": false },
-  "bake": { "tempC": 176, "steam": false, "vessel": "fryer" },
+  "yield": {
+    "count": 7,
+    "pieceGrams": 75,
+    "shape": "thin round or oval, deep-fried, 15-20 cm"
+  },
+  "time": {
+    "totalMin": 86,
+    "activeMin": 40,
+    "proofMin": 45,
+    "bakeMin": 25,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 176,
+    "steam": false,
+    "vessel": "fryer"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["savory", "toasty", "rich"],
-  "purposes": ["street-food", "celebration", "everyday"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best eaten within minutes of frying, puffed and hot; turns tough and greasy once cold. The raw dough rounds freeze well for frying later." },
-  "equipment": ["deep-fryer"],
-  "method": [
-    { "title": "Mix dough", "summary": "Whisk flour, salt and baking powder, cut in the optional fat, then stir in water to a soft, slightly sticky dough." },
-    { "title": "Knead & rest", "summary": "Knead 3-4 minutes, then cover and rest 30 minutes to 2 hours so the dough relaxes." },
-    { "title": "Divide & flatten", "summary": "Divide into 6-8 pieces and pat or roll each into a thin round, almost like a thick tortilla." },
-    { "title": "Heat the oil", "summary": "Heat about an inch of oil in a heavy pot to 350°F (176°C)." },
-    { "title": "Fry", "summary": "Fry each round 2-3 minutes per side until puffed and deep golden, turning once." },
-    { "title": "Drain & serve", "summary": "Drain on paper towels and serve immediately, plain with honey or loaded as an Indian taco." }
+  "flavors": [
+    "savory",
+    "toasty",
+    "rich"
   ],
-  "source": { "url": "https://www.inthekitchenwithmatt.com/indian-fry-bread", "site": "In The Kitchen With Matt", "retrieved": "2026-07-17", "adaptation": "Oil absorbed during frying estimated at roughly 10 g per piece and listed separately from the dough's own optional fat." },
-  "tags": ["survival-food", "powwow"]
+  "purposes": [
+    "street-food",
+    "celebration",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best eaten within minutes of frying, puffed and hot; turns tough and greasy once cold. The raw dough rounds freeze well for frying later."
+  },
+  "equipment": [
+    "deep-fryer"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Whisk flour, salt and baking powder, cut in the optional fat, then stir in water to a soft, slightly sticky dough."
+    },
+    {
+      "title": "Knead & rest",
+      "summary": "Knead 3-4 minutes, then cover and rest 30 minutes to 2 hours so the dough relaxes."
+    },
+    {
+      "title": "Divide & flatten",
+      "summary": "Divide into 6-8 pieces and pat or roll each into a thin round, almost like a thick tortilla."
+    },
+    {
+      "title": "Heat the oil",
+      "summary": "Heat about an inch of oil in a heavy pot to 350°F (176°C)."
+    },
+    {
+      "title": "Fry",
+      "summary": "Fry each round 2-3 minutes per side until puffed and deep golden, turning once."
+    },
+    {
+      "title": "Drain & serve",
+      "summary": "Drain on paper towels and serve immediately, plain with honey or loaded as an Indian taco."
+    }
+  ],
+  "source": {
+    "url": "https://www.inthekitchenwithmatt.com/indian-fry-bread",
+    "site": "In The Kitchen With Matt",
+    "retrieved": "2026-07-17",
+    "adaptation": "Oil absorbed during frying estimated at roughly 10 g per piece and listed separately from the dough's own optional fat."
+  },
+  "tags": [
+    "survival-food",
+    "powwow"
+  ],
+  "doughType": "dough"
 }

@@ -7,14 +7,21 @@
     "fr": "Tourte de seigle auvergnate",
     "native": "Tourte de Seigle"
   },
-  "aliases": ["tourte auvergnate", "pain de seigle auvergnat"],
+  "aliases": [
+    "tourte auvergnate",
+    "pain de seigle auvergnat"
+  ],
   "description": {
     "en": "The flattish, rustic rye round of the Auvergne highlands, where rye long outperformed wheat on volcanic soil. Built on a firm rye levain and baked scorching hot, it is dense, deeply flavored, and built to last weeks, not days.",
     "de": "Der flache, rustikale Roggenlaib des Auvergne-Hochlands, wo Roggen dem Weizen auf vulkanischem Boden lange überlegen war. Auf einem festen Roggensauerteig aufgebaut und glühend heiß gebacken, ist er dicht, aromatisch und für Wochen statt Tage haltbar gemacht.",
     "es": "La hogaza de centeno rústica y achatada de las tierras altas de Auvernia, donde el centeno superó al trigo en el suelo volcánico. Con levain firme de centeno y horneada a fuego vivo, es densa, sabrosa y pensada para durar semanas, no días.",
     "fr": "La miche plate et rustique du plateau auvergnat, où le seigle a longtemps surpassé le blé sur les terres volcaniques. Bâtie sur un levain dur de seigle et cuite à four vif, elle est dense, pleine de goût, et faite pour se garder des semaines plutôt que des jours."
   },
-  "origin": { "country": "FR", "region": "Auvergne", "note": "Rye was historically the reliable grain of Auvergne's cold volcanic highlands, where wheat struggled; the tourte was baked large and kept for weeks between village bakes." },
+  "origin": {
+    "country": "FR",
+    "region": "Auvergne",
+    "note": "Rye was historically the reliable grain of Auvergne's cold volcanic highlands, where wheat struggled; the tourte was baked large and kept for weeks between village bakes."
+  },
   "leaven": "hybrid",
   "family": "hearth-loaf",
   "formula": {
@@ -23,36 +30,121 @@
     "yeastPct": 0.1,
     "prefermentedFlourPct": 29,
     "flours": [
-      { "type": "rye-whole", "pct": 100 }
+      {
+        "type": "rye-whole",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 1000 },
-    { "key": "water", "grams": 950 },
-    { "key": "sourdough-starter", "grams": 600, "note": "firm rye levain (levain dur)" },
-    { "key": "salt", "grams": 20 },
-    { "key": "fresh-yeast", "grams": 3 }
+    {
+      "key": "flour:rye-whole",
+      "grams": 1000
+    },
+    {
+      "key": "water",
+      "grams": 950
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 600,
+      "note": "firm rye levain (levain dur)"
+    },
+    {
+      "key": "salt",
+      "grams": 20
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 3
+    }
   ],
-  "yield": { "count": 3, "pieceGrams": 700, "shape": "flattish round tourte" },
-  "time": { "totalMin": 220, "activeMin": 25, "bulkMin": 50, "proofMin": 35, "bakeMin": 50, "overnight": false },
-  "bake": { "tempC": 260, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 3,
+    "pieceGrams": 700,
+    "shape": "flattish round tourte"
+  },
+  "time": {
+    "totalMin": 220,
+    "activeMin": 25,
+    "bulkMin": 50,
+    "proofMin": 35,
+    "bakeMin": 50,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 260,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "crackly",
-  "flavors": ["earthy", "sour", "tangy", "malty"],
-  "purposes": ["everyday", "soup-companion", "sandwich"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 10, "freezes": true, "note": "A dense wholegrain rye levain loaf that traditionally kept village families going for a week or two between bakes." },
-  "equipment": ["banneton", "baking-stone"],
-  "method": [
-    { "title": "Have the levain dur ready", "summary": "A firm rye sourdough levain, built up over previous feeds, is the base of the dough." },
-    { "title": "Mix", "summary": "Knead the rye flour, water, salt, levain and a touch of yeast about 8 minutes to a heavy, cohesive paste." },
-    { "title": "Bulk ferment", "summary": "Let rest about 50 minutes." },
-    { "title": "Divide and shape", "summary": "Divide into large pieces and shape into flattish rounds with only moderate tension." },
-    { "title": "Proof", "summary": "Proof in floured bannetons about 35 minutes." },
-    { "title": "Bake", "summary": "Bake at a fierce, rising heat for a long bake until the crust is thick and deeply set; cool fully on a rack." }
+  "flavors": [
+    "earthy",
+    "sour",
+    "tangy",
+    "malty"
   ],
-  "source": { "url": "https://www.thuriesmagazine.fr/fr/recettes/pain-de-seigle-auvergnat", "site": "Thuriès Magazine", "retrieved": "2026-07-17", "adaptation": "Firm levain's flour/water content estimated at roughly 2:1 flour:water and folded into the total baker's percentages." },
-  "tags": ["seigle", "auvergne", "rustique"]
+  "purposes": [
+    "everyday",
+    "soup-companion",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 10,
+    "freezes": true,
+    "note": "A dense wholegrain rye levain loaf that traditionally kept village families going for a week or two between bakes."
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Have the levain dur ready",
+      "summary": "A firm rye sourdough levain, built up over previous feeds, is the base of the dough."
+    },
+    {
+      "title": "Mix",
+      "summary": "Knead the rye flour, water, salt, levain and a touch of yeast about 8 minutes to a heavy, cohesive paste."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Let rest about 50 minutes."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Divide into large pieces and shape into flattish rounds with only moderate tension."
+    },
+    {
+      "title": "Proof",
+      "summary": "Proof in floured bannetons about 35 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at a fierce, rising heat for a long bake until the crust is thick and deeply set; cool fully on a rack."
+    }
+  ],
+  "source": {
+    "url": "https://www.thuriesmagazine.fr/fr/recettes/pain-de-seigle-auvergnat",
+    "site": "Thuriès Magazine",
+    "retrieved": "2026-07-17",
+    "adaptation": "Firm levain's flour/water content estimated at roughly 2:1 flour:water and folded into the total baker's percentages."
+  },
+  "tags": [
+    "seigle",
+    "auvergne",
+    "rustique"
+  ],
+  "doughType": "paste"
 }

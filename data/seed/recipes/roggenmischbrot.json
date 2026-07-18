@@ -6,14 +6,21 @@
     "es": "Pan mixto de centeno alemán (Roggenmischbrot)",
     "fr": "Pain mixte seigle-blé allemand (Roggenmischbrot)"
   },
-  "aliases": ["rye-wheat mixed bread", "Mischbrot"],
+  "aliases": [
+    "rye-wheat mixed bread",
+    "Mischbrot"
+  ],
   "description": {
     "en": "A rustic 70/30 rye-and-wheat sourdough loaf, the everyday bread of German households. Rye gives it backbone and long keeping; wheat softens the crumb. A stale-bread soaker deepens the flavor further.",
     "de": "Ein rustikales Mischbrot aus Roggen und Weizen im Verhältnis etwa 70:30, mit Sauerteig geführt. Der Roggen bringt Kraft und Haltbarkeit, der Weizen macht die Krume milder. Ein Altbrot-Quellstück vertieft das Aroma zusätzlich.",
     "es": "Un pan mixto rústico de centeno y trigo, en proporción aproximada 70:30, fermentado con masa madre. El centeno aporta cuerpo y larga conservación; el trigo suaviza la miga. Un remojo de pan viejo profundiza aún más el sabor.",
     "fr": "Un pain mixte rustique de seigle et de blé, dans une proportion d'environ 70:30, au levain. Le seigle apporte du corps et une bonne conservation, le blé adoucit la mie. Un trempage de vieux pain approfondit encore la saveur."
   },
-  "origin": { "country": "DE", "region": "Germany-wide", "note": "German bread law defines Roggenmischbrot as containing 50–89% rye flour with the remainder wheat; below that it is Weizenmischbrot instead." },
+  "origin": {
+    "country": "DE",
+    "region": "Germany-wide",
+    "note": "German bread law defines Roggenmischbrot as containing 50–89% rye flour with the remainder wheat; below that it is Weizenmischbrot instead."
+  },
   "leaven": "hybrid",
   "family": "hearth-loaf",
   "formula": {
@@ -22,40 +29,147 @@
     "prefermentedFlourPct": 25,
     "yeastPct": 1,
     "flours": [
-      { "type": "rye", "pct": 69 },
-      { "type": "wheat-whole", "pct": 31 }
+      {
+        "type": "rye",
+        "pct": 69
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 31
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye", "grams": 610, "note": "rye flour type 1150, split between sourdough and main dough" },
-    { "key": "flour:wheat-whole", "grams": 270, "note": "wheat type 1050 plus whole wheat flour, autolysed" },
-    { "label": { "en": "dried, toasted old bread, ground (Altbrot)", "de": "getrocknetes, geröstetes Altbrot, gemahlen", "es": "pan viejo tostado y molido (Altbrot)", "fr": "vieux pain séché et torréfié, moulu (Altbrot)" }, "grams": 90, "note": "soaked as a flavor and moisture-boosting Quellstück" },
-    { "key": "water", "grams": 705, "note": "warm, ~40°C, split across all stages" },
-    { "key": "salt", "grams": 16 },
-    { "key": "sourdough-starter", "grams": 40, "note": "active rye starter (Anstellgut)" },
-    { "key": "fresh-yeast", "grams": 9, "note": "optional, for a more reliable rise alongside the sourdough" }
+    {
+      "key": "flour:rye",
+      "grams": 610,
+      "note": "rye flour type 1150, split between sourdough and main dough"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 270,
+      "note": "wheat type 1050 plus whole wheat flour, autolysed"
+    },
+    {
+      "label": {
+        "en": "dried, toasted old bread, ground (Altbrot)",
+        "de": "getrocknetes, geröstetes Altbrot, gemahlen",
+        "es": "pan viejo tostado y molido (Altbrot)",
+        "fr": "vieux pain séché et torréfié, moulu (Altbrot)"
+      },
+      "grams": 90,
+      "note": "soaked as a flavor and moisture-boosting Quellstück"
+    },
+    {
+      "key": "water",
+      "grams": 705,
+      "note": "warm, ~40°C, split across all stages"
+    },
+    {
+      "key": "salt",
+      "grams": 16
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 40,
+      "note": "active rye starter (Anstellgut)"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 9,
+      "note": "optional, for a more reliable rise alongside the sourdough"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1650, "shape": "oval hearth loaf (bâtard)" },
-  "time": { "totalMin": 1440, "activeMin": 30, "bulkMin": 1240, "proofMin": 70, "bakeMin": 45, "overnight": true },
-  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1650,
+    "shape": "oval hearth loaf (bâtard)"
+  },
+  "time": {
+    "totalMin": 1440,
+    "activeMin": 30,
+    "bulkMin": 1240,
+    "proofMin": 70,
+    "bakeMin": 45,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 4,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["tangy", "earthy", "malty", "wheaty"],
-  "purposes": ["everyday", "sandwich", "soup-companion"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 31 },
-  "keeping": { "freshDays": 6, "freezes": true, "note": "Wrap in linen or paper; the crumb stays moist for most of a week." },
-  "equipment": ["banneton", "baking-stone", "stand-mixer"],
-  "method": [
-    { "title": "Build the sourdough", "summary": "The evening before, mix rye flour, warm water and a spoonful of active starter into a sourdough and let it ripen about 20 hours at room temperature." },
-    { "title": "Soak the old bread", "summary": "In parallel, soak toasted, ground stale bread in warm salted water for 8–12 hours; this Altbrot soaker adds moisture and a deeper, rounder flavor." },
-    { "title": "Autolyse the wheat", "summary": "Rest the wheat and whole wheat flour with warm water for an hour so it fully hydrates before mixing." },
-    { "title": "Mix the dough", "summary": "Combine the ripe sourdough, the bread soaker, the autolysed wheat, the remaining rye flour and water, and a little fresh yeast for insurance. Mix briefly to a smooth, warm dough." },
-    { "title": "Bulk rest and shape", "summary": "Let the dough rest about 40 minutes, then shape first into a round and then into an oval loaf." },
-    { "title": "Final proof", "summary": "Proof seam-up in a floured banneton for a little over an hour." },
-    { "title": "Bake with steam", "summary": "Bake hot with plenty of steam, starting around 250°C and dropping to 200°C, for about 45 minutes total." }
+  "flavors": [
+    "tangy",
+    "earthy",
+    "malty",
+    "wheaty"
   ],
-  "source": { "url": "https://einfachbrotbacken.de/brot-backen/mit-sauerteig/roggenmischbrot-mit-altbrot", "site": "EinfachBrotBacken", "retrieved": "2026-07-17", "adaptation": "Simplified from a three-stage recipe (sourdough, Altbrot soaker, autolyse); Altbrot's water was folded into the hydration total, its dry weight kept out of the flour percentages." },
-  "tags": ["mischbrot", "altbrot"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 31
+  },
+  "keeping": {
+    "freshDays": 6,
+    "freezes": true,
+    "note": "Wrap in linen or paper; the crumb stays moist for most of a week."
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone",
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Build the sourdough",
+      "summary": "The evening before, mix rye flour, warm water and a spoonful of active starter into a sourdough and let it ripen about 20 hours at room temperature."
+    },
+    {
+      "title": "Soak the old bread",
+      "summary": "In parallel, soak toasted, ground stale bread in warm salted water for 8–12 hours; this Altbrot soaker adds moisture and a deeper, rounder flavor."
+    },
+    {
+      "title": "Autolyse the wheat",
+      "summary": "Rest the wheat and whole wheat flour with warm water for an hour so it fully hydrates before mixing."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the ripe sourdough, the bread soaker, the autolysed wheat, the remaining rye flour and water, and a little fresh yeast for insurance. Mix briefly to a smooth, warm dough."
+    },
+    {
+      "title": "Bulk rest and shape",
+      "summary": "Let the dough rest about 40 minutes, then shape first into a round and then into an oval loaf."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Proof seam-up in a floured banneton for a little over an hour."
+    },
+    {
+      "title": "Bake with steam",
+      "summary": "Bake hot with plenty of steam, starting around 250°C and dropping to 200°C, for about 45 minutes total."
+    }
+  ],
+  "source": {
+    "url": "https://einfachbrotbacken.de/brot-backen/mit-sauerteig/roggenmischbrot-mit-altbrot",
+    "site": "EinfachBrotBacken",
+    "retrieved": "2026-07-17",
+    "adaptation": "Simplified from a three-stage recipe (sourdough, Altbrot soaker, autolyse); Altbrot's water was folded into the hydration total, its dry weight kept out of the flour percentages."
+  },
+  "tags": [
+    "mischbrot",
+    "altbrot"
+  ],
+  "doughType": "paste"
 }

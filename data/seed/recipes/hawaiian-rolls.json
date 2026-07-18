@@ -6,7 +6,10 @@
     "es": "Panecillos dulces hawaianos",
     "fr": "Petits pains sucrés hawaïens"
   },
-  "aliases": ["King's Hawaiian rolls", "Hawaiian sweet bread rolls"],
+  "aliases": [
+    "King's Hawaiian rolls",
+    "Hawaiian sweet bread rolls"
+  ],
   "description": {
     "en": "Hawaii's plantation-era Portuguese sweet bread, reshaped into pull-apart dinner rolls: pineapple juice and potato flour keep an egg-rich dough tender and moist for days, baking into the pillowy, faintly tropical rolls that became a supermarket staple.",
     "de": "Hawaiis portugiesisches Plantagen-Süßbrot, zu Zupf-Brötchen umgeformt: Ananassaft und Kartoffelmehl halten einen eireichen Teig tagelang zart und feucht und backen zu den kissenweichen, leicht tropischen Brötchen, die zum Supermarkt-Standard wurden.",
@@ -27,43 +30,156 @@
     "fatPct": 15,
     "yeastPct": 2.4,
     "flours": [
-      { "type": "wheat-white", "pct": 94.5 },
-      { "type": "potato", "pct": 5.5 }
+      {
+        "type": "wheat-white",
+        "pct": 94.5
+      },
+      {
+        "type": "potato",
+        "pct": 5.5
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 360, "note": "combined sponge and dough flour" },
-    { "key": "flour:potato", "grams": 21 },
-    { "key": "instant-yeast", "grams": 9 },
-    { "key": "water", "grams": 28, "note": "for the sponge" },
-    { "label": { "en": "canned pineapple juice", "de": "Ananassaft aus der Dose", "es": "jugo de piña enlatado", "fr": "jus d'ananas en conserve" }, "grams": 113 },
-    { "key": "butter", "grams": 57, "note": "softened" },
-    { "key": "brown-sugar", "grams": 71 },
-    { "key": "egg", "grams": 100, "note": "2 large eggs" },
-    { "key": "egg-yolk", "grams": 17, "note": "1 extra yolk" },
-    { "key": "salt", "grams": 8 },
-    { "key": "vanilla", "grams": 4 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 360,
+      "note": "combined sponge and dough flour"
+    },
+    {
+      "key": "flour:potato",
+      "grams": 21
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 9
+    },
+    {
+      "key": "water",
+      "grams": 28,
+      "note": "for the sponge"
+    },
+    {
+      "label": {
+        "en": "canned pineapple juice",
+        "de": "Ananassaft aus der Dose",
+        "es": "jugo de piña enlatado",
+        "fr": "jus d'ananas en conserve"
+      },
+      "grams": 113
+    },
+    {
+      "key": "butter",
+      "grams": 57,
+      "note": "softened"
+    },
+    {
+      "key": "brown-sugar",
+      "grams": 71
+    },
+    {
+      "key": "egg",
+      "grams": 100,
+      "note": "2 large eggs"
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 17,
+      "note": "1 extra yolk"
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "vanilla",
+      "grams": 4
+    }
   ],
-  "yield": { "count": 16, "pieceGrams": 49, "shape": "soft pull-apart dinner roll" },
-  "time": { "totalMin": 235, "activeMin": 30, "bulkMin": 105, "proofMin": 60, "bakeMin": 22, "overnight": false },
-  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 16,
+    "pieceGrams": 49,
+    "shape": "soft pull-apart dinner roll"
+  },
+  "time": {
+    "totalMin": 235,
+    "activeMin": 30,
+    "bulkMin": 105,
+    "proofMin": 60,
+    "bakeMin": 22,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "fruity", "rich"],
-  "purposes": ["table", "burger", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Stays soft for days thanks to its sugar and pineapple juice content; a slider-bun favorite that reheats beautifully." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Make the sponge", "summary": "Whisk flour, instant yeast and water into a thick paste and let it sit 15 minutes until active." },
-    { "title": "Build the dough", "summary": "Beat in pineapple juice, butter, brown sugar, eggs, yolk and vanilla, then mix in flour, potato flour and salt to a soft, sticky dough." },
-    { "title": "First rise", "summary": "Let the dough rise until nearly doubled, 1.5-2 hours, it stays quite slack from all the sugar." },
-    { "title": "Divide", "summary": "Divide into 16 pieces and shape each into a smooth ball." },
-    { "title": "Pan rise", "summary": "Arrange snugly in a buttered 9x13 pan and let rise about an hour until puffy." },
-    { "title": "Glaze and bake", "summary": "Brush with egg wash for a satiny shine, then bake until deep golden and cooked through." }
+  "flavors": [
+    "sweet",
+    "buttery",
+    "fruity",
+    "rich"
   ],
-  "source": { "url": "https://www.kingarthurbaking.com/recipes/hawaiian-rolls-recipe", "site": "King Arthur Baking", "retrieved": "2026-07-17", "adaptation": "Grams kept as sourced; vanilla extract weight estimated since the source gave it by volume only." },
-  "tags": ["slider-bun", "pineapple"]
+  "purposes": [
+    "table",
+    "burger",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Stays soft for days thanks to its sugar and pineapple juice content; a slider-bun favorite that reheats beautifully."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Make the sponge",
+      "summary": "Whisk flour, instant yeast and water into a thick paste and let it sit 15 minutes until active."
+    },
+    {
+      "title": "Build the dough",
+      "summary": "Beat in pineapple juice, butter, brown sugar, eggs, yolk and vanilla, then mix in flour, potato flour and salt to a soft, sticky dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Let the dough rise until nearly doubled, 1.5-2 hours, it stays quite slack from all the sugar."
+    },
+    {
+      "title": "Divide",
+      "summary": "Divide into 16 pieces and shape each into a smooth ball."
+    },
+    {
+      "title": "Pan rise",
+      "summary": "Arrange snugly in a buttered 9x13 pan and let rise about an hour until puffy."
+    },
+    {
+      "title": "Glaze and bake",
+      "summary": "Brush with egg wash for a satiny shine, then bake until deep golden and cooked through."
+    }
+  ],
+  "source": {
+    "url": "https://www.kingarthurbaking.com/recipes/hawaiian-rolls-recipe",
+    "site": "King Arthur Baking",
+    "retrieved": "2026-07-17",
+    "adaptation": "Grams kept as sourced; vanilla extract weight estimated since the source gave it by volume only."
+  },
+  "tags": [
+    "slider-bun",
+    "pineapple"
+  ],
+  "doughType": "dough"
 }

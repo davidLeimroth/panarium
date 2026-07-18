@@ -7,7 +7,10 @@
     "fr": "Ajdov Kruh (pain de sarrasin slovène)",
     "native": "Ajdov kruh"
   },
-  "aliases": ["buckwheat bread", "soba bread"],
+  "aliases": [
+    "buckwheat bread",
+    "soba bread"
+  ],
   "description": {
     "en": "A rustic Slovenian loaf built mostly from buckwheat flour with just enough wheat flour for structure. Buckwheat thrives on poor mountain soil where wheat struggles, so this bread carried rural families through hard seasons for generations.",
     "de": "Ein rustikales slowenisches Brot, überwiegend aus Buchweizenmehl, mit gerade genug Weizenmehl für Struktur. Buchweizen gedeiht auf kargen Bergböden, wo Weizen versagt, weshalb dieses Brot Bauernfamilien über Generationen durch schwere Zeiten trug.",
@@ -27,40 +30,136 @@
     "fatPct": 1.5,
     "yeastPct": 1.3,
     "flours": [
-      { "type": "buckwheat", "pct": 76.9 },
-      { "type": "wheat-white", "pct": 23.1 }
+      {
+        "type": "buckwheat",
+        "pct": 76.9
+      },
+      {
+        "type": "wheat-white",
+        "pct": 23.1
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:buckwheat", "grams": 500 },
-    { "key": "flour:wheat-white", "grams": 150, "note": "strong/bread flour, for structure" },
-    { "key": "water", "grams": 400, "note": "lukewarm" },
-    { "key": "fresh-yeast", "grams": 25 },
-    { "key": "salt", "grams": 12, "note": "source says only \"to taste\"; a typical baker's-percentage estimate" },
-    { "key": "vegetable-oil", "grams": 10 }
+    {
+      "key": "flour:buckwheat",
+      "grams": 500
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 150,
+      "note": "strong/bread flour, for structure"
+    },
+    {
+      "key": "water",
+      "grams": 400,
+      "note": "lukewarm"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 25
+    },
+    {
+      "key": "salt",
+      "grams": 12,
+      "note": "source says only \"to taste\"; a typical baker's-percentage estimate"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 10
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 990, "shape": "oval hearth loaf" },
-  "time": { "totalMin": 150, "activeMin": 15, "bulkMin": 45, "proofMin": 30, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 199, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 990,
+    "shape": "oval hearth loaf"
+  },
+  "time": {
+    "totalMin": 150,
+    "activeMin": 15,
+    "bulkMin": 45,
+    "proofMin": 30,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 199,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "crisp",
-  "flavors": ["earthy", "nutty", "wheaty"],
-  "purposes": ["everyday", "table", "side"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 76.9 },
-  "keeping": { "freshDays": 3, "freezes": true },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Combine buckwheat and wheat flours; make a well and dissolve the yeast in a little of the lukewarm water inside it." },
-    { "title": "Rest", "summary": "Dust the well with a little flour from the sides and let the yeast start working, about 10-15 minutes." },
-    { "title": "Knead", "summary": "Work in the remaining water, salt and oil and knead into a smooth, fairly stiff dough." },
-    { "title": "Bulk rise", "summary": "Cover and let rise in a warm spot until visibly puffed, about 45 minutes." },
-    { "title": "Shape", "summary": "Knock back gently and shape into an oval loaf on a baking tray." },
-    { "title": "Second rise", "summary": "Dust the top with flour and let rise again, about 30 minutes." },
-    { "title": "Bake", "summary": "Bake at around 200°C for 45 minutes until the crust is deeply colored and crisp." },
-    { "title": "Cool", "summary": "Cool at least 10 minutes before the first slice; buckwheat's dense crumb firms up as it cools." }
+  "flavors": [
+    "earthy",
+    "nutty",
+    "wheaty"
   ],
-  "source": { "url": "https://excitedfood.com/recipes/ajdov-kruh", "site": "Excited Food", "retrieved": "2026-07-18", "adaptation": "Bake temperature/time (absent here) taken from a second recipe for the same bread. Yeast read as one 25g fresh-yeast cake; salt estimated since this source says only \"to taste.\"" },
-  "tags": ["ancient-grain", "slovenia", "rustic"]
+  "purposes": [
+    "everyday",
+    "table",
+    "side"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 76.9
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine buckwheat and wheat flours; make a well and dissolve the yeast in a little of the lukewarm water inside it."
+    },
+    {
+      "title": "Rest",
+      "summary": "Dust the well with a little flour from the sides and let the yeast start working, about 10-15 minutes."
+    },
+    {
+      "title": "Knead",
+      "summary": "Work in the remaining water, salt and oil and knead into a smooth, fairly stiff dough."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Cover and let rise in a warm spot until visibly puffed, about 45 minutes."
+    },
+    {
+      "title": "Shape",
+      "summary": "Knock back gently and shape into an oval loaf on a baking tray."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Dust the top with flour and let rise again, about 30 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at around 200°C for 45 minutes until the crust is deeply colored and crisp."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool at least 10 minutes before the first slice; buckwheat's dense crumb firms up as it cools."
+    }
+  ],
+  "source": {
+    "url": "https://excitedfood.com/recipes/ajdov-kruh",
+    "site": "Excited Food",
+    "retrieved": "2026-07-18",
+    "adaptation": "Bake temperature/time (absent here) taken from a second recipe for the same bread. Yeast read as one 25g fresh-yeast cake; salt estimated since this source says only \"to taste.\""
+  },
+  "tags": [
+    "ancient-grain",
+    "slovenia",
+    "rustic"
+  ],
+  "doughType": "dough"
 }

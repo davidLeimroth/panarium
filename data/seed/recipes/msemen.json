@@ -7,14 +7,21 @@
     "fr": "Msemen (Pain plat marocain feuilleté)",
     "native": "مسمن"
   },
-  "aliases": ["rghaif", "meloui"],
+  "aliases": [
+    "rghaif",
+    "meloui"
+  ],
   "description": {
     "en": "A square Moroccan flatbread laminated with butter and semolina into flaky layers, then griddled until crisp outside and tender within. Traditionally torn and dipped in warm honey butter for breakfast or afternoon tea.",
     "de": "Ein quadratisches marokkanisches Fladenbrot, mit Butter und Grieß zu blättrigen Schichten laminiert und auf der Platte gebacken, bis es außen knusprig und innen zart ist. Traditionell zum Frühstück oder Nachmittagstee in warme Honigbutter getunkt.",
     "es": "Un pan plano marroquí cuadrado, laminado con mantequilla y sémola en capas hojaldradas, cocido en la plancha hasta quedar crujiente por fuera y tierno por dentro. Se moja tradicionalmente en mantequilla con miel tibia para el desayuno o la merienda.",
     "fr": "Un pain plat marocain carré, feuilleté au beurre et à la semoule en couches croustillantes, cuit à la plaque jusqu'à devenir croustillant à l'extérieur et tendre à l'intérieur. On le trempe traditionnellement dans du beurre au miel tiède au petit-déjeuner ou au goûter."
   },
-  "origin": { "country": "MA", "region": "Morocco, Maghreb (also Tunisia, Algeria)", "note": "A breakfast and tea-time staple across the Maghreb; the name means roughly 'oiled' in Arabic, describing the lamination technique." },
+  "origin": {
+    "country": "MA",
+    "region": "Maghreb (also Tunisia, Algeria)",
+    "note": "A breakfast and tea-time staple across the Maghreb; the name means roughly 'oiled' in Arabic, describing the lamination technique."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -24,42 +31,145 @@
     "fatPct": 18,
     "yeastPct": 0.1,
     "flours": [
-      { "type": "wheat-white", "pct": 72 },
-      { "type": "durum", "pct": 28 }
+      {
+        "type": "wheat-white",
+        "pct": 72
+      },
+      {
+        "type": "durum",
+        "pct": 28
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 438 },
-    { "key": "flour:durum", "grams": 85, "note": "fine semolina, in the dough" },
-    { "key": "sugar", "grams": 8 },
-    { "key": "salt", "grams": 12 },
-    { "key": "instant-yeast", "grams": 0.75 },
-    { "key": "water", "grams": 356, "note": "warm" },
-    { "key": "vegetable-oil", "grams": 60, "note": "for laminating and oiling the work surface; recipe calls for up to 1 cup, most drains back off" },
-    { "key": "flour:durum", "grams": 85, "note": "fine semolina, sprinkled between the folded layers" },
-    { "key": "butter", "grams": 57, "note": "very soft, dotted between layers" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 438
+    },
+    {
+      "key": "flour:durum",
+      "grams": 85,
+      "note": "fine semolina, in the dough"
+    },
+    {
+      "key": "sugar",
+      "grams": 8
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 0.75
+    },
+    {
+      "key": "water",
+      "grams": 356,
+      "note": "warm"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 60,
+      "note": "for laminating and oiling the work surface; recipe calls for up to 1 cup, most drains back off"
+    },
+    {
+      "key": "flour:durum",
+      "grams": 85,
+      "note": "fine semolina, sprinkled between the folded layers"
+    },
+    {
+      "key": "butter",
+      "grams": 57,
+      "note": "very soft, dotted between layers"
+    }
   ],
-  "yield": { "count": 20, "pieceGrams": 55, "shape": "4 in (10 cm) square, laminated" },
-  "time": { "totalMin": 93, "activeMin": 80, "proofMin": 13, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 20,
+    "pieceGrams": 55,
+    "shape": "4 in (10 cm) square, laminated"
+  },
+  "time": {
+    "totalMin": 93,
+    "activeMin": 80,
+    "proofMin": 13,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 4,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["buttery", "savory", "toasty"],
-  "purposes": ["breakfast", "snack", "street-food"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best hot off the griddle, crisp outside and soft within; turns chewy as it cools. Reheats well on a dry pan and freezes very well between sheets of parchment." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine flour, semolina, sugar, salt and yeast, then mix in warm water to a soft, slightly sticky dough; knead until smooth." },
-    { "title": "Rest", "summary": "Divide into balls and let rest 10-15 minutes, covered." },
-    { "title": "Stretch paper-thin", "summary": "On a well-oiled surface, flatten and stretch each ball outward from the center until translucently thin." },
-    { "title": "Dot & fold", "summary": "Dot the sheet with soft butter and a scatter of semolina, then fold into thirds, and fold into thirds again to form a square." },
-    { "title": "Rest again", "summary": "Let the folded squares rest briefly before flattening gently by hand into the final square shape." },
-    { "title": "Griddle", "summary": "Cook on a lightly oiled, medium-hot griddle, turning several times, until golden and cooked through in the layers." },
-    { "title": "Serve warm", "summary": "Flex gently to loosen the layers and serve hot, often dipped in honey butter." }
+  "flavors": [
+    "buttery",
+    "savory",
+    "toasty"
   ],
-  "source": { "url": "https://tasteofmaroc.com/msemen-recipe/", "site": "Taste of Maroc", "retrieved": "2026-07-17", "adaptation": "Lamination oil quantity reduced from the source's 'up to 1 cup, adjust as needed' to a more realistic absorbed amount; hydration includes butter's water content per baker's-percentage convention." },
-  "tags": ["laminated", "maghreb"]
+  "purposes": [
+    "breakfast",
+    "snack",
+    "street-food"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best hot off the griddle, crisp outside and soft within; turns chewy as it cools. Reheats well on a dry pan and freezes very well between sheets of parchment."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine flour, semolina, sugar, salt and yeast, then mix in warm water to a soft, slightly sticky dough; knead until smooth."
+    },
+    {
+      "title": "Rest",
+      "summary": "Divide into balls and let rest 10-15 minutes, covered."
+    },
+    {
+      "title": "Stretch paper-thin",
+      "summary": "On a well-oiled surface, flatten and stretch each ball outward from the center until translucently thin."
+    },
+    {
+      "title": "Dot & fold",
+      "summary": "Dot the sheet with soft butter and a scatter of semolina, then fold into thirds, and fold into thirds again to form a square."
+    },
+    {
+      "title": "Rest again",
+      "summary": "Let the folded squares rest briefly before flattening gently by hand into the final square shape."
+    },
+    {
+      "title": "Griddle",
+      "summary": "Cook on a lightly oiled, medium-hot griddle, turning several times, until golden and cooked through in the layers."
+    },
+    {
+      "title": "Serve warm",
+      "summary": "Flex gently to loosen the layers and serve hot, often dipped in honey butter."
+    }
+  ],
+  "source": {
+    "url": "https://tasteofmaroc.com/msemen-recipe/",
+    "site": "Taste of Maroc",
+    "retrieved": "2026-07-17",
+    "adaptation": "Lamination oil quantity reduced from the source's 'up to 1 cup, adjust as needed' to a more realistic absorbed amount; hydration includes butter's water content per baker's-percentage convention."
+  },
+  "tags": [
+    "laminated",
+    "maghreb"
+  ],
+  "doughType": "dough"
 }

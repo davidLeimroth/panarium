@@ -7,14 +7,22 @@
     "fr": "Lachha Paratha (Pain plat feuilleté)",
     "native": "लच्छा पराठा"
   },
-  "aliases": ["laccha paratha", "layered paratha", "parantha"],
+  "aliases": [
+    "laccha paratha",
+    "layered paratha",
+    "parantha"
+  ],
   "description": {
     "en": "Whole-wheat dough rolled paper-thin, brushed with ghee, pleated and coiled into a spiral, then flattened again and pan-fried until its layers fan out crisp and flaky. Torn open at breakfast to release steam and buttery layers.",
     "de": "Vollkornteig hauchdünn ausgerollt, mit Ghee bestrichen, gefaltet und zur Spirale gewickelt, dann wieder flach gerollt und in der Pfanne gebraten, bis die Schichten knusprig auffächern. Wird zum Frühstück aufgerissen, Dampf und buttrige Schichten strömen heraus.",
     "es": "Masa integral estirada finísima, pincelada con ghee, plegada y enrollada en espiral antes de volver a aplanarse, luego frita en sartén hasta que sus capas se abren crujientes. Se rasga en el desayuno liberando vapor y capas mantecosas.",
     "fr": "Une pâte complète étalée très fine, badigeonnée de ghee, pliée et enroulée en spirale puis de nouveau aplatie, avant d'être poêlée jusqu'à ce que ses couches s'ouvrent, croustillantes. On le déchire au petit-déjeuner pour en libérer la vapeur et les couches beurrées."
   },
-  "origin": { "country": "IN", "region": "Punjab, North India", "note": "The lachha (spiral-layered) style is a Punjabi specialty; plainer paratha variants exist across the whole subcontinent." },
+  "origin": {
+    "country": "IN",
+    "region": "Punjab, North India",
+    "note": "The lachha (spiral-layered) style is a Punjabi specialty; plainer paratha variants exist across the whole subcontinent."
+  },
   "leaven": "none",
   "family": "flatbread",
   "formula": {
@@ -22,37 +30,135 @@
     "saltPct": 1.2,
     "fatPct": 32,
     "flours": [
-      { "type": "wheat-whole", "pct": 100 }
+      {
+        "type": "wheat-whole",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 250, "note": "atta" },
-    { "key": "water", "grams": 165 },
-    { "key": "salt", "grams": 3 },
-    { "key": "vegetable-oil", "grams": 27, "note": "kneaded into the dough" },
-    { "label": { "en": "ghee (clarified butter)", "de": "Ghee (geklärte Butter)", "es": "ghee (mantequilla clarificada)", "fr": "ghee (beurre clarifié)" }, "grams": 54, "note": "for laminating layers and pan-frying" },
-    { "label": { "en": "carom seeds (ajwain)", "de": "Ajowan-Samen", "es": "semillas de ajwain", "fr": "graines d'ajwain" }, "grams": 2, "note": "optional, kneaded into dough" }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 250,
+      "note": "atta"
+    },
+    {
+      "key": "water",
+      "grams": 165
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 27,
+      "note": "kneaded into the dough"
+    },
+    {
+      "label": {
+        "en": "ghee (clarified butter)",
+        "de": "Ghee (geklärte Butter)",
+        "es": "ghee (mantequilla clarificada)",
+        "fr": "ghee (beurre clarifié)"
+      },
+      "grams": 54,
+      "note": "for laminating layers and pan-frying"
+    },
+    {
+      "label": {
+        "en": "carom seeds (ajwain)",
+        "de": "Ajowan-Samen",
+        "es": "semillas de ajwain",
+        "fr": "graines d'ajwain"
+      },
+      "grams": 2,
+      "note": "optional, kneaded into dough"
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 125, "shape": "layered spiral disc" },
-  "time": { "totalMin": 75, "activeMin": 55, "proofMin": 20, "bakeMin": 18, "overnight": false },
-  "bake": { "tempC": 220, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 125,
+    "shape": "layered spiral disc"
+  },
+  "time": {
+    "totalMin": 75,
+    "activeMin": 55,
+    "proofMin": 20,
+    "bakeMin": 18,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["buttery", "wheaty", "herbal", "savory"],
-  "purposes": ["everyday", "side", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Eat hot off the tawa for maximum flakiness; reheats on a dry tawa but layers soften with time. Freeze uncooked rounds between parchment." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine whole wheat flour, ajwain, salt and oil, then knead in water gradually to a firm, smooth dough. Rest covered 20 minutes." },
-    { "title": "Roll thin", "summary": "Divide into balls and roll each one out as thin as possible." },
-    { "title": "Layer with ghee", "summary": "Brush generously with ghee, dust with flour, then pleat into accordion folds." },
-    { "title": "Coil", "summary": "Roll the pleated strip into a spiral and tuck the end underneath." },
-    { "title": "Re-roll", "summary": "Flatten and roll the spiral gently into a thick round, keeping the coiled layers intact." },
-    { "title": "Pan-fry", "summary": "Cook on a hot, oiled tawa, flipping and pressing the edges until both sides are golden and the layers visibly fan open." }
+  "flavors": [
+    "buttery",
+    "wheaty",
+    "herbal",
+    "savory"
   ],
-  "source": { "url": "https://hebbarskitchen.com/lachha-paratha-lachha-parantha-recipe/", "site": "Hebbar's Kitchen", "retrieved": "2026-07-17", "adaptation": "Source gave water and ghee only as \"as needed\"/relative cup measures; gram quantities and hydration/fat percentages are reasonable home-baking estimates flagged as such." },
-  "tags": ["laminated", "punjabi"]
+  "purposes": [
+    "everyday",
+    "side",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Eat hot off the tawa for maximum flakiness; reheats on a dry tawa but layers soften with time. Freeze uncooked rounds between parchment."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine whole wheat flour, ajwain, salt and oil, then knead in water gradually to a firm, smooth dough. Rest covered 20 minutes."
+    },
+    {
+      "title": "Roll thin",
+      "summary": "Divide into balls and roll each one out as thin as possible."
+    },
+    {
+      "title": "Layer with ghee",
+      "summary": "Brush generously with ghee, dust with flour, then pleat into accordion folds."
+    },
+    {
+      "title": "Coil",
+      "summary": "Roll the pleated strip into a spiral and tuck the end underneath."
+    },
+    {
+      "title": "Re-roll",
+      "summary": "Flatten and roll the spiral gently into a thick round, keeping the coiled layers intact."
+    },
+    {
+      "title": "Pan-fry",
+      "summary": "Cook on a hot, oiled tawa, flipping and pressing the edges until both sides are golden and the layers visibly fan open."
+    }
+  ],
+  "source": {
+    "url": "https://hebbarskitchen.com/lachha-paratha-lachha-parantha-recipe/",
+    "site": "Hebbar's Kitchen",
+    "retrieved": "2026-07-17",
+    "adaptation": "Source gave water and ghee only as \"as needed\"/relative cup measures; gram quantities and hydration/fat percentages are reasonable home-baking estimates flagged as such."
+  },
+  "tags": [
+    "laminated",
+    "punjabi"
+  ],
+  "doughType": "dough"
 }

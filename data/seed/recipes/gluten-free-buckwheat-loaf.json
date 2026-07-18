@@ -6,7 +6,10 @@
     "es": "Pan de alforfón sin gluten",
     "fr": "Pain de sarrasin sans gluten"
   },
-  "aliases": ["100% buckwheat bread", "psyllium buckwheat loaf"],
+  "aliases": [
+    "100% buckwheat bread",
+    "psyllium buckwheat loaf"
+  ],
   "description": {
     "en": "A single flour, just buckwheat, bound into a loaf with a psyllium husk gel instead of gluten. Baked first in a tin, then finished free-standing on the oven rack for a crisp shell around a moist, naturally gluten-free crumb.",
     "de": "Nur ein Mehl, reiner Buchweizen, mit einem Flohsamenschalen-Gel statt Gluten zu einem Brot gebunden. Erst in der Form, dann freistehend auf dem Ofenrost fertiggebacken, für eine knusprige Schale um eine feuchte, von Natur aus glutenfreie Krume.",
@@ -26,39 +29,139 @@
     "sugarPct": 2,
     "yeastPct": 1.75,
     "flours": [
-      { "type": "buckwheat", "pct": 100 }
+      {
+        "type": "buckwheat",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:buckwheat", "grams": 400 },
-    { "key": "water", "grams": 560 },
-    { "label": { "en": "whole psyllium husks", "de": "ganze Flohsamenschalen", "es": "cáscara de psilio entera", "fr": "psyllium en balles entières" }, "grams": 25 },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "salt", "grams": 11 },
-    { "label": { "en": "apple cider vinegar", "de": "Apfelessig", "es": "vinagre de sidra de manzana", "fr": "vinaigre de cidre" }, "grams": 12 },
-    { "key": "sugar", "grams": 8, "note": "to activate the yeast" }
+    {
+      "key": "flour:buckwheat",
+      "grams": 400
+    },
+    {
+      "key": "water",
+      "grams": 560
+    },
+    {
+      "label": {
+        "en": "whole psyllium husks",
+        "de": "ganze Flohsamenschalen",
+        "es": "cáscara de psilio entera",
+        "fr": "psyllium en balles entières"
+      },
+      "grams": 25
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "salt",
+      "grams": 11
+    },
+    {
+      "label": {
+        "en": "apple cider vinegar",
+        "de": "Apfelessig",
+        "es": "vinagre de sidra de manzana",
+        "fr": "vinaigre de cidre"
+      },
+      "grams": 12
+    },
+    {
+      "key": "sugar",
+      "grams": 8,
+      "note": "to activate the yeast"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 920, "shape": "9 x 5 in loaf pan, finished free-standing on the oven rack" },
-  "time": { "totalMin": 170, "activeMin": 15, "proofMin": 45, "bakeMin": 80, "overnight": false },
-  "bake": { "tempC": 175, "steam": true, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 920,
+    "shape": "9 x 5 in loaf pan, finished free-standing on the oven rack"
+  },
+  "time": {
+    "totalMin": 170,
+    "activeMin": 15,
+    "proofMin": 45,
+    "bakeMin": 80,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 175,
+    "steam": true,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crisp",
-  "flavors": ["earthy", "nutty", "tangy"],
-  "purposes": ["everyday", "sandwich", "toast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 4, "freezes": true },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Make the psyllium gel", "summary": "Stir whole psyllium husks into the water with the apple cider vinegar; let sit 1-2 minutes until it thickens into a gel." },
-    { "title": "Mix dry", "summary": "In a separate bowl, combine the buckwheat flour, salt, instant yeast and sugar." },
-    { "title": "Combine", "summary": "Add the psyllium gel to the dry ingredients and mix by hand or with an electric mixer into a soft, sticky dough." },
-    { "title": "Pan and proof", "summary": "Scrape into a greased loaf pan with a wet spatula, cover, and let rise in a draft-free spot 30-60 minutes until the dough reaches the rim." },
-    { "title": "Bake in the pan", "summary": "Bake at 175°C with a dish of water in the oven for steam, 50 minutes." },
-    { "title": "Finish free-standing", "summary": "Turn the loaf out of the pan directly onto the oven rack and bake a further 30 minutes to firm and crisp the crust all around." },
-    { "title": "Cool", "summary": "Cool completely on a rack before slicing." }
+  "flavors": [
+    "earthy",
+    "nutty",
+    "tangy"
   ],
-  "source": { "url": "https://www.natashashome.com/buckwheat-bread/", "site": "Natasha's Home", "retrieved": "2026-07-18", "adaptation": "Salt recorded at the midpoint of the source's 10-12g range." },
-  "tags": ["gluten-free", "buckwheat", "single-flour"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "toast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": false,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Make the psyllium gel",
+      "summary": "Stir whole psyllium husks into the water with the apple cider vinegar; let sit 1-2 minutes until it thickens into a gel."
+    },
+    {
+      "title": "Mix dry",
+      "summary": "In a separate bowl, combine the buckwheat flour, salt, instant yeast and sugar."
+    },
+    {
+      "title": "Combine",
+      "summary": "Add the psyllium gel to the dry ingredients and mix by hand or with an electric mixer into a soft, sticky dough."
+    },
+    {
+      "title": "Pan and proof",
+      "summary": "Scrape into a greased loaf pan with a wet spatula, cover, and let rise in a draft-free spot 30-60 minutes until the dough reaches the rim."
+    },
+    {
+      "title": "Bake in the pan",
+      "summary": "Bake at 175°C with a dish of water in the oven for steam, 50 minutes."
+    },
+    {
+      "title": "Finish free-standing",
+      "summary": "Turn the loaf out of the pan directly onto the oven rack and bake a further 30 minutes to firm and crisp the crust all around."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool completely on a rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.natashashome.com/buckwheat-bread/",
+    "site": "Natasha's Home",
+    "retrieved": "2026-07-18",
+    "adaptation": "Salt recorded at the midpoint of the source's 10-12g range."
+  },
+  "tags": [
+    "gluten-free",
+    "buckwheat",
+    "single-flour"
+  ],
+  "doughType": "batter"
 }

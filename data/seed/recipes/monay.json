@@ -6,14 +6,21 @@
     "es": "Monay (pan de panadería filipino)",
     "fr": "Monay (pain de boulangerie philippin)"
   },
-  "aliases": ["pan de monja", "nun's bread"],
+  "aliases": [
+    "pan de monja",
+    "nun's bread"
+  ],
   "description": {
     "en": "A dense, mildly sweet Filipino panaderia bread descended from Spanish pan de monja (nun's bread). A single deep score down the middle splits each piece into twin lobes, and its enriched dough is the base recipe bakers riff on for putok and other shapes.",
     "de": "Ein dichtes, leicht süßes philippinisches Bäckereibrot, das vom spanischen Pan de Monja (Nonnenbrot) abstammt. Ein tiefer Einschnitt in der Mitte teilt jedes Stück in zwei Lappen, und sein angereicherter Teig ist die Basis, aus der Bäcker Putok und andere Formen entwickeln.",
     "es": "Un pan de panadería filipino denso y ligeramente dulce, descendiente del pan de monja español. Un corte profundo en el centro divide cada pieza en dos lóbulos, y su masa enriquecida es la base sobre la que los panaderos crean el putok y otras formas.",
     "fr": "Un pain de boulangerie philippin dense et légèrement sucré, descendant du pan de monja espagnol (pain de nonne). Une entaille profonde au centre divise chaque pièce en deux lobes, et sa pâte enrichie sert de base aux boulangers pour le putok et d'autres formes."
   },
-  "origin": { "country": "PH", "region": "nationwide panaderia bread", "note": "Adapted from Spanish pan de monja during the colonial era; now a everyday panaderia staple alongside pandesal." },
+  "origin": {
+    "country": "PH",
+    "region": "nationwide panaderia bread",
+    "note": "Adapted from Spanish pan de monja during the colonial era; now a everyday panaderia staple alongside pandesal."
+  },
   "leaven": "yeast",
   "family": "roll",
   "formula": {
@@ -23,41 +30,141 @@
     "fatPct": 11.4,
     "yeastPct": 0.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "milk", "grams": 60, "note": "dry milk powder; not counted toward hydration" },
-    { "key": "sugar", "grams": 133 },
-    { "key": "salt", "grams": 6 },
-    { "key": "water", "grams": 210, "note": "lukewarm" },
-    { "key": "instant-yeast", "grams": 3 },
-    { "key": "butter", "grams": 57 },
-    { "key": "egg", "grams": 45, "note": "1 medium egg" },
-    { "key": "milk", "grams": 30, "note": "for brushing after baking" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "milk",
+      "grams": 60,
+      "note": "dry milk powder; not counted toward hydration"
+    },
+    {
+      "key": "sugar",
+      "grams": 133
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "water",
+      "grams": 210,
+      "note": "lukewarm"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3
+    },
+    {
+      "key": "butter",
+      "grams": 57
+    },
+    {
+      "key": "egg",
+      "grams": 45,
+      "note": "1 medium egg"
+    },
+    {
+      "key": "milk",
+      "grams": 30,
+      "note": "for brushing after baking"
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 131, "shape": "twin-lobed oval roll with a center scored crease, ~10 cm" },
-  "time": { "totalMin": 130, "activeMin": 25, "bulkMin": 60, "proofMin": 30, "bakeMin": 18, "overnight": false },
-  "bake": { "tempC": 160, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 131,
+    "shape": "twin-lobed oval roll with a center scored crease, ~10 cm"
+  },
+  "time": {
+    "totalMin": 130,
+    "activeMin": 25,
+    "bulkMin": 60,
+    "proofMin": 30,
+    "bakeMin": 18,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 160,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["sweet", "mild", "buttery"],
-  "purposes": ["everyday", "breakfast", "snack"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best fresh and slightly warm, straight from a panaderia; freezes and reheats well wrapped in foil." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine flour, milk powder, sugar and salt; activate yeast in lukewarm water, then mix in the butter and egg and gradually bring in the dry ingredients to a dense, shaggy dough." },
-    { "title": "Knead", "summary": "Knead 8-10 minutes until smooth and elastic, adding a touch more water if needed." },
-    { "title": "First rise", "summary": "Shape into a ball, place in a greased bowl, cover, and let rise about 1 hour in a warm spot until doubled." },
-    { "title": "Shape", "summary": "Deflate gently, divide into 8 pieces, and shape each into a smooth oval; rest a few minutes." },
-    { "title": "Score", "summary": "Cut one deep crease down the center of each piece to form the signature twin-lobed shape." },
-    { "title": "Second rise", "summary": "Cover and rest about 30 minutes until the scored cuts open slightly." },
-    { "title": "Bake", "summary": "Bake at 160°C (350°F) for 15-20 minutes until golden, then brush the hot loaves with milk for a glossy finish." }
+  "flavors": [
+    "sweet",
+    "mild",
+    "buttery"
   ],
-  "source": { "url": "https://www.foxyfolksy.com/monay/", "site": "Foxy Folksy", "retrieved": "2026-07-18", "adaptation": "Water increased slightly from the source's 3/4 cup for a workable dough, matching its own 'adjust as needed' note; salt increased slightly from the source for balance." },
-  "tags": ["panaderia", "everyday-bread"]
+  "purposes": [
+    "everyday",
+    "breakfast",
+    "snack"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best fresh and slightly warm, straight from a panaderia; freezes and reheats well wrapped in foil."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine flour, milk powder, sugar and salt; activate yeast in lukewarm water, then mix in the butter and egg and gradually bring in the dry ingredients to a dense, shaggy dough."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead 8-10 minutes until smooth and elastic, adding a touch more water if needed."
+    },
+    {
+      "title": "First rise",
+      "summary": "Shape into a ball, place in a greased bowl, cover, and let rise about 1 hour in a warm spot until doubled."
+    },
+    {
+      "title": "Shape",
+      "summary": "Deflate gently, divide into 8 pieces, and shape each into a smooth oval; rest a few minutes."
+    },
+    {
+      "title": "Score",
+      "summary": "Cut one deep crease down the center of each piece to form the signature twin-lobed shape."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Cover and rest about 30 minutes until the scored cuts open slightly."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 160°C (350°F) for 15-20 minutes until golden, then brush the hot loaves with milk for a glossy finish."
+    }
+  ],
+  "source": {
+    "url": "https://www.foxyfolksy.com/monay/",
+    "site": "Foxy Folksy",
+    "retrieved": "2026-07-18",
+    "adaptation": "Water increased slightly from the source's 3/4 cup for a workable dough, matching its own 'adjust as needed' note; salt increased slightly from the source for balance."
+  },
+  "tags": [
+    "panaderia",
+    "everyday-bread"
+  ],
+  "doughType": "stiff"
 }

@@ -6,14 +6,21 @@
     "es": "Bollo de leche con tangzhong",
     "fr": "Petit pain au lait tangzhong"
   },
-  "aliases": ["water roux milk bun", "yudane-style milk bun"],
+  "aliases": [
+    "water roux milk bun",
+    "yudane-style milk bun"
+  ],
   "description": {
     "en": "An individually baked Asian bakery bun made soft by tangzhong, a cooked flour-and-milk paste stirred into the dough before kneading. Spaced apart on the tray so each bun bakes with its own gentle crust, it is the everyday, less-sweet cousin of a shokupan loaf.",
     "de": "Ein einzeln gebackenes asiatisches Brötchen, weich durch Tangzhong, eine gekochte Mehl-Milch-Paste, die vor dem Kneten eingerührt wird. Auf dem Blech mit Abstand gebacken, hat jedes Brötchen seine eigene Kruste: der alltägliche, weniger süße Verwandte des Shokupans.",
     "es": "Un bollo de panadería asiática horneado individualmente, suavizado con tangzhong, una pasta cocida de harina y leche incorporada antes de amasar. Colocado con espacio en la bandeja para que desarrolle su propia corteza, es el primo cotidiano y menos dulce del shokupan.",
     "fr": "Un petit pain de boulangerie asiatique cuit individuellement, assoupli par le tangzhong, une pâte cuite de farine et de lait incorporée avant le pétrissage. Espacé sur la plaque pour développer sa propre croûte, c'est le cousin quotidien et moins sucré du shokupan."
   },
-  "origin": { "country": "CN", "region": "China and Taiwan; common across East and Southeast Asian bakeries today", "note": "The tangzhong (water roux) technique was popularized internationally by Taiwanese cookbook author Yvonne Chen's '65°C Bread Doctor'." },
+  "origin": {
+    "country": "CN",
+    "region": "China and Taiwan; common across East and Southeast Asian bakeries today",
+    "note": "The tangzhong (water roux) technique was popularized internationally by Taiwanese cookbook author Yvonne Chen's '65°C Bread Doctor'."
+  },
   "leaven": "yeast",
   "family": "roll",
   "formula": {
@@ -23,40 +30,141 @@
     "fatPct": 15.5,
     "yeastPct": 1.2,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 731, "note": "bread flour: 16g cooked into the tangzhong, 715g in the final dough" },
-    { "key": "water", "grams": 30, "note": "in the tangzhong" },
-    { "key": "milk", "grams": 450, "note": "whole milk: 30g in the tangzhong, 420g in the dough" },
-    { "key": "sugar", "grams": 37.5 },
-    { "key": "salt", "grams": 9 },
-    { "key": "active-dry-yeast", "grams": 9 },
-    { "key": "egg", "grams": 100, "note": "2 large eggs" },
-    { "key": "butter", "grams": 113, "note": "softened" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 731,
+      "note": "bread flour: 16g cooked into the tangzhong, 715g in the final dough"
+    },
+    {
+      "key": "water",
+      "grams": 30,
+      "note": "in the tangzhong"
+    },
+    {
+      "key": "milk",
+      "grams": 450,
+      "note": "whole milk: 30g in the tangzhong, 420g in the dough"
+    },
+    {
+      "key": "sugar",
+      "grams": 37.5
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 9
+    },
+    {
+      "key": "egg",
+      "grams": 100,
+      "note": "2 large eggs"
+    },
+    {
+      "key": "butter",
+      "grams": 113,
+      "note": "softened"
+    }
   ],
-  "yield": { "count": 24, "pieceGrams": 62, "shape": "individual round bun, spaced apart on a sheet pan, ~8 cm" },
-  "time": { "totalMin": 135, "activeMin": 35, "bulkMin": 30, "proofMin": 40, "bakeMin": 24, "overnight": false },
-  "bake": { "tempC": 177, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 24,
+    "pieceGrams": 62,
+    "shape": "individual round bun, spaced apart on a sheet pan, ~8 cm"
+  },
+  "time": {
+    "totalMin": 135,
+    "activeMin": 35,
+    "bulkMin": 30,
+    "proofMin": 40,
+    "bakeMin": 24,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["mild", "sweet", "buttery", "rich"],
-  "purposes": ["sandwich", "snack", "breakfast", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Tangzhong keeps these soft for days at room temperature, well wrapped; freezes and reheats well." },
-  "equipment": ["stand-mixer", "sheet-pan"],
-  "method": [
-    { "title": "Make the tangzhong", "summary": "Whisk flour, milk and water in a bowl and microwave in short bursts, stirring between, until it thickens to a smooth, mashed-potato-like paste; cool." },
-    { "title": "Warm the milk", "summary": "Heat the milk with the sugar until just warm, then stir in the yeast and let stand about 7 minutes until foamy." },
-    { "title": "Mix dough", "summary": "Combine the tangzhong and yeasted milk with the eggs and half the flour; knead briefly, then work in the softened butter, remaining flour and salt until smooth and elastic, about 8 minutes total." },
-    { "title": "First rise", "summary": "Cover and let rise at room temperature about 30 minutes until doubled." },
-    { "title": "Divide and shape", "summary": "Divide into 24 pieces, shape each into a taut ball, and space them apart on a lined sheet pan." },
-    { "title": "Second rise", "summary": "Cover loosely and proof 30-45 minutes until puffy." },
-    { "title": "Bake", "summary": "Brush with egg wash and bake at 177°C (350°F) for 22-25 minutes until deep golden." }
+  "flavors": [
+    "mild",
+    "sweet",
+    "buttery",
+    "rich"
   ],
-  "source": { "url": "https://www.thelittleepicurean.com/milk-bread-rolls/", "site": "The Little Epicurean", "retrieved": "2026-07-18", "adaptation": "Cup/tbsp measurements converted to grams; shaped as individually spaced rolls rather than the source's touching pan-rolls, to stay distinct from this atlas's Hokkaido rolls." },
-  "tags": ["tangzhong", "bakery-bun"]
+  "purposes": [
+    "sandwich",
+    "snack",
+    "breakfast",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Tangzhong keeps these soft for days at room temperature, well wrapped; freezes and reheats well."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Make the tangzhong",
+      "summary": "Whisk flour, milk and water in a bowl and microwave in short bursts, stirring between, until it thickens to a smooth, mashed-potato-like paste; cool."
+    },
+    {
+      "title": "Warm the milk",
+      "summary": "Heat the milk with the sugar until just warm, then stir in the yeast and let stand about 7 minutes until foamy."
+    },
+    {
+      "title": "Mix dough",
+      "summary": "Combine the tangzhong and yeasted milk with the eggs and half the flour; knead briefly, then work in the softened butter, remaining flour and salt until smooth and elastic, about 8 minutes total."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise at room temperature about 30 minutes until doubled."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Divide into 24 pieces, shape each into a taut ball, and space them apart on a lined sheet pan."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Cover loosely and proof 30-45 minutes until puffy."
+    },
+    {
+      "title": "Bake",
+      "summary": "Brush with egg wash and bake at 177°C (350°F) for 22-25 minutes until deep golden."
+    }
+  ],
+  "source": {
+    "url": "https://www.thelittleepicurean.com/milk-bread-rolls/",
+    "site": "The Little Epicurean",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup/tbsp measurements converted to grams; shaped as individually spaced rolls rather than the source's touching pan-rolls, to stay distinct from this atlas's Hokkaido rolls."
+  },
+  "tags": [
+    "tangzhong",
+    "bakery-bun"
+  ],
+  "doughType": "dough"
 }

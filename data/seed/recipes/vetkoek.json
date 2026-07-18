@@ -6,14 +6,22 @@
     "es": "Vetkoek",
     "fr": "Vetkoek"
   },
-  "aliases": ["fat cakes", "amagwinya", "magwinya"],
+  "aliases": [
+    "fat cakes",
+    "amagwinya",
+    "magwinya"
+  ],
   "description": {
     "en": "A golden, deep-fried yeast bun from South African kitchens, crisp outside and fluffy within. Served hot, split open and stuffed with curried mince, or simply with jam, honey or syrup for a sweeter version; a fixture of township and farm-stall cooking alike.",
     "de": "Ein goldener, frittierter Hefeball aus südafrikanischen Küchen, außen knusprig und innen locker. Heiß serviert, aufgeschnitten und mit Curry-Hackfleisch gefüllt, oder einfach mit Marmelade, Honig oder Sirup für eine süßere Variante; fester Bestandteil der Township- und Farmküche.",
     "es": "Un bollo de levadura dorado y frito de las cocinas sudafricanas, crujiente por fuera y esponjoso por dentro. Se sirve caliente, relleno de carne picada al curry, o con mermelada y miel en su versión dulce, un clásico de townships y granjas.",
     "fr": "Une boule de pâte levée dorée et frite des cuisines sud-africaines, croustillante dehors et moelleuse dedans. Servie chaude, fourrée de viande hachée au curry, ou avec confiture et miel en version sucrée, un classique des townships et des fermes."
   },
-  "origin": { "country": "ZA", "region": "South Africa, nationwide (Afrikaans and township cooking)", "note": "Called vetkoek ('fat cake') in Afrikaans and amagwinya or magwinya in Nguni and Sotho languages; a township and farm-kitchen staple eaten sweet or split and filled with curried mince." },
+  "origin": {
+    "country": "ZA",
+    "region": "nationwide (Afrikaans and township cooking)",
+    "note": "Called vetkoek ('fat cake') in Afrikaans and amagwinya or magwinya in Nguni and Sotho languages; a township and farm-kitchen staple eaten sweet or split and filled with curried mince."
+  },
   "leaven": "yeast",
   "family": "fried",
   "formula": {
@@ -23,37 +31,126 @@
     "fatPct": 17.9,
     "yeastPct": 1.1,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 660, "note": "cake flour" },
-    { "key": "water", "grams": 472, "note": "lukewarm" },
-    { "key": "salt", "grams": 12 },
-    { "key": "sugar", "grams": 30 },
-    { "key": "active-dry-yeast", "grams": 7 },
-    { "key": "vegetable-oil", "grams": 118, "note": "absorbed during frying; the deep-frying oil bath itself is mostly reused, not counted" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 660,
+      "note": "cake flour"
+    },
+    {
+      "key": "water",
+      "grams": 472,
+      "note": "lukewarm"
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    },
+    {
+      "key": "sugar",
+      "grams": 30
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 7
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 118,
+      "note": "absorbed during frying; the deep-frying oil bath itself is mostly reused, not counted"
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 162, "shape": "round or oval fried bun" },
-  "time": { "totalMin": 130, "activeMin": 25, "bulkMin": 90, "bakeMin": 4, "overnight": false },
-  "bake": { "tempC": 177, "steam": false, "vessel": "fryer" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 162,
+    "shape": "round or oval fried bun"
+  },
+  "time": {
+    "totalMin": 130,
+    "activeMin": 25,
+    "bulkMin": 90,
+    "bakeMin": 4,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 177,
+    "steam": false,
+    "vessel": "fryer"
+  },
   "difficulty": 2,
   "crumb": "open",
   "crust": "crisp",
-  "flavors": ["mild", "wheaty", "savory", "sweet"],
-  "purposes": ["breakfast", "snack", "street-food", "everyday"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best eaten hot the day it is fried; reheat in a hot oven to recrisp rather than microwaving, which turns them soft and greasy." },
-  "equipment": ["deep-fryer"],
-  "method": [
-    { "title": "Activate yeast", "summary": "Combine salt, sugar, yeast and lukewarm water; let stand about 5 minutes until it foams." },
-    { "title": "Mix", "summary": "Stir in the flour until just combined into a shaggy dough." },
-    { "title": "Rise", "summary": "Cover loosely and let rise in a warm place 1 to 2 hours, until doubled." },
-    { "title": "Knead and shape", "summary": "Knead the risen dough until firm, adding a little flour as needed, then roll to about 2.5 cm thick and cut into rounds." },
-    { "title": "Fry", "summary": "Fry in oil at about 177°C until deep golden on both sides, 3 to 5 minutes depending on size." },
-    { "title": "Drain and serve", "summary": "Lift out with a slotted spoon, drain on paper towels, and serve hot, split and filled with curried mince or spread with jam." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "savory",
+    "sweet"
   ],
-  "source": { "url": "https://www.africanbites.com/vetkoek/", "site": "Immaculate Bites", "retrieved": "2026-07-18", "adaptation": "Frying oil absorbed into the dough estimated at 10% of the dough's weight, since the deep-frying bath itself is mostly reused, not consumed." },
-  "tags": ["fried-bread", "township-food", "south-african"]
+  "purposes": [
+    "breakfast",
+    "snack",
+    "street-food",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best eaten hot the day it is fried; reheat in a hot oven to recrisp rather than microwaving, which turns them soft and greasy."
+  },
+  "equipment": [
+    "deep-fryer"
+  ],
+  "method": [
+    {
+      "title": "Activate yeast",
+      "summary": "Combine salt, sugar, yeast and lukewarm water; let stand about 5 minutes until it foams."
+    },
+    {
+      "title": "Mix",
+      "summary": "Stir in the flour until just combined into a shaggy dough."
+    },
+    {
+      "title": "Rise",
+      "summary": "Cover loosely and let rise in a warm place 1 to 2 hours, until doubled."
+    },
+    {
+      "title": "Knead and shape",
+      "summary": "Knead the risen dough until firm, adding a little flour as needed, then roll to about 2.5 cm thick and cut into rounds."
+    },
+    {
+      "title": "Fry",
+      "summary": "Fry in oil at about 177°C until deep golden on both sides, 3 to 5 minutes depending on size."
+    },
+    {
+      "title": "Drain and serve",
+      "summary": "Lift out with a slotted spoon, drain on paper towels, and serve hot, split and filled with curried mince or spread with jam."
+    }
+  ],
+  "source": {
+    "url": "https://www.africanbites.com/vetkoek/",
+    "site": "Immaculate Bites",
+    "retrieved": "2026-07-18",
+    "adaptation": "Frying oil absorbed into the dough estimated at 10% of the dough's weight, since the deep-frying bath itself is mostly reused, not consumed."
+  },
+  "tags": [
+    "fried-bread",
+    "township-food",
+    "south-african"
+  ],
+  "doughType": "dough"
 }

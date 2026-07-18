@@ -7,14 +7,20 @@
     "fr": "Pain aux quatre céréales allemand (Vierkornbrot)",
     "native": "Vierkornbrot"
   },
-  "aliases": ["four-grain loaf"],
+  "aliases": [
+    "four-grain loaf"
+  ],
   "description": {
     "en": "A firm, everyday German hearth loaf built from four grains, spelt, wheat, rye and barley, half of it wholegrain. An overnight rye sourdough and a slow spelt pre-dough give this understated multigrain bread real depth without ever feeling heavy.",
     "de": "Ein festes deutsches Brot aus vier Getreidearten – Dinkel, Weizen, Roggen und Gerste – zur Hälfte aus Vollkorn, frei auf dem Backstein gebacken. Ein Roggensauerteig und ein langsamer Dinkelvorteig geben diesem unaufdringlichen Alltagsbrot echte Tiefe.",
     "es": "Un pan de hogar alemán, firme y cotidiano, hecho con cuatro cereales, espelta, trigo, centeno y cebada, la mitad integral. Una masa madre de centeno de un día y una prefermentación lenta de espelta le dan a este pan discreto una auténtica profundidad.",
     "fr": "Un pain de campagne allemand ferme et quotidien, composé de quatre céréales, épeautre, blé, seigle et orge, pour moitié complètes. Un levain de seigle d'une nuit et un préfermenté d'épeautre lent donnent à ce pain discret une vraie profondeur."
   },
-  "origin": { "country": "DE", "region": "Germany-wide", "note": "Not a historic regional specialty but a deliberately composed modern everyday loaf; the barley is included partly for its beta-glucan content, not just flavor." },
+  "origin": {
+    "country": "DE",
+    "region": "Germany-wide",
+    "note": "Not a historic regional specialty but a deliberately composed modern everyday loaf; the barley is included partly for its beta-glucan content, not just flavor."
+  },
   "leaven": "hybrid",
   "family": "hearth-loaf",
   "formula": {
@@ -23,44 +29,158 @@
     "fatPct": 2,
     "prefermentedFlourPct": 51,
     "flours": [
-      { "type": "spelt-whole", "pct": 40 },
-      { "type": "wheat-whole", "pct": 39 },
-      { "type": "rye", "pct": 11 },
-      { "type": "barley", "pct": 10 }
+      {
+        "type": "spelt-whole",
+        "pct": 40
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 39
+      },
+      {
+        "type": "rye",
+        "pct": 11
+      },
+      {
+        "type": "barley",
+        "pct": 10
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:spelt-whole", "grams": 398, "note": "in the overnight pre-dough" },
-    { "key": "flour:wheat-whole", "grams": 388, "note": "type 1050" },
-    { "key": "flour:rye", "grams": 99, "note": "type 1150, in the overnight sourdough" },
-    { "key": "flour:barley", "grams": 99, "note": "wholegrain barley flour" },
-    { "key": "water", "grams": 647 },
-    { "key": "sourdough-starter", "grams": 20, "note": "soft rye starter (TA 200)" },
-    { "key": "salt", "grams": 22 },
-    { "key": "vegetable-oil", "grams": 20, "note": "sunflower oil" },
-    { "key": "fresh-yeast", "grams": 6.8 }
+    {
+      "key": "flour:spelt-whole",
+      "grams": 398,
+      "note": "in the overnight pre-dough"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 388,
+      "note": "type 1050"
+    },
+    {
+      "key": "flour:rye",
+      "grams": 99,
+      "note": "type 1150, in the overnight sourdough"
+    },
+    {
+      "key": "flour:barley",
+      "grams": 99,
+      "note": "wholegrain barley flour"
+    },
+    {
+      "key": "water",
+      "grams": 647
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 20,
+      "note": "soft rye starter (TA 200)"
+    },
+    {
+      "key": "salt",
+      "grams": 22
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 20,
+      "note": "sunflower oil"
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 6.8
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1480, "shape": "large oblong hearth loaf" },
-  "time": { "totalMin": 990, "activeMin": 30, "bulkMin": 90, "proofMin": 75, "bakeMin": 75, "overnight": true },
-  "bake": { "tempC": 250, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1480,
+    "shape": "large oblong hearth loaf"
+  },
+  "time": {
+    "totalMin": 990,
+    "activeMin": 30,
+    "bulkMin": 90,
+    "proofMin": 75,
+    "bakeMin": 75,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["nutty", "earthy", "malty", "mild"],
-  "purposes": ["everyday", "sandwich", "toast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 50 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "The sunflower oil and rye sourdough both help this loaf stay soft several days longer than a lean wheat bread." },
-  "equipment": ["baking-stone", "banneton"],
-  "method": [
-    { "title": "Build a rye sourdough", "summary": "Mix rye flour, water, salt and a spoonful of mature rye starter. Ferment 12 hours at room temperature." },
-    { "title": "Build a spelt pre-dough", "summary": "Separately mix wholegrain spelt flour, water and a trace of yeast into a firm dough. Ferment 12 hours alongside the sourdough." },
-    { "title": "Mix the main dough", "summary": "Combine both overnight pieces with wheat flour, wholegrain barley flour, water, salt, sunflower oil and a little more yeast into a firm dough." },
-    { "title": "Bulk ferment with folds", "summary": "Rest about 1.5 hours at room temperature, folding the dough twice early on." },
-    { "title": "Shape in two stages", "summary": "Round the dough gently and let it rest 30 minutes, then shape it into a tight oblong loaf, working a little rye flour into the seam to keep it from sealing shut." },
-    { "title": "Final proof", "summary": "Proof seam-down in a floured banneton for about 45 minutes." },
-    { "title": "Bake", "summary": "Turn the loaf out seam-up onto a hot baking stone, no scoring needed, as the seam splits open naturally, and bake with steam, lowering the temperature partway through, for about 75 minutes total." }
+  "flavors": [
+    "nutty",
+    "earthy",
+    "malty",
+    "mild"
   ],
-  "source": { "url": "https://www.ploetzblog.de/rezepte/vierkornbrot/id=61d429d454477a2938bc6e78", "site": "Plötzblog", "author": "Lutz Geißler", "retrieved": "2026-07-17", "adaptation": "Percentages reconciled by resolving the soft rye starter (TA 200) into its flour/water components, matching the source's own wholegrain math; method paraphrased and condensed." },
-  "tags": ["mehrkornbrot", "alltagsbrot"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "toast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 50
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "The sunflower oil and rye sourdough both help this loaf stay soft several days longer than a lean wheat bread."
+  },
+  "equipment": [
+    "baking-stone",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build a rye sourdough",
+      "summary": "Mix rye flour, water, salt and a spoonful of mature rye starter. Ferment 12 hours at room temperature."
+    },
+    {
+      "title": "Build a spelt pre-dough",
+      "summary": "Separately mix wholegrain spelt flour, water and a trace of yeast into a firm dough. Ferment 12 hours alongside the sourdough."
+    },
+    {
+      "title": "Mix the main dough",
+      "summary": "Combine both overnight pieces with wheat flour, wholegrain barley flour, water, salt, sunflower oil and a little more yeast into a firm dough."
+    },
+    {
+      "title": "Bulk ferment with folds",
+      "summary": "Rest about 1.5 hours at room temperature, folding the dough twice early on."
+    },
+    {
+      "title": "Shape in two stages",
+      "summary": "Round the dough gently and let it rest 30 minutes, then shape it into a tight oblong loaf, working a little rye flour into the seam to keep it from sealing shut."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Proof seam-down in a floured banneton for about 45 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Turn the loaf out seam-up onto a hot baking stone, no scoring needed, as the seam splits open naturally, and bake with steam, lowering the temperature partway through, for about 75 minutes total."
+    }
+  ],
+  "source": {
+    "url": "https://www.ploetzblog.de/rezepte/vierkornbrot/id=61d429d454477a2938bc6e78",
+    "site": "Plötzblog",
+    "author": "Lutz Geißler",
+    "retrieved": "2026-07-17",
+    "adaptation": "Percentages reconciled by resolving the soft rye starter (TA 200) into its flour/water components, matching the source's own wholegrain math; method paraphrased and condensed."
+  },
+  "tags": [
+    "mehrkornbrot",
+    "alltagsbrot"
+  ],
+  "doughType": "dough"
 }

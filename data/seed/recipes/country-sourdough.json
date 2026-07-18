@@ -6,14 +6,21 @@
     "es": "Pan de campo con masa madre (estilo Tartine)",
     "fr": "Pain rustique au levain (style Tartine)"
   },
-  "aliases": ["Tartine country loaf", "Basic country bread"],
+  "aliases": [
+    "Tartine country loaf",
+    "Basic country bread"
+  ],
   "description": {
     "en": "Chad Robertson's Tartine formula pairs a wet, mostly-white dough with a little whole wheat, an overnight cold proof and a scorching Dutch-oven bake for a blistered mahogany crust and wide-open, custardy crumb.",
     "de": "Das Brot, das tausend Hobby-Bäckereien inspirierte. Chad Robertsons Tartine-Rezept verbindet einen feuchten, überwiegend hellen Teig mit einem Hauch Vollkornmehl und einer kalten Übernacht-Gare zu einer blasigen, mahagonifarbenen Kruste und einer offenen, cremigen Krume.",
     "es": "El pan que lanzó mil panaderías caseras. La fórmula Tartine de Chad Robertson combina una masa húmeda mayormente blanca con un toque de integral y un fermento frío nocturno, para una corteza ampollada color caoba y una miga abierta y cremosa.",
     "fr": "Le pain qui a lancé mille boulangeries amateurs. La formule Tartine de Chad Robertson marie une pâte humide majoritairement blanche à une pointe de blé complet et une pousse froide toute une nuit, pour une croûte boursouflée acajou et une mie grande ouverte et crémeuse."
   },
-  "origin": { "country": "US", "region": "San Francisco, California", "note": "Chad Robertson's Tartine Bakery formula, first published in 'Tartine Bread' (2010); a modern reinvention distinct from the French pain de campagne tradition it draws inspiration from." },
+  "origin": {
+    "country": "US",
+    "region": "San Francisco, California",
+    "note": "Chad Robertson's Tartine Bakery formula, first published in 'Tartine Bread' (2010); a modern reinvention distinct from the French pain de campagne tradition it draws inspiration from."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -21,39 +28,131 @@
     "saltPct": 1.8,
     "prefermentedFlourPct": 9.9,
     "flours": [
-      { "type": "wheat-white", "pct": 63.1 },
-      { "type": "wheat-whole", "pct": 36.9 }
+      {
+        "type": "wheat-white",
+        "pct": 63.1
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 36.9
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 700, "note": "unbleached all-purpose" },
-    { "key": "flour:wheat-whole", "grams": 410 },
-    { "key": "water", "grams": 906 },
-    { "key": "sourdough-starter", "grams": 31, "note": "mature, 100% hydration, to build the overnight leaven" },
-    { "key": "salt", "grams": 20 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 700,
+      "note": "unbleached all-purpose"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 410
+    },
+    {
+      "key": "water",
+      "grams": 906
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 31,
+      "note": "mature, 100% hydration, to build the overnight leaven"
+    },
+    {
+      "key": "salt",
+      "grams": 20
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 950, "shape": "boule" },
-  "time": { "totalMin": 2295, "activeMin": 40, "bulkMin": 250, "proofMin": 1140, "bakeMin": 55, "overnight": true },
-  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 950,
+    "shape": "boule"
+  },
+  "time": {
+    "totalMin": 2295,
+    "activeMin": 40,
+    "bulkMin": 250,
+    "proofMin": 1140,
+    "bakeMin": 55,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "blistered",
-  "flavors": ["tangy", "wheaty", "mild"],
-  "purposes": ["everyday", "table"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 37 },
-  "keeping": { "freshDays": 4, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Build the leaven", "summary": "The night before, mix a spoonful of mature starter with whole wheat flour and water; let it ripen at room temperature about 12 hours until domed and bubbly." },
-    { "title": "Autolyse", "summary": "Disperse the leaven into most of the water, then mix in both flours until no dry bits remain; rest 30 minutes." },
-    { "title": "Add salt", "summary": "Sprinkle in salt with the reserved water and squeeze it through the dough by hand." },
-    { "title": "Bulk ferment", "summary": "Give the dough four vigorous stretch-and-fold turns at 30-minute intervals, then leave it undisturbed until it has grown 20-30%, about 4 hours total." },
-    { "title": "Shape", "summary": "Divide in two, preshape into loose rounds, rest 30 minutes, then shape into tight boules." },
-    { "title": "Cold proof", "summary": "Proof seam-side-up in floured baskets in the refrigerator for 18-20 hours." },
-    { "title": "Bake", "summary": "Score straight from the fridge and bake in a preheated Dutch oven at 230°C: 20 minutes covered, then about 35 minutes uncovered until deeply browned." },
-    { "title": "Rest", "summary": "Cool at least an hour on a rack before the first slice." }
+  "flavors": [
+    "tangy",
+    "wheaty",
+    "mild"
   ],
-  "source": { "url": "https://www.theperfectloaf.com/tartine-sourdough-country-loaf-bread-recipe/", "site": "The Perfect Loaf", "author": "Maurizio Leo, after Chad Robertson / Tartine Bread", "retrieved": "2026-07-17", "adaptation": "Percentages recomputed to include the leaven's flour/water in the 100% flour base; the source, following Robertson's book, excludes the leaven from hydration." },
-  "tags": ["tartine", "modern-classic"]
+  "purposes": [
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 37
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build the leaven",
+      "summary": "The night before, mix a spoonful of mature starter with whole wheat flour and water; let it ripen at room temperature about 12 hours until domed and bubbly."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Disperse the leaven into most of the water, then mix in both flours until no dry bits remain; rest 30 minutes."
+    },
+    {
+      "title": "Add salt",
+      "summary": "Sprinkle in salt with the reserved water and squeeze it through the dough by hand."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Give the dough four vigorous stretch-and-fold turns at 30-minute intervals, then leave it undisturbed until it has grown 20-30%, about 4 hours total."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide in two, preshape into loose rounds, rest 30 minutes, then shape into tight boules."
+    },
+    {
+      "title": "Cold proof",
+      "summary": "Proof seam-side-up in floured baskets in the refrigerator for 18-20 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Score straight from the fridge and bake in a preheated Dutch oven at 230°C: 20 minutes covered, then about 35 minutes uncovered until deeply browned."
+    },
+    {
+      "title": "Rest",
+      "summary": "Cool at least an hour on a rack before the first slice."
+    }
+  ],
+  "source": {
+    "url": "https://www.theperfectloaf.com/tartine-sourdough-country-loaf-bread-recipe/",
+    "site": "The Perfect Loaf",
+    "author": "Maurizio Leo, after Chad Robertson / Tartine Bread",
+    "retrieved": "2026-07-17",
+    "adaptation": "Percentages recomputed to include the leaven's flour/water in the 100% flour base; the source, following Robertson's book, excludes the leaven from hydration."
+  },
+  "tags": [
+    "tartine",
+    "modern-classic"
+  ],
+  "doughType": "dough"
 }

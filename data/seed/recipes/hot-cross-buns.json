@@ -6,7 +6,11 @@
     "es": "Hot Cross Buns (panecillos de la cruz)",
     "fr": "Hot Cross Buns (petits pains de Pâques)"
   },
-  "aliases": ["cross buns", "Good Friday buns", "Easter spiced buns"],
+  "aliases": [
+    "cross buns",
+    "Good Friday buns",
+    "Easter spiced buns"
+  ],
   "description": {
     "en": "Spiced English yeast buns studded with currants and candied peel, marked with a piped cross and glazed sticky-sweet. Baked every Good Friday to mark the end of Lent, they're split, toasted and buttered all through the Easter season.",
     "de": "Englische Hefebrötchen mit Gewürzen, Korinthen und kandierter Schale, mit einem aufgespritzten Kreuz markiert und klebrig-süß glasiert. Traditionell am Karfreitag zum Ende der Fastenzeit gebacken und die ganze Osterzeit über getoastet genossen.",
@@ -23,53 +27,189 @@
   "formula": {
     "hydrationPct": 64.8,
     "saltPct": 1.6,
-    "sugarPct": 10.0,
+    "sugarPct": 10,
     "fatPct": 11.4,
     "yeastPct": 1.2,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500, "note": "strong white bread flour, for the dough" },
-    { "key": "milk", "grams": 300, "note": "for the dough" },
-    { "key": "butter", "grams": 57, "note": "softened" },
-    { "key": "egg", "grams": 50, "note": "1 large egg" },
-    { "key": "egg-yolk", "grams": 18, "note": "1 extra yolk, for richness" },
-    { "key": "sugar", "grams": 50, "note": "for the dough" },
-    { "key": "instant-yeast", "grams": 6 },
-    { "key": "salt", "grams": 8 },
-    { "key": "lemon-zest", "grams": 5, "note": "zest of 1 lemon" },
-    { "key": "raisins", "grams": 110, "note": "or currants, the more traditional British choice" },
-    { "key": "candied-citrus", "grams": 45, "note": "mixed candied orange and lemon peel" },
-    { "label": { "en": "mixed spice", "de": "britische Gewürzmischung (Mixed Spice)", "es": "mezcla de especias británica (mixed spice)", "fr": "mélange d'épices britannique (mixed spice)" }, "grams": 5 },
-    { "key": "cinnamon", "grams": 3, "note": "extra ground cinnamon" },
-    { "key": "flour:wheat-white", "grams": 30, "note": "for the piped flour-water cross; not counted toward the dough's flour percentage" },
-    { "key": "water", "grams": 45, "note": "for the cross paste" },
-    { "key": "sugar", "grams": 50, "note": "for the post-bake glaze" },
-    { "key": "water", "grams": 60, "note": "for the post-bake glaze syrup" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "strong white bread flour, for the dough"
+    },
+    {
+      "key": "milk",
+      "grams": 300,
+      "note": "for the dough"
+    },
+    {
+      "key": "butter",
+      "grams": 57,
+      "note": "softened"
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "1 large egg"
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 18,
+      "note": "1 extra yolk, for richness"
+    },
+    {
+      "key": "sugar",
+      "grams": 50,
+      "note": "for the dough"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 6
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "lemon-zest",
+      "grams": 5,
+      "note": "zest of 1 lemon"
+    },
+    {
+      "key": "raisins",
+      "grams": 110,
+      "note": "or currants, the more traditional British choice"
+    },
+    {
+      "key": "candied-citrus",
+      "grams": 45,
+      "note": "mixed candied orange and lemon peel"
+    },
+    {
+      "label": {
+        "en": "mixed spice",
+        "de": "britische Gewürzmischung (Mixed Spice)",
+        "es": "mezcla de especias británica (mixed spice)",
+        "fr": "mélange d'épices britannique (mixed spice)"
+      },
+      "grams": 5
+    },
+    {
+      "key": "cinnamon",
+      "grams": 3,
+      "note": "extra ground cinnamon"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 30,
+      "note": "for the piped flour-water cross; not counted toward the dough's flour percentage"
+    },
+    {
+      "key": "water",
+      "grams": 45,
+      "note": "for the cross paste"
+    },
+    {
+      "key": "sugar",
+      "grams": 50,
+      "note": "for the post-bake glaze"
+    },
+    {
+      "key": "water",
+      "grams": 60,
+      "note": "for the post-bake glaze syrup"
+    }
   ],
-  "yield": { "count": 12, "pieceGrams": 103, "shape": "round bun, piped cross" },
-  "time": { "totalMin": 295, "activeMin": 50, "bulkMin": 105, "proofMin": 50, "bakeMin": 18, "overnight": false },
-  "bake": { "tempC": 204, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 12,
+    "pieceGrams": 103,
+    "shape": "round bun, piped cross"
+  },
+  "time": {
+    "totalMin": 295,
+    "activeMin": 50,
+    "bulkMin": 105,
+    "proofMin": 50,
+    "bakeMin": 18,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 204,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["spiced", "sweet", "fruity", "rich"],
-  "purposes": ["holiday", "celebration", "breakfast", "snack"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Good for a few days and excellent toasted after that; the dried fruit keeps them moister than a plain roll." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "spiced",
+    "sweet",
+    "fruity",
+    "rich"
+  ],
+  "purposes": [
+    "holiday",
+    "celebration",
+    "breakfast",
+    "snack"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Good for a few days and excellent toasted after that; the dried fruit keeps them moister than a plain roll."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Soak the fruit", "summary": "Steep the currants or raisins and candied peel in hot tea while you prepare the dough, then drain well." },
-    { "title": "Mix the dough", "summary": "Combine flour, mixed spice, cinnamon, salt, sugar and lemon zest, then work in the milk, yeast, butter, egg and yolk into a smooth, elastic dough." },
-    { "title": "Add the fruit", "summary": "Knead the drained fruit and peel through the dough until it's evenly distributed." },
-    { "title": "First rise", "summary": "Cover and let the dough double in a warm spot, about 1.5-2 hours." },
-    { "title": "Shape", "summary": "Divide into 12 even balls, set them close together in a baking pan, and let them proof again until puffy, up to an hour." },
-    { "title": "Pipe the cross", "summary": "Pipe a thick flour-water paste in strips across each bun to mark the traditional cross." },
-    { "title": "Bake", "summary": "Bake at around 200°C (400°F) for 15-20 minutes until golden." },
-    { "title": "Glaze", "summary": "Brush the warm buns with a simmered sugar-water syrup for their characteristic sticky shine." }
+    {
+      "title": "Soak the fruit",
+      "summary": "Steep the currants or raisins and candied peel in hot tea while you prepare the dough, then drain well."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine flour, mixed spice, cinnamon, salt, sugar and lemon zest, then work in the milk, yeast, butter, egg and yolk into a smooth, elastic dough."
+    },
+    {
+      "title": "Add the fruit",
+      "summary": "Knead the drained fruit and peel through the dough until it's evenly distributed."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let the dough double in a warm spot, about 1.5-2 hours."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into 12 even balls, set them close together in a baking pan, and let them proof again until puffy, up to an hour."
+    },
+    {
+      "title": "Pipe the cross",
+      "summary": "Pipe a thick flour-water paste in strips across each bun to mark the traditional cross."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at around 200°C (400°F) for 15-20 minutes until golden."
+    },
+    {
+      "title": "Glaze",
+      "summary": "Brush the warm buns with a simmered sugar-water syrup for their characteristic sticky shine."
+    }
   ],
   "source": {
     "url": "https://www.daringgourmet.com/traditional-hot-cross-buns/",
@@ -77,5 +217,10 @@
     "retrieved": "2026-07-17",
     "adaptation": "formula.* covers the dough only. The piped flour-water cross and post-bake sugar glaze are itemized but excluded from the flour total and from hydration/sugar/fat percentages."
   },
-  "tags": ["easter", "good-friday", "spiced-fruit"]
+  "tags": [
+    "easter",
+    "good-friday",
+    "spiced-fruit"
+  ],
+  "doughType": "dough"
 }

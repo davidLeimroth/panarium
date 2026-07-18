@@ -7,14 +7,20 @@
     "fr": "Fougasse aux olives",
     "native": "Fougasse"
   },
-  "aliases": ["fougasse provençale"],
+  "aliases": [
+    "fougasse provençale"
+  ],
   "description": {
     "en": "A flat, leaf-shaped Provençal loaf slashed into a lattice so it bakes thin and mostly crust, its olive-oil dough studded with black olives and herbes de Provence. Descended from the Roman panis focacius.",
     "de": "Ein flaches, blattförmiges provenzalisches Brot mit gitterartigen Einschnitten, das dünn und fast nur aus Kruste bäckt; der Olivenölteig ist gespickt mit schwarzen Oliven und Kräutern der Provence. Abstammend vom römischen panis focacius.",
     "es": "Una hogaza provenzal plana, en forma de hoja, cortada en celosía para que se hornee fina y casi toda corteza; su masa con aceite de oliva va salpicada de aceitunas negras y hierbas de Provenza. Desciende del panis focacius romano.",
     "fr": "Un pain provençal plat en forme de feuille, entaillé en réseau pour cuire fin et croustillant à souhait, à la pâte à l'huile d'olive parsemée d'olives noires et d'herbes de Provence. Descendant du panis focacius romain."
   },
-  "origin": { "country": "FR", "region": "Provence", "note": "Bakers once fired the first fougasse into the wood oven to test its heat before the real bake of the day, long before it became a dish in its own right." },
+  "origin": {
+    "country": "FR",
+    "region": "Provence",
+    "note": "Bakers once fired the first fougasse into the wood oven to test its heat before the real bake of the day, long before it became a dish in its own right."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -22,38 +28,136 @@
     "saltPct": 2,
     "fatPct": 9,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "water", "grams": 300 },
-    { "key": "olive-oil", "grams": 45 },
-    { "key": "salt", "grams": 10 },
-    { "key": "fresh-yeast", "grams": 25 },
-    { "label": { "en": "black olives", "de": "schwarze Oliven", "es": "aceitunas negras", "fr": "olives noires" }, "grams": 100, "note": "pitted, sliced" },
-    { "label": { "en": "herbes de Provence", "de": "Kräuter der Provence", "es": "hierbas de Provenza", "fr": "herbes de Provence" }, "grams": 5 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 300
+    },
+    {
+      "key": "olive-oil",
+      "grams": 45
+    },
+    {
+      "key": "salt",
+      "grams": 10
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 25
+    },
+    {
+      "label": {
+        "en": "black olives",
+        "de": "schwarze Oliven",
+        "es": "aceitunas negras",
+        "fr": "olives noires"
+      },
+      "grams": 100,
+      "note": "pitted, sliced"
+    },
+    {
+      "label": {
+        "en": "herbes de Provence",
+        "de": "Kräuter der Provence",
+        "es": "hierbas de Provenza",
+        "fr": "herbes de Provence"
+      },
+      "grams": 5
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 730, "shape": "flat oval, leaf-slashed" },
-  "time": { "totalMin": 160, "activeMin": 35, "bulkMin": 60, "proofMin": 20, "bakeMin": 22, "overnight": false },
-  "bake": { "tempC": 220, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 730,
+    "shape": "flat oval, leaf-slashed"
+  },
+  "time": {
+    "totalMin": 160,
+    "activeMin": 35,
+    "bulkMin": 60,
+    "proofMin": 20,
+    "bakeMin": 22,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "open",
   "crust": "crisp",
-  "flavors": ["olive", "herbal", "savory"],
-  "purposes": ["table", "snack", "side", "picnic"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best warm the day it's baked; a hot oven for a few minutes revives it the next day." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Bloom the yeast", "summary": "Dissolve the yeast in the warm water." },
-    { "title": "Mix", "summary": "Work in the flour, olive oil and salt; knead to a smooth, supple dough." },
-    { "title": "First rise", "summary": "Let rise about an hour until doubled." },
-    { "title": "Add olives and herbs", "summary": "Gently fold in the olives and herbes de Provence, then pat out into a flat oval." },
-    { "title": "Slash", "summary": "Cut the classic leaf-vein pattern through the dough and pull the slashes open so they bake apart." },
-    { "title": "Bake", "summary": "Proof briefly, brush with olive oil, and bake hot until golden and crisp." }
+  "flavors": [
+    "olive",
+    "herbal",
+    "savory"
   ],
-  "source": { "url": "https://www.boulangerie.info/recette-fougasse-traditionnelle-aux-olives-et-herbes-de-provence/", "site": "Boulangerie.info", "retrieved": "2026-07-17" },
-  "tags": ["provence", "huile-d-olive"]
+  "purposes": [
+    "table",
+    "snack",
+    "side",
+    "picnic"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best warm the day it's baked; a hot oven for a few minutes revives it the next day."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom the yeast",
+      "summary": "Dissolve the yeast in the warm water."
+    },
+    {
+      "title": "Mix",
+      "summary": "Work in the flour, olive oil and salt; knead to a smooth, supple dough."
+    },
+    {
+      "title": "First rise",
+      "summary": "Let rise about an hour until doubled."
+    },
+    {
+      "title": "Add olives and herbs",
+      "summary": "Gently fold in the olives and herbes de Provence, then pat out into a flat oval."
+    },
+    {
+      "title": "Slash",
+      "summary": "Cut the classic leaf-vein pattern through the dough and pull the slashes open so they bake apart."
+    },
+    {
+      "title": "Bake",
+      "summary": "Proof briefly, brush with olive oil, and bake hot until golden and crisp."
+    }
+  ],
+  "source": {
+    "url": "https://www.boulangerie.info/recette-fougasse-traditionnelle-aux-olives-et-herbes-de-provence/",
+    "site": "Boulangerie.info",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "provence",
+    "huile-d-olive"
+  ],
+  "doughType": "dough"
 }

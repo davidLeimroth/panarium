@@ -7,14 +7,21 @@
     "fr": "Pain naan",
     "native": "نان"
   },
-  "aliases": ["tandoori naan", "naan bread"],
+  "aliases": [
+    "tandoori naan",
+    "naan bread"
+  ],
   "description": {
     "en": "A pillowy leavened flatbread enriched with yogurt, blistered hot in a tandoor or a screaming-hot skillet until it chars and puffs. Torn by hand to scoop curries or wrap around tandoori meats.",
     "de": "Ein weiches, mit Joghurt angereichertes Hefe-Fladenbrot, das im Tandoor oder in der heißen Pfanne Blasen wirft und leicht anbrennt. Man reißt es mit der Hand, um Currys aufzutunken oder Tandoori-Fleisch einzuwickeln.",
     "es": "Un pan plano leudado y esponjoso, enriquecido con yogur, que se ampolla al calor abrasador del tandoor o de una sartén hasta chamuscarse. Se rasga con la mano para mojar curries o envolver carnes tandoori.",
     "fr": "Un pain plat levé et moelleux, enrichi au yaourt, qui cloque et se tache de noir dans un four tandoor ou une poêle brûlante. On le déchire à la main pour saucer un curry ou envelopper des viandes tandoori."
   },
-  "origin": { "country": "IN", "region": "North India & Pakistan (Punjab)", "note": "The name and tandoor technique trace back to Persia and Central Asia; today it is most iconic in North Indian and Pakistani Punjabi cooking." },
+  "origin": {
+    "country": "IN",
+    "region": "North India & Pakistan (Punjab)",
+    "note": "The name and tandoor technique trace back to Persia and Central Asia; today it is most iconic in North Indian and Pakistani Punjabi cooking."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -23,38 +30,130 @@
     "fatPct": 11,
     "yeastPct": 1.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 256, "note": "all-purpose flour" },
-    { "key": "water", "grams": 136, "note": "just-boiled, cooled slightly to activate yeast" },
-    { "key": "yogurt", "grams": 120, "note": "full-fat" },
-    { "key": "instant-yeast", "grams": 4 },
-    { "key": "salt", "grams": 5 },
-    { "key": "butter", "grams": 28, "note": "melted, brushed on after cooking" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 256,
+      "note": "all-purpose flour"
+    },
+    {
+      "key": "water",
+      "grams": 136,
+      "note": "just-boiled, cooled slightly to activate yeast"
+    },
+    {
+      "key": "yogurt",
+      "grams": 120,
+      "note": "full-fat"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 4
+    },
+    {
+      "key": "salt",
+      "grams": 5
+    },
+    {
+      "key": "butter",
+      "grams": 28,
+      "note": "melted, brushed on after cooking"
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 130, "shape": "teardrop, 8-9 in (20-23 cm)" },
-  "time": { "totalMin": 115, "activeMin": 25, "bulkMin": 75, "proofMin": 10, "bakeMin": 8, "overnight": false },
-  "bake": { "tempC": 270, "steam": false, "vessel": "skillet" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 130,
+    "shape": "teardrop, 8-9 in (20-23 cm)"
+  },
+  "time": {
+    "totalMin": 115,
+    "activeMin": 25,
+    "bulkMin": 75,
+    "proofMin": 10,
+    "bakeMin": 8,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 270,
+    "steam": false,
+    "vessel": "skillet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "blistered",
-  "flavors": ["tangy", "buttery", "mild"],
-  "purposes": ["everyday", "side", "street-food"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best hot off the skillet; reheat wrapped in foil. Freezes well stacked between parchment." },
-  "equipment": ["skillet"],
-  "method": [
-    { "title": "Bloom & mix", "summary": "Whisk yeast into just-boiled water to cool it, then stir in yogurt, flour and salt to a shaggy, very wet dough." },
-    { "title": "Knead briefly", "summary": "Knead a couple of minutes until smooth; the dough stays tacky at this high hydration." },
-    { "title": "First rise", "summary": "Cover and let rise about 75 minutes at warm room temperature until doubled." },
-    { "title": "Divide & rest", "summary": "Divide into 4 pieces, shape into balls, and rest a few minutes to relax the gluten." },
-    { "title": "Stretch", "summary": "Stretch or roll each piece into a teardrop shape without deflating the bubbles." },
-    { "title": "Sear", "summary": "Lay in a dry, screaming-hot cast-iron skillet, cover, and cook about a minute per side until charred bubbles form and the naan puffs." },
-    { "title": "Finish", "summary": "Brush hot naan with melted butter and serve immediately, torn by hand." }
+  "flavors": [
+    "tangy",
+    "buttery",
+    "mild"
   ],
-  "source": { "url": "https://alexandracooks.com/2020/02/27/simple-yeasted-homemade-naan-a-step-by-step-guide/", "site": "Alexandra's Kitchen", "author": "Alexandra Stafford", "retrieved": "2026-07-17", "adaptation": "Hydration recalculated using yogurt's approximate water content per baker's-percentage convention (milk ~88%); source states liquid and flour as equal by weight." },
-  "tags": ["tandoor", "yogurt-dough"]
+  "purposes": [
+    "everyday",
+    "side",
+    "street-food"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best hot off the skillet; reheat wrapped in foil. Freezes well stacked between parchment."
+  },
+  "equipment": [
+    "skillet"
+  ],
+  "method": [
+    {
+      "title": "Bloom & mix",
+      "summary": "Whisk yeast into just-boiled water to cool it, then stir in yogurt, flour and salt to a shaggy, very wet dough."
+    },
+    {
+      "title": "Knead briefly",
+      "summary": "Knead a couple of minutes until smooth; the dough stays tacky at this high hydration."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise about 75 minutes at warm room temperature until doubled."
+    },
+    {
+      "title": "Divide & rest",
+      "summary": "Divide into 4 pieces, shape into balls, and rest a few minutes to relax the gluten."
+    },
+    {
+      "title": "Stretch",
+      "summary": "Stretch or roll each piece into a teardrop shape without deflating the bubbles."
+    },
+    {
+      "title": "Sear",
+      "summary": "Lay in a dry, screaming-hot cast-iron skillet, cover, and cook about a minute per side until charred bubbles form and the naan puffs."
+    },
+    {
+      "title": "Finish",
+      "summary": "Brush hot naan with melted butter and serve immediately, torn by hand."
+    }
+  ],
+  "source": {
+    "url": "https://alexandracooks.com/2020/02/27/simple-yeasted-homemade-naan-a-step-by-step-guide/",
+    "site": "Alexandra's Kitchen",
+    "author": "Alexandra Stafford",
+    "retrieved": "2026-07-17",
+    "adaptation": "Hydration recalculated using yogurt's approximate water content per baker's-percentage convention (milk ~88%); source states liquid and flour as equal by weight."
+  },
+  "tags": [
+    "tandoor",
+    "yogurt-dough"
+  ],
+  "doughType": "dough"
 }

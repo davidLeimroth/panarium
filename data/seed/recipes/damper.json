@@ -6,7 +6,9 @@
     "es": "Damper",
     "fr": "Damper"
   },
-  "aliases": ["bush bread"],
+  "aliases": [
+    "bush bread"
+  ],
   "description": {
     "en": "The bread of the Australian bush: a soft, butter-rubbed dough needs no yeast and barely any kneading, so a drover, shearer or camper could mix it, score a cross on top, and bury it in campfire coals or a hot oven within minutes.",
     "de": "Das Brot des australischen Buschlandes: Ein weicher, mit Butter verriebener Teig braucht weder Hefe noch viel Kneten, sodass Viehtreiber, Schafscherer oder Camper ihn anrühren, mit einem Kreuz einschneiden und binnen Minuten in Glut oder heißem Ofen versenken konnten.",
@@ -25,37 +27,122 @@
     "saltPct": 2.4,
     "fatPct": 8,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 250, "note": "or self-raising flour, omitting the added baking powder" },
-    { "key": "baking-powder", "grams": 8 },
-    { "key": "salt", "grams": 6 },
-    { "key": "butter", "grams": 20, "note": "cold, cubed" },
-    { "key": "milk", "grams": 125 },
-    { "key": "water", "grams": 125 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 250,
+      "note": "or self-raising flour, omitting the added baking powder"
+    },
+    {
+      "key": "baking-powder",
+      "grams": 8
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "butter",
+      "grams": 20,
+      "note": "cold, cubed"
+    },
+    {
+      "key": "milk",
+      "grams": 125
+    },
+    {
+      "key": "water",
+      "grams": 125
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 534, "shape": "round loaf, cross scored on top" },
-  "time": { "totalMin": 40, "activeMin": 10, "bakeMin": 25, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 534,
+    "shape": "round loaf, cross scored on top"
+  },
+  "time": {
+    "totalMin": 40,
+    "activeMin": 10,
+    "bakeMin": 25,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 1,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["mild", "wheaty", "buttery", "savory"],
-  "purposes": ["everyday", "soup-companion", "picnic"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best warm from the oven or campfire with butter and golden syrup; doesn't keep well past a day." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix dry", "summary": "Combine flour and salt, then rub in cold butter until the mixture looks like coarse crumbs." },
-    { "title": "Add liquid", "summary": "Make a well in the center, pour in milk and water, and stir just until a soft dough comes together." },
-    { "title": "Shape", "summary": "Gather the dough into one round loaf, or divide into smaller portions." },
-    { "title": "Score", "summary": "Cut a cross into the top so it bakes through evenly." },
-    { "title": "Bake", "summary": "Bake in a hot oven, camp oven, or nestled in campfire coals until golden and hollow-sounding when tapped." },
-    { "title": "Serve", "summary": "Tear or slice while still warm, with butter and golden syrup or honey." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "buttery",
+    "savory"
   ],
-  "source": { "url": "https://www.wandercooks.com/mini-australian-damper-recipe/", "site": "Wandercooks", "retrieved": "2026-07-17", "adaptation": "Self-raising flour modeled as plain flour plus baking powder for baker's-percentage consistency." },
-  "tags": ["campfire", "no-knead"]
+  "purposes": [
+    "everyday",
+    "soup-companion",
+    "picnic"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best warm from the oven or campfire with butter and golden syrup; doesn't keep well past a day."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix dry",
+      "summary": "Combine flour and salt, then rub in cold butter until the mixture looks like coarse crumbs."
+    },
+    {
+      "title": "Add liquid",
+      "summary": "Make a well in the center, pour in milk and water, and stir just until a soft dough comes together."
+    },
+    {
+      "title": "Shape",
+      "summary": "Gather the dough into one round loaf, or divide into smaller portions."
+    },
+    {
+      "title": "Score",
+      "summary": "Cut a cross into the top so it bakes through evenly."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a hot oven, camp oven, or nestled in campfire coals until golden and hollow-sounding when tapped."
+    },
+    {
+      "title": "Serve",
+      "summary": "Tear or slice while still warm, with butter and golden syrup or honey."
+    }
+  ],
+  "source": {
+    "url": "https://www.wandercooks.com/mini-australian-damper-recipe/",
+    "site": "Wandercooks",
+    "retrieved": "2026-07-17",
+    "adaptation": "Self-raising flour modeled as plain flour plus baking powder for baker's-percentage consistency."
+  },
+  "tags": [
+    "campfire",
+    "no-knead"
+  ],
+  "doughType": "dough"
 }

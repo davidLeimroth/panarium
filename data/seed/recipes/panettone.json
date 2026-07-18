@@ -6,7 +6,10 @@
     "es": "Panettone (pan navideño de Milán)",
     "fr": "Panettone (brioche de Noël milanaise)"
   },
-  "aliases": ["panetone", "Milanese Christmas bread"],
+  "aliases": [
+    "panetone",
+    "Milanese Christmas bread"
+  ],
   "description": {
     "en": "Milan's towering holiday bread, its dome raised over days by a stiff natural starter alone and studded with candied citrus and raisins. Torn open at Christmas and New Year's tables, it rewards the wait with an impossibly light, fragrant crumb.",
     "de": "Mailands hoch aufragendes Festtagsgebäck: seine Kuppel wächst über Tage allein durch einen festen Natursauerteig und ist gespickt mit kandierten Zitrusfrüchten und Rosinen. An Weihnachten und Neujahr aufgerissen, belohnt es die Geduld mit einer federleichten, duftenden Krume.",
@@ -27,47 +30,177 @@
     "fatPct": 37.3,
     "prefermentedFlourPct": 80,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "sourdough-starter", "grams": 69, "note": "mature stiff lievito madre (pasta madre), about 40% hydration, refreshed before use" },
-    { "key": "flour:wheat-white", "grams": 300, "note": "high-protein (Manitoba-style) flour: 240g in the primo impasto, 60g in the secondo impasto" },
-    { "key": "water", "grams": 120 },
-    { "key": "sugar", "grams": 141, "note": "granulated: 75g in the primo impasto, 66g in the secondo impasto" },
-    { "key": "egg-yolk", "grams": 150, "note": "54g in the primo impasto, 96g in the secondo impasto" },
-    { "key": "butter", "grams": 112, "note": "72g in the primo impasto, 40g in the secondo impasto, softened" },
-    { "key": "salt", "grams": 4 },
-    { "key": "malt-syrup", "grams": 2, "note": "diastatic malt powder; 1 tsp honey may substitute" },
-    { "key": "honey", "grams": 30, "note": "in the overnight aromatic infusion, with citrus zest" },
-    { "key": "orange-zest", "grams": 5, "note": "zest of 1 orange, in the aromatic infusion" },
-    { "key": "lemon-zest", "grams": 3, "note": "zest of 1 lemon, in the aromatic infusion" },
-    { "key": "vanilla", "grams": 3, "note": "seeds scraped from 1 vanilla pod" },
-    { "key": "raisins", "grams": 120, "note": "sultanas, folded in with the candied peel" },
-    { "key": "candied-citrus", "grams": 90, "note": "60g candied orange peel plus 30g candied lemon peel" }
+    {
+      "key": "sourdough-starter",
+      "grams": 69,
+      "note": "mature stiff lievito madre (pasta madre), about 40% hydration, refreshed before use"
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 300,
+      "note": "high-protein (Manitoba-style) flour: 240g in the primo impasto, 60g in the secondo impasto"
+    },
+    {
+      "key": "water",
+      "grams": 120
+    },
+    {
+      "key": "sugar",
+      "grams": 141,
+      "note": "granulated: 75g in the primo impasto, 66g in the secondo impasto"
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 150,
+      "note": "54g in the primo impasto, 96g in the secondo impasto"
+    },
+    {
+      "key": "butter",
+      "grams": 112,
+      "note": "72g in the primo impasto, 40g in the secondo impasto, softened"
+    },
+    {
+      "key": "salt",
+      "grams": 4
+    },
+    {
+      "key": "malt-syrup",
+      "grams": 2,
+      "note": "diastatic malt powder; 1 tsp honey may substitute"
+    },
+    {
+      "key": "honey",
+      "grams": 30,
+      "note": "in the overnight aromatic infusion, with citrus zest"
+    },
+    {
+      "key": "orange-zest",
+      "grams": 5,
+      "note": "zest of 1 orange, in the aromatic infusion"
+    },
+    {
+      "key": "lemon-zest",
+      "grams": 3,
+      "note": "zest of 1 lemon, in the aromatic infusion"
+    },
+    {
+      "key": "vanilla",
+      "grams": 3,
+      "note": "seeds scraped from 1 vanilla pod"
+    },
+    {
+      "key": "raisins",
+      "grams": 120,
+      "note": "sultanas, folded in with the candied peel"
+    },
+    {
+      "key": "candied-citrus",
+      "grams": 90,
+      "note": "60g candied orange peel plus 30g candied lemon peel"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 550, "shape": "tall paper panettone mold, ~13cm dia." },
-  "time": { "totalMin": 2010, "activeMin": 90, "bulkMin": 720, "proofMin": 450, "bakeMin": 30, "overnight": true },
-  "bake": { "tempC": 175, "steam": false, "vessel": "none" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 550,
+    "shape": "tall paper panettone mold, ~13cm dia."
+  },
+  "time": {
+    "totalMin": 2010,
+    "activeMin": 90,
+    "bulkMin": 720,
+    "proofMin": 450,
+    "bakeMin": 30,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 175,
+    "steam": false,
+    "vessel": "none"
+  },
   "difficulty": 5,
   "crumb": "open",
   "crust": "soft",
-  "flavors": ["rich", "sweet", "buttery", "fruity"],
-  "purposes": ["celebration", "holiday", "dessert", "table"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 14, "freezes": true, "note": "A proper natural-levain crumb stays remarkably soft and fragrant for about two weeks sealed at room temperature; the long fermentation and high sugar and fat content act as natural preservatives." },
-  "equipment": ["stand-mixer"],
-  "method": [
-    { "title": "Infuse the aromatics", "summary": "Warm honey with orange and lemon zest and vanilla seeds; refrigerate overnight so the flavors steep together." },
-    { "title": "Build the first dough", "summary": "Knead the ripe stiff starter with flour and sugar-water until stretchy, then work in butter and egg yolks; ferment about 12 hours at warm room temperature until tripled." },
-    { "title": "Build the second dough", "summary": "Knead in more flour and the malt, then gradually add sugar, egg yolks, salt and the aromatic infusion, keeping the dough below 28°C throughout mixing." },
-    { "title": "Add butter and fruit", "summary": "Work in the remaining butter in stages, then fold in the raisins and candied peel on the lowest speed just until distributed." },
-    { "title": "Shape and mold", "summary": "Rest the dough briefly, shape into balls, and settle each into a tall paper panettone mold pierced near the base with skewers." },
-    { "title": "Final proof", "summary": "Let rise in a warm spot until the dough nears the rim of the mold, roughly 6-8 hours." },
-    { "title": "Bake", "summary": "Score a shallow cross on top, add a small pat of butter, and bake at 175°C (350°F) for 25-35 minutes." },
-    { "title": "Cool upside down", "summary": "Immediately skewer through the base and suspend each loaf upside down for about 12 hours so the tall crumb does not collapse as it cools." }
+  "flavors": [
+    "rich",
+    "sweet",
+    "buttery",
+    "fruity"
   ],
-  "source": { "url": "https://natashasbaking.com/panettone-recipe/", "site": "Natasha's Baking", "author": "adapted from Piergiorgio Giorilli's formula", "retrieved": "2026-07-17", "adaptation": "Method paraphrased and condensed from a two-day primo/secondo impasto process; citrus zest and vanilla pod weights estimated since the source gives them by piece, not grams." },
-  "tags": ["lievito-madre", "christmas", "candied-fruit"]
+  "purposes": [
+    "celebration",
+    "holiday",
+    "dessert",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 14,
+    "freezes": true,
+    "note": "A proper natural-levain crumb stays remarkably soft and fragrant for about two weeks sealed at room temperature; the long fermentation and high sugar and fat content act as natural preservatives."
+  },
+  "equipment": [
+    "stand-mixer"
+  ],
+  "method": [
+    {
+      "title": "Infuse the aromatics",
+      "summary": "Warm honey with orange and lemon zest and vanilla seeds; refrigerate overnight so the flavors steep together."
+    },
+    {
+      "title": "Build the first dough",
+      "summary": "Knead the ripe stiff starter with flour and sugar-water until stretchy, then work in butter and egg yolks; ferment about 12 hours at warm room temperature until tripled."
+    },
+    {
+      "title": "Build the second dough",
+      "summary": "Knead in more flour and the malt, then gradually add sugar, egg yolks, salt and the aromatic infusion, keeping the dough below 28°C throughout mixing."
+    },
+    {
+      "title": "Add butter and fruit",
+      "summary": "Work in the remaining butter in stages, then fold in the raisins and candied peel on the lowest speed just until distributed."
+    },
+    {
+      "title": "Shape and mold",
+      "summary": "Rest the dough briefly, shape into balls, and settle each into a tall paper panettone mold pierced near the base with skewers."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Let rise in a warm spot until the dough nears the rim of the mold, roughly 6-8 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Score a shallow cross on top, add a small pat of butter, and bake at 175°C (350°F) for 25-35 minutes."
+    },
+    {
+      "title": "Cool upside down",
+      "summary": "Immediately skewer through the base and suspend each loaf upside down for about 12 hours so the tall crumb does not collapse as it cools."
+    }
+  ],
+  "source": {
+    "url": "https://natashasbaking.com/panettone-recipe/",
+    "site": "Natasha's Baking",
+    "author": "adapted from Piergiorgio Giorilli's formula",
+    "retrieved": "2026-07-17",
+    "adaptation": "Method paraphrased and condensed from a two-day primo/secondo impasto process; citrus zest and vanilla pod weights estimated since the source gives them by piece, not grams."
+  },
+  "tags": [
+    "lievito-madre",
+    "christmas",
+    "candied-fruit"
+  ],
+  "doughType": "dough"
 }

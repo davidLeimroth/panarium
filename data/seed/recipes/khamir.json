@@ -7,14 +7,22 @@
     "fr": "Khamir (khameer émirati)",
     "native": "خمير"
   },
-  "aliases": ["khameer", "khobz al khameer", "Gulf sweet bread"],
+  "aliases": [
+    "khameer",
+    "khobz al khameer",
+    "Gulf sweet bread"
+  ],
   "description": {
     "en": "A soft, faintly sweet flatbread from the Gulf, its dough scented with cardamom and saffron and finished with sesame seeds. Baked quickly in a very hot oven, it appears at Emirati breakfast tables split open with cheese, honey or a spoon of thick cream.",
     "de": "Ein weiches, leicht süßes Fladenbrot vom Golf, der Teig mit Kardamom und Safran parfümiert und mit Sesam bestreut. Schnell im sehr heißen Ofen gebacken, erscheint es auf emiratischen Frühstückstischen, aufgeschnitten mit Käse, Honig oder dicker Sahne.",
     "es": "Un pan plano suave y ligeramente dulce del Golfo, con masa perfumada de cardamomo y azafrán y terminado con semillas de sésamo. Horneado rápido a fuego muy fuerte, aparece en las mesas de desayuno emiratíes, abierto con queso, miel o nata espesa.",
     "fr": "Un pain plat moelleux et légèrement sucré du Golfe, la pâte parfumée à la cardamome et au safran et terminée de graines de sésame. Cuit rapidement à four très chaud, il apparaît aux petits-déjeuners émiratis, fendu avec du fromage, du miel ou de la crème épaisse."
   },
-  "origin": { "country": "AE", "region": "United Arab Emirates and the wider Gulf", "note": "A teatime bread from Emirati and Gulf households, brushed with saffron milk and finished with sesame; often paired with cheese, honey or a savory filling like labneh or olives." },
+  "origin": {
+    "country": "AE",
+    "region": "United Arab Emirates and the wider Gulf",
+    "note": "A teatime bread from Emirati and Gulf households, brushed with saffron milk and finished with sesame; often paired with cheese, honey or a savory filling like labneh or olives."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -24,41 +32,147 @@
     "fatPct": 10.8,
     "yeastPct": 1.8,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 250, "note": "bread flour" },
-    { "key": "instant-yeast", "grams": 4.5 },
-    { "key": "sugar", "grams": 38 },
-    { "key": "salt", "grams": 3 },
-    { "key": "baking-powder", "grams": 6 },
-    { "key": "milk", "grams": 150, "note": "warm, plus extra infused with saffron for brushing" },
-    { "key": "olive-oil", "grams": 27 },
-    { "key": "cardamom", "grams": 1 },
-    { "key": "sesame-seeds", "grams": 18, "note": "black and white mix, for topping" },
-    { "label": { "en": "saffron threads", "de": "Safranfäden", "es": "hebras de azafrán", "fr": "filaments de safran" }, "grams": 0.2, "note": "steeped in the milk used for brushing" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 250,
+      "note": "bread flour"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 4.5
+    },
+    {
+      "key": "sugar",
+      "grams": 38
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "key": "baking-powder",
+      "grams": 6
+    },
+    {
+      "key": "milk",
+      "grams": 150,
+      "note": "warm, plus extra infused with saffron for brushing"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 27
+    },
+    {
+      "key": "cardamom",
+      "grams": 1
+    },
+    {
+      "key": "sesame-seeds",
+      "grams": 18,
+      "note": "black and white mix, for topping"
+    },
+    {
+      "label": {
+        "en": "saffron threads",
+        "de": "Safranfäden",
+        "es": "hebras de azafrán",
+        "fr": "filaments de safran"
+      },
+      "grams": 0.2,
+      "note": "steeped in the milk used for brushing"
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 118, "shape": "round flatbread, about 15 cm" },
-  "time": { "totalMin": 125, "activeMin": 20, "bulkMin": 90, "bakeMin": 3, "overnight": false },
-  "bake": { "tempC": 260, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 118,
+    "shape": "round flatbread, about 15 cm"
+  },
+  "time": {
+    "totalMin": 125,
+    "activeMin": 20,
+    "bulkMin": 90,
+    "bakeMin": 3,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 260,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "spiced", "nutty", "mild"],
-  "purposes": ["breakfast", "table", "snack"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm or at room temperature the same day; wrap airtight to keep it soft for a second day." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix dry", "summary": "Pulse flour, yeast, sugar, salt, baking powder and cardamom together in a food processor." },
-    { "title": "Add wet", "summary": "Mix in the oil, then gradually add the warm milk to form a soft, slightly sticky dough; knead briefly by hand." },
-    { "title": "Rise", "summary": "Place in a greased bowl, cover, and let rise until doubled, about 1.5 hours." },
-    { "title": "Shape", "summary": "Divide into 4 balls and roll each into a round about half a centimeter thick." },
-    { "title": "Finish", "summary": "Brush with saffron-infused milk and scatter with sesame seeds." },
-    { "title": "Bake", "summary": "Bake individually in a very hot oven for about 3 minutes per side, rotating for even color." }
+  "flavors": [
+    "sweet",
+    "spiced",
+    "nutty",
+    "mild"
   ],
-  "source": { "url": "https://www.mycookingjourney.com/emirati-khameer-khamir-flatbread-from-uae/", "site": "My Cooking Journey", "retrieved": "2026-07-18", "adaptation": "Cup/tablespoon quantities converted to grams; saffron threads reduced to a token weight since a quarter teaspoon is nearly negligible by mass." },
-  "tags": ["gulf", "emirati", "teatime-bread"]
+  "purposes": [
+    "breakfast",
+    "table",
+    "snack"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best warm or at room temperature the same day; wrap airtight to keep it soft for a second day."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix dry",
+      "summary": "Pulse flour, yeast, sugar, salt, baking powder and cardamom together in a food processor."
+    },
+    {
+      "title": "Add wet",
+      "summary": "Mix in the oil, then gradually add the warm milk to form a soft, slightly sticky dough; knead briefly by hand."
+    },
+    {
+      "title": "Rise",
+      "summary": "Place in a greased bowl, cover, and let rise until doubled, about 1.5 hours."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into 4 balls and roll each into a round about half a centimeter thick."
+    },
+    {
+      "title": "Finish",
+      "summary": "Brush with saffron-infused milk and scatter with sesame seeds."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake individually in a very hot oven for about 3 minutes per side, rotating for even color."
+    }
+  ],
+  "source": {
+    "url": "https://www.mycookingjourney.com/emirati-khameer-khamir-flatbread-from-uae/",
+    "site": "My Cooking Journey",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup/tablespoon quantities converted to grams; saffron threads reduced to a token weight since a quarter teaspoon is nearly negligible by mass."
+  },
+  "tags": [
+    "gulf",
+    "emirati",
+    "teatime-bread"
+  ],
+  "doughType": "dough"
 }

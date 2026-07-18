@@ -6,14 +6,20 @@
     "es": "Pan integral de trigo con masa madre",
     "fr": "Pain de blé complet au levain"
   },
-  "aliases": ["High-hydration whole wheat sourdough"],
+  "aliases": [
+    "High-hydration whole wheat sourdough"
+  ],
   "description": {
     "en": "A boldly whole-grain loaf built from stoneground and high-extraction wheat flours at a startling 95% hydration. Wheat germ folded in for extra nutty crunch gives a hearty crumb that still stays remarkably light for how much bran it carries.",
     "de": "Ein konsequent vollkörniges Brot aus geschrotetem und hochausgemahlenem Weizenmehl bei erstaunlichen 95% Hydration. Untergemischter Weizenkeim sorgt für nussigen Biss – eine herzhafte Krume, die trotz der Kleiemenge bemerkenswert locker bleibt.",
     "es": "Un pan decididamente integral hecho con harinas de trigo molidas en piedra y de alta extracción, a una sorprendente hidratación del 95%. El germen de trigo añade un toque crujiente, dando una miga sustanciosa que se mantiene ligera pese a tanto salvado.",
     "fr": "Un pain résolument complet, à base de farines de blé moulues sur meule et à haute extraction, avec une hydratation stupéfiante de 95%. Le germe de blé ajouté apporte un croquant noisetté, pour une mie généreuse qui reste étonnamment légère malgré tout ce son."
   },
-  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "A contemporary high-hydration approach to whole wheat sourdough, distinct from denser European wholegrain traditions." },
+  "origin": {
+    "country": "US",
+    "region": "Modern American artisan bakeries",
+    "note": "A contemporary high-hydration approach to whole wheat sourdough, distinct from denser European wholegrain traditions."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -21,40 +27,142 @@
     "saltPct": 1.8,
     "prefermentedFlourPct": 7.4,
     "flours": [
-      { "type": "wheat-white", "pct": 54.6 },
-      { "type": "wheat-whole", "pct": 45.4 }
+      {
+        "type": "wheat-white",
+        "pct": 54.6
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 45.4
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 290, "note": "all-purpose" },
-    { "key": "flour:wheat-whole", "grams": 790, "note": "290g stoneground whole wheat, 500g high-extraction (Type 85-style)" },
-    { "key": "water", "grams": 1030 },
-    { "key": "sourdough-starter", "grams": 40, "note": "100% hydration" },
-    { "key": "salt", "grams": 19 },
-    { "label": { "en": "wheat germ", "de": "Weizenkeime", "es": "germen de trigo", "fr": "germe de blé" }, "grams": 50 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 290,
+      "note": "all-purpose"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 790,
+      "note": "290g stoneground whole wheat, 500g high-extraction (Type 85-style)"
+    },
+    {
+      "key": "water",
+      "grams": 1030
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 40,
+      "note": "100% hydration"
+    },
+    {
+      "key": "salt",
+      "grams": 19
+    },
+    {
+      "label": {
+        "en": "wheat germ",
+        "de": "Weizenkeime",
+        "es": "germen de trigo",
+        "fr": "germe de blé"
+      },
+      "grams": 50
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 1000, "shape": "boule" },
-  "time": { "totalMin": 1430, "activeMin": 40, "bulkMin": 255, "proofMin": 360, "bakeMin": 60, "overnight": true },
-  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 1000,
+    "shape": "boule"
+  },
+  "time": {
+    "totalMin": 1430,
+    "activeMin": 40,
+    "bulkMin": 255,
+    "proofMin": 360,
+    "bakeMin": 60,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 4,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["wheaty", "earthy", "nutty"],
-  "purposes": ["everyday", "toast", "breakfast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 48 },
-  "keeping": { "freshDays": 4, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Build the levain", "summary": "Mix starter with whole wheat and all-purpose flour and water; ripen at warm room temperature overnight." },
-    { "title": "Autolyse", "summary": "Combine the remaining flours, wheat germ and most of the water; rest 2 hours." },
-    { "title": "Mix", "summary": "Add the ripe levain and salt, mixing to a cohesive, very wet dough." },
-    { "title": "Bulk ferment", "summary": "Ferment about 4 hours with several stretch-and-fold sets, watching for a puffy, jiggly dough that holds a slight dome." },
-    { "title": "Shape", "summary": "Divide, preshape, rest briefly, then shape gently, the high hydration and heavy bran content make this a slack, sticky dough." },
-    { "title": "Proof", "summary": "Proof at room temperature (it ferments quickly) or refrigerate for a slower, more convenient schedule." },
-    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 30 minutes covered, then 30 minutes uncovered until deeply colored." },
-    { "title": "Cool", "summary": "Rest at least an hour before slicing; excellent toasted." }
+  "flavors": [
+    "wheaty",
+    "earthy",
+    "nutty"
   ],
-  "source": { "url": "https://www.theperfectloaf.com/whole-wheat-sourdough/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17", "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend (no exact taxonomy match) for the formula breakdown; ingredient list keeps the flour as named in the source." },
-  "tags": ["whole-grain", "high-hydration"]
+  "purposes": [
+    "everyday",
+    "toast",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 48
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build the levain",
+      "summary": "Mix starter with whole wheat and all-purpose flour and water; ripen at warm room temperature overnight."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Combine the remaining flours, wheat germ and most of the water; rest 2 hours."
+    },
+    {
+      "title": "Mix",
+      "summary": "Add the ripe levain and salt, mixing to a cohesive, very wet dough."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Ferment about 4 hours with several stretch-and-fold sets, watching for a puffy, jiggly dough that holds a slight dome."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide, preshape, rest briefly, then shape gently, the high hydration and heavy bran content make this a slack, sticky dough."
+    },
+    {
+      "title": "Proof",
+      "summary": "Proof at room temperature (it ferments quickly) or refrigerate for a slower, more convenient schedule."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a preheated Dutch oven at 230°C: 30 minutes covered, then 30 minutes uncovered until deeply colored."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest at least an hour before slicing; excellent toasted."
+    }
+  ],
+  "source": {
+    "url": "https://www.theperfectloaf.com/whole-wheat-sourdough/",
+    "site": "The Perfect Loaf",
+    "author": "Maurizio Leo",
+    "retrieved": "2026-07-17",
+    "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend (no exact taxonomy match) for the formula breakdown; ingredient list keeps the flour as named in the source."
+  },
+  "tags": [
+    "whole-grain",
+    "high-hydration"
+  ],
+  "doughType": "dough"
 }

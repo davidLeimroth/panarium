@@ -7,14 +7,21 @@
     "fr": "Pain tamisé seigle-froment danois (Sigtebrød)",
     "native": "Sigtebrød"
   },
-  "aliases": ["sigtemel bread", "Danish sifted rye"],
+  "aliases": [
+    "sigtemel bread",
+    "Danish sifted rye"
+  ],
   "description": {
     "en": "A lighter, softer Danish loaf than its dense cousin rugbrød, made from sigtemel, a sifted blend mostly wheat with a measure of rye, lifted with buttermilk and a touch of honey. An old bread, and still the top pick for open sandwiches.",
     "de": "Ein leichteres, weicheres dänisches Brot als sein dichter Vetter Rugbrød, aus Sigtemel gebacken – einer gesiebten Mischung aus Weizen mit etwas Roggen –, mit Buttermilch und einem Hauch Honig gelockert. Ein altes Brot, erste Wahl für offene Sandwiches.",
     "es": "Un pan danés más ligero y suave que su denso primo el rugbrød, hecho con sigtemel, una mezcla tamizada mayormente de trigo con una parte de centeno, aligerado con suero de leche y un toque de miel. Un pan antiguo, aún la primera opción para los sándwiches abiertos.",
     "fr": "Un pain danois plus léger et plus tendre que son cousin dense le rugbrød, fait de sigtemel, un mélange tamisé surtout de froment avec une part de seigle, allégé au babeurre et d'une touche de miel. Un pain ancien, toujours le premier choix pour les tartines ouvertes."
   },
-  "origin": { "country": "DK", "region": "Denmark, nationwide", "note": "A very old style of Danish bread; sigtemel is a semi-coarse sifted wheat-rye flour blend, traditionally about 30% rye." },
+  "origin": {
+    "country": "DK",
+    "region": "nationwide",
+    "note": "A very old style of Danish bread; sigtemel is a semi-coarse sifted wheat-rye flour blend, traditionally about 30% rye."
+  },
   "leaven": "yeast",
   "family": "pan-loaf",
   "formula": {
@@ -22,41 +29,140 @@
     "saltPct": 3,
     "sugarPct": 6.4,
     "flours": [
-      { "type": "wheat-white", "pct": 79 },
-      { "type": "rye-whole", "pct": 21 }
+      {
+        "type": "wheat-white",
+        "pct": 79
+      },
+      {
+        "type": "rye-whole",
+        "pct": 21
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 790 },
-    { "key": "flour:rye-whole", "grams": 210, "note": "dark rye flour" },
-    { "key": "water", "grams": 400 },
-    { "key": "buttermilk", "grams": 300 },
-    { "key": "fresh-yeast", "grams": 50 },
-    { "key": "honey", "grams": 64 },
-    { "key": "caraway", "grams": 1.5, "note": "ground" },
-    { "key": "salt", "grams": 30 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 790
+    },
+    {
+      "key": "flour:rye-whole",
+      "grams": 210,
+      "note": "dark rye flour"
+    },
+    {
+      "key": "water",
+      "grams": 400
+    },
+    {
+      "key": "buttermilk",
+      "grams": 300
+    },
+    {
+      "key": "fresh-yeast",
+      "grams": 50
+    },
+    {
+      "key": "honey",
+      "grams": 64
+    },
+    {
+      "key": "caraway",
+      "grams": 1.5,
+      "note": "ground"
+    },
+    {
+      "key": "salt",
+      "grams": 30
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 800, "shape": "sandwich pan loaf" },
-  "time": { "totalMin": 165, "activeMin": 30, "bulkMin": 60, "proofMin": 40, "bakeMin": 35 },
-  "bake": { "tempC": 200, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 800,
+    "shape": "sandwich pan loaf"
+  },
+  "time": {
+    "totalMin": 165,
+    "activeMin": 30,
+    "bulkMin": 60,
+    "proofMin": 40,
+    "bakeMin": 35
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["mild", "wheaty", "malty", "sweet"],
-  "purposes": ["sandwich", "breakfast", "toast", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 21 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "A lighter alternative to rugbrød for open sandwiches; keeps a few days wrapped." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Bloom the yeast", "summary": "Dissolve yeast in warm water." },
-    { "title": "Mix", "summary": "Stir in the buttermilk, both flours, ground caraway, salt and honey." },
-    { "title": "Knead", "summary": "Knead 5-8 minutes to build the gluten." },
-    { "title": "Rise", "summary": "Let stand about an hour in a warm spot." },
-    { "title": "Shape", "summary": "Divide in two, flatten each into a rectangle and fold letter-style to build tension." },
-    { "title": "Pan and proof", "summary": "Place seam-down in greased pans, poke the tops, brush with milk, and proof about 40 minutes." },
-    { "title": "Bake", "summary": "Bake until golden, 30-40 minutes, then cool on a rack." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "malty",
+    "sweet"
   ],
-  "source": { "url": "https://sweetsoursavory.com/blog/2017/7/21/sifted-rye-bread-sigtebrd", "site": "Sweet Sour Savory", "retrieved": "2026-07-17", "adaptation": "Fresh yeast quantity kept as sourced rather than converted, since the taxonomy's yeastPct field is defined for instant yeast only." },
-  "tags": ["sandwich-bread", "sigtemel"]
+  "purposes": [
+    "sandwich",
+    "breakfast",
+    "toast",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 21
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "A lighter alternative to rugbrød for open sandwiches; keeps a few days wrapped."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom the yeast",
+      "summary": "Dissolve yeast in warm water."
+    },
+    {
+      "title": "Mix",
+      "summary": "Stir in the buttermilk, both flours, ground caraway, salt and honey."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead 5-8 minutes to build the gluten."
+    },
+    {
+      "title": "Rise",
+      "summary": "Let stand about an hour in a warm spot."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide in two, flatten each into a rectangle and fold letter-style to build tension."
+    },
+    {
+      "title": "Pan and proof",
+      "summary": "Place seam-down in greased pans, poke the tops, brush with milk, and proof about 40 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until golden, 30-40 minutes, then cool on a rack."
+    }
+  ],
+  "source": {
+    "url": "https://sweetsoursavory.com/blog/2017/7/21/sifted-rye-bread-sigtebrd",
+    "site": "Sweet Sour Savory",
+    "retrieved": "2026-07-17",
+    "adaptation": "Fresh yeast quantity kept as sourced rather than converted, since the taxonomy's yeastPct field is defined for instant yeast only."
+  },
+  "tags": [
+    "sandwich-bread",
+    "sigtemel"
+  ],
+  "doughType": "dough"
 }

@@ -7,7 +7,11 @@
     "fr": "Petit pain de seigle tyrolien (Vinschgauer)",
     "native": "Vinschgerl"
   },
-  "aliases": ["Vinschgerl", "Vinschger Paarl", "South Tyrolean rye roll"],
+  "aliases": [
+    "Vinschgerl",
+    "Vinschger Paarl",
+    "South Tyrolean rye roll"
+  ],
   "description": {
     "en": "A flat, dense sourdough roll from the German-speaking Vinschgau valley, dark with rye and warmed by caraway, fennel and anise. Baked in pairs and split apart, it was built to keep, a mountain bread for the larder.",
     "de": "Ein flaches, dichtes Sauerteig-Brötchen aus dem deutschsprachigen Vinschgau, dunkel vom Roggen und gewürzt mit Kümmel, Fenchel und Anis. Paarweise gebacken und auseinandergebrochen – ein Brot fürs Vorratsregal der Bergbauern.",
@@ -26,42 +30,149 @@
     "saltPct": 2.1,
     "prefermentedFlourPct": 35.8,
     "flours": [
-      { "type": "rye-whole", "pct": 35.8 },
-      { "type": "wheat-whole", "pct": 18.9 },
-      { "type": "rye", "pct": 45.3 }
+      {
+        "type": "rye-whole",
+        "pct": 35.8
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 18.9
+      },
+      {
+        "type": "rye",
+        "pct": 45.3
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye-whole", "grams": 190, "note": "coarse rye meal, in the sourdough" },
-    { "key": "flour:wheat-whole", "grams": 100, "note": "Ruchmehl or Type 1050" },
-    { "key": "flour:rye", "grams": 240, "note": "Type 1150" },
-    { "key": "water", "grams": 450, "note": "warm, ~43–45°C" },
-    { "key": "sourdough-starter", "grams": 38, "note": "active rye starter (Anstellgut)" },
-    { "key": "salt", "grams": 11 },
-    { "key": "caraway", "grams": 2, "note": "lightly crushed" },
-    { "key": "fennel-seed", "grams": 2, "note": "lightly crushed" },
-    { "key": "anise", "grams": 1 }
+    {
+      "key": "flour:rye-whole",
+      "grams": 190,
+      "note": "coarse rye meal, in the sourdough"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 100,
+      "note": "Ruchmehl or Type 1050"
+    },
+    {
+      "key": "flour:rye",
+      "grams": 240,
+      "note": "Type 1150"
+    },
+    {
+      "key": "water",
+      "grams": 450,
+      "note": "warm, ~43–45°C"
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 38,
+      "note": "active rye starter (Anstellgut)"
+    },
+    {
+      "key": "salt",
+      "grams": 11
+    },
+    {
+      "key": "caraway",
+      "grams": 2,
+      "note": "lightly crushed"
+    },
+    {
+      "key": "fennel-seed",
+      "grams": 2,
+      "note": "lightly crushed"
+    },
+    {
+      "key": "anise",
+      "grams": 1
+    }
   ],
-  "yield": { "count": 10, "pieceGrams": 95, "shape": "flattened paired round roll (Paarl)" },
-  "time": { "totalMin": 1075, "activeMin": 30, "bulkMin": 150, "proofMin": 90, "bakeMin": 25, "overnight": true },
-  "bake": { "tempC": 250, "steam": false, "vessel": "stone" },
+  "yield": {
+    "count": 10,
+    "pieceGrams": 95,
+    "shape": "flattened paired round roll (Paarl)"
+  },
+  "time": {
+    "totalMin": 1075,
+    "activeMin": 30,
+    "bulkMin": 150,
+    "proofMin": 90,
+    "bakeMin": 25,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 250,
+    "steam": false,
+    "vessel": "stone"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "crackly",
-  "flavors": ["earthy", "spiced", "sour", "savory"],
-  "purposes": ["everyday", "snack", "soup-companion"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 54.7 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "A rustic keeping bread, stays good several days, traditionally sliced thin for Speck and mountain cheese." },
-  "equipment": ["baking-stone"],
-  "method": [
-    { "title": "Build the rye sourdough", "summary": "The evening before, mix warm water, rye whole-grain flour, a spoonful of active rye starter and a little salt into a thick paste. Cover and let it ferment 12–15 hours at room temperature until visibly active." },
-    { "title": "Mix the dough", "summary": "Work in the wheat and rye flours, more warm water and the remaining salt, along with the lightly crushed caraway, fennel and anise. Mix gently for about 10 minutes, rye doughs need only enough handling to come together." },
-    { "title": "Bulk rise", "summary": "Cover and let the dough rise about 2.5 hours at room temperature. Rye sourdough performs best kept warm, around 29–30°C, so a slightly warm spot speeds things along." },
-    { "title": "Divide and shape", "summary": "Turn the dough onto a rye-floured surface, divide into ten pieces, and pat each into a rough, flattened round without overworking it." },
-    { "title": "Final proof", "summary": "Proof uncovered at room temperature for about 90 minutes, until the tops visibly crack open, that cracking is the traditional cue that the rolls are ready for the oven." },
-    { "title": "Bake hot and dry", "summary": "Bake in a very hot, unsteamed oven, easing the temperature down partway through, until the crust is deeply browned and firm, about 25 minutes total." }
+  "flavors": [
+    "earthy",
+    "spiced",
+    "sour",
+    "savory"
   ],
-  "source": { "url": "https://heimbaecker.de/vinschgerl/", "site": "der heimbäcker", "retrieved": "2026-07-17", "adaptation": "Bread-spice blend simplified to caraway, fennel and anise; quantities scaled to a 10-piece home batch." },
-  "tags": ["south-tyrol", "bread-spice"]
+  "purposes": [
+    "everyday",
+    "snack",
+    "soup-companion"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 54.7
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "A rustic keeping bread, stays good several days, traditionally sliced thin for Speck and mountain cheese."
+  },
+  "equipment": [
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Build the rye sourdough",
+      "summary": "The evening before, mix warm water, rye whole-grain flour, a spoonful of active rye starter and a little salt into a thick paste. Cover and let it ferment 12–15 hours at room temperature until visibly active."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Work in the wheat and rye flours, more warm water and the remaining salt, along with the lightly crushed caraway, fennel and anise. Mix gently for about 10 minutes, rye doughs need only enough handling to come together."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Cover and let the dough rise about 2.5 hours at room temperature. Rye sourdough performs best kept warm, around 29–30°C, so a slightly warm spot speeds things along."
+    },
+    {
+      "title": "Divide and shape",
+      "summary": "Turn the dough onto a rye-floured surface, divide into ten pieces, and pat each into a rough, flattened round without overworking it."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Proof uncovered at room temperature for about 90 minutes, until the tops visibly crack open, that cracking is the traditional cue that the rolls are ready for the oven."
+    },
+    {
+      "title": "Bake hot and dry",
+      "summary": "Bake in a very hot, unsteamed oven, easing the temperature down partway through, until the crust is deeply browned and firm, about 25 minutes total."
+    }
+  ],
+  "source": {
+    "url": "https://heimbaecker.de/vinschgerl/",
+    "site": "der heimbäcker",
+    "retrieved": "2026-07-17",
+    "adaptation": "Bread-spice blend simplified to caraway, fennel and anise; quantities scaled to a 10-piece home batch."
+  },
+  "tags": [
+    "south-tyrol",
+    "bread-spice"
+  ],
+  "doughType": "paste"
 }

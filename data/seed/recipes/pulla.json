@@ -7,7 +7,11 @@
     "fr": "Tresse finlandaise à la cardamome (Pulla)",
     "native": "Pulla / Nisu"
   },
-  "aliases": ["nisu", "Finnish coffee bread", "cardamom bread"],
+  "aliases": [
+    "nisu",
+    "Finnish coffee bread",
+    "cardamom bread"
+  ],
   "description": {
     "en": "Finland's everyday celebration bread: a golden braid perfumed with fresh-ground cardamom, brushed with egg and topped with crunchy pearl sugar. Central to the kahvipöytä coffee table, from Sunday afternoons to Christmas and name-day parties.",
     "de": "Finnlands alltägliches Festtagsbrot: ein goldener Zopf, parfümiert mit frisch gemahlenem Kardamom, mit Ei bestrichen und mit knackigem Hagelzucker bestreut. Herzstück des Kaffeetischs (kahvipöytä), vom Sonntagnachmittag bis Weihnachten und Namenstagen.",
@@ -28,40 +32,136 @@
     "fatPct": 23.5,
     "yeastPct": 1.25,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 960 },
-    { "key": "milk", "grams": 480, "note": "warm" },
-    { "key": "instant-yeast", "grams": 12 },
-    { "key": "egg", "grams": 200, "note": "4 eggs" },
-    { "key": "butter", "grams": 226, "note": "softened" },
-    { "key": "sugar", "grams": 200 },
-    { "key": "cardamom", "grams": 6, "note": "freshly ground from whole pods for best aroma" },
-    { "key": "salt", "grams": 9 },
-    { "key": "sugar", "grams": 50, "note": "pearl sugar for topping, does not melt when baked" },
-    { "key": "egg", "grams": 50, "note": "for egg wash across both loaves, brushed before baking; not counted in hydration" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 960
+    },
+    {
+      "key": "milk",
+      "grams": 480,
+      "note": "warm"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 12
+    },
+    {
+      "key": "egg",
+      "grams": 200,
+      "note": "4 eggs"
+    },
+    {
+      "key": "butter",
+      "grams": 226,
+      "note": "softened"
+    },
+    {
+      "key": "sugar",
+      "grams": 200
+    },
+    {
+      "key": "cardamom",
+      "grams": 6,
+      "note": "freshly ground from whole pods for best aroma"
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    },
+    {
+      "key": "sugar",
+      "grams": 50,
+      "note": "pearl sugar for topping, does not melt when baked"
+    },
+    {
+      "key": "egg",
+      "grams": 50,
+      "note": "for egg wash across both loaves, brushed before baking; not counted in hydration"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 990, "shape": "two braided loaves" },
-  "time": { "totalMin": 260, "activeMin": 50, "bulkMin": 90, "proofMin": 60, "bakeMin": 28, "overnight": false },
-  "bake": { "tempC": 190, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 990,
+    "shape": "two braided loaves"
+  },
+  "time": {
+    "totalMin": 260,
+    "activeMin": 50,
+    "bulkMin": 90,
+    "proofMin": 60,
+    "bakeMin": 28,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "spiced", "buttery", "rich"],
-  "purposes": ["breakfast", "snack", "celebration", "table"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Wrap well once fully cool; slightly stale pulla toasts beautifully or makes excellent French toast." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "sweet",
+    "spiced",
+    "buttery",
+    "rich"
+  ],
+  "purposes": [
+    "breakfast",
+    "snack",
+    "celebration",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Wrap well once fully cool; slightly stale pulla toasts beautifully or makes excellent French toast."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Bloom and mix", "summary": "Warm the milk, stir in the yeast, then combine with flour, sugar, salt, egg, butter and freshly ground cardamom into a soft dough." },
-    { "title": "Knead", "summary": "Work the dough until smooth and elastic, about 10 minutes by hand or with a mixer." },
-    { "title": "Bulk rise", "summary": "Cover and let rise until doubled, roughly 1.5 hours." },
-    { "title": "Divide and braid", "summary": "Split the dough into portions, roll each piece into ropes, and braid them into loaves." },
-    { "title": "Second rise", "summary": "Let the shaped loaves proof, uncovered or lightly covered, until puffy, about an hour." },
-    { "title": "Finish and bake", "summary": "Brush with egg wash, scatter generously with pearl sugar, and bake until deeply golden and fragrant." }
+    {
+      "title": "Bloom and mix",
+      "summary": "Warm the milk, stir in the yeast, then combine with flour, sugar, salt, egg, butter and freshly ground cardamom into a soft dough."
+    },
+    {
+      "title": "Knead",
+      "summary": "Work the dough until smooth and elastic, about 10 minutes by hand or with a mixer."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Cover and let rise until doubled, roughly 1.5 hours."
+    },
+    {
+      "title": "Divide and braid",
+      "summary": "Split the dough into portions, roll each piece into ropes, and braid them into loaves."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Let the shaped loaves proof, uncovered or lightly covered, until puffy, about an hour."
+    },
+    {
+      "title": "Finish and bake",
+      "summary": "Brush with egg wash, scatter generously with pearl sugar, and bake until deeply golden and fragrant."
+    }
   ],
   "source": {
     "url": "https://www.beyondkimchee.com/finnish-cardamom-bread-recipe-pulla/",
@@ -69,5 +169,10 @@
     "retrieved": "2026-07-17",
     "adaptation": "Kept as the source's full 2-loaf batch. Pearl-sugar topping and egg wash excluded from hydration/sugar % since they're not part of the fermented dough itself."
   },
-  "tags": ["kahvipoyta", "coffee-bread", "cardamom"]
+  "tags": [
+    "kahvipoyta",
+    "coffee-bread",
+    "cardamom"
+  ],
+  "doughType": "dough"
 }

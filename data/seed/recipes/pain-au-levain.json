@@ -7,14 +7,21 @@
     "fr": "Pain au levain",
     "native": "Pain au Levain"
   },
-  "aliases": ["French sourdough", "levain bread"],
+  "aliases": [
+    "French sourdough",
+    "levain bread"
+  ],
   "description": {
     "en": "Flour, water, salt and a lively natural levain, nothing else. A long, cool bulk rise builds a tangy, complex loaf with a thin, crackling crust and a wide-open, glossy crumb.",
     "de": "Mehl, Wasser, Salz und ein lebendiger Natursauerteig, mehr nicht. Eine lange, kühle Stockgare erzeugt ein würzig-komplexes Brot mit dünner, krachender Kruste und weitporiger, glänzender Krume.",
     "es": "Harina, agua, sal y un levain natural bien activo, nada más. Una fermentación en bloque larga y fresca produce una hogaza ácida y compleja, de corteza fina y crujiente y miga abierta y brillante.",
     "fr": "Farine, eau, sel et un levain naturel bien vivant, rien de plus. Un long pointage au frais donne un pain complexe et acidulé, à la croûte fine et craquante et à la mie grande ouverte et brillante."
   },
-  "origin": { "country": "FR", "region": "national", "note": "The pre-industrial way of leavening French bread, kept alive by artisan bakers even as commercial yeast took over most everyday loaves." },
+  "origin": {
+    "country": "FR",
+    "region": "national",
+    "note": "The pre-industrial way of leavening French bread, kept alive by artisan bakers even as commercial yeast took over most everyday loaves."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -22,36 +29,120 @@
     "saltPct": 1.9,
     "prefermentedFlourPct": 16,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 525, "note": "T65 tradition flour" },
-    { "key": "water", "grams": 352 },
-    { "key": "levain", "grams": 200, "note": "active liquid levain, refreshed 5-7h ahead" },
-    { "key": "salt", "grams": 12 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 525,
+      "note": "T65 tradition flour"
+    },
+    {
+      "key": "water",
+      "grams": 352
+    },
+    {
+      "key": "levain",
+      "grams": 200,
+      "note": "active liquid levain, refreshed 5-7h ahead"
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 900, "shape": "large round miche" },
-  "time": { "totalMin": 1450, "activeMin": 45, "bulkMin": 1290, "proofMin": 60, "bakeMin": 60, "overnight": true },
-  "bake": { "tempC": 260, "steam": true, "vessel": "stone" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 900,
+    "shape": "large round miche"
+  },
+  "time": {
+    "totalMin": 1450,
+    "activeMin": 45,
+    "bulkMin": 1290,
+    "proofMin": 60,
+    "bakeMin": 60,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 260,
+    "steam": true,
+    "vessel": "stone"
+  },
   "difficulty": 4,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["tangy", "sour", "wheaty"],
-  "purposes": ["everyday", "table", "sandwich"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "The natural acidity of the levain slows staling well beyond a yeasted white loaf." },
-  "equipment": ["banneton", "baking-stone"],
-  "method": [
-    { "title": "Refresh the levain", "summary": "Feed the liquid levain 5-7 hours ahead so it's active, bubbly and roughly doubled." },
-    { "title": "Autolyse", "summary": "Mix the flour and water and rest 40-60 minutes before adding anything else." },
-    { "title": "Mix", "summary": "Work in the levain and knead until strong and elastic, adding the salt partway through." },
-    { "title": "Bulk with folds", "summary": "Ferment with a few gentle folds, then retard in the fridge overnight for depth of flavor." },
-    { "title": "Shape", "summary": "Shape into one large round and set it into a well-floured banneton." },
-    { "title": "Proof", "summary": "Let rise until puffy and light, about an hour once out of the cold." },
-    { "title": "Bake", "summary": "Score and bake hot with steam, then lower the heat to bake all the way through." }
+  "flavors": [
+    "tangy",
+    "sour",
+    "wheaty"
   ],
-  "source": { "url": "https://mapatisserie.fr/recette/pain/recette-pain-levain/", "site": "maPatisserie.fr", "retrieved": "2026-07-17", "adaptation": "Combined the site's 'intermediate' 67%-hydration formula with the levain's own flour/water folded into the totals, giving 72% by Panarium's convention." },
-  "tags": ["levain", "artisan"]
+  "purposes": [
+    "everyday",
+    "table",
+    "sandwich"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "The natural acidity of the levain slows staling well beyond a yeasted white loaf."
+  },
+  "equipment": [
+    "banneton",
+    "baking-stone"
+  ],
+  "method": [
+    {
+      "title": "Refresh the levain",
+      "summary": "Feed the liquid levain 5-7 hours ahead so it's active, bubbly and roughly doubled."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Mix the flour and water and rest 40-60 minutes before adding anything else."
+    },
+    {
+      "title": "Mix",
+      "summary": "Work in the levain and knead until strong and elastic, adding the salt partway through."
+    },
+    {
+      "title": "Bulk with folds",
+      "summary": "Ferment with a few gentle folds, then retard in the fridge overnight for depth of flavor."
+    },
+    {
+      "title": "Shape",
+      "summary": "Shape into one large round and set it into a well-floured banneton."
+    },
+    {
+      "title": "Proof",
+      "summary": "Let rise until puffy and light, about an hour once out of the cold."
+    },
+    {
+      "title": "Bake",
+      "summary": "Score and bake hot with steam, then lower the heat to bake all the way through."
+    }
+  ],
+  "source": {
+    "url": "https://mapatisserie.fr/recette/pain/recette-pain-levain/",
+    "site": "maPatisserie.fr",
+    "retrieved": "2026-07-17",
+    "adaptation": "Combined the site's 'intermediate' 67%-hydration formula with the levain's own flour/water folded into the totals, giving 72% by Panarium's convention."
+  },
+  "tags": [
+    "levain",
+    "artisan"
+  ],
+  "doughType": "dough"
 }

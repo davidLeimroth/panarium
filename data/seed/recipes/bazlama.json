@@ -6,14 +6,20 @@
     "es": "Bazlama (Pan de pueblo turco)",
     "fr": "Bazlama (Pain de village turc)"
   },
-  "aliases": ["Turkish village bread"],
+  "aliases": [
+    "Turkish village bread"
+  ],
   "description": {
     "en": "A soft, tangy village flatbread leavened with yeast and yogurt, griddled thick until puffed and speckled brown. Anatolian households bake a stack every morning to eat warm with cheese, jam or a soft-boiled egg.",
     "de": "Ein weiches, säuerliches Dorf-Fladenbrot mit Hefe und Joghurt gesäuert, dick auf der Platte gebacken, bis es aufgepufft und braun gesprenkelt ist. Anatolische Haushalte backen jeden Morgen einen Stapel, um es warm mit Käse, Marmelade oder einem weichen Ei zu essen.",
     "es": "Un pan plano de pueblo, suave y ligeramente ácido, leudado con levadura y yogur, cocido grueso en la plancha hasta inflarse y motearse de dorado. Los hogares de Anatolia hornean una pila cada mañana para comerlo caliente con queso, mermelada o un huevo pasado por agua.",
     "fr": "Un pain plat de village, doux et légèrement acidulé, levé à la levure et au yaourt, cuit épais sur la plaque jusqu'à gonfler et se tacheter de brun. Les foyers anatoliens en cuisent une pile chaque matin pour le manger chaud avec du fromage, de la confiture ou un œuf mollet."
   },
-  "origin": { "country": "TR", "region": "Anatolia (rural Turkey)", "note": "Known as Turkey's 'village bread', traditionally griddled on a wood-fired sac; now common at markets and breakfast tables nationwide." },
+  "origin": {
+    "country": "TR",
+    "region": "Anatolia (rural Turkey)",
+    "note": "Known as Turkey's 'village bread', traditionally griddled on a wood-fired sac; now common at markets and breakfast tables nationwide."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -23,39 +29,132 @@
     "fatPct": 10.8,
     "yeastPct": 1.2,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500 },
-    { "key": "salt", "grams": 6 },
-    { "key": "instant-yeast", "grams": 6, "note": "or active dry yeast" },
-    { "key": "sugar", "grams": 4 },
-    { "key": "water", "grams": 309, "note": "lukewarm; includes water added to adjust consistency" },
-    { "key": "yogurt", "grams": 110, "note": "Greek-style" },
-    { "key": "olive-oil", "grams": 54 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 6,
+      "note": "or active dry yeast"
+    },
+    {
+      "key": "sugar",
+      "grams": 4
+    },
+    {
+      "key": "water",
+      "grams": 309,
+      "note": "lukewarm; includes water added to adjust consistency"
+    },
+    {
+      "key": "yogurt",
+      "grams": 110,
+      "note": "Greek-style"
+    },
+    {
+      "key": "olive-oil",
+      "grams": 54
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 165, "shape": "thick round griddle bread, about 1 cm thick" },
-  "time": { "totalMin": 115, "activeMin": 35, "bulkMin": 53, "proofMin": 15, "bakeMin": 25, "overnight": false },
-  "bake": { "tempC": 210, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 165,
+    "shape": "thick round griddle bread, about 1 cm thick"
+  },
+  "time": {
+    "totalMin": 115,
+    "activeMin": 35,
+    "bulkMin": 53,
+    "proofMin": 15,
+    "bakeMin": 25,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 210,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["tangy", "mild", "wheaty"],
-  "purposes": ["everyday", "side", "breakfast"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best warm off the griddle; stays soft a day or two wrapped in a cloth, and reheats well on a dry pan. Freezes well between parchment." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Activate yeast", "summary": "Stir yeast and sugar into lukewarm water; let stand about 5 minutes until foamy." },
-    { "title": "Mix dough", "summary": "Combine with flour, salt, yogurt and olive oil into a soft dough; knead until smooth, adding extra water as needed." },
-    { "title": "First rise", "summary": "Cover and let rise 45-60 minutes until doubled." },
-    { "title": "Divide & rest", "summary": "Divide into pieces, shape into rounds, and rest under a towel about 15 minutes." },
-    { "title": "Roll or pat", "summary": "Flatten each piece by hand or rolling pin to about a centimeter thick." },
-    { "title": "Griddle", "summary": "Cook on a medium-hot dry griddle about 90 seconds per side until puffed with brown spots." },
-    { "title": "Serve warm", "summary": "Stack under a cloth and serve warm with cheese, jam or eggs." }
+  "flavors": [
+    "tangy",
+    "mild",
+    "wheaty"
   ],
-  "source": { "url": "https://www.giverecipe.com/bazlama/", "site": "Give Recipe", "retrieved": "2026-07-17", "adaptation": "Hydration recalculated including the extra water and yogurt's water content per baker's-percentage convention; the source's own self-reported hydration didn't match its own listed quantities." },
-  "tags": ["village-bread", "yogurt-dough"]
+  "purposes": [
+    "everyday",
+    "side",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best warm off the griddle; stays soft a day or two wrapped in a cloth, and reheats well on a dry pan. Freezes well between parchment."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Activate yeast",
+      "summary": "Stir yeast and sugar into lukewarm water; let stand about 5 minutes until foamy."
+    },
+    {
+      "title": "Mix dough",
+      "summary": "Combine with flour, salt, yogurt and olive oil into a soft dough; knead until smooth, adding extra water as needed."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let rise 45-60 minutes until doubled."
+    },
+    {
+      "title": "Divide & rest",
+      "summary": "Divide into pieces, shape into rounds, and rest under a towel about 15 minutes."
+    },
+    {
+      "title": "Roll or pat",
+      "summary": "Flatten each piece by hand or rolling pin to about a centimeter thick."
+    },
+    {
+      "title": "Griddle",
+      "summary": "Cook on a medium-hot dry griddle about 90 seconds per side until puffed with brown spots."
+    },
+    {
+      "title": "Serve warm",
+      "summary": "Stack under a cloth and serve warm with cheese, jam or eggs."
+    }
+  ],
+  "source": {
+    "url": "https://www.giverecipe.com/bazlama/",
+    "site": "Give Recipe",
+    "retrieved": "2026-07-17",
+    "adaptation": "Hydration recalculated including the extra water and yogurt's water content per baker's-percentage convention; the source's own self-reported hydration didn't match its own listed quantities."
+  },
+  "tags": [
+    "village-bread",
+    "yogurt-dough"
+  ],
+  "doughType": "dough"
 }

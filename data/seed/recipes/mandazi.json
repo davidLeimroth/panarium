@@ -6,14 +6,22 @@
     "es": "Mandazi",
     "fr": "Mandazi"
   },
-  "aliases": ["mahamri", "East African doughnut", "maandazi"],
+  "aliases": [
+    "mahamri",
+    "East African doughnut",
+    "maandazi"
+  ],
   "description": {
     "en": "A lightly sweet East African fried bread, its dough enriched with coconut milk, egg and cardamom, cut into triangles and deep-fried until golden. Sold by street vendors and made at home alike, eaten warm for breakfast or dunked in spiced chai.",
     "de": "Ein leicht süßes, frittiertes ostafrikanisches Brot, der Teig mit Kokosmilch, Ei und Kardamom angereichert, zu Dreiecken geschnitten und golden frittiert. Von Straßenhändlern verkauft wie auch zu Hause gemacht, warm zum Frühstück gegessen oder in Gewürztee getunkt.",
     "es": "Un pan frito ligeramente dulce del este de África, con masa enriquecida con leche de coco, huevo y cardamomo, cortada en triángulos y frita hasta dorarse. Vendido por comerciantes callejeros y hecho también en casa, se come tibio en el desayuno o mojado en chai especiado.",
     "fr": "Un pain frit légèrement sucré d'Afrique de l'Est, la pâte enrichie de lait de coco, d'oeuf et de cardamome, découpée en triangles et frite jusqu'à dorer. Vendu par les marchands de rue autant que préparé à la maison, mangé tiède au petit-déjeuner ou trempé dans un chai épicé."
   },
-  "origin": { "country": "KE", "region": "Kenya, Tanzania and Uganda (Swahili coast and East African interior)", "note": "Known as mahamri on the Swahili coast when made with coconut milk; a beloved teatime and breakfast snack across East Africa." },
+  "origin": {
+    "country": "KE",
+    "region": "Tanzania and Uganda (Swahili coast and East African interior)",
+    "note": "Known as mahamri on the Swahili coast when made with coconut milk; a beloved teatime and breakfast snack across East Africa."
+  },
   "leaven": "yeast",
   "family": "fried",
   "formula": {
@@ -23,42 +31,157 @@
     "fatPct": 27.4,
     "yeastPct": 1.7,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 360 },
-    { "key": "water", "grams": 60, "note": "warm" },
-    { "label": { "en": "coconut milk", "de": "Kokosmilch", "es": "leche de coco", "fr": "lait de coco" }, "grams": 120 },
-    { "key": "active-dry-yeast", "grams": 6 },
-    { "key": "sugar", "grams": 75 },
-    { "key": "salt", "grams": 6 },
-    { "key": "egg", "grams": 50 },
-    { "label": { "en": "grated coconut", "de": "geriebene Kokosnuss", "es": "coco rallado", "fr": "noix de coco râpée" }, "grams": 16 },
-    { "key": "cardamom", "grams": 2, "note": "crushed" },
-    { "key": "cinnamon", "grams": 1, "note": "or grated nutmeg" },
-    { "key": "vegetable-oil", "grams": 70, "note": "absorbed during frying" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 360
+    },
+    {
+      "key": "water",
+      "grams": 60,
+      "note": "warm"
+    },
+    {
+      "label": {
+        "en": "coconut milk",
+        "de": "Kokosmilch",
+        "es": "leche de coco",
+        "fr": "lait de coco"
+      },
+      "grams": 120
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 6
+    },
+    {
+      "key": "sugar",
+      "grams": 75
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "egg",
+      "grams": 50
+    },
+    {
+      "label": {
+        "en": "grated coconut",
+        "de": "geriebene Kokosnuss",
+        "es": "coco rallado",
+        "fr": "noix de coco râpée"
+      },
+      "grams": 16
+    },
+    {
+      "key": "cardamom",
+      "grams": 2,
+      "note": "crushed"
+    },
+    {
+      "key": "cinnamon",
+      "grams": 1,
+      "note": "or grated nutmeg"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 70,
+      "note": "absorbed during frying"
+    }
   ],
-  "yield": { "count": 15, "pieceGrams": 51, "shape": "triangles" },
-  "time": { "totalMin": 155, "activeMin": 35, "bulkMin": 90, "proofMin": 15, "bakeMin": 5, "overnight": false },
-  "bake": { "tempC": 190, "steam": false, "vessel": "fryer" },
+  "yield": {
+    "count": 15,
+    "pieceGrams": 51,
+    "shape": "triangles"
+  },
+  "time": {
+    "totalMin": 155,
+    "activeMin": 35,
+    "bulkMin": 90,
+    "proofMin": 15,
+    "bakeMin": 5,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "fryer"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "spiced", "nutty", "rich"],
-  "purposes": ["breakfast", "snack", "street-food"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Keeps a day or two at room temperature in an airtight container; best refreshed briefly in a warm oven." },
-  "equipment": ["deep-fryer"],
-  "method": [
-    { "title": "Activate yeast", "summary": "Whisk warm water, coconut milk, yeast, sugar and salt; let stand 5 minutes, then beat in the egg." },
-    { "title": "Mix dough", "summary": "Combine flour, grated coconut, cardamom and cinnamon, then work in the wet mixture; knead 5 to 7 minutes to a smooth, non-sticky dough." },
-    { "title": "Rise", "summary": "Cover and let rise in a warm spot 1 to 2 hours, until doubled." },
-    { "title": "Shape", "summary": "Punch down, divide into 4 pieces, roll each into a circle and cut into 6 triangles; rest 15 minutes." },
-    { "title": "Fry", "summary": "Fry in batches in oil at about 190°C until golden on both sides, a few minutes per side." },
-    { "title": "Drain", "summary": "Lift out with a slotted spoon and drain on paper towels before serving." }
+  "flavors": [
+    "sweet",
+    "spiced",
+    "nutty",
+    "rich"
   ],
-  "source": { "url": "https://www.africanbites.com/mandazi-east-african-doughnuts/", "site": "Immaculate Bites", "retrieved": "2026-07-18", "adaptation": "Cup/tablespoon quantities converted to grams; frying oil absorbed into the dough estimated at 10% of the dough's weight." },
-  "tags": ["street-food", "east-african", "fried-bread"]
+  "purposes": [
+    "breakfast",
+    "snack",
+    "street-food"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Keeps a day or two at room temperature in an airtight container; best refreshed briefly in a warm oven."
+  },
+  "equipment": [
+    "deep-fryer"
+  ],
+  "method": [
+    {
+      "title": "Activate yeast",
+      "summary": "Whisk warm water, coconut milk, yeast, sugar and salt; let stand 5 minutes, then beat in the egg."
+    },
+    {
+      "title": "Mix dough",
+      "summary": "Combine flour, grated coconut, cardamom and cinnamon, then work in the wet mixture; knead 5 to 7 minutes to a smooth, non-sticky dough."
+    },
+    {
+      "title": "Rise",
+      "summary": "Cover and let rise in a warm spot 1 to 2 hours, until doubled."
+    },
+    {
+      "title": "Shape",
+      "summary": "Punch down, divide into 4 pieces, roll each into a circle and cut into 6 triangles; rest 15 minutes."
+    },
+    {
+      "title": "Fry",
+      "summary": "Fry in batches in oil at about 190°C until golden on both sides, a few minutes per side."
+    },
+    {
+      "title": "Drain",
+      "summary": "Lift out with a slotted spoon and drain on paper towels before serving."
+    }
+  ],
+  "source": {
+    "url": "https://www.africanbites.com/mandazi-east-african-doughnuts/",
+    "site": "Immaculate Bites",
+    "retrieved": "2026-07-18",
+    "adaptation": "Cup/tablespoon quantities converted to grams; frying oil absorbed into the dough estimated at 10% of the dough's weight."
+  },
+  "tags": [
+    "street-food",
+    "east-african",
+    "fried-bread"
+  ],
+  "doughType": "stiff"
 }

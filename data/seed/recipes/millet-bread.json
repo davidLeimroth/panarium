@@ -6,7 +6,10 @@
     "es": "Pan de mijo sin gluten",
     "fr": "Pain de millet sans gluten"
   },
-  "aliases": ["100% millet bread", "psyllium millet loaf"],
+  "aliases": [
+    "100% millet bread",
+    "psyllium millet loaf"
+  ],
   "description": {
     "en": "A single flour, millet, bound with a psyllium husk gel, a splash of vinegar and yeast, no gums or eggs needed. Mild and faintly nutty, it slices into a soft, naturally gluten-free sandwich loaf once it has cooled all the way through.",
     "de": "Ein einziges Mehl, Hirse, gebunden mit einem Flohsamenschalen-Gel, einem Schuss Essig und Hefe, ganz ohne Gummi oder Ei. Mild und leicht nussig, ergibt es ein weiches, von Natur aus glutenfreies Sandwichbrot, sobald es ganz durchgekühlt ist.",
@@ -27,41 +30,147 @@
     "fatPct": 10,
     "yeastPct": 1.4,
     "flours": [
-      { "type": "millet", "pct": 100 }
+      {
+        "type": "millet",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:millet", "grams": 500 },
-    { "key": "water", "grams": 600 },
-    { "label": { "en": "whole psyllium husk", "de": "ganze Flohsamenschalen", "es": "cáscara de psilio entera", "fr": "psyllium en balles entières" }, "grams": 30 },
-    { "key": "vegetable-oil", "grams": 50 },
-    { "label": { "en": "apple cider vinegar", "de": "Apfelessig", "es": "vinagre de sidra de manzana", "fr": "vinaigre de cidre" }, "grams": 7 },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "sugar", "grams": 8 },
-    { "key": "salt", "grams": 12 },
-    { "key": "baking-powder", "grams": 4, "note": "optional" }
+    {
+      "key": "flour:millet",
+      "grams": 500
+    },
+    {
+      "key": "water",
+      "grams": 600
+    },
+    {
+      "label": {
+        "en": "whole psyllium husk",
+        "de": "ganze Flohsamenschalen",
+        "es": "cáscara de psilio entera",
+        "fr": "psyllium en balles entières"
+      },
+      "grams": 30
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 50
+    },
+    {
+      "label": {
+        "en": "apple cider vinegar",
+        "de": "Apfelessig",
+        "es": "vinagre de sidra de manzana",
+        "fr": "vinaigre de cidre"
+      },
+      "grams": 7
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "sugar",
+      "grams": 8
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    },
+    {
+      "key": "baking-powder",
+      "grams": 4,
+      "note": "optional"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 1080, "shape": "9 x 5 in loaf pan" },
-  "time": { "totalMin": 220, "activeMin": 15, "proofMin": 40, "bakeMin": 105, "overnight": false },
-  "bake": { "tempC": 175, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 1080,
+    "shape": "9 x 5 in loaf pan"
+  },
+  "time": {
+    "totalMin": 220,
+    "activeMin": 15,
+    "proofMin": 40,
+    "bakeMin": 105,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 175,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["nutty", "mild", "earthy"],
-  "purposes": ["everyday", "sandwich", "toast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 3.5, "freezes": true, "note": "Keeps 3-4 days at room temperature and up to 3 months frozen." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Make the psyllium gel", "summary": "Whisk water, apple cider vinegar and whole psyllium husk together; let sit until gelled." },
-    { "title": "Mix dry", "summary": "Combine millet flour, sugar, salt, baking powder (if using) and instant yeast in a large bowl." },
-    { "title": "Combine", "summary": "Work the psyllium gel and oil into the dry ingredients and knead 5-10 minutes into a sticky dough; do not add extra flour." },
-    { "title": "Pan", "summary": "Scrape into a lined 9 x 5 in metal loaf pan and smooth with a wet spatula." },
-    { "title": "Proof", "summary": "Cover and let rise in a warm, draft-free spot about 40 minutes until the dough reaches the rim." },
-    { "title": "Bake", "summary": "Bake at 175°C for 1 hour 45 minutes." },
-    { "title": "Cool", "summary": "Cool completely on a rack before slicing." }
+  "flavors": [
+    "nutty",
+    "mild",
+    "earthy"
   ],
-  "source": { "url": "https://www.natashashome.com/millet-bread/", "site": "Natasha's Home", "retrieved": "2026-07-18" },
-  "tags": ["gluten-free", "millet", "single-flour"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "toast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": false,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 3.5,
+    "freezes": true,
+    "note": "Keeps 3-4 days at room temperature and up to 3 months frozen."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Make the psyllium gel",
+      "summary": "Whisk water, apple cider vinegar and whole psyllium husk together; let sit until gelled."
+    },
+    {
+      "title": "Mix dry",
+      "summary": "Combine millet flour, sugar, salt, baking powder (if using) and instant yeast in a large bowl."
+    },
+    {
+      "title": "Combine",
+      "summary": "Work the psyllium gel and oil into the dry ingredients and knead 5-10 minutes into a sticky dough; do not add extra flour."
+    },
+    {
+      "title": "Pan",
+      "summary": "Scrape into a lined 9 x 5 in metal loaf pan and smooth with a wet spatula."
+    },
+    {
+      "title": "Proof",
+      "summary": "Cover and let rise in a warm, draft-free spot about 40 minutes until the dough reaches the rim."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 175°C for 1 hour 45 minutes."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool completely on a rack before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://www.natashashome.com/millet-bread/",
+    "site": "Natasha's Home",
+    "retrieved": "2026-07-18"
+  },
+  "tags": [
+    "gluten-free",
+    "millet",
+    "single-flour"
+  ],
+  "doughType": "dough"
 }

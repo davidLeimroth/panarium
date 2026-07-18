@@ -6,7 +6,9 @@
     "es": "Pan cubano",
     "fr": "Pain cubain"
   },
-  "aliases": ["pan cubano"],
+  "aliases": [
+    "pan cubano"
+  ],
   "description": {
     "en": "A long, lard-softened loaf built for the Cuban sandwich: lean dough enriched just enough to stay tender, rolled tight, and traditionally scored with a palmetto frond so steam escapes in one clean seam as it bakes.",
     "de": "Ein langes, mit Schmalz zart gehaltenes Brot für das kubanische Sandwich: magerer Teig, gerade genug angereichert, um zart zu bleiben, straff gerollt und traditionell mit einem Palmwedel eingeschnitten, damit der Dampf beim Backen an einer sauberen Naht entweicht.",
@@ -27,38 +29,129 @@
     "fatPct": 11,
     "yeastPct": 1.4,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 500, "note": "bread flour" },
-    { "key": "water", "grams": 296, "note": "room temperature" },
-    { "key": "instant-yeast", "grams": 7 },
-    { "key": "sugar", "grams": 8 },
-    { "key": "lard", "grams": 57, "note": "melted" },
-    { "key": "salt", "grams": 12 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 500,
+      "note": "bread flour"
+    },
+    {
+      "key": "water",
+      "grams": 296,
+      "note": "room temperature"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7
+    },
+    {
+      "key": "sugar",
+      "grams": 8
+    },
+    {
+      "key": "lard",
+      "grams": 57,
+      "note": "melted"
+    },
+    {
+      "key": "salt",
+      "grams": 12
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 440, "shape": "long torpedo loaf, about 18 inches, scored lengthwise" },
-  "time": { "totalMin": 190, "activeMin": 30, "bulkMin": 75, "proofMin": 20, "bakeMin": 16, "overnight": false },
-  "bake": { "tempC": 218, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 440,
+    "shape": "long torpedo loaf, about 18 inches, scored lengthwise"
+  },
+  "time": {
+    "totalMin": 190,
+    "activeMin": 30,
+    "bulkMin": 75,
+    "proofMin": 20,
+    "bakeMin": 16,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 218,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["mild", "savory", "rich", "yeasty"],
-  "purposes": ["sandwich", "everyday", "table"],
-  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best eaten within hours of baking; stales quickly and is traditionally bought fresh daily." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Stir water, yeast and sugar together, then work in melted lard and half the flour to a thick paste before adding salt and the rest of the flour." },
-    { "title": "Knead", "summary": "Knead 10-15 minutes until smooth and elastic enough to stretch into a thin windowpane." },
-    { "title": "First rise", "summary": "Cover and let the dough double in size, about an hour to ninety minutes." },
-    { "title": "Shape", "summary": "Divide in half, pat each piece into a rectangle, and roll tightly from the long edge into a torpedo, pinching the seam shut." },
-    { "title": "Score", "summary": "Press a palm frond (or make a single lengthwise slash) along the top so steam has one place to escape." },
-    { "title": "Bake", "summary": "Bake hot until deeply golden and crusty, with an internal temperature near 93°C (200°F)." },
-    { "title": "Cool", "summary": "Rest on a rack for close to an hour before slicing so the crumb sets." }
+  "flavors": [
+    "mild",
+    "savory",
+    "rich",
+    "yeasty"
   ],
-  "source": { "url": "https://savortheflavour.com/homemade-cuban-bread-pan-cubano/", "site": "Savor the Flavour", "retrieved": "2026-07-17", "adaptation": "Volumes converted to grams via standard conversions; palmetto-frond scoring kept as an optional traditional step." },
-  "tags": ["cuban-sandwich", "lard"]
+  "purposes": [
+    "sandwich",
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": false,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best eaten within hours of baking; stales quickly and is traditionally bought fresh daily."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Stir water, yeast and sugar together, then work in melted lard and half the flour to a thick paste before adding salt and the rest of the flour."
+    },
+    {
+      "title": "Knead",
+      "summary": "Knead 10-15 minutes until smooth and elastic enough to stretch into a thin windowpane."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and let the dough double in size, about an hour to ninety minutes."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide in half, pat each piece into a rectangle, and roll tightly from the long edge into a torpedo, pinching the seam shut."
+    },
+    {
+      "title": "Score",
+      "summary": "Press a palm frond (or make a single lengthwise slash) along the top so steam has one place to escape."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake hot until deeply golden and crusty, with an internal temperature near 93°C (200°F)."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest on a rack for close to an hour before slicing so the crumb sets."
+    }
+  ],
+  "source": {
+    "url": "https://savortheflavour.com/homemade-cuban-bread-pan-cubano/",
+    "site": "Savor the Flavour",
+    "retrieved": "2026-07-17",
+    "adaptation": "Volumes converted to grams via standard conversions; palmetto-frond scoring kept as an optional traditional step."
+  },
+  "tags": [
+    "cuban-sandwich",
+    "lard"
+  ],
+  "doughType": "dough"
 }

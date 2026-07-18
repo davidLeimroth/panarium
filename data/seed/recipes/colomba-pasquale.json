@@ -7,7 +7,10 @@
     "fr": "Colombe de Pâques (colomba pasquale)",
     "native": "Colomba di Pasqua"
   },
-  "aliases": ["colomba di Pasqua", "Easter dove bread"],
+  "aliases": [
+    "colomba di Pasqua",
+    "Easter dove bread"
+  ],
   "description": {
     "en": "Italy's Easter answer to panettone: a dove-shaped Lombard sweet bread rich with butter, eggs and orange, under a crackly almond-sugar glaze. It lands on nearly every Italian table at Pasqua, sliced for breakfast or after the lamb.",
     "de": "Italiens Ostergegenstück zum Panettone: ein taubenförmiges Hefegebäck aus der Lombardei, reich an Butter, Eiern und Orange, unter knuspriger Mandel-Zucker-Glasur. Zu Pasqua fehlt es auf kaum einem italienischen Tisch.",
@@ -29,44 +32,162 @@
     "prefermentedFlourPct": 30.8,
     "yeastPct": 1.8,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 390, "note": "120 g of it in the overnight biga" },
-    { "key": "water", "grams": 113, "note": "in the biga" },
-    { "key": "instant-yeast", "grams": 7, "note": "a pinch in the biga, the rest in the dough" },
-    { "key": "sugar", "grams": 67 },
-    { "key": "butter", "grams": 57, "note": "soft" },
-    { "key": "egg", "grams": 100, "note": "2 large" },
-    { "key": "egg-yolk", "grams": 18, "note": "white reserved for the glaze" },
-    { "key": "salt", "grams": 8 },
-    { "key": "raisins", "grams": 170, "note": "golden; candied orange peel in traditional versions" },
-    { "key": "orange-zest", "grams": 6, "note": "1 orange; or fiori di Sicilia" },
-    { "key": "vanilla", "grams": 2 },
-    { "key": "almonds", "grams": 44, "note": "ground into the glaze plus sliced on top" },
-    { "key": "sugar", "grams": 25, "note": "in the glaze" },
-    { "label": { "en": "Pearl sugar", "de": "Hagelzucker", "es": "Azúcar perlado", "fr": "Sucre en grains" }, "grams": 28, "note": "scattered over the glaze" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 390,
+      "note": "120 g of it in the overnight biga"
+    },
+    {
+      "key": "water",
+      "grams": 113,
+      "note": "in the biga"
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 7,
+      "note": "a pinch in the biga, the rest in the dough"
+    },
+    {
+      "key": "sugar",
+      "grams": 67
+    },
+    {
+      "key": "butter",
+      "grams": 57,
+      "note": "soft"
+    },
+    {
+      "key": "egg",
+      "grams": 100,
+      "note": "2 large"
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 18,
+      "note": "white reserved for the glaze"
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "raisins",
+      "grams": 170,
+      "note": "golden; candied orange peel in traditional versions"
+    },
+    {
+      "key": "orange-zest",
+      "grams": 6,
+      "note": "1 orange; or fiori di Sicilia"
+    },
+    {
+      "key": "vanilla",
+      "grams": 2
+    },
+    {
+      "key": "almonds",
+      "grams": 44,
+      "note": "ground into the glaze plus sliced on top"
+    },
+    {
+      "key": "sugar",
+      "grams": 25,
+      "note": "in the glaze"
+    },
+    {
+      "label": {
+        "en": "Pearl sugar",
+        "de": "Hagelzucker",
+        "es": "Azúcar perlado",
+        "fr": "Sucre en grains"
+      },
+      "grams": 28,
+      "note": "scattered over the glaze"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 950, "shape": "dove of two crossed logs (or paper colomba mold)" },
-  "time": { "totalMin": 1320, "activeMin": 45, "bulkMin": 150, "proofMin": 90, "bakeMin": 35, "overnight": true },
-  "bake": { "tempC": 190, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 950,
+    "shape": "dove of two crossed logs (or paper colomba mold)"
+  },
+  "time": {
+    "totalMin": 1320,
+    "activeMin": 45,
+    "bulkMin": 150,
+    "proofMin": 90,
+    "bakeMin": 35,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 190,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "buttery", "fruity", "nutty"],
-  "purposes": ["holiday", "celebration", "breakfast", "dessert"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "The almond glaze keeps the crumb moist; wrap airtight. Artisan natural-leaven versions keep far longer." },
-  "equipment": ["stand-mixer", "sheet-pan"],
+  "flavors": [
+    "sweet",
+    "buttery",
+    "fruity",
+    "nutty"
+  ],
+  "purposes": [
+    "holiday",
+    "celebration",
+    "breakfast",
+    "dessert"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "The almond glaze keeps the crumb moist; wrap airtight. Artisan natural-leaven versions keep far longer."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
   "method": [
-    { "title": "Biga", "summary": "The night before, stir together 120 g flour, 113 g cool water and a small pinch of instant yeast. Cover and leave at room temperature up to 15 hours until bubbly." },
-    { "title": "Mix", "summary": "Combine the biga with the remaining flour, sugar, salt, yeast, eggs, yolk, soft butter, zest and vanilla. Knead about 12 minutes at medium speed until smooth and elastic, then work in the dried fruit." },
-    { "title": "Bulk rise", "summary": "Cover and let rise 2–3 hours until distinctly puffy." },
-    { "title": "Shape the dove", "summary": "Divide the dough unevenly: roll the larger piece into a tapered 25 cm log for the wings, the smaller into an 18 cm log for the body. Lay them crosswise in a colomba mold or on a lined sheet." },
-    { "title": "Proof", "summary": "Cover loosely and proof 1–2 hours until puffy again." },
-    { "title": "Glaze and bake", "summary": "Whisk the reserved egg white with ground almonds and sugar, spread over the dove, scatter sliced almonds and pearl sugar. Bake at 190°C for 15 minutes, then 175°C about 20 more, tenting late, to a core of 88°C." }
+    {
+      "title": "Biga",
+      "summary": "The night before, stir together 120 g flour, 113 g cool water and a small pinch of instant yeast. Cover and leave at room temperature up to 15 hours until bubbly."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine the biga with the remaining flour, sugar, salt, yeast, eggs, yolk, soft butter, zest and vanilla. Knead about 12 minutes at medium speed until smooth and elastic, then work in the dried fruit."
+    },
+    {
+      "title": "Bulk rise",
+      "summary": "Cover and let rise 2–3 hours until distinctly puffy."
+    },
+    {
+      "title": "Shape the dove",
+      "summary": "Divide the dough unevenly: roll the larger piece into a tapered 25 cm log for the wings, the smaller into an 18 cm log for the body. Lay them crosswise in a colomba mold or on a lined sheet."
+    },
+    {
+      "title": "Proof",
+      "summary": "Cover loosely and proof 1–2 hours until puffy again."
+    },
+    {
+      "title": "Glaze and bake",
+      "summary": "Whisk the reserved egg white with ground almonds and sugar, spread over the dove, scatter sliced almonds and pearl sugar. Bake at 190°C for 15 minutes, then 175°C about 20 more, tenting late, to a core of 88°C."
+    }
   ],
   "source": {
     "url": "https://www.kingarthurbaking.com/recipes/colomba-pasquale-easter-dove-bread-recipe",
@@ -74,5 +195,11 @@
     "retrieved": "2026-07-17",
     "adaptation": "Home-scale yeasted biga version; artisan colomba uses lievito madre (difficulty 5). sugarPct counts dough sugar only; glaze sugars listed separately."
   },
-  "tags": ["easter", "lombardy", "dove", "glazed"]
+  "tags": [
+    "easter",
+    "lombardy",
+    "dove",
+    "glazed"
+  ],
+  "doughType": "dough"
 }

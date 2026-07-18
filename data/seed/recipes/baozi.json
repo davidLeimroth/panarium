@@ -7,7 +7,10 @@
     "fr": "Baozi (brioche vapeur farcie)",
     "native": "包子 (bāozi)"
   },
-  "aliases": ["bao", "steamed pork bun"],
+  "aliases": [
+    "bao",
+    "steamed pork bun"
+  ],
   "description": {
     "en": "Mantou's stuffed cousin: a soft, faintly sweet wheat wrapper is pleated shut, twelve folds or more by tradition, around juicy pork and cabbage, then steamed in bamboo baskets until pillowy. Street food and breakfast across China.",
     "de": "Mantous gefüllter Vetter: Ein weicher, leicht süßer Weizenteig wird verschlossen gefaltet – der Überlieferung nach mit zwölf oder mehr Falten – um saftiges Schweinefleisch und Kohl, dann in Bambuskörben zu Wolkenweichheit gedämpft. Streetfood und Frühstück in ganz China.",
@@ -28,41 +31,165 @@
     "fatPct": 4.5,
     "yeastPct": 1,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 600 },
-    { "key": "instant-yeast", "grams": 6 },
-    { "key": "sugar", "grams": 8, "note": "in the dough" },
-    { "key": "vegetable-oil", "grams": 27 },
-    { "key": "water", "grams": 290, "note": "lukewarm" },
-    { "label": { "en": "ground pork belly", "de": "Schweinebauch, gemahlen", "es": "panceta de cerdo molida", "fr": "poitrine de porc hachée" }, "grams": 450, "note": "for the filling" },
-    { "label": { "en": "napa cabbage, finely diced", "de": "Chinakohl, fein gewürfelt", "es": "col china picada fina", "fr": "chou chinois finement haché" }, "grams": 450, "note": "squeezed dry, for the filling" },
-    { "label": { "en": "ginger, finely diced", "de": "Ingwer, fein gewürfelt", "es": "jengibre picado fino", "fr": "gingembre finement haché" }, "grams": 15 },
-    { "label": { "en": "soy sauce, dark and light", "de": "Sojasauce, dunkel und hell", "es": "salsa de soja, oscura y clara", "fr": "sauce soja, foncée et claire" }, "grams": 40, "note": "for the filling" },
-    { "key": "salt", "grams": 6, "note": "in the filling" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 600
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 6
+    },
+    {
+      "key": "sugar",
+      "grams": 8,
+      "note": "in the dough"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 27
+    },
+    {
+      "key": "water",
+      "grams": 290,
+      "note": "lukewarm"
+    },
+    {
+      "label": {
+        "en": "ground pork belly",
+        "de": "Schweinebauch, gemahlen",
+        "es": "panceta de cerdo molida",
+        "fr": "poitrine de porc hachée"
+      },
+      "grams": 450,
+      "note": "for the filling"
+    },
+    {
+      "label": {
+        "en": "napa cabbage, finely diced",
+        "de": "Chinakohl, fein gewürfelt",
+        "es": "col china picada fina",
+        "fr": "chou chinois finement haché"
+      },
+      "grams": 450,
+      "note": "squeezed dry, for the filling"
+    },
+    {
+      "label": {
+        "en": "ginger, finely diced",
+        "de": "Ingwer, fein gewürfelt",
+        "es": "jengibre picado fino",
+        "fr": "gingembre finement haché"
+      },
+      "grams": 15
+    },
+    {
+      "label": {
+        "en": "soy sauce, dark and light",
+        "de": "Sojasauce, dunkel und hell",
+        "es": "salsa de soja, oscura y clara",
+        "fr": "sauce soja, foncée et claire"
+      },
+      "grams": 40,
+      "note": "for the filling"
+    },
+    {
+      "key": "salt",
+      "grams": 6,
+      "note": "in the filling"
+    }
   ],
-  "yield": { "count": 24, "pieceGrams": 79, "shape": "pleated round bun with pork-cabbage filling" },
-  "time": { "totalMin": 145, "activeMin": 45, "bulkMin": 55, "proofMin": 25, "bakeMin": 18, "overnight": false },
-  "bake": { "tempC": 100, "steam": true, "vessel": "steamer" },
+  "yield": {
+    "count": 24,
+    "pieceGrams": 79,
+    "shape": "pleated round bun with pork-cabbage filling"
+  },
+  "time": {
+    "totalMin": 145,
+    "activeMin": 45,
+    "bulkMin": 55,
+    "proofMin": 25,
+    "bakeMin": 18,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 100,
+    "steam": true,
+    "vessel": "steamer"
+  },
   "difficulty": 4,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["savory", "rich", "spiced", "mild"],
-  "purposes": ["street-food", "breakfast", "snack"],
-  "diet": { "vegan": false, "vegetarian": false, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 3, "freezes": true, "note": "Freezes raw or cooked exceptionally well; resteam from frozen for a few extra minutes." },
-  "equipment": ["steamer"],
-  "method": [
-    { "title": "Mix the dough", "summary": "Combine flour, yeast, sugar and oil, then work in water to a smooth dough; let it rise until doubled, 45 minutes to an hour." },
-    { "title": "Make the filling", "summary": "Squeeze excess water from the cabbage, then mix it with ground pork, ginger, soy sauces, and a little salt and sugar." },
-    { "title": "Divide", "summary": "Divide the risen dough into pieces and roll each into a wrapper with a thick center and thin edges." },
-    { "title": "Fill and pleat", "summary": "Spoon filling into the center and pleat the edges closed with a twisting motion, gathering them at the top." },
-    { "title": "Rest", "summary": "Let the shaped buns rest 20-30 minutes before cooking." },
-    { "title": "Steam", "summary": "Steam over boiling water for about 18 minutes, then let the buns rest briefly off the heat before lifting the lid." }
+  "flavors": [
+    "savory",
+    "rich",
+    "spiced",
+    "mild"
   ],
-  "source": { "url": "https://halicopteraway.com/baozi-chinese-steamed-buns/", "site": "Halicopter Away", "retrieved": "2026-07-17", "adaptation": "Dough and filling grams kept as sourced; filling condensed to its most essential aromatics for this entry." },
-  "tags": ["street-food", "steamed", "filled"]
+  "purposes": [
+    "street-food",
+    "breakfast",
+    "snack"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": false,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true,
+    "note": "Freezes raw or cooked exceptionally well; resteam from frozen for a few extra minutes."
+  },
+  "equipment": [
+    "steamer"
+  ],
+  "method": [
+    {
+      "title": "Mix the dough",
+      "summary": "Combine flour, yeast, sugar and oil, then work in water to a smooth dough; let it rise until doubled, 45 minutes to an hour."
+    },
+    {
+      "title": "Make the filling",
+      "summary": "Squeeze excess water from the cabbage, then mix it with ground pork, ginger, soy sauces, and a little salt and sugar."
+    },
+    {
+      "title": "Divide",
+      "summary": "Divide the risen dough into pieces and roll each into a wrapper with a thick center and thin edges."
+    },
+    {
+      "title": "Fill and pleat",
+      "summary": "Spoon filling into the center and pleat the edges closed with a twisting motion, gathering them at the top."
+    },
+    {
+      "title": "Rest",
+      "summary": "Let the shaped buns rest 20-30 minutes before cooking."
+    },
+    {
+      "title": "Steam",
+      "summary": "Steam over boiling water for about 18 minutes, then let the buns rest briefly off the heat before lifting the lid."
+    }
+  ],
+  "source": {
+    "url": "https://halicopteraway.com/baozi-chinese-steamed-buns/",
+    "site": "Halicopter Away",
+    "retrieved": "2026-07-17",
+    "adaptation": "Dough and filling grams kept as sourced; filling condensed to its most essential aromatics for this entry."
+  },
+  "tags": [
+    "street-food",
+    "steamed",
+    "filled"
+  ],
+  "doughType": "stiff"
 }

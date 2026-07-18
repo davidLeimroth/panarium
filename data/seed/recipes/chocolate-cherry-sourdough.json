@@ -6,14 +6,20 @@
     "es": "Pan de masa madre con chocolate negro y cerezas",
     "fr": "Pain au levain au chocolat noir et aux cerises"
   },
-  "aliases": ["Chocolate cherry bread"],
+  "aliases": [
+    "Chocolate cherry bread"
+  ],
   "description": {
     "en": "Bloomed cocoa, dark chocolate chunks and tart dried cherries turn a wheat sourdough into something between bread and dessert. Rich and just sweet enough, with the sourdough's tang keeping it from tipping into cake territory.",
     "de": "Aufgeblühter Kakao, Stücke dunkler Schokolade und säuerliche getrocknete Kirschen machen aus einem Weizensauerteig etwas zwischen Brot und Dessert. Reichhaltig und gerade süß genug, während die Säure des Sauerteigs verhindert, dass es zu kuchig wird.",
     "es": "Cacao atemperado, trozos de chocolate negro y cerezas secas ácidas convierten un pan de trigo con masa madre en algo entre pan y postre. Intenso y justo lo bastante dulce, con la acidez de la masa madre evitando que se convierta en un bizcocho.",
     "fr": "Du cacao infusé dans l'huile, des morceaux de chocolat noir et des cerises séchées acidulées transforment un levain de blé en quelque chose entre pain et dessert. Riche et juste assez sucré, l'acidité du levain l'empêchant de basculer vers le gâteau."
   },
-  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "A dessert-leaning sourdough popularized in the Tartine-adjacent artisan bakery scene." },
+  "origin": {
+    "country": "US",
+    "region": "Modern American artisan bakeries",
+    "note": "A dessert-leaning sourdough popularized in the Tartine-adjacent artisan bakery scene."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
@@ -23,45 +29,167 @@
     "fatPct": 3,
     "prefermentedFlourPct": 10.5,
     "flours": [
-      { "type": "wheat-white", "pct": 85 },
-      { "type": "wheat-whole", "pct": 15 }
+      {
+        "type": "wheat-white",
+        "pct": 85
+      },
+      {
+        "type": "wheat-whole",
+        "pct": 15
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 678, "note": "blend of regular and high-protein bread flour" },
-    { "key": "flour:wheat-whole", "grams": 120 },
-    { "key": "water", "grams": 598 },
-    { "key": "sourdough-starter", "grams": 8 },
-    { "key": "salt", "grams": 14 },
-    { "key": "cocoa", "grams": 24, "note": "unsweetened, bloomed in oil" },
-    { "key": "vegetable-oil", "grams": 24, "note": "neutral oil, e.g. canola" },
-    { "key": "sugar", "grams": 16 },
-    { "label": { "en": "dark chocolate chunks (62% cacao)", "de": "Stücke dunkler Schokolade (62% Kakao)", "es": "trozos de chocolate negro (62% cacao)", "fr": "morceaux de chocolat noir (62% cacao)" }, "grams": 159 },
-    { "label": { "en": "dried tart cherries", "de": "getrocknete Sauerkirschen", "es": "cerezas ácidas deshidratadas", "fr": "cerises acidulées séchées" }, "grams": 159, "note": "soaked briefly in warm water" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 678,
+      "note": "blend of regular and high-protein bread flour"
+    },
+    {
+      "key": "flour:wheat-whole",
+      "grams": 120
+    },
+    {
+      "key": "water",
+      "grams": 598
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 8
+    },
+    {
+      "key": "salt",
+      "grams": 14
+    },
+    {
+      "key": "cocoa",
+      "grams": 24,
+      "note": "unsweetened, bloomed in oil"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 24,
+      "note": "neutral oil, e.g. canola"
+    },
+    {
+      "key": "sugar",
+      "grams": 16
+    },
+    {
+      "label": {
+        "en": "dark chocolate chunks (62% cacao)",
+        "de": "Stücke dunkler Schokolade (62% Kakao)",
+        "es": "trozos de chocolate negro (62% cacao)",
+        "fr": "morceaux de chocolat noir (62% cacao)"
+      },
+      "grams": 159
+    },
+    {
+      "label": {
+        "en": "dried tart cherries",
+        "de": "getrocknete Sauerkirschen",
+        "es": "cerezas ácidas deshidratadas",
+        "fr": "cerises acidulées séchées"
+      },
+      "grams": 159,
+      "note": "soaked briefly in warm water"
+    }
   ],
-  "yield": { "count": 2, "pieceGrams": 900, "shape": "boule" },
-  "time": { "totalMin": 2300, "activeMin": 40, "bulkMin": 240, "proofMin": 1125, "bakeMin": 50, "overnight": true },
-  "bake": { "tempC": 230, "steam": true, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 2,
+    "pieceGrams": 900,
+    "shape": "boule"
+  },
+  "time": {
+    "totalMin": 2300,
+    "activeMin": 40,
+    "bulkMin": 240,
+    "proofMin": 1125,
+    "bakeMin": 50,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 230,
+    "steam": true,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crackly",
-  "flavors": ["chocolate", "fruity", "sweet"],
-  "purposes": ["dessert", "celebration", "snack"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 15 },
-  "keeping": { "freshDays": 3, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Build the levain", "summary": "Mix starter, white and whole wheat flour and water the evening before; ripen 12 hours." },
-    { "title": "Bloom the cocoa", "summary": "Warm the oil, whisk in cocoa powder until thickened and glossy, then let cool." },
-    { "title": "Autolyse", "summary": "Combine the flours and most of the water; rest 30 minutes." },
-    { "title": "Mix", "summary": "Add sugar, salt and levain; knead until elastic, then fold in the bloomed cocoa." },
-    { "title": "Bulk ferment with mix-ins", "summary": "Over about 4 hours, give three stretch-and-fold sets, distributing the chocolate chunks and soaked cherries evenly during each." },
-    { "title": "Shape", "summary": "Divide, preshape, rest 35 minutes, then shape into boules." },
-    { "title": "Cold proof", "summary": "Refrigerate overnight, about 18-19 hours." },
-    { "title": "Bake", "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the internal temperature reaches 95°C." },
-    { "title": "Cool", "summary": "Rest 1-2 hours before slicing so the chocolate sets." }
+  "flavors": [
+    "chocolate",
+    "fruity",
+    "sweet"
   ],
-  "source": { "url": "https://www.theperfectloaf.com/dark-chocolate-cherry-sourdough-bread/", "site": "The Perfect Loaf", "author": "Maurizio Leo", "retrieved": "2026-07-17" },
-  "tags": ["chocolate", "dessert-bread"]
+  "purposes": [
+    "dessert",
+    "celebration",
+    "snack"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 15
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Build the levain",
+      "summary": "Mix starter, white and whole wheat flour and water the evening before; ripen 12 hours."
+    },
+    {
+      "title": "Bloom the cocoa",
+      "summary": "Warm the oil, whisk in cocoa powder until thickened and glossy, then let cool."
+    },
+    {
+      "title": "Autolyse",
+      "summary": "Combine the flours and most of the water; rest 30 minutes."
+    },
+    {
+      "title": "Mix",
+      "summary": "Add sugar, salt and levain; knead until elastic, then fold in the bloomed cocoa."
+    },
+    {
+      "title": "Bulk ferment with mix-ins",
+      "summary": "Over about 4 hours, give three stretch-and-fold sets, distributing the chocolate chunks and soaked cherries evenly during each."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide, preshape, rest 35 minutes, then shape into boules."
+    },
+    {
+      "title": "Cold proof",
+      "summary": "Refrigerate overnight, about 18-19 hours."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the internal temperature reaches 95°C."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest 1-2 hours before slicing so the chocolate sets."
+    }
+  ],
+  "source": {
+    "url": "https://www.theperfectloaf.com/dark-chocolate-cherry-sourdough-bread/",
+    "site": "The Perfect Loaf",
+    "author": "Maurizio Leo",
+    "retrieved": "2026-07-17"
+  },
+  "tags": [
+    "chocolate",
+    "dessert-bread"
+  ],
+  "doughType": "dough"
 }

@@ -6,14 +6,22 @@
     "es": "Pan para kaya toast (pan blanco hainanés)",
     "fr": "Pain pour kaya toast (pain blanc haïnanais)"
   },
-  "aliases": ["Hainanese bread loaf", "roti benggala", "kopitiam bread"],
+  "aliases": [
+    "Hainanese bread loaf",
+    "roti benggala",
+    "kopitiam bread"
+  ],
   "description": {
     "en": "A plain, tall white loaf developed by Hainanese immigrant cooks for Singapore and Malaysia's coffee shops, crustier and less sweet than milk bread since it exists mainly to be toasted. Sliced thick, charred over a flame, and stacked with kaya jam and cold butter.",
     "de": "Ein schlichtes, hohes Weißbrot hainanesischer Einwandererköche für Singapurs und Malaysias Kaffeehäuser, krustiger und weniger süß als Milchbrot, da es vor allem zum Toasten dient. Dick geschnitten, geröstet, mit Kaya-Konfitüre und kalter Butter.",
     "es": "Un pan blanco alto y sencillo de cocineros hainaneses para los cafés de Singapur y Malasia, más crujiente y menos dulce que el pan de leche porque existe sobre todo para tostarse. Se corta grueso, se tuesta y se cubre con mermelada de kaya y mantequilla fría.",
     "fr": "Un pain blanc haut et simple, mis au point par des cuisiniers hainanais pour les cafés de Singapour et de Malaisie, plus croustillant et moins sucré que le pain au lait puisqu'il sert surtout à être grillé. Tranché épais et servi avec confiture kaya et beurre froid."
   },
-  "origin": { "country": "SG", "region": "Singapore and Malaysia, via Hainanese immigrant cooks", "note": "Traditional kopitiam bakeries often used vegetable shortening rather than butter or milk powder, since dairy was costly and refrigeration scarce; this is a modern home-kitchen version." },
+  "origin": {
+    "country": "SG",
+    "region": "Singapore and Malaysia, via Hainanese immigrant cooks",
+    "note": "Traditional kopitiam bakeries often used vegetable shortening rather than butter or milk powder, since dairy was costly and refrigeration scarce; this is a modern home-kitchen version."
+  },
   "leaven": "yeast",
   "family": "pan-loaf",
   "formula": {
@@ -23,39 +31,134 @@
     "fatPct": 8.6,
     "yeastPct": 0.9,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 350, "note": "bread flour" },
-    { "key": "milk", "grams": 15, "note": "dry milk powder; not counted toward hydration" },
-    { "key": "sugar", "grams": 10 },
-    { "key": "instant-yeast", "grams": 3 },
-    { "key": "salt", "grams": 5 },
-    { "key": "water", "grams": 225, "note": "cold" },
-    { "key": "butter", "grams": 30, "note": "softened" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 350,
+      "note": "bread flour"
+    },
+    {
+      "key": "milk",
+      "grams": 15,
+      "note": "dry milk powder; not counted toward hydration"
+    },
+    {
+      "key": "sugar",
+      "grams": 10
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 3
+    },
+    {
+      "key": "salt",
+      "grams": 5
+    },
+    {
+      "key": "water",
+      "grams": 225,
+      "note": "cold"
+    },
+    {
+      "key": "butter",
+      "grams": 30,
+      "note": "softened"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 638, "shape": "tall pullman or standard loaf, crusts often trimmed" },
-  "time": { "totalMin": 200, "activeMin": 25, "bulkMin": 75, "proofMin": 52, "bakeMin": 50, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 638,
+    "shape": "tall pullman or standard loaf, crusts often trimmed"
+  },
+  "time": {
+    "totalMin": 200,
+    "activeMin": 25,
+    "bulkMin": 75,
+    "proofMin": 52,
+    "bakeMin": 50,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "crisp",
-  "flavors": ["mild", "wheaty", "toasty"],
-  "purposes": ["toast", "breakfast", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Slices cleanly once fully cooled; kopitiam cooks often bake it a day ahead so it is firm enough to slice thin for toasting." },
-  "equipment": ["stand-mixer", "loaf-pan"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine bread flour, milk powder, sugar, yeast and salt with cold water; mix on low 5 minutes, then add the butter." },
-    { "title": "Knead", "summary": "Increase speed and knead about 10 minutes until smooth and elastic (windowpane stage)." },
-    { "title": "First rise", "summary": "Shape into a ball, place in an oiled bowl, cover, and let rise about an hour until doubled." },
-    { "title": "Shape", "summary": "Divide into 3-4 pieces, rest 10 minutes, then roll each into a rectangle, fold in the sides, and roll up tightly." },
-    { "title": "Second rise", "summary": "Place seam-down in a lined loaf pan and proof, covered, until the dough nears the rim, 45-60 minutes." },
-    { "title": "Bake", "summary": "Bake at 180°C (350°F) for about 50 minutes until deep golden and the internal temperature reads 88°C (190°F)." },
-    { "title": "Cool and slice", "summary": "Turn out onto a rack immediately; slice thick once fully cool, then toast and serve with kaya jam and cold butter." }
+  "flavors": [
+    "mild",
+    "wheaty",
+    "toasty"
   ],
-  "source": { "url": "https://whattocooktoday.com/hainanese-bread-loaf.html", "site": "What To Cook Today", "retrieved": "2026-07-18", "adaptation": "Salt increased slightly from the source's scant 1/4 tsp for balance." },
-  "tags": ["kopitiam", "toast-bread"]
+  "purposes": [
+    "toast",
+    "breakfast",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Slices cleanly once fully cooled; kopitiam cooks often bake it a day ahead so it is firm enough to slice thin for toasting."
+  },
+  "equipment": [
+    "stand-mixer",
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine bread flour, milk powder, sugar, yeast and salt with cold water; mix on low 5 minutes, then add the butter."
+    },
+    {
+      "title": "Knead",
+      "summary": "Increase speed and knead about 10 minutes until smooth and elastic (windowpane stage)."
+    },
+    {
+      "title": "First rise",
+      "summary": "Shape into a ball, place in an oiled bowl, cover, and let rise about an hour until doubled."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into 3-4 pieces, rest 10 minutes, then roll each into a rectangle, fold in the sides, and roll up tightly."
+    },
+    {
+      "title": "Second rise",
+      "summary": "Place seam-down in a lined loaf pan and proof, covered, until the dough nears the rim, 45-60 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 180°C (350°F) for about 50 minutes until deep golden and the internal temperature reads 88°C (190°F)."
+    },
+    {
+      "title": "Cool and slice",
+      "summary": "Turn out onto a rack immediately; slice thick once fully cool, then toast and serve with kaya jam and cold butter."
+    }
+  ],
+  "source": {
+    "url": "https://whattocooktoday.com/hainanese-bread-loaf.html",
+    "site": "What To Cook Today",
+    "retrieved": "2026-07-18",
+    "adaptation": "Salt increased slightly from the source's scant 1/4 tsp for balance."
+  },
+  "tags": [
+    "kopitiam",
+    "toast-bread"
+  ],
+  "doughType": "dough"
 }

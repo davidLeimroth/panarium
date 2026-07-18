@@ -7,14 +7,20 @@
     "fr": "Pain de seigle",
     "native": "Pain de Seigle"
   },
-  "aliases": ["French rye bread"],
+  "aliases": [
+    "French rye bread"
+  ],
   "description": {
     "en": "A refined, moderately dense rye loaf built on a two-stage rye levain, no wheat at all. Traditionally the partner of oysters and other shellfish on French tables, its tight crumb holds up beautifully to butter.",
     "de": "Ein feineres, mäßig dichtes Roggenbrot auf Basis eines zweistufig geführten Roggensauerteigs, ganz ohne Weizen. Traditionell der Begleiter von Austern und anderen Meeresfrüchten auf französischen Tischen; die feste Krume trägt Butter wunderbar.",
     "es": "Una hogaza de centeno refinada y moderadamente densa, construida sobre un levain de centeno en dos etapas, sin trigo alguno. Compañera tradicional de las ostras y otros mariscos en la mesa francesa, su miga prieta soporta muy bien la mantequilla.",
     "fr": "Un pain de seigle raffiné et modérément dense, bâti sur un levain de seigle mené en deux temps, sans une once de blé. Compagnon traditionnel des huîtres et autres fruits de mer à table, sa mie serrée porte magnifiquement le beurre."
   },
-  "origin": { "country": "FR", "region": "national, especially Brittany and Paris", "note": "The classic accompaniment to oysters in French brasseries; also one of the original breads of the Poilâne bakery since 1932." },
+  "origin": {
+    "country": "FR",
+    "region": "national, especially Brittany and Paris",
+    "note": "The classic accompaniment to oysters in French brasseries; also one of the original breads of the Poilâne bakery since 1932."
+  },
   "leaven": "sourdough",
   "family": "pan-loaf",
   "formula": {
@@ -22,35 +28,115 @@
     "saltPct": 1.7,
     "prefermentedFlourPct": 31,
     "flours": [
-      { "type": "rye", "pct": 100 }
+      {
+        "type": "rye",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:rye", "grams": 360, "note": "T130, split between the levain refresh and the final dough" },
-    { "key": "water", "grams": 340 },
-    { "key": "sourdough-starter", "grams": 100, "note": "active rye levain mother" },
-    { "key": "salt", "grams": 6 }
+    {
+      "key": "flour:rye",
+      "grams": 360,
+      "note": "T130, split between the levain refresh and the final dough"
+    },
+    {
+      "key": "water",
+      "grams": 340
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 100,
+      "note": "active rye levain mother"
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 650, "shape": "molded rye loaf" },
-  "time": { "totalMin": 400, "activeMin": 25, "bulkMin": 105, "proofMin": 30, "bakeMin": 45, "overnight": false },
-  "bake": { "tempC": 240, "steam": true, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 650,
+    "shape": "molded rye loaf"
+  },
+  "time": {
+    "totalMin": 400,
+    "activeMin": 25,
+    "bulkMin": 105,
+    "proofMin": 30,
+    "bakeMin": 45,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 240,
+    "steam": true,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["earthy", "sour", "tangy"],
-  "purposes": ["everyday", "sandwich", "breakfast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 6, "freezes": true, "note": "Rye's natural acidity and density make it a strong keeper; slice thin as it ages." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Refresh the rye levain", "summary": "Mix the mother levain with warm water and rye flour; ferment 2-3 hours until moussy and aerated." },
-    { "title": "Mix the dough", "summary": "Combine the refreshed levain with the remaining flour, water and salt for about 10 minutes; expect a thick, pasty, non-elastic dough, that's normal for pure rye." },
-    { "title": "Bulk ferment", "summary": "Rest about 90 minutes until visibly aerated." },
-    { "title": "Shape", "summary": "Transfer gently into a greased mold, preserving as much gas in the dough as possible." },
-    { "title": "Proof", "summary": "Let rise a further 30 minutes." },
-    { "title": "Bake", "summary": "Bake hot until fully set; a dense, tight crumb is the correct result for a 100% rye loaf." }
+  "flavors": [
+    "earthy",
+    "sour",
+    "tangy"
   ],
-  "source": { "url": "https://culturelevain.com/recette-pain-de-seigle-au-levain/", "site": "Culture Levain", "retrieved": "2026-07-17", "adaptation": "Mother levain's own flour/water content estimated and folded into total baker's percentages; resulting hydration is high, typical of pure-rye doughs." },
-  "tags": ["seigle", "levain"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 6,
+    "freezes": true,
+    "note": "Rye's natural acidity and density make it a strong keeper; slice thin as it ages."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Refresh the rye levain",
+      "summary": "Mix the mother levain with warm water and rye flour; ferment 2-3 hours until moussy and aerated."
+    },
+    {
+      "title": "Mix the dough",
+      "summary": "Combine the refreshed levain with the remaining flour, water and salt for about 10 minutes; expect a thick, pasty, non-elastic dough, that's normal for pure rye."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Rest about 90 minutes until visibly aerated."
+    },
+    {
+      "title": "Shape",
+      "summary": "Transfer gently into a greased mold, preserving as much gas in the dough as possible."
+    },
+    {
+      "title": "Proof",
+      "summary": "Let rise a further 30 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake hot until fully set; a dense, tight crumb is the correct result for a 100% rye loaf."
+    }
+  ],
+  "source": {
+    "url": "https://culturelevain.com/recette-pain-de-seigle-au-levain/",
+    "site": "Culture Levain",
+    "retrieved": "2026-07-17",
+    "adaptation": "Mother levain's own flour/water content estimated and folded into total baker's percentages; resulting hydration is high, typical of pure-rye doughs."
+  },
+  "tags": [
+    "seigle",
+    "levain"
+  ],
+  "doughType": "paste"
 }

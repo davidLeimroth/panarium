@@ -7,14 +7,21 @@
     "fr": "Anneau de pain ukrainien (Bublik)",
     "native": "Бублик"
   },
-  "aliases": ["bubliki", "Russian ring bagel"],
+  "aliases": [
+    "bubliki",
+    "Russian ring bagel"
+  ],
   "description": {
     "en": "A rich, egg-enriched ring from Ukraine and Russia, boiled briefly before baking like a bagel's denser, chewier cousin. Glazed glossy with egg yolk and poppy seed, it's the classic companion to a glass of tea.",
     "de": "Ein reichhaltiger, eihaltiger Ring aus der Ukraine und Russland, kurz gekocht vor dem Backen – die dichtere, zähere Cousine des Bagels. Glänzend glasiert mit Eigelb und Mohn, der klassische Begleiter zu einem Glas Tee.",
     "es": "Un rico anillo enriquecido con huevo de Ucrania y Rusia, escaldado brevemente antes de hornear, como la prima más densa y masticable del bagel. Glaseado brillante con yema de huevo y semillas de amapola, el acompañante clásico de un vaso de té.",
     "fr": "Un riche anneau enrichi à l'œuf d'Ukraine et de Russie, brièvement ébouillanté avant cuisson, comme la cousine plus dense et plus moelleuse du bagel. Glacé brillant au jaune d'œuf et au pavot, le compagnon classique d'un verre de thé."
   },
-  "origin": { "country": "UA", "region": "Ukraine and Russia", "note": "Etymology traces to a Proto-Slavic root for 'swelling'; spread through Ashkenazi Jewish baking across Poland into Ukraine." },
+  "origin": {
+    "country": "UA",
+    "region": "Ukraine and Russia",
+    "note": "Etymology traces to a Proto-Slavic root for 'swelling'; spread through Ashkenazi Jewish baking across Poland into Ukraine."
+  },
   "leaven": "yeast",
   "family": "ring",
   "formula": {
@@ -24,42 +31,145 @@
     "fatPct": 25.8,
     "yeastPct": 1.6,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 438 },
-    { "key": "milk", "grams": 414 },
-    { "key": "butter", "grams": 113 },
-    { "key": "sugar", "grams": 62 },
-    { "key": "egg", "grams": 60, "note": "whites only, for the dough" },
-    { "key": "egg-yolk", "grams": 40, "note": "for the glaze, mixed with milk" },
-    { "key": "active-dry-yeast", "grams": 7 },
-    { "key": "salt", "grams": 18 },
-    { "key": "milk", "grams": 30, "note": "for the glaze" },
-    { "key": "poppy-seeds", "grams": 15, "note": "or sesame seeds, for topping" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 438
+    },
+    {
+      "key": "milk",
+      "grams": 414
+    },
+    {
+      "key": "butter",
+      "grams": 113
+    },
+    {
+      "key": "sugar",
+      "grams": 62
+    },
+    {
+      "key": "egg",
+      "grams": 60,
+      "note": "whites only, for the dough"
+    },
+    {
+      "key": "egg-yolk",
+      "grams": 40,
+      "note": "for the glaze, mixed with milk"
+    },
+    {
+      "key": "active-dry-yeast",
+      "grams": 7
+    },
+    {
+      "key": "salt",
+      "grams": 18
+    },
+    {
+      "key": "milk",
+      "grams": 30,
+      "note": "for the glaze"
+    },
+    {
+      "key": "poppy-seeds",
+      "grams": 15,
+      "note": "or sesame seeds, for topping"
+    }
   ],
-  "yield": { "count": 15, "pieceGrams": 70, "shape": "ring with a large center hole, boiled then baked" },
-  "time": { "totalMin": 140, "activeMin": 40, "bulkMin": 60, "bakeMin": 18 },
-  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 15,
+    "pieceGrams": 70,
+    "shape": "ring with a large center hole, boiled then baked"
+  },
+  "time": {
+    "totalMin": 140,
+    "activeMin": 40,
+    "bulkMin": 60,
+    "bakeMin": 18
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "tight",
   "crust": "chewy",
-  "flavors": ["sweet", "buttery", "rich", "mild"],
-  "purposes": ["breakfast", "snack", "everyday", "table"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 5, "freezes": true, "note": "Gets drier and chewier with age, traditionally still good a few days on, dunked in tea." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Bloom the yeast", "summary": "Warm the milk, stir in butter and half the sugar, then add yeast and rest 20 minutes." },
-    { "title": "Mix", "summary": "Combine flour and remaining sugar, then work in the yeast mixture and lightly beaten egg whites." },
-    { "title": "Knead and rise", "summary": "Knead with salt to a smooth, soft dough, then cover and let double, about 1 hour." },
-    { "title": "Shape", "summary": "Divide and roll into rings; rest 20 minutes." },
-    { "title": "Boil", "summary": "Dip each ring in barely simmering water for 15-20 seconds." },
-    { "title": "Glaze and top", "summary": "Brush with beaten egg yolk mixed with milk, then coat generously with poppy or sesame seeds." },
-    { "title": "Bake", "summary": "Bake until glossy and golden brown, 15-20 minutes." }
+  "flavors": [
+    "sweet",
+    "buttery",
+    "rich",
+    "mild"
   ],
-  "source": { "url": "https://www.196flavors.com/ukraine-bublik/", "site": "196 Flavors", "retrieved": "2026-07-17", "adaptation": "Hydration computed with the milk/egg/butter water-equivalent convention; egg whites go into the dough, yolks are reserved for the glaze per the source's method." },
-  "tags": ["tea-bread", "ring"]
+  "purposes": [
+    "breakfast",
+    "snack",
+    "everyday",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 5,
+    "freezes": true,
+    "note": "Gets drier and chewier with age, traditionally still good a few days on, dunked in tea."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Bloom the yeast",
+      "summary": "Warm the milk, stir in butter and half the sugar, then add yeast and rest 20 minutes."
+    },
+    {
+      "title": "Mix",
+      "summary": "Combine flour and remaining sugar, then work in the yeast mixture and lightly beaten egg whites."
+    },
+    {
+      "title": "Knead and rise",
+      "summary": "Knead with salt to a smooth, soft dough, then cover and let double, about 1 hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide and roll into rings; rest 20 minutes."
+    },
+    {
+      "title": "Boil",
+      "summary": "Dip each ring in barely simmering water for 15-20 seconds."
+    },
+    {
+      "title": "Glaze and top",
+      "summary": "Brush with beaten egg yolk mixed with milk, then coat generously with poppy or sesame seeds."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake until glossy and golden brown, 15-20 minutes."
+    }
+  ],
+  "source": {
+    "url": "https://www.196flavors.com/ukraine-bublik/",
+    "site": "196 Flavors",
+    "retrieved": "2026-07-17",
+    "adaptation": "Hydration computed with the milk/egg/butter water-equivalent convention; egg whites go into the dough, yolks are reserved for the glaze per the source's method."
+  },
+  "tags": [
+    "tea-bread",
+    "ring"
+  ],
+  "doughType": "dough"
 }

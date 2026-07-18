@@ -20,7 +20,7 @@
   },
   "origin": {
     "country": "IS",
-    "region": "Iceland, notably Laugarvatn and other geothermal areas",
+    "region": "notably Laugarvatn and other geothermal areas",
     "note": "Nicknamed þrumari ('thunderer'); rye became Iceland's main grain after Denmark's 1602-1786 trade monopoly."
   },
   "leaven": "chemical",
@@ -154,5 +154,6 @@
   "tags": [
     "geothermal",
     "thunder-bread"
-  ]
+  ],
+  "doughType": "paste"
 }

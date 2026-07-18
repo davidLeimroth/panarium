@@ -7,52 +7,149 @@
     "fr": "Pain au levain de kamut (blé khorasan)",
     "native": "Kamut"
   },
-  "aliases": ["Kamut sourdough", "Khorasan wheat bread"],
+  "aliases": [
+    "Kamut sourdough",
+    "Khorasan wheat bread"
+  ],
   "description": {
     "en": "An ancient, large-kerneled wheat relative from the Fertile Crescent, khorasan (marketed as Kamut) bakes into a rich, buttery, faintly sweet loaf with a golden crumb. This 40% whole-grain version stays light while still tasting distinctly of the grain.",
     "de": "Khorasan, ein uraltes, großkörniges Weizenverwandtes aus dem Fruchtbaren Halbmond (unter dem Markennamen Kamut bekannt), ergibt ein Brot mit reichem, buttrigem, leicht süßem Geschmack und goldener Krume. Diese Version mit 40% Vollkorn bleibt dabei schön locker.",
     "es": "El khorasan, un antiguo pariente del trigo de grano grande de la Media Luna Fértil (comercializado como Kamut), da un pan de sabor intenso, mantecoso y ligeramente dulce, con miga dorada. Esta versión con 40% de grano integral se mantiene ligera sin perder carácter.",
     "fr": "Le khorasan, un ancien parent du blé à gros grains originaire du Croissant fertile (vendu sous le nom de Kamut), donne un pain au goût riche, beurré et légèrement sucré, à la mie dorée. Cette version à 40% de grain complet reste légère tout en gardant son caractère."
   },
-  "origin": { "country": "US", "region": "Modern American artisan bakeries", "note": "Khorasan wheat is ancient (Egypt/Fertile Crescent origins); 'Kamut' is a modern American trademark for the grain, and this sourdough treatment is a contemporary home-baking formula." },
+  "origin": {
+    "country": "US",
+    "region": "Modern American artisan bakeries",
+    "note": "Khorasan wheat is ancient (Egypt/Fertile Crescent origins); 'Kamut' is a modern American trademark for the grain, and this sourdough treatment is a contemporary home-baking formula."
+  },
   "leaven": "sourdough",
   "family": "hearth-loaf",
   "formula": {
     "hydrationPct": 72,
     "saltPct": 1.8,
     "flours": [
-      { "type": "khorasan", "pct": 40 },
-      { "type": "wheat-white", "pct": 60 }
+      {
+        "type": "khorasan",
+        "pct": 40
+      },
+      {
+        "type": "wheat-white",
+        "pct": 60
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 300, "note": "bread flour" },
-    { "key": "flour:khorasan", "grams": 200, "note": "whole grain Kamut" },
-    { "key": "water", "grams": 360 },
-    { "key": "sourdough-starter", "grams": 75, "note": "active" },
-    { "key": "salt", "grams": 9 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 300,
+      "note": "bread flour"
+    },
+    {
+      "key": "flour:khorasan",
+      "grams": 200,
+      "note": "whole grain Kamut"
+    },
+    {
+      "key": "water",
+      "grams": 360
+    },
+    {
+      "key": "sourdough-starter",
+      "grams": 75,
+      "note": "active"
+    },
+    {
+      "key": "salt",
+      "grams": 9
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 870, "shape": "boule or bâtard" },
-  "time": { "totalMin": 1230, "activeMin": 30, "bulkMin": 480, "proofMin": 480, "bakeMin": 40, "overnight": true },
-  "bake": { "tempC": 260, "steam": false, "vessel": "dutch-oven" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 870,
+    "shape": "boule or bâtard"
+  },
+  "time": {
+    "totalMin": 1230,
+    "activeMin": 30,
+    "bulkMin": 480,
+    "proofMin": 480,
+    "bakeMin": 40,
+    "overnight": true
+  },
+  "bake": {
+    "tempC": 260,
+    "steam": false,
+    "vessel": "dutch-oven"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "crackly",
-  "flavors": ["buttery", "sweet", "nutty"],
-  "purposes": ["everyday", "table", "breakfast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 40 },
-  "keeping": { "freshDays": 3, "freezes": true },
-  "equipment": ["dutch-oven", "banneton"],
-  "method": [
-    { "title": "Autolyse", "summary": "Mix the bread flour, whole grain Kamut and water; cover and rest 1-2 hours." },
-    { "title": "Mix in starter and salt", "summary": "Add the active starter and salt, mix well, and rest 30-40 minutes." },
-    { "title": "Bulk ferment", "summary": "Perform 4-6 stretch-and-folds every 20-30 minutes, then let the dough continue fermenting 6-12 hours depending on temperature." },
-    { "title": "Shape", "summary": "Pre-shape and rest 15-20 minutes, then shape into a boule or bâtard." },
-    { "title": "Proof", "summary": "Proof 60-90 minutes at room temperature, or refrigerate 6-10 hours for a fuller flavor." },
-    { "title": "Bake", "summary": "Bake in a preheated, covered Dutch oven at a high heat for about 30 minutes, then uncover and bake roughly 10 minutes more until deep golden and over 96°C internally." },
-    { "title": "Cool", "summary": "Rest at least an hour before slicing." }
+  "flavors": [
+    "buttery",
+    "sweet",
+    "nutty"
   ],
-  "source": { "url": "https://breadtopia.com/kamut-sourdough-bread/", "site": "Breadtopia", "retrieved": "2026-07-17", "adaptation": "Used the site's '40% whole grain Kamut' formula, its recommended balance of structure and flavor." },
-  "tags": ["ancient-grain", "kamut"]
+  "purposes": [
+    "everyday",
+    "table",
+    "breakfast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 40
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true
+  },
+  "equipment": [
+    "dutch-oven",
+    "banneton"
+  ],
+  "method": [
+    {
+      "title": "Autolyse",
+      "summary": "Mix the bread flour, whole grain Kamut and water; cover and rest 1-2 hours."
+    },
+    {
+      "title": "Mix in starter and salt",
+      "summary": "Add the active starter and salt, mix well, and rest 30-40 minutes."
+    },
+    {
+      "title": "Bulk ferment",
+      "summary": "Perform 4-6 stretch-and-folds every 20-30 minutes, then let the dough continue fermenting 6-12 hours depending on temperature."
+    },
+    {
+      "title": "Shape",
+      "summary": "Pre-shape and rest 15-20 minutes, then shape into a boule or bâtard."
+    },
+    {
+      "title": "Proof",
+      "summary": "Proof 60-90 minutes at room temperature, or refrigerate 6-10 hours for a fuller flavor."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake in a preheated, covered Dutch oven at a high heat for about 30 minutes, then uncover and bake roughly 10 minutes more until deep golden and over 96°C internally."
+    },
+    {
+      "title": "Cool",
+      "summary": "Rest at least an hour before slicing."
+    }
+  ],
+  "source": {
+    "url": "https://breadtopia.com/kamut-sourdough-bread/",
+    "site": "Breadtopia",
+    "retrieved": "2026-07-17",
+    "adaptation": "Used the site's '40% whole grain Kamut' formula, its recommended balance of structure and flavor."
+  },
+  "tags": [
+    "ancient-grain",
+    "kamut"
+  ],
+  "doughType": "dough"
 }

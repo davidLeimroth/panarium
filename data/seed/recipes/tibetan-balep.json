@@ -7,14 +7,21 @@
     "fr": "Balep Korkun (pain plat tibétain à la poêle)",
     "native": "བ་ལེབ།"
   },
-  "aliases": ["balep", "Tibetan monastery bread"],
+  "aliases": [
+    "balep",
+    "Tibetan monastery bread"
+  ],
   "description": {
     "en": "A thick, round Tibetan flatbread cooked slowly in a covered skillet until both sides turn deep gold. Made simply from whole wheat flour, baking powder and water with no fermentation wait, it is central Tibet's everyday bread, torn and dipped in butter tea.",
     "de": "Ein dickes, rundes tibetisches Fladenbrot, das langsam in einer bedeckten Pfanne gegart wird, bis beide Seiten tief golden sind. Einfach aus Vollkornmehl, Backpulver und Wasser ohne Wartezeit zum Gären hergestellt, ist es Zentraltibets Alltagsbrot, das in Buttertee getunkt wird.",
     "es": "Un pan plano tibetano grueso y redondo, cocinado lentamente en sartén tapada hasta dorar ambos lados. Hecho con harina integral, polvo de hornear y agua, sin espera de fermentación, es el pan cotidiano del Tíbet central, mojado en té de mantequilla.",
     "fr": "Un pain plat tibétain épais et rond, cuit lentement en poêle couverte jusqu'à dorer les deux faces. Fait de farine complète, de levure chimique et d'eau, sans attente de fermentation, c'est le pain quotidien du Tibet central, trempé dans le thé au beurre."
   },
-  "origin": { "country": "CN", "region": "Central Tibet", "note": "Now made almost exclusively with white or whole wheat flour; older versions before modern milling used whole wheat or barley." },
+  "origin": {
+    "country": "CN",
+    "region": "Central Tibet",
+    "note": "Now made almost exclusively with white or whole wheat flour; older versions before modern milling used whole wheat or barley."
+  },
   "leaven": "chemical",
   "family": "flatbread",
   "formula": {
@@ -22,36 +29,117 @@
     "saltPct": 1.6,
     "fatPct": 6,
     "flours": [
-      { "type": "wheat-whole", "pct": 100 }
+      {
+        "type": "wheat-whole",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-whole", "grams": 250 },
-    { "key": "baking-powder", "grams": 14 },
-    { "key": "salt", "grams": 4 },
-    { "key": "water", "grams": 155 },
-    { "key": "butter", "grams": 15, "note": "for pan-frying" }
+    {
+      "key": "flour:wheat-whole",
+      "grams": 250
+    },
+    {
+      "key": "baking-powder",
+      "grams": 14
+    },
+    {
+      "key": "salt",
+      "grams": 4
+    },
+    {
+      "key": "water",
+      "grams": 155
+    },
+    {
+      "key": "butter",
+      "grams": 15,
+      "note": "for pan-frying"
+    }
   ],
-  "yield": { "count": 6, "pieceGrams": 73, "shape": "thick round disc, pan-fried, ~1 cm thick, 12-15 cm diameter" },
-  "time": { "totalMin": 100, "activeMin": 20, "proofMin": 30, "bakeMin": 50, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "skillet" },
+  "yield": {
+    "count": 6,
+    "pieceGrams": 73,
+    "shape": "thick round disc, pan-fried, ~1 cm thick, 12-15 cm diameter"
+  },
+  "time": {
+    "totalMin": 100,
+    "activeMin": 20,
+    "proofMin": 30,
+    "bakeMin": 50,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "skillet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["wheaty", "mild", "earthy"],
-  "purposes": ["everyday", "breakfast", "side"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 100 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Keeps at room temperature about two days; toast on a dry pan to refresh, especially good with butter and jam." },
-  "equipment": ["skillet"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine whole wheat flour, baking powder and salt, then gradually knead in water to a smooth, soft dough." },
-    { "title": "Rest", "summary": "Divide into 6 balls and let rest 30 minutes." },
-    { "title": "Shape", "summary": "Flatten each ball by hand or rolling pin into a thick round disc, about 1 cm thick." },
-    { "title": "Cook", "summary": "Heat a pan hot, then reduce to medium; add a little butter or oil, place a disc in the pan, and cover." },
-    { "title": "Slow-cook", "summary": "Cook 10-15 minutes per side, covered, flipping once, until both sides are deep golden and the bread sounds hollow when tapped." },
-    { "title": "Serve", "summary": "Serve warm with butter, jam, or alongside spicy Tibetan dishes." }
+  "flavors": [
+    "wheaty",
+    "mild",
+    "earthy"
   ],
-  "source": { "url": "http://priyaeasyntastyrecipes.blogspot.com/2018/09/balep-korkumtibetan-flatbreadtibet.html", "site": "Priya's Versatile Recipes", "retrieved": "2026-07-18", "adaptation": "Salt and water amounts estimated since the source gave them only as 'to taste'/'as needed'; a small amount of pan-frying butter added as an optional cooking fat per the source's own note." },
-  "tags": ["tibetan", "skillet-bread"]
+  "purposes": [
+    "everyday",
+    "breakfast",
+    "side"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 100
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Keeps at room temperature about two days; toast on a dry pan to refresh, especially good with butter and jam."
+  },
+  "equipment": [
+    "skillet"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine whole wheat flour, baking powder and salt, then gradually knead in water to a smooth, soft dough."
+    },
+    {
+      "title": "Rest",
+      "summary": "Divide into 6 balls and let rest 30 minutes."
+    },
+    {
+      "title": "Shape",
+      "summary": "Flatten each ball by hand or rolling pin into a thick round disc, about 1 cm thick."
+    },
+    {
+      "title": "Cook",
+      "summary": "Heat a pan hot, then reduce to medium; add a little butter or oil, place a disc in the pan, and cover."
+    },
+    {
+      "title": "Slow-cook",
+      "summary": "Cook 10-15 minutes per side, covered, flipping once, until both sides are deep golden and the bread sounds hollow when tapped."
+    },
+    {
+      "title": "Serve",
+      "summary": "Serve warm with butter, jam, or alongside spicy Tibetan dishes."
+    }
+  ],
+  "source": {
+    "url": "http://priyaeasyntastyrecipes.blogspot.com/2018/09/balep-korkumtibetan-flatbreadtibet.html",
+    "site": "Priya's Versatile Recipes",
+    "retrieved": "2026-07-18",
+    "adaptation": "Salt and water amounts estimated since the source gave them only as 'to taste'/'as needed'; a small amount of pan-frying butter added as an optional cooking fat per the source's own note."
+  },
+  "tags": [
+    "tibetan",
+    "skillet-bread"
+  ],
+  "doughType": "dough"
 }

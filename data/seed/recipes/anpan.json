@@ -7,14 +7,21 @@
     "fr": "Anpan (petit pain à la pâte de haricots rouges)",
     "native": "あんパン"
   },
-  "aliases": ["an-pan", "red bean bread"],
+  "aliases": [
+    "an-pan",
+    "red bean bread"
+  ],
   "description": {
     "en": "A soft Japanese milk-bread bun wrapped around sweet red bean paste, born in 1874 when a Tokyo baker fused Western bread with a native sake-yeast dough. A dimple pressed into the center and a scatter of sesame seeds mark it as anpan before the first bite.",
     "de": "Ein weiches japanisches Milchbrot-Brötchen um süße rote Bohnenpaste, entstanden 1874, als ein Tokioter Bäcker westliches Brot mit einem einheimischen Sake-Hefeteig verband. Eine Mulde in der Mitte und Sesamsamen kennzeichnen es schon vor dem ersten Bissen als Anpan.",
     "es": "Un bollo suave de pan de leche japonés relleno de pasta dulce de judía roja, nacido en 1874 cuando un panadero de Tokio fusionó el pan occidental con una masa local de levadura de sake. Una marca en el centro y semillas de sésamo lo identifican como anpan antes del primer bocado.",
     "fr": "Un petit pain moelleux au lait japonais enroulé autour de pâte sucrée de haricots rouges, né en 1874 quand un boulanger de Tokyo a fusionné le pain occidental et une pâte locale au levain de saké. Une marque au centre et des graines de sésame l'identifient comme anpan."
   },
-  "origin": { "country": "JP", "region": "Tokyo, nationwide since the Meiji era", "note": "Created in 1874 at the Kimuraya bakery; considered the first truly Japanese bread and still one of the most common kashipan (sweet breads)." },
+  "origin": {
+    "country": "JP",
+    "region": "Tokyo, nationwide since the Meiji era",
+    "note": "Created in 1874 at the Kimuraya bakery; considered the first truly Japanese bread and still one of the most common kashipan (sweet breads)."
+  },
   "leaven": "yeast",
   "family": "roll",
   "formula": {
@@ -24,41 +31,147 @@
     "fatPct": 13.5,
     "yeastPct": 1.9,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 260, "note": "225g bread flour + 35g cake flour" },
-    { "key": "water", "grams": 50 },
-    { "key": "milk", "grams": 50 },
-    { "key": "sugar", "grams": 50 },
-    { "key": "salt", "grams": 4 },
-    { "key": "instant-yeast", "grams": 5 },
-    { "key": "egg", "grams": 50 },
-    { "key": "butter", "grams": 35 },
-    { "label": { "en": "sweet red bean paste (anko)", "de": "süße rote Bohnenpaste (Anko)", "es": "pasta dulce de judía roja (anko)", "fr": "pâte sucrée de haricots rouges (anko)" }, "grams": 280, "note": "35g per bun; store-bought or homemade" }
+    {
+      "key": "flour:wheat-white",
+      "grams": 260,
+      "note": "225g bread flour + 35g cake flour"
+    },
+    {
+      "key": "water",
+      "grams": 50
+    },
+    {
+      "key": "milk",
+      "grams": 50
+    },
+    {
+      "key": "sugar",
+      "grams": 50
+    },
+    {
+      "key": "salt",
+      "grams": 4
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 5
+    },
+    {
+      "key": "egg",
+      "grams": 50
+    },
+    {
+      "key": "butter",
+      "grams": 35
+    },
+    {
+      "label": {
+        "en": "sweet red bean paste (anko)",
+        "de": "süße rote Bohnenpaste (Anko)",
+        "es": "pasta dulce de judía roja (anko)",
+        "fr": "pâte sucrée de haricots rouges (anko)"
+      },
+      "grams": 280,
+      "note": "35g per bun; store-bought or homemade"
+    }
   ],
-  "yield": { "count": 8, "pieceGrams": 98, "shape": "filled round bun, sesame-topped, ~8 cm" },
-  "time": { "totalMin": 175, "activeMin": 40, "bulkMin": 90, "proofMin": 30, "bakeMin": 14, "overnight": false },
-  "bake": { "tempC": 200, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 8,
+    "pieceGrams": 98,
+    "shape": "filled round bun, sesame-topped, ~8 cm"
+  },
+  "time": {
+    "totalMin": 175,
+    "activeMin": 40,
+    "bulkMin": 90,
+    "proofMin": 30,
+    "bakeMin": 14,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 200,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 3,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "rich", "nutty", "mild"],
-  "purposes": ["snack", "breakfast", "dessert", "everyday"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Best day-of, still soft from the anko's moisture; reheat briefly in a toaster oven. Freezes well either unfilled or filled." },
-  "equipment": ["stand-mixer", "sheet-pan"],
-  "method": [
-    { "title": "Mix dough", "summary": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water to a shaggy dough, then knead about 5 minutes." },
-    { "title": "Enrich", "summary": "Work in the softened butter and knead 10 more minutes until smooth and elastic enough to stretch into a thin windowpane." },
-    { "title": "First rise", "summary": "Cover and proof in a warm spot 1-2 hours until doubled." },
-    { "title": "Divide and rest", "summary": "Divide into 8 pieces, shape into balls, and rest 15 minutes." },
-    { "title": "Fill", "summary": "Flatten each piece, place red bean paste in the center, gather the edges to seal, and reshape into a smooth ball." },
-    { "title": "Final proof", "summary": "Proof about 30 minutes until puffy; press a floured fingertip into the center of each bun and sprinkle with sesame seeds if using." },
-    { "title": "Bake", "summary": "Bake at 200°C (400°F) for 13-15 minutes until golden brown." }
+  "flavors": [
+    "sweet",
+    "rich",
+    "nutty",
+    "mild"
   ],
-  "source": { "url": "https://www.justonecookbook.com/anpan/", "site": "Just One Cookbook", "retrieved": "2026-07-18", "adaptation": "Salt recalculated from Diamond Crystal kosher salt's lower density (roughly 2.8 g/tsp) rather than the source's rounded 6g figure." },
-  "tags": ["kashipan", "filled-bun"]
+  "purposes": [
+    "snack",
+    "breakfast",
+    "dessert",
+    "everyday"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Best day-of, still soft from the anko's moisture; reheat briefly in a toaster oven. Freezes well either unfilled or filled."
+  },
+  "equipment": [
+    "stand-mixer",
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix dough",
+      "summary": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water to a shaggy dough, then knead about 5 minutes."
+    },
+    {
+      "title": "Enrich",
+      "summary": "Work in the softened butter and knead 10 more minutes until smooth and elastic enough to stretch into a thin windowpane."
+    },
+    {
+      "title": "First rise",
+      "summary": "Cover and proof in a warm spot 1-2 hours until doubled."
+    },
+    {
+      "title": "Divide and rest",
+      "summary": "Divide into 8 pieces, shape into balls, and rest 15 minutes."
+    },
+    {
+      "title": "Fill",
+      "summary": "Flatten each piece, place red bean paste in the center, gather the edges to seal, and reshape into a smooth ball."
+    },
+    {
+      "title": "Final proof",
+      "summary": "Proof about 30 minutes until puffy; press a floured fingertip into the center of each bun and sprinkle with sesame seeds if using."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 200°C (400°F) for 13-15 minutes until golden brown."
+    }
+  ],
+  "source": {
+    "url": "https://www.justonecookbook.com/anpan/",
+    "site": "Just One Cookbook",
+    "retrieved": "2026-07-18",
+    "adaptation": "Salt recalculated from Diamond Crystal kosher salt's lower density (roughly 2.8 g/tsp) rather than the source's rounded 6g figure."
+  },
+  "tags": [
+    "kashipan",
+    "filled-bun"
+  ],
+  "doughType": "dough"
 }

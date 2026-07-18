@@ -6,7 +6,10 @@
     "es": "Pan rápido de fonio",
     "fr": "Pain rapide au fonio"
   },
-  "aliases": ["fonio loaf", "acha bread"],
+  "aliases": [
+    "fonio loaf",
+    "acha bread"
+  ],
   "description": {
     "en": "Fonio, West Africa's oldest cultivated grain and once a food reserved for chiefs and royalty, mixes into a sweet, chemically leavened quick bread with plant milk and oil. No eggs, no dairy, no yeast, just a fast batter with a nutty flavor a little like cornbread.",
     "de": "Fonio, Westafrikas ältestes Kulturgetreide, einst Häuptlingen vorbehalten, wird zu süßem, chemisch gelockertem Schnellbrot mit Pflanzenmilch und Öl verrührt. Ohne Ei, Milchprodukte oder Hefe, nur ein schneller Teig mit nussigem, maisbrotartigem Geschmack.",
@@ -26,37 +29,128 @@
     "sugarPct": 36.9,
     "fatPct": 26.6,
     "flours": [
-      { "type": "millet", "pct": 55.4 },
-      { "type": "wheat-white", "pct": 44.6 }
+      {
+        "type": "millet",
+        "pct": 55.4
+      },
+      {
+        "type": "wheat-white",
+        "pct": 44.6
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "label": { "en": "fonio flour", "de": "Foniomehl", "es": "harina de fonio", "fr": "farine de fonio" }, "grams": 150 },
-    { "key": "flour:wheat-white", "grams": 121, "note": "or use self-raising flour and omit the baking powder below" },
-    { "key": "baking-powder", "grams": 7 },
-    { "key": "salt", "grams": 8 },
-    { "key": "sugar", "grams": 100, "note": "caster sugar" },
-    { "key": "milk", "grams": 240, "note": "any plant milk: soy, coconut or oat" },
-    { "key": "vegetable-oil", "grams": 72, "note": "sunflower oil" }
+    {
+      "label": {
+        "en": "fonio flour",
+        "de": "Foniomehl",
+        "es": "harina de fonio",
+        "fr": "farine de fonio"
+      },
+      "grams": 150
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 121,
+      "note": "or use self-raising flour and omit the baking powder below"
+    },
+    {
+      "key": "baking-powder",
+      "grams": 7
+    },
+    {
+      "key": "salt",
+      "grams": 8
+    },
+    {
+      "key": "sugar",
+      "grams": 100,
+      "note": "caster sugar"
+    },
+    {
+      "key": "milk",
+      "grams": 240,
+      "note": "any plant milk: soy, coconut or oat"
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 72,
+      "note": "sunflower oil"
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 630, "shape": "loaf tin, or divided among lined cupcake cases" },
-  "time": { "totalMin": 55, "activeMin": 10, "bakeMin": 25, "overnight": false },
-  "bake": { "tempC": 180, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 630,
+    "shape": "loaf tin, or divided among lined cupcake cases"
+  },
+  "time": {
+    "totalMin": 55,
+    "activeMin": 10,
+    "bakeMin": 25,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 180,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 1,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["nutty", "sweet", "earthy"],
-  "purposes": ["breakfast", "snack", "side"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": false, "wholegrainPct": 55.4 },
-  "keeping": { "freshDays": 3, "freezes": true },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Combine fonio flour, flour (or self-raising flour), baking powder, salt, sugar, plant milk and oil in a bowl until you have a thick, uniform batter." },
-    { "title": "Pan", "summary": "Pour into a lightly greased loaf tin, or divide among lined cupcake cases for individual portions." },
-    { "title": "Bake", "summary": "Bake at 180°C for about 25 minutes until a skewer comes out clean." },
-    { "title": "Cool", "summary": "Cool completely on a wire rack before serving." }
+  "flavors": [
+    "nutty",
+    "sweet",
+    "earthy"
   ],
-  "source": { "url": "https://www.vegannigerian.com/2022/07/6-ingredient-fonio-bread-no-egg-no-dairy.html", "site": "The Vegan Nigerian", "retrieved": "2026-07-18", "adaptation": "Self-raising flour decomposed into plain flour plus an estimated baking powder and salt content; cup weights for fonio flour and self-raising flour are estimates." },
-  "tags": ["ancient-grain", "west-africa", "quick-bread"]
+  "purposes": [
+    "breakfast",
+    "snack",
+    "side"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 55.4
+  },
+  "keeping": {
+    "freshDays": 3,
+    "freezes": true
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine fonio flour, flour (or self-raising flour), baking powder, salt, sugar, plant milk and oil in a bowl until you have a thick, uniform batter."
+    },
+    {
+      "title": "Pan",
+      "summary": "Pour into a lightly greased loaf tin, or divide among lined cupcake cases for individual portions."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 180°C for about 25 minutes until a skewer comes out clean."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool completely on a wire rack before serving."
+    }
+  ],
+  "source": {
+    "url": "https://www.vegannigerian.com/2022/07/6-ingredient-fonio-bread-no-egg-no-dairy.html",
+    "site": "The Vegan Nigerian",
+    "retrieved": "2026-07-18",
+    "adaptation": "Self-raising flour decomposed into plain flour plus an estimated baking powder and salt content; cup weights for fonio flour and self-raising flour are estimates."
+  },
+  "tags": [
+    "ancient-grain",
+    "west-africa",
+    "quick-bread"
+  ],
+  "doughType": "dough"
 }

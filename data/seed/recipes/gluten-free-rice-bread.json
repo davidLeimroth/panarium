@@ -6,7 +6,10 @@
     "es": "Pan de arroz sin gluten",
     "fr": "Pain de riz sans gluten"
   },
-  "aliases": ["rice flour bread", "GF rice loaf"],
+  "aliases": [
+    "rice flour bread",
+    "GF rice loaf"
+  ],
   "description": {
     "en": "White rice flour, xanthan gum and quick yeast beat into a thick batter, poured straight into a tin with no kneading at all. It rises slowly into a plain, mild sandwich loaf, a straightforward starting point for gluten-free home baking.",
     "de": "Reismehl, Xanthan und Schnellhefe werden zu einem dicken Teig verquirlt und ohne jedes Kneten direkt in die Form gegossen. Er geht langsam zu einem schlichten, milden Sandwichbrot auf, ein unkomplizierter Einstieg ins glutenfreie Backen.",
@@ -27,38 +30,130 @@
     "fatPct": 5.4,
     "yeastPct": 2.4,
     "flours": [
-      { "type": "rice", "pct": 100 }
+      {
+        "type": "rice",
+        "pct": 100
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rice", "grams": 250, "note": "white rice flour" },
-    { "key": "water", "grams": 300 },
-    { "key": "vegetable-oil", "grams": 14 },
-    { "key": "sugar", "grams": 4 },
-    { "key": "salt", "grams": 3 },
-    { "key": "instant-yeast", "grams": 6, "note": "quick/fast-action yeast" },
-    { "label": { "en": "xanthan gum", "de": "Xanthan", "es": "goma xantana", "fr": "gomme xanthane" }, "grams": 3 }
+    {
+      "key": "flour:rice",
+      "grams": 250,
+      "note": "white rice flour"
+    },
+    {
+      "key": "water",
+      "grams": 300
+    },
+    {
+      "key": "vegetable-oil",
+      "grams": 14
+    },
+    {
+      "key": "sugar",
+      "grams": 4
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 6,
+      "note": "quick/fast-action yeast"
+    },
+    {
+      "label": {
+        "en": "xanthan gum",
+        "de": "Xanthan",
+        "es": "goma xantana",
+        "fr": "gomme xanthane"
+      },
+      "grams": 3
+    }
   ],
-  "yield": { "count": 1, "pieceGrams": 520, "shape": "500g / 1 lb tin loaf" },
-  "time": { "totalMin": 156, "activeMin": 10, "proofMin": 68, "bakeMin": 58, "overnight": false },
-  "bake": { "tempC": 220, "steam": false, "vessel": "loaf-pan" },
+  "yield": {
+    "count": 1,
+    "pieceGrams": 520,
+    "shape": "500g / 1 lb tin loaf"
+  },
+  "time": {
+    "totalMin": 156,
+    "activeMin": 10,
+    "proofMin": 68,
+    "bakeMin": 58,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 220,
+    "steam": false,
+    "vessel": "loaf-pan"
+  },
   "difficulty": 2,
   "crumb": "tight",
   "crust": "soft",
-  "flavors": ["mild", "sweet"],
-  "purposes": ["everyday", "sandwich", "toast"],
-  "diet": { "vegan": true, "vegetarian": true, "containsGluten": false, "containsDairy": false, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 2, "freezes": true, "note": "Rice bread dries out quickly since it has no gluten network to hold moisture; best fresh or sliced and frozen within a day or two." },
-  "equipment": ["loaf-pan"],
-  "method": [
-    { "title": "Mix dry", "summary": "Stir rice flour, xanthan gum, quick yeast, sugar and salt together, then sieve into a clean bowl." },
-    { "title": "Beat the batter", "summary": "Add the water and beat well until smooth and thick, more a batter than a dough." },
-    { "title": "Fold in oil", "summary": "Drizzle the oil over the top and fold it through with a spatula." },
-    { "title": "Pan and prove", "summary": "Scrape into a greased tin, smooth the top, cover with an upturned bowl and prove in a warm place 45-90 minutes until just below the rim." },
-    { "title": "Bake", "summary": "Bake at 220°C (200°C fan) for 55-60 minutes until well risen and deep golden." },
-    { "title": "Cool", "summary": "Cool completely on a rack before slicing; cutting it warm makes rice bread gummy." }
+  "flavors": [
+    "mild",
+    "sweet"
   ],
-  "source": { "url": "https://www.freee-foods.co.uk/recipes/rice-bread/", "site": "FREEE by Doves Farm", "retrieved": "2026-07-18" },
-  "tags": ["gluten-free", "rice", "batter-bread"]
+  "purposes": [
+    "everyday",
+    "sandwich",
+    "toast"
+  ],
+  "diet": {
+    "vegan": true,
+    "vegetarian": true,
+    "containsGluten": false,
+    "containsDairy": false,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 2,
+    "freezes": true,
+    "note": "Rice bread dries out quickly since it has no gluten network to hold moisture; best fresh or sliced and frozen within a day or two."
+  },
+  "equipment": [
+    "loaf-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix dry",
+      "summary": "Stir rice flour, xanthan gum, quick yeast, sugar and salt together, then sieve into a clean bowl."
+    },
+    {
+      "title": "Beat the batter",
+      "summary": "Add the water and beat well until smooth and thick, more a batter than a dough."
+    },
+    {
+      "title": "Fold in oil",
+      "summary": "Drizzle the oil over the top and fold it through with a spatula."
+    },
+    {
+      "title": "Pan and prove",
+      "summary": "Scrape into a greased tin, smooth the top, cover with an upturned bowl and prove in a warm place 45-90 minutes until just below the rim."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake at 220°C (200°C fan) for 55-60 minutes until well risen and deep golden."
+    },
+    {
+      "title": "Cool",
+      "summary": "Cool completely on a rack before slicing; cutting it warm makes rice bread gummy."
+    }
+  ],
+  "source": {
+    "url": "https://www.freee-foods.co.uk/recipes/rice-bread/",
+    "site": "FREEE by Doves Farm",
+    "retrieved": "2026-07-18"
+  },
+  "tags": [
+    "gluten-free",
+    "rice",
+    "batter-bread"
+  ],
+  "doughType": "dough"
 }

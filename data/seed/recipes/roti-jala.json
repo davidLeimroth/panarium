@@ -7,51 +7,152 @@
     "fr": "Roti Jala (crêpe malaisienne en dentelle)",
     "native": "roti jala"
   },
-  "aliases": ["roti kirai", "net bread", "lace pancake"],
+  "aliases": [
+    "roti kirai",
+    "net bread",
+    "lace pancake"
+  ],
   "description": {
     "en": "A Malay net-patterned crepe drizzled freehand from a thin turmeric batter onto a hot pan, its lattice inspired by fishing nets. Set in under a minute without flipping, then folded into quarters, it soaks up chicken curry or beef rendang at the table.",
     "de": "Ein malaiisches Netz-Crêpe, das aus einem dünnen Kurkuma-Teig freihändig in eine heiße Pfanne geträufelt wird; sein Gitter ist von Fischernetzen inspiriert. In unter einer Minute ohne Wenden gestockt, dann geviertelt, saugt es am Tisch Hühnchen-Curry oder Rendang auf.",
     "es": "Un crepe malayo con patrón de red, dibujado a mano con masa fina de cúrcuma sobre una sartén caliente; su enrejado se inspira en redes de pesca. Cuajado en menos de un minuto sin voltear, doblado en cuartos, absorbe el curry de pollo o el rendang en la mesa.",
     "fr": "Une crêpe malaise à motif de filet, versée à main levée à partir d'une pâte fine au curcuma sur une poêle chaude, inspirée des filets de pêche. Prise en moins d'une minute sans être retournée, pliée en quatre, elle absorbe le curry de poulet ou le rendang à table."
   },
-  "origin": { "country": "MY", "region": "Malaysia (also Singapore and Indonesia)", "note": "Also called roti kirai or jala roti; its net pattern is named directly after fishing nets (jala)." },
+  "origin": {
+    "country": "MY",
+    "region": "Malaysia (also Singapore and Indonesia)",
+    "note": "Also called roti kirai or jala roti; its net pattern is named directly after fishing nets (jala)."
+  },
   "leaven": "none",
   "family": "flatbread",
   "formula": {
     "hydrationPct": 225,
     "saltPct": 1.3,
     "flours": [
-      { "type": "wheat-white", "pct": 100 }
+      {
+        "type": "wheat-white",
+        "pct": 100
+      }
     ],
     "confidence": "estimated"
   },
   "ingredients": [
-    { "key": "flour:wheat-white", "grams": 225 },
-    { "key": "egg", "grams": 50 },
-    { "label": { "en": "coconut cream", "de": "Kokoscreme", "es": "crema de coco", "fr": "crème de coco" }, "grams": 100 },
-    { "key": "water", "grams": 400 },
-    { "key": "salt", "grams": 3 },
-    { "label": { "en": "turmeric powder", "de": "Kurkumapulver", "es": "cúrcuma en polvo", "fr": "curcuma en poudre" }, "grams": 2 }
+    {
+      "key": "flour:wheat-white",
+      "grams": 225
+    },
+    {
+      "key": "egg",
+      "grams": 50
+    },
+    {
+      "label": {
+        "en": "coconut cream",
+        "de": "Kokoscreme",
+        "es": "crema de coco",
+        "fr": "crème de coco"
+      },
+      "grams": 100
+    },
+    {
+      "key": "water",
+      "grams": 400
+    },
+    {
+      "key": "salt",
+      "grams": 3
+    },
+    {
+      "label": {
+        "en": "turmeric powder",
+        "de": "Kurkumapulver",
+        "es": "cúrcuma en polvo",
+        "fr": "curcuma en poudre"
+      },
+      "grams": 2
+    }
   ],
-  "yield": { "count": 16, "pieceGrams": 49, "shape": "thin lacy net crepe, ~20 cm, folded into quarters or rolled" },
-  "time": { "totalMin": 55, "activeMin": 25, "proofMin": 12, "bakeMin": 16, "overnight": false },
-  "bake": { "tempC": 150, "steam": false, "vessel": "griddle" },
+  "yield": {
+    "count": 16,
+    "pieceGrams": 49,
+    "shape": "thin lacy net crepe, ~20 cm, folded into quarters or rolled"
+  },
+  "time": {
+    "totalMin": 55,
+    "activeMin": 25,
+    "proofMin": 12,
+    "bakeMin": 16,
+    "overnight": false
+  },
+  "bake": {
+    "tempC": 150,
+    "steam": false,
+    "vessel": "griddle"
+  },
   "difficulty": 3,
   "crumb": "open",
   "crust": "soft",
-  "flavors": ["mild", "earthy", "savory"],
-  "purposes": ["side", "snack", "table"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": false, "containsEgg": true, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 1, "freezes": true, "note": "Best fresh and pliable; stack cooled crepes between parchment to prevent tearing, and freeze for later reheating." },
-  "equipment": ["griddle"],
-  "method": [
-    { "title": "Mix batter", "summary": "Whisk flour, turmeric and salt, beat in the egg, then gradually whisk in coconut cream and water to a thin, smooth, pourable batter." },
-    { "title": "Rest", "summary": "Strain if lumpy and let the batter rest 10-15 minutes." },
-    { "title": "Drizzle", "summary": "Fill a roti jala cup (or a squeeze bottle) with batter and drizzle it in overlapping circles over a hot, lightly greased nonstick pan to form a fine net." },
-    { "title": "Set", "summary": "Cook uncovered for under a minute, just until the net dries and the edges lift, without flipping." },
-    { "title": "Fold", "summary": "Lift the lacy sheet off while warm and fold it into quarters or roll it into a loose scroll." },
-    { "title": "Serve", "summary": "Serve warm alongside chicken curry or beef rendang for scooping." }
+  "flavors": [
+    "mild",
+    "earthy",
+    "savory"
   ],
-  "source": { "url": "https://tasteasianfood.com/how-to-make-roti-jala/", "site": "Taste of Asian Food", "retrieved": "2026-07-18", "adaptation": "Coconut cream's water content estimated at roughly 68% for hydration purposes, matching this atlas's dairy convention; oil used only to grease the pan and omitted as negligible." },
-  "tags": ["malay", "lace-crepe"]
+  "purposes": [
+    "side",
+    "snack",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": false,
+    "containsEgg": true,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 1,
+    "freezes": true,
+    "note": "Best fresh and pliable; stack cooled crepes between parchment to prevent tearing, and freeze for later reheating."
+  },
+  "equipment": [
+    "griddle"
+  ],
+  "method": [
+    {
+      "title": "Mix batter",
+      "summary": "Whisk flour, turmeric and salt, beat in the egg, then gradually whisk in coconut cream and water to a thin, smooth, pourable batter."
+    },
+    {
+      "title": "Rest",
+      "summary": "Strain if lumpy and let the batter rest 10-15 minutes."
+    },
+    {
+      "title": "Drizzle",
+      "summary": "Fill a roti jala cup (or a squeeze bottle) with batter and drizzle it in overlapping circles over a hot, lightly greased nonstick pan to form a fine net."
+    },
+    {
+      "title": "Set",
+      "summary": "Cook uncovered for under a minute, just until the net dries and the edges lift, without flipping."
+    },
+    {
+      "title": "Fold",
+      "summary": "Lift the lacy sheet off while warm and fold it into quarters or roll it into a loose scroll."
+    },
+    {
+      "title": "Serve",
+      "summary": "Serve warm alongside chicken curry or beef rendang for scooping."
+    }
+  ],
+  "source": {
+    "url": "https://tasteasianfood.com/how-to-make-roti-jala/",
+    "site": "Taste of Asian Food",
+    "retrieved": "2026-07-18",
+    "adaptation": "Coconut cream's water content estimated at roughly 68% for hydration purposes, matching this atlas's dairy convention; oil used only to grease the pan and omitted as negligible."
+  },
+  "tags": [
+    "malay",
+    "lace-crepe"
+  ],
+  "doughType": "batter"
 }

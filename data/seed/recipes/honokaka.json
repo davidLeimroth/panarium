@@ -7,14 +7,21 @@
     "fr": "Galette de l'île de Hönö (Hönökaka)",
     "native": "Hönökaka"
   },
-  "aliases": ["Hönö bread", "isle of Hönö flatbread"],
+  "aliases": [
+    "Hönö bread",
+    "isle of Hönö flatbread"
+  ],
   "description": {
     "en": "A soft, faintly sweet flatbread from the fishing island of Hönö in the Gothenburg archipelago, its surface dimpled with a spiked rolling pin before a quick hot bake. Split in half and eaten with butter, cheese or pickled herring.",
     "de": "Ein weiches, leicht süßes Fladenbrot von der Fischerinsel Hönö im Göteborger Schärengarten, dessen Oberfläche vor dem kurzen, heißen Backen mit einem Stachelroller genoppt wird. Halbiert und mit Butter, Käse oder eingelegtem Hering gegessen.",
     "es": "Un pan plano suave y ligeramente dulce de la isla pesquera de Hönö, en el archipiélago de Gotemburgo, con la superficie marcada con un rodillo de púas antes de un horneado rápido y caliente. Se parte por la mitad y se come con mantequilla, queso o arenque encurtido.",
     "fr": "Une galette moelleuse et légèrement sucrée de l'île de pêcheurs de Hönö, dans l'archipel de Göteborg, dont la surface est cloutée au rouleau à pointes avant une cuisson rapide et chaude. Coupée en deux et dégustée avec du beurre, du fromage ou du hareng mariné."
   },
-  "origin": { "country": "SE", "region": "Hönö, Bohuslän archipelago near Gothenburg", "note": "Named for the island of Hönö; historically made with hjorthornssalt (deer-antler salt), now ammonium carbonate." },
+  "origin": {
+    "country": "SE",
+    "region": "Hönö, Bohuslän archipelago near Gothenburg",
+    "note": "Named for the island of Hönö; historically made with hjorthornssalt (deer-antler salt), now ammonium carbonate."
+  },
   "leaven": "yeast",
   "family": "flatbread",
   "formula": {
@@ -24,40 +31,139 @@
     "fatPct": 13,
     "yeastPct": 1.6,
     "flours": [
-      { "type": "wheat-white", "pct": 73 },
-      { "type": "rye", "pct": 27 }
+      {
+        "type": "wheat-white",
+        "pct": 73
+      },
+      {
+        "type": "rye",
+        "pct": 27
+      }
     ],
     "confidence": "from-source"
   },
   "ingredients": [
-    { "key": "flour:rye", "grams": 102 },
-    { "key": "flour:wheat-white", "grams": 281 },
-    { "key": "instant-yeast", "grams": 6 },
-    { "key": "salt", "grams": 6 },
-    { "key": "milk", "grams": 284 },
-    { "label": { "en": "golden syrup", "de": "heller Sirup (Golden Syrup)", "es": "sirope dorado", "fr": "sirop doré" }, "grams": 74 },
-    { "key": "butter", "grams": 50 }
+    {
+      "key": "flour:rye",
+      "grams": 102
+    },
+    {
+      "key": "flour:wheat-white",
+      "grams": 281
+    },
+    {
+      "key": "instant-yeast",
+      "grams": 6
+    },
+    {
+      "key": "salt",
+      "grams": 6
+    },
+    {
+      "key": "milk",
+      "grams": 284
+    },
+    {
+      "label": {
+        "en": "golden syrup",
+        "de": "heller Sirup (Golden Syrup)",
+        "es": "sirope dorado",
+        "fr": "sirop doré"
+      },
+      "grams": 74
+    },
+    {
+      "key": "butter",
+      "grams": 50
+    }
   ],
-  "yield": { "count": 4, "pieceGrams": 175, "shape": "large 25cm round, traditionally cut into half-moons" },
-  "time": { "totalMin": 112, "activeMin": 30, "bulkMin": 60, "proofMin": 30, "bakeMin": 7 },
-  "bake": { "tempC": 218, "steam": false, "vessel": "sheet" },
+  "yield": {
+    "count": 4,
+    "pieceGrams": 175,
+    "shape": "large 25cm round, traditionally cut into half-moons"
+  },
+  "time": {
+    "totalMin": 112,
+    "activeMin": 30,
+    "bulkMin": 60,
+    "proofMin": 30,
+    "bakeMin": 7
+  },
+  "bake": {
+    "tempC": 218,
+    "steam": false,
+    "vessel": "sheet"
+  },
   "difficulty": 2,
   "crumb": "medium",
   "crust": "soft",
-  "flavors": ["sweet", "wheaty", "mild", "malty"],
-  "purposes": ["everyday", "breakfast", "snack", "table"],
-  "diet": { "vegan": false, "vegetarian": true, "containsGluten": true, "containsDairy": true, "containsEgg": false, "wholegrainPct": 0 },
-  "keeping": { "freshDays": 4, "freezes": true, "note": "Best fresh or lightly toasted within a few days; freezes well split into halves." },
-  "equipment": ["sheet-pan"],
-  "method": [
-    { "title": "Mix", "summary": "Combine rye flour, part of the all-purpose flour, yeast and salt." },
-    { "title": "Add liquid", "summary": "Warm the milk with the syrup, then stir into the flour along with softened butter." },
-    { "title": "Knead", "summary": "Work in the remaining flour and knead a couple of minutes to a soft, pliable dough." },
-    { "title": "Rise", "summary": "Cover and ferment about an hour." },
-    { "title": "Shape", "summary": "Divide into rounds and roll each about 25cm across." },
-    { "title": "Texture and rest", "summary": "Dimple the surface with a spiked rolling pin or fork, then rest 30 minutes." },
-    { "title": "Bake", "summary": "Bake hot and quick until lightly golden, 6-8 minutes." }
+  "flavors": [
+    "sweet",
+    "wheaty",
+    "mild",
+    "malty"
   ],
-  "source": { "url": "https://scandinaviansimpleeating.com/2020/09/11/swedish-flatbread-honokaka-with-rye-flour/", "site": "Scandinavian Simple Eating", "retrieved": "2026-07-17", "adaptation": "Golden syrup weight estimated from a honey-density conversion since the source lists it only by spoon measure." },
-  "tags": ["archipelago", "griddle-optional"]
+  "purposes": [
+    "everyday",
+    "breakfast",
+    "snack",
+    "table"
+  ],
+  "diet": {
+    "vegan": false,
+    "vegetarian": true,
+    "containsGluten": true,
+    "containsDairy": true,
+    "containsEgg": false,
+    "wholegrainPct": 0
+  },
+  "keeping": {
+    "freshDays": 4,
+    "freezes": true,
+    "note": "Best fresh or lightly toasted within a few days; freezes well split into halves."
+  },
+  "equipment": [
+    "sheet-pan"
+  ],
+  "method": [
+    {
+      "title": "Mix",
+      "summary": "Combine rye flour, part of the all-purpose flour, yeast and salt."
+    },
+    {
+      "title": "Add liquid",
+      "summary": "Warm the milk with the syrup, then stir into the flour along with softened butter."
+    },
+    {
+      "title": "Knead",
+      "summary": "Work in the remaining flour and knead a couple of minutes to a soft, pliable dough."
+    },
+    {
+      "title": "Rise",
+      "summary": "Cover and ferment about an hour."
+    },
+    {
+      "title": "Shape",
+      "summary": "Divide into rounds and roll each about 25cm across."
+    },
+    {
+      "title": "Texture and rest",
+      "summary": "Dimple the surface with a spiked rolling pin or fork, then rest 30 minutes."
+    },
+    {
+      "title": "Bake",
+      "summary": "Bake hot and quick until lightly golden, 6-8 minutes."
+    }
+  ],
+  "source": {
+    "url": "https://scandinaviansimpleeating.com/2020/09/11/swedish-flatbread-honokaka-with-rye-flour/",
+    "site": "Scandinavian Simple Eating",
+    "retrieved": "2026-07-17",
+    "adaptation": "Golden syrup weight estimated from a honey-density conversion since the source lists it only by spoon measure."
+  },
+  "tags": [
+    "archipelago",
+    "griddle-optional"
+  ],
+  "doughType": "dough"
 }
