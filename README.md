@@ -57,3 +57,9 @@ the API types by design. Details: `docs/DESIGN.md` §2.
 - [docs/DESIGN.md](docs/DESIGN.md), product + architecture + data model
 - [docs/SCRAPING.md](docs/SCRAPING.md), corpus pipeline, attribution & ethics
 - [docs/ROADMAP.md](docs/ROADMAP.md), what's next
+
+## License
+
+- [LICENSE](LICENSE): the source code is MIT.
+- [DATA-LICENSE.md](DATA-LICENSE.md): recipe facts are CC BY 4.0, the editorial
+  writing is CC BY 4.0, and every entry keeps its `source.url` attribution.
