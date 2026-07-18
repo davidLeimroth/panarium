@@ -5,7 +5,7 @@ import Layout from '../../../components/Layout.astro';
 import RecipeCard from '../../../components/RecipeCard.astro';
 import FormulaCard from '../../../components/react/FormulaCard';
 import TimeRibbon from '../../../components/TimeRibbon.astro';
-import { fmt, getDict, withBase } from '../../../i18n';
+import { fmt, getDict, pick, withBase } from '../../../i18n';
 import { flagEmoji, formatMinutes, regionName } from '../../../lib/format';
 import {
   getAllRecipes,
@@ -31,6 +31,8 @@ const recipes = await getAllRecipes();
 const entry = recipes.find((r) => r.data.slug === Astro.params.slug);
 if (!entry) return Astro.redirect(withBase(`/${lang}/breads/`));
 const r = entry.data;
+const rName = pick(r.name, lang);
+const rDesc = pick(r.description, lang);
 
 const entries = recipes.map((x) => toIndexEntry(x.data, lang));
 const self = entries.find((e) => e.slug === r.slug);
@@ -65,7 +67,7 @@ if (r.formula.prefermentedFlourPct && (r.leaven === 'sourdough' || r.leaven === 
 const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
 ---
 
-<Layout lang={lang} title={r.name[lang]} description={r.description[lang]} current="atlas">
+<Layout lang={lang} title={rName} description={rDesc} current="atlas">
  <article class="wrap recipe">
  <p class="crumbtrail no-print">
  <a href={withBase(`/${lang}/breads/`)}>← {t.common.backToAtlas}</a>
@@ -77,8 +79,8 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
  {flagEmoji(r.origin.country)} {regionName(r.origin.country, lang)}{r.origin.region ? `, ${r.origin.region}` : ''}
  </p>
  <h1>
- {r.name[lang]}
- {r.name.native && r.name.native !== r.name[lang] && (
+ {rName}
+ {r.name.native && r.name.native !== rName && (
  <span class="native">{r.name.native}</span>
  )}
  </h1>
@@ -92,7 +94,7 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
  </span>
  </p>
  )}
- <p class="lead">{r.description[lang]}</p>
+ <p class="lead">{rDesc}</p>
  <div class="chips">
  <span class="chip chip-static">{t.taxonomy.leaven[r.leaven]}</span>
  <span class="chip chip-static">{t.taxonomy.family[r.family]}</span>
@@ -123,7 +125,7 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
  flavors: r.flavors,
  bakeTempC: r.bake.tempC,
  }}
- label={r.name[lang]}
+ label={rName}
  />
  <table class="ledger spec">
  <tbody>

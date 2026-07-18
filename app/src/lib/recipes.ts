@@ -1,4 +1,5 @@
 import { type CollectionEntry, getCollection } from 'astro:content';
+import { pick } from '../i18n';
 import type { Recipe } from './recipeSchema';
 import type { RecipeIndexEntry } from './search';
 import { GLUTEN_FLOURS, type Lang } from './taxonomy';
@@ -33,9 +34,9 @@ export function toIndexEntry(r: Recipe, lang: Lang): RecipeIndexEntry {
     .toLowerCase();
   return {
     slug: r.slug,
-    name: r.name[lang],
+    name: pick(r.name, lang),
     native: r.name.native,
-    desc: r.description[lang],
+    desc: pick(r.description, lang),
     country: r.origin.country,
     region: r.origin.region,
     family: r.family,

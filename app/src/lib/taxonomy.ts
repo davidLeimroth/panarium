@@ -1,6 +1,6 @@
 /** Canonical enums — mirror of data/schema/TAXONOMY.md and recipe.schema.json. */
 
-export const LANGS = ['en', 'de', 'es', 'fr'] as const;
+export const LANGS = ['en', 'de', 'es', 'fr', 'ro'] as const;
 export type Lang = (typeof LANGS)[number];
 
 export const LEAVENS = ['sourdough', 'yeast', 'hybrid', 'chemical', 'none'] as const;

@@ -10,7 +10,7 @@ const recipes = defineCollection({
 const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/school' }),
   schema: z.object({
-    lang: z.enum(['en', 'de', 'es', 'fr']),
+    lang: z.enum(['en', 'de', 'es', 'fr', 'ro']),
     slug: z.string(),
     title: z.string(),
     teaser: z.string(),

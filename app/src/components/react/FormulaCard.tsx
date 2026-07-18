@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { Dict } from '../../i18n';
-import { fmt } from '../../i18n';
+import { fmt, pick } from '../../i18n';
 import type { RecipeIngredient } from '../../lib/recipeSchema';
 import { DENSITIES } from '../../lib/scienceData';
 import type { Lang } from '../../lib/taxonomy';
@@ -50,7 +50,7 @@ export default function FormulaCard({ ingredients, yieldCount, yieldGrams, lang,
       const dict = t.ingredients as Record<string, string>;
       if (dict[i.key]) return dict[i.key];
     }
-    return i.label?.[lang] ?? i.key ?? ', ';
+    return i.label ? pick(i.label, lang) : (i.key ?? ', ');
   };
 
   return (

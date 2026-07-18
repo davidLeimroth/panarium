@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { Dict } from '../../i18n';
-import { fmt } from '../../i18n';
+import { fmt, pick } from '../../i18n';
 import {
   assessSpec,
   computeFormula,
@@ -366,7 +366,7 @@ export default function Calculator({ lang, t }: Props) {
           <select value={styleKey} onChange={(ev) => applyStyle(ev.target.value)}>
             {STYLE_RANGES.map((r) => (
               <option key={r.key} value={r.key}>
-                {r.label?.[lang] ?? r.key}
+                {r.label ? pick(r.label, lang) : r.key}
               </option>
             ))}
             <option value="custom">{l.custom}</option>

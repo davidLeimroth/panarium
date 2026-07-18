@@ -3,21 +3,33 @@ import { de } from './de';
 import { type Dict, en } from './en';
 import { es } from './es';
 import { fr } from './fr';
+import { ro } from './ro';
 
 export { LANGS } from '../lib/taxonomy';
 export type { Dict };
 
-export const DICTS: Record<Lang, Dict> = { en, de, es, fr };
+export const DICTS: Record<Lang, Dict> = { en, de, es, fr, ro };
 
 export const LANG_NAMES: Record<Lang, string> = {
   en: 'English',
   de: 'Deutsch',
   es: 'Español',
   fr: 'Français',
+  ro: 'Română',
 };
 
 export function getDict(lang: Lang): Dict {
   return DICTS[lang] ?? en;
+}
+
+/**
+ * Pick a localized value from a data object that may not yet have every
+ * language, falling back to English. Recipe and science data are only
+ * translated into en/de/es/fr, so Romanian pages render English instead of
+ * "undefined" until the corpus is translated.
+ */
+export function pick<T extends { en: string }>(v: T, lang: Lang): string {
+  return (v as Record<string, string>)[lang] || v.en;
 }
 
 /**

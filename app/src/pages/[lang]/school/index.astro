@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../../components/Layout.astro';
-import { fmt, getDict, withBase } from '../../../i18n';
+import { fmt, getDict, pick, withBase } from '../../../i18n';
 import { DERIVED_FORMULAS, FAULTS, MATH_FORMULAS } from '../../../lib/scienceData';
 import { type Family, LANGS, type Lang } from '../../../lib/taxonomy';
 
@@ -59,7 +59,7 @@ const faultsByStage = stages
  <div class="fault-grid">
  {g.faults.map((f) => (
   <details class="card fault">
-  <summary>{f.fault[lang]}</summary>
+  <summary>{pick(f.fault, lang)}</summary>
   <div class="fault-body">
   {f.signs && f.signs.length > 0 && (
   <p>
@@ -95,7 +95,7 @@ const faultsByStage = stages
  <div class="formula-grid">
  {MATH_FORMULAS.map((m) => (
  <div class="card pad formula-note">
- <h3>{m.name[lang]}</h3>
+ <h3>{pick(m.name, lang)}</h3>
  <p class="expr mono">{m.expression}</p>
  {m.example && (
  <p class="fine"><strong>{t.school.example}:</strong> {m.example}</p>
@@ -145,7 +145,7 @@ const faultsByStage = stages
  {DERIVED_FORMULAS.fits.map((f) => (
  <li>
  <span class="mono expr">{f.expression}</span>
- <span class="fine"> {f.label[lang]}{f.r2 !== undefined ? ` (r² ${f.r2}, n ${f.n})` : ''}</span>
+ <span class="fine"> {pick(f.label, lang)}{f.r2 !== undefined ? ` (r² ${f.r2}, n ${f.n})` : ''}</span>
  </li>
  ))}
  </ul>
