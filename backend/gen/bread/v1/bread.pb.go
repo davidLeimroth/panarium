@@ -28,6 +28,7 @@ type LocalizedText struct {
 	Es            string                 `protobuf:"bytes,3,opt,name=es,proto3" json:"es,omitempty"`
 	Fr            string                 `protobuf:"bytes,4,opt,name=fr,proto3" json:"fr,omitempty"`
 	Native        string                 `protobuf:"bytes,5,opt,name=native,proto3" json:"native,omitempty"`
+	Ro            string                 `protobuf:"bytes,6,opt,name=ro,proto3" json:"ro,omitempty"` // optional Romanian, not yet populated across the corpus
 	unknownFields protoimpl.UnknownFields
 	sizeCache     protoimpl.SizeCache
 }
@@ -93,6 +94,13 @@ func (x *LocalizedText) GetFr() string {
 func (x *LocalizedText) GetNative() string {
 	if x != nil {
 		return x.Native
+	}
+	return ""
+}
+
+func (x *LocalizedText) GetRo() string {
+	if x != nil {
+		return x.Ro
 	}
 	return ""
 }
@@ -1873,13 +1881,14 @@ var File_bread_v1_bread_proto protoreflect.FileDescriptor
 
 const file_bread_v1_bread_proto_rawDesc = "" +
 	"\n" +
-	"\x14bread/v1/bread.proto\x12\bbread.v1\"g\n" +
+	"\x14bread/v1/bread.proto\x12\bbread.v1\"w\n" +
 	"\rLocalizedText\x12\x0e\n" +
 	"\x02en\x18\x01 \x01(\tR\x02en\x12\x0e\n" +
 	"\x02de\x18\x02 \x01(\tR\x02de\x12\x0e\n" +
 	"\x02es\x18\x03 \x01(\tR\x02es\x12\x0e\n" +
 	"\x02fr\x18\x04 \x01(\tR\x02fr\x12\x16\n" +
-	"\x06native\x18\x05 \x01(\tR\x06native\"1\n" +
+	"\x06native\x18\x05 \x01(\tR\x06native\x12\x0e\n" +
+	"\x02ro\x18\x06 \x01(\tR\x02ro\"1\n" +
 	"\tFlourPart\x12\x12\n" +
 	"\x04type\x18\x01 \x01(\tR\x04type\x12\x10\n" +
 	"\x03pct\x18\x02 \x01(\x01R\x03pct\"\x9f\x02\n" +

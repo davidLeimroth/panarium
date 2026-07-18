@@ -12,6 +12,7 @@ message LocalizedText {
   string es = 3;
   string fr = 4;
   string native = 5;
+  string ro = 6; // optional Romanian, not yet populated across the corpus
 }
 
 message FlourPart {

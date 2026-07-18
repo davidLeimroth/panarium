@@ -16,6 +16,7 @@ const localized = z.object({
   de: z.string(),
   es: z.string(),
   fr: z.string(),
+  ro: z.string().optional(),
 });
 
 const localizedName = localized.extend({ native: z.string().optional() });
@@ -26,6 +27,7 @@ const stepTitle = z
     de: z.string().max(60).optional(),
     es: z.string().max(60).optional(),
     fr: z.string().max(60).optional(),
+    ro: z.string().max(60).optional(),
   })
   .strict();
 
@@ -35,6 +37,7 @@ const stepSummary = z
     de: z.string().max(300).optional(),
     es: z.string().max(300).optional(),
     fr: z.string().max(300).optional(),
+    ro: z.string().max(300).optional(),
   })
   .strict();
 

@@ -11,6 +11,7 @@
       "type": "object", "required": ["en", "de", "es", "fr"], "additionalProperties": false,
       "properties": {
         "en": { "type": "string" }, "de": { "type": "string" }, "es": { "type": "string" }, "fr": { "type": "string" },
+        "ro": { "type": "string", "description": "optional Romanian translation, not yet populated across the corpus" },
         "native": { "type": "string", "description": "name in its native language/script if different from all four" }
       }
     },
@@ -19,7 +20,8 @@
       "type": "object", "required": ["en", "de", "es", "fr"], "additionalProperties": false,
       "properties": {
         "en": { "type": "string", "maxLength": 280 }, "de": { "type": "string", "maxLength": 280 },
-        "es": { "type": "string", "maxLength": 280 }, "fr": { "type": "string", "maxLength": 280 }
+        "es": { "type": "string", "maxLength": 280 }, "fr": { "type": "string", "maxLength": 280 },
+        "ro": { "type": "string", "maxLength": 280, "description": "optional Romanian translation, not yet populated across the corpus" }
       }
     },
     "origin": {
@@ -63,7 +65,7 @@
           "key": { "type": "string", "description": "ingredient key from TAXONOMY.md, e.g. water, salt, flour:wheat-white" },
           "label": {
             "type": "object", "required": ["en", "de", "es", "fr"], "additionalProperties": false,
-            "properties": { "en": { "type": "string" }, "de": { "type": "string" }, "es": { "type": "string" }, "fr": { "type": "string" } }
+            "properties": { "en": { "type": "string" }, "de": { "type": "string" }, "es": { "type": "string" }, "fr": { "type": "string" }, "ro": { "type": "string", "description": "optional Romanian translation, not yet populated across the corpus" } }
           },
           "grams": { "type": "number", "minimum": 0 },
           "note": { "type": "string", "maxLength": 120 }
@@ -126,22 +128,24 @@
         "properties": {
           "title": {
             "type": "object", "required": ["en"], "additionalProperties": false,
-            "description": "step title; en is REQUIRED, de/es/fr OPTIONAL, each <= 60 chars",
+            "description": "step title; en is REQUIRED, de/es/fr/ro OPTIONAL, each <= 60 chars",
             "properties": {
               "en": { "type": "string", "maxLength": 60 },
               "de": { "type": "string", "maxLength": 60 },
               "es": { "type": "string", "maxLength": 60 },
-              "fr": { "type": "string", "maxLength": 60 }
+              "fr": { "type": "string", "maxLength": 60 },
+              "ro": { "type": "string", "maxLength": 60 }
             }
           },
           "summary": {
             "type": "object", "required": ["en"], "additionalProperties": false,
-            "description": "step summary; en is REQUIRED, de/es/fr OPTIONAL, each <= 300 chars",
+            "description": "step summary; en is REQUIRED, de/es/fr/ro OPTIONAL, each <= 300 chars",
             "properties": {
               "en": { "type": "string", "maxLength": 300 },
               "de": { "type": "string", "maxLength": 300 },
               "es": { "type": "string", "maxLength": 300 },
-              "fr": { "type": "string", "maxLength": 300 }
+              "fr": { "type": "string", "maxLength": 300 },
+              "ro": { "type": "string", "maxLength": 300 }
             }
           }
         }
