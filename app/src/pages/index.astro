@@ -1,6 +1,8 @@
 ---
 // Root: pick the visitor's language client-side, fall back to English.
-const base = import.meta.env.BASE_URL; // '/' locally, '/panarium/' under Pages
+// Normalize to exactly one trailing slash: BASE_URL may arrive as '/panarium'
+// (no slash) under a base, which would join to '/panariumen/'.
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
 
 <html lang="en">
