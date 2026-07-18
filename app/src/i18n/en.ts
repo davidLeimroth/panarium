@@ -28,6 +28,7 @@ export const en = {
     statSourdoughs: 'sourdoughs',
     statHydration: 'median hydration',
     featured: 'From the atlas',
+    breadOfDay: 'Bread of the day',
     sections: {
       atlasTitle: 'The Atlas',
       atlasDesc:
@@ -235,6 +236,24 @@ export const en = {
     reset: 'Reset',
     dataBadgeBuiltin: 'style data: built-in reference',
     dataBadgeResearched: 'style data: researched & cited',
+    savedTitle: 'My doughs',
+    saveName: 'Name',
+    save: 'Save',
+    load: 'Load',
+    remove: 'Delete',
+    noSaved: 'No saved doughs yet.',
+    panTitle: 'Scale to a pan',
+    panLength: 'Length (cm)',
+    panWidth: 'Width (cm)',
+    panHeight: 'Height (cm)',
+    panSuggested: 'Suggested total dough: {g} g',
+    panApply: 'Apply to formula',
+  },
+  compare: {
+    title: 'Compare breads',
+    lead: 'Pick two breads and see them side by side.',
+    pick: 'Pick a bread',
+    empty: 'Choose two breads to see them compared.',
   },
   finder: {
     title: 'The Finder',

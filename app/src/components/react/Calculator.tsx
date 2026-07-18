@@ -111,6 +111,53 @@ const GROUP_COLORS: Record<string, string> = {
   extra: 'var(--viz-extra)',
 };
 
+const STORAGE_KEY = 'panarium-doughs';
+
+interface SavedDough {
+  name: string;
+  styleKey: string;
+  spec: DoughSpec;
+  savedAt: number;
+}
+
+// Sourced dough density: 0.562 g raw dough per cm3 of pan volume,
+// Bake With Jack's "magic number" model (density = 1/1.78) for white-bread tins.
+// See data/science/math-formulas.json entry "dough-weight-from-pan-volume".
+const PAN_DENSITY_G_PER_CM3 = 0.562;
+
+function isSavedDough(v: unknown): v is SavedDough {
+  if (typeof v !== 'object' || v === null) return false;
+  const o = v as Record<string, unknown>;
+  return (
+    typeof o.name === 'string' &&
+    typeof o.styleKey === 'string' &&
+    typeof o.spec === 'object' &&
+    typeof o.savedAt === 'number'
+  );
+}
+
+function readSavedDoughs(): SavedDough[] {
+  if (typeof window === 'undefined') return [];
+  const raw = window.localStorage.getItem(STORAGE_KEY);
+  if (!raw) return [];
+  try {
+    const parsed: unknown = JSON.parse(raw);
+    if (!Array.isArray(parsed)) return [];
+    return parsed.filter(isSavedDough);
+  } catch {
+    return [];
+  }
+}
+
+function writeSavedDoughs(list: SavedDough[]): void {
+  if (typeof window === 'undefined') return;
+  try {
+    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+  } catch {
+    /* localStorage may be unavailable (private mode); fail silently. */
+  }
+}
+
 export default function Calculator({ lang, t }: Props) {
   const [styleKey, setStyleKey] = useState('country-sourdough');
   const [spec, setSpec] = useState<DoughSpec>(() => specForStyle('country-sourdough'));
@@ -118,6 +165,9 @@ export default function Calculator({ lang, t }: Props) {
   const [showTotals, setShowTotals] = useState(false);
   const [copied, setCopied] = useState<'formula' | 'link' | null>(null);
   const [ddt, setDdt] = useState({ target: 25, room: 21, flour: 21, friction: 3, pref: 24 });
+  const [saved, setSaved] = useState<SavedDough[]>([]);
+  const [saveName, setSaveName] = useState('');
+  const [pan, setPan] = useState({ length: 22, width: 11, height: 11 });
 
   useEffect(() => {
     const p = new URLSearchParams(window.location.search);
@@ -154,6 +204,42 @@ export default function Calculator({ lang, t }: Props) {
         : base.extras,
     });
   }, []);
+
+  useEffect(() => {
+    setSaved(readSavedDoughs());
+  }, []);
+
+  const persist = (next: SavedDough[]) => {
+    setSaved(next);
+    writeSavedDoughs(next);
+  };
+
+  const saveCurrent = () => {
+    const name = saveName.trim();
+    if (!name) return;
+    const entry: SavedDough = { name, styleKey, spec, savedAt: Date.now() };
+    const next = [entry, ...saved.filter((d) => d.name !== name)].slice(0, 50);
+    persist(next);
+    setSaveName('');
+  };
+
+  const loadSaved = (d: SavedDough) => {
+    setStyleKey(d.styleKey);
+    setSpec(d.spec);
+    setCopied(null);
+  };
+
+  const deleteSaved = (d: SavedDough) => {
+    persist(saved.filter((x) => x !== d));
+  };
+
+  const panVolume = Math.max(0, pan.length) * Math.max(0, pan.width) * Math.max(0, pan.height);
+  const panSuggestedG = Math.round(panVolume * PAN_DENSITY_G_PER_CM3);
+  const applyPan = () => {
+    if (panSuggestedG <= 0) return;
+    setSpec((s) => ({ ...s, pieces: 1, pieceWeightG: panSuggestedG }));
+    setCopied(null);
+  };
 
   const result = useMemo(() => computeFormula(spec), [spec]);
   const feedback = useMemo(() => {
@@ -749,6 +835,83 @@ export default function Calculator({ lang, t }: Props) {
             <p className="fine">{l.timelineNote}</p>
           </div>
         )}
+
+        <div className="card pad">
+          <h3>{l.panTitle}</h3>
+          <div className="ddt-grid">
+            {(
+              [
+                ['length', l.panLength],
+                ['width', l.panWidth],
+                ['height', l.panHeight],
+              ] as const
+            ).map(([k, label]) => (
+              <label className="field" key={k}>
+                <span className="lbl">{label}</span>
+                <input
+                  type="number"
+                  min={1}
+                  max={60}
+                  step={0.5}
+                  value={pan[k]}
+                  onChange={(ev) => setPan((p) => ({ ...p, [k]: Number(ev.target.value) }))}
+                />
+              </label>
+            ))}
+          </div>
+          <p className="fine mono">
+            {fmt(l.panSuggested, { g: panSuggestedG.toLocaleString(lang) })}
+          </p>
+          <div className="actions">
+            <button type="button" className="btn" onClick={applyPan} disabled={panSuggestedG <= 0}>
+              {l.panApply}
+            </button>
+          </div>
+        </div>
+
+        <div className="card pad">
+          <h3>{l.savedTitle}</h3>
+          <div className="save-row">
+            <label className="field">
+              <span className="lbl">{l.saveName}</span>
+              <input
+                type="text"
+                value={saveName}
+                onChange={(ev) => setSaveName(ev.target.value)}
+                onKeyDown={(ev) => {
+                  if (ev.key === 'Enter') saveCurrent();
+                }}
+                placeholder={l.saveName}
+              />
+            </label>
+            <button type="button" className="btn" onClick={saveCurrent} disabled={!saveName.trim()}>
+              {l.save}
+            </button>
+          </div>
+          {saved.length === 0 ? (
+            <p className="fine">{l.noSaved}</p>
+          ) : (
+            <ul className="saved-list">
+              {saved.map((d) => (
+                <li key={d.name} className="saved-row">
+                  <span className="saved-name">{d.name}</span>
+                  <span className="saved-meta mono">
+                    {d.spec.hydrationPct}% · {d.spec.saltPct}% · {d.spec.pieces} ×{' '}
+                    {d.spec.pieceWeightG} g
+                  </span>
+                  <span className="saved-actions">
+                    <button type="button" className="chip" onClick={() => loadSaved(d)}>
+                      {l.load}
+                    </button>
+                    <button type="button" className="chip" onClick={() => deleteSaved(d)}>
+                      {l.remove}
+                    </button>
+                  </span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
       </section>
     </div>
   );

@@ -30,6 +30,7 @@ export const de: Dict = {
     statSourdoughs: 'Sauerteige',
     statHydration: 'Median-Hydration',
     featured: 'Aus dem Atlas',
+    breadOfDay: 'Brot des Tages',
     sections: {
       atlasTitle: 'Der Atlas',
       atlasDesc:
@@ -247,6 +248,24 @@ export const de: Dict = {
     reset: 'Zurücksetzen',
     dataBadgeBuiltin: 'Stildaten: eingebaute Referenz',
     dataBadgeResearched: 'Stildaten: recherchiert & belegt',
+    savedTitle: 'Meine Teige',
+    saveName: 'Name',
+    save: 'Speichern',
+    load: 'Laden',
+    remove: 'Löschen',
+    noSaved: 'Noch keine Teige gespeichert.',
+    panTitle: 'Auf Form skalieren',
+    panLength: 'Länge (cm)',
+    panWidth: 'Breite (cm)',
+    panHeight: 'Höhe (cm)',
+    panSuggested: 'Teigempfehlung: {g} g',
+    panApply: 'Auf Formel anwenden',
+  },
+  compare: {
+    title: 'Brote vergleichen',
+    lead: 'Wähle zwei Brote und sieh sie direkt nebeneinander.',
+    pick: 'Brot wählen',
+    empty: 'Wähle zwei Brote für den Vergleich.',
   },
   finder: {
     title: 'Der Brotfinder',

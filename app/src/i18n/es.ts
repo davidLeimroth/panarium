@@ -30,6 +30,7 @@ export const es: Dict = {
     statSourdoughs: 'masas madre',
     statHydration: 'hidratación mediana',
     featured: 'Del atlas',
+    breadOfDay: 'Pan del día',
     sections: {
       atlasTitle: 'El Atlas',
       atlasDesc:
@@ -250,6 +251,24 @@ export const es: Dict = {
     reset: 'Reiniciar',
     dataBadgeBuiltin: 'datos de estilo: referencia integrada',
     dataBadgeResearched: 'datos de estilo: investigados y citados',
+    savedTitle: 'Mis masas',
+    saveName: 'Nombre',
+    save: 'Guardar',
+    load: 'Cargar',
+    remove: 'Borrar',
+    noSaved: 'Aún no hay masas guardadas.',
+    panTitle: 'Escalar al molde',
+    panLength: 'Largo (cm)',
+    panWidth: 'Ancho (cm)',
+    panHeight: 'Alto (cm)',
+    panSuggested: 'Masa total sugerida: {g} g',
+    panApply: 'Aplicar a la fórmula',
+  },
+  compare: {
+    title: 'Comparar panes',
+    lead: 'Elige dos panes y vedlos lado a lado.',
+    pick: 'Elige un pan',
+    empty: 'Elige dos panes para verlos comparados.',
   },
   finder: {
     title: 'El Buscador',

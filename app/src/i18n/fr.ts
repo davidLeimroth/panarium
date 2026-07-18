@@ -30,6 +30,7 @@ export const fr: Dict = {
     statSourdoughs: 'levains',
     statHydration: 'hydratation médiane',
     featured: 'Tirés de l’atlas',
+    breadOfDay: 'Pain du jour',
     sections: {
       atlasTitle: 'L’Atlas',
       atlasDesc:
@@ -250,6 +251,24 @@ export const fr: Dict = {
     reset: 'Réinitialiser',
     dataBadgeBuiltin: 'données de style : référence intégrée',
     dataBadgeResearched: 'données de style : recherchées et sourcées',
+    savedTitle: 'Mes pâtes',
+    saveName: 'Nom',
+    save: 'Enregistrer',
+    load: 'Charger',
+    remove: 'Supprimer',
+    noSaved: 'Aucune pâte enregistrée pour l’instant.',
+    panTitle: 'Ajuster au moule',
+    panLength: 'Longueur (cm)',
+    panWidth: 'Largeur (cm)',
+    panHeight: 'Hauteur (cm)',
+    panSuggested: 'Pâte totale conseillée : {g} g',
+    panApply: 'Appliquer à la formule',
+  },
+  compare: {
+    title: 'Comparer les pains',
+    lead: 'Choisissez deux pains pour les voir côte à côte.',
+    pick: 'Choisir un pain',
+    empty: 'Choisissez deux pains pour les comparer.',
   },
   finder: {
     title: 'Le Guide',
