@@ -1,0 +1,210 @@
+{
+  "generatedFrom": 280,
+  "byFamily": [
+    {
+      "family": "hearth-loaf",
+      "n": 69,
+      "hydration": {
+        "min": 59,
+        "median": 71,
+        "max": 85
+      },
+      "salt": {
+        "median": 1.8
+      },
+      "bakeTempC": {
+        "median": 230
+      }
+    },
+    {
+      "family": "flatbread",
+      "n": 50,
+      "hydration": {
+        "min": 48,
+        "median": 68.1,
+        "max": 199
+      },
+      "salt": {
+        "median": 1.4
+      },
+      "bakeTempC": {
+        "median": 202
+      }
+    },
+    {
+      "family": "roll",
+      "n": 46,
+      "hydration": {
+        "min": 51,
+        "median": 60,
+        "max": 77
+      },
+      "salt": {
+        "median": 1.7
+      },
+      "bakeTempC": {
+        "median": 200
+      }
+    },
+    {
+      "family": "pan-loaf",
+      "n": 38,
+      "hydration": {
+        "min": 60,
+        "median": 81.1,
+        "max": 124
+      },
+      "salt": {
+        "median": 1.9
+      },
+      "bakeTempC": {
+        "median": 200
+      }
+    },
+    {
+      "family": "sweet-loaf",
+      "n": 21,
+      "hydration": {
+        "min": 50,
+        "median": 59,
+        "max": 84
+      },
+      "salt": {
+        "median": 1.6
+      },
+      "bakeTempC": {
+        "median": 177
+      }
+    },
+    {
+      "family": "fried",
+      "n": 11,
+      "hydration": {
+        "min": 52,
+        "median": 66.7,
+        "max": 98
+      },
+      "salt": {
+        "median": 1.5
+      },
+      "bakeTempC": {
+        "median": 177
+      }
+    },
+    {
+      "family": "ring",
+      "n": 11,
+      "hydration": {
+        "min": 50,
+        "median": 60,
+        "max": 97
+      },
+      "salt": {
+        "median": 2
+      },
+      "bakeTempC": {
+        "median": 200
+      }
+    },
+    {
+      "family": "crispbread",
+      "n": 10,
+      "hydration": {
+        "min": 38,
+        "median": 54.5,
+        "max": 80
+      },
+      "salt": {
+        "median": 1.6
+      },
+      "bakeTempC": {
+        "median": 196
+      }
+    },
+    {
+      "family": "quick",
+      "n": 8,
+      "hydration": {
+        "min": 80,
+        "median": 95,
+        "max": 134
+      },
+      "salt": {
+        "median": 1.7
+      },
+      "bakeTempC": {
+        "median": 186
+      }
+    },
+    {
+      "family": "baguette",
+      "n": 6,
+      "hydration": {
+        "min": 57,
+        "median": 62.5,
+        "max": 75
+      },
+      "salt": {
+        "median": 1.8
+      },
+      "bakeTempC": {
+        "median": 220
+      }
+    },
+    {
+      "family": "steamed",
+      "n": 5,
+      "hydration": {
+        "min": 50,
+        "median": 52,
+        "max": 110
+      },
+      "salt": {
+        "median": 0
+      },
+      "bakeTempC": {
+        "median": 100
+      }
+    },
+    {
+      "family": "braid",
+      "n": 5,
+      "hydration": {
+        "min": 48,
+        "median": 51.8,
+        "max": 63
+      },
+      "salt": {
+        "median": 1.4
+      },
+      "bakeTempC": {
+        "median": 200
+      }
+    }
+  ],
+  "fits": [
+    {
+      "id": "bake-vs-weight",
+      "label": {
+        "en": "Bake time scales with piece weight",
+        "de": "Backzeit wächst mit dem Stückgewicht",
+        "es": "El tiempo de horno crece con el peso de la pieza",
+        "fr": "Le temps de cuisson croît avec le poids de la pièce"
+      },
+      "expression": "bake_min ≈ 5.3 + 0.071 × piece_g",
+      "r2": 0.1,
+      "n": 280
+    },
+    {
+      "id": "salt-constant",
+      "label": {
+        "en": "Salt is nearly constant across styles",
+        "de": "Salz ist über die Stile fast konstant",
+        "es": "La sal es casi constante entre estilos",
+        "fr": "Le sel est presque constant selon les styles"
+      },
+      "expression": "salt% ≈ 1.8 (median across 280 breads)",
+      "n": 280
+    }
+  ]
+}

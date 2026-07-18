@@ -1,0 +1,307 @@
+[
+  {
+    "key": "country-sourdough",
+    "feasibleHydration": { "min": 60, "max": 90 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "rationale": {
+      "en": "Below 60% hydration gluten can't fully open the crumb; above 90% a free-standing loaf loses the strength to hold its own shape unsupported.",
+      "de": "Unter 60% Hydratation entwickelt sich der Kleber nicht voll; über 90% verliert ein freistehender Laib die Kraft, seine Form ohne Form zu halten.",
+      "es": "Por debajo del 60% de hidratación la miga queda cerrada; por encima del 90% una hogaza sin molde ya no sostiene su propia forma.",
+      "fr": "Sous 60% d'hydratation la mie reste fermée; au-dessus de 90% un pain sans moule ne peut plus tenir sa forme tout seul."
+    },
+    "sources": [
+      "https://www.kingarthurbaking.com/blog/2023/01/11/bread-hydration",
+      "https://www.kingarthurbaking.com/blog/2021/08/16/with-bread-is-wetter-better-high-hydration-dough",
+      "https://www.theperfectloaf.com/dough-hydration/"
+    ]
+  },
+  {
+    "key": "baguette",
+    "feasibleHydration": { "min": 60, "max": 80 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "rationale": {
+      "en": "Below 60% the crumb turns dense and dull; above 80% the dough is too slack to hold a thin baguette shape unsupported on a couche.",
+      "de": "Unter 60% wird die Krume dicht und fade; über 80% ist der Teig zu weich, um die dünne Baguetteform auf der Couche selbst zu halten.",
+      "es": "Por debajo del 60% la miga es densa y sosa; por encima del 80% la masa es demasiado floja para sostener la fina forma de baguette.",
+      "fr": "Sous 60% la mie devient dense et fade; au-dessus de 80% la pâte est trop molle pour tenir seule la forme fine de la baguette sur couche."
+    },
+    "sources": [
+      "https://www.weekendbakery.com/posts/recipe-for-80-hydration-baguette/",
+      "https://www.kingarthurbaking.com/blog/2023/01/11/bread-hydration"
+    ]
+  },
+  {
+    "key": "ciabatta",
+    "feasibleHydration": { "min": 65, "max": 100 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "rationale": {
+      "en": "Below 65% ciabatta loses its open, irregular crumb and reads as a plain lean loaf; above 100% the dough behaves like pan de cristal batter.",
+      "de": "Unter 65% verliert die Ciabatta ihre offene, unregelmäßige Krume; über 100% verhält sich der Teig wie der von Pan de Cristal.",
+      "es": "Por debajo del 65% la ciabatta pierde su miga abierta e irregular; por encima del 100% la masa se comporta como la del pan de cristal.",
+      "fr": "Sous 65% la ciabatta perd sa mie ouverte et irrégulière; au-dessus de 100% la pâte se comporte comme celle du pain de cristal."
+    },
+    "sources": [
+      "https://modernistcuisine.com/correction/ciabatta-recipe/",
+      "https://www.kingarthurbaking.com/blog/2021/08/16/with-bread-is-wetter-better-high-hydration-dough"
+    ]
+  },
+  {
+    "key": "pan-de-cristal",
+    "feasibleHydration": { "min": 90, "max": 138 },
+    "feasibleSalt": { "min": 1.4, "max": 2.4 },
+    "rationale": {
+      "en": "Below 90% it is just wet ciabatta; past roughly 138% even very strong bread flour's gluten can no longer trap gas and the mix turns to batter.",
+      "de": "Unter 90% ist es nur nasse Ciabatta; über etwa 138% kann selbst sehr starkes Mehl kein Gas mehr halten, und die Masse wird zu flüssigem Teig.",
+      "es": "Por debajo del 90% es solo ciabatta muy húmeda; pasado un 138% ni la harina más fuerte retiene el gas y la masa se vuelve líquida.",
+      "fr": "Sous 90% ce n'est que de la ciabatta très humide; au-delà de 138% même une farine très forte ne retient plus le gaz et la pâte devient liquide."
+    },
+    "sources": [
+      "https://www.kingarthurbaking.com/blog/2022/01/20/how-to-make-glass-bread-pan-de-cristal",
+      "https://sourdoughbrandon.com/sourdough-pan-de-cristal/"
+    ]
+  },
+  {
+    "key": "focaccia",
+    "feasibleHydration": { "min": 60, "max": 100 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "feasibleFatMax": 20,
+    "rationale": {
+      "en": "Below 60% focaccia loses its custardy, open crumb; above 100% the oiled dough can no longer hold air and spreads flat rather than rising in the pan.",
+      "de": "Unter 60% verliert die Focaccia ihre offene, cremige Krume; über 100% hält der geölte Teig keine Luft mehr und läuft in der Form flach.",
+      "es": "Por debajo del 60% la focaccia pierde su miga abierta y cremosa; por encima del 100% la masa aceitada ya no retiene aire y se aplana en el molde.",
+      "fr": "Sous 60% la focaccia perd sa mie ouverte et onctueuse; au-dessus de 100% la pâte huilée ne retient plus l'air et s'aplatit dans le moule."
+    },
+    "sources": [
+      "https://www.theflavorbender.com/how-to-make-focaccia-bread/",
+      "https://www.theperfectloaf.com/a-simple-focaccia/"
+    ]
+  },
+  {
+    "key": "pizza-napoletana",
+    "feasibleHydration": { "min": 50, "max": 75 },
+    "feasibleSalt": { "min": 1.8, "max": 3.5 },
+    "rationale": {
+      "en": "Below 50% the dough tears when stretched thin; above 75% it needs a pan like focaccia, and salt near 3.5% starts stalling the slow room-temperature rise.",
+      "de": "Unter 50% reißt der Teig beim Ausziehen; über 75% braucht er wie Focaccia eine Form, und Salz nahe 3.5% bremst den Trieb bei Raumtemperatur.",
+      "es": "Por debajo del 50% la masa se rasga al estirarla; por encima del 75% necesita molde como la focaccia, y la sal cerca del 3.5% frena la fermentación.",
+      "fr": "Sous 50% la pâte se déchire à l'étirage; au-dessus de 75% il faut un moule comme la focaccia, et un sel proche de 3.5% freine la pousse lente."
+    },
+    "sources": [
+      "https://www.pizzanapoletana.org/public/pdf/Disciplinare-2024-ENG.pdf",
+      "https://thepizzacraft.com/dough-and-fermentation/neapolitan-pizza-dough/"
+    ]
+  },
+  {
+    "key": "sandwich-loaf",
+    "feasibleHydration": { "min": 55, "max": 80 },
+    "feasibleSalt": { "min": 1.2, "max": 2.4 },
+    "feasibleSugarMax": 12,
+    "feasibleFatMax": 15,
+    "rationale": {
+      "en": "Below 55% the crumb turns dry and crumbly on slicing; above 80% the loaf gets too soft-sided to hold a clean tin shape once baked and cooled.",
+      "de": "Unter 55% wird die Krume beim Schneiden trocken und krümelig; über 80% ist der Laib zu weich für eine saubere Kastenform nach dem Backen.",
+      "es": "Por debajo del 55% la miga queda seca y se desmorona al cortar; por encima del 80% el pan queda demasiado blando para el molde de caja.",
+      "fr": "Sous 55% la mie devient sèche et s'émiette à la coupe; au-dessus de 80% le pain est trop mou pour garder la forme du moule après cuisson."
+    },
+    "sources": [
+      "https://www.theperfectloaf.com/dough-hydration/",
+      "https://www.thefreshloaf.com/node/36779/hydration-level-soft-sandwich-loaf"
+    ]
+  },
+  {
+    "key": "whole-wheat",
+    "feasibleHydration": { "min": 62, "max": 95 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "rationale": {
+      "en": "Below 62% bran shreds gluten in an already thirsty flour, giving a dry crumbling loaf; above 95% even a tin barely holds the very wet crumb structure.",
+      "de": "Unter 62% zerschneidet Kleie den Kleber im durstigen Mehl, die Krume wird trocken; über 95% hält selbst die Kastenform die nasse Krume kaum.",
+      "es": "Por debajo del 62% el salvado corta el gluten en una harina ya sedienta, dando miga seca; por encima del 95% ni el molde sostiene tanta agua.",
+      "fr": "Sous 62% le son coupe le gluten d'une farine déjà assoiffée, donnant une mie sèche; au-dessus de 95% même le moule tient mal une mie si humide."
+    },
+    "sources": [
+      "https://www.kingarthurbaking.com/recipes/high-hydration-whole-wheat-sourdough-bread-recipe",
+      "https://sourdoughhydration.com/guide/whole-grain-hydration-adjustments"
+    ]
+  },
+  {
+    "key": "rye-mixed",
+    "feasibleHydration": { "min": 65, "max": 100 },
+    "feasibleSalt": { "min": 1.4, "max": 2.4 },
+    "rationale": {
+      "en": "Below 65% rye's thirsty pentosans stay unhydrated and the crumb bakes dense and gummy; above 100% the mix turns into a pourable paste, not a dough.",
+      "de": "Unter 65% bleiben die durstigen Pentosane des Roggens unhydratisiert, die Krume wird klitschig; über 100% wird die Masse zur gießbaren Paste.",
+      "es": "Por debajo del 65% las pentosanas sedientas del centeno no se hidratan y la miga sale gomosa; por encima del 100% la masa es una pasta líquida.",
+      "fr": "Sous 65% les pentosanes assoiffés du seigle restent peu hydratés, la mie devient collante; au-dessus de 100% la masse devient une pâte à verser."
+    },
+    "sources": [
+      "https://sourdoughratio.com/blog/rye-sourdough-hydration",
+      "https://asbe.org/article/pentosan/"
+    ]
+  },
+  {
+    "key": "rye-100",
+    "feasibleHydration": { "min": 65, "max": 130 },
+    "feasibleSalt": { "min": 1.4, "max": 2.4 },
+    "rationale": {
+      "en": "Below 65% a 100% rye dough bakes into an unsliceable, gummy brick; above 130% it is no longer a dough at all but a scalded, spoonable paste.",
+      "de": "Unter 65% backt ein reiner Roggenteig zu einem klitschigen, unschneidbaren Klotz; über 130% ist es kein Teig mehr, sondern eine löffelbare Paste.",
+      "es": "Por debajo del 65% un pan 100% centeno da un bloque gomoso incortable; por encima del 130% ya no es masa, sino una pasta para servir a cucharadas.",
+      "fr": "Sous 65% une pâte 100% seigle cuit en un bloc gommeux impossible à trancher; au-delà de 130% ce n'est plus une pâte mais une pâte à la cuillère."
+    },
+    "sources": [
+      "https://www.theperfectloaf.com/sourdough-90-rye-bread-recipe/",
+      "https://asbe.org/article/pentosan/"
+    ]
+  },
+  {
+    "key": "brioche",
+    "feasibleHydration": { "min": 35, "max": 75 },
+    "feasibleSalt": { "min": 1.4, "max": 3.2 },
+    "feasibleSugarMax": 25,
+    "feasibleFatMax": 80,
+    "rationale": {
+      "en": "Below 35% added water the enriched dough is too stiff to mix smoothly; above 25% sugar or 80% butter it needs osmotolerant yeast or barely rises.",
+      "de": "Unter 35% Wasserzugabe ist der reiche Teig zu steif zum glatten Mischen; über 25% Zucker oder 80% Butter braucht er osmotolerante Hefe, sonst kaum Trieb.",
+      "es": "Por debajo del 35% de agua la masa enriquecida es muy dura de mezclar; por encima del 25% de azúcar u 80% de mantequilla necesita levadura especial.",
+      "fr": "Sous 35% d'eau la pâte enrichie est trop ferme à bien mélanger; au-dessus de 25% de sucre ou 80% de beurre il faut une levure osmotolérante pour lever."
+    },
+    "sources": [
+      "https://modernistcuisine.com/mb/all-about-brioche/",
+      "https://www.kingarthurbaking.com/pro/formulas/brioche",
+      "https://pubmed.ncbi.nlm.nih.gov/11068916/"
+    ]
+  },
+  {
+    "key": "challah",
+    "feasibleHydration": { "min": 35, "max": 68 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "feasibleSugarMax": 18,
+    "feasibleFatMax": 20,
+    "rationale": {
+      "en": "Below 35% added water the egg-enriched braid dough is too stiff to shape smoothly; above 68% it is too slack to hold a braided loaf's shape.",
+      "de": "Unter 35% Wasserzugabe ist der eierreiche Zopfteig zu steif zum glatten Flechten; über 68% ist er zu weich, um die Zopfform zu halten.",
+      "es": "Por debajo del 35% de agua añadida la masa trenzada con huevo es muy dura para trenzar bien; por encima del 68% es demasiado floja para la trenza.",
+      "fr": "Sous 35% d'eau ajoutée la pâte tressée à l'œuf est trop ferme à tresser; au-dessus de 68% elle est trop molle pour garder la forme tressée."
+    },
+    "sources": [
+      "https://www.thefreshloaf.com/node/25753/does-anyone-have-baker039s-formula-challah-which-uses-whole-eggs",
+      "https://kitchensavvy.com/how-are-egg-counted-in-bakers-percentages"
+    ]
+  },
+  {
+    "key": "milk-bread",
+    "feasibleHydration": { "min": 58, "max": 85 },
+    "feasibleSalt": { "min": 1.0, "max": 2.2 },
+    "feasibleSugarMax": 20,
+    "feasibleFatMax": 20,
+    "rationale": {
+      "en": "Below 58% the tangzhong-enriched crumb loses its cottony softness; above 85% hydration or 20% sugar the dough turns too slack for a clean pullman rise.",
+      "de": "Unter 58% verliert die mit Tangzhong angereicherte Krume ihre Watteweiche; über 85% oder 20% Zucker wird der Teig zu weich für die Kastenform.",
+      "es": "Por debajo del 58% la miga con tangzhong pierde su suavidad algodonosa; por encima del 85% o 20% de azúcar la masa queda floja para el molde.",
+      "fr": "Sous 58% la mie enrichie au tangzhong perd son moelleux cotonneux; au-dessus de 85% ou 20% de sucre la pâte devient trop molle pour le moule."
+    },
+    "sources": [
+      "https://www.theperfectloaf.com/sourdough-shokupan-japanese-milk-bread/",
+      "https://foodgeek.io/en/shokupan-recipe/"
+    ]
+  },
+  {
+    "key": "bagel",
+    "feasibleHydration": { "min": 50, "max": 68 },
+    "feasibleSalt": { "min": 1.4, "max": 2.8 },
+    "feasibleSugarMax": 8,
+    "rationale": {
+      "en": "Below 50% even a stand mixer struggles to fully knead the dough; above 68% bagels lose their dense chew and become just a ring-shaped dinner roll.",
+      "de": "Unter 50% kommt selbst eine Küchenmaschine beim Kneten an ihre Grenzen; über 68% verliert der Bagel seinen dichten Biss und wird zum Ringbrötchen.",
+      "es": "Por debajo del 50% incluso una amasadora tiene dificultad para amasar bien; por encima del 68% pierde su mordida densa y es solo un panecillo anillado.",
+      "fr": "Sous 50% même un robot pétrisseur peine à bien pétrir la pâte; au-dessus de 68% le bagel perd sa mâche dense et devient un simple pain en anneau."
+    },
+    "sources": [
+      "https://www.kingarthurbaking.com/blog/2021/06/29/the-5-elements-of-great-bagels",
+      "https://www.kingarthurbaking.com/recipes/bagels-recipe"
+    ]
+  },
+  {
+    "key": "pretzel",
+    "feasibleHydration": { "min": 46, "max": 65 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "feasibleFatMax": 12,
+    "rationale": {
+      "en": "Below 46% the stiff dough exhausts hand-kneading before gluten develops; above 65% it is too soft to hold its shape through a lye or soda dip.",
+      "de": "Unter 46% ermüdet das Kneten von Hand, bevor sich der Kleber entwickelt; über 65% ist der Teig zu weich für ein Laugen- oder Natronbad.",
+      "es": "Por debajo del 46% el amasado a mano agota antes de desarrollar el gluten; por encima del 65% la masa es muy blanda para el baño de lejía.",
+      "fr": "Sous 46% le pétrissage à la main épuise avant que le gluten se développe; au-dessus de 65% la pâte est trop molle pour le bain de lessive."
+    },
+    "sources": [
+      "https://www.kingarthurbaking.com/pro/formulas/bavarian-pretzels",
+      "https://www.americastestkitchen.com/articles/5745-the-best-pretzels-you-ll-ever-have"
+    ]
+  },
+  {
+    "key": "pita",
+    "feasibleHydration": { "min": 55, "max": 80 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "feasibleSugarMax": 6,
+    "feasibleFatMax": 10,
+    "rationale": {
+      "en": "Below 55% pita is too stiff to roll thin enough to puff; above 80% the dough is too slack to roll without tearing before it can trap steam.",
+      "de": "Unter 55% ist Pita zu steif, um dünn genug für die Blase gerollt zu werden; über 80% reißt der zu weiche Teig beim Rollen vor dem Dampfstau.",
+      "es": "Por debajo del 55% la pita es muy dura para estirarla fina y que se infle; por encima del 80% la masa floja se rasga antes de atrapar vapor.",
+      "fr": "Sous 55% la pita est trop ferme pour être étalée assez fine pour gonfler; au-dessus de 80% la pâte trop molle se déchire avant de retenir la vapeur."
+    },
+    "sources": [
+      "https://www.busbysbakery.com/dough-hydration/",
+      "https://www.thefreshloaf.com/node/3944/pita-help"
+    ]
+  },
+  {
+    "key": "english-muffin",
+    "feasibleHydration": { "min": 60, "max": 100 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "feasibleSugarMax": 10,
+    "feasibleFatMax": 15,
+    "rationale": {
+      "en": "Below 60% the muffin loses its open, nooks-and-crannies crumb; above 100% the batter-like dough can barely be scooped into rings on the griddle.",
+      "de": "Unter 60% verliert der English Muffin seine offene Löcherkrume; über 100% lässt sich der fast flüssige Teig kaum noch in Ringe füllen.",
+      "es": "Por debajo del 60% pierde su miga abierta llena de huecos; por encima del 100% la masa, casi líquida, apenas se puede verter en los aros.",
+      "fr": "Sous 60% il perd sa mie ouverte pleine d'alvéoles; au-dessus de 100% la pâte, presque liquide, se verse à peine dans les cercles sur la plaque."
+    },
+    "sources": [
+      "https://www.thefreshloaf.com/node/60145/965-hydration",
+      "https://www.kingarthurbaking.com/recipes/english-muffin-toasting-bread-recipe"
+    ]
+  },
+  {
+    "key": "burger-bun",
+    "feasibleHydration": { "min": 48, "max": 75 },
+    "feasibleSalt": { "min": 1.2, "max": 2.6 },
+    "feasibleSugarMax": 15,
+    "feasibleFatMax": 18,
+    "rationale": {
+      "en": "Below 48% the bun bakes dense and dry rather than pillowy; above 75% or 15% sugar the enriched dough turns too slack to hold a domed roll shape.",
+      "de": "Unter 48% wird das Brötchen dicht und trocken statt weich; über 75% oder 15% Zucker wird der angereicherte Teig zu weich für die Kuppelform.",
+      "es": "Por debajo del 48% el pan sale denso y seco en vez de esponjoso; por encima del 75% o 15% de azúcar la masa enriquecida es floja para la forma.",
+      "fr": "Sous 48% le pain est dense et sec au lieu d'être moelleux; au-dessus de 75% ou 15% de sucre la pâte enrichie est trop molle pour la forme bombée."
+    },
+    "sources": [
+      "https://www.theperfectloaf.com/fluffy-milk-bread-hamburger-buns/",
+      "https://bakerpedia.com/processes/hamburger-bun/"
+    ]
+  },
+  {
+    "key": "_global",
+    "minWheatDoughHydration": 38,
+    "maxWheatDoughHydration": 140,
+    "maxSaltPctBeforeStall": 3.5,
+    "saltYeastLethalNote": "Salt kills yeast only on direct, concentrated contact: undissolved granules touching a small clump of cells cause local osmotic shock (plasmolysis); once dissolved through a full batch at normal baking levels (1.8-2.2% of flour weight), salt slows yeast markedly but does not kill it, so brief incidental contact during mixing is not harmful.",
+    "yeastThermalDeathC": 60,
+    "maxSugarPctForNormalYeast": 10,
+    "minSaltPctForFlavor": 1.0,
+    "notes": {
+      "en": "Universal outer bounds for wheat yeast dough: about 38-140% hydration, salt above 3.5% stalls fermentation, sugar above 10% needs osmotolerant yeast, yeast dies near 60C.",
+      "de": "Universelle Grenzen für Hefe-Weizenteig: etwa 38-140% Hydratation, Salz über 3.5% bremst die Gärung, Zucker über 10% braucht osmotolerante Hefe, Hefe stirbt nahe 60C.",
+      "es": "Límites universales para masa de trigo con levadura: hidratación 38-140%, sal por encima de 3.5% frena la fermentación, azúcar sobre 10% exige levadura osmotolerante, muere cerca de 60C.",
+      "fr": "Limites universelles pour pâte de blé levée: hydratation 38-140%, sel au-dessus de 3.5% freine la fermentation, sucre au-dessus de 10% exige une levure osmotolérante, meurt vers 60C."
+    }
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "key": "country-sourdough",
+    "label": { "en": "Country Sourdough", "de": "Bauernbrot (Sauerteig)", "es": "Pan rústico de masa madre", "fr": "Pain de campagne au levain" },
+    "hydration": { "min": 65, "ideal": 75, "max": 85 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "prefermentedFlourTypical": 20,
+    "bulkTempC": { "min": 24, "ideal": 25, "max": 27 },
+    "wholegrainTypicalPct": 10,
+    "note": "Country sourdough leans on a mature levain (commonly 15-25% of total flour) for both rise and tang, with total hydration spanning roughly 65-85% depending on flour strength and Tartine's influential benchmark loaf sitting near 75-77%.",
+    "sources": [
+      "https://www.theperfectloaf.com/tartine-sourdough-country-loaf-bread-recipe/",
+      "https://www.thefreshloaf.com/node/38823/tartines-real-hydration",
+      "https://www.kingarthurbaking.com/blog/2023/01/11/bread-hydration",
+      "https://www.thefreshloaf.com/node/49600/salt-bakers-percentages"
+    ]
+  },
+  {
+    "key": "baguette",
+    "label": { "en": "Baguette", "de": "Baguette", "es": "Baguette", "fr": "Baguette" },
+    "hydration": { "min": 65, "ideal": 70, "max": 75 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "prefermentedFlourTypical": 30,
+    "yeastPctTypical": 1.2,
+    "bulkTempC": { "min": 24, "ideal": 25, "max": 26 },
+    "note": "Classic French baguette runs 65-75% hydration and is usually built with a 20-40%-of-flour poolish (30% is the common professional benchmark) for flavor and extensibility while keeping salt at the standard 1.8-2.2%.",
+    "sources": [
+      "https://www.kingarthurbaking.com/pro/reference/bakers-percentage",
+      "https://thedoughformula.com/fundamentals/preferments-101/",
+      "https://www.weekendbakery.com/posts/recipe-for-80-hydration-baguette/",
+      "https://www.kingarthurbaking.com/blog/2018/05/29/desired-dough-temperature"
+    ]
+  },
+  {
+    "key": "ciabatta",
+    "label": { "en": "Ciabatta", "de": "Ciabatta", "es": "Ciabatta", "fr": "Ciabatta" },
+    "hydration": { "min": 73, "ideal": 80, "max": 90 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "prefermentedFlourTypical": 30,
+    "yeastPctTypical": 1.2,
+    "bulkTempC": { "min": 24, "ideal": 24, "max": 25 },
+    "note": "Ciabatta is built on a biga (about 30% of total flour, fermented roughly 16 hours) folded into a very wet 73-90% final dough that is handled by fold and stretch rather than kneading, with Modernist Bread's version running as high as 87%.",
+    "sources": [
+      "https://www.kingarthurbaking.com/pro/formulas/ciabatta",
+      "https://www.kingarthurbaking.com/pro/reference/bakers-percentage",
+      "https://modernistcuisine.com/correction/ciabatta-recipe/",
+      "https://bakingsteel.com/blogs/recipes/the-easy-way-to-make-kick-ass-ciabatta-bread"
+    ]
+  },
+  {
+    "key": "pan-de-cristal",
+    "label": { "en": "Pan de Cristal (Glass Bread)", "de": "Pan de Cristal (Glasbrot)", "es": "Pan de cristal", "fr": "Pain de cristal" },
+    "hydration": { "min": 100, "ideal": 110, "max": 130 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "prefermentedFlourTypical": 0,
+    "yeastPctTypical": 0.5,
+    "note": "Barcelona's 'glass bread' pushes hydration to 100-130% with no preferment in King Arthur's version, needing a very strong bread flour and full gluten development from extended folded (never kneaded) bulk fermentation to hold its paper-thin, blistered structure.",
+    "sources": [
+      "https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe",
+      "https://www.kingarthurbaking.com/blog/2022/01/20/how-to-make-glass-bread-pan-de-cristal",
+      "https://breadtopia.com/sourdough-glass-bread-pan-de-cristal/",
+      "https://sourdoughbrandon.com/sourdough-pan-de-cristal/"
+    ]
+  },
+  {
+    "key": "focaccia",
+    "label": { "en": "Focaccia", "de": "Focaccia", "es": "Focaccia", "fr": "Focaccia" },
+    "hydration": { "min": 70, "ideal": 80, "max": 90 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "fatPctTypical": 8,
+    "yeastPctTypical": 1.0,
+    "note": "Focaccia is a high-hydration (70-90%) enriched flatbread with roughly 8% olive oil folded into the dough and more poured and dimpled on top before baking, giving its crisp-bottomed, open, custardy crumb.",
+    "sources": [
+      "https://bakingsteel.com/blogs/recipes/crispy-focaccia-bread-recipe-baked-on-a-steel",
+      "https://www.theperfectloaf.com/a-simple-focaccia/",
+      "https://www.kingarthurbaking.com/blog/2023/01/11/bread-hydration"
+    ]
+  },
+  {
+    "key": "pizza-napoletana",
+    "label": { "en": "Neapolitan Pizza Dough", "de": "Neapolitanischer Pizzateig", "es": "Masa de pizza napolitana", "fr": "Pâte à pizza napolitaine" },
+    "hydration": { "min": 55, "ideal": 60, "max": 65 },
+    "salt": { "min": 2.8, "ideal": 3.0, "max": 3.4 },
+    "yeastPctTypical": 0.2,
+    "bulkTempC": { "min": 20, "ideal": 21, "max": 23 },
+    "note": "AVPN's disciplinare specifies 1.6-1.8kg flour per liter of water (55-62% hydration), 50-55g salt per liter of water (roughly 2.8-3.4% of flour), and only 0.1-3g fresh yeast per liter for an 8-24 hour room-temperature rise, with home versions often stretching to 65% hydration for easier handling.",
+    "sources": [
+      "https://www.pizzanapoletana.org/public/pdf/Disciplinare-2024-ENG.pdf",
+      "https://www.pizzanapoletana.org/en/363-dough_hydration",
+      "https://thepizzacraft.com/dough-and-fermentation/neapolitan-pizza-dough/"
+    ]
+  },
+  {
+    "key": "sandwich-loaf",
+    "label": { "en": "Sandwich Loaf", "de": "Toastbrot / Sandwichbrot", "es": "Pan de molde para sándwich", "fr": "Pain de mie pour sandwich" },
+    "hydration": { "min": 60, "ideal": 65, "max": 70 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "sugarPctTypical": 5,
+    "fatPctTypical": 5,
+    "yeastPctTypical": 1.4,
+    "bulkTempC": { "min": 24, "ideal": 25, "max": 26 },
+    "note": "American-style sandwich loaf keeps a firm 60-70% hydration for clean slicing, with a modest 4-6% each of sugar and fat producing a soft, tender crumb that stays fresh longer than a lean hearth loaf.",
+    "sources": [
+      "https://www.kingarthurbaking.com/pro/reference/bakers-percentage",
+      "https://www.theperfectloaf.com/dough-hydration/",
+      "https://www.thefreshloaf.com/node/36779/hydration-level-soft-sandwich-loaf"
+    ]
+  },
+  {
+    "key": "whole-wheat",
+    "label": { "en": "Whole Wheat Bread", "de": "Vollkorn-Weizenbrot", "es": "Pan integral de trigo", "fr": "Pain complet de blé" },
+    "hydration": { "min": 70, "ideal": 78, "max": 85 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "wholegrainTypicalPct": 100,
+    "yeastPctTypical": 1.5,
+    "note": "Whole wheat's bran and germ are thirstier than white flour and absorb roughly 5-10% more water, so 100% whole wheat sandwich loaves commonly run 75-85% hydration versus about 65-70% for white flour, and can push past 90% in high-hydration sourdough versions.",
+    "sources": [
+      "https://www.kingarthurbaking.com/blog/2023/01/11/bread-hydration",
+      "https://sourdoughhydration.com/guide/whole-grain-hydration-adjustments",
+      "https://www.kingarthurbaking.com/recipes/high-hydration-whole-wheat-sourdough-bread-recipe"
+    ]
+  },
+  {
+    "key": "rye-mixed",
+    "label": { "en": "Mixed Rye Bread (60-80% rye)", "de": "Roggenmischbrot (60-80% Roggen)", "es": "Pan mixto de centeno (60-80% centeno)", "fr": "Pain mixte de seigle (60-80% seigle)" },
+    "hydration": { "min": 75, "ideal": 82, "max": 90 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "wholegrainTypicalPct": 70,
+    "prefermentedFlourTypical": 40,
+    "note": "A 60-80% rye Mischbrot needs substantially more water than an all-wheat dough because rye's pentosans, not gluten, bind the water, so expect 75-90% hydration and a large sourdough component (often 30-50% of the flour) since rye needs acidification to bake well.",
+    "sources": [
+      "https://sourdoughratio.com/blog/rye-sourdough-hydration",
+      "https://mygerman.recipes/german-rye-bread-with-sourdough-mischbrot/",
+      "https://everydaylillie.com/2024/12/22/my-mischbrot-sourdough-rye-bread/"
+    ]
+  },
+  {
+    "key": "rye-100",
+    "label": { "en": "100% Rye Bread", "de": "Reines Roggenbrot (100%)", "es": "Pan 100% centeno", "fr": "Pain 100% seigle" },
+    "hydration": { "min": 85, "ideal": 95, "max": 110 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "wholegrainTypicalPct": 95,
+    "prefermentedFlourTypical": 60,
+    "note": "100% rye is effectively a dense, pan-baked Vollkornbrot rather than a wheat-style loaf: no gluten network forms, hydration commonly runs 85-110%, there is little to no oven spring, and the loaf needs to rest at least 24 hours before slicing so the crumb can set.",
+    "sources": [
+      "https://www.thefreshloaf.com/node/36609/roggensauerteigbrot-100-rye-sourdough",
+      "https://www.theperfectloaf.com/sourdough-90-rye-bread-recipe/",
+      "https://mygerman.recipes/pure-sourdough-rye-bread/",
+      "https://sourdoughratio.com/blog/rye-sourdough-hydration"
+    ]
+  },
+  {
+    "key": "brioche",
+    "label": { "en": "Brioche", "de": "Brioche", "es": "Brioche", "fr": "Brioche" },
+    "hydration": { "min": 45, "ideal": 55, "max": 65 },
+    "salt": { "min": 1.8, "ideal": 2.5, "max": 3.0 },
+    "sugarPctTypical": 13,
+    "fatPctTypical": 50,
+    "yeastPctTypical": 6,
+    "bulkTempC": { "min": 24, "ideal": 24, "max": 26 },
+    "note": "Brioche's effective hydration is dominated by hidden water in eggs (about 75% water) and butter (about 16% water) rather than added water, with a professional formula running roughly 50% butter, 50% egg and only 9% added water against 100% flour, and needing extra yeast (formulas run as high as 6-7%) because the sugar and fat slow fermentation.",
+    "sources": [
+      "https://www.kingarthurbaking.com/pro/formulas/brioche",
+      "https://fannyzanotti.com/brioche-study-egg-to-milk-ratio/",
+      "https://breadcakesandale.com/2021/12/14/the-hydration-of-enriched-doughs/"
+    ]
+  },
+  {
+    "key": "challah",
+    "label": { "en": "Challah", "de": "Challah", "es": "Jalá (Challah)", "fr": "Hallah (Challah)" },
+    "hydration": { "min": 45, "ideal": 55, "max": 60 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "sugarPctTypical": 8,
+    "fatPctTypical": 10,
+    "yeastPctTypical": 1.5,
+    "note": "Challah's effective hydration, counting the roughly 75%-water contribution of egg, typically lands near 50-60%, with one documented formula running 42% added water, 14% whole egg, 10% oil and 7.5% sugar against 100% flour, though egg content varies widely by family recipe.",
+    "sources": [
+      "https://www.thefreshloaf.com/node/25753/does-anyone-have-baker039s-formula-challah-which-uses-whole-eggs",
+      "https://kitchensavvy.com/how-are-egg-counted-in-bakers-percentages",
+      "https://roundthechuckbox.blogspot.com/2013/03/using-bakers-percent-to-adjust-challah.html"
+    ]
+  },
+  {
+    "key": "milk-bread",
+    "label": { "en": "Japanese Milk Bread (Shokupan)", "de": "Japanisches Milchbrot (Shokupan)", "es": "Pan de leche japonés (Shokupan)", "fr": "Pain au lait japonais (Shokupan)" },
+    "hydration": { "min": 65, "ideal": 72, "max": 75 },
+    "salt": { "min": 1.6, "ideal": 1.8, "max": 2.0 },
+    "sugarPctTypical": 8,
+    "fatPctTypical": 8,
+    "yeastPctTypical": 1.8,
+    "note": "Shokupan relies on a cooked tangzhong or yudane roux (roughly 5-10% of the flour cooked with milk or water at about 65C to gelatinize starch and trap extra moisture), with overall dough hydration running 68-75% and 6-10% each of sugar, butter and milk powder for the signature cottony crumb.",
+    "sources": [
+      "https://www.theperfectloaf.com/sourdough-shokupan-japanese-milk-bread/",
+      "https://foodgeek.io/en/shokupan-recipe/",
+      "https://www.justonecookbook.com/japanese-milk-bread-shokupan/"
+    ]
+  },
+  {
+    "key": "bagel",
+    "label": { "en": "Bagel", "de": "Bagel", "es": "Bagel", "fr": "Bagel" },
+    "hydration": { "min": 55, "ideal": 60, "max": 65 },
+    "salt": { "min": 2.0, "ideal": 2.3, "max": 2.5 },
+    "sugarPctTypical": 2,
+    "yeastPctTypical": 1.9,
+    "bulkTempC": { "min": 20, "ideal": 21, "max": 22 },
+    "note": "Bagels use a deliberately stiff 55-65% hydration dough for their dense chew (King Arthur's formula computes to about 63% hydration and 2.5% salt), with malt syrup or brown sugar mixed into both the dough and the baking-soda boiling water for color and shine before a hot 220-230C bake.",
+    "sources": [
+      "https://www.kingarthurbaking.com/recipes/bagels-recipe",
+      "https://www.kingarthurbaking.com/blog/2021/06/29/the-5-elements-of-great-bagels",
+      "https://www.kingarthurbaking.com/blog/2023/01/11/bread-hydration"
+    ]
+  },
+  {
+    "key": "pretzel",
+    "label": { "en": "Pretzel", "de": "Brezel", "es": "Pretzel", "fr": "Bretzel" },
+    "hydration": { "min": 50, "ideal": 56, "max": 60 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "fatPctTypical": 5,
+    "prefermentedFlourTypical": 20,
+    "note": "Bavarian pretzel dough is stiff (50-60% hydration; King Arthur's formula uses 56%) with a small amount of butter and a poolish preferment, and the shaped pretzels are dipped 15-20 seconds in a 3-4% food-grade lye solution just before a 220-230C bake with no steam, which produces the mahogany crust and distinctive flavor.",
+    "sources": [
+      "https://www.kingarthurbaking.com/pro/formulas/bavarian-pretzels",
+      "https://www.kingarthurbaking.com/blog/2021/05/20/a-bakers-tips-for-safely-working-with-lye",
+      "https://www.americastestkitchen.com/articles/5745-the-best-pretzels-you-ll-ever-have"
+    ]
+  },
+  {
+    "key": "pita",
+    "label": { "en": "Pita Bread", "de": "Pita-Brot", "es": "Pan de pita", "fr": "Pain pita" },
+    "hydration": { "min": 60, "ideal": 65, "max": 70 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "sugarPctTypical": 1.5,
+    "fatPctTypical": 3,
+    "yeastPctTypical": 1.2,
+    "bulkTempC": { "min": 24, "ideal": 25, "max": 26 },
+    "note": "Pita needs a well-hydrated (60-70%), well-rested dough and a very hot surface (250C+ stone or a dry hot skillet) so trapped steam puffs the disc into two layers with a pocket in the middle, which fails to form if the dough is too dry or the surface too cool.",
+    "sources": [
+      "https://www.thefreshloaf.com/node/3944/pita-help",
+      "https://www.busbysbakery.com/dough-hydration/",
+      "https://pizzaotherbread.wordpress.com/2014/12/22/pita-bread/"
+    ]
+  },
+  {
+    "key": "english-muffin",
+    "label": { "en": "English Muffin", "de": "English Muffin", "es": "Muffin inglés", "fr": "Muffin anglais" },
+    "hydration": { "min": 65, "ideal": 75, "max": 85 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "sugarPctTypical": 4,
+    "fatPctTypical": 7,
+    "yeastPctTypical": 1.8,
+    "note": "English muffins use a slack, almost batter-like dough (typically 65-85% hydration counting milk, though individual formulas have been documented from 63% to over 95%) cooked on a griddle or in rings rather than a hot oven, with a cornmeal-dusted exterior and characteristic nooks-and-crannies from an open, wet crumb.",
+    "sources": [
+      "https://www.kingarthurbaking.com/recipes/english-muffin-toasting-bread-recipe",
+      "https://www.thefreshloaf.com/node/60145/965-hydration",
+      "https://brodandtaylor.com/blogs/recipes/sourdough-english-muffins"
+    ]
+  },
+  {
+    "key": "burger-bun",
+    "label": { "en": "Burger Bun", "de": "Burger-Brötchen", "es": "Pan de hamburguesa", "fr": "Pain à hamburger" },
+    "hydration": { "min": 54, "ideal": 60, "max": 65 },
+    "salt": { "min": 1.8, "ideal": 2.0, "max": 2.2 },
+    "sugarPctTypical": 7,
+    "fatPctTypical": 7,
+    "yeastPctTypical": 2,
+    "note": "Burger buns are a soft, enriched roll at a moderate 54-65% hydration with roughly 6-8% each of sugar and fat (butter or shortening) for tenderness and shelf life, mixed from a strong flour for good volume under an egg-washed, often sesame-topped crust.",
+    "sources": [
+      "https://www.theperfectloaf.com/fluffy-milk-bread-hamburger-buns/",
+      "https://bakerpedia.com/processes/hamburger-bun/",
+      "https://www.theperfectloaf.com/brioche-hamburger-buns/"
+    ]
+  }
+]
