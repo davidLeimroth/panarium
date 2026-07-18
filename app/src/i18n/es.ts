@@ -22,7 +22,7 @@ export const es: Dict = {
     heroKicker: 'El atlas vivo del pan',
     heroTitle: 'Cada pan tiene su fórmula.',
     heroLead:
-      '{n} panes de {c} países: buscables por hidratación, fermento, tiempo y antojo; convertibles entre gramos, cups y cuatro idiomas; calculables en el laboratorio de masa.',
+      '{n} panes de {c} países: buscables por hidratación, fermento, tiempo y antojo; convertibles entre gramos, cups y {l} idiomas; calculables en el laboratorio de masa.',
     ctaAtlas: 'Explorar el atlas',
     ctaLab: 'Abrir el laboratorio',
     statRecipes: 'panes',

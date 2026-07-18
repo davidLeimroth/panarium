@@ -22,7 +22,7 @@ export const fr: Dict = {
     heroKicker: 'L’atlas vivant du pain',
     heroTitle: 'Chaque pain a sa formule.',
     heroLead:
-      '{n} pains de {c} pays, consultables par hydratation, levain, temps et envie ; convertibles entre grammes, cups et quatre langues ; calculables au labo à pâte.',
+      '{n} pains de {c} pays, consultables par hydratation, levain, temps et envie ; convertibles entre grammes, cups et {l} langues ; calculables au labo à pâte.',
     ctaAtlas: 'Parcourir l’atlas',
     ctaLab: 'Ouvrir le labo',
     statRecipes: 'pains',
