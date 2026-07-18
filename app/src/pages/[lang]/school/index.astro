@@ -1,0 +1,204 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../components/Layout.astro';
+import { fmt, getDict, withBase } from '../../../i18n';
+import { DERIVED_FORMULAS, FAULTS, MATH_FORMULAS } from '../../../lib/scienceData';
+import { type Family, LANGS, type Lang } from '../../../lib/taxonomy';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = getDict(lang);
+const all = await getCollection('articles');
+const articles = all
+  .filter((a) => a.data.lang === lang)
+  .sort((a, b) => a.data.order - b.data.order);
+
+const stages = ['mixing', 'fermentation', 'shaping', 'baking', 'storage'] as const;
+const faultsByStage = stages
+  .map((stage) => ({ stage, faults: FAULTS.filter((f) => f.stage === stage) }))
+  .filter((g) => g.faults.length > 0);
+---
+
+<Layout lang={lang} title={t.school.title} description={t.meta.school} current="school">
+ <div class="wrap" style="padding-block: clamp(28px, 4vw, 48px) 0;">
+ <p class="kicker">{t.nav.school}</p>
+ <h1>{t.school.title}</h1>
+ <p class="lead">{t.school.lead}</p>
+ </div>
+
+ <div class="wrap" style="margin-top: 26px;">
+ {
+ articles.length === 0 ? (
+ <p class="empty">{t.school.comingSoon}</p>
+ ) : (
+ <div class="article-grid stagger">
+ {articles.map((a, i) => (
+ <a class="card article-card" href={withBase(`/${lang}/school/${a.data.slug}/`)}>
+ <span class="num mono">{String(i + 1).padStart(2, '0')}</span>
+ <h2>{a.data.title}</h2>
+ <p>{a.data.teaser}</p>
+ <span class="fine mono">{fmt(t.school.read, { min: a.data.readMinutes })}</span>
+ </a>
+ ))}
+ </div>
+ )
+ }
+ </div>
+
+ {
+ faultsByStage.length > 0 && (
+ <div class="wrap" style="margin-top: clamp(40px, 6vw, 72px);">
+ <h2>{t.school.faultsTitle}</h2>
+ <p class="lead">{t.school.faultsLead}</p>
+ {faultsByStage.map((g) => (
+ <section class="fault-stage">
+ <h3 class="kicker">{t.school.stages[g.stage]}</h3>
+ <div class="fault-grid">
+ {g.faults.map((f) => (
+ <details class="card fault">
+ <summary>{f.fault[lang]}</summary>
+ <div class="fault-body">
+ {f.signs && f.signs.length > 0 && (
+ <p>
+ <strong>{t.school.signs}:</strong> {f.signs.join(' · ')}
+ </p>
+ )}
+ <p>
+ <strong>{t.school.causes}:</strong> {f.causes.join(' · ')}
+ </p>
+ <p>
+ <strong>{t.school.fixes}:</strong> {f.fixes.join(' · ')}
+ </p>
+ </div>
+ </details>
+ ))}
+ </div>
+ </section>
+ ))}
+ </div>
+ )
+ }
+
+ {
+ MATH_FORMULAS.length > 0 && (
+ <div class="wrap" style="margin-top: clamp(40px, 6vw, 72px);">
+ <h2>{t.school.formulasTitle}</h2>
+ <p class="lead">{t.school.formulasLead}</p>
+ <div class="formula-grid">
+ {MATH_FORMULAS.map((m) => (
+ <div class="card pad formula-note">
+ <h3>{m.name[lang]}</h3>
+ <p class="expr mono">{m.expression}</p>
+ {m.example && (
+ <p class="fine"><strong>{t.school.example}:</strong> {m.example}</p>
+ )}
+ </div>
+ ))}
+ </div>
+ </div>
+ )
+ }
+
+ {
+ DERIVED_FORMULAS && (
+ <div class="wrap" style="margin-top: clamp(40px, 6vw, 72px);">
+ <h2>{t.school.corpusTitle}</h2>
+ <p class="lead">{fmt(t.school.corpusLead, { n: DERIVED_FORMULAS.generatedFrom })}</p>
+ <div class="table-scroll">
+ <table class="ledger">
+ <thead>
+ <tr>
+ <th>{t.school.colFamily}</th>
+ <th class="num">{t.school.colBreads}</th>
+ <th class="num">{t.school.colHydration}</th>
+ <th class="num">{t.school.colSalt}</th>
+ <th class="num">{t.school.colOven}</th>
+ </tr>
+ </thead>
+ <tbody>
+ {DERIVED_FORMULAS.byFamily.map((s) => (
+ <tr>
+ <td>{s.family ? t.taxonomy.family[s.family as Family] : ''}</td>
+ <td class="num">{s.n}</td>
+ <td class="num">
+ {s.hydration ? `${Math.round(s.hydration.min)} · ${Math.round(s.hydration.median)} · ${Math.round(s.hydration.max)}%` : ''}
+ </td>
+ <td class="num">{s.salt ? `${s.salt.median}%` : ''}</td>
+ <td class="num">{s.bakeTempC ? `${s.bakeTempC.median} °C` : ''}</td>
+ </tr>
+ ))}
+ </tbody>
+ </table>
+ </div>
+ {DERIVED_FORMULAS.fits && DERIVED_FORMULAS.fits.length > 0 && (
+ <div style="margin-top: 22px;">
+ <h3 class="kicker">{t.school.fitsTitle}</h3>
+ <ul class="fits">
+ {DERIVED_FORMULAS.fits.map((f) => (
+ <li>
+ <span class="mono expr">{f.expression}</span>
+ <span class="fine"> {f.label[lang]}{f.r2 !== undefined ? ` (r² ${f.r2}, n ${f.n})` : ''}</span>
+ </li>
+ ))}
+ </ul>
+ </div>
+ )}
+ </div>
+ )
+ }
+</Layout>
+
+<style>
+ .article-grid {
+ display: grid;
+ grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+ gap: 18px;
+ }
+ .article-card {
+ padding: 22px;
+ text-decoration: none;
+ color: var(--ink);
+ transition: transform 0.18s ease, border-color 0.18s ease;
+ }
+ .article-card:hover {
+ transform: translateY(-4px);
+ border-color: var(--gold);
+ }
+ .article-card .num {
+ color: var(--crust);
+ font-size: 0.8rem;
+ }
+ .article-card h2 {
+ font-size: 1.3rem;
+ margin: 6px 0;
+ }
+ .article-card p {
+ color: var(--ink-muted);
+ font-size: 0.94rem;
+ }
+ .fault-stage {
+ margin-top: 26px;
+ }
+ .fault-grid {
+ display: grid;
+ grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+ gap: 12px;
+ }
+ .fault {
+ padding: 0;
+ }
+ .fault summary {
+ cursor: pointer;
+ padding: 14px 16px;
+ font-weight: 600;
+ font-family: var(--font-display);
+ }
+ .fault .fault-body {
+ padding: 0 16px 14px;
+ font-size: 0.92rem;
+ color: var(--ink-muted);
+ }
+</style>

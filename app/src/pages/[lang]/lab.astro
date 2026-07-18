@@ -1,0 +1,24 @@
+---
+import Layout from '../../components/Layout.astro';
+import Calculator from '../../components/react/Calculator';
+import { getDict } from '../../i18n';
+import { LANGS, type Lang } from '../../lib/taxonomy';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = getDict(lang);
+---
+
+<Layout lang={lang} title={t.lab.title} description={t.meta.lab} current="lab">
+ <div class="wrap" style="padding-block: clamp(28px, 4vw, 48px) 0;">
+ <p class="kicker">{t.nav.lab}</p>
+ <h1>{t.lab.title}</h1>
+ <p class="lead">{t.lab.lead}</p>
+ </div>
+ <div class="wrap" style="margin-top: 22px;">
+ <Calculator client:load lang={lang} t={t} />
+ </div>
+</Layout>

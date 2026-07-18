@@ -1,0 +1,35 @@
+{
+  "name": "panarium",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node ../scripts/sync-data.mjs",
+    "dev": "astro dev",
+    "prebuild": "node ../scripts/sync-data.mjs",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "test": "vitest run",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "stats": "node ../scripts/seed-stats.mjs"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.0.0",
+    "@fontsource-variable/fraunces": "^5.2.0",
+    "@fontsource-variable/source-serif-4": "^5.2.0",
+    "@fontsource/ibm-plex-mono": "^5.2.0",
+    "astro": "^5.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.23.1",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}

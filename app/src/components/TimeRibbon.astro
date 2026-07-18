@@ -1,0 +1,53 @@
+---
+import type { Dict } from '../i18n';
+import { formatMinutes } from '../lib/format';
+import type { Recipe } from '../lib/recipeSchema';
+
+interface Props {
+  time: Recipe['time'];
+  t: Dict;
+}
+
+const { time, t } = Astro.props;
+const segments = [
+  { key: 'bulk', label: t.recipe.bulkTime, min: time.bulkMin ?? 0, color: 'var(--viz-levain)' },
+  { key: 'proof', label: t.recipe.proofTime, min: time.proofMin ?? 0, color: 'var(--viz-flour)' },
+  { key: 'bake', label: t.recipe.bakeTime, min: time.bakeMin, color: 'var(--viz-enrich)' },
+].filter((s) => s.min > 0);
+const segTotal = segments.reduce((a, s) => a + s.min, 0);
+const showBar = segments.length >= 2 && segTotal > 0;
+---
+
+<div class="time-ribbon">
+ <div class="sum-row mono">
+ <span>{t.recipe.totalTime} <strong>{formatMinutes(time.totalMin)}</strong></span>
+ <span>{t.recipe.activeTime} <strong>{formatMinutes(time.activeMin)}</strong></span>
+ {!showBar && <span>{t.recipe.bakeTime} <strong>{formatMinutes(time.bakeMin)}</strong></span>}
+ </div>
+ {
+ showBar && (
+ <>
+ <div class="stack-bar thin" role="img" aria-label={t.recipe.totalTime}>
+ {segments.map((s) => (
+ <span class="seg" style={`width:${(s.min / segTotal) * 100}%;background:${s.color}`} />
+ ))}
+ </div>
+ <div class="legend">
+ {segments.map((s) => (
+ <span>
+ <span class="swatch" style={`background:${s.color}`} />
+ {s.label} {formatMinutes(s.min)}
+ </span>
+ ))}
+ </div>
+ </>
+ )
+ }
+</div>
+
+<style>
+ .stack-bar.thin {
+ height: 12px;
+ margin-top: 10px;
+ }
+</style>

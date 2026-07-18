@@ -1,0 +1,17 @@
+---
+import Layout from '../components/Layout.astro';
+import { getDict, withBase } from '../i18n';
+
+const t = getDict('en');
+---
+
+<Layout lang="en" title={t.common.notFoundTitle} description={t.common.notFoundText}>
+ <div class="wrap" style="padding-block: 96px; text-align: center;">
+ <p class="kicker">404</p>
+ <h1>{t.common.notFoundTitle}</h1>
+ <p class="lead" style="margin-inline: auto;">{t.common.notFoundText}</p>
+ <p style="margin-top: 28px;">
+ <a class="btn btn-primary" href={withBase('/en/breads/')}>{t.common.backToAtlas}</a>
+ </p>
+ </div>
+</Layout>

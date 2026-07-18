@@ -1,0 +1,27 @@
+---
+import Layout from '../../components/Layout.astro';
+import Finder from '../../components/react/Finder';
+import { getDict } from '../../i18n';
+import { getAllRecipes, toIndexEntry } from '../../lib/recipes';
+import { LANGS, type Lang } from '../../lib/taxonomy';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = getDict(lang);
+const recipes = await getAllRecipes();
+const entries = recipes.map((r) => toIndexEntry(r.data, lang));
+---
+
+<Layout lang={lang} title={t.finder.title} description={t.meta.finder} current="finder">
+ <div class="wrap" style="padding-block: clamp(28px, 4vw, 48px) 0; max-width: 880px;">
+ <p class="kicker">{t.nav.finder}</p>
+ <h1>{t.finder.title}</h1>
+ <p class="lead">{t.finder.lead}</p>
+ </div>
+ <div class="wrap" style="margin-top: 22px; max-width: 880px;">
+ <Finder client:load entries={entries} lang={lang} t={t} />
+ </div>
+</Layout>

@@ -1,0 +1,14 @@
+---
+import { type CrumbArtInput, crumbArt } from '../lib/crumb';
+
+interface Props {
+  input: CrumbArtInput;
+  label: string;
+  class?: string;
+}
+
+const { input, label, class: cls } = Astro.props;
+const inner = crumbArt(input);
+---
+
+<svg viewBox="0 0 240 200" role="img" aria-label={label} class={cls} set:html={inner} />

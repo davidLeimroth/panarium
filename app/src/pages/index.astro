@@ -1,0 +1,22 @@
+---
+// Root: pick the visitor's language client-side, fall back to English.
+const base = import.meta.env.BASE_URL; // '/' locally, '/panarium/' under Pages
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Panarium</title>
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <meta http-equiv="refresh" content={`1; url=${base}en/`} />
+    <script is:inline define:vars={{ base }}>
+      const supported = ['en', 'de', 'es', 'fr'];
+      const nav = (navigator.language || 'en').slice(0, 2).toLowerCase();
+      const lang = supported.includes(nav) ? nav : 'en';
+      window.location.replace(`${base}${lang}/`);
+    </script>
+  </head>
+  <body>
+    <p><a href={`${base}en/`}>Panarium →</a></p>
+  </body>
+</html>

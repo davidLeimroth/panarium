@@ -1,0 +1,27 @@
+---
+import Layout from '../../components/Layout.astro';
+import { getDict } from '../../i18n';
+import { LANGS, type Lang } from '../../lib/taxonomy';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = getDict(lang);
+---
+
+<Layout lang={lang} title={t.about.title} description={t.meta.about} current="about">
+ <div class="wrap" style="padding-block: clamp(28px, 4vw, 56px); max-width: 760px;">
+ <p class="kicker">{t.nav.about}</p>
+ <h1>{t.about.title}</h1>
+ {t.about.paragraphs.map((p) => <p class="prose">{p}</p>)}
+ </div>
+</Layout>
+
+<style>
+ .prose {
+ font-size: 1.08rem;
+ line-height: 1.75;
+ }
+</style>

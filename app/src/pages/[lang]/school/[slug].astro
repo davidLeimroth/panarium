@@ -1,0 +1,71 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../components/Layout.astro';
+import { fmt, getDict, withBase } from '../../../i18n';
+import type { Lang } from '../../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const all = await getCollection('articles');
+  return all.map((a) => ({
+    params: { lang: a.data.lang, slug: a.data.slug },
+    props: { id: a.id },
+  }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = getDict(lang);
+const all = await getCollection('articles');
+const article = all.find((a) => a.data.lang === lang && a.data.slug === Astro.params.slug);
+if (!article) return Astro.redirect(withBase(`/${lang}/school/`));
+const { Content } = await render(article);
+---
+
+<Layout lang={lang} title={article.data.title} description={article.data.teaser} current="school">
+ <article class="wrap school-article">
+ <p class="crumbtrail">
+ <a href={withBase(`/${lang}/school/`)}>← {t.school.title}</a>
+ </p>
+ <p class="kicker">{fmt(t.school.read, { min: article.data.readMinutes })}</p>
+ <h1>{article.data.title}</h1>
+ <p class="lead">{article.data.teaser}</p>
+ <div class="prose">
+ <Content />
+ </div>
+ </article>
+</Layout>
+
+<style>
+ .school-article {
+ max-width: 720px;
+ padding-block: clamp(28px, 4vw, 56px);
+ }
+ .crumbtrail {
+ font-family: var(--font-mono);
+ font-size: 0.78rem;
+ }
+ .prose {
+ font-size: 1.08rem;
+ line-height: 1.78;
+ }
+ .prose :global(h2) {
+ margin-top: 1.6em;
+ }
+ .prose :global(table) {
+ width: 100%;
+ border-collapse: collapse;
+ font-size: 0.95rem;
+ }
+ .prose :global(td).prose :global(th) {
+ padding: 0.4em 0.6em;
+ border-bottom: 1px dashed var(--line);
+ text-align: left;
+ }
+ .prose :global(blockquote) {
+ margin: 1.2em 0;
+ padding: 0.6em 1.2em;
+ border-left: 3px solid var(--gold);
+ background: var(--surface);
+ border-radius: 0 10px 10px 0;
+ font-style: italic;
+ }
+</style>
