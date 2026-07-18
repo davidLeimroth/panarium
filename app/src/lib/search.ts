@@ -28,6 +28,7 @@ export interface RecipeIndexEntry {
   keepsDays: number;
   equipment: string[];
   sourced: boolean;
+  kitchenTested: boolean;
   /** lowercase haystack: all names + aliases + tags */
   searchText: string;
 }
@@ -68,6 +69,7 @@ export interface SearchFilters {
   wholegrain: boolean;
   noSpecialKit: boolean;
   sourcedOnly: boolean;
+  kitchenTestedOnly: boolean;
 }
 
 export const EMPTY_FILTERS: SearchFilters = {
@@ -88,6 +90,7 @@ export const EMPTY_FILTERS: SearchFilters = {
   wholegrain: false,
   noSpecialKit: false,
   sourcedOnly: false,
+  kitchenTestedOnly: false,
 };
 
 const BASIC_KIT = new Set(['loaf-pan', 'sheet-pan', 'skillet', 'griddle']);
@@ -121,6 +124,7 @@ export function matches(e: RecipeIndexEntry, f: SearchFilters): boolean {
   if (f.wholegrain && e.wholegrain < 50) return false;
   if (f.noSpecialKit && e.equipment.some((eq) => !BASIC_KIT.has(eq))) return false;
   if (f.sourcedOnly && !e.sourced) return false;
+  if (f.kitchenTestedOnly && !e.kitchenTested) return false;
   return true;
 }
 
@@ -195,6 +199,7 @@ export function filtersToParams(f: SearchFilters, sort: SortKey): URLSearchParam
   if (f.wholegrain) p.set('wholegrain', '1');
   if (f.noSpecialKit) p.set('nokit', '1');
   if (f.sourcedOnly) p.set('sourced', '1');
+  if (f.kitchenTestedOnly) p.set('tested', '1');
   if (sort !== 'name') p.set('sort', sort);
   return p;
 }
@@ -220,6 +225,7 @@ export function paramsToFilters(p: URLSearchParams): { filters: SearchFilters; s
     wholegrain: p.get('wholegrain') === '1',
     noSpecialKit: p.get('nokit') === '1',
     sourcedOnly: p.get('sourced') === '1',
+    kitchenTestedOnly: p.get('tested') === '1',
   };
   const sort = (p.get('sort') as SortKey) || 'name';
   return { filters, sort };

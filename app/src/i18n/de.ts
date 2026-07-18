@@ -95,6 +95,7 @@ export const de: Dict = {
     noSpecialKit: 'Ohne Spezialausrüstung',
     overnight: 'Übernachtgare',
     sourcedOnly: 'Nur belegte Zahlen',
+    kitchenTestedOnly: 'Nur küchenerprobt',
   },
   recipe: {
     formula: 'Die Formel',
@@ -149,6 +150,9 @@ export const de: Dict = {
     fromSource: 'aus der Quelle',
     openInLab: 'Im Teiglabor öffnen',
     methodEnglishOnly: 'Die Schritte erscheinen vorerst auf Englisch.',
+    kitchenTested: 'Küchenerprobt',
+    kitchenTestedOn: 'gebacken {date}',
+    kitchenNote: 'Aus unserem Backversuch',
   },
   lab: {
     title: 'Das Teiglabor',

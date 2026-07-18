@@ -93,6 +93,11 @@ message Origin {
   string note = 3;
 }
 
+message KitchenTested {
+  string date = 1; // YYYY-MM or YYYY-MM-DD
+  string note = 2; // <= 300 chars
+}
+
 message Recipe {
   string slug = 1;
   LocalizedText name = 2;
@@ -118,6 +123,7 @@ message Recipe {
   Source source = 22;
   repeated string tags = 23;
   string dough_type = 24; // dough | batter | paste | stiff (optional)
+  KitchenTested kitchen_tested = 25; // optional, set only for breads actually baked by the maintainer
 }
 
 // ---------- read API ----------

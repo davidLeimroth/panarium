@@ -39,8 +39,11 @@ const keeps = e.keepsDays <= 1 ? t.recipe.dayOne : fmt(t.recipe.days, { n: e.kee
  {regionName(e.country, lang)}{e.region ? `, ${e.region}` : ''}
  </p>
  <p class="desc">{e.desc}</p>
- <div class="chips">
- <span class="chip chip-static">{t.taxonomy.leaven[e.leaven]}</span>
+  <div class="chips">
+  {e.kitchenTested && (
+  <span class="chip chip-tested" role="img" title={t.recipe.kitchenTested} aria-label={t.recipe.kitchenTested}></span>
+  )}
+  <span class="chip chip-static">{t.taxonomy.leaven[e.leaven]}</span>
  <span class="chip chip-static">{t.taxonomy.family[e.family]}</span>
  <span class="chip chip-static">
  <svg width="8" height="11" viewBox="0 0 8 11" aria-hidden="true">

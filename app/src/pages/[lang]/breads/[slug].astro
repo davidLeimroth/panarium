@@ -82,6 +82,16 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
  <span class="native">{r.name.native}</span>
  )}
  </h1>
+ {r.kitchenTested && (
+ <p class="tested-mark">
+ <span class="chip chip-tested">
+ {t.recipe.kitchenTested}
+ {r.kitchenTested.date && (
+ <span class="tested-date">· {fmt(t.recipe.kitchenTestedOn, { date: r.kitchenTested.date })}</span>
+ )}
+ </span>
+ </p>
+ )}
  <p class="lead">{r.description[lang]}</p>
  <div class="chips">
  <span class="chip chip-static">{t.taxonomy.leaven[r.leaven]}</span>
@@ -202,6 +212,12 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
   {lang !== 'en' && !r.method.some((s) => s.title[lang] || s.summary[lang]) && (
   <p class="fine">{t.recipe.methodEnglishOnly}</p>
   )}
+  {r.kitchenTested?.note && (
+  <blockquote class="kitchen-note">
+  <p class="kitchen-note-label">{t.recipe.kitchenNote}</p>
+  <p class="kitchen-note-text">{r.kitchenTested.note}</p>
+  </blockquote>
+  )}
   {r.keeping.note && <p class="fine">{r.keeping.note}</p>}
   </section>
 
@@ -252,6 +268,36 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
  font-style: italic;
  margin-top: 6px;
  font-variation-settings: 'SOFT' 100;
+ }
+ .tested-mark {
+ margin: 0 0 0.8em;
+ }
+ .tested-mark .chip-tested {
+ font-size: 0.78rem;
+ }
+ .tested-date {
+ opacity: 0.85;
+ font-weight: 400;
+ }
+ .kitchen-note {
+ margin: 16px 0 0;
+ padding: 12px 16px;
+ border-left: 3px solid var(--levain);
+ background: color-mix(in srgb, var(--levain) 8%, transparent);
+ border-radius: 0 8px 8px 0;
+ }
+ .kitchen-note-label {
+ font-family: var(--font-mono);
+ font-size: 0.7rem;
+ text-transform: uppercase;
+ letter-spacing: 0.12em;
+ color: var(--levain);
+ margin: 0 0 4px;
+ }
+ .kitchen-note-text {
+ margin: 0;
+ font-style: italic;
+ color: var(--ink);
  }
  .recipe-grid {
  display: grid;

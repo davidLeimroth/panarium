@@ -125,6 +125,16 @@ export const recipeSchema = z
       adaptation: z.string().max(200).optional(),
     }),
     tags: z.array(z.string()).max(6).default([]),
+    kitchenTested: z
+      .object({
+        date: z
+          .string()
+          .regex(/^\d{4}-\d{2}(-\d{2})?$/)
+          .optional(),
+        note: z.string().max(300).optional(),
+      })
+      .strict()
+      .optional(),
   })
   .strict();
 

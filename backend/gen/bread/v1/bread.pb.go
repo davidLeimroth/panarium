@@ -861,6 +861,58 @@ func (x *Origin) GetNote() string {
 	return ""
 }
 
+type KitchenTested struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Date          string                 `protobuf:"bytes,1,opt,name=date,proto3" json:"date,omitempty"` // YYYY-MM or YYYY-MM-DD
+	Note          string                 `protobuf:"bytes,2,opt,name=note,proto3" json:"note,omitempty"` // <= 300 chars
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *KitchenTested) Reset() {
+	*x = KitchenTested{}
+	mi := &file_bread_v1_bread_proto_msgTypes[12]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *KitchenTested) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*KitchenTested) ProtoMessage() {}
+
+func (x *KitchenTested) ProtoReflect() protoreflect.Message {
+	mi := &file_bread_v1_bread_proto_msgTypes[12]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use KitchenTested.ProtoReflect.Descriptor instead.
+func (*KitchenTested) Descriptor() ([]byte, []int) {
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{12}
+}
+
+func (x *KitchenTested) GetDate() string {
+	if x != nil {
+		return x.Date
+	}
+	return ""
+}
+
+func (x *KitchenTested) GetNote() string {
+	if x != nil {
+		return x.Note
+	}
+	return ""
+}
+
 type Recipe struct {
 	state         protoimpl.MessageState `protogen:"open.v1"`
 	Slug          string                 `protobuf:"bytes,1,opt,name=slug,proto3" json:"slug,omitempty"`
@@ -886,14 +938,15 @@ type Recipe struct {
 	Method        []*MethodStep          `protobuf:"bytes,21,rep,name=method,proto3" json:"method,omitempty"`
 	Source        *Source                `protobuf:"bytes,22,opt,name=source,proto3" json:"source,omitempty"`
 	Tags          []string               `protobuf:"bytes,23,rep,name=tags,proto3" json:"tags,omitempty"`
-	DoughType     string                 `protobuf:"bytes,24,opt,name=dough_type,json=doughType,proto3" json:"dough_type,omitempty"` // dough | batter | paste | stiff (optional)
+	DoughType     string                 `protobuf:"bytes,24,opt,name=dough_type,json=doughType,proto3" json:"dough_type,omitempty"`             // dough | batter | paste | stiff (optional)
+	KitchenTested *KitchenTested         `protobuf:"bytes,25,opt,name=kitchen_tested,json=kitchenTested,proto3" json:"kitchen_tested,omitempty"` // optional, set only for breads actually baked by the maintainer
 	unknownFields protoimpl.UnknownFields
 	sizeCache     protoimpl.SizeCache
 }
 
 func (x *Recipe) Reset() {
 	*x = Recipe{}
-	mi := &file_bread_v1_bread_proto_msgTypes[12]
+	mi := &file_bread_v1_bread_proto_msgTypes[13]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -905,7 +958,7 @@ func (x *Recipe) String() string {
 func (*Recipe) ProtoMessage() {}
 
 func (x *Recipe) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[12]
+	mi := &file_bread_v1_bread_proto_msgTypes[13]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -918,7 +971,7 @@ func (x *Recipe) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use Recipe.ProtoReflect.Descriptor instead.
 func (*Recipe) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{12}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{13}
 }
 
 func (x *Recipe) GetSlug() string {
@@ -1089,6 +1142,13 @@ func (x *Recipe) GetDoughType() string {
 	return ""
 }
 
+func (x *Recipe) GetKitchenTested() *KitchenTested {
+	if x != nil {
+		return x.KitchenTested
+	}
+	return nil
+}
+
 type SearchRecipesRequest struct {
 	state            protoimpl.MessageState `protogen:"open.v1"`
 	Query            string                 `protobuf:"bytes,1,opt,name=query,proto3" json:"query,omitempty"` // free text, matched per-language
@@ -1116,7 +1176,7 @@ type SearchRecipesRequest struct {
 
 func (x *SearchRecipesRequest) Reset() {
 	*x = SearchRecipesRequest{}
-	mi := &file_bread_v1_bread_proto_msgTypes[13]
+	mi := &file_bread_v1_bread_proto_msgTypes[14]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1128,7 +1188,7 @@ func (x *SearchRecipesRequest) String() string {
 func (*SearchRecipesRequest) ProtoMessage() {}
 
 func (x *SearchRecipesRequest) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[13]
+	mi := &file_bread_v1_bread_proto_msgTypes[14]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1141,7 +1201,7 @@ func (x *SearchRecipesRequest) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use SearchRecipesRequest.ProtoReflect.Descriptor instead.
 func (*SearchRecipesRequest) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{13}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{14}
 }
 
 func (x *SearchRecipesRequest) GetQuery() string {
@@ -1288,7 +1348,7 @@ type SearchRecipesResponse struct {
 
 func (x *SearchRecipesResponse) Reset() {
 	*x = SearchRecipesResponse{}
-	mi := &file_bread_v1_bread_proto_msgTypes[14]
+	mi := &file_bread_v1_bread_proto_msgTypes[15]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1300,7 +1360,7 @@ func (x *SearchRecipesResponse) String() string {
 func (*SearchRecipesResponse) ProtoMessage() {}
 
 func (x *SearchRecipesResponse) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[14]
+	mi := &file_bread_v1_bread_proto_msgTypes[15]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1313,7 +1373,7 @@ func (x *SearchRecipesResponse) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use SearchRecipesResponse.ProtoReflect.Descriptor instead.
 func (*SearchRecipesResponse) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{14}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{15}
 }
 
 func (x *SearchRecipesResponse) GetRecipes() []*Recipe {
@@ -1346,7 +1406,7 @@ type GetRecipeRequest struct {
 
 func (x *GetRecipeRequest) Reset() {
 	*x = GetRecipeRequest{}
-	mi := &file_bread_v1_bread_proto_msgTypes[15]
+	mi := &file_bread_v1_bread_proto_msgTypes[16]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1358,7 +1418,7 @@ func (x *GetRecipeRequest) String() string {
 func (*GetRecipeRequest) ProtoMessage() {}
 
 func (x *GetRecipeRequest) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[15]
+	mi := &file_bread_v1_bread_proto_msgTypes[16]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1371,7 +1431,7 @@ func (x *GetRecipeRequest) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use GetRecipeRequest.ProtoReflect.Descriptor instead.
 func (*GetRecipeRequest) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{15}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{16}
 }
 
 func (x *GetRecipeRequest) GetSlug() string {
@@ -1390,7 +1450,7 @@ type GetRecipeResponse struct {
 
 func (x *GetRecipeResponse) Reset() {
 	*x = GetRecipeResponse{}
-	mi := &file_bread_v1_bread_proto_msgTypes[16]
+	mi := &file_bread_v1_bread_proto_msgTypes[17]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1402,7 +1462,7 @@ func (x *GetRecipeResponse) String() string {
 func (*GetRecipeResponse) ProtoMessage() {}
 
 func (x *GetRecipeResponse) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[16]
+	mi := &file_bread_v1_bread_proto_msgTypes[17]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1415,7 +1475,7 @@ func (x *GetRecipeResponse) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use GetRecipeResponse.ProtoReflect.Descriptor instead.
 func (*GetRecipeResponse) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{16}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{17}
 }
 
 func (x *GetRecipeResponse) GetRecipe() *Recipe {
@@ -1435,7 +1495,7 @@ type FacetCount struct {
 
 func (x *FacetCount) Reset() {
 	*x = FacetCount{}
-	mi := &file_bread_v1_bread_proto_msgTypes[17]
+	mi := &file_bread_v1_bread_proto_msgTypes[18]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1447,7 +1507,7 @@ func (x *FacetCount) String() string {
 func (*FacetCount) ProtoMessage() {}
 
 func (x *FacetCount) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[17]
+	mi := &file_bread_v1_bread_proto_msgTypes[18]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1460,7 +1520,7 @@ func (x *FacetCount) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use FacetCount.ProtoReflect.Descriptor instead.
 func (*FacetCount) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{17}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{18}
 }
 
 func (x *FacetCount) GetValue() string {
@@ -1487,7 +1547,7 @@ type Facet struct {
 
 func (x *Facet) Reset() {
 	*x = Facet{}
-	mi := &file_bread_v1_bread_proto_msgTypes[18]
+	mi := &file_bread_v1_bread_proto_msgTypes[19]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1499,7 +1559,7 @@ func (x *Facet) String() string {
 func (*Facet) ProtoMessage() {}
 
 func (x *Facet) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[18]
+	mi := &file_bread_v1_bread_proto_msgTypes[19]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1512,7 +1572,7 @@ func (x *Facet) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use Facet.ProtoReflect.Descriptor instead.
 func (*Facet) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{18}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{19}
 }
 
 func (x *Facet) GetDimension() string {
@@ -1537,7 +1597,7 @@ type ListFacetsRequest struct {
 
 func (x *ListFacetsRequest) Reset() {
 	*x = ListFacetsRequest{}
-	mi := &file_bread_v1_bread_proto_msgTypes[19]
+	mi := &file_bread_v1_bread_proto_msgTypes[20]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1549,7 +1609,7 @@ func (x *ListFacetsRequest) String() string {
 func (*ListFacetsRequest) ProtoMessage() {}
 
 func (x *ListFacetsRequest) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[19]
+	mi := &file_bread_v1_bread_proto_msgTypes[20]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1562,7 +1622,7 @@ func (x *ListFacetsRequest) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use ListFacetsRequest.ProtoReflect.Descriptor instead.
 func (*ListFacetsRequest) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{19}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{20}
 }
 
 type ListFacetsResponse struct {
@@ -1574,7 +1634,7 @@ type ListFacetsResponse struct {
 
 func (x *ListFacetsResponse) Reset() {
 	*x = ListFacetsResponse{}
-	mi := &file_bread_v1_bread_proto_msgTypes[20]
+	mi := &file_bread_v1_bread_proto_msgTypes[21]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1586,7 +1646,7 @@ func (x *ListFacetsResponse) String() string {
 func (*ListFacetsResponse) ProtoMessage() {}
 
 func (x *ListFacetsResponse) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[20]
+	mi := &file_bread_v1_bread_proto_msgTypes[21]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1599,7 +1659,7 @@ func (x *ListFacetsResponse) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use ListFacetsResponse.ProtoReflect.Descriptor instead.
 func (*ListFacetsResponse) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{20}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{21}
 }
 
 func (x *ListFacetsResponse) GetFacets() []*Facet {
@@ -1619,7 +1679,7 @@ type SimilarRecipesRequest struct {
 
 func (x *SimilarRecipesRequest) Reset() {
 	*x = SimilarRecipesRequest{}
-	mi := &file_bread_v1_bread_proto_msgTypes[21]
+	mi := &file_bread_v1_bread_proto_msgTypes[22]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1631,7 +1691,7 @@ func (x *SimilarRecipesRequest) String() string {
 func (*SimilarRecipesRequest) ProtoMessage() {}
 
 func (x *SimilarRecipesRequest) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[21]
+	mi := &file_bread_v1_bread_proto_msgTypes[22]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1644,7 +1704,7 @@ func (x *SimilarRecipesRequest) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use SimilarRecipesRequest.ProtoReflect.Descriptor instead.
 func (*SimilarRecipesRequest) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{21}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{22}
 }
 
 func (x *SimilarRecipesRequest) GetSlug() string {
@@ -1670,7 +1730,7 @@ type SimilarRecipesResponse struct {
 
 func (x *SimilarRecipesResponse) Reset() {
 	*x = SimilarRecipesResponse{}
-	mi := &file_bread_v1_bread_proto_msgTypes[22]
+	mi := &file_bread_v1_bread_proto_msgTypes[23]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1682,7 +1742,7 @@ func (x *SimilarRecipesResponse) String() string {
 func (*SimilarRecipesResponse) ProtoMessage() {}
 
 func (x *SimilarRecipesResponse) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[22]
+	mi := &file_bread_v1_bread_proto_msgTypes[23]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1695,7 +1755,7 @@ func (x *SimilarRecipesResponse) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use SimilarRecipesResponse.ProtoReflect.Descriptor instead.
 func (*SimilarRecipesResponse) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{22}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{23}
 }
 
 func (x *SimilarRecipesResponse) GetRecipes() []*Recipe {
@@ -1715,7 +1775,7 @@ type UpsertRecipesRequest struct {
 
 func (x *UpsertRecipesRequest) Reset() {
 	*x = UpsertRecipesRequest{}
-	mi := &file_bread_v1_bread_proto_msgTypes[23]
+	mi := &file_bread_v1_bread_proto_msgTypes[24]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1727,7 +1787,7 @@ func (x *UpsertRecipesRequest) String() string {
 func (*UpsertRecipesRequest) ProtoMessage() {}
 
 func (x *UpsertRecipesRequest) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[23]
+	mi := &file_bread_v1_bread_proto_msgTypes[24]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1740,7 +1800,7 @@ func (x *UpsertRecipesRequest) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use UpsertRecipesRequest.ProtoReflect.Descriptor instead.
 func (*UpsertRecipesRequest) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{23}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{24}
 }
 
 func (x *UpsertRecipesRequest) GetRecipes() []*Recipe {
@@ -1767,7 +1827,7 @@ type UpsertRecipesResponse struct {
 
 func (x *UpsertRecipesResponse) Reset() {
 	*x = UpsertRecipesResponse{}
-	mi := &file_bread_v1_bread_proto_msgTypes[24]
+	mi := &file_bread_v1_bread_proto_msgTypes[25]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -1779,7 +1839,7 @@ func (x *UpsertRecipesResponse) String() string {
 func (*UpsertRecipesResponse) ProtoMessage() {}
 
 func (x *UpsertRecipesResponse) ProtoReflect() protoreflect.Message {
-	mi := &file_bread_v1_bread_proto_msgTypes[24]
+	mi := &file_bread_v1_bread_proto_msgTypes[25]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -1792,7 +1852,7 @@ func (x *UpsertRecipesResponse) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use UpsertRecipesResponse.ProtoReflect.Descriptor instead.
 func (*UpsertRecipesResponse) Descriptor() ([]byte, []int) {
-	return file_bread_v1_bread_proto_rawDescGZIP(), []int{24}
+	return file_bread_v1_bread_proto_rawDescGZIP(), []int{25}
 }
 
 func (x *UpsertRecipesResponse) GetUpserted() int32 {
@@ -1887,7 +1947,10 @@ const file_bread_v1_bread_proto_rawDesc = "" +
 	"\x06Origin\x12\x18\n" +
 	"\acountry\x18\x01 \x01(\tR\acountry\x12\x16\n" +
 	"\x06region\x18\x02 \x01(\tR\x06region\x12\x12\n" +
-	"\x04note\x18\x03 \x01(\tR\x04note\"\xd0\x06\n" +
+	"\x04note\x18\x03 \x01(\tR\x04note\"7\n" +
+	"\rKitchenTested\x12\x12\n" +
+	"\x04date\x18\x01 \x01(\tR\x04date\x12\x12\n" +
+	"\x04note\x18\x02 \x01(\tR\x04note\"\x90\a\n" +
 	"\x06Recipe\x12\x12\n" +
 	"\x04slug\x18\x01 \x01(\tR\x04slug\x12+\n" +
 	"\x04name\x18\x02 \x01(\v2\x17.bread.v1.LocalizedTextR\x04name\x12\x18\n" +
@@ -1916,7 +1979,8 @@ const file_bread_v1_bread_proto_rawDesc = "" +
 	"\x06source\x18\x16 \x01(\v2\x10.bread.v1.SourceR\x06source\x12\x12\n" +
 	"\x04tags\x18\x17 \x03(\tR\x04tags\x12\x1d\n" +
 	"\n" +
-	"dough_type\x18\x18 \x01(\tR\tdoughType\"\xdc\x04\n" +
+	"dough_type\x18\x18 \x01(\tR\tdoughType\x12>\n" +
+	"\x0ekitchen_tested\x18\x19 \x01(\v2\x17.bread.v1.KitchenTestedR\rkitchenTested\"\xdc\x04\n" +
 	"\x14SearchRecipesRequest\x12\x14\n" +
 	"\x05query\x18\x01 \x01(\tR\x05query\x12\x12\n" +
 	"\x04lang\x18\x02 \x01(\tR\x04lang\x12\x18\n" +
@@ -1991,7 +2055,7 @@ func file_bread_v1_bread_proto_rawDescGZIP() []byte {
 	return file_bread_v1_bread_proto_rawDescData
 }
 
-var file_bread_v1_bread_proto_msgTypes = make([]protoimpl.MessageInfo, 25)
+var file_bread_v1_bread_proto_msgTypes = make([]protoimpl.MessageInfo, 26)
 var file_bread_v1_bread_proto_goTypes = []any{
 	(*LocalizedText)(nil),          // 0: bread.v1.LocalizedText
 	(*FlourPart)(nil),              // 1: bread.v1.FlourPart
@@ -2005,19 +2069,20 @@ var file_bread_v1_bread_proto_goTypes = []any{
 	(*MethodStep)(nil),             // 9: bread.v1.MethodStep
 	(*Source)(nil),                 // 10: bread.v1.Source
 	(*Origin)(nil),                 // 11: bread.v1.Origin
-	(*Recipe)(nil),                 // 12: bread.v1.Recipe
-	(*SearchRecipesRequest)(nil),   // 13: bread.v1.SearchRecipesRequest
-	(*SearchRecipesResponse)(nil),  // 14: bread.v1.SearchRecipesResponse
-	(*GetRecipeRequest)(nil),       // 15: bread.v1.GetRecipeRequest
-	(*GetRecipeResponse)(nil),      // 16: bread.v1.GetRecipeResponse
-	(*FacetCount)(nil),             // 17: bread.v1.FacetCount
-	(*Facet)(nil),                  // 18: bread.v1.Facet
-	(*ListFacetsRequest)(nil),      // 19: bread.v1.ListFacetsRequest
-	(*ListFacetsResponse)(nil),     // 20: bread.v1.ListFacetsResponse
-	(*SimilarRecipesRequest)(nil),  // 21: bread.v1.SimilarRecipesRequest
-	(*SimilarRecipesResponse)(nil), // 22: bread.v1.SimilarRecipesResponse
-	(*UpsertRecipesRequest)(nil),   // 23: bread.v1.UpsertRecipesRequest
-	(*UpsertRecipesResponse)(nil),  // 24: bread.v1.UpsertRecipesResponse
+	(*KitchenTested)(nil),          // 12: bread.v1.KitchenTested
+	(*Recipe)(nil),                 // 13: bread.v1.Recipe
+	(*SearchRecipesRequest)(nil),   // 14: bread.v1.SearchRecipesRequest
+	(*SearchRecipesResponse)(nil),  // 15: bread.v1.SearchRecipesResponse
+	(*GetRecipeRequest)(nil),       // 16: bread.v1.GetRecipeRequest
+	(*GetRecipeResponse)(nil),      // 17: bread.v1.GetRecipeResponse
+	(*FacetCount)(nil),             // 18: bread.v1.FacetCount
+	(*Facet)(nil),                  // 19: bread.v1.Facet
+	(*ListFacetsRequest)(nil),      // 20: bread.v1.ListFacetsRequest
+	(*ListFacetsResponse)(nil),     // 21: bread.v1.ListFacetsResponse
+	(*SimilarRecipesRequest)(nil),  // 22: bread.v1.SimilarRecipesRequest
+	(*SimilarRecipesResponse)(nil), // 23: bread.v1.SimilarRecipesResponse
+	(*UpsertRecipesRequest)(nil),   // 24: bread.v1.UpsertRecipesRequest
+	(*UpsertRecipesResponse)(nil),  // 25: bread.v1.UpsertRecipesResponse
 }
 var file_bread_v1_bread_proto_depIdxs = []int32{
 	1,  // 0: bread.v1.Formula.flours:type_name -> bread.v1.FlourPart
@@ -2036,27 +2101,28 @@ var file_bread_v1_bread_proto_depIdxs = []int32{
 	8,  // 13: bread.v1.Recipe.keeping:type_name -> bread.v1.Keeping
 	9,  // 14: bread.v1.Recipe.method:type_name -> bread.v1.MethodStep
 	10, // 15: bread.v1.Recipe.source:type_name -> bread.v1.Source
-	12, // 16: bread.v1.SearchRecipesResponse.recipes:type_name -> bread.v1.Recipe
-	12, // 17: bread.v1.GetRecipeResponse.recipe:type_name -> bread.v1.Recipe
-	17, // 18: bread.v1.Facet.counts:type_name -> bread.v1.FacetCount
-	18, // 19: bread.v1.ListFacetsResponse.facets:type_name -> bread.v1.Facet
-	12, // 20: bread.v1.SimilarRecipesResponse.recipes:type_name -> bread.v1.Recipe
-	12, // 21: bread.v1.UpsertRecipesRequest.recipes:type_name -> bread.v1.Recipe
-	13, // 22: bread.v1.RecipeService.SearchRecipes:input_type -> bread.v1.SearchRecipesRequest
-	15, // 23: bread.v1.RecipeService.GetRecipe:input_type -> bread.v1.GetRecipeRequest
-	19, // 24: bread.v1.RecipeService.ListFacets:input_type -> bread.v1.ListFacetsRequest
-	21, // 25: bread.v1.RecipeService.SimilarRecipes:input_type -> bread.v1.SimilarRecipesRequest
-	23, // 26: bread.v1.ImportService.UpsertRecipes:input_type -> bread.v1.UpsertRecipesRequest
-	14, // 27: bread.v1.RecipeService.SearchRecipes:output_type -> bread.v1.SearchRecipesResponse
-	16, // 28: bread.v1.RecipeService.GetRecipe:output_type -> bread.v1.GetRecipeResponse
-	20, // 29: bread.v1.RecipeService.ListFacets:output_type -> bread.v1.ListFacetsResponse
-	22, // 30: bread.v1.RecipeService.SimilarRecipes:output_type -> bread.v1.SimilarRecipesResponse
-	24, // 31: bread.v1.ImportService.UpsertRecipes:output_type -> bread.v1.UpsertRecipesResponse
-	27, // [27:32] is the sub-list for method output_type
-	22, // [22:27] is the sub-list for method input_type
-	22, // [22:22] is the sub-list for extension type_name
-	22, // [22:22] is the sub-list for extension extendee
-	0,  // [0:22] is the sub-list for field type_name
+	12, // 16: bread.v1.Recipe.kitchen_tested:type_name -> bread.v1.KitchenTested
+	13, // 17: bread.v1.SearchRecipesResponse.recipes:type_name -> bread.v1.Recipe
+	13, // 18: bread.v1.GetRecipeResponse.recipe:type_name -> bread.v1.Recipe
+	18, // 19: bread.v1.Facet.counts:type_name -> bread.v1.FacetCount
+	19, // 20: bread.v1.ListFacetsResponse.facets:type_name -> bread.v1.Facet
+	13, // 21: bread.v1.SimilarRecipesResponse.recipes:type_name -> bread.v1.Recipe
+	13, // 22: bread.v1.UpsertRecipesRequest.recipes:type_name -> bread.v1.Recipe
+	14, // 23: bread.v1.RecipeService.SearchRecipes:input_type -> bread.v1.SearchRecipesRequest
+	16, // 24: bread.v1.RecipeService.GetRecipe:input_type -> bread.v1.GetRecipeRequest
+	20, // 25: bread.v1.RecipeService.ListFacets:input_type -> bread.v1.ListFacetsRequest
+	22, // 26: bread.v1.RecipeService.SimilarRecipes:input_type -> bread.v1.SimilarRecipesRequest
+	24, // 27: bread.v1.ImportService.UpsertRecipes:input_type -> bread.v1.UpsertRecipesRequest
+	15, // 28: bread.v1.RecipeService.SearchRecipes:output_type -> bread.v1.SearchRecipesResponse
+	17, // 29: bread.v1.RecipeService.GetRecipe:output_type -> bread.v1.GetRecipeResponse
+	21, // 30: bread.v1.RecipeService.ListFacets:output_type -> bread.v1.ListFacetsResponse
+	23, // 31: bread.v1.RecipeService.SimilarRecipes:output_type -> bread.v1.SimilarRecipesResponse
+	25, // 32: bread.v1.ImportService.UpsertRecipes:output_type -> bread.v1.UpsertRecipesResponse
+	28, // [28:33] is the sub-list for method output_type
+	23, // [23:28] is the sub-list for method input_type
+	23, // [23:23] is the sub-list for extension type_name
+	23, // [23:23] is the sub-list for extension extendee
+	0,  // [0:23] is the sub-list for field type_name
 }
 
 func init() { file_bread_v1_bread_proto_init() }
@@ -2070,7 +2136,7 @@ func file_bread_v1_bread_proto_init() {
 			GoPackagePath: reflect.TypeOf(x{}).PkgPath(),
 			RawDescriptor: unsafe.Slice(unsafe.StringData(file_bread_v1_bread_proto_rawDesc), len(file_bread_v1_bread_proto_rawDesc)),
 			NumEnums:      0,
-			NumMessages:   25,
+			NumMessages:   26,
 			NumExtensions: 0,
 			NumServices:   2,
 		},

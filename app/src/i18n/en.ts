@@ -88,6 +88,7 @@ export const en = {
     noSpecialKit: 'No special equipment',
     overnight: 'Overnight rest',
     sourcedOnly: 'Sourced numbers only',
+    kitchenTestedOnly: 'Kitchen-tested only',
   },
   recipe: {
     formula: 'The formula',
@@ -141,6 +142,9 @@ export const en = {
     fromSource: 'from the source',
     openInLab: 'Open in the Dough Lab',
     methodEnglishOnly: 'Steps are shown in English for now.',
+    kitchenTested: 'Kitchen-tested',
+    kitchenTestedOn: 'baked {date}',
+    kitchenNote: 'From our bake',
   },
   lab: {
     title: 'The Dough Lab',

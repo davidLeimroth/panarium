@@ -329,6 +329,28 @@ code,
   cursor: default;
 }
 
+/* kitchen-tested endorsement chip: stronger than a metadata chip, the levain
+   green reads as "checked" in both themes */
+.chip-tested {
+  border-color: var(--levain);
+  background: color-mix(in srgb, var(--levain) 14%, transparent);
+  color: var(--levain);
+  font-weight: 600;
+  cursor: default;
+}
+
+.chip-tested::before {
+  content: "\2713";
+  font-weight: 700;
+  margin-right: 0.1em;
+}
+
+:root[data-theme="dark"] .chip-tested {
+  color: var(--paper);
+  background: color-mix(in srgb, var(--levain) 32%, transparent);
+  border-color: var(--levain);
+}
+
 .btn {
   display: inline-flex;
   align-items: center;

@@ -160,7 +160,8 @@ export default function SearchExplorer({ indexUrl, lang, t }: Props) {
     filters.glutenFree ||
     filters.wholegrain ||
     filters.noSpecialKit ||
-    filters.sourcedOnly;
+    filters.sourcedOnly ||
+    filters.kitchenTestedOnly;
 
   const s = t.search;
   const hydrationLabel: Record<HydrationBucket, string> = {
@@ -349,6 +350,11 @@ export default function SearchExplorer({ indexUrl, lang, t }: Props) {
               on={filters.noSpecialKit}
               label={s.noSpecialKit}
               onClick={() => set('noSpecialKit', !filters.noSpecialKit)}
+            />
+            <Chip
+              on={filters.kitchenTestedOnly}
+              label={s.kitchenTestedOnly}
+              onClick={() => set('kitchenTestedOnly', !filters.kitchenTestedOnly)}
             />
           </Group>
         </aside>

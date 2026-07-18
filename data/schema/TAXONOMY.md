@@ -34,6 +34,35 @@ Omit the field when `dough` is the right label; the build treats a missing
 `doughType` as `dough`. Excluded from per-family hydration statistics and from
 the fitted relationships in `data/science/derived-formulas.json`.
 
+## kitchenTested (optional, baked by the maintainer)
+
+An optional top-level object that marks a bread the maintainer has **genuinely
+baked** himself. Its **presence** is the whole claim: an empty object
+`"kitchenTested": {}` simply means "baked", there is no redundant boolean.
+
+```json
+"kitchenTested": {
+  "date": "2026-07",
+  "note": "Needed 10 minutes longer"
+}
+```
+
+- `date`: optional, `YYYY-MM` or `YYYY-MM-DD`.
+- `note`: optional, free text up to 300 characters, what was learned in that bake.
+
+This is a stronger claim than a cited source, and it must only ever be set **by
+hand** for a bread that was actually baked. Never infer, generate, or copy this
+field from another recipe; the corpus is shipped unmarked until a real bake
+happens. To add or remove it, use the keeper script:
+
+```
+node scripts/mark-baked.mjs <slug> [--date YYYY-MM] [--note "..."] [--remove]
+```
+
+The script edits `data/seed/recipes/<slug>.json` in place, validates the slug
+exists, rejects a malformed date, enforces the 300-character note limit, and
+prints what it changed.
+
 ## flours[].type (multi, with pct summing to 100)
 `wheat-white` `wheat-whole` `durum` `rye` `rye-whole` `spelt` `spelt-whole`
 `einkorn` `emmer` `khorasan` `barley` `oat` `corn` `rice` `buckwheat` `teff`

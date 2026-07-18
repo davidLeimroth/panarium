@@ -95,6 +95,7 @@ export const fr: Dict = {
     noSpecialKit: 'Sans équipement spécial',
     overnight: 'Repos d’une nuit',
     sourcedOnly: 'Chiffres sources uniquement',
+    kitchenTestedOnly: 'Testés en cuisine uniquement',
   },
   recipe: {
     formula: 'La formule',
@@ -149,6 +150,9 @@ export const fr: Dict = {
     fromSource: 'd’après la source',
     openInLab: 'Ouvrir au labo à pâte',
     methodEnglishOnly: 'Les étapes sont affichées en anglais pour le moment.',
+    kitchenTested: 'Testé en cuisine',
+    kitchenTestedOn: 'cuit {date}',
+    kitchenNote: 'De notre fournée',
   },
   lab: {
     title: 'Le Labo à Pâte',

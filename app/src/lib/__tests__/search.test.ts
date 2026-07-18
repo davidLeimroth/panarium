@@ -34,6 +34,7 @@ const mk = (over: Partial<RecipeIndexEntry>): RecipeIndexEntry => ({
   keepsDays: 3,
   equipment: ['dutch-oven'],
   sourced: true,
+  kitchenTested: false,
   searchText: 'x',
   ...over,
 });
@@ -43,12 +44,13 @@ const entries: RecipeIndexEntry[] = [
   mk({ slug: 'b', name: 'Beta', hydration: 58, keepsDays: 7, flavors: ['sour', 'earthy'] }),
   mk({ slug: 'c', name: 'Gamma', family: 'flatbread', equipment: [], activeMin: 20 }),
   mk({ slug: 'd', name: 'Delta', leaven: 'yeast', sourced: false }),
+  mk({ slug: 'e', name: 'Epsilon', kitchenTested: true }),
 ];
 
 describe('applyFilters', () => {
   it('filters by leaven', () => {
     const r = applyFilters(entries, { ...EMPTY_FILTERS, leavens: ['sourdough'] });
-    expect(r.map((e) => e.slug)).toEqual(['b', 'c']);
+    expect(r.map((e) => e.slug)).toEqual(['b', 'c', 'e']);
   });
   it('filters by ready-in threshold', () => {
     const r = applyFilters(entries, { ...EMPTY_FILTERS, readyIn: '2h' });
@@ -64,8 +66,12 @@ describe('applyFilters', () => {
   });
   it('filters by sourced-only', () => {
     const r = applyFilters(entries, { ...EMPTY_FILTERS, sourcedOnly: true });
-    expect(r.map((e) => e.slug)).toEqual(['a', 'b', 'c']);
+    expect(r.map((e) => e.slug)).toEqual(['a', 'b', 'c', 'e']);
     expect(r.map((e) => e.slug)).not.toContain('d');
+  });
+  it('filters by kitchen-tested-only', () => {
+    const r = applyFilters(entries, { ...EMPTY_FILTERS, kitchenTestedOnly: true });
+    expect(r.map((e) => e.slug)).toEqual(['e']);
   });
   it('combines facets with AND', () => {
     const r = applyFilters(entries, {
@@ -105,10 +111,12 @@ describe('URL round-trip', () => {
       vegan: true,
       difficultyMax: 3,
       sourcedOnly: true,
+      kitchenTestedOnly: true,
     };
     const params = filtersToParams(f, 'keeps');
     const { filters, sort } = paramsToFilters(params);
     expect(filters).toEqual(f);
     expect(sort).toBe('keeps');
+    expect(params.get('tested')).toBe('1');
   });
 });

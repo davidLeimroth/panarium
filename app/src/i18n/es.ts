@@ -95,6 +95,7 @@ export const es: Dict = {
     noSpecialKit: 'Sin equipo especial',
     overnight: 'Reposo nocturno',
     sourcedOnly: 'Solo cifras verificadas',
+    kitchenTestedOnly: 'Solo probados en cocina',
   },
   recipe: {
     formula: 'La fórmula',
@@ -149,6 +150,9 @@ export const es: Dict = {
     fromSource: 'de la fuente',
     openInLab: 'Abrir en el Laboratorio',
     methodEnglishOnly: 'Los pasos se muestran en inglés por ahora.',
+    kitchenTested: 'Probado en cocina',
+    kitchenTestedOn: 'horneado {date}',
+    kitchenNote: 'De nuestra hornada',
   },
   lab: {
     title: 'El Laboratorio de Masa',

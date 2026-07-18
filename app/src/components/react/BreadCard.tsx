@@ -47,6 +47,14 @@ export function BreadCard({
         </p>
         <p className="desc">{e.desc}</p>
         <div className="chips">
+          {e.kitchenTested ? (
+            <span
+              className="chip chip-tested"
+              role="img"
+              title={t.recipe.kitchenTested}
+              aria-label={t.recipe.kitchenTested}
+            />
+          ) : null}
           <span className="chip chip-static">{t.taxonomy.leaven[e.leaven]}</span>
           <span className="chip chip-static">{t.taxonomy.family[e.family]}</span>
           <span className="chip chip-static">

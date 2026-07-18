@@ -158,6 +158,15 @@
         "adaptation": { "type": "string", "maxLength": 200, "description": "how this entry deviates from the source" }
       }
     },
-    "tags": { "type": "array", "maxItems": 6, "items": { "type": "string" } }
+    "tags": { "type": "array", "maxItems": 6, "items": { "type": "string" } },
+    "kitchenTested": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "optional: present only when the maintainer has personally baked this bread; presence alone means 'baked', never infer or generate this field",
+      "properties": {
+        "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$", "description": "YYYY-MM or YYYY-MM-DD" },
+        "note": { "type": "string", "maxLength": 300 }
+      }
+    }
   }
 }
