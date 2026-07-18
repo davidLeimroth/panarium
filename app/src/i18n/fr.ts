@@ -51,6 +51,8 @@ export const fr: Dict = {
     results: '{n} pains',
     resultOne: '1 pain',
     noResults: 'Aucun pain ne correspond à cette combinaison exacte, desserrez un filtre ou deux.',
+    loading: 'Chargement de l’atlas…',
+    showMore: 'Voir plus',
     clearAll: 'Effacer tous les filtres',
     sortBy: 'Trier',
     sorts: {

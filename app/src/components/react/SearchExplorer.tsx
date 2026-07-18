@@ -21,9 +21,10 @@ import { BreadCard } from './BreadCard';
 
 const HYDRATION_BUCKETS: HydrationBucket[] = ['dry', 'moderate', 'high', 'very-high'];
 const READY_OPTIONS: ReadyIn[] = ['2h', '4h', '8h', '24h', '3d'];
+const PAGE_SIZE = 48;
 
 interface Props {
-  entries: RecipeIndexEntry[];
+  indexUrl: string;
   lang: Lang;
   t: Dict;
 }
@@ -65,10 +66,31 @@ function Group({
   );
 }
 
-export default function SearchExplorer({ entries, lang, t }: Props) {
+export default function SearchExplorer({ indexUrl, lang, t }: Props) {
+  const [entries, setEntries] = useState<RecipeIndexEntry[]>([]);
+  const [loading, setLoading] = useState(true);
   const [filters, setFilters] = useState<SearchFilters>(EMPTY_FILTERS);
   const [sort, setSort] = useState<SortKey>('name');
   const [ready, setReady] = useState(false);
+  const [visible, setVisible] = useState(PAGE_SIZE);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(indexUrl)
+      .then((r) => r.json())
+      .then((data: RecipeIndexEntry[]) => {
+        if (cancelled) return;
+        setEntries(data);
+        setLoading(false);
+      })
+      .catch(() => {
+        if (cancelled) return;
+        setLoading(false);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [indexUrl]);
 
   useEffect(() => {
     const parsed = paramsToFilters(new URLSearchParams(window.location.search));
@@ -83,6 +105,11 @@ export default function SearchExplorer({ entries, lang, t }: Props) {
     const qs = params.toString();
     window.history.replaceState(null, '', qs ? `?${qs}` : window.location.pathname);
   }, [filters, sort, ready]);
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: reset pagination whenever the active filter/sort changes, not when setVisible changes
+  useEffect(() => {
+    setVisible(PAGE_SIZE);
+  }, [filters, sort]);
 
   const results = useMemo(
     () => sortEntries(applyFilters(entries, filters), sort),
@@ -321,14 +348,29 @@ export default function SearchExplorer({ entries, lang, t }: Props) {
         </aside>
 
         <div className="results">
-          {results.length === 0 ? (
+          {loading && entries.length === 0 ? (
+            <p className="empty">{s.loading}</p>
+          ) : results.length === 0 ? (
             <p className="empty">{s.noResults}</p>
           ) : (
-            <div className="card-grid">
-              {results.map((e) => (
-                <BreadCard key={e.slug} e={e} lang={lang} t={t} />
-              ))}
-            </div>
+            <>
+              <div className="card-grid">
+                {results.slice(0, visible).map((e) => (
+                  <BreadCard key={e.slug} e={e} lang={lang} t={t} />
+                ))}
+              </div>
+              {results.length > visible ? (
+                <div className="show-more">
+                  <button
+                    type="button"
+                    className="btn"
+                    onClick={() => setVisible((v) => v + PAGE_SIZE)}
+                  >
+                    {s.showMore}
+                  </button>
+                </div>
+              ) : null}
+            </>
           )}
         </div>
       </div>

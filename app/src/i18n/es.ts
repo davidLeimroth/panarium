@@ -51,6 +51,8 @@ export const es: Dict = {
     results: '{n} panes',
     resultOne: '1 pan',
     noResults: 'Ningún pan encaja con esa combinación exacta; afloja un filtro o dos.',
+    loading: 'Cargando el atlas…',
+    showMore: 'Ver más',
     clearAll: 'Quitar todos los filtros',
     sortBy: 'Ordenar',
     sorts: {

@@ -49,6 +49,8 @@ export const en = {
     results: '{n} breads',
     resultOne: '1 bread',
     noResults: 'No bread matches this exact combination, loosen a filter or two.',
+    loading: 'Loading the atlas…',
+    showMore: 'Show more',
     clearAll: 'Clear all filters',
     sortBy: 'Sort',
     sorts: {

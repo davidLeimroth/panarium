@@ -51,6 +51,8 @@ export const de: Dict = {
     results: '{n} Brote',
     resultOne: '1 Brot',
     noResults: 'Kein Brot passt auf genau diese Kombination, lockere ein, zwei Filter.',
+    loading: 'Atlas wird geladen…',
+    showMore: 'Mehr anzeigen',
     clearAll: 'Alle Filter löschen',
     sortBy: 'Sortieren',
     sorts: {

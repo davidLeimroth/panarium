@@ -785,6 +785,12 @@ label.field .lbl {
   align-items: start;
 }
 
+.show-more {
+  display: flex;
+  justify-content: center;
+  margin-top: 28px;
+}
+
 @media (max-width: 860px) {
   .explorer-grid {
     grid-template-columns: 1fr;

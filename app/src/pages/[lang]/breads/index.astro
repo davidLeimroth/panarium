@@ -1,8 +1,7 @@
 ---
 import Layout from '../../../components/Layout.astro';
 import SearchExplorer from '../../../components/react/SearchExplorer';
-import { getDict } from '../../../i18n';
-import { getAllRecipes, toIndexEntry } from '../../../lib/recipes';
+import { getDict, withBase } from '../../../i18n';
 import { LANGS, type Lang } from '../../../lib/taxonomy';
 
 export function getStaticPaths() {
@@ -11,8 +10,7 @@ export function getStaticPaths() {
 
 const lang = Astro.params.lang as Lang;
 const t = getDict(lang);
-const recipes = await getAllRecipes();
-const entries = recipes.map((r) => toIndexEntry(r.data, lang));
+const indexUrl = withBase(`/${lang}/breads-index.json`);
 ---
 
 <Layout lang={lang} title={t.search.title} description={t.meta.atlas} current="atlas">
@@ -22,6 +20,6 @@ const entries = recipes.map((r) => toIndexEntry(r.data, lang));
  <p class="lead">{t.search.lead}</p>
  </div>
  <div class="wrap" style="margin-top: 18px;">
- <SearchExplorer client:load entries={entries} lang={lang} t={t} />
+ <SearchExplorer client:load indexUrl={indexUrl} lang={lang} t={t} />
  </div>
 </Layout>
