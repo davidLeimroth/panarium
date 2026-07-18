@@ -42,6 +42,27 @@ const gf = isGlutenFree(r);
 const keeps =
   r.keeping.freshDays <= 1 ? t.recipe.dayOne : fmt(t.recipe.days, { n: r.keeping.freshDays });
 const sourceHost = new URL(r.source.url).hostname.replace(/^www\./, '');
+
+const labParams = new URLSearchParams();
+labParams.set('st', 'custom');
+labParams.set('p', String(r.yield.count));
+labParams.set('w', String(r.yield.pieceGrams));
+labParams.set('h', String(r.formula.hydrationPct));
+labParams.set('s', String(r.formula.saltPct));
+labParams.set('su', String(r.formula.sugarPct ?? 0));
+labParams.set('fa', String(r.formula.fatPct ?? 0));
+labParams.set(
+  'm',
+  r.leaven === 'sourdough' ? 'levain' : r.leaven === 'hybrid' ? 'hybrid' : 'yeast',
+);
+labParams.set('blend', r.formula.flours.map((f) => `${f.type}:${f.pct}`).join('|'));
+// Levain weight is roughly twice the prefermented flour at 100% levain hydration,
+// so a levain dough lands in the Lab with a workable amount rather than 0%.
+if (r.formula.prefermentedFlourPct && (r.leaven === 'sourdough' || r.leaven === 'hybrid')) {
+  labParams.set('lp', String(Math.round(r.formula.prefermentedFlourPct * 2)));
+  labParams.set('lh', '100');
+}
+const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
 ---
 
 <Layout lang={lang} title={r.name[lang]} description={r.description[lang]} current="atlas">
@@ -154,7 +175,7 @@ const sourceHost = new URL(r.source.url).hostname.replace(/^www\./, '');
   <p class="fine mono">
  {fmt(t.recipe.forYield, { count: r.yield.count, grams: r.yield.pieceGrams })}
  {r.yield.shape ? ` · ${r.yield.shape}` : ''}
- </p>
+  </p>
  <FormulaCard
  client:visible
  ingredients={r.ingredients}
@@ -163,6 +184,9 @@ const sourceHost = new URL(r.source.url).hostname.replace(/^www\./, '');
  lang={lang}
  t={t}
  />
+ <p class="lab-link no-print">
+ <a class="btn" href={labHref}>{t.recipe.openInLab}</a>
+ </p>
  </section>
 
  <section>
@@ -307,6 +331,9 @@ const sourceHost = new URL(r.source.url).hostname.replace(/^www\./, '');
  .card.soft {
  box-shadow: none;
  background: var(--paper);
+ margin-top: 14px;
+ }
+ .lab-link {
  margin-top: 14px;
  }
 </style>

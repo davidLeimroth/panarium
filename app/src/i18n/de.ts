@@ -307,6 +307,7 @@ export const de: Dict = {
     signs: 'Anzeichen',
     causes: 'Wahrscheinliche Ursachen',
     fixes: 'Abhilfe',
+    readMore: 'Mehr dazu',
     comingSoon:
       'Die Artikel werden gerade aus den Forschungsnotizen destilliert, das Fehlerregister unten ist bereits live.',
     formulasTitle: 'Die Formeln',

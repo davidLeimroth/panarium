@@ -55,6 +55,7 @@ export interface FaultEntry {
   signs?: string[];
   causes: string[];
   fixes: string[];
+  article?: string;
 }
 
 function validFault(v: unknown): v is FaultEntry {

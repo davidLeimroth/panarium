@@ -294,6 +294,7 @@ export const en = {
     signs: 'Signs',
     causes: 'Likely causes',
     fixes: 'Fixes',
+    readMore: 'Read more',
     comingSoon:
       'Articles are being distilled from the research notes, the fault index below is live.',
     formulasTitle: 'The formulas',

@@ -310,6 +310,7 @@ export const fr: Dict = {
     signs: 'Signes',
     causes: 'Causes probables',
     fixes: 'Remèdes',
+    readMore: 'En savoir plus',
     comingSoon:
       'Les articles sont en cours de distillation depuis les notes de recherche, le registre des défauts, lui, est déjà en ligne.',
     formulasTitle: 'Les formules',

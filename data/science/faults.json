@@ -5,7 +5,8 @@
     "fault": { "en": "Sticky, unworkable dough", "de": "Klebriger, nicht formbarer Teig", "es": "Masa pegajosa e inmanejable", "fr": "Pâte collante et impossible à travailler" },
     "signs": ["Dough clings to hands, bowl and counter and won't hold together", "Feels more like batter than dough"],
     "causes": ["Underdeveloped gluten (far more often the real cause than water)", "Dough too warm, which always feels stickier at a given hydration", "Hydration genuinely too high for the flour's strength"],
-    "fixes": ["Autolyse 30-60 minutes before final mixing so flour fully hydrates first", "Use wet hands or a bench scraper with Rubaud or slap-and-fold instead of adding flour", "Chill the dough briefly if it's simply too warm", "Only as a last resort, lower hydration by 2-3% at a time"]
+    "fixes": ["Autolyse 30-60 minutes before final mixing so flour fully hydrates first", "Use wet hands or a bench scraper with Rubaud or slap-and-fold instead of adding flour", "Chill the dough briefly if it's simply too warm", "Only as a last resort, lower hydration by 2-3% at a time"],
+    "article": "flour-and-gluten"
   },
   {
     "id": "weak-gluten-tears",
@@ -13,7 +14,8 @@
     "fault": { "en": "Dough tears, won't windowpane", "de": "Teig reißt, besteht den Fenstertest nicht", "es": "La masa se rasga, no pasa la prueba de la ventana", "fr": "La pâte se déchire, pas de voile au test de la vitre" },
     "signs": ["Tears rather than stretching thin when tested", "Can't reach a thin, translucent windowpane without ripping"],
     "causes": ["Under-mixed - not enough kneading or folding yet", "Low-protein or bran-heavy flour cutting the gluten strands", "Dough is early in a long, cold-fermentation schedule where full development isn't expected yet"],
-    "fixes": ["Continue mixing or add more stretch-and-fold sets, then retest", "Blend in a stronger bread or high-gluten flour, or reduce whole-grain percentage", "If the dough is meant for a long bulk rise, confirm only partial development is needed now - strength will build on its own"]
+    "fixes": ["Continue mixing or add more stretch-and-fold sets, then retest", "Blend in a stronger bread or high-gluten flour, or reduce whole-grain percentage", "If the dough is meant for a long bulk rise, confirm only partial development is needed now - strength will build on its own"],
+    "article": "flour-and-gluten"
   },
   {
     "id": "crumbling-dry-crumb",
@@ -21,7 +23,8 @@
     "fault": { "en": "Crumbling, dry crumb", "de": "Krümelige, trockene Krume", "es": "Miga que se desmorona y reseca", "fr": "Mie qui s'émiette, sèche" },
     "signs": ["Slices fall apart or crumble when cut", "Crumb feels dry and short rather than moist and cohesive"],
     "causes": ["Dough mixed too stiff or low-hydration for the flour used", "High proportion of low-gluten grain (whole wheat, rye, ancient grains) without adjusting technique", "Overbaked, driving off more moisture than the crumb can spare"],
-    "fixes": ["Raise hydration slightly, judged against how the dough actually feels, not just the percentage", "Add an autolyse or soaker for whole-grain portions so bran fully hydrates before mixing", "Pull the bake at the correct internal temperature rather than over-baking for color"]
+    "fixes": ["Raise hydration slightly, judged against how the dough actually feels, not just the percentage", "Add an autolyse or soaker for whole-grain portions so bran fully hydrates before mixing", "Pull the bake at the correct internal temperature rather than over-baking for color"],
+    "article": "water-and-hydration"
   },
   {
     "id": "dense-crumb",
@@ -29,7 +32,8 @@
     "fault": { "en": "Dense crumb", "de": "Dichte Krume", "es": "Miga densa", "fr": "Mie dense" },
     "signs": ["Tight, compact crumb with small, uniform air pockets", "Heavy for its size", "Little to no oven spring"],
     "causes": ["Bulk fermentation ended too early, before the dough gained real volume", "Weak or young starter, or insufficient yeast", "Dough temperature too cold during bulk"],
-    "fixes": ["Let bulk fermentation run until the dough visibly grows (roughly 50% by volume), not by the clock", "Track rise with a straight-sided container or aliquot jar instead of guessing", "Warm the dough (24-26°C) to speed a sluggish fermentation"]
+    "fixes": ["Let bulk fermentation run until the dough visibly grows (roughly 50% by volume), not by the clock", "Track rise with a straight-sided container or aliquot jar instead of guessing", "Warm the dough (24-26°C) to speed a sluggish fermentation"],
+    "article": "fermentation"
   },
   {
     "id": "flat-loaf",
@@ -37,7 +41,8 @@
     "fault": { "en": "Flat loaf", "de": "Flaches Brot", "es": "Pan plano", "fr": "Pain plat" },
     "signs": ["Spreads outward rather than rising upward", "Minimal oven spring", "Dough flattened noticeably when turned out of the banneton"],
     "causes": ["Overproofed - fermentation ran past the dough's structural limit", "Underdeveloped gluten too weak to hold gas", "Shaping left too little surface tension"],
-    "fixes": ["End bulk fermentation earlier (roughly 25-75% rise depending on flour strength), judged by feel, not doubling", "Build more strength with extra stretch-and-folds", "Reshape with firmer, more deliberate tension"]
+    "fixes": ["End bulk fermentation earlier (roughly 25-75% rise depending on flour strength), judged by feel, not doubling", "Build more strength with extra stretch-and-folds", "Reshape with firmer, more deliberate tension"],
+    "article": "fermentation"
   },
   {
     "id": "too-sour",
@@ -45,7 +50,8 @@
     "fault": { "en": "Too sour", "de": "Zu sauer", "es": "Demasiado ácido", "fr": "Trop acide" },
     "signs": ["Sharp, vinegary, almost acetone-like tang", "Sourness overpowers the wheat or rye flavor"],
     "causes": ["Long, cool fermentation favoring heterofermentative (acetic-acid) bacteria", "Overripe or infrequently-fed starter", "Too much prefermented flour or too long a cold retard"],
-    "fixes": ["Ferment warmer (around 28-30°C) to favor mild lactic acid bacteria over acetic", "Feed the starter more often and use it closer to its peak", "Shorten bulk fermentation or reduce the amount of levain used"]
+    "fixes": ["Ferment warmer (around 28-30°C) to favor mild lactic acid bacteria over acetic", "Feed the starter more often and use it closer to its peak", "Shorten bulk fermentation or reduce the amount of levain used"],
+    "article": "fermentation"
   },
   {
     "id": "not-sour-enough",
@@ -53,7 +59,8 @@
     "fault": { "en": "Not sour enough", "de": "Zu wenig Säure", "es": "Poco ácido", "fr": "Pas assez acide" },
     "signs": ["Flat, mild, more yeasty than tangy flavor", "Little of the expected sourdough character"],
     "causes": ["Short or warm fermentation dominated by yeast rather than acid-producing bacteria", "Young, recently-fed starter with a high yeast-to-bacteria ratio", "Low percentage of prefermented flour"],
-    "fixes": ["Extend bulk fermentation, including a cold retard, to build more acid", "Let the starter ripen longer between feeds, or feed it less often", "Increase prefermented flour percentage, or use a stiffer levain, which favors sharper acetic notes"]
+    "fixes": ["Extend bulk fermentation, including a cold retard, to build more acid", "Let the starter ripen longer between feeds, or feed it less often", "Increase prefermented flour percentage, or use a stiffer levain, which favors sharper acetic notes"],
+    "article": "fermentation"
   },
   {
     "id": "tight-crumb-high-hydration",
@@ -61,7 +68,8 @@
     "fault": { "en": "Tight crumb despite high hydration", "de": "Enge Krume trotz hoher Hydration", "es": "Miga cerrada pese a una alta hidratación", "fr": "Mie serrée malgré une forte hydratation" },
     "signs": ["Crumb stays close and tight even though the dough felt very wet and slack", "Doesn't match the open crumb the hydration percentage would suggest"],
     "causes": ["Bulk fermentation ended too soon - hydration alone doesn't open a crumb, fermentation does", "Overly sour or degraded starter weakening gas production", "Whole grain or rye flour in the mix, which tightens crumb regardless of water level", "Dough handled too roughly, popping gas pockets built during bulk"],
-    "fixes": ["Extend bulk fermentation and judge by volume and feel rather than the hydration number", "Refresh the starter until it reliably peaks before using it", "Handle gently at shaping - firm but not aggressive degassing"]
+    "fixes": ["Extend bulk fermentation and judge by volume and feel rather than the hydration number", "Refresh the starter until it reliably peaks before using it", "Handle gently at shaping - firm but not aggressive degassing"],
+    "article": "water-and-hydration"
   },
   {
     "id": "blistered-crust",
@@ -69,7 +77,8 @@
     "fault": { "en": "Blistered crust", "de": "Blasenbildung auf der Kruste", "es": "Corteza con ampollas", "fr": "Croûte cloquée" },
     "signs": ["Small raised bubbles or blisters across the crust surface", "Blisters sometimes brown darker than the surrounding crust"],
     "causes": ["Over-fermented or over-acidified dough", "Dough soft, cold or under-proofed going into a hot oven, trapping surface gas unevenly", "Enzyme-rich flour breaking down surface starch unevenly"],
-    "fixes": ["Rein in fermentation time or temperature to avoid over-acidification", "Bring dough to a consistent, appropriate temperature before baking", "Handle gently at shaping to avoid uneven surface gas pockets"]
+    "fixes": ["Rein in fermentation time or temperature to avoid over-acidification", "Bring dough to a consistent, appropriate temperature before baking", "Handle gently at shaping to avoid uneven surface gas pockets"],
+    "article": "fermentation"
   },
   {
     "id": "big-tunnels",
@@ -77,7 +86,8 @@
     "fault": { "en": "Big tunnels", "de": "Große Löcher in der Krume", "es": "Túneles grandes en la miga", "fr": "Grands tunnels dans la mie" },
     "signs": ["One or a few large irregular holes rather than an even crumb", "Holes often run just under the crust"],
     "causes": ["Excess dusting flour trapped inside the shaping seam, preventing it from sealing", "Rough degassing or shaping that left large trapped pockets", "Underfermented dough that then expanded unevenly and fast in the oven"],
-    "fixes": ["Brush off excess bench flour before the final shaping fold", "Shape with even, deliberate pressure so gas is distributed rather than pushed into pockets", "Let fermentation finish properly before shaping"]
+    "fixes": ["Brush off excess bench flour before the final shaping fold", "Shape with even, deliberate pressure so gas is distributed rather than pushed into pockets", "Let fermentation finish properly before shaping"],
+    "article": "bakers-percentages"
   },
   {
     "id": "no-ear",
@@ -85,7 +95,8 @@
     "fault": { "en": "No ear", "de": "Keine Ohren beim Einschneiden", "es": "Sin \"oreja\" en el corte", "fr": "Pas de grigne" },
     "signs": ["Score simply splits open flat with no raised, curled lip", "The cut looks splayed rather than lifted"],
     "causes": ["Blade held perpendicular (90°) instead of shallow (~30°) to the dough", "Cut too shallow to release before the crust sets, or too deep so it collapses instead of lifting", "Slow, dragging cut instead of one fast, confident pass", "Insufficient steam, so the crust sets before the score can open"],
-    "fixes": ["Angle the lame or blade to about 30 degrees and cut in one swift motion", "Cut 1/4 to 1/2 inch deep along the length of the loaf", "Make sure steam is present for the first 10-15 minutes of baking"]
+    "fixes": ["Angle the lame or blade to about 30 degrees and cut in one swift motion", "Cut 1/4 to 1/2 inch deep along the length of the loaf", "Make sure steam is present for the first 10-15 minutes of baking"],
+    "article": "bakers-percentages"
   },
   {
     "id": "burst-seams",
@@ -93,7 +104,8 @@
     "fault": { "en": "Burst seams", "de": "Aufgeplatzter Schluss", "es": "Costura reventada", "fr": "Soudure éclatée" },
     "signs": ["Loaf splits open along an unplanned line, often on the side or bottom", "The rupture follows the shaping seam rather than the score"],
     "causes": ["Seam not fully sealed during shaping", "Dough underproofed, so it still had a lot of oven-rise left to do", "Insufficient steam let the crust set before expansion finished"],
-    "fixes": ["Pinch and seal the seam firmly, then proof with the seam positioned so it isn't the structural weak point", "Let final proof go further before baking", "Increase steam for the first part of the bake"]
+    "fixes": ["Pinch and seal the seam firmly, then proof with the seam positioned so it isn't the structural weak point", "Let final proof go further before baking", "Increase steam for the first part of the bake"],
+    "article": "bakers-percentages"
   },
   {
     "id": "gummy-crumb",
@@ -101,7 +113,8 @@
     "fault": { "en": "Gummy crumb", "de": "Klitschige Krume", "es": "Miga gomosa", "fr": "Mie gommeuse" },
     "signs": ["Wet, unset, tacky crumb even after full cooling", "Crumb sticks to the knife when sliced"],
     "causes": ["Sliced before fully cooled - starch is still setting", "Underbaked, pulled before the core reached roughly 96-99°C", "Severe overfermentation broke down starch and gluten before baking"],
-    "fixes": ["Cool at least 1-2 hours (longer for large or rye loaves) before the first cut", "Verify doneness with an instant-read thermometer, not crust color alone", "Shorten bulk or final fermentation next time if the loaf is fully baked and still gummy"]
+    "fixes": ["Cool at least 1-2 hours (longer for large or rye loaves) before the first cut", "Verify doneness with an instant-read thermometer, not crust color alone", "Shorten bulk or final fermentation next time if the loaf is fully baked and still gummy"],
+    "article": "water-and-hydration"
   },
   {
     "id": "pale-crust",
@@ -109,7 +122,8 @@
     "fault": { "en": "Pale crust", "de": "Blasse Kruste", "es": "Corteza pálida", "fr": "Croûte pâle" },
     "signs": ["Crust stays light tan or blond even after full bake time", "Little shine or color contrast"],
     "causes": ["Oven temperature too low or inaccurate", "Too much residual steam left in for too long", "Overfermented dough, leaving little residual sugar for browning", "Underbaked, pulled before Maillard and caramelization had time to develop"],
-    "fixes": ["Verify actual oven temperature with a separate thermometer", "Vent steam earlier so the back half of the bake can brown", "Shorten fermentation slightly to preserve sugars for crust color", "Extend bake time rather than judging doneness by the clock alone"]
+    "fixes": ["Verify actual oven temperature with a separate thermometer", "Vent steam earlier so the back half of the bake can brown", "Shorten fermentation slightly to preserve sugars for crust color", "Extend bake time rather than judging doneness by the clock alone"],
+    "article": "salt-steam-crust"
   },
   {
     "id": "flying-crust",
@@ -117,7 +131,8 @@
     "fault": { "en": "Flying crust", "de": "Abgehobenes Krustendach", "es": "Corteza separada (efecto sombrero)", "fr": "Croûte détachée (effet chapeau)" },
     "signs": ["Top crust separates into a hollow dome over an air gap", "Crust and crumb pull apart, sometimes visible on slicing"],
     "causes": ["Large trapped gas pocket just under the skin from insufficient degassing at shaping", "Oven too hot, setting the top crust before the interior finished expanding", "Weak scoring that gave expanding gas nowhere else to go"],
-    "fixes": ["Degas a little more evenly during shaping to avoid one large subsurface bubble", "Confirm oven temperature and consider baking slightly cooler", "Score deliberately so expansion has a controlled release point"]
+    "fixes": ["Degas a little more evenly during shaping to avoid one large subsurface bubble", "Confirm oven temperature and consider baking slightly cooler", "Score deliberately so expansion has a controlled release point"],
+    "article": "salt-steam-crust"
   },
   {
     "id": "collapsed-in-oven",
@@ -125,7 +140,8 @@
     "fault": { "en": "Collapsed in the oven", "de": "Im Ofen eingefallen", "es": "Se desinfla en el horno", "fr": "S'affaisse au four" },
     "signs": ["Loaf rises then visibly sinks or deflates once in the oven", "Sides can look pinched in or wrinkled"],
     "causes": ["Overproofed before baking - yeast activity exhausted, no reserve left for oven spring", "Weak gluten network (under-mixed or over-fermented) that can't hold structure once heated", "Rough handling into the oven collapsed built-up gas cells"],
-    "fixes": ["Use the poke test (a finger dent springs back slowly, not instantly, not left sunken) instead of a fixed time", "Build more dough strength through mixing and folds", "Load the loaf gently and quickly, minimizing jostling"]
+    "fixes": ["Use the poke test (a finger dent springs back slowly, not instantly, not left sunken) instead of a fixed time", "Build more dough strength through mixing and folds", "Load the loaf gently and quickly, minimizing jostling"],
+    "article": "salt-steam-crust"
   },
   {
     "id": "rye-starch-attack",
@@ -133,7 +149,8 @@
     "fault": { "en": "Rye starch attack", "de": "Stärkeangriff im Roggenbrot", "es": "\"Ataque del almidón\" en pan de centeno", "fr": "Attaque de l'amidon (seigle)" },
     "signs": ["Dense, pasty, gummy crumb specific to rye loaves", "Crumb feels wet and heavy even when fully baked"],
     "causes": ["High-diastatic (enzyme-rich) rye flour with strong amylase activity", "Insufficient dough acidity to suppress amylase before baking", "Baking too slowly through the roughly 50-60°C range, giving enzymes more time to break down starch before heat deactivates them near 80°C"],
-    "fixes": ["Use a well-soured, mature rye sourdough to acidify the dough and inhibit amylase", "Increase the proportion of prefermented, soured rye flour in the formula", "Bake at the specified full temperature rather than a slow ramp, crossing the enzyme-active window quickly"]
+    "fixes": ["Use a well-soured, mature rye sourdough to acidify the dough and inhibit amylase", "Increase the proportion of prefermented, soured rye flour in the formula", "Bake at the specified full temperature rather than a slow ramp, crossing the enzyme-active window quickly"],
+    "article": "salt-steam-crust"
   },
   {
     "id": "underbaked-core",
@@ -141,7 +158,8 @@
     "fault": { "en": "Underbaked core", "de": "Roher, nicht durchgebackener Kern", "es": "Núcleo crudo o poco horneado", "fr": "Cœur pas assez cuit" },
     "signs": ["Crust looks done but crumb near the center is wet, dense or doughy", "Loaf feels heavier than expected once cool"],
     "causes": ["Pulled from the oven based on crust color alone, especially with a bold, dark bake", "Oven running hotter than the dial, over-browning the outside while the inside lags", "Loaf too large or too wet for the bake time given"],
-    "fixes": ["Confirm doneness with an instant-read thermometer - about 96-99°C at the center for lean hearth breads", "Tent with foil if the crust colors faster than the core cooks", "Extend bake time and/or lower the temperature slightly for large or high-hydration loaves"]
+    "fixes": ["Confirm doneness with an instant-read thermometer - about 96-99°C at the center for lean hearth breads", "Tent with foil if the crust colors faster than the core cooks", "Extend bake time and/or lower the temperature slightly for large or high-hydration loaves"],
+    "article": "salt-steam-crust"
   },
   {
     "id": "tough-crust",
@@ -149,7 +167,8 @@
     "fault": { "en": "Tough, chewy crust", "de": "Zähe Kruste", "es": "Corteza dura y correosa", "fr": "Croûte dure et caoutchouteuse" },
     "signs": ["Crust is hard and difficult to bite through rather than crisp and shattering", "Sometimes rubbery instead of hard"],
     "causes": ["Too little steam in the first 10-15 minutes, so the crust set and thickened too early", "Overbaked past the target internal temperature", "Oven actually cooler than set, requiring a longer bake that over-dries the surface"],
-    "fixes": ["Increase steam at the start of the bake (more water, cover longer, or add a preheated steaming pan)", "Pull the loaf at the correct internal temperature rather than by time alone", "Verify true oven temperature and adjust"]
+    "fixes": ["Increase steam at the start of the bake (more water, cover longer, or add a preheated steaming pan)", "Pull the loaf at the correct internal temperature rather than by time alone", "Verify true oven temperature and adjust"],
+    "article": "salt-steam-crust"
   },
   {
     "id": "dull-matte-crust",
@@ -157,7 +176,8 @@
     "fault": { "en": "Dull, matte crust", "de": "Matte, glanzlose Kruste", "es": "Corteza opaca, sin brillo", "fr": "Croûte terne, sans brillance" },
     "signs": ["Crust looks flat and chalky rather than glossy", "Lacks the glassy sheen of a well-steamed loaf"],
     "causes": ["Surface dried out before baking (proofed uncovered too long)", "Overfermented dough with too little surface sugar left for a glossy set", "Excessive top heat drying the surface before steam could gelatinize it"],
-    "fixes": ["Cover the dough during final proof to keep the surface from drying", "Ease back fermentation time slightly", "Ensure steam reaches the loaf's surface early in the bake, before strong top heat sets it"]
+    "fixes": ["Cover the dough during final proof to keep the surface from drying", "Ease back fermentation time slightly", "Ensure steam reaches the loaf's surface early in the bake, before strong top heat sets it"],
+    "article": "salt-steam-crust"
   },
   {
     "id": "stale-next-day",
@@ -165,7 +185,8 @@
     "fault": { "en": "Stale by the next day", "de": "Am nächsten Tag schon altbacken", "es": "Rancio al día siguiente", "fr": "Rassis dès le lendemain" },
     "signs": ["Crumb feels firm, dry or tough compared to the bake day", "Bread eats dry or dense even though nothing looks obviously wrong"],
     "causes": ["Starch retrogradation - amylose and amylopectin recrystallizing as the loaf cools and sits, not primarily water loss", "Storage at refrigerator temperature, which accelerates retrogradation versus room temperature", "Lean, low-fat formula with nothing to slow the process"],
-    "fixes": ["Store at room temperature, cut-side down or well wrapped, never in the fridge", "Freeze sliced bread if it won't be eaten within a couple of days - freezing halts staling far better than the fridge", "Refresh by toasting or a few minutes in a hot oven, which re-gelatinizes surface starch"]
+    "fixes": ["Store at room temperature, cut-side down or well wrapped, never in the fridge", "Freeze sliced bread if it won't be eaten within a couple of days - freezing halts staling far better than the fridge", "Refresh by toasting or a few minutes in a hot oven, which re-gelatinizes surface starch"],
+    "article": "salt-steam-crust"
   },
   {
     "id": "soft-crust-next-day",
@@ -173,6 +194,7 @@
     "fault": { "en": "Crust gone soft overnight", "de": "Kruste über Nacht weich geworden", "es": "La corteza se ablanda de un día para otro", "fr": "Croûte ramollie du jour au lendemain" },
     "signs": ["A crackly-crisp crust turns leathery or soft within hours of cooling", "Crust loses its crackle even though the loaf hasn't otherwise staled"],
     "causes": ["Moisture migrating from the moist interior crumb into the drier crust as the loaf sits", "Storing in a sealed plastic bag while the crust is still warm or moist", "Humid storage environment"],
-    "fixes": ["Cool completely on a rack before wrapping so trapped steam can escape first", "Store crusty breads in paper or a breathable bread bag rather than sealed plastic, if crust crispness matters more than crumb moisture", "Re-crisp in a hot oven for a few minutes before serving"]
+    "fixes": ["Cool completely on a rack before wrapping so trapped steam can escape first", "Store crusty breads in paper or a breathable bread bag rather than sealed plastic, if crust crispness matters more than crumb moisture", "Re-crisp in a hot oven for a few minutes before serving"],
+    "article": "salt-steam-crust"
   }
 ]

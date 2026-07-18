@@ -58,22 +58,27 @@ const faultsByStage = stages
  <h3 class="kicker">{t.school.stages[g.stage]}</h3>
  <div class="fault-grid">
  {g.faults.map((f) => (
- <details class="card fault">
- <summary>{f.fault[lang]}</summary>
- <div class="fault-body">
- {f.signs && f.signs.length > 0 && (
- <p>
- <strong>{t.school.signs}:</strong> {f.signs.join(' · ')}
- </p>
- )}
- <p>
- <strong>{t.school.causes}:</strong> {f.causes.join(' · ')}
- </p>
- <p>
- <strong>{t.school.fixes}:</strong> {f.fixes.join(' · ')}
- </p>
- </div>
- </details>
+  <details class="card fault">
+  <summary>{f.fault[lang]}</summary>
+  <div class="fault-body">
+  {f.signs && f.signs.length > 0 && (
+  <p>
+  <strong>{t.school.signs}:</strong> {f.signs.join(' · ')}
+  </p>
+  )}
+  <p>
+  <strong>{t.school.causes}:</strong> {f.causes.join(' · ')}
+  </p>
+  <p>
+  <strong>{t.school.fixes}:</strong> {f.fixes.join(' · ')}
+  </p>
+  {f.article && (
+  <p>
+  <a href={withBase(`/${lang}/school/${f.article}/`)}>{t.school.readMore}</a>
+  </p>
+  )}
+  </div>
+  </details>
  ))}
  </div>
  </section>
