@@ -15,6 +15,12 @@ const t = getDict(lang);
 const recipes = await getAllRecipes();
 const stats = computeStats(recipes.map((r) => r.data));
 
+// Deterministic bread of the day: day number at build time, modulo the recipe
+// count. Stable within a day, no server needed, no per-language drift.
+const buildDay = Math.floor(Date.now() / 86_400_000);
+const breadOfDay = recipes.length > 0 ? recipes[buildDay % recipes.length] : recipes[0];
+const breadOfDayEntry = breadOfDay ? toIndexEntry(breadOfDay.data, lang) : null;
+
 const featuredSlugs = ['country-sourdough', 'baguette-tradition', 'vollkornbrot'];
 const featured = featuredSlugs
   .map((s) => recipes.find((r) => r.data.slug === s))
@@ -118,12 +124,19 @@ const labHref = withBase(`/${lang}/lab/`);
  }
  </section>
 
- <section class="wrap" style="margin-top: clamp(40px, 7vw, 80px);">
- <p class="kicker">{t.home.featured}</p>
- <div class="card-grid stagger">
- {featuredEntries.map((e) => <RecipeCard e={e} lang={lang} t={t} />)}
- </div>
- </section>
+  <section class="wrap bread-of-day" style="margin-top: clamp(40px, 7vw, 80px);">
+  <p class="kicker">{t.home.breadOfDay}</p>
+  <div class="card-grid stagger">
+  {breadOfDayEntry && <RecipeCard e={breadOfDayEntry} lang={lang} t={t} />}
+  </div>
+  </section>
+
+  <section class="wrap" style="margin-top: clamp(40px, 7vw, 80px);">
+  <p class="kicker">{t.home.featured}</p>
+  <div class="card-grid stagger">
+  {featuredEntries.map((e) => <RecipeCard e={e} lang={lang} t={t} />)}
+  </div>
+  </section>
 </Layout>
 
 <style>

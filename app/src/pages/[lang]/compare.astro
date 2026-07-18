@@ -1,0 +1,25 @@
+---
+import Layout from '../../components/Layout.astro';
+import Compare from '../../components/react/Compare';
+import { getDict, withBase } from '../../i18n';
+import { LANGS, type Lang } from '../../lib/taxonomy';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = getDict(lang);
+const indexUrl = withBase(`/${lang}/breads-index.json`);
+---
+
+<Layout lang={lang} title={t.compare.title} description={t.compare.lead} current="atlas">
+  <div class="wrap" style="padding-block: clamp(28px, 4vw, 48px) 0;">
+    <p class="kicker">{t.nav.atlas}</p>
+    <h1>{t.compare.title}</h1>
+    <p class="lead">{t.compare.lead}</p>
+  </div>
+  <div class="wrap" style="margin-top: 22px;">
+    <Compare client:load indexUrl={indexUrl} lang={lang} t={t} />
+  </div>
+</Layout>

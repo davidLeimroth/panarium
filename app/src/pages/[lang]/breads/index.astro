@@ -14,12 +14,17 @@ const indexUrl = withBase(`/${lang}/breads-index.json`);
 ---
 
 <Layout lang={lang} title={t.search.title} description={t.meta.atlas} current="atlas">
- <div class="wrap" style="padding-block: clamp(28px, 4vw, 48px) 0;">
- <p class="kicker">{t.nav.atlas}</p>
- <h1>{t.search.title}</h1>
- <p class="lead">{t.search.lead}</p>
- </div>
- <div class="wrap" style="margin-top: 18px;">
- <SearchExplorer client:load indexUrl={indexUrl} lang={lang} t={t} />
- </div>
+  <div class="wrap" style="padding-block: clamp(28px, 4vw, 48px) 0;">
+  <p class="kicker">{t.nav.atlas}</p>
+  <h1>{t.search.title}</h1>
+  <p class="lead">{t.search.lead}</p>
+  <p style="margin-top: 8px;">
+  <a class="compare-link" href={withBase(`/${lang}/compare/`)}>
+  ⇄ {t.compare.title}
+  </a>
+  </p>
+  </div>
+  <div class="wrap" style="margin-top: 18px;">
+  <SearchExplorer client:load indexUrl={indexUrl} lang={lang} t={t} />
+  </div>
 </Layout>
