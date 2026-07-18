@@ -72,9 +72,50 @@ for (const r of recipes) {
   const fam = r.family;
   (families[fam] ??= []).push(r);
 }
+
+// Batters (pourable) and pastes (mixed, high-rye/starch) obey different physics
+// than kneaded doughs, so they would distort the hydration band and the fitted
+// relationships.
+//
+// Hydration is also only comparable between doughs built on gluten grains. A
+// masa, masarepa, potato or cassava base absorbs several times the water of
+// wheat flour, so a corn tortilla reads as 167% while handling like a stiff
+// dough. Those are excluded from the hydration statistics too, even though they
+// are perfectly ordinary doughs to work with.
+const GLUTEN_GRAINS = new Set([
+  'wheat-white',
+  'wheat-whole',
+  'durum',
+  'rye',
+  'rye-whole',
+  'spelt',
+  'spelt-whole',
+  'einkorn',
+  'emmer',
+  'khorasan',
+  'barley',
+]);
+const glutenShare = (r) =>
+  (r.formula?.flours ?? [])
+    .filter((f) => GLUTEN_GRAINS.has(String(f.type)))
+    .reduce((a, f) => a + f.pct, 0);
+
+const isBatterOrPaste = (r) => r.doughType === 'batter' || r.doughType === 'paste';
+const isNonGlutenBasis = (r) => glutenShare(r) < 50;
+const isExcluded = (r) => isBatterOrPaste(r) || isNonGlutenBasis(r);
+const excluded = {
+  batter: recipes.filter((r) => r.doughType === 'batter').length,
+  paste: recipes.filter((r) => r.doughType === 'paste').length,
+  nonGlutenBasis: recipes.filter((r) => !isBatterOrPaste(r) && isNonGlutenBasis(r)).length,
+};
+
 const byFamily = Object.entries(families)
   .map(([family, rs]) => {
-    const hyd = rs.map((r) => r.formula?.hydrationPct).filter((x) => typeof x === 'number');
+    // hydration percentiles use only kneaded/shapeable doughs
+    const hyd = rs
+      .filter((r) => !isExcluded(r))
+      .map((r) => r.formula?.hydrationPct)
+      .filter((x) => typeof x === 'number');
     const salt = rs.map((r) => r.formula?.saltPct).filter((x) => typeof x === 'number');
     const temp = rs.map((r) => r.bake?.tempC).filter((x) => typeof x === 'number');
     // report a robust 10th / median / 90th percentile band, not raw min/max
@@ -92,8 +133,10 @@ const byFamily = Object.entries(families)
   })
   .sort((a, b) => b.n - a.n);
 
-// fit 1: hydration vs wholegrain share (wheat-family breads, rye excluded)
+// fit 1: hydration vs wholegrain share (wheat-family breads, rye excluded;
+// batters and pastes excluded because their hydration means something else)
 const hydVsWhole = recipes
+  .filter((r) => !isExcluded(r))
   .filter((r) => {
     const rye = (r.formula?.flours ?? [])
       .filter((f) => f.type === 'rye' || f.type === 'rye-whole')
@@ -103,8 +146,10 @@ const hydVsWhole = recipes
   .map((r) => [wholegrainShare(r), r.formula.hydrationPct]);
 const f1 = fit(hydVsWhole);
 
-// fit 2: bake time vs piece weight (oven-baked lean-ish breads)
+// fit 2: bake time vs piece weight (oven-baked lean-ish doughs; batters/pastes
+// bake on a different curve and would flatten the slope)
 const bakeVsWeight = recipes
+  .filter((r) => !isExcluded(r))
   .filter((r) => typeof r.time?.bakeMin === 'number' && typeof r.yield?.pieceGrams === 'number' && r.yield.pieceGrams < 2000)
   .map((r) => [r.yield.pieceGrams, r.time.bakeMin]);
 const f2 = fit(bakeVsWeight);
@@ -151,9 +196,9 @@ fits.push({
   n: allSalt.length,
 });
 
-const out = { generatedFrom: recipes.length, byFamily, fits };
+const out = { generatedFrom: recipes.length, excluded, byFamily, fits };
 writeFileSync(join(root, 'data/science/derived-formulas.json'), `${JSON.stringify(out, null, 2)}\n`);
 console.log(
-  `derive-formulas: ${recipes.length} recipes, ${byFamily.length} families, ${fits.length} fits`,
+  `derive-formulas: ${recipes.length} recipes, ${byFamily.length} families, ${fits.length} fits (excluded ${excluded.batter} batters, ${excluded.paste} pastes from hydration stats and fits)`,
 );
 for (const f of fits) console.log(`  ${f.expression}${f.r2 !== undefined ? ` (r2=${f.r2}, n=${f.n})` : ''}`);
