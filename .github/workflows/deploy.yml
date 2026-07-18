@@ -35,6 +35,8 @@ jobs:
         env:
           PAGES: '1'
         run: npm run build
+      - name: Disable Jekyll so _astro assets are served
+        run: touch app/dist/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
           path: app/dist
