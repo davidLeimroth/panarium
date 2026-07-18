@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Panarium, the living atlas of bread">
+  <title>Panarium</title>
+  <desc>The living atlas of bread</desc>
+
+  <!-- Warm paper background -->
+  <rect width="1200" height="630" fill="#f5eedf"/>
+
+  <!-- Soft horizontal rule running edge to edge, echoes the footer line -->
+  <line x1="0" y1="84" x2="1200" y2="84" stroke="#b4552d" stroke-width="2" opacity="0.18"/>
+  <line x1="0" y1="546" x2="1200" y2="546" stroke="#b4552d" stroke-width="2" opacity="0.18"/>
+
+  <!-- Bread silhouette, drawn with the same palette as crumb.ts (crust #b4552d, crumb #f3e2bd) -->
+  <g transform="translate(150 165) scale(1.5)">
+    <!-- Crumb fill -->
+    <path
+      d="M180 30 C 232 30 270 78 270 132 C 270 188 232 218 180 218 C 128 218 90 188 90 132 C 90 78 128 30 180 30 Z"
+      fill="#f3e2bd"/>
+    <!-- Crumb holes inside the loaf -->
+    <g fill="#3b2712" opacity="0.32">
+      <ellipse cx="138" cy="98" rx="9" ry="6" transform="rotate(20 138 98)"/>
+      <ellipse cx="178" cy="118" rx="14" ry="9" transform="rotate(-12 178 118)"/>
+      <ellipse cx="226" cy="100" rx="7" ry="5" transform="rotate(35 226 100)"/>
+      <ellipse cx="208" cy="156" rx="11" ry="7" transform="rotate(8 208 156)"/>
+      <ellipse cx="158" cy="172" rx="9" ry="6" transform="rotate(-22 158 172)"/>
+      <ellipse cx="244" cy="148" rx="6" ry="4" transform="rotate(40 244 148)"/>
+      <ellipse cx="120" cy="138" rx="5" ry="4" transform="rotate(-30 120 138)"/>
+      <ellipse cx="190" cy="184" rx="13" ry="8" transform="rotate(15 190 184)"/>
+    </g>
+    <!-- Crust outline -->
+    <path
+      d="M180 30 C 232 30 270 78 270 132 C 270 188 232 218 180 218 C 128 218 90 188 90 132 C 90 78 128 30 180 30 Z"
+      fill="none" stroke="#b4552d" stroke-width="9" stroke-linejoin="round"/>
+    <!-- Score marks on the crust -->
+    <path d="M128 70 Q 180 44 232 70 M132 96 Q 180 74 228 96"
+      fill="none" stroke="#b4552d" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+  </g>
+
+  <!-- Wordmark + tagline column -->
+  <g font-family="'Georgia', 'Times New Roman', 'Source Serif 4', serif" text-rendering="geometricPrecision">
+    <text x="612" y="300" font-size="128" font-weight="700" fill="#3b2712" letter-spacing="-2">Panarium</text>
+    <text x="618" y="372" font-size="38" font-style="italic" fill="#b4552d">The living atlas of bread</text>
+  </g>
+
+  <!-- Small crust dot motif under the tagline -->
+  <circle cx="780" cy="420" r="6" fill="#b4552d"/>
+</svg>

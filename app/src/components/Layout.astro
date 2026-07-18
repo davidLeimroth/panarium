@@ -12,11 +12,26 @@ interface Props {
   title: string;
   description: string;
   current?: 'home' | 'atlas' | 'lab' | 'school' | 'finder' | 'about';
+  image?: string;
 }
 
-const { lang, title, description, current = 'home' } = Astro.props;
+const LOCALES: Record<Lang, string> = {
+  en: 'en_US',
+  de: 'de_DE',
+  es: 'es_ES',
+  fr: 'fr_FR',
+};
+
+const { lang, title, description, current = 'home', image = '/og-default.svg' } = Astro.props;
 const t = getDict(lang);
 const path = Astro.url.pathname;
+
+// Absolute canonical URL for the current page, correct under the /panarium base.
+// Astro.url.pathname already includes the base, and Astro.site is the origin.
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
+const imageURL = new URL(withBase(image), Astro.site).href;
+const ogLocale = LOCALES[lang];
+const fullTitle = title === t.siteName ? title : `${title} · ${t.siteName}`;
 
 const navItems = [
   { key: 'atlas', href: withBase(`/${lang}/breads/`), label: t.nav.atlas },
@@ -28,13 +43,25 @@ const navItems = [
 const homeHref = withBase(`/${lang}/`);
 ---
 
-<html lang={lang}>
+ <html lang={lang}>
  <head>
  <meta charset="utf-8" />
  <meta name="viewport" content="width=device-width, initial-scale=1" />
- <title>{title === t.siteName ? title : `${title} · ${t.siteName}`}</title>
+ <title>{fullTitle}</title>
  <meta name="description" content={description} />
+ <link rel="canonical" href={canonicalURL} />
  <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+ <meta property="og:type" content="website" />
+ <meta property="og:site_name" content={t.siteName} />
+ <meta property="og:locale" content={ogLocale} />
+ <meta property="og:title" content={title} />
+ <meta property="og:description" content={description} />
+ <meta property="og:url" content={canonicalURL} />
+ <meta property="og:image" content={imageURL} />
+ <meta name="twitter:card" content="summary_large_image" />
+ <meta name="twitter:title" content={title} />
+ <meta name="twitter:description" content={description} />
+ <meta name="twitter:image" content={imageURL} />
  {LANGS.map((l) => (
  <link rel="alternate" hreflang={l} href={switchLangPath(path, l)} />
  ))}

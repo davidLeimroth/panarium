@@ -1,5 +1,6 @@
 // @ts-check
 import react from '@astrojs/react';
+import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 
 // The GitHub Pages build sets PAGES=1 so the site is emitted under /panarium/.
@@ -9,7 +10,7 @@ const onPages = process.env.PAGES === '1';
 export default defineConfig({
   site: onPages ? 'https://davidleimroth.github.io' : 'https://panarium.example.com',
   base: onPages ? '/panarium' : undefined,
-  integrations: [react()],
+  integrations: [react(), sitemap()],
   devToolbar: { enabled: false },
   server: { port: Number(process.env.PORT) || 4321 },
 });
