@@ -1322,3 +1322,71 @@ label.field .lbl {
 .bread-of-day .kicker {
   margin-bottom: 0;
 }
+
+/* ————— collapsible header on narrow screens ————— */
+
+/* Above the breakpoint the wrapper is transparent for layout, so the bar keeps
+   its original arrangement: logo, nav, then the language switcher and tools
+   pushed to the right. No script is involved on desktop. */
+.head-panel {
+  display: contents;
+}
+
+.menu-toggle {
+  display: none;
+}
+
+@media (min-width: 761px) {
+  /* Reproduce the original spacing exactly: the language switcher used to sit
+     inside .head-tools with a 12px gap to the theme toggle, so tighten the bar
+     gap to 12px and give the nav its own left margin plus the auto push. */
+  .site-head .bar {
+    gap: 12px;
+  }
+  .site-head nav {
+    margin-left: clamp(2px, 2vw, 22px);
+    margin-right: auto;
+  }
+  .site-head .head-tools {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  .site-head .bar {
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-block: 8px;
+  }
+  .menu-toggle {
+    display: grid;
+  }
+  .head-panel {
+    display: none;
+    order: 10;
+    width: 100%;
+    flex-basis: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
+    padding: 8px 0 4px;
+    border-top: 1px solid var(--line-soft);
+  }
+  .head-panel.open {
+    display: flex;
+  }
+  .head-panel nav {
+    flex-direction: column;
+    gap: 0;
+  }
+  .head-panel nav a {
+    padding-block: 10px;
+    border-bottom: none;
+  }
+  .head-panel .lang-switch {
+    padding-top: 4px;
+  }
+  .wordmark {
+    font-size: 1.15rem;
+  }
+}

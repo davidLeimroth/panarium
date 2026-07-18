@@ -369,6 +369,7 @@ export const fr: Dict = {
     close: 'Fermer',
     language: 'Langue',
     theme: 'Thème',
+    menu: 'Menu',
     notFoundTitle: 'Ce pâton n’a jamais levé.',
     notFoundText: 'La page que vous cherchez n’existe pas, l’atlas, si.',
   },

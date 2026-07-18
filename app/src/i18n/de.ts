@@ -365,6 +365,7 @@ export const de: Dict = {
     close: 'Schließen',
     language: 'Sprache',
     theme: 'Darstellung',
+    menu: 'Menü',
     notFoundTitle: 'Dieser Laib ist nie aufgegangen.',
     notFoundText: 'Die gesuchte Seite existiert nicht, der Atlas schon.',
   },

@@ -369,6 +369,7 @@ export const es: Dict = {
     close: 'Cerrar',
     language: 'Idioma',
     theme: 'Tema',
+    menu: 'Menú',
     notFoundTitle: 'Esta hogaza nunca fermentó.',
     notFoundText: 'La página que buscas no existe; el atlas, sí.',
   },

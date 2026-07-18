@@ -352,6 +352,7 @@ export const en = {
     close: 'Close',
     language: 'Language',
     theme: 'Theme',
+    menu: 'Menu',
     notFoundTitle: 'This loaf never proofed.',
     notFoundText: 'The page you’re looking for doesn’t exist, the atlas does.',
   },
