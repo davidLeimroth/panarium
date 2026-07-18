@@ -126,32 +126,60 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Dissolve yeast in warm water."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Dissolve yeast in warm water."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Stir in the buttermilk, both flours, ground caraway, salt and honey."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir in the buttermilk, both flours, ground caraway, salt and honey."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 5-8 minutes to build the gluten."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 5-8 minutes to build the gluten."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Let stand about an hour in a warm spot."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Let stand about an hour in a warm spot."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in two, flatten each into a rectangle and fold letter-style to build tension."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in two, flatten each into a rectangle and fold letter-style to build tension."
+      }
     },
     {
-      "title": "Pan and proof",
-      "summary": "Place seam-down in greased pans, poke the tops, brush with milk, and proof about 40 minutes."
+      "title": {
+        "en": "Pan and proof"
+      },
+      "summary": {
+        "en": "Place seam-down in greased pans, poke the tops, brush with milk, and proof about 40 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until golden, 30-40 minutes, then cool on a rack."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until golden, 30-40 minutes, then cool on a rack."
+      }
     }
   ],
   "source": {

@@ -164,32 +164,60 @@
   ],
   "method": [
     {
-      "title": "Reduce the beer",
-      "summary": "Bring the beer to a boil and reduce by roughly half; cool to room temperature."
+      "title": {
+        "en": "Reduce the beer"
+      },
+      "summary": {
+        "en": "Bring the beer to a boil and reduce by roughly half; cool to room temperature."
+      }
     },
     {
-      "title": "Bloom the yeast",
-      "summary": "Crumble yeast into the cooled beer along with the oil and syrup."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Crumble yeast into the cooled beer along with the oil and syrup."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Melt butter with the ginger, cloves, orange peel, cardamom and salt, cool slightly, then stir in; add the raisins and work in the rye flour to a soft, elastic dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Melt butter with the ginger, cloves, orange peel, cardamom and salt, cool slightly, then stir in; add the raisins and work in the rye flour to a soft, elastic dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let double in size, about an hour."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let double in size, about an hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in two and shape into oblong loaves on a lined tray."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in two and shape into oblong loaves on a lined tray."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Cover and rest about an hour."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Cover and rest about an hour."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at a moderate temperature, then lower the heat and finish until deeply colored, about 50 minutes total."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at a moderate temperature, then lower the heat and finish until deeply colored, about 50 minutes total."
+      }
     }
   ],
   "source": {

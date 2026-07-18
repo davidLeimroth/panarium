@@ -122,28 +122,52 @@
   ],
   "method": [
     {
-      "title": "Mix without salt",
-      "summary": "Combine both flours, water, malt and the refreshed starter into a shaggy dough, working in the olive oil last. No salt goes in at any stage."
+      "title": {
+        "en": "Mix without salt"
+      },
+      "summary": {
+        "en": "Combine both flours, water, malt and the refreshed starter into a shaggy dough, working in the olive oil last. No salt goes in at any stage."
+      }
     },
     {
-      "title": "Short rest",
-      "summary": "Cover and rest 20 minutes to relax the dough before building strength."
+      "title": {
+        "en": "Short rest"
+      },
+      "summary": {
+        "en": "Cover and rest 20 minutes to relax the dough before building strength."
+      }
     },
     {
-      "title": "Three folds",
-      "summary": "Give the dough a stretch and fold three times, spaced 40 minutes apart, to develop structure without heavy kneading."
+      "title": {
+        "en": "Three folds"
+      },
+      "summary": {
+        "en": "Give the dough a stretch and fold three times, spaced 40 minutes apart, to develop structure without heavy kneading."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Shape into an oval loaf, set seam-down in a floured cloth or banneton, and let it double in size."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Shape into an oval loaf, set seam-down in a floured cloth or banneton, and let it double in size."
+      }
     },
     {
-      "title": "Step the oven down",
-      "summary": "Bake starting hot with steam, then lower the temperature twice as the crust colors, finishing around 180°C, 40-45 minutes total."
+      "title": {
+        "en": "Step the oven down"
+      },
+      "summary": {
+        "en": "Bake starting hot with steam, then lower the temperature twice as the crust colors, finishing around 180°C, 40-45 minutes total."
+      }
     },
     {
-      "title": "Cool slowly",
-      "summary": "Cool completely with the oven door left ajar so the thick crust stays crackling rather than going soft."
+      "title": {
+        "en": "Cool slowly"
+      },
+      "summary": {
+        "en": "Cool completely with the oven door left ajar so the thick crust stays crackling rather than going soft."
+      }
     }
   ],
   "source": {

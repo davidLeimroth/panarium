@@ -113,32 +113,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Stir starter, water and honey together, then work in the flour and salt to a shaggy dough; rest about an hour."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir starter, water and honey together, then work in the flour and salt to a shaggy dough; rest about an hour."
+      }
     },
     {
-      "title": "Build strength, add oats",
-      "summary": "Perform four stretch-and-fold sets 15-30 minutes apart, folding in the rolled oats during the second and third sets."
+      "title": {
+        "en": "Build strength, add oats"
+      },
+      "summary": {
+        "en": "Perform four stretch-and-fold sets 15-30 minutes apart, folding in the rolled oats during the second and third sets."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Leave at room temperature until roughly doubled, about 4-6 hours total."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Leave at room temperature until roughly doubled, about 4-6 hours total."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into a bâtard and roll the surface in dry rolled oats for a rustic, toasted-looking crust."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into a bâtard and roll the surface in dry rolled oats for a rustic, toasted-looking crust."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Proof seam-side-up in a floured banneton in the refrigerator anywhere from 5 to 36 hours, to taste."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Proof seam-side-up in a floured banneton in the refrigerator anywhere from 5 to 36 hours, to taste."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: about 30 minutes covered, then 10-15 minutes uncovered until golden brown."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: about 30 minutes covered, then 10-15 minutes uncovered until golden brown."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest on a rack until fully cool before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest on a rack until fully cool before slicing."
+      }
     }
   ],
   "source": {

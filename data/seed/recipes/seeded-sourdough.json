@@ -146,36 +146,68 @@
   ],
   "method": [
     {
-      "title": "Build the levain and soak seeds",
-      "summary": "Mix a small levain of bread and whole wheat flour, starter and water; ripen about 5 hours. Meanwhile soak flax, sesame and fennel seeds in hot water."
+      "title": {
+        "en": "Build the levain and soak seeds"
+      },
+      "summary": {
+        "en": "Mix a small levain of bread and whole wheat flour, starter and water; ripen about 5 hours. Meanwhile soak flax, sesame and fennel seeds in hot water."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the bread flour, semolina, whole wheat flour and water; rest 1 hour."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the bread flour, semolina, whole wheat flour and water; rest 1 hour."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Slap-and-fold the autolysed dough with the ripe levain and salt for a few minutes."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Slap-and-fold the autolysed dough with the ripe levain and salt for a few minutes."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Over about 3.5 hours, give four stretch-and-fold sets 30 minutes apart, working in the drained seed soaker, raw sunflower seeds and lemon zest during the first set."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Over about 3.5 hours, give four stretch-and-fold sets 30 minutes apart, working in the drained seed soaker, raw sunflower seeds and lemon zest during the first set."
+      }
     },
     {
-      "title": "Shape and coat",
-      "summary": "Divide, preshape, rest 30 minutes, then shape into a boule or bâtard and roll the surface in the reserved seed mix."
+      "title": {
+        "en": "Shape and coat"
+      },
+      "summary": {
+        "en": "Divide, preshape, rest 30 minutes, then shape into a boule or bâtard and roll the surface in the reserved seed mix."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Proof seam-side-up in the refrigerator overnight, about 14-15 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Proof seam-side-up in the refrigerator overnight, about 14-15 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least an hour before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least an hour before slicing."
+      }
     }
   ],
   "source": {

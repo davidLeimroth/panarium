@@ -94,28 +94,52 @@
   ],
   "method": [
     {
-      "title": "Soak",
-      "summary": "Rinse hard red wheat berries, cover with double their volume of water and soak overnight in a jar."
+      "title": {
+        "en": "Soak"
+      },
+      "summary": {
+        "en": "Rinse hard red wheat berries, cover with double their volume of water and soak overnight in a jar."
+      }
     },
     {
-      "title": "Sprout",
-      "summary": "Drain and tilt the jar to drain fully; rinse and drain every 12 hours for 2-3 days until each berry grows a tail about twice its own length and tastes faintly sweet."
+      "title": {
+        "en": "Sprout"
+      },
+      "summary": {
+        "en": "Drain and tilt the jar to drain fully; rinse and drain every 12 hours for 2-3 days until each berry grows a tail about twice its own length and tastes faintly sweet."
+      }
     },
     {
-      "title": "Grind",
-      "summary": "Give the sprouts a final rinse, then grind them in a meat grinder, food processor or grain mill into a sticky, mottled paste."
+      "title": {
+        "en": "Grind"
+      },
+      "summary": {
+        "en": "Give the sprouts a final rinse, then grind them in a meat grinder, food processor or grain mill into a sticky, mottled paste."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Knead briefly with wet or oiled hands and press into flattened patties on a lined baking sheet."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Knead briefly with wet or oiled hands and press into flattened patties on a lined baking sheet."
+      }
     },
     {
-      "title": "Bake low and slow",
-      "summary": "Bake at about 120°C for 2.5 to 3.5 hours until firm but not hard, which keeps more nutrients than a hot oven would."
+      "title": {
+        "en": "Bake low and slow"
+      },
+      "summary": {
+        "en": "Bake at about 120°C for 2.5 to 3.5 hours until firm but not hard, which keeps more nutrients than a hot oven would."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool completely on a rack before slicing; the crumb is dense and cake-like, not airy."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool completely on a rack before slicing; the crumb is dense and cake-like, not airy."
+      }
     }
   ],
   "source": {

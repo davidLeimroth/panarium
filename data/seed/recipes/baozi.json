@@ -156,28 +156,52 @@
   ],
   "method": [
     {
-      "title": "Mix the dough",
-      "summary": "Combine flour, yeast, sugar and oil, then work in water to a smooth dough; let it rise until doubled, 45 minutes to an hour."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine flour, yeast, sugar and oil, then work in water to a smooth dough; let it rise until doubled, 45 minutes to an hour."
+      }
     },
     {
-      "title": "Make the filling",
-      "summary": "Squeeze excess water from the cabbage, then mix it with ground pork, ginger, soy sauces, and a little salt and sugar."
+      "title": {
+        "en": "Make the filling"
+      },
+      "summary": {
+        "en": "Squeeze excess water from the cabbage, then mix it with ground pork, ginger, soy sauces, and a little salt and sugar."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Divide the risen dough into pieces and roll each into a wrapper with a thick center and thin edges."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Divide the risen dough into pieces and roll each into a wrapper with a thick center and thin edges."
+      }
     },
     {
-      "title": "Fill and pleat",
-      "summary": "Spoon filling into the center and pleat the edges closed with a twisting motion, gathering them at the top."
+      "title": {
+        "en": "Fill and pleat"
+      },
+      "summary": {
+        "en": "Spoon filling into the center and pleat the edges closed with a twisting motion, gathering them at the top."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Let the shaped buns rest 20-30 minutes before cooking."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Let the shaped buns rest 20-30 minutes before cooking."
+      }
     },
     {
-      "title": "Steam",
-      "summary": "Steam over boiling water for about 18 minutes, then let the buns rest briefly off the heat before lifting the lid."
+      "title": {
+        "en": "Steam"
+      },
+      "summary": {
+        "en": "Steam over boiling water for about 18 minutes, then let the buns rest briefly off the heat before lifting the lid."
+      }
     }
   ],
   "source": {

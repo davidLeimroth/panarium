@@ -100,32 +100,60 @@
   ],
   "method": [
     {
-      "title": "Mix masa",
-      "summary": "Knead masa harina with warm water (and salt if using) about 2 minutes to a smooth, moist dough with the texture of soft playdough."
+      "title": {
+        "en": "Mix masa"
+      },
+      "summary": {
+        "en": "Knead masa harina with warm water (and salt if using) about 2 minutes to a smooth, moist dough with the texture of soft playdough."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover and let the masa rest 15-20 minutes so the flour fully hydrates."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover and let the masa rest 15-20 minutes so the flour fully hydrates."
+      }
     },
     {
-      "title": "Portion",
-      "summary": "Divide into small, even balls."
+      "title": {
+        "en": "Portion"
+      },
+      "summary": {
+        "en": "Divide into small, even balls."
+      }
     },
     {
-      "title": "Press",
-      "summary": "Flatten each ball between sheets of plastic in a tortilla press (or by hand) into a thin round."
+      "title": {
+        "en": "Press"
+      },
+      "summary": {
+        "en": "Flatten each ball between sheets of plastic in a tortilla press (or by hand) into a thin round."
+      }
     },
     {
-      "title": "Griddle, first side",
-      "summary": "Lay on a hot dry comal about 30 seconds, until it releases easily."
+      "title": {
+        "en": "Griddle, first side"
+      },
+      "summary": {
+        "en": "Lay on a hot dry comal about 30 seconds, until it releases easily."
+      }
     },
     {
-      "title": "Flip twice",
-      "summary": "Cook the second side about 30 seconds, then flip back to the first side briefly until it puffs with steam."
+      "title": {
+        "en": "Flip twice"
+      },
+      "summary": {
+        "en": "Cook the second side about 30 seconds, then flip back to the first side briefly until it puffs with steam."
+      }
     },
     {
-      "title": "Keep warm",
-      "summary": "Stack in a cloth-lined basket to stay soft and pliable."
+      "title": {
+        "en": "Keep warm"
+      },
+      "summary": {
+        "en": "Stack in a cloth-lined basket to stay soft and pliable."
+      }
     }
   ],
   "source": {

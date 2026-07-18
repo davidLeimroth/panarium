@@ -115,28 +115,52 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "The evening before, mix a spoon of active starter with the rye flour and water; leave to ripen overnight at room temperature."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "The evening before, mix a spoon of active starter with the rye flour and water; leave to ripen overnight at room temperature."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "The next day, combine the T80 flour, water and salt with the ripe levain; knead by hand or machine until smooth."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "The next day, combine the T80 flour, water and salt with the ripe levain; knead by hand or machine until smooth."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Rest about 3 hours at room temperature, folding once partway through."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Rest about 3 hours at room temperature, folding once partway through."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into a tight round and set seam-up in a floured banneton."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into a tight round and set seam-up in a floured banneton."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let rise about 90 minutes until visibly puffy."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let rise about 90 minutes until visibly puffy."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Score, then bake hot with steam before easing the temperature down to finish through."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Score, then bake hot with steam before easing the temperature down to finish through."
+      }
     }
   ],
   "source": {

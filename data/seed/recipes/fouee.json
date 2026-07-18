@@ -123,28 +123,52 @@
   ],
   "method": [
     {
-      "title": "Quick starter",
-      "summary": "Mix a little flour, water, honey and yeast; let it bubble 15-20 minutes."
+      "title": {
+        "en": "Quick starter"
+      },
+      "summary": {
+        "en": "Mix a little flour, water, honey and yeast; let it bubble 15-20 minutes."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Add the remaining flours, salt and water; knead about 10 minutes to a firm, smooth dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Add the remaining flours, salt and water; knead about 10 minutes to a firm, smooth dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let rise 1 to 1.5 hours."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let rise 1 to 1.5 hours."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Divide into portions, shape into rounds, and let relax briefly."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Divide into portions, shape into rounds, and let relax briefly."
+      }
     },
     {
-      "title": "Roll thin",
-      "summary": "Roll each piece into a thin disc, about 5mm."
+      "title": {
+        "en": "Roll thin"
+      },
+      "summary": {
+        "en": "Roll each piece into a thin disc, about 5mm."
+      }
     },
     {
-      "title": "Bake and stuff",
-      "summary": "Bake very hot and fast until it puffs into a hollow pocket; split open immediately and fill with rillettes, garlic butter or goat cheese."
+      "title": {
+        "en": "Bake and stuff"
+      },
+      "summary": {
+        "en": "Bake very hot and fast until it puffs into a hollow pocket; split open immediately and fill with rillettes, garlic butter or goat cheese."
+      }
     }
   ],
   "source": {

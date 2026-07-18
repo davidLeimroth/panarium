@@ -128,32 +128,60 @@
   ],
   "method": [
     {
-      "title": "Scald the malt",
-      "summary": "Mix red rye malt with rye flour and pour over boiling water; hold warm to gelatinize and sweeten."
+      "title": {
+        "en": "Scald the malt"
+      },
+      "summary": {
+        "en": "Mix red rye malt with rye flour and pour over boiling water; hold warm to gelatinize and sweeten."
+      }
     },
     {
-      "title": "Build the sour",
-      "summary": "Feed a rye starter with flour and water; ferment 10-12 hours until active."
+      "title": {
+        "en": "Build the sour"
+      },
+      "summary": {
+        "en": "Feed a rye starter with flour and water; ferment 10-12 hours until active."
+      }
     },
     {
-      "title": "Compound sponge",
-      "summary": "Combine the sour, the cooled scald, honey, sugar and more rye flour; ferment again overnight."
+      "title": {
+        "en": "Compound sponge"
+      },
+      "summary": {
+        "en": "Combine the sour, the cooled scald, honey, sugar and more rye flour; ferment again overnight."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Work in the remaining rye and wheat flour, salt and water to a dense, cohesive dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Work in the remaining rye and wheat flour, salt and water to a dense, cohesive dough."
+      }
     },
     {
-      "title": "Pan and proof",
-      "summary": "Shape into a loaf pan and proof 2-3 hours at room temperature."
+      "title": {
+        "en": "Pan and proof"
+      },
+      "summary": {
+        "en": "Shape into a loaf pan and proof 2-3 hours at room temperature."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot, stepping the oven down partway through, then brush with a starch glaze for shine."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot, stepping the oven down partway through, then brush with a starch glaze for shine."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cool fully and rest at least 24 hours before slicing."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cool fully and rest at least 24 hours before slicing."
+      }
     }
   ],
   "source": {

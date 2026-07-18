@@ -120,28 +120,52 @@
   ],
   "method": [
     {
-      "title": "Mix a hard dough",
-      "summary": "Combine flour, water, lard, olive oil, lievito madre, malt and salt in a fork-blade mixer at low speed for 15-20 minutes; the goal is a firm, cool 'pasta dura' that never overheats."
+      "title": {
+        "en": "Mix a hard dough"
+      },
+      "summary": {
+        "en": "Combine flour, water, lard, olive oil, lievito madre, malt and salt in a fork-blade mixer at low speed for 15-20 minutes; the goal is a firm, cool 'pasta dura' that never overheats."
+      }
     },
     {
-      "title": "Laminate",
-      "summary": "Pass the dough repeatedly, 15-20 times, through a cylinder or rolling pin to refine and strengthen it."
+      "title": {
+        "en": "Laminate"
+      },
+      "summary": {
+        "en": "Pass the dough repeatedly, 15-20 times, through a cylinder or rolling pin to refine and strengthen it."
+      }
     },
     {
-      "title": "Rest briefly",
-      "summary": "Let the dough relax about 30 minutes before shaping."
+      "title": {
+        "en": "Rest briefly"
+      },
+      "summary": {
+        "en": "Let the dough relax about 30 minutes before shaping."
+      }
     },
     {
-      "title": "Cut and twist",
-      "summary": "Cut into strips, twist each into the traditional four-horned shape, and join two halves at a central knot to form one coppia."
+      "title": {
+        "en": "Cut and twist"
+      },
+      "summary": {
+        "en": "Cut into strips, twist each into the traditional four-horned shape, and join two halves at a central knot to form one coppia."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let the shaped pieces rise on a tray in a warm spot for 90-120 minutes."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let the shaped pieces rise on a tray in a warm spot for 90-120 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 220°C for about 20-25 minutes until deeply golden with the traditional blonde striations."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 220°C for about 20-25 minutes until deeply golden with the traditional blonde striations."
+      }
     }
   ],
   "source": {

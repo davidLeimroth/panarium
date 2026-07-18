@@ -115,32 +115,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, lard, sugar, salt, yeast and water into a soft dough and let it rest 15 minutes before kneading."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, lard, sugar, salt, yeast and water into a soft dough and let it rest 15 minutes before kneading."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead until tacky and springy, 5-8 minutes."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead until tacky and springy, 5-8 minutes."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough double in size, about an hour."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough double in size, about an hour."
+      }
     },
     {
-      "title": "Preshape",
-      "summary": "Divide into six pieces, roll into cylinders, and let them rest 10 minutes."
+      "title": {
+        "en": "Preshape"
+      },
+      "summary": {
+        "en": "Divide into six pieces, roll into cylinders, and let them rest 10 minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Roll each piece into a six-inch torpedo with tapered, pointed ends."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Roll each piece into a six-inch torpedo with tapered, pointed ends."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Proof until puffy, 30-45 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Proof until puffy, 30-45 minutes."
+      }
     },
     {
-      "title": "Score and bake",
-      "summary": "Cut a line down the center of each roll and bake hot with steam until deeply golden and crackling."
+      "title": {
+        "en": "Score and bake"
+      },
+      "summary": {
+        "en": "Cut a line down the center of each roll and bake hot with steam until deeply golden and crackling."
+      }
     }
   ],
   "source": {

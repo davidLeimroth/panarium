@@ -118,32 +118,60 @@
   ],
   "method": [
     {
-      "title": "Mash",
-      "summary": "Rice hot cooked potatoes and mix with butter, cream and salt while still warm."
+      "title": {
+        "en": "Mash"
+      },
+      "summary": {
+        "en": "Rice hot cooked potatoes and mix with butter, cream and salt while still warm."
+      }
     },
     {
-      "title": "Chill",
-      "summary": "Refrigerate the potato mixture several hours or overnight until fully cold."
+      "title": {
+        "en": "Chill"
+      },
+      "summary": {
+        "en": "Refrigerate the potato mixture several hours or overnight until fully cold."
+      }
     },
     {
-      "title": "Add flour",
-      "summary": "Work in the flour and sugar just until combined."
+      "title": {
+        "en": "Add flour"
+      },
+      "summary": {
+        "en": "Work in the flour and sugar just until combined."
+      }
     },
     {
-      "title": "Portion and roll",
-      "summary": "Divide into small balls and roll each paper-thin into a 6-inch round."
+      "title": {
+        "en": "Portion and roll"
+      },
+      "summary": {
+        "en": "Divide into small balls and roll each paper-thin into a 6-inch round."
+      }
     },
     {
-      "title": "Cook",
-      "summary": "Griddle each round briefly until brown-speckled on both sides, about a minute per side."
+      "title": {
+        "en": "Cook"
+      },
+      "summary": {
+        "en": "Griddle each round briefly until brown-speckled on both sides, about a minute per side."
+      }
     },
     {
-      "title": "Cool and stack",
-      "summary": "Transfer to parchment, fanning the pieces so they don't stick together as they cool."
+      "title": {
+        "en": "Cool and stack"
+      },
+      "summary": {
+        "en": "Transfer to parchment, fanning the pieces so they don't stick together as they cool."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Fold or roll with butter, and optionally cinnamon sugar."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Fold or roll with butter, and optionally cinnamon sugar."
+      }
     }
   ],
   "source": {

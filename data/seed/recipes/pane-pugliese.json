@@ -108,28 +108,52 @@
   ],
   "method": [
     {
-      "title": "Autolyse",
-      "summary": "Mix the semolina with most of the water and rest 30-60 minutes so the coarse durum fully hydrates before any kneading starts."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Mix the semolina with most of the water and rest 30-60 minutes so the coarse durum fully hydrates before any kneading starts."
+      }
     },
     {
-      "title": "Add the starter",
-      "summary": "Work the active lievito madre into the rested dough until evenly combined."
+      "title": {
+        "en": "Add the starter"
+      },
+      "summary": {
+        "en": "Work the active lievito madre into the rested dough until evenly combined."
+      }
     },
     {
-      "title": "Knead and salt",
-      "summary": "Add the remaining water and salt (and the olive oil, if using) and knead 10-15 minutes to a smooth, extensible dough."
+      "title": {
+        "en": "Knead and salt"
+      },
+      "summary": {
+        "en": "Add the remaining water and salt (and the olive oil, if using) and knead 10-15 minutes to a smooth, extensible dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment 5-6 hours at room temperature, giving the dough two folds along the way to build strength."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment 5-6 hours at room temperature, giving the dough two folds along the way to build strength."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Shape into a round or oval loaf and proof 1-2 hours until it's grown by about half."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Shape into a round or oval loaf and proof 1-2 hours until it's grown by about half."
+      }
     },
     {
-      "title": "Score and bake",
-      "summary": "Score deeply and bake with steam at 220°C for 45-50 minutes until the crust is thick and deeply colored."
+      "title": {
+        "en": "Score and bake"
+      },
+      "summary": {
+        "en": "Score deeply and bake with steam at 220°C for 45-50 minutes until the crust is thick and deeply colored."
+      }
     }
   ],
   "source": {

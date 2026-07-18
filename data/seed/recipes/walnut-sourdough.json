@@ -117,36 +117,68 @@
   ],
   "method": [
     {
-      "title": "Toast the walnuts",
-      "summary": "Toast shelled walnuts until darkened and fragrant, about 8-10 minutes at 200°C; cool completely."
+      "title": {
+        "en": "Toast the walnuts"
+      },
+      "summary": {
+        "en": "Toast shelled walnuts until darkened and fragrant, about 8-10 minutes at 200°C; cool completely."
+      }
     },
     {
-      "title": "Build the leaven",
-      "summary": "The night before, mix starter with whole wheat flour and water; ferment overnight at room temperature."
+      "title": {
+        "en": "Build the leaven"
+      },
+      "summary": {
+        "en": "The night before, mix starter with whole wheat flour and water; ferment overnight at room temperature."
+      }
     },
     {
-      "title": "Mix and autolyse",
-      "summary": "Dissolve the leaven in most of the water, mix in both flours, and rest about 40 minutes."
+      "title": {
+        "en": "Mix and autolyse"
+      },
+      "summary": {
+        "en": "Dissolve the leaven in most of the water, mix in both flours, and rest about 40 minutes."
+      }
     },
     {
-      "title": "Add salt, then bulk ferment",
-      "summary": "Work in salt and reserved water, then give the dough six stretch-and-fold turns at 30-minute intervals, folding in the toasted walnuts partway through; leave undisturbed afterward for about 3 hours."
+      "title": {
+        "en": "Add salt, then bulk ferment"
+      },
+      "summary": {
+        "en": "Work in salt and reserved water, then give the dough six stretch-and-fold turns at 30-minute intervals, folding in the toasted walnuts partway through; leave undisturbed afterward for about 3 hours."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in two, preshape, bench-rest 40 minutes, then shape one loaf as a batard and one as a boule."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in two, preshape, bench-rest 40 minutes, then shape one loaf as a batard and one as a boule."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Retard overnight in the refrigerator, 16-18 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Retard overnight in the refrigerator, 16-18 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: about 25 minutes covered, then 35 minutes uncovered until deep brown."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: about 25 minutes covered, then 35 minutes uncovered until deep brown."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least an hour before slicing to reveal the walnut-flecked crumb."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least an hour before slicing to reveal the walnut-flecked crumb."
+      }
     }
   ],
   "source": {

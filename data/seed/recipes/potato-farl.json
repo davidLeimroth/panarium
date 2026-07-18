@@ -117,24 +117,44 @@
   ],
   "method": [
     {
-      "title": "Boil & rice",
-      "summary": "Boil peeled potato chunks until tender, drain well, and press through a sieve or ricer while still hot for a light, lump-free mash."
+      "title": {
+        "en": "Boil & rice"
+      },
+      "summary": {
+        "en": "Boil peeled potato chunks until tender, drain well, and press through a sieve or ricer while still hot for a light, lump-free mash."
+      }
     },
     {
-      "title": "Work in flour",
-      "summary": "Stir in half the butter, the salt and pepper, then work in the flour just until a soft dough comes together."
+      "title": {
+        "en": "Work in flour"
+      },
+      "summary": {
+        "en": "Stir in half the butter, the salt and pepper, then work in the flour just until a soft dough comes together."
+      }
     },
     {
-      "title": "Roll & cut",
-      "summary": "Pat the dough into an 8-inch disc on a floured surface and cut into wedges."
+      "title": {
+        "en": "Roll & cut"
+      },
+      "summary": {
+        "en": "Pat the dough into an 8-inch disc on a floured surface and cut into wedges."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Melt the remaining butter in a hot, dry frying pan and fry the wedges in batches until golden-brown and spotted, about 5 minutes a side."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Melt the remaining butter in a hot, dry frying pan and fry the wedges in batches until golden-brown and spotted, about 5 minutes a side."
+      }
     },
     {
-      "title": "Serve hot",
-      "summary": "Serve straight from the pan as part of a fry-up, or split and fry again the next day."
+      "title": {
+        "en": "Serve hot"
+      },
+      "summary": {
+        "en": "Serve straight from the pan as part of a fry-up, or split and fry again the next day."
+      }
     }
   ],
   "source": {

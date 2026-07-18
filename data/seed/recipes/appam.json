@@ -120,28 +120,52 @@
   ],
   "method": [
     {
-      "title": "Soak and grind",
-      "summary": "Soak rice for several hours, then grind fine with water; cook a portion of the ground batter into a soft porridge and blend it back in for body."
+      "title": {
+        "en": "Soak and grind"
+      },
+      "summary": {
+        "en": "Soak rice for several hours, then grind fine with water; cook a portion of the ground batter into a soft porridge and blend it back in for body."
+      }
     },
     {
-      "title": "Add coconut",
-      "summary": "Blend fresh coconut with water, strain, and stir the coconut milk into the rice batter along with sugar and salt."
+      "title": {
+        "en": "Add coconut"
+      },
+      "summary": {
+        "en": "Blend fresh coconut with water, strain, and stir the coconut milk into the rice batter along with sugar and salt."
+      }
     },
     {
-      "title": "Ferment",
-      "summary": "Stir in the yeast, cover, and let the batter rise 8 or more hours (overnight is easiest) until light and full of bubbles."
+      "title": {
+        "en": "Ferment"
+      },
+      "summary": {
+        "en": "Stir in the yeast, cover, and let the batter rise 8 or more hours (overnight is easiest) until light and full of bubbles."
+      }
     },
     {
-      "title": "Thin",
-      "summary": "Just before cooking, loosen the fermented batter with a little extra water or coconut milk to a thin, pourable consistency."
+      "title": {
+        "en": "Thin"
+      },
+      "summary": {
+        "en": "Just before cooking, loosen the fermented batter with a little extra water or coconut milk to a thin, pourable consistency."
+      }
     },
     {
-      "title": "Swirl and cook",
-      "summary": "Ladle batter into a hot, lightly oiled curved appam pan, swirling quickly to coat the sides thinly and leave a pool in the center."
+      "title": {
+        "en": "Swirl and cook"
+      },
+      "summary": {
+        "en": "Ladle batter into a hot, lightly oiled curved appam pan, swirling quickly to coat the sides thinly and leave a pool in the center."
+      }
     },
     {
-      "title": "Steam covered",
-      "summary": "Cover with a lid and cook a couple of minutes, until the lacy edges turn golden and the spongy center is set."
+      "title": {
+        "en": "Steam covered"
+      },
+      "summary": {
+        "en": "Cover with a lid and cook a couple of minutes, until the lacy edges turn golden and the spongy center is set."
+      }
     }
   ],
   "source": {

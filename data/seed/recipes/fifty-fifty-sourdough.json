@@ -111,36 +111,68 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter with whole wheat and bread flour and water; ripen about 3 hours."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter with whole wheat and bread flour and water; ripen about 3 hours."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the whole wheat and two bread flours with most of the water; rest 2 hours."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the whole wheat and two bread flours with most of the water; rest 2 hours."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Work in the ripe levain, salt and the reserved water."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Work in the ripe levain, salt and the reserved water."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment about 3.5 hours with five stretch-and-fold sets."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment about 3.5 hours with five stretch-and-fold sets."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Preshape, rest 20 minutes, then shape into a boule."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Preshape, rest 20 minutes, then shape into a boule."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Refrigerate overnight, about 13-14 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Refrigerate overnight, about 13-14 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake on a preheated baking steel at 230°C: 20 minutes with steam, then about 30 minutes uncovered until the internal temperature reaches 96-98°C."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake on a preheated baking steel at 230°C: 20 minutes with steam, then about 30 minutes uncovered until the internal temperature reaches 96-98°C."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least 2 hours before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least 2 hours before slicing."
+      }
     }
   ],
   "source": {

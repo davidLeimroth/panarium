@@ -177,36 +177,68 @@
   ],
   "method": [
     {
-      "title": "Mix the dough",
-      "summary": "Combine water, eggs, flour, milk powder, yeast, cinnamon and sugar; rest 20 minutes, then knead in the salt, butter and vanilla until smooth and elastic."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine water, eggs, flour, milk powder, yeast, cinnamon and sugar; rest 20 minutes, then knead in the salt, butter and vanilla until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough rise at room temperature until puffy, about 1.5-2 hours."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough rise at room temperature until puffy, about 1.5-2 hours."
+      }
     },
     {
-      "title": "Make the filling",
-      "summary": "Blend sugar, cinnamon, cocoa and a little espresso powder with melted butter; keep the chopped chocolate and toasted nuts ready alongside."
+      "title": {
+        "en": "Make the filling"
+      },
+      "summary": {
+        "en": "Blend sugar, cinnamon, cocoa and a little espresso powder with melted butter; keep the chopped chocolate and toasted nuts ready alongside."
+      }
     },
     {
-      "title": "Roll and fill",
-      "summary": "Divide the dough in half and roll each piece into a large rectangle, then spread with the filling, chocolate and nuts."
+      "title": {
+        "en": "Roll and fill"
+      },
+      "summary": {
+        "en": "Divide the dough in half and roll each piece into a large rectangle, then spread with the filling, chocolate and nuts."
+      }
     },
     {
-      "title": "Roll and twist",
-      "summary": "Roll each rectangle up tightly, split the log lengthwise and twist the two strands together into a loaf pan."
+      "title": {
+        "en": "Roll and twist"
+      },
+      "summary": {
+        "en": "Roll each rectangle up tightly, split the log lengthwise and twist the two strands together into a loaf pan."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Proof until the dough crowns just over the rim of the pan, about 1.5-2.5 hours."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Proof until the dough crowns just over the rim of the pan, about 1.5-2.5 hours."
+      }
     },
     {
-      "title": "Glaze, top and bake",
-      "summary": "Brush with egg glaze, scatter with streusel, then bake at 149°C (300°F) for 50-60 minutes, tenting with foil partway through to stop over-browning."
+      "title": {
+        "en": "Glaze, top and bake"
+      },
+      "summary": {
+        "en": "Brush with egg glaze, scatter with streusel, then bake at 149°C (300°F) for 50-60 minutes, tenting with foil partway through to stop over-browning."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest 10 minutes in the pan, then turn out onto a rack to finish cooling before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest 10 minutes in the pan, then turn out onto a rack to finish cooling before slicing."
+      }
     }
   ],
   "source": {

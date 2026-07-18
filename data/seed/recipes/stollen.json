@@ -187,36 +187,68 @@
   ],
   "method": [
     {
-      "title": "Soak the fruit",
-      "summary": "The day before, soak the sultanas in rum. Let them plump overnight so they season the dough from within rather than drying it out."
+      "title": {
+        "en": "Soak the fruit"
+      },
+      "summary": {
+        "en": "The day before, soak the sultanas in rum. Let them plump overnight so they season the dough from within rather than drying it out."
+      }
     },
     {
-      "title": "Activate the yeast",
-      "summary": "Warm the milk and dissolve the fresh yeast into it; let it foam about 20 minutes while the rest of the ingredients come to room temperature."
+      "title": {
+        "en": "Activate the yeast"
+      },
+      "summary": {
+        "en": "Warm the milk and dissolve the fresh yeast into it; let it foam about 20 minutes while the rest of the ingredients come to room temperature."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Gently combine the flour with the yeasted milk, salt, sugar, butter, clarified butter, almonds, candied peel, lemon zest and vanilla into a heavy, rich dough, handle it gently rather than developing strong gluten."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Gently combine the flour with the yeasted milk, salt, sugar, butter, clarified butter, almonds, candied peel, lemon zest and vanilla into a heavy, rich dough, handle it gently rather than developing strong gluten."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough rise about 90 minutes at room temperature, until visibly puffed despite its heavy load of fruit and fat."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough rise about 90 minutes at room temperature, until visibly puffed despite its heavy load of fruit and fat."
+      }
     },
     {
-      "title": "Fold in the fruit and shape",
-      "summary": "Knead in the soaked, drained sultanas just until distributed, then shape into a flattened oval and fold one long side over the other, leaving the classic off-center ridge along the top."
+      "title": {
+        "en": "Fold in the fruit and shape"
+      },
+      "summary": {
+        "en": "Knead in the soaked, drained sultanas just until distributed, then shape into a flattened oval and fold one long side over the other, leaving the classic off-center ridge along the top."
+      }
     },
     {
-      "title": "Bake low and slow",
-      "summary": "Bake at a moderate temperature until deeply golden and cooked through, about an hour, the dense, fruit-heavy loaf needs gentler heat than a lean bread."
+      "title": {
+        "en": "Bake low and slow"
+      },
+      "summary": {
+        "en": "Bake at a moderate temperature until deeply golden and cooked through, about an hour, the dense, fruit-heavy loaf needs gentler heat than a lean bread."
+      }
     },
     {
-      "title": "Coat while warm",
-      "summary": "While still warm, brush the loaf all over with melted butter and roll it in coarse sugar; once fully cool, dust it heavily with powdered sugar."
+      "title": {
+        "en": "Coat while warm"
+      },
+      "summary": {
+        "en": "While still warm, brush the loaf all over with melted butter and roll it in coarse sugar; once fully cool, dust it heavily with powdered sugar."
+      }
     },
     {
-      "title": "Rest before cutting",
-      "summary": "Wrap well and let it mature at least two to three weeks in a cool spot before the first slice, flavor and texture both improve dramatically with time."
+      "title": {
+        "en": "Rest before cutting"
+      },
+      "summary": {
+        "en": "Wrap well and let it mature at least two to three weeks in a cool spot before the first slice, flavor and texture both improve dramatically with time."
+      }
     }
   ],
   "source": {

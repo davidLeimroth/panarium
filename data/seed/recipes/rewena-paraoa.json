@@ -110,28 +110,52 @@
   ],
   "method": [
     {
-      "title": "Grow the potato bug",
-      "summary": "Days ahead, mash boiled potato with flour, sugar and water and leave it somewhere warm to ferment until bubbling and nearly doubled, this is the starter."
+      "title": {
+        "en": "Grow the potato bug"
+      },
+      "summary": {
+        "en": "Days ahead, mash boiled potato with flour, sugar and water and leave it somewhere warm to ferment until bubbling and nearly doubled, this is the starter."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine flour, sugar and salt, then work in the active potato bug and warm water."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine flour, sugar and salt, then work in the active potato bug and warm water."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead by hand or machine about 8 minutes until silky and supple; the dough stays soft and a little sticky."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead by hand or machine about 8 minutes until silky and supple; the dough stays soft and a little sticky."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Place in a buttered tin and let it rise until doubled, anywhere from ninety minutes to several hours depending on warmth."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Place in a buttered tin and let it rise until doubled, anywhere from ninety minutes to several hours depending on warmth."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until deeply golden, finishing with a few minutes at a higher heat if more color is wanted."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until deeply golden, finishing with a few minutes at a higher heat if more color is wanted."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least 30 minutes before slicing so the soft, gently sour crumb sets."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least 30 minutes before slicing so the soft, gently sour crumb sets."
+      }
     }
   ],
   "source": {

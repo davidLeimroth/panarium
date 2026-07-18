@@ -126,36 +126,68 @@
   ],
   "method": [
     {
-      "title": "Build the levain, roast the potato",
-      "summary": "Mix starter with flour and water to build a levain; separately roast potatoes at 220°C for 45-60 minutes, then peel and puree."
+      "title": {
+        "en": "Build the levain, roast the potato"
+      },
+      "summary": {
+        "en": "Mix starter with flour and water to build a levain; separately roast potatoes at 220°C for 45-60 minutes, then peel and puree."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the flours and water; rest 1 hour."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the flours and water; rest 1 hour."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Slap-and-fold in the levain and half the reserved water, rest 15 minutes, then work in salt, rosemary, potato puree and the rest of the water."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Slap-and-fold in the levain and half the reserved water, rest 15 minutes, then work in salt, rosemary, potato puree and the rest of the water."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Give two stretch-and-fold sets 30 minutes apart, then continue fermenting to about 3 hours total."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Give two stretch-and-fold sets 30 minutes apart, then continue fermenting to about 3 hours total."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, preshape, rest 30 minutes, then shape into bâtards."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, preshape, rest 30 minutes, then shape into bâtards."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Refrigerate overnight, about 13-14 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Refrigerate overnight, about 13-14 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least an hour before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least an hour before slicing."
+      }
     }
   ],
   "source": {

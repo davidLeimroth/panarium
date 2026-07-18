@@ -105,28 +105,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine water, starter and yeast by hand, then work in the flour until a rough dough forms."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine water, starter and yeast by hand, then work in the flour until a rough dough forms."
+      }
     },
     {
-      "title": "Aerate",
-      "summary": "Knead until elastic, dividing the dough into pieces and reuniting them to work in air, then knead in the salt dissolved in a little water."
+      "title": {
+        "en": "Aerate"
+      },
+      "summary": {
+        "en": "Knead until elastic, dividing the dough into pieces and reuniting them to work in air, then knead in the salt dissolved in a little water."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let rise 2.5 to 4 hours at around 21°C until doubled."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let rise 2.5 to 4 hours at around 21°C until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into a round hogaza, a ring-shaped rosca, or small bollos depending on the format wanted."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into a round hogaza, a ring-shaped rosca, or small bollos depending on the format wanted."
+      }
     },
     {
-      "title": "Bake with steam",
-      "summary": "Load into a wood-fired, stone-floored oven preheated to 250°C, add steam, then step the temperature down from 230°C to 210°C over about 35 minutes."
+      "title": {
+        "en": "Bake with steam"
+      },
+      "summary": {
+        "en": "Load into a wood-fired, stone-floored oven preheated to 250°C, add steam, then step the temperature down from 230°C to 210°C over about 35 minutes."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest on a rack before slicing so the crust and crumb finish setting."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest on a rack before slicing so the crust and crumb finish setting."
+      }
     }
   ],
   "source": {

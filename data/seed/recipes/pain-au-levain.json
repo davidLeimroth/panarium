@@ -106,32 +106,60 @@
   ],
   "method": [
     {
-      "title": "Refresh the levain",
-      "summary": "Feed the liquid levain 5-7 hours ahead so it's active, bubbly and roughly doubled."
+      "title": {
+        "en": "Refresh the levain"
+      },
+      "summary": {
+        "en": "Feed the liquid levain 5-7 hours ahead so it's active, bubbly and roughly doubled."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Mix the flour and water and rest 40-60 minutes before adding anything else."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Mix the flour and water and rest 40-60 minutes before adding anything else."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Work in the levain and knead until strong and elastic, adding the salt partway through."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Work in the levain and knead until strong and elastic, adding the salt partway through."
+      }
     },
     {
-      "title": "Bulk with folds",
-      "summary": "Ferment with a few gentle folds, then retard in the fridge overnight for depth of flavor."
+      "title": {
+        "en": "Bulk with folds"
+      },
+      "summary": {
+        "en": "Ferment with a few gentle folds, then retard in the fridge overnight for depth of flavor."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into one large round and set it into a well-floured banneton."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into one large round and set it into a well-floured banneton."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let rise until puffy and light, about an hour once out of the cold."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let rise until puffy and light, about an hour once out of the cold."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Score and bake hot with steam, then lower the heat to bake all the way through."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Score and bake hot with steam, then lower the heat to bake all the way through."
+      }
     }
   ],
   "source": {

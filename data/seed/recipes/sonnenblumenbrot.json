@@ -127,36 +127,68 @@
   ],
   "method": [
     {
-      "title": "Two sourdoughs",
-      "summary": "The evening before, build a rye sourdough from coarse sifted rye meal, water, rye starter and salt, and separately a wheat sourdough from wholemeal flour, water and wheat starter. Ferment both covered overnight."
+      "title": {
+        "en": "Two sourdoughs"
+      },
+      "summary": {
+        "en": "The evening before, build a rye sourdough from coarse sifted rye meal, water, rye starter and salt, and separately a wheat sourdough from wholemeal flour, water and wheat starter. Ferment both covered overnight."
+      }
     },
     {
-      "title": "Soaker",
-      "summary": "At the same time, pour water over roasted sunflower seeds and let them soak overnight to soften."
+      "title": {
+        "en": "Soaker"
+      },
+      "summary": {
+        "en": "At the same time, pour water over roasted sunflower seeds and let them soak overnight to soften."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine both ripe sourdoughs with the remaining rye and wheat flour, roasted sunflower seed meal, salt and hot water; mix until smooth, then fold in the soaked seeds."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine both ripe sourdoughs with the remaining rye and wheat flour, roasted sunflower seed meal, salt and hot water; mix until smooth, then fold in the soaked seeds."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover and let the dough relax briefly at room temperature before shaping."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover and let the dough relax briefly at room temperature before shaping."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into a firm log and roll it in whole sunflower seeds, then settle it seam-down into a greased tin."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into a firm log and roll it in whole sunflower seeds, then settle it seam-down into a greased tin."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Cover and proof about 1.5 hours at room temperature."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Cover and proof about 1.5 hours at room temperature."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot with steam, venting after 20 minutes and dropping the temperature, for about 80 minutes total."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot with steam, venting after 20 minutes and dropping the temperature, for about 80 minutes total."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Turn out right away and cool fully on a rack before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Turn out right away and cool fully on a rack before slicing."
+      }
     }
   ],
   "source": {

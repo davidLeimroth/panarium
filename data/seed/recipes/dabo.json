@@ -148,24 +148,44 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine the flours, turmeric, coriander and nigella in a large bowl. Separately mix water, oil, yeast, salt and sugar, then stir the two together into a wet, sticky dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the flours, turmeric, coriander and nigella in a large bowl. Separately mix water, oil, yeast, salt and sugar, then stir the two together into a wet, sticky dough."
+      }
     },
     {
-      "title": "Long rise",
-      "summary": "Transfer to a well-oiled bowl at least twice the dough's size, cover, and let ferment overnight or at least 8 hours at room temperature."
+      "title": {
+        "en": "Long rise"
+      },
+      "summary": {
+        "en": "Transfer to a well-oiled bowl at least twice the dough's size, cover, and let ferment overnight or at least 8 hours at room temperature."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Line a covered ovenproof pot with oiled parchment, transfer the dough in, and let rise 30 minutes more."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Line a covered ovenproof pot with oiled parchment, transfer the dough in, and let rise 30 minutes more."
+      }
     },
     {
-      "title": "Bake covered",
-      "summary": "Cover the pot tightly and bake until set, 45 to 50 minutes."
+      "title": {
+        "en": "Bake covered"
+      },
+      "summary": {
+        "en": "Cover the pot tightly and bake until set, 45 to 50 minutes."
+      }
     },
     {
-      "title": "Flip and finish",
-      "summary": "Turn the loaf out onto a rack, then return it upside down to the pot and bake 10 minutes more to brown the top."
+      "title": {
+        "en": "Flip and finish"
+      },
+      "summary": {
+        "en": "Turn the loaf out onto a rack, then return it upside down to the pot and bake 10 minutes more to brown the top."
+      }
     }
   ],
   "source": {

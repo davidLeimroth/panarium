@@ -147,6 +147,7 @@ export const es: Dict = {
     estimated: 'estimado',
     fromSource: 'de la fuente',
     openInLab: 'Abrir en el Laboratorio',
+    methodEnglishOnly: 'Los pasos se muestran en inglés por ahora.',
   },
   lab: {
     title: 'El Laboratorio de Masa',

@@ -111,28 +111,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Whisk flour, salt and baking powder, cut in the optional fat, then stir in water to a soft, slightly sticky dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Whisk flour, salt and baking powder, cut in the optional fat, then stir in water to a soft, slightly sticky dough."
+      }
     },
     {
-      "title": "Knead & rest",
-      "summary": "Knead 3-4 minutes, then cover and rest 30 minutes to 2 hours so the dough relaxes."
+      "title": {
+        "en": "Knead & rest"
+      },
+      "summary": {
+        "en": "Knead 3-4 minutes, then cover and rest 30 minutes to 2 hours so the dough relaxes."
+      }
     },
     {
-      "title": "Divide & flatten",
-      "summary": "Divide into 6-8 pieces and pat or roll each into a thin round, almost like a thick tortilla."
+      "title": {
+        "en": "Divide & flatten"
+      },
+      "summary": {
+        "en": "Divide into 6-8 pieces and pat or roll each into a thin round, almost like a thick tortilla."
+      }
     },
     {
-      "title": "Heat the oil",
-      "summary": "Heat about an inch of oil in a heavy pot to 350°F (176°C)."
+      "title": {
+        "en": "Heat the oil"
+      },
+      "summary": {
+        "en": "Heat about an inch of oil in a heavy pot to 350°F (176°C)."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Fry each round 2-3 minutes per side until puffed and deep golden, turning once."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Fry each round 2-3 minutes per side until puffed and deep golden, turning once."
+      }
     },
     {
-      "title": "Drain & serve",
-      "summary": "Drain on paper towels and serve immediately, plain with honey or loaded as an Indian taco."
+      "title": {
+        "en": "Drain & serve"
+      },
+      "summary": {
+        "en": "Drain on paper towels and serve immediately, plain with honey or loaded as an Indian taco."
+      }
     }
   ],
   "source": {

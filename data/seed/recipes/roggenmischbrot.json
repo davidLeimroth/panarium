@@ -133,32 +133,60 @@
   ],
   "method": [
     {
-      "title": "Build the sourdough",
-      "summary": "The evening before, mix rye flour, warm water and a spoonful of active starter into a sourdough and let it ripen about 20 hours at room temperature."
+      "title": {
+        "en": "Build the sourdough"
+      },
+      "summary": {
+        "en": "The evening before, mix rye flour, warm water and a spoonful of active starter into a sourdough and let it ripen about 20 hours at room temperature."
+      }
     },
     {
-      "title": "Soak the old bread",
-      "summary": "In parallel, soak toasted, ground stale bread in warm salted water for 8–12 hours; this Altbrot soaker adds moisture and a deeper, rounder flavor."
+      "title": {
+        "en": "Soak the old bread"
+      },
+      "summary": {
+        "en": "In parallel, soak toasted, ground stale bread in warm salted water for 8–12 hours; this Altbrot soaker adds moisture and a deeper, rounder flavor."
+      }
     },
     {
-      "title": "Autolyse the wheat",
-      "summary": "Rest the wheat and whole wheat flour with warm water for an hour so it fully hydrates before mixing."
+      "title": {
+        "en": "Autolyse the wheat"
+      },
+      "summary": {
+        "en": "Rest the wheat and whole wheat flour with warm water for an hour so it fully hydrates before mixing."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the ripe sourdough, the bread soaker, the autolysed wheat, the remaining rye flour and water, and a little fresh yeast for insurance. Mix briefly to a smooth, warm dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the ripe sourdough, the bread soaker, the autolysed wheat, the remaining rye flour and water, and a little fresh yeast for insurance. Mix briefly to a smooth, warm dough."
+      }
     },
     {
-      "title": "Bulk rest and shape",
-      "summary": "Let the dough rest about 40 minutes, then shape first into a round and then into an oval loaf."
+      "title": {
+        "en": "Bulk rest and shape"
+      },
+      "summary": {
+        "en": "Let the dough rest about 40 minutes, then shape first into a round and then into an oval loaf."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Proof seam-up in a floured banneton for a little over an hour."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Proof seam-up in a floured banneton for a little over an hour."
+      }
     },
     {
-      "title": "Bake with steam",
-      "summary": "Bake hot with plenty of steam, starting around 250°C and dropping to 200°C, for about 45 minutes total."
+      "title": {
+        "en": "Bake with steam"
+      },
+      "summary": {
+        "en": "Bake hot with plenty of steam, starting around 250°C and dropping to 200°C, for about 45 minutes total."
+      }
     }
   ],
   "source": {

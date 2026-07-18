@@ -129,28 +129,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, sugar, salt and vanilla sugar; stir in the yeast, melted butter and warm water to a soft dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, sugar, salt and vanilla sugar; stir in the yeast, melted butter and warm water to a soft dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 8-10 minutes until smooth and not sticky."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 8-10 minutes until smooth and not sticky."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Shape into a ball, cover, and let rest about an hour in a warm place."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Shape into a ball, cover, and let rest about an hour in a warm place."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Roll the dough to about 1cm thick and cut into small shapes: balls, circles, triangles, knots or twists."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Roll the dough to about 1cm thick and cut into small shapes: balls, circles, triangles, knots or twists."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Heat oil to about 175°C (350°F) and fry the pieces in small batches, turning, until evenly golden, 4-6 minutes total."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Heat oil to about 175°C (350°F) and fry the pieces in small batches, turning, until evenly golden, 4-6 minutes total."
+      }
     },
     {
-      "title": "Cool and serve",
-      "summary": "Drain and cool a few minutes, then serve with milk tea, honey or jam."
+      "title": {
+        "en": "Cool and serve"
+      },
+      "summary": {
+        "en": "Drain and cool a few minutes, then serve with milk tea, honey or jam."
+      }
     }
   ],
   "source": {

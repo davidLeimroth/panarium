@@ -144,32 +144,60 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, salt, olive oil and lukewarm water into a smooth, elastic dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, salt, olive oil and lukewarm water into a smooth, elastic dough."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover and let rest about 20 minutes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover and let rest about 20 minutes."
+      }
     },
     {
-      "title": "Make the filling",
-      "summary": "Sauté onion in olive oil, wilt in the spinach, then off the heat stir in crumbled feta and Aleppo pepper."
+      "title": {
+        "en": "Make the filling"
+      },
+      "summary": {
+        "en": "Sauté onion in olive oil, wilt in the spinach, then off the heat stir in crumbled feta and Aleppo pepper."
+      }
     },
     {
-      "title": "Roll paper-thin",
-      "summary": "Divide the dough and roll each piece into a very thin, wide round."
+      "title": {
+        "en": "Roll paper-thin"
+      },
+      "summary": {
+        "en": "Divide the dough and roll each piece into a very thin, wide round."
+      }
     },
     {
-      "title": "Fill & fold",
-      "summary": "Spread filling over half the round, then fold into a smaller square or rectangle, sealing the edges."
+      "title": {
+        "en": "Fill & fold"
+      },
+      "summary": {
+        "en": "Spread filling over half the round, then fold into a smaller square or rectangle, sealing the edges."
+      }
     },
     {
-      "title": "Griddle",
-      "summary": "Cook in a wide, hot dry skillet, flipping a few times, until golden and crisp on both sides."
+      "title": {
+        "en": "Griddle"
+      },
+      "summary": {
+        "en": "Cook in a wide, hot dry skillet, flipping a few times, until golden and crisp on both sides."
+      }
     },
     {
-      "title": "Finish & serve",
-      "summary": "Brush with a little olive oil, cover briefly to keep tender, then cut into wedges."
+      "title": {
+        "en": "Finish & serve"
+      },
+      "summary": {
+        "en": "Brush with a little olive oil, cover briefly to keep tender, then cut into wedges."
+      }
     }
   ],
   "source": {

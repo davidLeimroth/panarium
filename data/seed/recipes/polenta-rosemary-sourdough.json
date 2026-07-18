@@ -135,40 +135,76 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter with bread flour, high-extraction flour and water; ripen at warm room temperature."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter with bread flour, high-extraction flour and water; ripen at warm room temperature."
+      }
     },
     {
-      "title": "Soak the polenta",
-      "summary": "Boil whey, stir in raw polenta and soak 45 minutes, then drain well through a sieve and cool completely."
+      "title": {
+        "en": "Soak the polenta"
+      },
+      "summary": {
+        "en": "Boil whey, stir in raw polenta and soak 45 minutes, then drain well through a sieve and cool completely."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the flours and most of the water; rest about 1.5 hours."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the flours and most of the water; rest about 1.5 hours."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Slap-and-fold in the levain, then work in salt, minced rosemary and the cooled, drained polenta."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Slap-and-fold in the levain, then work in salt, minced rosemary and the cooled, drained polenta."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment quickly (polenta speeds things up) over about 3.5 hours with four stretch-and-fold sets."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment quickly (polenta speeds things up) over about 3.5 hours with four stretch-and-fold sets."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, preshape, rest 20 minutes, then shape into a batard or boule."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, preshape, rest 20 minutes, then shape into a batard or boule."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Refrigerate 10-14 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Refrigerate 10-14 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 25-30 minutes uncovered until golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 25-30 minutes uncovered until golden."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least 2 hours before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least 2 hours before slicing."
+      }
     }
   ],
   "source": {

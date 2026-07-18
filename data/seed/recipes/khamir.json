@@ -139,28 +139,52 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Pulse flour, yeast, sugar, salt, baking powder and cardamom together in a food processor."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Pulse flour, yeast, sugar, salt, baking powder and cardamom together in a food processor."
+      }
     },
     {
-      "title": "Add wet",
-      "summary": "Mix in the oil, then gradually add the warm milk to form a soft, slightly sticky dough; knead briefly by hand."
+      "title": {
+        "en": "Add wet"
+      },
+      "summary": {
+        "en": "Mix in the oil, then gradually add the warm milk to form a soft, slightly sticky dough; knead briefly by hand."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Place in a greased bowl, cover, and let rise until doubled, about 1.5 hours."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Place in a greased bowl, cover, and let rise until doubled, about 1.5 hours."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into 4 balls and roll each into a round about half a centimeter thick."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into 4 balls and roll each into a round about half a centimeter thick."
+      }
     },
     {
-      "title": "Finish",
-      "summary": "Brush with saffron-infused milk and scatter with sesame seeds."
+      "title": {
+        "en": "Finish"
+      },
+      "summary": {
+        "en": "Brush with saffron-infused milk and scatter with sesame seeds."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake individually in a very hot oven for about 3 minutes per side, rotating for even color."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake individually in a very hot oven for about 3 minutes per side, rotating for even color."
+      }
     }
   ],
   "source": {

@@ -129,28 +129,52 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Sift the plain flour with the cream of tartar and bicarbonate of soda, then stir in the wholemeal flour, salt and brown sugar."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Sift the plain flour with the cream of tartar and bicarbonate of soda, then stir in the wholemeal flour, salt and brown sugar."
+      }
     },
     {
-      "title": "Add buttermilk",
-      "summary": "Make a well and pour in most of the buttermilk with the olive oil, mixing to a very soft, slightly sticky dough; add more buttermilk if it feels dry."
+      "title": {
+        "en": "Add buttermilk"
+      },
+      "summary": {
+        "en": "Make a well and pour in most of the buttermilk with the olive oil, mixing to a very soft, slightly sticky dough; add more buttermilk if it feels dry."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Turn out gently and pat into a round on a floured tray without kneading."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Turn out gently and pat into a round on a floured tray without kneading."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Cut a deep cross through the top so the loaf cooks through evenly."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Cut a deep cross through the top so the loaf cooks through evenly."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a hot oven until well risen and golden, 25-30 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a hot oven until well risen and golden, 25-30 minutes."
+      }
     },
     {
-      "title": "Cool wrapped",
-      "summary": "Check for a hollow sound when the base is tapped, then cool wrapped in a tea towel for a soft crust."
+      "title": {
+        "en": "Cool wrapped"
+      },
+      "summary": {
+        "en": "Check for a hollow sound when the base is tapped, then cool wrapped in a tea towel for a soft crust."
+      }
     }
   ],
   "source": {

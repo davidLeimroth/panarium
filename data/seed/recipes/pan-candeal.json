@@ -126,28 +126,52 @@
   ],
   "method": [
     {
-      "title": "Prefermento",
-      "summary": "The day before, mix flour, water, salt and a trace of yeast into a firm dough; let it rise, then refrigerate overnight."
+      "title": {
+        "en": "Prefermento"
+      },
+      "summary": {
+        "en": "The day before, mix flour, water, salt and a trace of yeast into a firm dough; let it rise, then refrigerate overnight."
+      }
     },
     {
-      "title": "Final dough",
-      "summary": "Combine the prefermento with the remaining flours, water, yeast and salt into a very stiff dough, famously low-hydration, only about 50%."
+      "title": {
+        "en": "Final dough"
+      },
+      "summary": {
+        "en": "Combine the prefermento with the remaining flours, water, yeast and salt into a very stiff dough, famously low-hydration, only about 50%."
+      }
     },
     {
-      "title": "The refinado",
-      "summary": "Instead of ordinary kneading, repeatedly pass the dough through a pasta roller (or under a heavy roller), folding it in half each time, until it turns smooth and satiny."
+      "title": {
+        "en": "The refinado"
+      },
+      "summary": {
+        "en": "Instead of ordinary kneading, repeatedly pass the dough through a pasta roller (or under a heavy roller), folding it in half each time, until it turns smooth and satiny."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Press into a flat torta, higher in the center, and mark with the traditional cross-scoring and a pattern of pin-pricks so it can't over-expand."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Press into a flat torta, higher in the center, and mark with the traditional cross-scoring and a pattern of pin-pricks so it can't over-expand."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let it rise about an hour at a warm room temperature."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let it rise about an hour at a warm room temperature."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 190°C for 15 minutes, then 170°C for 20 minutes more, until the surface is smooth, shiny and pale gold."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 190°C for 15 minutes, then 170°C for 20 minutes more, until the surface is smooth, shiny and pale gold."
+      }
     }
   ],
   "source": {

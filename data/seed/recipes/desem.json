@@ -110,32 +110,60 @@
   ],
   "method": [
     {
-      "title": "Maintain the desem culture",
-      "summary": "Keep a whole-wheat-only starter buried in a cool bed of flour (10-18°C), fed every few days; it draws its leavening purely from organisms in the grain, never a commercial yeast."
+      "title": {
+        "en": "Maintain the desem culture"
+      },
+      "summary": {
+        "en": "Keep a whole-wheat-only starter buried in a cool bed of flour (10-18°C), fed every few days; it draws its leavening purely from organisms in the grain, never a commercial yeast."
+      }
     },
     {
-      "title": "Build the levain",
-      "summary": "The day before baking, mix a portion of desem culture with fresh-milled flour and water; let it ripen 8-12 hours."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "The day before baking, mix a portion of desem culture with fresh-milled flour and water; let it ripen 8-12 hours."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine the ripe levain with the remaining freshly milled whole wheat flours, water and salt into a shaggy dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the ripe levain with the remaining freshly milled whole wheat flours, water and salt into a shaggy dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Rest 20-30 minutes, then work through a few stretch-and-folds over 4-8 hours until the dough has expanded by about 90%."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Rest 20-30 minutes, then work through a few stretch-and-folds over 4-8 hours until the dough has expanded by about 90%."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Shape into a tight boule and proof either 1-2 hours at room temperature or, for deeper flavor, 20-40 minutes on the counter followed by an overnight cold retard."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Shape into a tight boule and proof either 1-2 hours at room temperature or, for deeper flavor, 20-40 minutes on the counter followed by an overnight cold retard."
+      }
     },
     {
-      "title": "Bake hot, then step down",
-      "summary": "Bake in a well-preheated covered pot: very hot initially, then reduce twice, finishing uncovered for a dark crust and a hollow sound when tapped."
+      "title": {
+        "en": "Bake hot, then step down"
+      },
+      "summary": {
+        "en": "Bake in a well-preheated covered pot: very hot initially, then reduce twice, finishing uncovered for a dark crust and a hollow sound when tapped."
+      }
     },
     {
-      "title": "Cool fully",
-      "summary": "Let the loaf rest at least 2 hours before cutting so the dense, all-whole-grain crumb finishes setting."
+      "title": {
+        "en": "Cool fully"
+      },
+      "summary": {
+        "en": "Let the loaf rest at least 2 hours before cutting so the dense, all-whole-grain crumb finishes setting."
+      }
     }
   ],
   "source": {

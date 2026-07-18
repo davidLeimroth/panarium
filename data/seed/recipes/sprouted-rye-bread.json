@@ -128,36 +128,68 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine sprouted wheat and rye flours, cocoa (if using), salt, yeast and caraway seeds, then stir in water and molasses."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine sprouted wheat and rye flours, cocoa (if using), salt, yeast and caraway seeds, then stir in water and molasses."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Let the shaggy dough rest 5-10 minutes, then stir again about 2 minutes until smooth."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Let the shaggy dough rest 5-10 minutes, then stir again about 2 minutes until smooth."
+      }
     },
     {
-      "title": "Stretch and fold",
-      "summary": "In an oiled bowl, stretch and fold the wet dough 4-6 times instead of kneading."
+      "title": {
+        "en": "Stretch and fold"
+      },
+      "summary": {
+        "en": "In an oiled bowl, stretch and fold the wet dough 4-6 times instead of kneading."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let rise at room temperature 1-2 hours until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let rise at room temperature 1-2 hours until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in two, shape into logs and settle into loaf pans."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in two, shape into logs and settle into loaf pans."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Let rise 1-2 hours until the dough crowns about 2.5 cm above the pan edges."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Let rise 1-2 hours until the dough crowns about 2.5 cm above the pan edges."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 175°C for 30-35 minutes until hollow-sounding when tapped."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 175°C for 30-35 minutes until hollow-sounding when tapped."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool on a rack before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool on a rack before slicing."
+      }
     }
   ],
   "source": {

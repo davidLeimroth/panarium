@@ -182,28 +182,52 @@
   ],
   "method": [
     {
-      "title": "Sprout",
-      "summary": "Soak wheat, spelt, barley and millet together, and the lentils and beans separately, then rinse and drain twice a day for 2-3 days until each shows a small sprout tail."
+      "title": {
+        "en": "Sprout"
+      },
+      "summary": {
+        "en": "Soak wheat, spelt, barley and millet together, and the lentils and beans separately, then rinse and drain twice a day for 2-3 days until each shows a small sprout tail."
+      }
     },
     {
-      "title": "Dry and mill",
-      "summary": "Dehydrate the sprouted grains and legumes until fully dry, then grind them together into a single fine flour."
+      "title": {
+        "en": "Dry and mill"
+      },
+      "summary": {
+        "en": "Dehydrate the sprouted grains and legumes until fully dry, then grind them together into a single fine flour."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Warm water with honey, oil, salt and yeast, then work in the sprouted-grain flour and knead about 10 minutes into a soft, batter-like dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Warm water with honey, oil, salt and yeast, then work in the sprouted-grain flour and knead about 10 minutes into a soft, batter-like dough."
+      }
     },
     {
-      "title": "Pan and proof",
-      "summary": "Divide into loaf pans and let rise, covered, about an hour until the dough nears the rim."
+      "title": {
+        "en": "Pan and proof"
+      },
+      "summary": {
+        "en": "Divide into loaf pans and let rise, covered, about an hour until the dough nears the rim."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at around 175°C for 30-50 minutes, depending on pan size, until the internal temperature reads about 88°C."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at around 175°C for 30-50 minutes, depending on pan size, until the internal temperature reads about 88°C."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Turn out and cool completely on a rack before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Turn out and cool completely on a rack before slicing."
+      }
     }
   ],
   "source": {

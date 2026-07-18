@@ -104,32 +104,60 @@
   ],
   "method": [
     {
-      "title": "Build the pre-dough",
-      "summary": "Mix a portion of the Ruchmehl with water and a little yeast. Ferment at room temperature for about 12 hours."
+      "title": {
+        "en": "Build the pre-dough"
+      },
+      "summary": {
+        "en": "Mix a portion of the Ruchmehl with water and a little yeast. Ferment at room temperature for about 12 hours."
+      }
     },
     {
-      "title": "Mix the main dough",
-      "summary": "Combine the pre-dough with the remaining Ruchmehl, water, salt and a touch more yeast. Knead until the dough passes the windowpane test."
+      "title": {
+        "en": "Mix the main dough"
+      },
+      "summary": {
+        "en": "Combine the pre-dough with the remaining Ruchmehl, water, salt and a touch more yeast. Knead until the dough passes the windowpane test."
+      }
     },
     {
-      "title": "Short warm rest with folds",
-      "summary": "Let the dough rest about an hour at room temperature, folding it three times early on to build strength."
+      "title": {
+        "en": "Short warm rest with folds"
+      },
+      "summary": {
+        "en": "Let the dough rest about an hour at room temperature, folding it three times early on to build strength."
+      }
     },
     {
-      "title": "Long cold retard",
-      "summary": "Refrigerate the dough for roughly 22 hours so flavor develops slowly."
+      "title": {
+        "en": "Long cold retard"
+      },
+      "summary": {
+        "en": "Refrigerate the dough for roughly 22 hours so flavor develops slowly."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Turn the cold dough out and shape it loosely into an oblong loaf."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Turn the cold dough out and shape it loosely into an oblong loaf."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Proof seam-up in a floured banneton for about an hour."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Proof seam-up in a floured banneton for about an hour."
+      }
     },
     {
-      "title": "Score and bake",
-      "summary": "Turn out, cut three angled slashes across the top, then bake hot with steam, dropping the oven temperature partway through, until the crust is thick and deeply colored."
+      "title": {
+        "en": "Score and bake"
+      },
+      "summary": {
+        "en": "Turn out, cut three angled slashes across the top, then bake hot with steam, dropping the oven temperature partway through, until the crust is thick and deeply colored."
+      }
     }
   ],
   "source": {

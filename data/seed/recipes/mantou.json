@@ -108,28 +108,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, yeast, baking powder and sugar, then gradually work in water to a smooth, medium-firm dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, yeast, baking powder and sugar, then gradually work in water to a smooth, medium-firm dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead until completely smooth, resting partway through if working by hand."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead until completely smooth, resting partway through if working by hand."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into six pieces and roll each between your palms into a taut, smooth ball."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into six pieces and roll each between your palms into a taut, smooth ball."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Set the buns in a steamer basket and let them puff for about 30 minutes at room temperature."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Set the buns in a steamer basket and let them puff for about 30 minutes at room temperature."
+      }
     },
     {
-      "title": "Steam",
-      "summary": "Set the steamer over cold water, bring to a boil, then reduce to medium-low and steam 10-12 minutes."
+      "title": {
+        "en": "Steam"
+      },
+      "summary": {
+        "en": "Set the steamer over cold water, bring to a boil, then reduce to medium-low and steam 10-12 minutes."
+      }
     },
     {
-      "title": "Rest before opening",
-      "summary": "Let the buns sit off the heat for a couple of minutes before lifting the lid so they don't collapse in the temperature shock."
+      "title": {
+        "en": "Rest before opening"
+      },
+      "summary": {
+        "en": "Let the buns sit off the heat for a couple of minutes before lifting the lid so they don't collapse in the temperature shock."
+      }
     }
   ],
   "source": {

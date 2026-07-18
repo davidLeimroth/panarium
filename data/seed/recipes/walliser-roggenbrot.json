@@ -107,32 +107,60 @@
   ],
   "method": [
     {
-      "title": "Build the rye sourdough",
-      "summary": "The evening before, stir warm water, rye wholemeal and a spoonful of active rye starter with a little salt into a thick paste. Cover and let it ferment 12–16 hours at room temperature."
+      "title": {
+        "en": "Build the rye sourdough"
+      },
+      "summary": {
+        "en": "The evening before, stir warm water, rye wholemeal and a spoonful of active rye starter with a little salt into a thick paste. Cover and let it ferment 12–16 hours at room temperature."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Add the remaining rye meal, warm water and salt to the ripe sourdough. Mix just until it comes together into a heavy, cohesive dough, there's no gluten network to develop, so don't overwork it."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Add the remaining rye meal, warm water and salt to the ripe sourdough. Mix just until it comes together into a heavy, cohesive dough, there's no gluten network to develop, so don't overwork it."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Cover and let the dough rest about an hour to 90 minutes at room temperature, keeping it warm; rye sourdough performs best around 29°C."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough rest about an hour to 90 minutes at room temperature, keeping it warm; rye sourdough performs best around 29°C."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into two pieces and shape each by hand into a tapered, cone-like round. Roll the outside in rye meal and set on a floured cloth."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into two pieces and shape each by hand into a tapered, cone-like round. Roll the outside in rye meal and set on a floured cloth."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Let the loaves proof uncovered for an hour to 90 minutes, until deep cracks open across the floured surface, the traditional cue that they're ready to bake."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Let the loaves proof uncovered for an hour to 90 minutes, until deep cracks open across the floured surface, the traditional cue that they're ready to bake."
+      }
     },
     {
-      "title": "Bake hard, then ease off",
-      "summary": "Bake in a very hot oven without steam, venting briefly after a few minutes and dropping the temperature partway through. Bake about 50 minutes until deeply crusted."
+      "title": {
+        "en": "Bake hard, then ease off"
+      },
+      "summary": {
+        "en": "Bake in a very hot oven without steam, venting briefly after a few minutes and dropping the temperature partway through. Bake about 50 minutes until deeply crusted."
+      }
     },
     {
-      "title": "Cool and slice thin",
-      "summary": "Let the loaves cool completely before cutting. This bread is dense and intense, traditionally sliced paper-thin for alpine cheese and dried meats."
+      "title": {
+        "en": "Cool and slice thin"
+      },
+      "summary": {
+        "en": "Let the loaves cool completely before cutting. This bread is dense and intense, traditionally sliced paper-thin for alpine cheese and dried meats."
+      }
     }
   ],
   "source": {

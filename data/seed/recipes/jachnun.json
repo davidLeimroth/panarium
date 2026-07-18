@@ -117,32 +117,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, brown sugar and salt in a mixer, then gradually add water until a soft, slightly sticky dough forms; knead until smooth."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, brown sugar and salt in a mixer, then gradually add water until a soft, slightly sticky dough forms; knead until smooth."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Coat the dough in oil, cover, and let it relax for about 30 minutes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Coat the dough in oil, cover, and let it relax for about 30 minutes."
+      }
     },
     {
-      "title": "Divide and chill",
-      "summary": "Portion into balls, arrange snugly in an oiled dish, and refrigerate at least a few hours or overnight so the dough firms up."
+      "title": {
+        "en": "Divide and chill"
+      },
+      "summary": {
+        "en": "Portion into balls, arrange snugly in an oiled dish, and refrigerate at least a few hours or overnight so the dough firms up."
+      }
     },
     {
-      "title": "Stretch",
-      "summary": "With buttered fingers, stretch each ball into a very thin, almost see-through sheet."
+      "title": {
+        "en": "Stretch"
+      },
+      "summary": {
+        "en": "With buttered fingers, stretch each ball into a very thin, almost see-through sheet."
+      }
     },
     {
-      "title": "Fold and roll",
-      "summary": "Dab the sheet with butter, fold it lengthwise into a long strap, then roll it into a tight spiral log."
+      "title": {
+        "en": "Fold and roll"
+      },
+      "summary": {
+        "en": "Dab the sheet with butter, fold it lengthwise into a long strap, then roll it into a tight spiral log."
+      }
     },
     {
-      "title": "Layer and bake",
-      "summary": "Stack the logs in a heavy lidded pot, cover, and bake at a very low temperature for 12 to 14 hours, traditionally overnight."
+      "title": {
+        "en": "Layer and bake"
+      },
+      "summary": {
+        "en": "Stack the logs in a heavy lidded pot, cover, and bake at a very low temperature for 12 to 14 hours, traditionally overnight."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Unroll and slice into pinwheels; serve warm with slow-cooked eggs, grated tomato and schug."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Unroll and slice into pinwheels; serve warm with slow-cooked eggs, grated tomato and schug."
+      }
     }
   ],
   "source": {

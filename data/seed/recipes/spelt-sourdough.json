@@ -119,36 +119,68 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter with bread flour, high-extraction flour and water; ripen 5-6 hours at warm room temperature."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter with bread flour, high-extraction flour and water; ripen 5-6 hours at warm room temperature."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the remaining flours, including the freshly milled spelt, with water; rest 30 minutes with the levain already mixed in."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the remaining flours, including the freshly milled spelt, with water; rest 30 minutes with the levain already mixed in."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Slap-and-fold briefly to bring the dough together, about 5 minutes."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Slap-and-fold briefly to bring the dough together, about 5 minutes."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment about 4.5 hours, giving four stretch-and-fold sets in the first hour; go easy since spelt slackens more than wheat as fermentation progresses."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment about 4.5 hours, giving four stretch-and-fold sets in the first hour; go easy since spelt slackens more than wheat as fermentation progresses."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, preshape, rest 20 minutes, then shape and bench-rest another 25 minutes."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, preshape, rest 20 minutes, then shape and bench-rest another 25 minutes."
+      }
     },
     {
-      "title": "Cold retard",
-      "summary": "Refrigerate overnight, about 14 hours."
+      "title": {
+        "en": "Cold retard"
+      },
+      "summary": {
+        "en": "Refrigerate overnight, about 14 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered for a dark crust."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered for a dark crust."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest fully on a wire rack before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest fully on a wire rack before slicing."
+      }
     }
   ],
   "source": {

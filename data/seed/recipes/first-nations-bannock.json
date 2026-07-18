@@ -102,28 +102,52 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Whisk the flour and baking powder together."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Whisk the flour and baking powder together."
+      }
     },
     {
-      "title": "Add wet",
-      "summary": "Stir in the oil, then the cold water, just until a soft dough comes together."
+      "title": {
+        "en": "Add wet"
+      },
+      "summary": {
+        "en": "Stir in the oil, then the cold water, just until a soft dough comes together."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Divide the dough into portions and pat each into a flattened round."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Divide the dough into portions and pat each into a flattened round."
+      }
     },
     {
-      "title": "Heat the pan",
-      "summary": "Get a cast-iron pan hot, traditionally over an open fire."
+      "title": {
+        "en": "Heat the pan"
+      },
+      "summary": {
+        "en": "Get a cast-iron pan hot, traditionally over an open fire."
+      }
     },
     {
-      "title": "Press & cook",
-      "summary": "Press each round into the hot pan and cook about 15 minutes, turning as needed, until golden and cooked through with a few charred spots."
+      "title": {
+        "en": "Press & cook"
+      },
+      "summary": {
+        "en": "Press each round into the hot pan and cook about 15 minutes, turning as needed, until golden and cooked through with a few charred spots."
+      }
     },
     {
-      "title": "Serve hot",
-      "summary": "Eat plain, or split and filled, straight from the pan."
+      "title": {
+        "en": "Serve hot"
+      },
+      "summary": {
+        "en": "Eat plain, or split and filled, straight from the pan."
+      }
     }
   ],
   "source": {

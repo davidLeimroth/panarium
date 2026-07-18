@@ -129,24 +129,44 @@
   ],
   "method": [
     {
-      "title": "Starter",
-      "summary": "The day before, mix wheat flour, water and a little bran into a firm dough (massa velha) and let it ferment 8-12 hours; you'll use about three-quarters of it here and can keep the rest going for next time."
+      "title": {
+        "en": "Starter"
+      },
+      "summary": {
+        "en": "The day before, mix wheat flour, water and a little bran into a firm dough (massa velha) and let it ferment 8-12 hours; you'll use about three-quarters of it here and can keep the rest going for next time."
+      }
     },
     {
-      "title": "Scald the cornmeal",
-      "summary": "Pour boiling water over the sifted cornmeal and stir until fully hydrated, then cool to below 40°C, about 30-45 minutes."
+      "title": {
+        "en": "Scald the cornmeal"
+      },
+      "summary": {
+        "en": "Pour boiling water over the sifted cornmeal and stir until fully hydrated, then cool to below 40°C, about 30-45 minutes."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Work the rye flour, more tepid water, salt, the starter, and a little yeast if using, into the cooled cornmeal mash by hand until evenly combined."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Work the rye flour, more tepid water, salt, the starter, and a little yeast if using, into the cooled cornmeal mash by hand until evenly combined."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Cover and let rise 1-2 hours until the surface visibly cracks, a sign it's ready."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Cover and let rise 1-2 hours until the surface visibly cracks, a sign it's ready."
+      }
     },
     {
-      "title": "Shape and bake",
-      "summary": "Shape into a round loaf and bake at 250°C for 30-40 minutes until the core reaches 98-100°C and the crust turns deep and crackly."
+      "title": {
+        "en": "Shape and bake"
+      },
+      "summary": {
+        "en": "Shape into a round loaf and bake at 250°C for 30-40 minutes until the core reaches 98-100°C and the crust turns deep and crackly."
+      }
     }
   ],
   "source": {

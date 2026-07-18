@@ -124,28 +124,52 @@
   ],
   "method": [
     {
-      "title": "Build the sour",
-      "summary": "Mix whole rye flour, water and rye starter; ferment 10-12 hours until doubled with a bubbly surface."
+      "title": {
+        "en": "Build the sour"
+      },
+      "summary": {
+        "en": "Mix whole rye flour, water and rye starter; ferment 10-12 hours until doubled with a bubbly surface."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the sour with the coarse and medium rye meals, remaining water, salt, brown sugar and caraway into a loose, batter-like dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the sour with the coarse and medium rye meals, remaining water, salt, brown sugar and caraway into a loose, batter-like dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Leave at room temperature until visibly expanded and bubbling, roughly 12-16 hours in total."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Leave at room temperature until visibly expanded and bubbling, roughly 12-16 hours in total."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Scrape onto a floured peel or sheet and shape into a long oblong loaf."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Scrape onto a floured peel or sheet and shape into a long oblong loaf."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot, then lower the oven and continue until deeply set inside."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot, then lower the oven and continue until deeply set inside."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cool completely and rest 24-48 hours before the first slice."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cool completely and rest 24-48 hours before the first slice."
+      }
     }
   ],
   "source": {

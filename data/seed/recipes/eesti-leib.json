@@ -132,32 +132,60 @@
   ],
   "method": [
     {
-      "title": "Build the leaven",
-      "summary": "Mix dark rye flour, water and sourdough starter; ferment 18-24 hours in a warm, draft-free spot until frothy."
+      "title": {
+        "en": "Build the leaven"
+      },
+      "summary": {
+        "en": "Mix dark rye flour, water and sourdough starter; ferment 18-24 hours in a warm, draft-free spot until frothy."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Stir in salt, sugar, the rest of the rye flour, oats, coriander, fennel and sunflower seeds."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Stir in salt, sugar, the rest of the rye flour, oats, coriander, fennel and sunflower seeds."
+      }
     },
     {
-      "title": "Adjust texture",
-      "summary": "Add a little extra rye flour for a firmer loaf, or leave it wetter for a more open crumb."
+      "title": {
+        "en": "Adjust texture"
+      },
+      "summary": {
+        "en": "Add a little extra rye flour for a firmer loaf, or leave it wetter for a more open crumb."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Spoon into a greased loaf pan and smooth the top with a wet spoon."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Spoon into a greased loaf pan and smooth the top with a wet spoon."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let rise 2-6 hours until domed."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let rise 2-6 hours until domed."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot with steam for the first stretch, then lower the heat and finish until cooked through."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot with steam for the first stretch, then lower the heat and finish until cooked through."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cool, then cover and rest at least 2 hours before slicing."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cool, then cover and rest at least 2 hours before slicing."
+      }
     }
   ],
   "source": {

@@ -144,28 +144,52 @@
   ],
   "method": [
     {
-      "title": "Rub in butter",
-      "summary": "Sift the flour with the salt, then rub in the butter until the mixture looks like coarse crumbs."
+      "title": {
+        "en": "Rub in butter"
+      },
+      "summary": {
+        "en": "Sift the flour with the salt, then rub in the butter until the mixture looks like coarse crumbs."
+      }
     },
     {
-      "title": "Bloom & mix",
-      "summary": "Whisk the warm milk with the yeast and a pinch of the sugar until frothy, then beat in the egg, lemon zest and remaining sugar, and combine with the flour mixture."
+      "title": {
+        "en": "Bloom & mix"
+      },
+      "summary": {
+        "en": "Whisk the warm milk with the yeast and a pinch of the sugar until frothy, then beat in the egg, lemon zest and remaining sugar, and combine with the flour mixture."
+      }
     },
     {
-      "title": "Knead & first rise",
-      "summary": "Knead into a smooth, elastic dough for about 10 minutes, then cover and prove in a warm place until doubled, about 45 minutes."
+      "title": {
+        "en": "Knead & first rise"
+      },
+      "summary": {
+        "en": "Knead into a smooth, elastic dough for about 10 minutes, then cover and prove in a warm place until doubled, about 45 minutes."
+      }
     },
     {
-      "title": "Add fruit",
-      "summary": "Knead in the currants and candied orange peel just until distributed."
+      "title": {
+        "en": "Add fruit"
+      },
+      "summary": {
+        "en": "Knead in the currants and candied orange peel just until distributed."
+      }
     },
     {
-      "title": "Shape & short second rise",
-      "summary": "Divide into 4 balls, space on a greased tray, and let puff for about 10 minutes."
+      "title": {
+        "en": "Shape & short second rise"
+      },
+      "summary": {
+        "en": "Divide into 4 balls, space on a greased tray, and let puff for about 10 minutes."
+      }
     },
     {
-      "title": "Glaze, top & bake",
-      "summary": "Brush with beaten egg, scatter with coarse nib sugar, and bake until golden."
+      "title": {
+        "en": "Glaze, top & bake"
+      },
+      "summary": {
+        "en": "Brush with beaten egg, scatter with coarse nib sugar, and bake until golden."
+      }
     }
   ],
   "source": {

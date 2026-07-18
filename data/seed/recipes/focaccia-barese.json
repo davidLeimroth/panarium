@@ -160,28 +160,52 @@
   ],
   "method": [
     {
-      "title": "Poolish",
-      "summary": "Mix a small portion of the flour blend with yeast and water and let it rise 2 hours at 26°C until bubbly."
+      "title": {
+        "en": "Poolish"
+      },
+      "summary": {
+        "en": "Mix a small portion of the flour blend with yeast and water and let it rise 2 hours at 26°C until bubbly."
+      }
     },
     {
-      "title": "Mash in the potato",
-      "summary": "Boil and mash the potato while still warm, then combine with the poolish, remaining flours, water, oil and salt into a soft, very wet dough."
+      "title": {
+        "en": "Mash in the potato"
+      },
+      "summary": {
+        "en": "Boil and mash the potato while still warm, then combine with the poolish, remaining flours, water, oil and salt into a soft, very wet dough."
+      }
     },
     {
-      "title": "Fold, don't knead",
-      "summary": "Give the dough four gentle folds instead of kneading; the hydration is too high for conventional kneading."
+      "title": {
+        "en": "Fold, don't knead"
+      },
+      "summary": {
+        "en": "Give the dough four gentle folds instead of kneading; the hydration is too high for conventional kneading."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let the dough rise about 3 hours until roughly tripled."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let the dough rise about 3 hours until roughly tripled."
+      }
     },
     {
-      "title": "Pan and top",
-      "summary": "Press into an oiled pan, rest 30 minutes, then press halved tomatoes and whole olives into the surface and drizzle with oil, salt and oregano."
+      "title": {
+        "en": "Pan and top"
+      },
+      "summary": {
+        "en": "Press into an oiled pan, rest 30 minutes, then press halved tomatoes and whole olives into the surface and drizzle with oil, salt and oregano."
+      }
     },
     {
-      "title": "Final proof and bake",
-      "summary": "Proof 1.5 hours more, then bake at 200°C on a low rack for 12-15 minutes, finishing under the grill for a few minutes until the edges crisp and char slightly."
+      "title": {
+        "en": "Final proof and bake"
+      },
+      "summary": {
+        "en": "Proof 1.5 hours more, then bake at 200°C on a low rack for 12-15 minutes, finishing under the grill for a few minutes until the edges crisp and char slightly."
+      }
     }
   ],
   "source": {

@@ -147,6 +147,7 @@ export const de: Dict = {
     estimated: 'geschätzt',
     fromSource: 'aus der Quelle',
     openInLab: 'Im Teiglabor öffnen',
+    methodEnglishOnly: 'Die Schritte erscheinen vorerst auf Englisch.',
   },
   lab: {
     title: 'Das Teiglabor',

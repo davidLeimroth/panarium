@@ -149,32 +149,60 @@
   ],
   "method": [
     {
-      "title": "Toast the seeds",
-      "summary": "Lightly toast the seed mix to bring out its flavor."
+      "title": {
+        "en": "Toast the seeds"
+      },
+      "summary": {
+        "en": "Lightly toast the seed mix to bring out its flavor."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Rest the two flours with the water about 45 minutes."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Rest the two flours with the water about 45 minutes."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Work in the yeast, salt, oil and sugar until smooth and elastic."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Work in the yeast, salt, oil and sugar until smooth and elastic."
+      }
     },
     {
-      "title": "Fold in seeds",
-      "summary": "Fold the toasted seeds through the dough."
+      "title": {
+        "en": "Fold in seeds"
+      },
+      "summary": {
+        "en": "Fold the toasted seeds through the dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment about 2 hours until roughly tripled."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment about 2 hours until roughly tripled."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Divide into two loaves, shape, and proof until well puffed."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Divide into two loaves, shape, and proof until well puffed."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Score and bake hot with steam, finishing at a slightly lower heat until fully cooked through."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Score and bake hot with steam, finishing at a slightly lower heat until fully cooked through."
+      }
     }
   ],
   "source": {

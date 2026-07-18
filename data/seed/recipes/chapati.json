@@ -103,28 +103,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Stir atta, salt and warm water into a shaggy mass, then knead 5-8 minutes to a soft, smooth, tacky-but-not-sticky dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Stir atta, salt and warm water into a shaggy mass, then knead 5-8 minutes to a soft, smooth, tacky-but-not-sticky dough."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover and rest 10-15 minutes (or up to a day chilled) so the bran hydrates fully and the dough relaxes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover and rest 10-15 minutes (or up to a day chilled) so the bran hydrates fully and the dough relaxes."
+      }
     },
     {
-      "title": "Divide & roll",
-      "summary": "Divide into equal balls, then roll each into a thin, even round, dusting lightly with flour."
+      "title": {
+        "en": "Divide & roll"
+      },
+      "summary": {
+        "en": "Divide into equal balls, then roll each into a thin, even round, dusting lightly with flour."
+      }
     },
     {
-      "title": "First flip",
-      "summary": "Lay on a hot dry tawa and flip as soon as the underside sets, after about 10-15 seconds."
+      "title": {
+        "en": "First flip"
+      },
+      "summary": {
+        "en": "Lay on a hot dry tawa and flip as soon as the underside sets, after about 10-15 seconds."
+      }
     },
     {
-      "title": "Second flip & puff",
-      "summary": "Cook until small bubbles and brown specks appear, flip again, then hold briefly over an open flame or press gently so it puffs with trapped steam."
+      "title": {
+        "en": "Second flip & puff"
+      },
+      "summary": {
+        "en": "Cook until small bubbles and brown specks appear, flip again, then hold briefly over an open flame or press gently so it puffs with trapped steam."
+      }
     },
     {
-      "title": "Finish",
-      "summary": "Stack warm in a cloth-lined container, brushing with ghee or butter if desired."
+      "title": {
+        "en": "Finish"
+      },
+      "summary": {
+        "en": "Stack warm in a cloth-lined container, brushing with ghee or butter if desired."
+      }
     }
   ],
   "source": {

@@ -119,24 +119,44 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Whisk barley flour, wheat flour, baking powder and salt, then stir in milk, melted butter and egg to a thick, smooth batter."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Whisk barley flour, wheat flour, baking powder and salt, then stir in milk, melted butter and egg to a thick, smooth batter."
+      }
     },
     {
-      "title": "Spread",
-      "summary": "Pour onto a greased sheet pan and spread into a round about 30cm across."
+      "title": {
+        "en": "Spread"
+      },
+      "summary": {
+        "en": "Pour onto a greased sheet pan and spread into a round about 30cm across."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a hot oven until firm and golden brown, 18-20 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a hot oven until firm and golden brown, 18-20 minutes."
+      }
     },
     {
-      "title": "Cool briefly",
-      "summary": "Rest a few minutes on a rack."
+      "title": {
+        "en": "Cool briefly"
+      },
+      "summary": {
+        "en": "Rest a few minutes on a rack."
+      }
     },
     {
-      "title": "Cut and serve",
-      "summary": "Slice into wedges and serve warm with butter, cheese or smoked fish."
+      "title": {
+        "en": "Cut and serve"
+      },
+      "summary": {
+        "en": "Slice into wedges and serve warm with butter, cheese or smoked fish."
+      }
     }
   ],
   "source": {

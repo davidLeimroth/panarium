@@ -135,32 +135,60 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water to a shaggy dough, then knead about 5 minutes."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water to a shaggy dough, then knead about 5 minutes."
+      }
     },
     {
-      "title": "Enrich",
-      "summary": "Work in the softened butter and knead 10 more minutes until smooth and elastic enough to stretch into a thin windowpane."
+      "title": {
+        "en": "Enrich"
+      },
+      "summary": {
+        "en": "Work in the softened butter and knead 10 more minutes until smooth and elastic enough to stretch into a thin windowpane."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and proof in a warm spot 1-2 hours until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and proof in a warm spot 1-2 hours until doubled."
+      }
     },
     {
-      "title": "Divide and rest",
-      "summary": "Divide into 8 pieces, shape into balls, and rest 15 minutes."
+      "title": {
+        "en": "Divide and rest"
+      },
+      "summary": {
+        "en": "Divide into 8 pieces, shape into balls, and rest 15 minutes."
+      }
     },
     {
-      "title": "Fill",
-      "summary": "Flatten each piece, place red bean paste in the center, gather the edges to seal, and reshape into a smooth ball."
+      "title": {
+        "en": "Fill"
+      },
+      "summary": {
+        "en": "Flatten each piece, place red bean paste in the center, gather the edges to seal, and reshape into a smooth ball."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Proof about 30 minutes until puffy; press a floured fingertip into the center of each bun and sprinkle with sesame seeds if using."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Proof about 30 minutes until puffy; press a floured fingertip into the center of each bun and sprinkle with sesame seeds if using."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 200°C (400°F) for 13-15 minutes until golden brown."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 200°C (400°F) for 13-15 minutes until golden brown."
+      }
     }
   ],
   "source": {

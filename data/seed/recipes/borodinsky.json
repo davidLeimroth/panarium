@@ -135,32 +135,60 @@
   ],
   "method": [
     {
-      "title": "Make the scald",
-      "summary": "Pour boiling water over crushed coriander, caraway, malted rye and part of the rye flour; hold warm for hours to gelatinize and sweeten."
+      "title": {
+        "en": "Make the scald"
+      },
+      "summary": {
+        "en": "Pour boiling water over crushed coriander, caraway, malted rye and part of the rye flour; hold warm for hours to gelatinize and sweeten."
+      }
     },
     {
-      "title": "Build the preferment",
-      "summary": "Mix rye flour, water and a little yeast; ferment about 12 hours until active."
+      "title": {
+        "en": "Build the preferment"
+      },
+      "summary": {
+        "en": "Mix rye flour, water and a little yeast; ferment about 12 hours until active."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the scald, preferment, remaining rye and wheat flours, salt, molasses and cocoa into a soft, sticky dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the scald, preferment, remaining rye and wheat flours, salt, molasses and cocoa into a soft, sticky dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Rest about 2 hours, folding once partway through."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Rest about 2 hours, folding once partway through."
+      }
     },
     {
-      "title": "Pan and proof",
-      "summary": "Shape into a pan loaf and proof about an hour until domed."
+      "title": {
+        "en": "Pan and proof"
+      },
+      "summary": {
+        "en": "Shape into a pan loaf and proof about an hour until domed."
+      }
     },
     {
-      "title": "Top and bake",
-      "summary": "Scatter whole coriander seed over the top, then bake until deeply set."
+      "title": {
+        "en": "Top and bake"
+      },
+      "summary": {
+        "en": "Scatter whole coriander seed over the top, then bake until deeply set."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least a few hours, ideally overnight, before slicing to avoid a gummy crumb."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least a few hours, ideally overnight, before slicing to avoid a gummy crumb."
+      }
     }
   ],
   "source": {

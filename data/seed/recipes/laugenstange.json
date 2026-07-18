@@ -126,32 +126,60 @@
   ],
   "method": [
     {
-      "title": "Mix the dough",
-      "summary": "Combine flour and salt, then work in milk, softened butter, sugar and yeast dissolved in warm water. Knead about 8 minutes to a smooth, soft dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine flour and salt, then work in milk, softened butter, sugar and yeast dissolved in warm water. Knead about 8 minutes to a smooth, soft dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough rise at room temperature for about an hour, until roughly doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough rise at room temperature for about an hour, until roughly doubled."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Divide into equal pieces and roll each into a slim, even baton, tapering the ends slightly."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Divide into equal pieces and roll each into a slim, even baton, tapering the ends slightly."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Let the shaped sticks rest uncovered for about 20 minutes so a light skin forms on the surface."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Let the shaped sticks rest uncovered for about 20 minutes so a light skin forms on the surface."
+      }
     },
     {
-      "title": "Lye dip",
-      "summary": "Dip each stick briefly in a hot alkaline bath (food-grade lye, or a home-safe baking-soda stand-in), this is what gives Laugengebäck its shiny mahogany crust and distinctive flavor."
+      "title": {
+        "en": "Lye dip"
+      },
+      "summary": {
+        "en": "Dip each stick briefly in a hot alkaline bath (food-grade lye, or a home-safe baking-soda stand-in), this is what gives Laugengebäck its shiny mahogany crust and distinctive flavor."
+      }
     },
     {
-      "title": "Score and salt",
-      "summary": "Lift onto a lined baking sheet, cut a diagonal slash or two into each stick, and scatter with coarse salt."
+      "title": {
+        "en": "Score and salt"
+      },
+      "summary": {
+        "en": "Lift onto a lined baking sheet, cut a diagonal slash or two into each stick, and scatter with coarse salt."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a hot oven until deeply golden-brown and glossy, about 20 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a hot oven until deeply golden-brown and glossy, about 20 minutes."
+      }
     }
   ],
   "source": {

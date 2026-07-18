@@ -160,32 +160,60 @@
   ],
   "method": [
     {
-      "title": "Cream and flavor",
-      "summary": "Beat eggs, egg yolks and sugar until pale, then stir in citrus zest and vanilla sugar."
+      "title": {
+        "en": "Cream and flavor"
+      },
+      "summary": {
+        "en": "Beat eggs, egg yolks and sugar until pale, then stir in citrus zest and vanilla sugar."
+      }
     },
     {
-      "title": "Build the dough",
-      "summary": "Dissolve the yeast in a little warm milk and let it foam, then combine with the egg mixture, remaining milk, melted butter and shortening, salt and flour into a smooth, soft dough. Knead well."
+      "title": {
+        "en": "Build the dough"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in a little warm milk and let it foam, then combine with the egg mixture, remaining milk, melted butter and shortening, salt and flour into a smooth, soft dough. Knead well."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough double in a warm place, about 1.5 hours."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough double in a warm place, about 1.5 hours."
+      }
     },
     {
-      "title": "Divide and rest",
-      "summary": "Divide the dough into four balls, shape them round, and let them rest briefly on a lined sheet."
+      "title": {
+        "en": "Divide and rest"
+      },
+      "summary": {
+        "en": "Divide the dough into four balls, shape them round, and let them rest briefly on a lined sheet."
+      }
     },
     {
-      "title": "Score and proof",
-      "summary": "Slash a cross into the top of each loaf, then let them puff for about 20 minutes before baking."
+      "title": {
+        "en": "Score and proof"
+      },
+      "summary": {
+        "en": "Slash a cross into the top of each loaf, then let them puff for about 20 minutes before baking."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 150°C for about 30 minutes, then brush with a light sugar syrup and bake 10 minutes more until deep gold."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 150°C for about 30 minutes, then brush with a light sugar syrup and bake 10 minutes more until deep gold."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool on a rack; the crust stays soft and faintly sticky from the syrup."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool on a rack; the crust stays soft and faintly sticky from the syrup."
+      }
     }
   ],
   "source": {

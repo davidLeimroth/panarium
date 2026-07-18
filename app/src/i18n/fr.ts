@@ -147,6 +147,7 @@ export const fr: Dict = {
     estimated: 'estimé',
     fromSource: 'd’après la source',
     openInLab: 'Ouvrir au labo à pâte',
+    methodEnglishOnly: 'Les étapes sont affichées en anglais pour le moment.',
   },
   lab: {
     title: 'Le Labo à Pâte',

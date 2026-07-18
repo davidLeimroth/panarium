@@ -124,28 +124,52 @@
   ],
   "method": [
     {
-      "title": "Preheat the skillet",
-      "summary": "Set a well-greased 10-inch cast-iron skillet in a very hot oven for 5-10 minutes so it's smoking-hot before the batter goes in."
+      "title": {
+        "en": "Preheat the skillet"
+      },
+      "summary": {
+        "en": "Set a well-greased 10-inch cast-iron skillet in a very hot oven for 5-10 minutes so it's smoking-hot before the batter goes in."
+      }
     },
     {
-      "title": "Mix dry",
-      "summary": "Whisk cornmeal, flour, baking powder, baking soda and salt together."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Whisk cornmeal, flour, baking powder, baking soda and salt together."
+      }
     },
     {
-      "title": "Mix wet",
-      "summary": "Beat buttermilk, eggs and oil together in a separate bowl."
+      "title": {
+        "en": "Mix wet"
+      },
+      "summary": {
+        "en": "Beat buttermilk, eggs and oil together in a separate bowl."
+      }
     },
     {
-      "title": "Combine",
-      "summary": "Stir the wet mixture into the dry just until combined; do not overmix."
+      "title": {
+        "en": "Combine"
+      },
+      "summary": {
+        "en": "Stir the wet mixture into the dry just until combined; do not overmix."
+      }
     },
     {
-      "title": "Sear and bake",
-      "summary": "Carefully swirl the hot oil around the skillet to coat it, pour in the batter so it sizzles, and bake until golden and set."
+      "title": {
+        "en": "Sear and bake"
+      },
+      "summary": {
+        "en": "Carefully swirl the hot oil around the skillet to coat it, pour in the batter so it sizzles, and bake until golden and set."
+      }
     },
     {
-      "title": "Rest, then unmold",
-      "summary": "Cool a few minutes in the pan before turning out, or simply serve straight from the skillet."
+      "title": {
+        "en": "Rest, then unmold"
+      },
+      "summary": {
+        "en": "Cool a few minutes in the pan before turning out, or simply serve straight from the skillet."
+      }
     }
   ],
   "source": {

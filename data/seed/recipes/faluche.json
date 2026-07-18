@@ -115,28 +115,52 @@
   ],
   "method": [
     {
-      "title": "Bloom",
-      "summary": "Warm the milk and dissolve the yeast in it for a few minutes."
+      "title": {
+        "en": "Bloom"
+      },
+      "summary": {
+        "en": "Warm the milk and dissolve the yeast in it for a few minutes."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Whisk in the water, oil, sugar and salt, then work into the flour to a smooth, slightly sticky dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Whisk in the water, oil, sugar and salt, then work into the flour to a smooth, slightly sticky dough."
+      }
     },
     {
-      "title": "Long rest",
-      "summary": "Cover and let rest a full three hours at room temperature."
+      "title": {
+        "en": "Long rest"
+      },
+      "summary": {
+        "en": "Cover and let rest a full three hours at room temperature."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Knock back, divide into four, and roll each piece into a thin, flat disc."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Knock back, divide into four, and roll each piece into a thin, flat disc."
+      }
     },
     {
-      "title": "Relax",
-      "summary": "Let the discs relax about an hour."
+      "title": {
+        "en": "Relax"
+      },
+      "summary": {
+        "en": "Let the discs relax about an hour."
+      }
     },
     {
-      "title": "Bake pale",
-      "summary": "Brush with oil, dust with flour, and bake at low heat so the faluches stay pale and soft rather than browning."
+      "title": {
+        "en": "Bake pale"
+      },
+      "summary": {
+        "en": "Brush with oil, dust with flour, and bake at low heat so the faluches stay pale and soft rather than browning."
+      }
     }
   ],
   "source": {

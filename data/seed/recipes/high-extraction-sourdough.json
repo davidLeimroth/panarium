@@ -106,36 +106,68 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter with the high-extraction flour and water; ripen about 5 hours."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter with the high-extraction flour and water; ripen about 5 hours."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the remaining flour and water; rest 1.5 hours."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the remaining flour and water; rest 1.5 hours."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Add the levain, remaining water and salt; develop through slap-and-fold or bowl folds until smooth."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Add the levain, remaining water and salt; develop through slap-and-fold or bowl folds until smooth."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment about 4 hours with six sequential stretch-and-fold sets."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment about 4 hours with six sequential stretch-and-fold sets."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, preshape into tight rounds, bench-rest 35 minutes, then final-shape as boule or bâtard."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, preshape into tight rounds, bench-rest 35 minutes, then final-shape as boule or bâtard."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Proof in sealed baskets in the refrigerator overnight, about 18 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Proof in sealed baskets in the refrigerator overnight, about 18 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered, then 30-35 minutes uncovered until the internal temperature reaches 96-98°C."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered, then 30-35 minutes uncovered until the internal temperature reaches 96-98°C."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least an hour before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least an hour before slicing."
+      }
     }
   ],
   "source": {

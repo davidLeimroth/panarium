@@ -134,32 +134,60 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, milk powder, sugar and salt; activate yeast in warm water, then work in the butter and bring together into a dense dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, milk powder, sugar and salt; activate yeast in warm water, then work in the butter and bring together into a dense dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 7-10 minutes until smooth."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 7-10 minutes until smooth."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about 1 hour in a warm spot until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about 1 hour in a warm spot until doubled."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Divide into 20 pieces (about 50g each), roll into tight balls, and arrange on a lined tray."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Divide into 20 pieces (about 50g each), roll into tight balls, and arrange on a lined tray."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Snip two crossing cuts across the top of each ball with scissors to form a star/crown pattern."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Snip two crossing cuts across the top of each ball with scissors to form a star/crown pattern."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Cover and rest 30 minutes; the dough barely rises further before baking."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Cover and rest 30 minutes; the dough barely rises further before baking."
+      }
     },
     {
-      "title": "Finish and bake",
-      "summary": "Brush with egg wash, sprinkle generously with sugar, and bake at 180°C (350°F) for 18-20 minutes until golden."
+      "title": {
+        "en": "Finish and bake"
+      },
+      "summary": {
+        "en": "Brush with egg wash, sprinkle generously with sugar, and bake at 180°C (350°F) for 18-20 minutes until golden."
+      }
     }
   ],
   "source": {

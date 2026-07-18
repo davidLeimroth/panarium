@@ -142,32 +142,60 @@
   ],
   "method": [
     {
-      "title": "Make hot-water dough",
-      "summary": "Stir boiling water into flour to a shaggy mass, knead by hand, then rest covered 15 minutes and knead smooth."
+      "title": {
+        "en": "Make hot-water dough"
+      },
+      "summary": {
+        "en": "Stir boiling water into flour to a shaggy mass, knead by hand, then rest covered 15 minutes and knead smooth."
+      }
     },
     {
-      "title": "Mix the paste",
-      "summary": "Blend melted lard with flour, salt and ground Sichuan pepper into a smooth paste."
+      "title": {
+        "en": "Mix the paste"
+      },
+      "summary": {
+        "en": "Blend melted lard with flour, salt and ground Sichuan pepper into a smooth paste."
+      }
     },
     {
-      "title": "Roll & spread",
-      "summary": "Roll the dough into a large thin rectangle, spread with the paste, and scatter chopped scallions over the top."
+      "title": {
+        "en": "Roll & spread"
+      },
+      "summary": {
+        "en": "Roll the dough into a large thin rectangle, spread with the paste, and scatter chopped scallions over the top."
+      }
     },
     {
-      "title": "Roll & coil",
-      "summary": "Roll up from the short end into a rope, cut into sections, then coil each piece and tuck the end under."
+      "title": {
+        "en": "Roll & coil"
+      },
+      "summary": {
+        "en": "Roll up from the short end into a rope, cut into sections, then coil each piece and tuck the end under."
+      }
     },
     {
-      "title": "Flatten",
-      "summary": "Press and roll each coil gently into a thick round, keeping the spiral layers intact."
+      "title": {
+        "en": "Flatten"
+      },
+      "summary": {
+        "en": "Press and roll each coil gently into a thick round, keeping the spiral layers intact."
+      }
     },
     {
-      "title": "Pan-fry",
-      "summary": "Fry in a lidded pan with a little oil over medium-high heat, about 2 minutes per side, until golden and crisp."
+      "title": {
+        "en": "Pan-fry"
+      },
+      "summary": {
+        "en": "Fry in a lidded pan with a little oil over medium-high heat, about 2 minutes per side, until golden and crisp."
+      }
     },
     {
-      "title": "Rest & cut",
-      "summary": "Let rest briefly, then cut into wedges and serve hot."
+      "title": {
+        "en": "Rest & cut"
+      },
+      "summary": {
+        "en": "Let rest briefly, then cut into wedges and serve hot."
+      }
     }
   ],
   "source": {

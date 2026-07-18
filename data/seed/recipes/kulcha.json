@@ -129,24 +129,44 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Whisk flour with baking soda, baking powder, sugar and salt, then work in yogurt, oil and warm milk to a soft, smooth dough; knead about 7 minutes."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Whisk flour with baking soda, baking powder, sugar and salt, then work in yogurt, oil and warm milk to a soft, smooth dough; knead about 7 minutes."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover and rest about 20 minutes at room temperature so the chemical leaveners get to work and gluten relaxes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover and rest about 20 minutes at room temperature so the chemical leaveners get to work and gluten relaxes."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Divide into 6 balls and roll each into a 6-inch disc, keeping some thickness for a soft bite."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Divide into 6 balls and roll each into a 6-inch disc, keeping some thickness for a soft bite."
+      }
     },
     {
-      "title": "Cook",
-      "summary": "Lay on a hot, dry griddle; cook until bubbles rise on the surface, flip, and cook the other side until brown spots appear."
+      "title": {
+        "en": "Cook"
+      },
+      "summary": {
+        "en": "Lay on a hot, dry griddle; cook until bubbles rise on the surface, flip, and cook the other side until brown spots appear."
+      }
     },
     {
-      "title": "Finish",
-      "summary": "Brush hot off the pan with melted butter and serve immediately, torn by hand, with a chickpea or lentil curry."
+      "title": {
+        "en": "Finish"
+      },
+      "summary": {
+        "en": "Brush hot off the pan with melted butter and serve immediately, torn by hand, with a chickpea or lentil curry."
+      }
     }
   ],
   "source": {

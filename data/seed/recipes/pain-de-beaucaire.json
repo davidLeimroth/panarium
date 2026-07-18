@@ -109,28 +109,52 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Have a generous levain ready, roughly a fifth of the final dough's flour."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Have a generous levain ready, roughly a fifth of the final dough's flour."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine flour, water, levain and salt with a little yeast; knead 10-15 minutes."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, water, levain and salt with a little yeast; knead 10-15 minutes."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Rest about an hour."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Rest about an hour."
+      }
     },
     {
-      "title": "Laminate",
-      "summary": "Stretch the dough out and fold it over itself once, rest, then fold again from the width and seal the base."
+      "title": {
+        "en": "Laminate"
+      },
+      "summary": {
+        "en": "Stretch the dough out and fold it over itself once, rest, then fold again from the width and seal the base."
+      }
     },
     {
-      "title": "Finish the fold",
-      "summary": "For the classic look, roll the final fold through a little oil, bran or whole wheat flour."
+      "title": {
+        "en": "Finish the fold"
+      },
+      "summary": {
+        "en": "For the classic look, roll the final fold through a little oil, bran or whole wheat flour."
+      }
     },
     {
-      "title": "Score and bake",
-      "summary": "Proof 90 minutes, then cut lengthwise following the fold line and bake hot with steam."
+      "title": {
+        "en": "Score and bake"
+      },
+      "summary": {
+        "en": "Proof 90 minutes, then cut lengthwise following the fold line and bake hot with steam."
+      }
     }
   ],
   "source": {

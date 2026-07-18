@@ -110,28 +110,52 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Combine flour and salt, then rub in cold butter until the mixture looks like coarse crumbs."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Combine flour and salt, then rub in cold butter until the mixture looks like coarse crumbs."
+      }
     },
     {
-      "title": "Add liquid",
-      "summary": "Make a well in the center, pour in milk and water, and stir just until a soft dough comes together."
+      "title": {
+        "en": "Add liquid"
+      },
+      "summary": {
+        "en": "Make a well in the center, pour in milk and water, and stir just until a soft dough comes together."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Gather the dough into one round loaf, or divide into smaller portions."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Gather the dough into one round loaf, or divide into smaller portions."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Cut a cross into the top so it bakes through evenly."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Cut a cross into the top so it bakes through evenly."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a hot oven, camp oven, or nestled in campfire coals until golden and hollow-sounding when tapped."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a hot oven, camp oven, or nestled in campfire coals until golden and hollow-sounding when tapped."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Tear or slice while still warm, with butter and golden syrup or honey."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Tear or slice while still warm, with butter and golden syrup or honey."
+      }
     }
   ],
   "source": {

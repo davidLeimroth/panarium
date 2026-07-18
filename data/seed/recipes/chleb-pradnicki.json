@@ -110,32 +110,60 @@
   ],
   "method": [
     {
-      "title": "Feed the starter",
-      "summary": "Build or refresh an active rye sourdough starter."
+      "title": {
+        "en": "Feed the starter"
+      },
+      "summary": {
+        "en": "Build or refresh an active rye sourdough starter."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine the starter with rye flour and warm water; rest covered 8 hours or overnight."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the starter with rye flour and warm water; rest covered 8 hours or overnight."
+      }
     },
     {
-      "title": "Season",
-      "summary": "Work in the remaining water and salt, then knead in the sunflower seeds and more rye flour to a workable, slightly sticky dough."
+      "title": {
+        "en": "Season"
+      },
+      "summary": {
+        "en": "Work in the remaining water and salt, then knead in the sunflower seeds and more rye flour to a workable, slightly sticky dough."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide between two loaf pans and score the tops in a criss-cross pattern."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide between two loaf pans and score the tops in a criss-cross pattern."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Brush with boiling water and let rise about 2 hours in a warm spot."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Brush with boiling water and let rise about 2 hours in a warm spot."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Blast the oven at maximum heat, then bake at 200°C, brushing again with boiling water partway through."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Blast the oven at maximum heat, then bake at 200°C, brushing again with boiling water partway through."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cool completely; the flavor is best from the second day on."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cool completely; the flavor is best from the second day on."
+      }
     }
   ],
   "source": {

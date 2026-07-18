@@ -136,32 +136,60 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Whisk teff flour, tapioca (or cassava) flour, psyllium husk, salt and instant yeast together."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Whisk teff flour, tapioca (or cassava) flour, psyllium husk, salt and instant yeast together."
+      }
     },
     {
-      "title": "Mix wet",
-      "summary": "Whisk in water, maple syrup and oil until the mixture becomes a thin, aerated batter full of tiny bubbles."
+      "title": {
+        "en": "Mix wet"
+      },
+      "summary": {
+        "en": "Whisk in water, maple syrup and oil until the mixture becomes a thin, aerated batter full of tiny bubbles."
+      }
     },
     {
-      "title": "First proof",
-      "summary": "Cover and let stand about 1 hour until the batter firms up, turns pliable and stays bubbled on top."
+      "title": {
+        "en": "First proof"
+      },
+      "summary": {
+        "en": "Cover and let stand about 1 hour until the batter firms up, turns pliable and stays bubbled on top."
+      }
     },
     {
-      "title": "Pan",
-      "summary": "Scrape into a lined Pullman tin and smooth the top with a wet hand."
+      "title": {
+        "en": "Pan"
+      },
+      "summary": {
+        "en": "Scrape into a lined Pullman tin and smooth the top with a wet hand."
+      }
     },
     {
-      "title": "Second proof",
-      "summary": "Cover tightly and proof 1-2 hours until the batter domes slightly above the rim."
+      "title": {
+        "en": "Second proof"
+      },
+      "summary": {
+        "en": "Cover tightly and proof 1-2 hours until the batter domes slightly above the rim."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 220°C for 20 minutes, then drop to 200°C for 30-40 minutes more until deeply golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 220°C for 20 minutes, then drop to 200°C for 30-40 minutes more until deeply golden."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest 20 minutes in the tin, then cool completely on a rack before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest 20 minutes in the tin, then cool completely on a rack before slicing."
+      }
     }
   ],
   "source": {

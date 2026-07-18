@@ -133,32 +133,60 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Warm the milk, stir in butter and half the sugar, then add yeast and rest 20 minutes."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Warm the milk, stir in butter and half the sugar, then add yeast and rest 20 minutes."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine flour and remaining sugar, then work in the yeast mixture and lightly beaten egg whites."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour and remaining sugar, then work in the yeast mixture and lightly beaten egg whites."
+      }
     },
     {
-      "title": "Knead and rise",
-      "summary": "Knead with salt to a smooth, soft dough, then cover and let double, about 1 hour."
+      "title": {
+        "en": "Knead and rise"
+      },
+      "summary": {
+        "en": "Knead with salt to a smooth, soft dough, then cover and let double, about 1 hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide and roll into rings; rest 20 minutes."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide and roll into rings; rest 20 minutes."
+      }
     },
     {
-      "title": "Boil",
-      "summary": "Dip each ring in barely simmering water for 15-20 seconds."
+      "title": {
+        "en": "Boil"
+      },
+      "summary": {
+        "en": "Dip each ring in barely simmering water for 15-20 seconds."
+      }
     },
     {
-      "title": "Glaze and top",
-      "summary": "Brush with beaten egg yolk mixed with milk, then coat generously with poppy or sesame seeds."
+      "title": {
+        "en": "Glaze and top"
+      },
+      "summary": {
+        "en": "Brush with beaten egg yolk mixed with milk, then coat generously with poppy or sesame seeds."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until glossy and golden brown, 15-20 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until glossy and golden brown, 15-20 minutes."
+      }
     }
   ],
   "source": {

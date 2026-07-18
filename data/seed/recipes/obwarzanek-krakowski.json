@@ -123,28 +123,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Dissolve yeast in warm water, rest 5-10 minutes, then combine with flour and salt into a smooth dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Dissolve yeast in warm water, rest 5-10 minutes, then combine with flour and salt into a smooth dough."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Cover and let double in size, 1-2 hours."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Cover and let double in size, 1-2 hours."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide and roll each piece into a long rope, fold in half, twist into a spiral, then join the ends into a ring."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide and roll each piece into a long rope, fold in half, twist into a spiral, then join the ends into a ring."
+      }
     },
     {
-      "title": "Boil",
-      "summary": "Simmer baking soda and honey in a large pot of water; dip each ring 15-20 seconds per side."
+      "title": {
+        "en": "Boil"
+      },
+      "summary": {
+        "en": "Simmer baking soda and honey in a large pot of water; dip each ring 15-20 seconds per side."
+      }
     },
     {
-      "title": "Top",
-      "summary": "Transfer to a lined sheet and scatter with sesame seeds, poppy seeds or coarse salt."
+      "title": {
+        "en": "Top"
+      },
+      "summary": {
+        "en": "Transfer to a lined sheet and scatter with sesame seeds, poppy seeds or coarse salt."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until deeply golden, about 20 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until deeply golden, about 20 minutes."
+      }
     }
   ],
   "source": {

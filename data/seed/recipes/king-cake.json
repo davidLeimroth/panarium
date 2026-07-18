@@ -187,32 +187,60 @@
   ],
   "method": [
     {
-      "title": "Mix the dough",
-      "summary": "Combine warm water, milk, yeast, sugar, butter, salt, nutmeg, eggs and flour into a soft, enriched dough; knead until smooth."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine warm water, milk, yeast, sugar, butter, salt, nutmeg, eggs and flour into a soft, enriched dough; knead until smooth."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough double in size in a warm place."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough double in size in a warm place."
+      }
     },
     {
-      "title": "Fill",
-      "summary": "Roll the dough into a long rectangle and spread it with melted butter, brown sugar and cinnamon."
+      "title": {
+        "en": "Fill"
+      },
+      "summary": {
+        "en": "Roll the dough into a long rectangle and spread it with melted butter, brown sugar and cinnamon."
+      }
     },
     {
-      "title": "Roll and twist",
-      "summary": "Roll up tightly like a jelly roll, slice the log in half lengthwise, then twist the two halves together with the cut sides facing up."
+      "title": {
+        "en": "Roll and twist"
+      },
+      "summary": {
+        "en": "Roll up tightly like a jelly roll, slice the log in half lengthwise, then twist the two halves together with the cut sides facing up."
+      }
     },
     {
-      "title": "Ring and proof",
-      "summary": "Join the ends into a circle on a baking sheet and let it proof until puffy."
+      "title": {
+        "en": "Ring and proof"
+      },
+      "summary": {
+        "en": "Join the ends into a circle on a baking sheet and let it proof until puffy."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until golden brown and cooked through."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until golden brown and cooked through."
+      }
     },
     {
-      "title": "Decorate",
-      "summary": "Once cool, drizzle with icing and dust bands of purple, green and gold sugar over the top; tuck the plastic baby in from underneath."
+      "title": {
+        "en": "Decorate"
+      },
+      "summary": {
+        "en": "Once cool, drizzle with icing and dust bands of purple, green and gold sugar over the top; tuck the plastic baby in from underneath."
+      }
     }
   ],
   "source": {

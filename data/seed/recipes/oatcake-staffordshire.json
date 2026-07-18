@@ -131,28 +131,52 @@
   ],
   "method": [
     {
-      "title": "Mix batter",
-      "summary": "Combine ground oatmeal, both flours, salt and yeast, then whisk in the warm milk and water to a smooth, pourable batter."
+      "title": {
+        "en": "Mix batter"
+      },
+      "summary": {
+        "en": "Combine ground oatmeal, both flours, salt and yeast, then whisk in the warm milk and water to a smooth, pourable batter."
+      }
     },
     {
-      "title": "Ferment",
-      "summary": "Cover and let the batter rest at room temperature until bubbly, 1 to 2 hours."
+      "title": {
+        "en": "Ferment"
+      },
+      "summary": {
+        "en": "Cover and let the batter rest at room temperature until bubbly, 1 to 2 hours."
+      }
     },
     {
-      "title": "Heat the pan",
-      "summary": "Lightly oil a large frying pan or griddle and heat over medium-high."
+      "title": {
+        "en": "Heat the pan"
+      },
+      "summary": {
+        "en": "Lightly oil a large frying pan or griddle and heat over medium-high."
+      }
     },
     {
-      "title": "Pour & spread",
-      "summary": "Ladle in enough batter to make a thin round about 20cm across, tilting the pan to spread it evenly."
+      "title": {
+        "en": "Pour & spread"
+      },
+      "summary": {
+        "en": "Ladle in enough batter to make a thin round about 20cm across, tilting the pan to spread it evenly."
+      }
     },
     {
-      "title": "Cook both sides",
-      "summary": "Cook undisturbed until the surface turns from wet to dull and full of small holes, about 2 minutes, then flip and cook the other side."
+      "title": {
+        "en": "Cook both sides"
+      },
+      "summary": {
+        "en": "Cook undisturbed until the surface turns from wet to dull and full of small holes, about 2 minutes, then flip and cook the other side."
+      }
     },
     {
-      "title": "Serve or stack",
-      "summary": "Eat plain, or fill warm with a savory filling like cheese and bacon, roll up, and eat hot; stack and refry leftovers another day."
+      "title": {
+        "en": "Serve or stack"
+      },
+      "summary": {
+        "en": "Eat plain, or fill warm with a savory filling like cheese and bacon, roll up, and eat hot; stack and refry leftovers another day."
+      }
     }
   ],
   "source": {

@@ -129,36 +129,68 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter, bread flour, whole wheat flour and water; ripen about 5 hours."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter, bread flour, whole wheat flour and water; ripen about 5 hours."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the remaining flours and water; rest 1 hour."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the remaining flours and water; rest 1 hour."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Work in the levain, then the salt and reserved water."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Work in the levain, then the salt and reserved water."
+      }
     },
     {
-      "title": "Bulk ferment with olives",
-      "summary": "Fold in the rinsed, pitted olives and herbes de Provence during the first stretch-and-fold, then continue with two more sets over about 3.5 hours."
+      "title": {
+        "en": "Bulk ferment with olives"
+      },
+      "summary": {
+        "en": "Fold in the rinsed, pitted olives and herbes de Provence during the first stretch-and-fold, then continue with two more sets over about 3.5 hours."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, preshape, rest 30 minutes, then shape into batards or boules; optionally roll in wheat germ."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, preshape, rest 30 minutes, then shape into batards or boules; optionally roll in wheat germ."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Proof seam-side-up in the refrigerator overnight, about 14 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Proof seam-side-up in the refrigerator overnight, about 14 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep gold and the interior reads 96°C."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep gold and the interior reads 96°C."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest 1-2 hours before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest 1-2 hours before slicing."
+      }
     }
   ],
   "source": {

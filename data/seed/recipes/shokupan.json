@@ -136,32 +136,60 @@
   ],
   "method": [
     {
-      "title": "Cook the tangzhong",
-      "summary": "Whisk flour with water and milk in a small pan; cook over low heat, stirring constantly, until it thickens into a smooth paste, then cool to room temperature."
+      "title": {
+        "en": "Cook the tangzhong"
+      },
+      "summary": {
+        "en": "Whisk flour with water and milk in a small pan; cook over low heat, stirring constantly, until it thickens into a smooth paste, then cool to room temperature."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the cooled tangzhong with the remaining flour, milk powder, sugar, salt, yeast, milk and egg; knead in the melted butter until smooth and elastic, about 15 minutes."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the cooled tangzhong with the remaining flour, milk powder, sugar, salt, yeast, milk and egg; knead in the melted butter until smooth and elastic, about 15 minutes."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough rise at warm room temperature until puffy, about 1-1.5 hours."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough rise at warm room temperature until puffy, about 1-1.5 hours."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into four pieces, flatten and fold each into a tight log, then set them seam-down in the loaf pan."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into four pieces, flatten and fold each into a tight log, then set them seam-down in the loaf pan."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Proof until the dough crests just over the rim, 40-50 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Proof until the dough crests just over the rim, 40-50 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 177°C (350°F) for 30-35 minutes until deep golden and the loaf sounds hollow when tapped."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 177°C (350°F) for 30-35 minutes until deep golden and the loaf sounds hollow when tapped."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool briefly in the pan, then turn out onto a rack and cool fully before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool briefly in the pan, then turn out onto a rack and cool fully before slicing."
+      }
     }
   ],
   "source": {

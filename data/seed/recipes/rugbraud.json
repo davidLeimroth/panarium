@@ -121,28 +121,52 @@
   ],
   "method": [
     {
-      "title": "Mix the batter",
-      "summary": "Whisk rye flour, wheat flour, salt and baking soda, then stir in buttermilk and golden syrup to a loose, pourable batter."
+      "title": {
+        "en": "Mix the batter"
+      },
+      "summary": {
+        "en": "Whisk rye flour, wheat flour, salt and baking soda, then stir in buttermilk and golden syrup to a loose, pourable batter."
+      }
     },
     {
-      "title": "Fill the pot",
-      "summary": "Pour the batter into a well-buttered, lidded pot or Dutch oven."
+      "title": {
+        "en": "Fill the pot"
+      },
+      "summary": {
+        "en": "Pour the batter into a well-buttered, lidded pot or Dutch oven."
+      }
     },
     {
-      "title": "Cover",
-      "summary": "Top with a round of parchment and the lid to trap steam and moisture."
+      "title": {
+        "en": "Cover"
+      },
+      "summary": {
+        "en": "Top with a round of parchment and the lid to trap steam and moisture."
+      }
     },
     {
-      "title": "Slow-bake",
-      "summary": "Bake for many hours at a bare simmer-low oven temperature until fully set all the way through."
+      "title": {
+        "en": "Slow-bake"
+      },
+      "summary": {
+        "en": "Bake for many hours at a bare simmer-low oven temperature until fully set all the way through."
+      }
     },
     {
-      "title": "Turn out",
-      "summary": "Loosen the edges with a spatula and invert onto a cooling rack."
+      "title": {
+        "en": "Turn out"
+      },
+      "summary": {
+        "en": "Loosen the edges with a spatula and invert onto a cooling rack."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cool at least 20 minutes before slicing."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cool at least 20 minutes before slicing."
+      }
     }
   ],
   "source": {

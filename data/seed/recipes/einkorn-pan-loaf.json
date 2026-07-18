@@ -116,32 +116,60 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Stir yeast into warm water with honey; let sit until foamy, a few minutes."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Stir yeast into warm water with honey; let sit until foamy, a few minutes."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Stir in melted butter, then the einkorn flour and salt; mix just until fully hydrated into a soft, sticky, no-knead dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir in melted butter, then the einkorn flour and salt; mix just until fully hydrated into a soft, sticky, no-knead dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about 1 hour."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about 1 hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Press into a rectangle and roll up into a loaf shape; settle into a greased loaf pan."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Press into a rectangle and roll up into a loaf shape; settle into a greased loaf pan."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Cover with a damp towel and let rise 30-60 minutes until doubled."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Cover with a damp towel and let rise 30-60 minutes until doubled."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 190°C for 40-45 minutes until golden brown."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 190°C for 40-45 minutes until golden brown."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool completely on a rack before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool completely on a rack before slicing."
+      }
     }
   ],
   "source": {

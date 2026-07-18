@@ -110,28 +110,52 @@
   ],
   "method": [
     {
-      "title": "Mix & knead",
-      "summary": "Combine flour, yeast and salt, add water and oil, then knead 8-10 minutes to a smooth, elastic dough."
+      "title": {
+        "en": "Mix & knead"
+      },
+      "summary": {
+        "en": "Combine flour, yeast and salt, add water and oil, then knead 8-10 minutes to a smooth, elastic dough."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Prove in an oiled bowl until doubled, 45 minutes to an hour."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Prove in an oiled bowl until doubled, 45 minutes to an hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Flatten into a rectangle, fold both short ends into the middle like a letter, turn a quarter turn, flatten again, then roll into a tight cylinder and tuck the ends under."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Flatten into a rectangle, fold both short ends into the middle like a letter, turn a quarter turn, flatten again, then roll into a tight cylinder and tuck the ends under."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Rest seam-down on a floured tray until puffy, 35-45 minutes."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Rest seam-down on a floured tray until puffy, 35-45 minutes."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Cut three or four confident diagonal slashes along the top."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Cut three or four confident diagonal slashes along the top."
+      }
     },
     {
-      "title": "Bake with steam",
-      "summary": "Bake at high heat with a pan of hot water in the oven base for a burst of steam, until deep golden and hollow-sounding underneath, 30-35 minutes."
+      "title": {
+        "en": "Bake with steam"
+      },
+      "summary": {
+        "en": "Bake at high heat with a pan of hot water in the oven base for a burst of steam, until deep golden and hollow-sounding underneath, 30-35 minutes."
+      }
     }
   ],
   "source": {

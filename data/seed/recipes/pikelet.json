@@ -127,28 +127,52 @@
   ],
   "method": [
     {
-      "title": "Mix batter start",
-      "summary": "Combine part of the warm milk and water with the flours, sugar and yeast, and whisk to a smooth paste."
+      "title": {
+        "en": "Mix batter start"
+      },
+      "summary": {
+        "en": "Combine part of the warm milk and water with the flours, sugar and yeast, and whisk to a smooth paste."
+      }
     },
     {
-      "title": "Loosen",
-      "summary": "Gradually whisk in the rest of the liquid until the batter is smooth and pourable."
+      "title": {
+        "en": "Loosen"
+      },
+      "summary": {
+        "en": "Gradually whisk in the rest of the liquid until the batter is smooth and pourable."
+      }
     },
     {
-      "title": "Ferment",
-      "summary": "Cover and rest at room temperature until bubbly, 1 to 2 hours."
+      "title": {
+        "en": "Ferment"
+      },
+      "summary": {
+        "en": "Cover and rest at room temperature until bubbly, 1 to 2 hours."
+      }
     },
     {
-      "title": "Finish batter",
-      "summary": "Stir in the salt and sieved bicarbonate of soda just before cooking."
+      "title": {
+        "en": "Finish batter"
+      },
+      "summary": {
+        "en": "Stir in the salt and sieved bicarbonate of soda just before cooking."
+      }
     },
     {
-      "title": "Griddle",
-      "summary": "Lightly grease a hot griddle or frying pan and spoon on the batter freeform, without rings, cooking a few at a time."
+      "title": {
+        "en": "Griddle"
+      },
+      "summary": {
+        "en": "Lightly grease a hot griddle or frying pan and spoon on the batter freeform, without rings, cooking a few at a time."
+      }
     },
     {
-      "title": "Cook & flip",
-      "summary": "Cook undisturbed until the surface dries and bubbles, about 4-5 minutes, then flip briefly to finish, 1-2 minutes more."
+      "title": {
+        "en": "Cook & flip"
+      },
+      "summary": {
+        "en": "Cook undisturbed until the surface dries and bubbles, about 4-5 minutes, then flip briefly to finish, 1-2 minutes more."
+      }
     }
   ],
   "source": {

@@ -123,7 +123,28 @@
       "type": "array", "minItems": 3, "maxItems": 9,
       "items": {
         "type": "object", "required": ["title", "summary"], "additionalProperties": false,
-        "properties": { "title": { "type": "string", "maxLength": 60 }, "summary": { "type": "string", "maxLength": 300 } }
+        "properties": {
+          "title": {
+            "type": "object", "required": ["en"], "additionalProperties": false,
+            "description": "step title; en is REQUIRED, de/es/fr OPTIONAL, each <= 60 chars",
+            "properties": {
+              "en": { "type": "string", "maxLength": 60 },
+              "de": { "type": "string", "maxLength": 60 },
+              "es": { "type": "string", "maxLength": 60 },
+              "fr": { "type": "string", "maxLength": 60 }
+            }
+          },
+          "summary": {
+            "type": "object", "required": ["en"], "additionalProperties": false,
+            "description": "step summary; en is REQUIRED, de/es/fr OPTIONAL, each <= 300 chars",
+            "properties": {
+              "en": { "type": "string", "maxLength": 300 },
+              "de": { "type": "string", "maxLength": 300 },
+              "es": { "type": "string", "maxLength": 300 },
+              "fr": { "type": "string", "maxLength": 300 }
+            }
+          }
+        }
       }
     },
     "source": {

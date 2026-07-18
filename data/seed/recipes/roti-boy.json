@@ -170,28 +170,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, sugar, salt, milk powder and yeast; add egg and water and knead about 4 minutes, then work in the butter and knead 8 more minutes to a smooth, elastic dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, sugar, salt, milk powder and yeast; add egg and water and knead about 4 minutes, then work in the butter and knead 8 more minutes to a smooth, elastic dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and proof 45-60 minutes until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and proof 45-60 minutes until doubled."
+      }
     },
     {
-      "title": "Fill",
-      "summary": "Freeze 10g butter cubes; divide the dough into 6 portions, flatten each around a frozen butter cube, and seal tightly into a smooth ball."
+      "title": {
+        "en": "Fill"
+      },
+      "summary": {
+        "en": "Freeze 10g butter cubes; divide the dough into 6 portions, flatten each around a frozen butter cube, and seal tightly into a smooth ball."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Proof again until puffy and nearly doubled."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Proof again until puffy and nearly doubled."
+      }
     },
     {
-      "title": "Make the topping",
-      "summary": "Dissolve instant coffee in boiling water; cream butter and sugar, beat in the egg and coffee, then fold in the flour to a soft, pipeable paste."
+      "title": {
+        "en": "Make the topping"
+      },
+      "summary": {
+        "en": "Dissolve instant coffee in boiling water; cream butter and sugar, beat in the egg and coffee, then fold in the flour to a soft, pipeable paste."
+      }
     },
     {
-      "title": "Pipe and bake",
-      "summary": "Pipe the coffee topping in a spiral over the top two-thirds of each bun and bake at 180°C (355°F) for about 20 minutes until the topping is crisp and golden."
+      "title": {
+        "en": "Pipe and bake"
+      },
+      "summary": {
+        "en": "Pipe the coffee topping in a spiral over the top two-thirds of each bun and bake at 180°C (355°F) for about 20 minutes until the topping is crisp and golden."
+      }
     }
   ],
   "source": {

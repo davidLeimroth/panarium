@@ -129,32 +129,60 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter, bread flour and cool water; ferment about 12 hours at cool room temperature until nearly doubled."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter, bread flour and cool water; ferment about 12 hours at cool room temperature until nearly doubled."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the levain with flour, warm water, butter, sugar, milk powder, salt and instant yeast; knead until smooth and elastic."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the levain with flour, warm water, butter, sugar, milk powder, salt and instant yeast; knead until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough rise at room temperature 1-2 hours, until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough rise at room temperature 1-2 hours, until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in two, shape each half into a tight log, and settle into greased loaf pans."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in two, shape each half into a tight log, and settle into greased loaf pans."
+      }
     },
     {
-      "title": "Second proof",
-      "summary": "Proof 1-2 hours, until the dough crowns about an inch above the rim."
+      "title": {
+        "en": "Second proof"
+      },
+      "summary": {
+        "en": "Proof 1-2 hours, until the dough crowns about an inch above the rim."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 190°C for 30-35 minutes, until golden brown and the pan sides feel firm."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 190°C for 30-35 minutes, until golden brown and the pan sides feel firm."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Turn out onto a rack and cool completely before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Turn out onto a rack and cool completely before slicing."
+      }
     }
   ],
   "source": {

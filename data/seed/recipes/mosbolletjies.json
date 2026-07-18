@@ -138,32 +138,60 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Combine flour, salt, sugar, yeast and whole aniseed."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Combine flour, salt, sugar, yeast and whole aniseed."
+      }
     },
     {
-      "title": "Warm the liquids",
-      "summary": "Melt butter into the grape juice, then stir in warm milk and water."
+      "title": {
+        "en": "Warm the liquids"
+      },
+      "summary": {
+        "en": "Melt butter into the grape juice, then stir in warm milk and water."
+      }
     },
     {
-      "title": "Make the dough",
-      "summary": "Combine wet and dry ingredients into a soft dough and knead 5-10 minutes until elastic."
+      "title": {
+        "en": "Make the dough"
+      },
+      "summary": {
+        "en": "Combine wet and dry ingredients into a soft dough and knead 5-10 minutes until elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let it double, about 30 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let it double, about 30 minutes."
+      }
     },
     {
-      "title": "Pack the tins",
-      "summary": "Divide into small balls and pack them snugly, shoulder to shoulder, into buttered loaf tins."
+      "title": {
+        "en": "Pack the tins"
+      },
+      "summary": {
+        "en": "Divide into small balls and pack them snugly, shoulder to shoulder, into buttered loaf tins."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Let rise again until puffy, 30-45 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Let rise again until puffy, 30-45 minutes."
+      }
     },
     {
-      "title": "Bake and glaze",
-      "summary": "Bake until golden, then brush immediately with a warm sugar syrup while still hot."
+      "title": {
+        "en": "Bake and glaze"
+      },
+      "summary": {
+        "en": "Bake until golden, then brush immediately with a warm sugar syrup while still hot."
+      }
     }
   ],
   "source": {

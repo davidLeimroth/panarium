@@ -121,32 +121,60 @@
   ],
   "method": [
     {
-      "title": "Activate yeast",
-      "summary": "Stir yeast and sugar into lukewarm water and let it stand until foamy."
+      "title": {
+        "en": "Activate yeast"
+      },
+      "summary": {
+        "en": "Stir yeast and sugar into lukewarm water and let it stand until foamy."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine flour, water and butter, rest 30 minutes, then knead in the salt and yeast mixture until the dough pulls cleanly from the bowl."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, water and butter, rest 30 minutes, then knead in the salt and yeast mixture until the dough pulls cleanly from the bowl."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let it double in a warm spot, about an hour."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let it double in a warm spot, about an hour."
+      }
     },
     {
-      "title": "Fold twice",
-      "summary": "Instead of punching down, gently fold the dough over itself from all sides, rest 30 minutes, then repeat once more."
+      "title": {
+        "en": "Fold twice"
+      },
+      "summary": {
+        "en": "Instead of punching down, gently fold the dough over itself from all sides, rest 30 minutes, then repeat once more."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide and roll into tight balls, rest, flatten into discs, then press a deep crease across the center and fold into a half-moon, twisting and flattening the pointed ends to seal."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide and roll into tight balls, rest, flatten into discs, then press a deep crease across the center and fold into a half-moon, twisting and flattening the pointed ends to seal."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Arrange seam-down on a floured cloth and let rise until nearly doubled."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Arrange seam-down on a floured cloth and let rise until nearly doubled."
+      }
     },
     {
-      "title": "Bake with steam",
-      "summary": "Bake very hot with steam for the first stretch, then slightly cooler until puffed and deeply golden."
+      "title": {
+        "en": "Bake with steam"
+      },
+      "summary": {
+        "en": "Bake very hot with steam for the first stretch, then slightly cooler until puffed and deeply golden."
+      }
     }
   ],
   "source": {

@@ -128,32 +128,60 @@
   ],
   "method": [
     {
-      "title": "Boil the potatoes",
-      "summary": "Boil unpeeled potatoes in salted water until tender, then peel and mash while still warm."
+      "title": {
+        "en": "Boil the potatoes"
+      },
+      "summary": {
+        "en": "Boil unpeeled potatoes in salted water until tender, then peel and mash while still warm."
+      }
     },
     {
-      "title": "Proof the yeast",
-      "summary": "Dissolve the brewer's yeast in warm water with a little sugar; wait 5-10 minutes until foamy."
+      "title": {
+        "en": "Proof the yeast"
+      },
+      "summary": {
+        "en": "Dissolve the brewer's yeast in warm water with a little sugar; wait 5-10 minutes until foamy."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine the mashed potato with the emmer flour, salt and olive oil, then knead in the yeasted water for at least 10 minutes until smooth and elastic."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the mashed potato with the emmer flour, salt and olive oil, then knead in the yeasted water for at least 10 minutes until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Rest in an oiled, covered bowl in a warm spot 30-60 minutes until roughly doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Rest in an oiled, covered bowl in a warm spot 30-60 minutes until roughly doubled."
+      }
     },
     {
-      "title": "Shape and score",
-      "summary": "Divide, shape into loaves and cut deep slashes across the top."
+      "title": {
+        "en": "Shape and score"
+      },
+      "summary": {
+        "en": "Divide, shape into loaves and cut deep slashes across the top."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Proof another 30-60 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Proof another 30-60 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 200°C for 30-45 minutes depending on loaf size, until deeply golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 200°C for 30-45 minutes depending on loaf size, until deeply golden."
+      }
     }
   ],
   "source": {

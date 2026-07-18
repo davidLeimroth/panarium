@@ -124,32 +124,60 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix rye starter, rye flour and water; ferment 8-10 hours at a warm 30°C until doubled."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix rye starter, rye flour and water; ferment 8-10 hours at a warm 30°C until doubled."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the levain with bread flour, more rye flour, water, molasses, sugar and salt."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the levain with bread flour, more rye flour, water, molasses, sugar and salt."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Mix by hand then with a dough hook a few minutes to a smooth, cohesive dough."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Mix by hand then with a dough hook a few minutes to a smooth, cohesive dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Cover and rest in a warm spot about 1.5 hours."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Cover and rest in a warm spot about 1.5 hours."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Shape into pan loaves, dust with rye flour, and proof until just under the rim, about 1.5 hours."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Shape into pan loaves, dust with rye flour, and proof until just under the rim, about 1.5 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot with steam for the first stretch, then reduce heat and finish without steam."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot with steam for the first stretch, then reduce heat and finish without steam."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Spritz with water and cool completely before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Spritz with water and cool completely before slicing."
+      }
     }
   ],
   "source": {

@@ -107,28 +107,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine whole wheat flour, baking powder and salt, then gradually knead in water to a smooth, soft dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine whole wheat flour, baking powder and salt, then gradually knead in water to a smooth, soft dough."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Divide into 6 balls and let rest 30 minutes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Divide into 6 balls and let rest 30 minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Flatten each ball by hand or rolling pin into a thick round disc, about 1 cm thick."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Flatten each ball by hand or rolling pin into a thick round disc, about 1 cm thick."
+      }
     },
     {
-      "title": "Cook",
-      "summary": "Heat a pan hot, then reduce to medium; add a little butter or oil, place a disc in the pan, and cover."
+      "title": {
+        "en": "Cook"
+      },
+      "summary": {
+        "en": "Heat a pan hot, then reduce to medium; add a little butter or oil, place a disc in the pan, and cover."
+      }
     },
     {
-      "title": "Slow-cook",
-      "summary": "Cook 10-15 minutes per side, covered, flipping once, until both sides are deep golden and the bread sounds hollow when tapped."
+      "title": {
+        "en": "Slow-cook"
+      },
+      "summary": {
+        "en": "Cook 10-15 minutes per side, covered, flipping once, until both sides are deep golden and the bread sounds hollow when tapped."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Serve warm with butter, jam, or alongside spicy Tibetan dishes."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Serve warm with butter, jam, or alongside spicy Tibetan dishes."
+      }
     }
   ],
   "source": {

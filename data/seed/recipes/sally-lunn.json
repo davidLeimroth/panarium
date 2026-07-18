@@ -125,28 +125,52 @@
   ],
   "method": [
     {
-      "title": "Warm the enrichments",
-      "summary": "Heat milk, butter and sugar together until just lukewarm, then let cool about 15 minutes."
+      "title": {
+        "en": "Warm the enrichments"
+      },
+      "summary": {
+        "en": "Heat milk, butter and sugar together until just lukewarm, then let cool about 15 minutes."
+      }
     },
     {
-      "title": "Mix dough",
-      "summary": "Stir in lemon zest, salt, part of the flour, the eggs and yeast, then beat until smooth."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Stir in lemon zest, salt, part of the flour, the eggs and yeast, then beat until smooth."
+      }
     },
     {
-      "title": "Finish the dough",
-      "summary": "Beat in the rest of the flour to a soft, sticky, cohesive dough."
+      "title": {
+        "en": "Finish the dough"
+      },
+      "summary": {
+        "en": "Beat in the rest of the flour to a soft, sticky, cohesive dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise until nearly doubled, 45-60 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise until nearly doubled, 45-60 minutes."
+      }
     },
     {
-      "title": "Pan & second rise",
-      "summary": "Scrape the whole dough into a buttered loaf pan and let it puff again, 45-60 minutes."
+      "title": {
+        "en": "Pan & second rise"
+      },
+      "summary": {
+        "en": "Scrape the whole dough into a buttered loaf pan and let it puff again, 45-60 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until deeply golden, tenting with foil partway through if it browns too fast, until it sounds hollow."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until deeply golden, tenting with foil partway through if it browns too fast, until it sounds hollow."
+      }
     }
   ],
   "source": {

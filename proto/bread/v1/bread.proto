@@ -74,8 +74,8 @@ message Keeping {
 }
 
 message MethodStep {
-  string title = 1;
-  string summary = 2;
+  LocalizedText title = 1;
+  LocalizedText summary = 2;
 }
 
 message Source {

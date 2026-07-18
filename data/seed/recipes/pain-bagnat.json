@@ -107,28 +107,52 @@
   ],
   "method": [
     {
-      "title": "Bloom",
-      "summary": "Dissolve the yeast in warm water and let it bubble a few minutes."
+      "title": {
+        "en": "Bloom"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in warm water and let it bubble a few minutes."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Work in the flour, salt and olive oil; knead about ten minutes until smooth."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Work in the flour, salt and olive oil; knead about ten minutes until smooth."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let rise 30 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let rise 30 minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in two, shape into tight balls, then flatten slightly into rounds about 20cm across."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in two, shape into tight balls, then flatten slightly into rounds about 20cm across."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Proof a further 30 minutes."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Proof a further 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake with steam until golden and firm, sturdy enough to hold a well-soaked Niçoise filling."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake with steam until golden and firm, sturdy enough to hold a well-soaked Niçoise filling."
+      }
     }
   ],
   "source": {

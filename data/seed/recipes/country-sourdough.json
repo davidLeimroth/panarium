@@ -111,36 +111,68 @@
   ],
   "method": [
     {
-      "title": "Build the leaven",
-      "summary": "The night before, mix a spoonful of mature starter with whole wheat flour and water; let it ripen at room temperature about 12 hours until domed and bubbly."
+      "title": {
+        "en": "Build the leaven"
+      },
+      "summary": {
+        "en": "The night before, mix a spoonful of mature starter with whole wheat flour and water; let it ripen at room temperature about 12 hours until domed and bubbly."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Disperse the leaven into most of the water, then mix in both flours until no dry bits remain; rest 30 minutes."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Disperse the leaven into most of the water, then mix in both flours until no dry bits remain; rest 30 minutes."
+      }
     },
     {
-      "title": "Add salt",
-      "summary": "Sprinkle in salt with the reserved water and squeeze it through the dough by hand."
+      "title": {
+        "en": "Add salt"
+      },
+      "summary": {
+        "en": "Sprinkle in salt with the reserved water and squeeze it through the dough by hand."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Give the dough four vigorous stretch-and-fold turns at 30-minute intervals, then leave it undisturbed until it has grown 20-30%, about 4 hours total."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Give the dough four vigorous stretch-and-fold turns at 30-minute intervals, then leave it undisturbed until it has grown 20-30%, about 4 hours total."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in two, preshape into loose rounds, rest 30 minutes, then shape into tight boules."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in two, preshape into loose rounds, rest 30 minutes, then shape into tight boules."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Proof seam-side-up in floured baskets in the refrigerator for 18-20 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Proof seam-side-up in floured baskets in the refrigerator for 18-20 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Score straight from the fridge and bake in a preheated Dutch oven at 230°C: 20 minutes covered, then about 35 minutes uncovered until deeply browned."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Score straight from the fridge and bake in a preheated Dutch oven at 230°C: 20 minutes covered, then about 35 minutes uncovered until deeply browned."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cool at least an hour on a rack before the first slice."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cool at least an hour on a rack before the first slice."
+      }
     }
   ],
   "source": {

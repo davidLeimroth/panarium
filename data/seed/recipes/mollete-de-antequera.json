@@ -113,28 +113,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine all ingredients and knead briefly, about 5 minutes."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine all ingredients and knead briefly, about 5 minutes."
+      }
     },
     {
-      "title": "Rest and knead again",
-      "summary": "Rest 10 minutes covered, then knead 2-3 minutes more."
+      "title": {
+        "en": "Rest and knead again"
+      },
+      "summary": {
+        "en": "Rest 10 minutes covered, then knead 2-3 minutes more."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Shape into a ball in an oiled container and let rise until doubled."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Shape into a ball in an oiled container and let rise until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Flatten on a floured surface, roll into a taut log, then cut into 8 equal pieces and flatten each into a slipper shape about 1 cm thick."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Flatten on a floured surface, roll into a taut log, then cut into 8 equal pieces and flatten each into a slipper shape about 1 cm thick."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Place on a floured cloth, cover, and let rise at least an hour until well puffed."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Place on a floured cloth, cover, and let rise at least an hour until well puffed."
+      }
     },
     {
-      "title": "Bake pale",
-      "summary": "Bake at 220°C for just 10-12 minutes; the crust should stay pale and soft, never crisp or deeply colored."
+      "title": {
+        "en": "Bake pale"
+      },
+      "summary": {
+        "en": "Bake at 220°C for just 10-12 minutes; the crust should stay pale and soft, never crisp or deeply colored."
+      }
     }
   ],
   "source": {

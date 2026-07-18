@@ -129,32 +129,60 @@
   ],
   "method": [
     {
-      "title": "Sponge",
-      "summary": "Mix warm water with a little malt syrup, the yeast and the rye flour; rest 20 minutes until bubbly."
+      "title": {
+        "en": "Sponge"
+      },
+      "summary": {
+        "en": "Mix warm water with a little malt syrup, the yeast and the rye flour; rest 20 minutes until bubbly."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Stir in the remaining malt syrup, salt, caraway, melted butter and enough all-purpose flour to form a dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Stir in the remaining malt syrup, salt, caraway, melted butter and enough all-purpose flour to form a dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead about 10 minutes until smooth and elastic."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead about 10 minutes until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about 1.5 hours, until nearly doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about 1.5 hours, until nearly doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in half and shape into oval loaves on a lined baking sheet."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in half and shape into oval loaves on a lined baking sheet."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Cover and rest about 30 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Cover and rest about 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until the crust is dark brown and the center is fully cooked, 45-50 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until the crust is dark brown and the center is fully cooked, 45-50 minutes."
+      }
     }
   ],
   "source": {

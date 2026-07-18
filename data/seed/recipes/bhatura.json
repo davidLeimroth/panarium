@@ -138,28 +138,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Whisk flour, semolina and salt, work in yogurt and oil, stir in baking powder and soda, then add warm water gradually to a soft, elastic dough; knead about 5 minutes."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Whisk flour, semolina and salt, work in yogurt and oil, stir in baking powder and soda, then add warm water gradually to a soft, elastic dough; knead about 5 minutes."
+      }
     },
     {
-      "title": "Ferment",
-      "summary": "Cover and let rest 2-4 hours in a warm place until noticeably softened."
+      "title": {
+        "en": "Ferment"
+      },
+      "summary": {
+        "en": "Cover and let rest 2-4 hours in a warm place until noticeably softened."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Divide into 8 balls, oil each lightly, and roll into 6-7 inch ovals."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Divide into 8 balls, oil each lightly, and roll into 6-7 inch ovals."
+      }
     },
     {
-      "title": "Heat the oil",
-      "summary": "Heat oil in a deep pot to about 190°C, until a small piece of dough rises to the surface without browning right away."
+      "title": {
+        "en": "Heat the oil"
+      },
+      "summary": {
+        "en": "Heat oil in a deep pot to about 190°C, until a small piece of dough rises to the surface without browning right away."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Slide a bhatura into the oil, press gently with a spatula as it rises so it puffs fully, then flip and fry the second side until golden."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Slide a bhatura into the oil, press gently with a spatula as it rises so it puffs fully, then flip and fry the second side until golden."
+      }
     },
     {
-      "title": "Drain and serve",
-      "summary": "Lift out, drain briefly, and serve piping hot with chickpea curry, sliced onion and pickle."
+      "title": {
+        "en": "Drain and serve"
+      },
+      "summary": {
+        "en": "Lift out, drain briefly, and serve piping hot with chickpea curry, sliced onion and pickle."
+      }
     }
   ],
   "source": {

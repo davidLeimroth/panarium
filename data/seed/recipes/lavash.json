@@ -120,32 +120,60 @@
   ],
   "method": [
     {
-      "title": "Activate yeast",
-      "summary": "Whisk yeast into warm water and milk with the oil and honey; let stand until foamy."
+      "title": {
+        "en": "Activate yeast"
+      },
+      "summary": {
+        "en": "Whisk yeast into warm water and milk with the oil and honey; let stand until foamy."
+      }
     },
     {
-      "title": "Mix & knead",
-      "summary": "Stir in flour and salt, then knead about 7-10 minutes to a smooth, soft dough."
+      "title": {
+        "en": "Mix & knead"
+      },
+      "summary": {
+        "en": "Stir in flour and salt, then knead about 7-10 minutes to a smooth, soft dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about an hour until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about an hour until doubled."
+      }
     },
     {
-      "title": "Divide & rest",
-      "summary": "Divide into pieces, shape into balls, and let relax 10-15 minutes."
+      "title": {
+        "en": "Divide & rest"
+      },
+      "summary": {
+        "en": "Divide into pieces, shape into balls, and let relax 10-15 minutes."
+      }
     },
     {
-      "title": "Roll paper-thin",
-      "summary": "Roll each piece out as thin as possible on a floured surface."
+      "title": {
+        "en": "Roll paper-thin"
+      },
+      "summary": {
+        "en": "Roll each piece out as thin as possible on a floured surface."
+      }
     },
     {
-      "title": "Griddle-cook",
-      "summary": "Cook on a lightly oiled, medium-hot griddle about 45-60 seconds per side until spotted and bubbling."
+      "title": {
+        "en": "Griddle-cook"
+      },
+      "summary": {
+        "en": "Cook on a lightly oiled, medium-hot griddle about 45-60 seconds per side until spotted and bubbling."
+      }
     },
     {
-      "title": "Keep soft",
-      "summary": "Stack under a towel while warm so the sheets stay pliable for wrapping."
+      "title": {
+        "en": "Keep soft"
+      },
+      "summary": {
+        "en": "Stack under a towel while warm so the sheets stay pliable for wrapping."
+      }
     }
   ],
   "source": {

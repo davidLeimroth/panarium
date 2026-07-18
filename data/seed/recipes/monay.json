@@ -128,32 +128,60 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, milk powder, sugar and salt; activate yeast in lukewarm water, then mix in the butter and egg and gradually bring in the dry ingredients to a dense, shaggy dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, milk powder, sugar and salt; activate yeast in lukewarm water, then mix in the butter and egg and gradually bring in the dry ingredients to a dense, shaggy dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 8-10 minutes until smooth and elastic, adding a touch more water if needed."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 8-10 minutes until smooth and elastic, adding a touch more water if needed."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Shape into a ball, place in a greased bowl, cover, and let rise about 1 hour in a warm spot until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Shape into a ball, place in a greased bowl, cover, and let rise about 1 hour in a warm spot until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Deflate gently, divide into 8 pieces, and shape each into a smooth oval; rest a few minutes."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Deflate gently, divide into 8 pieces, and shape each into a smooth oval; rest a few minutes."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Cut one deep crease down the center of each piece to form the signature twin-lobed shape."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Cut one deep crease down the center of each piece to form the signature twin-lobed shape."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Cover and rest about 30 minutes until the scored cuts open slightly."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Cover and rest about 30 minutes until the scored cuts open slightly."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 160°C (350°F) for 15-20 minutes until golden, then brush the hot loaves with milk for a glossy finish."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 160°C (350°F) for 15-20 minutes until golden, then brush the hot loaves with milk for a glossy finish."
+      }
     }
   ],
   "source": {

@@ -115,32 +115,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Stir water, yeast and sugar together, then work in melted lard and half the flour to a thick paste before adding salt and the rest of the flour."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir water, yeast and sugar together, then work in melted lard and half the flour to a thick paste before adding salt and the rest of the flour."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 10-15 minutes until smooth and elastic enough to stretch into a thin windowpane."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 10-15 minutes until smooth and elastic enough to stretch into a thin windowpane."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough double in size, about an hour to ninety minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough double in size, about an hour to ninety minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in half, pat each piece into a rectangle, and roll tightly from the long edge into a torpedo, pinching the seam shut."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in half, pat each piece into a rectangle, and roll tightly from the long edge into a torpedo, pinching the seam shut."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Press a palm frond (or make a single lengthwise slash) along the top so steam has one place to escape."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Press a palm frond (or make a single lengthwise slash) along the top so steam has one place to escape."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot until deeply golden and crusty, with an internal temperature near 93°C (200°F)."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot until deeply golden and crusty, with an internal temperature near 93°C (200°F)."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest on a rack for close to an hour before slicing so the crumb sets."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest on a rack for close to an hour before slicing so the crumb sets."
+      }
     }
   ],
   "source": {

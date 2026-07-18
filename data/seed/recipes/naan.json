@@ -116,32 +116,60 @@
   ],
   "method": [
     {
-      "title": "Bloom & mix",
-      "summary": "Whisk yeast into just-boiled water to cool it, then stir in yogurt, flour and salt to a shaggy, very wet dough."
+      "title": {
+        "en": "Bloom & mix"
+      },
+      "summary": {
+        "en": "Whisk yeast into just-boiled water to cool it, then stir in yogurt, flour and salt to a shaggy, very wet dough."
+      }
     },
     {
-      "title": "Knead briefly",
-      "summary": "Knead a couple of minutes until smooth; the dough stays tacky at this high hydration."
+      "title": {
+        "en": "Knead briefly"
+      },
+      "summary": {
+        "en": "Knead a couple of minutes until smooth; the dough stays tacky at this high hydration."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about 75 minutes at warm room temperature until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about 75 minutes at warm room temperature until doubled."
+      }
     },
     {
-      "title": "Divide & rest",
-      "summary": "Divide into 4 pieces, shape into balls, and rest a few minutes to relax the gluten."
+      "title": {
+        "en": "Divide & rest"
+      },
+      "summary": {
+        "en": "Divide into 4 pieces, shape into balls, and rest a few minutes to relax the gluten."
+      }
     },
     {
-      "title": "Stretch",
-      "summary": "Stretch or roll each piece into a teardrop shape without deflating the bubbles."
+      "title": {
+        "en": "Stretch"
+      },
+      "summary": {
+        "en": "Stretch or roll each piece into a teardrop shape without deflating the bubbles."
+      }
     },
     {
-      "title": "Sear",
-      "summary": "Lay in a dry, screaming-hot cast-iron skillet, cover, and cook about a minute per side until charred bubbles form and the naan puffs."
+      "title": {
+        "en": "Sear"
+      },
+      "summary": {
+        "en": "Lay in a dry, screaming-hot cast-iron skillet, cover, and cook about a minute per side until charred bubbles form and the naan puffs."
+      }
     },
     {
-      "title": "Finish",
-      "summary": "Brush hot naan with melted butter and serve immediately, torn by hand."
+      "title": {
+        "en": "Finish"
+      },
+      "summary": {
+        "en": "Brush hot naan with melted butter and serve immediately, torn by hand."
+      }
     }
   ],
   "source": {

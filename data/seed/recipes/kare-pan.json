@@ -144,32 +144,60 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine bread flour, cake flour, salt and sugar; warm the milk, stir in the yeast, then knead into the flour with the butter until smooth, about 5 minutes."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine bread flour, cake flour, salt and sugar; warm the milk, stir in the yeast, then knead into the flour with the butter until smooth, about 5 minutes."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and proof about 1 hour at warm room temperature until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and proof about 1 hour at warm room temperature until doubled."
+      }
     },
     {
-      "title": "Divide and rest",
-      "summary": "Divide into 8 pieces, shape into balls, and rest 15 minutes."
+      "title": {
+        "en": "Divide and rest"
+      },
+      "summary": {
+        "en": "Divide into 8 pieces, shape into balls, and rest 15 minutes."
+      }
     },
     {
-      "title": "Fill",
-      "summary": "Roll each piece into a circle, thinning only the edges, spoon in cold, thick curry, and pinch the edges tightly to seal."
+      "title": {
+        "en": "Fill"
+      },
+      "summary": {
+        "en": "Roll each piece into a circle, thinning only the edges, spoon in cold, thick curry, and pinch the edges tightly to seal."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Proof the sealed buns 45-60 minutes until about one and a half times their size."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Proof the sealed buns 45-60 minutes until about one and a half times their size."
+      }
     },
     {
-      "title": "Bread",
-      "summary": "Dip each bun in beaten egg, then roll in panko breadcrumbs to coat evenly."
+      "title": {
+        "en": "Bread"
+      },
+      "summary": {
+        "en": "Dip each bun in beaten egg, then roll in panko breadcrumbs to coat evenly."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Heat oil to about 160°C (320°F) and fry the buns seam-side down first, turning, until deep golden on all sides, about 2-3 minutes."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Heat oil to about 160°C (320°F) and fry the buns seam-side down first, turning, until deep golden on all sides, about 2-3 minutes."
+      }
     }
   ],
   "source": {

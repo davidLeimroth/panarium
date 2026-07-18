@@ -124,28 +124,52 @@
   ],
   "method": [
     {
-      "title": "Build the biga",
-      "summary": "The night before, stir flour, water and a little starter into a firm dough. Rest 2 hours at room temperature, then refrigerate 14 hours to develop flavor slowly."
+      "title": {
+        "en": "Build the biga"
+      },
+      "summary": {
+        "en": "The night before, stir flour, water and a little starter into a firm dough. Rest 2 hours at room temperature, then refrigerate 14 hours to develop flavor slowly."
+      }
     },
     {
-      "title": "Wake it up",
-      "summary": "Bring the cold biga back to room temperature for about 2 hours before continuing."
+      "title": {
+        "en": "Wake it up"
+      },
+      "summary": {
+        "en": "Bring the cold biga back to room temperature for about 2 hours before continuing."
+      }
     },
     {
-      "title": "Final dough",
-      "summary": "Work in the last of the flour, water, malt and salt until smooth, then ferment about 2 hours."
+      "title": {
+        "en": "Final dough"
+      },
+      "summary": {
+        "en": "Work in the last of the flour, water, malt and salt until smooth, then ferment about 2 hours."
+      }
     },
     {
-      "title": "Shape in stages",
-      "summary": "Divide into small rolls; run each through a pasta roller or press flat, folding the sides to the center, then re-shape into tight balls."
+      "title": {
+        "en": "Shape in stages"
+      },
+      "summary": {
+        "en": "Divide into small rolls; run each through a pasta roller or press flat, folding the sides to the center, then re-shape into tight balls."
+      }
     },
     {
-      "title": "Force the hollow",
-      "summary": "Score the tops, then flip them scored-side down onto a floured cloth so they proof upside-down; this inversion is what blows the center hollow in the oven."
+      "title": {
+        "en": "Force the hollow"
+      },
+      "summary": {
+        "en": "Score the tops, then flip them scored-side down onto a floured cloth so they proof upside-down; this inversion is what blows the center hollow in the oven."
+      }
     },
     {
-      "title": "Two-stage bake",
-      "summary": "Bake with steam at 230°C for 10-12 minutes, then finish dry at a lower 190°C for another 10-12 minutes until pale gold and crackling."
+      "title": {
+        "en": "Two-stage bake"
+      },
+      "summary": {
+        "en": "Bake with steam at 230°C for 10-12 minutes, then finish dry at a lower 190°C for another 10-12 minutes until pale gold and crackling."
+      }
     }
   ],
   "source": {

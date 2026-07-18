@@ -122,32 +122,60 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine bread flour, milk powder, sugar, yeast and salt with cold water; mix on low 5 minutes, then add the butter."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine bread flour, milk powder, sugar, yeast and salt with cold water; mix on low 5 minutes, then add the butter."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Increase speed and knead about 10 minutes until smooth and elastic (windowpane stage)."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Increase speed and knead about 10 minutes until smooth and elastic (windowpane stage)."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Shape into a ball, place in an oiled bowl, cover, and let rise about an hour until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Shape into a ball, place in an oiled bowl, cover, and let rise about an hour until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into 3-4 pieces, rest 10 minutes, then roll each into a rectangle, fold in the sides, and roll up tightly."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into 3-4 pieces, rest 10 minutes, then roll each into a rectangle, fold in the sides, and roll up tightly."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Place seam-down in a lined loaf pan and proof, covered, until the dough nears the rim, 45-60 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Place seam-down in a lined loaf pan and proof, covered, until the dough nears the rim, 45-60 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 180°C (350°F) for about 50 minutes until deep golden and the internal temperature reads 88°C (190°F)."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 180°C (350°F) for about 50 minutes until deep golden and the internal temperature reads 88°C (190°F)."
+      }
     },
     {
-      "title": "Cool and slice",
-      "summary": "Turn out onto a rack immediately; slice thick once fully cool, then toast and serve with kaya jam and cold butter."
+      "title": {
+        "en": "Cool and slice"
+      },
+      "summary": {
+        "en": "Turn out onto a rack immediately; slice thick once fully cool, then toast and serve with kaya jam and cold butter."
+      }
     }
   ],
   "source": {

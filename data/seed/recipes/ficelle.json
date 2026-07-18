@@ -103,28 +103,52 @@
   ],
   "method": [
     {
-      "title": "Bloom",
-      "summary": "Dissolve the yeast in the water, then mix in the flour and salt to a smooth dough."
+      "title": {
+        "en": "Bloom"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in the water, then mix in the flour and salt to a smooth dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Bulk ferment about 90 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Bulk ferment about 90 minutes."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Degas and let rise again to build more flavor and structure."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Degas and let rise again to build more flavor and structure."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into small pieces and roll each into a very thin, long stick, noticeably thinner than a baguette."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into small pieces and roll each into a very thin, long stick, noticeably thinner than a baguette."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Rest under a cloth about an hour."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Rest under a cloth about an hour."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Score lightly and bake hot with steam for a short time until deeply crackled."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Score lightly and bake hot with steam for a short time until deeply crackled."
+      }
     }
   ],
   "source": {

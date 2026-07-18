@@ -134,28 +134,52 @@
   ],
   "method": [
     {
-      "title": "Soak rice",
-      "summary": "Rinse rice and soak 5-6 hours or overnight, then drain."
+      "title": {
+        "en": "Soak rice"
+      },
+      "summary": {
+        "en": "Rinse rice and soak 5-6 hours or overnight, then drain."
+      }
     },
     {
-      "title": "Blend",
-      "summary": "Blend the soaked rice with milk and a little water to a thick, smooth paste."
+      "title": {
+        "en": "Blend"
+      },
+      "summary": {
+        "en": "Blend the soaked rice with milk and a little water to a thick, smooth paste."
+      }
     },
     {
-      "title": "Season",
-      "summary": "Mix in sugar, mashed banana, cardamom, melted ghee and a pinch of salt until the batter is lump-free and pourable; rest covered at least 30 minutes."
+      "title": {
+        "en": "Season"
+      },
+      "summary": {
+        "en": "Mix in sugar, mashed banana, cardamom, melted ghee and a pinch of salt until the batter is lump-free and pourable; rest covered at least 30 minutes."
+      }
     },
     {
-      "title": "Heat oil",
-      "summary": "Heat oil in a deep pan to medium temperature, hot enough that a drop of batter sizzles and rises right away."
+      "title": {
+        "en": "Heat oil"
+      },
+      "summary": {
+        "en": "Heat oil in a deep pan to medium temperature, hot enough that a drop of batter sizzles and rises right away."
+      }
     },
     {
-      "title": "Pipe rings",
-      "summary": "Pour or pipe the batter directly into the hot oil in a ring shape, by hand or with a piping bag."
+      "title": {
+        "en": "Pipe rings"
+      },
+      "summary": {
+        "en": "Pour or pipe the batter directly into the hot oil in a ring shape, by hand or with a piping bag."
+      }
     },
     {
-      "title": "Fry and drain",
-      "summary": "Fry one or two rings at a time, turning gently, until golden brown on both sides, then drain on paper towels."
+      "title": {
+        "en": "Fry and drain"
+      },
+      "summary": {
+        "en": "Fry one or two rings at a time, turning gently, until golden brown on both sides, then drain on paper towels."
+      }
     }
   ],
   "source": {

@@ -121,28 +121,52 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Stir rice flour, xanthan gum, quick yeast, sugar and salt together, then sieve into a clean bowl."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Stir rice flour, xanthan gum, quick yeast, sugar and salt together, then sieve into a clean bowl."
+      }
     },
     {
-      "title": "Beat the batter",
-      "summary": "Add the water and beat well until smooth and thick, more a batter than a dough."
+      "title": {
+        "en": "Beat the batter"
+      },
+      "summary": {
+        "en": "Add the water and beat well until smooth and thick, more a batter than a dough."
+      }
     },
     {
-      "title": "Fold in oil",
-      "summary": "Drizzle the oil over the top and fold it through with a spatula."
+      "title": {
+        "en": "Fold in oil"
+      },
+      "summary": {
+        "en": "Drizzle the oil over the top and fold it through with a spatula."
+      }
     },
     {
-      "title": "Pan and prove",
-      "summary": "Scrape into a greased tin, smooth the top, cover with an upturned bowl and prove in a warm place 45-90 minutes until just below the rim."
+      "title": {
+        "en": "Pan and prove"
+      },
+      "summary": {
+        "en": "Scrape into a greased tin, smooth the top, cover with an upturned bowl and prove in a warm place 45-90 minutes until just below the rim."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 220°C (200°C fan) for 55-60 minutes until well risen and deep golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 220°C (200°C fan) for 55-60 minutes until well risen and deep golden."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool completely on a rack before slicing; cutting it warm makes rice bread gummy."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool completely on a rack before slicing; cutting it warm makes rice bread gummy."
+      }
     }
   ],
   "source": {

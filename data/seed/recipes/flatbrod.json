@@ -106,28 +106,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine barley flour, all-purpose flour and salt, then work in warm water to a smooth, firm dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine barley flour, all-purpose flour and salt, then work in warm water to a smooth, firm dough."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover and let rest 30 minutes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover and let rest 30 minutes."
+      }
     },
     {
-      "title": "Portion",
-      "summary": "Divide into six pieces and roll each into a ball."
+      "title": {
+        "en": "Portion"
+      },
+      "summary": {
+        "en": "Divide into six pieces and roll each into a ball."
+      }
     },
     {
-      "title": "Roll thin",
-      "summary": "Flatten and roll each piece paper-thin, rotating often to keep it round."
+      "title": {
+        "en": "Roll thin"
+      },
+      "summary": {
+        "en": "Flatten and roll each piece paper-thin, rotating often to keep it round."
+      }
     },
     {
-      "title": "Cook",
-      "summary": "Dry-griddle each round over medium-high heat, 30-60 seconds per side, until brown-spotted."
+      "title": {
+        "en": "Cook"
+      },
+      "summary": {
+        "en": "Dry-griddle each round over medium-high heat, 30-60 seconds per side, until brown-spotted."
+      }
     },
     {
-      "title": "Cool and store",
-      "summary": "Cool on a rack until it snaps cleanly, then keep in an airtight tin."
+      "title": {
+        "en": "Cool and store"
+      },
+      "summary": {
+        "en": "Cool on a rack until it snaps cleanly, then keep in an airtight tin."
+      }
     }
   ],
   "source": {

@@ -135,28 +135,52 @@
   "equipment": [],
   "method": [
     {
-      "title": "Brew the aromatic water",
-      "summary": "Simmer water with bay leaves, black pepper and sugar, then cool until just warm."
+      "title": {
+        "en": "Brew the aromatic water"
+      },
+      "summary": {
+        "en": "Simmer water with bay leaves, black pepper and sugar, then cool until just warm."
+      }
     },
     {
-      "title": "Start the wild ferment",
-      "summary": "Stir chickpea flour into a cupful of the cooled aromatic water and leave it 12-16 hours in a warm spot until foamy; this chickpea culture (kounenos) is the only leavening in the whole bread."
+      "title": {
+        "en": "Start the wild ferment"
+      },
+      "summary": {
+        "en": "Stir chickpea flour into a cupful of the cooled aromatic water and leave it 12-16 hours in a warm spot until foamy; this chickpea culture (kounenos) is the only leavening in the whole bread."
+      }
     },
     {
-      "title": "Build the levain",
-      "summary": "Work in the first portion of wheat flour and let the mixture rise 2-4 hours until tripled."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Work in the first portion of wheat flour and let the mixture rise 2-4 hours until tripled."
+      }
     },
     {
-      "title": "Final dough",
-      "summary": "Mix in the rest of the flour, the remaining aromatic water, olive oil and salt until smooth."
+      "title": {
+        "en": "Final dough"
+      },
+      "summary": {
+        "en": "Mix in the rest of the flour, the remaining aromatic water, olive oil and salt until smooth."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Shape into a round loaf, top with sesame seeds, and proof 2-3 hours until nearly doubled."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Shape into a round loaf, top with sesame seeds, and proof 2-3 hours until nearly doubled."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until deeply golden, 45-50 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until deeply golden, 45-50 minutes."
+      }
     }
   ],
   "source": {

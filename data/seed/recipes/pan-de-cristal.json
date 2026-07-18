@@ -98,24 +98,44 @@
   ],
   "method": [
     {
-      "title": "Mix a very wet dough",
-      "summary": "Combine flour, water, salt and yeast; the result looks more like a thick batter than a bread dough. Rest 10 minutes."
+      "title": {
+        "en": "Mix a very wet dough"
+      },
+      "summary": {
+        "en": "Combine flour, water, salt and yeast; the result looks more like a thick batter than a bread dough. Rest 10 minutes."
+      }
     },
     {
-      "title": "Build strength with folds",
-      "summary": "Stretch and fold the dough in the bowl every 30 minutes for about 2 hours, alternating direction each time."
+      "title": {
+        "en": "Build strength with folds"
+      },
+      "summary": {
+        "en": "Stretch and fold the dough in the bowl every 30 minutes for about 2 hours, alternating direction each time."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let it rise until doubled, either at room temperature or slowly overnight in the refrigerator for deeper flavor."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let it rise until doubled, either at room temperature or slowly overnight in the refrigerator for deeper flavor."
+      }
     },
     {
-      "title": "Divide without degassing",
-      "summary": "Tip onto a heavily floured surface and cut into rough rectangles, handling the dough as little as possible to protect the bubbles."
+      "title": {
+        "en": "Divide without degassing"
+      },
+      "summary": {
+        "en": "Tip onto a heavily floured surface and cut into rough rectangles, handling the dough as little as possible to protect the bubbles."
+      }
     },
     {
-      "title": "Bake hot with steam",
-      "summary": "Bake at 240°C with a pan of water in the oven for the first few minutes, 25-30 minutes total, until completely dried out and deeply crackled."
+      "title": {
+        "en": "Bake hot with steam"
+      },
+      "summary": {
+        "en": "Bake at 240°C with a pan of water in the oven for the first few minutes, 25-30 minutes total, until completely dried out and deeply crackled."
+      }
     }
   ],
   "source": {

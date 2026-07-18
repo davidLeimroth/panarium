@@ -108,28 +108,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, salt and baking powder, then stir in boiling water to a soft, smooth dough. Rest 1 hour."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, salt and baking powder, then stir in boiling water to a soft, smooth dough. Rest 1 hour."
+      }
     },
     {
-      "title": "First lamination",
-      "summary": "Roll a portion paper-thin into a large rectangle, brush generously with butter, roll into a rope, then coil into a snail shape. Rest about an hour."
+      "title": {
+        "en": "First lamination"
+      },
+      "summary": {
+        "en": "Roll a portion paper-thin into a large rectangle, brush generously with butter, roll into a rope, then coil into a snail shape. Rest about an hour."
+      }
     },
     {
-      "title": "Repeat twice more",
-      "summary": "Roll the coil out again, brush with more butter, roll and coil again; repeat a third time for maximum layers."
+      "title": {
+        "en": "Repeat twice more"
+      },
+      "summary": {
+        "en": "Roll the coil out again, brush with more butter, roll and coil again; repeat a third time for maximum layers."
+      }
     },
     {
-      "title": "Flatten",
-      "summary": "Press each rested coil flat into a round or square just before cooking."
+      "title": {
+        "en": "Flatten"
+      },
+      "summary": {
+        "en": "Press each rested coil flat into a round or square just before cooking."
+      }
     },
     {
-      "title": "Pan-fry",
-      "summary": "Cook in a hot, lightly oiled skillet, covered, turning until both sides are deep golden and the layers have puffed with steam."
+      "title": {
+        "en": "Pan-fry"
+      },
+      "summary": {
+        "en": "Cook in a hot, lightly oiled skillet, covered, turning until both sides are deep golden and the layers have puffed with steam."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Serve warm with grated tomato, hard-boiled egg and zhoug."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Serve warm with grated tomato, hard-boiled egg and zhoug."
+      }
     }
   ],
   "source": {

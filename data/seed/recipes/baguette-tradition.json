@@ -111,32 +111,60 @@
   ],
   "method": [
     {
-      "title": "Autolyse",
-      "summary": "Mix most of the flour with most of the water and let it rest so the flour hydrates before any leavening is added."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Mix most of the flour with most of the water and let it rest so the flour hydrates before any leavening is added."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Work in the levain, yeast, salt and remaining water; knead until the dough is smooth and elastic."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Work in the levain, yeast, salt and remaining water; knead until the dough is smooth and elastic."
+      }
     },
     {
-      "title": "Bulk and retard",
-      "summary": "Ferment an hour at room temperature with a fold, then move to the fridge overnight to build flavor slowly."
+      "title": {
+        "en": "Bulk and retard"
+      },
+      "summary": {
+        "en": "Ferment an hour at room temperature with a fold, then move to the fridge overnight to build flavor slowly."
+      }
     },
     {
-      "title": "Pre-shape",
-      "summary": "Divide into equal pieces, fold each into a loose rectangle and let relax."
+      "title": {
+        "en": "Pre-shape"
+      },
+      "summary": {
+        "en": "Divide into equal pieces, fold each into a loose rectangle and let relax."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Roll each piece firmly into a long, even baguette and set seam-side up under a floured cloth."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Roll each piece firmly into a long, even baguette and set seam-side up under a floured cloth."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let the shaped loaves rest about an hour until puffy but not slack."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let the shaped loaves rest about an hour until puffy but not slack."
+      }
     },
     {
-      "title": "Score and bake",
-      "summary": "Slash with quick, angled cuts, load onto a hot stone with steam, and bake until deeply golden and crackling."
+      "title": {
+        "en": "Score and bake"
+      },
+      "summary": {
+        "en": "Slash with quick, angled cuts, load onto a hot stone with steam, and bake until deeply golden and crackling."
+      }
     }
   ],
   "source": {

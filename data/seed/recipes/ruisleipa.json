@@ -122,32 +122,60 @@
   ],
   "method": [
     {
-      "title": "Build the sour",
-      "summary": "Mix whole rye flour, water and rye starter; ferment overnight, 14-18 hours, until active and pleasantly sour."
+      "title": {
+        "en": "Build the sour"
+      },
+      "summary": {
+        "en": "Mix whole rye flour, water and rye starter; ferment overnight, 14-18 hours, until active and pleasantly sour."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the sour with more rye flour, the bread flour, water, salt and a pinch of instant yeast into a smooth, wet dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the sour with more rye flour, the bread flour, water, salt and a pinch of instant yeast into a smooth, wet dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let rise in a warm spot until doubled, roughly 1-1.5 hours."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let rise in a warm spot until doubled, roughly 1-1.5 hours."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide in two, round into balls, then roll each into a wide, flat disc about 35cm across."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide in two, round into balls, then roll each into a wide, flat disc about 35cm across."
+      }
     },
     {
-      "title": "Punch and proof",
-      "summary": "Cut a hole through the center and proof until the surface shows cracks, 45-60 minutes."
+      "title": {
+        "en": "Punch and proof"
+      },
+      "summary": {
+        "en": "Cut a hole through the center and proof until the surface shows cracks, 45-60 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Dock thoroughly, then bake hot with steam for the first few minutes, finishing without steam until deeply set."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Dock thoroughly, then bake hot with steam for the first few minutes, finishing without steam until deeply set."
+      }
     },
     {
-      "title": "Finish",
-      "summary": "Brush with boiling water straight from the oven for a glossy, chewy crust."
+      "title": {
+        "en": "Finish"
+      },
+      "summary": {
+        "en": "Brush with boiling water straight from the oven for a glossy, chewy crust."
+      }
     }
   ],
   "source": {

@@ -98,28 +98,52 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Whisk flour, baking soda and salt together in a large bowl."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Whisk flour, baking soda and salt together in a large bowl."
+      }
     },
     {
-      "title": "Add buttermilk",
-      "summary": "Pour in cold buttermilk and stir just until the dough clumps together and turns too stiff to stir."
+      "title": {
+        "en": "Add buttermilk"
+      },
+      "summary": {
+        "en": "Pour in cold buttermilk and stir just until the dough clumps together and turns too stiff to stir."
+      }
     },
     {
-      "title": "Light knead",
-      "summary": "Turn onto a floured surface and knead only a few times, just enough to bring it together, overworking toughens it."
+      "title": {
+        "en": "Light knead"
+      },
+      "summary": {
+        "en": "Turn onto a floured surface and knead only a few times, just enough to bring it together, overworking toughens it."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Pat into an 8-inch round and set it on a baking sheet."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Pat into an 8-inch round and set it on a baking sheet."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Cut a deep cross into the top so the center bakes through evenly."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Cut a deep cross into the top so the center bakes through evenly."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a hot oven until deeply golden and hollow-sounding when tapped on the bottom."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a hot oven until deeply golden and hollow-sounding when tapped on the bottom."
+      }
     }
   ],
   "source": {

@@ -101,32 +101,60 @@
   ],
   "method": [
     {
-      "title": "Mix the ajin",
-      "summary": "Stir sorghum flour and water together, with a spoonful of starter from a previous batch if you have one, into a smooth, thin batter."
+      "title": {
+        "en": "Mix the ajin"
+      },
+      "summary": {
+        "en": "Stir sorghum flour and water together, with a spoonful of starter from a previous batch if you have one, into a smooth, thin batter."
+      }
     },
     {
-      "title": "Ferment",
-      "summary": "Cover and leave in a warm spot for 12-24 hours, until visibly bubbly and pleasantly sour."
+      "title": {
+        "en": "Ferment"
+      },
+      "summary": {
+        "en": "Cover and leave in a warm spot for 12-24 hours, until visibly bubbly and pleasantly sour."
+      }
     },
     {
-      "title": "Season",
-      "summary": "Stir in a little salt just before cooking."
+      "title": {
+        "en": "Season"
+      },
+      "summary": {
+        "en": "Stir in a little salt just before cooking."
+      }
     },
     {
-      "title": "Heat the griddle",
-      "summary": "Heat a lightly greased flat griddle or saj until evenly hot."
+      "title": {
+        "en": "Heat the griddle"
+      },
+      "summary": {
+        "en": "Heat a lightly greased flat griddle or saj until evenly hot."
+      }
     },
     {
-      "title": "Spread paper-thin",
-      "summary": "Pour a ladleful on and spread it instantly with a scraper into a wide, paper-thin sheet."
+      "title": {
+        "en": "Spread paper-thin"
+      },
+      "summary": {
+        "en": "Pour a ladleful on and spread it instantly with a scraper into a wide, paper-thin sheet."
+      }
     },
     {
-      "title": "Cook one side",
-      "summary": "Cook on that one side only until the top turns spongy and porous and the underside is lightly spotted, about a minute."
+      "title": {
+        "en": "Cook one side"
+      },
+      "summary": {
+        "en": "Cook on that one side only until the top turns spongy and porous and the underside is lightly spotted, about a minute."
+      }
     },
     {
-      "title": "Stack & serve",
-      "summary": "Stack the sheets on a plate as you go, then tear and use to scoop stews."
+      "title": {
+        "en": "Stack & serve"
+      },
+      "summary": {
+        "en": "Stack the sheets on a plate as you go, then tear and use to scoop stews."
+      }
     }
   ],
   "source": {

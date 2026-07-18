@@ -105,28 +105,52 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Dissolve the fresh yeast in the warm water."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Dissolve the fresh yeast in the warm water."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Add the whole wheat flour and salt and knead 8-12 minutes to a smooth, supple dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Add the whole wheat flour and salt and knead 8-12 minutes to a smooth, supple dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about an hour at room temperature until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about an hour at room temperature until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Degas gently and shape into a ball or bâtard."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Degas gently and shape into a ball or bâtard."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let rise a further 45 minutes."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let rise a further 45 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Score and bake hot with steam until deeply golden and hollow-sounding when tapped."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Score and bake hot with steam until deeply golden and hollow-sounding when tapped."
+      }
     }
   ],
   "source": {

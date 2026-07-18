@@ -117,28 +117,52 @@
   ],
   "method": [
     {
-      "title": "Activate yeast",
-      "summary": "Combine salt, sugar, yeast and lukewarm water; let stand about 5 minutes until it foams."
+      "title": {
+        "en": "Activate yeast"
+      },
+      "summary": {
+        "en": "Combine salt, sugar, yeast and lukewarm water; let stand about 5 minutes until it foams."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Stir in the flour until just combined into a shaggy dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir in the flour until just combined into a shaggy dough."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Cover loosely and let rise in a warm place 1 to 2 hours, until doubled."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Cover loosely and let rise in a warm place 1 to 2 hours, until doubled."
+      }
     },
     {
-      "title": "Knead and shape",
-      "summary": "Knead the risen dough until firm, adding a little flour as needed, then roll to about 2.5 cm thick and cut into rounds."
+      "title": {
+        "en": "Knead and shape"
+      },
+      "summary": {
+        "en": "Knead the risen dough until firm, adding a little flour as needed, then roll to about 2.5 cm thick and cut into rounds."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Fry in oil at about 177°C until deep golden on both sides, 3 to 5 minutes depending on size."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Fry in oil at about 177°C until deep golden on both sides, 3 to 5 minutes depending on size."
+      }
     },
     {
-      "title": "Drain and serve",
-      "summary": "Lift out with a slotted spoon, drain on paper towels, and serve hot, split and filled with curried mince or spread with jam."
+      "title": {
+        "en": "Drain and serve"
+      },
+      "summary": {
+        "en": "Lift out with a slotted spoon, drain on paper towels, and serve hot, split and filled with curried mince or spread with jam."
+      }
     }
   ],
   "source": {

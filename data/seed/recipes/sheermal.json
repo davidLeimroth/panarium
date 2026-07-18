@@ -149,28 +149,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, salt and cardamom; warm the milk with the sugar until dissolved, then knead into the flour to a soft dough. Rest 15 minutes."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, salt and cardamom; warm the milk with the sugar until dissolved, then knead into the flour to a soft dough. Rest 15 minutes."
+      }
     },
     {
-      "title": "Perfume",
-      "summary": "Work in the kewra water, then knead in the melted ghee a few tablespoons at a time until fully absorbed and the dough turns soft and glossy."
+      "title": {
+        "en": "Perfume"
+      },
+      "summary": {
+        "en": "Work in the kewra water, then knead in the melted ghee a few tablespoons at a time until fully absorbed and the dough turns soft and glossy."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover and rest the enriched dough about 10-12 minutes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover and rest the enriched dough about 10-12 minutes."
+      }
     },
     {
-      "title": "Divide and roll",
-      "summary": "Divide into 8 balls, rest again briefly, then roll each into a 6-7 inch disc and prick all over with a fork."
+      "title": {
+        "en": "Divide and roll"
+      },
+      "summary": {
+        "en": "Divide into 8 balls, rest again briefly, then roll each into a 6-7 inch disc and prick all over with a fork."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake on a greased tray in a 230°C oven for 12-15 minutes, until the edges turn golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake on a greased tray in a 230°C oven for 12-15 minutes, until the edges turn golden."
+      }
     },
     {
-      "title": "Glaze",
-      "summary": "Steep saffron in warm milk, brush the hot bread with the saffron milk, then with melted ghee, and cool on a rack."
+      "title": {
+        "en": "Glaze"
+      },
+      "summary": {
+        "en": "Steep saffron in warm milk, brush the hot bread with the saffron milk, then with melted ghee, and cool on a rack."
+      }
     }
   ],
   "source": {

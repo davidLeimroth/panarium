@@ -129,40 +129,76 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter, high-extraction flour and water; ripen about 3 hours."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter, high-extraction flour and water; ripen about 3 hours."
+      }
     },
     {
-      "title": "Scald the buckwheat",
-      "summary": "Pour boiling water over the buckwheat flour, stir, cover and set aside to cool, this softens its structure and mellows any bitterness."
+      "title": {
+        "en": "Scald the buckwheat"
+      },
+      "summary": {
+        "en": "Pour boiling water over the buckwheat flour, stir, cover and set aside to cool, this softens its structure and mellows any bitterness."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the high-extraction and whole wheat flours, water and the cooled scald; rest 1 hour."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the high-extraction and whole wheat flours, water and the cooled scald; rest 1 hour."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Add the levain and salt, mix until smooth, rest 10 minutes, then work in the remaining water, malt syrup and aniseed."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Add the levain and salt, mix until smooth, rest 10 minutes, then work in the remaining water, malt syrup and aniseed."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment about 3 hours with two stretch-and-fold sets, aiming for roughly 30% rise."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment about 3 hours with two stretch-and-fold sets, aiming for roughly 30% rise."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Preshape, rest 30 minutes, then shape into boules, optionally coating the surface in sesame seeds."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Preshape, rest 30 minutes, then shape into boules, optionally coating the surface in sesame seeds."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Refrigerate overnight, about 16-17 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Refrigerate overnight, about 16-17 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep and crisp."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep and crisp."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest 1-2 hours before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest 1-2 hours before slicing."
+      }
     }
   ],
   "source": {

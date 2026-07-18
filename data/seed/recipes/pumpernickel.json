@@ -102,24 +102,44 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Stir coarse rye meal, water, salt and a portion of active rye starter into a thick, wet paste, there's no kneading, since rye builds no gluten network."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir coarse rye meal, water, salt and a portion of active rye starter into a thick, wet paste, there's no kneading, since rye builds no gluten network."
+      }
     },
     {
-      "title": "Short rest",
-      "summary": "Cover and let the mixture rest 45–60 minutes at room temperature; it won't rise much, it just needs to hydrate fully."
+      "title": {
+        "en": "Short rest"
+      },
+      "summary": {
+        "en": "Cover and let the mixture rest 45–60 minutes at room temperature; it won't rise much, it just needs to hydrate fully."
+      }
     },
     {
-      "title": "Pack the tin",
-      "summary": "Pack the dense paste into a well-greased, lidded loaf tin, pressing out air pockets, and seal it."
+      "title": {
+        "en": "Pack the tin"
+      },
+      "summary": {
+        "en": "Pack the dense paste into a well-greased, lidded loaf tin, pressing out air pockets, and seal it."
+      }
     },
     {
-      "title": "Long, slow bake",
-      "summary": "Bake covered at a moderate heat for about an hour, then drop to a very low temperature and hold it there for roughly a day. This is closer to slow steaming than baking: rye enzymes keep converting starch into malt sugar, which is where the sweetness and near-black color come from."
+      "title": {
+        "en": "Long, slow bake"
+      },
+      "summary": {
+        "en": "Bake covered at a moderate heat for about an hour, then drop to a very low temperature and hold it there for roughly a day. This is closer to slow steaming than baking: rye enzymes keep converting starch into malt sugar, which is where the sweetness and near-black color come from."
+      }
     },
     {
-      "title": "Rest before slicing",
-      "summary": "Cool completely, then let the loaf rest at least a full day before the first slice; cutting too soon leaves it gummy."
+      "title": {
+        "en": "Rest before slicing"
+      },
+      "summary": {
+        "en": "Cool completely, then let the loaf rest at least a full day before the first slice; cutting too soon leaves it gummy."
+      }
     }
   ],
   "source": {

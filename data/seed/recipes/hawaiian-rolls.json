@@ -147,28 +147,52 @@
   ],
   "method": [
     {
-      "title": "Make the sponge",
-      "summary": "Whisk flour, instant yeast and water into a thick paste and let it sit 15 minutes until active."
+      "title": {
+        "en": "Make the sponge"
+      },
+      "summary": {
+        "en": "Whisk flour, instant yeast and water into a thick paste and let it sit 15 minutes until active."
+      }
     },
     {
-      "title": "Build the dough",
-      "summary": "Beat in pineapple juice, butter, brown sugar, eggs, yolk and vanilla, then mix in flour, potato flour and salt to a soft, sticky dough."
+      "title": {
+        "en": "Build the dough"
+      },
+      "summary": {
+        "en": "Beat in pineapple juice, butter, brown sugar, eggs, yolk and vanilla, then mix in flour, potato flour and salt to a soft, sticky dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough rise until nearly doubled, 1.5-2 hours, it stays quite slack from all the sugar."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough rise until nearly doubled, 1.5-2 hours, it stays quite slack from all the sugar."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Divide into 16 pieces and shape each into a smooth ball."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Divide into 16 pieces and shape each into a smooth ball."
+      }
     },
     {
-      "title": "Pan rise",
-      "summary": "Arrange snugly in a buttered 9x13 pan and let rise about an hour until puffy."
+      "title": {
+        "en": "Pan rise"
+      },
+      "summary": {
+        "en": "Arrange snugly in a buttered 9x13 pan and let rise about an hour until puffy."
+      }
     },
     {
-      "title": "Glaze and bake",
-      "summary": "Brush with egg wash for a satiny shine, then bake until deep golden and cooked through."
+      "title": {
+        "en": "Glaze and bake"
+      },
+      "summary": {
+        "en": "Brush with egg wash for a satiny shine, then bake until deep golden and cooked through."
+      }
     }
   ],
   "source": {

@@ -125,28 +125,52 @@
   ],
   "method": [
     {
-      "title": "Build the sourdough",
-      "summary": "The night before, stir rye whole meal, rye flour, warm water and a little mature starter together and let it sour about 12 hours at room temperature."
+      "title": {
+        "en": "Build the sourdough"
+      },
+      "summary": {
+        "en": "The night before, stir rye whole meal, rye flour, warm water and a little mature starter together and let it sour about 12 hours at room temperature."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the ripe sourdough with more rye flour, wheat flour, whole wheat flour, salt and warm water into a firm, workable dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the ripe sourdough with more rye flour, wheat flour, whole wheat flour, salt and warm water into a firm, workable dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let the dough rest around two hours at room temperature, folding it gently once or twice to redistribute warmth and build strength."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let the dough rest around two hours at room temperature, folding it gently once or twice to redistribute warmth and build strength."
+      }
     },
     {
-      "title": "Shape and mark",
-      "summary": "Shape into a tight round, then rest seam-down in a floured basket. Just before baking, cut the traditional cross-hatch on top, as much a farmhouse signature as a guide for the oven spring."
+      "title": {
+        "en": "Shape and mark"
+      },
+      "summary": {
+        "en": "Shape into a tight round, then rest seam-down in a floured basket. Just before baking, cut the traditional cross-hatch on top, as much a farmhouse signature as a guide for the oven spring."
+      }
     },
     {
-      "title": "Bake hot with steam",
-      "summary": "Bake on a hot stone with a strong burst of steam, starting near 250°C and dropping to 220°C once the crust sets, about 50 minutes total."
+      "title": {
+        "en": "Bake hot with steam"
+      },
+      "summary": {
+        "en": "Bake on a hot stone with a strong burst of steam, starting near 250°C and dropping to 220°C once the crust sets, about 50 minutes total."
+      }
     },
     {
-      "title": "Cool fully",
-      "summary": "Let it cool completely on a rack before cutting; the crumb is still setting."
+      "title": {
+        "en": "Cool fully"
+      },
+      "summary": {
+        "en": "Let it cool completely on a rack before cutting; the crumb is still setting."
+      }
     }
   ],
   "source": {

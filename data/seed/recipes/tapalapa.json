@@ -132,28 +132,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine the wheat, millet, corn and cowpea flours in a mixer bowl, then add salt, yeast and water; knead until smooth and elastic."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the wheat, millet, corn and cowpea flours in a mixer bowl, then add salt, yeast and water; knead until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Place in a greased bowl, cover, and let rise in a warm spot until doubled, about 1 hour."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Place in a greased bowl, cover, and let rise in a warm spot until doubled, about 1 hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Cut the dough into 3 pieces and shape each into a baguette-style loaf."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Cut the dough into 3 pieces and shape each into a baguette-style loaf."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Place on a baking sheet, optionally dusted with cornmeal, cover, and let rise 30 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Place on a baking sheet, optionally dusted with cornmeal, cover, and let rise 30 minutes."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Cut one long, shallow slash along the top of each loaf."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Cut one long, shallow slash along the top of each loaf."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a hot oven until golden brown, about 15 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a hot oven until golden brown, about 15 minutes."
+      }
     }
   ],
   "source": {

@@ -127,32 +127,60 @@
   ],
   "method": [
     {
-      "title": "Feed the starter",
-      "summary": "Make sure the sourdough starter is active and bubbly before you begin; a vigorous starter carries this loaf without any added yeast."
+      "title": {
+        "en": "Feed the starter"
+      },
+      "summary": {
+        "en": "Make sure the sourdough starter is active and bubbly before you begin; a vigorous starter carries this loaf without any added yeast."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine the wholemeal wheat, rye and barley flours with warm water, salt and starter into a shaggy dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the wholemeal wheat, rye and barley flours with warm water, salt and starter into a shaggy dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead about 7 minutes until the dough turns smooth and springs back when pressed."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead about 7 minutes until the dough turns smooth and springs back when pressed."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Cover and leave at room temperature until nearly doubled, roughly 4-5 hours depending on the starter's strength."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Cover and leave at room temperature until nearly doubled, roughly 4-5 hours depending on the starter's strength."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Shape into a round loaf and rest a further 30 minutes."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Shape into a round loaf and rest a further 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 230°C for 10 minutes, then drop to 200°C for about 40 minutes more, until deeply colored and hollow-sounding when tapped."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 230°C for 10 minutes, then drop to 200°C for about 40 minutes more, until deeply colored and hollow-sounding when tapped."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool fully on a rack before cutting; the crumb is coarser and denser than a pure wheat loaf."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool fully on a rack before cutting; the crumb is coarser and denser than a pure wheat loaf."
+      }
     }
   ],
   "source": {

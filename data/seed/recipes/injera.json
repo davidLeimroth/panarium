@@ -103,28 +103,52 @@
   ],
   "method": [
     {
-      "title": "Mix the batter",
-      "summary": "Whisk teff flour with water (and a spoonful of ersho starter if you have one) into a smooth, thin batter, thinner than pancake batter."
+      "title": {
+        "en": "Mix the batter"
+      },
+      "summary": {
+        "en": "Whisk teff flour with water (and a spoonful of ersho starter if you have one) into a smooth, thin batter, thinner than pancake batter."
+      }
     },
     {
-      "title": "Ferment",
-      "summary": "Cover loosely and leave at warm room temperature for 2-5 days, until it smells pleasantly sour and is full of tiny bubbles."
+      "title": {
+        "en": "Ferment"
+      },
+      "summary": {
+        "en": "Cover loosely and leave at warm room temperature for 2-5 days, until it smells pleasantly sour and is full of tiny bubbles."
+      }
     },
     {
-      "title": "Season",
-      "summary": "Stir in the salt just before cooking; the fermentation itself is done without salt."
+      "title": {
+        "en": "Season"
+      },
+      "summary": {
+        "en": "Stir in the salt just before cooking; the fermentation itself is done without salt."
+      }
     },
     {
-      "title": "Pour & spread",
-      "summary": "Pour a ladleful onto a hot, lightly greased wide griddle or non-stick pan, swirling quickly to spread it thin and even."
+      "title": {
+        "en": "Pour & spread"
+      },
+      "summary": {
+        "en": "Pour a ladleful onto a hot, lightly greased wide griddle or non-stick pan, swirling quickly to spread it thin and even."
+      }
     },
     {
-      "title": "Steam-cook",
-      "summary": "Cover with a lid and let it steam-cook on one side only until the surface is covered in tiny holes ('eyes') and the edges lift cleanly."
+      "title": {
+        "en": "Steam-cook"
+      },
+      "summary": {
+        "en": "Cover with a lid and let it steam-cook on one side only until the surface is covered in tiny holes ('eyes') and the edges lift cleanly."
+      }
     },
     {
-      "title": "Cool flat",
-      "summary": "Slide onto a clean cloth or tray to cool uncovered so it stays pliable rather than turning gummy."
+      "title": {
+        "en": "Cool flat"
+      },
+      "summary": {
+        "en": "Slide onto a clean cloth or tray to cool uncovered so it stays pliable rather than turning gummy."
+      }
     }
   ],
   "source": {

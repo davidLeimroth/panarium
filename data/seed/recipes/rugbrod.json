@@ -144,32 +144,60 @@
   ],
   "method": [
     {
-      "title": "First sour",
-      "summary": "Mix a portion of wholegrain rye flour with water and a spoon of mature rye starter; let it ferment overnight at room temperature until doubled."
+      "title": {
+        "en": "First sour"
+      },
+      "summary": {
+        "en": "Mix a portion of wholegrain rye flour with water and a spoon of mature rye starter; let it ferment overnight at room temperature until doubled."
+      }
     },
     {
-      "title": "Second sour",
-      "summary": "Fold in more rye flour, water, the salt, molasses and toasted seeds; ferment again overnight into a bubbling, well-risen sponge."
+      "title": {
+        "en": "Second sour"
+      },
+      "summary": {
+        "en": "Fold in more rye flour, water, the salt, molasses and toasted seeds; ferment again overnight into a bubbling, well-risen sponge."
+      }
     },
     {
-      "title": "Mix final dough",
-      "summary": "Work in the cracked rye meal, whole wheat flour and beer to a heavy, pourable batter-dough. No kneading, rye has nothing to develop."
+      "title": {
+        "en": "Mix final dough"
+      },
+      "summary": {
+        "en": "Work in the cracked rye meal, whole wheat flour and beer to a heavy, pourable batter-dough. No kneading, rye has nothing to develop."
+      }
     },
     {
-      "title": "Pan",
-      "summary": "Scrape into a greased loaf tin and smooth the top with a wet hand."
+      "title": {
+        "en": "Pan"
+      },
+      "summary": {
+        "en": "Scrape into a greased loaf tin and smooth the top with a wet hand."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let it rise at room temperature until it crowns the rim and small surface cracks appear."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let it rise at room temperature until it crowns the rim and small surface cracks appear."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot without steam until deeply browned and fully cooked through."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot without steam until deeply browned and fully cooked through."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cool completely, then wrap and wait a full day before slicing thin."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cool completely, then wrap and wait a full day before slicing thin."
+      }
     }
   ],
   "source": {

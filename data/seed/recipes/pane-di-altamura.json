@@ -103,28 +103,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine the durum semolina with water and the mature starter; durum drinks water slowly, so mix a full 20 minutes until you get a firm, deep-yellow dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the durum semolina with water and the mature starter; durum drinks water slowly, so mix a full 20 minutes until you get a firm, deep-yellow dough."
+      }
     },
     {
-      "title": "First rest",
-      "summary": "Cover and rest at least 90 minutes so the coarse semolina fully hydrates and early fermentation gets underway."
+      "title": {
+        "en": "First rest"
+      },
+      "summary": {
+        "en": "Cover and rest at least 90 minutes so the coarse semolina fully hydrates and early fermentation gets underway."
+      }
     },
     {
-      "title": "First shaping",
-      "summary": "Shape into a rough round and rest another 30 minutes."
+      "title": {
+        "en": "First shaping"
+      },
+      "summary": {
+        "en": "Shape into a rough round and rest another 30 minutes."
+      }
     },
     {
-      "title": "The overlapping fold",
-      "summary": "Re-shape using the traditional 'sckuanète' technique, a smaller cap of dough folded over a larger base, then rest at least 15 minutes more."
+      "title": {
+        "en": "The overlapping fold"
+      },
+      "summary": {
+        "en": "Re-shape using the traditional 'sckuanète' technique, a smaller cap of dough folded over a larger base, then rest at least 15 minutes more."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Let the loaf proof until it visibly domes, roughly an hour, seam-side arranged so the fold holds during the oven's initial heat."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Let the loaf proof until it visibly domes, roughly an hour, seam-side arranged so the fold holds during the oven's initial heat."
+      }
     },
     {
-      "title": "Bake fierce, then long",
-      "summary": "Load into a 250°C oven with the door cracked for the first 15 minutes to vent steam, then close it and bake another 45 minutes until the crust is thick, hard and deeply golden."
+      "title": {
+        "en": "Bake fierce, then long"
+      },
+      "summary": {
+        "en": "Load into a 250°C oven with the door cracked for the first 15 minutes to vent steam, then close it and bake another 45 minutes until the crust is thick, hard and deeply golden."
+      }
     }
   ],
   "source": {

@@ -169,32 +169,60 @@
   ],
   "method": [
     {
-      "title": "Mix the dough",
-      "summary": "Combine flour with the yeast and salt on opposite sides, then work in sugar, butter, eggs, milk, orange zest and orange extract until a soft, slightly sticky dough forms with no dry flour left."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine flour with the yeast and salt on opposite sides, then work in sugar, butter, eggs, milk, orange zest and orange extract until a soft, slightly sticky dough forms with no dry flour left."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead on a floured surface for 10-15 minutes until smooth and elastic enough to stretch thin without tearing."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead on a floured surface for 10-15 minutes until smooth and elastic enough to stretch thin without tearing."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough rise somewhere warm until nearly doubled, about 1 hour 45 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough rise somewhere warm until nearly doubled, about 1 hour 45 minutes."
+      }
     },
     {
-      "title": "Shape the ring",
-      "summary": "Deflate the dough, form it into a ball, then poke a hole through the center and stretch it out into a wide ring on a lined baking sheet."
+      "title": {
+        "en": "Shape the ring"
+      },
+      "summary": {
+        "en": "Deflate the dough, form it into a ball, then poke a hole through the center and stretch it out into a wide ring on a lined baking sheet."
+      }
     },
     {
-      "title": "Decorate and proof",
-      "summary": "Brush the ring with beaten egg, lay strips of candied guava paste and glacé cherries over the top like jewels, then let it proof, covered, until springy, about 45 minutes."
+      "title": {
+        "en": "Decorate and proof"
+      },
+      "summary": {
+        "en": "Brush the ring with beaten egg, lay strips of candied guava paste and glacé cherries over the top like jewels, then let it proof, covered, until springy, about 45 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake starting hot, around 200°C (400°F), for 10 minutes, then lower the heat and continue until deep golden and the center reads close to 88°C, roughly 13 more minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake starting hot, around 200°C (400°F), for 10 minutes, then lower the heat and continue until deep golden and the center reads close to 88°C, roughly 13 more minutes."
+      }
     },
     {
-      "title": "Cool and hide the figure",
-      "summary": "Let the ring cool completely, then tuck a small figurine of the Christ child up into the crumb from underneath before serving."
+      "title": {
+        "en": "Cool and hide the figure"
+      },
+      "summary": {
+        "en": "Let the ring cool completely, then tuck a small figurine of the Christ child up into the crumb from underneath before serving."
+      }
     }
   ],
   "source": {

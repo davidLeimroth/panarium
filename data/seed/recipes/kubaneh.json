@@ -141,32 +141,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, sugar, yeast and salt, then add water, the egg and egg white; mix into a soft dough and work in the oil until smooth."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, sugar, yeast and salt, then add water, the egg and egg white; mix into a soft dough and work in the oil until smooth."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Cover and let the dough double in size, about 1 hour."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough double in size, about 1 hour."
+      }
     },
     {
-      "title": "Laminate",
-      "summary": "Divide into pieces and stretch each one thin with buttered fingertips. Dab with more butter, scatter nigella seeds, fold into thirds and roll into a tight coil."
+      "title": {
+        "en": "Laminate"
+      },
+      "summary": {
+        "en": "Divide into pieces and stretch each one thin with buttered fingertips. Dab with more butter, scatter nigella seeds, fold into thirds and roll into a tight coil."
+      }
     },
     {
-      "title": "Arrange",
-      "summary": "Pack the coils cut-side up into a greased round pan, working from the center outward so they touch."
+      "title": {
+        "en": "Arrange"
+      },
+      "summary": {
+        "en": "Pack the coils cut-side up into a greased round pan, working from the center outward so they touch."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Cover and let rise until puffed, about 1 hour."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Cover and let rise until puffed, about 1 hour."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Brush with egg yolk wash, scatter a few more nigella seeds, and bake until deeply golden on top."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Brush with egg yolk wash, scatter a few more nigella seeds, and bake until deeply golden on top."
+      }
     },
     {
-      "title": "Rest and pull apart",
-      "summary": "Cool briefly in the pan before unmolding, then tear the coils apart to serve warm."
+      "title": {
+        "en": "Rest and pull apart"
+      },
+      "summary": {
+        "en": "Cool briefly in the pan before unmolding, then tear the coils apart to serve warm."
+      }
     }
   ],
   "source": {

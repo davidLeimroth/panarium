@@ -104,28 +104,52 @@
   ],
   "method": [
     {
-      "title": "Mix batter",
-      "summary": "Whisk chickpea flour into water until completely free of lumps, then stir in a little olive oil and salt."
+      "title": {
+        "en": "Mix batter"
+      },
+      "summary": {
+        "en": "Whisk chickpea flour into water until completely free of lumps, then stir in a little olive oil and salt."
+      }
     },
     {
-      "title": "Long rest",
-      "summary": "Let the batter rest loosely covered at room temperature at least 4 hours, ideally 8, skimming off any foam every couple of hours."
+      "title": {
+        "en": "Long rest"
+      },
+      "summary": {
+        "en": "Let the batter rest loosely covered at room temperature at least 4 hours, ideally 8, skimming off any foam every couple of hours."
+      }
     },
     {
-      "title": "Oil the pan",
-      "summary": "Generously oil a wide round pan so a film of oil coats the bottom and will rise around the edges of the batter."
+      "title": {
+        "en": "Oil the pan"
+      },
+      "summary": {
+        "en": "Generously oil a wide round pan so a film of oil coats the bottom and will rise around the edges of the batter."
+      }
     },
     {
-      "title": "Pour",
-      "summary": "Stir the rested batter well and pour it in, about 0.7-0.9 cm deep."
+      "title": {
+        "en": "Pour"
+      },
+      "summary": {
+        "en": "Stir the rested batter well and pour it in, about 0.7-0.9 cm deep."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a very hot oven until the top is deeply golden and the edges crisp, 15-20 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a very hot oven until the top is deeply golden and the edges crisp, 15-20 minutes."
+      }
     },
     {
-      "title": "Cut & serve",
-      "summary": "Cut into wedges with a wooden or metal spatula and serve immediately, dusted with black pepper."
+      "title": {
+        "en": "Cut & serve"
+      },
+      "summary": {
+        "en": "Cut into wedges with a wooden or metal spatula and serve immediately, dusted with black pepper."
+      }
     }
   ],
   "source": {

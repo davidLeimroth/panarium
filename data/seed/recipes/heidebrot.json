@@ -127,32 +127,60 @@
   ],
   "method": [
     {
-      "title": "Build the sourdough",
-      "summary": "Mix flour, water and a little starter; ferment covered overnight at room temperature until ripe and domed."
+      "title": {
+        "en": "Build the sourdough"
+      },
+      "summary": {
+        "en": "Mix flour, water and a little starter; ferment covered overnight at room temperature until ripe and domed."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the ripe sourdough with the remaining wheat flour, the rye and buckwheat wholegrain flours, water, salt and a small amount of yeast; mix into a smooth dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the ripe sourdough with the remaining wheat flour, the rye and buckwheat wholegrain flours, water, salt and a small amount of yeast; mix into a smooth dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Cover and let rise until visibly expanded, folding once or twice to build strength."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Cover and let rise until visibly expanded, folding once or twice to build strength."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Divide in two, shape each piece into a tight round, and set seam-up in floured proofing baskets."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Divide in two, shape each piece into a tight round, and set seam-up in floured proofing baskets."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Let rise covered until nicely domed and springy."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Let rise covered until nicely domed and springy."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Turn out onto a hot stone, bake with steam at high heat, then drop the temperature and continue until deeply browned, about 45 minutes total."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Turn out onto a hot stone, bake with steam at high heat, then drop the temperature and continue until deeply browned, about 45 minutes total."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool completely on a rack before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool completely on a rack before slicing."
+      }
     }
   ],
   "source": {

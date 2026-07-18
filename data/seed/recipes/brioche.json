@@ -117,32 +117,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, sugar, salt and yeast with the eggs into a shaggy dough; knead until it starts to come together."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, sugar, salt and yeast with the eggs into a shaggy dough; knead until it starts to come together."
+      }
     },
     {
-      "title": "Add the butter",
-      "summary": "Work in the soft butter gradually until the dough is smooth, glossy and pulls cleanly away from the bowl."
+      "title": {
+        "en": "Add the butter"
+      },
+      "summary": {
+        "en": "Work in the soft butter gradually until the dough is smooth, glossy and pulls cleanly away from the bowl."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Bulk ferment about 90 minutes with a few gentle folds along the way."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Bulk ferment about 90 minutes with a few gentle folds along the way."
+      }
     },
     {
-      "title": "Chill overnight",
-      "summary": "Refrigerate the dough overnight, this firms the butter and makes the sticky dough far easier to handle."
+      "title": {
+        "en": "Chill overnight"
+      },
+      "summary": {
+        "en": "Refrigerate the dough overnight, this firms the butter and makes the sticky dough far easier to handle."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into a loaf or a crown of balls, place in a buttered mold, and let it come back to life."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into a loaf or a crown of balls, place in a buttered mold, and let it come back to life."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Proof until visibly puffy, roughly 1.5-2 hours."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Proof until visibly puffy, roughly 1.5-2 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Brush with egg wash and bake until deeply golden, tenting with foil if it colors too fast."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Brush with egg wash and bake until deeply golden, tenting with foil if it colors too fast."
+      }
     }
   ],
   "source": {

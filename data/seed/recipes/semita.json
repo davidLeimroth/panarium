@@ -152,32 +152,60 @@
   ],
   "method": [
     {
-      "title": "Warm the enrichments",
-      "summary": "Heat milk, butter, sugar and salt together until the butter melts, then cool to lukewarm."
+      "title": {
+        "en": "Warm the enrichments"
+      },
+      "summary": {
+        "en": "Heat milk, butter, sugar and salt together until the butter melts, then cool to lukewarm."
+      }
     },
     {
-      "title": "Bloom yeast",
-      "summary": "Dissolve the yeast in warm water and let stand until foamy."
+      "title": {
+        "en": "Bloom yeast"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in warm water and let stand until foamy."
+      }
     },
     {
-      "title": "Mix & knead",
-      "summary": "Combine the milk mixture, yeast mixture, beaten eggs and flour into a dough, then knead until smooth and elastic."
+      "title": {
+        "en": "Mix & knead"
+      },
+      "summary": {
+        "en": "Combine the milk mixture, yeast mixture, beaten eggs and flour into a dough, then knead until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise until doubled, about 1 to 1.5 hours."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise until doubled, about 1 to 1.5 hours."
+      }
     },
     {
-      "title": "Layer & fill",
-      "summary": "Press half the dough into a greased large baking pan, spread with the cinnamon-pineapple filling leaving a border, then top with a second sheet of dough and seal the edges."
+      "title": {
+        "en": "Layer & fill"
+      },
+      "summary": {
+        "en": "Press half the dough into a greased large baking pan, spread with the cinnamon-pineapple filling leaving a border, then top with a second sheet of dough and seal the edges."
+      }
     },
     {
-      "title": "Decorate & rest",
-      "summary": "Lay a lattice of dough strips over the top, brush with egg wash, sprinkle with sugar, and rest 30 minutes."
+      "title": {
+        "en": "Decorate & rest"
+      },
+      "summary": {
+        "en": "Lay a lattice of dough strips over the top, brush with egg wash, sprinkle with sugar, and rest 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Prick the surface all over, then bake until golden brown, 30-40 minutes; cool before cutting into squares."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Prick the surface all over, then bake until golden brown, 30-40 minutes; cool before cutting into squares."
+      }
     }
   ],
   "source": {

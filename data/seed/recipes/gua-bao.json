@@ -130,28 +130,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, yeast, baking powder and sugar, then work in water to a smooth, soft dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, yeast, baking powder and sugar, then work in water to a smooth, soft dough."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Let the dough rise until noticeably puffy."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Let the dough rise until noticeably puffy."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Divide into pieces, flatten each into an oval, brush lightly with oil, and fold in half with a piece of parchment inside so the fold won't seal shut."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Divide into pieces, flatten each into an oval, brush lightly with oil, and fold in half with a piece of parchment inside so the fold won't seal shut."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Rest the folded buns about 30 minutes until slightly enlarged."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Rest the folded buns about 30 minutes until slightly enlarged."
+      }
     },
     {
-      "title": "Steam",
-      "summary": "Steam over a full boil for about 10 minutes."
+      "title": {
+        "en": "Steam"
+      },
+      "summary": {
+        "en": "Steam over a full boil for about 10 minutes."
+      }
     },
     {
-      "title": "Fill",
-      "summary": "Prise open the warm bun and fill with braised pork belly, pickled mustard greens and crushed peanuts."
+      "title": {
+        "en": "Fill"
+      },
+      "summary": {
+        "en": "Prise open the warm bun and fill with braised pork belly, pickled mustard greens and crushed peanuts."
+      }
     }
   ],
   "source": {

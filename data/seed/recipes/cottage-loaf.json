@@ -109,28 +109,52 @@
   ],
   "method": [
     {
-      "title": "Mix & knead",
-      "summary": "Combine flour, yeast and salt, rub in the softened lard, then add water gradually and knead 5-10 minutes to a smooth, fairly firm dough."
+      "title": {
+        "en": "Mix & knead"
+      },
+      "summary": {
+        "en": "Combine flour, yeast and salt, rub in the softened lard, then add water gradually and knead 5-10 minutes to a smooth, fairly firm dough."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Prove in an oiled bowl until doubled, anywhere from 1 to 3 hours depending on room warmth."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Prove in an oiled bowl until doubled, anywhere from 1 to 3 hours depending on room warmth."
+      }
     },
     {
-      "title": "Shape two tiers",
-      "summary": "Divide the dough roughly two-thirds and one-third, shape each into a tight ball, and set the small ball centered on top of the large one."
+      "title": {
+        "en": "Shape two tiers"
+      },
+      "summary": {
+        "en": "Divide the dough roughly two-thirds and one-third, shape each into a tight ball, and set the small ball centered on top of the large one."
+      }
     },
     {
-      "title": "Seal the join",
-      "summary": "Push a floured finger straight down through the center of both balls to bond the tiers so the top doesn't slide off in the oven."
+      "title": {
+        "en": "Seal the join"
+      },
+      "summary": {
+        "en": "Push a floured finger straight down through the center of both balls to bond the tiers so the top doesn't slide off in the oven."
+      }
     },
     {
-      "title": "Final proof & score",
-      "summary": "Proof about an hour until puffy, then slash both tiers."
+      "title": {
+        "en": "Final proof & score"
+      },
+      "summary": {
+        "en": "Proof about an hour until puffy, then slash both tiers."
+      }
     },
     {
-      "title": "Bake hot, then lower",
-      "summary": "Bake with steam at high heat for 15 minutes, then reduce the temperature and bake 20-25 minutes more until deep golden and hollow-sounding underneath."
+      "title": {
+        "en": "Bake hot, then lower"
+      },
+      "summary": {
+        "en": "Bake with steam at high heat for 15 minutes, then reduce the temperature and bake 20-25 minutes more until deep golden and hollow-sounding underneath."
+      }
     }
   ],
   "source": {

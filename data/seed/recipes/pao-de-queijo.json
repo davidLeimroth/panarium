@@ -123,28 +123,52 @@
   ],
   "method": [
     {
-      "title": "Boil the liquid",
-      "summary": "Bring milk, water, oil and salt to a full boil."
+      "title": {
+        "en": "Boil the liquid"
+      },
+      "summary": {
+        "en": "Bring milk, water, oil and salt to a full boil."
+      }
     },
     {
-      "title": "Scald the starch",
-      "summary": "Pour the hot liquid over the tapioca starch and stir until it forms a stiff, slightly stringy paste; let it cool a few minutes."
+      "title": {
+        "en": "Scald the starch"
+      },
+      "summary": {
+        "en": "Pour the hot liquid over the tapioca starch and stir until it forms a stiff, slightly stringy paste; let it cool a few minutes."
+      }
     },
     {
-      "title": "Add eggs",
-      "summary": "Beat in the eggs one at a time until fully absorbed."
+      "title": {
+        "en": "Add eggs"
+      },
+      "summary": {
+        "en": "Beat in the eggs one at a time until fully absorbed."
+      }
     },
     {
-      "title": "Work in cheese",
-      "summary": "Knead or pulse in both cheeses until you have a soft, very sticky dough."
+      "title": {
+        "en": "Work in cheese"
+      },
+      "summary": {
+        "en": "Knead or pulse in both cheeses until you have a soft, very sticky dough."
+      }
     },
     {
-      "title": "Portion",
-      "summary": "Roll into golf-ball-sized portions with oiled hands, since the dough is too sticky to shape dry."
+      "title": {
+        "en": "Portion"
+      },
+      "summary": {
+        "en": "Roll into golf-ball-sized portions with oiled hands, since the dough is too sticky to shape dry."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until puffed and golden, hollow-sounding when tapped; serve hot for the best stretchy pull."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until puffed and golden, hollow-sounding when tapped; serve hot for the best stretchy pull."
+      }
     }
   ],
   "source": {

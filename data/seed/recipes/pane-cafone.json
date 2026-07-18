@@ -101,28 +101,52 @@
   ],
   "method": [
     {
-      "title": "Build a starter",
-      "summary": "The night before, mix a small amount of flour, water, a pinch of yeast and salt into a firm starter (lievitino) and let it rest 12 hours at room temperature."
+      "title": {
+        "en": "Build a starter"
+      },
+      "summary": {
+        "en": "The night before, mix a small amount of flour, water, a pinch of yeast and salt into a firm starter (lievitino) and let it rest 12 hours at room temperature."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine the mature starter with most of the remaining flour and water in a mixer for about 10 minutes, then work in the last of the salt and water gradually over another 20 minutes."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the mature starter with most of the remaining flour and water in a mixer for about 10 minutes, then work in the last of the salt and water gradually over another 20 minutes."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough rest about 45 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough rest about 45 minutes."
+      }
     },
     {
-      "title": "Fold and rise again",
-      "summary": "Fold gently and let it rise a further 2 hours."
+      "title": {
+        "en": "Fold and rise again"
+      },
+      "summary": {
+        "en": "Fold gently and let it rise a further 2 hours."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Shape into one large rustic loaf and proof about 90 minutes."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Shape into one large rustic loaf and proof about 90 minutes."
+      }
     },
     {
-      "title": "Bake in two stages",
-      "summary": "Bake at 220°C for 20 minutes, then lower to 200°C for 35-40 minutes more, cracking the oven door near the end for a thick, crackling crust."
+      "title": {
+        "en": "Bake in two stages"
+      },
+      "summary": {
+        "en": "Bake at 220°C for 20 minutes, then lower to 200°C for 35-40 minutes more, cracking the oven door near the end for a thick, crackling crust."
+      }
     }
   ],
   "source": {

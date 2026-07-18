@@ -153,32 +153,60 @@
   ],
   "method": [
     {
-      "title": "Mix & cold rest",
-      "summary": "Combine warm water, sugar, yeast, both flours, salt and oil into a shaggy, high-hydration dough; mix briefly, then refrigerate overnight (12-16 hours)."
+      "title": {
+        "en": "Mix & cold rest"
+      },
+      "summary": {
+        "en": "Combine warm water, sugar, yeast, both flours, salt and oil into a shaggy, high-hydration dough; mix briefly, then refrigerate overnight (12-16 hours)."
+      }
     },
     {
-      "title": "Strengthen",
-      "summary": "The next day, let the cold dough warm up and do a few stretch-and-folds over about 2 hours to build strength."
+      "title": {
+        "en": "Strengthen"
+      },
+      "summary": {
+        "en": "The next day, let the cold dough warm up and do a few stretch-and-folds over about 2 hours to build strength."
+      }
     },
     {
-      "title": "Divide & rest",
-      "summary": "Divide into loaves and let rest about 30 minutes."
+      "title": {
+        "en": "Divide & rest"
+      },
+      "summary": {
+        "en": "Divide into loaves and let rest about 30 minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Stretch each piece into a long oval, then let rest 15-20 minutes more."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Stretch each piece into a long oval, then let rest 15-20 minutes more."
+      }
     },
     {
-      "title": "Groove & glaze",
-      "summary": "Press deep grooves down the length with oiled fingers, then brush generously with the cooked roomal flour glaze."
+      "title": {
+        "en": "Groove & glaze"
+      },
+      "summary": {
+        "en": "Press deep grooves down the length with oiled fingers, then brush generously with the cooked roomal flour glaze."
+      }
     },
     {
-      "title": "Seed",
-      "summary": "Scatter sesame and nigella seeds over the glazed surface."
+      "title": {
+        "en": "Seed"
+      },
+      "summary": {
+        "en": "Scatter sesame and nigella seeds over the glazed surface."
+      }
     },
     {
-      "title": "Blast-bake",
-      "summary": "Bake in a very hot oven for 8-10 minutes until deep golden and crackly."
+      "title": {
+        "en": "Blast-bake"
+      },
+      "summary": {
+        "en": "Bake in a very hot oven for 8-10 minutes until deep golden and crackly."
+      }
     }
   ],
   "source": {

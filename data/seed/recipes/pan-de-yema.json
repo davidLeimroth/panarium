@@ -131,32 +131,60 @@
   ],
   "method": [
     {
-      "title": "Bloom yeast",
-      "summary": "Dissolve the yeast with a little sugar in lukewarm water, let stand until frothy, then stir in a cup of flour, cover and let rise an hour."
+      "title": {
+        "en": "Bloom yeast"
+      },
+      "summary": {
+        "en": "Dissolve the yeast with a little sugar in lukewarm water, let stand until frothy, then stir in a cup of flour, cover and let rise an hour."
+      }
     },
     {
-      "title": "Cream butter",
-      "summary": "Beat the butter with the remaining sugar until creamy."
+      "title": {
+        "en": "Cream butter"
+      },
+      "summary": {
+        "en": "Beat the butter with the remaining sugar until creamy."
+      }
     },
     {
-      "title": "Build dough",
-      "summary": "Beat in the yeast sponge, egg yolks, whole eggs, remaining flour and salt."
+      "title": {
+        "en": "Build dough"
+      },
+      "summary": {
+        "en": "Beat in the yeast sponge, egg yolks, whole eggs, remaining flour and salt."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 10-12 minutes until soft, smooth and shiny."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 10-12 minutes until soft, smooth and shiny."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about an hour, until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about an hour, until doubled."
+      }
     },
     {
-      "title": "Shape & second rise",
-      "summary": "Divide into 16 balls, space on buttered sheets, and proof 45 minutes to an hour."
+      "title": {
+        "en": "Shape & second rise"
+      },
+      "summary": {
+        "en": "Divide into 16 balls, space on buttered sheets, and proof 45 minutes to an hour."
+      }
     },
     {
-      "title": "Score, glaze & bake",
-      "summary": "Slash each bun three times, brush with egg wash, and bake until golden."
+      "title": {
+        "en": "Score, glaze & bake"
+      },
+      "summary": {
+        "en": "Slash each bun three times, brush with egg wash, and bake until golden."
+      }
     }
   ],
   "source": {

@@ -101,28 +101,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Dissolve a little yeast in the water, then work in the flour by hand, keeping the salt from touching the yeast directly for more than a few minutes."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Dissolve a little yeast in the water, then work in the flour by hand, keeping the salt from touching the yeast directly for more than a few minutes."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Work the dough by hand into a smooth, elastic mass, about 20 minutes."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Work the dough by hand into a smooth, elastic mass, about 20 minutes."
+      }
     },
     {
-      "title": "Bulk rest",
-      "summary": "Let the whole mass rest a couple of hours at room temperature before dividing."
+      "title": {
+        "en": "Bulk rest"
+      },
+      "summary": {
+        "en": "Let the whole mass rest a couple of hours at room temperature before dividing."
+      }
     },
     {
-      "title": "Ball and ferment long",
-      "summary": "Divide into 200-280 g balls and let them ferment together at room temperature for 8 to 24 hours until soft, domed and airy."
+      "title": {
+        "en": "Ball and ferment long"
+      },
+      "summary": {
+        "en": "Divide into 200-280 g balls and let them ferment together at room temperature for 8 to 24 hours until soft, domed and airy."
+      }
     },
     {
-      "title": "Stretch by hand",
-      "summary": "Press and stretch each ball outward from the center with fingertips only, never a rolling pin, leaving a thicker rim to puff up in the oven."
+      "title": {
+        "en": "Stretch by hand"
+      },
+      "summary": {
+        "en": "Press and stretch each ball outward from the center with fingertips only, never a rolling pin, leaving a thicker rim to puff up in the oven."
+      }
     },
     {
-      "title": "Flash-bake",
-      "summary": "Launch onto a screaming-hot stone or wood-fired oven floor at 430-480°C and bake just 60-90 seconds until the rim blisters and chars in spots."
+      "title": {
+        "en": "Flash-bake"
+      },
+      "summary": {
+        "en": "Launch onto a screaming-hot stone or wood-fired oven floor at 430-480°C and bake just 60-90 seconds until the rim blisters and chars in spots."
+      }
     }
   ],
   "source": {

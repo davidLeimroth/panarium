@@ -128,32 +128,60 @@
   ],
   "method": [
     {
-      "title": "Build the dough",
-      "summary": "Mix active sourdough starter with the whole wheat and white flours, water, honey and salt into a shaggy dough; rest 1 hour."
+      "title": {
+        "en": "Build the dough"
+      },
+      "summary": {
+        "en": "Mix active sourdough starter with the whole wheat and white flours, water, honey and salt into a shaggy dough; rest 1 hour."
+      }
     },
     {
-      "title": "Stretch & fold",
-      "summary": "Fold the dough over itself every 30 minutes, four times, to build strength without hard kneading."
+      "title": {
+        "en": "Stretch & fold"
+      },
+      "summary": {
+        "en": "Fold the dough over itself every 30 minutes, four times, to build strength without hard kneading."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let it continue fermenting through the folds, roughly 2-3 hours total, until airy and extensible."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let it continue fermenting through the folds, roughly 2-3 hours total, until airy and extensible."
+      }
     },
     {
-      "title": "Rest before shaping",
-      "summary": "Give the dough a final rest of at least 30 minutes."
+      "title": {
+        "en": "Rest before shaping"
+      },
+      "summary": {
+        "en": "Give the dough a final rest of at least 30 minutes."
+      }
     },
     {
-      "title": "Stretch into a sheet",
-      "summary": "Oil your hands and stretch the dough into a long, thin sheet on a floured peel or tray."
+      "title": {
+        "en": "Stretch into a sheet"
+      },
+      "summary": {
+        "en": "Oil your hands and stretch the dough into a long, thin sheet on a floured peel or tray."
+      }
     },
     {
-      "title": "Dimple & seed",
-      "summary": "Press fingers repeatedly into the surface to create the signature dimples, then scatter sesame seeds over the top."
+      "title": {
+        "en": "Dimple & seed"
+      },
+      "summary": {
+        "en": "Press fingers repeatedly into the surface to create the signature dimples, then scatter sesame seeds over the top."
+      }
     },
     {
-      "title": "Stone-bake",
-      "summary": "Slide onto a screaming-hot baking stone (or heated pebbles) and bake 6-9 minutes until deeply blistered and browned."
+      "title": {
+        "en": "Stone-bake"
+      },
+      "summary": {
+        "en": "Slide onto a screaming-hot baking stone (or heated pebbles) and bake 6-9 minutes until deeply blistered and browned."
+      }
     }
   ],
   "source": {

@@ -130,28 +130,52 @@
   ],
   "method": [
     {
-      "title": "Build the rye sour",
-      "summary": "Mix a spoonful of starter with whole rye flour and water; let it ferment at room temperature overnight until active and pleasantly sour."
+      "title": {
+        "en": "Build the rye sour"
+      },
+      "summary": {
+        "en": "Mix a spoonful of starter with whole rye flour and water; let it ferment at room temperature overnight until active and pleasantly sour."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the rye sour with bread flour, more water, caraway, salt and a touch of yeast into a smooth, workable dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the rye sour with bread flour, more water, caraway, salt and a touch of yeast into a smooth, workable dough."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Let the dough rise about an hour, until visibly puffy."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Let the dough rise about an hour, until visibly puffy."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into a plump oval loaf and set it on a floured peel or parchment."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into a plump oval loaf and set it on a floured peel or parchment."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Proof uncovered until it springs back slowly when poked, about 40 minutes."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Proof uncovered until it springs back slowly when poked, about 40 minutes."
+      }
     },
     {
-      "title": "Bake covered, then open",
-      "summary": "Bake on a hot stone, covered for the first stretch to trap steam, then uncovered until the crust is deeply crackled."
+      "title": {
+        "en": "Bake covered, then open"
+      },
+      "summary": {
+        "en": "Bake on a hot stone, covered for the first stretch to trap steam, then uncovered until the crust is deeply crackled."
+      }
     }
   ],
   "source": {

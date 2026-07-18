@@ -107,32 +107,60 @@
   ],
   "method": [
     {
-      "title": "Mix dry",
-      "summary": "Whisk flour, baking powder and salt, then rub or cut in the lard until crumbly."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Whisk flour, baking powder and salt, then rub or cut in the lard until crumbly."
+      }
     },
     {
-      "title": "Add water",
-      "summary": "Pour in hot water and mix to a shaggy dough; the heat helps develop just enough gluten."
+      "title": {
+        "en": "Add water"
+      },
+      "summary": {
+        "en": "Pour in hot water and mix to a shaggy dough; the heat helps develop just enough gluten."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 3-5 minutes until smooth, soft and elastic; rest briefly only if it resists rolling."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 3-5 minutes until smooth, soft and elastic; rest briefly only if it resists rolling."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Portion into small balls and let them relax a few minutes."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Portion into small balls and let them relax a few minutes."
+      }
     },
     {
-      "title": "Roll thin",
-      "summary": "Roll each ball into a thin, even round."
+      "title": {
+        "en": "Roll thin"
+      },
+      "summary": {
+        "en": "Roll each ball into a thin, even round."
+      }
     },
     {
-      "title": "Griddle",
-      "summary": "Cook on a hot dry comal about a minute per side until lightly spotted, pressing down any air pockets with a folded towel."
+      "title": {
+        "en": "Griddle"
+      },
+      "summary": {
+        "en": "Cook on a hot dry comal about a minute per side until lightly spotted, pressing down any air pockets with a folded towel."
+      }
     },
     {
-      "title": "Keep warm",
-      "summary": "Stack in a cloth or tortilla warmer to stay soft and pliable."
+      "title": {
+        "en": "Keep warm"
+      },
+      "summary": {
+        "en": "Stack in a cloth or tortilla warmer to stay soft and pliable."
+      }
     }
   ],
   "source": {

@@ -116,28 +116,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, yeast and salt, then gradually work in warm water to a smooth, soft dough; knead about 10 minutes."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, yeast and salt, then gradually work in warm water to a smooth, soft dough; knead about 10 minutes."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise at room temperature about an hour until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise at room temperature about an hour until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Deflate and knead briefly, then divide into 12 pieces; roll each into a cigar, flatten and roll again into a long strip, fold lengthwise, coil into a spiral bundle, then press flat and roll into a 4-inch disc."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Deflate and knead briefly, then divide into 12 pieces; roll each into a cigar, flatten and roll again into a long strip, fold lengthwise, coil into a spiral bundle, then press flat and roll into a 4-inch disc."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Let the shaped discs rest 20 minutes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Let the shaped discs rest 20 minutes."
+      }
     },
     {
-      "title": "Pan-cook",
-      "summary": "Cook in a dry, ungreased skillet over medium heat, covered, about 2 minutes per side, then uncovered another minute per side until golden and cooked through."
+      "title": {
+        "en": "Pan-cook"
+      },
+      "summary": {
+        "en": "Cook in a dry, ungreased skillet over medium heat, covered, about 2 minutes per side, then uncovered another minute per side until golden and cooked through."
+      }
     },
     {
-      "title": "Fill",
-      "summary": "Split each warm bread open and stuff with chopped, long-braised pork belly, prepared separately with soy sauce, star anise and other spices, along with a little braising liquid and cilantro."
+      "title": {
+        "en": "Fill"
+      },
+      "summary": {
+        "en": "Split each warm bread open and stuff with chopped, long-braised pork belly, prepared separately with soy sauce, star anise and other spices, along with a little braising liquid and cilantro."
+      }
     }
   ],
   "source": {

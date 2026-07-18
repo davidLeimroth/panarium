@@ -121,36 +121,68 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter with flour and water; ripen about 5-6 hours."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter with flour and water; ripen about 5-6 hours."
+      }
     },
     {
-      "title": "Cook the porridge",
-      "summary": "Simmer rolled oats in water, covered, about 16 minutes to a creamy porridge; spread on a tray and cool completely."
+      "title": {
+        "en": "Cook the porridge"
+      },
+      "summary": {
+        "en": "Simmer rolled oats in water, covered, about 16 minutes to a creamy porridge; spread on a tray and cool completely."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Dissolve the levain in water, add both flours, and rest 1 hour; then work in salt."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Dissolve the levain in water, add both flours, and rest 1 hour; then work in salt."
+      }
     },
     {
-      "title": "Bulk ferment with porridge",
-      "summary": "Fold the cooled porridge into the dough during the first stretch-and-fold, then continue with six sets total over about 5.5 hours, pinching apart any oat clumps."
+      "title": {
+        "en": "Bulk ferment with porridge"
+      },
+      "summary": {
+        "en": "Fold the cooled porridge into the dough during the first stretch-and-fold, then continue with six sets total over about 5.5 hours, pinching apart any oat clumps."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, preshape, rest 20 minutes, then shape into boules and coat the bottoms in dry rolled oats."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, preshape, rest 20 minutes, then shape into boules and coat the bottoms in dry rolled oats."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Proof 1 hour at room temperature, then overnight in the refrigerator."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Proof 1 hour at room temperature, then overnight in the refrigerator."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 35 minutes uncovered until deep golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 35 minutes uncovered until deep golden."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least 1-2 hours before cutting; the interior needs time to fully set."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least 1-2 hours before cutting; the interior needs time to fully set."
+      }
     }
   ],
   "source": {

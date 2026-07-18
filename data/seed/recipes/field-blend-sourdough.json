@@ -125,32 +125,60 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "The day before, mix a portion of mature starter with flour and water; let it ripen at room temperature."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "The day before, mix a portion of mature starter with flour and water; let it ripen at room temperature."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine the white, whole wheat and whole rye flours with water, the ripe levain, salt and a small amount of instant yeast into a shaggy dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the white, whole wheat and whole rye flours with water, the ripe levain, salt and a small amount of instant yeast into a shaggy dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment about 5 hours at room temperature with a few folds, until the dough has roughly doubled."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment about 5 hours at room temperature with a few folds, until the dough has roughly doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, shape into boules, and place seam-side up in floured bannetons."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, shape into boules, and place seam-side up in floured bannetons."
+      }
     },
     {
-      "title": "Cold retard",
-      "summary": "Refrigerate overnight, about 12 hours, for fuller flavor."
+      "title": {
+        "en": "Cold retard"
+      },
+      "summary": {
+        "en": "Refrigerate overnight, about 12 hours, for fuller flavor."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated cast-iron combo cooker at a high heat (about 246°C): roughly 30 minutes covered, then 20 minutes uncovered until dark brown."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated cast-iron combo cooker at a high heat (about 246°C): roughly 30 minutes covered, then 20 minutes uncovered until dark brown."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least an hour before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least an hour before slicing."
+      }
     }
   ],
   "source": {

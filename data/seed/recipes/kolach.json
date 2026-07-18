@@ -155,32 +155,60 @@
   ],
   "method": [
     {
-      "title": "Build the sponge",
-      "summary": "Whisk warm milk with part of the flour and the yeast into a loose batter, and let it stand until bubbly, about an hour."
+      "title": {
+        "en": "Build the sponge"
+      },
+      "summary": {
+        "en": "Whisk warm milk with part of the flour and the yeast into a loose batter, and let it stand until bubbly, about an hour."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Beat in the remaining flour, water, butter, honey, salt, eggs and flavorings until you have a smooth, elastic dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Beat in the remaining flour, water, butter, honey, salt, eggs and flavorings until you have a smooth, elastic dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough roughly double in a warm spot, about 1.5 hours."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough roughly double in a warm spot, about 1.5 hours."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Split the dough into a larger and a smaller piece; twist the larger piece into two thick ropes and braid the smaller piece from three thin ropes."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Split the dough into a larger and a smaller piece; twist the larger piece into two thick ropes and braid the smaller piece from three thin ropes."
+      }
     },
     {
-      "title": "Form the rings",
-      "summary": "Coil each braided length into a ring, nest the smaller ring inside the larger one on a baking sheet, and pinch the seams to seal."
+      "title": {
+        "en": "Form the rings"
+      },
+      "summary": {
+        "en": "Coil each braided length into a ring, nest the smaller ring inside the larger one on a baking sheet, and pinch the seams to seal."
+      }
     },
     {
-      "title": "Second rise and wash",
-      "summary": "Proof until visibly puffy, then brush generously with egg wash."
+      "title": {
+        "en": "Second rise and wash"
+      },
+      "summary": {
+        "en": "Proof until visibly puffy, then brush generously with egg wash."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Start in a hot oven to set the crust, then lower the temperature and bake through to a deep golden brown."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Start in a hot oven to set the crust, then lower the temperature and bake through to a deep golden brown."
+      }
     }
   ],
   "source": {

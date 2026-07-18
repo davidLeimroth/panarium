@@ -117,28 +117,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, water, egg, sugar and salt with the yeast; knead until smooth and elastic."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, water, egg, sugar and salt with the yeast; knead until smooth and elastic."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let rise about an hour."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let rise about an hour."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "Divide into pieces, let rest briefly, then roll each into a long, even stick."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "Divide into pieces, let rest briefly, then roll each into a long, even stick."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let rise until puffy, about 1.5 hours."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let rise until puffy, about 1.5 hours."
+      }
     },
     {
-      "title": "Score",
-      "summary": "Brush with egg wash and slash diagonally in the classic overlapping 'saucisson' pattern."
+      "title": {
+        "en": "Score"
+      },
+      "summary": {
+        "en": "Brush with egg wash and slash diagonally in the classic overlapping 'saucisson' pattern."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot with steam until glossy and golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot with steam until glossy and golden."
+      }
     }
   ],
   "source": {

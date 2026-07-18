@@ -140,32 +140,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Whisk rye flour, wheat flour, oats, salt, sugar and yeast together, then stir in warmed milk and melted butter to a stiff, slightly sticky dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Whisk rye flour, wheat flour, oats, salt, sugar and yeast together, then stir in warmed milk and melted butter to a stiff, slightly sticky dough."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Cover and let stand at room temperature about an hour."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Cover and let stand at room temperature about an hour."
+      }
     },
     {
-      "title": "Divide and roll",
-      "summary": "Portion the dough and roll each piece out paper-thin on parchment."
+      "title": {
+        "en": "Divide and roll"
+      },
+      "summary": {
+        "en": "Portion the dough and roll each piece out paper-thin on parchment."
+      }
     },
     {
-      "title": "Dock and cut",
-      "summary": "Prick all over with a fork or spiked roller, then cut a hole in the center for the traditional hanging pole."
+      "title": {
+        "en": "Dock and cut"
+      },
+      "summary": {
+        "en": "Prick all over with a fork or spiked roller, then cut a hole in the center for the traditional hanging pole."
+      }
     },
     {
-      "title": "Season",
-      "summary": "Brush lightly with melted butter and scatter coarse sea salt over the surface."
+      "title": {
+        "en": "Season"
+      },
+      "summary": {
+        "en": "Brush lightly with melted butter and scatter coarse sea salt over the surface."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot until dry, crisp and lightly browned at the edges."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot until dry, crisp and lightly browned at the edges."
+      }
     },
     {
-      "title": "Cool and store",
-      "summary": "Cool completely on a rack, then keep airtight, it stays crisp for months."
+      "title": {
+        "en": "Cool and store"
+      },
+      "summary": {
+        "en": "Cool completely on a rack, then keep airtight, it stays crisp for months."
+      }
     }
   ],
   "source": {

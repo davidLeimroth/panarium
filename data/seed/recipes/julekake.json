@@ -133,36 +133,68 @@
   ],
   "method": [
     {
-      "title": "Scald and cool the milk",
-      "summary": "Heat the milk with the cardamom until steaming, then cool to lukewarm and whisk in the yeast."
+      "title": {
+        "en": "Scald and cool the milk"
+      },
+      "summary": {
+        "en": "Heat the milk with the cardamom until steaming, then cool to lukewarm and whisk in the yeast."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the milk mixture with the sugar, egg and about half the flour in a stand mixer; knead on low speed, adding the rest of the flour, for about 8 minutes."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the milk mixture with the sugar, egg and about half the flour in a stand mixer; knead on low speed, adding the rest of the flour, for about 8 minutes."
+      }
     },
     {
-      "title": "Work in the butter",
-      "summary": "Add the cold butter a piece at a time, kneading on medium speed for another 5 minutes until the dough turns smooth and elastic."
+      "title": {
+        "en": "Work in the butter"
+      },
+      "summary": {
+        "en": "Add the cold butter a piece at a time, kneading on medium speed for another 5 minutes until the dough turns smooth and elastic."
+      }
     },
     {
-      "title": "Fold in the fruit",
-      "summary": "Knead in the raisins and candied peel by hand until they are evenly distributed through the dough."
+      "title": {
+        "en": "Fold in the fruit"
+      },
+      "summary": {
+        "en": "Knead in the raisins and candied peel by hand until they are evenly distributed through the dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise in a warm spot until doubled, about 45 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise in a warm spot until doubled, about 45 minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide the dough in two, shape each half into a round loaf, score the tops, and set on a lined sheet for a second rise of about 30 minutes."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide the dough in two, shape each half into a round loaf, score the tops, and set on a lined sheet for a second rise of about 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Brush with beaten egg and bake at 180°C for 35-40 minutes until deep golden and hollow-sounding when tapped."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Brush with beaten egg and bake at 180°C for 35-40 minutes until deep golden and hollow-sounding when tapped."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Cool before slicing, then serve as kaffemat with butter, brown cheese or jam alongside coffee."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Cool before slicing, then serve as kaffemat with butter, brown cheese or jam alongside coffee."
+      }
     }
   ],
   "source": {

@@ -118,28 +118,52 @@
   ],
   "method": [
     {
-      "title": "Make the batter",
-      "summary": "Whisk flour and salt, then beat in warm milk and water mixed with yeast and a little sugar until you have a thick, pourable batter."
+      "title": {
+        "en": "Make the batter"
+      },
+      "summary": {
+        "en": "Whisk flour and salt, then beat in warm milk and water mixed with yeast and a little sugar until you have a thick, pourable batter."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the batter stand somewhere warm for an hour or two until puffed and full of bubbles."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the batter stand somewhere warm for an hour or two until puffed and full of bubbles."
+      }
     },
     {
-      "title": "Loosen with soda",
-      "summary": "Beat in baking soda dissolved in a little warm water to wake up a fresh round of bubbles."
+      "title": {
+        "en": "Loosen with soda"
+      },
+      "summary": {
+        "en": "Beat in baking soda dissolved in a little warm water to wake up a fresh round of bubbles."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Rest another 30 minutes until visibly aerated and slightly slack."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Rest another 30 minutes until visibly aerated and slightly slack."
+      }
     },
     {
-      "title": "Pour and cook",
-      "summary": "Ladle batter into greased rings on a hot, lightly greased griddle; cook until the tops are covered in set holes and no longer glossy."
+      "title": {
+        "en": "Pour and cook"
+      },
+      "summary": {
+        "en": "Ladle batter into greased rings on a hot, lightly greased griddle; cook until the tops are covered in set holes and no longer glossy."
+      }
     },
     {
-      "title": "Finish",
-      "summary": "Flip briefly to set the top if you like more color, or leave as is for the classic pale top; cool on a rack before toasting."
+      "title": {
+        "en": "Finish"
+      },
+      "summary": {
+        "en": "Flip briefly to set the top if you like more color, or leave as is for the classic pale top; cool on a rack before toasting."
+      }
     }
   ],
   "source": {

@@ -127,32 +127,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine rye flour, part of the all-purpose flour, yeast and salt."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine rye flour, part of the all-purpose flour, yeast and salt."
+      }
     },
     {
-      "title": "Add liquid",
-      "summary": "Warm the milk with the syrup, then stir into the flour along with softened butter."
+      "title": {
+        "en": "Add liquid"
+      },
+      "summary": {
+        "en": "Warm the milk with the syrup, then stir into the flour along with softened butter."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Work in the remaining flour and knead a couple of minutes to a soft, pliable dough."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Work in the remaining flour and knead a couple of minutes to a soft, pliable dough."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Cover and ferment about an hour."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Cover and ferment about an hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into rounds and roll each about 25cm across."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into rounds and roll each about 25cm across."
+      }
     },
     {
-      "title": "Texture and rest",
-      "summary": "Dimple the surface with a spiked rolling pin or fork, then rest 30 minutes."
+      "title": {
+        "en": "Texture and rest"
+      },
+      "summary": {
+        "en": "Dimple the surface with a spiked rolling pin or fork, then rest 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot and quick until lightly golden, 6-8 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot and quick until lightly golden, 6-8 minutes."
+      }
     }
   ],
   "source": {

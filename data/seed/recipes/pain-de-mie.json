@@ -115,28 +115,52 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Warm the milk gently and dissolve the yeast in it."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Warm the milk gently and dissolve the yeast in it."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine flour, sugar and salt, then work in the milk-yeast mixture and the softened butter; knead until smooth and elastic."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, sugar and salt, then work in the milk-yeast mixture and the softened butter; knead until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let rise about 90 minutes until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let rise about 90 minutes until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Degas and roll into a tight cylinder to fit a buttered lidded tin."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Degas and roll into a tight cylinder to fit a buttered lidded tin."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Proof until the dough nears the rim, then close the lid."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Proof until the dough nears the rim, then close the lid."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake covered until fully set and golden at the ends; cool before slicing thin."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake covered until fully set and golden at the ends; cool before slicing thin."
+      }
     }
   ],
   "source": {

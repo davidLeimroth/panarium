@@ -120,28 +120,52 @@
   ],
   "method": [
     {
-      "title": "Mix batter",
-      "summary": "Whisk flour, turmeric and salt, beat in the egg, then gradually whisk in coconut cream and water to a thin, smooth, pourable batter."
+      "title": {
+        "en": "Mix batter"
+      },
+      "summary": {
+        "en": "Whisk flour, turmeric and salt, beat in the egg, then gradually whisk in coconut cream and water to a thin, smooth, pourable batter."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Strain if lumpy and let the batter rest 10-15 minutes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Strain if lumpy and let the batter rest 10-15 minutes."
+      }
     },
     {
-      "title": "Drizzle",
-      "summary": "Fill a roti jala cup (or a squeeze bottle) with batter and drizzle it in overlapping circles over a hot, lightly greased nonstick pan to form a fine net."
+      "title": {
+        "en": "Drizzle"
+      },
+      "summary": {
+        "en": "Fill a roti jala cup (or a squeeze bottle) with batter and drizzle it in overlapping circles over a hot, lightly greased nonstick pan to form a fine net."
+      }
     },
     {
-      "title": "Set",
-      "summary": "Cook uncovered for under a minute, just until the net dries and the edges lift, without flipping."
+      "title": {
+        "en": "Set"
+      },
+      "summary": {
+        "en": "Cook uncovered for under a minute, just until the net dries and the edges lift, without flipping."
+      }
     },
     {
-      "title": "Fold",
-      "summary": "Lift the lacy sheet off while warm and fold it into quarters or roll it into a loose scroll."
+      "title": {
+        "en": "Fold"
+      },
+      "summary": {
+        "en": "Lift the lacy sheet off while warm and fold it into quarters or roll it into a loose scroll."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Serve warm alongside chicken curry or beef rendang for scooping."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Serve warm alongside chicken curry or beef rendang for scooping."
+      }
     }
   ],
   "source": {

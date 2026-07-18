@@ -126,28 +126,52 @@
   ],
   "method": [
     {
-      "title": "Feed the starter",
-      "summary": "Refresh the sourdough starter until active, bubbly and ready to leaven a large dough."
+      "title": {
+        "en": "Feed the starter"
+      },
+      "summary": {
+        "en": "Refresh the sourdough starter until active, bubbly and ready to leaven a large dough."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine the three flours with cold water and the starter into a soft, quite sticky dough; mix briefly, just enough to bring it together."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the three flours with cold water and the starter into a soft, quite sticky dough; mix briefly, just enough to bring it together."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Let the dough rest about an hour before bulk fermentation begins in earnest."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Let the dough rest about an hour before bulk fermentation begins in earnest."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment 8-10 hours at cool room temperature, well beyond a normal rise, to build real depth of flavor."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment 8-10 hours at cool room temperature, well beyond a normal rise, to build real depth of flavor."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into one large round loaf."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into one large round loaf."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake low and long at high heat with steam until the crust is thick and deeply caramelized; cool completely before cutting."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake low and long at high heat with steam until the crust is thick and deeply caramelized; cool completely before cutting."
+      }
     }
   ],
   "source": {

@@ -148,28 +148,52 @@
   ],
   "method": [
     {
-      "title": "Activate yeast",
-      "summary": "Whisk warm water, coconut milk, yeast, sugar and salt; let stand 5 minutes, then beat in the egg."
+      "title": {
+        "en": "Activate yeast"
+      },
+      "summary": {
+        "en": "Whisk warm water, coconut milk, yeast, sugar and salt; let stand 5 minutes, then beat in the egg."
+      }
     },
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, grated coconut, cardamom and cinnamon, then work in the wet mixture; knead 5 to 7 minutes to a smooth, non-sticky dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, grated coconut, cardamom and cinnamon, then work in the wet mixture; knead 5 to 7 minutes to a smooth, non-sticky dough."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Cover and let rise in a warm spot 1 to 2 hours, until doubled."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Cover and let rise in a warm spot 1 to 2 hours, until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Punch down, divide into 4 pieces, roll each into a circle and cut into 6 triangles; rest 15 minutes."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Punch down, divide into 4 pieces, roll each into a circle and cut into 6 triangles; rest 15 minutes."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Fry in batches in oil at about 190°C until golden on both sides, a few minutes per side."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Fry in batches in oil at about 190°C until golden on both sides, a few minutes per side."
+      }
     },
     {
-      "title": "Drain",
-      "summary": "Lift out with a slotted spoon and drain on paper towels before serving."
+      "title": {
+        "en": "Drain"
+      },
+      "summary": {
+        "en": "Lift out with a slotted spoon and drain on paper towels before serving."
+      }
     }
   ],
   "source": {

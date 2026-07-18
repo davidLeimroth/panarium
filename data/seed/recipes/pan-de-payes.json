@@ -100,28 +100,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, water, starter and salt into a smooth, cohesive dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, water, starter and salt into a smooth, cohesive dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Let rise until doubled, about 3 hours at room temperature."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Let rise until doubled, about 3 hours at room temperature."
+      }
     },
     {
-      "title": "Shape without scoring",
-      "summary": "Shape into a round loaf and rest 10 minutes; no slashing is needed for this bread."
+      "title": {
+        "en": "Shape without scoring"
+      },
+      "summary": {
+        "en": "Shape into a round loaf and rest 10 minutes; no slashing is needed for this bread."
+      }
     },
     {
-      "title": "Flip the seams up",
-      "summary": "Set the dough seam-side up for its final proof so the seams crack open naturally in the oven instead of a scored top."
+      "title": {
+        "en": "Flip the seams up"
+      },
+      "summary": {
+        "en": "Set the dough seam-side up for its final proof so the seams crack open naturally in the oven instead of a scored top."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Let it rise again until doubled."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Let it rise again until doubled."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake starting hot around 200°C, then lower to about 165°C, roughly 40 minutes total, until deeply golden and the natural seams have burst into a rustic crust."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake starting hot around 200°C, then lower to about 165°C, roughly 40 minutes total, until deeply golden and the natural seams have burst into a rustic crust."
+      }
     }
   ],
   "source": {

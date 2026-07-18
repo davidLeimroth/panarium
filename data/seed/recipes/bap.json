@@ -119,28 +119,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, yeast and salt, then stir in warm milk and water to a soft, slightly sticky dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, yeast and salt, then stir in warm milk and water to a soft, slightly sticky dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead by machine or hand until smooth, about 8-10 minutes by machine or 15 by hand."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead by machine or hand until smooth, about 8-10 minutes by machine or 15 by hand."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Cover and let rise in an oiled bowl until doubled, 1 to 1.5 hours."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Cover and let rise in an oiled bowl until doubled, 1 to 1.5 hours."
+      }
     },
     {
-      "title": "Divide & shape",
-      "summary": "Divide into 10 equal pieces, shape into smooth balls, and space out on a lined tray."
+      "title": {
+        "en": "Divide & shape"
+      },
+      "summary": {
+        "en": "Divide into 10 equal pieces, shape into smooth balls, and space out on a lined tray."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Cover loosely and prove until puffy, 45 to 60 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Cover loosely and prove until puffy, 45 to 60 minutes."
+      }
     },
     {
-      "title": "Finish & bake",
-      "summary": "Brush each roll with milk, dust generously with flour, and bake until just pale gold, staying soft rather than deeply browned."
+      "title": {
+        "en": "Finish & bake"
+      },
+      "summary": {
+        "en": "Brush each roll with milk, dust generously with flour, and bake until just pale gold, staying soft rather than deeply browned."
+      }
     }
   ],
   "source": {

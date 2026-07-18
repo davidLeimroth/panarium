@@ -122,28 +122,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, salt and sugar; make a well, dissolve the yeast in a little warm water in the well, then stir in the remaining water and oil."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, salt and sugar; make a well, dissolve the yeast in a little warm water in the well, then stir in the remaining water and oil."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 5 to 10 minutes to a smooth, soft, non-sticky dough."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 5 to 10 minutes to a smooth, soft, non-sticky dough."
+      }
     },
     {
-      "title": "Divide and rest",
-      "summary": "Divide into two mounds on a semolina-dusted pan, cover, and rest 10 to 15 minutes."
+      "title": {
+        "en": "Divide and rest"
+      },
+      "summary": {
+        "en": "Divide into two mounds on a semolina-dusted pan, cover, and rest 10 to 15 minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Pat each mound into a flat round loaf about half a centimeter thick."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Pat each mound into a flat round loaf about half a centimeter thick."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Cover and let rise about an hour, until it springs back gently when pressed."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about an hour, until it springs back gently when pressed."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Score or prick the tops, then bake in a hot oven about 20 minutes until golden and hollow-sounding when tapped."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Score or prick the tops, then bake in a hot oven about 20 minutes until golden and hollow-sounding when tapped."
+      }
     }
   ],
   "source": {

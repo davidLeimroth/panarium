@@ -138,28 +138,52 @@
   ],
   "method": [
     {
-      "title": "Small biga",
-      "summary": "Mix a small portion of the flour and water with the yeast into a loose starter and let it ferment 1.5-2 hours until domed."
+      "title": {
+        "en": "Small biga"
+      },
+      "summary": {
+        "en": "Mix a small portion of the flour and water with the yeast into a loose starter and let it ferment 1.5-2 hours until domed."
+      }
     },
     {
-      "title": "Main dough",
-      "summary": "Combine the biga with the rest of the flour, water, honey, oil and salt into a soft, sticky dough. No serious kneading needed, it's meant to stay wet."
+      "title": {
+        "en": "Main dough"
+      },
+      "summary": {
+        "en": "Combine the biga with the rest of the flour, water, honey, oil and salt into a soft, sticky dough. No serious kneading needed, it's meant to stay wet."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Let the dough ferment about 3 hours at warm room temperature until roughly tripled in size."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Let the dough ferment about 3 hours at warm room temperature until roughly tripled in size."
+      }
     },
     {
-      "title": "Pan and dimple",
-      "summary": "Oil a sheet pan generously, stretch the dough to fill it, rest 40 minutes, then drive oiled fingertips all the way to the pan to leave deep dimples across the surface."
+      "title": {
+        "en": "Pan and dimple"
+      },
+      "summary": {
+        "en": "Oil a sheet pan generously, stretch the dough to fill it, rest 40 minutes, then drive oiled fingertips all the way to the pan to leave deep dimples across the surface."
+      }
     },
     {
-      "title": "Brine and rise again",
-      "summary": "Whisk water, olive oil and salt into a brine and pour it over the dimpled dough; scatter coarse salt on top and let it proof another hour so the brine soaks in."
+      "title": {
+        "en": "Brine and rise again"
+      },
+      "summary": {
+        "en": "Whisk water, olive oil and salt into a brine and pour it over the dimpled dough; scatter coarse salt on top and let it proof another hour so the brine soaks in."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 250°C for about 18 minutes, starting on a low rack and finishing higher, until deeply golden and the brine has crisped into little salty pools."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 250°C for about 18 minutes, starting on a low rack and finishing higher, until deeply golden and the brine has crisped into little salty pools."
+      }
     }
   ],
   "source": {

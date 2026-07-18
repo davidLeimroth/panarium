@@ -116,20 +116,36 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Stir flour (or a self-rising flour blend), sugar and most of the melted butter into the beer until just combined into a thick, fairly smooth batter."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir flour (or a self-rising flour blend), sugar and most of the melted butter into the beer until just combined into a thick, fairly smooth batter."
+      }
     },
     {
-      "title": "Pan",
-      "summary": "Scrape into a greased loaf pan and drizzle the last of the butter over the top."
+      "title": {
+        "en": "Pan"
+      },
+      "summary": {
+        "en": "Scrape into a greased loaf pan and drizzle the last of the butter over the top."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at about 190°C for 45-50 minutes until a skewer comes out clean or with just a few moist crumbs."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at about 190°C for 45-50 minutes until a skewer comes out clean or with just a few moist crumbs."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool in the pan a few minutes, then turn out onto a rack; best sliced once fully cool."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool in the pan a few minutes, then turn out onto a rack; best sliced once fully cool."
+      }
     }
   ],
   "source": {

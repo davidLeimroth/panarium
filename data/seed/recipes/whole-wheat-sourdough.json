@@ -121,36 +121,68 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter with whole wheat and all-purpose flour and water; ripen at warm room temperature overnight."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter with whole wheat and all-purpose flour and water; ripen at warm room temperature overnight."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the remaining flours, wheat germ and most of the water; rest 2 hours."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the remaining flours, wheat germ and most of the water; rest 2 hours."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Add the ripe levain and salt, mixing to a cohesive, very wet dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Add the ripe levain and salt, mixing to a cohesive, very wet dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment about 4 hours with several stretch-and-fold sets, watching for a puffy, jiggly dough that holds a slight dome."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment about 4 hours with several stretch-and-fold sets, watching for a puffy, jiggly dough that holds a slight dome."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, preshape, rest briefly, then shape gently, the high hydration and heavy bran content make this a slack, sticky dough."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, preshape, rest briefly, then shape gently, the high hydration and heavy bran content make this a slack, sticky dough."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Proof at room temperature (it ferments quickly) or refrigerate for a slower, more convenient schedule."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Proof at room temperature (it ferments quickly) or refrigerate for a slower, more convenient schedule."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 30 minutes covered, then 30 minutes uncovered until deeply colored."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 30 minutes covered, then 30 minutes uncovered until deeply colored."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest at least an hour before slicing; excellent toasted."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest at least an hour before slicing; excellent toasted."
+      }
     }
   ],
   "source": {

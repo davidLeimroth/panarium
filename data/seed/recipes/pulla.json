@@ -139,28 +139,52 @@
   ],
   "method": [
     {
-      "title": "Bloom and mix",
-      "summary": "Warm the milk, stir in the yeast, then combine with flour, sugar, salt, egg, butter and freshly ground cardamom into a soft dough."
+      "title": {
+        "en": "Bloom and mix"
+      },
+      "summary": {
+        "en": "Warm the milk, stir in the yeast, then combine with flour, sugar, salt, egg, butter and freshly ground cardamom into a soft dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Work the dough until smooth and elastic, about 10 minutes by hand or with a mixer."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Work the dough until smooth and elastic, about 10 minutes by hand or with a mixer."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Cover and let rise until doubled, roughly 1.5 hours."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Cover and let rise until doubled, roughly 1.5 hours."
+      }
     },
     {
-      "title": "Divide and braid",
-      "summary": "Split the dough into portions, roll each piece into ropes, and braid them into loaves."
+      "title": {
+        "en": "Divide and braid"
+      },
+      "summary": {
+        "en": "Split the dough into portions, roll each piece into ropes, and braid them into loaves."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Let the shaped loaves proof, uncovered or lightly covered, until puffy, about an hour."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Let the shaped loaves proof, uncovered or lightly covered, until puffy, about an hour."
+      }
     },
     {
-      "title": "Finish and bake",
-      "summary": "Brush with egg wash, scatter generously with pearl sugar, and bake until deeply golden and fragrant."
+      "title": {
+        "en": "Finish and bake"
+      },
+      "summary": {
+        "en": "Brush with egg wash, scatter generously with pearl sugar, and bake until deeply golden and fragrant."
+      }
     }
   ],
   "source": {

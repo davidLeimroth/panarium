@@ -20,6 +20,24 @@ const localized = z.object({
 
 const localizedName = localized.extend({ native: z.string().optional() });
 
+const stepTitle = z
+  .object({
+    en: z.string().max(60),
+    de: z.string().max(60).optional(),
+    es: z.string().max(60).optional(),
+    fr: z.string().max(60).optional(),
+  })
+  .strict();
+
+const stepSummary = z
+  .object({
+    en: z.string().max(300),
+    de: z.string().max(300).optional(),
+    es: z.string().max(300).optional(),
+    fr: z.string().max(300).optional(),
+  })
+  .strict();
+
 export const recipeSchema = z
   .object({
     slug: z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/),
@@ -92,7 +110,7 @@ export const recipeSchema = z
     }),
     equipment: z.array(z.enum(EQUIPMENT)).max(4).default([]),
     method: z
-      .array(z.object({ title: z.string().max(60), summary: z.string().max(300) }))
+      .array(z.object({ title: stepTitle, summary: stepSummary }))
       .min(3)
       .max(9),
     source: z.object({

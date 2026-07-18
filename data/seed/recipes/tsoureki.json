@@ -162,32 +162,60 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Dissolve the yeast in lukewarm water and let it foam, while the milk warms slightly and the butter comes to room temperature."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in lukewarm water and let it foam, while the milk warms slightly and the butter comes to room temperature."
+      }
     },
     {
-      "title": "Build the dough",
-      "summary": "Mix the flour with the ground mahlab and mastic, then work in the sugar, eggs, milk, butter, orange zest and bloomed yeast. Knead into a soft, very elastic dough, no salt goes in, so the yeast can push the rise along unhindered."
+      "title": {
+        "en": "Build the dough"
+      },
+      "summary": {
+        "en": "Mix the flour with the ground mahlab and mastic, then work in the sugar, eggs, milk, butter, orange zest and bloomed yeast. Knead into a soft, very elastic dough, no salt goes in, so the yeast can push the rise along unhindered."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Let the dough roughly triple somewhere warm; the sugar and fat slow the yeast, so this stretches to several hours."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Let the dough roughly triple somewhere warm; the sugar and fat slow the yeast, so this stretches to several hours."
+      }
     },
     {
-      "title": "Stretch and braid",
-      "summary": "Divide the risen dough into strands and pull each one out lengthwise before braiding, the stretching aligns the gluten and produces tsoureki's signature pull-apart threads."
+      "title": {
+        "en": "Stretch and braid"
+      },
+      "summary": {
+        "en": "Divide the risen dough into strands and pull each one out lengthwise before braiding, the stretching aligns the gluten and produces tsoureki's signature pull-apart threads."
+      }
     },
     {
-      "title": "Second proof",
-      "summary": "Let the braided loaves rise again, snug rather than loose, until visibly puffy, tucking a red-dyed hard-boiled egg into a gap for the Easter version."
+      "title": {
+        "en": "Second proof"
+      },
+      "summary": {
+        "en": "Let the braided loaves rise again, snug rather than loose, until visibly puffy, tucking a red-dyed hard-boiled egg into a gap for the Easter version."
+      }
     },
     {
-      "title": "Egg wash and bake",
-      "summary": "Brush with beaten egg, scatter with almond slivers, and bake at a gentle temperature until deep gold and fully cooked through."
+      "title": {
+        "en": "Egg wash and bake"
+      },
+      "summary": {
+        "en": "Brush with beaten egg, scatter with almond slivers, and bake at a gentle temperature until deep gold and fully cooked through."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool on a rack before slicing; the crumb keeps pulling into strands for days afterward, which is half the point."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool on a rack before slicing; the crumb keeps pulling into strands for days afterward, which is half the point."
+      }
     }
   ],
   "source": {

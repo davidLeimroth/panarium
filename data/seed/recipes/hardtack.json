@@ -94,28 +94,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Stir flour and salt, then work in the water until a very stiff, dry dough forms. No kneading beyond bringing it together."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir flour and salt, then work in the water until a very stiff, dry dough forms. No kneading beyond bringing it together."
+      }
     },
     {
-      "title": "Roll",
-      "summary": "Roll the dough out to about 1.3 cm thick and trim it into small rectangles, roughly 6 by 7.5 cm."
+      "title": {
+        "en": "Roll"
+      },
+      "summary": {
+        "en": "Roll the dough out to about 1.3 cm thick and trim it into small rectangles, roughly 6 by 7.5 cm."
+      }
     },
     {
-      "title": "Dock",
-      "summary": "Poke each piece all the way through with a fork or skewer in a grid pattern, which stops it puffing and helps it dry evenly."
+      "title": {
+        "en": "Dock"
+      },
+      "summary": {
+        "en": "Poke each piece all the way through with a fork or skewer in a grid pattern, which stops it puffing and helps it dry evenly."
+      }
     },
     {
-      "title": "Bake low and long",
-      "summary": "Bake at around 190°C for 30 minutes, flip, then bake another 30 minutes until pale gold and completely dry through."
+      "title": {
+        "en": "Bake low and long"
+      },
+      "summary": {
+        "en": "Bake at around 190°C for 30 minutes, flip, then bake another 30 minutes until pale gold and completely dry through."
+      }
     },
     {
-      "title": "Cool and store",
-      "summary": "Cool fully on a rack, then store airtight; keep it bone dry, since moisture, not time, is what ruins hardtack."
+      "title": {
+        "en": "Cool and store"
+      },
+      "summary": {
+        "en": "Cool fully on a rack, then store airtight; keep it bone dry, since moisture, not time, is what ruins hardtack."
+      }
     },
     {
-      "title": "Before eating",
-      "summary": "Soak the biscuit in water, milk, coffee or stew for several minutes to soften it before eating; eaten dry it can crack a tooth."
+      "title": {
+        "en": "Before eating"
+      },
+      "summary": {
+        "en": "Soak the biscuit in water, milk, coffee or stew for several minutes to soften it before eating; eaten dry it can crack a tooth."
+      }
     }
   ],
   "source": {

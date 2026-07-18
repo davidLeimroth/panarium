@@ -139,32 +139,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine whole wheat flour, white flour, rye flour, bran, yeast and salt in a stand mixer."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine whole wheat flour, white flour, rye flour, bran, yeast and salt in a stand mixer."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Add warm water and knead about 10 minutes to a smooth, dense dough."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Add warm water and knead about 10 minutes to a smooth, dense dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise in a warm spot about 3 hours."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise in a warm spot about 3 hours."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into a round, rest 10 minutes, then form into an oblong loaf and place in a buttered pan."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into a round, rest 10 minutes, then form into an oblong loaf and place in a buttered pan."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Cover and let rise about 45 minutes until doubled."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about 45 minutes until doubled."
+      }
     },
     {
-      "title": "Top and bake",
-      "summary": "Brush with water, press on the mixed seeds, and bake until golden brown, about 40 minutes."
+      "title": {
+        "en": "Top and bake"
+      },
+      "summary": {
+        "en": "Brush with water, press on the mixed seeds, and bake until golden brown, about 40 minutes."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool in the pan briefly, then turn out onto a rack to cool fully."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool in the pan briefly, then turn out onto a rack to cool fully."
+      }
     }
   ],
   "source": {

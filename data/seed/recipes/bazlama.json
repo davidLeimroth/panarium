@@ -118,32 +118,60 @@
   ],
   "method": [
     {
-      "title": "Activate yeast",
-      "summary": "Stir yeast and sugar into lukewarm water; let stand about 5 minutes until foamy."
+      "title": {
+        "en": "Activate yeast"
+      },
+      "summary": {
+        "en": "Stir yeast and sugar into lukewarm water; let stand about 5 minutes until foamy."
+      }
     },
     {
-      "title": "Mix dough",
-      "summary": "Combine with flour, salt, yogurt and olive oil into a soft dough; knead until smooth, adding extra water as needed."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine with flour, salt, yogurt and olive oil into a soft dough; knead until smooth, adding extra water as needed."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise 45-60 minutes until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise 45-60 minutes until doubled."
+      }
     },
     {
-      "title": "Divide & rest",
-      "summary": "Divide into pieces, shape into rounds, and rest under a towel about 15 minutes."
+      "title": {
+        "en": "Divide & rest"
+      },
+      "summary": {
+        "en": "Divide into pieces, shape into rounds, and rest under a towel about 15 minutes."
+      }
     },
     {
-      "title": "Roll or pat",
-      "summary": "Flatten each piece by hand or rolling pin to about a centimeter thick."
+      "title": {
+        "en": "Roll or pat"
+      },
+      "summary": {
+        "en": "Flatten each piece by hand or rolling pin to about a centimeter thick."
+      }
     },
     {
-      "title": "Griddle",
-      "summary": "Cook on a medium-hot dry griddle about 90 seconds per side until puffed with brown spots."
+      "title": {
+        "en": "Griddle"
+      },
+      "summary": {
+        "en": "Cook on a medium-hot dry griddle about 90 seconds per side until puffed with brown spots."
+      }
     },
     {
-      "title": "Serve warm",
-      "summary": "Stack under a cloth and serve warm with cheese, jam or eggs."
+      "title": {
+        "en": "Serve warm"
+      },
+      "summary": {
+        "en": "Stack under a cloth and serve warm with cheese, jam or eggs."
+      }
     }
   ],
   "source": {

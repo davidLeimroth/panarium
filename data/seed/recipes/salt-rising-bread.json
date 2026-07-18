@@ -147,28 +147,52 @@
   ],
   "method": [
     {
-      "title": "Build starter one",
-      "summary": "Stir warm milk, cornmeal and sugar together in a jar, cover, and hold at 32-38°C for 8-12 hours until bubbly and pungent."
+      "title": {
+        "en": "Build starter one"
+      },
+      "summary": {
+        "en": "Stir warm milk, cornmeal and sugar together in a jar, cover, and hold at 32-38°C for 8-12 hours until bubbly and pungent."
+      }
     },
     {
-      "title": "Build starter two",
-      "summary": "Whisk hot water, salt, baking soda, sugar and flour into starter one, then hold warm again for 2-4 hours until actively foaming."
+      "title": {
+        "en": "Build starter two"
+      },
+      "summary": {
+        "en": "Whisk hot water, salt, baking soda, sugar and flour into starter one, then hold warm again for 2-4 hours until actively foaming."
+      }
     },
     {
-      "title": "Mix final dough",
-      "summary": "Beat in the soft butter, salt and remaining flour to a soft dough."
+      "title": {
+        "en": "Mix final dough"
+      },
+      "summary": {
+        "en": "Beat in the soft butter, salt and remaining flour to a soft dough."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Scrape into a buttered loaf pan and let rise in a warm spot until it crests the rim, up to 4 hours."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Scrape into a buttered loaf pan and let rise in a warm spot until it crests the rim, up to 4 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until deeply golden and a skewer comes out clean, 35-40 minutes."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until deeply golden and a skewer comes out clean, 35-40 minutes."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest in the pan 10 minutes, then turn out onto a rack to cool completely before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest in the pan 10 minutes, then turn out onto a rack to cool completely before slicing."
+      }
     }
   ],
   "source": {

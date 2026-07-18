@@ -122,28 +122,52 @@
   ],
   "method": [
     {
-      "title": "Bloom",
-      "summary": "Dissolve the yeast in warm milk."
+      "title": {
+        "en": "Bloom"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in warm milk."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine flour, sugar, salt and egg white, then work in the milk-yeast mixture and soft butter; knead about ten minutes until smooth and elastic."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, sugar, salt and egg white, then work in the milk-yeast mixture and soft butter; knead about ten minutes until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let rise about 90 minutes until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let rise about 90 minutes until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into small rolls and place on a lined tray."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into small rolls and place on a lined tray."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Proof 30-45 minutes."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Proof 30-45 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Brush with beaten egg yolk, snip the tops, and bake until golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Brush with beaten egg yolk, snip the tops, and bake until golden."
+      }
     }
   ],
   "source": {

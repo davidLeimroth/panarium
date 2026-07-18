@@ -139,6 +139,7 @@ export const en = {
     estimated: 'estimated',
     fromSource: 'from the source',
     openInLab: 'Open in the Dough Lab',
+    methodEnglishOnly: 'Steps are shown in English for now.',
   },
   lab: {
     title: 'The Dough Lab',

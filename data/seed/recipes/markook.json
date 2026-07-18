@@ -117,28 +117,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine both flours, salt, sugar and yeast, then work in cold water to a soft, smooth dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine both flours, salt, sugar and yeast, then work in cold water to a soft, smooth dough."
+      }
     },
     {
-      "title": "Long slow rest",
-      "summary": "Divide into balls, dust with cornmeal, and rest covered at least 5 hours, or overnight, until relaxed and extensible."
+      "title": {
+        "en": "Long slow rest"
+      },
+      "summary": {
+        "en": "Divide into balls, dust with cornmeal, and rest covered at least 5 hours, or overnight, until relaxed and extensible."
+      }
     },
     {
-      "title": "Stretch paper-thin",
-      "summary": "Working over a rounded cushion or your knuckles, gently stretch each ball into a huge, almost see-through sheet."
+      "title": {
+        "en": "Stretch paper-thin"
+      },
+      "summary": {
+        "en": "Working over a rounded cushion or your knuckles, gently stretch each ball into a huge, almost see-through sheet."
+      }
     },
     {
-      "title": "Cook briefly",
-      "summary": "Drape onto a very hot convex saj dome (or an inverted wok) and cook one side only, 15 seconds to 2 minutes depending on the surface, until lightly browned."
+      "title": {
+        "en": "Cook briefly"
+      },
+      "summary": {
+        "en": "Drape onto a very hot convex saj dome (or an inverted wok) and cook one side only, 15 seconds to 2 minutes depending on the surface, until lightly browned."
+      }
     },
     {
-      "title": "Cool flat",
-      "summary": "Lay flat to cool so it doesn't stick to itself."
+      "title": {
+        "en": "Cool flat"
+      },
+      "summary": {
+        "en": "Lay flat to cool so it doesn't stick to itself."
+      }
     },
     {
-      "title": "Fold for storage",
-      "summary": "Fold into quarters or triangles; keeps well at room temperature for later use."
+      "title": {
+        "en": "Fold for storage"
+      },
+      "summary": {
+        "en": "Fold into quarters or triangles; keeps well at room temperature for later use."
+      }
     }
   ],
   "source": {

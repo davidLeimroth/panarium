@@ -123,28 +123,52 @@
   ],
   "method": [
     {
-      "title": "Mix and knead",
-      "summary": "Combine the flour and crumbled yeast, then work in the milk, water and beaten egg. Add the salt and softened butter and knead about ten minutes to a smooth, elastic dough."
+      "title": {
+        "en": "Mix and knead"
+      },
+      "summary": {
+        "en": "Combine the flour and crumbled yeast, then work in the milk, water and beaten egg. Add the salt and softened butter and knead about ten minutes to a smooth, elastic dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough rise at room temperature until roughly doubled, about 90 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough rise at room temperature until roughly doubled, about 90 minutes."
+      }
     },
     {
-      "title": "Punch down and rest",
-      "summary": "Deflate the dough gently and let it rest a further 30 minutes, this relaxes the gluten so it stretches easily into long strands."
+      "title": {
+        "en": "Punch down and rest"
+      },
+      "summary": {
+        "en": "Deflate the dough gently and let it rest a further 30 minutes, this relaxes the gluten so it stretches easily into long strands."
+      }
     },
     {
-      "title": "Shape the braid",
-      "summary": "Divide the dough in half and roll each half into a strand about 70 cm long, tapering toward the ends. Cross the two strands and braid them together, tucking the ends under."
+      "title": {
+        "en": "Shape the braid"
+      },
+      "summary": {
+        "en": "Divide the dough in half and roll each half into a strand about 70 cm long, tapering toward the ends. Cross the two strands and braid them together, tucking the ends under."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Set the braid on a lined baking sheet and let it rise a further 15 minutes, brushing it with beaten egg once before this rest and again just before baking."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Set the braid on a lined baking sheet and let it rise a further 15 minutes, brushing it with beaten egg once before this rest and again just before baking."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in the lower part of the oven until deep golden brown all over, 40–50 minutes. Cool on a rack before slicing."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in the lower part of the oven until deep golden brown all over, 40–50 minutes. Cool on a rack before slicing."
+      }
     }
   ],
   "source": {

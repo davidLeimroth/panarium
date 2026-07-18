@@ -117,28 +117,52 @@
   ],
   "method": [
     {
-      "title": "Bloom yeast",
-      "summary": "Dissolve the yeast and sugar in a little of the warm water and let it stand until foamy, about 15 minutes."
+      "title": {
+        "en": "Bloom yeast"
+      },
+      "summary": {
+        "en": "Dissolve the yeast and sugar in a little of the warm water and let it stand until foamy, about 15 minutes."
+      }
     },
     {
-      "title": "Mix dough",
-      "summary": "Stir together flour, salt and white pepper, then pour in the yeast mixture and remaining water to form a soft dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Stir together flour, salt and white pepper, then pour in the yeast mixture and remaining water to form a soft dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead by machine or hand until smooth and elastic, about 10-15 minutes total."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead by machine or hand until smooth and elastic, about 10-15 minutes total."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Cover and let rise in a warm spot until doubled, about an hour."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Cover and let rise in a warm spot until doubled, about an hour."
+      }
     },
     {
-      "title": "Shape & dimple",
-      "summary": "Divide into pieces, flatten each by hand into a thick disc, and press a deep dimple into the center so it bakes flat instead of doming."
+      "title": {
+        "en": "Shape & dimple"
+      },
+      "summary": {
+        "en": "Divide into pieces, flatten each by hand into a thick disc, and press a deep dimple into the center so it bakes flat instead of doming."
+      }
     },
     {
-      "title": "Bake low and slow",
-      "summary": "Bake hot for the first few minutes, then turn off the oven and let the residual heat finish the loaves slowly for their signature dense, chewy crumb."
+      "title": {
+        "en": "Bake low and slow"
+      },
+      "summary": {
+        "en": "Bake hot for the first few minutes, then turn off the oven and let the residual heat finish the loaves slowly for their signature dense, chewy crumb."
+      }
     }
   ],
   "source": {

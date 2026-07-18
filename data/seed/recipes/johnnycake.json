@@ -114,28 +114,52 @@
   ],
   "method": [
     {
-      "title": "Make the mush",
-      "summary": "Whisk the cornmeal, salt and sugar into boiling water off the heat until smooth, then stir in the butter."
+      "title": {
+        "en": "Make the mush"
+      },
+      "summary": {
+        "en": "Whisk the cornmeal, salt and sugar into boiling water off the heat until smooth, then stir in the butter."
+      }
     },
     {
-      "title": "Rest the batter",
-      "summary": "Let the mixture rest about 15 minutes until it thickens to a soft, mashed-potato consistency."
+      "title": {
+        "en": "Rest the batter"
+      },
+      "summary": {
+        "en": "Let the mixture rest about 15 minutes until it thickens to a soft, mashed-potato consistency."
+      }
     },
     {
-      "title": "Heat the pan",
-      "summary": "Heat a well-greased cast-iron or heavy pan over medium-high heat."
+      "title": {
+        "en": "Heat the pan"
+      },
+      "summary": {
+        "en": "Heat a well-greased cast-iron or heavy pan over medium-high heat."
+      }
     },
     {
-      "title": "Drop & flatten",
-      "summary": "Drop quarter-cup scoops onto the hot pan, spacing them apart, and gently flatten each to about 1/4 inch thick."
+      "title": {
+        "en": "Drop & flatten"
+      },
+      "summary": {
+        "en": "Drop quarter-cup scoops onto the hot pan, spacing them apart, and gently flatten each to about 1/4 inch thick."
+      }
     },
     {
-      "title": "Fry both sides",
-      "summary": "Fry undisturbed until the edges brown, 6-12 minutes, then flip and fry the other side until golden and crisp."
+      "title": {
+        "en": "Fry both sides"
+      },
+      "summary": {
+        "en": "Fry undisturbed until the edges brown, 6-12 minutes, then flip and fry the other side until golden and crisp."
+      }
     },
     {
-      "title": "Keep warm",
-      "summary": "Transfer to a rack in a warm oven while frying the rest, then serve hot."
+      "title": {
+        "en": "Keep warm"
+      },
+      "summary": {
+        "en": "Transfer to a rack in a warm oven while frying the rest, then serve hot."
+      }
     }
   ],
   "source": {

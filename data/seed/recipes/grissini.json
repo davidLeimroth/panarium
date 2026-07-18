@@ -107,24 +107,44 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Dissolve the yeast in the water and stir into the flour to form a rough dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in the water and stir into the flour to form a rough dough."
+      }
     },
     {
-      "title": "Knead in the oil",
-      "summary": "Work in the olive oil a little at a time until smooth and elastic, about 10 minutes, then knead in the salt."
+      "title": {
+        "en": "Knead in the oil"
+      },
+      "summary": {
+        "en": "Work in the olive oil a little at a time until smooth and elastic, about 10 minutes, then knead in the salt."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Press into a rough rectangle on an oiled surface and let rise about an hour."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Press into a rough rectangle on an oiled surface and let rise about an hour."
+      }
     },
     {
-      "title": "Stretch by hand",
-      "summary": "Cut thin strips from one edge of the dough and stretch each by the ends until long and thin; the natural tapering at the tips is part of the look."
+      "title": {
+        "en": "Stretch by hand"
+      },
+      "summary": {
+        "en": "Cut thin strips from one edge of the dough and stretch each by the ends until long and thin; the natural tapering at the tips is part of the look."
+      }
     },
     {
-      "title": "Bake dry",
-      "summary": "Arrange on a tray, brush lightly with oil, and bake at 200°C for 20-30 minutes until golden and completely dried through."
+      "title": {
+        "en": "Bake dry"
+      },
+      "summary": {
+        "en": "Arrange on a tray, brush lightly with oil, and bake at 200°C for 20-30 minutes until golden and completely dried through."
+      }
     }
   ],
   "source": {

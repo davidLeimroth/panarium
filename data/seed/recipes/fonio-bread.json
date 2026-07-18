@@ -125,20 +125,36 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine fonio flour, flour (or self-raising flour), baking powder, salt, sugar, plant milk and oil in a bowl until you have a thick, uniform batter."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine fonio flour, flour (or self-raising flour), baking powder, salt, sugar, plant milk and oil in a bowl until you have a thick, uniform batter."
+      }
     },
     {
-      "title": "Pan",
-      "summary": "Pour into a lightly greased loaf tin, or divide among lined cupcake cases for individual portions."
+      "title": {
+        "en": "Pan"
+      },
+      "summary": {
+        "en": "Pour into a lightly greased loaf tin, or divide among lined cupcake cases for individual portions."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 180°C for about 25 minutes until a skewer comes out clean."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 180°C for about 25 minutes until a skewer comes out clean."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool completely on a wire rack before serving."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool completely on a wire rack before serving."
+      }
     }
   ],
   "source": {

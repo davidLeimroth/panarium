@@ -149,36 +149,68 @@
   ],
   "method": [
     {
-      "title": "Melt and cool",
-      "summary": "Warm the milk with the sugar and butter until melted, then cool to lukewarm."
+      "title": {
+        "en": "Melt and cool"
+      },
+      "summary": {
+        "en": "Warm the milk with the sugar and butter until melted, then cool to lukewarm."
+      }
     },
     {
-      "title": "Bloom the yeast",
-      "summary": "Whisk the yeast into the tepid water and let it turn foamy."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Whisk the yeast into the tepid water and let it turn foamy."
+      }
     },
     {
-      "title": "Flavor the flour",
-      "summary": "Crush the mahlab and mastic together and stir them into the flour along with the salt and orange zest."
+      "title": {
+        "en": "Flavor the flour"
+      },
+      "summary": {
+        "en": "Crush the mahlab and mastic together and stir them into the flour along with the salt and orange zest."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Whisk the eggs into the cooled milk mixture, combine with the yeast water, pour over the flour, and bring together into a rough dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Whisk the eggs into the cooled milk mixture, combine with the yeast water, pour over the flour, and bring together into a rough dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead with a dough hook for about 15 minutes until smooth, glossy and elastic."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead with a dough hook for about 15 minutes until smooth, glossy and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough double in size, roughly 2 hours."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough double in size, roughly 2 hours."
+      }
     },
     {
-      "title": "Braid, coil and hide the coin",
-      "summary": "Divide into three ropes, braid them, then coil the braid into a buttered tin, tucking a foil-wrapped coin into the underside of the dough. Proof again for about 2 hours."
+      "title": {
+        "en": "Braid, coil and hide the coin"
+      },
+      "summary": {
+        "en": "Divide into three ropes, braid them, then coil the braid into a buttered tin, tucking a foil-wrapped coin into the underside of the dough. Proof again for about 2 hours."
+      }
     },
     {
-      "title": "Bake and finish",
-      "summary": "Bake at a gentle 150°C for about 30 minutes until deep gold and hollow-sounding, then cool fully before glazing and scattering with toasted almonds."
+      "title": {
+        "en": "Bake and finish"
+      },
+      "summary": {
+        "en": "Bake at a gentle 150°C for about 30 minutes until deep gold and hollow-sounding, then cool fully before glazing and scattering with toasted almonds."
+      }
     }
   ],
   "source": {

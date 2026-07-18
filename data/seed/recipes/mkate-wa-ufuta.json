@@ -122,32 +122,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Whisk flour, yeast and salt, then stir in coconut milk and egg to form a dense, firm dough, not a spongy one."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Whisk flour, yeast and salt, then stir in coconut milk and egg to form a dense, firm dough, not a spongy one."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 5 to 7 minutes until smooth, adding a little more coconut milk if the dough is too dry."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 5 to 7 minutes until smooth, adding a little more coconut milk if the dough is too dry."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover with a damp towel and let rest in a warm spot 30 to 60 minutes until slightly puffier."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover with a damp towel and let rest in a warm spot 30 to 60 minutes until slightly puffier."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into 6 balls and pat each into a round about 16 cm wide and 0.5 to 1 cm thick."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into 6 balls and pat each into a round about 16 cm wide and 0.5 to 1 cm thick."
+      }
     },
     {
-      "title": "Coat",
-      "summary": "Oil the tops generously and press sesame seeds into both sides."
+      "title": {
+        "en": "Coat"
+      },
+      "summary": {
+        "en": "Oil the tops generously and press sesame seeds into both sides."
+      }
     },
     {
-      "title": "Cook",
-      "summary": "Cook sesame-side down in a hot skillet 1.5 to 2 minutes until browned, flip, oil and season the other side, and cook 1 to 2 minutes more."
+      "title": {
+        "en": "Cook"
+      },
+      "summary": {
+        "en": "Cook sesame-side down in a hot skillet 1.5 to 2 minutes until browned, flip, oil and season the other side, and cook 1 to 2 minutes more."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Wipe the pan between breads so the seeds do not scorch; serve warm alongside soups or stews."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Wipe the pan between breads so the seeds do not scorch; serve warm alongside soups or stews."
+      }
     }
   ],
   "source": {

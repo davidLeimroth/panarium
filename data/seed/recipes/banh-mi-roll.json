@@ -109,28 +109,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, sugar and most of the water, then add yeast and salt and knead 7-8 minutes to a silky, slightly sticky dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, sugar and most of the water, then add yeast and salt and knead 7-8 minutes to a silky, slightly sticky dough."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Let the dough rise until roughly quadrupled, much longer and puffier than a French baguette rise."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Let the dough rise until roughly quadrupled, much longer and puffier than a French baguette rise."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Divide into six pieces and flatten each into a small trapezoid."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Divide into six pieces and flatten each into a small trapezoid."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Roll each piece into a tight log with tapered ends and set it in a perforated baguette tray."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Roll each piece into a tight log with tapered ends and set it in a perforated baguette tray."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let the shaped rolls rise until they spring back slowly when pressed."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let the shaped rolls rise until they spring back slowly when pressed."
+      }
     },
     {
-      "title": "Score and steam-bake",
-      "summary": "Score at an angle, mist with water, and bake hot with steam for the first stretch, then finish without steam until thin and crackling."
+      "title": {
+        "en": "Score and steam-bake"
+      },
+      "summary": {
+        "en": "Score at an angle, mist with water, and bake hot with steam for the first stretch, then finish without steam until thin and crackling."
+      }
     }
   ],
   "source": {

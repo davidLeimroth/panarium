@@ -104,28 +104,52 @@
   ],
   "method": [
     {
-      "title": "Refresh the rye levain",
-      "summary": "Mix the mother levain with warm water and rye flour; ferment 2-3 hours until moussy and aerated."
+      "title": {
+        "en": "Refresh the rye levain"
+      },
+      "summary": {
+        "en": "Mix the mother levain with warm water and rye flour; ferment 2-3 hours until moussy and aerated."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the refreshed levain with the remaining flour, water and salt for about 10 minutes; expect a thick, pasty, non-elastic dough, that's normal for pure rye."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the refreshed levain with the remaining flour, water and salt for about 10 minutes; expect a thick, pasty, non-elastic dough, that's normal for pure rye."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Rest about 90 minutes until visibly aerated."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Rest about 90 minutes until visibly aerated."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Transfer gently into a greased mold, preserving as much gas in the dough as possible."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Transfer gently into a greased mold, preserving as much gas in the dough as possible."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let rise a further 30 minutes."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let rise a further 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot until fully set; a dense, tight crumb is the correct result for a 100% rye loaf."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot until fully set; a dense, tight crumb is the correct result for a 100% rye loaf."
+      }
     }
   ],
   "source": {

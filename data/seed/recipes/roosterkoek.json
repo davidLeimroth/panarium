@@ -105,24 +105,44 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, yeast and salt, then add the water and mix by hand into a cohesive dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, yeast and salt, then add the water and mix by hand into a cohesive dough."
+      }
     },
     {
-      "title": "Rise",
-      "summary": "Cover directly with cling wrap pressed onto the dough's surface and let rise about 1 hour."
+      "title": {
+        "en": "Rise"
+      },
+      "summary": {
+        "en": "Cover directly with cling wrap pressed onto the dough's surface and let rise about 1 hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Turn out onto a floured surface, dust with more flour, and divide into 12 portions."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Turn out onto a floured surface, dust with more flour, and divide into 12 portions."
+      }
     },
     {
-      "title": "Grill",
-      "summary": "Place the portions on a braai grid over coals that are not too hot, and cook about 15 minutes, turning often, until browned with dark spots."
+      "title": {
+        "en": "Grill"
+      },
+      "summary": {
+        "en": "Place the portions on a braai grid over coals that are not too hot, and cook about 15 minutes, turning often, until browned with dark spots."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Serve hot, split open and spread with butter."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Serve hot, split open and spread with butter."
+      }
     }
   ],
   "source": {

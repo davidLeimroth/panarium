@@ -139,32 +139,60 @@
   ],
   "method": [
     {
-      "title": "Scald the cornmeal",
-      "summary": "Whisk cornmeal and salt, stir in butter, molasses and boiling water until smooth, and let the mixture cool to lukewarm."
+      "title": {
+        "en": "Scald the cornmeal"
+      },
+      "summary": {
+        "en": "Whisk cornmeal and salt, stir in butter, molasses and boiling water until smooth, and let the mixture cool to lukewarm."
+      }
     },
     {
-      "title": "Build the dough",
-      "summary": "Mix in dry milk powder, both flours and yeast; let the shaggy dough rest 20 minutes before kneading."
+      "title": {
+        "en": "Build the dough"
+      },
+      "summary": {
+        "en": "Mix in dry milk powder, both flours and yeast; let the shaggy dough rest 20 minutes before kneading."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead until smooth and elastic, about 7 minutes by machine or a bit longer by hand."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead until smooth and elastic, about 7 minutes by machine or a bit longer by hand."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough double in size, about an hour."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough double in size, about an hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Shape into a log and settle it into a greased loaf pan."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Shape into a log and settle it into a greased loaf pan."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Let it rise until the center crests about an inch above the rim of the pan."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Let it rise until the center crests about an inch above the rim of the pan."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until deeply browned and the loaf sounds hollow, with an internal temperature near 88°C (190°F)."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until deeply browned and the loaf sounds hollow, with an internal temperature near 88°C (190°F)."
+      }
     }
   ],
   "source": {

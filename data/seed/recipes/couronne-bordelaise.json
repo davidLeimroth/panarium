@@ -116,28 +116,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine water, salt and levain, then work in the two flours and yeast to a smooth dough; knead well."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine water, salt and levain, then work in the two flours and yeast to a smooth dough; knead well."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment until roughly doubled."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment until roughly doubled."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Divide into nine even balls plus one larger ball for the center."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Divide into nine even balls plus one larger ball for the center."
+      }
     },
     {
-      "title": "Shape the crown",
-      "summary": "Flatten the large ball into a disc for the middle and arrange the nine balls in a ring around it."
+      "title": {
+        "en": "Shape the crown"
+      },
+      "summary": {
+        "en": "Flatten the large ball into a disc for the middle and arrange the nine balls in a ring around it."
+      }
     },
     {
-      "title": "Cut and fold",
-      "summary": "Snip radial cuts between the balls and fold each flap over its neighbor to lock the ring together."
+      "title": {
+        "en": "Cut and fold"
+      },
+      "summary": {
+        "en": "Snip radial cuts between the balls and fold each flap over its neighbor to lock the ring together."
+      }
     },
     {
-      "title": "Proof and bake",
-      "summary": "Proof until puffy, then bake hot with steam until deeply golden."
+      "title": {
+        "en": "Proof and bake"
+      },
+      "summary": {
+        "en": "Proof until puffy, then bake hot with steam until deeply golden."
+      }
     }
   ],
   "source": {

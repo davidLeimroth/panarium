@@ -147,36 +147,68 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Dissolve the yeast in warm water."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in warm water."
+      }
     },
     {
-      "title": "Warm the liquids",
-      "summary": "Heat butter with milk until melted, then stir in apple juice, molasses, salt and sugar."
+      "title": {
+        "en": "Warm the liquids"
+      },
+      "summary": {
+        "en": "Heat butter with milk until melted, then stir in apple juice, molasses, salt and sugar."
+      }
     },
     {
-      "title": "Combine",
-      "summary": "Mix the yeast mixture into the warm liquids, then work in the drained spent grain and whole wheat flour."
+      "title": {
+        "en": "Combine"
+      },
+      "summary": {
+        "en": "Mix the yeast mixture into the warm liquids, then work in the drained spent grain and whole wheat flour."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Gradually knead in the white flour until the dough is smooth and workable."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Gradually knead in the white flour until the dough is smooth and workable."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let rise, covered, until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let rise, covered, until doubled."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Deflate, divide in two, and shape into free-standing loaves on a cornmeal-dusted, parchment-lined sheet pan."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Deflate, divide in two, and shape into free-standing loaves on a cornmeal-dusted, parchment-lined sheet pan."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Brush with egg wash, scatter a little spent grain on top, and let rise again."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Brush with egg wash, scatter a little spent grain on top, and let rise again."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at about 165°C for approximately 45 minutes until deep golden and hollow-sounding."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at about 165°C for approximately 45 minutes until deep golden and hollow-sounding."
+      }
     }
   ],
   "source": {

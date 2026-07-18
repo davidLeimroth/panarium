@@ -122,28 +122,52 @@
   ],
   "method": [
     {
-      "title": "Mix wet",
-      "summary": "Whisk the eggs, oil and milk together."
+      "title": {
+        "en": "Mix wet"
+      },
+      "summary": {
+        "en": "Whisk the eggs, oil and milk together."
+      }
     },
     {
-      "title": "Add starch",
-      "summary": "Whisk in half the cassava starch with the baking powder until smooth."
+      "title": {
+        "en": "Add starch"
+      },
+      "summary": {
+        "en": "Whisk in half the cassava starch with the baking powder until smooth."
+      }
     },
     {
-      "title": "Finish dough",
-      "summary": "Work in the remaining starch, the grated cheese, salt and anise seeds until a pliable dough forms."
+      "title": {
+        "en": "Finish dough"
+      },
+      "summary": {
+        "en": "Work in the remaining starch, the grated cheese, salt and anise seeds until a pliable dough forms."
+      }
     },
     {
-      "title": "Shape rings",
-      "summary": "Divide into small portions, roll each into a short strip, and join the ends into a ring."
+      "title": {
+        "en": "Shape rings"
+      },
+      "summary": {
+        "en": "Divide into small portions, roll each into a short strip, and join the ends into a ring."
+      }
     },
     {
-      "title": "Space & bake",
-      "summary": "Arrange the rings on a lined tray with space between them and bake until golden, 15-20 minutes."
+      "title": {
+        "en": "Space & bake"
+      },
+      "summary": {
+        "en": "Arrange the rings on a lined tray with space between them and bake until golden, 15-20 minutes."
+      }
     },
     {
-      "title": "Serve warm",
-      "summary": "Eat warm as a snack, alongside coffee or cocido."
+      "title": {
+        "en": "Serve warm"
+      },
+      "summary": {
+        "en": "Eat warm as a snack, alongside coffee or cocido."
+      }
     }
   ],
   "source": {

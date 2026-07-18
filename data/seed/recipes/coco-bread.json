@@ -120,28 +120,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine most of the flour with sugar, salt and yeast, then stir in warm coconut milk and melted butter to a soft, sticky dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine most of the flour with sugar, salt and yeast, then stir in warm coconut milk and melted butter to a soft, sticky dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead in the remaining flour on a floured surface until smooth, about 10 minutes."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead in the remaining flour on a floured surface until smooth, about 10 minutes."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let double in size, 60-90 minutes."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let double in size, 60-90 minutes."
+      }
     },
     {
-      "title": "Roll and butter",
-      "summary": "Roll the dough thin, cut into squares, and brush each with melted butter."
+      "title": {
+        "en": "Roll and butter"
+      },
+      "summary": {
+        "en": "Roll the dough thin, cut into squares, and brush each with melted butter."
+      }
     },
     {
-      "title": "Fold",
-      "summary": "Fold each square over on itself and trim into a half-moon shape."
+      "title": {
+        "en": "Fold"
+      },
+      "summary": {
+        "en": "Fold each square over on itself and trim into a half-moon shape."
+      }
     },
     {
-      "title": "Rest and bake",
-      "summary": "Brush the tops with more butter, let rest 10 minutes, then bake until golden."
+      "title": {
+        "en": "Rest and bake"
+      },
+      "summary": {
+        "en": "Brush the tops with more butter, let rest 10 minutes, then bake until golden."
+      }
     }
   ],
   "source": {

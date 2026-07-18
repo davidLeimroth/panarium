@@ -667,8 +667,8 @@ func (x *Keeping) GetNote() string {
 
 type MethodStep struct {
 	state         protoimpl.MessageState `protogen:"open.v1"`
-	Title         string                 `protobuf:"bytes,1,opt,name=title,proto3" json:"title,omitempty"`
-	Summary       string                 `protobuf:"bytes,2,opt,name=summary,proto3" json:"summary,omitempty"`
+	Title         *LocalizedText         `protobuf:"bytes,1,opt,name=title,proto3" json:"title,omitempty"`
+	Summary       *LocalizedText         `protobuf:"bytes,2,opt,name=summary,proto3" json:"summary,omitempty"`
 	unknownFields protoimpl.UnknownFields
 	sizeCache     protoimpl.SizeCache
 }
@@ -703,18 +703,18 @@ func (*MethodStep) Descriptor() ([]byte, []int) {
 	return file_bread_v1_bread_proto_rawDescGZIP(), []int{9}
 }
 
-func (x *MethodStep) GetTitle() string {
+func (x *MethodStep) GetTitle() *LocalizedText {
 	if x != nil {
 		return x.Title
 	}
-	return ""
+	return nil
 }
 
-func (x *MethodStep) GetSummary() string {
+func (x *MethodStep) GetSummary() *LocalizedText {
 	if x != nil {
 		return x.Summary
 	}
-	return ""
+	return nil
 }
 
 type Source struct {
@@ -1870,11 +1870,11 @@ const file_bread_v1_bread_proto_rawDesc = "" +
 	"\n" +
 	"fresh_days\x18\x01 \x01(\x01R\tfreshDays\x12\x18\n" +
 	"\afreezes\x18\x02 \x01(\bR\afreezes\x12\x12\n" +
-	"\x04note\x18\x03 \x01(\tR\x04note\"<\n" +
+	"\x04note\x18\x03 \x01(\tR\x04note\"n\n" +
 	"\n" +
-	"MethodStep\x12\x14\n" +
-	"\x05title\x18\x01 \x01(\tR\x05title\x12\x18\n" +
-	"\asummary\x18\x02 \x01(\tR\asummary\"\x9e\x01\n" +
+	"MethodStep\x12-\n" +
+	"\x05title\x18\x01 \x01(\v2\x17.bread.v1.LocalizedTextR\x05title\x121\n" +
+	"\asummary\x18\x02 \x01(\v2\x17.bread.v1.LocalizedTextR\asummary\"\x9e\x01\n" +
 	"\x06Source\x12\x10\n" +
 	"\x03url\x18\x01 \x01(\tR\x03url\x12\x12\n" +
 	"\x04site\x18\x02 \x01(\tR\x04site\x12\x16\n" +
@@ -2022,39 +2022,41 @@ var file_bread_v1_bread_proto_goTypes = []any{
 var file_bread_v1_bread_proto_depIdxs = []int32{
 	1,  // 0: bread.v1.Formula.flours:type_name -> bread.v1.FlourPart
 	0,  // 1: bread.v1.Ingredient.label:type_name -> bread.v1.LocalizedText
-	0,  // 2: bread.v1.Recipe.name:type_name -> bread.v1.LocalizedText
-	0,  // 3: bread.v1.Recipe.description:type_name -> bread.v1.LocalizedText
-	11, // 4: bread.v1.Recipe.origin:type_name -> bread.v1.Origin
-	2,  // 5: bread.v1.Recipe.formula:type_name -> bread.v1.Formula
-	3,  // 6: bread.v1.Recipe.ingredients:type_name -> bread.v1.Ingredient
-	6,  // 7: bread.v1.Recipe.yield:type_name -> bread.v1.Yield
-	4,  // 8: bread.v1.Recipe.time:type_name -> bread.v1.TimeInfo
-	5,  // 9: bread.v1.Recipe.bake:type_name -> bread.v1.BakeInfo
-	7,  // 10: bread.v1.Recipe.diet:type_name -> bread.v1.Diet
-	8,  // 11: bread.v1.Recipe.keeping:type_name -> bread.v1.Keeping
-	9,  // 12: bread.v1.Recipe.method:type_name -> bread.v1.MethodStep
-	10, // 13: bread.v1.Recipe.source:type_name -> bread.v1.Source
-	12, // 14: bread.v1.SearchRecipesResponse.recipes:type_name -> bread.v1.Recipe
-	12, // 15: bread.v1.GetRecipeResponse.recipe:type_name -> bread.v1.Recipe
-	17, // 16: bread.v1.Facet.counts:type_name -> bread.v1.FacetCount
-	18, // 17: bread.v1.ListFacetsResponse.facets:type_name -> bread.v1.Facet
-	12, // 18: bread.v1.SimilarRecipesResponse.recipes:type_name -> bread.v1.Recipe
-	12, // 19: bread.v1.UpsertRecipesRequest.recipes:type_name -> bread.v1.Recipe
-	13, // 20: bread.v1.RecipeService.SearchRecipes:input_type -> bread.v1.SearchRecipesRequest
-	15, // 21: bread.v1.RecipeService.GetRecipe:input_type -> bread.v1.GetRecipeRequest
-	19, // 22: bread.v1.RecipeService.ListFacets:input_type -> bread.v1.ListFacetsRequest
-	21, // 23: bread.v1.RecipeService.SimilarRecipes:input_type -> bread.v1.SimilarRecipesRequest
-	23, // 24: bread.v1.ImportService.UpsertRecipes:input_type -> bread.v1.UpsertRecipesRequest
-	14, // 25: bread.v1.RecipeService.SearchRecipes:output_type -> bread.v1.SearchRecipesResponse
-	16, // 26: bread.v1.RecipeService.GetRecipe:output_type -> bread.v1.GetRecipeResponse
-	20, // 27: bread.v1.RecipeService.ListFacets:output_type -> bread.v1.ListFacetsResponse
-	22, // 28: bread.v1.RecipeService.SimilarRecipes:output_type -> bread.v1.SimilarRecipesResponse
-	24, // 29: bread.v1.ImportService.UpsertRecipes:output_type -> bread.v1.UpsertRecipesResponse
-	25, // [25:30] is the sub-list for method output_type
-	20, // [20:25] is the sub-list for method input_type
-	20, // [20:20] is the sub-list for extension type_name
-	20, // [20:20] is the sub-list for extension extendee
-	0,  // [0:20] is the sub-list for field type_name
+	0,  // 2: bread.v1.MethodStep.title:type_name -> bread.v1.LocalizedText
+	0,  // 3: bread.v1.MethodStep.summary:type_name -> bread.v1.LocalizedText
+	0,  // 4: bread.v1.Recipe.name:type_name -> bread.v1.LocalizedText
+	0,  // 5: bread.v1.Recipe.description:type_name -> bread.v1.LocalizedText
+	11, // 6: bread.v1.Recipe.origin:type_name -> bread.v1.Origin
+	2,  // 7: bread.v1.Recipe.formula:type_name -> bread.v1.Formula
+	3,  // 8: bread.v1.Recipe.ingredients:type_name -> bread.v1.Ingredient
+	6,  // 9: bread.v1.Recipe.yield:type_name -> bread.v1.Yield
+	4,  // 10: bread.v1.Recipe.time:type_name -> bread.v1.TimeInfo
+	5,  // 11: bread.v1.Recipe.bake:type_name -> bread.v1.BakeInfo
+	7,  // 12: bread.v1.Recipe.diet:type_name -> bread.v1.Diet
+	8,  // 13: bread.v1.Recipe.keeping:type_name -> bread.v1.Keeping
+	9,  // 14: bread.v1.Recipe.method:type_name -> bread.v1.MethodStep
+	10, // 15: bread.v1.Recipe.source:type_name -> bread.v1.Source
+	12, // 16: bread.v1.SearchRecipesResponse.recipes:type_name -> bread.v1.Recipe
+	12, // 17: bread.v1.GetRecipeResponse.recipe:type_name -> bread.v1.Recipe
+	17, // 18: bread.v1.Facet.counts:type_name -> bread.v1.FacetCount
+	18, // 19: bread.v1.ListFacetsResponse.facets:type_name -> bread.v1.Facet
+	12, // 20: bread.v1.SimilarRecipesResponse.recipes:type_name -> bread.v1.Recipe
+	12, // 21: bread.v1.UpsertRecipesRequest.recipes:type_name -> bread.v1.Recipe
+	13, // 22: bread.v1.RecipeService.SearchRecipes:input_type -> bread.v1.SearchRecipesRequest
+	15, // 23: bread.v1.RecipeService.GetRecipe:input_type -> bread.v1.GetRecipeRequest
+	19, // 24: bread.v1.RecipeService.ListFacets:input_type -> bread.v1.ListFacetsRequest
+	21, // 25: bread.v1.RecipeService.SimilarRecipes:input_type -> bread.v1.SimilarRecipesRequest
+	23, // 26: bread.v1.ImportService.UpsertRecipes:input_type -> bread.v1.UpsertRecipesRequest
+	14, // 27: bread.v1.RecipeService.SearchRecipes:output_type -> bread.v1.SearchRecipesResponse
+	16, // 28: bread.v1.RecipeService.GetRecipe:output_type -> bread.v1.GetRecipeResponse
+	20, // 29: bread.v1.RecipeService.ListFacets:output_type -> bread.v1.ListFacetsResponse
+	22, // 30: bread.v1.RecipeService.SimilarRecipes:output_type -> bread.v1.SimilarRecipesResponse
+	24, // 31: bread.v1.ImportService.UpsertRecipes:output_type -> bread.v1.UpsertRecipesResponse
+	27, // [27:32] is the sub-list for method output_type
+	22, // [22:27] is the sub-list for method input_type
+	22, // [22:22] is the sub-list for extension type_name
+	22, // [22:22] is the sub-list for extension extendee
+	0,  // [0:22] is the sub-list for field type_name
 }
 
 func init() { file_bread_v1_bread_proto_init() }

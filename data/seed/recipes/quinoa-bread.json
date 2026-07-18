@@ -161,28 +161,52 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Whisk honey into warm water, stir in the yeast and let stand 5-8 minutes until puffy."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Whisk honey into warm water, stir in the yeast and let stand 5-8 minutes until puffy."
+      }
     },
     {
-      "title": "Mix dry",
-      "summary": "Whisk chickpea flour, toasted quinoa flour, sorghum flour, potato starch, xanthan gum and salt together."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Whisk chickpea flour, toasted quinoa flour, sorghum flour, potato starch, xanthan gum and salt together."
+      }
     },
     {
-      "title": "Combine",
-      "summary": "Beat eggs and oil together, then mix the yeast mixture and the egg mixture into the dry ingredients for 2-3 minutes; this is a thick batter, not a kneadable dough."
+      "title": {
+        "en": "Combine"
+      },
+      "summary": {
+        "en": "Beat eggs and oil together, then mix the yeast mixture and the egg mixture into the dry ingredients for 2-3 minutes; this is a thick batter, not a kneadable dough."
+      }
     },
     {
-      "title": "Pan and proof",
-      "summary": "Scrape into a lined loaf pan and let rise in a warm spot 30-45 minutes until doubled; there is no second rise."
+      "title": {
+        "en": "Pan and proof"
+      },
+      "summary": {
+        "en": "Scrape into a lined loaf pan and let rise in a warm spot 30-45 minutes until doubled; there is no second rise."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at about 190°C for 40-50 minutes until browned and hollow-sounding."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at about 190°C for 40-50 minutes until browned and hollow-sounding."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool completely on a rack before slicing."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool completely on a rack before slicing."
+      }
     }
   ],
   "source": {

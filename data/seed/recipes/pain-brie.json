@@ -110,28 +110,52 @@
   ],
   "method": [
     {
-      "title": "Build the pre-ferment",
-      "summary": "Mix part of the flour with water and yeast (locally still called the 'levain', though it's yeasted); let rise about 2 hours."
+      "title": {
+        "en": "Build the pre-ferment"
+      },
+      "summary": {
+        "en": "Mix part of the flour with water and yeast (locally still called the 'levain', though it's yeasted); let rise about 2 hours."
+      }
     },
     {
-      "title": "Mix the rest",
-      "summary": "Combine the remaining flour, water, yeast and butter into a rough paste."
+      "title": {
+        "en": "Mix the rest"
+      },
+      "summary": {
+        "en": "Combine the remaining flour, water, yeast and butter into a rough paste."
+      }
     },
     {
-      "title": "Knead hard",
-      "summary": "Bring everything together with the salt and knead vigorously by hand for a full 15-20 minutes, this hard, sustained work is what tightens ('brie') the crumb."
+      "title": {
+        "en": "Knead hard"
+      },
+      "summary": {
+        "en": "Bring everything together with the salt and knead vigorously by hand for a full 15-20 minutes, this hard, sustained work is what tightens ('brie') the crumb."
+      }
     },
     {
-      "title": "Rest and divide",
-      "summary": "Rest briefly, then divide and shape into stubby loaves."
+      "title": {
+        "en": "Rest and divide"
+      },
+      "summary": {
+        "en": "Rest briefly, then divide and shape into stubby loaves."
+      }
     },
     {
-      "title": "Score and proof",
-      "summary": "Cut parallel scores lengthwise and proof about an hour."
+      "title": {
+        "en": "Score and proof"
+      },
+      "summary": {
+        "en": "Cut parallel scores lengthwise and proof about an hour."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until a pale golden 'blonde' crust forms; cool wrapped in cloth to keep the crumb soft."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until a pale golden 'blonde' crust forms; cool wrapped in cloth to keep the crumb soft."
+      }
     }
   ],
   "source": {

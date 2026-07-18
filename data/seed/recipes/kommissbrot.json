@@ -130,32 +130,60 @@
   ],
   "method": [
     {
-      "title": "Build the sourdough",
-      "summary": "Mix rye flour, lukewarm water and starter; ferment covered about 12 hours, starting slightly warm and cooling gradually."
+      "title": {
+        "en": "Build the sourdough"
+      },
+      "summary": {
+        "en": "Mix rye flour, lukewarm water and starter; ferment covered about 12 hours, starting slightly warm and cooling gradually."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the ripe sourdough with the remaining rye flour, water, salt, beet syrup, roasted rye malt and a little fresh yeast into a thick, plaster-like mass. There is no real kneading, just thorough mixing."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the ripe sourdough with the remaining rye flour, water, salt, beet syrup, roasted rye malt and a little fresh yeast into a thick, plaster-like mass. There is no real kneading, just thorough mixing."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover and let the dough relax 30-40 minutes so the rye flour fully hydrates."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover and let the dough relax 30-40 minutes so the rye flour fully hydrates."
+      }
     },
     {
-      "title": "Shape wet",
-      "summary": "Wet your hands, tools and the work surface, then roll the dough into a log and ease it into a greased tin, smoothing the top with a wet scraper."
+      "title": {
+        "en": "Shape wet"
+      },
+      "summary": {
+        "en": "Wet your hands, tools and the work surface, then roll the dough into a log and ease it into a greased tin, smoothing the top with a wet scraper."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Dust with rye flour and let rise about 70-80 minutes at room temperature until it reaches the rim and shows small surface cracks."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Dust with rye flour and let rise about 70-80 minutes at room temperature until it reaches the rim and shows small surface cracks."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake hot, then step the oven down and continue until deeply crusted, about 70-75 minutes total."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake hot, then step the oven down and continue until deeply crusted, about 70-75 minutes total."
+      }
     },
     {
-      "title": "Rest before slicing",
-      "summary": "Cool completely, then let the loaf sit at least a day; the dense crumb needs that time to firm up for clean slices."
+      "title": {
+        "en": "Rest before slicing"
+      },
+      "summary": {
+        "en": "Cool completely, then let the loaf sit at least a day; the dense crumb needs that time to firm up for clean slices."
+      }
     }
   ],
   "source": {

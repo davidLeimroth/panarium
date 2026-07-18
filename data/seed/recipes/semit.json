@@ -123,32 +123,60 @@
   ],
   "method": [
     {
-      "title": "Mix and knead",
-      "summary": "Combine flour, water, oil, sugar, salt and yeast; knead 5 to 10 minutes until smooth and elastic."
+      "title": {
+        "en": "Mix and knead"
+      },
+      "summary": {
+        "en": "Combine flour, water, oil, sugar, salt and yeast; knead 5 to 10 minutes until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about 1.5 hours, until nearly doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about 1.5 hours, until nearly doubled."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Split into 8 pieces, shape into balls, and rest 10 minutes."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Split into 8 pieces, shape into balls, and rest 10 minutes."
+      }
     },
     {
-      "title": "Shape rings",
-      "summary": "Roll two balls each into a long thin rope, twist or coil the pair together, and pinch the ends into a ring."
+      "title": {
+        "en": "Shape rings"
+      },
+      "summary": {
+        "en": "Roll two balls each into a long thin rope, twist or coil the pair together, and pinch the ends into a ring."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Rest the shaped rings on parchment for 30 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Rest the shaped rings on parchment for 30 minutes."
+      }
     },
     {
-      "title": "Coat",
-      "summary": "Dip each ring in a molasses-water mixture, then roll it in sesame seeds."
+      "title": {
+        "en": "Coat"
+      },
+      "summary": {
+        "en": "Dip each ring in a molasses-water mixture, then roll it in sesame seeds."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until golden brown and the sesame seeds are toasted."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until golden brown and the sesame seeds are toasted."
+      }
     }
   ],
   "source": {

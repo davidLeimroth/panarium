@@ -130,32 +130,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine both flours, sugar, salt and yeast, then work in warm milk and eggs to a rough dough."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine both flours, sugar, salt and yeast, then work in warm milk and eggs to a rough dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 8-10 minutes to a strong gluten structure, then work in softened butter a little at a time."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 8-10 minutes to a strong gluten structure, then work in softened butter a little at a time."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough double, about an hour, then gently deflate it."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough double, about an hour, then gently deflate it."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Roll into logs, cut into portions, and shape each into a smooth ball or short log."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Roll into logs, cut into portions, and shape each into a smooth ball or short log."
+      }
     },
     {
-      "title": "Coat",
-      "summary": "Roll each piece in dried breadcrumbs and set it on a breadcrumb-dusted tray."
+      "title": {
+        "en": "Coat"
+      },
+      "summary": {
+        "en": "Roll each piece in dried breadcrumbs and set it on a breadcrumb-dusted tray."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Cover and let rise again until doubled, about an hour."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Cover and let rise again until doubled, about an hour."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until golden on top, soft and light inside."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until golden on top, soft and light inside."
+      }
     }
   ],
   "source": {

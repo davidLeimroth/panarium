@@ -125,28 +125,52 @@
   ],
   "method": [
     {
-      "title": "Sourdough & soaker",
-      "summary": "The evening before: stir 200 g rye meal, 200 g water and 50 g starter into a sourdough; soak the flax seeds in 50 g water. Rest both overnight at room temperature (10–12 h)."
+      "title": {
+        "en": "Sourdough & soaker"
+      },
+      "summary": {
+        "en": "The evening before: stir 200 g rye meal, 200 g water and 50 g starter into a sourdough; soak the flax seeds in 50 g water. Rest both overnight at room temperature (10–12 h)."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine sourdough, soaker, remaining flour and water, salt and toasted sunflower seeds into a heavy, clay-like paste. No kneading, rye has no gluten network to develop; just mix thoroughly."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine sourdough, soaker, remaining flour and water, salt and toasted sunflower seeds into a heavy, clay-like paste. No kneading, rye has no gluten network to develop; just mix thoroughly."
+      }
     },
     {
-      "title": "Bulk rest",
-      "summary": "Rest the dough 30–45 min covered so the meal fully hydrates."
+      "title": {
+        "en": "Bulk rest"
+      },
+      "summary": {
+        "en": "Rest the dough 30–45 min covered so the meal fully hydrates."
+      }
     },
     {
-      "title": "Pan & proof",
-      "summary": "Pack into a greased tin, smooth the top with wet hands, dust with rye and proof ~2 h at warm room temperature until small cracks show and it nears the rim."
+      "title": {
+        "en": "Pan & proof"
+      },
+      "summary": {
+        "en": "Pack into a greased tin, smooth the top with wet hands, dust with rye and proof ~2 h at warm room temperature until small cracks show and it nears the rim."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 220°C for 15 min, then 200°C for about 60 min to a core temperature of 96–98°C. Bold bake, the dark crust is flavor."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 220°C for 15 min, then 200°C for about 60 min to a core temperature of 96–98°C. Bold bake, the dark crust is flavor."
+      }
     },
     {
-      "title": "Wait",
-      "summary": "Cool completely, then rest wrapped for a full day before slicing; the crumb needs it to set."
+      "title": {
+        "en": "Wait"
+      },
+      "summary": {
+        "en": "Cool completely, then rest wrapped for a full day before slicing; the crumb needs it to set."
+      }
     }
   ],
   "source": {

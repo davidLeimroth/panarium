@@ -108,28 +108,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Dissolve salt and baking soda into the water, then work in the lard and flour to a smooth, firm dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Dissolve salt and baking soda into the water, then work in the lard and flour to a smooth, firm dough."
+      }
     },
     {
-      "title": "First rest",
-      "summary": "Cover and rest at room temperature for 30 minutes."
+      "title": {
+        "en": "First rest"
+      },
+      "summary": {
+        "en": "Cover and rest at room temperature for 30 minutes."
+      }
     },
     {
-      "title": "Divide",
-      "summary": "Portion into 6 balls and rest a further 10 minutes."
+      "title": {
+        "en": "Divide"
+      },
+      "summary": {
+        "en": "Portion into 6 balls and rest a further 10 minutes."
+      }
     },
     {
-      "title": "Roll thin",
-      "summary": "Roll each ball into a thin round, about 4-5mm thick."
+      "title": {
+        "en": "Roll thin"
+      },
+      "summary": {
+        "en": "Roll each ball into a thin round, about 4-5mm thick."
+      }
     },
     {
-      "title": "Griddle",
-      "summary": "Cook on a hot dry griddle or traditional terracotta testo, about 2 minutes per side, pricking bubbles with a fork so it stays flat."
+      "title": {
+        "en": "Griddle"
+      },
+      "summary": {
+        "en": "Cook on a hot dry griddle or traditional terracotta testo, about 2 minutes per side, pricking bubbles with a fork so it stays flat."
+      }
     },
     {
-      "title": "Fold & fill",
-      "summary": "Serve warm, folded around prosciutto, cheese and greens, or any savory filling."
+      "title": {
+        "en": "Fold & fill"
+      },
+      "summary": {
+        "en": "Serve warm, folded around prosciutto, cheese and greens, or any savory filling."
+      }
     }
   ],
   "source": {

@@ -111,28 +111,52 @@
   ],
   "method": [
     {
-      "title": "Build the starter",
-      "summary": "Mix flour, water and a trace of yeast into a firm starter and let it ferment at least 12 hours."
+      "title": {
+        "en": "Build the starter"
+      },
+      "summary": {
+        "en": "Mix flour, water and a trace of yeast into a firm starter and let it ferment at least 12 hours."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Combine the starter with the remaining flour, water and salt; knead 5 minutes, rest 10 minutes, then knead 5 minutes more."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine the starter with the remaining flour, water and salt; knead 5 minutes, rest 10 minutes, then knead 5 minutes more."
+      }
     },
     {
-      "title": "Laminate",
-      "summary": "Roll the dough to about 1 cm thick, fold into thirds, and repeat this rolling-and-folding three times until silky and refined."
+      "title": {
+        "en": "Laminate"
+      },
+      "summary": {
+        "en": "Roll the dough to about 1 cm thick, fold into thirds, and repeat this rolling-and-folding three times until silky and refined."
+      }
     },
     {
-      "title": "Divide and proof",
-      "summary": "Portion into 40 g balls and let them proof about 3 hours."
+      "title": {
+        "en": "Divide and proof"
+      },
+      "summary": {
+        "en": "Portion into 40 g balls and let them proof about 3 hours."
+      }
     },
     {
-      "title": "Roll paper-thin",
-      "summary": "Stretch each ball with a rolling pin into a 1 mm-thick oval and prick all over with a fork so it bakes flat and even."
+      "title": {
+        "en": "Roll paper-thin"
+      },
+      "summary": {
+        "en": "Stretch each ball with a rolling pin into a 1 mm-thick oval and prick all over with a fork so it bakes flat and even."
+      }
     },
     {
-      "title": "Bake dry",
-      "summary": "Bake at 190°C for 12-14 minutes per batch until pale gold and completely crisp, flipping if browning unevenly."
+      "title": {
+        "en": "Bake dry"
+      },
+      "summary": {
+        "en": "Bake at 190°C for 12-14 minutes per batch until pale gold and completely crisp, flipping if browning unevenly."
+      }
     }
   ],
   "source": {

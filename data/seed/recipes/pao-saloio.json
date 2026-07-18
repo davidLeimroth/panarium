@@ -101,28 +101,52 @@
   ],
   "method": [
     {
-      "title": "Autolyse",
-      "summary": "Mix the flour and water and rest 30 minutes before adding anything else."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Mix the flour and water and rest 30 minutes before adding anything else."
+      }
     },
     {
-      "title": "Mix in the starter",
-      "summary": "Combine with the sourdough starter and knead about 8 minutes, then work in the salt."
+      "title": {
+        "en": "Mix in the starter"
+      },
+      "summary": {
+        "en": "Combine with the sourdough starter and knead about 8 minutes, then work in the salt."
+      }
     },
     {
-      "title": "Fold to build strength",
-      "summary": "Give the dough three sets of stretch-and-folds at 30-minute intervals, then rest 90 minutes."
+      "title": {
+        "en": "Fold to build strength"
+      },
+      "summary": {
+        "en": "Give the dough three sets of stretch-and-folds at 30-minute intervals, then rest 90 minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Pre-shape into a rough round, rest 30 minutes, then shape tightly into a ball."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Pre-shape into a rough round, rest 30 minutes, then shape tightly into a ball."
+      }
     },
     {
-      "title": "Cold retard",
-      "summary": "Place seam-up in a floured banneton and refrigerate up to 24 hours for flavor and an easy schedule."
+      "title": {
+        "en": "Cold retard"
+      },
+      "summary": {
+        "en": "Place seam-up in a floured banneton and refrigerate up to 24 hours for flavor and an easy schedule."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at 250°C with convection for about 50 minutes until deeply golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at 250°C with convection for about 50 minutes until deeply golden."
+      }
     }
   ],
   "source": {

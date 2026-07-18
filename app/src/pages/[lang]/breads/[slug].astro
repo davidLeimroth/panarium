@@ -189,18 +189,21 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
  </p>
  </section>
 
- <section>
- <h2>{t.recipe.method}</h2>
- <ol class="method">
- {r.method.map((step) => (
- <li>
- <h3>{step.title}</h3>
- <p>{step.summary}</p>
- </li>
- ))}
- </ol>
- {r.keeping.note && <p class="fine">{r.keeping.note}</p>}
- </section>
+  <section>
+  <h2>{t.recipe.method}</h2>
+  <ol class="method">
+  {r.method.map((step) => (
+  <li>
+  <h3>{step.title[lang] ?? step.title.en}</h3>
+  <p>{step.summary[lang] ?? step.summary.en}</p>
+  </li>
+  ))}
+  </ol>
+  {lang !== 'en' && !r.method.some((s) => s.title[lang] || s.summary[lang]) && (
+  <p class="fine">{t.recipe.methodEnglishOnly}</p>
+  )}
+  {r.keeping.note && <p class="fine">{r.keeping.note}</p>}
+  </section>
 
  <section class="card pad source-card">
  <h3>{t.recipe.source}</h3>

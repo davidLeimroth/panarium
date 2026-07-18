@@ -111,32 +111,60 @@
   ],
   "method": [
     {
-      "title": "Mix stiff dough",
-      "summary": "Combine flour, salt and olive oil, then mix in water to a firm, non-sticky dough, about 40% hydration and cracker-like in feel."
+      "title": {
+        "en": "Mix stiff dough"
+      },
+      "summary": {
+        "en": "Combine flour, salt and olive oil, then mix in water to a firm, non-sticky dough, about 40% hydration and cracker-like in feel."
+      }
     },
     {
-      "title": "Knead & rest",
-      "summary": "Knead briefly, then rest covered for 30 minutes."
+      "title": {
+        "en": "Knead & rest"
+      },
+      "summary": {
+        "en": "Knead briefly, then rest covered for 30 minutes."
+      }
     },
     {
-      "title": "Divide & rest again",
-      "summary": "Divide into pieces, shape, and rest a further 15 minutes."
+      "title": {
+        "en": "Divide & rest again"
+      },
+      "summary": {
+        "en": "Divide into pieces, shape, and rest a further 15 minutes."
+      }
     },
     {
-      "title": "Roll paper-thin",
-      "summary": "Roll each piece out as thin as you possibly can."
+      "title": {
+        "en": "Roll paper-thin"
+      },
+      "summary": {
+        "en": "Roll each piece out as thin as you possibly can."
+      }
     },
     {
-      "title": "Dock",
-      "summary": "Prick all over with a fork so it bakes flat and crisp rather than puffing."
+      "title": {
+        "en": "Dock"
+      },
+      "summary": {
+        "en": "Prick all over with a fork so it bakes flat and crisp rather than puffing."
+      }
     },
     {
-      "title": "Blast-bake",
-      "summary": "Bake at very high heat for 3-4 minutes until spotted brown and fully crisp."
+      "title": {
+        "en": "Blast-bake"
+      },
+      "summary": {
+        "en": "Bake at very high heat for 3-4 minutes until spotted brown and fully crisp."
+      }
     },
     {
-      "title": "Cool & store",
-      "summary": "Cool completely on a rack. For ritual Passover use, the whole process from first water contact to oven-out must take under 18 minutes, using only flour and water."
+      "title": {
+        "en": "Cool & store"
+      },
+      "summary": {
+        "en": "Cool completely on a rack. For ritual Passover use, the whole process from first water contact to oven-out must take under 18 minutes, using only flour and water."
+      }
     }
   ],
   "source": {

@@ -110,28 +110,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Rub oil and salt into the flour until crumbly, then knead in warm water gradually to a dough firmer than roti but softer than poori."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Rub oil and salt into the flour until crumbly, then knead in warm water gradually to a dough firmer than roti but softer than poori."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Cover with a damp cloth and rest 20 minutes to relax the gluten."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Cover with a damp cloth and rest 20 minutes to relax the gluten."
+      }
     },
     {
-      "title": "Knead and divide",
-      "summary": "Knead again briefly until smooth, then divide into small, walnut-sized balls."
+      "title": {
+        "en": "Knead and divide"
+      },
+      "summary": {
+        "en": "Knead again briefly until smooth, then divide into small, walnut-sized balls."
+      }
     },
     {
-      "title": "Roll",
-      "summary": "Roll each ball into a thin 4-inch circle, using a little oil rather than dry flour so the surface stays pale."
+      "title": {
+        "en": "Roll"
+      },
+      "summary": {
+        "en": "Roll each ball into a thin 4-inch circle, using a little oil rather than dry flour so the surface stays pale."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Slide into hot oil and gently press with a slotted spoon until it puffs into a ball; fry until just set and white, not browned."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Slide into hot oil and gently press with a slotted spoon until it puffs into a ball; fry until just set and white, not browned."
+      }
     },
     {
-      "title": "Flip and drain",
-      "summary": "Flip briefly to cook the other side, then lift out, drain, and serve immediately."
+      "title": {
+        "en": "Flip and drain"
+      },
+      "summary": {
+        "en": "Flip briefly to cook the other side, then lift out, drain, and serve immediately."
+      }
     }
   ],
   "source": {

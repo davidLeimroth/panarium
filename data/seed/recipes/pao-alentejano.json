@@ -101,28 +101,52 @@
   ],
   "method": [
     {
-      "title": "Make a well",
-      "summary": "Pile the flour in a large bowl or trough, hollow a well in the center, and add the starter."
+      "title": {
+        "en": "Make a well"
+      },
+      "summary": {
+        "en": "Pile the flour in a large bowl or trough, hollow a well in the center, and add the starter."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Gradually work in warm water and salt from the well outward until the flour is fully absorbed."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Gradually work in warm water and salt from the well outward until the flour is fully absorbed."
+      }
     },
     {
-      "title": "Knead vigorously",
-      "summary": "Knead until air bubbles show in the dough, slapping it against the bowl to build strength."
+      "title": {
+        "en": "Knead vigorously"
+      },
+      "summary": {
+        "en": "Knead until air bubbles show in the dough, slapping it against the bowl to build strength."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Cover and let rise undisturbed in a warm spot until well expanded."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Cover and let rise undisturbed in a warm spot until well expanded."
+      }
     },
     {
-      "title": "Shape and proof",
-      "summary": "Shape into round loaves, dust with flour, and let proof covered."
+      "title": {
+        "en": "Shape and proof"
+      },
+      "summary": {
+        "en": "Shape into round loaves, dust with flour, and let proof covered."
+      }
     },
     {
-      "title": "Bake without steam",
-      "summary": "Bake hot, around 250°C dropping to 200°C, with no added steam, exactly what gives this bread its characteristic dull, thick crust."
+      "title": {
+        "en": "Bake without steam"
+      },
+      "summary": {
+        "en": "Bake hot, around 250°C dropping to 200°C, with no added steam, exactly what gives this bread its characteristic dull, thick crust."
+      }
     }
   ],
   "source": {

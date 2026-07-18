@@ -159,32 +159,60 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Warm the water with the molasses, bloom the yeast, then stir in both flours, salt, spices and orange zest."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Warm the water with the molasses, bloom the yeast, then stir in both flours, salt, spices and orange zest."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Work in the softened butter until the dough turns smooth and elastic, about 8-10 minutes."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Work in the softened butter until the dough turns smooth and elastic, about 8-10 minutes."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Rest at room temperature roughly an hour until visibly puffy."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Rest at room temperature roughly an hour until visibly puffy."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Knock back gently and shape into a round loaf on a lined baking sheet."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Knock back gently and shape into a round loaf on a lined baking sheet."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Proof until noticeably swollen, 75-90 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Proof until noticeably swollen, 75-90 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until deeply golden, tenting with foil if it colors too fast."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until deeply golden, tenting with foil if it colors too fast."
+      }
     },
     {
-      "title": "Cool and toast",
-      "summary": "Cool fully before slicing; this loaf is at its best cut thick and toasted with butter."
+      "title": {
+        "en": "Cool and toast"
+      },
+      "summary": {
+        "en": "Cool fully before slicing; this loaf is at its best cut thick and toasted with butter."
+      }
     }
   ],
   "source": {

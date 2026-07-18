@@ -145,40 +145,76 @@
   ],
   "method": [
     {
-      "title": "Build the levain",
-      "summary": "Mix starter, white and whole wheat flour and water the evening before; ripen 12 hours."
+      "title": {
+        "en": "Build the levain"
+      },
+      "summary": {
+        "en": "Mix starter, white and whole wheat flour and water the evening before; ripen 12 hours."
+      }
     },
     {
-      "title": "Bloom the cocoa",
-      "summary": "Warm the oil, whisk in cocoa powder until thickened and glossy, then let cool."
+      "title": {
+        "en": "Bloom the cocoa"
+      },
+      "summary": {
+        "en": "Warm the oil, whisk in cocoa powder until thickened and glossy, then let cool."
+      }
     },
     {
-      "title": "Autolyse",
-      "summary": "Combine the flours and most of the water; rest 30 minutes."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Combine the flours and most of the water; rest 30 minutes."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Add sugar, salt and levain; knead until elastic, then fold in the bloomed cocoa."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Add sugar, salt and levain; knead until elastic, then fold in the bloomed cocoa."
+      }
     },
     {
-      "title": "Bulk ferment with mix-ins",
-      "summary": "Over about 4 hours, give three stretch-and-fold sets, distributing the chocolate chunks and soaked cherries evenly during each."
+      "title": {
+        "en": "Bulk ferment with mix-ins"
+      },
+      "summary": {
+        "en": "Over about 4 hours, give three stretch-and-fold sets, distributing the chocolate chunks and soaked cherries evenly during each."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide, preshape, rest 35 minutes, then shape into boules."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide, preshape, rest 35 minutes, then shape into boules."
+      }
     },
     {
-      "title": "Cold proof",
-      "summary": "Refrigerate overnight, about 18-19 hours."
+      "title": {
+        "en": "Cold proof"
+      },
+      "summary": {
+        "en": "Refrigerate overnight, about 18-19 hours."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the internal temperature reaches 95°C."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the internal temperature reaches 95°C."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest 1-2 hours before slicing so the chocolate sets."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest 1-2 hours before slicing so the chocolate sets."
+      }
     }
   ],
   "source": {

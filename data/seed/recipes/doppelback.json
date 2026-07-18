@@ -123,32 +123,60 @@
   ],
   "method": [
     {
-      "title": "Build the rye levain",
-      "summary": "Stir rye flour, water and a spoonful of mature rye starter together and let it ripen at room temperature overnight, 16-18 hours, until domed and fragrant."
+      "title": {
+        "en": "Build the rye levain"
+      },
+      "summary": {
+        "en": "Stir rye flour, water and a spoonful of mature rye starter together and let it ripen at room temperature overnight, 16-18 hours, until domed and fragrant."
+      }
     },
     {
-      "title": "Mix the main dough",
-      "summary": "Add the ripe levain to more rye and wheat flour, water, salt, a small amount of fresh yeast, and rye malt. Knead until the dough is smooth, elastic and only slightly tacky."
+      "title": {
+        "en": "Mix the main dough"
+      },
+      "summary": {
+        "en": "Add the ripe levain to more rye and wheat flour, water, salt, a small amount of fresh yeast, and rye malt. Knead until the dough is smooth, elastic and only slightly tacky."
+      }
     },
     {
-      "title": "Bulk rest",
-      "summary": "Cover and let the dough relax for about 30 minutes at room temperature."
+      "title": {
+        "en": "Bulk rest"
+      },
+      "summary": {
+        "en": "Cover and let the dough relax for about 30 minutes at room temperature."
+      }
     },
     {
-      "title": "Shape and pan",
-      "summary": "Round the dough briefly, then press it into a buttered loaf tin, no elaborate shaping is needed for a pan loaf."
+      "title": {
+        "en": "Shape and pan"
+      },
+      "summary": {
+        "en": "Round the dough briefly, then press it into a buttered loaf tin, no elaborate shaping is needed for a pan loaf."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Proof in the tin until the dough has risen to the rim of the pan."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Proof in the tin until the dough has risen to the rim of the pan."
+      }
     },
     {
-      "title": "First bake",
-      "summary": "Bake hot at 250°C for about 15 minutes to set the crust, then lower to 180°C for a further 45 minutes until fully baked through."
+      "title": {
+        "en": "First bake"
+      },
+      "summary": {
+        "en": "Bake hot at 250°C for about 15 minutes to set the crust, then lower to 180°C for a further 45 minutes until fully baked through."
+      }
     },
     {
-      "title": "Cool, then bake again",
-      "summary": "Turn the loaf out of the tin and let it cool for 30-45 minutes. Return it to a 180°C fan oven for a final 20 minutes, the 'Doppelback' step that darkens and firms the crust and is the reason the loaf keeps so well."
+      "title": {
+        "en": "Cool, then bake again"
+      },
+      "summary": {
+        "en": "Turn the loaf out of the tin and let it cool for 30-45 minutes. Return it to a 180°C fan oven for a final 20 minutes, the 'Doppelback' step that darkens and firms the crust and is the reason the loaf keeps so well."
+      }
     }
   ],
   "source": {

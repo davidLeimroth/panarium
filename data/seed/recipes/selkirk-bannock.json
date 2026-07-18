@@ -124,28 +124,52 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine flour, sugar, salt, yeast and dried fruit in a bowl."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine flour, sugar, salt, yeast and dried fruit in a bowl."
+      }
     },
     {
-      "title": "Add warm milk & butter",
-      "summary": "Heat the milk and butter together to lukewarm, work into the dry ingredients, and knead about 5 minutes to a cohesive dough."
+      "title": {
+        "en": "Add warm milk & butter"
+      },
+      "summary": {
+        "en": "Heat the milk and butter together to lukewarm, work into the dry ingredients, and knead about 5 minutes to a cohesive dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Prove in a warm place about an hour, until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Prove in a warm place about an hour, until doubled."
+      }
     },
     {
-      "title": "Knock back & shape",
-      "summary": "Briefly knead again, then shape into a single large round loaf."
+      "title": {
+        "en": "Knock back & shape"
+      },
+      "summary": {
+        "en": "Briefly knead again, then shape into a single large round loaf."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Prove 45 minutes to an hour, until doubled again."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Prove 45 minutes to an hour, until doubled again."
+      }
     },
     {
-      "title": "Glaze & bake",
-      "summary": "Brush with milk and bake until deeply golden and hollow-sounding underneath, 40-50 minutes; cool completely before slicing."
+      "title": {
+        "en": "Glaze & bake"
+      },
+      "summary": {
+        "en": "Brush with milk and bake until deeply golden and hollow-sounding underneath, 40-50 minutes; cool completely before slicing."
+      }
     }
   ],
   "source": {

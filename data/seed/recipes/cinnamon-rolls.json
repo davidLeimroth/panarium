@@ -166,32 +166,60 @@
   ],
   "method": [
     {
-      "title": "Bloom the yeast",
-      "summary": "Warm the milk, stir in a spoonful of the sugar and the yeast, and let it sit until foamy, about 5-10 minutes."
+      "title": {
+        "en": "Bloom the yeast"
+      },
+      "summary": {
+        "en": "Warm the milk, stir in a spoonful of the sugar and the yeast, and let it sit until foamy, about 5-10 minutes."
+      }
     },
     {
-      "title": "Mix and knead",
-      "summary": "Beat in the rest of the sugar, the butter, eggs and salt, then work in the flour and knead until you have a smooth, elastic dough."
+      "title": {
+        "en": "Mix and knead"
+      },
+      "summary": {
+        "en": "Beat in the rest of the sugar, the butter, eggs and salt, then work in the flour and knead until you have a smooth, elastic dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough double in size at room temperature, roughly 1.5-2 hours."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough double in size at room temperature, roughly 1.5-2 hours."
+      }
     },
     {
-      "title": "Fill and roll",
-      "summary": "Roll the dough into a large rectangle, spread with soft butter, scatter the cinnamon-brown-sugar filling to the edges, then roll into a tight log and slice into 12 rounds."
+      "title": {
+        "en": "Fill and roll"
+      },
+      "summary": {
+        "en": "Roll the dough into a large rectangle, spread with soft butter, scatter the cinnamon-brown-sugar filling to the edges, then roll into a tight log and slice into 12 rounds."
+      }
     },
     {
-      "title": "Shape, then chill or proof",
-      "summary": "Arrange the rolls in a baking dish. Either let them puff for about an hour at room temperature, or cover and refrigerate overnight for a slow rise, bringing them back to room temperature before baking."
+      "title": {
+        "en": "Shape, then chill or proof"
+      },
+      "summary": {
+        "en": "Arrange the rolls in a baking dish. Either let them puff for about an hour at room temperature, or cover and refrigerate overnight for a slow rise, bringing them back to room temperature before baking."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at around 177°C (350°F) for 25-28 minutes until golden, tenting loosely with foil if they colour too quickly."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at around 177°C (350°F) for 25-28 minutes until golden, tenting loosely with foil if they colour too quickly."
+      }
     },
     {
-      "title": "Ice and serve",
-      "summary": "Beat the cream cheese, butter, powdered sugar, milk and vanilla into a smooth icing and spread it over the rolls while still warm."
+      "title": {
+        "en": "Ice and serve"
+      },
+      "summary": {
+        "en": "Beat the cream cheese, butter, powdered sugar, milk and vanilla into a smooth icing and spread it over the rolls while still warm."
+      }
     }
   ],
   "source": {

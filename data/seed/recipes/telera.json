@@ -119,28 +119,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine yeast, water, honey, melted fat, salt and most of the flour into a soft dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine yeast, water, honey, melted fat, salt and most of the flour into a soft dough."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Knead 6-10 minutes by machine or 10 minutes by hand until smooth and elastic, adding a little more flour if sticky."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Knead 6-10 minutes by machine or 10 minutes by hand until smooth and elastic, adding a little more flour if sticky."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let rise about an hour, until doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let rise about an hour, until doubled."
+      }
     },
     {
-      "title": "Divide & shape",
-      "summary": "Divide into 10 pieces, roll into balls, rest 5 minutes, then shape each into a tapered oval about 14cm long."
+      "title": {
+        "en": "Divide & shape"
+      },
+      "summary": {
+        "en": "Divide into 10 pieces, roll into balls, rest 5 minutes, then shape each into a tapered oval about 14cm long."
+      }
     },
     {
-      "title": "Second rise & score",
-      "summary": "Rest on a baking sheet while the oven preheats, then brush with egg wash and press two parallel slashes into each roll to form three lobes."
+      "title": {
+        "en": "Second rise & score"
+      },
+      "summary": {
+        "en": "Rest on a baking sheet while the oven preheats, then brush with egg wash and press two parallel slashes into each roll to form three lobes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until golden brown and hollow-sounding, about 20-22 minutes; cool completely before slicing for tortas."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until golden brown and hollow-sounding, about 20-22 minutes; cool completely before slicing for tortas."
+      }
     }
   ],
   "source": {

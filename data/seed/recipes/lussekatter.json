@@ -141,28 +141,52 @@
   ],
   "method": [
     {
-      "title": "Bloom the saffron",
-      "summary": "Grind the saffron threads with a little sugar, then steep in warm rum or brandy while you start the dough."
+      "title": {
+        "en": "Bloom the saffron"
+      },
+      "summary": {
+        "en": "Grind the saffron threads with a little sugar, then steep in warm rum or brandy while you start the dough."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Crumble the yeast into lukewarm milk, then work in softened butter, sugar, the saffron infusion, salt and flour into a smooth, elastic dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Crumble the yeast into lukewarm milk, then work in softened butter, sugar, the saffron infusion, salt and flour into a smooth, elastic dough."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Cover and let the dough double, about 1 hour in a warm spot."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Cover and let the dough double, about 1 hour in a warm spot."
+      }
     },
     {
-      "title": "Shape the S-curls",
-      "summary": "Divide into small pieces, roll each into a 20 cm rope, then curl both ends inward in opposite directions to form a tight S. Press a raisin into the center of each spiral."
+      "title": {
+        "en": "Shape the S-curls"
+      },
+      "summary": {
+        "en": "Divide into small pieces, roll each into a 20 cm rope, then curl both ends inward in opposite directions to form a tight S. Press a raisin into the center of each spiral."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Let the shaped buns puff for about 30 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Let the shaped buns puff for about 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Brush with beaten egg and bake at 200°C for about 8 minutes until golden."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Brush with beaten egg and bake at 200°C for about 8 minutes until golden."
+      }
     }
   ],
   "source": {

@@ -176,28 +176,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine flour, yeast, mixed spice, brown sugar and salt, then work in butter, milk and egg to a smooth, elastic dough, about 5-7 minutes by machine."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine flour, yeast, mixed spice, brown sugar and salt, then work in butter, milk and egg to a smooth, elastic dough, about 5-7 minutes by machine."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Prove in a warm spot about an hour, until nearly doubled."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Prove in a warm spot about an hour, until nearly doubled."
+      }
     },
     {
-      "title": "Roll & fill",
-      "summary": "Roll the dough into a rectangle, spread with soft butter, then scatter brown sugar, spice, cinnamon, currants and candied peel evenly over the top."
+      "title": {
+        "en": "Roll & fill"
+      },
+      "summary": {
+        "en": "Roll the dough into a rectangle, spread with soft butter, then scatter brown sugar, spice, cinnamon, currants and candied peel evenly over the top."
+      }
     },
     {
-      "title": "Roll & slice",
-      "summary": "Roll up tightly from one long edge into a log, trim the ends, and cut into 9 even slices."
+      "title": {
+        "en": "Roll & slice"
+      },
+      "summary": {
+        "en": "Roll up tightly from one long edge into a log, trim the ends, and cut into 9 even slices."
+      }
     },
     {
-      "title": "Pan & proof",
-      "summary": "Arrange the slices cut-side up, snug together, in a greased square pan, and let them puff for about 30 minutes."
+      "title": {
+        "en": "Pan & proof"
+      },
+      "summary": {
+        "en": "Arrange the slices cut-side up, snug together, in a greased square pan, and let them puff for about 30 minutes."
+      }
     },
     {
-      "title": "Bake & glaze",
-      "summary": "Bake until golden and cooked through, then brush the hot buns immediately with a simmered sugar-water syrup for their sticky shine."
+      "title": {
+        "en": "Bake & glaze"
+      },
+      "summary": {
+        "en": "Bake until golden and cooked through, then brush the hot buns immediately with a simmered sugar-water syrup for their sticky shine."
+      }
     }
   ],
   "source": {

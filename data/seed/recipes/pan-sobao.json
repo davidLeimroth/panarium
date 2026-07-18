@@ -134,32 +134,60 @@
   ],
   "method": [
     {
-      "title": "Build the poolish",
-      "summary": "Stir flour, water and a pinch of yeast together, ferment at room temperature about 8 hours, then refrigerate until the next day."
+      "title": {
+        "en": "Build the poolish"
+      },
+      "summary": {
+        "en": "Stir flour, water and a pinch of yeast together, ferment at room temperature about 8 hours, then refrigerate until the next day."
+      }
     },
     {
-      "title": "Bloom yeast",
-      "summary": "Let the poolish come to room temperature, then bloom the remaining yeast in warm water with the sugar."
+      "title": {
+        "en": "Bloom yeast"
+      },
+      "summary": {
+        "en": "Let the poolish come to room temperature, then bloom the remaining yeast in warm water with the sugar."
+      }
     },
     {
-      "title": "Mix dough",
-      "summary": "Beat in the lard and poolish, then gradually mix in the flour and salt to a soft dough."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Beat in the lard and poolish, then gradually mix in the flour and salt to a soft dough."
+      }
     },
     {
-      "title": "Knead & rise",
-      "summary": "Knead about 10 minutes until smooth, then let rise in an oiled bowl until doubled, about an hour."
+      "title": {
+        "en": "Knead & rise"
+      },
+      "summary": {
+        "en": "Knead about 10 minutes until smooth, then let rise in an oiled bowl until doubled, about an hour."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Punch down, divide in two, and roll each half by hand into a 12-inch log."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Punch down, divide in two, and roll each half by hand into a 12-inch log."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Proof on a lined sheet pan until doubled, 30-60 minutes."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Proof on a lined sheet pan until doubled, 30-60 minutes."
+      }
     },
     {
-      "title": "Bake with steam",
-      "summary": "Bake in a hot oven with a pan of ice for a burst of steam, until golden and hollow-sounding, 15-20 minutes."
+      "title": {
+        "en": "Bake with steam"
+      },
+      "summary": {
+        "en": "Bake in a hot oven with a pan of ice for a burst of steam, until golden and hollow-sounding, 15-20 minutes."
+      }
     }
   ],
   "source": {

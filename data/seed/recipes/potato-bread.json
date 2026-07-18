@@ -117,24 +117,44 @@
   ],
   "method": [
     {
-      "title": "Boil and rice",
-      "summary": "Boil peeled, cubed potatoes until tender, then pass through a ricer or sieve while still hot."
+      "title": {
+        "en": "Boil and rice"
+      },
+      "summary": {
+        "en": "Boil peeled, cubed potatoes until tender, then pass through a ricer or sieve while still hot."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Stir in half the butter, the salt and pepper, then very lightly fold in the flour, just until it comes together; overworking makes tough farls."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir in half the butter, the salt and pepper, then very lightly fold in the flour, just until it comes together; overworking makes tough farls."
+      }
     },
     {
-      "title": "Roll and cut",
-      "summary": "Pat the dough into an 8 in round about 1 cm thick, then cut into six triangles."
+      "title": {
+        "en": "Roll and cut"
+      },
+      "summary": {
+        "en": "Pat the dough into an 8 in round about 1 cm thick, then cut into six triangles."
+      }
     },
     {
-      "title": "Fry",
-      "summary": "Melt the remaining butter in a hot frying pan and cook the farls, no extra oil, about 5 minutes a side until golden."
+      "title": {
+        "en": "Fry"
+      },
+      "summary": {
+        "en": "Melt the remaining butter in a hot frying pan and cook the farls, no extra oil, about 5 minutes a side until golden."
+      }
     },
     {
-      "title": "Serve",
-      "summary": "Serve hot, ideally straight from the pan alongside eggs, bacon and other fry-up staples."
+      "title": {
+        "en": "Serve"
+      },
+      "summary": {
+        "en": "Serve hot, ideally straight from the pan alongside eggs, bacon and other fry-up staples."
+      }
     }
   ],
   "source": {

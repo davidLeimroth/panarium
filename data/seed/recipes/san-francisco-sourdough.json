@@ -113,36 +113,68 @@
   ],
   "method": [
     {
-      "title": "Feed the culture",
-      "summary": "Combine a rye-seeded sourdough culture with bread flour and water; ferment 9 hours at room temperature, then refrigerate 34 hours to build a sharply sour levain."
+      "title": {
+        "en": "Feed the culture"
+      },
+      "summary": {
+        "en": "Combine a rye-seeded sourdough culture with bread flour and water; ferment 9 hours at room temperature, then refrigerate 34 hours to build a sharply sour levain."
+      }
     },
     {
-      "title": "Mix",
-      "summary": "Stir the cold levain into water, then work in the bread and spelt flours and salt; knead briefly and rest 15 minutes."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Stir the cold levain into water, then work in the bread and spelt flours and salt; knead briefly and rest 15 minutes."
+      }
     },
     {
-      "title": "Short bulk with folds",
-      "summary": "Perform two stretch-and-fold sequences 15 minutes apart, then let the dough rest about 40 minutes at room temperature."
+      "title": {
+        "en": "Short bulk with folds"
+      },
+      "summary": {
+        "en": "Perform two stretch-and-fold sequences 15 minutes apart, then let the dough rest about 40 minutes at room temperature."
+      }
     },
     {
-      "title": "Cold retard the dough",
-      "summary": "Refrigerate the shaped-but-unformed dough for about 15 hours to deepen the sourness."
+      "title": {
+        "en": "Cold retard the dough"
+      },
+      "summary": {
+        "en": "Refrigerate the shaped-but-unformed dough for about 15 hours to deepen the sourness."
+      }
     },
     {
-      "title": "Acclimate and shape",
-      "summary": "Let the dough warm up 2 hours at room temperature, then shape into a batard or boule."
+      "title": {
+        "en": "Acclimate and shape"
+      },
+      "summary": {
+        "en": "Let the dough warm up 2 hours at room temperature, then shape into a batard or boule."
+      }
     },
     {
-      "title": "Final proof",
-      "summary": "Proof 2.5-3 hours at room temperature until it passes the poke test."
+      "title": {
+        "en": "Final proof"
+      },
+      "summary": {
+        "en": "Proof 2.5-3 hours at room temperature until it passes the poke test."
+      }
     },
     {
-      "title": "Bake with steam",
-      "summary": "Score and bake at 235°C on a hot stone or steel with steam (a splash of hot water in a tray) for about 45 minutes, venting the door near the end for a crisp crust."
+      "title": {
+        "en": "Bake with steam"
+      },
+      "summary": {
+        "en": "Score and bake at 235°C on a hot stone or steel with steam (a splash of hot water in a tray) for about 45 minutes, venting the door near the end for a crisp crust."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest fully before slicing to let the tangy crumb set."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest fully before slicing to let the tangy crumb set."
+      }
     }
   ],
   "source": {

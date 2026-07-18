@@ -120,28 +120,52 @@
   ],
   "method": [
     {
-      "title": "Start",
-      "summary": "Mix part of the flour with the yeast and warm water; let it bubble about 45 minutes."
+      "title": {
+        "en": "Start"
+      },
+      "summary": {
+        "en": "Mix part of the flour with the yeast and warm water; let it bubble about 45 minutes."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Work in the remaining flour, olive oil, sugar, salt and citrus zests to a smooth, rich dough."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Work in the remaining flour, olive oil, sugar, salt and citrus zests to a smooth, rich dough."
+      }
     },
     {
-      "title": "Bulk ferment",
-      "summary": "Ferment about 3 hours until well risen."
+      "title": {
+        "en": "Bulk ferment"
+      },
+      "summary": {
+        "en": "Ferment about 3 hours until well risen."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Press out into a flat disc roughly 30cm across on a tray."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Press out into a flat disc roughly 30cm across on a tray."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Proof about an hour near warmth."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Proof about an hour near warmth."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake until golden, then brush immediately with olive oil while still hot from the oven."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake until golden, then brush immediately with olive oil while still hot from the oven."
+      }
     }
   ],
   "source": {

@@ -111,28 +111,52 @@
   ],
   "method": [
     {
-      "title": "Mix and rest",
-      "summary": "Combine both flours with the water, holding back the starter, and rest at least 2 hours."
+      "title": {
+        "en": "Mix and rest"
+      },
+      "summary": {
+        "en": "Combine both flours with the water, holding back the starter, and rest at least 2 hours."
+      }
     },
     {
-      "title": "Add starter and fold",
-      "summary": "Work in the active rye sourdough starter, then give the dough stretch-and-folds every 30 minutes for 3-4 hours."
+      "title": {
+        "en": "Add starter and fold"
+      },
+      "summary": {
+        "en": "Work in the active rye sourdough starter, then give the dough stretch-and-folds every 30 minutes for 3-4 hours."
+      }
     },
     {
-      "title": "Shape the moña",
-      "summary": "Shape into a ball, pinching and lifting a piece of dough on top into the traditional twisted knot."
+      "title": {
+        "en": "Shape the moña"
+      },
+      "summary": {
+        "en": "Shape into a ball, pinching and lifting a piece of dough on top into the traditional twisted knot."
+      }
     },
     {
-      "title": "Cold retard",
-      "summary": "Place seam-up in a floured banneton and refrigerate at least 8-10 hours."
+      "title": {
+        "en": "Cold retard"
+      },
+      "summary": {
+        "en": "Place seam-up in a floured banneton and refrigerate at least 8-10 hours."
+      }
     },
     {
-      "title": "Bake in two temperatures",
-      "summary": "Bake at 250°C with steam for 15 minutes, then drop to 200°C for another 45 minutes."
+      "title": {
+        "en": "Bake in two temperatures"
+      },
+      "summary": {
+        "en": "Bake at 250°C with steam for 15 minutes, then drop to 200°C for another 45 minutes."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Rest on a rack at least 20 minutes before cutting so the huge holes don't collapse."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Rest on a rack at least 20 minutes before cutting so the huge holes don't collapse."
+      }
     }
   ],
   "source": {

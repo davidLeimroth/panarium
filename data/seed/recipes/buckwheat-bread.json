@@ -118,36 +118,68 @@
   ],
   "method": [
     {
-      "title": "Mix",
-      "summary": "Combine buckwheat and wheat flours; make a well and dissolve the yeast in a little of the lukewarm water inside it."
+      "title": {
+        "en": "Mix"
+      },
+      "summary": {
+        "en": "Combine buckwheat and wheat flours; make a well and dissolve the yeast in a little of the lukewarm water inside it."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Dust the well with a little flour from the sides and let the yeast start working, about 10-15 minutes."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Dust the well with a little flour from the sides and let the yeast start working, about 10-15 minutes."
+      }
     },
     {
-      "title": "Knead",
-      "summary": "Work in the remaining water, salt and oil and knead into a smooth, fairly stiff dough."
+      "title": {
+        "en": "Knead"
+      },
+      "summary": {
+        "en": "Work in the remaining water, salt and oil and knead into a smooth, fairly stiff dough."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Cover and let rise in a warm spot until visibly puffed, about 45 minutes."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Cover and let rise in a warm spot until visibly puffed, about 45 minutes."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Knock back gently and shape into an oval loaf on a baking tray."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Knock back gently and shape into an oval loaf on a baking tray."
+      }
     },
     {
-      "title": "Second rise",
-      "summary": "Dust the top with flour and let rise again, about 30 minutes."
+      "title": {
+        "en": "Second rise"
+      },
+      "summary": {
+        "en": "Dust the top with flour and let rise again, about 30 minutes."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Bake at around 200°C for 45 minutes until the crust is deeply colored and crisp."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Bake at around 200°C for 45 minutes until the crust is deeply colored and crisp."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool at least 10 minutes before the first slice; buckwheat's dense crumb firms up as it cools."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool at least 10 minutes before the first slice; buckwheat's dense crumb firms up as it cools."
+      }
     }
   ],
   "source": {

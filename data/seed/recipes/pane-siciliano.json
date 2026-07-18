@@ -114,28 +114,52 @@
   ],
   "method": [
     {
-      "title": "Starter",
-      "summary": "Dissolve the yeast in warm water and combine with a portion of the semolina; let it ferment about 3 hours at a warm 30°C until risen and bubbly."
+      "title": {
+        "en": "Starter"
+      },
+      "summary": {
+        "en": "Dissolve the yeast in warm water and combine with a portion of the semolina; let it ferment about 3 hours at a warm 30°C until risen and bubbly."
+      }
     },
     {
-      "title": "Combine",
-      "summary": "Work the starter into the remaining semolina, water, salt and olive oil until a rough dough forms."
+      "title": {
+        "en": "Combine"
+      },
+      "summary": {
+        "en": "Work the starter into the remaining semolina, water, salt and olive oil until a rough dough forms."
+      }
     },
     {
-      "title": "Fold instead of knead",
-      "summary": "Rather than one long knead, rest and fold the dough every 20-30 minutes over roughly 3 hours to build strength."
+      "title": {
+        "en": "Fold instead of knead"
+      },
+      "summary": {
+        "en": "Rather than one long knead, rest and fold the dough every 20-30 minutes over roughly 3 hours to build strength."
+      }
     },
     {
-      "title": "Shape and coat",
-      "summary": "Divide and shape into loaves, ideally the traditional S-curved mafalda; dampen the surface and roll it thickly in sesame seeds."
+      "title": {
+        "en": "Shape and coat"
+      },
+      "summary": {
+        "en": "Divide and shape into loaves, ideally the traditional S-curved mafalda; dampen the surface and roll it thickly in sesame seeds."
+      }
     },
     {
-      "title": "Proof",
-      "summary": "Let the shaped loaves rise until visibly puffed and airy."
+      "title": {
+        "en": "Proof"
+      },
+      "summary": {
+        "en": "Let the shaped loaves rise until visibly puffed and airy."
+      }
     },
     {
-      "title": "Bake covered",
-      "summary": "Bake at 250°C in a covered pot for about 20 minutes for a shattering, seed-crusted shell."
+      "title": {
+        "en": "Bake covered"
+      },
+      "summary": {
+        "en": "Bake at 250°C in a covered pot for about 20 minutes for a shattering, seed-crusted shell."
+      }
     }
   ],
   "source": {

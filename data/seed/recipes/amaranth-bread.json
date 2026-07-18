@@ -146,28 +146,52 @@
   ],
   "method": [
     {
-      "title": "Soak",
-      "summary": "Soak the amaranth and raisins together in boiling water for 15-20 minutes."
+      "title": {
+        "en": "Soak"
+      },
+      "summary": {
+        "en": "Soak the amaranth and raisins together in boiling water for 15-20 minutes."
+      }
     },
     {
-      "title": "Mix wet",
-      "summary": "Whisk together the oil, eggs, agave syrup and vanilla."
+      "title": {
+        "en": "Mix wet"
+      },
+      "summary": {
+        "en": "Whisk together the oil, eggs, agave syrup and vanilla."
+      }
     },
     {
-      "title": "Mix dry",
-      "summary": "Whisk the flour, baking powder, salt and walnuts together."
+      "title": {
+        "en": "Mix dry"
+      },
+      "summary": {
+        "en": "Whisk the flour, baking powder, salt and walnuts together."
+      }
     },
     {
-      "title": "Combine",
-      "summary": "Stir the wet and dry mixtures together with the soaked amaranth and raisins, plus their soaking liquid, until just combined."
+      "title": {
+        "en": "Combine"
+      },
+      "summary": {
+        "en": "Stir the wet and dry mixtures together with the soaked amaranth and raisins, plus their soaking liquid, until just combined."
+      }
     },
     {
-      "title": "Bake",
-      "summary": "Pour into a greased loaf pan and bake at about 175°C for 1 hour until a skewer comes out clean."
+      "title": {
+        "en": "Bake"
+      },
+      "summary": {
+        "en": "Pour into a greased loaf pan and bake at about 175°C for 1 hour until a skewer comes out clean."
+      }
     },
     {
-      "title": "Cool",
-      "summary": "Cool in the pan 10 minutes, then turn out onto a rack to finish cooling."
+      "title": {
+        "en": "Cool"
+      },
+      "summary": {
+        "en": "Cool in the pan 10 minutes, then turn out onto a rack to finish cooling."
+      }
     }
   ],
   "source": {

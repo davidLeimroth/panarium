@@ -118,32 +118,60 @@
   ],
   "method": [
     {
-      "title": "Build the preferment",
-      "summary": "The evening before, stir flour, water and a little yeast into a loose, wet preferment. Cover and let it ripen about 12 hours at room temperature, this does most of the flavor-building work."
+      "title": {
+        "en": "Build the preferment"
+      },
+      "summary": {
+        "en": "The evening before, stir flour, water and a little yeast into a loose, wet preferment. Cover and let it ripen about 12 hours at room temperature, this does most of the flavor-building work."
+      }
     },
     {
-      "title": "Mix the dough",
-      "summary": "Combine the ripened preferment with the remaining flour, water, salt and yeast. Knead to a smooth, elastic dough, lean and firm, with no fat or sugar to soften it."
+      "title": {
+        "en": "Mix the dough"
+      },
+      "summary": {
+        "en": "Combine the ripened preferment with the remaining flour, water, salt and yeast. Knead to a smooth, elastic dough, lean and firm, with no fat or sugar to soften it."
+      }
     },
     {
-      "title": "Bulk ferment with folds",
-      "summary": "Let the dough rise about 90 minutes at room temperature, folding it firmly two or three times in the first half to strengthen the gluten and even out fermentation."
+      "title": {
+        "en": "Bulk ferment with folds"
+      },
+      "summary": {
+        "en": "Let the dough rise about 90 minutes at room temperature, folding it firmly two or three times in the first half to strengthen the gluten and even out fermentation."
+      }
     },
     {
-      "title": "Divide and rest",
-      "summary": "Divide into nine 90 g pieces, round each one, and let them rest twice, seam-side down, so the dough relaxes enough to shape without tearing."
+      "title": {
+        "en": "Divide and rest"
+      },
+      "summary": {
+        "en": "Divide into nine 90 g pieces, round each one, and let them rest twice, seam-side down, so the dough relaxes enough to shape without tearing."
+      }
     },
     {
-      "title": "Fold the star",
-      "summary": "Flatten each piece in coarse rye flour and fold it by hand into the traditional five-lobed kaiser pattern, tucking each fold under the last so the top splits into points as it bakes."
+      "title": {
+        "en": "Fold the star"
+      },
+      "summary": {
+        "en": "Flatten each piece in coarse rye flour and fold it by hand into the traditional five-lobed kaiser pattern, tucking each fold under the last so the top splits into points as it bakes."
+      }
     },
     {
-      "title": "Proof briefly",
-      "summary": "Proof seam-side down on a floured cloth for 20–25 minutes, then flip right-side up onto the baking sheet and let the surface dry uncovered for 10 minutes, this is what gives the crust its shine and crackle."
+      "title": {
+        "en": "Proof briefly"
+      },
+      "summary": {
+        "en": "Proof seam-side down on a floured cloth for 20–25 minutes, then flip right-side up onto the baking sheet and let the surface dry uncovered for 10 minutes, this is what gives the crust its shine and crackle."
+      }
     },
     {
-      "title": "Bake with steam",
-      "summary": "Bake at high heat with a burst of steam, then vent and finish at a slightly lower temperature until deep gold, about 25 minutes total. Cool briefly before the first bite."
+      "title": {
+        "en": "Bake with steam"
+      },
+      "summary": {
+        "en": "Bake at high heat with a burst of steam, then vent and finish at a slightly lower temperature until deep gold, about 25 minutes total. Cool briefly before the first bite."
+      }
     }
   ],
   "source": {

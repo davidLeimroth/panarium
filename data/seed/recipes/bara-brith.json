@@ -132,24 +132,44 @@
   ],
   "method": [
     {
-      "title": "Soak the fruit",
-      "summary": "Pour hot, strong tea over the mixed dried fruit, cover, and leave overnight (or at least 6 hours) until plump."
+      "title": {
+        "en": "Soak the fruit"
+      },
+      "summary": {
+        "en": "Pour hot, strong tea over the mixed dried fruit, cover, and leave overnight (or at least 6 hours) until plump."
+      }
     },
     {
-      "title": "Mix the batter",
-      "summary": "Stir the self-raising flour, muscovado sugar and mixed spice together, then fold in the soaked fruit with its liquid and the beaten egg until just combined."
+      "title": {
+        "en": "Mix the batter"
+      },
+      "summary": {
+        "en": "Stir the self-raising flour, muscovado sugar and mixed spice together, then fold in the soaked fruit with its liquid and the beaten egg until just combined."
+      }
     },
     {
-      "title": "Pan it up",
-      "summary": "Scrape the thick batter into a lined loaf tin and level the top."
+      "title": {
+        "en": "Pan it up"
+      },
+      "summary": {
+        "en": "Scrape the thick batter into a lined loaf tin and level the top."
+      }
     },
     {
-      "title": "Bake low and slow",
-      "summary": "Bake at 180°C for about an hour, loosely covering if the top browns too quickly, until a skewer comes out clean."
+      "title": {
+        "en": "Bake low and slow"
+      },
+      "summary": {
+        "en": "Bake at 180°C for about an hour, loosely covering if the top browns too quickly, until a skewer comes out clean."
+      }
     },
     {
-      "title": "Glaze and rest",
-      "summary": "Brush the warm loaf with honey, cool completely, then wrap and let it sit a day or two for the best flavor before slicing."
+      "title": {
+        "en": "Glaze and rest"
+      },
+      "summary": {
+        "en": "Brush the warm loaf with honey, cool completely, then wrap and let it sit a day or two for the best flavor before slicing."
+      }
     }
   ],
   "source": {

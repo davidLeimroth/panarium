@@ -123,32 +123,60 @@
   ],
   "method": [
     {
-      "title": "Mix & knead",
-      "summary": "Combine flour, egg, melted butter, condensed milk, water and salt; knead about 10 minutes, rest 10, then knead 5 more until smooth."
+      "title": {
+        "en": "Mix & knead"
+      },
+      "summary": {
+        "en": "Combine flour, egg, melted butter, condensed milk, water and salt; knead about 10 minutes, rest 10, then knead 5 more until smooth."
+      }
     },
     {
-      "title": "Butter & chill",
-      "summary": "Divide into balls, coat each generously in butter, and refrigerate overnight in a covered, buttered container."
+      "title": {
+        "en": "Butter & chill"
+      },
+      "summary": {
+        "en": "Divide into balls, coat each generously in butter, and refrigerate overnight in a covered, buttered container."
+      }
     },
     {
-      "title": "Stretch thin",
-      "summary": "The next day, flatten each ball and stretch it by hand, working in more butter, until almost translucent."
+      "title": {
+        "en": "Stretch thin"
+      },
+      "summary": {
+        "en": "The next day, flatten each ball and stretch it by hand, working in more butter, until almost translucent."
+      }
     },
     {
-      "title": "Fold & coil",
-      "summary": "Gather the thin sheet into a loose log, then coil it into a spiral and tuck the end under."
+      "title": {
+        "en": "Fold & coil"
+      },
+      "summary": {
+        "en": "Gather the thin sheet into a loose log, then coil it into a spiral and tuck the end under."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Let the coiled dough rest about 10 minutes, then press flat."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Let the coiled dough rest about 10 minutes, then press flat."
+      }
     },
     {
-      "title": "Pan-fry",
-      "summary": "Cook in a buttered pan over medium heat, several minutes per side, until deep golden."
+      "title": {
+        "en": "Pan-fry"
+      },
+      "summary": {
+        "en": "Cook in a buttered pan over medium heat, several minutes per side, until deep golden."
+      }
     },
     {
-      "title": "Clap & serve",
-      "summary": "Clap the hot bread between your palms to fluff and separate the layers before serving."
+      "title": {
+        "en": "Clap & serve"
+      },
+      "summary": {
+        "en": "Clap the hot bread between your palms to fluff and separate the layers before serving."
+      }
     }
   ],
   "source": {

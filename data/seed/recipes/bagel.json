@@ -112,28 +112,52 @@
   ],
   "method": [
     {
-      "title": "Mix and knead",
-      "summary": "Combine bread flour, malt syrup, salt, yeast and water into a stiff dough and knead until smooth but firm, it should feel far drier than a sandwich loaf."
+      "title": {
+        "en": "Mix and knead"
+      },
+      "summary": {
+        "en": "Combine bread flour, malt syrup, salt, yeast and water into a stiff dough and knead until smooth but firm, it should feel far drier than a sandwich loaf."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide into six pieces, roll each into an even rope, then loop it around your palm and roll the seam closed into a ring."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide into six pieces, roll each into an even rope, then loop it around your palm and roll the seam closed into a ring."
+      }
     },
     {
-      "title": "Cold retard",
-      "summary": "Set the shaped rings on a semolina-dusted tray, cover, and refrigerate 8–12 hours so they firm up and develop flavor slowly."
+      "title": {
+        "en": "Cold retard"
+      },
+      "summary": {
+        "en": "Set the shaped rings on a semolina-dusted tray, cover, and refrigerate 8–12 hours so they firm up and develop flavor slowly."
+      }
     },
     {
-      "title": "Float test",
-      "summary": "Drop a bagel in water straight from the fridge; once it floats, the batch is ready to boil."
+      "title": {
+        "en": "Float test"
+      },
+      "summary": {
+        "en": "Drop a bagel in water straight from the fridge; once it floats, the batch is ready to boil."
+      }
     },
     {
-      "title": "Boil",
-      "summary": "Simmer each bagel about 45 seconds per side in water sweetened with barley malt syrup, this sets the shiny, chewy skin before baking."
+      "title": {
+        "en": "Boil"
+      },
+      "summary": {
+        "en": "Simmer each bagel about 45 seconds per side in water sweetened with barley malt syrup, this sets the shiny, chewy skin before baking."
+      }
     },
     {
-      "title": "Top and bake",
-      "summary": "Brush with water or egg wash so seeds stick, then bake hot until deeply golden and lightly blistered."
+      "title": {
+        "en": "Top and bake"
+      },
+      "summary": {
+        "en": "Brush with water or egg wash so seeds stick, then bake hot until deeply golden and lightly blistered."
+      }
     }
   ],
   "source": {

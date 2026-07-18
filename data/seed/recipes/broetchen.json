@@ -110,28 +110,52 @@
   ],
   "method": [
     {
-      "title": "Autolyse",
-      "summary": "Mix the flour and water and let them rest 30 minutes before adding anything else; this jump-starts gluten development with less kneading."
+      "title": {
+        "en": "Autolyse"
+      },
+      "summary": {
+        "en": "Mix the flour and water and let them rest 30 minutes before adding anything else; this jump-starts gluten development with less kneading."
+      }
     },
     {
-      "title": "Knead in the rest",
-      "summary": "Work in the yeast, salt and butter and knead until smooth and elastic."
+      "title": {
+        "en": "Knead in the rest"
+      },
+      "summary": {
+        "en": "Work in the yeast, salt and butter and knead until smooth and elastic."
+      }
     },
     {
-      "title": "First rise",
-      "summary": "Let the dough rise about an hour at room temperature until visibly active, then move it to the fridge overnight, around 16 hours, to build flavor slowly."
+      "title": {
+        "en": "First rise"
+      },
+      "summary": {
+        "en": "Let the dough rise about an hour at room temperature until visibly active, then move it to the fridge overnight, around 16 hours, to build flavor slowly."
+      }
     },
     {
-      "title": "Divide and shape",
-      "summary": "The next morning, let the cold dough warm up briefly, then divide into small pieces and shape into rounds with a taut surface."
+      "title": {
+        "en": "Divide and shape"
+      },
+      "summary": {
+        "en": "The next morning, let the cold dough warm up briefly, then divide into small pieces and shape into rounds with a taut surface."
+      }
     },
     {
-      "title": "Short final proof",
-      "summary": "Rest the shaped rolls seam-down under cover for about 30 minutes while the oven heats with a baking stone."
+      "title": {
+        "en": "Short final proof"
+      },
+      "summary": {
+        "en": "Rest the shaped rolls seam-down under cover for about 30 minutes while the oven heats with a baking stone."
+      }
     },
     {
-      "title": "Bake with steam",
-      "summary": "Bake hot with steam for the first few minutes for a crisp shell, then finish at a slightly lower temperature until deep golden."
+      "title": {
+        "en": "Bake with steam"
+      },
+      "summary": {
+        "en": "Bake hot with steam for the first few minutes for a crisp shell, then finish at a slightly lower temperature until deep golden."
+      }
     }
   ],
   "source": {

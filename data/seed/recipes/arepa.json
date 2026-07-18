@@ -106,32 +106,60 @@
   ],
   "method": [
     {
-      "title": "Dissolve salt",
-      "summary": "Stir salt (and oil, if using) into warm water until dissolved."
+      "title": {
+        "en": "Dissolve salt"
+      },
+      "summary": {
+        "en": "Stir salt (and oil, if using) into warm water until dissolved."
+      }
     },
     {
-      "title": "Add flour",
-      "summary": "Sprinkle the precooked corn flour in gradually, stirring, then knead briefly by hand once cool enough to touch."
+      "title": {
+        "en": "Add flour"
+      },
+      "summary": {
+        "en": "Sprinkle the precooked corn flour in gradually, stirring, then knead briefly by hand once cool enough to touch."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Let the dough rest 5-10 minutes so the flour fully hydrates into a smooth, moist, non-sticky mass."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Let the dough rest 5-10 minutes so the flour fully hydrates into a smooth, moist, non-sticky mass."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Divide and pat into thick discs."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Divide and pat into thick discs."
+      }
     },
     {
-      "title": "Sear on the griddle",
-      "summary": "Cook on a hot cast-iron griddle several minutes per side until a firm, golden crust forms."
+      "title": {
+        "en": "Sear on the griddle"
+      },
+      "summary": {
+        "en": "Cook on a hot cast-iron griddle several minutes per side until a firm, golden crust forms."
+      }
     },
     {
-      "title": "Finish in the oven",
-      "summary": "Transfer to a moderate oven to finish cooking through without burning the crust."
+      "title": {
+        "en": "Finish in the oven"
+      },
+      "summary": {
+        "en": "Transfer to a moderate oven to finish cooking through without burning the crust."
+      }
     },
     {
-      "title": "Split & fill",
-      "summary": "Slice open while hot and stuff, or eat plain alongside a meal."
+      "title": {
+        "en": "Split & fill"
+      },
+      "summary": {
+        "en": "Slice open while hot and stuff, or eat plain alongside a meal."
+      }
     }
   ],
   "source": {

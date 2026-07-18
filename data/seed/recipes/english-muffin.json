@@ -133,28 +133,52 @@
   ],
   "method": [
     {
-      "title": "Preferment",
-      "summary": "Whisk flour, a little yeast, milk and water into a thick batter and let it ferment a few hours at room temperature until bubbly and faintly tangy."
+      "title": {
+        "en": "Preferment"
+      },
+      "summary": {
+        "en": "Whisk flour, a little yeast, milk and water into a thick batter and let it ferment a few hours at room temperature until bubbly and faintly tangy."
+      }
     },
     {
-      "title": "Build the dough",
-      "summary": "Fold in the remaining flour, salt, sugar and melted butter and mix just until smooth."
+      "title": {
+        "en": "Build the dough"
+      },
+      "summary": {
+        "en": "Fold in the remaining flour, salt, sugar and melted butter and mix just until smooth."
+      }
     },
     {
-      "title": "Bulk rise",
-      "summary": "Let the dough rise twice, about an hour each time, folding gently between rises to build structure."
+      "title": {
+        "en": "Bulk rise"
+      },
+      "summary": {
+        "en": "Let the dough rise twice, about an hour each time, folding gently between rises to build structure."
+      }
     },
     {
-      "title": "Shape",
-      "summary": "Turn the dough out onto a cornmeal-dusted surface, pat it down, and cut into rounds, or drop scoops into greased rings."
+      "title": {
+        "en": "Shape"
+      },
+      "summary": {
+        "en": "Turn the dough out onto a cornmeal-dusted surface, pat it down, and cut into rounds, or drop scoops into greased rings."
+      }
     },
     {
-      "title": "Rest",
-      "summary": "Let the shaped rounds relax 20–30 minutes so they puff slightly before cooking."
+      "title": {
+        "en": "Rest"
+      },
+      "summary": {
+        "en": "Let the shaped rounds relax 20–30 minutes so they puff slightly before cooking."
+      }
     },
     {
-      "title": "Griddle cook",
-      "summary": "Cook low and slow on a dry griddle, 10–15 minutes per side, until deeply golden with no raw center and no hard crust."
+      "title": {
+        "en": "Griddle cook"
+      },
+      "summary": {
+        "en": "Cook low and slow on a dry griddle, 10–15 minutes per side, until deeply golden with no raw center and no hard crust."
+      }
     }
   ],
   "source": {

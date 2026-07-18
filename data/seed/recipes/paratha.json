@@ -126,28 +126,52 @@
   ],
   "method": [
     {
-      "title": "Mix dough",
-      "summary": "Combine whole wheat flour, ajwain, salt and oil, then knead in water gradually to a firm, smooth dough. Rest covered 20 minutes."
+      "title": {
+        "en": "Mix dough"
+      },
+      "summary": {
+        "en": "Combine whole wheat flour, ajwain, salt and oil, then knead in water gradually to a firm, smooth dough. Rest covered 20 minutes."
+      }
     },
     {
-      "title": "Roll thin",
-      "summary": "Divide into balls and roll each one out as thin as possible."
+      "title": {
+        "en": "Roll thin"
+      },
+      "summary": {
+        "en": "Divide into balls and roll each one out as thin as possible."
+      }
     },
     {
-      "title": "Layer with ghee",
-      "summary": "Brush generously with ghee, dust with flour, then pleat into accordion folds."
+      "title": {
+        "en": "Layer with ghee"
+      },
+      "summary": {
+        "en": "Brush generously with ghee, dust with flour, then pleat into accordion folds."
+      }
     },
     {
-      "title": "Coil",
-      "summary": "Roll the pleated strip into a spiral and tuck the end underneath."
+      "title": {
+        "en": "Coil"
+      },
+      "summary": {
+        "en": "Roll the pleated strip into a spiral and tuck the end underneath."
+      }
     },
     {
-      "title": "Re-roll",
-      "summary": "Flatten and roll the spiral gently into a thick round, keeping the coiled layers intact."
+      "title": {
+        "en": "Re-roll"
+      },
+      "summary": {
+        "en": "Flatten and roll the spiral gently into a thick round, keeping the coiled layers intact."
+      }
     },
     {
-      "title": "Pan-fry",
-      "summary": "Cook on a hot, oiled tawa, flipping and pressing the edges until both sides are golden and the layers visibly fan open."
+      "title": {
+        "en": "Pan-fry"
+      },
+      "summary": {
+        "en": "Cook on a hot, oiled tawa, flipping and pressing the edges until both sides are golden and the layers visibly fan open."
+      }
     }
   ],
   "source": {
