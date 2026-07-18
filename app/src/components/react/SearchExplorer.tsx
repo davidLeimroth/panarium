@@ -159,7 +159,8 @@ export default function SearchExplorer({ indexUrl, lang, t }: Props) {
     filters.vegan ||
     filters.glutenFree ||
     filters.wholegrain ||
-    filters.noSpecialKit;
+    filters.noSpecialKit ||
+    filters.sourcedOnly;
 
   const s = t.search;
   const hydrationLabel: Record<HydrationBucket, string> = {
@@ -338,6 +339,11 @@ export default function SearchExplorer({ indexUrl, lang, t }: Props) {
               on={filters.wholegrain}
               label={s.wholegrain}
               onClick={() => set('wholegrain', !filters.wholegrain)}
+            />
+            <Chip
+              on={filters.sourcedOnly}
+              label={s.sourcedOnly}
+              onClick={() => set('sourcedOnly', !filters.sourcedOnly)}
             />
             <Chip
               on={filters.noSpecialKit}

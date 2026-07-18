@@ -142,9 +142,16 @@ const sourceHost = new URL(r.source.url).hostname.replace(/^www\./, '');
  </aside>
 
  <div class="content">
- <section>
- <h2>{t.recipe.formula}</h2>
- <p class="fine mono">
+  <section>
+  <h2>
+  {t.recipe.formula}
+  {r.formula.confidence && (
+  <span class="chip chip-static">
+  {r.formula.confidence === 'estimated' ? t.recipe.estimated : t.recipe.fromSource}
+  </span>
+  )}
+  </h2>
+  <p class="fine mono">
  {fmt(t.recipe.forYield, { count: r.yield.count, grams: r.yield.pieceGrams })}
  {r.yield.shape ? ` · ${r.yield.shape}` : ''}
  </p>

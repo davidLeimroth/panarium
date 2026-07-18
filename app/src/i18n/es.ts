@@ -93,6 +93,7 @@ export const es: Dict = {
     wholegrain: 'Integral 50 %+',
     noSpecialKit: 'Sin equipo especial',
     overnight: 'Reposo nocturno',
+    sourcedOnly: 'Solo cifras verificadas',
   },
   recipe: {
     formula: 'La fórmula',
@@ -144,6 +145,7 @@ export const es: Dict = {
     equipment: 'Equipo',
     overnightBadge: 'de un día para otro',
     estimated: 'estimado',
+    fromSource: 'de la fuente',
     openInLab: 'Abrir en el Laboratorio',
   },
   lab: {

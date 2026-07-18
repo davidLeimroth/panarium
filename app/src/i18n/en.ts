@@ -86,6 +86,7 @@ export const en = {
     wholegrain: 'Wholegrain 50%+',
     noSpecialKit: 'No special equipment',
     overnight: 'Overnight rest',
+    sourcedOnly: 'Sourced numbers only',
   },
   recipe: {
     formula: 'The formula',
@@ -136,6 +137,7 @@ export const en = {
     equipment: 'Equipment',
     overnightBadge: 'overnight',
     estimated: 'estimated',
+    fromSource: 'from the source',
     openInLab: 'Open in the Dough Lab',
   },
   lab: {

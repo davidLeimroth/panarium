@@ -93,6 +93,7 @@ export const de: Dict = {
     wholegrain: 'Vollkorn 50 %+',
     noSpecialKit: 'Ohne Spezialausrüstung',
     overnight: 'Übernachtgare',
+    sourcedOnly: 'Nur belegte Zahlen',
   },
   recipe: {
     formula: 'Die Formel',
@@ -144,6 +145,7 @@ export const de: Dict = {
     equipment: 'Ausrüstung',
     overnightBadge: 'über Nacht',
     estimated: 'geschätzt',
+    fromSource: 'aus der Quelle',
     openInLab: 'Im Teiglabor öffnen',
   },
   lab: {

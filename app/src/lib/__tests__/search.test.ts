@@ -33,6 +33,7 @@ const mk = (over: Partial<RecipeIndexEntry>): RecipeIndexEntry => ({
   glutenFree: false,
   keepsDays: 3,
   equipment: ['dutch-oven'],
+  sourced: true,
   searchText: 'x',
   ...over,
 });
@@ -41,6 +42,7 @@ const entries: RecipeIndexEntry[] = [
   mk({ slug: 'a', name: 'Alpha', hydration: 85, totalMin: 90, leaven: 'yeast', country: 'FR' }),
   mk({ slug: 'b', name: 'Beta', hydration: 58, keepsDays: 7, flavors: ['sour', 'earthy'] }),
   mk({ slug: 'c', name: 'Gamma', family: 'flatbread', equipment: [], activeMin: 20 }),
+  mk({ slug: 'd', name: 'Delta', leaven: 'yeast', sourced: false }),
 ];
 
 describe('applyFilters', () => {
@@ -59,6 +61,11 @@ describe('applyFilters', () => {
   it('filters by no-special-kit', () => {
     const r = applyFilters(entries, { ...EMPTY_FILTERS, noSpecialKit: true });
     expect(r.map((e) => e.slug)).toEqual(['c']);
+  });
+  it('filters by sourced-only', () => {
+    const r = applyFilters(entries, { ...EMPTY_FILTERS, sourcedOnly: true });
+    expect(r.map((e) => e.slug)).toEqual(['a', 'b', 'c']);
+    expect(r.map((e) => e.slug)).not.toContain('d');
   });
   it('combines facets with AND', () => {
     const r = applyFilters(entries, {
@@ -97,6 +104,7 @@ describe('URL round-trip', () => {
       readyIn: '8h' as const,
       vegan: true,
       difficultyMax: 3,
+      sourcedOnly: true,
     };
     const params = filtersToParams(f, 'keeps');
     const { filters, sort } = paramsToFilters(params);

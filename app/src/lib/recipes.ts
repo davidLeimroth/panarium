@@ -57,6 +57,7 @@ export function toIndexEntry(r: Recipe, lang: Lang): RecipeIndexEntry {
     glutenFree: isGlutenFree(r),
     keepsDays: r.keeping.freshDays,
     equipment: r.equipment,
+    sourced: r.formula.confidence === 'from-source',
     searchText: haystack,
   };
 }
