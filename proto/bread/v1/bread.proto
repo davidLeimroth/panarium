@@ -1,0 +1,206 @@
+syntax = "proto3";
+
+package bread.v1;
+
+option go_package = "github.com/davidLeimroth/bread/backend/gen/bread/v1;breadv1";
+
+// ---------- core document ----------
+
+message LocalizedText {
+  string en = 1;
+  string de = 2;
+  string es = 3;
+  string fr = 4;
+  string native = 5;
+}
+
+message FlourPart {
+  string type = 1; // taxonomy flour enum
+  double pct = 2;
+}
+
+message Formula {
+  double hydration_pct = 1;
+  double salt_pct = 2;
+  double sugar_pct = 3;
+  double fat_pct = 4;
+  double prefermented_flour_pct = 5;
+  double yeast_pct = 6;
+  repeated FlourPart flours = 7;
+  string confidence = 8; // from-source | estimated
+}
+
+message Ingredient {
+  string key = 1; // taxonomy ingredient key, optional
+  LocalizedText label = 2;
+  double grams = 3;
+  string note = 4;
+}
+
+message TimeInfo {
+  double total_min = 1;
+  double active_min = 2;
+  double bulk_min = 3;
+  double proof_min = 4;
+  double bake_min = 5;
+  bool overnight = 6;
+}
+
+message BakeInfo {
+  double temp_c = 1;
+  bool steam = 2;
+  string vessel = 3;
+}
+
+message Yield {
+  int32 count = 1;
+  double piece_grams = 2;
+  string shape = 3;
+}
+
+message Diet {
+  bool vegan = 1;
+  bool vegetarian = 2;
+  bool contains_gluten = 3;
+  bool contains_dairy = 4;
+  bool contains_egg = 5;
+  double wholegrain_pct = 6;
+}
+
+message Keeping {
+  double fresh_days = 1;
+  bool freezes = 2;
+  string note = 3;
+}
+
+message MethodStep {
+  string title = 1;
+  string summary = 2;
+}
+
+message Source {
+  string url = 1;
+  string site = 2;
+  string author = 3;
+  string license = 4;
+  string retrieved = 5; // YYYY-MM-DD
+  string adaptation = 6;
+}
+
+message Origin {
+  string country = 1; // ISO 3166-1 alpha-2
+  string region = 2;
+  string note = 3;
+}
+
+message Recipe {
+  string slug = 1;
+  LocalizedText name = 2;
+  repeated string aliases = 3;
+  LocalizedText description = 4;
+  Origin origin = 5;
+  string leaven = 6;
+  string family = 7;
+  Formula formula = 8;
+  repeated Ingredient ingredients = 9;
+  Yield yield = 10;
+  TimeInfo time = 11;
+  BakeInfo bake = 12;
+  int32 difficulty = 13;
+  string crumb = 14;
+  string crust = 15;
+  repeated string flavors = 16;
+  repeated string purposes = 17;
+  Diet diet = 18;
+  Keeping keeping = 19;
+  repeated string equipment = 20;
+  repeated MethodStep method = 21;
+  Source source = 22;
+  repeated string tags = 23;
+}
+
+// ---------- read API ----------
+
+message SearchRecipesRequest {
+  string query = 1;              // free text, matched per-language
+  string lang = 2;               // en|de|es|fr — ranking + snippet language
+  repeated string leavens = 3;
+  repeated string families = 4;
+  repeated string flavors = 5;
+  repeated string purposes = 6;
+  repeated string countries = 7;
+  repeated string flours = 8;
+  double hydration_min = 9;
+  double hydration_max = 10;
+  int32 ready_within_min = 11;
+  int32 active_under_min = 12;
+  int32 difficulty_max = 13;
+  double keeps_at_least_days = 14;
+  bool vegan = 15;
+  bool wholegrain = 16;          // wholegrain share >= 50%
+  string sort = 17;              // name|time|active|hydration-desc|hydration-asc|keeps|difficulty
+  int32 page_size = 18;
+  string page_token = 19;
+}
+
+message SearchRecipesResponse {
+  repeated Recipe recipes = 1;
+  string next_page_token = 2;
+  int32 total = 3;
+}
+
+message GetRecipeRequest {
+  string slug = 1;
+}
+
+message GetRecipeResponse {
+  Recipe recipe = 1;
+}
+
+message FacetCount {
+  string value = 1;
+  int32 count = 2;
+}
+
+message Facet {
+  string dimension = 1; // leaven|family|country|flavor|purpose
+  repeated FacetCount counts = 2;
+}
+
+message ListFacetsRequest {}
+
+message ListFacetsResponse {
+  repeated Facet facets = 1;
+}
+
+message SimilarRecipesRequest {
+  string slug = 1;
+  int32 limit = 2;
+}
+
+message SimilarRecipesResponse {
+  repeated Recipe recipes = 1;
+}
+
+service RecipeService {
+  rpc SearchRecipes(SearchRecipesRequest) returns (SearchRecipesResponse);
+  rpc GetRecipe(GetRecipeRequest) returns (GetRecipeResponse);
+  rpc ListFacets(ListFacetsRequest) returns (ListFacetsResponse);
+  rpc SimilarRecipes(SimilarRecipesRequest) returns (SimilarRecipesResponse);
+}
+
+// ---------- ingest API ----------
+
+message UpsertRecipesRequest {
+  repeated Recipe recipes = 1;
+  string import_run_note = 2;
+}
+
+message UpsertRecipesResponse {
+  int32 upserted = 1;
+  repeated string errors = 2;
+}
+
+service ImportService {
+  rpc UpsertRecipes(UpsertRecipesRequest) returns (UpsertRecipesResponse);
+}
