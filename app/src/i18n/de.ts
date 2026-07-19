@@ -22,7 +22,7 @@ export const de: Dict = {
     heroKicker: 'Der lebendige Atlas des Brots',
     heroTitle: 'Jedes Brot hat eine Formel.',
     heroLead:
-      '{n} Brote aus {c} Ländern, durchsuchbar nach Hydration, Triebmittel, Zeit und Appetit; umrechenbar zwischen Gramm, Cups und {l} Sprachen; berechenbar im Teiglabor.',
+      'Das Mehl ist 100%, alles andere steht im Verhältnis dazu. So geschrieben sind {n} Brote aus {c} Ländern Varianten weniger Ideen: wie viel Wasser, wie lange, wie warm.',
     ctaAtlas: 'Atlas durchstöbern',
     ctaLab: 'Teiglabor öffnen',
     statRecipes: 'Brote',

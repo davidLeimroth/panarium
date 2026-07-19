@@ -20,7 +20,7 @@ export const en = {
     heroKicker: 'The living atlas of bread',
     heroTitle: 'Every bread has a formula.',
     heroLead:
-      '{n} breads from {c} countries, searchable by hydration, leaven, time and craving; convertible between grams, cups and {l} languages; computable in the dough lab.',
+      'Flour is 100%, and everything else is measured against it. Written that way, {n} breads from {c} countries turn out to be variations on a few ideas: how much water, how long, how warm.',
     ctaAtlas: 'Browse the atlas',
     ctaLab: 'Open the dough lab',
     statRecipes: 'breads',

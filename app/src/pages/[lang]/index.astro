@@ -75,7 +75,7 @@ const labHref = withBase(`/${lang}/lab/`);
  <p class="kicker">{t.home.heroKicker}</p>
  <h1 class="hero-title" set:html={t.home.heroTitle.replace(/formule\.|Formel\.|fórmula\.|formula\.|formulă\./, (m) => `<em>${m}</em>`)} />
  <p class="lead">
- {fmt(t.home.heroLead, { n: stats.recipes, c: stats.countries, l: LANGS.length })}
+ {fmt(t.home.heroLead, { n: stats.recipes, c: stats.countries })}
  </p>
  <div class="hero-cta">
  <a class="btn btn-primary" href={atlasHref}>{t.home.ctaAtlas}</a>

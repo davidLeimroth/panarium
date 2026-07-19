@@ -22,7 +22,7 @@ export const ro: Dict = {
     heroKicker: 'Atlasul viu al pâinilor',
     heroTitle: 'Fiecare pâine are o formulă.',
     heroLead:
-      '{n} pâini din {c} țări, pe care le cauți după hidratare, maia, timp și poftă; le transformi între grame, cupe și {l} limbi; le calculezi în laborator.',
+      'Făina e 100%, tot restul se măsoară față de ea. Scrise așa, {n} pâini din {c} țări sunt variații pe câteva idei: câtă apă, cât timp, cât de cald.',
     ctaAtlas: 'Răsfoiește atlasul',
     ctaLab: 'Deschide laboratorul',
     statRecipes: 'pâini',
