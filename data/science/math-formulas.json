@@ -5,7 +5,8 @@
       "en": "Baker's percentage",
       "de": "Bäckerprozent",
       "es": "Porcentaje panadero",
-      "fr": "Pourcentage boulanger"
+      "fr": "Pourcentage boulanger",
+      "ro": "Procentul brutarului"
     },
     "category": "scaling",
     "expression": "ingredient_pct = (ingredient_weight / flour_weight) * 100; ingredient_weight = flour_weight * (ingredient_pct / 100)",
@@ -16,7 +17,8 @@
           "en": "an ingredient's weight expressed as a percentage of total flour weight",
           "de": "Gewicht einer Zutat als Prozentsatz des gesamten Mehlgewichts",
           "es": "peso de un ingrediente expresado como porcentaje del peso total de harina",
-          "fr": "poids d'un ingrédient exprimé en pourcentage du poids total de farine"
+          "fr": "poids d'un ingrédient exprimé en pourcentage du poids total de farine",
+          "ro": "greutatea unui ingredient exprimată ca procent din greutatea totală de făină"
         }
       },
       {
@@ -25,7 +27,8 @@
           "en": "actual weight of the ingredient, in any consistent unit",
           "de": "tatsächliches Gewicht der Zutat in einer beliebigen einheitlichen Einheit",
           "es": "peso real del ingrediente, en cualquier unidad coherente",
-          "fr": "poids réel de l'ingrédient, dans une unité cohérente"
+          "fr": "poids réel de l'ingrédient, dans une unité cohérente",
+          "ro": "greutatea reală a ingredientului, în orice unitate coerentă"
         }
       },
       {
@@ -34,7 +37,8 @@
           "en": "total weight of all flour in the formula, always treated as 100%",
           "de": "Gesamtgewicht des gesamten Mehls in der Formel, immer als 100% behandelt",
           "es": "peso total de toda la harina en la fórmula, siempre tratado como 100%",
-          "fr": "poids total de toute la farine dans la formule, toujours traité comme 100%"
+          "fr": "poids total de toute la farine dans la formule, toujours traité comme 100%",
+          "ro": "greutatea totală a întregii făini din formulă, întotdeauna considerată 100%"
         }
       }
     ],
@@ -50,7 +54,8 @@
       "en": "Hydration from ingredients",
       "de": "Hydration aus den Zutaten",
       "es": "Hidratación a partir de los ingredientes",
-      "fr": "Hydratation à partir des ingrédients"
+      "fr": "Hydratation à partir des ingrédients",
+      "ro": "Hidratare din ingrediente"
     },
     "category": "hydration",
     "expression": "hydration_pct = (water + 0.87*milk + 0.75*egg + 0.16*butter + other_liquid_water) / flour * 100",
@@ -61,7 +66,8 @@
           "en": "plain water weight added directly to the dough",
           "de": "reines Wassergewicht, das direkt dem Teig zugegeben wird",
           "es": "peso de agua pura añadida directamente a la masa",
-          "fr": "poids d'eau pure ajoutée directement à la pâte"
+          "fr": "poids d'eau pure ajoutée directement à la pâte",
+          "ro": "greutatea apei simple, adăugată direct în aluat"
         }
       },
       {
@@ -70,7 +76,8 @@
           "en": "milk weight, counted at 87% water content",
           "de": "Milchgewicht, mit 87% Wasseranteil angesetzt",
           "es": "peso de la leche, contado con un 87% de contenido de agua",
-          "fr": "poids de lait, compté à 87% de teneur en eau"
+          "fr": "poids de lait, compté à 87% de teneur en eau",
+          "ro": "greutatea laptelui, calculată cu un conținut de apă de 87%"
         }
       },
       {
@@ -79,7 +86,8 @@
           "en": "whole egg weight, counted at 75% water content",
           "de": "Gewicht des ganzen Eis, mit 75% Wasseranteil angesetzt",
           "es": "peso del huevo entero, contado con un 75% de contenido de agua",
-          "fr": "poids de l'œuf entier, compté à 75% de teneur en eau"
+          "fr": "poids de l'œuf entier, compté à 75% de teneur en eau",
+          "ro": "greutatea oului întreg, calculată cu un conținut de apă de 75%"
         }
       },
       {
@@ -88,7 +96,8 @@
           "en": "butter weight, counted at 16% water content (about 83% fat)",
           "de": "Buttergewicht, mit 16% Wasseranteil angesetzt (rund 83% Fettanteil)",
           "es": "peso de la mantequilla, contado con un 16% de contenido de agua (unos 83% de grasa)",
-          "fr": "poids de beurre, compté à 16% de teneur en eau (environ 83% de matière grasse)"
+          "fr": "poids de beurre, compté à 16% de teneur en eau (environ 83% de matière grasse)",
+          "ro": "greutatea untului, calculată cu un conținut de apă de 16% (aproximativ 83% grăsime)"
         }
       },
       {
@@ -97,7 +106,8 @@
           "en": "total flour weight, the baker's-percentage baseline",
           "de": "Gesamtmehlgewicht, die Bezugsgröße der Bäckerprozentrechnung",
           "es": "peso total de harina, la base del porcentaje panadero",
-          "fr": "poids total de farine, la base du pourcentage boulanger"
+          "fr": "poids total de farine, la base du pourcentage boulanger",
+          "ro": "greutatea totală de făină, baza procentului brutarului"
         }
       }
     ],
@@ -113,7 +123,8 @@
       "en": "Hydration ceiling from flour protein",
       "de": "Hydrationsgrenze aus dem Mehlproteingehalt",
       "es": "Límite de hidratación según la proteína de la harina",
-      "fr": "Plafond d'hydratation selon la teneur en protéines de la farine"
+      "fr": "Plafond d'hydratation selon la teneur en protéines de la farine",
+      "ro": "Limita de hidratare în funcție de proteina din făină"
     },
     "category": "hydration",
     "expression": "hydration_pct_new = hydration_pct_base + 2.5 * (protein_pct_new - protein_pct_base)",
@@ -124,7 +135,8 @@
           "en": "the hydration percentage the formula already uses with the base flour",
           "de": "der Hydrationsanteil, den die Formel bereits mit dem Ausgangsmehl verwendet",
           "es": "el porcentaje de hidratación que la fórmula ya usa con la harina base",
-          "fr": "le pourcentage d'hydratation déjà utilisé par la formule avec la farine de base"
+          "fr": "le pourcentage d'hydratation déjà utilisé par la formule avec la farine de base",
+          "ro": "procentul de hidratare pe care formula îl folosește deja cu făina de bază"
         }
       },
       {
@@ -133,7 +145,8 @@
           "en": "protein percentage of the base flour",
           "de": "Proteingehalt des Ausgangsmehls in Prozent",
           "es": "porcentaje de proteína de la harina base",
-          "fr": "pourcentage de protéines de la farine de base"
+          "fr": "pourcentage de protéines de la farine de base",
+          "ro": "procentul de proteină din făina de bază"
         }
       },
       {
@@ -142,7 +155,8 @@
           "en": "protein percentage of the replacement flour",
           "de": "Proteingehalt des Ersatzmehls in Prozent",
           "es": "porcentaje de proteína de la harina de sustitución",
-          "fr": "pourcentage de protéines de la farine de remplacement"
+          "fr": "pourcentage de protéines de la farine de remplacement",
+          "ro": "procentul de proteină din făina de înlocuire"
         }
       },
       {
@@ -151,7 +165,8 @@
           "en": "estimated hydration percentage suited to the replacement flour",
           "de": "geschätzter, zum Ersatzmehl passender Hydrationsanteil",
           "es": "porcentaje de hidratación estimado adecuado para la harina de sustitución",
-          "fr": "pourcentage d'hydratation estimé adapté à la farine de remplacement"
+          "fr": "pourcentage d'hydratation estimé adapté à la farine de remplacement",
+          "ro": "procentul de hidratare estimat, potrivit pentru făina de înlocuire"
         }
       }
     ],
@@ -168,7 +183,8 @@
       "en": "Fat and sugar thresholds in enriched dough",
       "de": "Fett- und Zuckerschwellen im angereicherten Teig",
       "es": "Umbrales de grasa y azúcar en masa enriquecida",
-      "fr": "Seuils de matière grasse et de sucre en pâte enrichie"
+      "fr": "Seuils de matière grasse et de sucre en pâte enrichie",
+      "ro": "Praguri de grăsime și zahăr în aluatul îmbogățit"
     },
     "category": "enrichment",
     "expression": "fat_pct <= 10 -> mix_from_start; fat_pct > 10 -> add_after_gluten_development (traditional rule, increasingly contested)",
@@ -179,7 +195,8 @@
           "en": "added fat (butter/oil) weight as a percentage of total flour weight",
           "de": "zugesetztes Fett (Butter/Öl) als Prozentsatz des Gesamtmehlgewichts",
           "es": "grasa añadida (mantequilla/aceite) como porcentaje del peso total de harina",
-          "fr": "matière grasse ajoutée (beurre/huile) en pourcentage du poids total de farine"
+          "fr": "matière grasse ajoutée (beurre/huile) en pourcentage du poids total de farine",
+          "ro": "grăsimea adăugată (unt/ulei), ca procent din greutatea totală de făină"
         }
       },
       {
@@ -188,7 +205,8 @@
           "en": "added sugar weight as a percentage of total flour weight",
           "de": "zugesetzter Zucker als Prozentsatz des Gesamtmehlgewichts",
           "es": "azúcar añadido como porcentaje del peso total de harina",
-          "fr": "sucre ajouté en pourcentage du poids total de farine"
+          "fr": "sucre ajouté en pourcentage du poids total de farine",
+          "ro": "zahărul adăugat, ca procent din greutatea totală de făină"
         }
       }
     ],
@@ -205,7 +223,8 @@
       "en": "Desired dough temperature (3-factor)",
       "de": "Gewünschte Teigtemperatur (3-Faktor-Methode)",
       "es": "Temperatura deseada de la masa (3 factores)",
-      "fr": "Température de pâte désirée (méthode à 3 facteurs)"
+      "fr": "Température de pâte désirée (méthode à 3 facteurs)",
+      "ro": "Temperatura dorită a aluatului (metoda cu 3 factori)"
     },
     "category": "temperature",
     "expression": "water_temp = 3*DDT - room_temp - flour_temp - friction_factor",
@@ -216,7 +235,8 @@
           "en": "desired dough temperature right after mixing",
           "de": "gewünschte Teigtemperatur unmittelbar nach dem Mischen",
           "es": "temperatura deseada de la masa justo después del mezclado",
-          "fr": "température de pâte désirée juste après le pétrissage"
+          "fr": "température de pâte désirée juste après le pétrissage",
+          "ro": "temperatura dorită a aluatului imediat după frământare"
         }
       },
       {
@@ -225,7 +245,8 @@
           "en": "ambient/room (air) temperature",
           "de": "Raum- bzw. Umgebungstemperatur",
           "es": "temperatura ambiente/de la sala",
-          "fr": "température ambiante/de la pièce"
+          "fr": "température ambiante/de la pièce",
+          "ro": "temperatura ambiantă/a camerei (aer)"
         }
       },
       {
@@ -234,7 +255,8 @@
           "en": "temperature of the flour before mixing",
           "de": "Temperatur des Mehls vor dem Mischen",
           "es": "temperatura de la harina antes de mezclar",
-          "fr": "température de la farine avant pétrissage"
+          "fr": "température de la farine avant pétrissage",
+          "ro": "temperatura făinii înainte de frământare"
         }
       },
       {
@@ -243,7 +265,8 @@
           "en": "estimated temperature rise from mechanical mixing",
           "de": "geschätzter Temperaturanstieg durch das maschinelle Mischen",
           "es": "aumento de temperatura estimado por el mezclado mecánico",
-          "fr": "hausse de température estimée due au pétrissage mécanique"
+          "fr": "hausse de température estimée due au pétrissage mécanique",
+          "ro": "creșterea estimată de temperatură din cauza frământării mecanice"
         }
       },
       {
@@ -252,7 +275,8 @@
           "en": "water temperature to mix in, the value being solved for",
           "de": "einzumischende Wassertemperatur, die gesuchte Größe",
           "es": "temperatura del agua a mezclar, el valor que se busca",
-          "fr": "température de l'eau à incorporer, la valeur recherchée"
+          "fr": "température de l'eau à incorporer, la valeur recherchée",
+          "ro": "temperatura apei de amestecat, valoarea căutată"
         }
       }
     ],
@@ -268,7 +292,8 @@
       "en": "Desired dough temperature with preferment (4-factor)",
       "de": "Gewünschte Teigtemperatur mit Vorteig (4-Faktor-Methode)",
       "es": "Temperatura deseada de la masa con prefermento (4 factores)",
-      "fr": "Température de pâte désirée avec preferment (méthode à 4 facteurs)"
+      "fr": "Température de pâte désirée avec preferment (méthode à 4 facteurs)",
+      "ro": "Temperatura dorită a aluatului cu prefermentare (metoda cu 4 factori)"
     },
     "category": "temperature",
     "expression": "water_temp = 4*DDT - room_temp - flour_temp - friction_factor - preferment_temp",
@@ -279,7 +304,8 @@
           "en": "desired dough temperature right after mixing",
           "de": "gewünschte Teigtemperatur unmittelbar nach dem Mischen",
           "es": "temperatura deseada de la masa justo después del mezclado",
-          "fr": "température de pâte désirée juste après le pétrissage"
+          "fr": "température de pâte désirée juste après le pétrissage",
+          "ro": "temperatura dorită a aluatului imediat după frământare"
         }
       },
       {
@@ -288,7 +314,8 @@
           "en": "temperature of the levain/preferment/starter before mixing",
           "de": "Temperatur des Vorteigs/Sauerteigs vor dem Mischen",
           "es": "temperatura del levain/prefermento antes de mezclar",
-          "fr": "température du levain/preferment avant pétrissage"
+          "fr": "température du levain/preferment avant pétrissage",
+          "ro": "temperatura levain-ului/prefermentului/maielei înainte de frământare"
         }
       },
       {
@@ -297,7 +324,8 @@
           "en": "ambient/room (air) temperature",
           "de": "Raum- bzw. Umgebungstemperatur",
           "es": "temperatura ambiente/de la sala",
-          "fr": "température ambiante/de la pièce"
+          "fr": "température ambiante/de la pièce",
+          "ro": "temperatura ambiantă/a camerei (aer)"
         }
       },
       {
@@ -306,7 +334,8 @@
           "en": "temperature of the flour before mixing",
           "de": "Temperatur des Mehls vor dem Mischen",
           "es": "temperatura de la harina antes de mezclar",
-          "fr": "température de la farine avant pétrissage"
+          "fr": "température de la farine avant pétrissage",
+          "ro": "temperatura făinii înainte de frământare"
         }
       },
       {
@@ -315,7 +344,8 @@
           "en": "estimated temperature rise from mechanical mixing",
           "de": "geschätzter Temperaturanstieg durch das maschinelle Mischen",
           "es": "aumento de temperatura estimado por el mezclado mecánico",
-          "fr": "hausse de température estimée due au pétrissage mécanique"
+          "fr": "hausse de température estimée due au pétrissage mécanique",
+          "ro": "creșterea estimată de temperatură din cauza frământării mecanice"
         }
       }
     ],
@@ -332,7 +362,8 @@
       "en": "Friction factor calibration",
       "de": "Kalibrierung des Reibungsfaktors",
       "es": "Calibración del factor de fricción",
-      "fr": "Étalonnage du facteur de friction"
+      "fr": "Étalonnage du facteur de friction",
+      "ro": "Calibrarea factorului de frecare"
     },
     "category": "temperature",
     "expression": "friction_factor_next = friction_factor_used - (DDT_target - dough_temp_actual)",
@@ -343,7 +374,8 @@
           "en": "friction factor assumed for the batch just mixed",
           "de": "für den soeben gemischten Teig angenommener Reibungsfaktor",
           "es": "factor de fricción asumido para el lote recién mezclado",
-          "fr": "facteur de friction supposé pour le lot qui vient d'être pétri"
+          "fr": "facteur de friction supposé pour le lot qui vient d'être pétri",
+          "ro": "factorul de frecare presupus pentru lotul tocmai frământat"
         }
       },
       {
@@ -352,7 +384,8 @@
           "en": "the dough temperature that was aimed for",
           "de": "die angestrebte Teigtemperatur",
           "es": "la temperatura de masa que se buscaba",
-          "fr": "la température de pâte visée"
+          "fr": "la température de pâte visée",
+          "ro": "temperatura aluatului care a fost vizată"
         }
       },
       {
@@ -361,7 +394,8 @@
           "en": "the dough temperature actually measured after mixing",
           "de": "die nach dem Mischen tatsächlich gemessene Teigtemperatur",
           "es": "la temperatura de masa realmente medida tras el mezclado",
-          "fr": "la température de pâte réellement mesurée après pétrissage"
+          "fr": "la température de pâte réellement mesurée après pétrissage",
+          "ro": "temperatura aluatului măsurată efectiv după frământare"
         }
       },
       {
@@ -370,7 +404,8 @@
           "en": "the corrected friction factor to use on the next batch",
           "de": "der korrigierte Reibungsfaktor für den nächsten Teig",
           "es": "el factor de fricción corregido para el siguiente lote",
-          "fr": "le facteur de friction corrigé à utiliser pour le prochain lot"
+          "fr": "le facteur de friction corrigé à utiliser pour le prochain lot",
+          "ro": "factorul de frecare corectat, de folosit pentru următorul lot"
         }
       }
     ],
@@ -386,7 +421,8 @@
       "en": "Yeast conversion (fresh, active dry, instant)",
       "de": "Hefeumrechnung (frisch, Trockenhefe, Instanthefe)",
       "es": "Conversión de levadura (fresca, seca activa, instantánea)",
-      "fr": "Conversion de levure (fraîche, sèche active, instantanée)"
+      "fr": "Conversion de levure (fraîche, sèche active, instantanée)",
+      "ro": "Conversia drojdiei (proaspătă, uscată activă, instant)"
     },
     "category": "yeast",
     "expression": "active_dry_g = fresh_g * 0.4; instant_g = fresh_g * 0.33; active_dry_g_simplified = fresh_g / 2; instant_g_simplified = fresh_g / 3",
@@ -397,7 +433,8 @@
           "en": "fresh (cake/compressed) yeast weight in grams",
           "de": "Gewicht der Frischhefe (Presshefe) in Gramm",
           "es": "peso de la levadura fresca (en pastilla) en gramos",
-          "fr": "poids de levure fraîche (levure de boulanger pressée) en grammes"
+          "fr": "poids de levure fraîche (levure de boulanger pressée) en grammes",
+          "ro": "greutatea drojdiei proaspete (comprimate) în grame"
         }
       },
       {
@@ -406,7 +443,8 @@
           "en": "equivalent active dry yeast weight per King Arthur's professional chart",
           "de": "äquivalentes Gewicht an Trockenhefe nach der professionellen Tabelle von King Arthur",
           "es": "peso equivalente de levadura seca activa según la tabla profesional de King Arthur",
-          "fr": "poids équivalent de levure sèche active selon le tableau professionnel de King Arthur"
+          "fr": "poids équivalent de levure sèche active selon le tableau professionnel de King Arthur",
+          "ro": "greutatea echivalentă de drojdie uscată activă, conform tabelului profesional King Arthur"
         }
       },
       {
@@ -415,7 +453,8 @@
           "en": "equivalent instant yeast weight per King Arthur's professional chart",
           "de": "äquivalentes Gewicht an Instanthefe nach der professionellen Tabelle von King Arthur",
           "es": "peso equivalente de levadura instantánea según la tabla profesional de King Arthur",
-          "fr": "poids équivalent de levure instantanée selon le tableau professionnel de King Arthur"
+          "fr": "poids équivalent de levure instantanée selon le tableau professionnel de King Arthur",
+          "ro": "greutatea echivalentă de drojdie instant, conform tabelului profesional King Arthur"
         }
       }
     ],
@@ -432,7 +471,8 @@
       "en": "Fermentation time-temperature scaling",
       "de": "Zeit-Temperatur-Skalierung der Gärung",
       "es": "Escalado tiempo-temperatura de la fermentación",
-      "fr": "Mise à l'échelle temps-température de la fermentation"
+      "fr": "Mise à l'échelle temps-température de la fermentation",
+      "ro": "Scalarea timp-temperatură a fermentației"
     },
     "category": "fermentation",
     "expression": "time_new = time_ref * 2^((temp_ref - temp_new) / doubling_interval)",
@@ -443,7 +483,8 @@
           "en": "known fermentation/bulk time at the reference temperature",
           "de": "bekannte Gär-/Stockgarezeit bei der Referenztemperatur",
           "es": "tiempo de fermentación/bulk conocido a la temperatura de referencia",
-          "fr": "temps de fermentation/pointage connu à la température de référence"
+          "fr": "temps de fermentation/pointage connu à la température de référence",
+          "ro": "timpul cunoscut de fermentație/fermentație în masă la temperatura de referință"
         }
       },
       {
@@ -452,7 +493,8 @@
           "en": "the reference dough temperature",
           "de": "die Referenz-Teigtemperatur",
           "es": "la temperatura de masa de referencia",
-          "fr": "la température de pâte de référence"
+          "fr": "la température de pâte de référence",
+          "ro": "temperatura de referință a aluatului"
         }
       },
       {
@@ -461,7 +503,8 @@
           "en": "the new dough temperature to estimate time for",
           "de": "die neue Teigtemperatur, für die die Zeit geschätzt werden soll",
           "es": "la nueva temperatura de masa para la que se estima el tiempo",
-          "fr": "la nouvelle température de pâte pour laquelle estimer le temps"
+          "fr": "la nouvelle température de pâte pour laquelle estimer le temps",
+          "ro": "noua temperatură a aluatului pentru care se estimează timpul"
         }
       },
       {
@@ -470,7 +513,8 @@
           "en": "degrees of temperature change that double or halve fermentation time; sources disagree (about 8C per The Sourdough Journey, about 5C per Weekend Bakery)",
           "de": "Temperaturänderung, die die Gärzeit verdoppelt oder halbiert; Quellen widersprechen sich (rund 8C nach The Sourdough Journey, rund 5C nach Weekend Bakery)",
           "es": "cambio de temperatura que duplica o reduce a la mitad el tiempo de fermentación; las fuentes no coinciden (unos 8C según The Sourdough Journey, unos 5C según Weekend Bakery)",
-          "fr": "variation de température qui double ou divise par deux le temps de fermentation; les sources divergent (environ 8C selon The Sourdough Journey, environ 5C selon Weekend Bakery)"
+          "fr": "variation de température qui double ou divise par deux le temps de fermentation; les sources divergent (environ 8C selon The Sourdough Journey, environ 5C selon Weekend Bakery)",
+          "ro": "gradele de schimbare a temperaturii care dublează sau înjumătățesc timpul de fermentație; sursele nu sunt de acord (aproximativ 8C conform The Sourdough Journey, aproximativ 5C conform Weekend Bakery)"
         }
       }
     ],
@@ -487,7 +531,8 @@
       "en": "Levain build ratio and inoculation",
       "de": "Anstellgut-Aufbauverhältnis und Inokulation",
       "es": "Proporción de construcción del levain e inoculación",
-      "fr": "Ratio de construction du levain et inoculation"
+      "fr": "Ratio de construction du levain et inoculation",
+      "ro": "Raportul de construcție a levain-ului și inocularea"
     },
     "category": "fermentation",
     "expression": "inoculation_pct = starter_weight / (starter_weight + build_flour_weight + build_water_weight) * 100",
@@ -498,7 +543,8 @@
           "en": "weight of mature starter/levain used to seed the new build",
           "de": "Gewicht des reifen Anstellguts, mit dem der neue Ansatz beimpft wird",
           "es": "peso de masa madre/levain maduro usado para sembrar la nueva construcción",
-          "fr": "poids de levain mûr utilisé pour ensemencer la nouvelle construction"
+          "fr": "poids de levain mûr utilisé pour ensemencer la nouvelle construction",
+          "ro": "greutatea maielei mature/levain-ului matur, folosită pentru a însămânța noua construcție"
         }
       },
       {
@@ -507,7 +553,8 @@
           "en": "flour weight added in this levain build",
           "de": "in diesem Anstellgut-Ansatz zugesetztes Mehlgewicht",
           "es": "peso de harina añadido en esta construcción de levain",
-          "fr": "poids de farine ajouté dans cette construction de levain"
+          "fr": "poids de farine ajouté dans cette construction de levain",
+          "ro": "greutatea de făină adăugată în această construcție de levain"
         }
       },
       {
@@ -516,7 +563,8 @@
           "en": "water weight added in this levain build",
           "de": "in diesem Anstellgut-Ansatz zugesetztes Wassergewicht",
           "es": "peso de agua añadido en esta construcción de levain",
-          "fr": "poids d'eau ajouté dans cette construction de levain"
+          "fr": "poids d'eau ajouté dans cette construction de levain",
+          "ro": "greutatea de apă adăugată în această construcție de levain"
         }
       },
       {
@@ -525,7 +573,8 @@
           "en": "starter weight as a percentage of the total build, which drives peak timing",
           "de": "Anstellgut-Gewicht als Prozentsatz des gesamten Ansatzes, maßgeblich für den Reifezeitpunkt",
           "es": "peso de masa madre como porcentaje de la construcción total, determina el momento de pico",
-          "fr": "poids de levain en pourcentage de la construction totale, déterminant le moment du pic"
+          "fr": "poids de levain en pourcentage de la construction totale, déterminant le moment du pic",
+          "ro": "greutatea maielei ca procent din construcția totală, care determină momentul de vârf"
         }
       }
     ],
@@ -541,7 +590,8 @@
       "en": "Prefermented flour percentage",
       "de": "Anteil vorfermentierten Mehls",
       "es": "Porcentaje de harina prefermentada",
-      "fr": "Pourcentage de farine préfermentée"
+      "fr": "Pourcentage de farine préfermentée",
+      "ro": "Procentul de făină prefermentată"
     },
     "category": "fermentation",
     "expression": "prefermented_flour_pct = preferment_flour_weight / total_flour_weight * 100",
@@ -552,7 +602,8 @@
           "en": "flour weight contained inside the poolish/biga/levain",
           "de": "im Poolish/Biga/Anstellgut enthaltenes Mehlgewicht",
           "es": "peso de harina contenido dentro del poolish/biga/levain",
-          "fr": "poids de farine contenu dans le poolish/biga/levain"
+          "fr": "poids de farine contenu dans le poolish/biga/levain",
+          "ro": "greutatea de făină conținută în poolish/biga/levain"
         }
       },
       {
@@ -561,7 +612,8 @@
           "en": "total flour weight across the whole formula, preferment included",
           "de": "Gesamtmehlgewicht der gesamten Formel, Vorteig eingerechnet",
           "es": "peso total de harina en toda la fórmula, incluido el prefermento",
-          "fr": "poids total de farine dans toute la formule, preferment inclus"
+          "fr": "poids total de farine dans toute la formule, preferment inclus",
+          "ro": "greutatea totală de făină din întreaga formulă, inclusiv prefermentul"
         }
       },
       {
@@ -570,7 +622,8 @@
           "en": "share of total flour that ferments in the preferment before final mixing",
           "de": "Anteil des Gesamtmehls, der vor dem endgültigen Mischen im Vorteig fermentiert",
           "es": "proporción de la harina total que fermenta en el prefermento antes del mezclado final",
-          "fr": "part de la farine totale qui fermente dans le preferment avant le pétrissage final"
+          "fr": "part de la farine totale qui fermente dans le preferment avant le pétrissage final",
+          "ro": "proporția de făină totală care fermentează în preferment, înainte de frământarea finală"
         }
       }
     ],
@@ -586,7 +639,8 @@
       "en": "Salt by flour weight",
       "de": "Salz im Verhältnis zum Mehlgewicht",
       "es": "Sal según el peso de la harina",
-      "fr": "Sel selon le poids de la farine"
+      "fr": "Sel selon le poids de la farine",
+      "ro": "Sarea în funcție de greutatea făinii"
     },
     "category": "salt",
     "expression": "salt_weight = flour_weight * (salt_pct / 100), salt_pct typically 1.8 to 2.2",
@@ -597,7 +651,8 @@
           "en": "total flour weight, the baker's-percentage baseline",
           "de": "Gesamtmehlgewicht, die Bezugsgröße der Bäckerprozentrechnung",
           "es": "peso total de harina, la base del porcentaje panadero",
-          "fr": "poids total de farine, la base du pourcentage boulanger"
+          "fr": "poids total de farine, la base du pourcentage boulanger",
+          "ro": "greutatea totală de făină, baza procentului brutarului"
         }
       },
       {
@@ -606,7 +661,8 @@
           "en": "salt weight as a percentage of total flour weight",
           "de": "Salzgewicht als Prozentsatz des Gesamtmehlgewichts",
           "es": "peso de sal como porcentaje del peso total de harina",
-          "fr": "poids de sel en pourcentage du poids total de farine"
+          "fr": "poids de sel en pourcentage du poids total de farine",
+          "ro": "greutatea de sare, ca procent din greutatea totală de făină"
         }
       },
       {
@@ -615,7 +671,8 @@
           "en": "the actual salt weight to add",
           "de": "das tatsächlich zuzugebende Salzgewicht",
           "es": "el peso real de sal a añadir",
-          "fr": "le poids de sel réel à ajouter"
+          "fr": "le poids de sel réel à ajouter",
+          "ro": "greutatea reală de sare de adăugat"
         }
       }
     ],
@@ -631,7 +688,8 @@
       "en": "Dough weight from pan volume",
       "de": "Teiggewicht aus dem Formvolumen",
       "es": "Peso de la masa según el volumen del molde",
-      "fr": "Poids de pâte selon le volume du moule"
+      "fr": "Poids de pâte selon le volume du moule",
+      "ro": "Greutatea aluatului în funcție de volumul formei"
     },
     "category": "scaling",
     "expression": "dough_weight_g = pan_volume_cm3 * density_factor, density_factor disagrees by source (~0.25 g/cm3 low-density model vs ~0.56-0.60 g/cm3 magic-number model)",
@@ -642,7 +700,8 @@
           "en": "usable pan/tin volume in cubic centimeters (1 cm3 = 1 mL)",
           "de": "nutzbares Form-/Kastenvolumen in Kubikzentimetern (1 cm3 = 1 mL)",
           "es": "volumen útil del molde en centímetros cúbicos (1 cm3 = 1 mL)",
-          "fr": "volume utile du moule en centimètres cubes (1 cm3 = 1 mL)"
+          "fr": "volume utile du moule en centimètres cubes (1 cm3 = 1 mL)",
+          "ro": "volumul util al formei/tăvii, în centimetri cubi (1 cm3 = 1 mL)"
         }
       },
       {
@@ -651,7 +710,8 @@
           "en": "grams of raw dough per cm3 of pan volume; sources disagree substantially on this constant",
           "de": "Gramm Rohteig pro cm3 Formvolumen; die Quellen widersprechen sich bei dieser Konstante deutlich",
           "es": "gramos de masa cruda por cm3 de volumen del molde; las fuentes discrepan sustancialmente en esta constante",
-          "fr": "grammes de pâte crue par cm3 de volume du moule; les sources divergent sensiblement sur cette constante"
+          "fr": "grammes de pâte crue par cm3 de volume du moule; les sources divergent sensiblement sur cette constante",
+          "ro": "grame de aluat crud per cm3 din volumul formei; sursele diferă considerabil în privința acestei constante"
         }
       },
       {
@@ -660,7 +720,8 @@
           "en": "raw dough weight to scale into the pan, in grams",
           "de": "in die Form einzuwiegendes Rohteiggewicht in Gramm",
           "es": "peso de masa cruda a pesar para el molde, en gramos",
-          "fr": "poids de pâte crue à peser pour le moule, en grammes"
+          "fr": "poids de pâte crue à peser pour le moule, en grammes",
+          "ro": "greutatea de aluat crud de cântărit pentru formă, în grame"
         }
       }
     ],
@@ -677,7 +738,8 @@
       "en": "Total dough weight from piece count",
       "de": "Gesamtteiggewicht aus der Stückzahl",
       "es": "Peso total de masa según el número de piezas",
-      "fr": "Poids total de pâte selon le nombre de pièces"
+      "fr": "Poids total de pâte selon le nombre de pièces",
+      "ro": "Greutatea totală de aluat în funcție de numărul de bucăți"
     },
     "category": "scaling",
     "expression": "total_dough_weight = piece_count * piece_weight + bench_allowance; flour_weight = total_dough_weight / (sum_of_all_pcts / 100)",
@@ -688,7 +750,8 @@
           "en": "number of finished dough pieces (loaves/rolls) wanted",
           "de": "gewünschte Anzahl fertiger Teigstücke (Brote/Brötchen)",
           "es": "número de piezas de masa terminadas deseadas (panes/bollos)",
-          "fr": "nombre de pièces de pâte finies souhaitées (pains/petits pains)"
+          "fr": "nombre de pièces de pâte finies souhaitées (pains/petits pains)",
+          "ro": "numărul dorit de bucăți finite de aluat (pâini/chifle)"
         }
       },
       {
@@ -697,7 +760,8 @@
           "en": "target weight of each dough piece",
           "de": "Zielgewicht je Teigstück",
           "es": "peso objetivo de cada pieza de masa",
-          "fr": "poids cible de chaque pièce de pâte"
+          "fr": "poids cible de chaque pièce de pâte",
+          "ro": "greutatea țintă a fiecărei bucăți de aluat"
         }
       },
       {
@@ -706,7 +770,8 @@
           "en": "small extra weight added to cover scaling/rounding/trim loss",
           "de": "kleiner Gewichtszuschlag zum Ausgleich von Abwaage-, Rundungs- und Verschnittverlust",
           "es": "peso adicional pequeño para cubrir la merma de pesado, redondeo y recorte",
-          "fr": "léger supplément de poids pour couvrir les pertes de pesée, d'arrondi et de parage"
+          "fr": "léger supplément de poids pour couvrir les pertes de pesée, d'arrondi et de parage",
+          "ro": "o mică greutate suplimentară adăugată pentru a acoperi pierderile de la cântărire, rotunjire și ajustare"
         }
       },
       {
@@ -715,7 +780,8 @@
           "en": "sum of every ingredient's baker's percentage, including flour's own 100",
           "de": "Summe aller Bäckerprozente sämtlicher Zutaten, einschließlich der 100 des Mehls selbst",
           "es": "suma de los porcentajes panaderos de todos los ingredientes, incluido el 100 de la propia harina",
-          "fr": "somme des pourcentages boulangers de tous les ingrédients, y compris les 100 de la farine elle-même"
+          "fr": "somme des pourcentages boulangers de tous les ingrédients, y compris les 100 de la farine elle-même",
+          "ro": "suma procentului brutarului pentru fiecare ingredient în parte, inclusiv cei 100 ai făinii înseși"
         }
       }
     ],
@@ -731,7 +797,8 @@
       "en": "Scaling weight from bake loss",
       "de": "Einwaage aus dem Backverlust",
       "es": "Peso de dosificación según la merma de cocción",
-      "fr": "Poids de pesée selon la perte à la cuisson"
+      "fr": "Poids de pesée selon la perte à la cuisson",
+      "ro": "Greutatea de dozare în funcție de pierderea la coacere"
     },
     "category": "scaling",
     "expression": "scaling_weight = target_baked_weight / (1 - bake_loss_pct/100)",
@@ -742,7 +809,8 @@
           "en": "the finished, baked and cooled weight wanted for one piece",
           "de": "das gewünschte fertige, gebackene und ausgekühlte Gewicht eines Stücks",
           "es": "el peso final horneado y enfriado deseado para una pieza",
-          "fr": "le poids final cuit et refroidi souhaité pour une pièce"
+          "fr": "le poids final cuit et refroidi souhaité pour une pièce",
+          "ro": "greutatea finită, coaptă și răcită, dorită pentru o bucată"
         }
       },
       {
@@ -751,7 +819,8 @@
           "en": "percentage weight lost to evaporation during proofing, baking, and cooling",
           "de": "prozentualer Gewichtsverlust durch Verdunstung während Gare, Backen und Auskühlen",
           "es": "porcentaje de peso perdido por evaporación durante el fermentado, horneado y enfriado",
-          "fr": "pourcentage de poids perdu par évaporation pendant la pousse, la cuisson et le refroidissement"
+          "fr": "pourcentage de poids perdu par évaporation pendant la pousse, la cuisson et le refroidissement",
+          "ro": "procentul de greutate pierdut prin evaporare în timpul dospirii, coacerii și răcirii"
         }
       },
       {
@@ -760,7 +829,8 @@
           "en": "the raw dough weight to portion out before baking",
           "de": "das vor dem Backen abzuwiegende Rohteiggewicht",
           "es": "el peso de masa cruda a porcionar antes de hornear",
-          "fr": "le poids de pâte crue à peser avant la cuisson"
+          "fr": "le poids de pâte crue à peser avant la cuisson",
+          "ro": "greutatea de aluat crud de porționat înainte de coacere"
         }
       }
     ],

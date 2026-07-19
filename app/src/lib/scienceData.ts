@@ -48,10 +48,14 @@ function validDensity(v: unknown): v is DensityEntry {
   );
 }
 
+/** Science data is translated per language; `ro` trails the others, so it is optional
+ * and callers fall back to English through pick(). */
+export type LocalizedSci = { en: string; de: string; es: string; fr: string; ro?: string };
+
 export interface FaultEntry {
   id: string;
   stage: 'mixing' | 'fermentation' | 'shaping' | 'baking' | 'storage';
-  fault: { en: string; de: string; es: string; fr: string };
+  fault: LocalizedSci;
   signs?: string[];
   causes: string[];
   fixes: string[];
@@ -154,10 +158,10 @@ export function styleByKey(key: string): StyleRangeFull | undefined {
 
 export interface MathFormula {
   id: string;
-  name: { en: string; de: string; es: string; fr: string };
+  name: LocalizedSci;
   category?: string;
   expression: string;
-  variables?: Array<{ sym: string; meaning: { en: string; de: string; es: string; fr: string } }>;
+  variables?: Array<{ sym: string; meaning: LocalizedSci }>;
   example?: string;
   sources?: string[];
 }
@@ -186,7 +190,7 @@ export interface DerivedFormulas {
   byFamily: DerivedStat[];
   fits?: Array<{
     id: string;
-    label: { en: string; de: string; es: string; fr: string };
+    label: LocalizedSci;
     expression: string;
     r2?: number;
     n: number;

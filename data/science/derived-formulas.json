@@ -194,7 +194,8 @@
         "en": "Hydration rises with wholegrain share",
         "de": "Hydration steigt mit dem Vollkornanteil",
         "es": "La hidratación sube con la proporción integral",
-        "fr": "L’hydratation monte avec la part de complet"
+        "fr": "L’hydratation monte avec la part de complet",
+        "ro": "Hidratarea crește odată cu proporția de făină integrală"
       },
       "expression": "hydration% ≈ 64.6 + 0.14 × wholegrain%",
       "r2": 0.07,
@@ -206,7 +207,8 @@
         "en": "Salt is nearly constant across styles",
         "de": "Salz ist über die Stile fast konstant",
         "es": "La sal es casi constante entre estilos",
-        "fr": "Le sel est presque constant selon les styles"
+        "fr": "Le sel est presque constant selon les styles",
+        "ro": "Sarea este aproape constantă între stiluri"
       },
       "expression": "salt% ≈ 1.8 (median across 279 breads)",
       "n": 279
