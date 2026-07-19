@@ -118,50 +118,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom yeast"
+        "en": "Bloom yeast",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Délayer la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast and sugar in a little of the warm water and let it stand until foamy, about 15 minutes."
+        "en": "Dissolve the yeast and sugar in a little of the warm water and let it stand until foamy, about 15 minutes.",
+        "de": "Die Hefe und den Zucker in etwas warmem Wasser auflösen und etwa 15 Minuten stehen lassen, bis es schäumt.",
+        "es": "Disolver la levadura y el azúcar en un poco del agua tibia y dejar reposar hasta que espume, unos 15 minutos.",
+        "fr": "Dissoudre la levure et le sucre dans un peu de l'eau tiède et laisser reposer jusqu'à ce que ça mousse, environ 15 minutes.",
+        "ro": "Dizolvă drojdia și zahărul într-o parte din apa călduță și lasă aproximativ 15 minute, până face spumă."
       }
     },
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Stir together flour, salt and white pepper, then pour in the yeast mixture and remaining water to form a soft dough."
+        "en": "Stir together flour, salt and white pepper, then pour in the yeast mixture and remaining water to form a soft dough.",
+        "de": "Mehl, Salz und weißen Pfeffer verrühren, dann die Hefemischung und das restliche Wasser einrühren, bis ein weicher Teig entsteht.",
+        "es": "Mezclar la harina, la sal y la pimienta blanca, luego añadir la mezcla de levadura y el agua restante hasta formar una masa suave.",
+        "fr": "Mélanger la farine, le sel et le poivre blanc, puis verser le mélange de levure et le reste de l'eau pour former une pâte souple.",
+        "ro": "Amestecă făina, sarea și piperul alb, apoi toarnă amestecul de drojdie și apa rămasă, pentru a forma un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead by machine or hand until smooth and elastic, about 10-15 minutes total."
+        "en": "Knead by machine or hand until smooth and elastic, about 10-15 minutes total.",
+        "de": "Mit der Maschine oder von Hand kneten, bis er glatt und elastisch ist, insgesamt etwa 10-15 Minuten.",
+        "es": "Amasar a máquina o a mano hasta que quede lisa y elástica, unos 10-15 minutos en total.",
+        "fr": "Pétrir au robot ou à la main jusqu'à obtenir une pâte lisse et élastique, environ 10-15 minutes au total.",
+        "ro": "Frământă cu mixerul sau cu mâna până devine neted și elastic, în total aproximativ 10-15 minute."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise in a warm spot until doubled, about an hour."
+        "en": "Cover and let rise in a warm spot until doubled, about an hour.",
+        "de": "Abdecken und an einem warmen Ort gehen lassen, bis er sich verdoppelt hat, etwa eine Stunde.",
+        "es": "Tapar y dejar fermentar en un lugar cálido hasta que doble, aproximadamente una hora.",
+        "fr": "Couvrir et laisser lever dans un endroit chaud jusqu'au double, environ une heure.",
+        "ro": "Acoperă și lasă la crescut într-un loc călduț până se dublează, aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Shape & dimple"
+        "en": "Shape & dimple",
+        "de": "Formen & Delle drücken",
+        "es": "Formar y marcar hoyuelo",
+        "fr": "Façonner & creuser",
+        "ro": "Modelează și presează o gropiță"
       },
       "summary": {
-        "en": "Divide into pieces, flatten each by hand into a thick disc, and press a deep dimple into the center so it bakes flat instead of doming."
+        "en": "Divide into pieces, flatten each by hand into a thick disc, and press a deep dimple into the center so it bakes flat instead of doming.",
+        "de": "In Stücke teilen, jedes von Hand zu einer dicken Scheibe flach drücken und eine tiefe Delle in die Mitte drücken, damit sie flach statt gewölbt backt.",
+        "es": "Dividir en piezas, aplanar cada una a mano en un disco grueso y presionar un hoyuelo profundo en el centro para que se hornee plana en lugar de abombarse.",
+        "fr": "Diviser en pâtons, aplatir chacun à la main en un disque épais et presser une alvéole profonde au centre pour qu'il cuise plat au lieu de bomber.",
+        "ro": "Împarte în bucăți, turtește fiecare cu mâna într-un disc gros și presează o gropiță adâncă în centru, ca să se coacă plat, nu bombat."
       }
     },
     {
       "title": {
-        "en": "Bake low and slow"
+        "en": "Bake low and slow",
+        "de": "Niedrig und langsam backen",
+        "es": "Hornear a baja temperatura y despacio",
+        "fr": "Cuire à basse température et lentement",
+        "ro": "Coace la foc mic, lent"
       },
       "summary": {
-        "en": "Bake hot for the first few minutes, then turn off the oven and let the residual heat finish the loaves slowly for their signature dense, chewy crumb."
+        "en": "Bake hot for the first few minutes, then turn off the oven and let the residual heat finish the loaves slowly for their signature dense, chewy crumb.",
+        "de": "Die ersten Minuten heiß backen, dann den Ofen ausschalten und die Restwärme die Laibe langsam fertigbacken lassen, für die charakteristisch dichte, bissfeste Krume.",
+        "es": "Hornear caliente los primeros minutos, luego apagar el horno y dejar que el calor residual termine los panes lentamente, para su característica miga densa y masticable.",
+        "fr": "Cuire à four chaud les premières minutes, puis éteindre le four et laisser la chaleur résiduelle terminer lentement la cuisson des pains, pour leur mie dense et moelleuse caractéristique.",
+        "ro": "Coace fierbinte primele minute, apoi oprește cuptorul și lasă căldura reziduală să termine coacerea pâinilor încet, pentru miezul dens și elastic caracteristic."
       }
     }
   ],

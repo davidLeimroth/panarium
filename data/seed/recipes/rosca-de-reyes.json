@@ -170,58 +170,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour with the yeast and salt on opposite sides, then work in sugar, butter, eggs, milk, orange zest and orange extract until a soft, slightly sticky dough forms with no dry flour left."
+        "en": "Combine flour with the yeast and salt on opposite sides, then work in sugar, butter, eggs, milk, orange zest and orange extract until a soft, slightly sticky dough forms with no dry flour left.",
+        "de": "Mehl mit Hefe und Salz auf gegenüberliegenden Seiten anordnen, dann Zucker, Butter, Eier, Milch, Orangenschale und Orangenextrakt einarbeiten, bis ein weicher, leicht klebriger Teig ohne trockenes Mehl entsteht.",
+        "es": "Colocar la harina con la levadura y la sal en lados opuestos, luego incorporar azúcar, mantequilla, huevos, leche, ralladura de naranja y esencia de naranja hasta formar una masa suave y ligeramente pegajosa, sin harina seca.",
+        "fr": "Disposer la farine avec la levure et le sel de part et d'autre, puis incorporer le sucre, le beurre, les œufs, le lait, le zeste d'orange et l'extrait d'orange jusqu'à obtenir une pâte souple et légèrement collante, sans farine sèche restante.",
+        "ro": "Așază făina cu drojdia și sarea pe părți opuse, apoi încorporează zahărul, untul, ouăle, laptele, coaja de portocală și esența de portocală până obții un aluat moale, ușor lipicios, fără urme de făină uscată."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead on a floured surface for 10-15 minutes until smooth and elastic enough to stretch thin without tearing."
+        "en": "Knead on a floured surface for 10-15 minutes until smooth and elastic enough to stretch thin without tearing.",
+        "de": "Auf einer bemehlten Fläche 10-15 Minuten kneten, bis der Teig glatt und so elastisch ist, dass er sich dünn ausziehen lässt, ohne zu reißen.",
+        "es": "Amasar sobre una superficie enharinada durante 10-15 minutos hasta que esté lisa y lo bastante elástica para estirarse fina sin romperse.",
+        "fr": "Pétrir sur un plan de travail fariné pendant 10-15 minutes jusqu'à ce qu'elle soit lisse et assez élastique pour s'étirer finement sans se déchirer.",
+        "ro": "Frământă pe o suprafață făinată timp de 10-15 minute până devine neted și suficient de elastic cât să se întindă subțire fără să se rupă."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let the dough rise somewhere warm until nearly doubled, about 1 hour 45 minutes."
+        "en": "Cover and let the dough rise somewhere warm until nearly doubled, about 1 hour 45 minutes.",
+        "de": "Zugedeckt an einem warmen Ort gehen lassen, bis der Teig sich fast verdoppelt hat, etwa 1 Stunde 45 Minuten.",
+        "es": "Tapar y dejar levar la masa en un lugar cálido hasta que casi doble su volumen, unas 1 hora 45 minutos.",
+        "fr": "Couvrir et laisser lever la pâte dans un endroit chaud jusqu'à ce qu'elle ait presque doublé, environ 1 heure 45 minutes.",
+        "ro": "Acoperă și lasă aluatul la dospit într-un loc călduros până aproape se dublează, aproximativ 1 oră și 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Shape the ring"
+        "en": "Shape the ring",
+        "de": "Ring formen",
+        "es": "Formar la rosca",
+        "fr": "Façonner la couronne",
+        "ro": "Modelează coroana"
       },
       "summary": {
-        "en": "Deflate the dough, form it into a ball, then poke a hole through the center and stretch it out into a wide ring on a lined baking sheet."
+        "en": "Deflate the dough, form it into a ball, then poke a hole through the center and stretch it out into a wide ring on a lined baking sheet.",
+        "de": "Den Teig entgasen, zu einer Kugel formen, dann in der Mitte ein Loch stechen und zu einem breiten Ring auf einem ausgelegten Backblech ausziehen.",
+        "es": "Desgasificar la masa, formar una bola, luego hacer un agujero en el centro y estirarla en un aro ancho sobre una bandeja de horno forrada.",
+        "fr": "Dégazer la pâte, la former en boule, puis percer un trou au centre et l'étirer en un large anneau sur une plaque garnie.",
+        "ro": "Degazează aluatul, formează-l într-o bilă, apoi fă o gaură în centru și întinde-l într-un inel larg pe o tavă căptușită."
       }
     },
     {
       "title": {
-        "en": "Decorate and proof"
+        "en": "Decorate and proof",
+        "de": "Verzieren und gären",
+        "es": "Decorar y fermentar",
+        "fr": "Décorer et pousser",
+        "ro": "Decorează și lasă la dospit"
       },
       "summary": {
-        "en": "Brush the ring with beaten egg, lay strips of candied guava paste and glacé cherries over the top like jewels, then let it proof, covered, until springy, about 45 minutes."
+        "en": "Brush the ring with beaten egg, lay strips of candied guava paste and glacé cherries over the top like jewels, then let it proof, covered, until springy, about 45 minutes.",
+        "de": "Den Ring mit verquirltem Ei bestreichen, Streifen aus kandierter Guavenpaste und Cocktailkirschen wie Juwelen darauflegen, dann zugedeckt gehen lassen, bis er sich federnd anfühlt, etwa 45 Minuten.",
+        "es": "Pincelar la rosca con huevo batido, colocar tiras de ate de guayaba y cerezas cristalizadas encima como joyas, luego dejar fermentar, tapada, hasta que esté esponjosa, unos 45 minutos.",
+        "fr": "Badigeonner la couronne d'œuf battu, disposer des lanières de pâte de goyave confite et des cerises confites dessus comme des bijoux, puis laisser pousser, couverte, jusqu'à ce qu'elle soit souple, environ 45 minutes.",
+        "ro": "Unge coroana cu ou bătut, așază fâșii de pastă de guava confiată și cireșe confiate deasupra ca niște bijuterii, apoi lasă la dospit, acoperită, până devine elastică la atingere, aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake starting hot, around 200°C (400°F), for 10 minutes, then lower the heat and continue until deep golden and the center reads close to 88°C, roughly 13 more minutes."
+        "en": "Bake starting hot, around 200°C (400°F), for 10 minutes, then lower the heat and continue until deep golden and the center reads close to 88°C, roughly 13 more minutes.",
+        "de": "Zunächst heiß bei etwa 200°C (400°F) 10 Minuten backen, dann die Temperatur senken und weiterbacken, bis er tief goldbraun ist und die Mitte etwa 88°C erreicht, weitere etwa 13 Minuten.",
+        "es": "Hornear empezando caliente, a unos 200°C (400°F), durante 10 minutos, luego bajar la temperatura y continuar hasta que esté bien dorada y el centro marque cerca de 88°C, unos 13 minutos más.",
+        "fr": "Cuire en commençant chaud, vers 200°C (400°F), pendant 10 minutes, puis baisser la température et poursuivre jusqu'à belle coloration dorée et un cœur proche de 88°C, environ 13 minutes de plus.",
+        "ro": "Coace întâi fierbinte, la aproximativ 200°C (400°F), timp de 10 minute, apoi redu temperatura și continuă până devine auriu-închis și centrul atinge aproape 88°C, încă aproximativ 13 minute."
       }
     },
     {
       "title": {
-        "en": "Cool and hide the figure"
+        "en": "Cool and hide the figure",
+        "de": "Abkühlen und Figur verstecken",
+        "es": "Enfriar y esconder al niño",
+        "fr": "Refroidir et cacher la figurine",
+        "ro": "Răcește și ascunde figurina"
       },
       "summary": {
-        "en": "Let the ring cool completely, then tuck a small figurine of the Christ child up into the crumb from underneath before serving."
+        "en": "Let the ring cool completely, then tuck a small figurine of the Christ child up into the crumb from underneath before serving.",
+        "de": "Den Ring vollständig auskühlen lassen, dann vor dem Servieren von unten eine kleine Christkind-Figur in die Krume stecken.",
+        "es": "Dejar enfriar la rosca por completo, luego, antes de servir, esconder por debajo una figurita del Niño Dios dentro de la miga.",
+        "fr": "Laisser la couronne refroidir complètement, puis glisser par-dessous une petite figurine de l'Enfant Jésus dans la mie avant de servir.",
+        "ro": "Lasă coroana să se răcească complet, apoi, înainte de servire, ascunde pe dedesubt o figurină mică a Pruncului Iisus în miez."
       }
     }
   ],

@@ -115,50 +115,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockenmischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger les ingrédients secs",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Whisk together the beremeal, plain flour, baking soda and cream of tartar."
+        "en": "Whisk together the beremeal, plain flour, baking soda and cream of tartar.",
+        "de": "Beremeal, Mehl, Natron und Weinstein miteinander verquirlen.",
+        "es": "Batir juntos el beremeal, la harina común, el bicarbonato y el cremor tártaro.",
+        "fr": "Fouetter ensemble le beremeal, la farine, le bicarbonate de soude et la crème de tartre.",
+        "ro": "Amestecă beremeal, făina albă, bicarbonatul de sodiu și crema de tartru."
       }
     },
     {
       "title": {
-        "en": "Bring together"
+        "en": "Bring together",
+        "de": "Zusammenfügen",
+        "es": "Unir la masa",
+        "fr": "Former la pâte",
+        "ro": "Formează aluatul"
       },
       "summary": {
-        "en": "Stir in the milk gradually until a soft, stiff, pliable dough forms; knead briefly just until smooth."
+        "en": "Stir in the milk gradually until a soft, stiff, pliable dough forms; knead briefly just until smooth.",
+        "de": "Die Milch nach und nach einrühren, bis ein weicher, fester, geschmeidiger Teig entsteht; kurz kneten, bis er glatt ist.",
+        "es": "Incorporar la leche poco a poco hasta formar una masa blanda, firme y flexible; amasar brevemente hasta que quede lisa.",
+        "fr": "Incorporer le lait petit à petit jusqu'à obtenir une pâte souple, ferme et maniable; pétrir brièvement jusqu'à ce qu'elle soit lisse.",
+        "ro": "Adaugă laptele treptat până se formează un aluat moale, ferm și elastic; frământă puțin până devine neted."
       }
     },
     {
       "title": {
-        "en": "Roll"
+        "en": "Roll",
+        "de": "Ausrollen",
+        "es": "Extender",
+        "fr": "Étaler",
+        "ro": "Întinde aluatul"
       },
       "summary": {
-        "en": "Roll or pat the dough out into a round about 2.5 cm thick."
+        "en": "Roll or pat the dough out into a round about 2.5 cm thick.",
+        "de": "Den Teig zu einem Rund von etwa 2.5 cm Dicke ausrollen oder flach drücken.",
+        "es": "Extender o aplanar la masa formando un disco de unos 2.5 cm de grosor.",
+        "fr": "Étaler ou aplatir la pâte en un disque d'environ 2.5 cm d'épaisseur.",
+        "ro": "Întinde sau presează aluatul într-un disc de aproximativ 2.5 cm grosime."
       }
     },
     {
       "title": {
-        "en": "Heat the griddle"
+        "en": "Heat the griddle",
+        "de": "Platte erhitzen",
+        "es": "Calentar la plancha",
+        "fr": "Chauffer la plaque",
+        "ro": "Încinge plita"
       },
       "summary": {
-        "en": "Heat a dry, ungreased griddle or heavy pan to a medium heat."
+        "en": "Heat a dry, ungreased griddle or heavy pan to a medium heat.",
+        "de": "Eine trockene, ungefettete Platte oder schwere Pfanne mittelheiß erhitzen.",
+        "es": "Calentar una plancha seca, sin engrasar, o una sartén pesada a fuego medio.",
+        "fr": "Chauffer une plaque sèche, non graissée, ou une poêle lourde à feu moyen.",
+        "ro": "Încinge o plită uscată, negrăsată, sau o tigaie grea la foc mediu."
       }
     },
     {
       "title": {
-        "en": "Cook"
+        "en": "Cook",
+        "de": "Backen",
+        "es": "Cocinar",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Cook about 5 minutes a side, adjusting the heat as needed, until golden on both sides and cooked through in the middle."
+        "en": "Cook about 5 minutes a side, adjusting the heat as needed, until golden on both sides and cooked through in the middle.",
+        "de": "Etwa 5 Minuten pro Seite backen, die Hitze bei Bedarf anpassen, bis beide Seiten golden und die Mitte durchgebacken ist.",
+        "es": "Cocinar unos 5 minutos por lado, ajustando el calor según sea necesario, hasta dorar ambos lados y cocer bien el centro.",
+        "fr": "Cuire environ 5 minutes de chaque côté, en ajustant la chaleur si besoin, jusqu'à ce que les deux faces soient dorées et le centre bien cuit.",
+        "ro": "Coace aproximativ 5 minute pe fiecare parte, ajustând focul după nevoie, până se rumenesc ambele fețe și mijlocul e copt complet."
       }
     },
     {
       "title": {
-        "en": "Serve"
+        "en": "Serve",
+        "de": "Servieren",
+        "es": "Servir",
+        "fr": "Servir",
+        "ro": "Servește"
       },
       "summary": {
-        "en": "Serve warm, split and buttered, alongside soup or in place of a bread roll."
+        "en": "Serve warm, split and buttered, alongside soup or in place of a bread roll.",
+        "de": "Warm servieren, aufgeschnitten und gebuttert, zu Suppe oder anstelle eines Brötchens.",
+        "es": "Servir caliente, partido y untado con mantequilla, junto a una sopa o en lugar de un panecillo.",
+        "fr": "Servir chaud, fendu et beurré, avec une soupe ou à la place d'un petit pain.",
+        "ro": "Servește cald, tăiat și uns cu unt, alături de supă sau în locul unei chifle."
       }
     }
   ],

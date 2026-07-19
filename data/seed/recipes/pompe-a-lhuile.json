@@ -121,50 +121,98 @@
   "method": [
     {
       "title": {
-        "en": "Start"
+        "en": "Start",
+        "de": "Start",
+        "es": "Inicio",
+        "fr": "Départ",
+        "ro": "Start"
       },
       "summary": {
-        "en": "Mix part of the flour with the yeast and warm water; let it bubble about 45 minutes."
+        "en": "Mix part of the flour with the yeast and warm water; let it bubble about 45 minutes.",
+        "de": "Einen Teil des Mehls mit Hefe und warmem Wasser vermischen; etwa 45 Minuten blasig werden lassen.",
+        "es": "Mezclar parte de la harina con la levadura y el agua tibia; dejar burbujear unos 45 minutos.",
+        "fr": "Mélanger une partie de la farine avec la levure et l'eau tiède ; laisser buller environ 45 minutes.",
+        "ro": "Amestecă o parte din făină cu drojdia și apa călduță; lasă să facă bule aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Work in the remaining flour, olive oil, sugar, salt and citrus zests to a smooth, rich dough."
+        "en": "Work in the remaining flour, olive oil, sugar, salt and citrus zests to a smooth, rich dough.",
+        "de": "Das restliche Mehl, Olivenöl, Zucker, Salz und Zitrusschalen zu einem glatten, reichhaltigen Teig einarbeiten.",
+        "es": "Incorporar el resto de la harina, el aceite de oliva, el azúcar, la sal y las ralladuras de cítricos hasta obtener una masa lisa y rica.",
+        "fr": "Incorporer le reste de la farine, l'huile d'olive, le sucre, le sel et les zestes d'agrumes pour obtenir une pâte lisse et riche.",
+        "ro": "Încorporează restul de făină, uleiul de măsline, zahărul, sarea și cojile de citrice, până obții un aluat neted și bogat."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment about 3 hours until well risen."
+        "en": "Ferment about 3 hours until well risen.",
+        "de": "Etwa 3 Stunden fermentieren, bis er gut aufgegangen ist.",
+        "es": "Fermentar unas 3 horas hasta que haya crecido bien.",
+        "fr": "Faire pointer environ 3 heures jusqu'à bonne levée.",
+        "ro": "Lasă la fermentat aproximativ 3 ore, până crește bine."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Press out into a flat disc roughly 30cm across on a tray."
+        "en": "Press out into a flat disc roughly 30cm across on a tray.",
+        "de": "Auf einem Blech zu einer flachen, etwa 30cm großen Scheibe drücken.",
+        "es": "Aplanar en un disco de unos 30cm sobre una bandeja.",
+        "fr": "Aplatir en un disque plat d'environ 30cm sur une plaque.",
+        "ro": "Presează într-un disc plat de aproximativ 30cm pe o tavă."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gare",
+        "es": "Fermentar",
+        "fr": "Apprêt",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Proof about an hour near warmth."
+        "en": "Proof about an hour near warmth.",
+        "de": "Etwa eine Stunde in der Wärme gehen lassen.",
+        "es": "Dejar fermentar cerca de una hora cerca de una fuente de calor.",
+        "fr": "Laisser pousser environ une heure près d'une source de chaleur.",
+        "ro": "Lasă la dospit aproximativ o oră într-un loc călduros."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until golden, then brush immediately with olive oil while still hot from the oven."
+        "en": "Bake until golden, then brush immediately with olive oil while still hot from the oven.",
+        "de": "Backen, bis er goldbraun ist, dann sofort noch ofenheiß mit Olivenöl bestreichen.",
+        "es": "Hornear hasta que esté dorada, luego pincelar de inmediato con aceite de oliva mientras aún esté caliente del horno.",
+        "fr": "Cuire jusqu'à coloration dorée, puis badigeonner immédiatement d'huile d'olive tant qu'elle est encore chaude du four.",
+        "ro": "Coace până devine aurie, apoi unge imediat cu ulei de măsline cât e încă fierbinte, direct din cuptor."
       }
     }
   ],

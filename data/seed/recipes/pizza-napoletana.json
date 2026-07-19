@@ -102,50 +102,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Dissolve a little yeast in the water, then work in the flour by hand, keeping the salt from touching the yeast directly for more than a few minutes."
+        "en": "Dissolve a little yeast in the water, then work in the flour by hand, keeping the salt from touching the yeast directly for more than a few minutes.",
+        "de": "Etwas Hefe im Wasser auflösen, dann das Mehl von Hand einarbeiten, dabei darauf achten, dass Salz nicht länger als ein paar Minuten direkt mit der Hefe in Berührung kommt.",
+        "es": "Disolver un poco de levadura en el agua, luego incorporar la harina a mano, evitando que la sal toque la levadura directamente durante más de unos minutos.",
+        "fr": "Dissoudre un peu de levure dans l'eau, puis incorporer la farine à la main, en évitant que le sel touche directement la levure plus de quelques minutes.",
+        "ro": "Dizolvă puțină drojdie în apă, apoi încorporează făina manual, având grijă ca sarea să nu atingă direct drojdia mai mult de câteva minute."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Work the dough by hand into a smooth, elastic mass, about 20 minutes."
+        "en": "Work the dough by hand into a smooth, elastic mass, about 20 minutes.",
+        "de": "Den Teig von Hand zu einer glatten, elastischen Masse verarbeiten, etwa 20 Minuten.",
+        "es": "Trabajar la masa a mano hasta obtener una masa lisa y elástica, unos 20 minutos.",
+        "fr": "Travailler la pâte à la main jusqu'à obtenir une masse lisse et élastique, environ 20 minutes.",
+        "ro": "Lucrează aluatul manual până devine o masă netedă și elastică, aproximativ 20 de minute."
       }
     },
     {
       "title": {
-        "en": "Bulk rest"
+        "en": "Bulk rest",
+        "de": "Ruhephase",
+        "es": "Reposo en bloque",
+        "fr": "Repos en masse",
+        "ro": "Odihnă în masă"
       },
       "summary": {
-        "en": "Let the whole mass rest a couple of hours at room temperature before dividing."
+        "en": "Let the whole mass rest a couple of hours at room temperature before dividing.",
+        "de": "Die gesamte Masse vor dem Teilen ein paar Stunden bei Raumtemperatur ruhen lassen.",
+        "es": "Dejar reposar toda la masa un par de horas a temperatura ambiente antes de dividir.",
+        "fr": "Laisser reposer toute la masse quelques heures à température ambiante avant de diviser.",
+        "ro": "Lasă întreaga masă la odihnă câteva ore la temperatura camerei înainte de a o împărți."
       }
     },
     {
       "title": {
-        "en": "Ball and ferment long"
+        "en": "Ball and ferment long",
+        "de": "Formen und lange fermentieren",
+        "es": "Bolear y fermentar largo",
+        "fr": "Bouler et fermenter longtemps",
+        "ro": "Formează bile și fermentează îndelung"
       },
       "summary": {
-        "en": "Divide into 200-280 g balls and let them ferment together at room temperature for 8 to 24 hours until soft, domed and airy."
+        "en": "Divide into 200-280 g balls and let them ferment together at room temperature for 8 to 24 hours until soft, domed and airy.",
+        "de": "In Kugeln von 200-280 g teilen und zusammen bei Raumtemperatur 8 bis 24 Stunden fermentieren lassen, bis sie weich, gewölbt und luftig sind.",
+        "es": "Dividir en bolas de 200-280 g y dejarlas fermentar juntas a temperatura ambiente de 8 a 24 horas hasta que estén blandas, abombadas y aireadas.",
+        "fr": "Diviser en boules de 200-280 g et les laisser fermenter ensemble à température ambiante de 8 à 24 heures jusqu'à ce qu'elles soient souples, bombées et aériennes.",
+        "ro": "Împarte în bile de 200-280 g și lasă-le să fermenteze împreună la temperatura camerei 8 până la 24 de ore, până devin moi, bombate și aerate."
       }
     },
     {
       "title": {
-        "en": "Stretch by hand"
+        "en": "Stretch by hand",
+        "de": "Von Hand ausziehen",
+        "es": "Estirar a mano",
+        "fr": "Étirer à la main",
+        "ro": "Întinde cu mâna"
       },
       "summary": {
-        "en": "Press and stretch each ball outward from the center with fingertips only, never a rolling pin, leaving a thicker rim to puff up in the oven."
+        "en": "Press and stretch each ball outward from the center with fingertips only, never a rolling pin, leaving a thicker rim to puff up in the oven.",
+        "de": "Jede Kugel mit den Fingerspitzen von der Mitte nach außen drücken und ausziehen, nie mit dem Nudelholz, dabei am Rand mehr Teig belassen, damit er im Ofen aufgeht.",
+        "es": "Presionar y estirar cada bola desde el centro hacia afuera solo con las yemas de los dedos, nunca con rodillo, dejando un borde más grueso para que se hinche en el horno.",
+        "fr": "Presser et étirer chaque boule du centre vers l'extérieur avec le bout des doigts uniquement, jamais au rouleau, en laissant un bord plus épais qui gonflera au four.",
+        "ro": "Presează și întinde fiecare bilă dinspre centru spre margine doar cu vârfurile degetelor, niciodată cu sucitorul, lăsând o margine mai groasă care se va umfla în cuptor."
       }
     },
     {
       "title": {
-        "en": "Flash-bake"
+        "en": "Flash-bake",
+        "de": "Blitzbacken",
+        "es": "Hornear al instante",
+        "fr": "Cuisson éclair",
+        "ro": "Coace fulgerător"
       },
       "summary": {
-        "en": "Launch onto a screaming-hot stone or wood-fired oven floor at 430-480°C and bake just 60-90 seconds until the rim blisters and chars in spots."
+        "en": "Launch onto a screaming-hot stone or wood-fired oven floor at 430-480°C and bake just 60-90 seconds until the rim blisters and chars in spots.",
+        "de": "Auf einen glühend heißen Stein oder Holzofenboden bei 430-480°C schieben und nur 60-90 Sekunden backen, bis der Rand Blasen wirft und stellenweise ansengt.",
+        "es": "Deslizar sobre una piedra al rojo vivo o el suelo de un horno de leña a 430-480°C y hornear solo 60-90 segundos hasta que el borde se ampolle y se chamusque en algunos puntos.",
+        "fr": "Enfourner sur une pierre brûlante ou la sole d'un four à bois à 430-480°C et cuire seulement 60-90 secondes jusqu'à ce que le bord cloque et brûle par endroits.",
+        "ro": "Așază pe o piatră fierbinte sau pe vatra unui cuptor cu lemne, la 430-480°C, și coace doar 60-90 de secunde, până marginea face băși și se arde ușor pe alocuri."
       }
     }
   ],

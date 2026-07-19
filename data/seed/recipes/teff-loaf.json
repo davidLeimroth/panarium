@@ -137,58 +137,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockenes mischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger les ingrédients secs",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Whisk teff flour, tapioca (or cassava) flour, psyllium husk, salt and instant yeast together."
+        "en": "Whisk teff flour, tapioca (or cassava) flour, psyllium husk, salt and instant yeast together.",
+        "de": "Teffmehl, Tapioka- (oder Maniok-)Mehl, Flohsamenschalen, Salz und Instanthefe miteinander verquirlen.",
+        "es": "Batir juntos la harina de teff, la harina de tapioca (o yuca), la cáscara de psyllium, la sal y la levadura instantánea.",
+        "fr": "Fouetter ensemble la farine de teff, la farine de tapioca (ou de manioc), les téguments de psyllium, le sel et la levure instantanée.",
+        "ro": "Amestecă cu telul făina de teff, făina de tapioca (sau de manioc), coaja de psyllium, sarea și drojdia instant."
       }
     },
     {
       "title": {
-        "en": "Mix wet"
+        "en": "Mix wet",
+        "de": "Feuchtes einrühren",
+        "es": "Mezclar los líquidos",
+        "fr": "Mélanger les liquides",
+        "ro": "Amestecă ingredientele lichide"
       },
       "summary": {
-        "en": "Whisk in water, maple syrup and oil until the mixture becomes a thin, aerated batter full of tiny bubbles."
+        "en": "Whisk in water, maple syrup and oil until the mixture becomes a thin, aerated batter full of tiny bubbles.",
+        "de": "Wasser, Ahornsirup und Öl einrühren, bis eine dünne, luftige Masse voller kleiner Bläschen entsteht.",
+        "es": "Incorporar el agua, el jarabe de arce y el aceite hasta que la mezcla se convierta en una masa líquida, aireada y llena de burbujitas.",
+        "fr": "Incorporer l'eau, le sirop d'érable et l'huile jusqu'à obtenir une pâte fine, aérée et pleine de petites bulles.",
+        "ro": "Încorporează apa, siropul de arțar și uleiul, până compoziția devine subțire, aerată și plină de bulițe mici."
       }
     },
     {
       "title": {
-        "en": "First proof"
+        "en": "First proof",
+        "de": "Erste Gare",
+        "es": "Primera fermentación",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let stand about 1 hour until the batter firms up, turns pliable and stays bubbled on top."
+        "en": "Cover and let stand about 1 hour until the batter firms up, turns pliable and stays bubbled on top.",
+        "de": "Abdecken und etwa 1 Stunde stehen lassen, bis die Masse fester und geschmeidig wird und obenauf blasig bleibt.",
+        "es": "Tapar y dejar reposar aproximadamente 1 hora, hasta que la masa se afirme, se vuelva flexible y mantenga burbujas en la superficie.",
+        "fr": "Couvrir et laisser reposer environ 1 heure, jusqu'à ce que la pâte se raffermisse, devienne souple et reste couverte de bulles en surface.",
+        "ro": "Acoperă și lasă aproximativ 1 oră, până compoziția se întărește, devine flexibilă și rămâne cu bule la suprafață."
       }
     },
     {
       "title": {
-        "en": "Pan"
+        "en": "Pan",
+        "de": "In die Form füllen",
+        "es": "En el molde",
+        "fr": "Dans le moule",
+        "ro": "În formă"
       },
       "summary": {
-        "en": "Scrape into a lined Pullman tin and smooth the top with a wet hand."
+        "en": "Scrape into a lined Pullman tin and smooth the top with a wet hand.",
+        "de": "In eine ausgelegte Pullman-Form füllen und die Oberfläche mit einer nassen Hand glätten.",
+        "es": "Verter en un molde Pullman forrado y alisar la superficie con una mano húmeda.",
+        "fr": "Verser dans un moule Pullman garni et lisser le dessus avec une main humide.",
+        "ro": "Toarnă într-o formă Pullman căptușită și netezește suprafața cu o mână umedă."
       }
     },
     {
       "title": {
-        "en": "Second proof"
+        "en": "Second proof",
+        "de": "Zweite Gare",
+        "es": "Segunda fermentación",
+        "fr": "Seconde pousse",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Cover tightly and proof 1-2 hours until the batter domes slightly above the rim."
+        "en": "Cover tightly and proof 1-2 hours until the batter domes slightly above the rim.",
+        "de": "Fest abdecken und 1-2 Stunden gehen lassen, bis die Masse leicht über den Rand wölbt.",
+        "es": "Tapar bien y dejar fermentar 1-2 horas hasta que la masa se abombe ligeramente sobre el borde.",
+        "fr": "Couvrir hermétiquement et laisser pousser 1-2 heures jusqu'à ce que la pâte bombe légèrement au-dessus du bord.",
+        "ro": "Acoperă bine și lasă la dospit 1-2 ore, până compoziția se bombează ușor peste margine."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 220°C for 20 minutes, then drop to 200°C for 30-40 minutes more until deeply golden."
+        "en": "Bake at 220°C for 20 minutes, then drop to 200°C for 30-40 minutes more until deeply golden.",
+        "de": "Bei 220°C 20 Minuten backen, dann auf 200°C senken für weitere 30-40 Minuten, bis er tief goldbraun ist.",
+        "es": "Hornear a 220°C durante 20 minutos, luego bajar a 200°C 30-40 minutos más hasta que esté muy dorado.",
+        "fr": "Cuire à 220°C pendant 20 minutes, puis baisser à 200°C pour 30-40 minutes de plus jusqu'à coloration bien dorée.",
+        "ro": "Coace la 220°C timp de 20 de minute, apoi coboară la 200°C pentru încă 30-40 de minute, până devine auriu-închis."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcire"
       },
       "summary": {
-        "en": "Rest 20 minutes in the tin, then cool completely on a rack before slicing."
+        "en": "Rest 20 minutes in the tin, then cool completely on a rack before slicing.",
+        "de": "20 Minuten in der Form ruhen lassen, dann vollständig auf einem Gitter abkühlen lassen, bevor angeschnitten wird.",
+        "es": "Dejar reposar 20 minutos en el molde, luego dejar enfriar por completo sobre una rejilla antes de cortar.",
+        "fr": "Laisser reposer 20 minutes dans le moule, puis laisser refroidir complètement sur une grille avant de trancher.",
+        "ro": "Lasă 20 de minute în formă, apoi lasă să se răcească complet pe un grătar înainte de a felia."
       }
     }
   ],

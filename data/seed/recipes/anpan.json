@@ -136,58 +136,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water to a shaggy dough, then knead about 5 minutes."
+        "en": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water to a shaggy dough, then knead about 5 minutes.",
+        "de": "Brotmehl, Kuchenmehl, Zucker, Salz und Hefe vermengen; Ei, Milch und Wasser zu einem groben Teig einrühren, dann etwa 5 Minuten kneten.",
+        "es": "Combinar la harina de fuerza, la harina floja, el azúcar, la sal y la levadura; añadir el huevo, la leche y el agua hasta lograr una masa desgreñada, y amasar unos 5 minutos.",
+        "fr": "Mélanger la farine de gruau, la farine à pâtisserie, le sucre, le sel et la levure; incorporer l'œuf, le lait et l'eau pour former une pâte grossière, puis pétrir environ 5 minutes.",
+        "ro": "Combină făina de pâine, făina albă fină, zahărul, sarea și drojdia; încorporează oul, laptele și apa până obții un aluat neuniform, apoi frământă aproximativ 5 minute."
       }
     },
     {
       "title": {
-        "en": "Enrich"
+        "en": "Enrich",
+        "de": "Butter einarbeiten",
+        "es": "Enriquecer la masa",
+        "fr": "Enrichir la pâte",
+        "ro": "Îmbogățește aluatul"
       },
       "summary": {
-        "en": "Work in the softened butter and knead 10 more minutes until smooth and elastic enough to stretch into a thin windowpane."
+        "en": "Work in the softened butter and knead 10 more minutes until smooth and elastic enough to stretch into a thin windowpane.",
+        "de": "Die weiche Butter einarbeiten und 10 weitere Minuten kneten, bis der Teig glatt und elastisch genug für die Fensterprobe ist.",
+        "es": "Incorporar la mantequilla ablandada y amasar 10 minutos más hasta que quede lisa y lo bastante elástica para la prueba de la membrana.",
+        "fr": "Incorporer le beurre ramolli et pétrir 10 minutes de plus jusqu'à ce que la pâte soit lisse et assez élastique pour le test du voile.",
+        "ro": "Încorporează untul moale și frământă încă 10 minute până devine neted și suficient de elastic pentru testul foiței."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Primera fermentación",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and proof in a warm spot 1-2 hours until doubled."
+        "en": "Cover and proof in a warm spot 1-2 hours until doubled.",
+        "de": "Abdecken und an einem warmen Ort 1-2 Stunden gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y fermentar en un lugar cálido 1-2 horas hasta que doble su volumen.",
+        "fr": "Couvrir et laisser pointer au chaud 1-2 heures jusqu'à ce que la pâte double de volume.",
+        "ro": "Acoperă și lasă la dospit într-un loc cald 1-2 ore, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Divide and rest"
+        "en": "Divide and rest",
+        "de": "Teilen und ruhen lassen",
+        "es": "Dividir y reposar",
+        "fr": "Diviser et détendre",
+        "ro": "Împarte și odihnește"
       },
       "summary": {
-        "en": "Divide into 8 pieces, shape into balls, and rest 15 minutes."
+        "en": "Divide into 8 pieces, shape into balls, and rest 15 minutes.",
+        "de": "In 8 Stücke teilen, zu Kugeln formen und 15 Minuten ruhen lassen.",
+        "es": "Dividir en 8 piezas, bolear y dejar reposar 15 minutos.",
+        "fr": "Diviser en 8 pâtons, bouler et laisser détendre 15 minutes.",
+        "ro": "Împarte în 8 bucăți, rotunjește în bile și lasă la odihnă 15 minute."
       }
     },
     {
       "title": {
-        "en": "Fill"
+        "en": "Fill",
+        "de": "Füllen",
+        "es": "Rellenar",
+        "fr": "Garnir",
+        "ro": "Umple"
       },
       "summary": {
-        "en": "Flatten each piece, place red bean paste in the center, gather the edges to seal, and reshape into a smooth ball."
+        "en": "Flatten each piece, place red bean paste in the center, gather the edges to seal, and reshape into a smooth ball.",
+        "de": "Jedes Stück flach drücken, rote Bohnenpaste in die Mitte geben, die Ränder zusammenziehen und wieder zu einer glatten Kugel formen.",
+        "es": "Aplanar cada pieza, poner pasta de judía roja en el centro, cerrar juntando los bordes y volver a formar una bola lisa.",
+        "fr": "Aplatir chaque pâton, déposer de la pâte de haricots rouges au centre, refermer les bords en pinçant, puis reformer une boule lisse.",
+        "ro": "Aplatizează fiecare bucată, pune pastă de fasole roșie în centru, strânge marginile pentru a sigila și modelează din nou o bilă netedă."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof about 30 minutes until puffy; press a floured fingertip into the center of each bun and sprinkle with sesame seeds if using."
+        "en": "Proof about 30 minutes until puffy; press a floured fingertip into the center of each bun and sprinkle with sesame seeds if using.",
+        "de": "Etwa 30 Minuten gehen lassen, bis sie aufgepolstert wirken; mit einem bemehlten Finger die Mitte eindrücken und nach Belieben mit Sesam bestreuen.",
+        "es": "Fermentar unos 30 minutos hasta que estén hinchados; presionar el centro con un dedo enharinado y espolvorear con sésamo si se desea.",
+        "fr": "Laisser à l'apprêt environ 30 minutes jusqu'à ce qu'ils gonflent; marquer le centre du bout d'un doigt fariné et parsemer de sésame si désiré.",
+        "ro": "Lasă la dospire finală aproximativ 30 de minute până se umflă; apasă centrul cu un deget făinat și presară cu susan, dacă folosești."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 200°C (400°F) for 13-15 minutes until golden brown."
+        "en": "Bake at 200°C (400°F) for 13-15 minutes until golden brown.",
+        "de": "Bei 200°C (400°F) 13-15 Minuten backen, bis sie goldbraun sind.",
+        "es": "Hornear a 200°C (400°F) durante 13-15 minutos hasta que estén dorados.",
+        "fr": "Cuire à 200°C (400°F) pendant 13-15 minutes jusqu'à coloration dorée.",
+        "ro": "Coace la 200°C (400°F) timp de 13-15 minute până se rumenesc."
       }
     }
   ],

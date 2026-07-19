@@ -130,42 +130,82 @@
   "method": [
     {
       "title": {
-        "en": "Starter"
+        "en": "Starter",
+        "de": "Starter",
+        "es": "Masa madre",
+        "fr": "Levain",
+        "ro": "Maiaua"
       },
       "summary": {
-        "en": "The day before, mix wheat flour, water and a little bran into a firm dough (massa velha) and let it ferment 8-12 hours; you'll use about three-quarters of it here and can keep the rest going for next time."
+        "en": "The day before, mix wheat flour, water and a little bran into a firm dough (massa velha) and let it ferment 8-12 hours; you'll use about three-quarters of it here and can keep the rest going for next time.",
+        "de": "Am Vortag Weizenmehl, Wasser und etwas Kleie zu einem festen Teig (massa velha) verbinden und 8-12 Stunden fermentieren lassen; etwa drei Viertel davon werden hier verwendet, der Rest kann für das nächste Mal weitergeführt werden.",
+        "es": "El día anterior, mezclar harina de trigo, agua y un poco de salvado en una masa firme (massa velha) y dejar fermentar 8-12 horas; usarás unas tres cuartas partes aquí y puedes mantener el resto para la próxima vez.",
+        "fr": "La veille, mélanger la farine de blé, l'eau et un peu de son en une pâte ferme (massa velha) et laisser fermenter 8-12 heures; on en utilise environ les trois quarts ici, et on peut garder le reste pour la prochaine fois.",
+        "ro": "Cu o zi înainte, amestecă făină de grâu, apă și puțină tărâță într-un aluat ferm (massa velha) și lasă la fermentat 8-12 ore; vei folosi aproximativ trei sferturi aici și poți păstra restul pentru data viitoare."
       }
     },
     {
       "title": {
-        "en": "Scald the cornmeal"
+        "en": "Scald the cornmeal",
+        "de": "Maismehl brühen",
+        "es": "Escaldar la harina de maíz",
+        "fr": "Ébouillanter la farine de maïs",
+        "ro": "Oparește mălaiul"
       },
       "summary": {
-        "en": "Pour boiling water over the sifted cornmeal and stir until fully hydrated, then cool to below 40°C, about 30-45 minutes."
+        "en": "Pour boiling water over the sifted cornmeal and stir until fully hydrated, then cool to below 40°C, about 30-45 minutes.",
+        "de": "Kochendes Wasser über das gesiebte Maismehl gießen und rühren, bis es vollständig hydratisiert ist, dann auf unter 40°C abkühlen lassen, etwa 30-45 Minuten.",
+        "es": "Verter agua hirviendo sobre la harina de maíz tamizada y remover hasta hidratar por completo, luego dejar enfriar por debajo de 40°C, unos 30-45 minutos.",
+        "fr": "Verser de l'eau bouillante sur la farine de maïs tamisée et remuer jusqu'à hydratation complète, puis laisser refroidir en dessous de 40°C, environ 30-45 minutes.",
+        "ro": "Toarnă apă clocotită peste mălaiul cernut și amestecă până se hidratează complet, apoi lasă să se răcească sub 40°C, aproximativ 30-45 de minute."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Work the rye flour, more tepid water, salt, the starter, and a little yeast if using, into the cooled cornmeal mash by hand until evenly combined."
+        "en": "Work the rye flour, more tepid water, salt, the starter, and a little yeast if using, into the cooled cornmeal mash by hand until evenly combined.",
+        "de": "Roggenmehl, mehr lauwarmes Wasser, Salz, den Starter und bei Bedarf etwas Hefe von Hand in den abgekühlten Maisbrei einarbeiten, bis alles gleichmäßig verbunden ist.",
+        "es": "Incorporar a mano la harina de centeno, más agua tibia, la sal, la masa madre y, si la usas, un poco de levadura, en el puré de maíz enfriado hasta unir bien.",
+        "fr": "Incorporer à la main la farine de seigle, plus d'eau tiède, le sel, le levain et, si utilisée, un peu de levure, dans la bouillie de maïs refroidie, jusqu'à bien lier.",
+        "ro": "Încorporează manual făina de secară, mai multă apă călduță, sarea, maiaua și, dacă folosești, puțină drojdie, în terciul de mălai răcit, până se omogenizează."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Lasă la dospit"
       },
       "summary": {
-        "en": "Cover and let rise 1-2 hours until the surface visibly cracks, a sign it's ready."
+        "en": "Cover and let rise 1-2 hours until the surface visibly cracks, a sign it's ready.",
+        "de": "Zugedeckt 1-2 Stunden gehen lassen, bis die Oberfläche sichtbar aufreißt, ein Zeichen, dass er bereit ist.",
+        "es": "Tapar y dejar fermentar 1-2 horas hasta que la superficie se agriete visiblemente, señal de que está lista.",
+        "fr": "Couvrir et laisser lever 1-2 heures jusqu'à ce que la surface se craquelle visiblement, signe qu'elle est prête.",
+        "ro": "Acoperă și lasă la crescut 1-2 ore, până suprafața crapă vizibil, semn că e gata."
       }
     },
     {
       "title": {
-        "en": "Shape and bake"
+        "en": "Shape and bake",
+        "de": "Formen und backen",
+        "es": "Formar y hornear",
+        "fr": "Façonner et cuire",
+        "ro": "Modelează și coace"
       },
       "summary": {
-        "en": "Shape into a round loaf and bake at 250°C for 30-40 minutes until the core reaches 98-100°C and the crust turns deep and crackly."
+        "en": "Shape into a round loaf and bake at 250°C for 30-40 minutes until the core reaches 98-100°C and the crust turns deep and crackly.",
+        "de": "Zu einem runden Laib formen und bei 250°C 30-40 Minuten backen, bis der Kern 98-100°C erreicht und die Kruste tief und rissig wird.",
+        "es": "Formar un pan redondo y hornear a 250°C durante 30-40 minutos, hasta que el centro alcance 98-100°C y la corteza quede profunda y agrietada.",
+        "fr": "Façonner en pain rond et cuire à 250°C pendant 30-40 minutes, jusqu'à ce que le cœur atteigne 98-100°C et que la croûte soit épaisse et craquelée.",
+        "ro": "Modelează o pâine rotundă și coace la 250°C timp de 30-40 de minute, până miezul atinge 98-100°C, iar coaja devine groasă și crăpată."
       }
     }
   ],

@@ -131,50 +131,98 @@
   "method": [
     {
       "title": {
-        "en": "Build the rye sour"
+        "en": "Build the rye sour",
+        "de": "Roggensauer ansetzen",
+        "es": "Preparar la masa madre de centeno",
+        "fr": "Préparer le levain de seigle",
+        "ro": "Pregătește maiaua de secară"
       },
       "summary": {
-        "en": "Mix a spoonful of starter with whole rye flour and water; let it ferment at room temperature overnight until active and pleasantly sour."
+        "en": "Mix a spoonful of starter with whole rye flour and water; let it ferment at room temperature overnight until active and pleasantly sour.",
+        "de": "Einen Löffel Anstellgut mit Roggenvollkornmehl und Wasser mischen; über Nacht bei Raumtemperatur gären lassen, bis er aktiv und angenehm säuerlich ist.",
+        "es": "Mezclar una cucharada de masa madre con harina integral de centeno y agua; dejar fermentar a temperatura ambiente toda la noche, hasta que esté activa y agradablemente ácida.",
+        "fr": "Mélanger une cuillerée de levain-chef avec de la farine complète de seigle et de l'eau; laisser fermenter à température ambiante toute la nuit, jusqu'à ce qu'il soit actif et agréablement acide.",
+        "ro": "Amestecă o lingură de maia cu făină integrală de secară și apă; las-o la fermentat la temperatura camerei peste noapte, până devine activă și plăcut acrișoară."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine the rye sour with bread flour, more water, caraway, salt and a touch of yeast into a smooth, workable dough."
+        "en": "Combine the rye sour with bread flour, more water, caraway, salt and a touch of yeast into a smooth, workable dough.",
+        "de": "Den Roggensauer mit Weizenmehl, weiterem Wasser, Kümmel, Salz und einer Spur Hefe zu einem glatten, gut bearbeitbaren Teig verbinden.",
+        "es": "Combinar la masa madre de centeno con harina de fuerza, más agua, alcaravea, sal y un toque de levadura hasta obtener una masa lisa y manejable.",
+        "fr": "Combiner le levain de seigle avec la farine de force, plus d'eau, du carvi, du sel et une touche de levure en une pâte lisse et facile à travailler.",
+        "ro": "Combină maiaua de secară cu făină de pâine, mai multă apă, chimen, sare și puțină drojdie, într-un aluat neted și ușor de lucrat."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentare în masă"
       },
       "summary": {
-        "en": "Let the dough rise about an hour, until visibly puffy."
+        "en": "Let the dough rise about an hour, until visibly puffy.",
+        "de": "Den Teig etwa eine Stunde gehen lassen, bis er sichtbar aufgebläht ist.",
+        "es": "Dejar fermentar la masa una hora aproximadamente, hasta que esté visiblemente hinchada.",
+        "fr": "Laisser lever la pâte environ une heure, jusqu'à ce qu'elle soit visiblement gonflée.",
+        "ro": "Lasă aluatul la crescut aproximativ o oră, până se umflă vizibil."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into a plump oval loaf and set it on a floured peel or parchment."
+        "en": "Shape into a plump oval loaf and set it on a floured peel or parchment.",
+        "de": "Zu einem pummeligen, ovalen Laib formen und auf einen bemehlten Schieber oder Backpapier setzen.",
+        "es": "Dar forma de pan ovalado y rechoncho, y colocarlo sobre una pala enharinada o papel de horno.",
+        "fr": "Façonner en pain ovale bien rebondi et le poser sur une pelle farinée ou du papier cuisson.",
+        "ro": "Modelează o pâine ovală, bine umflată, și așaz-o pe o lopată făinuită sau pe hârtie de copt."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt final",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof uncovered until it springs back slowly when poked, about 40 minutes."
+        "en": "Proof uncovered until it springs back slowly when poked, about 40 minutes.",
+        "de": "Offen gehen lassen, bis er beim Eindrücken langsam zurückfedert, etwa 40 Minuten.",
+        "es": "Dejar fermentar destapada hasta que recupere la forma lentamente al presionarla, unos 40 minutos.",
+        "fr": "Laisser pousser à découvert jusqu'à ce que ça reprenne lentement sa forme sous le doigt, environ 40 minutes.",
+        "ro": "Lasă la dospit neacoperit până revine încet la apăsare, aproximativ 40 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake covered, then open"
+        "en": "Bake covered, then open",
+        "de": "Zugedeckt backen, dann offen",
+        "es": "Hornear tapado, luego destapado",
+        "fr": "Cuire couvert, puis découvert",
+        "ro": "Coace acoperit, apoi descoperit"
       },
       "summary": {
-        "en": "Bake on a hot stone, covered for the first stretch to trap steam, then uncovered until the crust is deeply crackled."
+        "en": "Bake on a hot stone, covered for the first stretch to trap steam, then uncovered until the crust is deeply crackled.",
+        "de": "Auf einem heißen Stein backen, anfangs zugedeckt, um Dampf einzuschließen, dann offen, bis die Kruste tief aufreißt.",
+        "es": "Hornear sobre una piedra caliente, tapada al principio para retener el vapor, luego destapada hasta que la corteza se agriete profundamente.",
+        "fr": "Cuire sur une pierre chaude, couvert au début pour retenir la buée, puis découvert jusqu'à ce que la croûte craquelle profondément.",
+        "ro": "Coace pe o piatră fierbinte, acoperit la început pentru a reține aburul, apoi descoperit până coaja crapă adânc."
       }
     }
   ],

@@ -116,58 +116,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Stir water, yeast and sugar together, then work in melted lard and half the flour to a thick paste before adding salt and the rest of the flour."
+        "en": "Stir water, yeast and sugar together, then work in melted lard and half the flour to a thick paste before adding salt and the rest of the flour.",
+        "de": "Wasser, Hefe und Zucker verrühren, dann geschmolzenes Schmalz und die Hälfte des Mehls zu einer dicken Paste einarbeiten, bevor Salz und das restliche Mehl dazukommen.",
+        "es": "Mezclar el agua, la levadura y el azúcar, luego incorporar la manteca derretida y la mitad de la harina hasta formar una pasta espesa, antes de añadir la sal y el resto de la harina.",
+        "fr": "Mélanger l'eau, la levure et le sucre, puis incorporer le saindoux fondu et la moitié de la farine en une pâte épaisse, avant d'ajouter le sel et le reste de la farine.",
+        "ro": "Amestecă apa, drojdia și zahărul, apoi încorporează untura topită și jumătate din făină într-o pastă groasă, înainte de a adăuga sarea și restul de făină."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead 10-15 minutes until smooth and elastic enough to stretch into a thin windowpane."
+        "en": "Knead 10-15 minutes until smooth and elastic enough to stretch into a thin windowpane.",
+        "de": "10-15 Minuten kneten, bis der Teig glatt und elastisch genug ist, um sich hauchdünn und durchscheinend ausziehen zu lassen.",
+        "es": "Amasar 10-15 minutos hasta que la masa esté lisa y lo bastante elástica para estirarse en un velo fino y translúcido.",
+        "fr": "Pétrir 10-15 minutes jusqu'à obtenir une pâte lisse et assez élastique pour s'étirer en un voile fin et translucide.",
+        "ro": "Frământă 10-15 minute până aluatul devine neted și suficient de elastic pentru a se întinde într-o peliculă subțire și translucidă."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let the dough double in size, about an hour to ninety minutes."
+        "en": "Cover and let the dough double in size, about an hour to ninety minutes.",
+        "de": "Abdecken und den Teig auf das Doppelte aufgehen lassen, etwa eine Stunde bis 90 Minuten.",
+        "es": "Tapar y dejar que la masa doble su tamaño, entre una hora y 90 minutos.",
+        "fr": "Couvrir et laisser la pâte doubler de volume, environ une heure à 90 minutes.",
+        "ro": "Acoperă și lasă aluatul să se dubleze, aproximativ o oră până la 90 de minute."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide in half, pat each piece into a rectangle, and roll tightly from the long edge into a torpedo, pinching the seam shut."
+        "en": "Divide in half, pat each piece into a rectangle, and roll tightly from the long edge into a torpedo, pinching the seam shut.",
+        "de": "Halbieren, jedes Stück zu einem Rechteck flach drücken und von der langen Kante her straff zu einer Torpedoform rollen, die Naht fest zudrücken.",
+        "es": "Dividir por la mitad, aplanar cada trozo en un rectángulo y enrollar bien prieto desde el lado largo hasta formar un torpedo, sellando la costura.",
+        "fr": "Diviser en deux, aplatir chaque pâton en rectangle, puis rouler serré depuis le grand côté en forme de torpille, en pinçant bien la soudure.",
+        "ro": "Împarte în două, presează fiecare bucată într-un dreptunghi și rulează strâns dinspre latura lungă într-o formă de torpilă, lipind bine cusătura."
       }
     },
     {
       "title": {
-        "en": "Score"
+        "en": "Score",
+        "de": "Einschneiden",
+        "es": "Greñado",
+        "fr": "Grigner",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Press a palm frond (or make a single lengthwise slash) along the top so steam has one place to escape."
+        "en": "Press a palm frond (or make a single lengthwise slash) along the top so steam has one place to escape.",
+        "de": "Einen Palmwedel eindrücken (oder einen einzigen Längsschnitt setzen), damit der Dampf an einer Stelle entweichen kann.",
+        "es": "Marcar con una hoja de palma (o hacer un único corte a lo largo) para que el vapor tenga un solo punto de salida.",
+        "fr": "Presser une feuille de palmier (ou faire une seule entaille dans la longueur) pour que la buée n'ait qu'un seul point de sortie.",
+        "ro": "Apasă o frunză de palmier (sau fă o singură crestătură pe lungime) ca aburul să aibă un singur loc pe unde să iasă."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot until deeply golden and crusty, with an internal temperature near 93°C (200°F)."
+        "en": "Bake hot until deeply golden and crusty, with an internal temperature near 93°C (200°F).",
+        "de": "Heiß backen, bis er tief goldbraun und knusprig ist, mit einer Kerntemperatur nahe 93°C (200°F).",
+        "es": "Hornear a temperatura alta hasta que esté muy dorado y crujiente, con una temperatura interna cercana a 93°C (200°F).",
+        "fr": "Cuire à four chaud jusqu'à coloration bien dorée et croûte croustillante, avec une température à cœur proche de 93°C (200°F).",
+        "ro": "Coace la foc iute până devine auriu-închis și crocant, cu o temperatură internă de aproape 93°C (200°F)."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcire"
       },
       "summary": {
-        "en": "Rest on a rack for close to an hour before slicing so the crumb sets."
+        "en": "Rest on a rack for close to an hour before slicing so the crumb sets.",
+        "de": "Fast eine Stunde auf einem Gitter ruhen lassen, bevor angeschnitten wird, damit sich die Krume setzt.",
+        "es": "Dejar reposar sobre una rejilla casi una hora antes de cortar para que la miga asiente.",
+        "fr": "Laisser reposer sur une grille près d'une heure avant de trancher pour que la mie se stabilise.",
+        "ro": "Lasă pe un grătar aproape o oră înainte de a felia, ca miezul să se stabilizeze."
       }
     }
   ],

@@ -131,58 +131,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the sourdough"
+        "en": "Build the sourdough",
+        "de": "Sauerteig ansetzen",
+        "es": "Preparar la masa madre",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua"
       },
       "summary": {
-        "en": "Mix rye flour, lukewarm water and starter; ferment covered about 12 hours, starting slightly warm and cooling gradually."
+        "en": "Mix rye flour, lukewarm water and starter; ferment covered about 12 hours, starting slightly warm and cooling gradually.",
+        "de": "Roggenmehl, lauwarmes Wasser und Anstellgut vermischen; abgedeckt etwa 12 Stunden fermentieren lassen, zunächst leicht warm, dann allmählich abkühlend.",
+        "es": "Mezclar harina de centeno, agua tibia y masa madre; fermentar tapada unas 12 horas, empezando algo cálida y enfriándose poco a poco.",
+        "fr": "Mélanger la farine de seigle, l'eau tiède et le levain ; laisser fermenter couvert environ 12 heures, en commençant légèrement chaud puis en refroidissant peu à peu.",
+        "ro": "Amestecă făina de secară, apa călduță și maiaua; lasă la fermentat acoperit aproximativ 12 ore, pornind ușor cald și răcindu-se treptat."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine the ripe sourdough with the remaining rye flour, water, salt, beet syrup, roasted rye malt and a little fresh yeast into a thick, plaster-like mass. There is no real kneading, just thorough mixing."
+        "en": "Combine the ripe sourdough with the remaining rye flour, water, salt, beet syrup, roasted rye malt and a little fresh yeast into a thick, plaster-like mass. There is no real kneading, just thorough mixing.",
+        "de": "Den reifen Sauerteig mit dem restlichen Roggenmehl, Wasser, Salz, Rübensirup, Röstmalz und etwas frischer Hefe zu einer dickflüssigen, putzartigen Masse verrühren. Richtiges Kneten gibt es nicht, nur gründliches Mischen.",
+        "es": "Combinar la masa madre madura con el resto de la harina de centeno, el agua, la sal, el sirope de remolacha, la malta de centeno tostada y un poco de levadura fresca hasta obtener una masa espesa, como una pasta. No se amasa de verdad, solo se mezcla a fondo.",
+        "fr": "Mélanger le levain mûr avec le reste de la farine de seigle, l'eau, le sel, le sirop de betterave, le malt de seigle torréfié et un peu de levure fraîche pour obtenir une masse épaisse, comme un enduit. Il n'y a pas de vrai pétrissage, juste un mélange minutieux.",
+        "ro": "Amestecă maiaua coaptă cu restul de făină de secară, apa, sarea, siropul de sfeclă, malțul de secară prăjit și puțină drojdie proaspătă, până obții o masă groasă, ca o tencuială. Nu se frământă cu adevărat, doar se amestecă temeinic."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cover and let the dough relax 30-40 minutes so the rye flour fully hydrates."
+        "en": "Cover and let the dough relax 30-40 minutes so the rye flour fully hydrates.",
+        "de": "Abdecken und den Teig 30-40 Minuten ruhen lassen, damit sich das Roggenmehl vollständig mit Wasser vollsaugt.",
+        "es": "Tapar y dejar reposar la masa 30-40 minutos para que la harina de centeno se hidrate por completo.",
+        "fr": "Couvrir et laisser la pâte se détendre 30-40 minutes pour que la farine de seigle s'hydrate complètement.",
+        "ro": "Acoperă și lasă aluatul la odihnă 30-40 de minute ca făina de secară să se hidrateze complet."
       }
     },
     {
       "title": {
-        "en": "Shape wet"
+        "en": "Shape wet",
+        "de": "Nass formen",
+        "es": "Formar en húmedo",
+        "fr": "Façonner à l'eau",
+        "ro": "Modelează cu mâini ude"
       },
       "summary": {
-        "en": "Wet your hands, tools and the work surface, then roll the dough into a log and ease it into a greased tin, smoothing the top with a wet scraper."
+        "en": "Wet your hands, tools and the work surface, then roll the dough into a log and ease it into a greased tin, smoothing the top with a wet scraper.",
+        "de": "Hände, Werkzeug und Arbeitsfläche nass machen, den Teig zu einem Laib formen, in eine gefettete Kastenform legen und die Oberfläche mit einem nassen Schaber glätten.",
+        "es": "Mojar las manos, las herramientas y la superficie de trabajo, formar la masa en un tronco y colocarla en un molde engrasado, alisando la superficie con una espátula húmeda.",
+        "fr": "Mouiller les mains, les outils et le plan de travail, façonner la pâte en bûche, la déposer dans un moule graissé et lisser le dessus avec une spatule humide.",
+        "ro": "Udă-ți mâinile, uneltele și suprafața de lucru, rulează aluatul într-un sul și așază-l într-o formă unsă, netezind suprafața cu o racletă udă."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Dust with rye flour and let rise about 70-80 minutes at room temperature until it reaches the rim and shows small surface cracks."
+        "en": "Dust with rye flour and let rise about 70-80 minutes at room temperature until it reaches the rim and shows small surface cracks.",
+        "de": "Mit Roggenmehl bestäuben und bei Raumtemperatur etwa 70-80 Minuten gehen lassen, bis der Teig den Formrand erreicht und feine Risse an der Oberfläche zeigt.",
+        "es": "Espolvorear con harina de centeno y dejar fermentar a temperatura ambiente unos 70-80 minutos, hasta que llegue al borde del molde y muestre pequeñas grietas en la superficie.",
+        "fr": "Fariner de farine de seigle et laisser pousser à température ambiante environ 70-80 minutes, jusqu'à ce que la pâte atteigne le bord du moule et présente de petites fissures en surface.",
+        "ro": "Presară făină de secară și lasă la crescut la temperatura camerei aproximativ 70-80 de minute, până ajunge la marginea formei și apar mici crăpături la suprafață."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot, then step the oven down and continue until deeply crusted, about 70-75 minutes total."
+        "en": "Bake hot, then step the oven down and continue until deeply crusted, about 70-75 minutes total.",
+        "de": "Heiß backen, dann die Ofentemperatur schrittweise senken und weiterbacken, bis eine kräftige Kruste entsteht, insgesamt etwa 70-75 Minuten.",
+        "es": "Hornear a temperatura alta, luego bajar el horno progresivamente y seguir horneando hasta lograr una corteza bien marcada, unos 70-75 minutos en total.",
+        "fr": "Cuire à four chaud, puis baisser progressivement la température et poursuivre jusqu'à une croûte bien marquée, environ 70-75 minutes au total.",
+        "ro": "Coace la temperatură mare, apoi redu treptat temperatura cuptorului și continuă până se formează o coajă groasă, în total aproximativ 70-75 de minute."
       }
     },
     {
       "title": {
-        "en": "Rest before slicing"
+        "en": "Rest before slicing",
+        "de": "Vor dem Anschneiden ruhen lassen",
+        "es": "Reposar antes de cortar",
+        "fr": "Reposer avant de trancher",
+        "ro": "Odihnă înainte de feliere"
       },
       "summary": {
-        "en": "Cool completely, then let the loaf sit at least a day; the dense crumb needs that time to firm up for clean slices."
+        "en": "Cool completely, then let the loaf sit at least a day; the dense crumb needs that time to firm up for clean slices.",
+        "de": "Vollständig auskühlen lassen, dann den Laib mindestens einen Tag ruhen lassen, die dichte Krume braucht diese Zeit, um beim Schneiden saubere Scheiben zu ergeben.",
+        "es": "Dejar enfriar por completo y luego reposar la hogaza al menos un día; la miga densa necesita ese tiempo para asentarse y cortarse en rebanadas limpias.",
+        "fr": "Laisser refroidir complètement, puis laisser reposer le pain au moins une journée ; la mie dense a besoin de ce temps pour raffermir et se trancher proprement.",
+        "ro": "Lasă la răcit complet, apoi lasă pâinea să stea cel puțin o zi; miezul dens are nevoie de acest timp ca să se întărească pentru felii curate."
       }
     }
   ],

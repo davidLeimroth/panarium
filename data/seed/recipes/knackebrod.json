@@ -141,58 +141,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Whisk rye flour, wheat flour, oats, salt, sugar and yeast together, then stir in warmed milk and melted butter to a stiff, slightly sticky dough."
+        "en": "Whisk rye flour, wheat flour, oats, salt, sugar and yeast together, then stir in warmed milk and melted butter to a stiff, slightly sticky dough.",
+        "de": "Roggenmehl, Weizenmehl, Haferflocken, Salz, Zucker und Hefe verquirlen, dann warme Milch und geschmolzene Butter einrühren, bis ein fester, leicht klebriger Teig entsteht.",
+        "es": "Batir la harina de centeno, la harina de trigo, la avena, la sal, el azúcar y la levadura, luego incorporar la leche templada y la mantequilla derretida hasta lograr una masa firme y algo pegajosa.",
+        "fr": "Fouetter la farine de seigle, la farine de blé, les flocons d'avoine, le sel, le sucre et la levure, puis incorporer le lait tiédi et le beurre fondu pour obtenir une pâte ferme et légèrement collante.",
+        "ro": "Amestecă făina de secară, făina de grâu, fulgii de ovăz, sarea, zahărul și drojdia, apoi adaugă laptele călduț și untul topit până obții un aluat ferm, ușor lipicios."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Cover and let stand at room temperature about an hour."
+        "en": "Cover and let stand at room temperature about an hour.",
+        "de": "Abdecken und etwa eine Stunde bei Raumtemperatur stehen lassen.",
+        "es": "Tapar y dejar reposar a temperatura ambiente cerca de una hora.",
+        "fr": "Couvrir et laisser reposer à température ambiante environ une heure.",
+        "ro": "Acoperă și lasă la temperatura camerei aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Divide and roll"
+        "en": "Divide and roll",
+        "de": "Teilen und ausrollen",
+        "es": "Dividir y estirar",
+        "fr": "Diviser et abaisser",
+        "ro": "Împarte și întinde"
       },
       "summary": {
-        "en": "Portion the dough and roll each piece out paper-thin on parchment."
+        "en": "Portion the dough and roll each piece out paper-thin on parchment.",
+        "de": "Den Teig portionieren und jedes Stück auf Backpapier hauchdünn ausrollen.",
+        "es": "Dividir la masa en porciones y estirar cada una sobre papel de horno hasta dejarla fina como el papel.",
+        "fr": "Diviser la pâte en portions et abaisser chaque morceau sur du papier cuisson aussi fin que du papier.",
+        "ro": "Împarte aluatul în porții și întinde fiecare bucată pe hârtie de copt, subțire ca hârtia."
       }
     },
     {
       "title": {
-        "en": "Dock and cut"
+        "en": "Dock and cut",
+        "de": "Einstechen und ausstechen",
+        "es": "Pinchar y cortar",
+        "fr": "Piquer et découper",
+        "ro": "Înțeapă și decupează"
       },
       "summary": {
-        "en": "Prick all over with a fork or spiked roller, then cut a hole in the center for the traditional hanging pole."
+        "en": "Prick all over with a fork or spiked roller, then cut a hole in the center for the traditional hanging pole.",
+        "de": "Überall mit einer Gabel oder einem Stachelroller einstechen, dann in der Mitte ein Loch für die traditionelle Aufhängestange ausstechen.",
+        "es": "Pinchar toda la superficie con un tenedor o un rodillo de púas, luego cortar un agujero en el centro para el palo tradicional donde se colgaban.",
+        "fr": "Piquer toute la surface avec une fourchette ou un rouleau à picots, puis découper un trou au centre pour la traditionnelle perche à suspendre.",
+        "ro": "Înțeapă toată suprafața cu o furculiță sau un sucitor cu țepi, apoi decupează o gaură în mijloc pentru bățul tradițional de agățat."
       }
     },
     {
       "title": {
-        "en": "Season"
+        "en": "Season",
+        "de": "Würzen",
+        "es": "Sazonar",
+        "fr": "Assaisonner",
+        "ro": "Asezonează"
       },
       "summary": {
-        "en": "Brush lightly with melted butter and scatter coarse sea salt over the surface."
+        "en": "Brush lightly with melted butter and scatter coarse sea salt over the surface.",
+        "de": "Leicht mit geschmolzener Butter bestreichen und grobes Meersalz über die Oberfläche streuen.",
+        "es": "Pincelar ligeramente con mantequilla derretida y esparcir sal marina gruesa por encima.",
+        "fr": "Badigeonner légèrement de beurre fondu et parsemer de gros sel marin sur la surface.",
+        "ro": "Unge ușor cu unt topit și presară sare grunjoasă de mare peste suprafață."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot until dry, crisp and lightly browned at the edges."
+        "en": "Bake hot until dry, crisp and lightly browned at the edges.",
+        "de": "Heiß backen, bis das Brot trocken, knusprig und an den Rändern leicht gebräunt ist.",
+        "es": "Hornear a temperatura alta hasta que quede seco, crujiente y ligeramente dorado en los bordes.",
+        "fr": "Cuire à four chaud jusqu'à ce que le pain soit sec, croustillant et légèrement doré sur les bords.",
+        "ro": "Coace la foc iute până devine uscat, crocant și ușor rumenit pe margini."
       }
     },
     {
       "title": {
-        "en": "Cool and store"
+        "en": "Cool and store",
+        "de": "Auskühlen und lagern",
+        "es": "Enfriar y conservar",
+        "fr": "Refroidir et conserver",
+        "ro": "Răcește și păstrează"
       },
       "summary": {
-        "en": "Cool completely on a rack, then keep airtight, it stays crisp for months."
+        "en": "Cool completely on a rack, then keep airtight, it stays crisp for months.",
+        "de": "Vollständig auf einem Gitter auskühlen lassen, dann luftdicht aufbewahren, es bleibt monatelang knusprig.",
+        "es": "Dejar enfriar por completo sobre una rejilla y luego guardar en un recipiente hermético; se mantiene crujiente durante meses.",
+        "fr": "Laisser refroidir complètement sur une grille, puis conserver hermétiquement ; il reste croustillant pendant des mois.",
+        "ro": "Lasă la răcit complet pe un grătar, apoi păstrează într-un recipient etanș; rămâne crocant luni întregi."
       }
     }
   ],

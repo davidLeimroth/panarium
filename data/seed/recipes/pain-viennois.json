@@ -118,50 +118,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, water, egg, sugar and salt with the yeast; knead until smooth and elastic."
+        "en": "Combine flour, water, egg, sugar and salt with the yeast; knead until smooth and elastic.",
+        "de": "Mehl, Wasser, Ei, Zucker und Salz mit der Hefe vermengen; glatt und elastisch kneten.",
+        "es": "Combinar la harina, el agua, el huevo, el azúcar y la sal con la levadura; amasar hasta que quede lisa y elástica.",
+        "fr": "Mélanger farine, eau, œuf, sucre et sel avec la levure ; pétrir jusqu'à obtenir une pâte lisse et élastique.",
+        "ro": "Combină făina, apa, oul, zahărul și sarea cu drojdia; frământă până devine netedă și elastică."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let rise about an hour."
+        "en": "Let rise about an hour.",
+        "de": "Etwa eine Stunde gehen lassen.",
+        "es": "Dejar levar aproximadamente una hora.",
+        "fr": "Laisser lever environ une heure.",
+        "ro": "Lasă la crescut aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide into pieces, let rest briefly, then roll each into a long, even stick."
+        "en": "Divide into pieces, let rest briefly, then roll each into a long, even stick.",
+        "de": "In Stücke teilen, kurz ruhen lassen, dann jedes zu einem langen, gleichmäßigen Stab rollen.",
+        "es": "Dividir en piezas, dejar reposar brevemente, luego formar cada una en un bastón largo y uniforme.",
+        "fr": "Diviser en pâtons, laisser reposer brièvement, puis rouler chacun en un bâton long et régulier.",
+        "ro": "Împarte în bucăți, lasă la odihnă scurt timp, apoi rulează fiecare într-un baton lung și uniform."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let rise until puffy, about 1.5 hours."
+        "en": "Let rise until puffy, about 1.5 hours.",
+        "de": "Gehen lassen, bis sie aufgepolstert wirken, etwa 1.5 Stunden.",
+        "es": "Dejar fermentar hasta que estén hinchados, unas 1.5 horas.",
+        "fr": "Laisser pousser jusqu'à ce qu'ils soient gonflés, environ 1.5 heure.",
+        "ro": "Lasă la dospit până devin pufoase, aproximativ 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Score"
+        "en": "Score",
+        "de": "Einschneiden",
+        "es": "Greñar",
+        "fr": "Lamer",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Brush with egg wash and slash diagonally in the classic overlapping 'saucisson' pattern."
+        "en": "Brush with egg wash and slash diagonally in the classic overlapping 'saucisson' pattern.",
+        "de": "Mit Eistreiche bestreichen und diagonal im klassischen, überlappenden 'saucisson'-Muster einschneiden.",
+        "es": "Pintar con huevo batido y greñar en diagonal con el clásico patrón superpuesto 'saucisson'.",
+        "fr": "Dorer à l'œuf et lamer en diagonale selon le motif classique du 'saucisson'.",
+        "ro": "Unge cu ou bătut și crestează în diagonală în modelul clasic suprapus 'saucisson'."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot with steam until glossy and golden."
+        "en": "Bake hot with steam until glossy and golden.",
+        "de": "Heiß mit Schwaden backen, bis er glänzend und goldbraun ist.",
+        "es": "Hornear a temperatura alta con vapor hasta que esté brillante y dorado.",
+        "fr": "Cuire à four chaud avec buée jusqu'à ce qu'il soit brillant et doré.",
+        "ro": "Coace la foc iute cu abur până devine lucios și auriu."
       }
     }
   ],

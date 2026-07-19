@@ -157,50 +157,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour, yeast, sugar and oil, then work in water to a smooth dough; let it rise until doubled, 45 minutes to an hour."
+        "en": "Combine flour, yeast, sugar and oil, then work in water to a smooth dough; let it rise until doubled, 45 minutes to an hour.",
+        "de": "Mehl, Hefe, Zucker und Öl vermengen, dann Wasser zu einem glatten Teig einarbeiten; 45 Minuten bis eine Stunde gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Combinar la harina, la levadura, el azúcar y el aceite, luego incorporar el agua hasta lograr una masa lisa; dejar fermentar hasta doblar, 45 minutos a una hora.",
+        "fr": "Combiner la farine, la levure, le sucre et l'huile, puis incorporer l'eau pour obtenir une pâte lisse; laisser lever jusqu'à ce qu'elle double, 45 minutes à une heure.",
+        "ro": "Combină făina, drojdia, zahărul și uleiul, apoi încorporează apa până obții un aluat neted; lasă la crescut până se dublează, 45 de minute până la o oră."
       }
     },
     {
       "title": {
-        "en": "Make the filling"
+        "en": "Make the filling",
+        "de": "Füllung zubereiten",
+        "es": "Preparar el relleno",
+        "fr": "Préparer la garniture",
+        "ro": "Pregătește umplutura"
       },
       "summary": {
-        "en": "Squeeze excess water from the cabbage, then mix it with ground pork, ginger, soy sauces, and a little salt and sugar."
+        "en": "Squeeze excess water from the cabbage, then mix it with ground pork, ginger, soy sauces, and a little salt and sugar.",
+        "de": "Überschüssiges Wasser aus dem Kohl drücken, dann mit Hackfleisch vom Schwein, Ingwer, Sojasoßen und etwas Salz und Zucker vermengen.",
+        "es": "Exprimir el exceso de agua de la col, luego mezclarla con carne de cerdo picada, jengibre, salsas de soja, y un poco de sal y azúcar.",
+        "fr": "Presser l'excès d'eau du chou, puis le mélanger avec le porc haché, le gingembre, les sauces soja, et un peu de sel et de sucre.",
+        "ro": "Stoarce excesul de apă din varză, apoi amestec-o cu carne tocată de porc, ghimbir, sosuri de soia și puțină sare și zahăr."
       }
     },
     {
       "title": {
-        "en": "Divide"
+        "en": "Divide",
+        "de": "Teilen",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Divide the risen dough into pieces and roll each into a wrapper with a thick center and thin edges."
+        "en": "Divide the risen dough into pieces and roll each into a wrapper with a thick center and thin edges.",
+        "de": "Den gegangenen Teig in Stücke teilen und jedes zu einem Fladen mit dicker Mitte und dünnem Rand ausrollen.",
+        "es": "Dividir la masa fermentada en piezas y estirar cada una en un disco con el centro grueso y los bordes finos.",
+        "fr": "Diviser la pâte levée en pâtons et abaisser chacun en un disque épais au centre et fin sur les bords.",
+        "ro": "Împarte aluatul crescut în bucăți și întinde fiecare într-o foaie groasă în centru și subțire pe margini."
       }
     },
     {
       "title": {
-        "en": "Fill and pleat"
+        "en": "Fill and pleat",
+        "de": "Füllen und fälteln",
+        "es": "Rellenar y plisar",
+        "fr": "Garnir et plisser",
+        "ro": "Umple și pliază"
       },
       "summary": {
-        "en": "Spoon filling into the center and pleat the edges closed with a twisting motion, gathering them at the top."
+        "en": "Spoon filling into the center and pleat the edges closed with a twisting motion, gathering them at the top.",
+        "de": "Füllung in die Mitte löffeln und die Ränder mit einer drehenden Bewegung zu Falten schließen, oben zusammengerafft.",
+        "es": "Poner una cucharada de relleno en el centro y cerrar los bordes con pliegues, en un movimiento de giro, juntándolos arriba.",
+        "fr": "Déposer une cuillerée de garniture au centre et plisser les bords en les refermant d'un geste tournant, réunis au sommet.",
+        "ro": "Pune umplutură cu lingura în centru și pliază marginile într-o mișcare de răsucire, adunându-le în vârf."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposar",
+        "fr": "Laisser reposer",
+        "ro": "Lasă la odihnă"
       },
       "summary": {
-        "en": "Let the shaped buns rest 20-30 minutes before cooking."
+        "en": "Let the shaped buns rest 20-30 minutes before cooking.",
+        "de": "Die geformten Brötchen vor dem Garen 20-30 Minuten ruhen lassen.",
+        "es": "Dejar reposar los panecillos formados 20-30 minutos antes de cocinar.",
+        "fr": "Laisser reposer les petits pains façonnés 20-30 minutes avant la cuisson.",
+        "ro": "Lasă chiflele modelate la odihnă 20-30 de minute înainte de gătit."
       }
     },
     {
       "title": {
-        "en": "Steam"
+        "en": "Steam",
+        "de": "Dämpfen",
+        "es": "Cocer al vapor",
+        "fr": "Cuire à la vapeur",
+        "ro": "Gătește la abur"
       },
       "summary": {
-        "en": "Steam over boiling water for about 18 minutes, then let the buns rest briefly off the heat before lifting the lid."
+        "en": "Steam over boiling water for about 18 minutes, then let the buns rest briefly off the heat before lifting the lid.",
+        "de": "Über kochendem Wasser etwa 18 Minuten dämpfen, dann die Brötchen kurz vom Herd nehmen und ruhen lassen, bevor der Deckel abgenommen wird.",
+        "es": "Cocer al vapor sobre agua hirviendo unos 18 minutos, luego dejar reposar los panecillos brevemente fuera del fuego antes de destapar.",
+        "fr": "Cuire à la vapeur au-dessus d'eau bouillante environ 18 minutes, puis laisser reposer les petits pains hors du feu avant de soulever le couvercle.",
+        "ro": "Gătește la abur deasupra apei clocotite aproximativ 18 minute, apoi lasă chiflele să se odihnească puțin, departe de foc, înainte de a ridica capacul."
       }
     }
   ],

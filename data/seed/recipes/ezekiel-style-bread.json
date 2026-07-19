@@ -183,50 +183,98 @@
   "method": [
     {
       "title": {
-        "en": "Sprout"
+        "en": "Sprout",
+        "de": "Keimen lassen",
+        "es": "Germinar",
+        "fr": "Faire germer",
+        "ro": "Încolțește"
       },
       "summary": {
-        "en": "Soak wheat, spelt, barley and millet together, and the lentils and beans separately, then rinse and drain twice a day for 2-3 days until each shows a small sprout tail."
+        "en": "Soak wheat, spelt, barley and millet together, and the lentils and beans separately, then rinse and drain twice a day for 2-3 days until each shows a small sprout tail.",
+        "de": "Weizen, Dinkel, Gerste und Hirse zusammen einweichen, Linsen und Bohnen getrennt, dann zweimal täglich spülen und abtropfen lassen, 2-3 Tage, bis jedes Korn ein kleines Keimschwänzchen zeigt.",
+        "es": "Remojar el trigo, la espelta, la cebada y el mijo juntos, y las lentejas y alubias por separado; enjuagar y escurrir dos veces al día durante 2-3 días hasta que cada uno muestre un pequeño brote.",
+        "fr": "Faire tremper ensemble le blé, l'épeautre, l'orge et le millet, et séparément les lentilles et les haricots, puis rincer et égoutter deux fois par jour pendant 2-3 jours jusqu'à l'apparition d'un petit germe.",
+        "ro": "Pune la înmuiat grâul, alacul, orzul și meiul împreună, iar lintea și fasolea separat, apoi clătește și scurge de două ori pe zi timp de 2-3 zile până apare un mic mugur pe fiecare bob."
       }
     },
     {
       "title": {
-        "en": "Dry and mill"
+        "en": "Dry and mill",
+        "de": "Trocknen und mahlen",
+        "es": "Secar y moler",
+        "fr": "Sécher et moudre",
+        "ro": "Usucă și macină"
       },
       "summary": {
-        "en": "Dehydrate the sprouted grains and legumes until fully dry, then grind them together into a single fine flour."
+        "en": "Dehydrate the sprouted grains and legumes until fully dry, then grind them together into a single fine flour.",
+        "de": "Die gekeimten Körner und Hülsenfrüchte vollständig trocknen, dann zusammen zu einem feinen Mehl mahlen.",
+        "es": "Deshidratar los granos y legumbres germinados hasta que estén totalmente secos, luego molerlos juntos hasta obtener una harina fina.",
+        "fr": "Déshydrater les graines et légumineuses germées jusqu'à dessiccation complète, puis les moudre ensemble en une farine fine.",
+        "ro": "Usucă complet boabele și leguminoasele încolțite, apoi macină-le împreună până obții o făină fină."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Warm water with honey, oil, salt and yeast, then work in the sprouted-grain flour and knead about 10 minutes into a soft, batter-like dough."
+        "en": "Warm water with honey, oil, salt and yeast, then work in the sprouted-grain flour and knead about 10 minutes into a soft, batter-like dough.",
+        "de": "Wasser mit Honig, Öl, Salz und Hefe erwärmen, dann das Sprossenmehl einarbeiten und etwa 10 Minuten zu einem weichen, breiartigen Teig kneten.",
+        "es": "Calentar el agua con miel, aceite, sal y levadura, luego incorporar la harina de granos germinados y amasar unos 10 minutos hasta obtener una masa blanda, casi como una papilla.",
+        "fr": "Chauffer l'eau avec le miel, l'huile, le sel et la levure, puis incorporer la farine de céréales germées et pétrir environ 10 minutes en une pâte molle, presque comme une bouillie.",
+        "ro": "Încălzește apa cu miere, ulei, sare și drojdie, apoi încorporează făina din boabe încolțite și frământă aproximativ 10 minute până obții un aluat moale, aproape ca o pastă."
       }
     },
     {
       "title": {
-        "en": "Pan and proof"
+        "en": "Pan and proof",
+        "de": "In Formen füllen und gehen lassen",
+        "es": "Formar y fermentar",
+        "fr": "Répartir en moules et pousser",
+        "ro": "Pune în forme și dospește"
       },
       "summary": {
-        "en": "Divide into loaf pans and let rise, covered, about an hour until the dough nears the rim."
+        "en": "Divide into loaf pans and let rise, covered, about an hour until the dough nears the rim.",
+        "de": "Auf Kastenformen verteilen und zugedeckt etwa eine Stunde gehen lassen, bis der Teig fast den Rand erreicht.",
+        "es": "Repartir la masa en moldes para pan y dejar fermentar tapada, alrededor de una hora, hasta que casi llegue al borde.",
+        "fr": "Répartir la pâte dans des moules à cake et laisser lever, couverte, environ une heure, jusqu'à ce qu'elle arrive presque au bord.",
+        "ro": "Împarte aluatul în forme de chec și lasă-l la dospit, acoperit, aproximativ o oră, până ajunge aproape de margine."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at around 175°C for 30-50 minutes, depending on pan size, until the internal temperature reads about 88°C."
+        "en": "Bake at around 175°C for 30-50 minutes, depending on pan size, until the internal temperature reads about 88°C.",
+        "de": "Bei etwa 175°C 30-50 Minuten backen, je nach Formgröße, bis die Kerntemperatur etwa 88°C erreicht.",
+        "es": "Hornear a unos 175°C durante 30-50 minutos, según el tamaño del molde, hasta que la temperatura interna alcance unos 88°C.",
+        "fr": "Cuire à environ 175°C pendant 30-50 minutes, selon la taille du moule, jusqu'à ce que la température à cœur atteigne environ 88°C.",
+        "ro": "Coace la aproximativ 175°C timp de 30-50 de minute, în funcție de mărimea formei, până când temperatura interioară ajunge la circa 88°C."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Turn out and cool completely on a rack before slicing."
+        "en": "Turn out and cool completely on a rack before slicing.",
+        "de": "Aus der Form stürzen und vollständig auf einem Gitter auskühlen lassen, bevor es angeschnitten wird.",
+        "es": "Desmoldar y dejar enfriar por completo sobre una rejilla antes de cortar.",
+        "fr": "Démouler et laisser refroidir complètement sur une grille avant de trancher.",
+        "ro": "Scoate din formă și lasă la răcit complet pe un grătar înainte de a felia."
       }
     }
   ],

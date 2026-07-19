@@ -114,50 +114,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine all ingredients and knead briefly, about 5 minutes."
+        "en": "Combine all ingredients and knead briefly, about 5 minutes.",
+        "de": "Alle Zutaten vermengen und kurz kneten, etwa 5 Minuten.",
+        "es": "Combinar todos los ingredientes y amasar brevemente, unos 5 minutos.",
+        "fr": "Mélanger tous les ingrédients et pétrir brièvement, environ 5 minutes.",
+        "ro": "Combină toate ingredientele și frământă puțin, aproximativ 5 minute."
       }
     },
     {
       "title": {
-        "en": "Rest and knead again"
+        "en": "Rest and knead again",
+        "de": "Ruhen und erneut kneten",
+        "es": "Reposar y amasar de nuevo",
+        "fr": "Reposer et repétrir",
+        "ro": "Odihnește și frământă din nou"
       },
       "summary": {
-        "en": "Rest 10 minutes covered, then knead 2-3 minutes more."
+        "en": "Rest 10 minutes covered, then knead 2-3 minutes more.",
+        "de": "10 Minuten zugedeckt ruhen lassen, dann weitere 2-3 Minuten kneten.",
+        "es": "Reposar 10 minutos tapada, luego amasar 2-3 minutos más.",
+        "fr": "Laisser reposer 10 minutes couverte, puis pétrir 2-3 minutes de plus.",
+        "ro": "Lasă la odihnă 10 minute, acoperit, apoi frământă încă 2-3 minute."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Shape into a ball in an oiled container and let rise until doubled."
+        "en": "Shape into a ball in an oiled container and let rise until doubled.",
+        "de": "Zu einer Kugel formen, in einen geölten Behälter legen und gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Formar una bola, colocarla en un recipiente aceitado y dejar fermentar hasta que doble su volumen.",
+        "fr": "Façonner en boule dans un récipient huilé et laisser pousser jusqu'à ce que la pâte double.",
+        "ro": "Modelează o bilă, pune-o într-un vas uns cu ulei și lasă la crescut până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Flatten on a floured surface, roll into a taut log, then cut into 8 equal pieces and flatten each into a slipper shape about 1 cm thick."
+        "en": "Flatten on a floured surface, roll into a taut log, then cut into 8 equal pieces and flatten each into a slipper shape about 1 cm thick.",
+        "de": "Auf einer bemehlten Fläche flach drücken, zu einer straffen Rolle formen, dann in 8 gleiche Stücke schneiden und jedes zu einer länglichen Pantoffelform von etwa 1 cm Dicke flach drücken.",
+        "es": "Aplanar sobre una superficie enharinada, enrollar en un cilindro firme, cortar en 8 piezas iguales y aplanar cada una en forma de zapatilla de 1 cm de grosor.",
+        "fr": "Aplatir sur un plan fariné, rouler en boudin bien serré, puis couper en 8 pâtons égaux et aplatir chacun en forme de pantoufle d'environ 1 cm d'épaisseur.",
+        "ro": "Turtește pe o suprafață făinată, rulează într-un sul întins, apoi taie în 8 bucăți egale și turtește fiecare într-o formă de papuc, groasă de circa 1 cm."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Apprêt",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Place on a floured cloth, cover, and let rise at least an hour until well puffed."
+        "en": "Place on a floured cloth, cover, and let rise at least an hour until well puffed.",
+        "de": "Auf ein bemehltes Tuch legen, abdecken und mindestens eine Stunde gehen lassen, bis deutlich aufgegangen.",
+        "es": "Colocar sobre un paño enharinado, tapar y dejar fermentar al menos una hora, hasta que esté bien hinchada.",
+        "fr": "Placer sur un linge fariné, couvrir et laisser pousser au moins une heure, jusqu'à ce que ce soit bien gonflé.",
+        "ro": "Așază pe un șervet făinat, acoperă și lasă la dospit cel puțin o oră, până se umflă bine."
       }
     },
     {
       "title": {
-        "en": "Bake pale"
+        "en": "Bake pale",
+        "de": "Blass backen",
+        "es": "Hornear pálido",
+        "fr": "Cuire pâle",
+        "ro": "Coace deschis la culoare"
       },
       "summary": {
-        "en": "Bake at 220°C for just 10-12 minutes; the crust should stay pale and soft, never crisp or deeply colored."
+        "en": "Bake at 220°C for just 10-12 minutes; the crust should stay pale and soft, never crisp or deeply colored.",
+        "de": "Nur 10-12 Minuten bei 220°C backen; die Kruste soll blass und weich bleiben, nie knusprig oder dunkel.",
+        "es": "Hornear a 220°C solo 10-12 minutos; la corteza debe quedar pálida y blanda, nunca crujiente ni muy dorada.",
+        "fr": "Cuire à 220°C seulement 10-12 minutes ; la croûte doit rester pâle et souple, jamais croustillante ni très colorée.",
+        "ro": "Coace la 220°C doar 10-12 minute; crusta trebuie să rămână palidă și moale, niciodată crocantă sau intens rumenită."
       }
     }
   ],

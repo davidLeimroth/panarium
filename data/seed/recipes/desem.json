@@ -111,58 +111,114 @@
   "method": [
     {
       "title": {
-        "en": "Maintain the desem culture"
+        "en": "Maintain the desem culture",
+        "de": "Desem-Kultur pflegen",
+        "es": "Mantener el cultivo desem",
+        "fr": "Entretenir la culture desem",
+        "ro": "Întreține cultura desem"
       },
       "summary": {
-        "en": "Keep a whole-wheat-only starter buried in a cool bed of flour (10-18°C), fed every few days; it draws its leavening purely from organisms in the grain, never a commercial yeast."
+        "en": "Keep a whole-wheat-only starter buried in a cool bed of flour (10-18°C), fed every few days; it draws its leavening purely from organisms in the grain, never a commercial yeast.",
+        "de": "Ein reines Weizenvollkorn-Anstellgut in einem kühlen Mehlbett vergraben halten (10-18°C), alle paar Tage füttern; die Triebkraft stammt allein aus den Organismen im Korn, nie aus kommerzieller Hefe.",
+        "es": "Conservar un fermento hecho solo de trigo integral enterrado en un lecho fresco de harina (10-18°C), alimentado cada pocos días; su fuerza fermentativa proviene únicamente de los organismos del grano, nunca de levadura comercial.",
+        "fr": "Garder un levain à base uniquement de blé complet enfoui dans un lit frais de farine (10-18°C), nourri tous les quelques jours; sa force de fermentation vient uniquement des organismes du grain, jamais d'une levure du commerce.",
+        "ro": "Păstrează o maia făcută exclusiv din grâu integral, îngropată într-un strat rece de făină (10-18°C), hrănită la câteva zile; puterea de dospire provine exclusiv din organismele din bob, niciodată din drojdie comercială."
       }
     },
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "The day before baking, mix a portion of desem culture with fresh-milled flour and water; let it ripen 8-12 hours."
+        "en": "The day before baking, mix a portion of desem culture with fresh-milled flour and water; let it ripen 8-12 hours.",
+        "de": "Am Tag vor dem Backen einen Teil der Desem-Kultur mit frisch gemahlenem Mehl und Wasser mischen; 8-12 Stunden reifen lassen.",
+        "es": "El día antes de hornear, mezclar una porción del cultivo desem con harina recién molida y agua; dejar madurar 8-12 horas.",
+        "fr": "La veille de la cuisson, mélanger une portion de culture desem avec de la farine fraîchement moulue et de l'eau; laisser mûrir 8-12 heures.",
+        "ro": "Cu o zi înainte de coacere, amestecă o parte din cultura desem cu făină proaspăt măcinată și apă; lasă la maturat 8-12 ore."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the ripe levain with the remaining freshly milled whole wheat flours, water and salt into a shaggy dough."
+        "en": "Combine the ripe levain with the remaining freshly milled whole wheat flours, water and salt into a shaggy dough.",
+        "de": "Den reifen Levain mit dem restlichen frisch gemahlenen Weizenvollkornmehl, Wasser und Salz zu einem groben Teig verbinden.",
+        "es": "Combinar el levain maduro con el resto de la harina integral de trigo recién molida, el agua y la sal en una masa desgreñada.",
+        "fr": "Combiner le levain mûr avec le reste de la farine de blé complète fraîchement moulue, l'eau et le sel en une pâte grossière.",
+        "ro": "Combină levain-ul copt cu restul de făină integrală de grâu proaspăt măcinată, apa și sarea într-un aluat aspru."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Rest 20-30 minutes, then work through a few stretch-and-folds over 4-8 hours until the dough has expanded by about 90%."
+        "en": "Rest 20-30 minutes, then work through a few stretch-and-folds over 4-8 hours until the dough has expanded by about 90%.",
+        "de": "20-30 Minuten ruhen lassen, dann über 4-8 Stunden mehrmals dehnen und falten, bis der Teig um etwa 90% gewachsen ist.",
+        "es": "Dejar reposar 20-30 minutos, luego realizar varios pliegues de estirar y doblar durante 4-8 horas, hasta que la masa haya crecido un 90% aproximadamente.",
+        "fr": "Laisser reposer 20-30 minutes, puis faire plusieurs rabats sur 4-8 heures, jusqu'à ce que la pâte ait grossi d'environ 90%.",
+        "ro": "Lasă la odihnă 20-30 de minute, apoi fă câteva runde de întindere și pliere pe parcursul a 4-8 ore, până aluatul crește cu aproximativ 90%."
       }
     },
     {
       "title": {
-        "en": "Shape and proof"
+        "en": "Shape and proof",
+        "de": "Formen und gehen lassen",
+        "es": "Formar y fermentar",
+        "fr": "Façonner et pousser",
+        "ro": "Modelează și dospește"
       },
       "summary": {
-        "en": "Shape into a tight boule and proof either 1-2 hours at room temperature or, for deeper flavor, 20-40 minutes on the counter followed by an overnight cold retard."
+        "en": "Shape into a tight boule and proof either 1-2 hours at room temperature or, for deeper flavor, 20-40 minutes on the counter followed by an overnight cold retard.",
+        "de": "Zu einem straffen runden Laib formen und entweder 1-2 Stunden bei Raumtemperatur gehen lassen oder, für mehr Aroma, 20-40 Minuten auf der Arbeitsfläche, gefolgt von einer Nacht im Kühlschrank.",
+        "es": "Dar forma de bola apretada y dejar fermentar 1-2 horas a temperatura ambiente, o bien, para más sabor, 20-40 minutos sobre la encimera seguidos de una noche en frío.",
+        "fr": "Façonner en boule serrée et laisser pousser 1-2 heures à température ambiante, ou, pour plus de saveur, 20-40 minutes sur le plan de travail suivies d'une nuit au froid.",
+        "ro": "Modelează într-o bilă strânsă și lasă la dospit fie 1-2 ore la temperatura camerei, fie, pentru o aromă mai bogată, 20-40 de minute pe blat, urmate de o noapte la frigider."
       }
     },
     {
       "title": {
-        "en": "Bake hot, then step down"
+        "en": "Bake hot, then step down",
+        "de": "Heiß backen, dann reduzieren",
+        "es": "Hornear caliente, luego bajar",
+        "fr": "Cuire chaud, puis baisser",
+        "ro": "Coace fierbinte, apoi redu"
       },
       "summary": {
-        "en": "Bake in a well-preheated covered pot: very hot initially, then reduce twice, finishing uncovered for a dark crust and a hollow sound when tapped."
+        "en": "Bake in a well-preheated covered pot: very hot initially, then reduce twice, finishing uncovered for a dark crust and a hollow sound when tapped.",
+        "de": "Im gut vorgeheizten, zugedeckten Topf backen: zunächst sehr heiß, dann zweimal reduzieren, offen fertig backen für eine dunkle Kruste und einen hohlen Klang beim Klopfen.",
+        "es": "Hornear en una olla bien precalentada y tapada: muy caliente al principio, luego bajar la temperatura dos veces, terminando destapada para una corteza oscura y un sonido hueco al golpearla.",
+        "fr": "Cuire dans une cocotte bien préchauffée et couverte : très chaude au départ, puis baisser la température deux fois, en terminant à découvert pour une croûte foncée et un son creux au tapotement.",
+        "ro": "Coace într-o oală bine preîncălzită și acoperită: foarte fierbinte la început, apoi redu temperatura de două ori, terminând neacoperit pentru o coajă închisă la culoare și un sunet a gol la bătut."
       }
     },
     {
       "title": {
-        "en": "Cool fully"
+        "en": "Cool fully",
+        "de": "Vollständig auskühlen",
+        "es": "Enfriar por completo",
+        "fr": "Laisser refroidir complètement",
+        "ro": "Răcește complet"
       },
       "summary": {
-        "en": "Let the loaf rest at least 2 hours before cutting so the dense, all-whole-grain crumb finishes setting."
+        "en": "Let the loaf rest at least 2 hours before cutting so the dense, all-whole-grain crumb finishes setting.",
+        "de": "Den Laib mindestens 2 Stunden ruhen lassen, bevor angeschnitten wird, damit sich die dichte Vollkornkrume vollständig setzt.",
+        "es": "Dejar reposar el pan al menos 2 horas antes de cortar, para que la miga densa, cien por cien integral, termine de asentarse.",
+        "fr": "Laisser reposer le pain au moins 2 heures avant de trancher, pour que la mie dense, entièrement complète, finisse de se raffermir.",
+        "ro": "Lasă pâinea la odihnă cel puțin 2 ore înainte de tăiere, ca miezul dens, complet din grâu integral, să se fixeze complet."
       }
     }
   ],

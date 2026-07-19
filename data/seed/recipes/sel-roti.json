@@ -135,50 +135,98 @@
   "method": [
     {
       "title": {
-        "en": "Soak rice"
+        "en": "Soak rice",
+        "de": "Reis einweichen",
+        "es": "Remojar el arroz",
+        "fr": "Faire tremper le riz",
+        "ro": "Înmoaie orezul"
       },
       "summary": {
-        "en": "Rinse rice and soak 5-6 hours or overnight, then drain."
+        "en": "Rinse rice and soak 5-6 hours or overnight, then drain.",
+        "de": "Reis abspülen und 5-6 Stunden oder über Nacht einweichen, dann abgießen.",
+        "es": "Enjuagar el arroz y remojarlo 5-6 horas o toda la noche, luego escurrir.",
+        "fr": "Rincer le riz et le faire tremper 5-6 heures ou toute la nuit, puis égoutter.",
+        "ro": "Clătește orezul și înmoaie-l 5-6 ore sau peste noapte, apoi scurge-l."
       }
     },
     {
       "title": {
-        "en": "Blend"
+        "en": "Blend",
+        "de": "Pürieren",
+        "es": "Triturar",
+        "fr": "Mixer",
+        "ro": "Mixează"
       },
       "summary": {
-        "en": "Blend the soaked rice with milk and a little water to a thick, smooth paste."
+        "en": "Blend the soaked rice with milk and a little water to a thick, smooth paste.",
+        "de": "Den eingeweichten Reis mit Milch und etwas Wasser zu einer dicken, glatten Paste pürieren.",
+        "es": "Triturar el arroz remojado con leche y un poco de agua hasta obtener una pasta espesa y lisa.",
+        "fr": "Mixer le riz trempé avec du lait et un peu d'eau jusqu'à obtenir une pâte épaisse et lisse.",
+        "ro": "Mixează orezul înmuiat cu lapte și puțină apă până obții o pastă groasă și netedă."
       }
     },
     {
       "title": {
-        "en": "Season"
+        "en": "Season",
+        "de": "Würzen",
+        "es": "Sazonar",
+        "fr": "Assaisonner",
+        "ro": "Asezonează"
       },
       "summary": {
-        "en": "Mix in sugar, mashed banana, cardamom, melted ghee and a pinch of salt until the batter is lump-free and pourable; rest covered at least 30 minutes."
+        "en": "Mix in sugar, mashed banana, cardamom, melted ghee and a pinch of salt until the batter is lump-free and pourable; rest covered at least 30 minutes.",
+        "de": "Zucker, zerdrückte Banane, Kardamom, geschmolzenes Ghee und eine Prise Salz einrühren, bis der Teig klümpchenfrei und gießfähig ist; abgedeckt mindestens 30 Minuten ruhen lassen.",
+        "es": "Incorporar el azúcar, el plátano machacado, el cardamomo, el ghee derretido y una pizca de sal hasta que la masa esté sin grumos y sea vertible; dejar reposar tapada al menos 30 minutos.",
+        "fr": "Incorporer le sucre, la banane écrasée, la cardamome, le ghee fondu et une pincée de sel jusqu'à obtenir une pâte sans grumeaux et fluide ; laisser reposer couverte au moins 30 minutes.",
+        "ro": "Încorporează zahărul, banana zdrobită, cardamomul, ghee-ul topit și un praf de sare, până compoziția devine fără cocoloașe și curgătoare; lasă la odihnă acoperit cel puțin 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Heat oil"
+        "en": "Heat oil",
+        "de": "Öl erhitzen",
+        "es": "Calentar el aceite",
+        "fr": "Chauffer l'huile",
+        "ro": "Încălzește uleiul"
       },
       "summary": {
-        "en": "Heat oil in a deep pan to medium temperature, hot enough that a drop of batter sizzles and rises right away."
+        "en": "Heat oil in a deep pan to medium temperature, hot enough that a drop of batter sizzles and rises right away.",
+        "de": "Öl in einer tiefen Pfanne mittelheiß erhitzen, so heiß, dass ein Tropfen Teig sofort zischt und aufsteigt.",
+        "es": "Calentar aceite en una sartén honda a temperatura media, lo bastante caliente para que una gota de masa chisporrotee y suba de inmediato.",
+        "fr": "Chauffer l'huile dans une poêle profonde à température moyenne, assez chaude pour qu'une goutte de pâte grésille et remonte aussitôt.",
+        "ro": "Încălzește ulei într-o tigaie adâncă la temperatură medie, suficient de fierbinte încât o picătură de compoziție să sfârâie și să urce imediat."
       }
     },
     {
       "title": {
-        "en": "Pipe rings"
+        "en": "Pipe rings",
+        "de": "Ringe spritzen",
+        "es": "Formar anillos",
+        "fr": "Former des anneaux",
+        "ro": "Formează inele"
       },
       "summary": {
-        "en": "Pour or pipe the batter directly into the hot oil in a ring shape, by hand or with a piping bag."
+        "en": "Pour or pipe the batter directly into the hot oil in a ring shape, by hand or with a piping bag.",
+        "de": "Den Teig direkt in Ringform ins heiße Öl gießen oder spritzen, von Hand oder mit einem Spritzbeutel.",
+        "es": "Verter o dosificar la masa directamente en el aceite caliente en forma de anillo, a mano o con manga pastelera.",
+        "fr": "Verser ou pocher la pâte directement dans l'huile chaude en forme d'anneau, à la main ou à la poche à douille.",
+        "ro": "Toarnă sau dozează compoziția direct în uleiul fierbinte, în formă de inel, cu mâna sau cu poșul."
       }
     },
     {
       "title": {
-        "en": "Fry and drain"
+        "en": "Fry and drain",
+        "de": "Frittieren und abtropfen lassen",
+        "es": "Freír y escurrir",
+        "fr": "Frire et égoutter",
+        "ro": "Prăjește și scurge"
       },
       "summary": {
-        "en": "Fry one or two rings at a time, turning gently, until golden brown on both sides, then drain on paper towels."
+        "en": "Fry one or two rings at a time, turning gently, until golden brown on both sides, then drain on paper towels.",
+        "de": "Ein oder zwei Ringe gleichzeitig frittieren, dabei vorsichtig wenden, bis sie auf beiden Seiten goldbraun sind, dann auf Küchenpapier abtropfen lassen.",
+        "es": "Freír uno o dos anillos a la vez, volteando con cuidado, hasta que estén dorados por ambos lados, luego escurrir sobre papel absorbente.",
+        "fr": "Frire un ou deux anneaux à la fois, en retournant délicatement, jusqu'à ce qu'ils soient dorés des deux côtés, puis égoutter sur du papier absorbant.",
+        "ro": "Prăjește câte unul sau două inele odată, întorcându-le ușor, până devin aurii pe ambele părți, apoi scurge-le pe prosoape de hârtie."
       }
     }
   ],

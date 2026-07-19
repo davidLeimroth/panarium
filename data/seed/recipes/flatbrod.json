@@ -107,50 +107,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine barley flour, all-purpose flour and salt, then work in warm water to a smooth, firm dough."
+        "en": "Combine barley flour, all-purpose flour and salt, then work in warm water to a smooth, firm dough.",
+        "de": "Gerstenmehl, Weizenmehl und Salz vermischen, dann warmes Wasser einarbeiten, bis ein glatter, fester Teig entsteht.",
+        "es": "Combinar la harina de cebada, la harina común y la sal, luego incorporar agua caliente hasta obtener una masa lisa y firme.",
+        "fr": "Mélanger la farine d'orge, la farine ordinaire et le sel, puis incorporer de l'eau chaude jusqu'à obtenir une pâte lisse et ferme.",
+        "ro": "Combină făina de orz, făina albă și sarea, apoi încorporează apă caldă până obții un aluat neted și ferm."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Cover and let rest 30 minutes."
+        "en": "Cover and let rest 30 minutes.",
+        "de": "Zugedeckt 30 Minuten ruhen lassen.",
+        "es": "Tapar y dejar reposar 30 minutos.",
+        "fr": "Couvrir et laisser reposer 30 minutes.",
+        "ro": "Acoperă și lasă la odihnă 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Portion"
+        "en": "Portion",
+        "de": "Portionieren",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Divide into six pieces and roll each into a ball."
+        "en": "Divide into six pieces and roll each into a ball.",
+        "de": "In sechs Stücke teilen und jedes zu einer Kugel formen.",
+        "es": "Dividir en seis piezas y formar una bola con cada una.",
+        "fr": "Diviser en six pâtons et rouler chacun en boule.",
+        "ro": "Împarte în șase bucăți și rulează fiecare într-un bulgăre rotund."
       }
     },
     {
       "title": {
-        "en": "Roll thin"
+        "en": "Roll thin",
+        "de": "Dünn ausrollen",
+        "es": "Estirar fino",
+        "fr": "Étaler finement",
+        "ro": "Întinde subțire"
       },
       "summary": {
-        "en": "Flatten and roll each piece paper-thin, rotating often to keep it round."
+        "en": "Flatten and roll each piece paper-thin, rotating often to keep it round.",
+        "de": "Jedes Stück flach drücken und hauchdünn ausrollen, dabei oft drehen, damit es rund bleibt.",
+        "es": "Aplanar y estirar cada pieza hasta dejarla fina como el papel, girándola a menudo para que quede redonda.",
+        "fr": "Aplatir puis abaisser chaque pâton aussi fin que du papier, en tournant souvent pour garder une forme ronde.",
+        "ro": "Aplatizează și întinde fiecare bucată cât mai subțire, rotind des pentru a păstra forma rotundă."
       }
     },
     {
       "title": {
-        "en": "Cook"
+        "en": "Cook",
+        "de": "Backen",
+        "es": "Cocinar",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Dry-griddle each round over medium-high heat, 30-60 seconds per side, until brown-spotted."
+        "en": "Dry-griddle each round over medium-high heat, 30-60 seconds per side, until brown-spotted.",
+        "de": "Jede Scheibe ohne Fett bei mittlerer bis hoher Hitze auf der Platte backen, 30-60 Sekunden pro Seite, bis braune Flecken entstehen.",
+        "es": "Cocinar cada disco en seco a fuego medio-alto, 30-60 segundos por lado, hasta que salgan manchas doradas.",
+        "fr": "Cuire chaque disque à sec sur plaque, à feu moyen-vif, 30-60 secondes par face, jusqu'à ce que des taches brunes apparaissent.",
+        "ro": "Coace fiecare disc pe plită uscată, la foc mediu-mare, 30-60 de secunde pe fiecare parte, până apar pete rumene."
       }
     },
     {
       "title": {
-        "en": "Cool and store"
+        "en": "Cool and store",
+        "de": "Auskühlen und aufbewahren",
+        "es": "Enfriar y guardar",
+        "fr": "Refroidir et conserver",
+        "ro": "Răcește și păstrează"
       },
       "summary": {
-        "en": "Cool on a rack until it snaps cleanly, then keep in an airtight tin."
+        "en": "Cool on a rack until it snaps cleanly, then keep in an airtight tin.",
+        "de": "Auf einem Gitter auskühlen lassen, bis es sauber bricht, dann in einer luftdichten Dose aufbewahren.",
+        "es": "Dejar enfriar sobre una rejilla hasta que se parta limpiamente, luego guardar en una lata hermética.",
+        "fr": "Laisser refroidir sur une grille jusqu'à ce que ça casse net, puis conserver dans une boîte hermétique.",
+        "ro": "Lasă la răcit pe un grătar până se rupe curat, apoi păstrează într-o cutie ermetică."
       }
     }
   ],

@@ -149,66 +149,130 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Warm the milk, stir in the yeast and a little sugar, and let it stand until foamy, about 10 minutes."
+        "en": "Warm the milk, stir in the yeast and a little sugar, and let it stand until foamy, about 10 minutes.",
+        "de": "Die Milch erwärmen, die Hefe und etwas Zucker einrühren und etwa 10 Minuten stehen lassen, bis es schaumig ist.",
+        "es": "Calentar la leche, incorporar la levadura y un poco de azúcar, y dejar reposar unos 10 minutos hasta que esté espumosa.",
+        "fr": "Tiédir le lait, y incorporer la levure et un peu de sucre, et laisser reposer environ 10 minutes jusqu'à ce que ça mousse.",
+        "ro": "Încălzește laptele, încorporează drojdia și puțin zahăr, și lasă să stea aproximativ 10 minute până devine spumos."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine the flour, remaining sugar, salt and lemon zest, then add the melted butter, egg yolks and the yeast mixture and bring together into a dough."
+        "en": "Combine the flour, remaining sugar, salt and lemon zest, then add the melted butter, egg yolks and the yeast mixture and bring together into a dough.",
+        "de": "Mehl, restlichen Zucker, Salz und Zitronenschale vermengen, dann die geschmolzene Butter, die Eigelbe und die Hefemischung zugeben und zu einem Teig verbinden.",
+        "es": "Combinar la harina, el resto del azúcar, la sal y la ralladura de limón, luego añadir la mantequilla derretida, las yemas y la mezcla de levadura y unir todo en una masa.",
+        "fr": "Combiner la farine, le reste du sucre, le sel et le zeste de citron, puis ajouter le beurre fondu, les jaunes d'œufs et le mélange de levure et rassembler en une pâte.",
+        "ro": "Combină făina, restul de zahăr, sarea și coaja de lămâie, apoi adaugă untul topit, gălbenușurile și amestecul de drojdie și strânge totul într-un aluat."
       }
     },
     {
       "title": {
-        "en": "Knead and add mix-ins"
+        "en": "Knead and add mix-ins",
+        "de": "Kneten und Zutaten einarbeiten",
+        "es": "Amasar e incorporar",
+        "fr": "Pétrir et incorporer",
+        "ro": "Frământă și încorporează"
       },
       "summary": {
-        "en": "Knead on medium speed for several minutes until the dough passes the windowpane test, then work in the raisins and chopped almonds."
+        "en": "Knead on medium speed for several minutes until the dough passes the windowpane test, then work in the raisins and chopped almonds.",
+        "de": "Bei mittlerer Geschwindigkeit mehrere Minuten kneten, bis der Teig die Fensterscheibenprobe besteht, dann die Rosinen und gehackten Mandeln einarbeiten.",
+        "es": "Amasar a velocidad media durante varios minutos hasta que la masa supere la prueba de la membrana, luego incorporar las pasas y las almendras picadas.",
+        "fr": "Pétrir à vitesse moyenne pendant plusieurs minutes jusqu'à ce que la pâte passe le test du voile, puis incorporer les raisins secs et les amandes hachées.",
+        "ro": "Frământă la viteză medie câteva minute până aluatul trece testul membranei, apoi încorporează stafidele și migdalele tocate."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Shape into a ball, cover, and let rise somewhere warm until roughly doubled, one and a half to two hours."
+        "en": "Shape into a ball, cover, and let rise somewhere warm until roughly doubled, one and a half to two hours.",
+        "de": "Zu einer Kugel formen, zudecken und an einem warmen Ort gehen lassen, bis sich der Teig etwa verdoppelt hat, anderthalb bis zwei Stunden.",
+        "es": "Formar una bola, tapar y dejar levar en un lugar cálido hasta que doble aproximadamente su volumen, una hora y media a dos horas.",
+        "fr": "Façonner en boule, couvrir et laisser lever dans un endroit chaud jusqu'à ce qu'elle ait à peu près doublé, une heure et demie à deux heures.",
+        "ro": "Modelează într-o bilă, acoperă și lasă la dospit într-un loc călduros până se dublează aproximativ, o oră și jumătate până la două ore."
       }
     },
     {
       "title": {
-        "en": "Divide and braid"
+        "en": "Divide and braid",
+        "de": "Teilen und flechten",
+        "es": "Dividir y trenzar",
+        "fr": "Diviser et tresser",
+        "ro": "Împarte și împletește"
       },
       "summary": {
-        "en": "Divide the dough into nine pieces of decreasing size and roll each into a rope. Braid four into the base, three into a smaller middle layer, and twist the last two for the top; stack the layers and secure with a few skewers."
+        "en": "Divide the dough into nine pieces of decreasing size and roll each into a rope. Braid four into the base, three into a smaller middle layer, and twist the last two for the top; stack the layers and secure with a few skewers.",
+        "de": "Den Teig in neun Stücke abnehmender Größe teilen und jedes zu einem Strang rollen. Vier zur Basis flechten, drei zu einer kleineren Mittelschicht, und die letzten zwei für die Spitze verdrehen; die Schichten stapeln und mit ein paar Spießen sichern.",
+        "es": "Dividir la masa en nueve piezas de tamaño decreciente y enrollar cada una en una cuerda. Trenzar cuatro para la base, tres para una capa central más pequeña, y retorcer las dos últimas para la parte superior; apilar las capas y asegurar con unos palillos.",
+        "fr": "Diviser la pâte en neuf morceaux de taille décroissante et rouler chacun en corde. Tresser quatre pour la base, trois pour une couche médiane plus petite, et torsader les deux dernières pour le dessus ; empiler les couches et fixer avec quelques brochettes.",
+        "ro": "Împarte aluatul în nouă bucăți de mărime descrescătoare și rulează fiecare într-un fitil. Împletește patru pentru bază, trei pentru un strat mijlociu mai mic, și răsucește ultimele două pentru vârf; stivuiește straturile și fixează-le cu câteva scobitori."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover loosely and let the stacked braid rise until nicely puffed, about 45 minutes, misting it lightly partway through so the surface doesn't dry out."
+        "en": "Cover loosely and let the stacked braid rise until nicely puffed, about 45 minutes, misting it lightly partway through so the surface doesn't dry out.",
+        "de": "Locker abdecken und die gestapelte Flechte gehen lassen, bis sie schön aufgegangen ist, etwa 45 Minuten, dabei zwischendurch leicht besprühen, damit die Oberfläche nicht austrocknet.",
+        "es": "Cubrir sin apretar y dejar que la trenza apilada fermente hasta que esté bien hinchada, unos 45 minutos, rociándola ligeramente a mitad de camino para que la superficie no se seque.",
+        "fr": "Couvrir sans serrer et laisser la tresse empilée pousser jusqu'à ce qu'elle soit bien gonflée, environ 45 minutes, en la vaporisant légèrement à mi-parcours pour que la surface ne sèche pas.",
+        "ro": "Acoperă lejer și lasă împletitura stivuită să crească până devine frumos umflată, aproximativ 45 de minute, pulverizând-o ușor cu apă pe la jumătate, ca suprafața să nu se usuce."
       }
     },
     {
       "title": {
-        "en": "Egg wash and bake"
+        "en": "Egg wash and bake",
+        "de": "Mit Ei bestreichen und backen",
+        "es": "Pincelar con huevo y hornear",
+        "fr": "Dorer et cuire",
+        "ro": "Unge cu ou și coace"
       },
       "summary": {
-        "en": "Brush all over with beaten egg, scatter sliced almonds on top, then bake starting hot and finishing at a lower heat, about 40 minutes total, tenting with foil once the top is dark enough."
+        "en": "Brush all over with beaten egg, scatter sliced almonds on top, then bake starting hot and finishing at a lower heat, about 40 minutes total, tenting with foil once the top is dark enough.",
+        "de": "Überall mit verquirltem Ei bestreichen, gehobelte Mandeln darüberstreuen, dann heiß beginnend und bei niedrigerer Hitze fertig backen, insgesamt etwa 40 Minuten, dabei mit Folie abdecken, sobald die Oberseite dunkel genug ist.",
+        "es": "Pincelar todo con huevo batido, esparcir almendras laminadas por encima, luego hornear empezando caliente y terminando a menor temperatura, unos 40 minutos en total, cubriendo con papel de aluminio en cuanto la superficie esté suficientemente oscura.",
+        "fr": "Badigeonner entièrement d'œuf battu, parsemer d'amandes effilées, puis cuire en commençant chaud et en terminant à température plus basse, environ 40 minutes au total, en couvrant de papier aluminium dès que le dessus est assez foncé.",
+        "ro": "Unge peste tot cu ou bătut, presară migdale feliate deasupra, apoi coace începând fierbinte și terminând la temperatură mai mică, aproximativ 40 de minute în total, acoperind cu folie de aluminiu de îndată ce partea de sus e suficient de închisă la culoare."
       }
     },
     {
       "title": {
-        "en": "Cool and slice"
+        "en": "Cool and slice",
+        "de": "Auskühlen und schneiden",
+        "es": "Enfriar y cortar",
+        "fr": "Refroidir et trancher",
+        "ro": "Răcește și taie"
       },
       "summary": {
-        "en": "Remove the skewers, cool the loaf completely on a rack, then dust with powdered sugar before slicing."
+        "en": "Remove the skewers, cool the loaf completely on a rack, then dust with powdered sugar before slicing.",
+        "de": "Die Spieße entfernen, das Brot vollständig auf einem Gitter auskühlen lassen, dann vor dem Anschneiden mit Puderzucker bestäuben.",
+        "es": "Retirar los palillos, dejar enfriar el pan por completo sobre una rejilla, luego espolvorear con azúcar glas antes de cortar.",
+        "fr": "Retirer les brochettes, laisser le pain refroidir complètement sur une grille, puis saupoudrer de sucre glace avant de trancher.",
+        "ro": "Scoate scobitorile, lasă pâinea să se răcească complet pe un grătar, apoi presară zahăr pudră înainte de feliere."
       }
     }
   ],

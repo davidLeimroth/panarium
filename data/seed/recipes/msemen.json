@@ -134,58 +134,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine flour, semolina, sugar, salt and yeast, then mix in warm water to a soft, slightly sticky dough; knead until smooth."
+        "en": "Combine flour, semolina, sugar, salt and yeast, then mix in warm water to a soft, slightly sticky dough; knead until smooth.",
+        "de": "Mehl, Grieß, Zucker, Salz und Hefe vermengen, dann warmes Wasser einarbeiten zu einem weichen, leicht klebrigen Teig; glatt kneten.",
+        "es": "Combinar harina, sémola, azúcar, sal y levadura, luego añadir agua tibia hasta obtener una masa blanda y algo pegajosa; amasar hasta que quede lisa.",
+        "fr": "Mélanger farine, semoule, sucre, sel et levure, puis incorporer l'eau tiède pour une pâte souple, légèrement collante ; pétrir jusqu'à ce qu'elle soit lisse.",
+        "ro": "Combină făina, grișul, zahărul, sarea și drojdia, apoi adaugă apă călduță până obții un aluat moale, ușor lipicios; frământă până devine neted."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Divide into balls and let rest 10-15 minutes, covered."
+        "en": "Divide into balls and let rest 10-15 minutes, covered.",
+        "de": "In Kugeln teilen und zugedeckt 10-15 Minuten ruhen lassen.",
+        "es": "Dividir en bolas y dejar reposar tapadas 10-15 minutos.",
+        "fr": "Diviser en boules et laisser reposer couvertes 10-15 minutes.",
+        "ro": "Împarte în bile și lasă la odihnă, acoperite, 10-15 minute."
       }
     },
     {
       "title": {
-        "en": "Stretch paper-thin"
+        "en": "Stretch paper-thin",
+        "de": "Hauchdünn dehnen",
+        "es": "Estirar muy fina",
+        "fr": "Étirer très finement",
+        "ro": "Întinde foarte subțire"
       },
       "summary": {
-        "en": "On a well-oiled surface, flatten and stretch each ball outward from the center until translucently thin."
+        "en": "On a well-oiled surface, flatten and stretch each ball outward from the center until translucently thin.",
+        "de": "Auf einer gut geölten Fläche jede Kugel flach drücken und vom Zentrum aus dehnen, bis sie fast durchscheinend dünn ist.",
+        "es": "Sobre una superficie bien aceitada, aplanar y estirar cada bola desde el centro hacia fuera hasta que quede casi transparente de fina.",
+        "fr": "Sur un plan de travail bien huilé, aplatir et étirer chaque boule depuis le centre jusqu'à ce qu'elle soit presque translucide.",
+        "ro": "Pe o suprafață bine unsă cu ulei, turtește și întinde fiecare bilă dinspre centru spre exterior, până devine aproape transparentă."
       }
     },
     {
       "title": {
-        "en": "Dot & fold"
+        "en": "Dot & fold",
+        "de": "Betupfen & falten",
+        "es": "Untar y doblar",
+        "fr": "Parsemer et plier",
+        "ro": "Unge și pliază"
       },
       "summary": {
-        "en": "Dot the sheet with soft butter and a scatter of semolina, then fold into thirds, and fold into thirds again to form a square."
+        "en": "Dot the sheet with soft butter and a scatter of semolina, then fold into thirds, and fold into thirds again to form a square.",
+        "de": "Die Teigplatte mit weicher Butter betupfen und mit etwas Grieß bestreuen, dann zu Dritteln falten und erneut zu Dritteln, sodass ein Quadrat entsteht.",
+        "es": "Salpicar la lámina con mantequilla blanda y un poco de sémola, luego doblarla en tres y de nuevo en tres para formar un cuadrado.",
+        "fr": "Parsemer l'abaisse de beurre mou et d'un peu de semoule, puis plier en trois, et replier en trois pour former un carré.",
+        "ro": "Presară foaia cu unt moale și puțin gris, apoi pliază-o în trei, și din nou în trei, pentru a forma un pătrat."
       }
     },
     {
       "title": {
-        "en": "Rest again"
+        "en": "Rest again",
+        "de": "Erneut ruhen",
+        "es": "Reposar de nuevo",
+        "fr": "Reposer encore",
+        "ro": "Odihnește din nou"
       },
       "summary": {
-        "en": "Let the folded squares rest briefly before flattening gently by hand into the final square shape."
+        "en": "Let the folded squares rest briefly before flattening gently by hand into the final square shape.",
+        "de": "Die gefalteten Quadrate kurz ruhen lassen, bevor du sie von Hand sanft zur endgültigen quadratischen Form flach drückst.",
+        "es": "Dejar reposar brevemente los cuadrados doblados antes de aplanarlos con suavidad a mano hasta su forma final.",
+        "fr": "Laisser reposer brièvement les carrés pliés avant de les aplatir doucement à la main pour leur forme carrée finale.",
+        "ro": "Lasă pătratele pliate să se odihnească puțin, apoi turtește-le ușor cu mâna, în forma pătrată finală."
       }
     },
     {
       "title": {
-        "en": "Griddle"
+        "en": "Griddle",
+        "de": "Auf der Platte backen",
+        "es": "Cocinar en la plancha",
+        "fr": "Cuisson à la plaque",
+        "ro": "Coace pe plită"
       },
       "summary": {
-        "en": "Cook on a lightly oiled, medium-hot griddle, turning several times, until golden and cooked through in the layers."
+        "en": "Cook on a lightly oiled, medium-hot griddle, turning several times, until golden and cooked through in the layers.",
+        "de": "Auf einer leicht geölten, mittelheißen Platte backen, dabei mehrmals wenden, bis golden und die Schichten durchgegart sind.",
+        "es": "Cocinar en una plancha ligeramente aceitada a fuego medio, dando varias vueltas, hasta que esté dorado y las capas queden bien hechas.",
+        "fr": "Cuire sur une plaque légèrement huilée à feu moyen, en retournant plusieurs fois, jusqu'à ce que ce soit doré et cuit à cœur dans les feuilletages.",
+        "ro": "Coace pe o plită unsă ușor cu ulei, la foc mediu, întorcând de mai multe ori, până se rumenește și straturile se coc bine."
       }
     },
     {
       "title": {
-        "en": "Serve warm"
+        "en": "Serve warm",
+        "de": "Warm servieren",
+        "es": "Servir caliente",
+        "fr": "Servir chaud",
+        "ro": "Servește cald"
       },
       "summary": {
-        "en": "Flex gently to loosen the layers and serve hot, often dipped in honey butter."
+        "en": "Flex gently to loosen the layers and serve hot, often dipped in honey butter.",
+        "de": "Vorsichtig biegen, um die Schichten zu lockern, und heiß servieren, oft in Honigbutter getunkt.",
+        "es": "Doblar con suavidad para soltar las capas y servir caliente, a menudo mojado en mantequilla con miel.",
+        "fr": "Plier délicatement pour détacher les feuilletages et servir chaud, souvent trempé dans du beurre au miel.",
+        "ro": "Îndoaie ușor pentru a desprinde straturile și servește fierbinte, adesea înmuiat în unt cu miere."
       }
     }
   ],

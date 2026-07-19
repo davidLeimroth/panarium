@@ -118,50 +118,98 @@
   "method": [
     {
       "title": {
-        "en": "Activate yeast"
+        "en": "Activate yeast",
+        "de": "Hefe aktivieren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Combine salt, sugar, yeast and lukewarm water; let stand about 5 minutes until it foams."
+        "en": "Combine salt, sugar, yeast and lukewarm water; let stand about 5 minutes until it foams.",
+        "de": "Salz, Zucker, Hefe und lauwarmes Wasser vermengen; etwa 5 Minuten stehen lassen, bis es schäumt.",
+        "es": "Combinar sal, azúcar, levadura y agua tibia; dejar reposar unos 5 minutos hasta que espume.",
+        "fr": "Combiner sel, sucre, levure et eau tiède ; laisser reposer environ 5 minutes jusqu'à ce que ça mousse.",
+        "ro": "Combină sarea, zahărul, drojdia și apa călduță; lasă să stea aproximativ 5 minute până face spumă."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Stir in the flour until just combined into a shaggy dough."
+        "en": "Stir in the flour until just combined into a shaggy dough.",
+        "de": "Das Mehl einrühren, nur bis ein grober Teig entsteht.",
+        "es": "Incorporar la harina hasta que apenas se una en una masa desigual.",
+        "fr": "Incorporer la farine juste jusqu'à obtenir une pâte grossière.",
+        "ro": "Încorporează făina doar până se leagă într-un aluat grosier."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Cover loosely and let rise in a warm place 1 to 2 hours, until doubled."
+        "en": "Cover loosely and let rise in a warm place 1 to 2 hours, until doubled.",
+        "de": "Locker abdecken und an einem warmen Ort 1 bis 2 Stunden gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Cubrir sin apretar y dejar fermentar en un lugar cálido de 1 a 2 horas, hasta que doble su volumen.",
+        "fr": "Couvrir sans serrer et laisser lever dans un endroit chaud 1 à 2 heures, jusqu'au double.",
+        "ro": "Acoperă lejer și lasă la dospit într-un loc călduros 1 până la 2 ore, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Knead and shape"
+        "en": "Knead and shape",
+        "de": "Kneten und formen",
+        "es": "Amasar y formar",
+        "fr": "Pétrir et façonner",
+        "ro": "Frământă și modelează"
       },
       "summary": {
-        "en": "Knead the risen dough until firm, adding a little flour as needed, then roll to about 2.5 cm thick and cut into rounds."
+        "en": "Knead the risen dough until firm, adding a little flour as needed, then roll to about 2.5 cm thick and cut into rounds.",
+        "de": "Den aufgegangenen Teig kneten, bis er fest ist, dabei bei Bedarf etwas Mehl zugeben, dann etwa 2.5 cm dick ausrollen und Kreise ausstechen.",
+        "es": "Amasar la masa fermentada hasta que esté firme, añadiendo un poco de harina si hace falta, luego estirar a unos 2.5 cm de grosor y cortar círculos.",
+        "fr": "Pétrir la pâte levée jusqu'à ce qu'elle soit ferme, en ajoutant un peu de farine si besoin, puis abaisser à environ 2.5 cm d'épaisseur et découper des ronds.",
+        "ro": "Frământă aluatul crescut până devine ferm, adăugând puțină făină dacă e nevoie, apoi întinde-l la aproximativ 2.5 cm grosime și decupează rotocoale."
       }
     },
     {
       "title": {
-        "en": "Fry"
+        "en": "Fry",
+        "de": "Frittieren",
+        "es": "Freír",
+        "fr": "Frire",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Fry in oil at about 177°C until deep golden on both sides, 3 to 5 minutes depending on size."
+        "en": "Fry in oil at about 177°C until deep golden on both sides, 3 to 5 minutes depending on size.",
+        "de": "In Öl bei etwa 177°C beidseitig tief golden frittieren, 3 bis 5 Minuten je nach Größe.",
+        "es": "Freír en aceite a unos 177°C hasta que estén bien dorados por ambos lados, de 3 a 5 minutos según el tamaño.",
+        "fr": "Frire dans l'huile à environ 177°C jusqu'à belle coloration dorée des deux côtés, 3 à 5 minutes selon la taille.",
+        "ro": "Prăjește în ulei la aproximativ 177°C până devin auriu-închis pe ambele părți, 3 până la 5 minute în funcție de mărime."
       }
     },
     {
       "title": {
-        "en": "Drain and serve"
+        "en": "Drain and serve",
+        "de": "Abtropfen und servieren",
+        "es": "Escurrir y servir",
+        "fr": "Égoutter et servir",
+        "ro": "Scurge și servește"
       },
       "summary": {
-        "en": "Lift out with a slotted spoon, drain on paper towels, and serve hot, split and filled with curried mince or spread with jam."
+        "en": "Lift out with a slotted spoon, drain on paper towels, and serve hot, split and filled with curried mince or spread with jam.",
+        "de": "Mit einem Schaumlöffel herausheben, auf Küchenpapier abtropfen lassen und heiß servieren, aufgeschnitten und mit Curryhack gefüllt oder mit Marmelade bestrichen.",
+        "es": "Sacar con una espumadera, escurrir sobre papel de cocina y servir caliente, abiertos y rellenos de carne picada al curry o untados con mermelada.",
+        "fr": "Retirer à l'écumoire, égoutter sur papier absorbant et servir chaud, fendus et garnis de viande hachée au curry ou tartinés de confiture.",
+        "ro": "Scoate-le cu o spumieră, scurge-le pe prosoape de hârtie și servește-le calde, tăiate și umplute cu carne tocată cu curry sau unse cu gem."
       }
     }
   ],

@@ -122,50 +122,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Sift the flour with the baking powder and salt, cut in the shortening until it looks like coarse crumbs, then stir in the warm water until the dough just comes together."
+        "en": "Sift the flour with the baking powder and salt, cut in the shortening until it looks like coarse crumbs, then stir in the warm water until the dough just comes together.",
+        "de": "Das Mehl mit Backpulver und Salz sieben, das Fett einarbeiten, bis es wie grobe Krümel aussieht, dann warmes Wasser einrühren, bis der Teig gerade zusammenkommt.",
+        "es": "Tamizar la harina con la levadura química y la sal, incorporar la manteca hasta que parezca migas gruesas, luego añadir el agua tibia hasta que la masa apenas se una.",
+        "fr": "Tamiser la farine avec la levure chimique et le sel, sabler avec la matière grasse jusqu'à obtenir de grosses miettes, puis incorporer l'eau tiède jusqu'à ce que la pâte se tienne tout juste.",
+        "ro": "Cerne făina cu praful de copt și sarea, încorporează grăsimea până arată ca niște firimituri grosiere, apoi adaugă apă călduță până aluatul de-abia se leagă."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Let the dough rest briefly, then divide into 5 pieces."
+        "en": "Let the dough rest briefly, then divide into 5 pieces.",
+        "de": "Den Teig kurz ruhen lassen, dann in 5 Stücke teilen.",
+        "es": "Dejar reposar la masa brevemente, luego dividirla en 5 piezas.",
+        "fr": "Laisser reposer la pâte brièvement, puis la diviser en 5 morceaux.",
+        "ro": "Lasă aluatul să stea puțin, apoi împarte-l în 5 bucăți."
       }
     },
     {
       "title": {
-        "en": "Roll & cut"
+        "en": "Roll & cut",
+        "de": "Ausrollen & schneiden",
+        "es": "Estirar y cortar",
+        "fr": "Abaisser et couper",
+        "ro": "Întinde și taie"
       },
       "summary": {
-        "en": "Roll each piece into an 8-inch circle and cut into quarters, for 20 wedges total."
+        "en": "Roll each piece into an 8-inch circle and cut into quarters, for 20 wedges total.",
+        "de": "Jedes Stück zu einem Kreis von 20 cm ausrollen und vierteln, für insgesamt 20 Spalten.",
+        "es": "Estirar cada pieza en un círculo de 20 cm y cortar en cuartos, para 20 cuñas en total.",
+        "fr": "Abaisser chaque morceau en un cercle de 20 cm et couper en quartiers, pour 20 triangles au total.",
+        "ro": "Întinde fiecare bucată într-un cerc de 20 cm și taie în sferturi, pentru un total de 20 de felii."
       }
     },
     {
       "title": {
-        "en": "Fry"
+        "en": "Fry",
+        "de": "Frittieren",
+        "es": "Freír",
+        "fr": "Frire",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Heat oil to 350-365°F (177-185°C) and fry the wedges a few at a time, flipping once, until they puff up and turn evenly golden."
+        "en": "Heat oil to 350-365°F (177-185°C) and fry the wedges a few at a time, flipping once, until they puff up and turn evenly golden.",
+        "de": "Öl auf 350-365°F (177-185°C) erhitzen und die Spalten in kleinen Portionen frittieren, einmal wenden, bis sie aufgehen und gleichmäßig golden werden.",
+        "es": "Calentar el aceite a 350-365°F (177-185°C) y freír las cuñas en pequeñas tandas, dándoles la vuelta una vez, hasta que se inflen y doren de manera uniforme.",
+        "fr": "Chauffer l'huile à 350-365°F (177-185°C) et frire les triangles quelques-uns à la fois, en retournant une fois, jusqu'à ce qu'ils gonflent et dorent uniformément.",
+        "ro": "Încălzește uleiul la 350-365°F (177-185°C) și prăjește feliile în porții mici, întorcându-le o dată, până se umflă și devin uniform aurii."
       }
     },
     {
       "title": {
-        "en": "Drain"
+        "en": "Drain",
+        "de": "Abtropfen",
+        "es": "Escurrir",
+        "fr": "Égoutter",
+        "ro": "Scurge"
       },
       "summary": {
-        "en": "Lift out onto paper towels to drain."
+        "en": "Lift out onto paper towels to drain.",
+        "de": "Herausheben und auf Küchenpapier abtropfen lassen.",
+        "es": "Sacar y escurrir sobre papel de cocina.",
+        "fr": "Retirer et égoutter sur du papier absorbant.",
+        "ro": "Scoate-le și lasă-le să se scurgă pe prosoape de hârtie."
       }
     },
     {
       "title": {
-        "en": "Coat & serve"
+        "en": "Coat & serve",
+        "de": "Wenden & servieren",
+        "es": "Cubrir y servir",
+        "fr": "Enrober et servir",
+        "ro": "Acoperă și servește"
       },
       "summary": {
-        "en": "Toss the warm sopapillas in cinnamon sugar and serve with honey for drizzling."
+        "en": "Toss the warm sopapillas in cinnamon sugar and serve with honey for drizzling.",
+        "de": "Die warmen Sopapillas in Zimtzucker wenden und mit Honig zum Beträufeln servieren.",
+        "es": "Revolcar las sopapillas calientes en azúcar con canela y servir con miel para rociar.",
+        "fr": "Rouler les sopapillas chaudes dans le sucre à la cannelle et servir avec du miel à verser dessus.",
+        "ro": "Tăvălește sopapillas calde prin zahăr cu scorțișoară și servește cu miere pentru stropit."
       }
     }
   ],

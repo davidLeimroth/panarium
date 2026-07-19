@@ -116,58 +116,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, lard, sugar, salt, yeast and water into a soft dough and let it rest 15 minutes before kneading."
+        "en": "Combine flour, lard, sugar, salt, yeast and water into a soft dough and let it rest 15 minutes before kneading.",
+        "de": "Mehl, Schweineschmalz, Zucker, Salz, Hefe und Wasser zu einem weichen Teig verbinden und 15 Minuten ruhen lassen, bevor geknetet wird.",
+        "es": "Combinar harina, manteca de cerdo, azúcar, sal, levadura y agua en una masa blanda y dejarla reposar 15 minutos antes de amasar.",
+        "fr": "Combiner la farine, le saindoux, le sucre, le sel, la levure et l'eau en une pâte souple, et laisser reposer 15 minutes avant de pétrir.",
+        "ro": "Combină făina, untura, zahărul, sarea, drojdia și apa într-un aluat moale și las-o la odihnă 15 minute înainte de frământare."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead until tacky and springy, 5-8 minutes."
+        "en": "Knead until tacky and springy, 5-8 minutes.",
+        "de": "5-8 Minuten kneten, bis der Teig griffig und elastisch ist.",
+        "es": "Amasar hasta que esté pegajosa y elástica, 5-8 minutos.",
+        "fr": "Pétrir jusqu'à ce que la pâte soit collante et élastique, 5-8 minutes.",
+        "ro": "Frământă până devine lipicioasă și elastică, 5-8 minute."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let the dough double in size, about an hour."
+        "en": "Let the dough double in size, about an hour.",
+        "de": "Den Teig etwa eine Stunde gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Dejar que la masa duplique su tamaño, aproximadamente una hora.",
+        "fr": "Laisser la pâte doubler de volume, environ une heure.",
+        "ro": "Lasă aluatul să se dubleze în volum, aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Preshape"
+        "en": "Preshape",
+        "de": "Vorformen",
+        "es": "Preformar",
+        "fr": "Préformer",
+        "ro": "Preformează"
       },
       "summary": {
-        "en": "Divide into six pieces, roll into cylinders, and let them rest 10 minutes."
+        "en": "Divide into six pieces, roll into cylinders, and let them rest 10 minutes.",
+        "de": "In sechs Stücke teilen, zu Zylindern rollen und 10 Minuten ruhen lassen.",
+        "es": "Dividir en seis piezas, enrollarlas en cilindros y dejar reposar 10 minutos.",
+        "fr": "Diviser en six pâtons, rouler en cylindres et laisser reposer 10 minutes.",
+        "ro": "Împarte în șase bucăți, rulează-le în cilindri și lasă-le la odihnă 10 minute."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Roll each piece into a six-inch torpedo with tapered, pointed ends."
+        "en": "Roll each piece into a six-inch torpedo with tapered, pointed ends.",
+        "de": "Jedes Stück zu einem 15 cm langen Torpedo mit spitz zulaufenden Enden rollen.",
+        "es": "Enrollar cada pieza en un torpedo de 15 cm con las puntas afinadas.",
+        "fr": "Rouler chaque pâton en torpille de 15 cm aux extrémités effilées et pointues.",
+        "ro": "Rulează fiecare bucată într-o torpilă de 15 cm cu capetele efilate și ascuțite."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof until puffy, 30-45 minutes."
+        "en": "Proof until puffy, 30-45 minutes.",
+        "de": "Gehen lassen, bis die Teiglinge aufgepolstert sind, 30-45 Minuten.",
+        "es": "Dejar fermentar hasta que estén hinchados, 30-45 minutos.",
+        "fr": "Laisser pousser jusqu'à ce qu'ils soient bien gonflés, 30-45 minutes.",
+        "ro": "Lasă la dospit până se umflă, 30-45 de minute."
       }
     },
     {
       "title": {
-        "en": "Score and bake"
+        "en": "Score and bake",
+        "de": "Einschneiden & backen",
+        "es": "Greñar y hornear",
+        "fr": "Lamer et cuire",
+        "ro": "Crestează și coace"
       },
       "summary": {
-        "en": "Cut a line down the center of each roll and bake hot with steam until deeply golden and crackling."
+        "en": "Cut a line down the center of each roll and bake hot with steam until deeply golden and crackling.",
+        "de": "Einen Schnitt der Länge nach in jedes Brötchen einschneiden und heiß mit Schwaden backen, bis tief golden und krachend knusprig.",
+        "es": "Hacer un corte a lo largo del centro de cada pieza y hornear con calor fuerte y vapor hasta dorar profundamente y quedar crujiente.",
+        "fr": "Inciser une ligne au centre de chaque pain et cuire à four chaud avec buée jusqu'à une belle couleur dorée et une croûte craquante.",
+        "ro": "Fă o crestătură pe mijlocul fiecărei chifle și coace la foc iute cu abur, până devine auriu-închis și crocant."
       }
     }
   ],

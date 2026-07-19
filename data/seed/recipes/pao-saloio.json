@@ -102,50 +102,98 @@
   "method": [
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Mix the flour and water and rest 30 minutes before adding anything else."
+        "en": "Mix the flour and water and rest 30 minutes before adding anything else.",
+        "de": "Mehl und Wasser vermischen und 30 Minuten ruhen lassen, bevor irgendetwas anderes zugegeben wird.",
+        "es": "Mezclar la harina y el agua y dejar reposar 30 minutos antes de añadir nada más.",
+        "fr": "Mélanger la farine et l'eau et laisser reposer 30 minutes avant d'ajouter le reste.",
+        "ro": "Amestecă făina și apa și lasă la odihnă 30 de minute înainte de a adăuga altceva."
       }
     },
     {
       "title": {
-        "en": "Mix in the starter"
+        "en": "Mix in the starter",
+        "de": "Sauerteig einarbeiten",
+        "es": "Añadir la masa madre",
+        "fr": "Incorporer le levain",
+        "ro": "Încorporează maiaua"
       },
       "summary": {
-        "en": "Combine with the sourdough starter and knead about 8 minutes, then work in the salt."
+        "en": "Combine with the sourdough starter and knead about 8 minutes, then work in the salt.",
+        "de": "Mit dem Sauerteig-Anstellgut verbinden und etwa 8 Minuten kneten, dann das Salz einarbeiten.",
+        "es": "Combinar con la masa madre y amasar unos 8 minutos, luego incorporar la sal.",
+        "fr": "Combiner avec le levain et pétrir environ 8 minutes, puis incorporer le sel.",
+        "ro": "Combină cu maiaua și frământă aproximativ 8 minute, apoi încorporează sarea."
       }
     },
     {
       "title": {
-        "en": "Fold to build strength"
+        "en": "Fold to build strength",
+        "de": "Falten für mehr Kraft",
+        "es": "Plegar para desarrollar fuerza",
+        "fr": "Rabattre pour renforcer",
+        "ro": "Pliază pentru forță"
       },
       "summary": {
-        "en": "Give the dough three sets of stretch-and-folds at 30-minute intervals, then rest 90 minutes."
+        "en": "Give the dough three sets of stretch-and-folds at 30-minute intervals, then rest 90 minutes.",
+        "de": "Den Teig dreimal im Abstand von 30 Minuten dehnen und falten, dann 90 Minuten ruhen lassen.",
+        "es": "Dar a la masa tres series de estirado y doblado a intervalos de 30 minutos, luego dejar reposar 90 minutos.",
+        "fr": "Donner à la pâte trois séries de rabats à 30 minutes d'intervalle, puis laisser reposer 90 minutes.",
+        "ro": "Dă aluatului trei serii de întindere și pliere, la interval de 30 de minute, apoi lasă la odihnă 90 de minute."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Pre-shape into a rough round, rest 30 minutes, then shape tightly into a ball."
+        "en": "Pre-shape into a rough round, rest 30 minutes, then shape tightly into a ball.",
+        "de": "Grob rund vorformen, 30 Minuten ruhen lassen, dann straff zu einer Kugel formen.",
+        "es": "Preformar en una bola tosca, dejar reposar 30 minutos, luego formar una bola prieta.",
+        "fr": "Préformer en boule grossière, laisser reposer 30 minutes, puis façonner fermement en boule serrée.",
+        "ro": "Preformează aproximativ rotund, lasă la odihnă 30 de minute, apoi modelează strâns o bilă."
       }
     },
     {
       "title": {
-        "en": "Cold retard"
+        "en": "Cold retard",
+        "de": "Kalte Führung",
+        "es": "Retardo en frío",
+        "fr": "Pousse au froid",
+        "ro": "Dospire la rece"
       },
       "summary": {
-        "en": "Place seam-up in a floured banneton and refrigerate up to 24 hours for flavor and an easy schedule."
+        "en": "Place seam-up in a floured banneton and refrigerate up to 24 hours for flavor and an easy schedule.",
+        "de": "Mit der Naht nach oben in ein bemehltes Gärkörbchen setzen und bis zu 24 Stunden kühlen, für mehr Aroma und einen flexiblen Zeitplan.",
+        "es": "Colocar con la costura hacia arriba en un banneton enharinado y refrigerar hasta 24 horas para más sabor y un horario más flexible.",
+        "fr": "Déposer, soudure vers le haut, dans un banneton fariné et réfrigérer jusqu'à 24 heures pour plus de goût et un planning plus souple.",
+        "ro": "Așază cu cusătura în sus într-un banneton făinat și dă la frigider până la 24 de ore pentru mai multă aromă și un program mai flexibil."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 250°C with convection for about 50 minutes until deeply golden."
+        "en": "Bake at 250°C with convection for about 50 minutes until deeply golden.",
+        "de": "Bei 250°C mit Umluft etwa 50 Minuten backen, bis er tief goldbraun ist.",
+        "es": "Hornear a 250°C con aire (convección) durante unos 50 minutos hasta que esté bien dorado.",
+        "fr": "Cuire à 250°C en chaleur tournante pendant environ 50 minutes jusqu'à belle coloration dorée.",
+        "ro": "Coace la 250°C cu ventilație (convecție) timp de aproximativ 50 de minute, până devine auriu-închis."
       }
     }
   ],

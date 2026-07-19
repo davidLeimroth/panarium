@@ -148,50 +148,98 @@
   "method": [
     {
       "title": {
-        "en": "Build starter one"
+        "en": "Build starter one",
+        "de": "Ansatz eins herstellen",
+        "es": "Preparar el primer fermento",
+        "fr": "Préparer le premier levain",
+        "ro": "Pregătește prima maia"
       },
       "summary": {
-        "en": "Stir warm milk, cornmeal and sugar together in a jar, cover, and hold at 32-38°C for 8-12 hours until bubbly and pungent."
+        "en": "Stir warm milk, cornmeal and sugar together in a jar, cover, and hold at 32-38°C for 8-12 hours until bubbly and pungent.",
+        "de": "Warme Milch, Maismehl und Zucker in einem Glas verrühren, abdecken und 8-12 Stunden bei 32-38°C halten, bis er blubbert und streng riecht.",
+        "es": "Mezclar en un tarro leche tibia, harina de maíz y azúcar, tapar y mantener a 32-38°C durante 8-12 horas hasta que burbujee y huela fuerte.",
+        "fr": "Mélanger dans un bocal du lait tiède, de la farine de maïs et du sucre, couvrir et maintenir à 32-38°C pendant 8-12 heures jusqu'à ce que ça bouillonne et sente fort.",
+        "ro": "Amestecă într-un borcan lapte călduț, mălai și zahăr, acoperă și ține la 32-38°C timp de 8-12 ore, până face bule și miroase puternic."
       }
     },
     {
       "title": {
-        "en": "Build starter two"
+        "en": "Build starter two",
+        "de": "Ansatz zwei herstellen",
+        "es": "Preparar el segundo fermento",
+        "fr": "Préparer le second levain",
+        "ro": "Pregătește a doua maia"
       },
       "summary": {
-        "en": "Whisk hot water, salt, baking soda, sugar and flour into starter one, then hold warm again for 2-4 hours until actively foaming."
+        "en": "Whisk hot water, salt, baking soda, sugar and flour into starter one, then hold warm again for 2-4 hours until actively foaming.",
+        "de": "Heißes Wasser, Salz, Natron, Zucker und Mehl in den ersten Ansatz einrühren, dann erneut 2-4 Stunden warm halten, bis er kräftig schäumt.",
+        "es": "Batir agua caliente, sal, bicarbonato, azúcar y harina en el primer fermento, luego mantener caliente otras 2-4 horas hasta que espume activamente.",
+        "fr": "Incorporer au fouet de l'eau chaude, du sel, du bicarbonate, du sucre et de la farine dans le premier levain, puis maintenir au chaud encore 2-4 heures jusqu'à ce que ça mousse activement.",
+        "ro": "Amestecă cu telul apă fierbinte, sare, bicarbonat, zahăr și făină în prima maia, apoi ține din nou la cald 2-4 ore, până face spumă activ."
       }
     },
     {
       "title": {
-        "en": "Mix final dough"
+        "en": "Mix final dough",
+        "de": "Hauptteig mischen",
+        "es": "Mezclar la masa final",
+        "fr": "Mélanger la pâte finale",
+        "ro": "Amestecă aluatul final"
       },
       "summary": {
-        "en": "Beat in the soft butter, salt and remaining flour to a soft dough."
+        "en": "Beat in the soft butter, salt and remaining flour to a soft dough.",
+        "de": "Die weiche Butter, das Salz und das restliche Mehl einrühren, bis ein weicher Teig entsteht.",
+        "es": "Incorporar la mantequilla blanda, la sal y el resto de la harina hasta lograr una masa suave.",
+        "fr": "Incorporer le beurre mou, le sel et le reste de la farine pour obtenir une pâte souple.",
+        "ro": "Încorporează untul moale, sarea și restul de făină până obții un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Dospire"
       },
       "summary": {
-        "en": "Scrape into a buttered loaf pan and let rise in a warm spot until it crests the rim, up to 4 hours."
+        "en": "Scrape into a buttered loaf pan and let rise in a warm spot until it crests the rim, up to 4 hours.",
+        "de": "In eine gebutterte Kastenform geben und an einem warmen Ort gehen lassen, bis er über den Rand wächst, bis zu 4 Stunden.",
+        "es": "Volcar en un molde de pan enmantequillado y dejar fermentar en un lugar cálido hasta que sobrepase el borde, hasta 4 horas.",
+        "fr": "Verser dans un moule à cake beurré et laisser lever dans un endroit chaud jusqu'à ce que la pâte dépasse le bord, jusqu'à 4 heures.",
+        "ro": "Toarnă într-o formă de pâine unsă cu unt și lasă la crescut într-un loc călduț până depășește marginea, până la 4 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until deeply golden and a skewer comes out clean, 35-40 minutes."
+        "en": "Bake until deeply golden and a skewer comes out clean, 35-40 minutes.",
+        "de": "Backen, bis er tief goldbraun ist und ein Spieß sauber herauskommt, 35-40 Minuten.",
+        "es": "Hornear hasta que esté muy dorado y un palillo salga limpio, 35-40 minutos.",
+        "fr": "Cuire jusqu'à coloration bien dorée et qu'une brochette ressorte sèche, 35-40 minutes.",
+        "ro": "Coace până devine auriu-închis și o scobitoare iese curată, 35-40 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcire"
       },
       "summary": {
-        "en": "Rest in the pan 10 minutes, then turn out onto a rack to cool completely before slicing."
+        "en": "Rest in the pan 10 minutes, then turn out onto a rack to cool completely before slicing.",
+        "de": "10 Minuten in der Form ruhen lassen, dann auf ein Gitter stürzen und vollständig abkühlen lassen, bevor angeschnitten wird.",
+        "es": "Dejar reposar en el molde 10 minutos, luego desmoldar sobre una rejilla y dejar enfriar por completo antes de cortar.",
+        "fr": "Laisser reposer dans le moule 10 minutes, puis démouler sur une grille et laisser refroidir complètement avant de trancher.",
+        "ro": "Lasă în formă 10 minute, apoi răstoarnă pe un grătar și lasă să se răcească complet înainte de a felia."
       }
     }
   ],

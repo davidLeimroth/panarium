@@ -122,66 +122,130 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Mix starter with whole wheat and all-purpose flour and water; ripen at warm room temperature overnight."
+        "en": "Mix starter with whole wheat and all-purpose flour and water; ripen at warm room temperature overnight.",
+        "de": "Anstellgut mit Weizenvollkornmehl, Weizenmehl und Wasser verrühren; über Nacht bei warmer Raumtemperatur reifen lassen.",
+        "es": "Mezclar la masa madre con harina integral de trigo, harina de trigo común y agua; dejar madurar toda la noche a temperatura ambiente cálida.",
+        "fr": "Mélanger le levain avec farine de blé complète, farine de blé et eau ; laisser mûrir toute la nuit à température ambiante chaude.",
+        "ro": "Amestecă maiaua cu făină integrală de grâu, făină albă și apă; lasă să se matureze peste noapte la temperatura camerei, într-un loc călduț."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Combine the remaining flours, wheat germ and most of the water; rest 2 hours."
+        "en": "Combine the remaining flours, wheat germ and most of the water; rest 2 hours.",
+        "de": "Die restlichen Mehle, Weizenkeime und den Großteil des Wassers vermengen; 2 Stunden ruhen lassen.",
+        "es": "Combinar las harinas restantes, el germen de trigo y la mayor parte del agua; dejar reposar 2 horas.",
+        "fr": "Combiner le reste des farines, le germe de blé et la majeure partie de l'eau ; laisser reposer 2 heures.",
+        "ro": "Combină restul de făinuri, germenii de grâu și cea mai mare parte a apei; lasă să stea 2 ore."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Add the ripe levain and salt, mixing to a cohesive, very wet dough."
+        "en": "Add the ripe levain and salt, mixing to a cohesive, very wet dough.",
+        "de": "Das reife Levain und Salz zugeben und zu einem zusammenhängenden, sehr feuchten Teig mischen.",
+        "es": "Añadir el levain maduro y la sal, mezclando hasta obtener una masa uniforme y muy húmeda.",
+        "fr": "Ajouter le levain mûr et le sel, en mélangeant jusqu'à une pâte homogène et très humide.",
+        "ro": "Adaugă levain-ul copt și sarea, amestecând până obții un aluat coeziv și foarte umed."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment about 4 hours with several stretch-and-fold sets, watching for a puffy, jiggly dough that holds a slight dome."
+        "en": "Ferment about 4 hours with several stretch-and-fold sets, watching for a puffy, jiggly dough that holds a slight dome.",
+        "de": "Etwa 4 Stunden mit mehreren Sätzen Dehnen und Falten fermentieren lassen, bis der Teig aufgepolstert und wabbelig ist und eine leichte Wölbung hält.",
+        "es": "Fermentar unas 4 horas con varias series de pliegues, observando que la masa quede hinchada y temblorosa, con una ligera cúpula.",
+        "fr": "Fermenter environ 4 heures avec plusieurs séries de rabats, en surveillant une pâte gonflée et tremblotante qui garde un léger dôme.",
+        "ro": "Lasă la fermentat aproximativ 4 ore cu mai multe seturi de întindere și pliere, urmărind un aluat pufos, tremurător, care păstrează o ușoară boltire."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide, preshape, rest briefly, then shape gently, the high hydration and heavy bran content make this a slack, sticky dough."
+        "en": "Divide, preshape, rest briefly, then shape gently, the high hydration and heavy bran content make this a slack, sticky dough.",
+        "de": "Teilen, vorformen, kurz ruhen lassen, dann behutsam formen; die hohe Hydration und der hohe Kleieanteil machen diesen Teig weich und klebrig.",
+        "es": "Dividir, preformar, dejar reposar brevemente, luego formar con delicadeza; la alta hidratación y el alto contenido de salvado hacen que esta masa sea floja y pegajosa.",
+        "fr": "Diviser, préfaçonner, laisser reposer brièvement, puis façonner en douceur ; la forte hydratation et la teneur élevée en son rendent cette pâte molle et collante.",
+        "ro": "Împarte aluatul, premodelează, lasă să stea puțin, apoi modelează cu blândețe; hidratarea ridicată și conținutul mare de tărâțe fac acest aluat moale și lipicios."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gare",
+        "es": "Fermentar",
+        "fr": "Apprêt",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Proof at room temperature (it ferments quickly) or refrigerate for a slower, more convenient schedule."
+        "en": "Proof at room temperature (it ferments quickly) or refrigerate for a slower, more convenient schedule.",
+        "de": "Bei Raumtemperatur gehen lassen (der Teig gärt schnell) oder für einen langsameren, praktischeren Zeitplan kühlen.",
+        "es": "Fermentar a temperatura ambiente (fermenta rápido) o refrigerar para un horario más lento y cómodo.",
+        "fr": "Faire pousser à température ambiante (elle fermente vite) ou réfrigérer pour un rythme plus lent et plus pratique.",
+        "ro": "Lasă la dospit la temperatura camerei (fermentează rapid) sau ține la frigider pentru un program mai lent și mai comod."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a preheated Dutch oven at 230°C: 30 minutes covered, then 30 minutes uncovered until deeply colored."
+        "en": "Bake in a preheated Dutch oven at 230°C: 30 minutes covered, then 30 minutes uncovered until deeply colored.",
+        "de": "Im vorgeheizten Dutch Oven bei 230°C backen: 30 Minuten zugedeckt, dann 30 Minuten offen, bis tief gefärbt.",
+        "es": "Hornear en una olla holandesa precalentada a 230°C: 30 minutos tapada, luego 30 minutos destapada hasta que tenga un color intenso.",
+        "fr": "Cuire dans une cocotte en fonte préchauffée à 230°C : 30 minutes à couvert, puis 30 minutes à découvert jusqu'à une couleur soutenue.",
+        "ro": "Coace într-un vas Dutch oven preîncălzit la 230°C: 30 de minute cu capac, apoi 30 de minute fără capac până capătă o culoare intensă."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest at least an hour before slicing; excellent toasted."
+        "en": "Rest at least an hour before slicing; excellent toasted.",
+        "de": "Mindestens eine Stunde ruhen lassen, bevor angeschnitten wird; hervorragend geröstet.",
+        "es": "Dejar reposar al menos una hora antes de cortar; excelente tostado.",
+        "fr": "Laisser reposer au moins une heure avant de trancher ; excellent grillé.",
+        "ro": "Lasă să stea cel puțin o oră înainte de feliere; excelent prăjit la pâine."
       }
     }
   ],

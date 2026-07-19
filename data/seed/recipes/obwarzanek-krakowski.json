@@ -124,50 +124,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Dissolve yeast in warm water, rest 5-10 minutes, then combine with flour and salt into a smooth dough."
+        "en": "Dissolve yeast in warm water, rest 5-10 minutes, then combine with flour and salt into a smooth dough.",
+        "de": "Hefe in warmem Wasser auflösen, 5-10 Minuten ruhen lassen, dann mit Mehl und Salz zu einem glatten Teig verarbeiten.",
+        "es": "Disolver la levadura en agua tibia, dejar reposar 5-10 minutos, luego combinar con la harina y la sal hasta obtener una masa lisa.",
+        "fr": "Dissoudre la levure dans l'eau tiède, laisser reposer 5-10 minutes, puis mélanger avec la farine et le sel pour obtenir une pâte lisse.",
+        "ro": "Dizolvă drojdia în apă călduță, lasă 5-10 minute, apoi amestecă cu făina și sarea până obții un aluat neted."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Cover and let double in size, 1-2 hours."
+        "en": "Cover and let double in size, 1-2 hours.",
+        "de": "Abdecken und auf das Doppelte aufgehen lassen, 1-2 Stunden.",
+        "es": "Tapar y dejar que doble su tamaño, 1-2 horas.",
+        "fr": "Couvrir et laisser doubler de volume, 1-2 heures.",
+        "ro": "Acoperă și lasă să își dubleze volumul, 1-2 ore."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide and roll each piece into a long rope, fold in half, twist into a spiral, then join the ends into a ring."
+        "en": "Divide and roll each piece into a long rope, fold in half, twist into a spiral, then join the ends into a ring.",
+        "de": "Teilen und jedes Stück zu einem langen Strang rollen, in der Mitte falten, zu einer Spirale verdrehen und die Enden zu einem Ring schließen.",
+        "es": "Dividir y enrollar cada porción en una tira larga, doblarla por la mitad, retorcerla en espiral y unir los extremos formando un anillo.",
+        "fr": "Diviser et rouler chaque morceau en un long boudin, le plier en deux, le torsader en spirale, puis joindre les extrémités en anneau.",
+        "ro": "Împarte și rulează fiecare bucată într-un fitil lung, pliază-l în două, răsucește-l în spirală, apoi unește capetele într-un inel."
       }
     },
     {
       "title": {
-        "en": "Boil"
+        "en": "Boil",
+        "de": "Blanchieren",
+        "es": "Escaldar",
+        "fr": "Pocher",
+        "ro": "Opărește"
       },
       "summary": {
-        "en": "Simmer baking soda and honey in a large pot of water; dip each ring 15-20 seconds per side."
+        "en": "Simmer baking soda and honey in a large pot of water; dip each ring 15-20 seconds per side.",
+        "de": "Natron und Honig in einem großen Topf Wasser köcheln lassen; jeden Ring 15-20 Sekunden pro Seite darin ziehen.",
+        "es": "Hervir a fuego lento bicarbonato y miel en una olla grande con agua; sumergir cada anillo 15-20 segundos por lado.",
+        "fr": "Faire frémir du bicarbonate et du miel dans une grande casserole d'eau ; y plonger chaque anneau 15-20 secondes de chaque côté.",
+        "ro": "Fierbe la foc mic bicarbonat și miere într-o oală mare cu apă; scufundă fiecare inel 15-20 de secunde pe fiecare parte."
       }
     },
     {
       "title": {
-        "en": "Top"
+        "en": "Top",
+        "de": "Bestreuen",
+        "es": "Cubrir",
+        "fr": "Garnir",
+        "ro": "Presară"
       },
       "summary": {
-        "en": "Transfer to a lined sheet and scatter with sesame seeds, poppy seeds or coarse salt."
+        "en": "Transfer to a lined sheet and scatter with sesame seeds, poppy seeds or coarse salt.",
+        "de": "Auf ein ausgelegtes Blech legen und mit Sesam, Mohn oder grobem Salz bestreuen.",
+        "es": "Colocar sobre una bandeja forrada y espolvorear con semillas de sésamo, amapola o sal gruesa.",
+        "fr": "Déposer sur une plaque chemisée et parsemer de graines de sésame, de pavot ou de gros sel.",
+        "ro": "Așază pe o tavă căptușită și presară semințe de susan, mac sau sare grunjoasă."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until deeply golden, about 20 minutes."
+        "en": "Bake until deeply golden, about 20 minutes.",
+        "de": "Backen, bis er tief goldbraun ist, etwa 20 Minuten.",
+        "es": "Hornear hasta que esté bien dorado, unos 20 minutos.",
+        "fr": "Cuire jusqu'à belle coloration dorée, environ 20 minutes.",
+        "ro": "Coace până devine auriu-închis, aproximativ 20 de minute."
       }
     }
   ],

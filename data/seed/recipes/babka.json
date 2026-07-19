@@ -178,66 +178,130 @@
   "method": [
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine water, eggs, flour, milk powder, yeast, cinnamon and sugar; rest 20 minutes, then knead in the salt, butter and vanilla until smooth and elastic."
+        "en": "Combine water, eggs, flour, milk powder, yeast, cinnamon and sugar; rest 20 minutes, then knead in the salt, butter and vanilla until smooth and elastic.",
+        "de": "Wasser, Eier, Mehl, Milchpulver, Hefe, Zimt und Zucker vermengen; 20 Minuten ruhen lassen, dann Salz, Butter und Vanille glatt und elastisch einkneten.",
+        "es": "Combinar el agua, los huevos, la harina, la leche en polvo, la levadura, la canela y el azúcar; reposar 20 minutos, luego amasar con la sal, la mantequilla y la vainilla hasta que quede lisa y elástica.",
+        "fr": "Combiner l'eau, les œufs, la farine, le lait en poudre, la levure, la cannelle et le sucre; laisser reposer 20 minutes, puis pétrir avec le sel, le beurre et la vanille jusqu'à lisse et élastique.",
+        "ro": "Combină apa, ouăle, făina, laptele praf, drojdia, scorțișoara și zahărul; lasă 20 de minute, apoi frământă cu sarea, untul și vanilia până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Primera fermentación",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let the dough rise at room temperature until puffy, about 1.5-2 hours."
+        "en": "Let the dough rise at room temperature until puffy, about 1.5-2 hours.",
+        "de": "Den Teig bei Raumtemperatur gehen lassen, bis er aufgepolstert wirkt, etwa 1.5-2 Stunden.",
+        "es": "Dejar fermentar la masa a temperatura ambiente hasta que esté hinchada, unas 1.5-2 horas.",
+        "fr": "Laisser lever la pâte à température ambiante jusqu'à ce qu'elle gonfle, environ 1.5-2 heures.",
+        "ro": "Lasă aluatul la crescut la temperatura camerei până se umflă, aproximativ 1.5-2 ore."
       }
     },
     {
       "title": {
-        "en": "Make the filling"
+        "en": "Make the filling",
+        "de": "Füllung zubereiten",
+        "es": "Preparar el relleno",
+        "fr": "Préparer la garniture",
+        "ro": "Pregătește umplutura"
       },
       "summary": {
-        "en": "Blend sugar, cinnamon, cocoa and a little espresso powder with melted butter; keep the chopped chocolate and toasted nuts ready alongside."
+        "en": "Blend sugar, cinnamon, cocoa and a little espresso powder with melted butter; keep the chopped chocolate and toasted nuts ready alongside.",
+        "de": "Zucker, Zimt, Kakao und etwas Espressopulver mit geschmolzener Butter verrühren; gehackte Schokolade und geröstete Nüsse bereitstellen.",
+        "es": "Mezclar el azúcar, la canela, el cacao y un poco de café espresso en polvo con la mantequilla derretida; tener listos el chocolate picado y los frutos secos tostados.",
+        "fr": "Mélanger le sucre, la cannelle, le cacao et un peu de café expresso en poudre avec le beurre fondu; garder le chocolat haché et les noix torréfiées à portée.",
+        "ro": "Amestecă zahărul, scorțișoara, cacaua și puțină cafea espresso măcinată cu untul topit; ține pregătite alături ciocolata tocată și nucile prăjite."
       }
     },
     {
       "title": {
-        "en": "Roll and fill"
+        "en": "Roll and fill",
+        "de": "Ausrollen und füllen",
+        "es": "Estirar y rellenar",
+        "fr": "Étaler et garnir",
+        "ro": "Întinde și umple"
       },
       "summary": {
-        "en": "Divide the dough in half and roll each piece into a large rectangle, then spread with the filling, chocolate and nuts."
+        "en": "Divide the dough in half and roll each piece into a large rectangle, then spread with the filling, chocolate and nuts.",
+        "de": "Den Teig halbieren und jedes Stück zu einem großen Rechteck ausrollen, dann mit Füllung, Schokolade und Nüssen bestreichen.",
+        "es": "Dividir la masa por la mitad y estirar cada trozo en un rectángulo grande, luego cubrir con el relleno, el chocolate y los frutos secos.",
+        "fr": "Diviser la pâte en deux et abaisser chaque moitié en un grand rectangle, puis étaler la garniture, le chocolat et les noix.",
+        "ro": "Împarte aluatul în două și întinde fiecare bucată într-un dreptunghi mare, apoi acoperă cu umplutura, ciocolata și nucile."
       }
     },
     {
       "title": {
-        "en": "Roll and twist"
+        "en": "Roll and twist",
+        "de": "Rollen und drehen",
+        "es": "Enrollar y trenzar",
+        "fr": "Rouler et torsader",
+        "ro": "Rulează și răsucește"
       },
       "summary": {
-        "en": "Roll each rectangle up tightly, split the log lengthwise and twist the two strands together into a loaf pan."
+        "en": "Roll each rectangle up tightly, split the log lengthwise and twist the two strands together into a loaf pan.",
+        "de": "Jedes Rechteck fest aufrollen, die Rolle der Länge nach halbieren und die beiden Stränge verdreht in eine Kastenform legen.",
+        "es": "Enrollar cada rectángulo con firmeza, cortar el rollo a lo largo y trenzar las dos tiras juntas dentro de un molde.",
+        "fr": "Rouler chaque rectangle bien serré, fendre le boudin sur la longueur et torsader les deux brins ensemble dans un moule à cake.",
+        "ro": "Rulează strâns fiecare dreptunghi, taie sulul pe lungime și răsucește cele două fâșii împreună într-o formă de pâine."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof until the dough crowns just over the rim of the pan, about 1.5-2.5 hours."
+        "en": "Proof until the dough crowns just over the rim of the pan, about 1.5-2.5 hours.",
+        "de": "Gehen lassen, bis der Teig knapp über den Formrand wächst, etwa 1.5-2.5 Stunden.",
+        "es": "Fermentar hasta que la masa sobresalga apenas del borde del molde, unas 1.5-2.5 horas.",
+        "fr": "Laisser à l'apprêt jusqu'à ce que la pâte dépasse tout juste le bord du moule, environ 1.5-2.5 heures.",
+        "ro": "Lasă la dospit până aluatul depășește ușor marginea formei, aproximativ 1.5-2.5 ore."
       }
     },
     {
       "title": {
-        "en": "Glaze, top and bake"
+        "en": "Glaze, top and bake",
+        "de": "Glasieren, bestreuen, backen",
+        "es": "Glasear, cubrir y hornear",
+        "fr": "Glacer, garnir, cuire",
+        "ro": "Glazurează, presară, coace"
       },
       "summary": {
-        "en": "Brush with egg glaze, scatter with streusel, then bake at 149°C (300°F) for 50-60 minutes, tenting with foil partway through to stop over-browning."
+        "en": "Brush with egg glaze, scatter with streusel, then bake at 149°C (300°F) for 50-60 minutes, tenting with foil partway through to stop over-browning.",
+        "de": "Mit Eistreiche bepinseln, mit Streuseln bestreuen und bei 149°C (300°F) 50-60 Minuten backen; dabei mit Folie abdecken, damit nichts zu dunkel wird.",
+        "es": "Pincelar con huevo, esparcir el crumble y hornear a 149°C (300°F) durante 50-60 minutos, cubriendo con papel de aluminio a media cocción para evitar que se oscurezca demasiado.",
+        "fr": "Badigeonner de dorure à l'œuf, parsemer de streusel, puis cuire à 149°C (300°F) pendant 50-60 minutes, en couvrant de papier aluminium à mi-cuisson pour éviter que ça brunisse trop.",
+        "ro": "Unge cu ou bătut, presară cu crumble, apoi coace la 149°C (300°F) timp de 50-60 minute, acoperind cu folie la jumătatea coacerii ca să nu se rumenească prea tare."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest 10 minutes in the pan, then turn out onto a rack to finish cooling before slicing."
+        "en": "Rest 10 minutes in the pan, then turn out onto a rack to finish cooling before slicing.",
+        "de": "10 Minuten in der Form ruhen lassen, dann auf ein Gitter stürzen und vor dem Anschneiden vollständig auskühlen lassen.",
+        "es": "Dejar reposar 10 minutos en el molde, luego desmoldar sobre una rejilla y dejar enfriar del todo antes de cortar.",
+        "fr": "Laisser reposer 10 minutes dans le moule, puis démouler sur une grille et laisser refroidir complètement avant de trancher.",
+        "ro": "Lasă 10 minute în formă, apoi răstoarnă pe un grătar și lasă să se răcească complet înainte de feliere."
       }
     }
   ],

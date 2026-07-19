@@ -119,50 +119,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, yeast, salt and water in a stand mixer with a dough hook, about 6-8 minutes, until smooth."
+        "en": "Combine flour, yeast, salt and water in a stand mixer with a dough hook, about 6-8 minutes, until smooth.",
+        "de": "Mehl, Hefe, Salz und Wasser in einer Küchenmaschine mit Knethaken etwa 6-8 Minuten verarbeiten, bis glatt.",
+        "es": "Combinar harina, levadura, sal y agua en una amasadora con gancho durante 6-8 minutos, hasta que quede lisa.",
+        "fr": "Combiner la farine, la levure, le sel et l'eau dans un robot pâtissier avec crochet pétrisseur pendant 6-8 minutes, jusqu'à obtenir une pâte lisse.",
+        "ro": "Combină făina, drojdia, sarea și apa într-un mixer cu cârlig de frământat timp de 6-8 minute, până devine neted."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise 2.5-3 hours at room temperature until doubled."
+        "en": "Cover and let rise 2.5-3 hours at room temperature until doubled.",
+        "de": "Zugedeckt 2.5-3 Stunden bei Raumtemperatur gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar fermentar 2.5-3 horas a temperatura ambiente hasta duplicar.",
+        "fr": "Couvrir et laisser lever 2.5-3 heures à température ambiante jusqu'au double.",
+        "ro": "Acoperă și lasă la crescut 2.5-3 ore la temperatura camerei, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Fold in the olives"
+        "en": "Fold in the olives",
+        "de": "Oliven einarbeiten",
+        "es": "Incorporar las aceitunas",
+        "fr": "Incorporer les olives",
+        "ro": "Încorporează măslinele"
       },
       "summary": {
-        "en": "Gently work the chopped olives through the dough without overworking it."
+        "en": "Gently work the chopped olives through the dough without overworking it.",
+        "de": "Die gehackten Oliven vorsichtig in den Teig einarbeiten, ohne ihn zu überarbeiten.",
+        "es": "Incorporar con suavidad las aceitunas picadas en la masa, sin trabajarla en exceso.",
+        "fr": "Incorporer délicatement les olives hachées dans la pâte, sans trop la travailler.",
+        "ro": "Încorporează cu grijă măslinele tocate în aluat, fără să-l lucrezi prea mult."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into a round loaf, optionally topping with sesame seeds."
+        "en": "Shape into a round loaf, optionally topping with sesame seeds.",
+        "de": "Zu einem runden Laib formen, optional mit Sesam bestreuen.",
+        "es": "Dar forma de pan redondo, cubriendo opcionalmente con semillas de sésamo.",
+        "fr": "Façonner en pain rond, en garnissant éventuellement de graines de sésame.",
+        "ro": "Modelează o pâine rotundă, presărând opțional semințe de susan."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let proof 45 minutes."
+        "en": "Let proof 45 minutes.",
+        "de": "45 Minuten gehen lassen.",
+        "es": "Dejar fermentar 45 minutos.",
+        "fr": "Laisser pousser 45 minutes.",
+        "ro": "Lasă la dospit 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake covered"
+        "en": "Bake covered",
+        "de": "Zugedeckt backen",
+        "es": "Hornear tapado",
+        "fr": "Cuire à couvert",
+        "ro": "Coace acoperit"
       },
       "summary": {
-        "en": "Bake in a covered Dutch oven at 230°C for 30 minutes, then uncover and bake 15 minutes more until golden."
+        "en": "Bake in a covered Dutch oven at 230°C for 30 minutes, then uncover and bake 15 minutes more until golden.",
+        "de": "Im zugedeckten Gusstopf bei 230°C 30 Minuten backen, dann aufdecken und 15 Minuten weiterbacken, bis golden.",
+        "es": "Hornear en una olla de hierro fundido tapada a 230°C durante 30 minutos, luego destapar y hornear 15 minutos más hasta que esté dorado.",
+        "fr": "Cuire dans une cocotte en fonte couverte à 230°C pendant 30 minutes, puis découvrir et cuire 15 minutes de plus jusqu'à coloration dorée.",
+        "ro": "Coace într-o oală de fontă acoperită la 230°C timp de 30 de minute, apoi descoperă și coace încă 15 minute, până devine aurie."
       }
     }
   ],

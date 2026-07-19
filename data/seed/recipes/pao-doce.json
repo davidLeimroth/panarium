@@ -137,66 +137,130 @@
   "method": [
     {
       "title": {
-        "en": "Wake the yeast"
+        "en": "Wake the yeast",
+        "de": "Hefe aufwecken",
+        "es": "Activar la levadura",
+        "fr": "Réveiller la levure",
+        "ro": "Trezește drojdia"
       },
       "summary": {
-        "en": "Dissolve the fresh yeast in the warm water with a pinch of the sugar and let it foam for about 10 minutes."
+        "en": "Dissolve the fresh yeast in the warm water with a pinch of the sugar and let it foam for about 10 minutes.",
+        "de": "Die frische Hefe mit einer Prise Zucker im warmen Wasser auflösen und etwa 10 Minuten schäumen lassen.",
+        "es": "Disolver la levadura fresca en el agua tibia con una pizca de azúcar y dejar que haga espuma unos 10 minutos.",
+        "fr": "Dissoudre la levure fraîche dans l'eau tiède avec une pincée de sucre et laisser mousser environ 10 minutes.",
+        "ro": "Dizolvă drojdia proaspătă în apa călduță cu un vârf de zahăr și lasă să facă spumă aproximativ 10 minute."
       }
     },
     {
       "title": {
-        "en": "Build the dough"
+        "en": "Build the dough",
+        "de": "Teig ansetzen",
+        "es": "Preparar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Pregătește aluatul"
       },
       "summary": {
-        "en": "Beat the eggs with the sugar and lemon zest until pale, then work in the flour, warmed milk and mashed sweet potato along with the yeast mixture."
+        "en": "Beat the eggs with the sugar and lemon zest until pale, then work in the flour, warmed milk and mashed sweet potato along with the yeast mixture.",
+        "de": "Die Eier mit Zucker und Zitronenschale hell schlagen, dann Mehl, warme Milch und zerdrücktes Süßkartoffelpüree zusammen mit der Hefemischung einarbeiten.",
+        "es": "Batir los huevos con el azúcar y la ralladura de limón hasta que estén pálidos, luego incorporar la harina, la leche templada y el puré de boniato junto con la mezcla de levadura.",
+        "fr": "Battre les œufs avec le sucre et le zeste de citron jusqu'à ce qu'ils blanchissent, puis incorporer la farine, le lait tiédi et la purée de patate douce avec le mélange de levure.",
+        "ro": "Bate ouăle cu zahărul și coaja de lămâie până se deschid la culoare, apoi încorporează făina, laptele călduț și piureul de cartof dulce împreună cu amestecul de drojdie."
       }
     },
     {
       "title": {
-        "en": "Knead in butter and salt"
+        "en": "Knead in butter and salt",
+        "de": "Butter und Salz einkneten",
+        "es": "Incorporar mantequilla y sal",
+        "fr": "Incorporer beurre et sel",
+        "ro": "Frământă cu unt și sare"
       },
       "summary": {
-        "en": "Knead well past the point the dough first comes together, then work in the softened butter and salt until the dough turns glossy, smooth and elastic - this bread wants a longer knead than a plain loaf."
+        "en": "Knead well past the point the dough first comes together, then work in the softened butter and salt until the dough turns glossy, smooth and elastic - this bread wants a longer knead than a plain loaf.",
+        "de": "Weit über den Punkt hinaus kneten, an dem der Teig sich erstmals zusammenfügt, dann weiche Butter und Salz einarbeiten, bis der Teig glänzend, glatt und elastisch wird; dieses Brot braucht ein längeres Kneten als ein einfacher Laib.",
+        "es": "Amasar bien más allá del punto en que la masa se une por primera vez, luego incorporar la mantequilla ablandada y la sal hasta que la masa quede brillante, lisa y elástica; este pan necesita un amasado más largo que uno sencillo.",
+        "fr": "Pétrir bien au-delà du moment où la pâte se rassemble pour la première fois, puis incorporer le beurre ramolli et le sel jusqu'à ce qu'elle devienne brillante, lisse et élastique ; ce pain demande un pétrissage plus long qu'un pain ordinaire.",
+        "ro": "Frământă mult după punctul în care aluatul se leagă prima dată, apoi încorporează untul moale și sarea până aluatul devine lucios, neted și elastic; această pâine are nevoie de o frământare mai lungă decât una simplă."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise at room temperature until roughly doubled, about 3 hours."
+        "en": "Cover and let rise at room temperature until roughly doubled, about 3 hours.",
+        "de": "Abdecken und bei Raumtemperatur gehen lassen, bis er sich etwa verdoppelt hat, etwa 3 Stunden.",
+        "es": "Tapar y dejar fermentar a temperatura ambiente hasta que casi doble su tamaño, unas 3 horas.",
+        "fr": "Couvrir et laisser pousser à température ambiante jusqu'à ce qu'elle double à peu près, environ 3 heures.",
+        "ro": "Acoperă și lasă la crescut la temperatura camerei până se dublează aproape complet, aproximativ 3 ore."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Deflate gently and shape into one large round loaf on a lined baking sheet."
+        "en": "Deflate gently and shape into one large round loaf on a lined baking sheet.",
+        "de": "Sanft entgasen und zu einem großen runden Laib auf einem ausgelegten Backblech formen.",
+        "es": "Desgasificar con suavidad y formar una gran hogaza redonda sobre una bandeja forrada.",
+        "fr": "Dégazer délicatement et façonner en un grand pain rond sur une plaque chemisée.",
+        "ro": "Degazează ușor și modelează o pâine rotundă mare pe o tavă căptușită."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover loosely and proof until visibly puffy, about 90 minutes."
+        "en": "Cover loosely and proof until visibly puffy, about 90 minutes.",
+        "de": "Locker abdecken und gehen lassen, bis er sichtbar aufgeplustert ist, etwa 90 Minuten.",
+        "es": "Tapar sin apretar y dejar fermentar hasta que esté visiblemente hinchada, unos 90 minutos.",
+        "fr": "Couvrir sans serrer et laisser pousser jusqu'à ce qu'elle soit visiblement gonflée, environ 90 minutes.",
+        "ro": "Acoperă lejer și lasă la dospit până se umflă vizibil, aproximativ 90 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Brush with beaten egg, optionally score a shallow cross on top, and bake at 180°C for about 45 minutes until deeply golden."
+        "en": "Brush with beaten egg, optionally score a shallow cross on top, and bake at 180°C for about 45 minutes until deeply golden.",
+        "de": "Mit verquirltem Ei bestreichen, optional ein flaches Kreuz oben einritzen, und bei 180°C etwa 45 Minuten backen, bis er tief goldbraun ist.",
+        "es": "Pincelar con huevo batido, opcionalmente marcar una cruz poco profunda encima, y hornear a 180°C durante unos 45 minutos hasta que esté bien dorado.",
+        "fr": "Badigeonner d'œuf battu, inciser éventuellement une croix peu profonde sur le dessus, et cuire à 180°C pendant environ 45 minutes jusqu'à belle coloration dorée.",
+        "ro": "Unge cu ou bătut, opțional crestează o cruce puțin adâncă deasupra, și coace la 180°C timp de aproximativ 45 de minute, până devine auriu-închis."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool completely on a rack before slicing; the crumb is tender and slightly stringy when pulled apart."
+        "en": "Cool completely on a rack before slicing; the crumb is tender and slightly stringy when pulled apart.",
+        "de": "Vollständig auf einem Gitter auskühlen lassen, bevor angeschnitten wird; die Krume ist zart und leicht fadenziehend beim Auseinanderziehen.",
+        "es": "Dejar enfriar por completo sobre una rejilla antes de cortar; la miga es tierna y ligeramente elástica al separarla.",
+        "fr": "Laisser refroidir complètement sur une grille avant de trancher ; la mie est tendre et légèrement filante quand on l'étire.",
+        "ro": "Lasă la răcit complet pe un grătar înainte de a felia; miezul este fraged și ușor filant atunci când este rupt."
       }
     }
   ],

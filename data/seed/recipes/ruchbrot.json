@@ -105,58 +105,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the pre-dough"
+        "en": "Build the pre-dough",
+        "de": "Vorteig ansetzen",
+        "es": "Preparar el prefermento",
+        "fr": "Préparer le pré-ferment",
+        "ro": "Pregătește preferment-ul"
       },
       "summary": {
-        "en": "Mix a portion of the Ruchmehl with water and a little yeast. Ferment at room temperature for about 12 hours."
+        "en": "Mix a portion of the Ruchmehl with water and a little yeast. Ferment at room temperature for about 12 hours.",
+        "de": "Einen Teil des Ruchmehls mit Wasser und etwas Hefe verrühren. Bei Raumtemperatur etwa 12 Stunden fermentieren lassen.",
+        "es": "Mezclar una parte del Ruchmehl con agua y un poco de levadura. Dejar fermentar a temperatura ambiente unas 12 horas.",
+        "fr": "Mélanger une partie du Ruchmehl avec de l'eau et un peu de levure. Laisser fermenter à température ambiante environ 12 heures.",
+        "ro": "Amestecă o parte din Ruchmehl cu apă și puțină drojdie. Lasă la fermentat la temperatura camerei aproximativ 12 ore."
       }
     },
     {
       "title": {
-        "en": "Mix the main dough"
+        "en": "Mix the main dough",
+        "de": "Hauptteig mischen",
+        "es": "Mezclar la masa principal",
+        "fr": "Mélanger la pâte principale",
+        "ro": "Amestecă aluatul principal"
       },
       "summary": {
-        "en": "Combine the pre-dough with the remaining Ruchmehl, water, salt and a touch more yeast. Knead until the dough passes the windowpane test."
+        "en": "Combine the pre-dough with the remaining Ruchmehl, water, salt and a touch more yeast. Knead until the dough passes the windowpane test.",
+        "de": "Den Vorteig mit dem restlichen Ruchmehl, Wasser, Salz und etwas mehr Hefe vermengen. Kneten, bis der Teig die Fensterscheibenprobe besteht.",
+        "es": "Combinar el prefermento con el resto del Ruchmehl, el agua, la sal y un poco más de levadura. Amasar hasta que la masa supere la prueba de la membrana.",
+        "fr": "Combiner le pré-ferment avec le reste du Ruchmehl, l'eau, le sel et un peu plus de levure. Pétrir jusqu'à ce que la pâte passe le test du voile.",
+        "ro": "Combină prefermentul cu restul de Ruchmehl, apă, sare și puțin mai multă drojdie. Frământă până când aluatul trece testul membranei."
       }
     },
     {
       "title": {
-        "en": "Short warm rest with folds"
+        "en": "Short warm rest with folds",
+        "de": "Kurze warme Ruhe mit Falten",
+        "es": "Reposo cálido breve con pliegues",
+        "fr": "Court repos tiède avec rabats",
+        "ro": "Odihnă scurtă la cald cu pliuri"
       },
       "summary": {
-        "en": "Let the dough rest about an hour at room temperature, folding it three times early on to build strength."
+        "en": "Let the dough rest about an hour at room temperature, folding it three times early on to build strength.",
+        "de": "Den Teig etwa eine Stunde bei Raumtemperatur ruhen lassen und ihn dabei anfangs dreimal falten, um Spannung aufzubauen.",
+        "es": "Dejar reposar la masa aproximadamente una hora a temperatura ambiente, plegándola tres veces al principio para desarrollar fuerza.",
+        "fr": "Laisser reposer la pâte environ une heure à température ambiante, en la rabattant trois fois au début pour développer sa force.",
+        "ro": "Lasă aluatul să stea aproximativ o oră la temperatura camerei, pliindu-l de trei ori la început pentru a-i construi forța."
       }
     },
     {
       "title": {
-        "en": "Long cold retard"
+        "en": "Long cold retard",
+        "de": "Lange kalte Gare",
+        "es": "Fermentación larga en frío",
+        "fr": "Long pointage au froid",
+        "ro": "Fermentare lungă la rece"
       },
       "summary": {
-        "en": "Refrigerate the dough for roughly 22 hours so flavor develops slowly."
+        "en": "Refrigerate the dough for roughly 22 hours so flavor develops slowly.",
+        "de": "Den Teig etwa 22 Stunden kühlen, damit sich der Geschmack langsam entwickelt.",
+        "es": "Refrigerar la masa unas 22 horas para que el sabor se desarrolle lentamente.",
+        "fr": "Réfrigérer la pâte environ 22 heures pour que la saveur se développe lentement.",
+        "ro": "Ține aluatul la frigider aproximativ 22 de ore, ca aroma să se dezvolte lent."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Turn the cold dough out and shape it loosely into an oblong loaf."
+        "en": "Turn the cold dough out and shape it loosely into an oblong loaf.",
+        "de": "Den kalten Teig stürzen und locker zu einem länglichen Laib formen.",
+        "es": "Volcar la masa fría y darle forma alargada sin apretar demasiado.",
+        "fr": "Renverser la pâte froide et la façonner sans trop serrer en un pain allongé.",
+        "ro": "Răstoarnă aluatul rece și modelează-l lejer într-o pâine alungită."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof seam-up in a floured banneton for about an hour."
+        "en": "Proof seam-up in a floured banneton for about an hour.",
+        "de": "Mit der Naht nach oben in einem bemehlten Gärkorb etwa eine Stunde gehen lassen.",
+        "es": "Fermentar con el cierre hacia arriba en un banneton enharinado durante aproximadamente una hora.",
+        "fr": "Faire pousser, clé vers le haut, dans un banneton fariné pendant environ une heure.",
+        "ro": "Dospește cu cusătura în sus într-un banneton făinat timp de aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Score and bake"
+        "en": "Score and bake",
+        "de": "Einschneiden und backen",
+        "es": "Greñar y hornear",
+        "fr": "Lamer et cuire",
+        "ro": "Crestează și coace"
       },
       "summary": {
-        "en": "Turn out, cut three angled slashes across the top, then bake hot with steam, dropping the oven temperature partway through, until the crust is thick and deeply colored."
+        "en": "Turn out, cut three angled slashes across the top, then bake hot with steam, dropping the oven temperature partway through, until the crust is thick and deeply colored.",
+        "de": "Stürzen, drei schräge Schnitte über die Oberseite setzen, dann heiß mit Schwaden backen und die Ofentemperatur währenddessen senken, bis die Kruste dick und tief gefärbt ist.",
+        "es": "Volcar, hacer tres cortes en ángulo sobre la superficie, luego hornear caliente con vapor, bajando la temperatura del horno a mitad de cocción, hasta que la corteza esté gruesa y bien coloreada.",
+        "fr": "Renverser, faire trois entailles obliques sur le dessus, puis cuire chaud avec buée, en baissant la température du four à mi-cuisson, jusqu'à ce que la croûte soit épaisse et bien colorée.",
+        "ro": "Răstoarnă, fă trei crestături oblice pe suprafață, apoi coace fierbinte cu abur, coborând temperatura cuptorului pe parcurs, până coaja devine groasă și intens colorată."
       }
     }
   ],

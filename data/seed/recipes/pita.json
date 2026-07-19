@@ -108,58 +108,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom yeast"
+        "en": "Bloom yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Faire lever la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Stir the yeast into part of the warm water and let it sit until foamy, about 15-20 minutes."
+        "en": "Stir the yeast into part of the warm water and let it sit until foamy, about 15-20 minutes.",
+        "de": "Die Hefe in einen Teil des warmen Wassers einrühren und stehen lassen, bis sie schäumt, etwa 15-20 Minuten.",
+        "es": "Disolver la levadura en parte del agua tibia y dejar reposar hasta que haga espuma, unos 15-20 minutos.",
+        "fr": "Délayer la levure dans une partie de l'eau tiède et laisser reposer jusqu'à ce que ça mousse, environ 15-20 minutes.",
+        "ro": "Amestecă drojdia într-o parte din apa călduță și las-o să stea până face spumă, aproximativ 15-20 de minute."
       }
     },
     {
       "title": {
-        "en": "Mix & knead"
+        "en": "Mix & knead",
+        "de": "Mischen & kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Combine the bloomed yeast, remaining water, flour and salt into a shaggy dough, then knead 10-12 minutes until smooth and elastic."
+        "en": "Combine the bloomed yeast, remaining water, flour and salt into a shaggy dough, then knead 10-12 minutes until smooth and elastic.",
+        "de": "Die aktivierte Hefe, das restliche Wasser, Mehl und Salz zu einem groben Teig verbinden, dann 10-12 Minuten kneten, bis er glatt und elastisch ist.",
+        "es": "Combinar la levadura activada, el agua restante, la harina y la sal en una masa tosca, luego amasar 10-12 minutos hasta que quede lisa y elástica.",
+        "fr": "Combiner la levure activée, le reste de l'eau, la farine et le sel en une pâte grossière, puis pétrir 10-12 minutes jusqu'à ce qu'elle soit lisse et élastique.",
+        "ro": "Combină drojdia activată, restul de apă, făina și sarea într-un aluat grosier, apoi frământă 10-12 minute până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise at room temperature for at least 90 minutes, until doubled."
+        "en": "Cover and let rise at room temperature for at least 90 minutes, until doubled.",
+        "de": "Abdecken und mindestens 90 Minuten bei Raumtemperatur gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Tapar y dejar fermentar a temperatura ambiente durante al menos 90 minutos, hasta que doble su tamaño.",
+        "fr": "Couvrir et laisser pousser à température ambiante pendant au moins 90 minutes, jusqu'à ce qu'elle double.",
+        "ro": "Acoperă și lasă la crescut la temperatura camerei cel puțin 90 de minute, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Divide & rest"
+        "en": "Divide & rest",
+        "de": "Teilen & ruhen lassen",
+        "es": "Dividir y reposar",
+        "fr": "Diviser et reposer",
+        "ro": "Împarte și lasă la odihnă"
       },
       "summary": {
-        "en": "Divide into 8 pieces, shape into tight balls, and let them relax 20-30 minutes."
+        "en": "Divide into 8 pieces, shape into tight balls, and let them relax 20-30 minutes.",
+        "de": "In 8 Stücke teilen, zu straffen Kugeln formen und 20-30 Minuten entspannen lassen.",
+        "es": "Dividir en 8 piezas, formar bolas prietas y dejarlas relajar 20-30 minutos.",
+        "fr": "Diviser en 8 pâtons, façonner en boules serrées et laisser détendre 20-30 minutes.",
+        "ro": "Împarte în 8 bucăți, modelează bile strânse și lasă-le să se relaxeze 20-30 de minute."
       }
     },
     {
       "title": {
-        "en": "Roll"
+        "en": "Roll",
+        "de": "Ausrollen",
+        "es": "Estirar",
+        "fr": "Abaisser",
+        "ro": "Întinde"
       },
       "summary": {
-        "en": "Roll each ball into an even round with no creases, then let rest again 10-20 minutes before baking."
+        "en": "Roll each ball into an even round with no creases, then let rest again 10-20 minutes before baking.",
+        "de": "Jede Kugel zu einer gleichmäßigen Scheibe ohne Falten ausrollen, dann vor dem Backen erneut 10-20 Minuten ruhen lassen.",
+        "es": "Estirar cada bola en un disco uniforme sin pliegues, luego dejar reposar de nuevo 10-20 minutos antes de hornear.",
+        "fr": "Abaisser chaque boule en un disque régulier sans plis, puis laisser reposer à nouveau 10-20 minutes avant la cuisson.",
+        "ro": "Întinde fiecare bilă într-un disc uniform, fără cute, apoi lasă din nou la odihnă 10-20 de minute înainte de coacere."
       }
     },
     {
       "title": {
-        "en": "Blast-bake"
+        "en": "Blast-bake",
+        "de": "Sehr heiß backen",
+        "es": "Hornear al máximo",
+        "fr": "Cuire à pleine chaleur",
+        "ro": "Coace la foc maxim"
       },
       "summary": {
-        "en": "Bake on a screaming-hot stone at the oven's maximum temperature for 4-5 minutes; the steam trapped inside forces the dough to balloon into a pocket."
+        "en": "Bake on a screaming-hot stone at the oven's maximum temperature for 4-5 minutes; the steam trapped inside forces the dough to balloon into a pocket.",
+        "de": "Auf einem glühend heißen Stein bei maximaler Ofentemperatur 4-5 Minuten backen; der eingeschlossene Dampf zwingt den Teig, sich zu einer Tasche aufzublähen.",
+        "es": "Hornear sobre una piedra al rojo vivo a la temperatura máxima del horno durante 4-5 minutos; el vapor atrapado en el interior obliga a la masa a inflarse formando una bolsa.",
+        "fr": "Cuire sur une pierre brûlante à la température maximale du four pendant 4-5 minutes ; la vapeur emprisonnée force la pâte à gonfler en poche.",
+        "ro": "Coace pe o piatră fierbinte, la temperatura maximă a cuptorului, timp de 4-5 minute; aburul prins înăuntru forțează aluatul să se umfle într-un buzunar."
       }
     },
     {
       "title": {
-        "en": "Cool covered"
+        "en": "Cool covered",
+        "de": "Zugedeckt abkühlen",
+        "es": "Enfriar tapado",
+        "fr": "Refroidir couvert",
+        "ro": "Răcește acoperit"
       },
       "summary": {
-        "en": "Stack under a towel as they come out so residual steam keeps them soft and pliable."
+        "en": "Stack under a towel as they come out so residual steam keeps them soft and pliable.",
+        "de": "Direkt nach dem Backen unter einem Tuch stapeln, damit der Restdampf sie weich und geschmeidig hält.",
+        "es": "Apilar bajo un paño según van saliendo, para que el vapor residual las mantenga blandas y flexibles.",
+        "fr": "Empiler sous un torchon à la sortie du four, pour que la vapeur résiduelle les garde souples et moelleux.",
+        "ro": "Stivuiește sub un prosop pe măsură ce ies din cuptor, ca aburul rămas să le mențină moi și flexibile."
       }
     }
   ],

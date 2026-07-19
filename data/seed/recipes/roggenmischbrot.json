@@ -134,58 +134,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the sourdough"
+        "en": "Build the sourdough",
+        "de": "Sauerteig ansetzen",
+        "es": "Preparar la masa madre",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua"
       },
       "summary": {
-        "en": "The evening before, mix rye flour, warm water and a spoonful of active starter into a sourdough and let it ripen about 20 hours at room temperature."
+        "en": "The evening before, mix rye flour, warm water and a spoonful of active starter into a sourdough and let it ripen about 20 hours at room temperature.",
+        "de": "Am Vorabend Roggenmehl, warmes Wasser und einen Löffel aktives Anstellgut zu einem Sauerteig verrühren und bei Raumtemperatur etwa 20 Stunden reifen lassen.",
+        "es": "La noche anterior, mezclar harina de centeno, agua tibia y una cucharada de masa madre activa hasta formar un fermento y dejar madurar unas 20 horas a temperatura ambiente.",
+        "fr": "La veille au soir, mélanger farine de seigle, eau tiède et une cuillerée de levain actif pour former un levain, laisser mûrir environ 20 heures à température ambiante.",
+        "ro": "Cu o seară înainte, amestecă făină de secară, apă călduță și o lingură de maia activă într-o maia și lasă să se matureze aproximativ 20 de ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Soak the old bread"
+        "en": "Soak the old bread",
+        "de": "Altbrot einweichen",
+        "es": "Remojar el Altbrot",
+        "fr": "Faire tremper l'Altbrot",
+        "ro": "Înmoaie Altbrot-ul"
       },
       "summary": {
-        "en": "In parallel, soak toasted, ground stale bread in warm salted water for 8–12 hours; this Altbrot soaker adds moisture and a deeper, rounder flavor."
+        "en": "In parallel, soak toasted, ground stale bread in warm salted water for 8–12 hours; this Altbrot soaker adds moisture and a deeper, rounder flavor.",
+        "de": "Parallel geröstetes, gemahlenes Altbrot 8–12 Stunden in warmem Salzwasser einweichen; dieser Altbrot-Quell sorgt für Feuchtigkeit und einen tieferen, runderen Geschmack.",
+        "es": "En paralelo, remojar pan duro tostado y molido en agua tibia con sal durante 8–12 horas; este remojo de Altbrot aporta humedad y un sabor más profundo y redondo.",
+        "fr": "En parallèle, faire tremper du pain rassis grillé et moulu dans de l'eau tiède salée pendant 8–12 heures ; cette trempe d'Altbrot apporte de l'humidité et une saveur plus profonde et ronde.",
+        "ro": "În paralel, înmoaie pâine veche prăjită și măcinată în apă călduță cu sare timp de 8–12 ore; această înmuiere de Altbrot adaugă umiditate și o aromă mai profundă și rotundă."
       }
     },
     {
       "title": {
-        "en": "Autolyse the wheat"
+        "en": "Autolyse the wheat",
+        "de": "Weizen autolysieren",
+        "es": "Autolizar el trigo",
+        "fr": "Autolyser le blé",
+        "ro": "Autolizează grâul"
       },
       "summary": {
-        "en": "Rest the wheat and whole wheat flour with warm water for an hour so it fully hydrates before mixing."
+        "en": "Rest the wheat and whole wheat flour with warm water for an hour so it fully hydrates before mixing.",
+        "de": "Das Weizen- und Weizenvollkornmehl mit warmem Wasser eine Stunde ruhen lassen, damit es vor dem Mischen vollständig hydratisiert.",
+        "es": "Dejar reposar la harina de trigo y de trigo integral con agua tibia durante una hora, para que se hidrate por completo antes de mezclar.",
+        "fr": "Laisser reposer la farine de blé et de blé complet avec de l'eau tiède pendant une heure, pour qu'elle s'hydrate complètement avant le mélange.",
+        "ro": "Lasă făina de grâu și cea integrală de grâu să stea cu apă călduță timp de o oră, ca să se hidrateze complet înainte de amestecare."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine the ripe sourdough, the bread soaker, the autolysed wheat, the remaining rye flour and water, and a little fresh yeast for insurance. Mix briefly to a smooth, warm dough."
+        "en": "Combine the ripe sourdough, the bread soaker, the autolysed wheat, the remaining rye flour and water, and a little fresh yeast for insurance. Mix briefly to a smooth, warm dough.",
+        "de": "Den reifen Sauerteig, den Brotquell, das autolysierte Weizenmehl, das restliche Roggenmehl und Wasser sowie etwas frische Hefe als Sicherheit vermengen. Kurz zu einem glatten, warmen Teig mischen.",
+        "es": "Combinar la masa madre madura, el remojo de pan, el trigo autolizado, el resto de la harina de centeno y agua, y un poco de levadura fresca como refuerzo. Mezclar brevemente hasta obtener una masa lisa y cálida.",
+        "fr": "Combiner le levain mûr, la trempe de pain, le blé autolysé, le reste de la farine de seigle et l'eau, et un peu de levure fraîche par sécurité. Mélanger brièvement jusqu'à une pâte lisse et tiède.",
+        "ro": "Combină maiaua coaptă, pâinea înmuiată, grâul autolizat, restul de făină de secară și apă, plus puțină drojdie proaspătă ca asigurare. Amestecă scurt până obții un aluat neted și cald."
       }
     },
     {
       "title": {
-        "en": "Bulk rest and shape"
+        "en": "Bulk rest and shape",
+        "de": "Ruhe und Formen",
+        "es": "Reposo y formado",
+        "fr": "Repos et façonnage",
+        "ro": "Odihnă și modelare"
       },
       "summary": {
-        "en": "Let the dough rest about 40 minutes, then shape first into a round and then into an oval loaf."
+        "en": "Let the dough rest about 40 minutes, then shape first into a round and then into an oval loaf.",
+        "de": "Den Teig etwa 40 Minuten ruhen lassen, dann zunächst rund und danach zu einem ovalen Laib formen.",
+        "es": "Dejar reposar la masa unos 40 minutos, luego formar primero una bola y después un pan ovalado.",
+        "fr": "Laisser reposer la pâte environ 40 minutes, puis façonner d'abord en boule, puis en pain ovale.",
+        "ro": "Lasă aluatul să stea aproximativ 40 de minute, apoi modelează-l mai întâi rotund și apoi într-o pâine ovală."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof seam-up in a floured banneton for a little over an hour."
+        "en": "Proof seam-up in a floured banneton for a little over an hour.",
+        "de": "Mit der Naht nach oben in einem bemehlten Gärkorb etwas über eine Stunde gehen lassen.",
+        "es": "Fermentar con el cierre hacia arriba en un banneton enharinado durante poco más de una hora.",
+        "fr": "Faire pousser, clé vers le haut, dans un banneton fariné pendant un peu plus d'une heure.",
+        "ro": "Dospește cu cusătura în sus într-un banneton făinat timp de puțin peste o oră."
       }
     },
     {
       "title": {
-        "en": "Bake with steam"
+        "en": "Bake with steam",
+        "de": "Mit Schwaden backen",
+        "es": "Hornear con vapor",
+        "fr": "Cuire à la buée",
+        "ro": "Coace cu abur"
       },
       "summary": {
-        "en": "Bake hot with plenty of steam, starting around 250°C and dropping to 200°C, for about 45 minutes total."
+        "en": "Bake hot with plenty of steam, starting around 250°C and dropping to 200°C, for about 45 minutes total.",
+        "de": "Heiß mit reichlich Schwaden backen, beginnend bei etwa 250°C und auf 200°C fallend, insgesamt etwa 45 Minuten.",
+        "es": "Hornear caliente con abundante vapor, empezando a unos 250°C y bajando a 200°C, unos 45 minutos en total.",
+        "fr": "Cuire chaud avec beaucoup de buée, en commençant vers 250°C et en baissant à 200°C, environ 45 minutes au total.",
+        "ro": "Coace fierbinte cu mult abur, începând la aproximativ 250°C și coborând la 200°C, în total aproximativ 45 de minute."
       }
     }
   ],

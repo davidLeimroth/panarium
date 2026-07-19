@@ -160,58 +160,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Warm the water with the molasses, bloom the yeast, then stir in both flours, salt, spices and orange zest."
+        "en": "Warm the water with the molasses, bloom the yeast, then stir in both flours, salt, spices and orange zest.",
+        "de": "Wasser mit der Melasse erwärmen, die Hefe darin auflösen, dann beide Mehle, Salz, Gewürze und Orangenschale einrühren.",
+        "es": "Calentar el agua con la melaza, disolver la levadura, luego incorporar ambas harinas, la sal, las especias y la ralladura de naranja.",
+        "fr": "Tiédir l'eau avec la mélasse, y délayer la levure, puis incorporer les deux farines, le sel, les épices et le zeste d'orange.",
+        "ro": "Încălzește apa cu melasa, dizolvă drojdia, apoi adaugă ambele făinuri, sarea, mirodeniile și coaja de portocală."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Work in the softened butter until the dough turns smooth and elastic, about 8-10 minutes."
+        "en": "Work in the softened butter until the dough turns smooth and elastic, about 8-10 minutes.",
+        "de": "Die weiche Butter einarbeiten, bis der Teig glatt und elastisch wird, etwa 8-10 Minuten.",
+        "es": "Incorporar la mantequilla ablandada y amasar hasta que la masa quede lisa y elástica, unos 8-10 minutos.",
+        "fr": "Incorporer le beurre ramolli et pétrir jusqu'à ce que la pâte soit lisse et élastique, environ 8-10 minutes.",
+        "ro": "Încorporează untul moale și frământă până aluatul devine neted și elastic, circa 8-10 minute."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Primera fermentación",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Rest at room temperature roughly an hour until visibly puffy."
+        "en": "Rest at room temperature roughly an hour until visibly puffy.",
+        "de": "Bei Raumtemperatur etwa eine Stunde ruhen lassen, bis der Teig sichtbar aufgegangen ist.",
+        "es": "Dejar fermentar en bloque a temperatura ambiente cerca de una hora, hasta que se vea visiblemente hinchada.",
+        "fr": "Laisser pointer à température ambiante environ une heure, jusqu'à ce que la pâte soit visiblement gonflée.",
+        "ro": "Lasă la temperatura camerei circa o oră, până se umflă vizibil."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Knock back gently and shape into a round loaf on a lined baking sheet."
+        "en": "Knock back gently and shape into a round loaf on a lined baking sheet.",
+        "de": "Sanft entgasen und zu einem runden Laib formen, auf ein mit Backpapier ausgelegtes Blech setzen.",
+        "es": "Desgasificar con cuidado y formar una hogaza redonda sobre una bandeja forrada.",
+        "fr": "Dégazer délicatement et façonner en boule sur une plaque garnie de papier cuisson.",
+        "ro": "Degazează ușor și modelează o pâine rotundă pe o tavă cu hârtie de copt."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof until noticeably swollen, 75-90 minutes."
+        "en": "Proof until noticeably swollen, 75-90 minutes.",
+        "de": "Gehen lassen, bis der Teigling deutlich aufgegangen ist, 75-90 Minuten.",
+        "es": "Dejar fermentar hasta que esté notablemente hinchada, 75-90 minutos.",
+        "fr": "Laisser apprêter jusqu'à ce que le pâton soit nettement gonflé, 75-90 minutes.",
+        "ro": "Lasă la dospit până se umflă vizibil, 75-90 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until deeply golden, tenting with foil if it colors too fast."
+        "en": "Bake until deeply golden, tenting with foil if it colors too fast.",
+        "de": "Backen, bis der Laib tief goldbraun ist; bei Bedarf mit Folie abdecken, falls er zu schnell bräunt.",
+        "es": "Hornear hasta que quede muy dorada, cubriendo con papel de aluminio si se colorea demasiado rápido.",
+        "fr": "Cuire jusqu'à belle coloration dorée foncée, en couvrant de papier aluminium si ça colore trop vite.",
+        "ro": "Coace până capătă o culoare aurie intensă, acoperind cu folie dacă se rumenește prea repede."
       }
     },
     {
       "title": {
-        "en": "Cool and toast"
+        "en": "Cool and toast",
+        "de": "Kühlen & toasten",
+        "es": "Enfriar y tostar",
+        "fr": "Refroidir et griller",
+        "ro": "Răcește și prăjește"
       },
       "summary": {
-        "en": "Cool fully before slicing; this loaf is at its best cut thick and toasted with butter."
+        "en": "Cool fully before slicing; this loaf is at its best cut thick and toasted with butter.",
+        "de": "Vollständig auskühlen lassen, bevor er angeschnitten wird; dieses Brot schmeckt am besten dick geschnitten und mit Butter getoastet.",
+        "es": "Dejar enfriar del todo antes de cortar; este pan está en su mejor punto cortado grueso y tostado con mantequilla.",
+        "fr": "Laisser refroidir complètement avant de trancher; ce pain est meilleur coupé épais et grillé avec du beurre.",
+        "ro": "Lasă să se răcească complet înainte de feliere; această pâine e cel mai bună tăiată gros și prăjită cu unt."
       }
     }
   ],

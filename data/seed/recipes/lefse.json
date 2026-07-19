@@ -119,58 +119,114 @@
   "method": [
     {
       "title": {
-        "en": "Mash"
+        "en": "Mash",
+        "de": "Pürieren",
+        "es": "Hacer puré",
+        "fr": "Écraser",
+        "ro": "Pasează cartofii"
       },
       "summary": {
-        "en": "Rice hot cooked potatoes and mix with butter, cream and salt while still warm."
+        "en": "Rice hot cooked potatoes and mix with butter, cream and salt while still warm.",
+        "de": "Heiß gekochte Kartoffeln durch die Presse geben und noch warm mit Butter, Sahne und Salz vermischen.",
+        "es": "Pasar las patatas cocidas y calientes por el pasapurés y mezclar con mantequilla, nata y sal mientras aún estén calientes.",
+        "fr": "Passer les pommes de terre cuites et chaudes au presse-purée, puis mélanger avec le beurre, la crème et le sel tant qu'elles sont encore chaudes.",
+        "ro": "Treci cartofii fierți și fierbinți prin pasator și amestecă-i cât sunt încă calzi cu unt, smântână și sare."
       }
     },
     {
       "title": {
-        "en": "Chill"
+        "en": "Chill",
+        "de": "Kühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Refrigerate the potato mixture several hours or overnight until fully cold."
+        "en": "Refrigerate the potato mixture several hours or overnight until fully cold.",
+        "de": "Die Kartoffelmasse mehrere Stunden oder über Nacht kühlen, bis sie vollständig durchgekühlt ist.",
+        "es": "Refrigerar el puré de patata varias horas o toda la noche hasta que esté completamente frío.",
+        "fr": "Réfrigérer la purée plusieurs heures ou toute une nuit, jusqu'à ce qu'elle soit complètement froide.",
+        "ro": "Dă la frigider amestecul de cartofi câteva ore sau peste noapte, până se răcește complet."
       }
     },
     {
       "title": {
-        "en": "Add flour"
+        "en": "Add flour",
+        "de": "Mehl zugeben",
+        "es": "Añadir la harina",
+        "fr": "Ajouter la farine",
+        "ro": "Adaugă făina"
       },
       "summary": {
-        "en": "Work in the flour and sugar just until combined."
+        "en": "Work in the flour and sugar just until combined.",
+        "de": "Mehl und Zucker nur so lange einarbeiten, bis sie sich verbunden haben.",
+        "es": "Incorporar la harina y el azúcar solo hasta que se integren.",
+        "fr": "Incorporer la farine et le sucre juste jusqu'à ce que le tout soit homogène.",
+        "ro": "Încorporează făina și zahărul doar cât să se omogenizeze."
       }
     },
     {
       "title": {
-        "en": "Portion and roll"
+        "en": "Portion and roll",
+        "de": "Portionieren & ausrollen",
+        "es": "Porcionar y estirar",
+        "fr": "Portionner et étaler",
+        "ro": "Porționează și întinde"
       },
       "summary": {
-        "en": "Divide into small balls and roll each paper-thin into a 6-inch round."
+        "en": "Divide into small balls and roll each paper-thin into a 6-inch round.",
+        "de": "In kleine Kugeln teilen und jede hauchdünn zu einem 15-cm-Fladen ausrollen.",
+        "es": "Dividir en bolitas pequeñas y estirar cada una bien fina hasta formar un disco de 15 cm.",
+        "fr": "Diviser en petites boules et étaler chacune très finement en un disque de 15 cm.",
+        "ro": "Împarte în bile mici și întinde fiecare foarte subțire, într-un disc de 15 cm."
       }
     },
     {
       "title": {
-        "en": "Cook"
+        "en": "Cook",
+        "de": "Backen",
+        "es": "Cocinar",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Griddle each round briefly until brown-speckled on both sides, about a minute per side."
+        "en": "Griddle each round briefly until brown-speckled on both sides, about a minute per side.",
+        "de": "Jeden Fladen kurz auf der Platte backen, bis beide Seiten braun gesprenkelt sind, etwa eine Minute pro Seite.",
+        "es": "Cocinar cada disco brevemente en la plancha hasta que ambos lados queden moteados de marrón, cerca de un minuto por lado.",
+        "fr": "Cuire chaque disque brièvement à la plaque jusqu'à ce que les deux faces soient tachetées de brun, environ une minute de chaque côté.",
+        "ro": "Coace fiecare disc scurt pe plită, până se pătează cu maro pe ambele părți, circa un minut pe fiecare parte."
       }
     },
     {
       "title": {
-        "en": "Cool and stack"
+        "en": "Cool and stack",
+        "de": "Kühlen & stapeln",
+        "es": "Enfriar y apilar",
+        "fr": "Refroidir et empiler",
+        "ro": "Răcește și stivuiește"
       },
       "summary": {
-        "en": "Transfer to parchment, fanning the pieces so they don't stick together as they cool."
+        "en": "Transfer to parchment, fanning the pieces so they don't stick together as they cool.",
+        "de": "Auf Backpapier legen und die Fladen dabei fächerartig überlappen, damit sie beim Abkühlen nicht zusammenkleben.",
+        "es": "Pasar a papel de horno, superponiendo los discos en abanico para que no se peguen al enfriarse.",
+        "fr": "Déposer sur du papier cuisson en éventail pour que les disques ne collent pas entre eux en refroidissant.",
+        "ro": "Așază pe hârtie de copt, suprapunându-le ca un evantai, ca discurile să nu se lipească la răcire."
       }
     },
     {
       "title": {
-        "en": "Serve"
+        "en": "Serve",
+        "de": "Servieren",
+        "es": "Servir",
+        "fr": "Servir",
+        "ro": "Servește"
       },
       "summary": {
-        "en": "Fold or roll with butter, and optionally cinnamon sugar."
+        "en": "Fold or roll with butter, and optionally cinnamon sugar.",
+        "de": "Mit Butter und optional Zimtzucker falten oder rollen.",
+        "es": "Doblar o enrollar con mantequilla y, si se desea, azúcar con canela.",
+        "fr": "Plier ou rouler avec du beurre et, si désiré, du sucre à la cannelle.",
+        "ro": "Pliază sau rulează cu unt și, opțional, zahăr cu scorțișoară."
       }
     }
   ],

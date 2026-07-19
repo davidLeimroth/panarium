@@ -127,58 +127,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Dissolve yeast in warm water."
+        "en": "Dissolve yeast in warm water.",
+        "de": "Die Hefe in warmem Wasser auflösen.",
+        "es": "Disolver la levadura en agua tibia.",
+        "fr": "Dissoudre la levure dans l'eau tiède.",
+        "ro": "Dizolvă drojdia în apă călduță."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Stir in the buttermilk, both flours, ground caraway, salt and honey."
+        "en": "Stir in the buttermilk, both flours, ground caraway, salt and honey.",
+        "de": "Buttermilch, beide Mehle, gemahlenen Kümmel, Salz und Honig einrühren.",
+        "es": "Incorporar el suero de leche, ambas harinas, alcaravea molida, sal y miel.",
+        "fr": "Incorporer le babeurre, les deux farines, le carvi moulu, le sel et le miel.",
+        "ro": "Încorporează zara, ambele făinuri, chimenul măcinat, sarea și mierea."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead 5-8 minutes to build the gluten."
+        "en": "Knead 5-8 minutes to build the gluten.",
+        "de": "5-8 Minuten kneten, um das Klebergerüst aufzubauen.",
+        "es": "Amasar 5-8 minutos para desarrollar el gluten.",
+        "fr": "Pétrir 5-8 minutes pour développer le gluten.",
+        "ro": "Frământă 5-8 minute pentru a dezvolta glutenul."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Let stand about an hour in a warm spot."
+        "en": "Let stand about an hour in a warm spot.",
+        "de": "Etwa eine Stunde an einem warmen Ort stehen lassen.",
+        "es": "Dejar reposar aproximadamente una hora en un lugar cálido.",
+        "fr": "Laisser reposer environ une heure dans un endroit chaud.",
+        "ro": "Lasă să stea aproximativ o oră într-un loc călduros."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide in two, flatten each into a rectangle and fold letter-style to build tension."
+        "en": "Divide in two, flatten each into a rectangle and fold letter-style to build tension.",
+        "de": "In zwei Teile teilen, jeden zu einem Rechteck flach drücken und wie einen Brief falten, um Spannung aufzubauen.",
+        "es": "Dividir en dos, aplanar cada mitad en un rectángulo y doblar como una carta para generar tensión.",
+        "fr": "Diviser en deux, aplatir chaque moitié en rectangle et plier comme une lettre pour créer de la tension.",
+        "ro": "Împarte în două, aplatizează fiecare jumătate într-un dreptunghi și pliază ca o scrisoare pentru a construi tensiune."
       }
     },
     {
       "title": {
-        "en": "Pan and proof"
+        "en": "Pan and proof",
+        "de": "In die Form und gären",
+        "es": "Moldear y fermentar",
+        "fr": "Mouler et pousser",
+        "ro": "Pune în tavă și lasă la dospit"
       },
       "summary": {
-        "en": "Place seam-down in greased pans, poke the tops, brush with milk, and proof about 40 minutes."
+        "en": "Place seam-down in greased pans, poke the tops, brush with milk, and proof about 40 minutes.",
+        "de": "Mit der Naht nach unten in gefettete Formen legen, die Oberseite einstechen, mit Milch bestreichen und etwa 40 Minuten gären lassen.",
+        "es": "Colocar con el cierre hacia abajo en moldes engrasados, pinchar la superficie, pincelar con leche y dejar fermentar unos 40 minutos.",
+        "fr": "Placer clé vers le bas dans des moules graissés, piquer le dessus, badigeonner de lait et laisser pousser environ 40 minutes.",
+        "ro": "Așază cu cusătura în jos în tăvi unse, înțeapă suprafața, unge cu lapte și lasă la dospit aproximativ 40 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until golden, 30-40 minutes, then cool on a rack."
+        "en": "Bake until golden, 30-40 minutes, then cool on a rack.",
+        "de": "Backen, bis golden, 30-40 Minuten, dann auf einem Gitter auskühlen lassen.",
+        "es": "Hornear hasta que estén dorados, 30-40 minutos, luego dejar enfriar sobre una rejilla.",
+        "fr": "Cuire jusqu'à coloration dorée, 30-40 minutes, puis laisser refroidir sur une grille.",
+        "ro": "Coace până devine auriu, 30-40 de minute, apoi lasă să se răcească pe un grătar."
       }
     }
   ],

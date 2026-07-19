@@ -145,50 +145,98 @@
   "method": [
     {
       "title": {
-        "en": "Rub in butter"
+        "en": "Rub in butter",
+        "de": "Butter einarbeiten",
+        "es": "Incorporar la mantequilla",
+        "fr": "Sabler le beurre",
+        "ro": "Încorporează untul"
       },
       "summary": {
-        "en": "Sift the flour with salt, then rub in the butter until the mixture looks like coarse crumbs."
+        "en": "Sift the flour with salt, then rub in the butter until the mixture looks like coarse crumbs.",
+        "de": "Das Mehl mit Salz sieben, dann die Butter einarbeiten, bis die Mischung wie grobe Krümel aussieht.",
+        "es": "Tamizar la harina con la sal, luego incorporar la mantequilla frotando hasta que la mezcla parezca migas gruesas.",
+        "fr": "Tamiser la farine avec le sel, puis sabler avec le beurre jusqu'à obtenir une texture de grosses miettes.",
+        "ro": "Cerne făina cu sarea, apoi încorporează untul frecând până amestecul arată ca niște firimituri grosiere."
       }
     },
     {
       "title": {
-        "en": "Bloom & infuse"
+        "en": "Bloom & infuse",
+        "de": "Hefe ansetzen & Safran ziehen lassen",
+        "es": "Activar y infusionar",
+        "fr": "Activer et infuser",
+        "ro": "Activează și infuzează"
       },
       "summary": {
-        "en": "Bloom the yeast in warm milk with a little sugar, and separately soak the saffron threads in the warm water."
+        "en": "Bloom the yeast in warm milk with a little sugar, and separately soak the saffron threads in the warm water.",
+        "de": "Die Hefe in warmer Milch mit etwas Zucker anschwemmen und getrennt die Safranfäden in warmem Wasser einweichen.",
+        "es": "Activar la levadura en leche tibia con un poco de azúcar, y por separado remojar los hilos de azafrán en agua tibia.",
+        "fr": "Faire mousser la levure dans du lait tiède avec un peu de sucre, et faire infuser à part les filaments de safran dans l'eau tiède.",
+        "ro": "Activează drojdia în lapte călduț cu puțin zahăr și, separat, lasă firele de șofran la înmuiat în apă călduță."
       }
     },
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Whisk the eggs with the remaining sugar, combine with the saffron water and yeast mixture, then work into the flour to a smooth dough."
+        "en": "Whisk the eggs with the remaining sugar, combine with the saffron water and yeast mixture, then work into the flour to a smooth dough.",
+        "de": "Die Eier mit dem restlichen Zucker verquirlen, mit dem Safranwasser und der Hefemischung verbinden, dann in das Mehl einarbeiten zu einem glatten Teig.",
+        "es": "Batir los huevos con el azúcar restante, combinar con el agua de azafrán y la mezcla de levadura, luego incorporar a la harina hasta obtener una masa lisa.",
+        "fr": "Fouetter les œufs avec le reste du sucre, combiner avec l'eau de safran et le mélange de levure, puis incorporer à la farine pour une pâte lisse.",
+        "ro": "Bate ouăle cu zahărul rămas, combină cu apa de șofran și amestecul de drojdie, apoi încorporează în făină până obții un aluat neted."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise in a warm place until doubled, 90 minutes or more."
+        "en": "Cover and let rise in a warm place until doubled, 90 minutes or more.",
+        "de": "Zugedeckt an einem warmen Ort gehen lassen, bis sich der Teig verdoppelt hat, 90 Minuten oder mehr.",
+        "es": "Tapar y dejar fermentar en un lugar cálido hasta duplicar, 90 minutos o más.",
+        "fr": "Couvrir et laisser lever dans un endroit chaud jusqu'au double, 90 minutes ou plus.",
+        "ro": "Acoperă și lasă la crescut într-un loc călduț până se dublează, 90 de minute sau mai mult."
       }
     },
     {
       "title": {
-        "en": "Add fruit & shape"
+        "en": "Add fruit & shape",
+        "de": "Früchte zugeben & formen",
+        "es": "Añadir la fruta y formar",
+        "fr": "Ajouter les fruits et façonner",
+        "ro": "Adaugă fructele și modelează"
       },
       "summary": {
-        "en": "Knock back the dough, fold in the dried fruit and currants, then shape into a greased loaf tin."
+        "en": "Knock back the dough, fold in the dried fruit and currants, then shape into a greased loaf tin.",
+        "de": "Den Teig entgasen, die Trockenfrüchte und Korinthen unterheben, dann in eine gefettete Kastenform formen.",
+        "es": "Desgasificar la masa, incorporar la fruta deshidratada y las pasas de Corinto, luego darle forma en un molde de plumcake engrasado.",
+        "fr": "Dégazer la pâte, incorporer les fruits secs et les raisins de Corinthe, puis façonner dans un moule à cake graissé.",
+        "ro": "Degazează aluatul, încorporează fructele uscate și stafidele de Corint, apoi modelează-l într-o formă de chec unsă."
       }
     },
     {
       "title": {
-        "en": "Second proof & bake"
+        "en": "Second proof & bake",
+        "de": "Stückgare & backen",
+        "es": "Fermentación final y horneado",
+        "fr": "Apprêt et cuisson",
+        "ro": "Dospire finală și coacere"
       },
       "summary": {
-        "en": "Proof about 20 minutes, brush the top with milk or cream, then bake until golden."
+        "en": "Proof about 20 minutes, brush the top with milk or cream, then bake until golden.",
+        "de": "Etwa 20 Minuten gehen lassen, die Oberfläche mit Milch oder Sahne bestreichen, dann backen, bis golden.",
+        "es": "Dejar fermentar unos 20 minutos, pintar la superficie con leche o nata, luego hornear hasta que esté dorada.",
+        "fr": "Laisser lever environ 20 minutes, badigeonner le dessus de lait ou de crème, puis cuire jusqu'à coloration dorée.",
+        "ro": "Lasă la dospit aproximativ 20 de minute, unge suprafața cu lapte sau smântână, apoi coace până devine aurie."
       }
     }
   ],

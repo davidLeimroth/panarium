@@ -108,50 +108,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom"
+        "en": "Bloom",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Faire lever la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast in warm water and let it bubble a few minutes."
+        "en": "Dissolve the yeast in warm water and let it bubble a few minutes.",
+        "de": "Die Hefe in warmem Wasser auflösen und einige Minuten Blasen werfen lassen.",
+        "es": "Disolver la levadura en agua tibia y dejar que burbujee unos minutos.",
+        "fr": "Dissoudre la levure dans l'eau tiède et laisser mousser quelques minutes.",
+        "ro": "Dizolvă drojdia în apă călduță și lasă să facă bule câteva minute."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Work in the flour, salt and olive oil; knead about ten minutes until smooth."
+        "en": "Work in the flour, salt and olive oil; knead about ten minutes until smooth.",
+        "de": "Mehl, Salz und Olivenöl einarbeiten; etwa zehn Minuten glatt kneten.",
+        "es": "Incorporar la harina, la sal y el aceite de oliva; amasar unos diez minutos hasta que quede lisa.",
+        "fr": "Incorporer la farine, le sel et l'huile d'olive ; pétrir environ dix minutes jusqu'à ce qu'elle soit lisse.",
+        "ro": "Încorporează făina, sarea și uleiul de măsline; frământă aproximativ zece minute până devine neted."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let rise 30 minutes."
+        "en": "Let rise 30 minutes.",
+        "de": "30 Minuten gehen lassen.",
+        "es": "Dejar fermentar 30 minutos.",
+        "fr": "Laisser pousser 30 minutes.",
+        "ro": "Lasă la crescut 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide in two, shape into tight balls, then flatten slightly into rounds about 20cm across."
+        "en": "Divide in two, shape into tight balls, then flatten slightly into rounds about 20cm across.",
+        "de": "In zwei Teile teilen, zu straffen Kugeln formen, dann leicht zu etwa 20cm großen Scheiben flach drücken.",
+        "es": "Dividir en dos, formar bolas prietas, luego aplanar ligeramente en discos de unos 20cm.",
+        "fr": "Diviser en deux, façonner en boules bien serrées, puis aplatir légèrement en disques d'environ 20cm.",
+        "ro": "Împarte în două, modelează bile strânse, apoi presează ușor în discuri de aproximativ 20cm."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof a further 30 minutes."
+        "en": "Proof a further 30 minutes.",
+        "de": "Weitere 30 Minuten gehen lassen.",
+        "es": "Dejar fermentar otros 30 minutos.",
+        "fr": "Laisser pousser encore 30 minutes.",
+        "ro": "Lasă la dospit încă 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake with steam until golden and firm, sturdy enough to hold a well-soaked Niçoise filling."
+        "en": "Bake with steam until golden and firm, sturdy enough to hold a well-soaked Niçoise filling.",
+        "de": "Mit Dampf backen, bis er goldbraun und fest ist, stabil genug, um eine gut durchtränkte Niçoise-Füllung zu tragen.",
+        "es": "Hornear con vapor hasta que esté dorado y firme, lo bastante resistente para sostener un relleno niçoise bien empapado.",
+        "fr": "Cuire avec de la buée jusqu'à ce qu'il soit doré et ferme, assez solide pour tenir une garniture niçoise bien imbibée.",
+        "ro": "Coace cu abur până devine auriu și ferm, suficient de rezistent cât să țină o umplutură niçoise bine îmbibată."
       }
     }
   ],

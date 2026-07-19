@@ -124,58 +124,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the rye levain"
+        "en": "Build the rye levain",
+        "de": "Roggensauerteig ansetzen",
+        "es": "Preparar el fermento de centeno",
+        "fr": "Préparer le levain de seigle",
+        "ro": "Pregătește maiaua de secară"
       },
       "summary": {
-        "en": "Stir rye flour, water and a spoonful of mature rye starter together and let it ripen at room temperature overnight, 16-18 hours, until domed and fragrant."
+        "en": "Stir rye flour, water and a spoonful of mature rye starter together and let it ripen at room temperature overnight, 16-18 hours, until domed and fragrant.",
+        "de": "Roggenmehl, Wasser und einen Löffel reifes Roggenanstellgut verrühren und über Nacht bei Raumtemperatur reifen lassen, 16-18 Stunden, bis er gewölbt und duftend ist.",
+        "es": "Mezclar harina de centeno, agua y una cucharada de masa madre de centeno madura, y dejar madurar a temperatura ambiente toda la noche, 16-18 horas, hasta que esté abombado y aromático.",
+        "fr": "Mélanger la farine de seigle, l'eau et une cuillerée de levain de seigle mûr, et laisser mûrir à température ambiante toute la nuit, 16-18 heures, jusqu'à ce qu'il soit bombé et parfumé.",
+        "ro": "Amestecă făina de secară, apa și o lingură de maia de secară matură, și lasă la maturat la temperatura camerei peste noapte, 16-18 ore, până devine bombată și aromată."
       }
     },
     {
       "title": {
-        "en": "Mix the main dough"
+        "en": "Mix the main dough",
+        "de": "Hauptteig mischen",
+        "es": "Mezclar la masa principal",
+        "fr": "Préparer la pâte principale",
+        "ro": "Amestecă aluatul principal"
       },
       "summary": {
-        "en": "Add the ripe levain to more rye and wheat flour, water, salt, a small amount of fresh yeast, and rye malt. Knead until the dough is smooth, elastic and only slightly tacky."
+        "en": "Add the ripe levain to more rye and wheat flour, water, salt, a small amount of fresh yeast, and rye malt. Knead until the dough is smooth, elastic and only slightly tacky.",
+        "de": "Den reifen Sauerteig zu weiterem Roggen- und Weizenmehl, Wasser, Salz, etwas frischer Hefe und Roggenmalz geben. Kneten, bis der Teig glatt, elastisch und nur leicht klebrig ist.",
+        "es": "Añadir el fermento maduro a más harina de centeno y trigo, agua, sal, un poco de levadura fresca y malta de centeno. Amasar hasta que la masa esté lisa, elástica y solo ligeramente pegajosa.",
+        "fr": "Ajouter le levain mûr à davantage de farine de seigle et de blé, l'eau, le sel, un peu de levure fraîche et du malt de seigle. Pétrir jusqu'à ce que la pâte soit lisse, élastique et à peine collante.",
+        "ro": "Adaugă maiaua coaptă la mai multă făină de secară și grâu, apă, sare, puțină drojdie proaspătă și malț de secară. Frământă până aluatul devine neted, elastic și doar ușor lipicios."
       }
     },
     {
       "title": {
-        "en": "Bulk rest"
+        "en": "Bulk rest",
+        "de": "Ruhen lassen",
+        "es": "Reposo en bloque",
+        "fr": "Repos en masse",
+        "ro": "Odihnă în masă"
       },
       "summary": {
-        "en": "Cover and let the dough relax for about 30 minutes at room temperature."
+        "en": "Cover and let the dough relax for about 30 minutes at room temperature.",
+        "de": "Zugedeckt den Teig etwa 30 Minuten bei Raumtemperatur entspannen lassen.",
+        "es": "Tapar y dejar relajar la masa unos 30 minutos a temperatura ambiente.",
+        "fr": "Couvrir et laisser la pâte se détendre environ 30 minutes à température ambiante.",
+        "ro": "Acoperă și lasă aluatul să se relaxeze aproximativ 30 de minute la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Shape and pan"
+        "en": "Shape and pan",
+        "de": "Formen und einlegen",
+        "es": "Formar y moldear",
+        "fr": "Façonner et mouler",
+        "ro": "Modelează și pune în formă"
       },
       "summary": {
-        "en": "Round the dough briefly, then press it into a buttered loaf tin, no elaborate shaping is needed for a pan loaf."
+        "en": "Round the dough briefly, then press it into a buttered loaf tin, no elaborate shaping is needed for a pan loaf.",
+        "de": "Den Teig kurz rund formen, dann in eine gebutterte Kastenform drücken; für einen Kastenlaib ist keine aufwendige Formgebung nötig.",
+        "es": "Redondear la masa brevemente, luego presionarla en un molde de plumcake enmantequillado; para un pan de molde no hace falta un formado elaborado.",
+        "fr": "Bouler brièvement la pâte, puis la presser dans un moule à cake beurré; pour un pain de mie, aucun façonnage élaboré n'est nécessaire.",
+        "ro": "Rotunjește scurt aluatul, apoi presează-l într-o formă de chec unsă cu unt; pentru o pâine de formă nu e nevoie de o modelare elaborată."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Lasă la dospit"
       },
       "summary": {
-        "en": "Proof in the tin until the dough has risen to the rim of the pan."
+        "en": "Proof in the tin until the dough has risen to the rim of the pan.",
+        "de": "In der Form gehen lassen, bis der Teig den Rand der Form erreicht hat.",
+        "es": "Dejar fermentar en el molde hasta que la masa llegue al borde.",
+        "fr": "Laisser pousser dans le moule jusqu'à ce que la pâte atteigne le bord.",
+        "ro": "Lasă la dospit în formă până aluatul ajunge la marginea acesteia."
       }
     },
     {
       "title": {
-        "en": "First bake"
+        "en": "First bake",
+        "de": "Erstes Backen",
+        "es": "Primer horneado",
+        "fr": "Première cuisson",
+        "ro": "Prima coacere"
       },
       "summary": {
-        "en": "Bake hot at 250°C for about 15 minutes to set the crust, then lower to 180°C for a further 45 minutes until fully baked through."
+        "en": "Bake hot at 250°C for about 15 minutes to set the crust, then lower to 180°C for a further 45 minutes until fully baked through.",
+        "de": "Heiß bei 250°C etwa 15 Minuten backen, um die Kruste zu fixieren, dann auf 180°C senken für weitere 45 Minuten, bis vollständig durchgebacken.",
+        "es": "Hornear caliente a 250°C durante unos 15 minutos para fijar la corteza, luego bajar a 180°C otros 45 minutos hasta que esté bien cocido por dentro.",
+        "fr": "Cuire chaud à 250°C environ 15 minutes pour fixer la croûte, puis baisser à 180°C pour 45 minutes de plus, jusqu'à cuisson complète à cœur.",
+        "ro": "Coace fierbinte la 250°C aproximativ 15 minute pentru a fixa coaja, apoi redu la 180°C pentru încă 45 de minute, până se coace complet în interior."
       }
     },
     {
       "title": {
-        "en": "Cool, then bake again"
+        "en": "Cool, then bake again",
+        "de": "Auskühlen, dann erneut backen",
+        "es": "Enfriar y volver a hornear",
+        "fr": "Refroidir, puis recuire",
+        "ro": "Răcește, apoi coace din nou"
       },
       "summary": {
-        "en": "Turn the loaf out of the tin and let it cool for 30-45 minutes. Return it to a 180°C fan oven for a final 20 minutes, the 'Doppelback' step that darkens and firms the crust and is the reason the loaf keeps so well."
+        "en": "Turn the loaf out of the tin and let it cool for 30-45 minutes. Return it to a 180°C fan oven for a final 20 minutes, the 'Doppelback' step that darkens and firms the crust and is the reason the loaf keeps so well.",
+        "de": "Den Laib aus der Form stürzen und 30-45 Minuten auskühlen lassen. Für weitere 20 Minuten zurück in den 180°C-Umluftofen geben, der 'Doppelback'-Schritt, der die Kruste dunkler und fester macht und den Laib so lange haltbar macht.",
+        "es": "Desmoldar el pan y dejarlo enfriar 30-45 minutos. Volver a meterlo en el horno con ventilador a 180°C otros 20 minutos, el paso del 'Doppelback' que oscurece y afirma la corteza y explica por qué el pan se conserva tan bien.",
+        "fr": "Démouler le pain et le laisser refroidir 30-45 minutes. Le remettre au four à chaleur tournante à 180°C pour 20 minutes de plus, l'étape du 'Doppelback' qui fonce et raffermit la croûte et explique pourquoi le pain se conserve si bien.",
+        "ro": "Scoate pâinea din formă și las-o la răcit 30-45 de minute. Pune-o din nou în cuptorul cu ventilație la 180°C pentru încă 20 de minute, etapa 'Doppelback' care întunecă și întărește coaja și explică de ce pâinea se păstrează atât de bine."
       }
     }
   ],

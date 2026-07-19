@@ -127,50 +127,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine whole wheat flour, ajwain, salt and oil, then knead in water gradually to a firm, smooth dough. Rest covered 20 minutes."
+        "en": "Combine whole wheat flour, ajwain, salt and oil, then knead in water gradually to a firm, smooth dough. Rest covered 20 minutes.",
+        "de": "Weizenvollkornmehl, Ajwain, Salz und Öl vermengen, dann nach und nach Wasser einkneten, bis ein fester, glatter Teig entsteht. Abgedeckt 20 Minuten ruhen lassen.",
+        "es": "Combinar la harina integral de trigo, el ajwain, la sal y el aceite, luego amasar incorporando el agua poco a poco hasta obtener una masa firme y lisa. Dejar reposar tapada 20 minutos.",
+        "fr": "Combiner la farine complète de blé, l'ajwain, le sel et l'huile, puis pétrir en incorporant l'eau progressivement pour obtenir une pâte ferme et lisse. Laisser reposer couverte 20 minutes.",
+        "ro": "Combină făina integrală de grâu, ajwain-ul, sarea și uleiul, apoi frământă adăugând apa treptat până obții un aluat ferm și neted. Lasă la odihnă acoperit 20 de minute."
       }
     },
     {
       "title": {
-        "en": "Roll thin"
+        "en": "Roll thin",
+        "de": "Dünn ausrollen",
+        "es": "Estirar fino",
+        "fr": "Abaisser finement",
+        "ro": "Întinde subțire"
       },
       "summary": {
-        "en": "Divide into balls and roll each one out as thin as possible."
+        "en": "Divide into balls and roll each one out as thin as possible.",
+        "de": "In Kugeln teilen und jede so dünn wie möglich ausrollen.",
+        "es": "Dividir en bolas y estirar cada una lo más fina posible.",
+        "fr": "Diviser en boules et abaisser chacune le plus finement possible.",
+        "ro": "Împarte în bile și întinde fiecare cât mai subțire posibil."
       }
     },
     {
       "title": {
-        "en": "Layer with ghee"
+        "en": "Layer with ghee",
+        "de": "Mit Ghee schichten",
+        "es": "Untar con ghee",
+        "fr": "Étaler le ghee en couches",
+        "ro": "Unge cu ghee"
       },
       "summary": {
-        "en": "Brush generously with ghee, dust with flour, then pleat into accordion folds."
+        "en": "Brush generously with ghee, dust with flour, then pleat into accordion folds.",
+        "de": "Großzügig mit Ghee bestreichen, mit Mehl bestäuben, dann ziehharmonikaartig falten.",
+        "es": "Untar generosamente con ghee, espolvorear con harina, luego plegar en forma de acordeón.",
+        "fr": "Badigeonner généreusement de ghee, fariner, puis plisser en accordéon.",
+        "ro": "Unge generos cu ghee, presară cu făină, apoi pliază în formă de armonică."
       }
     },
     {
       "title": {
-        "en": "Coil"
+        "en": "Coil",
+        "de": "Aufrollen",
+        "es": "Enrollar",
+        "fr": "Enrouler",
+        "ro": "Rulează"
       },
       "summary": {
-        "en": "Roll the pleated strip into a spiral and tuck the end underneath."
+        "en": "Roll the pleated strip into a spiral and tuck the end underneath.",
+        "de": "Den gefalteten Streifen zu einer Spirale aufrollen und das Ende darunter feststecken.",
+        "es": "Enrollar la tira plegada en espiral y remeter el extremo por debajo.",
+        "fr": "Enrouler la bande plissée en spirale et glisser l'extrémité en dessous.",
+        "ro": "Rulează fâșia pliată într-o spirală și îndoaie capătul pe dedesubt."
       }
     },
     {
       "title": {
-        "en": "Re-roll"
+        "en": "Re-roll",
+        "de": "Erneut ausrollen",
+        "es": "Volver a estirar",
+        "fr": "Réabaisser",
+        "ro": "Reîntinde"
       },
       "summary": {
-        "en": "Flatten and roll the spiral gently into a thick round, keeping the coiled layers intact."
+        "en": "Flatten and roll the spiral gently into a thick round, keeping the coiled layers intact.",
+        "de": "Die Spirale flach drücken und sanft zu einer dicken Scheibe ausrollen, dabei die spiralförmigen Schichten erhalten.",
+        "es": "Aplanar y estirar la espiral con suavidad hasta formar un disco grueso, manteniendo intactas las capas enrolladas.",
+        "fr": "Aplatir et abaisser doucement la spirale en un disque épais, en gardant les couches enroulées intactes.",
+        "ro": "Presează și întinde ușor spirala într-un disc gros, păstrând intacte straturile rulate."
       }
     },
     {
       "title": {
-        "en": "Pan-fry"
+        "en": "Pan-fry",
+        "de": "In der Pfanne braten",
+        "es": "Freír en la sartén",
+        "fr": "Cuire à la poêle",
+        "ro": "Prăjește în tigaie"
       },
       "summary": {
-        "en": "Cook on a hot, oiled tawa, flipping and pressing the edges until both sides are golden and the layers visibly fan open."
+        "en": "Cook on a hot, oiled tawa, flipping and pressing the edges until both sides are golden and the layers visibly fan open.",
+        "de": "Auf einer heißen, geölten Tawa braten, dabei wenden und die Ränder andrücken, bis beide Seiten goldbraun sind und sich die Schichten sichtbar auffächern.",
+        "es": "Cocinar en una tawa caliente y engrasada, dando vuelta y presionando los bordes hasta que ambos lados estén dorados y las capas se abran visiblemente en abanico.",
+        "fr": "Cuire sur une tawa chaude et huilée, en retournant et en pressant les bords jusqu'à ce que les deux faces soient dorées et que les couches s'ouvrent visiblement en éventail.",
+        "ro": "Coace pe o tawa fierbinte, unsă cu ulei, întorcând și presând marginile până ambele părți devin aurii, iar straturile se desfac vizibil ca un evantai."
       }
     }
   ],

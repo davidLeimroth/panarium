@@ -136,50 +136,98 @@
   "method": [
     {
       "title": {
-        "en": "Brew the aromatic water"
+        "en": "Brew the aromatic water",
+        "de": "Aromatisches Wasser aufkochen",
+        "es": "Preparar el agua aromática",
+        "fr": "Préparer l'eau aromatique",
+        "ro": "Fierbe apa aromată"
       },
       "summary": {
-        "en": "Simmer water with bay leaves, black pepper and sugar, then cool until just warm."
+        "en": "Simmer water with bay leaves, black pepper and sugar, then cool until just warm.",
+        "de": "Wasser mit Lorbeerblättern, schwarzem Pfeffer und Zucker köcheln lassen, dann auf handwarm abkühlen lassen.",
+        "es": "Hervir a fuego lento agua con hojas de laurel, pimienta negra y azúcar, luego dejar enfriar hasta que esté apenas tibia.",
+        "fr": "Faire frémir de l'eau avec des feuilles de laurier, du poivre noir et du sucre, puis laisser refroidir jusqu'à peine tiède.",
+        "ro": "Fierbe la foc mic apă cu foi de dafin, piper negru și zahăr, apoi las-o să se răcească până devine doar călduță."
       }
     },
     {
       "title": {
-        "en": "Start the wild ferment"
+        "en": "Start the wild ferment",
+        "de": "Wilde Fermentation starten",
+        "es": "Iniciar la fermentación salvaje",
+        "fr": "Démarrer la fermentation sauvage",
+        "ro": "Pornește fermentația sălbatică"
       },
       "summary": {
-        "en": "Stir chickpea flour into a cupful of the cooled aromatic water and leave it 12-16 hours in a warm spot until foamy; this chickpea culture (kounenos) is the only leavening in the whole bread."
+        "en": "Stir chickpea flour into a cupful of the cooled aromatic water and leave it 12-16 hours in a warm spot until foamy; this chickpea culture (kounenos) is the only leavening in the whole bread.",
+        "de": "Kichererbsenmehl in eine Tasse voll des abgekühlten aromatischen Wassers einrühren und 12-16 Stunden an einem warmen Ort stehen lassen, bis es schäumt; diese Kichererbsen-Kultur (kounenos) ist die einzige Triebkraft im gesamten Brot.",
+        "es": "Incorporar harina de garbanzo en una taza del agua aromática enfriada y dejar reposar 12-16 horas en un lugar cálido hasta que espume; este cultivo de garbanzo (kounenos) es la única levadura de todo el pan.",
+        "fr": "Incorporer de la farine de pois chiches dans une tasse d'eau aromatique refroidie et laisser reposer 12-16 heures dans un endroit chaud jusqu'à ce que ça mousse; cette culture de pois chiches (kounenos) est la seule levure de tout le pain.",
+        "ro": "Încorporează făină de năut într-o cană din apa aromată răcită și las-o 12-16 ore într-un loc călduț până spumează; această cultură de năut (kounenos) este singura sursă de dospire din toată pâinea."
       }
     },
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Work in the first portion of wheat flour and let the mixture rise 2-4 hours until tripled."
+        "en": "Work in the first portion of wheat flour and let the mixture rise 2-4 hours until tripled.",
+        "de": "Die erste Portion Weizenmehl einarbeiten und die Mischung 2-4 Stunden gehen lassen, bis sie sich verdreifacht hat.",
+        "es": "Incorporar la primera porción de harina de trigo y dejar fermentar la mezcla 2-4 horas hasta que se triplique.",
+        "fr": "Incorporer la première portion de farine de blé et laisser lever le mélange 2-4 heures jusqu'à ce qu'il triple.",
+        "ro": "Încorporează prima porție de făină de grâu și lasă amestecul la crescut 2-4 ore, până se triplează."
       }
     },
     {
       "title": {
-        "en": "Final dough"
+        "en": "Final dough",
+        "de": "Endgültiger Teig",
+        "es": "Masa final",
+        "fr": "Pâte finale",
+        "ro": "Aluatul final"
       },
       "summary": {
-        "en": "Mix in the rest of the flour, the remaining aromatic water, olive oil and salt until smooth."
+        "en": "Mix in the rest of the flour, the remaining aromatic water, olive oil and salt until smooth.",
+        "de": "Das restliche Mehl, das übrige aromatische Wasser, Olivenöl und Salz einrühren, bis der Teig glatt ist.",
+        "es": "Incorporar el resto de la harina, el agua aromática restante, el aceite de oliva y la sal hasta que quede lisa.",
+        "fr": "Incorporer le reste de la farine, l'eau aromatique restante, l'huile d'olive et le sel jusqu'à obtenir une pâte lisse.",
+        "ro": "Încorporează restul de făină, apa aromată rămasă, uleiul de măsline și sarea, până obții un aluat neted."
       }
     },
     {
       "title": {
-        "en": "Shape and proof"
+        "en": "Shape and proof",
+        "de": "Formen und gehen lassen",
+        "es": "Formar y fermentar",
+        "fr": "Façonner et pousser",
+        "ro": "Modelează și lasă la dospit"
       },
       "summary": {
-        "en": "Shape into a round loaf, top with sesame seeds, and proof 2-3 hours until nearly doubled."
+        "en": "Shape into a round loaf, top with sesame seeds, and proof 2-3 hours until nearly doubled.",
+        "de": "Zu einem runden Laib formen, mit Sesam bestreuen und 2-3 Stunden gehen lassen, bis er sich fast verdoppelt hat.",
+        "es": "Dar forma de pan redondo, cubrir con semillas de sésamo y dejar fermentar 2-3 horas hasta casi duplicar.",
+        "fr": "Façonner en pain rond, garnir de graines de sésame et laisser lever 2-3 heures jusqu'à presque doubler.",
+        "ro": "Modelează o pâine rotundă, presară semințe de susan deasupra și lasă la dospit 2-3 ore, până se dublează aproape complet."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until deeply golden, 45-50 minutes."
+        "en": "Bake until deeply golden, 45-50 minutes.",
+        "de": "Backen, bis tief golden, 45-50 Minuten.",
+        "es": "Hornear hasta que esté muy dorado, 45-50 minutos.",
+        "fr": "Cuire jusqu'à une belle couleur dorée, 45-50 minutes.",
+        "ro": "Coace până devine auriu-închis, 45-50 de minute."
       }
     }
   ],

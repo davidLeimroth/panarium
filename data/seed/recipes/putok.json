@@ -135,58 +135,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour, milk powder, sugar and salt; activate yeast in warm water, then work in the butter and bring together into a dense dough."
+        "en": "Combine flour, milk powder, sugar and salt; activate yeast in warm water, then work in the butter and bring together into a dense dough.",
+        "de": "Mehl, Milchpulver, Zucker und Salz vermengen; die Hefe in warmem Wasser aktivieren, dann die Butter einarbeiten und zu einem festen Teig verarbeiten.",
+        "es": "Combinar harina, leche en polvo, azúcar y sal; activar la levadura en agua tibia, luego incorporar la mantequilla y unir todo en una masa densa.",
+        "fr": "Mélanger farine, lait en poudre, sucre et sel ; activer la levure dans l'eau tiède, puis incorporer le beurre et rassembler en une pâte dense.",
+        "ro": "Combină făina, laptele praf, zahărul și sarea; activează drojdia în apă călduță, apoi încorporează untul și strânge totul într-un aluat dens."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead 7-10 minutes until smooth."
+        "en": "Knead 7-10 minutes until smooth.",
+        "de": "7-10 Minuten kneten, bis der Teig glatt ist.",
+        "es": "Amasar 7-10 minutos hasta que quede lisa.",
+        "fr": "Pétrir 7-10 minutes jusqu'à ce que la pâte soit lisse.",
+        "ro": "Frământă 7-10 minute până devine neted."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise about 1 hour in a warm spot until doubled."
+        "en": "Cover and let rise about 1 hour in a warm spot until doubled.",
+        "de": "Zugedeckt an einem warmen Ort etwa 1 Stunde gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar levar en un lugar cálido durante 1 hora, hasta que doble su volumen.",
+        "fr": "Couvrir et laisser lever environ 1 heure dans un endroit chaud, jusqu'au double.",
+        "ro": "Acoperă și lasă la dospit aproximativ 1 oră într-un loc călduros, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Divide"
+        "en": "Divide",
+        "de": "Teilen",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Divide into 20 pieces (about 50g each), roll into tight balls, and arrange on a lined tray."
+        "en": "Divide into 20 pieces (about 50g each), roll into tight balls, and arrange on a lined tray.",
+        "de": "In 20 Stücke teilen (etwa 50g pro Stück), straff zu Kugeln rollen und auf ein ausgelegtes Blech setzen.",
+        "es": "Dividir en 20 porciones (unos 50g cada una), bolear firmemente y colocar sobre una bandeja forrada.",
+        "fr": "Diviser en 20 morceaux (environ 50g chacun), bouler fermement et disposer sur une plaque garnie.",
+        "ro": "Împarte în 20 de bucăți (aproximativ 50g fiecare), rotunjește-le strâns în bile și așază-le pe o tavă căptușită."
       }
     },
     {
       "title": {
-        "en": "Score"
+        "en": "Score",
+        "de": "Einschneiden",
+        "es": "Greñar",
+        "fr": "Lamer",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Snip two crossing cuts across the top of each ball with scissors to form a star/crown pattern."
+        "en": "Snip two crossing cuts across the top of each ball with scissors to form a star/crown pattern.",
+        "de": "Mit einer Schere zwei sich kreuzende Schnitte auf jede Kugel setzen, sodass ein Stern-/Kronenmuster entsteht.",
+        "es": "Hacer con tijeras dos cortes cruzados en la parte superior de cada bola, para formar un patrón de estrella o corona.",
+        "fr": "Faire aux ciseaux deux entailles croisées sur le dessus de chaque boule, pour former un motif en étoile ou en couronne.",
+        "ro": "Fă cu foarfeca două tăieturi încrucișate în vârful fiecărei bile, pentru a forma un model de stea sau coroană."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover and rest 30 minutes; the dough barely rises further before baking."
+        "en": "Cover and rest 30 minutes; the dough barely rises further before baking.",
+        "de": "Zugedeckt 30 Minuten ruhen lassen; der Teig geht vor dem Backen nur noch minimal auf.",
+        "es": "Tapar y dejar reposar 30 minutos; la masa apenas sigue subiendo antes de hornear.",
+        "fr": "Couvrir et laisser reposer 30 minutes, la pâte lève à peine davantage avant la cuisson.",
+        "ro": "Acoperă și lasă să stea 30 de minute; aluatul mai crește foarte puțin înainte de coacere."
       }
     },
     {
       "title": {
-        "en": "Finish and bake"
+        "en": "Finish and bake",
+        "de": "Fertigstellen und backen",
+        "es": "Terminar y hornear",
+        "fr": "Finaliser et cuire",
+        "ro": "Finalizează și coace"
       },
       "summary": {
-        "en": "Brush with egg wash, sprinkle generously with sugar, and bake at 180°C (350°F) for 18-20 minutes until golden."
+        "en": "Brush with egg wash, sprinkle generously with sugar, and bake at 180°C (350°F) for 18-20 minutes until golden.",
+        "de": "Mit Eistreiche bestreichen, großzügig mit Zucker bestreuen und bei 180°C (350°F) 18-20 Minuten goldbraun backen.",
+        "es": "Pincelar con huevo batido, espolvorear generosamente con azúcar y hornear a 180°C (350°F) durante 18-20 minutos hasta dorar.",
+        "fr": "Badigeonner de dorure à l'œuf, saupoudrer généreusement de sucre et cuire à 180°C (350°F) pendant 18-20 minutes jusqu'à coloration dorée.",
+        "ro": "Unge cu ou bătut, presară generos zahăr și coace la 180°C (350°F) timp de 18-20 minute până se rumenește."
       }
     }
   ],

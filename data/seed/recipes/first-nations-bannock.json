@@ -103,50 +103,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockene Zutaten mischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger le sec",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Whisk the flour and baking powder together."
+        "en": "Whisk the flour and baking powder together.",
+        "de": "Mehl und Backpulver miteinander verquirlen.",
+        "es": "Batir juntos la harina y la levadura en polvo.",
+        "fr": "Fouetter ensemble la farine et la levure chimique.",
+        "ro": "Amestecă bine făina cu praful de copt."
       }
     },
     {
       "title": {
-        "en": "Add wet"
+        "en": "Add wet",
+        "de": "Feuchte Zutaten zugeben",
+        "es": "Añadir los líquidos",
+        "fr": "Ajouter le liquide",
+        "ro": "Adaugă ingredientele umede"
       },
       "summary": {
-        "en": "Stir in the oil, then the cold water, just until a soft dough comes together."
+        "en": "Stir in the oil, then the cold water, just until a soft dough comes together.",
+        "de": "Das Öl einrühren, dann das kalte Wasser, nur bis sich ein weicher Teig bildet.",
+        "es": "Incorporar el aceite y luego el agua fría, solo hasta que se forme una masa blanda.",
+        "fr": "Incorporer l'huile, puis l'eau froide, juste jusqu'à ce qu'une pâte molle se forme.",
+        "ro": "Încorporează uleiul, apoi apa rece, doar până se formează un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Divide"
+        "en": "Divide",
+        "de": "Teilen",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Divide the dough into portions and pat each into a flattened round."
+        "en": "Divide the dough into portions and pat each into a flattened round.",
+        "de": "Den Teig in Portionen teilen und jede zu einer flachen Scheibe formen.",
+        "es": "Dividir la masa en porciones y aplanar cada una en un disco.",
+        "fr": "Diviser la pâte en portions et aplatir chacune en un disque.",
+        "ro": "Împarte aluatul în porții și aplatizează fiecare într-un disc."
       }
     },
     {
       "title": {
-        "en": "Heat the pan"
+        "en": "Heat the pan",
+        "de": "Pfanne erhitzen",
+        "es": "Calentar la sartén",
+        "fr": "Chauffer la poêle",
+        "ro": "Încălzește tigaia"
       },
       "summary": {
-        "en": "Get a cast-iron pan hot, traditionally over an open fire."
+        "en": "Get a cast-iron pan hot, traditionally over an open fire.",
+        "de": "Eine gusseiserne Pfanne heiß werden lassen, traditionell über offenem Feuer.",
+        "es": "Calentar una sartén de hierro fundido, tradicionalmente sobre fuego abierto.",
+        "fr": "Faire chauffer une poêle en fonte, traditionnellement sur un feu ouvert.",
+        "ro": "Încălzește o tigaie de fontă, în mod tradițional deasupra unui foc deschis."
       }
     },
     {
       "title": {
-        "en": "Press & cook"
+        "en": "Press & cook",
+        "de": "Braten",
+        "es": "Cocinar",
+        "fr": "Cuire",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Press each round into the hot pan and cook about 15 minutes, turning as needed, until golden and cooked through with a few charred spots."
+        "en": "Press each round into the hot pan and cook about 15 minutes, turning as needed, until golden and cooked through with a few charred spots.",
+        "de": "Jede Scheibe in die heiße Pfanne drücken und etwa 15 Minuten braten, dabei nach Bedarf wenden, bis sie goldbraun und durchgebacken ist mit ein paar dunklen Stellen.",
+        "es": "Presionar cada disco contra la sartén caliente y cocinar unos 15 minutos, dándole la vuelta según sea necesario, hasta que esté dorado y bien hecho con algunos puntos tostados.",
+        "fr": "Presser chaque disque dans la poêle chaude et cuire environ 15 minutes, en retournant au besoin, jusqu'à ce que ce soit doré et bien cuit avec quelques taches brûlées.",
+        "ro": "Apasă fiecare disc în tigaia fierbinte și prăjește aproximativ 15 minute, întorcând după nevoie, până e auriu și copt bine, cu câteva pete arse."
       }
     },
     {
       "title": {
-        "en": "Serve hot"
+        "en": "Serve hot",
+        "de": "Heiß servieren",
+        "es": "Servir caliente",
+        "fr": "Servir chaud",
+        "ro": "Servește fierbinte"
       },
       "summary": {
-        "en": "Eat plain, or split and filled, straight from the pan."
+        "en": "Eat plain, or split and filled, straight from the pan.",
+        "de": "Pur essen oder aufgeschnitten und gefüllt, direkt aus der Pfanne.",
+        "es": "Comer simple, o abierta y rellena, recién salida de la sartén.",
+        "fr": "Manger nature, ou fendu et garni, directement sorti de la poêle.",
+        "ro": "Mănâncă simplu, sau tăiat și umplut, direct din tigaie."
       }
     }
   ],

@@ -130,42 +130,82 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Whisk flour with baking soda, baking powder, sugar and salt, then work in yogurt, oil and warm milk to a soft, smooth dough; knead about 7 minutes."
+        "en": "Whisk flour with baking soda, baking powder, sugar and salt, then work in yogurt, oil and warm milk to a soft, smooth dough; knead about 7 minutes.",
+        "de": "Mehl mit Natron, Backpulver, Zucker und Salz verquirlen, dann Joghurt, Öl und warme Milch einarbeiten, bis ein weicher, glatter Teig entsteht; etwa 7 Minuten kneten.",
+        "es": "Batir la harina con el bicarbonato, la levadura química, el azúcar y la sal, luego incorporar el yogur, el aceite y la leche tibia hasta lograr una masa suave y lisa; amasar unos 7 minutos.",
+        "fr": "Fouetter la farine avec le bicarbonate, la levure chimique, le sucre et le sel, puis incorporer le yaourt, l'huile et le lait tiède pour obtenir une pâte souple et lisse ; pétrir environ 7 minutes.",
+        "ro": "Amestecă făina cu bicarbonatul, praful de copt, zahărul și sarea, apoi adaugă iaurtul, uleiul și laptele călduț până obții un aluat moale și neted; frământă aproximativ 7 minute."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cover and rest about 20 minutes at room temperature so the chemical leaveners get to work and gluten relaxes."
+        "en": "Cover and rest about 20 minutes at room temperature so the chemical leaveners get to work and gluten relaxes.",
+        "de": "Abdecken und etwa 20 Minuten bei Raumtemperatur ruhen lassen, damit die chemischen Triebmittel wirken und das Gluten sich entspannt.",
+        "es": "Tapar y dejar reposar unos 20 minutos a temperatura ambiente para que los leudantes químicos actúen y el gluten se relaje.",
+        "fr": "Couvrir et laisser reposer environ 20 minutes à température ambiante pour que les levures chimiques agissent et que le gluten se détende.",
+        "ro": "Acoperă și lasă la odihnă aproximativ 20 de minute la temperatura camerei, ca agenții de afânare chimici să acționeze și glutenul să se relaxeze."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide into 6 balls and roll each into a 6-inch disc, keeping some thickness for a soft bite."
+        "en": "Divide into 6 balls and roll each into a 6-inch disc, keeping some thickness for a soft bite.",
+        "de": "In 6 Kugeln teilen und jede zu einer Scheibe von 15 cm ausrollen, dabei etwas Dicke belassen für einen weichen Biss.",
+        "es": "Dividir en 6 bolas y estirar cada una hasta formar un disco de 15 cm, dejando algo de grosor para que quede tierno al morder.",
+        "fr": "Diviser en 6 boules et abaisser chacune en un disque de 15 cm, en gardant un peu d'épaisseur pour une texture moelleuse.",
+        "ro": "Împarte în 6 bile și întinde fiecare într-un disc de 15 cm, păstrând ceva grosime pentru o mușcătură moale."
       }
     },
     {
       "title": {
-        "en": "Cook"
+        "en": "Cook",
+        "de": "Backen",
+        "es": "Cocinar",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Lay on a hot, dry griddle; cook until bubbles rise on the surface, flip, and cook the other side until brown spots appear."
+        "en": "Lay on a hot, dry griddle; cook until bubbles rise on the surface, flip, and cook the other side until brown spots appear.",
+        "de": "Auf eine heiße, trockene Platte legen; backen, bis Blasen an der Oberfläche aufsteigen, wenden und die andere Seite backen, bis braune Flecken entstehen.",
+        "es": "Colocar sobre una plancha caliente y seca; cocinar hasta que suban burbujas a la superficie, dar la vuelta y cocinar el otro lado hasta que aparezcan manchas doradas.",
+        "fr": "Déposer sur une plaque chaude et sèche ; cuire jusqu'à ce que des bulles remontent à la surface, retourner et cuire l'autre face jusqu'à l'apparition de taches brunes.",
+        "ro": "Așază pe o tablă fierbinte și uscată; coace până apar bule la suprafață, întoarce și coace și cealaltă parte până apar pete rumenite."
       }
     },
     {
       "title": {
-        "en": "Finish"
+        "en": "Finish",
+        "de": "Fertigstellen",
+        "es": "Terminar",
+        "fr": "Finition",
+        "ro": "Finalizează"
       },
       "summary": {
-        "en": "Brush hot off the pan with melted butter and serve immediately, torn by hand, with a chickpea or lentil curry."
+        "en": "Brush hot off the pan with melted butter and serve immediately, torn by hand, with a chickpea or lentil curry.",
+        "de": "Noch heiß aus der Pfanne mit geschmolzener Butter bestreichen und sofort servieren, von Hand zerrissen, zu einem Kichererbsen- oder Linsencurry.",
+        "es": "Recién salida de la plancha, pincelar con mantequilla derretida y servir de inmediato, rasgada a mano, con un curry de garbanzos o lentejas.",
+        "fr": "Dès la sortie de la plaque, badigeonner de beurre fondu et servir aussitôt, déchirée à la main, avec un curry de pois chiches ou de lentilles.",
+        "ro": "Unge fierbinte, direct de pe tablă, cu unt topit și servește imediat, ruptă cu mâna, alături de un curry de năut sau linte."
       }
     }
   ],

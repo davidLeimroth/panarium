@@ -112,58 +112,114 @@
   "method": [
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Mix most of the flour with most of the water and let it rest so the flour hydrates before any leavening is added."
+        "en": "Mix most of the flour with most of the water and let it rest so the flour hydrates before any leavening is added.",
+        "de": "Den Großteil des Mehls mit dem Großteil des Wassers vermengen und ruhen lassen, damit das Mehl quillt, bevor Triebmittel zugegeben werden.",
+        "es": "Mezclar la mayor parte de la harina con la mayor parte del agua y dejar reposar para que la harina se hidrate antes de añadir la levadura.",
+        "fr": "Mélanger la majeure partie de la farine avec la majeure partie de l'eau et laisser reposer pour que la farine s'hydrate avant tout ajout de levain ou levure.",
+        "ro": "Amestecă cea mai mare parte din făină cu cea mai mare parte din apă și lasă la odihnă, ca făina să se hidrateze înainte de a adăuga agentul de dospire."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Work in the levain, yeast, salt and remaining water; knead until the dough is smooth and elastic."
+        "en": "Work in the levain, yeast, salt and remaining water; knead until the dough is smooth and elastic.",
+        "de": "Levain, Hefe, Salz und restliches Wasser einarbeiten; kneten, bis der Teig glatt und elastisch ist.",
+        "es": "Incorporar el levain, la levadura, la sal y el agua restante; amasar hasta que la masa esté lisa y elástica.",
+        "fr": "Incorporer le levain, la levure, le sel et le reste de l'eau; pétrir jusqu'à ce que la pâte soit lisse et élastique.",
+        "ro": "Încorporează levain-ul, drojdia, sarea și apa rămasă; frământă până aluatul devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "Bulk and retard"
+        "en": "Bulk and retard",
+        "de": "Stockgare und Kühlung",
+        "es": "Bloque y frío",
+        "fr": "Pointage et retard",
+        "ro": "Fermentație și frig"
       },
       "summary": {
-        "en": "Ferment an hour at room temperature with a fold, then move to the fridge overnight to build flavor slowly."
+        "en": "Ferment an hour at room temperature with a fold, then move to the fridge overnight to build flavor slowly.",
+        "de": "Eine Stunde bei Raumtemperatur mit einem Dehnen und Falten fermentieren, dann über Nacht für langsames Aroma in den Kühlschrank stellen.",
+        "es": "Fermentar en bloque una hora a temperatura ambiente con un pliegue, luego pasar al frigorífico toda la noche para desarrollar sabor lentamente.",
+        "fr": "Pointer une heure à température ambiante avec un rabat, puis placer au réfrigérateur toute la nuit pour développer le goût lentement.",
+        "ro": "Fermentează o oră la temperatura camerei cu o împăturire, apoi mută la frigider peste noapte pentru a dezvolta aroma treptat."
       }
     },
     {
       "title": {
-        "en": "Pre-shape"
+        "en": "Pre-shape",
+        "de": "Vorformen",
+        "es": "Preformar",
+        "fr": "Préfaçonner",
+        "ro": "Preformează"
       },
       "summary": {
-        "en": "Divide into equal pieces, fold each into a loose rectangle and let relax."
+        "en": "Divide into equal pieces, fold each into a loose rectangle and let relax.",
+        "de": "In gleiche Stücke teilen, jedes locker zu einem Rechteck falten und entspannen lassen.",
+        "es": "Dividir en piezas iguales, plegar cada una en un rectángulo suelto y dejar relajar.",
+        "fr": "Diviser en pâtons égaux, plier chacun en un rectangle lâche et laisser détendre.",
+        "ro": "Împarte în bucăți egale, pliază fiecare într-un dreptunghi lejer și lasă să se relaxeze."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Roll each piece firmly into a long, even baguette and set seam-side up under a floured cloth."
+        "en": "Roll each piece firmly into a long, even baguette and set seam-side up under a floured cloth.",
+        "de": "Jedes Stück fest zu einer langen, gleichmäßigen Baguette rollen und mit der Naht nach oben unter ein bemehltes Tuch legen.",
+        "es": "Enrollar cada pieza con firmeza en una baguette larga y uniforme, y colocarla con el cierre hacia arriba bajo un paño enharinado.",
+        "fr": "Rouler fermement chaque pâton en une baguette longue et régulière, puis la poser soudure vers le haut sous un linge fariné.",
+        "ro": "Rulează ferm fiecare bucată într-o baghetă lungă și uniformă și așaz-o cu cusătura în sus, sub un șervet făinat."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let the shaped loaves rest about an hour until puffy but not slack."
+        "en": "Let the shaped loaves rest about an hour until puffy but not slack.",
+        "de": "Die geformten Laibe etwa eine Stunde ruhen lassen, bis sie aufgepolstert, aber nicht schlaff sind.",
+        "es": "Dejar reposar las piezas formadas una hora, hasta que estén hinchadas pero no flácidas.",
+        "fr": "Laisser reposer les pâtons façonnés environ une heure, jusqu'à ce qu'ils gonflent sans devenir mous.",
+        "ro": "Lasă pâinile modelate la odihnă aproximativ o oră, până se umflă, dar fără să devină moi."
       }
     },
     {
       "title": {
-        "en": "Score and bake"
+        "en": "Score and bake",
+        "de": "Einschneiden und backen",
+        "es": "Greñar y hornear",
+        "fr": "Lamer et cuire",
+        "ro": "Crestează și coace"
       },
       "summary": {
-        "en": "Slash with quick, angled cuts, load onto a hot stone with steam, and bake until deeply golden and crackling."
+        "en": "Slash with quick, angled cuts, load onto a hot stone with steam, and bake until deeply golden and crackling.",
+        "de": "Mit schnellen, schrägen Schnitten einschneiden, auf einen heißen Stein mit Schwaden laden und backen, bis tief golden und krachend knusprig.",
+        "es": "Greñar con cortes rápidos y en ángulo, cargar sobre una piedra caliente con vapor, y hornear hasta que quede muy dorada y crujiente.",
+        "fr": "Inciser d'un geste rapide et oblique, enfourner sur une pierre chaude avec de la buée, et cuire jusqu'à coloration bien dorée et croustillante.",
+        "ro": "Crestează cu tăieturi rapide, oblice, așază pe o piatră fierbinte cu abur și coace până devine auriu-închis și crocantă."
       }
     }
   ],

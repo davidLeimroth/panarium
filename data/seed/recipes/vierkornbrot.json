@@ -144,58 +144,114 @@
   "method": [
     {
       "title": {
-        "en": "Build a rye sourdough"
+        "en": "Build a rye sourdough",
+        "de": "Roggensauerteig ansetzen",
+        "es": "Preparar una masa madre de centeno",
+        "fr": "Préparer un levain de seigle",
+        "ro": "Pregătește o maia de secară"
       },
       "summary": {
-        "en": "Mix rye flour, water, salt and a spoonful of mature rye starter. Ferment 12 hours at room temperature."
+        "en": "Mix rye flour, water, salt and a spoonful of mature rye starter. Ferment 12 hours at room temperature.",
+        "de": "Roggenmehl, Wasser, Salz und einen Löffel reifes Roggen-Anstellgut verrühren. 12 Stunden bei Raumtemperatur fermentieren lassen.",
+        "es": "Mezclar harina de centeno, agua, sal y una cucharada de masa madre de centeno madura. Dejar fermentar 12 horas a temperatura ambiente.",
+        "fr": "Mélanger farine de seigle, eau, sel et une cuillerée de levain de seigle mûr. Laisser fermenter 12 heures à température ambiante.",
+        "ro": "Amestecă făină de secară, apă, sare și o lingură de maia de secară matură. Lasă la fermentat 12 ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Build a spelt pre-dough"
+        "en": "Build a spelt pre-dough",
+        "de": "Dinkelvorteig ansetzen",
+        "es": "Preparar un prefermento de espelta",
+        "fr": "Préparer un pré-ferment d'épeautre",
+        "ro": "Pregătește un preferment de alac"
       },
       "summary": {
-        "en": "Separately mix wholegrain spelt flour, water and a trace of yeast into a firm dough. Ferment 12 hours alongside the sourdough."
+        "en": "Separately mix wholegrain spelt flour, water and a trace of yeast into a firm dough. Ferment 12 hours alongside the sourdough.",
+        "de": "Separat Dinkelvollkornmehl, Wasser und eine Spur Hefe zu einem festen Teig verrühren. 12 Stunden parallel zum Sauerteig fermentieren lassen.",
+        "es": "Por separado, mezclar harina integral de espelta, agua y una pizca de levadura en una masa firme. Dejar fermentar 12 horas junto con la masa madre.",
+        "fr": "Séparément, mélanger farine complète d'épeautre, eau et une pointe de levure en une pâte ferme. Laisser fermenter 12 heures en même temps que le levain.",
+        "ro": "Separat, amestecă făină integrală de alac, apă și un praf de drojdie într-un aluat ferm. Lasă la fermentat 12 ore alături de maia."
       }
     },
     {
       "title": {
-        "en": "Mix the main dough"
+        "en": "Mix the main dough",
+        "de": "Hauptteig mischen",
+        "es": "Mezclar la masa principal",
+        "fr": "Mélanger la pâte principale",
+        "ro": "Amestecă aluatul principal"
       },
       "summary": {
-        "en": "Combine both overnight pieces with wheat flour, wholegrain barley flour, water, salt, sunflower oil and a little more yeast into a firm dough."
+        "en": "Combine both overnight pieces with wheat flour, wholegrain barley flour, water, salt, sunflower oil and a little more yeast into a firm dough.",
+        "de": "Beide über Nacht gereiften Teile mit Weizenmehl, Gerstenvollkornmehl, Wasser, Salz, Sonnenblumenöl und etwas mehr Hefe zu einem festen Teig verbinden.",
+        "es": "Combinar ambas piezas fermentadas toda la noche con harina de trigo, harina integral de cebada, agua, sal, aceite de girasol y un poco más de levadura en una masa firme.",
+        "fr": "Combiner les deux préparations fermentées toute la nuit avec de la farine de blé, de la farine complète d'orge, de l'eau, du sel, de l'huile de tournesol et un peu plus de levure en une pâte ferme.",
+        "ro": "Combină ambele compoziții fermentate peste noapte cu făină de grâu, făină integrală de orz, apă, sare, ulei de floarea-soarelui și puțină drojdie în plus, într-un aluat ferm."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment with folds"
+        "en": "Bulk ferment with folds",
+        "de": "Stockgare mit Falten",
+        "es": "Fermentación en bloque con pliegues",
+        "fr": "Pointage avec rabats",
+        "ro": "Fermentație în masă cu pliuri"
       },
       "summary": {
-        "en": "Rest about 1.5 hours at room temperature, folding the dough twice early on."
+        "en": "Rest about 1.5 hours at room temperature, folding the dough twice early on.",
+        "de": "Etwa 1.5 Stunden bei Raumtemperatur ruhen lassen, dabei den Teig anfangs zweimal falten.",
+        "es": "Dejar reposar unas 1.5 horas a temperatura ambiente, plegando la masa dos veces al principio.",
+        "fr": "Laisser reposer environ 1.5 heure à température ambiante, en rabattant la pâte deux fois au début.",
+        "ro": "Lasă să stea aproximativ 1.5 ore la temperatura camerei, pliind aluatul de două ori la început."
       }
     },
     {
       "title": {
-        "en": "Shape in two stages"
+        "en": "Shape in two stages",
+        "de": "In zwei Etappen formen",
+        "es": "Formar en dos etapas",
+        "fr": "Façonner en deux étapes",
+        "ro": "Modelează în două etape"
       },
       "summary": {
-        "en": "Round the dough gently and let it rest 30 minutes, then shape it into a tight oblong loaf, working a little rye flour into the seam to keep it from sealing shut."
+        "en": "Round the dough gently and let it rest 30 minutes, then shape it into a tight oblong loaf, working a little rye flour into the seam to keep it from sealing shut.",
+        "de": "Den Teig sanft rundwirken und 30 Minuten ruhen lassen, dann zu einem straffen länglichen Laib formen, dabei etwas Roggenmehl in die Naht einarbeiten, damit sie sich nicht verschließt.",
+        "es": "Bolear la masa con suavidad y dejar reposar 30 minutos, luego darle forma alargada y prieta, trabajando un poco de harina de centeno en el cierre para que no se selle.",
+        "fr": "Bouler la pâte en douceur et laisser reposer 30 minutes, puis la façonner en un pain allongé et serré, en travaillant un peu de farine de seigle dans la clé pour l'empêcher de se refermer.",
+        "ro": "Rotunjește aluatul cu blândețe și lasă-l să stea 30 de minute, apoi modelează-l într-o pâine alungită și strânsă, lucrând puțină făină de secară în cusătură ca să nu se lipească."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof seam-down in a floured banneton for about 45 minutes."
+        "en": "Proof seam-down in a floured banneton for about 45 minutes.",
+        "de": "Mit der Naht nach unten etwa 45 Minuten in einem bemehlten Gärkorb gehen lassen.",
+        "es": "Fermentar con el cierre hacia abajo en un banneton enharinado durante unos 45 minutos.",
+        "fr": "Faire pousser, clé vers le bas, dans un banneton fariné pendant environ 45 minutes.",
+        "ro": "Dospește cu cusătura în jos într-un banneton făinat timp de aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Turn the loaf out seam-up onto a hot baking stone, no scoring needed, as the seam splits open naturally, and bake with steam, lowering the temperature partway through, for about 75 minutes total."
+        "en": "Turn the loaf out seam-up onto a hot baking stone, no scoring needed, as the seam splits open naturally, and bake with steam, lowering the temperature partway through, for about 75 minutes total.",
+        "de": "Das Brot mit der Naht nach oben auf einen heißen Backstein stürzen, Einschneiden ist nicht nötig, da die Naht von selbst aufreißt, und mit Schwaden backen, die Temperatur währenddessen senken, insgesamt etwa 75 Minuten.",
+        "es": "Volcar el pan con el cierre hacia arriba sobre una piedra de hornear caliente, no hace falta greñar, ya que el cierre se abre solo, y hornear con vapor, bajando la temperatura a mitad de cocción, unos 75 minutos en total.",
+        "fr": "Renverser le pain, clé vers le haut, sur une pierre à pain chaude, pas besoin de lamer puisque la clé s'ouvre naturellement, et cuire avec buée, en baissant la température à mi-cuisson, environ 75 minutes au total.",
+        "ro": "Răstoarnă pâinea cu cusătura în sus pe o piatră de copt fierbinte, nu e nevoie de crestare, deoarece cusătura se deschide natural, și coace cu abur, coborând temperatura pe parcurs, în total aproximativ 75 de minute."
       }
     }
   ],

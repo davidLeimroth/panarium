@@ -152,58 +152,114 @@
   "method": [
     {
       "title": {
-        "en": "Overnight starter"
+        "en": "Overnight starter",
+        "de": "Vorteig über Nacht",
+        "es": "Prefermento de un día para otro",
+        "fr": "Levain d'une nuit",
+        "ro": "Maia peste noapte"
       },
       "summary": {
-        "en": "The evening before, stir water, a little sugar, yeast and flour into a firm dough. Let it double at room temperature, then refrigerate overnight to build flavor."
+        "en": "The evening before, stir water, a little sugar, yeast and flour into a firm dough. Let it double at room temperature, then refrigerate overnight to build flavor.",
+        "de": "Am Vorabend Wasser, etwas Zucker, Hefe und Mehl zu einem festen Teig verrühren. Bei Raumtemperatur verdoppeln lassen, dann über Nacht kühlen, um Aroma aufzubauen.",
+        "es": "La noche anterior, mezclar agua, un poco de azúcar, levadura y harina en una masa firme. Dejar que doble a temperatura ambiente, luego refrigerar toda la noche para desarrollar sabor.",
+        "fr": "La veille au soir, mélanger l'eau, un peu de sucre, la levure et la farine en une pâte ferme. Laisser doubler à température ambiante, puis réfrigérer toute la nuit pour développer l'arôme.",
+        "ro": "Cu o seară înainte, amestecă apa, puțin zahăr, drojdia și făina într-un aluat ferm. Lasă-l să se dubleze la temperatura camerei, apoi dă-l la frigider peste noapte pentru mai multă aromă."
       }
     },
     {
       "title": {
-        "en": "Temper and mix"
+        "en": "Temper and mix",
+        "de": "Temperieren und mischen",
+        "es": "Atemperar y mezclar",
+        "fr": "Tempérer et mélanger",
+        "ro": "Aclimatizează și amestecă"
       },
       "summary": {
-        "en": "Let the chilled starter lose its chill, then combine it with warmed milk, yeast, flour, sugar and egg yolks. Knead into a smooth, elastic dough."
+        "en": "Let the chilled starter lose its chill, then combine it with warmed milk, yeast, flour, sugar and egg yolks. Knead into a smooth, elastic dough.",
+        "de": "Den gekühlten Vorteig temperieren lassen, dann mit warmer Milch, Hefe, Mehl, Zucker und Eigelb verbinden. Zu einem glatten, elastischen Teig kneten.",
+        "es": "Dejar que el prefermento frío se atempere, luego combinarlo con leche templada, levadura, harina, azúcar y yemas. Amasar hasta obtener una masa lisa y elástica.",
+        "fr": "Laisser le levain refroidi revenir à température, puis le mélanger avec le lait tiédi, la levure, la farine, le sucre et les jaunes d'œufs. Pétrir en une pâte lisse et élastique.",
+        "ro": "Lasă maiaua rece să ajungă la temperatura camerei, apoi combin-o cu laptele călduț, drojdia, făina, zahărul și gălbenușurile. Frământă până obții un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "Work in the butter"
+        "en": "Work in the butter",
+        "de": "Butter einarbeiten",
+        "es": "Incorporar la mantequilla",
+        "fr": "Incorporer le beurre",
+        "ro": "Încorporează untul"
       },
       "summary": {
-        "en": "With the mixer running, add softened butter a little at a time along with the honey, vanilla and lemon zest, letting each addition disappear before the next so the gluten stretches around the fat instead of tearing."
+        "en": "With the mixer running, add softened butter a little at a time along with the honey, vanilla and lemon zest, letting each addition disappear before the next so the gluten stretches around the fat instead of tearing.",
+        "de": "Bei laufendem Mixer nach und nach weiche Butter zusammen mit Honig, Vanille und Zitronenschale zugeben, jede Zugabe erst vollständig aufnehmen lassen, damit sich das Gluten um das Fett dehnt, statt zu reißen.",
+        "es": "Con la batidora en marcha, añadir la mantequilla ablandada poco a poco junto con la miel, la vainilla y la ralladura de limón, dejando que cada adición se absorba antes de la siguiente para que el gluten se estire alrededor de la grasa sin romperse.",
+        "fr": "Batteur en marche, ajouter le beurre ramolli petit à petit avec le miel, la vanille et le zeste de citron, en laissant chaque ajout s'incorporer avant le suivant pour que le gluten s'étire autour de la matière grasse sans se déchirer.",
+        "ro": "Cu mixerul pornit, adaugă treptat untul moale împreună cu mierea, vanilia și coaja de lămâie, lăsând fiecare adaos să se încorporeze complet înainte de următorul, ca glutenul să se întindă în jurul grăsimii fără să se rupă."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let the rich dough triple in bulk somewhere warm; the sugar and butter slow the yeast, so this takes several hours."
+        "en": "Cover and let the rich dough triple in bulk somewhere warm; the sugar and butter slow the yeast, so this takes several hours.",
+        "de": "Abdecken und den reichhaltigen Teig an einem warmen Ort auf das Dreifache aufgehen lassen; Zucker und Butter bremsen die Hefe, daher dauert das mehrere Stunden.",
+        "es": "Tapar y dejar que la masa enriquecida triplique su volumen en un lugar cálido; el azúcar y la mantequilla frenan la levadura, así que esto lleva varias horas.",
+        "fr": "Couvrir et laisser la pâte riche tripler de volume dans un endroit chaud ; le sucre et le beurre ralentissent la levure, ce qui prend donc plusieurs heures.",
+        "ro": "Acoperă și lasă aluatul bogat să se tripleze într-un loc călduros; zahărul și untul încetinesc drojdia, așa că durează câteva ore."
       }
     },
     {
       "title": {
-        "en": "Pan and proof"
+        "en": "Pan and proof",
+        "de": "Formen und Gare",
+        "es": "Molde y fermentación",
+        "fr": "Moule et pousse",
+        "ro": "Formă și dospire"
       },
       "summary": {
-        "en": "Butter and flour the star mold thoroughly so every point releases cleanly, drop in the dough, and let it rise until it crests just above the rim."
+        "en": "Butter and flour the star mold thoroughly so every point releases cleanly, drop in the dough, and let it rise until it crests just above the rim.",
+        "de": "Die Sternform gründlich buttern und mehlen, damit sich jede Zacke sauber löst, den Teig einsetzen und gehen lassen, bis er sich knapp über den Rand wölbt.",
+        "es": "Enmantequillar y enharinar bien el molde en forma de estrella para que cada punta se desmolde limpiamente, poner la masa dentro y dejar fermentar hasta que sobresalga apenas por encima del borde.",
+        "fr": "Beurrer et fariner soigneusement le moule étoile pour que chaque pointe se démoule bien, y déposer la pâte et laisser pousser jusqu'à ce qu'elle dépasse juste au-dessus du bord.",
+        "ro": "Unge și făinează bine forma în formă de stea, ca fiecare vârf să se desprindă curat, așază aluatul înăuntru și lasă-l să crească până depășește puțin marginea."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at a moderate temperature, lowering the heat partway through, until deep gold and a skewer through the center comes out clean."
+        "en": "Bake at a moderate temperature, lowering the heat partway through, until deep gold and a skewer through the center comes out clean.",
+        "de": "Bei moderater Temperatur backen, die Hitze auf halbem Weg senken, bis er tief golden ist und ein Holzstäbchen durch die Mitte sauber herauskommt.",
+        "es": "Hornear a temperatura moderada, bajando el calor a mitad de la cocción, hasta que esté bien dorado y un palillo insertado en el centro salga limpio.",
+        "fr": "Cuire à température modérée, en baissant la chaleur à mi-cuisson, jusqu'à une belle couleur dorée et qu'une brochette plantée au centre ressorte propre.",
+        "ro": "Coace la temperatură moderată, reducând căldura la jumătatea coacerii, până devine auriu-închis și o scobitoare prin mijloc iese curată."
       }
     },
     {
       "title": {
-        "en": "Cool and dust"
+        "en": "Cool and dust",
+        "de": "Abkühlen und bestäuben",
+        "es": "Enfriar y espolvorear",
+        "fr": "Refroidir et saupoudrer",
+        "ro": "Răcește și pudrează"
       },
       "summary": {
-        "en": "Cool briefly in the mold, then turn the loaf out fully before slicing it into star-shaped discs and burying them in vanilla-scented powdered sugar just before serving."
+        "en": "Cool briefly in the mold, then turn the loaf out fully before slicing it into star-shaped discs and burying them in vanilla-scented powdered sugar just before serving.",
+        "de": "Kurz in der Form abkühlen lassen, dann vollständig stürzen, bevor er in sternförmige Scheiben geschnitten und kurz vor dem Servieren in vanilleduftenden Puderzucker gehüllt wird.",
+        "es": "Dejar enfriar brevemente en el molde, luego desmoldar por completo antes de cortarlo en discos con forma de estrella y cubrirlo con azúcar glas aromatizado con vainilla justo antes de servir.",
+        "fr": "Laisser tiédir brièvement dans le moule, puis démouler complètement avant de le trancher en disques en forme d'étoile et de les couvrir de sucre glace parfumé à la vanille juste avant de servir.",
+        "ro": "Lasă la răcit puțin în formă, apoi răstoarnă complet înainte de a-l felia în discuri în formă de stea și de a le acoperi cu zahăr pudră aromat cu vanilie chiar înainte de servire."
       }
     }
   ],

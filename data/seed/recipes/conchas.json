@@ -153,58 +153,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anspringen lassen",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Stir the yeast and a little of the sugar into warm milk and let it sit until foamy."
+        "en": "Stir the yeast and a little of the sugar into warm milk and let it sit until foamy.",
+        "de": "Die Hefe und etwas Zucker in warme Milch einrühren und stehen lassen, bis es schäumt.",
+        "es": "Incorporar la levadura y un poco de azúcar en la leche tibia y dejar reposar hasta que espume.",
+        "fr": "Mélanger la levure et un peu de sucre dans le lait tiède et laisser reposer jusqu'à ce que ça mousse.",
+        "ro": "Amestecă drojdia și puțin zahăr în laptele călduț și lasă până face spumă."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine the flour, remaining sugar and salt, then work in the melted butter, beaten eggs and yeast mixture into a smooth, elastic dough."
+        "en": "Combine the flour, remaining sugar and salt, then work in the melted butter, beaten eggs and yeast mixture into a smooth, elastic dough.",
+        "de": "Das Mehl, den restlichen Zucker und das Salz vermengen, dann die geschmolzene Butter, die verquirlten Eier und die Hefemischung einarbeiten, bis ein glatter, elastischer Teig entsteht.",
+        "es": "Combinar la harina, el azúcar restante y la sal, luego incorporar la mantequilla derretida, los huevos batidos y la mezcla de levadura hasta lograr una masa lisa y elástica.",
+        "fr": "Combiner la farine, le reste du sucre et le sel, puis incorporer le beurre fondu, les œufs battus et le mélange de levure jusqu'à obtenir une pâte lisse et élastique.",
+        "ro": "Combină făina, zahărul rămas și sarea, apoi încorporează untul topit, ouăle bătute și amestecul de drojdie, până obții un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let the dough double at room temperature, about 2 hours."
+        "en": "Cover and let the dough double at room temperature, about 2 hours.",
+        "de": "Zugedeckt bei Raumtemperatur verdoppeln lassen, etwa 2 Stunden.",
+        "es": "Tapar y dejar que la masa doble su volumen a temperatura ambiente, unas 2 horas.",
+        "fr": "Couvrir et laisser la pâte doubler à température ambiante, environ 2 heures.",
+        "ro": "Acoperă și lasă aluatul să se dubleze la temperatura camerei, aproximativ 2 ore."
       }
     },
     {
       "title": {
-        "en": "Make the shell paste"
+        "en": "Make the shell paste",
+        "de": "Muschelpaste zubereiten",
+        "es": "Preparar la pasta de concha",
+        "fr": "Préparer la pâte à coquille",
+        "ro": "Pregătește pasta pentru scoici"
       },
       "summary": {
-        "en": "Beat flour, powdered sugar and softened butter together, then split the paste in two, flavouring one half with vanilla and the other with cocoa."
+        "en": "Beat flour, powdered sugar and softened butter together, then split the paste in two, flavouring one half with vanilla and the other with cocoa.",
+        "de": "Mehl, Puderzucker und weiche Butter verrühren, die Paste halbieren und eine Hälfte mit Vanille, die andere mit Kakao aromatisieren.",
+        "es": "Batir juntos harina, azúcar glas y mantequilla blanda, luego dividir la pasta en dos, aromatizando una mitad con vainilla y la otra con cacao.",
+        "fr": "Battre ensemble farine, sucre glace et beurre mou, puis diviser la pâte en deux, en parfumant une moitié à la vanille et l'autre au cacao.",
+        "ro": "Bate împreună făina, zahărul pudră și untul moale, apoi împarte pasta în două, aromatizând o jumătate cu vanilie și cealaltă cu cacao."
       }
     },
     {
       "title": {
-        "en": "Shape and top"
+        "en": "Shape and top",
+        "de": "Formen und belegen",
+        "es": "Formar y cubrir",
+        "fr": "Façonner et garnir",
+        "ro": "Modelează și decorează"
       },
       "summary": {
-        "en": "Divide the dough into balls, press a flattened disc of shell paste over each, and score the paste in a shell pattern with a knife."
+        "en": "Divide the dough into balls, press a flattened disc of shell paste over each, and score the paste in a shell pattern with a knife.",
+        "de": "Den Teig zu Kugeln formen, auf jede eine flache Scheibe Muschelpaste drücken und mit einem Messer ein Muschelmuster einritzen.",
+        "es": "Dividir la masa en bolas, presionar sobre cada una un disco aplanado de pasta y marcar el dibujo de concha con un cuchillo.",
+        "fr": "Diviser la pâte en boules, presser sur chacune un disque aplati de pâte à coquille, puis inciser le motif de coquille au couteau.",
+        "ro": "Împarte aluatul în bile, apasă pe fiecare un disc turtit de pastă și crestează cu un cuțit modelul de scoică."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Second apprêt",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Let the topped buns proof until puffy, about 1.5 hours."
+        "en": "Let the topped buns proof until puffy, about 1.5 hours.",
+        "de": "Die belegten Brötchen gehen lassen, bis sie aufgebläht sind, etwa 1.5 Stunden.",
+        "es": "Dejar fermentar los bollos decorados hasta que hinchen, unas 1.5 horas.",
+        "fr": "Laisser pousser les brioches garnies jusqu'à ce qu'elles gonflent, environ 1.5 heure.",
+        "ro": "Lasă brioșele decorate la dospit până se umflă, circa 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at around 177°C (350°F) for 18-25 minutes until the shell is set and lightly golden."
+        "en": "Bake at around 177°C (350°F) for 18-25 minutes until the shell is set and lightly golden.",
+        "de": "Bei etwa 177°C (350°F) 18-25 Minuten backen, bis die Kruste fest und leicht goldbraun ist.",
+        "es": "Hornear a unos 177°C (350°F) durante 18-25 minutos hasta que la concha esté firme y ligeramente dorada.",
+        "fr": "Cuire à environ 177°C (350°F) pendant 18-25 minutes jusqu'à ce que la coquille soit prise et légèrement dorée.",
+        "ro": "Coace la circa 177°C (350°F) timp de 18-25 de minute, până scoica se fixează și se rumenește ușor."
       }
     }
   ],

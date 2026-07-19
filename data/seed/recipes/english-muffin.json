@@ -134,50 +134,98 @@
   "method": [
     {
       "title": {
-        "en": "Preferment"
+        "en": "Preferment",
+        "de": "Vorteig",
+        "es": "Prefermento",
+        "fr": "Préferment",
+        "ro": "Prefermentul"
       },
       "summary": {
-        "en": "Whisk flour, a little yeast, milk and water into a thick batter and let it ferment a few hours at room temperature until bubbly and faintly tangy."
+        "en": "Whisk flour, a little yeast, milk and water into a thick batter and let it ferment a few hours at room temperature until bubbly and faintly tangy.",
+        "de": "Mehl, etwas Hefe, Milch und Wasser zu einem dicken Teig verquirlen und ein paar Stunden bei Raumtemperatur fermentieren lassen, bis er blasig und leicht säuerlich ist.",
+        "es": "Batir la harina, un poco de levadura, la leche y el agua hasta obtener una masa espesa y dejar fermentar unas horas a temperatura ambiente, hasta que esté burbujeante y ligeramente ácida.",
+        "fr": "Fouetter la farine, un peu de levure, le lait et l'eau en une pâte épaisse et laisser fermenter quelques heures à température ambiante, jusqu'à ce que ce soit plein de bulles et légèrement acidulé.",
+        "ro": "Bate făina, puțină drojdie, laptele și apa într-o compoziție groasă și lasă la fermentat câteva ore la temperatura camerei, până devine plină de bule și ușor acrișoară."
       }
     },
     {
       "title": {
-        "en": "Build the dough"
+        "en": "Build the dough",
+        "de": "Teig aufbauen",
+        "es": "Formar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Construiește aluatul"
       },
       "summary": {
-        "en": "Fold in the remaining flour, salt, sugar and melted butter and mix just until smooth."
+        "en": "Fold in the remaining flour, salt, sugar and melted butter and mix just until smooth.",
+        "de": "Das restliche Mehl, Salz, Zucker und geschmolzene Butter unterheben und nur mischen, bis es glatt ist.",
+        "es": "Incorporar la harina restante, la sal, el azúcar y la mantequilla derretida, y mezclar solo hasta que quede lisa.",
+        "fr": "Incorporer le reste de la farine, le sel, le sucre et le beurre fondu, et mélanger juste assez pour obtenir une pâte lisse.",
+        "ro": "Încorporează restul de făină, sarea, zahărul și untul topit, și amestecă doar cât să devină neted."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let the dough rise twice, about an hour each time, folding gently between rises to build structure."
+        "en": "Let the dough rise twice, about an hour each time, folding gently between rises to build structure.",
+        "de": "Den Teig zweimal gehen lassen, jeweils etwa eine Stunde, dazwischen sanft falten, um Struktur aufzubauen.",
+        "es": "Dejar fermentar la masa dos veces, una hora aproximadamente cada vez, plegando con suavidad entre fermentaciones para desarrollar estructura.",
+        "fr": "Laisser lever la pâte deux fois, environ une heure à chaque fois, en rabattant délicatement entre les deux pour développer la structure.",
+        "ro": "Lasă aluatul la crescut de două ori, aproximativ o oră de fiecare dată, pliind delicat între cele două creșteri, pentru a construi structură."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Turn the dough out onto a cornmeal-dusted surface, pat it down, and cut into rounds, or drop scoops into greased rings."
+        "en": "Turn the dough out onto a cornmeal-dusted surface, pat it down, and cut into rounds, or drop scoops into greased rings.",
+        "de": "Den Teig auf eine mit Maismehl bestäubte Fläche geben, flach drücken und Runde ausstechen, oder Portionen in gefettete Ringe geben.",
+        "es": "Volcar la masa sobre una superficie espolvoreada con harina de maíz, aplanarla y cortar círculos, o dejar caer porciones en aros engrasados.",
+        "fr": "Renverser la pâte sur un plan de travail saupoudré de semoule de maïs, l'aplatir et découper des ronds, ou déposer des portions dans des cercles graissés.",
+        "ro": "Răstoarnă aluatul pe o suprafață presărată cu mălai, presează-l ușor și decupează rotocoale, sau pune porții în inele unse."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Let the shaped rounds relax 20–30 minutes so they puff slightly before cooking."
+        "en": "Let the shaped rounds relax 20–30 minutes so they puff slightly before cooking.",
+        "de": "Die geformten Runde 20-30 Minuten entspannen lassen, damit sie vor dem Backen leicht aufpuffen.",
+        "es": "Dejar relajar los discos formados 20-30 minutos para que se hinchen un poco antes de cocinarlos.",
+        "fr": "Laisser détendre les ronds façonnés 20-30 minutes pour qu'ils gonflent légèrement avant la cuisson.",
+        "ro": "Lasă rotocoalele modelate să se relaxeze 20-30 de minute, ca să se umfle puțin înainte de coacere."
       }
     },
     {
       "title": {
-        "en": "Griddle cook"
+        "en": "Griddle cook",
+        "de": "Auf der Platte backen",
+        "es": "Cocinar en la plancha",
+        "fr": "Cuisson à la plaque",
+        "ro": "Coace pe plită"
       },
       "summary": {
-        "en": "Cook low and slow on a dry griddle, 10–15 minutes per side, until deeply golden with no raw center and no hard crust."
+        "en": "Cook low and slow on a dry griddle, 10–15 minutes per side, until deeply golden with no raw center and no hard crust.",
+        "de": "Bei niedriger Hitze langsam auf einer trockenen Platte backen, 10-15 Minuten pro Seite, bis tief golden, ohne rohe Mitte und ohne harte Kruste.",
+        "es": "Cocinar a fuego bajo y lento en una plancha seca, 10-15 minutos por lado, hasta dorar profundamente, sin centro crudo ni corteza dura.",
+        "fr": "Cuire à feu doux et lentement sur une plaque sèche, 10-15 minutes par face, jusqu'à une belle couleur dorée, sans centre cru ni croûte dure.",
+        "ro": "Coace la foc mic, încet, pe o plită uscată, 10-15 minute pe fiecare parte, până devine auriu-închis, fără miez crud și fără coajă tare."
       }
     }
   ],

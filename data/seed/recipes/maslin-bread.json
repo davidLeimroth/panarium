@@ -128,58 +128,114 @@
   "method": [
     {
       "title": {
-        "en": "Feed the starter"
+        "en": "Feed the starter",
+        "de": "Anstellgut füttern",
+        "es": "Alimentar la masa madre",
+        "fr": "Nourrir le levain",
+        "ro": "Hrănește maiaua"
       },
       "summary": {
-        "en": "Make sure the sourdough starter is active and bubbly before you begin; a vigorous starter carries this loaf without any added yeast."
+        "en": "Make sure the sourdough starter is active and bubbly before you begin; a vigorous starter carries this loaf without any added yeast.",
+        "de": "Achte darauf, dass das Anstellgut aktiv und blasig ist, bevor du beginnst; ein kräftiges Anstellgut trägt dieses Brot ganz ohne zugesetzte Hefe.",
+        "es": "Asegurarse de que la masa madre esté activa y burbujeante antes de empezar; una masa madre vigorosa leva este pan sin levadura añadida.",
+        "fr": "Vérifier que le levain est actif et plein de bulles avant de commencer ; un levain vigoureux fait lever ce pain sans aucune levure ajoutée.",
+        "ro": "Asigură-te că maiaua este activă și cu bule înainte să începi; o maia puternică dospește această pâine fără drojdie adăugată."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the wholemeal wheat, rye and barley flours with warm water, salt and starter into a shaggy dough."
+        "en": "Combine the wholemeal wheat, rye and barley flours with warm water, salt and starter into a shaggy dough.",
+        "de": "Vollkornweizen-, Roggen- und Gerstenmehl mit warmem Wasser, Salz und Anstellgut zu einem groben Teig verrühren.",
+        "es": "Combinar las harinas integrales de trigo, centeno y cebada con agua tibia, sal y masa madre hasta obtener una masa basta.",
+        "fr": "Mélanger les farines complètes de blé, de seigle et d'orge avec de l'eau tiède, le sel et le levain jusqu'à obtenir une pâte grossière.",
+        "ro": "Combină făina integrală de grâu, secară și orz cu apă călduță, sare și maia, până obții un aluat grosier."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead about 7 minutes until the dough turns smooth and springs back when pressed."
+        "en": "Knead about 7 minutes until the dough turns smooth and springs back when pressed.",
+        "de": "Etwa 7 Minuten kneten, bis der Teig glatt wird und beim Eindrücken zurückfedert.",
+        "es": "Amasar unos 7 minutos hasta que la masa quede lisa y recupere su forma al presionarla.",
+        "fr": "Pétrir environ 7 minutes jusqu'à ce que la pâte devienne lisse et reprenne sa forme sous la pression du doigt.",
+        "ro": "Frământă aproximativ 7 minute până când aluatul devine neted și revine la apăsare."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and leave at room temperature until nearly doubled, roughly 4-5 hours depending on the starter's strength."
+        "en": "Cover and leave at room temperature until nearly doubled, roughly 4-5 hours depending on the starter's strength.",
+        "de": "Abdecken und bei Raumtemperatur ruhen lassen, bis sich der Teig fast verdoppelt hat, je nach Triebkraft des Anstellguts etwa 4-5 Stunden.",
+        "es": "Tapar y dejar reposar a temperatura ambiente hasta casi doblar el volumen, unas 4-5 horas según la fuerza de la masa madre.",
+        "fr": "Couvrir et laisser à température ambiante jusqu'à ce que la pâte ait presque doublé, environ 4-5 heures selon la force du levain.",
+        "ro": "Acoperă și lasă la temperatura camerei până aproape se dublează, aproximativ 4-5 ore, în funcție de puterea maielei."
       }
     },
     {
       "title": {
-        "en": "Shape and proof"
+        "en": "Shape and proof",
+        "de": "Formen und gehen lassen",
+        "es": "Formar y fermentar",
+        "fr": "Façonner et pousser",
+        "ro": "Modelează și lasă la dospit"
       },
       "summary": {
-        "en": "Shape into a round loaf and rest a further 30 minutes."
+        "en": "Shape into a round loaf and rest a further 30 minutes.",
+        "de": "Zu einem runden Laib formen und weitere 30 Minuten ruhen lassen.",
+        "es": "Formar una hogaza redonda y dejar reposar 30 minutos más.",
+        "fr": "Façonner en boule et laisser reposer encore 30 minutes.",
+        "ro": "Modelează o pâine rotundă și lasă la dospit încă 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 230°C for 10 minutes, then drop to 200°C for about 40 minutes more, until deeply colored and hollow-sounding when tapped."
+        "en": "Bake at 230°C for 10 minutes, then drop to 200°C for about 40 minutes more, until deeply colored and hollow-sounding when tapped.",
+        "de": "10 Minuten bei 230°C backen, dann auf 200°C reduzieren und weitere etwa 40 Minuten backen, bis die Kruste dunkel ist und der Laib beim Klopfen hohl klingt.",
+        "es": "Hornear a 230°C durante 10 minutos, luego bajar a 200°C unos 40 minutos más, hasta que esté bien dorado y suene hueco al golpearlo.",
+        "fr": "Cuire à 230°C pendant 10 minutes, puis baisser à 200°C environ 40 minutes de plus, jusqu'à une croûte bien colorée qui sonne creux.",
+        "ro": "Coace la 230°C timp de 10 minute, apoi redu la 200°C pentru încă aproximativ 40 de minute, până se rumenește bine și sună a gol la ciocănit."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Laisser refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool fully on a rack before cutting; the crumb is coarser and denser than a pure wheat loaf."
+        "en": "Cool fully on a rack before cutting; the crumb is coarser and denser than a pure wheat loaf.",
+        "de": "Vollständig auf einem Gitter abkühlen lassen, bevor du anschneidest; die Krume ist gröber und dichter als bei einem reinen Weizenbrot.",
+        "es": "Dejar enfriar por completo sobre una rejilla antes de cortar; la miga es más basta y densa que la de un pan de trigo puro.",
+        "fr": "Laisser refroidir complètement sur une grille avant de couper ; la mie est plus grossière et plus dense qu'un pain de blé pur.",
+        "ro": "Lasă să se răcească complet pe un grătar înainte de a tăia; miezul este mai aspru și mai dens decât la o pâine din grâu pur."
       }
     }
   ],

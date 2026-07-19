@@ -104,50 +104,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix the batter"
+        "en": "Mix the batter",
+        "de": "Teig anrühren",
+        "es": "Preparar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Pregătește compoziția"
       },
       "summary": {
-        "en": "Whisk teff flour with water (and a spoonful of ersho starter if you have one) into a smooth, thin batter, thinner than pancake batter."
+        "en": "Whisk teff flour with water (and a spoonful of ersho starter if you have one) into a smooth, thin batter, thinner than pancake batter.",
+        "de": "Teff-Mehl mit Wasser (und einem Löffel Ersho-Starter, falls vorhanden) zu einem glatten, dünnen Teig verrühren, dünner als Pfannkuchenteig.",
+        "es": "Batir la harina de teff con agua (y una cucharada de fermento ersho si tienes) hasta obtener una masa lisa y fina, más líquida que la de las tortitas.",
+        "fr": "Fouetter la farine de teff avec de l'eau (et une cuillerée de ferment ersho si vous en avez) en une pâte lisse et fine, plus liquide qu'une pâte à crêpes.",
+        "ro": "Amestecă făina de teff cu apă (și o lingură de maia ersho, dacă ai) într-o compoziție netedă și subțire, mai lichidă decât aluatul de clătite."
       }
     },
     {
       "title": {
-        "en": "Ferment"
+        "en": "Ferment",
+        "de": "Gären lassen",
+        "es": "Fermentar",
+        "fr": "Fermenter",
+        "ro": "Fermentează"
       },
       "summary": {
-        "en": "Cover loosely and leave at warm room temperature for 2-5 days, until it smells pleasantly sour and is full of tiny bubbles."
+        "en": "Cover loosely and leave at warm room temperature for 2-5 days, until it smells pleasantly sour and is full of tiny bubbles.",
+        "de": "Locker zudecken und 2-5 Tage bei warmer Raumtemperatur stehen lassen, bis es angenehm säuerlich riecht und voller winziger Bläschen ist.",
+        "es": "Tapar holgadamente y dejar a temperatura ambiente cálida durante 2-5 días, hasta que huela agradablemente ácido y esté lleno de burbujitas.",
+        "fr": "Couvrir sans serrer et laisser à température ambiante chaude pendant 2-5 jours, jusqu'à ce que ça sente agréablement l'acidité et soit plein de petites bulles.",
+        "ro": "Acoperă lejer și lasă la temperatura camerei, într-un loc călduț, timp de 2-5 zile, până miroase plăcut acrișor și e plină de bule mici."
       }
     },
     {
       "title": {
-        "en": "Season"
+        "en": "Season",
+        "de": "Würzen",
+        "es": "Sazonar",
+        "fr": "Assaisonner",
+        "ro": "Condimentează"
       },
       "summary": {
-        "en": "Stir in the salt just before cooking; the fermentation itself is done without salt."
+        "en": "Stir in the salt just before cooking; the fermentation itself is done without salt.",
+        "de": "Das Salz erst kurz vor dem Backen einrühren; die Gärung selbst erfolgt ohne Salz.",
+        "es": "Incorporar la sal justo antes de cocinar; la fermentación en sí se hace sin sal.",
+        "fr": "Incorporer le sel juste avant la cuisson; la fermentation elle-même se fait sans sel.",
+        "ro": "Încorporează sarea chiar înainte de coacere; fermentarea propriu-zisă se face fără sare."
       }
     },
     {
       "title": {
-        "en": "Pour & spread"
+        "en": "Pour & spread",
+        "de": "Gießen & verteilen",
+        "es": "Verter y extender",
+        "fr": "Verser et étaler",
+        "ro": "Toarnă și întinde"
       },
       "summary": {
-        "en": "Pour a ladleful onto a hot, lightly greased wide griddle or non-stick pan, swirling quickly to spread it thin and even."
+        "en": "Pour a ladleful onto a hot, lightly greased wide griddle or non-stick pan, swirling quickly to spread it thin and even.",
+        "de": "Eine Kelle voll auf eine heiße, leicht gefettete breite Platte oder beschichtete Pfanne gießen und schnell schwenken, um sie dünn und gleichmäßig zu verteilen.",
+        "es": "Verter un cucharón sobre una plancha ancha o sartén antiadherente caliente y ligeramente engrasada, girando rápido para extenderla fina y uniforme.",
+        "fr": "Verser une louche sur une grande plaque ou poêle antiadhésive chaude et légèrement graissée, en faisant tourner rapidement pour l'étaler fine et régulière.",
+        "ro": "Toarnă un polonic pe o plită largă sau tigaie antiaderentă fierbinte și unsă ușor, rotind repede pentru a o întinde subțire și uniform."
       }
     },
     {
       "title": {
-        "en": "Steam-cook"
+        "en": "Steam-cook",
+        "de": "Dampfgaren",
+        "es": "Cocinar al vapor",
+        "fr": "Cuire à la vapeur",
+        "ro": "Fierbe la abur"
       },
       "summary": {
-        "en": "Cover with a lid and let it steam-cook on one side only until the surface is covered in tiny holes ('eyes') and the edges lift cleanly."
+        "en": "Cover with a lid and let it steam-cook on one side only until the surface is covered in tiny holes ('eyes') and the edges lift cleanly.",
+        "de": "Mit einem Deckel abdecken und nur auf einer Seite dampfgaren, bis die Oberfläche voller kleiner Löcher ('Augen') ist und sich die Ränder sauber lösen.",
+        "es": "Tapar con una tapa y dejar que se cocine al vapor solo por un lado hasta que la superficie esté cubierta de agujeritos ('ojos') y los bordes se despeguen limpiamente.",
+        "fr": "Couvrir d'un couvercle et laisser cuire à la vapeur d'un seul côté jusqu'à ce que la surface soit couverte de petits trous (« yeux ») et que les bords se détachent proprement.",
+        "ro": "Acoperă cu un capac și lasă să se coacă la abur doar pe o parte, până suprafața se acoperă de găurele mici ('ochi') și marginile se desprind curat."
       }
     },
     {
       "title": {
-        "en": "Cool flat"
+        "en": "Cool flat",
+        "de": "Flach auskühlen",
+        "es": "Enfriar en plano",
+        "fr": "Refroidir à plat",
+        "ro": "Răcește întinsă"
       },
       "summary": {
-        "en": "Slide onto a clean cloth or tray to cool uncovered so it stays pliable rather than turning gummy."
+        "en": "Slide onto a clean cloth or tray to cool uncovered so it stays pliable rather than turning gummy.",
+        "de": "Auf ein sauberes Tuch oder Tablett gleiten lassen und offen auskühlen, damit es geschmeidig bleibt, statt gummiartig zu werden.",
+        "es": "Deslizar sobre un paño limpio o una bandeja para que se enfríe destapada y se mantenga flexible en vez de volverse gomosa.",
+        "fr": "Faire glisser sur un torchon propre ou un plateau pour refroidir à découvert afin qu'elle reste souple plutôt que de devenir gommeuse.",
+        "ro": "Alunecă pe un prosop curat sau o tavă și lasă la răcit neacoperită, ca să rămână flexibilă, nu gumoasă."
       }
     }
   ],

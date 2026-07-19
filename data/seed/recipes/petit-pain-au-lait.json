@@ -123,50 +123,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom"
+        "en": "Bloom",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Délayer la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast in warm milk."
+        "en": "Dissolve the yeast in warm milk.",
+        "de": "Die Hefe in warmer Milch auflösen.",
+        "es": "Disolver la levadura en leche tibia.",
+        "fr": "Délayer la levure dans le lait tiède.",
+        "ro": "Dizolvă drojdia în lapte călduț."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, sugar, salt and egg white, then work in the milk-yeast mixture and soft butter; knead about ten minutes until smooth and elastic."
+        "en": "Combine flour, sugar, salt and egg white, then work in the milk-yeast mixture and soft butter; knead about ten minutes until smooth and elastic.",
+        "de": "Mehl, Zucker, Salz und Eiweiß vermengen, dann die Milch-Hefe-Mischung und weiche Butter einarbeiten; etwa zehn Minuten kneten, bis der Teig glatt und elastisch ist.",
+        "es": "Combinar la harina, el azúcar, la sal y la clara de huevo, luego incorporar la mezcla de leche y levadura y la mantequilla blanda; amasar unos diez minutos hasta que quede lisa y elástica.",
+        "fr": "Combiner la farine, le sucre, le sel et le blanc d'œuf, puis incorporer le mélange lait-levure et le beurre mou ; pétrir environ dix minutes jusqu'à ce qu'elle soit lisse et élastique.",
+        "ro": "Combină făina, zahărul, sarea și albușul, apoi încorporează amestecul de lapte cu drojdie și untul moale; frământă aproximativ zece minute până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let rise about 90 minutes until doubled."
+        "en": "Let rise about 90 minutes until doubled.",
+        "de": "Etwa 90 Minuten gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Dejar fermentar unos 90 minutos hasta que doble su tamaño.",
+        "fr": "Laisser pousser environ 90 minutes jusqu'à ce qu'elle double.",
+        "ro": "Lasă la crescut aproximativ 90 de minute, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into small rolls and place on a lined tray."
+        "en": "Divide into small rolls and place on a lined tray.",
+        "de": "In kleine Brötchen teilen und auf ein ausgelegtes Blech setzen.",
+        "es": "Dividir en panecillos pequeños y colocarlos sobre una bandeja forrada.",
+        "fr": "Diviser en petits pains et déposer sur une plaque chemisée.",
+        "ro": "Împarte în chifle mici și așază-le pe o tavă căptușită."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof 30-45 minutes."
+        "en": "Proof 30-45 minutes.",
+        "de": "30-45 Minuten gehen lassen.",
+        "es": "Dejar fermentar 30-45 minutos.",
+        "fr": "Laisser pousser 30-45 minutes.",
+        "ro": "Lasă la dospit 30-45 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Brush with beaten egg yolk, snip the tops, and bake until golden."
+        "en": "Brush with beaten egg yolk, snip the tops, and bake until golden.",
+        "de": "Mit verquirltem Eigelb bestreichen, die Oberseite einschneiden und backen, bis sie goldbraun sind.",
+        "es": "Pincelar con yema batida, hacer un pequeño corte encima y hornear hasta que estén dorados.",
+        "fr": "Badigeonner de jaune d'œuf battu, entailler le dessus, et cuire jusqu'à coloration dorée.",
+        "ro": "Unge cu gălbenuș bătut, crestează ușor deasupra și coace până devin aurii."
       }
     }
   ],

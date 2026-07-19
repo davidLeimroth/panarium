@@ -125,58 +125,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Sauerteig ansetzen",
+        "es": "Preparar el fermento",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua"
       },
       "summary": {
-        "en": "Mix rye starter, rye flour and water; ferment 8-10 hours at a warm 30°C until doubled."
+        "en": "Mix rye starter, rye flour and water; ferment 8-10 hours at a warm 30°C until doubled.",
+        "de": "Roggenanstellgut, Roggenmehl und Wasser mischen; 8-10 Stunden bei warmen 30°C fermentieren, bis er sich verdoppelt hat.",
+        "es": "Mezclar masa madre de centeno, harina de centeno y agua; fermentar 8-10 horas a unos cálidos 30°C hasta duplicar.",
+        "fr": "Mélanger le levain de seigle, la farine de seigle et l'eau; laisser fermenter 8-10 heures à une chaleur de 30°C jusqu'au double.",
+        "ro": "Amestecă maiaua de secară, făina de secară și apa; lasă la fermentat 8-10 ore la o temperatură caldă de 30°C, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine the levain with bread flour, more rye flour, water, molasses, sugar and salt."
+        "en": "Combine the levain with bread flour, more rye flour, water, molasses, sugar and salt.",
+        "de": "Den Sauerteig mit Brotmehl, weiterem Roggenmehl, Wasser, Melasse, Zucker und Salz verbinden.",
+        "es": "Combinar el fermento con harina de fuerza, más harina de centeno, agua, melaza, azúcar y sal.",
+        "fr": "Combiner le levain avec la farine de force, davantage de farine de seigle, l'eau, la mélasse, le sucre et le sel.",
+        "ro": "Combină maiaua cu făină de pâine, mai multă făină de secară, apă, melasă, zahăr și sare."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Mix by hand then with a dough hook a few minutes to a smooth, cohesive dough."
+        "en": "Mix by hand then with a dough hook a few minutes to a smooth, cohesive dough.",
+        "de": "Von Hand, dann mit dem Knethaken ein paar Minuten zu einem glatten, zusammenhängenden Teig mischen.",
+        "es": "Mezclar a mano y luego con gancho amasador unos minutos hasta obtener una masa lisa y cohesionada.",
+        "fr": "Mélanger à la main puis au crochet pétrisseur quelques minutes pour une pâte lisse et homogène.",
+        "ro": "Amestecă manual, apoi cu cârligul de frământat câteva minute, până obții un aluat neted și omogen."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and rest in a warm spot about 1.5 hours."
+        "en": "Cover and rest in a warm spot about 1.5 hours.",
+        "de": "Zugedeckt an einem warmen Ort etwa 1.5 Stunden ruhen lassen.",
+        "es": "Tapar y dejar reposar en un lugar cálido aproximadamente 1.5 horas.",
+        "fr": "Couvrir et laisser reposer dans un endroit chaud environ 1.5 heure.",
+        "ro": "Acoperă și lasă la odihnă într-un loc călduț aproximativ 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Shape and proof"
+        "en": "Shape and proof",
+        "de": "Formen und gehen lassen",
+        "es": "Formar y fermentar",
+        "fr": "Façonner et pousser",
+        "ro": "Modelează și lasă la dospit"
       },
       "summary": {
-        "en": "Shape into pan loaves, dust with rye flour, and proof until just under the rim, about 1.5 hours."
+        "en": "Shape into pan loaves, dust with rye flour, and proof until just under the rim, about 1.5 hours.",
+        "de": "Zu Kastenlaiben formen, mit Roggenmehl bestäuben und gehen lassen, bis knapp unter den Rand, etwa 1.5 Stunden.",
+        "es": "Dar forma de pan de molde, espolvorear con harina de centeno y dejar fermentar hasta casi el borde, unas 1.5 horas.",
+        "fr": "Façonner en pains de mie, saupoudrer de farine de seigle et laisser pousser juste sous le bord, environ 1.5 heure.",
+        "ro": "Modelează în pâini de formă, presară cu făină de secară și lasă la dospit până aproape de margine, aproximativ 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot with steam for the first stretch, then reduce heat and finish without steam."
+        "en": "Bake hot with steam for the first stretch, then reduce heat and finish without steam.",
+        "de": "Zunächst heiß mit Schwaden backen, dann die Hitze reduzieren und ohne Schwaden fertig backen.",
+        "es": "Hornear caliente con vapor al principio, luego reducir el calor y terminar sin vapor.",
+        "fr": "Cuire chaud avec buée au début, puis réduire la chaleur et terminer sans buée.",
+        "ro": "Coace fierbinte cu abur la început, apoi redu focul și termină fără abur."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Spritz with water and cool completely before slicing."
+        "en": "Spritz with water and cool completely before slicing.",
+        "de": "Mit Wasser besprühen und vollständig auskühlen lassen, bevor angeschnitten wird.",
+        "es": "Rociar con agua y dejar enfriar por completo antes de cortar.",
+        "fr": "Vaporiser d'eau et laisser refroidir complètement avant de trancher.",
+        "ro": "Stropește cu apă și lasă să se răcească complet înainte de feliere."
       }
     }
   ],

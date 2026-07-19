@@ -135,58 +135,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the poolish"
+        "en": "Build the poolish",
+        "de": "Poolish ansetzen",
+        "es": "Preparar el poolish",
+        "fr": "Préparer le poolish",
+        "ro": "Pregătește poolish-ul"
       },
       "summary": {
-        "en": "Stir flour, water and a pinch of yeast together, ferment at room temperature about 8 hours, then refrigerate until the next day."
+        "en": "Stir flour, water and a pinch of yeast together, ferment at room temperature about 8 hours, then refrigerate until the next day.",
+        "de": "Mehl, Wasser und eine Prise Hefe verrühren, etwa 8 Stunden bei Raumtemperatur gären lassen, dann bis zum nächsten Tag kühl stellen.",
+        "es": "Mezclar la harina, el agua y una pizca de levadura, fermentar a temperatura ambiente unas 8 horas, luego refrigerar hasta el día siguiente.",
+        "fr": "Mélanger farine, eau et une pincée de levure, fermenter à température ambiante environ 8 heures, puis réfrigérer jusqu'au lendemain.",
+        "ro": "Amestecă făina, apa și un praf de drojdie, lasă la fermentat la temperatura camerei aproximativ 8 ore, apoi dă la frigider până a doua zi."
       }
     },
     {
       "title": {
-        "en": "Bloom yeast"
+        "en": "Bloom yeast",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Délayer la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Let the poolish come to room temperature, then bloom the remaining yeast in warm water with the sugar."
+        "en": "Let the poolish come to room temperature, then bloom the remaining yeast in warm water with the sugar.",
+        "de": "Den Poolish auf Raumtemperatur kommen lassen, dann die restliche Hefe mit dem Zucker in warmem Wasser auflösen.",
+        "es": "Dejar que el poolish llegue a temperatura ambiente, luego activar el resto de la levadura en agua tibia con el azúcar.",
+        "fr": "Laisser le poolish revenir à température ambiante, puis délayer le reste de la levure dans l'eau tiède avec le sucre.",
+        "ro": "Lasă poolish-ul să ajungă la temperatura camerei, apoi dizolvă restul de drojdie în apă călduță cu zahărul."
       }
     },
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Beat in the lard and poolish, then gradually mix in the flour and salt to a soft dough."
+        "en": "Beat in the lard and poolish, then gradually mix in the flour and salt to a soft dough.",
+        "de": "Das Schmalz und den Poolish einrühren, dann Mehl und Salz nach und nach zu einem weichen Teig einarbeiten.",
+        "es": "Batir con la manteca y el poolish, luego mezclar poco a poco la harina y la sal hasta lograr una masa suave.",
+        "fr": "Incorporer le saindoux et le poolish, puis mélanger peu à peu la farine et le sel jusqu'à obtenir une pâte souple.",
+        "ro": "Adaugă untura și poolish-ul, apoi încorporează treptat făina și sarea până obții un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Knead & rise"
+        "en": "Knead & rise",
+        "de": "Kneten & gehen lassen",
+        "es": "Amasar y fermentar",
+        "fr": "Pétrir & pousser",
+        "ro": "Frământă și lasă la crescut"
       },
       "summary": {
-        "en": "Knead about 10 minutes until smooth, then let rise in an oiled bowl until doubled, about an hour."
+        "en": "Knead about 10 minutes until smooth, then let rise in an oiled bowl until doubled, about an hour.",
+        "de": "Etwa 10 Minuten kneten, bis er glatt ist, dann in einer geölten Schüssel bis zur Verdopplung gehen lassen, etwa eine Stunde.",
+        "es": "Amasar unos 10 minutos hasta que quede lisa, luego dejar fermentar en un bol aceitado hasta que doble, aproximadamente una hora.",
+        "fr": "Pétrir environ 10 minutes jusqu'à obtenir une pâte lisse, puis laisser lever dans un saladier huilé jusqu'au double, environ une heure.",
+        "ro": "Frământă aproximativ 10 minute până devine neted, apoi lasă la crescut într-un bol uns cu ulei până se dublează, aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Punch down, divide in two, and roll each half by hand into a 12-inch log."
+        "en": "Punch down, divide in two, and roll each half by hand into a 12-inch log.",
+        "de": "Den Teig entgasen, halbieren und jede Hälfte von Hand zu einem 30-cm-Strang rollen.",
+        "es": "Desgasificar, dividir en dos y enrollar cada mitad a mano en un tronco de 30 cm.",
+        "fr": "Dégazer, diviser en deux et rouler chaque moitié à la main en un boudin de 30 cm.",
+        "ro": "Elimină gazele, împarte în două și rulează fiecare jumătate cu mâna într-un baton de 30 cm."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof on a lined sheet pan until doubled, 30-60 minutes."
+        "en": "Proof on a lined sheet pan until doubled, 30-60 minutes.",
+        "de": "Auf einem ausgelegten Blech bis zur Verdopplung gehen lassen, 30-60 Minuten.",
+        "es": "Fermentar en una bandeja forrada hasta que doble, 30-60 minutos.",
+        "fr": "Faire pousser sur une plaque garnie jusqu'au double, 30-60 minutes.",
+        "ro": "Lasă la dospit pe o tavă căptușită până se dublează, 30-60 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake with steam"
+        "en": "Bake with steam",
+        "de": "Mit Schwaden backen",
+        "es": "Hornear con vapor",
+        "fr": "Cuire avec buée",
+        "ro": "Coace cu abur"
       },
       "summary": {
-        "en": "Bake in a hot oven with a pan of ice for a burst of steam, until golden and hollow-sounding, 15-20 minutes."
+        "en": "Bake in a hot oven with a pan of ice for a burst of steam, until golden and hollow-sounding, 15-20 minutes.",
+        "de": "In einem heißen Ofen mit einer Schale Eiswürfel für einen Dampfstoß backen, bis er goldbraun ist und hohl klingt, 15-20 Minuten.",
+        "es": "Hornear en un horno caliente con una bandeja de hielo para un golpe de vapor, hasta que esté dorado y suene hueco, 15-20 minutos.",
+        "fr": "Cuire dans un four chaud avec un plat de glaçons pour un coup de buée, jusqu'à coloration dorée et son creux au toc, 15-20 minutes.",
+        "ro": "Coace într-un cuptor fierbinte cu o tavă de gheață pentru un val de abur, până devine auriu și sună a gol, 15-20 de minute."
       }
     }
   ],

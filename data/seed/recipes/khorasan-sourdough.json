@@ -114,58 +114,114 @@
   "method": [
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Mix the bread flour, whole grain Kamut and water; cover and rest 1-2 hours."
+        "en": "Mix the bread flour, whole grain Kamut and water; cover and rest 1-2 hours.",
+        "de": "Brotmehl, Vollkorn-Kamut und Wasser vermischen, abdecken und 1-2 Stunden ruhen lassen.",
+        "es": "Mezclar la harina de fuerza, el Kamut integral y el agua; tapar y dejar reposar 1-2 horas.",
+        "fr": "Mélanger la farine à pain, le Kamut complet et l'eau ; couvrir et laisser reposer 1-2 heures.",
+        "ro": "Amestecă făina de pâine, Kamut integral și apa; acoperă și lasă la odihnă 1-2 ore."
       }
     },
     {
       "title": {
-        "en": "Mix in starter and salt"
+        "en": "Mix in starter and salt",
+        "de": "Anstellgut und Salz einarbeiten",
+        "es": "Añadir masa madre y sal",
+        "fr": "Incorporer le levain et le sel",
+        "ro": "Adaugă maiaua și sarea"
       },
       "summary": {
-        "en": "Add the active starter and salt, mix well, and rest 30-40 minutes."
+        "en": "Add the active starter and salt, mix well, and rest 30-40 minutes.",
+        "de": "Das aktive Anstellgut und das Salz zugeben, gut vermischen und 30-40 Minuten ruhen lassen.",
+        "es": "Añadir la masa madre activa y la sal, mezclar bien y dejar reposar 30-40 minutos.",
+        "fr": "Ajouter le levain actif et le sel, bien mélanger et laisser reposer 30-40 minutes.",
+        "ro": "Adaugă maiaua activă și sarea, amestecă bine și lasă la odihnă 30-40 de minute."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Perform 4-6 stretch-and-folds every 20-30 minutes, then let the dough continue fermenting 6-12 hours depending on temperature."
+        "en": "Perform 4-6 stretch-and-folds every 20-30 minutes, then let the dough continue fermenting 6-12 hours depending on temperature.",
+        "de": "4-6 Dehn-und-Falten-Serien im Abstand von 20-30 Minuten durchführen, dann den Teig je nach Temperatur 6-12 Stunden weiter fermentieren lassen.",
+        "es": "Hacer 4-6 series de estirar y doblar cada 20-30 minutos, luego dejar que la masa siga fermentando 6-12 horas según la temperatura.",
+        "fr": "Faire 4-6 séries de rabats toutes les 20-30 minutes, puis laisser le pointage se poursuivre 6-12 heures selon la température.",
+        "ro": "Fă 4-6 serii de întindere și pliere la fiecare 20-30 de minute, apoi lasă aluatul să fermenteze în continuare 6-12 ore, în funcție de temperatură."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Pre-shape and rest 15-20 minutes, then shape into a boule or bâtard."
+        "en": "Pre-shape and rest 15-20 minutes, then shape into a boule or bâtard.",
+        "de": "Vorformen und 15-20 Minuten ruhen lassen, dann zu einer Boule oder einem Bâtard formen.",
+        "es": "Preformar y dejar reposar 15-20 minutos, luego formar una boule o un bâtard.",
+        "fr": "Préformer et laisser reposer 15-20 minutes, puis façonner en boule ou en bâtard.",
+        "ro": "Preformează și lasă la odihnă 15-20 de minute, apoi modelează în formă de boule sau bâtard."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof 60-90 minutes at room temperature, or refrigerate 6-10 hours for a fuller flavor."
+        "en": "Proof 60-90 minutes at room temperature, or refrigerate 6-10 hours for a fuller flavor.",
+        "de": "60-90 Minuten bei Raumtemperatur zur Stückgare bringen, oder für ein volleres Aroma 6-10 Stunden kalt stellen.",
+        "es": "Dejar fermentar 60-90 minutos a temperatura ambiente, o refrigerar 6-10 horas para un sabor más profundo.",
+        "fr": "Laisser l'apprêt 60-90 minutes à température ambiante, ou réfrigérer 6-10 heures pour un goût plus prononcé.",
+        "ro": "Lasă la dospit 60-90 de minute la temperatura camerei, sau la frigider 6-10 ore pentru o aromă mai plină."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a preheated, covered Dutch oven at a high heat for about 30 minutes, then uncover and bake roughly 10 minutes more until deep golden and over 96°C internally."
+        "en": "Bake in a preheated, covered Dutch oven at a high heat for about 30 minutes, then uncover and bake roughly 10 minutes more until deep golden and over 96°C internally.",
+        "de": "Im vorgeheizten, geschlossenen Bräter bei hoher Hitze etwa 30 Minuten backen, dann den Deckel abnehmen und rund 10 weitere Minuten backen, bis der Laib tief goldbraun ist und die Kerntemperatur über 96°C liegt.",
+        "es": "Hornear en una olla de hierro precalentada y tapada a fuego alto unos 30 minutos, luego destapar y hornear unos 10 minutos más hasta que esté bien dorado y supere los 96°C en el interior.",
+        "fr": "Cuire en cocotte en fonte préchauffée et couverte à haute température environ 30 minutes, puis découvrir et poursuivre environ 10 minutes de plus jusqu'à belle coloration dorée et plus de 96°C à cœur.",
+        "ro": "Coace în vas de fontă preîncălzit și acoperit, la temperatură mare, aproximativ 30 de minute, apoi descoperă și mai coace circa 10 minute până e auriu-închis și trece de 96°C în interior."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest at least an hour before slicing."
+        "en": "Rest at least an hour before slicing.",
+        "de": "Mindestens eine Stunde ruhen lassen, bevor der Laib angeschnitten wird.",
+        "es": "Dejar reposar al menos una hora antes de cortar.",
+        "fr": "Laisser reposer au moins une heure avant de trancher.",
+        "ro": "Lasă la răcit cel puțin o oră înainte de a felia."
       }
     }
   ],

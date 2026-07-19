@@ -150,58 +150,114 @@
   "method": [
     {
       "title": {
-        "en": "Toast the seeds"
+        "en": "Toast the seeds",
+        "de": "Saaten rösten",
+        "es": "Tostar las semillas",
+        "fr": "Torréfier les graines",
+        "ro": "Prăjește semințele"
       },
       "summary": {
-        "en": "Lightly toast the seed mix to bring out its flavor."
+        "en": "Lightly toast the seed mix to bring out its flavor.",
+        "de": "Die Saatenmischung leicht rösten, um ihr Aroma zu entfalten.",
+        "es": "Tostar ligeramente la mezcla de semillas para realzar su sabor.",
+        "fr": "Torréfier légèrement le mélange de graines pour en révéler l'arôme.",
+        "ro": "Prăjește ușor amestecul de semințe ca să le scoți în evidență aroma."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Rest the two flours with the water about 45 minutes."
+        "en": "Rest the two flours with the water about 45 minutes.",
+        "de": "Die beiden Mehle mit dem Wasser etwa 45 Minuten ruhen lassen.",
+        "es": "Dejar reposar las dos harinas con el agua unos 45 minutos.",
+        "fr": "Laisser reposer les deux farines avec l'eau environ 45 minutes.",
+        "ro": "Lasă cele două tipuri de făină cu apa la odihnă aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Work in the yeast, salt, oil and sugar until smooth and elastic."
+        "en": "Work in the yeast, salt, oil and sugar until smooth and elastic.",
+        "de": "Hefe, Salz, Öl und Zucker einarbeiten, bis der Teig glatt und elastisch ist.",
+        "es": "Incorporar la levadura, la sal, el aceite y el azúcar hasta que quede lisa y elástica.",
+        "fr": "Incorporer la levure, le sel, l'huile et le sucre jusqu'à obtenir une pâte lisse et élastique.",
+        "ro": "Încorporează drojdia, sarea, uleiul și zahărul până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "Fold in seeds"
+        "en": "Fold in seeds",
+        "de": "Saaten einarbeiten",
+        "es": "Incorporar las semillas",
+        "fr": "Incorporer les graines",
+        "ro": "Încorporează semințele"
       },
       "summary": {
-        "en": "Fold the toasted seeds through the dough."
+        "en": "Fold the toasted seeds through the dough.",
+        "de": "Die gerösteten Saaten in den Teig falten.",
+        "es": "Incorporar las semillas tostadas a la masa doblando con cuidado.",
+        "fr": "Incorporer les graines torréfiées à la pâte en pliant délicatement.",
+        "ro": "Încorporează semințele prăjite în aluat, pliind ușor."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment about 2 hours until roughly tripled."
+        "en": "Ferment about 2 hours until roughly tripled.",
+        "de": "Etwa 2 Stunden fermentieren, bis sich der Teig etwa verdreifacht hat.",
+        "es": "Fermentar unas 2 horas hasta que casi triplique su volumen.",
+        "fr": "Faire pointer environ 2 heures jusqu'à ce que la pâte ait presque triplé.",
+        "ro": "Lasă la fermentat aproximativ 2 ore, până se triplează aproape complet."
       }
     },
     {
       "title": {
-        "en": "Shape and proof"
+        "en": "Shape and proof",
+        "de": "Formen und Gare",
+        "es": "Formar y fermentar",
+        "fr": "Façonner et pousser",
+        "ro": "Modelează și dospește"
       },
       "summary": {
-        "en": "Divide into two loaves, shape, and proof until well puffed."
+        "en": "Divide into two loaves, shape, and proof until well puffed.",
+        "de": "In zwei Laibe teilen, formen und gehen lassen, bis sie gut aufgeplustert sind.",
+        "es": "Dividir en dos hogazas, formar y dejar fermentar hasta que estén bien hinchadas.",
+        "fr": "Diviser en deux pâtons, façonner et laisser pousser jusqu'à ce qu'ils soient bien gonflés.",
+        "ro": "Împarte în două pâini, modelează și lasă la dospit până se umflă bine."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Score and bake hot with steam, finishing at a slightly lower heat until fully cooked through."
+        "en": "Score and bake hot with steam, finishing at a slightly lower heat until fully cooked through.",
+        "de": "Einschneiden und heiß mit Dampf backen, dann bei etwas niedrigerer Hitze fertigbacken, bis sie vollständig durch sind.",
+        "es": "Marcar y hornear caliente con vapor, terminando a una temperatura algo más baja hasta que estén bien cocidas por dentro.",
+        "fr": "Inciser et cuire chaud avec de la buée, en terminant à température un peu plus basse jusqu'à cuisson complète.",
+        "ro": "Crestează și coace la foc iute cu abur, terminând la o temperatură puțin mai mică, până se coc complet."
       }
     }
   ],

@@ -158,58 +158,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix bread dough"
+        "en": "Mix bread dough",
+        "de": "Brotteig mischen",
+        "es": "Mezclar la masa de pan",
+        "fr": "Mélanger la pâte à pain",
+        "ro": "Amestecă aluatul de pâine"
       },
       "summary": {
-        "en": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water, then knead in the butter until a smooth, elastic dough forms."
+        "en": "Combine bread flour, cake flour, sugar, salt and yeast; stir in egg, milk and water, then knead in the butter until a smooth, elastic dough forms.",
+        "de": "Brotmehl, Kuchenmehl, Zucker, Salz und Hefe vermengen; Ei, Milch und Wasser einrühren, dann die Butter einkneten, bis ein glatter, elastischer Teig entsteht.",
+        "es": "Combinar harina de fuerza, harina floja, azúcar, sal y levadura; incorporar el huevo, la leche y el agua, luego amasar con la mantequilla hasta lograr una masa lisa y elástica.",
+        "fr": "Mélanger farine de force, farine à gâteau, sucre, sel et levure ; incorporer l'œuf, le lait et l'eau, puis pétrir avec le beurre jusqu'à une pâte lisse et élastique.",
+        "ro": "Combină făina de pâine, făina pentru prăjituri, zahărul, sarea și drojdia; adaugă oul, laptele și apa, apoi frământă cu untul până obții un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and proof about 1-2 hours until doubled."
+        "en": "Cover and proof about 1-2 hours until doubled.",
+        "de": "Abdecken und etwa 1-2 Stunden gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar fermentar 1-2 horas, hasta que doble su volumen.",
+        "fr": "Couvrir et laisser pousser environ 1-2 heures, jusqu'à ce que la pâte double de volume.",
+        "ro": "Acoperă și lasă la dospit aproximativ 1-2 ore, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Make the cookie dough"
+        "en": "Make the cookie dough",
+        "de": "Keksteig herstellen",
+        "es": "Preparar la masa de galleta",
+        "fr": "Préparer la pâte à cookie",
+        "ro": "Pregătește aluatul de biscuiți"
       },
       "summary": {
-        "en": "Cream butter and sugar, beat in the egg, then fold in sifted cake flour and baking powder to a soft, non-sticky dough."
+        "en": "Cream butter and sugar, beat in the egg, then fold in sifted cake flour and baking powder to a soft, non-sticky dough.",
+        "de": "Butter und Zucker cremig rühren, das Ei einschlagen, dann gesiebtes Kuchenmehl und Backpulver unterheben zu einem weichen, nicht klebrigen Teig.",
+        "es": "Batir la mantequilla y el azúcar hasta cremar, incorporar el huevo, luego añadir la harina floja tamizada y la levadura química hasta lograr una masa blanda y no pegajosa.",
+        "fr": "Battre le beurre et le sucre en crème, incorporer l'œuf, puis ajouter la farine à gâteau tamisée et la levure chimique pour une pâte souple et non collante.",
+        "ro": "Freacă untul cu zahărul până devine cremos, adaugă oul, apoi încorporează făina cernută și praful de copt, până obții un aluat moale, nelipicios."
       }
     },
     {
       "title": {
-        "en": "Divide and rest"
+        "en": "Divide and rest",
+        "de": "Teilen und ruhen",
+        "es": "Dividir y reposar",
+        "fr": "Diviser et reposer",
+        "ro": "Împarte și lasă la odihnă"
       },
       "summary": {
-        "en": "Divide the bread dough into 10 pieces, shape into balls, and rest 15 minutes; divide the cookie dough into 10 matching pieces."
+        "en": "Divide the bread dough into 10 pieces, shape into balls, and rest 15 minutes; divide the cookie dough into 10 matching pieces.",
+        "de": "Den Brotteig in 10 Stücke teilen, zu Kugeln formen und 15 Minuten ruhen lassen; den Keksteig ebenfalls in 10 passende Stücke teilen.",
+        "es": "Dividir la masa de pan en 10 piezas, formar bolas y dejar reposar 15 minutos; dividir la masa de galleta en 10 piezas iguales.",
+        "fr": "Diviser la pâte à pain en 10 pâtons, façonner en boules, et laisser reposer 15 minutes ; diviser la pâte à cookie en 10 morceaux assortis.",
+        "ro": "Împarte aluatul de pâine în 10 bucăți, modelează bile și lasă la odihnă 15 minute; împarte aluatul de biscuiți în 10 bucăți potrivite."
       }
     },
     {
       "title": {
-        "en": "Wrap and score"
+        "en": "Wrap and score",
+        "de": "Umhüllen und einritzen",
+        "es": "Envolver y marcar",
+        "fr": "Envelopper et quadriller",
+        "ro": "Învelește și crestează"
       },
       "summary": {
-        "en": "Flatten a piece of cookie dough into a disc, wrap it over a bread ball, roll the bun in sugar, then score a crosshatch pattern on top."
+        "en": "Flatten a piece of cookie dough into a disc, wrap it over a bread ball, roll the bun in sugar, then score a crosshatch pattern on top.",
+        "de": "Ein Stück Keksteig zu einer Scheibe flach drücken, um eine Teigkugel legen, die Semmel in Zucker wälzen und oben ein Rautenmuster einritzen.",
+        "es": "Aplanar un trozo de masa de galleta en un disco, envolver una bola de pan, pasar el bollo por azúcar y marcar un enrejado en la superficie.",
+        "fr": "Aplatir un morceau de pâte à cookie en disque, envelopper une boule de pain, rouler le petit pain dans le sucre, puis quadriller le dessus.",
+        "ro": "Întinde o bucată de aluat de biscuiți într-un disc, învelește o bilă de aluat de pâine, tăvălește chifla prin zahăr, apoi crestează un model în romburi deasupra."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospirea finală"
       },
       "summary": {
-        "en": "Proof about 50 minutes until the buns puff to one and a half times their size."
+        "en": "Proof about 50 minutes until the buns puff to one and a half times their size.",
+        "de": "Etwa 50 Minuten gehen lassen, bis die Brötchen auf das Anderthalbfache ihrer Größe aufgehen.",
+        "es": "Dejar fermentar unos 50 minutos, hasta que los bollos crezcan una vez y media su tamaño.",
+        "fr": "Laisser pousser environ 50 minutes, jusqu'à ce que les brioches gonflent une fois et demie leur taille.",
+        "ro": "Lasă la dospit aproximativ 50 de minute, până chiflele cresc de o dată și jumătate față de mărimea inițială."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 180°C (350°F) for 13-15 minutes until the cookie crust turns light golden."
+        "en": "Bake at 180°C (350°F) for 13-15 minutes until the cookie crust turns light golden.",
+        "de": "Bei 180°C (350°F) 13-15 Minuten backen, bis die Keksdecke hellgolden ist.",
+        "es": "Hornear a 180°C (350°F) durante 13-15 minutos, hasta que la costra de galleta esté doradita.",
+        "fr": "Cuire à 180°C (350°F) pendant 13-15 minutes, jusqu'à ce que la croûte de cookie soit dorée clair.",
+        "ro": "Coace la 180°C (350°F) timp de 13-15 minute, până crusta de biscuiți devine auriu deschis."
       }
     }
   ],

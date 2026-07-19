@@ -145,58 +145,114 @@
   "method": [
     {
       "title": {
-        "en": "First sour"
+        "en": "First sour",
+        "de": "Erster Sauerteig",
+        "es": "Primer fermento",
+        "fr": "Premier levain",
+        "ro": "Prima maia"
       },
       "summary": {
-        "en": "Mix a portion of wholegrain rye flour with water and a spoon of mature rye starter; let it ferment overnight at room temperature until doubled."
+        "en": "Mix a portion of wholegrain rye flour with water and a spoon of mature rye starter; let it ferment overnight at room temperature until doubled.",
+        "de": "Einen Teil Roggenvollkornmehl mit Wasser und einem Löffel reifem Roggensauerteig verrühren; über Nacht bei Raumtemperatur fermentieren lassen, bis er sich verdoppelt hat.",
+        "es": "Mezclar una parte de harina integral de centeno con agua y una cucharada de masa madre de centeno madura; dejar fermentar toda la noche a temperatura ambiente hasta que doble su volumen.",
+        "fr": "Mélanger une partie de farine de seigle complète avec de l'eau et une cuillerée de levain de seigle mûr ; laisser fermenter toute la nuit à température ambiante jusqu'au double.",
+        "ro": "Amestecă o parte din făina integrală de secară cu apă și o lingură de maia de secară matură; lasă la fermentat peste noapte la temperatura camerei până se dublează."
       }
     },
     {
       "title": {
-        "en": "Second sour"
+        "en": "Second sour",
+        "de": "Zweiter Sauerteig",
+        "es": "Segundo fermento",
+        "fr": "Second levain",
+        "ro": "A doua maia"
       },
       "summary": {
-        "en": "Fold in more rye flour, water, the salt, molasses and toasted seeds; ferment again overnight into a bubbling, well-risen sponge."
+        "en": "Fold in more rye flour, water, the salt, molasses and toasted seeds; ferment again overnight into a bubbling, well-risen sponge.",
+        "de": "Weiteres Roggenmehl, Wasser, das Salz, Melasse und geröstete Saaten unterrühren; erneut über Nacht fermentieren lassen zu einem blubbernden, gut aufgegangenen Vorteig.",
+        "es": "Incorporar más harina de centeno, agua, la sal, melaza y semillas tostadas; dejar fermentar de nuevo toda la noche hasta obtener una esponja burbujeante y bien crecida.",
+        "fr": "Incorporer plus de farine de seigle, d'eau, le sel, la mélasse et des graines torréfiées ; laisser fermenter à nouveau toute la nuit jusqu'à une éponge bouillonnante et bien levée.",
+        "ro": "Încorporează mai multă făină de secară, apă, sarea, melasa și semințe prăjite; lasă la fermentat din nou peste noapte până obții o compoziție cu bule, bine crescută."
       }
     },
     {
       "title": {
-        "en": "Mix final dough"
+        "en": "Mix final dough",
+        "de": "Endteig mischen",
+        "es": "Mezclar la masa final",
+        "fr": "Mélanger la pâte finale",
+        "ro": "Amestecă aluatul final"
       },
       "summary": {
-        "en": "Work in the cracked rye meal, whole wheat flour and beer to a heavy, pourable batter-dough. No kneading, rye has nothing to develop."
+        "en": "Work in the cracked rye meal, whole wheat flour and beer to a heavy, pourable batter-dough. No kneading, rye has nothing to develop.",
+        "de": "Roggenschrot, Weizenvollkornmehl und Bier einarbeiten zu einem schweren, gießfähigen Teig. Kneten entfällt, Roggen hat nichts zu entwickeln.",
+        "es": "Incorporar el salvado grueso de centeno, la harina integral de trigo y la cerveza hasta obtener una masa pesada y semilíquida. No hace falta amasar, el centeno no tiene nada que desarrollar.",
+        "fr": "Incorporer la mouture grossière de seigle, la farine de blé complète et la bière jusqu'à une pâte lourde et coulante. Pas de pétrissage, le seigle n'a rien à développer.",
+        "ro": "Încorporează măcinișul grosier de secară, făina integrală de grâu și berea până obții un aluat greu, semilichid. Nu se frământă, secara nu are ce dezvolta."
       }
     },
     {
       "title": {
-        "en": "Pan"
+        "en": "Pan",
+        "de": "In die Form",
+        "es": "Al molde",
+        "fr": "Au moule",
+        "ro": "În tavă"
       },
       "summary": {
-        "en": "Scrape into a greased loaf tin and smooth the top with a wet hand."
+        "en": "Scrape into a greased loaf tin and smooth the top with a wet hand.",
+        "de": "In eine gefettete Kastenform füllen und die Oberfläche mit nasser Hand glätten.",
+        "es": "Verter en un molde de pan engrasado y alisar la superficie con la mano húmeda.",
+        "fr": "Verser dans un moule à cake graissé et lisser le dessus avec une main mouillée.",
+        "ro": "Toarnă compoziția într-o tavă de pâine unsă și netezește suprafața cu mâna udă."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gare",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Let it rise at room temperature until it crowns the rim and small surface cracks appear."
+        "en": "Let it rise at room temperature until it crowns the rim and small surface cracks appear.",
+        "de": "Bei Raumtemperatur gehen lassen, bis der Teig den Rand überragt und kleine Risse an der Oberfläche entstehen.",
+        "es": "Dejar fermentar a temperatura ambiente hasta que sobrepase el borde y aparezcan pequeñas grietas en la superficie.",
+        "fr": "Laisser lever à température ambiante jusqu'à ce que la pâte dépasse le bord et que de petites fissures apparaissent en surface.",
+        "ro": "Lasă la dospit la temperatura camerei până depășește marginea tăvii și apar mici crăpături la suprafață."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot without steam until deeply browned and fully cooked through."
+        "en": "Bake hot without steam until deeply browned and fully cooked through.",
+        "de": "Heiß ohne Schwaden backen, bis das Brot tief braun und vollständig durchgebacken ist.",
+        "es": "Hornear caliente sin vapor hasta que esté bien tostado y completamente cocido por dentro.",
+        "fr": "Cuire chaud sans buée jusqu'à ce que ce soit bien brun et entièrement cuit à cœur.",
+        "ro": "Coace fierbinte fără abur până devine intens rumenit și complet copt în interior."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cool completely, then wrap and wait a full day before slicing thin."
+        "en": "Cool completely, then wrap and wait a full day before slicing thin.",
+        "de": "Vollständig auskühlen lassen, dann einwickeln und einen vollen Tag warten, bevor dünn aufgeschnitten wird.",
+        "es": "Dejar enfriar por completo, luego envolver y esperar un día entero antes de cortar en rebanadas finas.",
+        "fr": "Laisser refroidir complètement, puis emballer et attendre une journée entière avant de trancher finement.",
+        "ro": "Lasă să se răcească complet, apoi înfășoară și așteaptă o zi întreagă înainte de a felia subțire."
       }
     }
   ],

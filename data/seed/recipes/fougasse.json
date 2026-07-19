@@ -127,50 +127,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Dissoudre la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast in the warm water."
+        "en": "Dissolve the yeast in the warm water.",
+        "de": "Die Hefe im warmen Wasser auflösen.",
+        "es": "Disolver la levadura en el agua tibia.",
+        "fr": "Dissoudre la levure dans l'eau tiède.",
+        "ro": "Dizolvă drojdia în apa călduță."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Work in the flour, olive oil and salt; knead to a smooth, supple dough."
+        "en": "Work in the flour, olive oil and salt; knead to a smooth, supple dough.",
+        "de": "Mehl, Olivenöl und Salz einarbeiten; zu einem glatten, geschmeidigen Teig kneten.",
+        "es": "Incorporar la harina, el aceite de oliva y la sal; amasar hasta obtener una masa lisa y flexible.",
+        "fr": "Incorporer la farine, l'huile d'olive et le sel; pétrir jusqu'à obtenir une pâte lisse et souple.",
+        "ro": "Încorporează făina, uleiul de măsline și sarea; frământă până obții un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primera fermentación",
+        "fr": "Premier levage",
+        "ro": "Prima fermentare"
       },
       "summary": {
-        "en": "Let rise about an hour until doubled."
+        "en": "Let rise about an hour until doubled.",
+        "de": "Etwa eine Stunde gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Dejar fermentar una hora aproximadamente, hasta que duplique su volumen.",
+        "fr": "Laisser lever environ une heure, jusqu'à ce que la pâte double.",
+        "ro": "Lasă la crescut aproximativ o oră, până își dublează volumul."
       }
     },
     {
       "title": {
-        "en": "Add olives and herbs"
+        "en": "Add olives and herbs",
+        "de": "Oliven und Kräuter zugeben",
+        "es": "Añadir aceitunas y hierbas",
+        "fr": "Ajouter olives et herbes",
+        "ro": "Adaugă măsline și ierburi"
       },
       "summary": {
-        "en": "Gently fold in the olives and herbes de Provence, then pat out into a flat oval."
+        "en": "Gently fold in the olives and herbes de Provence, then pat out into a flat oval.",
+        "de": "Die Oliven und die herbes de Provence vorsichtig unterheben, dann zu einem flachen Oval drücken.",
+        "es": "Incorporar con cuidado las aceitunas y las herbes de Provence, luego aplanar en un óvalo plano.",
+        "fr": "Incorporer délicatement les olives et les herbes de Provence, puis aplatir en un ovale plat.",
+        "ro": "Încorporează ușor măslinele și herbes de Provence, apoi aplatizează într-un oval plat."
       }
     },
     {
       "title": {
-        "en": "Slash"
+        "en": "Slash",
+        "de": "Einschneiden",
+        "es": "Greñar",
+        "fr": "Lamer",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Cut the classic leaf-vein pattern through the dough and pull the slashes open so they bake apart."
+        "en": "Cut the classic leaf-vein pattern through the dough and pull the slashes open so they bake apart.",
+        "de": "Das klassische Blattadermuster in den Teig schneiden und die Schnitte auseinanderziehen, damit sie getrennt aufbacken.",
+        "es": "Cortar el clásico patrón de nervaduras de hoja en la masa y separar los cortes para que se horneen bien abiertos.",
+        "fr": "Découper le motif classique en nervures de feuille dans la pâte et écarter les entailles pour qu'elles cuisent bien ouvertes.",
+        "ro": "Taie modelul clasic în formă de nervuri de frunză în aluat și depărtează crestăturile ca să se coacă separat."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Proof briefly, brush with olive oil, and bake hot until golden and crisp."
+        "en": "Proof briefly, brush with olive oil, and bake hot until golden and crisp.",
+        "de": "Kurz gehen lassen, mit Olivenöl bestreichen und heiß backen, bis goldbraun und knusprig.",
+        "es": "Dejar fermentar brevemente, pintar con aceite de oliva y hornear caliente hasta que esté dorada y crujiente.",
+        "fr": "Laisser pousser brièvement, badigeonner d'huile d'olive et cuire chaud jusqu'à coloration dorée et croustillante.",
+        "ro": "Lasă la dospit puțin, unge cu ulei de măsline și coace fierbinte până devine aurie și crocantă."
       }
     }
   ],

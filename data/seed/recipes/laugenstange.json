@@ -127,58 +127,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour and salt, then work in milk, softened butter, sugar and yeast dissolved in warm water. Knead about 8 minutes to a smooth, soft dough."
+        "en": "Combine flour and salt, then work in milk, softened butter, sugar and yeast dissolved in warm water. Knead about 8 minutes to a smooth, soft dough.",
+        "de": "Mehl und Salz vermengen, dann Milch, weiche Butter, Zucker und in warmem Wasser aufgelöste Hefe einarbeiten. Etwa 8 Minuten zu einem glatten, weichen Teig kneten.",
+        "es": "Combinar la harina y la sal, luego incorporar la leche, la mantequilla ablandada, el azúcar y la levadura disuelta en agua tibia. Amasar unos 8 minutos hasta obtener una masa lisa y suave.",
+        "fr": "Mélanger la farine et le sel, puis incorporer le lait, le beurre ramolli, le sucre et la levure dissoute dans l'eau tiède. Pétrir environ 8 minutes pour obtenir une pâte lisse et souple.",
+        "ro": "Amestecă făina și sarea, apoi adaugă laptele, untul moale, zahărul și drojdia dizolvată în apă călduță. Frământă aproximativ 8 minute până obții un aluat neted și moale."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let the dough rise at room temperature for about an hour, until roughly doubled."
+        "en": "Cover and let the dough rise at room temperature for about an hour, until roughly doubled.",
+        "de": "Abdecken und den Teig bei Raumtemperatur etwa eine Stunde gehen lassen, bis er sich ungefähr verdoppelt hat.",
+        "es": "Tapar y dejar que la masa fermente a temperatura ambiente durante aproximadamente una hora, hasta que casi doble su tamaño.",
+        "fr": "Couvrir et laisser la pâte pousser à température ambiante environ une heure, jusqu'à ce qu'elle ait à peu près doublé.",
+        "ro": "Acoperă și lasă aluatul la crescut la temperatura camerei aproximativ o oră, până se dublează aproape complet."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide into equal pieces and roll each into a slim, even baton, tapering the ends slightly."
+        "en": "Divide into equal pieces and roll each into a slim, even baton, tapering the ends slightly.",
+        "de": "In gleich große Stücke teilen und jedes zu einem schlanken, gleichmäßigen Stängel rollen, die Enden leicht spitz zulaufen lassen.",
+        "es": "Dividir en piezas iguales y formar con cada una un bastón fino y uniforme, afinando ligeramente los extremos.",
+        "fr": "Diviser en pâtons égaux et rouler chacun en un bâtonnet fin et régulier, en effilant légèrement les extrémités.",
+        "ro": "Împarte în bucăți egale și rulează fiecare într-un baton subțire și uniform, ascuțind ușor capetele."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Let the shaped sticks rest uncovered for about 20 minutes so a light skin forms on the surface."
+        "en": "Let the shaped sticks rest uncovered for about 20 minutes so a light skin forms on the surface.",
+        "de": "Die geformten Stangen etwa 20 Minuten unbedeckt ruhen lassen, damit sich eine leichte Haut auf der Oberfläche bildet.",
+        "es": "Dejar reposar los bastones formados sin cubrir unos 20 minutos, para que se forme una fina película en la superficie.",
+        "fr": "Laisser reposer les bâtonnets façonnés à découvert environ 20 minutes, pour qu'une fine peau se forme en surface.",
+        "ro": "Lasă batoanele modelate la odihnă neacoperite aproximativ 20 de minute, ca să se formeze o pojghiță ușoară la suprafață."
       }
     },
     {
       "title": {
-        "en": "Lye dip"
+        "en": "Lye dip",
+        "de": "Laugenbad",
+        "es": "Baño de sosa",
+        "fr": "Bain de lessive",
+        "ro": "Baie alcalină"
       },
       "summary": {
-        "en": "Dip each stick briefly in a hot alkaline bath (food-grade lye, or a home-safe baking-soda stand-in), this is what gives Laugengebäck its shiny mahogany crust and distinctive flavor."
+        "en": "Dip each stick briefly in a hot alkaline bath (food-grade lye, or a home-safe baking-soda stand-in), this is what gives Laugengebäck its shiny mahogany crust and distinctive flavor.",
+        "de": "Jede Stange kurz in ein heißes Laugenbad tauchen (lebensmittelechte Lauge oder ersatzweise eine haushaltssichere Natronlösung), das verleiht Laugengebäck seine glänzende, mahagonifarbene Kruste und den typischen Geschmack.",
+        "es": "Sumergir brevemente cada bastón en un baño alcalino caliente (sosa cáustica apta para alimentos, o como alternativa segura en casa, bicarbonato), esto es lo que le da a los Laugengebäck su corteza brillante color caoba y su sabor característico.",
+        "fr": "Tremper brièvement chaque bâtonnet dans un bain alcalin chaud (lessive de soude alimentaire, ou à défaut du bicarbonate, sans danger à la maison), c'est ce qui donne aux Laugengebäck leur croûte brillante acajou et leur goût si particulier.",
+        "ro": "Scufundă rapid fiecare baton într-o baie alcalină fierbinte (leșie alimentară, sau ca variantă sigură acasă, bicarbonat de sodiu), acest pas dă produselor Laugengebäck coaja lucioasă, roșcat-închisă, și gustul lor caracteristic."
       }
     },
     {
       "title": {
-        "en": "Score and salt"
+        "en": "Score and salt",
+        "de": "Einschneiden und salzen",
+        "es": "Marcar y salar",
+        "fr": "Inciser et saler",
+        "ro": "Crestează și sărează"
       },
       "summary": {
-        "en": "Lift onto a lined baking sheet, cut a diagonal slash or two into each stick, and scatter with coarse salt."
+        "en": "Lift onto a lined baking sheet, cut a diagonal slash or two into each stick, and scatter with coarse salt.",
+        "de": "Auf ein mit Backpapier ausgelegtes Blech legen, jede Stange ein- oder zweimal diagonal einschneiden und mit grobem Salz bestreuen.",
+        "es": "Colocar sobre una bandeja forrada con papel de horno, hacer uno o dos cortes diagonales en cada bastón y espolvorear con sal gruesa.",
+        "fr": "Déposer sur une plaque chemisée, faire une ou deux entailles diagonales sur chaque bâtonnet et parsemer de gros sel.",
+        "ro": "Așază pe o tavă căptușită cu hârtie de copt, crestează diagonal fiecare baton o dată sau de două ori și presară sare grunjoasă."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a hot oven until deeply golden-brown and glossy, about 20 minutes."
+        "en": "Bake in a hot oven until deeply golden-brown and glossy, about 20 minutes.",
+        "de": "Im heißen Ofen backen, bis die Stangen tief goldbraun und glänzend sind, etwa 20 Minuten.",
+        "es": "Hornear en horno caliente hasta que estén bien dorados y brillantes, unos 20 minutos.",
+        "fr": "Cuire au four chaud jusqu'à ce qu'ils soient bien dorés et brillants, environ 20 minutes.",
+        "ro": "Coace în cuptor fierbinte până devin auriu-rumenite și lucioase, aproximativ 20 de minute."
       }
     }
   ],

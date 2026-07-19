@@ -132,50 +132,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix batter"
+        "en": "Mix batter",
+        "de": "Anrühren",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă compoziția"
       },
       "summary": {
-        "en": "Combine ground oatmeal, both flours, salt and yeast, then whisk in the warm milk and water to a smooth, pourable batter."
+        "en": "Combine ground oatmeal, both flours, salt and yeast, then whisk in the warm milk and water to a smooth, pourable batter.",
+        "de": "Gemahlenen Hafer, beide Mehlsorten, Salz und Hefe vermengen, dann die warme Milch und das Wasser einrühren, bis ein glatter, gießfähiger Teig entsteht.",
+        "es": "Combinar la avena molida, ambas harinas, la sal y la levadura, luego batir con la leche y el agua tibias hasta obtener una masa lisa y líquida.",
+        "fr": "Mélanger l'avoine moulue, les deux farines, le sel et la levure, puis fouetter avec le lait et l'eau tièdes pour obtenir une pâte lisse et coulante.",
+        "ro": "Amestecă ovăzul măcinat, ambele tipuri de făină, sarea și drojdia, apoi bate cu laptele și apa călduțe până obții o compoziție netedă, care curge ușor."
       }
     },
     {
       "title": {
-        "en": "Ferment"
+        "en": "Ferment",
+        "de": "Fermentieren",
+        "es": "Fermentar",
+        "fr": "Fermenter",
+        "ro": "Fermentează"
       },
       "summary": {
-        "en": "Cover and let the batter rest at room temperature until bubbly, 1 to 2 hours."
+        "en": "Cover and let the batter rest at room temperature until bubbly, 1 to 2 hours.",
+        "de": "Abdecken und den Teig bei Raumtemperatur ruhen lassen, bis er Blasen wirft, 1 bis 2 Stunden.",
+        "es": "Tapar y dejar reposar la masa a temperatura ambiente hasta que burbujee, de 1 a 2 horas.",
+        "fr": "Couvrir et laisser reposer la pâte à température ambiante jusqu'à ce qu'elle soit pleine de bulles, 1 à 2 heures.",
+        "ro": "Acoperă și lasă compoziția la temperatura camerei până face bule, 1-2 ore."
       }
     },
     {
       "title": {
-        "en": "Heat the pan"
+        "en": "Heat the pan",
+        "de": "Pfanne erhitzen",
+        "es": "Calentar la sartén",
+        "fr": "Chauffer la poêle",
+        "ro": "Încălzește tigaia"
       },
       "summary": {
-        "en": "Lightly oil a large frying pan or griddle and heat over medium-high."
+        "en": "Lightly oil a large frying pan or griddle and heat over medium-high.",
+        "de": "Eine große Pfanne oder Platte leicht einölen und bei mittlerer bis hoher Hitze erhitzen.",
+        "es": "Engrasar ligeramente una sartén grande o plancha y calentar a fuego medio-alto.",
+        "fr": "Huiler légèrement une grande poêle ou une plaque et chauffer à feu moyen-vif.",
+        "ro": "Unge ușor cu ulei o tigaie mare sau o tablă și încălzește la foc mediu spre iute."
       }
     },
     {
       "title": {
-        "en": "Pour & spread"
+        "en": "Pour & spread",
+        "de": "Eingießen & verteilen",
+        "es": "Verter y extender",
+        "fr": "Verser et étaler",
+        "ro": "Toarnă și întinde"
       },
       "summary": {
-        "en": "Ladle in enough batter to make a thin round about 20cm across, tilting the pan to spread it evenly."
+        "en": "Ladle in enough batter to make a thin round about 20cm across, tilting the pan to spread it evenly.",
+        "de": "Genug Teig eingießen für einen dünnen, etwa 20cm großen Kreis, dabei die Pfanne kippen, um ihn gleichmäßig zu verteilen.",
+        "es": "Verter suficiente masa para formar un círculo fino de unos 20cm, inclinando la sartén para repartirla de manera uniforme.",
+        "fr": "Verser assez de pâte pour former un rond fin d'environ 20cm, en inclinant la poêle pour bien la répartir.",
+        "ro": "Toarnă suficientă compoziție pentru un cerc subțire de aproximativ 20cm, înclinând tigaia ca să se întindă uniform."
       }
     },
     {
       "title": {
-        "en": "Cook both sides"
+        "en": "Cook both sides",
+        "de": "Beide Seiten backen",
+        "es": "Cocinar por ambos lados",
+        "fr": "Cuire des deux côtés",
+        "ro": "Coace pe ambele părți"
       },
       "summary": {
-        "en": "Cook undisturbed until the surface turns from wet to dull and full of small holes, about 2 minutes, then flip and cook the other side."
+        "en": "Cook undisturbed until the surface turns from wet to dull and full of small holes, about 2 minutes, then flip and cook the other side.",
+        "de": "Ungestört backen, bis die Oberfläche von feucht zu matt wechselt und voller kleiner Löcher ist, etwa 2 Minuten, dann wenden und die andere Seite backen.",
+        "es": "Cocinar sin tocar hasta que la superficie pase de húmeda a mate y quede llena de pequeños agujeros, unos 2 minutos, luego dar la vuelta y cocinar el otro lado.",
+        "fr": "Cuire sans toucher jusqu'à ce que la surface passe de humide à mate et se couvre de petits trous, environ 2 minutes, puis retourner et cuire l'autre côté.",
+        "ro": "Coace fără să atingi până suprafața trece de la umedă la mată și se umple de găurele mici, aproximativ 2 minute, apoi întoarce și coace și cealaltă parte."
       }
     },
     {
       "title": {
-        "en": "Serve or stack"
+        "en": "Serve or stack",
+        "de": "Servieren oder stapeln",
+        "es": "Servir o apilar",
+        "fr": "Servir ou empiler",
+        "ro": "Servește sau stivuiește"
       },
       "summary": {
-        "en": "Eat plain, or fill warm with a savory filling like cheese and bacon, roll up, and eat hot; stack and refry leftovers another day."
+        "en": "Eat plain, or fill warm with a savory filling like cheese and bacon, roll up, and eat hot; stack and refry leftovers another day.",
+        "de": "Pur essen oder warm mit einer herzhaften Füllung wie Käse und Speck belegen, aufrollen und heiß essen; übrige stapeln und ein andermal noch einmal aufbraten.",
+        "es": "Comer solo, o rellenar caliente con algo salado como queso y beicon, enrollar y comer al momento; apilar las sobras y volver a freírlas otro día.",
+        "fr": "Manger nature, ou garnir chaud d'une garniture salée comme fromage et lard, rouler et manger aussitôt ; empiler les restes et les refaire frire un autre jour.",
+        "ro": "Mănâncă simplu, sau umple cald cu ceva sărat, precum brânză și bacon, rulează și mănâncă fierbinte; stivuiește resturile și prăjește-le din nou altă zi."
       }
     }
   ],

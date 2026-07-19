@@ -127,66 +127,130 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain, roast the potato"
+        "en": "Build the levain, roast the potato",
+        "de": "Levain ansetzen, Kartoffel rösten",
+        "es": "Preparar el levain y asar la patata",
+        "fr": "Préparer le levain, rôtir la pomme de terre",
+        "ro": "Pregătește levain-ul, coace cartoful"
       },
       "summary": {
-        "en": "Mix starter with flour and water to build a levain; separately roast potatoes at 220°C for 45-60 minutes, then peel and puree."
+        "en": "Mix starter with flour and water to build a levain; separately roast potatoes at 220°C for 45-60 minutes, then peel and puree.",
+        "de": "Anstellgut mit Mehl und Wasser zu einem Levain verrühren; separat Kartoffeln bei 220°C 45-60 Minuten rösten, dann schälen und pürieren.",
+        "es": "Mezclar la masa madre con harina y agua para preparar un levain; por separado, asar las patatas a 220°C durante 45-60 minutos, luego pelar y hacer puré.",
+        "fr": "Rafraîchir le levain avec farine et eau, séparément rôtir les pommes de terre à 220°C pendant 45-60 minutes, puis éplucher et réduire en purée.",
+        "ro": "Amestecă maiaua cu făină și apă pentru a construi un levain; separat, coace cartofii la 220°C timp de 45-60 minute, apoi curăță-i de coajă și fă-i piure."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Combine the flours and water; rest 1 hour."
+        "en": "Combine the flours and water; rest 1 hour.",
+        "de": "Die Mehle und das Wasser vermengen; 1 Stunde ruhen lassen.",
+        "es": "Mezclar las harinas y el agua; dejar reposar 1 hora.",
+        "fr": "Mélanger les farines et l'eau, laisser reposer 1 heure.",
+        "ro": "Amestecă făinurile cu apa; lasă să stea 1 oră."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Slap-and-fold in the levain and half the reserved water, rest 15 minutes, then work in salt, rosemary, potato puree and the rest of the water."
+        "en": "Slap-and-fold in the levain and half the reserved water, rest 15 minutes, then work in salt, rosemary, potato puree and the rest of the water.",
+        "de": "Levain und die Hälfte des zurückbehaltenen Wassers per Schlagen und Falten einarbeiten, 15 Minuten ruhen lassen, dann Salz, Rosmarin, Kartoffelpüree und das restliche Wasser einarbeiten.",
+        "es": "Incorporar el levain y la mitad del agua reservada golpeando y plegando la masa, dejar reposar 15 minutos, luego trabajar la sal, el romero, el puré de patata y el resto del agua.",
+        "fr": "Incorporer le levain et la moitié de l'eau réservée en frappant et rabattant la pâte, laisser reposer 15 minutes, puis incorporer le sel, le romarin, la purée de pomme de terre et le reste de l'eau.",
+        "ro": "Încorporează levain-ul și jumătate din apa rezervată lovind și pliind aluatul, lasă să stea 15 minute, apoi încorporează sarea, rozmarinul, piureul de cartofi și restul apei."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Give two stretch-and-fold sets 30 minutes apart, then continue fermenting to about 3 hours total."
+        "en": "Give two stretch-and-fold sets 30 minutes apart, then continue fermenting to about 3 hours total.",
+        "de": "Zwei Sätze Dehnen und Falten im Abstand von 30 Minuten durchführen, dann insgesamt etwa 3 Stunden weitergären lassen.",
+        "es": "Hacer dos series de pliegues con 30 minutos de diferencia, luego continuar la fermentación hasta unas 3 horas en total.",
+        "fr": "Effectuer deux séries de rabats à 30 minutes d'intervalle, puis poursuivre la fermentation jusqu'à environ 3 heures au total.",
+        "ro": "Fă două seturi de întindere și pliere la interval de 30 de minute, apoi continuă fermentarea până la aproximativ 3 ore în total."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide, preshape, rest 30 minutes, then shape into bâtards."
+        "en": "Divide, preshape, rest 30 minutes, then shape into bâtards.",
+        "de": "Teilen, vorformen, 30 Minuten ruhen lassen, dann zu Bâtards formen.",
+        "es": "Dividir, preformar, dejar reposar 30 minutos, luego dar forma de bâtard.",
+        "fr": "Diviser, préfaçonner, laisser reposer 30 minutes, puis façonner en bâtards.",
+        "ro": "Împarte aluatul, premodelează, lasă să stea 30 de minute, apoi modelează în formă de bâtard."
       }
     },
     {
       "title": {
-        "en": "Cold proof"
+        "en": "Cold proof",
+        "de": "Kalte Gare",
+        "es": "Fermentación en frío",
+        "fr": "Apprêt au froid",
+        "ro": "Dospire la rece"
       },
       "summary": {
-        "en": "Refrigerate overnight, about 13-14 hours."
+        "en": "Refrigerate overnight, about 13-14 hours.",
+        "de": "Über Nacht im Kühlschrank gären lassen, etwa 13-14 Stunden.",
+        "es": "Refrigerar toda la noche, unas 13-14 horas.",
+        "fr": "Réfrigérer toute la nuit, environ 13-14 heures.",
+        "ro": "Ține la frigider peste noapte, aproximativ 13-14 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden."
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered until golden.",
+        "de": "Im vorgeheizten Dutch Oven bei 230°C backen: 20 Minuten zugedeckt mit Schwaden, dann 30-35 Minuten offen, bis goldbraun.",
+        "es": "Hornear en una olla holandesa precalentada a 230°C: 20 minutos tapada con vapor, luego 30-35 minutos destapada hasta dorar.",
+        "fr": "Cuire dans une cocotte en fonte préchauffée à 230°C : 20 minutes à couvert avec buée, puis 30-35 minutes à découvert jusqu'à coloration dorée.",
+        "ro": "Coace într-un vas Dutch oven preîncălzit la 230°C: 20 de minute cu capac și abur, apoi 30-35 de minute fără capac până se rumenește."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest at least an hour before slicing."
+        "en": "Rest at least an hour before slicing.",
+        "de": "Vor dem Anschneiden mindestens eine Stunde ruhen lassen.",
+        "es": "Dejar reposar al menos una hora antes de cortar.",
+        "fr": "Laisser reposer au moins une heure avant de trancher.",
+        "ro": "Lasă să stea cel puțin o oră înainte de feliere."
       }
     }
   ],

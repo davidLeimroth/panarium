@@ -140,50 +140,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockene Zutaten mischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger le sec",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Pulse flour, yeast, sugar, salt, baking powder and cardamom together in a food processor."
+        "en": "Pulse flour, yeast, sugar, salt, baking powder and cardamom together in a food processor.",
+        "de": "Mehl, Hefe, Zucker, Salz, Backpulver und Kardamom in einer Küchenmaschine kurz pulsieren.",
+        "es": "Pulsar la harina, la levadura, el azúcar, la sal, la levadura en polvo y el cardamomo juntos en un robot de cocina.",
+        "fr": "Mixer par impulsions la farine, la levure, le sucre, le sel, la levure chimique et la cardamome dans un robot ménager.",
+        "ro": "Pulsează făina, drojdia, zahărul, sarea, praful de copt și cardamomul împreună într-un robot de bucătărie."
       }
     },
     {
       "title": {
-        "en": "Add wet"
+        "en": "Add wet",
+        "de": "Feuchte Zutaten zugeben",
+        "es": "Añadir los líquidos",
+        "fr": "Ajouter le liquide",
+        "ro": "Adaugă ingredientele umede"
       },
       "summary": {
-        "en": "Mix in the oil, then gradually add the warm milk to form a soft, slightly sticky dough; knead briefly by hand."
+        "en": "Mix in the oil, then gradually add the warm milk to form a soft, slightly sticky dough; knead briefly by hand.",
+        "de": "Das Öl einmischen, dann nach und nach die warme Milch zugeben, bis ein weicher, leicht klebriger Teig entsteht; kurz von Hand kneten.",
+        "es": "Incorporar el aceite, luego añadir poco a poco la leche tibia hasta formar una masa blanda y algo pegajosa; amasar brevemente a mano.",
+        "fr": "Incorporer l'huile, puis ajouter petit à petit le lait tiède pour former une pâte molle et légèrement collante; pétrir brièvement à la main.",
+        "ro": "Încorporează uleiul, apoi adaugă treptat laptele călduț, până se formează un aluat moale, ușor lipicios; frământă scurt cu mâna."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Lasă la crescut"
       },
       "summary": {
-        "en": "Place in a greased bowl, cover, and let rise until doubled, about 1.5 hours."
+        "en": "Place in a greased bowl, cover, and let rise until doubled, about 1.5 hours.",
+        "de": "In eine gefettete Schüssel geben, zudecken und gehen lassen, bis verdoppelt, etwa 1.5 Stunden.",
+        "es": "Colocar en un bol engrasado, tapar y dejar fermentar hasta que duplique su volumen, 1.5 horas aproximadamente.",
+        "fr": "Placer dans un bol graissé, couvrir et laisser lever jusqu'à ce que la pâte double, environ 1.5 heure.",
+        "ro": "Pune într-un bol uns cu ulei, acoperă și lasă la crescut până își dublează volumul, aproximativ 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into 4 balls and roll each into a round about half a centimeter thick."
+        "en": "Divide into 4 balls and roll each into a round about half a centimeter thick.",
+        "de": "In 4 Kugeln teilen und jede zu einer runden Scheibe von etwa einem halben Zentimeter Dicke ausrollen.",
+        "es": "Dividir en 4 bolas y estirar cada una en un círculo de aproximadamente medio centímetro de grosor.",
+        "fr": "Diviser en 4 boules et abaisser chacune en cercle d'environ un demi-centimètre d'épaisseur.",
+        "ro": "Împarte în 4 bile și întinde fiecare într-un cerc de aproximativ jumătate de centimetru grosime."
       }
     },
     {
       "title": {
-        "en": "Finish"
+        "en": "Finish",
+        "de": "Fertigstellen",
+        "es": "Terminar",
+        "fr": "Finir",
+        "ro": "Finisează"
       },
       "summary": {
-        "en": "Brush with saffron-infused milk and scatter with sesame seeds."
+        "en": "Brush with saffron-infused milk and scatter with sesame seeds.",
+        "de": "Mit safrangetränkter Milch bestreichen und mit Sesam bestreuen.",
+        "es": "Pintar con leche infusionada con azafrán y esparcir semillas de sésamo.",
+        "fr": "Badigeonner de lait infusé au safran et parsemer de graines de sésame.",
+        "ro": "Unge cu lapte infuzat cu șofran și presară semințe de susan."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake individually in a very hot oven for about 3 minutes per side, rotating for even color."
+        "en": "Bake individually in a very hot oven for about 3 minutes per side, rotating for even color.",
+        "de": "Einzeln in einem sehr heißen Ofen etwa 3 Minuten pro Seite backen, dabei drehen für gleichmäßige Farbe.",
+        "es": "Hornear de forma individual en un horno muy caliente unos 3 minutos por lado, girando para un color uniforme.",
+        "fr": "Cuire individuellement dans un four très chaud environ 3 minutes par face, en tournant pour une coloration uniforme.",
+        "ro": "Coace individual într-un cuptor foarte fierbinte aproximativ 3 minute pe fiecare parte, rotind pentru o culoare uniformă."
       }
     }
   ],

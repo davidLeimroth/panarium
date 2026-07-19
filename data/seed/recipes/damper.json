@@ -111,50 +111,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockenmischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger les ingrédients secs",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Combine flour and salt, then rub in cold butter until the mixture looks like coarse crumbs."
+        "en": "Combine flour and salt, then rub in cold butter until the mixture looks like coarse crumbs.",
+        "de": "Mehl und Salz verbinden, dann kalte Butter einarbeiten, bis die Mischung wie grobe Krümel aussieht.",
+        "es": "Combinar la harina y la sal, luego incorporar la mantequilla fría frotando hasta que la mezcla parezca migas gruesas.",
+        "fr": "Combiner la farine et le sel, puis sabler avec le beurre froid jusqu'à obtenir une texture de grosses miettes.",
+        "ro": "Combină făina și sarea, apoi încorporează untul rece frecând până amestecul arată ca niște firimituri grosiere."
       }
     },
     {
       "title": {
-        "en": "Add liquid"
+        "en": "Add liquid",
+        "de": "Flüssigkeit zugeben",
+        "es": "Añadir el líquido",
+        "fr": "Ajouter le liquide",
+        "ro": "Adaugă lichidul"
       },
       "summary": {
-        "en": "Make a well in the center, pour in milk and water, and stir just until a soft dough comes together."
+        "en": "Make a well in the center, pour in milk and water, and stir just until a soft dough comes together.",
+        "de": "Eine Mulde in die Mitte formen, Milch und Wasser hineingießen und nur rühren, bis sich ein weicher Teig bildet.",
+        "es": "Hacer un hueco en el centro, verter la leche y el agua, y remover solo hasta que se forme una masa blanda.",
+        "fr": "Creuser un puits au centre, verser le lait et l'eau, et remuer juste assez pour former une pâte souple.",
+        "ro": "Fă o adâncitură în centru, toarnă laptele și apa, și amestecă doar cât să se formeze un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Gather the dough into one round loaf, or divide into smaller portions."
+        "en": "Gather the dough into one round loaf, or divide into smaller portions.",
+        "de": "Den Teig zu einem runden Laib zusammenfügen oder in kleinere Portionen teilen.",
+        "es": "Reunir la masa en un pan redondo, o dividir en porciones más pequeñas.",
+        "fr": "Rassembler la pâte en un pain rond, ou diviser en portions plus petites.",
+        "ro": "Adună aluatul într-o pâine rotundă, sau împarte-l în porții mai mici."
       }
     },
     {
       "title": {
-        "en": "Score"
+        "en": "Score",
+        "de": "Einschneiden",
+        "es": "Marcar",
+        "fr": "Inciser",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Cut a cross into the top so it bakes through evenly."
+        "en": "Cut a cross into the top so it bakes through evenly.",
+        "de": "Ein Kreuz in die Oberseite schneiden, damit sie gleichmäßig durchbackt.",
+        "es": "Cortar una cruz en la superficie para que se cueza de manera uniforme.",
+        "fr": "Découper une croix sur le dessus pour une cuisson uniforme à cœur.",
+        "ro": "Taie o cruce pe suprafață, ca să se coacă uniform la interior."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a hot oven, camp oven, or nestled in campfire coals until golden and hollow-sounding when tapped."
+        "en": "Bake in a hot oven, camp oven, or nestled in campfire coals until golden and hollow-sounding when tapped.",
+        "de": "In einem heißen Ofen, Campingofen oder direkt in der Glut eines Lagerfeuers backen, bis golden und beim Klopfen hohl klingend.",
+        "es": "Hornear en un horno caliente, olla de campamento o directamente en las brasas de una fogata, hasta que esté dorado y suene hueco al golpearlo.",
+        "fr": "Cuire dans un four chaud, une cocotte de camp, ou niché dans les braises d'un feu de camp, jusqu'à coloration dorée et un son creux au tapotement.",
+        "ro": "Coace într-un cuptor fierbinte, într-o oală de tabără sau direct în jarul unui foc de tabără, până devine auriu și sună a gol la bătut."
       }
     },
     {
       "title": {
-        "en": "Serve"
+        "en": "Serve",
+        "de": "Servieren",
+        "es": "Servir",
+        "fr": "Servir",
+        "ro": "Servește"
       },
       "summary": {
-        "en": "Tear or slice while still warm, with butter and golden syrup or honey."
+        "en": "Tear or slice while still warm, with butter and golden syrup or honey.",
+        "de": "Noch warm reißen oder schneiden, mit Butter und Golden Syrup oder Honig servieren.",
+        "es": "Partir o rebanar mientras aún está caliente, con mantequilla y golden syrup o miel.",
+        "fr": "Déchirer ou trancher encore chaud, avec du beurre et du golden syrup ou du miel.",
+        "ro": "Rupe sau taie felii cât încă e caldă, cu unt și golden syrup sau miere."
       }
     }
   ],

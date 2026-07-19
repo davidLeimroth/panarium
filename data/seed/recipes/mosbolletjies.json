@@ -139,58 +139,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockene Zutaten mischen",
+        "es": "Mezclar los ingredientes secos",
+        "fr": "Mélanger les ingrédients secs",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Combine flour, salt, sugar, yeast and whole aniseed."
+        "en": "Combine flour, salt, sugar, yeast and whole aniseed.",
+        "de": "Mehl, Salz, Zucker, Hefe und ganzen Anis vermengen.",
+        "es": "Combinar la harina, la sal, el azúcar, la levadura y el anís entero.",
+        "fr": "Mélanger la farine, le sel, le sucre, la levure et l'anis entier.",
+        "ro": "Combină făina, sarea, zahărul, drojdia și anasonul întreg."
       }
     },
     {
       "title": {
-        "en": "Warm the liquids"
+        "en": "Warm the liquids",
+        "de": "Flüssigkeiten erwärmen",
+        "es": "Calentar los líquidos",
+        "fr": "Chauffer les liquides",
+        "ro": "Încălzește lichidele"
       },
       "summary": {
-        "en": "Melt butter into the grape juice, then stir in warm milk and water."
+        "en": "Melt butter into the grape juice, then stir in warm milk and water.",
+        "de": "Butter im Traubenmost schmelzen, dann warme Milch und Wasser einrühren.",
+        "es": "Derretir la mantequilla en el mosto de uva, luego incorporar la leche tibia y el agua.",
+        "fr": "Faire fondre le beurre dans le moût de raisin, puis incorporer le lait tiède et l'eau.",
+        "ro": "Topește untul în mustul de struguri, apoi adaugă laptele călduț și apa."
       }
     },
     {
       "title": {
-        "en": "Make the dough"
+        "en": "Make the dough",
+        "de": "Teig herstellen",
+        "es": "Preparar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Pregătește aluatul"
       },
       "summary": {
-        "en": "Combine wet and dry ingredients into a soft dough and knead 5-10 minutes until elastic."
+        "en": "Combine wet and dry ingredients into a soft dough and knead 5-10 minutes until elastic.",
+        "de": "Die feuchten und trockenen Zutaten zu einem weichen Teig verbinden und 5-10 Minuten kneten, bis er elastisch ist.",
+        "es": "Combinar los ingredientes húmedos y secos en una masa blanda y amasar 5-10 minutos hasta que esté elástica.",
+        "fr": "Combiner les ingrédients liquides et secs en une pâte souple et pétrir 5-10 minutes jusqu'à ce qu'elle soit élastique.",
+        "ro": "Combină ingredientele umede și uscate într-un aluat moale și frământă 5-10 minute până devine elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let it double, about 30 minutes."
+        "en": "Cover and let it double, about 30 minutes.",
+        "de": "Abdecken und verdoppeln lassen, etwa 30 Minuten.",
+        "es": "Tapar y dejar que doble su volumen, unos 30 minutos.",
+        "fr": "Couvrir et laisser doubler de volume, environ 30 minutes.",
+        "ro": "Acoperă și lasă să se dubleze, aproximativ 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Pack the tins"
+        "en": "Pack the tins",
+        "de": "Formen einfüllen",
+        "es": "Rellenar los moldes",
+        "fr": "Remplir les moules",
+        "ro": "Umple tăvile"
       },
       "summary": {
-        "en": "Divide into small balls and pack them snugly, shoulder to shoulder, into buttered loaf tins."
+        "en": "Divide into small balls and pack them snugly, shoulder to shoulder, into buttered loaf tins.",
+        "de": "In kleine Kugeln teilen und dicht an dicht in gebutterte Kastenformen setzen.",
+        "es": "Dividir en bolitas y colocarlas bien apretadas, una junto a otra, en moldes de pan enmantequillados.",
+        "fr": "Diviser en petites boules et les serrer bien les unes contre les autres dans des moules à cake beurrés.",
+        "ro": "Împarte în bile mici și așază-le strâns, una lângă alta, în tăvi unse cu unt."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Deuxième pousse",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Let rise again until puffy, 30-45 minutes."
+        "en": "Let rise again until puffy, 30-45 minutes.",
+        "de": "Erneut gehen lassen, bis aufgepufft, 30-45 Minuten.",
+        "es": "Dejar fermentar de nuevo hasta que estén hinchados, 30-45 minutos.",
+        "fr": "Laisser pousser à nouveau jusqu'à ce que ce soit gonflé, 30-45 minutes.",
+        "ro": "Lasă la crescut din nou până se umflă, 30-45 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake and glaze"
+        "en": "Bake and glaze",
+        "de": "Backen und glasieren",
+        "es": "Hornear y glasear",
+        "fr": "Cuire et glacer",
+        "ro": "Coace și glasează"
       },
       "summary": {
-        "en": "Bake until golden, then brush immediately with a warm sugar syrup while still hot."
+        "en": "Bake until golden, then brush immediately with a warm sugar syrup while still hot.",
+        "de": "Golden backen, dann sofort noch heiß mit warmem Zuckersirup bestreichen.",
+        "es": "Hornear hasta dorar, luego pintar de inmediato con almíbar caliente mientras aún estén calientes.",
+        "fr": "Cuire jusqu'à coloration dorée, puis badigeonner aussitôt de sirop de sucre chaud pendant qu'ils sont encore chauds.",
+        "ro": "Coace până se rumenesc, apoi unge imediat cu sirop de zahăr cald, cât încă sunt fierbinți."
       }
     }
   ],

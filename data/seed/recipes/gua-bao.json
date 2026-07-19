@@ -131,50 +131,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, yeast, baking powder and sugar, then work in water to a smooth, soft dough."
+        "en": "Combine flour, yeast, baking powder and sugar, then work in water to a smooth, soft dough.",
+        "de": "Mehl, Hefe, Backpulver und Zucker vermischen, dann Wasser einarbeiten zu einem glatten, weichen Teig.",
+        "es": "Combinar la harina, la levadura, la levadura en polvo y el azúcar, luego incorporar agua hasta obtener una masa lisa y blanda.",
+        "fr": "Combiner la farine, la levure, la levure chimique et le sucre, puis incorporer l'eau pour une pâte lisse et molle.",
+        "ro": "Combină făina, drojdia, praful de copt și zahărul, apoi încorporează apă până obții un aluat neted și moale."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Lasă la crescut"
       },
       "summary": {
-        "en": "Let the dough rise until noticeably puffy."
+        "en": "Let the dough rise until noticeably puffy.",
+        "de": "Den Teig gehen lassen, bis er spürbar aufgebläht ist.",
+        "es": "Dejar fermentar la masa hasta que esté notablemente hinchada.",
+        "fr": "Laisser lever la pâte jusqu'à ce qu'elle soit nettement gonflée.",
+        "ro": "Lasă aluatul la crescut până devine vizibil umflat."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide into pieces, flatten each into an oval, brush lightly with oil, and fold in half with a piece of parchment inside so the fold won't seal shut."
+        "en": "Divide into pieces, flatten each into an oval, brush lightly with oil, and fold in half with a piece of parchment inside so the fold won't seal shut.",
+        "de": "In Stücke teilen, jedes zu einem Oval flach drücken, leicht mit Öl bestreichen und mit einem Stück Backpapier innen zur Hälfte falten, damit die Falte nicht zusammenklebt.",
+        "es": "Dividir en piezas, aplanar cada una en un óvalo, pintar ligeramente con aceite y doblar por la mitad con un trozo de papel de horno dentro para que el pliegue no se cierre del todo.",
+        "fr": "Diviser en morceaux, aplatir chacun en ovale, badigeonner légèrement d'huile et plier en deux avec un morceau de papier cuisson à l'intérieur pour que le pli ne colle pas.",
+        "ro": "Împarte în bucăți, aplatizează fiecare într-un oval, unge ușor cu ulei și pliază pe jumătate cu o bucată de hârtie de copt înăuntru, ca pliul să nu se lipească."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gare",
+        "es": "Fermentar",
+        "fr": "Apprêt",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Rest the folded buns about 30 minutes until slightly enlarged."
+        "en": "Rest the folded buns about 30 minutes until slightly enlarged.",
+        "de": "Die gefalteten Brötchen etwa 30 Minuten ruhen lassen, bis sie leicht größer geworden sind.",
+        "es": "Dejar reposar los panecillos doblados unos 30 minutos hasta que aumenten ligeramente de tamaño.",
+        "fr": "Laisser reposer les petits pains pliés environ 30 minutes jusqu'à ce qu'ils soient légèrement plus gros.",
+        "ro": "Lasă chiflele pliate la odihnă aproximativ 30 de minute, până cresc puțin în volum."
       }
     },
     {
       "title": {
-        "en": "Steam"
+        "en": "Steam",
+        "de": "Dämpfen",
+        "es": "Cocer al vapor",
+        "fr": "Cuire à la vapeur",
+        "ro": "Fierbe la abur"
       },
       "summary": {
-        "en": "Steam over a full boil for about 10 minutes."
+        "en": "Steam over a full boil for about 10 minutes.",
+        "de": "Etwa 10 Minuten über sprudelnd kochendem Wasser dämpfen.",
+        "es": "Cocinar al vapor sobre agua en ebullición fuerte durante unos 10 minutos.",
+        "fr": "Cuire à la vapeur sur une ébullition vive pendant environ 10 minutes.",
+        "ro": "Fierbe la abur, deasupra apei în clocot puternic, aproximativ 10 minute."
       }
     },
     {
       "title": {
-        "en": "Fill"
+        "en": "Fill",
+        "de": "Füllen",
+        "es": "Rellenar",
+        "fr": "Garnir",
+        "ro": "Umple"
       },
       "summary": {
-        "en": "Prise open the warm bun and fill with braised pork belly, pickled mustard greens and crushed peanuts."
+        "en": "Prise open the warm bun and fill with braised pork belly, pickled mustard greens and crushed peanuts.",
+        "de": "Das warme Brötchen vorsichtig öffnen und mit geschmortem Schweinebauch, eingelegtem Senfkohl und zerstoßenen Erdnüssen füllen.",
+        "es": "Abrir con cuidado el panecillo caliente y rellenar con panceta de cerdo estofada, mostaza china encurtida y cacahuetes triturados.",
+        "fr": "Ouvrir délicatement le petit pain chaud et garnir de poitrine de porc braisée, de moutarde chinoise marinée et de cacahuètes concassées.",
+        "ro": "Deschide ușor chifla caldă și umple cu piept de porc înăbușit, muștar murat și arahide zdrobite."
       }
     }
   ],

@@ -118,42 +118,82 @@
   "method": [
     {
       "title": {
-        "en": "Boil and rice"
+        "en": "Boil and rice",
+        "de": "Kochen und passieren",
+        "es": "Cocer y pasar por el pasapurés",
+        "fr": "Cuire et presser",
+        "ro": "Fierbe și pasează"
       },
       "summary": {
-        "en": "Boil peeled, cubed potatoes until tender, then pass through a ricer or sieve while still hot."
+        "en": "Boil peeled, cubed potatoes until tender, then pass through a ricer or sieve while still hot.",
+        "de": "Geschälte, gewürfelte Kartoffeln weich kochen, dann noch heiß durch eine Kartoffelpresse oder ein Sieb passieren.",
+        "es": "Cocer las patatas peladas y troceadas hasta que estén tiernas, y pasarlas por el pasapurés o un tamiz mientras aún estén calientes.",
+        "fr": "Faire bouillir les pommes de terre épluchées et coupées en dés jusqu'à tendreté, puis les passer chaudes au presse-purée ou au tamis.",
+        "ro": "Fierbe cartofii curățați și tăiați cuburi până se înmoaie, apoi pasează-i cât sunt încă fierbinți printr-o presă de piure sau o sită."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Stir in half the butter, the salt and pepper, then very lightly fold in the flour, just until it comes together; overworking makes tough farls."
+        "en": "Stir in half the butter, the salt and pepper, then very lightly fold in the flour, just until it comes together; overworking makes tough farls.",
+        "de": "Die Hälfte der Butter sowie Salz und Pfeffer einrühren, dann das Mehl ganz vorsichtig unterheben, nur bis sich der Teig verbindet; zu langes Kneten macht die Farls zäh.",
+        "es": "Incorporar la mitad de la mantequilla, la sal y la pimienta, luego añadir la harina con movimientos suaves, solo hasta que ligue; trabajarla de más endurece los farls.",
+        "fr": "Incorporer la moitié du beurre, le sel et le poivre, puis ajouter la farine très délicatement, juste jusqu'à ce que la pâte se tienne ; trop travailler durcit les farls.",
+        "ro": "Încorporează jumătate din unt, sarea și piperul, apoi adaugă făina cu mișcări blânde, doar până se leagă; frământatul excesiv le face dure."
       }
     },
     {
       "title": {
-        "en": "Roll and cut"
+        "en": "Roll and cut",
+        "de": "Ausrollen und schneiden",
+        "es": "Estirar y cortar",
+        "fr": "Abaisser et couper",
+        "ro": "Întinde și taie"
       },
       "summary": {
-        "en": "Pat the dough into an 8 in round about 1 cm thick, then cut into six triangles."
+        "en": "Pat the dough into an 8 in round about 1 cm thick, then cut into six triangles.",
+        "de": "Den Teig zu einem Rund von 8 in Durchmesser und etwa 1 cm Dicke drücken, dann in sechs Dreiecke schneiden.",
+        "es": "Aplanar la masa en un disco de 8 in de diámetro y aproximadamente 1 cm de grosor, luego cortar en seis triángulos.",
+        "fr": "Aplatir la pâte en un disque de 8 in de diamètre et environ 1 cm d'épaisseur, puis couper en six triangles.",
+        "ro": "Presează aluatul într-un disc de 8 in diametru și aproximativ 1 cm grosime, apoi taie în șase triunghiuri."
       }
     },
     {
       "title": {
-        "en": "Fry"
+        "en": "Fry",
+        "de": "Braten",
+        "es": "Freír",
+        "fr": "Cuire à la poêle",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Melt the remaining butter in a hot frying pan and cook the farls, no extra oil, about 5 minutes a side until golden."
+        "en": "Melt the remaining butter in a hot frying pan and cook the farls, no extra oil, about 5 minutes a side until golden.",
+        "de": "Die restliche Butter in einer heißen Pfanne schmelzen und die Farls ohne zusätzliches Öl etwa 5 Minuten pro Seite goldbraun braten.",
+        "es": "Derretir la mantequilla restante en una sartén caliente y cocinar los farls, sin aceite adicional, unos 5 minutos por lado hasta dorar.",
+        "fr": "Faire fondre le reste de beurre dans une poêle chaude et cuire les farls, sans huile supplémentaire, environ 5 minutes de chaque côté jusqu'à coloration dorée.",
+        "ro": "Topește restul de unt într-o tigaie încinsă și prăjește farls-urile, fără ulei suplimentar, aproximativ 5 minute pe fiecare parte până se rumenesc."
       }
     },
     {
       "title": {
-        "en": "Serve"
+        "en": "Serve",
+        "de": "Servieren",
+        "es": "Servir",
+        "fr": "Servir",
+        "ro": "Servește"
       },
       "summary": {
-        "en": "Serve hot, ideally straight from the pan alongside eggs, bacon and other fry-up staples."
+        "en": "Serve hot, ideally straight from the pan alongside eggs, bacon and other fry-up staples.",
+        "de": "Heiß servieren, am besten direkt aus der Pfanne, zusammen mit Eiern, Speck und anderen Klassikern des englischen Frühstücks.",
+        "es": "Servir caliente, idealmente recién sacado de la sartén, junto con huevos, panceta y otros clásicos del desayuno inglés completo.",
+        "fr": "Servir chaud, idéalement directement à la sortie de la poêle, avec des œufs, du bacon et d'autres classiques du petit-déjeuner anglais.",
+        "ro": "Servește cald, ideal direct din tigaie, alături de ouă, bacon și alte clasice ale micului dejun englezesc complet."
       }
     }
   ],

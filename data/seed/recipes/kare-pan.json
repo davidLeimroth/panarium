@@ -145,58 +145,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine bread flour, cake flour, salt and sugar; warm the milk, stir in the yeast, then knead into the flour with the butter until smooth, about 5 minutes."
+        "en": "Combine bread flour, cake flour, salt and sugar; warm the milk, stir in the yeast, then knead into the flour with the butter until smooth, about 5 minutes.",
+        "de": "Weizenmehl, Kuchenmehl, Salz und Zucker vermischen; die Milch erwärmen, die Hefe einrühren, dann mit der Butter ins Mehl einkneten, bis glatt, etwa 5 Minuten.",
+        "es": "Combinar la harina de fuerza, la harina floja, la sal y el azúcar; calentar la leche, incorporar la levadura, luego amasar con la mantequilla en la harina hasta que quede lisa, unos 5 minutos.",
+        "fr": "Combiner la farine de force, la farine à pâtisserie, le sel et le sucre; chauffer le lait, y incorporer la levure, puis pétrir dans la farine avec le beurre jusqu'à lisse, environ 5 minutes.",
+        "ro": "Combină făina de pâine, făina pentru prăjituri, sarea și zahărul; încălzește laptele, încorporează drojdia, apoi frământă în făină împreună cu untul până devine neted, aproximativ 5 minute."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primera fermentación",
+        "fr": "Premier levage",
+        "ro": "Prima fermentare"
       },
       "summary": {
-        "en": "Cover and proof about 1 hour at warm room temperature until doubled."
+        "en": "Cover and proof about 1 hour at warm room temperature until doubled.",
+        "de": "Zugedeckt etwa 1 Stunde bei warmer Raumtemperatur gehen lassen, bis verdoppelt.",
+        "es": "Tapar y dejar fermentar 1 hora aproximadamente a temperatura ambiente cálida, hasta que duplique su volumen.",
+        "fr": "Couvrir et laisser pousser environ 1 heure à température ambiante chaude, jusqu'à ce que la pâte double.",
+        "ro": "Acoperă și lasă la dospit aproximativ 1 oră la temperatura camerei, într-un loc călduț, până își dublează volumul."
       }
     },
     {
       "title": {
-        "en": "Divide and rest"
+        "en": "Divide and rest",
+        "de": "Teilen und ruhen",
+        "es": "Dividir y reposar",
+        "fr": "Diviser et reposer",
+        "ro": "Împarte și odihnește"
       },
       "summary": {
-        "en": "Divide into 8 pieces, shape into balls, and rest 15 minutes."
+        "en": "Divide into 8 pieces, shape into balls, and rest 15 minutes.",
+        "de": "In 8 Stücke teilen, zu Kugeln formen und 15 Minuten ruhen lassen.",
+        "es": "Dividir en 8 piezas, formar bolas y dejar reposar 15 minutos.",
+        "fr": "Diviser en 8 morceaux, façonner en boules et laisser reposer 15 minutes.",
+        "ro": "Împarte în 8 bucăți, modelează bile și lasă la odihnă 15 minute."
       }
     },
     {
       "title": {
-        "en": "Fill"
+        "en": "Fill",
+        "de": "Füllen",
+        "es": "Rellenar",
+        "fr": "Garnir",
+        "ro": "Umple"
       },
       "summary": {
-        "en": "Roll each piece into a circle, thinning only the edges, spoon in cold, thick curry, and pinch the edges tightly to seal."
+        "en": "Roll each piece into a circle, thinning only the edges, spoon in cold, thick curry, and pinch the edges tightly to seal.",
+        "de": "Jedes Stück zu einem Kreis ausrollen, dabei nur die Ränder dünn auswellen, kalte, dicke Currysauce einlöffeln und die Ränder fest zusammendrücken.",
+        "es": "Estirar cada pieza en un círculo, adelgazando solo los bordes, poner una cucharada de curry frío y espeso, y pellizcar los bordes con firmeza para sellarlos.",
+        "fr": "Abaisser chaque pâton en cercle, en amincissant seulement les bords, déposer une cuillerée de curry froid et épais, puis pincer fermement les bords pour sceller.",
+        "ro": "Întinde fiecare bucată într-un cerc, subțiind doar marginile, pune cu lingura curry rece și gros, apoi ciupește marginile strâns pentru a le sigila."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt final",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof the sealed buns 45-60 minutes until about one and a half times their size."
+        "en": "Proof the sealed buns 45-60 minutes until about one and a half times their size.",
+        "de": "Die verschlossenen Brötchen 45-60 Minuten gehen lassen, bis sie etwa das Anderthalbfache ihrer Größe erreichen.",
+        "es": "Dejar fermentar los panecillos sellados 45-60 minutos hasta que alcancen aproximadamente una vez y media su tamaño.",
+        "fr": "Laisser pousser les brioches scellées 45-60 minutes jusqu'à environ une fois et demie leur taille.",
+        "ro": "Lasă chiflele sigilate la dospit 45-60 de minute, până ajung la aproximativ o dată și jumătate din mărimea inițială."
       }
     },
     {
       "title": {
-        "en": "Bread"
+        "en": "Bread",
+        "de": "Panieren",
+        "es": "Empanar",
+        "fr": "Paner",
+        "ro": "Pane"
       },
       "summary": {
-        "en": "Dip each bun in beaten egg, then roll in panko breadcrumbs to coat evenly."
+        "en": "Dip each bun in beaten egg, then roll in panko breadcrumbs to coat evenly.",
+        "de": "Jedes Brötchen in verquirltes Ei tauchen, dann gleichmäßig in Panko-Semmelbröseln wälzen.",
+        "es": "Sumergir cada bollo en huevo batido, luego rebozarlo en panko para cubrirlo de manera uniforme.",
+        "fr": "Tremper chaque brioche dans l'œuf battu, puis la rouler dans la panko pour bien l'enrober.",
+        "ro": "Trece fiecare chiflă prin ou bătut, apoi tăvălește-o prin pesmet panko, pentru o acoperire uniformă."
       }
     },
     {
       "title": {
-        "en": "Fry"
+        "en": "Fry",
+        "de": "Frittieren",
+        "es": "Freír",
+        "fr": "Frire",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Heat oil to about 160°C (320°F) and fry the buns seam-side down first, turning, until deep golden on all sides, about 2-3 minutes."
+        "en": "Heat oil to about 160°C (320°F) and fry the buns seam-side down first, turning, until deep golden on all sides, about 2-3 minutes.",
+        "de": "Öl auf etwa 160°C (320°F) erhitzen und die Brötchen zuerst mit der Naht nach unten frittieren, wenden, bis sie allseitig tief goldbraun sind, etwa 2-3 Minuten.",
+        "es": "Calentar el aceite a unos 160°C (320°F) y freír los bollos primero con el cierre hacia abajo, dándoles la vuelta, hasta que estén muy dorados por todos lados, unos 2-3 minutos.",
+        "fr": "Chauffer l'huile à environ 160°C (320°F) et frire les brioches clé dessous en premier, en retournant, jusqu'à coloration bien dorée de tous les côtés, environ 2-3 minutes.",
+        "ro": "Încălzește uleiul la aproximativ 160°C (320°F) și prăjește chiflele mai întâi cu cusătura în jos, întorcând, până devin auriu-închis pe toate părțile, aproximativ 2-3 minute."
       }
     }
   ],

@@ -122,50 +122,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockene Zutaten mischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger le sec",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Stir rice flour, xanthan gum, quick yeast, sugar and salt together, then sieve into a clean bowl."
+        "en": "Stir rice flour, xanthan gum, quick yeast, sugar and salt together, then sieve into a clean bowl.",
+        "de": "Reismehl, Xanthan, Schnellhefe, Zucker und Salz miteinander vermischen, dann in eine saubere Schüssel sieben.",
+        "es": "Mezclar la harina de arroz, la goma xantana, la levadura rápida, el azúcar y la sal, luego tamizar en un bol limpio.",
+        "fr": "Mélanger la farine de riz, la gomme xanthane, la levure rapide, le sucre et le sel, puis tamiser dans un bol propre.",
+        "ro": "Amestecă făina de orez, guma xantan, drojdia rapidă, zahărul și sarea, apoi cerne totul într-un bol curat."
       }
     },
     {
       "title": {
-        "en": "Beat the batter"
+        "en": "Beat the batter",
+        "de": "Teig schlagen",
+        "es": "Batir la masa",
+        "fr": "Battre la pâte",
+        "ro": "Bate compoziția"
       },
       "summary": {
-        "en": "Add the water and beat well until smooth and thick, more a batter than a dough."
+        "en": "Add the water and beat well until smooth and thick, more a batter than a dough.",
+        "de": "Das Wasser zugeben und gut schlagen, bis glatt und dick, eher ein Rührteig als ein Teig.",
+        "es": "Añadir el agua y batir bien hasta que quede lisa y espesa, más una masa líquida que una masa firme.",
+        "fr": "Ajouter l'eau et bien battre jusqu'à obtenir une texture lisse et épaisse, plus proche d'une pâte à gâteau que d'une pâte à pain.",
+        "ro": "Adaugă apa și bate bine până devine netedă și groasă, mai degrabă o compoziție lichidă decât un aluat."
       }
     },
     {
       "title": {
-        "en": "Fold in oil"
+        "en": "Fold in oil",
+        "de": "Öl unterheben",
+        "es": "Incorporar el aceite",
+        "fr": "Incorporer l'huile",
+        "ro": "Încorporează uleiul"
       },
       "summary": {
-        "en": "Drizzle the oil over the top and fold it through with a spatula."
+        "en": "Drizzle the oil over the top and fold it through with a spatula.",
+        "de": "Das Öl darüberträufeln und mit einem Spatel unterheben.",
+        "es": "Rociar el aceite por encima e incorporarlo con una espátula.",
+        "fr": "Verser l'huile en filet sur le dessus et l'incorporer à la spatule.",
+        "ro": "Toarnă uleiul deasupra, în fir subțire, și încorporează-l cu o spatulă."
       }
     },
     {
       "title": {
-        "en": "Pan and prove"
+        "en": "Pan and prove",
+        "de": "In die Form füllen und gehen lassen",
+        "es": "Formar y fermentar",
+        "fr": "Mouler et pousser",
+        "ro": "Pune în formă și dospește"
       },
       "summary": {
-        "en": "Scrape into a greased tin, smooth the top, cover with an upturned bowl and prove in a warm place 45-90 minutes until just below the rim."
+        "en": "Scrape into a greased tin, smooth the top, cover with an upturned bowl and prove in a warm place 45-90 minutes until just below the rim.",
+        "de": "In eine gefettete Form streichen, die Oberfläche glätten, mit einer umgedrehten Schüssel abdecken und an einem warmen Ort 45-90 Minuten gehen lassen, bis knapp unter den Rand.",
+        "es": "Pasar la masa a un molde engrasado, alisar la superficie, cubrir con un bol invertido y dejar fermentar en un lugar cálido 45-90 minutos hasta quedar justo por debajo del borde.",
+        "fr": "Transférer dans un moule graissé, lisser le dessus, couvrir d'un bol retourné et laisser pousser au chaud 45-90 minutes jusqu'à juste sous le bord.",
+        "ro": "Mută compoziția într-o formă unsă, netezește suprafața, acoperă cu un bol răsturnat și lasă la dospit într-un loc călduț 45-90 de minute, până ajunge chiar sub margine."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 220°C (200°C fan) for 55-60 minutes until well risen and deep golden."
+        "en": "Bake at 220°C (200°C fan) for 55-60 minutes until well risen and deep golden.",
+        "de": "Bei 220°C (200°C Umluft) 55-60 Minuten backen, bis gut aufgegangen und tief goldbraun.",
+        "es": "Hornear a 220°C (200°C con ventilador) durante 55-60 minutos, hasta que suba bien y quede muy dorado.",
+        "fr": "Cuire à 220°C (200°C chaleur tournante) pendant 55-60 minutes, jusqu'à bonne levée et coloration bien dorée.",
+        "ro": "Coace la 220°C (200°C cu ventilator) timp de 55-60 de minute, până crește bine și devine auriu-închis."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool completely on a rack before slicing; cutting it warm makes rice bread gummy."
+        "en": "Cool completely on a rack before slicing; cutting it warm makes rice bread gummy.",
+        "de": "Vollständig auf einem Gitter auskühlen lassen, bevor es angeschnitten wird; warm geschnitten wird Reisbrot gummiartig.",
+        "es": "Dejar enfriar por completo sobre una rejilla antes de cortar; cortado en caliente, el pan de arroz queda gomoso.",
+        "fr": "Laisser refroidir complètement sur une grille avant de trancher; coupé chaud, le pain de riz devient gommeux.",
+        "ro": "Lasă la răcit complet pe un grătar înainte de a felia; tăiată caldă, pâinea de orez devine gumoasă."
       }
     }
   ],

@@ -99,50 +99,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockene Zutaten mischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger le sec",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Whisk flour, baking soda and salt together in a large bowl."
+        "en": "Whisk flour, baking soda and salt together in a large bowl.",
+        "de": "Mehl, Natron und Salz in einer großen Schüssel miteinander verquirlen.",
+        "es": "Batir la harina, el bicarbonato de sodio y la sal en un bol grande.",
+        "fr": "Fouetter la farine, le bicarbonate de soude et le sel dans un grand bol.",
+        "ro": "Amestecă făina, bicarbonatul de sodiu și sarea într-un bol mare."
       }
     },
     {
       "title": {
-        "en": "Add buttermilk"
+        "en": "Add buttermilk",
+        "de": "Buttermilch zugeben",
+        "es": "Añadir el suero de leche",
+        "fr": "Ajouter le babeurre",
+        "ro": "Adaugă zara"
       },
       "summary": {
-        "en": "Pour in cold buttermilk and stir just until the dough clumps together and turns too stiff to stir."
+        "en": "Pour in cold buttermilk and stir just until the dough clumps together and turns too stiff to stir.",
+        "de": "Kalte Buttermilch einrühren, nur bis der Teig zusammenklumpt und zu fest zum Rühren wird.",
+        "es": "Verter el suero de leche frío y remover solo hasta que la masa se aglutine y quede demasiado firme para seguir removiendo.",
+        "fr": "Verser le babeurre froid et remuer juste jusqu'à ce que la pâte s'agglomère et devienne trop ferme pour être remuée.",
+        "ro": "Toarnă zara rece și amestecă doar până aluatul se leagă și devine prea ferm ca să mai poată fi amestecat."
       }
     },
     {
       "title": {
-        "en": "Light knead"
+        "en": "Light knead",
+        "de": "Leicht kneten",
+        "es": "Amasado ligero",
+        "fr": "Pétrissage léger",
+        "ro": "Frământare ușoară"
       },
       "summary": {
-        "en": "Turn onto a floured surface and knead only a few times, just enough to bring it together, overworking toughens it."
+        "en": "Turn onto a floured surface and knead only a few times, just enough to bring it together, overworking toughens it.",
+        "de": "Auf eine bemehlte Fläche stürzen und nur ein paar Mal kneten, gerade genug, damit er zusammenhält; zu langes Kneten macht ihn zäh.",
+        "es": "Volcar sobre una superficie enharinada y amasar solo unas pocas veces, lo justo para unirla; amasar de más la vuelve dura.",
+        "fr": "Renverser sur un plan fariné et pétrir seulement quelques fois, juste assez pour l'assembler; trop pétrir la durcit.",
+        "ro": "Răstoarnă pe o suprafață făinuită și frământă doar de câteva ori, exact cât să se lege; frământarea excesivă îl întărește."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Pat into an 8-inch round and set it on a baking sheet."
+        "en": "Pat into an 8-inch round and set it on a baking sheet.",
+        "de": "Zu einer 20-cm-Scheibe flach drücken und auf ein Backblech setzen.",
+        "es": "Aplanar en un disco de 20 cm y colocarlo en una bandeja de horno.",
+        "fr": "Aplatir en un disque de 20 cm et le déposer sur une plaque de cuisson.",
+        "ro": "Aplatizează într-un disc de 20 cm și așază-l pe o tavă de copt."
       }
     },
     {
       "title": {
-        "en": "Score"
+        "en": "Score",
+        "de": "Einschneiden",
+        "es": "Greñar",
+        "fr": "Lamer",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Cut a deep cross into the top so the center bakes through evenly."
+        "en": "Cut a deep cross into the top so the center bakes through evenly.",
+        "de": "Ein tiefes Kreuz in die Oberseite schneiden, damit die Mitte gleichmäßig durchbackt.",
+        "es": "Cortar una cruz profunda en la parte superior para que el centro se cueza de manera uniforme.",
+        "fr": "Découper une croix profonde sur le dessus pour que le centre cuise uniformément.",
+        "ro": "Taie o cruce adâncă în partea de sus, ca miezul să se coacă uniform."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a hot oven until deeply golden and hollow-sounding when tapped on the bottom."
+        "en": "Bake in a hot oven until deeply golden and hollow-sounding when tapped on the bottom.",
+        "de": "In einem heißen Ofen backen, bis es tief goldbraun ist und beim Klopfen auf den Boden hohl klingt.",
+        "es": "Hornear en un horno caliente hasta que esté muy dorado y suene hueco al golpear la base.",
+        "fr": "Cuire dans un four chaud jusqu'à coloration bien dorée et un son creux quand on tapote le dessous.",
+        "ro": "Coace într-un cuptor fierbinte până devine auriu-închis și sună a gol la baterea pe fund."
       }
     }
   ],

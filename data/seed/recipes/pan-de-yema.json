@@ -132,58 +132,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom yeast"
+        "en": "Bloom yeast",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Délayer la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast with a little sugar in lukewarm water, let stand until frothy, then stir in a cup of flour, cover and let rise an hour."
+        "en": "Dissolve the yeast with a little sugar in lukewarm water, let stand until frothy, then stir in a cup of flour, cover and let rise an hour.",
+        "de": "Die Hefe mit etwas Zucker in lauwarmem Wasser auflösen, stehen lassen, bis sie schäumt, dann eine Tasse Mehl einrühren, abdecken und eine Stunde gehen lassen.",
+        "es": "Disolver la levadura con un poco de azúcar en agua tibia, dejar reposar hasta que espume, luego añadir una taza de harina, tapar y dejar fermentar una hora.",
+        "fr": "Dissoudre la levure avec un peu de sucre dans de l'eau tiède, laisser reposer jusqu'à ce que ça mousse, puis incorporer une tasse de farine, couvrir et laisser lever une heure.",
+        "ro": "Dizolvă drojdia cu puțin zahăr în apă călduță, lasă până face spumă, apoi încorporează o cană de făină, acoperă și lasă la crescut o oră."
       }
     },
     {
       "title": {
-        "en": "Cream butter"
+        "en": "Cream butter",
+        "de": "Butter cremig rühren",
+        "es": "Batir la mantequilla",
+        "fr": "Crémer le beurre",
+        "ro": "Frecă untul"
       },
       "summary": {
-        "en": "Beat the butter with the remaining sugar until creamy."
+        "en": "Beat the butter with the remaining sugar until creamy.",
+        "de": "Die Butter mit dem restlichen Zucker cremig rühren.",
+        "es": "Batir la mantequilla con el resto del azúcar hasta que quede cremosa.",
+        "fr": "Battre le beurre avec le reste du sucre jusqu'à consistance crémeuse.",
+        "ro": "Freacă untul cu restul de zahăr până devine cremos."
       }
     },
     {
       "title": {
-        "en": "Build dough"
+        "en": "Build dough",
+        "de": "Teig aufbauen",
+        "es": "Formar la masa",
+        "fr": "Constituer la pâte",
+        "ro": "Formează aluatul"
       },
       "summary": {
-        "en": "Beat in the yeast sponge, egg yolks, whole eggs, remaining flour and salt."
+        "en": "Beat in the yeast sponge, egg yolks, whole eggs, remaining flour and salt.",
+        "de": "Den Hefevorteig, die Eigelbe, ganzen Eier, das restliche Mehl und Salz einrühren.",
+        "es": "Incorporar la esponja de levadura, las yemas, los huevos enteros, el resto de la harina y la sal.",
+        "fr": "Incorporer la pâte de levure, les jaunes d'œufs, les œufs entiers, le reste de farine et le sel.",
+        "ro": "Încorporează prospătura, gălbenușurile, ouăle întregi, restul de făină și sarea."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead 10-12 minutes until soft, smooth and shiny."
+        "en": "Knead 10-12 minutes until soft, smooth and shiny.",
+        "de": "10-12 Minuten kneten, bis er weich, glatt und glänzend ist.",
+        "es": "Amasar 10-12 minutos hasta que quede suave, lisa y brillante.",
+        "fr": "Pétrir 10-12 minutes jusqu'à obtenir une pâte souple, lisse et brillante.",
+        "ro": "Frământă 10-12 minute până devine moale, neted și lucios."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let rise about an hour, until doubled."
+        "en": "Cover and let rise about an hour, until doubled.",
+        "de": "Abdecken und etwa eine Stunde gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Tapar y dejar fermentar aproximadamente una hora, hasta que doble su volumen.",
+        "fr": "Couvrir et laisser lever environ une heure, jusqu'au double.",
+        "ro": "Acoperă și lasă la crescut aproximativ o oră, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape & second rise"
+        "en": "Shape & second rise",
+        "de": "Formen & zweite Gare",
+        "es": "Formar y segundo levado",
+        "fr": "Façonner & second apprêt",
+        "ro": "Modelează și a doua dospire"
       },
       "summary": {
-        "en": "Divide into 16 balls, space on buttered sheets, and proof 45 minutes to an hour."
+        "en": "Divide into 16 balls, space on buttered sheets, and proof 45 minutes to an hour.",
+        "de": "In 16 Kugeln teilen, mit Abstand auf gebutterte Bleche setzen und 45 Minuten bis eine Stunde gehen lassen.",
+        "es": "Dividir en 16 bolas, colocarlas separadas en bandejas enmantequilladas y dejar fermentar de 45 minutos a una hora.",
+        "fr": "Diviser en 16 boules, les espacer sur des plaques beurrées et laisser pousser 45 minutes à une heure.",
+        "ro": "Împarte în 16 bile, așază-le distanțate pe tăvi unse cu unt și lasă la dospit 45 de minute până la o oră."
       }
     },
     {
       "title": {
-        "en": "Score, glaze & bake"
+        "en": "Score, glaze & bake",
+        "de": "Einschneiden, bestreichen & backen",
+        "es": "Greñar, glasear y hornear",
+        "fr": "Lamer, dorer & cuire",
+        "ro": "Crestează, unge și coace"
       },
       "summary": {
-        "en": "Slash each bun three times, brush with egg wash, and bake until golden."
+        "en": "Slash each bun three times, brush with egg wash, and bake until golden.",
+        "de": "Jedes Brötchen dreimal einschneiden, mit Eistreiche bestreichen und backen, bis es goldbraun ist.",
+        "es": "Hacer tres cortes en cada bollo, pintar con huevo batido y hornear hasta que estén dorados.",
+        "fr": "Entailler chaque brioche trois fois, dorer à l'œuf et cuire jusqu'à coloration dorée.",
+        "ro": "Crestează fiecare chiflă de trei ori, unge cu ou bătut și coace până devine auriu."
       }
     }
   ],

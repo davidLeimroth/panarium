@@ -125,50 +125,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, sugar, salt, yeast and dried fruit in a bowl."
+        "en": "Combine flour, sugar, salt, yeast and dried fruit in a bowl.",
+        "de": "Mehl, Zucker, Salz, Hefe und Trockenfrüchte in einer Schüssel vermengen.",
+        "es": "Combinar la harina, el azúcar, la sal, la levadura y la fruta seca en un bol.",
+        "fr": "Mélanger farine, sucre, sel, levure et fruits secs dans un saladier.",
+        "ro": "Combină făina, zahărul, sarea, drojdia și fructele uscate într-un bol."
       }
     },
     {
       "title": {
-        "en": "Add warm milk & butter"
+        "en": "Add warm milk & butter",
+        "de": "Warme Milch & Butter zugeben",
+        "es": "Añadir leche y mantequilla tibias",
+        "fr": "Ajouter lait et beurre tièdes",
+        "ro": "Adaugă lapte și unt călduțe"
       },
       "summary": {
-        "en": "Heat the milk and butter together to lukewarm, work into the dry ingredients, and knead about 5 minutes to a cohesive dough."
+        "en": "Heat the milk and butter together to lukewarm, work into the dry ingredients, and knead about 5 minutes to a cohesive dough.",
+        "de": "Milch und Butter zusammen lauwarm erwärmen, in die trockenen Zutaten einarbeiten und etwa 5 Minuten zu einem zusammenhängenden Teig kneten.",
+        "es": "Calentar juntas la leche y la mantequilla hasta que estén tibias, incorporar a los ingredientes secos y amasar unos 5 minutos hasta lograr una masa cohesionada.",
+        "fr": "Chauffer ensemble le lait et le beurre jusqu'à tiède, incorporer aux ingrédients secs et pétrir environ 5 minutes pour obtenir une pâte homogène.",
+        "ro": "Încălzește împreună laptele și untul până devin călduțe, încorporează-le în ingredientele uscate și frământă aproximativ 5 minute până obții un aluat coeziv."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Prove in a warm place about an hour, until doubled."
+        "en": "Prove in a warm place about an hour, until doubled.",
+        "de": "An einem warmen Ort etwa eine Stunde gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Fermentar en un lugar cálido aproximadamente una hora, hasta que doble.",
+        "fr": "Faire pousser dans un endroit chaud environ une heure, jusqu'au double.",
+        "ro": "Lasă la crescut într-un loc călduț aproximativ o oră, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Knock back & shape"
+        "en": "Knock back & shape",
+        "de": "Entgasen & formen",
+        "es": "Desgasificar y formar",
+        "fr": "Dégazer & façonner",
+        "ro": "Elimină gazele și modelează"
       },
       "summary": {
-        "en": "Briefly knead again, then shape into a single large round loaf."
+        "en": "Briefly knead again, then shape into a single large round loaf.",
+        "de": "Kurz erneut kneten, dann zu einem einzigen großen runden Laib formen.",
+        "es": "Amasar brevemente de nuevo, luego formar un único pan redondo grande.",
+        "fr": "Pétrir brièvement à nouveau, puis façonner en un seul grand pain rond.",
+        "ro": "Frământă din nou, scurt timp, apoi modelează o singură pâine rotundă, mare."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Second apprêt",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Prove 45 minutes to an hour, until doubled again."
+        "en": "Prove 45 minutes to an hour, until doubled again.",
+        "de": "45 Minuten bis eine Stunde gehen lassen, bis er sich erneut verdoppelt hat.",
+        "es": "Fermentar de 45 minutos a una hora, hasta que vuelva a doblar.",
+        "fr": "Faire pousser 45 minutes à une heure, jusqu'à ce qu'il double à nouveau.",
+        "ro": "Lasă la crescut 45 de minute până la o oră, până se dublează din nou."
       }
     },
     {
       "title": {
-        "en": "Glaze & bake"
+        "en": "Glaze & bake",
+        "de": "Bestreichen & backen",
+        "es": "Glasear y hornear",
+        "fr": "Dorer & cuire",
+        "ro": "Unge și coace"
       },
       "summary": {
-        "en": "Brush with milk and bake until deeply golden and hollow-sounding underneath, 40-50 minutes; cool completely before slicing."
+        "en": "Brush with milk and bake until deeply golden and hollow-sounding underneath, 40-50 minutes; cool completely before slicing.",
+        "de": "Mit Milch bestreichen und backen, bis er tief goldbraun ist und von unten hohl klingt, 40-50 Minuten; vor dem Anschneiden vollständig abkühlen lassen.",
+        "es": "Pintar con leche y hornear hasta que esté muy dorado y suene hueco por debajo, 40-50 minutos; dejar enfriar por completo antes de cortar.",
+        "fr": "Badigeonner de lait et cuire jusqu'à coloration bien dorée et un son creux en dessous, 40-50 minutes ; laisser refroidir complètement avant de trancher.",
+        "ro": "Unge cu lapte și coace până devine auriu-închis și sună a gol dedesubt, 40-50 de minute; lasă să se răcească complet înainte de a felia."
       }
     }
   ],

@@ -101,58 +101,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix masa"
+        "en": "Mix masa",
+        "de": "Masa mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la masa",
+        "ro": "Amestecă masa"
       },
       "summary": {
-        "en": "Knead masa harina with warm water (and salt if using) about 2 minutes to a smooth, moist dough with the texture of soft playdough."
+        "en": "Knead masa harina with warm water (and salt if using) about 2 minutes to a smooth, moist dough with the texture of soft playdough.",
+        "de": "Masa harina mit warmem Wasser (und Salz, falls verwendet) etwa 2 Minuten kneten, bis ein glatter, feuchter Teig mit der Konsistenz von weicher Knetmasse entsteht.",
+        "es": "Amasar la masa harina con agua tibia (y sal si la usas) unos 2 minutos hasta obtener una masa lisa y húmeda con la textura de plastilina blanda.",
+        "fr": "Pétrir la masa harina avec de l'eau tiède (et le sel si utilisé) environ 2 minutes, jusqu'à une pâte lisse et humide, avec la texture d'une pâte à modeler souple.",
+        "ro": "Frământă masa harina cu apă călduță (și sare, dacă folosești) circa 2 minute, până obții un aluat neted și umed, cu textura unei plastiline moi."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Cover and let the masa rest 15-20 minutes so the flour fully hydrates."
+        "en": "Cover and let the masa rest 15-20 minutes so the flour fully hydrates.",
+        "de": "Zugedeckt die Masa 15-20 Minuten ruhen lassen, damit das Mehl vollständig hydratisiert.",
+        "es": "Tapar y dejar reposar la masa 15-20 minutos para que la harina se hidrate por completo.",
+        "fr": "Couvrir et laisser reposer la masa 15-20 minutes pour que la farine s'hydrate complètement.",
+        "ro": "Acoperă și lasă masa la odihnă 15-20 de minute, ca făina să se hidrateze complet."
       }
     },
     {
       "title": {
-        "en": "Portion"
+        "en": "Portion",
+        "de": "Portionieren",
+        "es": "Porcionar",
+        "fr": "Portionner",
+        "ro": "Porționează"
       },
       "summary": {
-        "en": "Divide into small, even balls."
+        "en": "Divide into small, even balls.",
+        "de": "In kleine, gleichmäßige Kugeln teilen.",
+        "es": "Dividir en bolas pequeñas y uniformes.",
+        "fr": "Diviser en petites boules régulières.",
+        "ro": "Împarte în bile mici și uniforme."
       }
     },
     {
       "title": {
-        "en": "Press"
+        "en": "Press",
+        "de": "Pressen",
+        "es": "Prensar",
+        "fr": "Presser",
+        "ro": "Presează"
       },
       "summary": {
-        "en": "Flatten each ball between sheets of plastic in a tortilla press (or by hand) into a thin round."
+        "en": "Flatten each ball between sheets of plastic in a tortilla press (or by hand) into a thin round.",
+        "de": "Jede Kugel zwischen Plastikfolien in einer Tortillapresse (oder von Hand) zu einem dünnen Rund flach drücken.",
+        "es": "Aplanar cada bola entre láminas de plástico en una prensa de tortillas (o a mano) hasta formar un disco fino.",
+        "fr": "Aplatir chaque boule entre des feuilles de plastique dans une presse à tortillas (ou à la main) en un disque fin.",
+        "ro": "Presează fiecare bilă între folii de plastic într-o presă de tortilla (sau manual), până obții un disc subțire."
       }
     },
     {
       "title": {
-        "en": "Griddle, first side"
+        "en": "Griddle, first side",
+        "de": "Erste Seite backen",
+        "es": "A la plancha, primer lado",
+        "fr": "Cuisson, premier côté",
+        "ro": "Pe plită, prima parte"
       },
       "summary": {
-        "en": "Lay on a hot dry comal about 30 seconds, until it releases easily."
+        "en": "Lay on a hot dry comal about 30 seconds, until it releases easily.",
+        "de": "Auf einen heißen, trockenen Comal legen, etwa 30 Sekunden, bis sie sich leicht löst.",
+        "es": "Colocar sobre un comal seco y caliente unos 30 segundos, hasta que se despegue con facilidad.",
+        "fr": "Poser sur un comal sec et chaud environ 30 secondes, jusqu'à ce qu'elle se détache facilement.",
+        "ro": "Așază pe un comal uscat și fierbinte circa 30 de secunde, până se desprinde ușor."
       }
     },
     {
       "title": {
-        "en": "Flip twice"
+        "en": "Flip twice",
+        "de": "Zweimal wenden",
+        "es": "Voltear dos veces",
+        "fr": "Retourner deux fois",
+        "ro": "Întoarce de două ori"
       },
       "summary": {
-        "en": "Cook the second side about 30 seconds, then flip back to the first side briefly until it puffs with steam."
+        "en": "Cook the second side about 30 seconds, then flip back to the first side briefly until it puffs with steam.",
+        "de": "Die zweite Seite etwa 30 Sekunden backen, dann kurz zurück auf die erste Seite wenden, bis sie sich mit Dampf aufbläht.",
+        "es": "Cocinar el segundo lado unos 30 segundos, luego voltear de nuevo al primer lado brevemente hasta que se infle con vapor.",
+        "fr": "Cuire le second côté environ 30 secondes, puis retourner brièvement sur le premier côté jusqu'à ce qu'elle gonfle sous la vapeur.",
+        "ro": "Coace a doua parte circa 30 de secunde, apoi întoarce din nou pe prima parte scurt, până se umflă cu abur."
       }
     },
     {
       "title": {
-        "en": "Keep warm"
+        "en": "Keep warm",
+        "de": "Warmhalten",
+        "es": "Mantener calientes",
+        "fr": "Garder au chaud",
+        "ro": "Păstrează-le calde"
       },
       "summary": {
-        "en": "Stack in a cloth-lined basket to stay soft and pliable."
+        "en": "Stack in a cloth-lined basket to stay soft and pliable.",
+        "de": "In einem mit Tuch ausgelegten Korb stapeln, damit sie weich und geschmeidig bleiben.",
+        "es": "Apilarlas en una cesta forrada con un paño para que se mantengan blandas y flexibles.",
+        "fr": "Empiler dans un panier tapissé d'un linge pour qu'elles restent souples et moelleuses.",
+        "ro": "Stivuiește-le într-un coș căptușit cu un prosop, ca să rămână moi și flexibile."
       }
     }
   ],

@@ -111,50 +111,98 @@
   "method": [
     {
       "title": {
-        "en": "Build the pre-ferment"
+        "en": "Build the pre-ferment",
+        "de": "Vorteig ansetzen",
+        "es": "Preparar el prefermento",
+        "fr": "Préparer le levain-levure",
+        "ro": "Pregătește prospătura"
       },
       "summary": {
-        "en": "Mix part of the flour with water and yeast (locally still called the 'levain', though it's yeasted); let rise about 2 hours."
+        "en": "Mix part of the flour with water and yeast (locally still called the 'levain', though it's yeasted); let rise about 2 hours.",
+        "de": "Einen Teil des Mehls mit Wasser und Hefe vermischen (vor Ort trotz Hefezusatz noch 'Levain' genannt); etwa 2 Stunden gehen lassen.",
+        "es": "Mezclar parte de la harina con agua y levadura (localmente todavía llamado 'levain', aunque lleva levadura); dejar fermentar unas 2 horas.",
+        "fr": "Mélanger une partie de la farine avec l'eau et la levure (encore appelé localement 'levain', bien qu'il soit à la levure) ; laisser lever environ 2 heures.",
+        "ro": "Amestecă o parte din făină cu apă și drojdie (numit local tot 'levain', deși e cu drojdie); lasă la crescut aproximativ 2 ore."
       }
     },
     {
       "title": {
-        "en": "Mix the rest"
+        "en": "Mix the rest",
+        "de": "Rest mischen",
+        "es": "Mezclar el resto",
+        "fr": "Mélanger le reste",
+        "ro": "Amestecă restul"
       },
       "summary": {
-        "en": "Combine the remaining flour, water, yeast and butter into a rough paste."
+        "en": "Combine the remaining flour, water, yeast and butter into a rough paste.",
+        "de": "Das restliche Mehl, Wasser, Hefe und Butter zu einer groben Masse vermengen.",
+        "es": "Combinar el resto de la harina, el agua, la levadura y la mantequilla en una pasta tosca.",
+        "fr": "Mélanger le reste de la farine, l'eau, la levure et le beurre en une pâte grossière.",
+        "ro": "Amestecă restul de făină, apa, drojdia și untul într-o pastă grosieră."
       }
     },
     {
       "title": {
-        "en": "Knead hard"
+        "en": "Knead hard",
+        "de": "Kräftig kneten",
+        "es": "Amasar con fuerza",
+        "fr": "Pétrir énergiquement",
+        "ro": "Frământă puternic"
       },
       "summary": {
-        "en": "Bring everything together with the salt and knead vigorously by hand for a full 15-20 minutes, this hard, sustained work is what tightens ('brie') the crumb."
+        "en": "Bring everything together with the salt and knead vigorously by hand for a full 15-20 minutes, this hard, sustained work is what tightens ('brie') the crumb.",
+        "de": "Alles mit dem Salz zusammenbringen und von Hand kräftig volle 15-20 Minuten kneten, diese harte, anhaltende Arbeit ist es, die die Krume festigt ('brie').",
+        "es": "Juntar todo con la sal y amasar con fuerza a mano durante 15-20 minutos completos, este trabajo duro y sostenido es lo que aprieta ('brie') la miga.",
+        "fr": "Rassembler le tout avec le sel et pétrir vigoureusement à la main pendant 15-20 minutes complètes, ce travail dur et soutenu est ce qui resserre ('brie') la mie.",
+        "ro": "Adună totul cu sarea și frământă viguros cu mâna timp de 15-20 de minute întregi, această muncă susținută și intensă este cea care strânge ('brie') miezul."
       }
     },
     {
       "title": {
-        "en": "Rest and divide"
+        "en": "Rest and divide",
+        "de": "Ruhen und teilen",
+        "es": "Reposar y dividir",
+        "fr": "Reposer et diviser",
+        "ro": "Odihnă și împărțire"
       },
       "summary": {
-        "en": "Rest briefly, then divide and shape into stubby loaves."
+        "en": "Rest briefly, then divide and shape into stubby loaves.",
+        "de": "Kurz ruhen lassen, dann teilen und zu kurzen, gedrungenen Laiben formen.",
+        "es": "Dejar reposar brevemente, luego dividir y formar hogazas cortas y rechonchas.",
+        "fr": "Laisser reposer brièvement, puis diviser et façonner en pains courts et trapus.",
+        "ro": "Lasă la odihnă puțin, apoi împarte și modelează în pâini scurte și îndesate."
       }
     },
     {
       "title": {
-        "en": "Score and proof"
+        "en": "Score and proof",
+        "de": "Einschneiden und Gare",
+        "es": "Marcar y fermentar",
+        "fr": "Inciser et apprêt",
+        "ro": "Crestează și dospește"
       },
       "summary": {
-        "en": "Cut parallel scores lengthwise and proof about an hour."
+        "en": "Cut parallel scores lengthwise and proof about an hour.",
+        "de": "Parallele Längsschnitte einritzen und etwa eine Stunde gehen lassen.",
+        "es": "Hacer cortes paralelos a lo largo y dejar fermentar cerca de una hora.",
+        "fr": "Faire des entailles parallèles dans le sens de la longueur et laisser pousser environ une heure.",
+        "ro": "Crestează dungi paralele pe lungime și lasă la dospit aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until a pale golden 'blonde' crust forms; cool wrapped in cloth to keep the crumb soft."
+        "en": "Bake until a pale golden 'blonde' crust forms; cool wrapped in cloth to keep the crumb soft.",
+        "de": "Backen, bis eine blasse, goldene 'blonde' Kruste entsteht; in ein Tuch gewickelt auskühlen lassen, damit die Krume weich bleibt.",
+        "es": "Hornear hasta que se forme una corteza dorada pálida 'blonde'; dejar enfriar envuelto en un paño para que la miga quede tierna.",
+        "fr": "Cuire jusqu'à l'apparition d'une croûte dorée pâle dite 'blonde' ; laisser refroidir enveloppé dans un linge pour garder la mie moelleuse.",
+        "ro": "Coace până se formează o coajă auriu-pal, numită 'blonde'; lasă la răcit înfășurat într-un prosop de bucătărie ca miezul să rămână moale."
       }
     }
   ],

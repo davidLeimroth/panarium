@@ -116,58 +116,114 @@
   "method": [
     {
       "title": {
-        "en": "Activate the yeast"
+        "en": "Activate the yeast",
+        "de": "Hefe aktivieren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Dissolve yeast and a little sugar in warm water and let it stand until foamy."
+        "en": "Dissolve yeast and a little sugar in warm water and let it stand until foamy.",
+        "de": "Hefe und etwas Zucker in warmem Wasser auflösen und stehen lassen, bis es schäumt.",
+        "es": "Disolver la levadura y un poco de azúcar en agua tibia y dejar reposar hasta que espume.",
+        "fr": "Dissoudre la levure et un peu de sucre dans l'eau tiède et laisser reposer jusqu'à ce que ça mousse.",
+        "ro": "Dizolvă drojdia și puțin zahăr în apă călduță și lasă la odihnă până face spumă."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Prepară aluatul"
       },
       "summary": {
-        "en": "Combine flour and salt, then work in the yeasted water until a rough dough forms."
+        "en": "Combine flour and salt, then work in the yeasted water until a rough dough forms.",
+        "de": "Mehl und Salz vermengen, dann das Hefewasser einarbeiten, bis sich ein grober Teig bildet.",
+        "es": "Combinar la harina y la sal, luego incorporar el agua con levadura hasta formar una masa tosca.",
+        "fr": "Combiner la farine et le sel, puis incorporer l'eau levurée jusqu'à former une pâte grossière.",
+        "ro": "Combină făina și sarea, apoi încorporează apa cu drojdie până se formează un aluat grosier."
       }
     },
     {
       "title": {
-        "en": "Knead and ferment"
+        "en": "Knead and ferment",
+        "de": "Kneten & gären",
+        "es": "Amasar y fermentar",
+        "fr": "Pétrir et fermenter",
+        "ro": "Frământă și fermentează"
       },
       "summary": {
-        "en": "Knead about 10 minutes until smooth and uniform, then let it rise until puffy, about 30 minutes."
+        "en": "Knead about 10 minutes until smooth and uniform, then let it rise until puffy, about 30 minutes.",
+        "de": "Etwa 10 Minuten kneten, bis der Teig glatt und gleichmäßig ist, dann etwa 30 Minuten gehen lassen, bis er deutlich aufgegangen ist.",
+        "es": "Amasar unos 10 minutos hasta que quede lisa y uniforme, luego dejar fermentar hasta que esté hinchada, unos 30 minutos.",
+        "fr": "Pétrir environ 10 minutes jusqu'à ce que la pâte soit lisse et uniforme, puis laisser lever jusqu'à ce qu'elle soit gonflée, environ 30 minutes.",
+        "ro": "Frământă circa 10 minute până devine neted și uniform, apoi lasă la crescut până se umflă, circa 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Portion and rest"
+        "en": "Portion and rest",
+        "de": "Portionieren & ruhen",
+        "es": "Porcionar y reposar",
+        "fr": "Portionner et reposer",
+        "ro": "Porționează și odihnește"
       },
       "summary": {
-        "en": "Divide into roughly 100g balls and let them rest, covered, for about half an hour."
+        "en": "Divide into roughly 100g balls and let them rest, covered, for about half an hour.",
+        "de": "In Kugeln von etwa 100g teilen und zugedeckt etwa eine halbe Stunde ruhen lassen.",
+        "es": "Dividir en bolas de unos 100g y dejar reposar, tapadas, cerca de media hora.",
+        "fr": "Diviser en boules d'environ 100g et laisser reposer, couvertes, environ une demi-heure.",
+        "ro": "Împarte în bile de circa 100g și lasă la odihnă, acoperite, circa jumătate de oră."
       }
     },
     {
       "title": {
-        "en": "Join and mark"
+        "en": "Join and mark",
+        "de": "Verbinden & markieren",
+        "es": "Unir y marcar",
+        "fr": "Assembler et marquer",
+        "ro": "Unește și marchează"
       },
       "summary": {
-        "en": "Press two balls together end to end, then push a floured dowel firmly through the center to create the classic four-lobed silhouette."
+        "en": "Press two balls together end to end, then push a floured dowel firmly through the center to create the classic four-lobed silhouette.",
+        "de": "Zwei Kugeln Ende an Ende zusammendrücken, dann ein bemehltes Stäbchen fest durch die Mitte drücken, um die klassische vierlappige Silhouette zu erzeugen.",
+        "es": "Presionar dos bolas juntas de extremo a extremo, luego presionar firmemente un palo enharinado por el centro para crear la clásica silueta de cuatro lóbulos.",
+        "fr": "Presser deux boules bout à bout, puis enfoncer fermement une baguette farinée au centre pour créer la silhouette classique à quatre lobes.",
+        "ro": "Presează două bile cap la cap, apoi împinge ferm un bețișor făinat prin centru, pentru silueta clasică cu patru lobi."
       }
     },
     {
       "title": {
-        "en": "Final rise"
+        "en": "Final rise",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let the shaped loaves rest until puffy, then brush lightly with oil."
+        "en": "Let the shaped loaves rest until puffy, then brush lightly with oil.",
+        "de": "Die geformten Laibe ruhen lassen, bis sie deutlich aufgegangen sind, dann leicht mit Öl bestreichen.",
+        "es": "Dejar reposar las piezas formadas hasta que estén hinchadas, luego pincelar ligeramente con aceite.",
+        "fr": "Laisser reposer les pains façonnés jusqu'à ce qu'ils soient gonflés, puis badigeonner légèrement d'huile.",
+        "ro": "Lasă pâinile modelate să se odihnească până se umflă, apoi unge-le ușor cu ulei."
       }
     },
     {
       "title": {
-        "en": "Bake with steam"
+        "en": "Bake with steam",
+        "de": "Mit Schwaden backen",
+        "es": "Hornear con vapor",
+        "fr": "Cuire avec buée",
+        "ro": "Coace cu abur"
       },
       "summary": {
-        "en": "Bake in a hot oven with a tray of boiling water for the first stretch, which keeps the crust glassy and lets it expand fully."
+        "en": "Bake in a hot oven with a tray of boiling water for the first stretch, which keeps the crust glassy and lets it expand fully.",
+        "de": "In einem heißen Ofen backen, dabei zu Beginn eine Schale kochendes Wasser für Schwaden zugeben; das hält die Kruste glasig und lässt den Laib sich voll entfalten.",
+        "es": "Hornear en horno caliente con una bandeja de agua hirviendo durante el primer tramo, lo que mantiene la corteza vidriosa y permite que se expanda por completo.",
+        "fr": "Cuire au four chaud avec un plateau d'eau bouillante durant la première phase, pour créer de la buée qui garde la croûte vitreuse et laisse le pain bien se développer.",
+        "ro": "Coace într-un cuptor fierbinte cu o tavă de apă clocotită în prima parte, ceea ce păstrează coaja sticloasă și permite pâinii să crească pe deplin."
       }
     }
   ],

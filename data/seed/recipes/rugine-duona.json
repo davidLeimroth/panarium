@@ -129,58 +129,114 @@
   "method": [
     {
       "title": {
-        "en": "Scald the malt"
+        "en": "Scald the malt",
+        "de": "Malz brühen",
+        "es": "Escaldar la malta",
+        "fr": "Ébouillanter le malt",
+        "ro": "Oprește malțul"
       },
       "summary": {
-        "en": "Mix red rye malt with rye flour and pour over boiling water; hold warm to gelatinize and sweeten."
+        "en": "Mix red rye malt with rye flour and pour over boiling water; hold warm to gelatinize and sweeten.",
+        "de": "Rotes Roggenmalz mit Roggenmehl vermengen und mit kochendem Wasser übergießen; warm halten, damit es verkleistert und süß wird.",
+        "es": "Mezclar malta roja de centeno con harina de centeno y verter agua hirviendo por encima; mantener caliente para que gelatinice y endulce.",
+        "fr": "Mélanger du malt de seigle rouge avec de la farine de seigle et verser de l'eau bouillante dessus ; maintenir au chaud pour qu'il gélatinise et sucre.",
+        "ro": "Amestecă malț roșu de secară cu făină de secară și toarnă apă clocotită peste el; ține la cald ca să se gelatinizeze și să se îndulcească."
       }
     },
     {
       "title": {
-        "en": "Build the sour"
+        "en": "Build the sour",
+        "de": "Sauerteig füttern",
+        "es": "Preparar el fermento",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua"
       },
       "summary": {
-        "en": "Feed a rye starter with flour and water; ferment 10-12 hours until active."
+        "en": "Feed a rye starter with flour and water; ferment 10-12 hours until active.",
+        "de": "Einen Roggensauerteig mit Mehl und Wasser füttern; 10-12 Stunden fermentieren lassen, bis er aktiv ist.",
+        "es": "Alimentar una masa madre de centeno con harina y agua; dejar fermentar 10-12 horas hasta que esté activa.",
+        "fr": "Nourrir un levain de seigle avec farine et eau ; laisser fermenter 10-12 heures jusqu'à ce qu'il soit actif.",
+        "ro": "Hrănește o maia de secară cu făină și apă; lasă la fermentat 10-12 ore până devine activă."
       }
     },
     {
       "title": {
-        "en": "Compound sponge"
+        "en": "Compound sponge",
+        "de": "Vorteig ansetzen",
+        "es": "Esponja compuesta",
+        "fr": "Éponge composée",
+        "ro": "Prospătură compusă"
       },
       "summary": {
-        "en": "Combine the sour, the cooled scald, honey, sugar and more rye flour; ferment again overnight."
+        "en": "Combine the sour, the cooled scald, honey, sugar and more rye flour; ferment again overnight.",
+        "de": "Den Sauerteig, die abgekühlte Brühmasse, Honig, Zucker und weiteres Roggenmehl vermengen; erneut über Nacht fermentieren lassen.",
+        "es": "Combinar el fermento, la masa escaldada ya fría, miel, azúcar y más harina de centeno; dejar fermentar de nuevo toda la noche.",
+        "fr": "Combiner le levain, l'ébouillantage refroidi, le miel, le sucre et davantage de farine de seigle ; laisser fermenter à nouveau toute la nuit.",
+        "ro": "Combină maiaua, compoziția oprită și răcită, mierea, zahărul și mai multă făină de secară; lasă la fermentat din nou peste noapte."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Work in the remaining rye and wheat flour, salt and water to a dense, cohesive dough."
+        "en": "Work in the remaining rye and wheat flour, salt and water to a dense, cohesive dough.",
+        "de": "Das restliche Roggen- und Weizenmehl, Salz und Wasser einarbeiten zu einem dichten, zusammenhängenden Teig.",
+        "es": "Incorporar el resto de la harina de centeno y de trigo, la sal y el agua hasta obtener una masa densa y uniforme.",
+        "fr": "Incorporer le reste de la farine de seigle et de blé, le sel et l'eau jusqu'à une pâte dense et homogène.",
+        "ro": "Încorporează restul de făină de secară și de grâu, sarea și apa până obții un aluat dens și coeziv."
       }
     },
     {
       "title": {
-        "en": "Pan and proof"
+        "en": "Pan and proof",
+        "de": "Formen und gären",
+        "es": "Moldear y fermentar",
+        "fr": "Mouler et pousser",
+        "ro": "Pune în tavă și lasă la dospit"
       },
       "summary": {
-        "en": "Shape into a loaf pan and proof 2-3 hours at room temperature."
+        "en": "Shape into a loaf pan and proof 2-3 hours at room temperature.",
+        "de": "In eine Kastenform füllen und 2-3 Stunden bei Raumtemperatur gären lassen.",
+        "es": "Dar forma en un molde de pan y dejar fermentar 2-3 horas a temperatura ambiente.",
+        "fr": "Façonner dans un moule à cake et laisser pousser 2-3 heures à température ambiante.",
+        "ro": "Modelează și pune într-o tavă de pâine, apoi lasă la dospit 2-3 ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot, stepping the oven down partway through, then brush with a starch glaze for shine."
+        "en": "Bake hot, stepping the oven down partway through, then brush with a starch glaze for shine.",
+        "de": "Heiß backen und die Ofentemperatur währenddessen senken, dann mit einer Stärkeglasur für Glanz bestreichen.",
+        "es": "Hornear caliente, bajando la temperatura del horno a mitad de cocción, luego pincelar con un glaseado de almidón para dar brillo.",
+        "fr": "Cuire chaud, en baissant la température du four à mi-cuisson, puis badigeonner d'un glaçage à l'amidon pour le brillant.",
+        "ro": "Coace fierbinte, coborând temperatura cuptorului pe parcurs, apoi unge cu o glazură de amidon pentru luciu."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cool fully and rest at least 24 hours before slicing."
+        "en": "Cool fully and rest at least 24 hours before slicing.",
+        "de": "Vollständig auskühlen lassen und mindestens 24 Stunden ruhen, bevor angeschnitten wird.",
+        "es": "Dejar enfriar por completo y reposar al menos 24 horas antes de cortar.",
+        "fr": "Laisser refroidir complètement et reposer au moins 24 heures avant de trancher.",
+        "ro": "Lasă să se răcească complet și odihnește cel puțin 24 de ore înainte de feliere."
       }
     }
   ],

@@ -150,66 +150,130 @@
   "method": [
     {
       "title": {
-        "en": "Melt and cool"
+        "en": "Melt and cool",
+        "de": "Schmelzen und abkühlen",
+        "es": "Derretir y enfriar",
+        "fr": "Fondre et refroidir",
+        "ro": "Topește și răcește"
       },
       "summary": {
-        "en": "Warm the milk with the sugar and butter until melted, then cool to lukewarm."
+        "en": "Warm the milk with the sugar and butter until melted, then cool to lukewarm.",
+        "de": "Die Milch mit Zucker und Butter erwärmen, bis alles geschmolzen ist, dann lauwarm abkühlen lassen.",
+        "es": "Calentar la leche con el azúcar y la mantequilla hasta que se derrita, luego dejar enfriar hasta que esté tibia.",
+        "fr": "Chauffer le lait avec le sucre et le beurre jusqu'à ce que ça fonde, puis laisser tiédir.",
+        "ro": "Încălzește laptele cu zahărul și untul până se topesc, apoi lasă să se răcească până devine călduț."
       }
     },
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Whisk the yeast into the tepid water and let it turn foamy."
+        "en": "Whisk the yeast into the tepid water and let it turn foamy.",
+        "de": "Die Hefe in das lauwarme Wasser einrühren und schaumig werden lassen.",
+        "es": "Batir la levadura en el agua tibia y dejar que espume.",
+        "fr": "Fouetter la levure dans l'eau tiède et laisser mousser.",
+        "ro": "Amestecă drojdia în apa călduță și las-o să facă spumă."
       }
     },
     {
       "title": {
-        "en": "Flavor the flour"
+        "en": "Flavor the flour",
+        "de": "Mehl aromatisieren",
+        "es": "Aromatizar la harina",
+        "fr": "Parfumer la farine",
+        "ro": "Aromatizează făina"
       },
       "summary": {
-        "en": "Crush the mahlab and mastic together and stir them into the flour along with the salt and orange zest."
+        "en": "Crush the mahlab and mastic together and stir them into the flour along with the salt and orange zest.",
+        "de": "Mahlab und Mastix gemeinsam zerstoßen und zusammen mit Salz und Orangenschale unter das Mehl rühren.",
+        "es": "Machacar juntos el mahlab y el mástique e incorporarlos a la harina junto con la sal y la ralladura de naranja.",
+        "fr": "Piler ensemble le mahlab et le mastic et les incorporer à la farine avec le sel et le zeste d'orange.",
+        "ro": "Pisează împreună mahlab-ul și mastica și amestecă-le în făină alături de sare și coaja de portocală."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Whisk the eggs into the cooled milk mixture, combine with the yeast water, pour over the flour, and bring together into a rough dough."
+        "en": "Whisk the eggs into the cooled milk mixture, combine with the yeast water, pour over the flour, and bring together into a rough dough.",
+        "de": "Die Eier in die abgekühlte Milchmischung einrühren, mit dem Hefewasser verbinden, über das Mehl gießen und zu einem groben Teig verarbeiten.",
+        "es": "Batir los huevos en la mezcla de leche ya fría, combinar con el agua de levadura, verter sobre la harina y unir todo en una masa tosca.",
+        "fr": "Fouetter les œufs dans le mélange de lait refroidi, combiner avec l'eau de levure, verser sur la farine et rassembler en une pâte grossière.",
+        "ro": "Amestecă ouăle în compoziția de lapte răcită, combină cu apa de drojdie, toarnă peste făină și adună totul într-un aluat grosier."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead with a dough hook for about 15 minutes until smooth, glossy and elastic."
+        "en": "Knead with a dough hook for about 15 minutes until smooth, glossy and elastic.",
+        "de": "Mit dem Knethaken etwa 15 Minuten kneten, bis der Teig glatt, glänzend und elastisch ist.",
+        "es": "Amasar con gancho amasador durante unos 15 minutos hasta que quede lisa, brillante y elástica.",
+        "fr": "Pétrir au crochet environ 15 minutes jusqu'à obtenir une pâte lisse, brillante et élastique.",
+        "ro": "Frământă cu cârligul mixerului aproximativ 15 minute până devine neted, lucios și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let the dough double in size, roughly 2 hours."
+        "en": "Cover and let the dough double in size, roughly 2 hours.",
+        "de": "Zugedeckt gehen lassen, bis sich der Teig verdoppelt hat, etwa 2 Stunden.",
+        "es": "Tapar y dejar que la masa doble su volumen, aproximadamente 2 horas.",
+        "fr": "Couvrir et laisser la pâte doubler de volume, environ 2 heures.",
+        "ro": "Acoperă și lasă aluatul să se dubleze, aproximativ 2 ore."
       }
     },
     {
       "title": {
-        "en": "Braid, coil and hide the coin"
+        "en": "Braid, coil and hide the coin",
+        "de": "Flechten, aufrollen und Münze verstecken",
+        "es": "Trenzar, enroscar y esconder la moneda",
+        "fr": "Tresser, enrouler et cacher la pièce",
+        "ro": "Împletește, rulează și ascunde moneda"
       },
       "summary": {
-        "en": "Divide into three ropes, braid them, then coil the braid into a buttered tin, tucking a foil-wrapped coin into the underside of the dough. Proof again for about 2 hours."
+        "en": "Divide into three ropes, braid them, then coil the braid into a buttered tin, tucking a foil-wrapped coin into the underside of the dough. Proof again for about 2 hours.",
+        "de": "In drei Stränge teilen, sie flechten, dann die Flechte in eine gebutterte Form einrollen und dabei eine in Folie gewickelte Münze in die Unterseite des Teigs stecken. Erneut etwa 2 Stunden gehen lassen.",
+        "es": "Dividir en tres tiras, trenzarlas, luego enroscar la trenza en un molde enmantequillado, escondiendo una moneda envuelta en papel de aluminio en la parte inferior de la masa. Dejar fermentar de nuevo unas 2 horas.",
+        "fr": "Diviser en trois brins, les tresser, puis enrouler la tresse dans un moule beurré, en glissant une pièce enveloppée de papier aluminium sous la pâte. Laisser pousser de nouveau environ 2 heures.",
+        "ro": "Împarte în trei fitile, împletește-le, apoi rulează împletitura într-o tavă unsă cu unt, îndesând o monedă înfășurată în folie de aluminiu pe partea de dedesubt a aluatului. Lasă din nou la dospit aproximativ 2 ore."
       }
     },
     {
       "title": {
-        "en": "Bake and finish"
+        "en": "Bake and finish",
+        "de": "Backen und fertigstellen",
+        "es": "Hornear y terminar",
+        "fr": "Cuire et finaliser",
+        "ro": "Coace și finalizează"
       },
       "summary": {
-        "en": "Bake at a gentle 150°C for about 30 minutes until deep gold and hollow-sounding, then cool fully before glazing and scattering with toasted almonds."
+        "en": "Bake at a gentle 150°C for about 30 minutes until deep gold and hollow-sounding, then cool fully before glazing and scattering with toasted almonds.",
+        "de": "Bei sanften 150°C etwa 30 Minuten backen, bis es tief golden ist und hohl klingt, dann vollständig auskühlen lassen, bevor glasiert und mit gerösteten Mandeln bestreut wird.",
+        "es": "Hornear a unos suaves 150°C durante 30 minutos hasta que esté bien dorado y suene hueco, luego dejar enfriar por completo antes de glasear y esparcir almendras tostadas.",
+        "fr": "Cuire à 150°C, four doux, pendant environ 30 minutes jusqu'à belle couleur dorée et son creux, puis laisser refroidir complètement avant de glacer et de parsemer d'amandes torréfiées.",
+        "ro": "Coace la 150°C, temperatură blândă, timp de aproximativ 30 de minute până devine auriu-închis și sună a gol, apoi lasă să se răcească complet înainte de a glazura și presăra migdale prăjite."
       }
     }
   ],

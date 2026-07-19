@@ -108,58 +108,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the rye sourdough"
+        "en": "Build the rye sourdough",
+        "de": "Roggensauerteig ansetzen",
+        "es": "Preparar la masa madre de centeno",
+        "fr": "Préparer le levain de seigle",
+        "ro": "Pregătește maiaua de secară"
       },
       "summary": {
-        "en": "The evening before, stir warm water, rye wholemeal and a spoonful of active rye starter with a little salt into a thick paste. Cover and let it ferment 12–16 hours at room temperature."
+        "en": "The evening before, stir warm water, rye wholemeal and a spoonful of active rye starter with a little salt into a thick paste. Cover and let it ferment 12–16 hours at room temperature.",
+        "de": "Am Vorabend warmes Wasser, Roggenvollkornmehl und einen Löffel aktives Roggen-Anstellgut mit etwas Salz zu einer dicken Masse verrühren. Zugedeckt 12–16 Stunden bei Raumtemperatur fermentieren lassen.",
+        "es": "La noche anterior, mezclar agua tibia, harina integral de centeno y una cucharada de masa madre de centeno activa con un poco de sal en una pasta espesa. Tapar y dejar fermentar 12–16 horas a temperatura ambiente.",
+        "fr": "La veille au soir, mélanger eau tiède, farine complète de seigle et une cuillerée de levain de seigle actif avec un peu de sel en une pâte épaisse. Couvrir et laisser fermenter 12–16 heures à température ambiante.",
+        "ro": "Cu o seară înainte, amestecă apă călduță, făină integrală de secară și o lingură de maia de secară activă cu puțină sare într-o pastă groasă. Acoperă și lasă la fermentat 12–16 ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Add the remaining rye meal, warm water and salt to the ripe sourdough. Mix just until it comes together into a heavy, cohesive dough, there's no gluten network to develop, so don't overwork it."
+        "en": "Add the remaining rye meal, warm water and salt to the ripe sourdough. Mix just until it comes together into a heavy, cohesive dough, there's no gluten network to develop, so don't overwork it.",
+        "de": "Das restliche Roggenschrot, warmes Wasser und Salz zum reifen Sauerteig geben. Nur so lange mischen, bis ein schwerer, zusammenhängender Teig entsteht, es gibt kein Klebergerüst zu entwickeln, also nicht zu stark bearbeiten.",
+        "es": "Añadir la sémola de centeno restante, agua tibia y sal a la masa madre madura. Mezclar solo hasta que se una en una masa pesada y uniforme, no hay red de gluten que desarrollar, así que no trabajarla de más.",
+        "fr": "Ajouter le reste de la mouture de seigle, de l'eau tiède et le sel au levain mûr. Mélanger juste jusqu'à obtenir une pâte lourde et homogène, il n'y a pas de réseau glutineux à développer, donc ne pas trop la travailler.",
+        "ro": "Adaugă restul de măciniș de secară, apă călduță și sare la maiaua coaptă. Amestecă doar până se leagă într-un aluat greu și coeziv; nu există o rețea de gluten de dezvoltat, așa că nu-l lucra prea mult."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let the dough rest about an hour to 90 minutes at room temperature, keeping it warm; rye sourdough performs best around 29°C."
+        "en": "Cover and let the dough rest about an hour to 90 minutes at room temperature, keeping it warm; rye sourdough performs best around 29°C.",
+        "de": "Zugedeckt den Teig etwa eine Stunde bis 90 Minuten bei Raumtemperatur ruhen lassen, dabei warm halten; Roggensauerteig gedeiht am besten bei etwa 29°C.",
+        "es": "Tapar y dejar reposar la masa de una hora a 90 minutos a temperatura ambiente, manteniéndola caliente; la masa madre de centeno rinde mejor alrededor de 29°C.",
+        "fr": "Couvrir et laisser reposer la pâte d'une heure à 90 minutes à température ambiante, en la gardant au chaud ; le levain de seigle donne le meilleur autour de 29°C.",
+        "ro": "Acoperă și lasă aluatul să stea de la o oră până la 90 de minute la temperatura camerei, ținându-l la cald; maiaua de secară funcționează cel mai bine în jur de 29°C."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into two pieces and shape each by hand into a tapered, cone-like round. Roll the outside in rye meal and set on a floured cloth."
+        "en": "Divide into two pieces and shape each by hand into a tapered, cone-like round. Roll the outside in rye meal and set on a floured cloth.",
+        "de": "In zwei Stücke teilen und jedes von Hand zu einer konischen, spitz zulaufenden Rundung formen. Die Außenseite in Roggenschrot wälzen und auf ein bemehltes Tuch setzen.",
+        "es": "Dividir en dos piezas y dar a cada una forma cónica, ahusada, a mano. Rebozar el exterior en sémola de centeno y colocar sobre un paño enharinado.",
+        "fr": "Diviser en deux pâtons et façonner chacun à la main en une forme conique, effilée. Rouler l'extérieur dans la mouture de seigle et poser sur un linge fariné.",
+        "ro": "Împarte în două bucăți și modelează manual fiecare într-o formă conică, ascuțită. Tăvălește exteriorul prin măciniș de secară și așază pe un șervet făinat."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let the loaves proof uncovered for an hour to 90 minutes, until deep cracks open across the floured surface, the traditional cue that they're ready to bake."
+        "en": "Let the loaves proof uncovered for an hour to 90 minutes, until deep cracks open across the floured surface, the traditional cue that they're ready to bake.",
+        "de": "Die Laibe offen eine Stunde bis 90 Minuten gehen lassen, bis tiefe Risse über die bemehlte Oberfläche aufreißen, das traditionelle Zeichen, dass sie backfertig sind.",
+        "es": "Dejar fermentar los panes destapados de una hora a 90 minutos, hasta que se abran grietas profundas en la superficie enharinada, la señal tradicional de que están listos para hornear.",
+        "fr": "Laisser pousser les pains à découvert d'une heure à 90 minutes, jusqu'à ce que de profondes fissures s'ouvrent sur la surface farinée, le signal traditionnel qu'ils sont prêts à cuire.",
+        "ro": "Lasă pâinile la dospit neacoperite, de la o oră până la 90 de minute, până se deschid crăpături adânci pe suprafața făinată, semnul tradițional că sunt gata de copt."
       }
     },
     {
       "title": {
-        "en": "Bake hard, then ease off"
+        "en": "Bake hard, then ease off",
+        "de": "Heiß anbacken, dann zurücknehmen",
+        "es": "Hornear fuerte y luego bajar",
+        "fr": "Cuire fort, puis baisser",
+        "ro": "Coace tare, apoi domolește"
       },
       "summary": {
-        "en": "Bake in a very hot oven without steam, venting briefly after a few minutes and dropping the temperature partway through. Bake about 50 minutes until deeply crusted."
+        "en": "Bake in a very hot oven without steam, venting briefly after a few minutes and dropping the temperature partway through. Bake about 50 minutes until deeply crusted.",
+        "de": "In einem sehr heißen Ofen ohne Schwaden backen, nach wenigen Minuten kurz entlüften und die Temperatur währenddessen senken. Etwa 50 Minuten backen, bis eine dicke Kruste entsteht.",
+        "es": "Hornear en un horno muy caliente sin vapor, ventilando brevemente tras unos minutos y bajando la temperatura a mitad de cocción. Hornear unos 50 minutos hasta lograr una corteza intensa.",
+        "fr": "Cuire dans un four très chaud sans buée, en évacuant brièvement la vapeur après quelques minutes et en baissant la température à mi-cuisson. Cuire environ 50 minutes jusqu'à une croûte bien marquée.",
+        "ro": "Coace într-un cuptor foarte fierbinte fără abur, aerisind scurt după câteva minute și coborând temperatura pe parcurs. Coace aproximativ 50 de minute până capătă o coajă groasă."
       }
     },
     {
       "title": {
-        "en": "Cool and slice thin"
+        "en": "Cool and slice thin",
+        "de": "Auskühlen und dünn schneiden",
+        "es": "Enfriar y cortar fino",
+        "fr": "Refroidir et trancher finement",
+        "ro": "Răcește și taie subțire"
       },
       "summary": {
-        "en": "Let the loaves cool completely before cutting. This bread is dense and intense, traditionally sliced paper-thin for alpine cheese and dried meats."
+        "en": "Let the loaves cool completely before cutting. This bread is dense and intense, traditionally sliced paper-thin for alpine cheese and dried meats.",
+        "de": "Die Laibe vor dem Schneiden vollständig auskühlen lassen. Dieses Brot ist dicht und intensiv und wird traditionell hauchdünn für Alpenkäse und Trockenfleisch geschnitten.",
+        "es": "Dejar enfriar los panes por completo antes de cortar. Este pan es denso e intenso, tradicionalmente se corta en láminas finísimas para queso alpino y carnes secas.",
+        "fr": "Laisser les pains refroidir complètement avant de couper. Ce pain est dense et intense, traditionnellement tranché ultra-fin pour le fromage alpin et les viandes séchées.",
+        "ro": "Lasă pâinile să se răcească complet înainte de tăiere. Această pâine este densă și intensă, tăiată tradițional foarte subțire pentru brânză alpină și carne uscată."
       }
     }
   ],

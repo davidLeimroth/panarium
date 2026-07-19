@@ -105,50 +105,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix batter"
+        "en": "Mix batter",
+        "de": "Teig anrühren",
+        "es": "Preparar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Pregătește compoziția"
       },
       "summary": {
-        "en": "Whisk chickpea flour into water until completely free of lumps, then stir in a little olive oil and salt."
+        "en": "Whisk chickpea flour into water until completely free of lumps, then stir in a little olive oil and salt.",
+        "de": "Kichererbsenmehl in Wasser einrühren, bis keine Klümpchen mehr da sind, dann etwas Olivenöl und Salz unterrühren.",
+        "es": "Batir la harina de garbanzo con agua hasta que no queden grumos, luego incorporar un poco de aceite de oliva y sal.",
+        "fr": "Fouetter la farine de pois chiches dans l'eau jusqu'à ce qu'il n'y ait plus aucun grumeau, puis incorporer un peu d'huile d'olive et de sel.",
+        "ro": "Amestecă făina de năut cu apă până dispar complet cocoloașele, apoi adaugă puțin ulei de măsline și sare."
       }
     },
     {
       "title": {
-        "en": "Long rest"
+        "en": "Long rest",
+        "de": "Lange Ruhezeit",
+        "es": "Reposo largo",
+        "fr": "Long repos",
+        "ro": "Odihnă lungă"
       },
       "summary": {
-        "en": "Let the batter rest loosely covered at room temperature at least 4 hours, ideally 8, skimming off any foam every couple of hours."
+        "en": "Let the batter rest loosely covered at room temperature at least 4 hours, ideally 8, skimming off any foam every couple of hours.",
+        "de": "Den Teig locker zugedeckt bei Raumtemperatur mindestens 4, idealerweise 8 Stunden ruhen lassen und alle paar Stunden den Schaum abschöpfen.",
+        "es": "Dejar reposar la masa tapada holgadamente a temperatura ambiente al menos 4 horas, idealmente 8, retirando la espuma cada par de horas.",
+        "fr": "Laisser reposer la pâte, couverte sans serrer, à température ambiante au moins 4 heures, idéalement 8, en écumant la mousse toutes les deux heures environ.",
+        "ro": "Lasă compoziția acoperită lejer la temperatura camerei cel puțin 4 ore, ideal 8, îndepărtând spuma la fiecare câteva ore."
       }
     },
     {
       "title": {
-        "en": "Oil the pan"
+        "en": "Oil the pan",
+        "de": "Pfanne einölen",
+        "es": "Engrasar el molde",
+        "fr": "Huiler le moule",
+        "ro": "Unge tava"
       },
       "summary": {
-        "en": "Generously oil a wide round pan so a film of oil coats the bottom and will rise around the edges of the batter."
+        "en": "Generously oil a wide round pan so a film of oil coats the bottom and will rise around the edges of the batter.",
+        "de": "Eine breite runde Pfanne großzügig ölen, sodass ein Ölfilm den Boden bedeckt und sich am Rand des Teigs hochzieht.",
+        "es": "Engrasar generosamente un molde redondo y ancho, de modo que una capa de aceite cubra el fondo y suba por los bordes de la masa.",
+        "fr": "Huiler généreusement un moule rond et large pour qu'un film d'huile tapisse le fond et remonte sur les bords de la pâte.",
+        "ro": "Unge generos o tavă rotundă și largă, astfel încât un strat de ulei să acopere fundul și să urce pe marginile compoziției."
       }
     },
     {
       "title": {
-        "en": "Pour"
+        "en": "Pour",
+        "de": "Eingießen",
+        "es": "Verter",
+        "fr": "Verser",
+        "ro": "Toarnă"
       },
       "summary": {
-        "en": "Stir the rested batter well and pour it in, about 0.7-0.9 cm deep."
+        "en": "Stir the rested batter well and pour it in, about 0.7-0.9 cm deep.",
+        "de": "Den geruhten Teig gut umrühren und etwa 0.7-0.9 cm hoch eingießen.",
+        "es": "Remover bien la masa reposada y verterla, hasta un grosor de unos 0.7-0.9 cm.",
+        "fr": "Bien remuer la pâte reposée et la verser sur une épaisseur d'environ 0.7-0.9 cm.",
+        "ro": "Amestecă bine compoziția odihnită și toarn-o într-un strat de aproximativ 0.7-0.9 cm."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a very hot oven until the top is deeply golden and the edges crisp, 15-20 minutes."
+        "en": "Bake in a very hot oven until the top is deeply golden and the edges crisp, 15-20 minutes.",
+        "de": "In einem sehr heißen Ofen backen, bis die Oberfläche tief goldbraun und die Ränder knusprig sind, 15-20 Minuten.",
+        "es": "Hornear en horno muy caliente hasta que la superficie esté bien dorada y los bordes crujientes, 15-20 minutos.",
+        "fr": "Cuire dans un four très chaud jusqu'à ce que le dessus soit bien doré et les bords croustillants, 15-20 minutes.",
+        "ro": "Coace în cuptor foarte încins până când suprafața e bine rumenită și marginile crocante, 15-20 de minute."
       }
     },
     {
       "title": {
-        "en": "Cut & serve"
+        "en": "Cut & serve",
+        "de": "Schneiden & servieren",
+        "es": "Cortar y servir",
+        "fr": "Couper et servir",
+        "ro": "Taie și servește"
       },
       "summary": {
-        "en": "Cut into wedges with a wooden or metal spatula and serve immediately, dusted with black pepper."
+        "en": "Cut into wedges with a wooden or metal spatula and serve immediately, dusted with black pepper.",
+        "de": "Mit einem Holz- oder Metallspatel in Ecken schneiden und sofort mit schwarzem Pfeffer bestäubt servieren.",
+        "es": "Cortar en porciones con una espátula de madera o metal y servir de inmediato, espolvoreada con pimienta negra.",
+        "fr": "Découper en parts avec une spatule en bois ou en métal et servir aussitôt, saupoudré de poivre noir.",
+        "ro": "Taie în felii cu o spatulă de lemn sau metal și servește imediat, presărată cu piper negru."
       }
     }
   ],

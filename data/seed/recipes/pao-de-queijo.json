@@ -124,50 +124,98 @@
   "method": [
     {
       "title": {
-        "en": "Boil the liquid"
+        "en": "Boil the liquid",
+        "de": "Flüssigkeit aufkochen",
+        "es": "Hervir el líquido",
+        "fr": "Porter le liquide à ébullition",
+        "ro": "Fierbe lichidul"
       },
       "summary": {
-        "en": "Bring milk, water, oil and salt to a full boil."
+        "en": "Bring milk, water, oil and salt to a full boil.",
+        "de": "Milch, Wasser, Öl und Salz zum vollen Kochen bringen.",
+        "es": "Llevar la leche, el agua, el aceite y la sal a hervor fuerte.",
+        "fr": "Porter le lait, l'eau, l'huile et le sel à pleine ébullition.",
+        "ro": "Adu la fierbere puternică laptele, apa, uleiul și sarea."
       }
     },
     {
       "title": {
-        "en": "Scald the starch"
+        "en": "Scald the starch",
+        "de": "Stärke brühen",
+        "es": "Escaldar la fécula",
+        "fr": "Ébouillanter la fécule",
+        "ro": "Opărește amidonul"
       },
       "summary": {
-        "en": "Pour the hot liquid over the tapioca starch and stir until it forms a stiff, slightly stringy paste; let it cool a few minutes."
+        "en": "Pour the hot liquid over the tapioca starch and stir until it forms a stiff, slightly stringy paste; let it cool a few minutes.",
+        "de": "Die heiße Flüssigkeit über die Tapiokastärke gießen und rühren, bis eine feste, leicht fadenziehende Masse entsteht; einige Minuten abkühlen lassen.",
+        "es": "Verter el líquido caliente sobre la fécula de tapioca y remover hasta formar una pasta firme y algo elástica; dejar enfriar unos minutos.",
+        "fr": "Verser le liquide chaud sur la fécule de tapioca et remuer jusqu'à obtenir une pâte ferme et légèrement filante ; laisser refroidir quelques minutes.",
+        "ro": "Toarnă lichidul fierbinte peste amidonul de tapioca și amestecă până se formează o pastă fermă, ușor filantă; lasă să se răcească câteva minute."
       }
     },
     {
       "title": {
-        "en": "Add eggs"
+        "en": "Add eggs",
+        "de": "Eier zugeben",
+        "es": "Añadir los huevos",
+        "fr": "Ajouter les œufs",
+        "ro": "Adaugă ouăle"
       },
       "summary": {
-        "en": "Beat in the eggs one at a time until fully absorbed."
+        "en": "Beat in the eggs one at a time until fully absorbed.",
+        "de": "Die Eier einzeln einrühren, bis sie vollständig aufgenommen sind.",
+        "es": "Batir los huevos uno a uno hasta que queden totalmente absorbidos.",
+        "fr": "Incorporer les œufs un à un jusqu'à absorption complète.",
+        "ro": "Adaugă ouăle unul câte unul, batând, până se încorporează complet."
       }
     },
     {
       "title": {
-        "en": "Work in cheese"
+        "en": "Work in cheese",
+        "de": "Käse einarbeiten",
+        "es": "Incorporar el queso",
+        "fr": "Incorporer le fromage",
+        "ro": "Încorporează brânza"
       },
       "summary": {
-        "en": "Knead or pulse in both cheeses until you have a soft, very sticky dough."
+        "en": "Knead or pulse in both cheeses until you have a soft, very sticky dough.",
+        "de": "Beide Käsesorten einkneten oder kurz pulsierend untermixen, bis ein weicher, sehr klebriger Teig entsteht.",
+        "es": "Amasar o mezclar a pulsos ambos quesos hasta obtener una masa suave y muy pegajosa.",
+        "fr": "Pétrir ou mixer par à-coups les deux fromages jusqu'à obtenir une pâte souple et très collante.",
+        "ro": "Frământă sau amestecă în impulsuri ambele brânzeturi, până obții un aluat moale și foarte lipicios."
       }
     },
     {
       "title": {
-        "en": "Portion"
+        "en": "Portion",
+        "de": "Portionieren",
+        "es": "Porcionar",
+        "fr": "Portionner",
+        "ro": "Porționează"
       },
       "summary": {
-        "en": "Roll into golf-ball-sized portions with oiled hands, since the dough is too sticky to shape dry."
+        "en": "Roll into golf-ball-sized portions with oiled hands, since the dough is too sticky to shape dry.",
+        "de": "Mit geölten Händen zu golfballgroßen Portionen rollen, da der Teig zu klebrig ist, um ihn trocken zu formen.",
+        "es": "Formar porciones del tamaño de una pelota de golf con las manos aceitadas, ya que la masa está demasiado pegajosa para trabajarla en seco.",
+        "fr": "Façonner des portions de la taille d'une balle de golf avec les mains huilées, la pâte étant trop collante pour être travaillée à sec.",
+        "ro": "Rulează porții de mărimea unei mingi de golf cu mâinile unse cu ulei, deoarece aluatul e prea lipicios ca să fie modelat uscat."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until puffed and golden, hollow-sounding when tapped; serve hot for the best stretchy pull."
+        "en": "Bake until puffed and golden, hollow-sounding when tapped; serve hot for the best stretchy pull.",
+        "de": "Backen, bis sie aufgeplustert und goldbraun sind und beim Klopfen hohl klingen; heiß servieren für den besten Käsefaden beim Auseinanderziehen.",
+        "es": "Hornear hasta que estén hinchados y dorados, sonando huecos al golpearlos; servir calientes para el mejor hilo elástico al partirlos.",
+        "fr": "Cuire jusqu'à ce qu'ils soient gonflés et dorés, sonnant creux au toucher ; servir chauds pour le meilleur filant à l'ouverture.",
+        "ro": "Coace până se umflă și devin aurii, sunând a gol la ciocănit; servește fierbinți pentru cel mai bun fir elastic la rupere."
       }
     }
   ],

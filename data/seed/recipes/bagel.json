@@ -113,50 +113,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix and knead"
+        "en": "Mix and knead",
+        "de": "Mischen und kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Combine bread flour, malt syrup, salt, yeast and water into a stiff dough and knead until smooth but firm, it should feel far drier than a sandwich loaf."
+        "en": "Combine bread flour, malt syrup, salt, yeast and water into a stiff dough and knead until smooth but firm, it should feel far drier than a sandwich loaf.",
+        "de": "Brotmehl, Malzsirup, Salz, Hefe und Wasser zu einem festen Teig verarbeiten und glatt, aber straff kneten, er sollte deutlich trockener sein als ein Toastbrotteig.",
+        "es": "Combinar la harina de fuerza, el jarabe de malta, la sal, la levadura y el agua en una masa firme, y amasar hasta que esté lisa pero dura, más seca que la de un pan de molde.",
+        "fr": "Combiner la farine de gruau, le sirop de malt, le sel, la levure et l'eau en une pâte ferme, et pétrir jusqu'à lisse mais compacte, bien plus sèche qu'une pâte à pain de mie.",
+        "ro": "Combină făina de pâine, siropul de malț, sarea, drojdia și apa într-un aluat tare și frământă până devine neted, dar ferm, mult mai uscat decât un aluat de pâine feliată."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into six pieces, roll each into an even rope, then loop it around your palm and roll the seam closed into a ring."
+        "en": "Divide into six pieces, roll each into an even rope, then loop it around your palm and roll the seam closed into a ring.",
+        "de": "In sechs Stücke teilen, jedes zu einer gleichmäßigen Rolle formen, um die Handfläche schlingen und die Naht zu einem Ring verschließen.",
+        "es": "Dividir en seis piezas, formar un cordón uniforme con cada una, enrollarlo alrededor de la palma y cerrar la unión en forma de anillo.",
+        "fr": "Diviser en six pâtons, rouler chacun en un boudin régulier, l'enrouler autour de la paume et souder la jointure en anneau.",
+        "ro": "Împarte în șase bucăți, rulează fiecare într-un șnur uniform, înfășoară-l în jurul palmei și sigilează capetele într-un inel."
       }
     },
     {
       "title": {
-        "en": "Cold retard"
+        "en": "Cold retard",
+        "de": "Kalte Gare",
+        "es": "Retardo en frío",
+        "fr": "Pousse au froid",
+        "ro": "Dospire la rece"
       },
       "summary": {
-        "en": "Set the shaped rings on a semolina-dusted tray, cover, and refrigerate 8–12 hours so they firm up and develop flavor slowly."
+        "en": "Set the shaped rings on a semolina-dusted tray, cover, and refrigerate 8–12 hours so they firm up and develop flavor slowly.",
+        "de": "Die geformten Ringe auf ein mit Grieß bestäubtes Blech legen, abdecken und 8–12 Stunden kühlen, damit sie fest werden und langsam Aroma entwickeln.",
+        "es": "Colocar los anillos formados en una bandeja espolvoreada con sémola, tapar y refrigerar 8–12 horas para que firmen y desarrollen sabor lentamente.",
+        "fr": "Déposer les anneaux façonnés sur une plaque semée de semoule, couvrir et réfrigérer 8–12 heures pour qu'ils raffermissent et développent leur goût lentement.",
+        "ro": "Așază inelele modelate pe o tavă presărată cu griș, acoperă și lasă la frigider 8–12 ore, ca să se întărească și să dezvolte aromă treptat."
       }
     },
     {
       "title": {
-        "en": "Float test"
+        "en": "Float test",
+        "de": "Schwimmtest",
+        "es": "Prueba de flotación",
+        "fr": "Test de flottaison",
+        "ro": "Testul plutirii"
       },
       "summary": {
-        "en": "Drop a bagel in water straight from the fridge; once it floats, the batch is ready to boil."
+        "en": "Drop a bagel in water straight from the fridge; once it floats, the batch is ready to boil.",
+        "de": "Einen Bagel direkt aus dem Kühlschrank ins Wasser legen; sobald er schwimmt, ist die Charge bereit zum Kochen.",
+        "es": "Poner un bagel en agua recién sacado de la nevera; en cuanto flote, el lote está listo para hervir.",
+        "fr": "Plonger un bagel dans l'eau juste sorti du réfrigérateur; dès qu'il flotte, la fournée est prête à pocher.",
+        "ro": "Pune un bagel în apă direct din frigider; când plutește, seria e gata de fiert."
       }
     },
     {
       "title": {
-        "en": "Boil"
+        "en": "Boil",
+        "de": "Kochen",
+        "es": "Hervir",
+        "fr": "Pocher",
+        "ro": "Fierbe"
       },
       "summary": {
-        "en": "Simmer each bagel about 45 seconds per side in water sweetened with barley malt syrup, this sets the shiny, chewy skin before baking."
+        "en": "Simmer each bagel about 45 seconds per side in water sweetened with barley malt syrup, this sets the shiny, chewy skin before baking.",
+        "de": "Jeden Bagel etwa 45 Sekunden pro Seite in mit Gerstenmalzsirup gesüßtem Wasser ziehen lassen, das fixiert vor dem Backen die glänzende, zähe Kruste.",
+        "es": "Escalfar cada bagel unos 45 segundos por lado en agua endulzada con jarabe de malta de cebada; esto fija la piel brillante y correosa antes de hornear.",
+        "fr": "Pocher chaque bagel environ 45 secondes de chaque côté dans l'eau sucrée au sirop de malt d'orge; cela fixe la peau brillante et moelleuse avant la cuisson.",
+        "ro": "Fierbe fiecare bagel circa 45 de secunde pe fiecare parte în apă îndulcită cu sirop de malț de orz; asta fixează coaja lucioasă și elastică înainte de coacere."
       }
     },
     {
       "title": {
-        "en": "Top and bake"
+        "en": "Top and bake",
+        "de": "Belegen und backen",
+        "es": "Cubrir y hornear",
+        "fr": "Garnir et cuire",
+        "ro": "Presară și coace"
       },
       "summary": {
-        "en": "Brush with water or egg wash so seeds stick, then bake hot until deeply golden and lightly blistered."
+        "en": "Brush with water or egg wash so seeds stick, then bake hot until deeply golden and lightly blistered.",
+        "de": "Mit Wasser oder Eistreiche bepinseln, damit die Saaten haften, dann heiß backen, bis er tief golden und leicht blasig ist.",
+        "es": "Pincelar con agua o huevo batido para que se peguen las semillas, luego hornear a alta temperatura hasta dorar profundamente y ampollarse un poco.",
+        "fr": "Badigeonner d'eau ou de dorure à l'œuf pour que les graines collent, puis cuire à four chaud jusqu'à coloration bien dorée et légèrement cloquée.",
+        "ro": "Unge cu apă sau ou bătut ca să se lipească semințele, apoi coace la foc iute până devine auriu-închis și ușor bășicat."
       }
     }
   ],

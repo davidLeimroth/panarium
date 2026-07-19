@@ -133,58 +133,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour, potato flour, yeast, sugar, salt, softened butter, milk and egg into a soft, smooth dough."
+        "en": "Combine flour, potato flour, yeast, sugar, salt, softened butter, milk and egg into a soft, smooth dough.",
+        "de": "Mehl, Kartoffelmehl, Hefe, Zucker, Salz, weiche Butter, Milch und Ei zu einem weichen, glatten Teig verarbeiten.",
+        "es": "Combinar la harina, la harina de patata, la levadura, el azúcar, la sal, la mantequilla ablandada, la leche y el huevo hasta obtener una masa suave y lisa.",
+        "fr": "Combiner la farine, la fécule de pomme de terre, la levure, le sucre, le sel, le beurre ramolli, le lait et l'œuf en une pâte souple et lisse.",
+        "ro": "Combină făina, făina de cartofi, drojdia, zahărul, sarea, untul moale, laptele și oul într-un aluat moale și neted."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let it rise in a covered bowl until doubled, about an hour."
+        "en": "Let it rise in a covered bowl until doubled, about an hour.",
+        "de": "In einer abgedeckten Schüssel gehen lassen, bis er sich verdoppelt hat, etwa eine Stunde.",
+        "es": "Dejar fermentar en un bol tapado hasta que doble su tamaño, cerca de una hora.",
+        "fr": "Laisser pousser dans un saladier couvert jusqu'à ce qu'elle double, environ une heure.",
+        "ro": "Lasă la crescut într-un vas acoperit până se dublează, aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Roll and butter"
+        "en": "Roll and butter",
+        "de": "Ausrollen und buttern",
+        "es": "Estirar y untar",
+        "fr": "Abaisser et beurrer",
+        "ro": "Întinde și unge cu unt"
       },
       "summary": {
-        "en": "Roll the dough into a rectangle and brush it generously with melted butter."
+        "en": "Roll the dough into a rectangle and brush it generously with melted butter.",
+        "de": "Den Teig zu einem Rechteck ausrollen und großzügig mit geschmolzener Butter bestreichen.",
+        "es": "Estirar la masa en un rectángulo y untarla generosamente con mantequilla derretida.",
+        "fr": "Abaisser la pâte en rectangle et la badigeonner généreusement de beurre fondu.",
+        "ro": "Întinde aluatul într-un dreptunghi și unge-l generos cu unt topit."
       }
     },
     {
       "title": {
-        "en": "Fold"
+        "en": "Fold",
+        "de": "Falten",
+        "es": "Plegar",
+        "fr": "Plier",
+        "ro": "Pliază"
       },
       "summary": {
-        "en": "Fold the dough over on itself lengthwise, leaving a small overhang, then cut into individual rolls."
+        "en": "Fold the dough over on itself lengthwise, leaving a small overhang, then cut into individual rolls.",
+        "de": "Den Teig der Länge nach über sich selbst falten, dabei einen kleinen Überstand lassen, dann in einzelne Brötchen schneiden.",
+        "es": "Doblar la masa sobre sí misma a lo largo, dejando un pequeño saliente, luego cortar en panecillos individuales.",
+        "fr": "Replier la pâte sur elle-même dans la longueur, en laissant un petit débord, puis découper en petits pains individuels.",
+        "ro": "Pliază aluatul peste el pe lungime, lăsând o mică margine, apoi taie în chifle individuale."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Deuxième pousse",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Arrange snugly in a buttered pan and let rise until puffy, about 45 minutes."
+        "en": "Arrange snugly in a buttered pan and let rise until puffy, about 45 minutes.",
+        "de": "Eng aneinander in eine gebutterte Form setzen und gehen lassen, bis sie aufgeplustert sind, etwa 45 Minuten.",
+        "es": "Colocar bien juntos en un molde enmantequillado y dejar fermentar hasta que estén hinchados, unos 45 minutos.",
+        "fr": "Disposer bien serrés dans un moule beurré et laisser pousser jusqu'à ce qu'ils soient gonflés, environ 45 minutes.",
+        "ro": "Așază strâns într-o formă unsă cu unt și lasă la crescut până se umflă, aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until golden on top."
+        "en": "Bake until golden on top.",
+        "de": "Backen, bis die Oberseite goldbraun ist.",
+        "es": "Hornear hasta que estén dorados por encima.",
+        "fr": "Cuire jusqu'à ce que le dessus soit doré.",
+        "ro": "Coace până partea de sus devine aurie."
       }
     },
     {
       "title": {
-        "en": "Glaze"
+        "en": "Glaze",
+        "de": "Glasieren",
+        "es": "Glasear",
+        "fr": "Glacer",
+        "ro": "Glazurează"
       },
       "summary": {
-        "en": "Brush the hot rolls with more melted butter as soon as they come out of the oven."
+        "en": "Brush the hot rolls with more melted butter as soon as they come out of the oven.",
+        "de": "Die heißen Brötchen sofort nach dem Backen mit weiterer geschmolzener Butter bestreichen.",
+        "es": "Untar los panecillos calientes con más mantequilla derretida en cuanto salgan del horno.",
+        "fr": "Badigeonner les petits pains chauds avec plus de beurre fondu dès la sortie du four.",
+        "ro": "Unge chiflele fierbinți cu mai mult unt topit imediat ce ies din cuptor."
       }
     }
   ],

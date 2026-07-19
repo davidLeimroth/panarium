@@ -143,58 +143,114 @@
   "method": [
     {
       "title": {
-        "en": "Make hot-water dough"
+        "en": "Make hot-water dough",
+        "de": "Heißwasserteig herstellen",
+        "es": "Hacer la masa escaldada",
+        "fr": "Préparer la pâte à l'eau bouillante",
+        "ro": "Prepară aluatul opărit"
       },
       "summary": {
-        "en": "Stir boiling water into flour to a shaggy mass, knead by hand, then rest covered 15 minutes and knead smooth."
+        "en": "Stir boiling water into flour to a shaggy mass, knead by hand, then rest covered 15 minutes and knead smooth.",
+        "de": "Kochendes Wasser ins Mehl einrühren, bis eine grobe Masse entsteht, von Hand kneten, dann abgedeckt 15 Minuten ruhen lassen und glatt kneten.",
+        "es": "Verter agua hirviendo sobre la harina hasta formar una masa tosca, amasar a mano, luego dejar reposar tapada 15 minutos y amasar hasta que quede lisa.",
+        "fr": "Verser l'eau bouillante dans la farine pour former une masse grossière, pétrir à la main, puis laisser reposer couverte 15 minutes et pétrir jusqu'à consistance lisse.",
+        "ro": "Toarnă apă clocotită peste făină până se formează o masă grosieră, frământă cu mâna, apoi lasă la odihnă acoperit 15 minute și frământă până devine neted."
       }
     },
     {
       "title": {
-        "en": "Mix the paste"
+        "en": "Mix the paste",
+        "de": "Die Paste mischen",
+        "es": "Mezclar la pasta",
+        "fr": "Mélanger la pâte à tartiner",
+        "ro": "Amestecă pasta"
       },
       "summary": {
-        "en": "Blend melted lard with flour, salt and ground Sichuan pepper into a smooth paste."
+        "en": "Blend melted lard with flour, salt and ground Sichuan pepper into a smooth paste.",
+        "de": "Geschmolzenes Schmalz mit Mehl, Salz und gemahlenem Sichuanpfeffer zu einer glatten Paste verrühren.",
+        "es": "Batir la manteca derretida con harina, sal y pimienta de Sichuan molida hasta obtener una pasta lisa.",
+        "fr": "Mélanger le saindoux fondu avec la farine, le sel et le poivre du Sichuan moulu pour obtenir une pâte lisse.",
+        "ro": "Amestecă untura topită cu făină, sare și piper Sichuan măcinat, până obții o pastă netedă."
       }
     },
     {
       "title": {
-        "en": "Roll & spread"
+        "en": "Roll & spread",
+        "de": "Ausrollen & bestreichen",
+        "es": "Estirar y untar",
+        "fr": "Étaler et tartiner",
+        "ro": "Întinde și unge"
       },
       "summary": {
-        "en": "Roll the dough into a large thin rectangle, spread with the paste, and scatter chopped scallions over the top."
+        "en": "Roll the dough into a large thin rectangle, spread with the paste, and scatter chopped scallions over the top.",
+        "de": "Den Teig zu einem großen dünnen Rechteck ausrollen, mit der Paste bestreichen und gehackte Frühlingszwiebeln darüberstreuen.",
+        "es": "Estirar la masa en un rectángulo grande y fino, untar con la pasta y esparcir cebolleta picada por encima.",
+        "fr": "Étaler la pâte en un grand rectangle fin, tartiner de la pâte à tartiner et parsemer de ciboule ciselée.",
+        "ro": "Întinde aluatul într-un dreptunghi mare și subțire, unge cu pasta și presară deasupra ceapă verde tocată."
       }
     },
     {
       "title": {
-        "en": "Roll & coil"
+        "en": "Roll & coil",
+        "de": "Rollen & aufwickeln",
+        "es": "Enrollar y enroscar",
+        "fr": "Rouler et enrouler",
+        "ro": "Rulează și înfășoară"
       },
       "summary": {
-        "en": "Roll up from the short end into a rope, cut into sections, then coil each piece and tuck the end under."
+        "en": "Roll up from the short end into a rope, cut into sections, then coil each piece and tuck the end under.",
+        "de": "Von der kurzen Seite her zu einem Strang aufrollen, in Abschnitte schneiden, dann jedes Stück aufwickeln und das Ende darunterstecken.",
+        "es": "Enrollar desde el lado corto en una cuerda, cortar en secciones, luego enroscar cada trozo y remeter el extremo por debajo.",
+        "fr": "Rouler depuis le petit côté en un boudin, couper en tronçons, puis enrouler chaque morceau et glisser l'extrémité en dessous.",
+        "ro": "Rulează dinspre latura scurtă într-un șnur, taie în bucăți, apoi înfășoară fiecare bucată și îndoaie capătul pe dedesubt."
       }
     },
     {
       "title": {
-        "en": "Flatten"
+        "en": "Flatten",
+        "de": "Flach drücken",
+        "es": "Aplanar",
+        "fr": "Aplatir",
+        "ro": "Turtește"
       },
       "summary": {
-        "en": "Press and roll each coil gently into a thick round, keeping the spiral layers intact."
+        "en": "Press and roll each coil gently into a thick round, keeping the spiral layers intact.",
+        "de": "Jede Rolle vorsichtig zu einer dicken Scheibe drücken und ausrollen, dabei die spiralförmigen Schichten erhalten.",
+        "es": "Presionar y estirar cada espiral con suavidad hasta formar un disco grueso, conservando las capas en espiral.",
+        "fr": "Presser et étaler délicatement chaque spirale en un disque épais, en conservant les couches en spirale intactes.",
+        "ro": "Presează și întinde ușor fiecare rulou într-un disc gros, păstrând straturile în spirală intacte."
       }
     },
     {
       "title": {
-        "en": "Pan-fry"
+        "en": "Pan-fry",
+        "de": "In der Pfanne braten",
+        "es": "Freír en sartén",
+        "fr": "Cuire à la poêle",
+        "ro": "Prăjește în tigaie"
       },
       "summary": {
-        "en": "Fry in a lidded pan with a little oil over medium-high heat, about 2 minutes per side, until golden and crisp."
+        "en": "Fry in a lidded pan with a little oil over medium-high heat, about 2 minutes per side, until golden and crisp.",
+        "de": "In einer abgedeckten Pfanne mit etwas Öl bei mittlerer bis hoher Hitze braten, etwa 2 Minuten pro Seite, bis goldbraun und knusprig.",
+        "es": "Freír en una sartén tapada con un poco de aceite a fuego medio-alto, unos 2 minutos por lado, hasta que esté dorado y crujiente.",
+        "fr": "Cuire dans une poêle couverte avec un peu d'huile à feu moyen-vif, environ 2 minutes de chaque côté, jusqu'à ce que ce soit doré et croustillant.",
+        "ro": "Prăjește într-o tigaie acoperită cu puțin ulei, la foc mediu-iute, aproximativ 2 minute pe fiecare parte, până devine auriu și crocant."
       }
     },
     {
       "title": {
-        "en": "Rest & cut"
+        "en": "Rest & cut",
+        "de": "Ruhen & schneiden",
+        "es": "Reposar y cortar",
+        "fr": "Reposer et couper",
+        "ro": "Odihnă și taie"
       },
       "summary": {
-        "en": "Let rest briefly, then cut into wedges and serve hot."
+        "en": "Let rest briefly, then cut into wedges and serve hot.",
+        "de": "Kurz ruhen lassen, dann in Spalten schneiden und heiß servieren.",
+        "es": "Dejar reposar brevemente, luego cortar en cuñas y servir caliente.",
+        "fr": "Laisser reposer brièvement, puis couper en quartiers et servir chaud.",
+        "ro": "Lasă la odihnă puțin timp, apoi taie în felii triunghiulare și servește cald."
       }
     }
   ],

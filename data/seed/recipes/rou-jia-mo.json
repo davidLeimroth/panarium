@@ -117,50 +117,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour, yeast and salt, then gradually work in warm water to a smooth, soft dough; knead about 10 minutes."
+        "en": "Combine flour, yeast and salt, then gradually work in warm water to a smooth, soft dough; knead about 10 minutes.",
+        "de": "Mehl, Hefe und Salz vermengen, dann nach und nach warmes Wasser einarbeiten zu einem glatten, weichen Teig; etwa 10 Minuten kneten.",
+        "es": "Combinar harina, levadura y sal, luego incorporar poco a poco agua tibia hasta obtener una masa lisa y blanda; amasar unos 10 minutos.",
+        "fr": "Combiner farine, levure et sel, puis incorporer petit à petit de l'eau tiède jusqu'à une pâte lisse et souple ; pétrir environ 10 minutes.",
+        "ro": "Combină făina, drojdia și sarea, apoi încorporează treptat apă călduță până obții un aluat neted și moale; frământă aproximativ 10 minute."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise at room temperature about an hour until doubled."
+        "en": "Cover and let rise at room temperature about an hour until doubled.",
+        "de": "Zugedeckt bei Raumtemperatur etwa eine Stunde gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar levar a temperatura ambiente aproximadamente una hora hasta que doble su volumen.",
+        "fr": "Couvrir et laisser lever à température ambiante environ une heure jusqu'au double.",
+        "ro": "Acoperă și lasă la dospit la temperatura camerei aproximativ o oră, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Deflate and knead briefly, then divide into 12 pieces; roll each into a cigar, flatten and roll again into a long strip, fold lengthwise, coil into a spiral bundle, then press flat and roll into a 4-inch disc."
+        "en": "Deflate and knead briefly, then divide into 12 pieces; roll each into a cigar, flatten and roll again into a long strip, fold lengthwise, coil into a spiral bundle, then press flat and roll into a 4-inch disc.",
+        "de": "Entgasen und kurz kneten, dann in 12 Stücke teilen; jedes zu einer Zigarre rollen, flach drücken und erneut zu einem langen Streifen ausrollen, der Länge nach falten, zu einem Spiralbündel aufrollen, dann flach drücken und zu einer 10-cm-Scheibe ausrollen.",
+        "es": "Desgasificar y amasar brevemente, luego dividir en 12 piezas; enrollar cada una en forma de puro, aplanar y volver a estirar en una tira larga, doblar a lo largo, enrollar en un rollo espiral, luego aplanar y estirar en un disco de 10 cm.",
+        "fr": "Dégazer et pétrir brièvement, puis diviser en 12 morceaux ; rouler chacun en cigare, aplatir et réétaler en une longue bande, plier dans la longueur, enrouler en spirale, puis aplatir et étaler en un disque de 10 cm.",
+        "ro": "Degazează și frământă scurt, apoi împarte în 12 bucăți; rulează fiecare sub formă de trabuc, aplatizează și întinde din nou într-o fâșie lungă, pliază pe lungime, înfășoară într-un sul spiralat, apoi aplatizează și întinde într-un disc de 10 cm."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Let the shaped discs rest 20 minutes."
+        "en": "Let the shaped discs rest 20 minutes.",
+        "de": "Die geformten Scheiben 20 Minuten ruhen lassen.",
+        "es": "Dejar reposar los discos formados 20 minutos.",
+        "fr": "Laisser reposer les disques façonnés 20 minutes.",
+        "ro": "Lasă discurile modelate să stea 20 de minute."
       }
     },
     {
       "title": {
-        "en": "Pan-cook"
+        "en": "Pan-cook",
+        "de": "In der Pfanne backen",
+        "es": "Cocinar en sartén",
+        "fr": "Cuire à la poêle",
+        "ro": "Coace în tigaie"
       },
       "summary": {
-        "en": "Cook in a dry, ungreased skillet over medium heat, covered, about 2 minutes per side, then uncovered another minute per side until golden and cooked through."
+        "en": "Cook in a dry, ungreased skillet over medium heat, covered, about 2 minutes per side, then uncovered another minute per side until golden and cooked through.",
+        "de": "In einer trockenen, ungefetteten Pfanne bei mittlerer Hitze zugedeckt etwa 2 Minuten pro Seite garen, dann offen eine weitere Minute pro Seite, bis golden und durchgebacken.",
+        "es": "Cocinar en una sartén seca, sin engrasar, a fuego medio, tapada, unos 2 minutos por lado, luego destapada un minuto más por lado hasta que esté dorada y cocida por dentro.",
+        "fr": "Cuire dans une poêle sèche, non graissée, à feu moyen, à couvert, environ 2 minutes de chaque côté, puis à découvert une minute de plus de chaque côté jusqu'à ce que ce soit doré et cuit à cœur.",
+        "ro": "Gătește într-o tigaie uscată, neunsă, la foc mediu, cu capac, aproximativ 2 minute pe fiecare parte, apoi fără capac încă un minut pe fiecare parte, până devine auriu și bine copt în interior."
       }
     },
     {
       "title": {
-        "en": "Fill"
+        "en": "Fill",
+        "de": "Füllen",
+        "es": "Rellenar",
+        "fr": "Fourrer",
+        "ro": "Umple"
       },
       "summary": {
-        "en": "Split each warm bread open and stuff with chopped, long-braised pork belly, prepared separately with soy sauce, star anise and other spices, along with a little braising liquid and cilantro."
+        "en": "Split each warm bread open and stuff with chopped, long-braised pork belly, prepared separately with soy sauce, star anise and other spices, along with a little braising liquid and cilantro.",
+        "de": "Jedes warme Brot aufschneiden und mit gehacktem, lange geschmortem Schweinebauch füllen, der separat mit Sojasauce, Sternanis und weiteren Gewürzen zubereitet wurde, dazu etwas Schmorflüssigkeit und Koriander.",
+        "es": "Abrir cada pan caliente y rellenar con panceta de cerdo picada, cocinada aparte a fuego lento con salsa de soja, anís estrellado y otras especias, junto con un poco del líquido de cocción y cilantro.",
+        "fr": "Fendre chaque pain chaud et le garnir de poitrine de porc hachée, longuement braisée séparément avec sauce soja, anis étoilé et autres épices, avec un peu de jus de braisage et de coriandre.",
+        "ro": "Deschide fiecare pâine caldă și umple cu piept de porc tocat, înăbușit îndelung separat cu sos de soia, anason stelat și alte condimente, împreună cu puțin lichid de înăbușire și coriandru."
       }
     }
   ],

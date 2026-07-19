@@ -107,58 +107,114 @@
   "method": [
     {
       "title": {
-        "en": "Refresh the levain"
+        "en": "Refresh the levain",
+        "de": "Anstellgut auffrischen",
+        "es": "Refrescar la masa madre",
+        "fr": "Rafraîchir le levain",
+        "ro": "Reîmprospătează maiaua"
       },
       "summary": {
-        "en": "Feed the liquid levain 5-7 hours ahead so it's active, bubbly and roughly doubled."
+        "en": "Feed the liquid levain 5-7 hours ahead so it's active, bubbly and roughly doubled.",
+        "de": "Das flüssige Anstellgut 5-7 Stunden im Voraus füttern, damit es aktiv, blasig und etwa verdoppelt ist.",
+        "es": "Alimentar la masa madre líquida 5-7 horas antes para que esté activa, con burbujas y casi duplicada.",
+        "fr": "Nourrir le levain liquide 5-7 heures à l'avance pour qu'il soit actif, plein de bulles et à peu près doublé.",
+        "ro": "Hrănește maiaua lichidă cu 5-7 ore înainte, ca să fie activă, cu bule și aproape dublată."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Mix the flour and water and rest 40-60 minutes before adding anything else."
+        "en": "Mix the flour and water and rest 40-60 minutes before adding anything else.",
+        "de": "Mehl und Wasser vermischen und 40-60 Minuten ruhen lassen, bevor irgendetwas anderes zugegeben wird.",
+        "es": "Mezclar la harina y el agua y dejar reposar 40-60 minutos antes de añadir nada más.",
+        "fr": "Mélanger la farine et l'eau et laisser reposer 40-60 minutes avant d'ajouter le reste.",
+        "ro": "Amestecă făina și apa și lasă la odihnă 40-60 de minute înainte de a adăuga altceva."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Work in the levain and knead until strong and elastic, adding the salt partway through."
+        "en": "Work in the levain and knead until strong and elastic, adding the salt partway through.",
+        "de": "Den Levain einarbeiten und kneten, bis der Teig kräftig und elastisch ist, das Salz auf halbem Weg zugeben.",
+        "es": "Incorporar el levain y amasar hasta que esté fuerte y elástica, añadiendo la sal a mitad de camino.",
+        "fr": "Incorporer le levain et pétrir jusqu'à ce que la pâte soit forte et élastique, en ajoutant le sel à mi-parcours.",
+        "ro": "Încorporează maiaua și frământă până devine puternic și elastic, adăugând sarea pe la jumătatea procesului."
       }
     },
     {
       "title": {
-        "en": "Bulk with folds"
+        "en": "Bulk with folds",
+        "de": "Stockgare mit Falten",
+        "es": "Fermentación en bloque con pliegues",
+        "fr": "Pointage avec rabats",
+        "ro": "Fermentație în masă cu plieri"
       },
       "summary": {
-        "en": "Ferment with a few gentle folds, then retard in the fridge overnight for depth of flavor."
+        "en": "Ferment with a few gentle folds, then retard in the fridge overnight for depth of flavor.",
+        "de": "Mit ein paar sanften Falten fermentieren, dann über Nacht im Kühlschrank für mehr Aromatiefe verzögern.",
+        "es": "Fermentar con algunos pliegues suaves, luego retardar en la nevera durante toda la noche para más profundidad de sabor.",
+        "fr": "Faire pointer avec quelques rabats délicats, puis retarder au réfrigérateur toute la nuit pour plus de profondeur de goût.",
+        "ro": "Lasă la fermentat cu câteva plieri blânde, apoi dă la frigider peste noapte pentru o aromă mai profundă."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into one large round and set it into a well-floured banneton."
+        "en": "Shape into one large round and set it into a well-floured banneton.",
+        "de": "Zu einem großen runden Laib formen und in ein gut bemehltes Gärkörbchen setzen.",
+        "es": "Formar una gran bola y colocarla en un banneton bien enharinado.",
+        "fr": "Façonner en une grande boule et déposer dans un banneton bien fariné.",
+        "ro": "Modelează o pâine rotundă mare și așază-o într-un banneton bine făinat."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let rise until puffy and light, about an hour once out of the cold."
+        "en": "Let rise until puffy and light, about an hour once out of the cold.",
+        "de": "Gehen lassen, bis der Teig aufgeplustert und leicht ist, etwa eine Stunde nach dem Herausnehmen aus der Kälte.",
+        "es": "Dejar fermentar hasta que esté hinchada y ligera, cerca de una hora tras salir del frío.",
+        "fr": "Laisser pousser jusqu'à ce qu'elle soit gonflée et légère, environ une heure une fois sortie du froid.",
+        "ro": "Lasă la dospit până devine umflat și ușor, aproximativ o oră după ce iese din frig."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Score and bake hot with steam, then lower the heat to bake all the way through."
+        "en": "Score and bake hot with steam, then lower the heat to bake all the way through.",
+        "de": "Einschneiden und heiß mit Dampf backen, dann die Hitze senken, um vollständig durchzubacken.",
+        "es": "Marcar y hornear caliente con vapor, luego bajar la temperatura para que se cocine por completo.",
+        "fr": "Inciser et cuire chaud avec de la buée, puis baisser la température pour cuire jusqu'au cœur.",
+        "ro": "Crestează și coace la foc iute cu abur, apoi redu temperatura ca să se coacă complet în interior."
       }
     }
   ],

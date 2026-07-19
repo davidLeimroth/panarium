@@ -117,34 +117,66 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Stir flour (or a self-rising flour blend), sugar and most of the melted butter into the beer until just combined into a thick, fairly smooth batter."
+        "en": "Stir flour (or a self-rising flour blend), sugar and most of the melted butter into the beer until just combined into a thick, fairly smooth batter.",
+        "de": "Mehl (oder eine Mischung mit Backpulver), Zucker und das meiste der geschmolzenen Butter in das Bier einrühren, bis ein dicker, recht glatter Teig entsteht.",
+        "es": "Incorporar la harina (o una mezcla leudante), el azúcar y la mayor parte de la mantequilla derretida a la cerveza, hasta lograr una masa espesa y bastante lisa.",
+        "fr": "Incorporer la farine (ou un mélange à levure incorporée), le sucre et la majeure partie du beurre fondu dans la bière, jusqu'à obtenir une pâte épaisse et assez lisse.",
+        "ro": "Încorporează făina (sau un amestec autocrescător), zahărul și cea mai mare parte din untul topit în bere, până obții o compoziție groasă și relativ netedă."
       }
     },
     {
       "title": {
-        "en": "Pan"
+        "en": "Pan",
+        "de": "In die Form füllen",
+        "es": "Poner en el molde",
+        "fr": "Verser dans le moule",
+        "ro": "Pune în formă"
       },
       "summary": {
-        "en": "Scrape into a greased loaf pan and drizzle the last of the butter over the top."
+        "en": "Scrape into a greased loaf pan and drizzle the last of the butter over the top.",
+        "de": "In eine gefettete Kastenform füllen und die restliche Butter darüber träufeln.",
+        "es": "Verter en un molde engrasado y rociar la mantequilla restante por encima.",
+        "fr": "Verser dans un moule à cake graissé et arroser le dessus avec le reste de beurre.",
+        "ro": "Toarnă într-o formă de chec unsă și stropește cu restul de unt deasupra."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at about 190°C for 45-50 minutes until a skewer comes out clean or with just a few moist crumbs."
+        "en": "Bake at about 190°C for 45-50 minutes until a skewer comes out clean or with just a few moist crumbs.",
+        "de": "Bei etwa 190°C 45-50 Minuten backen, bis ein Spieß sauber oder nur mit ein paar feuchten Krümeln herauskommt.",
+        "es": "Hornear a unos 190°C durante 45-50 minutos, hasta que un palillo salga limpio o con solo unas migas húmedas.",
+        "fr": "Cuire à environ 190°C pendant 45-50 minutes, jusqu'à ce qu'une brochette ressorte propre ou avec juste quelques miettes humides.",
+        "ro": "Coace la aproximativ 190°C timp de 45-50 de minute, până o scobitoare iese curată sau cu doar câteva firimituri umede."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool in the pan a few minutes, then turn out onto a rack; best sliced once fully cool."
+        "en": "Cool in the pan a few minutes, then turn out onto a rack; best sliced once fully cool.",
+        "de": "Ein paar Minuten in der Form auskühlen lassen, dann auf ein Gitter stürzen; am besten erst vollständig abgekühlt anschneiden.",
+        "es": "Dejar enfriar en el molde unos minutos, luego desmoldar sobre una rejilla; mejor cortarlo una vez frío del todo.",
+        "fr": "Laisser refroidir dans le moule quelques minutes, puis démouler sur une grille; à trancher une fois complètement refroidi.",
+        "ro": "Lasă la răcit în formă câteva minute, apoi răstoarnă pe un grătar; se feliază cel mai bine după ce s-a răcit complet."
       }
     }
   ],

@@ -120,42 +120,82 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Whisk barley flour, wheat flour, baking powder and salt, then stir in milk, melted butter and egg to a thick, smooth batter."
+        "en": "Whisk barley flour, wheat flour, baking powder and salt, then stir in milk, melted butter and egg to a thick, smooth batter.",
+        "de": "Gerstenmehl, Weizenmehl, Backpulver und Salz verquirlen, dann Milch, geschmolzene Butter und Ei zu einem dicken, glatten Teig einrühren.",
+        "es": "Batir la harina de cebada, la harina de trigo, la levadura química y la sal, luego añadir la leche, la mantequilla derretida y el huevo hasta obtener una masa espesa y lisa.",
+        "fr": "Fouetter la farine d'orge, la farine de blé, la levure chimique et le sel, puis incorporer le lait, le beurre fondu et l'œuf jusqu'à obtenir une pâte épaisse et lisse.",
+        "ro": "Amestecă făina de orz, făina de grâu, praful de copt și sarea, apoi încorporează laptele, untul topit și oul, până obții o compoziție groasă și netedă."
       }
     },
     {
       "title": {
-        "en": "Spread"
+        "en": "Spread",
+        "de": "Ausstreichen",
+        "es": "Extender",
+        "fr": "Étaler",
+        "ro": "Întinde"
       },
       "summary": {
-        "en": "Pour onto a greased sheet pan and spread into a round about 30cm across."
+        "en": "Pour onto a greased sheet pan and spread into a round about 30cm across.",
+        "de": "Auf ein gefettetes Blech gießen und zu einem Rund von etwa 30cm Durchmesser verstreichen.",
+        "es": "Verter sobre una bandeja engrasada y extender en un círculo de unos 30cm de diámetro.",
+        "fr": "Verser sur une plaque graissée et étaler en un rond d'environ 30cm de diamètre.",
+        "ro": "Toarnă pe o tavă unsă și întinde într-un cerc de aproximativ 30cm diametru."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a hot oven until firm and golden brown, 18-20 minutes."
+        "en": "Bake in a hot oven until firm and golden brown, 18-20 minutes.",
+        "de": "In einem heißen Ofen backen, bis fest und goldbraun, 18-20 Minuten.",
+        "es": "Hornear en horno caliente hasta que esté firme y dorado, 18-20 minutos.",
+        "fr": "Cuire au four chaud jusqu'à fermeté et coloration dorée, 18-20 minutes.",
+        "ro": "Coace în cuptor încins până devine fermă și auriu-rumenă, 18-20 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool briefly"
+        "en": "Cool briefly",
+        "de": "Kurz auskühlen",
+        "es": "Enfriar brevemente",
+        "fr": "Refroidir brièvement",
+        "ro": "Răcește puțin"
       },
       "summary": {
-        "en": "Rest a few minutes on a rack."
+        "en": "Rest a few minutes on a rack.",
+        "de": "Ein paar Minuten auf einem Gitter ruhen lassen.",
+        "es": "Dejar reposar unos minutos sobre una rejilla.",
+        "fr": "Laisser reposer quelques minutes sur une grille.",
+        "ro": "Lasă să stea câteva minute pe un grătar."
       }
     },
     {
       "title": {
-        "en": "Cut and serve"
+        "en": "Cut and serve",
+        "de": "Schneiden und servieren",
+        "es": "Cortar y servir",
+        "fr": "Découper et servir",
+        "ro": "Taie și servește"
       },
       "summary": {
-        "en": "Slice into wedges and serve warm with butter, cheese or smoked fish."
+        "en": "Slice into wedges and serve warm with butter, cheese or smoked fish.",
+        "de": "In Spalten schneiden und warm mit Butter, Käse oder Räucherfisch servieren.",
+        "es": "Cortar en cuñas y servir templado con mantequilla, queso o pescado ahumado.",
+        "fr": "Découper en quartiers et servir tiède avec du beurre, du fromage ou du poisson fumé.",
+        "ro": "Taie în felii și servește cald cu unt, brânză sau pește afumat."
       }
     }
   ],

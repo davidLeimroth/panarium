@@ -114,50 +114,98 @@
   "method": [
     {
       "title": {
-        "en": "Activate the yeast"
+        "en": "Activate the yeast",
+        "de": "Hefe aktivieren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Dissolve yeast and sugar in the lukewarm water and let sit 5-10 minutes until foamy."
+        "en": "Dissolve yeast and sugar in the lukewarm water and let sit 5-10 minutes until foamy.",
+        "de": "Hefe und Zucker im lauwarmen Wasser auflösen und 5-10 Minuten stehen lassen, bis es schäumt.",
+        "es": "Disolver la levadura y el azúcar en el agua tibia y dejar reposar 5-10 minutos hasta que haga espuma.",
+        "fr": "Dissoudre la levure et le sucre dans l'eau tiède et laisser reposer 5-10 minutes jusqu'à ce que ça mousse.",
+        "ro": "Dizolvă drojdia și zahărul în apa călduță și lasă să stea 5-10 minute, până face spumă."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Stir in half the flour, then the olive oil and salt, then the rest of the flour."
+        "en": "Stir in half the flour, then the olive oil and salt, then the rest of the flour.",
+        "de": "Die Hälfte des Mehls einrühren, dann das Olivenöl und Salz, dann den Rest des Mehls.",
+        "es": "Incorporar la mitad de la harina, luego el aceite de oliva y la sal, y después el resto de la harina.",
+        "fr": "Incorporer la moitié de la farine, puis l'huile d'olive et le sel, puis le reste de la farine.",
+        "ro": "Încorporează jumătate din făină, apoi uleiul de măsline și sarea, apoi restul de făină."
       }
     },
     {
       "title": {
-        "en": "Knead by hand"
+        "en": "Knead by hand",
+        "de": "Von Hand kneten",
+        "es": "Amasar a mano",
+        "fr": "Pétrir à la main",
+        "ro": "Frământă manual"
       },
       "summary": {
-        "en": "Knead until smooth and elastic, dusting with semolina as needed, then shape into a ball."
+        "en": "Knead until smooth and elastic, dusting with semolina as needed, then shape into a ball.",
+        "de": "Kneten, bis glatt und elastisch, dabei bei Bedarf mit Grieß bestäuben, dann zu einer Kugel formen.",
+        "es": "Amasar hasta que quede lisa y elástica, espolvoreando con sémola según sea necesario, luego formar una bola.",
+        "fr": "Pétrir jusqu'à obtenir une pâte lisse et élastique, en saupoudrant de semoule au besoin, puis façonner en boule.",
+        "ro": "Frământă până devine neted și elastic, presărând griș după nevoie, apoi modelează într-o bilă."
       }
     },
     {
       "title": {
-        "en": "Long rise"
+        "en": "Long rise",
+        "de": "Lange Gare",
+        "es": "Fermentación larga",
+        "fr": "Longue pousse",
+        "ro": "Fermentare lungă"
       },
       "summary": {
-        "en": "Cover and let rise at room temperature 10-12 hours, or overnight."
+        "en": "Cover and let rise at room temperature 10-12 hours, or overnight.",
+        "de": "Zugedeckt bei Raumtemperatur 10-12 Stunden gehen lassen, oder über Nacht.",
+        "es": "Tapar y dejar fermentar a temperatura ambiente 10-12 horas, o toda la noche.",
+        "fr": "Couvrir et laisser lever à température ambiante 10-12 heures, ou toute la nuit.",
+        "ro": "Acoperă și lasă la crescut la temperatura camerei 10-12 ore, sau peste noapte."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Deflate gently, divide in two, knead each piece briefly, and shape into round loaves."
+        "en": "Deflate gently, divide in two, knead each piece briefly, and shape into round loaves.",
+        "de": "Vorsichtig entgasen, in zwei teilen, jedes Stück kurz kneten und zu runden Laiben formen.",
+        "es": "Desgasificar con cuidado, dividir en dos, amasar brevemente cada pieza y dar forma de panes redondos.",
+        "fr": "Dégazer délicatement, diviser en deux, pétrir brièvement chaque pâton et façonner en pains ronds.",
+        "ro": "Degazează ușor, împarte în două, frământă scurt fiecare bucată și modelează pâini rotunde."
       }
     },
     {
       "title": {
-        "en": "Bake covered"
+        "en": "Bake covered",
+        "de": "Zugedeckt backen",
+        "es": "Hornear tapado",
+        "fr": "Cuire couvert",
+        "ro": "Coace acoperit"
       },
       "summary": {
-        "en": "Bake in a covered Dutch oven at 250°C for 20 minutes, then uncover and bake 15-20 minutes more until deeply golden."
+        "en": "Bake in a covered Dutch oven at 250°C for 20 minutes, then uncover and bake 15-20 minutes more until deeply golden.",
+        "de": "In einem zugedeckten gusseisernen Bräter bei 250°C 20 Minuten backen, dann aufdecken und 15-20 Minuten weiterbacken, bis tief goldbraun.",
+        "es": "Hornear en una olla de hierro fundido tapada a 250°C durante 20 minutos, luego destapar y hornear 15-20 minutos más hasta que esté muy dorado.",
+        "fr": "Cuire dans une cocotte en fonte couverte à 250°C pendant 20 minutes, puis découvrir et cuire 15-20 minutes de plus jusqu'à coloration bien dorée.",
+        "ro": "Coace într-o oală de fontă acoperită la 250°C timp de 20 de minute, apoi descoperă și coace încă 15-20 de minute, până devine auriu-închis."
       }
     }
   ],

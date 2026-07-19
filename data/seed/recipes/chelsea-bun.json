@@ -177,50 +177,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour, yeast, mixed spice, brown sugar and salt, then work in butter, milk and egg to a smooth, elastic dough, about 5-7 minutes by machine."
+        "en": "Combine flour, yeast, mixed spice, brown sugar and salt, then work in butter, milk and egg to a smooth, elastic dough, about 5-7 minutes by machine.",
+        "de": "Mehl, Hefe, Gewürzmischung, braunen Zucker und Salz vermengen, dann Butter, Milch und Ei einarbeiten, bis ein glatter, elastischer Teig entsteht, etwa 5-7 Minuten mit der Maschine.",
+        "es": "Combinar la harina, la levadura, las especias mixtas, el azúcar moreno y la sal, luego incorporar la mantequilla, la leche y el huevo hasta lograr una masa lisa y elástica, unos 5-7 minutos a máquina.",
+        "fr": "Mélanger la farine, la levure, les épices mélangées, le sucre roux et le sel, puis incorporer le beurre, le lait et l'œuf jusqu'à obtenir une pâte lisse et élastique, environ 5-7 minutes au robot.",
+        "ro": "Amestecă făina, drojdia, amestecul de mirodenii, zahărul brun și sarea, apoi încorporează untul, laptele și oul până obții un aluat neted și elastic, circa 5-7 minute la robot."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Prove in a warm spot about an hour, until nearly doubled."
+        "en": "Prove in a warm spot about an hour, until nearly doubled.",
+        "de": "An einem warmen Ort etwa eine Stunde gehen lassen, bis der Teig sich fast verdoppelt hat.",
+        "es": "Dejar fermentar en un lugar cálido durante una hora aproximadamente, hasta que casi doble su volumen.",
+        "fr": "Laisser pousser dans un endroit chaud environ une heure, jusqu'à ce que la pâte ait presque doublé.",
+        "ro": "Lasă la dospit într-un loc călduț circa o oră, până se dublează aproape complet."
       }
     },
     {
       "title": {
-        "en": "Roll & fill"
+        "en": "Roll & fill",
+        "de": "Ausrollen & füllen",
+        "es": "Estirar y rellenar",
+        "fr": "Étaler et garnir",
+        "ro": "Întinde și umple"
       },
       "summary": {
-        "en": "Roll the dough into a rectangle, spread with soft butter, then scatter brown sugar, spice, cinnamon, currants and candied peel evenly over the top."
+        "en": "Roll the dough into a rectangle, spread with soft butter, then scatter brown sugar, spice, cinnamon, currants and candied peel evenly over the top.",
+        "de": "Den Teig zu einem Rechteck ausrollen, mit weicher Butter bestreichen, dann braunen Zucker, Gewürz, Zimt, Korinthen und kandierte Schale gleichmäßig darüber verteilen.",
+        "es": "Estirar la masa en un rectángulo, untar con mantequilla blanda, luego repartir de manera uniforme azúcar moreno, especias, canela, pasas de Corinto y piel confitada.",
+        "fr": "Étaler la pâte en rectangle, tartiner de beurre mou, puis répartir uniformément sur le dessus le sucre roux, les épices, la cannelle, les raisins de Corinthe et les écorces confites.",
+        "ro": "Întinde aluatul într-un dreptunghi, unge cu unt moale, apoi presară uniform deasupra zahăr brun, mirodenii, scorțișoară, stafide de Corint și coajă confiată."
       }
     },
     {
       "title": {
-        "en": "Roll & slice"
+        "en": "Roll & slice",
+        "de": "Rollen & schneiden",
+        "es": "Enrollar y cortar",
+        "fr": "Rouler et trancher",
+        "ro": "Rulează și taie"
       },
       "summary": {
-        "en": "Roll up tightly from one long edge into a log, trim the ends, and cut into 9 even slices."
+        "en": "Roll up tightly from one long edge into a log, trim the ends, and cut into 9 even slices.",
+        "de": "Von einer langen Seite her fest zu einer Rolle aufrollen, die Enden begradigen und in 9 gleichmäßige Scheiben schneiden.",
+        "es": "Enrollar firmemente desde un lado largo formando un tronco, recortar los extremos y cortar en 9 porciones iguales.",
+        "fr": "Rouler serré à partir d'un grand côté pour former un boudin, égaliser les extrémités et couper en 9 tranches égales.",
+        "ro": "Rulează strâns dinspre o latură lungă, formând un sul, taie capetele drepte și obține 9 felii egale."
       }
     },
     {
       "title": {
-        "en": "Pan & proof"
+        "en": "Pan & proof",
+        "de": "Formen & gehen lassen",
+        "es": "Molde y levado",
+        "fr": "Moule et pousse",
+        "ro": "Tavă și dospire"
       },
       "summary": {
-        "en": "Arrange the slices cut-side up, snug together, in a greased square pan, and let them puff for about 30 minutes."
+        "en": "Arrange the slices cut-side up, snug together, in a greased square pan, and let them puff for about 30 minutes.",
+        "de": "Die Scheiben mit der Schnittfläche nach oben dicht an dicht in eine gefettete quadratische Form setzen und etwa 30 Minuten aufgehen lassen.",
+        "es": "Colocar las porciones con el corte hacia arriba, bien juntas, en un molde cuadrado engrasado, y dejar que hinchen unos 30 minutos.",
+        "fr": "Disposer les tranches, face coupée vers le haut, bien serrées dans un moule carré graissé, puis laisser gonfler environ 30 minutes.",
+        "ro": "Așază feliile cu partea tăiată în sus, lipite una de alta, într-o tavă pătrată unsă, și lasă-le să crească circa 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake & glaze"
+        "en": "Bake & glaze",
+        "de": "Backen & glasieren",
+        "es": "Hornear y glasear",
+        "fr": "Cuire et glacer",
+        "ro": "Coace și glazurează"
       },
       "summary": {
-        "en": "Bake until golden and cooked through, then brush the hot buns immediately with a simmered sugar-water syrup for their sticky shine."
+        "en": "Bake until golden and cooked through, then brush the hot buns immediately with a simmered sugar-water syrup for their sticky shine.",
+        "de": "Backen, bis die Röllchen goldbraun und durchgebacken sind, dann sofort heiß mit eingekochtem Zuckerwassersirup bestreichen für den klebrigen Glanz.",
+        "es": "Hornear hasta que estén dorados y bien cocidos, luego pintar los bollos calientes de inmediato con almíbar de agua y azúcar para el brillo pegajoso.",
+        "fr": "Cuire jusqu'à ce que les brioches soient dorées et bien cuites, puis badigeonner aussitôt les petits pains chauds d'un sirop d'eau sucrée réduit pour leur brillance collante.",
+        "ro": "Coace până se rumenesc și se fac bine în interior, apoi unge imediat chiflele calde cu sirop fiert de apă cu zahăr pentru luciul lipicios."
       }
     }
   ],

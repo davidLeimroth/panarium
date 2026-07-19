@@ -115,50 +115,98 @@
   "method": [
     {
       "title": {
-        "en": "Activate yeast"
+        "en": "Activate yeast",
+        "de": "Hefe aktivieren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Stir sugar and yeast into lukewarm water and let stand about 10 minutes until foamy."
+        "en": "Stir sugar and yeast into lukewarm water and let stand about 10 minutes until foamy.",
+        "de": "Zucker und Hefe in lauwarmes Wasser einrühren und etwa 10 Minuten stehen lassen, bis es schäumt.",
+        "es": "Incorporar el azúcar y la levadura en agua tibia y dejar reposar unos 10 minutos hasta que haga espuma.",
+        "fr": "Incorporer le sucre et la levure dans l'eau tiède et laisser reposer environ 10 minutes jusqu'à ce que ça mousse.",
+        "ro": "Amestecă zahărul și drojdia în apă călduță și lasă să stea aproximativ 10 minute, până face spumă."
       }
     },
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine whole wheat flour and salt, then knead in the yeast mixture and more water to a semi-soft dough."
+        "en": "Combine whole wheat flour and salt, then knead in the yeast mixture and more water to a semi-soft dough.",
+        "de": "Vollkornweizenmehl und Salz vermischen, dann die Hefemischung und mehr Wasser zu einem halbweichen Teig einkneten.",
+        "es": "Combinar la harina integral de trigo y la sal, luego amasar con la mezcla de levadura y más agua hasta obtener una masa semiblanda.",
+        "fr": "Combiner la farine complète de blé et le sel, puis pétrir avec le mélange de levure et plus d'eau pour obtenir une pâte mi-molle.",
+        "ro": "Combină făina integrală de grâu și sarea, apoi frământă cu amestecul de drojdie și mai multă apă, până obții un aluat semi-moale."
       }
     },
     {
       "title": {
-        "en": "Ferment"
+        "en": "Ferment",
+        "de": "Gären lassen",
+        "es": "Fermentar",
+        "fr": "Fermenter",
+        "ro": "Fermentează"
       },
       "summary": {
-        "en": "Cover and let rise in a warm place, traditionally overnight (or about an hour with a warmer kitchen)."
+        "en": "Cover and let rise in a warm place, traditionally overnight (or about an hour with a warmer kitchen).",
+        "de": "Zugedeckt an einem warmen Ort gehen lassen, traditionell über Nacht (oder etwa eine Stunde bei einer wärmeren Küche).",
+        "es": "Tapar y dejar fermentar en un lugar cálido, tradicionalmente toda la noche (o una hora aproximadamente si la cocina está más caliente).",
+        "fr": "Couvrir et laisser lever dans un endroit chaud, traditionnellement toute la nuit (ou environ une heure dans une cuisine plus chaude).",
+        "ro": "Acoperă și lasă la crescut într-un loc călduț, în mod tradițional peste noapte (sau aproximativ o oră, dacă bucătăria e mai caldă)."
       }
     },
     {
       "title": {
-        "en": "Divide"
+        "en": "Divide",
+        "de": "Teilen",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Knead briefly to deflate, then divide into lemon-sized balls."
+        "en": "Knead briefly to deflate, then divide into lemon-sized balls.",
+        "de": "Kurz kneten, um zu entgasen, dann in zitronengroße Kugeln teilen.",
+        "es": "Amasar brevemente para desgasificar, luego dividir en bolas del tamaño de un limón.",
+        "fr": "Pétrir brièvement pour dégazer, puis diviser en boules de la taille d'un citron.",
+        "ro": "Frământă scurt pentru a degaza, apoi împarte în bile cât o lămâie."
       }
     },
     {
       "title": {
-        "en": "Cook"
+        "en": "Cook",
+        "de": "Backen",
+        "es": "Cocinar",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Roll each ball into a round and cook on a hot griddle 40-50 seconds per side."
+        "en": "Roll each ball into a round and cook on a hot griddle 40-50 seconds per side.",
+        "de": "Jede Kugel zu einer runden Scheibe ausrollen und auf einer heißen Platte 40-50 Sekunden pro Seite backen.",
+        "es": "Estirar cada bola en un círculo y cocinar en una plancha caliente 40-50 segundos por lado.",
+        "fr": "Abaisser chaque boule en cercle et cuire sur une plaque chaude 40-50 secondes par face.",
+        "ro": "Întinde fiecare bilă într-un cerc și coace pe o plită fierbinte 40-50 de secunde pe fiecare parte."
       }
     },
     {
       "title": {
-        "en": "Flame-toast"
+        "en": "Flame-toast",
+        "de": "Über der Flamme rösten",
+        "es": "Tostar a la llama",
+        "fr": "Griller à la flamme",
+        "ro": "Prăjește la flacără"
       },
       "summary": {
-        "en": "Finish by toasting briefly over direct flame on both sides until lightly charred, then brush with ghee and serve."
+        "en": "Finish by toasting briefly over direct flame on both sides until lightly charred, then brush with ghee and serve.",
+        "de": "Zum Abschluss kurz auf beiden Seiten direkt über der Flamme rösten, bis leicht angekohlt, dann mit Ghee bestreichen und servieren.",
+        "es": "Terminar tostando brevemente a llama directa por ambos lados hasta que se chamusque ligeramente, luego pintar con ghee y servir.",
+        "fr": "Terminer en grillant brièvement à flamme directe des deux côtés jusqu'à légère carbonisation, puis badigeonner de ghee et servir.",
+        "ro": "Termină prăjind scurt pe ambele părți direct pe flacără, până se rumenesc ușor pârjolite, apoi unge cu ghee și servește."
       }
     }
   ],

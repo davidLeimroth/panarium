@@ -122,50 +122,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix the batter"
+        "en": "Mix the batter",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Whisk rye flour, wheat flour, salt and baking soda, then stir in buttermilk and golden syrup to a loose, pourable batter."
+        "en": "Whisk rye flour, wheat flour, salt and baking soda, then stir in buttermilk and golden syrup to a loose, pourable batter.",
+        "de": "Roggenmehl, Weizenmehl, Salz und Natron verquirlen, dann Buttermilch und Golden Syrup einrühren zu einem lockeren, gießfähigen Teig.",
+        "es": "Batir la harina de centeno, la harina de trigo, la sal y el bicarbonato, luego añadir el suero de leche y el sirope dorado hasta obtener una masa suelta y fluida.",
+        "fr": "Fouetter la farine de seigle, la farine de blé, le sel et le bicarbonate, puis incorporer le babeurre et le sirop doré jusqu'à une pâte fluide et coulante.",
+        "ro": "Amestecă făina de secară, făina de grâu, sarea și bicarbonatul, apoi încorporează zara și siropul auriu până obții o compoziție lejeră și fluidă."
       }
     },
     {
       "title": {
-        "en": "Fill the pot"
+        "en": "Fill the pot",
+        "de": "Topf füllen",
+        "es": "Llenar la olla",
+        "fr": "Remplir la marmite",
+        "ro": "Umple oala"
       },
       "summary": {
-        "en": "Pour the batter into a well-buttered, lidded pot or Dutch oven."
+        "en": "Pour the batter into a well-buttered, lidded pot or Dutch oven.",
+        "de": "Den Teig in einen gut gebutterten Topf mit Deckel oder einen Dutch Oven füllen.",
+        "es": "Verter la masa en una olla con tapa bien untada de mantequilla, o en una olla holandesa.",
+        "fr": "Verser la pâte dans une marmite munie d'un couvercle, bien beurrée, ou dans une cocotte en fonte.",
+        "ro": "Toarnă compoziția într-o oală cu capac, unsă bine cu unt, sau într-un vas Dutch oven."
       }
     },
     {
       "title": {
-        "en": "Cover"
+        "en": "Cover",
+        "de": "Abdecken",
+        "es": "Tapar",
+        "fr": "Couvrir",
+        "ro": "Acoperă"
       },
       "summary": {
-        "en": "Top with a round of parchment and the lid to trap steam and moisture."
+        "en": "Top with a round of parchment and the lid to trap steam and moisture.",
+        "de": "Mit einem Backpapierkreis und dem Deckel abdecken, um Dampf und Feuchtigkeit einzuschließen.",
+        "es": "Cubrir con un círculo de papel de horno y la tapa para retener el vapor y la humedad.",
+        "fr": "Couvrir d'un rond de papier cuisson puis du couvercle pour retenir la vapeur et l'humidité.",
+        "ro": "Acoperă cu un rond de hârtie de copt și cu capacul, pentru a reține aburul și umezeala."
       }
     },
     {
       "title": {
-        "en": "Slow-bake"
+        "en": "Slow-bake",
+        "de": "Langsam backen",
+        "es": "Cocción lenta",
+        "fr": "Cuisson lente",
+        "ro": "Coacere lentă"
       },
       "summary": {
-        "en": "Bake for many hours at a bare simmer-low oven temperature until fully set all the way through."
+        "en": "Bake for many hours at a bare simmer-low oven temperature until fully set all the way through.",
+        "de": "Viele Stunden bei einer sehr niedrigen Ofentemperatur nahe dem Köcheln backen, bis das Brot durchgehend fest ist.",
+        "es": "Hornear durante muchas horas a una temperatura muy baja, casi de cocción a fuego lento, hasta que quede firme por completo.",
+        "fr": "Cuire pendant de longues heures à une température de four très basse, proche du frémissement, jusqu'à ce que ce soit ferme de part en part.",
+        "ro": "Coace timp de multe ore la o temperatură foarte scăzută a cuptorului, aproape de fierbere lentă, până devine ferm până în centru."
       }
     },
     {
       "title": {
-        "en": "Turn out"
+        "en": "Turn out",
+        "de": "Stürzen",
+        "es": "Desmoldar",
+        "fr": "Démouler",
+        "ro": "Răstoarnă din formă"
       },
       "summary": {
-        "en": "Loosen the edges with a spatula and invert onto a cooling rack."
+        "en": "Loosen the edges with a spatula and invert onto a cooling rack.",
+        "de": "Die Ränder mit einem Spatel lösen und auf ein Kuchengitter stürzen.",
+        "es": "Despegar los bordes con una espátula y volcar sobre una rejilla.",
+        "fr": "Décoller les bords à la spatule et renverser sur une grille.",
+        "ro": "Desprinde marginile cu o spatulă și răstoarnă pe un grătar."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cool at least 20 minutes before slicing."
+        "en": "Cool at least 20 minutes before slicing.",
+        "de": "Mindestens 20 Minuten auskühlen lassen, bevor angeschnitten wird.",
+        "es": "Dejar enfriar al menos 20 minutos antes de cortar.",
+        "fr": "Laisser refroidir au moins 20 minutes avant de trancher.",
+        "ro": "Lasă să se răcească cel puțin 20 de minute înainte de feliere."
       }
     }
   ],

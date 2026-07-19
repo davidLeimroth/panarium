@@ -127,50 +127,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom yeast"
+        "en": "Bloom yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Dissolve sugar and yeast in warm water; let stand about 10 minutes until foamy."
+        "en": "Dissolve sugar and yeast in warm water; let stand about 10 minutes until foamy.",
+        "de": "Zucker und Hefe in warmem Wasser auflösen; etwa 10 Minuten stehen lassen, bis es schäumt.",
+        "es": "Disolver el azúcar y la levadura en agua tibia; dejar reposar unos 10 minutos hasta que espume.",
+        "fr": "Dissoudre le sucre et la levure dans l'eau tiède; laisser reposer environ 10 minutes jusqu'à ce que ça mousse.",
+        "ro": "Dizolvă zahărul și drojdia în apă călduță; lasă la odihnă aproximativ 10 minute până face spumă."
       }
     },
     {
       "title": {
-        "en": "Sponge"
+        "en": "Sponge",
+        "de": "Vorteig",
+        "es": "Esponja",
+        "fr": "Éponge",
+        "ro": "Plămădeală"
       },
       "summary": {
-        "en": "Stir in half the flour and let the wet mixture proof for 30 minutes."
+        "en": "Stir in half the flour and let the wet mixture proof for 30 minutes.",
+        "de": "Die Hälfte des Mehls einrühren und die feuchte Mischung 30 Minuten gehen lassen.",
+        "es": "Incorporar la mitad de la harina y dejar fermentar la mezcla húmeda durante 30 minutos.",
+        "fr": "Incorporer la moitié de la farine et laisser pointer ce mélange humide pendant 30 minutes.",
+        "ro": "Adaugă jumătate din făină și lasă amestecul umed la dospit timp de 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Mix and knead"
+        "en": "Mix and knead",
+        "de": "Mischen und kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Work in the remaining flour, salt and oil; knead about 10 minutes to a soft, notably wet dough."
+        "en": "Work in the remaining flour, salt and oil; knead about 10 minutes to a soft, notably wet dough.",
+        "de": "Restliches Mehl, Salz und Öl einarbeiten; etwa 10 Minuten zu einem weichen, auffällig feuchten Teig kneten.",
+        "es": "Incorporar el resto de la harina, la sal y el aceite; amasar unos 10 minutos hasta obtener una masa suave y notablemente húmeda.",
+        "fr": "Incorporer le reste de la farine, le sel et l'huile; pétrir environ 10 minutes pour obtenir une pâte souple et nettement humide.",
+        "ro": "Încorporează restul de făină, sarea și uleiul; frământă aproximativ 10 minute până obții un aluat moale și vizibil umed."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gare",
+        "es": "Fermentar",
+        "fr": "Pointage",
+        "ro": "Dospire"
       },
       "summary": {
-        "en": "Cover and let the dough double in size, about 1 hour."
+        "en": "Cover and let the dough double in size, about 1 hour.",
+        "de": "Abdecken und den Teig etwa 1 Stunde gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Tapar y dejar que la masa doble su volumen, aproximadamente 1 hora.",
+        "fr": "Couvrir et laisser la pâte doubler de volume, environ 1 heure.",
+        "ro": "Acoperă și lasă aluatul să își dubleze volumul, aproximativ 1 oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into 8 balls, roll each thin on a bran-dusted surface, and rest covered for 30 minutes."
+        "en": "Divide into 8 balls, roll each thin on a bran-dusted surface, and rest covered for 30 minutes.",
+        "de": "In 8 Kugeln teilen, jede auf einer mit Kleie bestäubten Fläche dünn ausrollen und zugedeckt 30 Minuten ruhen lassen.",
+        "es": "Dividir en 8 bolas, estirar cada una fina sobre una superficie espolvoreada con salvado y dejar reposar tapadas 30 minutos.",
+        "fr": "Diviser en 8 pâtons, abaisser chacun finement sur un plan saupoudré de son, puis laisser reposer couvert 30 minutes.",
+        "ro": "Împarte în 8 bile, întinde fiecare subțire pe o suprafață presărată cu tărâțe și lasă la odihnă acoperit 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake on a screaming-hot stone until puffed and lightly charred in spots, 6 to 7 minutes."
+        "en": "Bake on a screaming-hot stone until puffed and lightly charred in spots, 6 to 7 minutes.",
+        "de": "Auf einem sehr heißen Backstein backen, bis der Teig aufgeht und stellenweise leicht verkohlt, 6 bis 7 Minuten.",
+        "es": "Hornear sobre una piedra muy caliente hasta que infle y se tueste ligeramente en algunas zonas, 6 a 7 minutos.",
+        "fr": "Cuire sur une pierre brûlante jusqu'à ce que ça gonfle et se marque de quelques taches grillées, 6 à 7 minutes.",
+        "ro": "Coace pe o piatră foarte fierbinte până se umflă și se rumenește ușor pe alocuri, 6 până la 7 minute."
       }
     }
   ],

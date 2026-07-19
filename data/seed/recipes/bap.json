@@ -120,50 +120,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine flour, yeast and salt, then stir in warm milk and water to a soft, slightly sticky dough."
+        "en": "Combine flour, yeast and salt, then stir in warm milk and water to a soft, slightly sticky dough.",
+        "de": "Mehl, Hefe und Salz vermischen, dann warme Milch und Wasser einrühren, bis ein weicher, leicht klebriger Teig entsteht.",
+        "es": "Mezclar la harina, la levadura y la sal; luego añadir la leche y el agua tibias hasta lograr una masa blanda y algo pegajosa.",
+        "fr": "Mélanger la farine, la levure et le sel, puis incorporer le lait et l'eau tièdes pour obtenir une pâte souple et légèrement collante.",
+        "ro": "Amestecă făina, drojdia și sarea, apoi adaugă laptele și apa călduță până obții un aluat moale, ușor lipicios."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Knead by machine or hand until smooth, about 8-10 minutes by machine or 15 by hand."
+        "en": "Knead by machine or hand until smooth, about 8-10 minutes by machine or 15 by hand.",
+        "de": "Mit der Maschine oder von Hand kneten, bis der Teig glatt ist, etwa 8-10 Minuten mit der Maschine oder 15 von Hand.",
+        "es": "Amasar a máquina o a mano hasta que quede lisa, unos 8-10 minutos a máquina o 15 a mano.",
+        "fr": "Pétrir au robot ou à la main jusqu'à obtenir une pâte lisse, environ 8-10 minutes au robot ou 15 à la main.",
+        "ro": "Frământă cu mixerul sau manual până devine neted, aproximativ 8-10 minute cu mixerul sau 15 manual."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise in an oiled bowl until doubled, 1 to 1.5 hours."
+        "en": "Cover and let rise in an oiled bowl until doubled, 1 to 1.5 hours.",
+        "de": "Zugedeckt in einer geölten Schüssel gehen lassen, bis sich der Teig verdoppelt hat, 1 bis 1.5 Stunden.",
+        "es": "Tapar y dejar fermentar en un bol aceitado hasta que duplique el volumen, de 1 a 1.5 horas.",
+        "fr": "Couvrir et laisser lever dans un saladier huilé jusqu'à ce que la pâte double de volume, 1 à 1.5 heure.",
+        "ro": "Acoperă și lasă la crescut într-un bol uns cu ulei până se dublează, 1 până la 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Divide & shape"
+        "en": "Divide & shape",
+        "de": "Teilen & formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide into 10 equal pieces, shape into smooth balls, and space out on a lined tray."
+        "en": "Divide into 10 equal pieces, shape into smooth balls, and space out on a lined tray.",
+        "de": "In 10 gleiche Stücke teilen, zu glatten Kugeln formen und mit Abstand auf ein ausgelegtes Blech setzen.",
+        "es": "Dividir en 10 piezas iguales, formar bolas lisas y colocarlas separadas sobre una bandeja forrada.",
+        "fr": "Diviser en 10 pâtons égaux, façonner en boules lisses et espacer sur une plaque garnie de papier cuisson.",
+        "ro": "Împarte în 10 bucăți egale, modelează bile netede și așază-le distanțate pe o tavă cu hârtie de copt."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover loosely and prove until puffy, 45 to 60 minutes."
+        "en": "Cover loosely and prove until puffy, 45 to 60 minutes.",
+        "de": "Locker abdecken und gehen lassen, bis die Teiglinge aufgepolstert sind, 45 bis 60 Minuten.",
+        "es": "Cubrir sin apretar y dejar reposar hasta que estén hinchadas, 45 a 60 minutos.",
+        "fr": "Couvrir sans serrer et laisser pousser jusqu'à ce que les pâtons soient bien gonflés, 45 à 60 minutes.",
+        "ro": "Acoperă ușor și lasă la dospit până se umflă, 45-60 de minute."
       }
     },
     {
       "title": {
-        "en": "Finish & bake"
+        "en": "Finish & bake",
+        "de": "Fertigstellen & backen",
+        "es": "Acabar y hornear",
+        "fr": "Finition et cuisson",
+        "ro": "Finisare și coacere"
       },
       "summary": {
-        "en": "Brush each roll with milk, dust generously with flour, and bake until just pale gold, staying soft rather than deeply browned."
+        "en": "Brush each roll with milk, dust generously with flour, and bake until just pale gold, staying soft rather than deeply browned.",
+        "de": "Jedes Brötchen mit Milch bestreichen, großzügig mit Mehl bestäuben und backen, bis sie nur blassgolden sind, weich bleiben statt stark zu bräunen.",
+        "es": "Pintar cada bollo con leche, espolvorear generosamente con harina y hornear hasta que estén apenas dorados pálidos, manteniéndose blandos y no muy tostados.",
+        "fr": "Badigeonner chaque petit pain de lait, fariner généreusement et cuire jusqu'à une couleur dorée pâle, en gardant la mie moelleuse plutôt qu'une croûte foncée.",
+        "ro": "Unge fiecare chiflă cu lapte, presară generos cu făină și coace până devin auriu pal, rămânând moi, nu rumenite puternic."
       }
     }
   ],

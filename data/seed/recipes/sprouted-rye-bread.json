@@ -129,66 +129,130 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine sprouted wheat and rye flours, cocoa (if using), salt, yeast and caraway seeds, then stir in water and molasses."
+        "en": "Combine sprouted wheat and rye flours, cocoa (if using), salt, yeast and caraway seeds, then stir in water and molasses.",
+        "de": "Gekeimtes Weizen- und Roggenmehl, Kakao (falls verwendet), Salz, Hefe und Kümmel vermengen, dann Wasser und Melasse einrühren.",
+        "es": "Combinar las harinas de trigo y centeno germinados, el cacao (si se usa), la sal, la levadura y las semillas de alcaravea, luego añadir el agua y la melaza.",
+        "fr": "Combiner les farines de blé et de seigle germés, le cacao (facultatif), le sel, la levure et les graines de carvi, puis incorporer l'eau et la mélasse.",
+        "ro": "Combină făina de grâu și de secară încolțite, cacaua (dacă folosești), sarea, drojdia și semințele de chimen, apoi adaugă apa și melasa."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposo",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Let the shaggy dough rest 5-10 minutes, then stir again about 2 minutes until smooth."
+        "en": "Let the shaggy dough rest 5-10 minutes, then stir again about 2 minutes until smooth.",
+        "de": "Den groben Teig 5-10 Minuten ruhen lassen, dann etwa 2 Minuten erneut rühren, bis er glatt ist.",
+        "es": "Dejar reposar la masa tosca 5-10 minutos, luego remover de nuevo unos 2 minutos hasta que quede lisa.",
+        "fr": "Laisser reposer la pâte grossière 5-10 minutes, puis remuer à nouveau environ 2 minutes jusqu'à consistance lisse.",
+        "ro": "Lasă aluatul grosier la odihnă 5-10 minute, apoi amestecă din nou aproximativ 2 minute, până devine neted."
       }
     },
     {
       "title": {
-        "en": "Stretch and fold"
+        "en": "Stretch and fold",
+        "de": "Dehnen und falten",
+        "es": "Estirar y plegar",
+        "fr": "Étirer et replier",
+        "ro": "Întinde și pliază"
       },
       "summary": {
-        "en": "In an oiled bowl, stretch and fold the wet dough 4-6 times instead of kneading."
+        "en": "In an oiled bowl, stretch and fold the wet dough 4-6 times instead of kneading.",
+        "de": "Den feuchten Teig in einer geölten Schüssel 4-6 Mal dehnen und falten, anstatt zu kneten.",
+        "es": "En un bol aceitado, estirar y plegar la masa húmeda 4-6 veces en lugar de amasar.",
+        "fr": "Dans un saladier huilé, étirer et replier la pâte humide 4-6 fois au lieu de pétrir.",
+        "ro": "Într-un bol uns cu ulei, întinde și pliază aluatul umed de 4-6 ori, în loc să-l frămânți."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let rise at room temperature 1-2 hours until doubled."
+        "en": "Let rise at room temperature 1-2 hours until doubled.",
+        "de": "Bei Raumtemperatur 1-2 Stunden gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Dejar fermentar a temperatura ambiente 1-2 horas hasta que doble.",
+        "fr": "Laisser lever à température ambiante 1-2 heures jusqu'au double.",
+        "ro": "Lasă la crescut la temperatura camerei 1-2 ore, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide in two, shape into logs and settle into loaf pans."
+        "en": "Divide in two, shape into logs and settle into loaf pans.",
+        "de": "Halbieren, zu Strängen formen und in Kastenformen setzen.",
+        "es": "Dividir en dos, formar troncos y colocarlos en moldes de pan.",
+        "fr": "Diviser en deux, façonner en bûches et déposer dans des moules à cake.",
+        "ro": "Împarte în două, modelează în formă de bușteni și așază în forme de pâine."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Second apprêt",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Let rise 1-2 hours until the dough crowns about 2.5 cm above the pan edges."
+        "en": "Let rise 1-2 hours until the dough crowns about 2.5 cm above the pan edges.",
+        "de": "1-2 Stunden gehen lassen, bis der Teig etwa 2.5 cm über den Formrand hinausragt.",
+        "es": "Dejar fermentar 1-2 horas hasta que la masa sobrepase el borde del molde unos 2.5 cm.",
+        "fr": "Laisser lever 1-2 heures jusqu'à ce que la pâte dépasse le bord du moule d'environ 2.5 cm.",
+        "ro": "Lasă la crescut 1-2 ore, până aluatul depășește marginea formei cu aproximativ 2.5 cm."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 175°C for 30-35 minutes until hollow-sounding when tapped."
+        "en": "Bake at 175°C for 30-35 minutes until hollow-sounding when tapped.",
+        "de": "Bei 175°C 30-35 Minuten backen, bis er beim Klopfen hohl klingt.",
+        "es": "Hornear a 175°C durante 30-35 minutos hasta que suene hueco al golpearlo.",
+        "fr": "Cuire à 175°C pendant 30-35 minutes jusqu'à ce qu'il sonne creux quand on le tapote.",
+        "ro": "Coace la 175°C timp de 30-35 de minute, până sună a gol când e bătută ușor."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcire"
       },
       "summary": {
-        "en": "Cool on a rack before slicing."
+        "en": "Cool on a rack before slicing.",
+        "de": "Vor dem Anschneiden auf einem Gitter abkühlen lassen.",
+        "es": "Dejar enfriar sobre una rejilla antes de cortar.",
+        "fr": "Laisser refroidir sur une grille avant de trancher.",
+        "ro": "Lasă să se răcească pe un grătar înainte de a felia."
       }
     }
   ],

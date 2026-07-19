@@ -118,42 +118,82 @@
   "method": [
     {
       "title": {
-        "en": "Boil & rice"
+        "en": "Boil & rice",
+        "de": "Kochen & passieren",
+        "es": "Cocer y pasar",
+        "fr": "Cuire & presser",
+        "ro": "Fierbe și pasează"
       },
       "summary": {
-        "en": "Boil peeled potato chunks until tender, drain well, and press through a sieve or ricer while still hot for a light, lump-free mash."
+        "en": "Boil peeled potato chunks until tender, drain well, and press through a sieve or ricer while still hot for a light, lump-free mash.",
+        "de": "Geschälte Kartoffelstücke weich kochen, gut abtropfen lassen und noch heiß durch ein Sieb oder eine Kartoffelpresse drücken, für ein leichtes, klumpenfreies Püree.",
+        "es": "Cocer los trozos de patata pelada hasta que estén tiernos, escurrir bien y pasarlos, aún calientes, por un tamiz o pasapurés para un puré ligero y sin grumos.",
+        "fr": "Faire bouillir les morceaux de pomme de terre épluchée jusqu'à tendreté, bien égoutter, puis presser chaud au tamis ou au presse-purée pour une purée légère et sans grumeaux.",
+        "ro": "Fierbe bucățile de cartof curățat până se înmoaie, scurge bine și pasează-le, cât sunt încă fierbinți, printr-o sită sau o presă de piure, pentru un piure fin, fără cocoloașe."
       }
     },
     {
       "title": {
-        "en": "Work in flour"
+        "en": "Work in flour",
+        "de": "Mehl einarbeiten",
+        "es": "Incorporar la harina",
+        "fr": "Incorporer la farine",
+        "ro": "Încorporează făina"
       },
       "summary": {
-        "en": "Stir in half the butter, the salt and pepper, then work in the flour just until a soft dough comes together."
+        "en": "Stir in half the butter, the salt and pepper, then work in the flour just until a soft dough comes together.",
+        "de": "Die Hälfte der Butter sowie Salz und Pfeffer einrühren, dann das Mehl einarbeiten, nur bis ein weicher Teig entsteht.",
+        "es": "Incorporar la mitad de la mantequilla, la sal y la pimienta, luego añadir la harina justo hasta formar una masa blanda.",
+        "fr": "Incorporer la moitié du beurre, le sel et le poivre, puis ajouter la farine juste jusqu'à obtenir une pâte souple.",
+        "ro": "Încorporează jumătate din unt, sarea și piperul, apoi adaugă făina doar până se formează un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Roll & cut"
+        "en": "Roll & cut",
+        "de": "Ausrollen & schneiden",
+        "es": "Estirar y cortar",
+        "fr": "Abaisser et découper",
+        "ro": "Întinde și taie"
       },
       "summary": {
-        "en": "Pat the dough into an 8-inch disc on a floured surface and cut into wedges."
+        "en": "Pat the dough into an 8-inch disc on a floured surface and cut into wedges.",
+        "de": "Den Teig auf einer bemehlten Fläche zu einer 20-cm-Scheibe drücken und in Spalten schneiden.",
+        "es": "Aplanar la masa en un disco de 20 cm sobre una superficie enharinada y cortar en cuñas.",
+        "fr": "Aplatir la pâte en un disque de 20 cm sur un plan de travail fariné et découper en quartiers.",
+        "ro": "Presează aluatul într-un disc de 20 cm pe o suprafață făinată și taie în felii triunghiulare."
       }
     },
     {
       "title": {
-        "en": "Fry"
+        "en": "Fry",
+        "de": "Braten",
+        "es": "Freír",
+        "fr": "Cuire à la poêle",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Melt the remaining butter in a hot, dry frying pan and fry the wedges in batches until golden-brown and spotted, about 5 minutes a side."
+        "en": "Melt the remaining butter in a hot, dry frying pan and fry the wedges in batches until golden-brown and spotted, about 5 minutes a side.",
+        "de": "Die restliche Butter in einer heißen, trockenen Pfanne schmelzen und die Spalten portionsweise goldbraun und gesprenkelt braten, etwa 5 Minuten pro Seite.",
+        "es": "Derretir la mantequilla restante en una sartén caliente y seca, y freír las cuñas en tandas hasta que estén doradas y con manchas, unos 5 minutos por lado.",
+        "fr": "Faire fondre le reste de beurre dans une poêle chaude et sèche, puis cuire les quartiers par lots jusqu'à ce qu'ils soient dorés et tachetés, environ 5 minutes de chaque côté.",
+        "ro": "Topește restul de unt într-o tigaie fierbinte și uscată și prăjește feliile în ture, până devin aurii și pătate, aproximativ 5 minute pe fiecare parte."
       }
     },
     {
       "title": {
-        "en": "Serve hot"
+        "en": "Serve hot",
+        "de": "Heiß servieren",
+        "es": "Servir caliente",
+        "fr": "Servir chaud",
+        "ro": "Servește cald"
       },
       "summary": {
-        "en": "Serve straight from the pan as part of a fry-up, or split and fry again the next day."
+        "en": "Serve straight from the pan as part of a fry-up, or split and fry again the next day.",
+        "de": "Direkt aus der Pfanne als Teil eines englischen Frühstücks servieren, oder am nächsten Tag halbieren und erneut braten.",
+        "es": "Servir recién sacado de la sartén como parte de un desayuno inglés completo, o partir y volver a freír al día siguiente.",
+        "fr": "Servir directement à la sortie de la poêle dans un petit-déjeuner anglais, ou fendre et refaire frire le lendemain.",
+        "ro": "Servește direct din tigaie ca parte a unui mic dejun englezesc complet, sau taie-le și prăjește-le din nou a doua zi."
       }
     }
   ],

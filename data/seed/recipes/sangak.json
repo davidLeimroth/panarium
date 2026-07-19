@@ -129,58 +129,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the dough"
+        "en": "Build the dough",
+        "de": "Teig ansetzen",
+        "es": "Preparar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Pregătește aluatul"
       },
       "summary": {
-        "en": "Mix active sourdough starter with the whole wheat and white flours, water, honey and salt into a shaggy dough; rest 1 hour."
+        "en": "Mix active sourdough starter with the whole wheat and white flours, water, honey and salt into a shaggy dough; rest 1 hour.",
+        "de": "Aktives Sauerteig-Anstellgut mit dem Vollkorn- und Weizenmehl, Wasser, Honig und Salz zu einem groben Teig vermengen; 1 Stunde ruhen lassen.",
+        "es": "Mezclar la masa madre activa con la harina integral y la harina blanca, el agua, la miel y la sal en una masa tosca; dejar reposar 1 hora.",
+        "fr": "Mélanger le levain actif avec les farines complète et blanche, l'eau, le miel et le sel en une pâte grossière ; laisser reposer 1 heure.",
+        "ro": "Amestecă maiaua activă cu făina integrală și făina albă, apa, mierea și sarea într-un aluat grosier; lasă la odihnă 1 oră."
       }
     },
     {
       "title": {
-        "en": "Stretch & fold"
+        "en": "Stretch & fold",
+        "de": "Dehnen & falten",
+        "es": "Estirar y plegar",
+        "fr": "Étirer et replier",
+        "ro": "Întinde și pliază"
       },
       "summary": {
-        "en": "Fold the dough over itself every 30 minutes, four times, to build strength without hard kneading."
+        "en": "Fold the dough over itself every 30 minutes, four times, to build strength without hard kneading.",
+        "de": "Den Teig alle 30 Minuten über sich selbst falten, viermal, um Struktur aufzubauen, ohne kräftig zu kneten.",
+        "es": "Plegar la masa sobre sí misma cada 30 minutos, cuatro veces, para desarrollar fuerza sin amasar con dureza.",
+        "fr": "Replier la pâte sur elle-même toutes les 30 minutes, quatre fois, pour développer la force sans pétrissage énergique.",
+        "ro": "Pliază aluatul peste el însuși la fiecare 30 de minute, de patru ori, pentru a dezvolta forța fără frământare puternică."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let it continue fermenting through the folds, roughly 2-3 hours total, until airy and extensible."
+        "en": "Let it continue fermenting through the folds, roughly 2-3 hours total, until airy and extensible.",
+        "de": "Während der Faltvorgänge weitergären lassen, insgesamt etwa 2-3 Stunden, bis er luftig und dehnbar ist.",
+        "es": "Dejar que siga fermentando durante los pliegues, unas 2-3 horas en total, hasta que esté aireada y extensible.",
+        "fr": "Laisser continuer à fermenter pendant les rabats, environ 2-3 heures au total, jusqu'à ce qu'elle soit aérée et extensible.",
+        "ro": "Lasă-l să continue să fermenteze pe parcursul plierilor, în total aproximativ 2-3 ore, până devine aerat și extensibil."
       }
     },
     {
       "title": {
-        "en": "Rest before shaping"
+        "en": "Rest before shaping",
+        "de": "Vor dem Formen ruhen lassen",
+        "es": "Reposar antes de formar",
+        "fr": "Reposer avant façonnage",
+        "ro": "Odihnă înainte de modelare"
       },
       "summary": {
-        "en": "Give the dough a final rest of at least 30 minutes."
+        "en": "Give the dough a final rest of at least 30 minutes.",
+        "de": "Den Teig mindestens 30 Minuten abschließend ruhen lassen.",
+        "es": "Dejar reposar la masa un mínimo de 30 minutos antes de formar.",
+        "fr": "Laisser reposer la pâte au moins 30 minutes avant le façonnage.",
+        "ro": "Lasă aluatul la odihnă finală cel puțin 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Stretch into a sheet"
+        "en": "Stretch into a sheet",
+        "de": "Zu einer Bahn ziehen",
+        "es": "Estirar en una lámina",
+        "fr": "Étirer en une feuille",
+        "ro": "Întinde într-o foaie"
       },
       "summary": {
-        "en": "Oil your hands and stretch the dough into a long, thin sheet on a floured peel or tray."
+        "en": "Oil your hands and stretch the dough into a long, thin sheet on a floured peel or tray.",
+        "de": "Die Hände ölen und den Teig auf einer bemehlten Schieberplatte oder einem Blech zu einer langen, dünnen Bahn ziehen.",
+        "es": "Aceitar las manos y estirar la masa en una lámina larga y fina sobre una pala o bandeja enharinada.",
+        "fr": "Huiler les mains et étirer la pâte en une feuille longue et fine sur une pelle ou une plaque farinée.",
+        "ro": "Unge-ți mâinile cu ulei și întinde aluatul într-o foaie lungă și subțire pe o lopată sau tavă făinată."
       }
     },
     {
       "title": {
-        "en": "Dimple & seed"
+        "en": "Dimple & seed",
+        "de": "Dellen drücken & besäen",
+        "es": "Marcar hoyuelos y sembrar",
+        "fr": "Creuser des alvéoles & semer",
+        "ro": "Presează gropițe și presară susan"
       },
       "summary": {
-        "en": "Press fingers repeatedly into the surface to create the signature dimples, then scatter sesame seeds over the top."
+        "en": "Press fingers repeatedly into the surface to create the signature dimples, then scatter sesame seeds over the top.",
+        "de": "Wiederholt mit den Fingern in die Oberfläche drücken, um die charakteristischen Dellen zu erzeugen, dann Sesam darüberstreuen.",
+        "es": "Presionar los dedos repetidamente sobre la superficie para crear los característicos hoyuelos, luego esparcir semillas de sésamo por encima.",
+        "fr": "Presser les doigts à répétition dans la surface pour créer les alvéoles caractéristiques, puis parsemer de graines de sésame.",
+        "ro": "Apasă repetat cu degetele în suprafață pentru a crea gropițele caracteristice, apoi presară semințe de susan deasupra."
       }
     },
     {
       "title": {
-        "en": "Stone-bake"
+        "en": "Stone-bake",
+        "de": "Auf dem Stein backen",
+        "es": "Hornear sobre piedra",
+        "fr": "Cuire sur pierre",
+        "ro": "Coace pe piatră"
       },
       "summary": {
-        "en": "Slide onto a screaming-hot baking stone (or heated pebbles) and bake 6-9 minutes until deeply blistered and browned."
+        "en": "Slide onto a screaming-hot baking stone (or heated pebbles) and bake 6-9 minutes until deeply blistered and browned.",
+        "de": "Auf einen glühend heißen Backstein (oder erhitzte Kiesel) gleiten lassen und 6-9 Minuten backen, bis er stark blasig und gebräunt ist.",
+        "es": "Deslizar sobre una piedra de horno al rojo vivo (o guijarros calientes) y hornear 6-9 minutos hasta que esté muy ampollado y dorado.",
+        "fr": "Faire glisser sur une pierre à pain brûlante (ou des galets chauffés) et cuire 6-9 minutes jusqu'à ce qu'elle soit bien boursouflée et dorée.",
+        "ro": "Alunecă pe o piatră de copt fierbinte (sau pietricele încinse) și coace 6-9 minute, până suprafața se umple de bule și se rumenește bine."
       }
     }
   ],

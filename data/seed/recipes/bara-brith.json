@@ -133,42 +133,82 @@
   "method": [
     {
       "title": {
-        "en": "Soak the fruit"
+        "en": "Soak the fruit",
+        "de": "Früchte einweichen",
+        "es": "Remojar la fruta",
+        "fr": "Faire tremper les fruits",
+        "ro": "Hidratează fructele"
       },
       "summary": {
-        "en": "Pour hot, strong tea over the mixed dried fruit, cover, and leave overnight (or at least 6 hours) until plump."
+        "en": "Pour hot, strong tea over the mixed dried fruit, cover, and leave overnight (or at least 6 hours) until plump.",
+        "de": "Heißen, starken Tee über die Trockenfrüchte gießen, abdecken und über Nacht (mindestens 6 Stunden) ziehen lassen, bis sie prall sind.",
+        "es": "Verter té fuerte y caliente sobre la fruta deshidratada, tapar y dejar reposar toda la noche (o al menos 6 horas) hasta que esté hinchada.",
+        "fr": "Verser du thé fort et chaud sur les fruits secs mélangés, couvrir et laisser reposer toute la nuit (ou au moins 6 heures) jusqu'à ce qu'ils gonflent.",
+        "ro": "Toarnă ceai tare și fierbinte peste fructele uscate amestecate, acoperă și lasă peste noapte (minimum 6 ore) până se umflă."
       }
     },
     {
       "title": {
-        "en": "Mix the batter"
+        "en": "Mix the batter",
+        "de": "Teig anrühren",
+        "es": "Mezclar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Pregătește compoziția"
       },
       "summary": {
-        "en": "Stir the self-raising flour, muscovado sugar and mixed spice together, then fold in the soaked fruit with its liquid and the beaten egg until just combined."
+        "en": "Stir the self-raising flour, muscovado sugar and mixed spice together, then fold in the soaked fruit with its liquid and the beaten egg until just combined.",
+        "de": "Mehl mit Backpulver, Muscovado-Zucker und Gewürzmischung verrühren, dann die eingeweichten Früchte mit ihrer Flüssigkeit und das verquirlte Ei unterheben, bis alles gerade eben vermengt ist.",
+        "es": "Mezclar la harina leudante, el azúcar mascabado y la mezcla de especias, luego incorporar con cuidado la fruta remojada con su líquido y el huevo batido hasta apenas unir.",
+        "fr": "Mélanger la farine à levure incorporée, le sucre muscovado et les épices, puis incorporer délicatement les fruits trempés avec leur liquide et l'œuf battu, juste assez pour lier.",
+        "ro": "Amestecă făina cu praf de copt, zahărul muscovado și amestecul de mirodenii, apoi încorporează ușor fructele hidratate cu lichidul lor și oul bătut, doar până se omogenizează."
       }
     },
     {
       "title": {
-        "en": "Pan it up"
+        "en": "Pan it up",
+        "de": "In die Form füllen",
+        "es": "Poner en el molde",
+        "fr": "Verser dans le moule",
+        "ro": "Pune în formă"
       },
       "summary": {
-        "en": "Scrape the thick batter into a lined loaf tin and level the top."
+        "en": "Scrape the thick batter into a lined loaf tin and level the top.",
+        "de": "Den dicken Teig in eine ausgelegte Kastenform streichen und die Oberfläche glattstreichen.",
+        "es": "Verter la masa espesa en un molde de plumcake forrado y alisar la superficie.",
+        "fr": "Verser la pâte épaisse dans un moule à cake chemisé et lisser le dessus.",
+        "ro": "Toarnă compoziția groasă într-o formă de chec tapetată cu hârtie de copt și nivelează suprafața."
       }
     },
     {
       "title": {
-        "en": "Bake low and slow"
+        "en": "Bake low and slow",
+        "de": "Langsam backen",
+        "es": "Hornear a fuego lento",
+        "fr": "Cuisson lente",
+        "ro": "Coacere lentă"
       },
       "summary": {
-        "en": "Bake at 180°C for about an hour, loosely covering if the top browns too quickly, until a skewer comes out clean."
+        "en": "Bake at 180°C for about an hour, loosely covering if the top browns too quickly, until a skewer comes out clean.",
+        "de": "Bei 180°C etwa eine Stunde backen, bei Bedarf locker abdecken, falls die Oberfläche zu schnell bräunt, bis ein Spieß sauber herauskommt.",
+        "es": "Hornear a 180°C durante una hora aproximadamente, cubriendo sin apretar si la superficie dora demasiado rápido, hasta que un palillo salga limpio.",
+        "fr": "Cuire à 180°C environ une heure, en couvrant sans serrer si le dessus colore trop vite, jusqu'à ce qu'une brochette ressorte propre.",
+        "ro": "Coace la 180°C aproximativ o oră, acoperind ușor dacă suprafața se rumenește prea repede, până când o scobitoare iese curată."
       }
     },
     {
       "title": {
-        "en": "Glaze and rest"
+        "en": "Glaze and rest",
+        "de": "Glasieren & ruhen",
+        "es": "Glasear y reposar",
+        "fr": "Glacer et reposer",
+        "ro": "Glazurează și odihnește"
       },
       "summary": {
-        "en": "Brush the warm loaf with honey, cool completely, then wrap and let it sit a day or two for the best flavor before slicing."
+        "en": "Brush the warm loaf with honey, cool completely, then wrap and let it sit a day or two for the best flavor before slicing.",
+        "de": "Den warmen Laib mit Honig bestreichen, vollständig auskühlen lassen, dann einwickeln und ein bis zwei Tage ruhen lassen für das beste Aroma vor dem Anschneiden.",
+        "es": "Pintar el pan templado con miel, dejar enfriar por completo, luego envolverlo y dejarlo reposar uno o dos días para un mejor sabor antes de cortarlo.",
+        "fr": "Badigeonner le pain encore chaud de miel, laisser refroidir complètement, puis emballer et laisser reposer un jour ou deux pour développer la saveur avant de trancher.",
+        "ro": "Unge pâinea caldă cu miere, lasă să se răcească complet, apoi înfășoar-o și las-o o zi sau două pentru aromă mai bună înainte de feliere."
       }
     }
   ],

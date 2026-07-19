@@ -106,42 +106,82 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, yeast and salt, then add the water and mix by hand into a cohesive dough."
+        "en": "Combine flour, yeast and salt, then add the water and mix by hand into a cohesive dough.",
+        "de": "Mehl, Hefe und Salz vermengen, dann das Wasser zugeben und von Hand zu einem zusammenhängenden Teig mischen.",
+        "es": "Combinar harina, levadura y sal, luego añadir el agua y mezclar a mano hasta formar una masa uniforme.",
+        "fr": "Combiner farine, levure et sel, puis ajouter l'eau et mélanger à la main jusqu'à obtenir une pâte homogène.",
+        "ro": "Combină făina, drojdia și sarea, apoi adaugă apa și amestecă manual până obții un aluat coeziv."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Laisser lever",
+        "ro": "Lasă la dospit"
       },
       "summary": {
-        "en": "Cover directly with cling wrap pressed onto the dough's surface and let rise about 1 hour."
+        "en": "Cover directly with cling wrap pressed onto the dough's surface and let rise about 1 hour.",
+        "de": "Direkt mit Frischhaltefolie abdecken, die auf die Teigoberfläche gedrückt wird, und etwa 1 Stunde gehen lassen.",
+        "es": "Cubrir directamente con film transparente presionado sobre la superficie de la masa y dejar fermentar aproximadamente 1 hora.",
+        "fr": "Couvrir directement avec du film alimentaire pressé sur la surface de la pâte et laisser lever environ 1 heure.",
+        "ro": "Acoperă direct cu folie alimentară presată pe suprafața aluatului și lasă la dospit aproximativ 1 oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Turn out onto a floured surface, dust with more flour, and divide into 12 portions."
+        "en": "Turn out onto a floured surface, dust with more flour, and divide into 12 portions.",
+        "de": "Auf eine bemehlte Fläche stürzen, mit weiterem Mehl bestäuben und in 12 Portionen teilen.",
+        "es": "Volcar sobre una superficie enharinada, espolvorear con más harina y dividir en 12 porciones.",
+        "fr": "Renverser sur un plan de travail fariné, saupoudrer de plus de farine et diviser en 12 portions.",
+        "ro": "Răstoarnă pe o suprafață făinată, presară cu mai multă făină și împarte în 12 porții."
       }
     },
     {
       "title": {
-        "en": "Grill"
+        "en": "Grill",
+        "de": "Grillen",
+        "es": "Asar a la parrilla",
+        "fr": "Griller",
+        "ro": "Frige la grătar"
       },
       "summary": {
-        "en": "Place the portions on a braai grid over coals that are not too hot, and cook about 15 minutes, turning often, until browned with dark spots."
+        "en": "Place the portions on a braai grid over coals that are not too hot, and cook about 15 minutes, turning often, until browned with dark spots.",
+        "de": "Die Portionen auf einen Braai-Rost über nicht zu heißer Glut legen und etwa 15 Minuten garen, dabei häufig wenden, bis sie braun mit dunklen Flecken sind.",
+        "es": "Colocar las porciones en una parrilla de braai sobre brasas no demasiado fuertes y cocinar unos 15 minutos, dando vuelta con frecuencia, hasta que estén doradas con manchas oscuras.",
+        "fr": "Placer les portions sur une grille de braai au-dessus de braises pas trop chaudes et cuire environ 15 minutes, en retournant souvent, jusqu'à ce qu'elles soient dorées avec des taches sombres.",
+        "ro": "Așază porțiile pe un grătar de braai deasupra jarului care nu e prea fierbinte și frige aproximativ 15 minute, întorcând des, până devin rumenite cu pete închise."
       }
     },
     {
       "title": {
-        "en": "Serve"
+        "en": "Serve",
+        "de": "Servieren",
+        "es": "Servir",
+        "fr": "Servir",
+        "ro": "Servește"
       },
       "summary": {
-        "en": "Serve hot, split open and spread with butter."
+        "en": "Serve hot, split open and spread with butter.",
+        "de": "Heiß servieren, aufgeschnitten und mit Butter bestrichen.",
+        "es": "Servir caliente, abierto por la mitad y untado con mantequilla.",
+        "fr": "Servir chaud, fendu et tartiné de beurre.",
+        "ro": "Servește cald, tăiat în două și uns cu unt."
       }
     }
   ],

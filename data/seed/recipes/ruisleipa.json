@@ -123,58 +123,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the sour"
+        "en": "Build the sour",
+        "de": "Sauerteig ansetzen",
+        "es": "Preparar la masa ácida",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua acră"
       },
       "summary": {
-        "en": "Mix whole rye flour, water and rye starter; ferment overnight, 14-18 hours, until active and pleasantly sour."
+        "en": "Mix whole rye flour, water and rye starter; ferment overnight, 14-18 hours, until active and pleasantly sour.",
+        "de": "Vollkornroggenmehl, Wasser und Roggenanstellgut vermengen; über Nacht, 14-18 Stunden, gären lassen, bis er aktiv und angenehm sauer ist.",
+        "es": "Mezclar harina integral de centeno, agua y masa madre de centeno; fermentar toda la noche, 14-18 horas, hasta que esté activa y agradablemente ácida.",
+        "fr": "Mélanger farine de seigle complète, eau et levain de seigle ; fermenter toute la nuit, 14-18 heures, jusqu'à ce qu'il soit actif et agréablement acide.",
+        "ro": "Amestecă făina integrală de secară, apa și maiaua de secară; lasă la fermentat peste noapte, 14-18 ore, până devine activă și plăcut acrișoară."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine the sour with more rye flour, the bread flour, water, salt and a pinch of instant yeast into a smooth, wet dough."
+        "en": "Combine the sour with more rye flour, the bread flour, water, salt and a pinch of instant yeast into a smooth, wet dough.",
+        "de": "Den Sauerteig mit weiterem Roggenmehl, dem Weizenmehl, Wasser, Salz und einer Prise Instanthefe zu einem glatten, feuchten Teig verarbeiten.",
+        "es": "Combinar la masa ácida con más harina de centeno, la harina de fuerza, agua, sal y una pizca de levadura instantánea en una masa lisa y húmeda.",
+        "fr": "Mélanger le levain avec davantage de farine de seigle, la farine de force, l'eau, le sel et une pincée de levure instantanée en une pâte lisse et humide.",
+        "ro": "Combină maiaua acră cu mai multă făină de secară, făina de pâine, apa, sarea și un praf de drojdie instant într-un aluat neted și umed."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let rise in a warm spot until doubled, roughly 1-1.5 hours."
+        "en": "Let rise in a warm spot until doubled, roughly 1-1.5 hours.",
+        "de": "An einem warmen Ort bis zur Verdopplung gehen lassen, etwa 1-1.5 Stunden.",
+        "es": "Dejar fermentar en un lugar cálido hasta que doble, aproximadamente 1-1.5 horas.",
+        "fr": "Laisser lever dans un endroit chaud jusqu'au double, environ 1-1.5 heure.",
+        "ro": "Lasă la crescut într-un loc călduț până se dublează, aproximativ 1-1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide in two, round into balls, then roll each into a wide, flat disc about 35cm across."
+        "en": "Divide in two, round into balls, then roll each into a wide, flat disc about 35cm across.",
+        "de": "In zwei Teile teilen, rund wirken, dann jeden zu einer breiten, flachen Scheibe von etwa 35cm Durchmesser ausrollen.",
+        "es": "Dividir en dos, bolear, luego estirar cada una en un disco ancho y plano de unos 35cm de diámetro.",
+        "fr": "Diviser en deux, bouler, puis étaler chacune en un disque large et plat d'environ 35cm de diamètre.",
+        "ro": "Împarte în două, rotunjește în bile, apoi întinde fiecare într-un disc lat și plat de aproximativ 35cm diametru."
       }
     },
     {
       "title": {
-        "en": "Punch and proof"
+        "en": "Punch and proof",
+        "de": "Loch stechen und gehen lassen",
+        "es": "Perforar y fermentar",
+        "fr": "Percer et pousser",
+        "ro": "Găurește și lasă la dospit"
       },
       "summary": {
-        "en": "Cut a hole through the center and proof until the surface shows cracks, 45-60 minutes."
+        "en": "Cut a hole through the center and proof until the surface shows cracks, 45-60 minutes.",
+        "de": "Ein Loch in die Mitte schneiden und gehen lassen, bis die Oberfläche Risse zeigt, 45-60 Minuten.",
+        "es": "Cortar un agujero en el centro y dejar fermentar hasta que la superficie muestre grietas, 45-60 minutos.",
+        "fr": "Découper un trou au centre et laisser pousser jusqu'à ce que la surface se craquèle, 45-60 minutes.",
+        "ro": "Taie o gaură în centru și lasă la dospit până suprafața crapă, 45-60 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Dock thoroughly, then bake hot with steam for the first few minutes, finishing without steam until deeply set."
+        "en": "Dock thoroughly, then bake hot with steam for the first few minutes, finishing without steam until deeply set.",
+        "de": "Gründlich einstechen, dann heiß mit Schwaden für die ersten Minuten backen und ohne Schwaden fertigbacken, bis er fest durchgebacken ist.",
+        "es": "Pinchar bien la masa, luego hornear caliente con vapor los primeros minutos y terminar sin vapor hasta que esté bien cocido.",
+        "fr": "Piquer généreusement la pâte, puis cuire à four chaud avec buée les premières minutes et terminer sans buée jusqu'à cuisson complète.",
+        "ro": "Înțeapă bine aluatul, apoi coace la foc iute cu abur în primele minute și termină fără abur, până se coace complet."
       }
     },
     {
       "title": {
-        "en": "Finish"
+        "en": "Finish",
+        "de": "Fertigstellen",
+        "es": "Terminar",
+        "fr": "Finition",
+        "ro": "Finisează"
       },
       "summary": {
-        "en": "Brush with boiling water straight from the oven for a glossy, chewy crust."
+        "en": "Brush with boiling water straight from the oven for a glossy, chewy crust.",
+        "de": "Direkt aus dem Ofen mit kochendem Wasser bestreichen für eine glänzende, bissfeste Kruste.",
+        "es": "Pintar con agua hirviendo recién salido del horno para una corteza brillante y masticable.",
+        "fr": "Badigeonner d'eau bouillante dès la sortie du four pour une croûte brillante et moelleuse à mâcher.",
+        "ro": "Unge cu apă clocotită imediat ce iese din cuptor, pentru o coajă lucioasă și elastică la mestecat."
       }
     }
   ],

@@ -171,50 +171,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour, sugar, salt, milk powder and yeast; add egg and water and knead about 4 minutes, then work in the butter and knead 8 more minutes to a smooth, elastic dough."
+        "en": "Combine flour, sugar, salt, milk powder and yeast; add egg and water and knead about 4 minutes, then work in the butter and knead 8 more minutes to a smooth, elastic dough.",
+        "de": "Mehl, Zucker, Salz, Milchpulver und Hefe vermengen; Ei und Wasser zugeben und etwa 4 Minuten kneten, dann die Butter einarbeiten und weitere 8 Minuten zu einem glatten, elastischen Teig kneten.",
+        "es": "Combinar harina, azúcar, sal, leche en polvo y levadura; añadir el huevo y el agua y amasar unos 4 minutos, luego incorporar la mantequilla y amasar 8 minutos más hasta obtener una masa lisa y elástica.",
+        "fr": "Combiner farine, sucre, sel, lait en poudre et levure ; ajouter l'œuf et l'eau et pétrir environ 4 minutes, puis incorporer le beurre et pétrir 8 minutes de plus jusqu'à une pâte lisse et élastique.",
+        "ro": "Combină făina, zahărul, sarea, laptele praf și drojdia; adaugă oul și apa și frământă aproximativ 4 minute, apoi încorporează untul și frământă încă 8 minute până obții un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and proof 45-60 minutes until doubled."
+        "en": "Cover and proof 45-60 minutes until doubled.",
+        "de": "Zugedeckt 45-60 Minuten gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar fermentar 45-60 minutos hasta que doble su volumen.",
+        "fr": "Couvrir et laisser pousser 45-60 minutes jusqu'au double.",
+        "ro": "Acoperă și lasă la dospit 45-60 de minute până se dublează."
       }
     },
     {
       "title": {
-        "en": "Fill"
+        "en": "Fill",
+        "de": "Füllen",
+        "es": "Rellenar",
+        "fr": "Fourrer",
+        "ro": "Umple"
       },
       "summary": {
-        "en": "Freeze 10g butter cubes; divide the dough into 6 portions, flatten each around a frozen butter cube, and seal tightly into a smooth ball."
+        "en": "Freeze 10g butter cubes; divide the dough into 6 portions, flatten each around a frozen butter cube, and seal tightly into a smooth ball.",
+        "de": "10g-Butterwürfel einfrieren; den Teig in 6 Portionen teilen, jede um einen gefrorenen Butterwürfel flach drücken und straff zu einer glatten Kugel verschließen.",
+        "es": "Congelar cubos de mantequilla de 10g; dividir la masa en 6 porciones, aplanar cada una alrededor de un cubo de mantequilla congelado y sellar bien formando una bola lisa.",
+        "fr": "Congeler des cubes de beurre de 10g ; diviser la pâte en 6 portions, aplatir chacune autour d'un cube de beurre congelé et bien sceller en une boule lisse.",
+        "ro": "Congelează cuburi de unt de 10g; împarte aluatul în 6 porții, aplatizează fiecare în jurul unui cub de unt congelat și sigilează bine într-o bilă netedă."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof again until puffy and nearly doubled."
+        "en": "Proof again until puffy and nearly doubled.",
+        "de": "Erneut gehen lassen, bis die Teiglinge prall und fast doppelt so groß sind.",
+        "es": "Dejar fermentar de nuevo hasta que estén hinchados y casi duplicados.",
+        "fr": "Laisser pousser à nouveau jusqu'à ce qu'ils soient gonflés et presque doublés.",
+        "ro": "Lasă din nou la dospit până devin pufoase și aproape se dublează."
       }
     },
     {
       "title": {
-        "en": "Make the topping"
+        "en": "Make the topping",
+        "de": "Topping zubereiten",
+        "es": "Preparar la cobertura",
+        "fr": "Préparer le glaçage",
+        "ro": "Pregătește crema"
       },
       "summary": {
-        "en": "Dissolve instant coffee in boiling water; cream butter and sugar, beat in the egg and coffee, then fold in the flour to a soft, pipeable paste."
+        "en": "Dissolve instant coffee in boiling water; cream butter and sugar, beat in the egg and coffee, then fold in the flour to a soft, pipeable paste.",
+        "de": "Instantkaffee in kochendem Wasser auflösen; Butter und Zucker schaumig rühren, Ei und Kaffee einschlagen, dann das Mehl unterheben zu einer weichen, spritzfähigen Masse.",
+        "es": "Disolver café instantáneo en agua hirviendo; batir mantequilla y azúcar hasta cremar, incorporar el huevo y el café, luego añadir la harina hasta obtener una pasta blanda, apta para manga pastelera.",
+        "fr": "Dissoudre le café instantané dans l'eau bouillante ; crémer le beurre et le sucre, incorporer l'œuf et le café, puis ajouter la farine pour obtenir une pâte souple à la poche.",
+        "ro": "Dizolvă cafeaua instant în apă clocotită; freacă untul cu zahărul până devine cremos, încorporează oul și cafeaua, apoi adaugă făina pentru o pastă moale, pentru poș."
       }
     },
     {
       "title": {
-        "en": "Pipe and bake"
+        "en": "Pipe and bake",
+        "de": "Spritzen und backen",
+        "es": "Decorar y hornear",
+        "fr": "Pocher et cuire",
+        "ro": "Aplică crema și coace"
       },
       "summary": {
-        "en": "Pipe the coffee topping in a spiral over the top two-thirds of each bun and bake at 180°C (355°F) for about 20 minutes until the topping is crisp and golden."
+        "en": "Pipe the coffee topping in a spiral over the top two-thirds of each bun and bake at 180°C (355°F) for about 20 minutes until the topping is crisp and golden.",
+        "de": "Das Kaffee-Topping spiralförmig über die oberen zwei Drittel jedes Brötchens spritzen und bei 180°C (355°F) etwa 20 Minuten backen, bis das Topping knusprig und golden ist.",
+        "es": "Aplicar la cobertura de café en espiral sobre los dos tercios superiores de cada bollo con manga pastelera, y hornear a 180°C (355°F) unos 20 minutos hasta que la cobertura esté crujiente y dorada.",
+        "fr": "Pocher le glaçage au café en spirale sur les deux tiers supérieurs de chaque brioche et cuire à 180°C (355°F) pendant environ 20 minutes jusqu'à ce que le glaçage soit croustillant et doré.",
+        "ro": "Aplică crema de cafea în spirală pe două treimi din partea superioară a fiecărei chifle folosind poșul, apoi coace la 180°C (355°F) aproximativ 20 de minute până crema devine crocantă și aurie."
       }
     }
   ],

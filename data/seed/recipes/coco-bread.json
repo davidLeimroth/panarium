@@ -121,50 +121,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine most of the flour with sugar, salt and yeast, then stir in warm coconut milk and melted butter to a soft, sticky dough."
+        "en": "Combine most of the flour with sugar, salt and yeast, then stir in warm coconut milk and melted butter to a soft, sticky dough.",
+        "de": "Den Großteil des Mehls mit Zucker, Salz und Hefe vermengen, dann warme Kokosmilch und geschmolzene Butter einrühren, bis ein weicher, klebriger Teig entsteht.",
+        "es": "Combinar la mayor parte de la harina con el azúcar, la sal y la levadura, luego incorporar la leche de coco tibia y la mantequilla derretida hasta lograr una masa blanda y pegajosa.",
+        "fr": "Combiner l'essentiel de la farine avec le sucre, le sel et la levure, puis incorporer le lait de coco tiède et le beurre fondu pour une pâte souple et collante.",
+        "ro": "Combină cea mai mare parte din făină cu zahărul, sarea și drojdia, apoi încorporează laptele de cocos călduț și untul topit, până obții un aluat moale și lipicios."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead in the remaining flour on a floured surface until smooth, about 10 minutes."
+        "en": "Knead in the remaining flour on a floured surface until smooth, about 10 minutes.",
+        "de": "Das restliche Mehl auf einer bemehlten Fläche einkneten, bis der Teig glatt ist, etwa 10 Minuten.",
+        "es": "Incorporar el resto de la harina amasando sobre una superficie enharinada hasta que quede lisa, unos 10 minutos.",
+        "fr": "Pétrir en incorporant le reste de la farine sur un plan fariné jusqu'à ce que la pâte soit lisse, environ 10 minutes.",
+        "ro": "Încorporează restul de făină, frământând pe o suprafață făinată, până devine neted, circa 10 minute."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let double in size, 60-90 minutes."
+        "en": "Cover and let double in size, 60-90 minutes.",
+        "de": "Zugedeckt verdoppeln lassen, 60-90 Minuten.",
+        "es": "Tapar y dejar doblar su tamaño, 60-90 minutos.",
+        "fr": "Couvrir et laisser doubler de volume, 60-90 minutes.",
+        "ro": "Acoperă și lasă să-și dubleze volumul, 60-90 de minute."
       }
     },
     {
       "title": {
-        "en": "Roll and butter"
+        "en": "Roll and butter",
+        "de": "Ausrollen und buttern",
+        "es": "Estirar y untar",
+        "fr": "Étaler et beurrer",
+        "ro": "Întinde și unge"
       },
       "summary": {
-        "en": "Roll the dough thin, cut into squares, and brush each with melted butter."
+        "en": "Roll the dough thin, cut into squares, and brush each with melted butter.",
+        "de": "Den Teig dünn ausrollen, in Quadrate schneiden und jedes mit geschmolzener Butter bestreichen.",
+        "es": "Estirar la masa fina, cortarla en cuadrados y untar cada uno con mantequilla derretida.",
+        "fr": "Étaler la pâte finement, découper en carrés et badigeonner chacun de beurre fondu.",
+        "ro": "Întinde aluatul subțire, taie-l în pătrate și unge fiecare cu unt topit."
       }
     },
     {
       "title": {
-        "en": "Fold"
+        "en": "Fold",
+        "de": "Falten",
+        "es": "Doblar",
+        "fr": "Plier",
+        "ro": "Îndoaie"
       },
       "summary": {
-        "en": "Fold each square over on itself and trim into a half-moon shape."
+        "en": "Fold each square over on itself and trim into a half-moon shape.",
+        "de": "Jedes Quadrat über sich selbst falten und zu einer Halbmondform zuschneiden.",
+        "es": "Doblar cada cuadrado sobre sí mismo y recortar en forma de media luna.",
+        "fr": "Plier chaque carré sur lui-même et découper en forme de demi-lune.",
+        "ro": "Îndoaie fiecare pătrat peste el însuși și taie-l în formă de semilună."
       }
     },
     {
       "title": {
-        "en": "Rest and bake"
+        "en": "Rest and bake",
+        "de": "Ruhen und backen",
+        "es": "Reposar y hornear",
+        "fr": "Reposer et cuire",
+        "ro": "Odihnă și coacere"
       },
       "summary": {
-        "en": "Brush the tops with more butter, let rest 10 minutes, then bake until golden."
+        "en": "Brush the tops with more butter, let rest 10 minutes, then bake until golden.",
+        "de": "Die Oberseiten mit mehr Butter bestreichen, 10 Minuten ruhen lassen, dann backen, bis goldbraun.",
+        "es": "Pintar la superficie con más mantequilla, dejar reposar 10 minutos, luego hornear hasta dorar.",
+        "fr": "Badigeonner le dessus de plus de beurre, laisser reposer 10 minutes, puis cuire jusqu'à dorure.",
+        "ro": "Unge deasupra cu și mai mult unt, lasă la odihnă 10 minute, apoi coace până se rumenesc."
       }
     }
   ],

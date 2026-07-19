@@ -99,42 +99,82 @@
   "method": [
     {
       "title": {
-        "en": "Mix a very wet dough"
+        "en": "Mix a very wet dough",
+        "de": "Einen sehr feuchten Teig mischen",
+        "es": "Mezclar una masa muy húmeda",
+        "fr": "Mélanger une pâte très hydratée",
+        "ro": "Amestecă un aluat foarte umed"
       },
       "summary": {
-        "en": "Combine flour, water, salt and yeast; the result looks more like a thick batter than a bread dough. Rest 10 minutes."
+        "en": "Combine flour, water, salt and yeast; the result looks more like a thick batter than a bread dough. Rest 10 minutes.",
+        "de": "Mehl, Wasser, Salz und Hefe vermengen; das Ergebnis sieht eher wie ein dickflüssiger Pfannkuchenteig als wie ein Brotteig aus. 10 Minuten ruhen lassen.",
+        "es": "Combinar la harina, el agua, la sal y la levadura; el resultado parece más una masa líquida espesa que una masa de pan. Reposar 10 minutos.",
+        "fr": "Mélanger farine, eau, sel et levure ; le résultat ressemble plus à une pâte à crêpes épaisse qu'à une pâte à pain. Laisser reposer 10 minutes.",
+        "ro": "Combină făina, apa, sarea și drojdia; rezultatul seamănă mai mult cu un aluat gros de clătite decât cu un aluat de pâine. Lasă la odihnă 10 minute."
       }
     },
     {
       "title": {
-        "en": "Build strength with folds"
+        "en": "Build strength with folds",
+        "de": "Kraft durch Falten aufbauen",
+        "es": "Desarrollar fuerza con pliegues",
+        "fr": "Renforcer par des rabats",
+        "ro": "Consolidează prin pliere"
       },
       "summary": {
-        "en": "Stretch and fold the dough in the bowl every 30 minutes for about 2 hours, alternating direction each time."
+        "en": "Stretch and fold the dough in the bowl every 30 minutes for about 2 hours, alternating direction each time.",
+        "de": "Den Teig alle 30 Minuten etwa 2 Stunden lang in der Schüssel dehnen und falten, dabei jedes Mal die Richtung wechseln.",
+        "es": "Estirar y plegar la masa en el bol cada 30 minutos durante unas 2 horas, alternando la dirección cada vez.",
+        "fr": "Étirer et replier la pâte dans le saladier toutes les 30 minutes pendant environ 2 heures, en changeant de direction à chaque fois.",
+        "ro": "Întinde și pliază aluatul în bol la fiecare 30 de minute timp de aproximativ 2 ore, alternând direcția de fiecare dată."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let it rise until doubled, either at room temperature or slowly overnight in the refrigerator for deeper flavor."
+        "en": "Let it rise until doubled, either at room temperature or slowly overnight in the refrigerator for deeper flavor.",
+        "de": "Bis zur Verdopplung gehen lassen, entweder bei Raumtemperatur oder langsam über Nacht im Kühlschrank für mehr Aroma.",
+        "es": "Dejar fermentar hasta que doble su volumen, ya sea a temperatura ambiente o lentamente durante la noche en el refrigerador para más sabor.",
+        "fr": "Laisser lever jusqu'au double, à température ambiante ou lentement au réfrigérateur toute la nuit pour plus de saveur.",
+        "ro": "Lasă la crescut până se dublează, fie la temperatura camerei, fie lent, peste noapte, la frigider, pentru mai multă aromă."
       }
     },
     {
       "title": {
-        "en": "Divide without degassing"
+        "en": "Divide without degassing",
+        "de": "Teilen ohne zu entgasen",
+        "es": "Dividir sin desgasificar",
+        "fr": "Diviser sans dégazer",
+        "ro": "Împarte fără degazare"
       },
       "summary": {
-        "en": "Tip onto a heavily floured surface and cut into rough rectangles, handling the dough as little as possible to protect the bubbles."
+        "en": "Tip onto a heavily floured surface and cut into rough rectangles, handling the dough as little as possible to protect the bubbles.",
+        "de": "Auf eine stark bemehlte Fläche stürzen und in grobe Rechtecke schneiden, dabei den Teig so wenig wie möglich anfassen, um die Blasen zu schützen.",
+        "es": "Volcar sobre una superficie muy enharinada y cortar en rectángulos irregulares, manipulando la masa lo menos posible para proteger las burbujas.",
+        "fr": "Renverser sur un plan de travail très fariné et couper en rectangles grossiers, en manipulant la pâte le moins possible pour préserver les bulles.",
+        "ro": "Răstoarnă pe o suprafață bine făinată și taie în dreptunghiuri neregulate, manipulând aluatul cât mai puțin posibil pentru a proteja bulele."
       }
     },
     {
       "title": {
-        "en": "Bake hot with steam"
+        "en": "Bake hot with steam",
+        "de": "Heiß backen mit Schwaden",
+        "es": "Hornear caliente con vapor",
+        "fr": "Cuire chaud avec buée",
+        "ro": "Coace fierbinte cu abur"
       },
       "summary": {
-        "en": "Bake at 240°C with a pan of water in the oven for the first few minutes, 25-30 minutes total, until completely dried out and deeply crackled."
+        "en": "Bake at 240°C with a pan of water in the oven for the first few minutes, 25-30 minutes total, until completely dried out and deeply crackled.",
+        "de": "Bei 240°C backen, mit einer Schale Wasser im Ofen für die ersten Minuten, insgesamt 25-30 Minuten, bis er völlig ausgetrocknet und tief rissig ist.",
+        "es": "Hornear a 240°C con un recipiente de agua en el horno los primeros minutos, 25-30 minutos en total, hasta que quede totalmente seco y muy craquelado.",
+        "fr": "Cuire à 240°C avec un récipient d'eau dans le four les premières minutes, 25-30 minutes au total, jusqu'à ce qu'il soit complètement asséché et bien craquelé.",
+        "ro": "Coace la 240°C cu un vas cu apă în cuptor în primele minute, 25-30 de minute în total, până devine complet uscat și puternic crăpat la suprafață."
       }
     }
   ],

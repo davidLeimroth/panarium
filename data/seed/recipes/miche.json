@@ -127,50 +127,98 @@
   "method": [
     {
       "title": {
-        "en": "Feed the starter"
+        "en": "Feed the starter",
+        "de": "Anstellgut füttern",
+        "es": "Alimentar la masa madre",
+        "fr": "Nourrir le levain",
+        "ro": "Hrănește maiaua"
       },
       "summary": {
-        "en": "Refresh the sourdough starter until active, bubbly and ready to leaven a large dough."
+        "en": "Refresh the sourdough starter until active, bubbly and ready to leaven a large dough.",
+        "de": "Das Anstellgut auffrischen, bis es aktiv, blasig und bereit ist, einen großen Teig zu lockern.",
+        "es": "Refrescar la masa madre hasta que esté activa, burbujeante y lista para levar una masa grande.",
+        "fr": "Rafraîchir le levain jusqu'à ce qu'il soit actif, plein de bulles et prêt à faire lever une grande pâte.",
+        "ro": "Reîmprospătează maiaua până devine activă, cu bule, și gata să dospească un aluat mare."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the three flours with cold water and the starter into a soft, quite sticky dough; mix briefly, just enough to bring it together."
+        "en": "Combine the three flours with cold water and the starter into a soft, quite sticky dough; mix briefly, just enough to bring it together.",
+        "de": "Die drei Mehlsorten mit kaltem Wasser und dem Anstellgut zu einem weichen, recht klebrigen Teig verrühren; nur kurz mischen, bis er zusammenkommt.",
+        "es": "Combinar las tres harinas con agua fría y la masa madre en una masa blanda y bastante pegajosa; mezclar brevemente, solo hasta que se una.",
+        "fr": "Mélanger les trois farines avec l'eau froide et le levain en une pâte souple et assez collante ; mélanger brièvement, juste assez pour la lier.",
+        "ro": "Combină cele trei tipuri de făină cu apă rece și maiaua într-un aluat moale, destul de lipicios; amestecă puțin, doar cât să se lege."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Let the dough rest about an hour before bulk fermentation begins in earnest."
+        "en": "Let the dough rest about an hour before bulk fermentation begins in earnest.",
+        "de": "Den Teig etwa eine Stunde ruhen lassen, bevor die eigentliche Stockgare beginnt.",
+        "es": "Dejar reposar la masa una hora antes de que empiece de verdad la fermentación en bloque.",
+        "fr": "Laisser reposer la pâte environ une heure avant que le pointage ne commence vraiment.",
+        "ro": "Lasă aluatul la odihnă aproximativ o oră înainte să înceapă cu adevărat fermentația în masă."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment 8-10 hours at cool room temperature, well beyond a normal rise, to build real depth of flavor."
+        "en": "Ferment 8-10 hours at cool room temperature, well beyond a normal rise, to build real depth of flavor.",
+        "de": "8-10 Stunden bei kühler Raumtemperatur gären lassen, deutlich länger als eine normale Gare, für echte Aromatiefe.",
+        "es": "Fermentar 8-10 horas a temperatura ambiente fresca, mucho más que un levado normal, para lograr verdadera profundidad de sabor.",
+        "fr": "Laisser pointer 8-10 heures à température ambiante fraîche, bien au-delà d'une pousse normale, pour développer une vraie profondeur aromatique.",
+        "ro": "Lasă la fermentat 8-10 ore la temperatura camerei, mai răcoroasă, mult peste o dospire normală, pentru o adâncime reală de aromă."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonnage",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into one large round loaf."
+        "en": "Shape into one large round loaf.",
+        "de": "Zu einem großen runden Laib formen.",
+        "es": "Formar una única hogaza grande y redonda.",
+        "fr": "Façonner en un seul gros pain rond.",
+        "ro": "Modelează o singură pâine mare și rotundă."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake low and long at high heat with steam until the crust is thick and deeply caramelized; cool completely before cutting."
+        "en": "Bake low and long at high heat with steam until the crust is thick and deeply caramelized; cool completely before cutting.",
+        "de": "Lange bei hoher Hitze mit Schwaden backen, bis die Kruste dick und tief karamellisiert ist; vor dem Anschneiden vollständig auskühlen lassen.",
+        "es": "Hornear a fuego alto con vapor durante un tiempo largo, hasta que la corteza sea gruesa y esté bien caramelizada; dejar enfriar del todo antes de cortar.",
+        "fr": "Cuire longuement à haute température avec buée, jusqu'à une croûte épaisse et bien caramélisée ; laisser refroidir complètement avant de couper.",
+        "ro": "Coace mult timp la foc iute, cu abur, până crusta devine groasă și bine caramelizată; lasă să se răcească complet înainte de a tăia."
       }
     }
   ],

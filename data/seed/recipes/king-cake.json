@@ -188,58 +188,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine warm water, milk, yeast, sugar, butter, salt, nutmeg, eggs and flour into a soft, enriched dough; knead until smooth."
+        "en": "Combine warm water, milk, yeast, sugar, butter, salt, nutmeg, eggs and flour into a soft, enriched dough; knead until smooth.",
+        "de": "Warmes Wasser, Milch, Hefe, Zucker, Butter, Salz, Muskatnuss, Eier und Mehl zu einem weichen, reichhaltigen Teig verarbeiten; glatt kneten.",
+        "es": "Combinar agua tibia, leche, levadura, azúcar, mantequilla, sal, nuez moscada, huevos y harina en una masa suave y enriquecida; amasar hasta que quede lisa.",
+        "fr": "Mélanger l'eau tiède, le lait, la levure, le sucre, le beurre, le sel, la muscade, les œufs et la farine en une pâte souple et enrichie ; pétrir jusqu'à ce qu'elle soit lisse.",
+        "ro": "Amestecă apă călduță, lapte, drojdie, zahăr, unt, sare, nucșoară, ouă și făină într-un aluat moale, îmbogățit; frământă până devine neted."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let the dough double in size in a warm place."
+        "en": "Let the dough double in size in a warm place.",
+        "de": "Den Teig an einem warmen Ort auf das Doppelte aufgehen lassen.",
+        "es": "Dejar que la masa doble su tamaño en un lugar cálido.",
+        "fr": "Laisser la pâte doubler de volume dans un endroit chaud.",
+        "ro": "Lasă aluatul să își dubleze volumul într-un loc călduros."
       }
     },
     {
       "title": {
-        "en": "Fill"
+        "en": "Fill",
+        "de": "Füllen",
+        "es": "Rellenar",
+        "fr": "Garnir",
+        "ro": "Umple"
       },
       "summary": {
-        "en": "Roll the dough into a long rectangle and spread it with melted butter, brown sugar and cinnamon."
+        "en": "Roll the dough into a long rectangle and spread it with melted butter, brown sugar and cinnamon.",
+        "de": "Den Teig zu einem langen Rechteck ausrollen und mit geschmolzener Butter, braunem Zucker und Zimt bestreichen.",
+        "es": "Estirar la masa en un rectángulo largo y untarla con mantequilla derretida, azúcar moreno y canela.",
+        "fr": "Étaler la pâte en un long rectangle et la garnir de beurre fondu, de sucre roux et de cannelle.",
+        "ro": "Întinde aluatul într-un dreptunghi lung și unge-l cu unt topit, zahăr brun și scorțișoară."
       }
     },
     {
       "title": {
-        "en": "Roll and twist"
+        "en": "Roll and twist",
+        "de": "Rollen und verdrehen",
+        "es": "Enrollar y trenzar",
+        "fr": "Rouler et torsader",
+        "ro": "Rulează și răsucește"
       },
       "summary": {
-        "en": "Roll up tightly like a jelly roll, slice the log in half lengthwise, then twist the two halves together with the cut sides facing up."
+        "en": "Roll up tightly like a jelly roll, slice the log in half lengthwise, then twist the two halves together with the cut sides facing up.",
+        "de": "Fest wie eine Biskuitrolle aufrollen, die Rolle der Länge nach halbieren und die beiden Hälften mit den Schnittflächen nach oben miteinander verdrehen.",
+        "es": "Enrollar bien apretado como un brazo de gitano, cortar el rollo por la mitad a lo largo y trenzar las dos mitades con el corte hacia arriba.",
+        "fr": "Rouler serré comme une bûche, couper le boudin en deux dans le sens de la longueur, puis torsader les deux moitiés en laissant les faces coupées vers le haut.",
+        "ro": "Rulează strâns ca o roladă, taie sulul pe lungime în două și răsucește cele două jumătăți împreună cu partea tăiată în sus."
       }
     },
     {
       "title": {
-        "en": "Ring and proof"
+        "en": "Ring and proof",
+        "de": "Zum Kranz formen und gehen lassen",
+        "es": "Formar el anillo y fermentar",
+        "fr": "Former la couronne et pousser",
+        "ro": "Formează inelul și lasă la dospit"
       },
       "summary": {
-        "en": "Join the ends into a circle on a baking sheet and let it proof until puffy."
+        "en": "Join the ends into a circle on a baking sheet and let it proof until puffy.",
+        "de": "Die Enden auf einem Backblech zu einem Kranz schließen und gehen lassen, bis er sichtbar aufgeplustert ist.",
+        "es": "Unir los extremos en forma de anillo sobre una bandeja de horno y dejar fermentar hasta que esté hinchado.",
+        "fr": "Refermer les extrémités en couronne sur une plaque et laisser pousser jusqu'à ce qu'elle soit bien gonflée.",
+        "ro": "Unește capetele într-un cerc pe o tavă și lasă la dospit până se umflă vizibil."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until golden brown and cooked through."
+        "en": "Bake until golden brown and cooked through.",
+        "de": "Backen, bis der Kranz goldbraun und vollständig durchgebacken ist.",
+        "es": "Hornear hasta que esté dorado y bien cocido por dentro.",
+        "fr": "Cuire jusqu'à ce que la couronne soit bien dorée et cuite à cœur.",
+        "ro": "Coace până devine auriu-rumen și bine copt în interior."
       }
     },
     {
       "title": {
-        "en": "Decorate"
+        "en": "Decorate",
+        "de": "Verzieren",
+        "es": "Decorar",
+        "fr": "Décorer",
+        "ro": "Decorează"
       },
       "summary": {
-        "en": "Once cool, drizzle with icing and dust bands of purple, green and gold sugar over the top; tuck the plastic baby in from underneath."
+        "en": "Once cool, drizzle with icing and dust bands of purple, green and gold sugar over the top; tuck the plastic baby in from underneath.",
+        "de": "Nach dem Abkühlen mit Zuckerguss beträufeln und Streifen aus violettem, grünem und goldenem Zucker darüberstreuen; das Plastikbaby von unten in den Kuchen stecken.",
+        "es": "Una vez frío, rociar con glaseado y espolvorear franjas de azúcar morado, verde y dorado por encima; esconder el bebé de plástico por debajo.",
+        "fr": "Une fois refroidi, napper de glaçage et saupoudrer des bandes de sucre violet, vert et doré ; glisser le petit bébé en plastique par-dessous.",
+        "ro": "După ce s-a răcit, toarnă glazură deasupra și presară dungi de zahăr colorat mov, verde și auriu; ascunde figurina de plastic pe dedesubt."
       }
     }
   ],

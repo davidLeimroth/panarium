@@ -140,58 +140,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine whole wheat flour, white flour, rye flour, bran, yeast and salt in a stand mixer."
+        "en": "Combine whole wheat flour, white flour, rye flour, bran, yeast and salt in a stand mixer.",
+        "de": "Vollkorn-Weizenmehl, Weizenmehl, Roggenmehl, Kleie, Hefe und Salz in einer Küchenmaschine vermischen.",
+        "es": "Combinar la harina integral de trigo, la harina blanca, la harina de centeno, el salvado, la levadura y la sal en una amasadora.",
+        "fr": "Combiner la farine complète de blé, la farine blanche, la farine de seigle, le son, la levure et le sel dans un robot pâtissier.",
+        "ro": "Combină făina integrală de grâu, făina albă, făina de secară, tărâțele, drojdia și sarea într-un mixer planetar."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Add warm water and knead about 10 minutes to a smooth, dense dough."
+        "en": "Add warm water and knead about 10 minutes to a smooth, dense dough.",
+        "de": "Warmes Wasser zugeben und etwa 10 Minuten zu einem glatten, dichten Teig kneten.",
+        "es": "Añadir agua tibia y amasar unos 10 minutos hasta obtener una masa lisa y densa.",
+        "fr": "Ajouter l'eau tiède et pétrir environ 10 minutes jusqu'à obtenir une pâte lisse et dense.",
+        "ro": "Adaugă apă călduță și frământă aproximativ 10 minute până obții un aluat neted și dens."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primera fermentación",
+        "fr": "Premier levage",
+        "ro": "Prima fermentare"
       },
       "summary": {
-        "en": "Cover and let rise in a warm spot about 3 hours."
+        "en": "Cover and let rise in a warm spot about 3 hours.",
+        "de": "Zugedeckt an einem warmen Ort etwa 3 Stunden gehen lassen.",
+        "es": "Tapar y dejar fermentar en un lugar cálido unas 3 horas.",
+        "fr": "Couvrir et laisser lever dans un endroit chaud environ 3 heures.",
+        "ro": "Acoperă și lasă la crescut într-un loc călduț aproximativ 3 ore."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into a round, rest 10 minutes, then form into an oblong loaf and place in a buttered pan."
+        "en": "Shape into a round, rest 10 minutes, then form into an oblong loaf and place in a buttered pan.",
+        "de": "Zu einem runden Laib formen, 10 Minuten ruhen lassen, dann zu einem länglichen Laib formen und in eine gebutterte Form legen.",
+        "es": "Formar una bola, dejar reposar 10 minutos, luego darle forma alargada y colocarla en un molde enmantecado.",
+        "fr": "Façonner en boule, laisser reposer 10 minutes, puis former un pain oblong et le placer dans un moule beurré.",
+        "ro": "Modelează rotund, lasă la odihnă 10 minute, apoi formează o pâine alungită și pune-o într-o formă unsă cu unt."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segunda fermentación",
+        "fr": "Second levage",
+        "ro": "A doua fermentare"
       },
       "summary": {
-        "en": "Cover and let rise about 45 minutes until doubled."
+        "en": "Cover and let rise about 45 minutes until doubled.",
+        "de": "Zugedeckt etwa 45 Minuten gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar fermentar unos 45 minutos hasta que duplique su volumen.",
+        "fr": "Couvrir et laisser lever environ 45 minutes jusqu'à ce que la pâte double.",
+        "ro": "Acoperă și lasă la crescut aproximativ 45 de minute, până își dublează volumul."
       }
     },
     {
       "title": {
-        "en": "Top and bake"
+        "en": "Top and bake",
+        "de": "Bestreuen und backen",
+        "es": "Cubrir y hornear",
+        "fr": "Garnir et cuire",
+        "ro": "Decorează și coace"
       },
       "summary": {
-        "en": "Brush with water, press on the mixed seeds, and bake until golden brown, about 40 minutes."
+        "en": "Brush with water, press on the mixed seeds, and bake until golden brown, about 40 minutes.",
+        "de": "Mit Wasser bestreichen, die Saatenmischung andrücken und backen, bis goldbraun, etwa 40 Minuten.",
+        "es": "Pintar con agua, presionar la mezcla de semillas y hornear hasta que esté dorado, unos 40 minutos.",
+        "fr": "Badigeonner d'eau, presser le mélange de graines et cuire jusqu'à coloration dorée, environ 40 minutes.",
+        "ro": "Unge cu apă, presează amestecul de semințe și coace până se rumenește, aproximativ 40 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool in the pan briefly, then turn out onto a rack to cool fully."
+        "en": "Cool in the pan briefly, then turn out onto a rack to cool fully.",
+        "de": "Kurz in der Form auskühlen lassen, dann auf ein Gitter stürzen, um vollständig auszukühlen.",
+        "es": "Dejar enfriar brevemente en el molde, luego desmoldar sobre una rejilla para que se enfríe por completo.",
+        "fr": "Laisser refroidir brièvement dans le moule, puis démouler sur une grille pour refroidir complètement.",
+        "ro": "Lasă la răcit puțin în formă, apoi răstoarnă pe un grătar pentru a se răci complet."
       }
     }
   ],

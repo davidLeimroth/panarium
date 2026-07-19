@@ -134,66 +134,130 @@
   "method": [
     {
       "title": {
-        "en": "Scald and cool the milk"
+        "en": "Scald and cool the milk",
+        "de": "Milch erhitzen und abkühlen",
+        "es": "Escaldar y enfriar la leche",
+        "fr": "Chauffer et refroidir le lait",
+        "ro": "Încălzește și răcește laptele"
       },
       "summary": {
-        "en": "Heat the milk with the cardamom until steaming, then cool to lukewarm and whisk in the yeast."
+        "en": "Heat the milk with the cardamom until steaming, then cool to lukewarm and whisk in the yeast.",
+        "de": "Die Milch mit dem Kardamom erhitzen, bis sie dampft, dann lauwarm abkühlen lassen und die Hefe einrühren.",
+        "es": "Calentar la leche con el cardamomo hasta que humee, luego dejar enfriar a tibia e incorporar la levadura batiendo.",
+        "fr": "Chauffer le lait avec la cardamome jusqu'à ce qu'il fume, puis laisser refroidir jusqu'à tiède et y fouetter la levure.",
+        "ro": "Încălzește laptele cu cardamomul până începe să aburească, apoi lasă-l să se răcească până devine călduț și încorporează drojdia."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine the milk mixture with the sugar, egg and about half the flour in a stand mixer; knead on low speed, adding the rest of the flour, for about 8 minutes."
+        "en": "Combine the milk mixture with the sugar, egg and about half the flour in a stand mixer; knead on low speed, adding the rest of the flour, for about 8 minutes.",
+        "de": "Die Milchmischung mit Zucker, Ei und etwa der Hälfte des Mehls in einer Küchenmaschine verbinden; bei niedriger Geschwindigkeit etwa 8 Minuten kneten, dabei den Rest des Mehls zugeben.",
+        "es": "Combinar la mezcla de leche con el azúcar, el huevo y cerca de la mitad de la harina en una amasadora; amasar a velocidad baja añadiendo el resto de la harina, unos 8 minutos.",
+        "fr": "Combiner le mélange de lait avec le sucre, l'œuf et environ la moitié de la farine dans un robot; pétrir à faible vitesse en ajoutant le reste de la farine, pendant environ 8 minutes.",
+        "ro": "Combină amestecul de lapte cu zahărul, oul și aproximativ jumătate din făină în mixerul planetar; frământă la viteză mică, adăugând restul de făină, timp de aproximativ 8 minute."
       }
     },
     {
       "title": {
-        "en": "Work in the butter"
+        "en": "Work in the butter",
+        "de": "Butter einarbeiten",
+        "es": "Incorporar la mantequilla",
+        "fr": "Incorporer le beurre",
+        "ro": "Încorporează untul"
       },
       "summary": {
-        "en": "Add the cold butter a piece at a time, kneading on medium speed for another 5 minutes until the dough turns smooth and elastic."
+        "en": "Add the cold butter a piece at a time, kneading on medium speed for another 5 minutes until the dough turns smooth and elastic.",
+        "de": "Die kalte Butter stückweise zugeben und bei mittlerer Geschwindigkeit weitere 5 Minuten kneten, bis der Teig glatt und elastisch wird.",
+        "es": "Añadir la mantequilla fría poco a poco, amasando a velocidad media otros 5 minutos hasta que la masa quede lisa y elástica.",
+        "fr": "Ajouter le beurre froid morceau par morceau, en pétrissant à vitesse moyenne encore 5 minutes jusqu'à ce que la pâte devienne lisse et élastique.",
+        "ro": "Adaugă untul rece treptat, câte o bucată, frământând la viteză medie încă 5 minute, până aluatul devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "Fold in the fruit"
+        "en": "Fold in the fruit",
+        "de": "Früchte einarbeiten",
+        "es": "Incorporar la fruta",
+        "fr": "Incorporer les fruits",
+        "ro": "Încorporează fructele"
       },
       "summary": {
-        "en": "Knead in the raisins and candied peel by hand until they are evenly distributed through the dough."
+        "en": "Knead in the raisins and candied peel by hand until they are evenly distributed through the dough.",
+        "de": "Die Rosinen und kandierten Schalen von Hand einkneten, bis sie gleichmäßig im Teig verteilt sind.",
+        "es": "Amasar a mano las pasas y la piel confitada hasta que queden repartidas de manera uniforme por la masa.",
+        "fr": "Pétrir à la main les raisins secs et les écorces confites jusqu'à répartition uniforme dans la pâte.",
+        "ro": "Frământă manual stafidele și coaja confiată, până se distribuie uniform în aluat."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primera fermentación",
+        "fr": "Premier levage",
+        "ro": "Prima fermentare"
       },
       "summary": {
-        "en": "Cover and let rise in a warm spot until doubled, about 45 minutes."
+        "en": "Cover and let rise in a warm spot until doubled, about 45 minutes.",
+        "de": "Zugedeckt an einem warmen Ort gehen lassen, bis er sich verdoppelt hat, etwa 45 Minuten.",
+        "es": "Tapar y dejar fermentar en un lugar cálido hasta que duplique su volumen, unos 45 minutos.",
+        "fr": "Couvrir et laisser lever dans un endroit chaud jusqu'à ce que la pâte double, environ 45 minutes.",
+        "ro": "Acoperă și lasă la crescut într-un loc călduț până își dublează volumul, aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide the dough in two, shape each half into a round loaf, score the tops, and set on a lined sheet for a second rise of about 30 minutes."
+        "en": "Divide the dough in two, shape each half into a round loaf, score the tops, and set on a lined sheet for a second rise of about 30 minutes.",
+        "de": "Den Teig in zwei Teile teilen, jede Hälfte zu einem runden Laib formen, die Oberseiten einschneiden und auf ein ausgelegtes Blech für eine zweite Gare von etwa 30 Minuten setzen.",
+        "es": "Dividir la masa en dos, dar forma redonda a cada mitad, greñar la parte superior y colocarlas sobre una bandeja forrada para una segunda fermentación de unos 30 minutos.",
+        "fr": "Diviser la pâte en deux, façonner chaque moitié en pain rond, lamer le dessus et poser sur une plaque garnie pour un second levage d'environ 30 minutes.",
+        "ro": "Împarte aluatul în două, modelează fiecare jumătate într-o pâine rotundă, crestează partea de sus și așază-le pe o tavă căptușită pentru a doua fermentare, de aproximativ 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Brush with beaten egg and bake at 180°C for 35-40 minutes until deep golden and hollow-sounding when tapped."
+        "en": "Brush with beaten egg and bake at 180°C for 35-40 minutes until deep golden and hollow-sounding when tapped.",
+        "de": "Mit verquirltem Ei bestreichen und bei 180°C 35-40 Minuten backen, bis tief goldbraun und beim Klopfen hohl klingend.",
+        "es": "Pintar con huevo batido y hornear a 180°C durante 35-40 minutos hasta que esté muy dorado y suene hueco al golpearlo.",
+        "fr": "Badigeonner d'œuf battu et cuire à 180°C pendant 35-40 minutes jusqu'à coloration bien dorée et un son creux au tapotement.",
+        "ro": "Unge cu ou bătut și coace la 180°C timp de 35-40 de minute, până devine auriu-închis și sună a gol la atingere."
       }
     },
     {
       "title": {
-        "en": "Serve"
+        "en": "Serve",
+        "de": "Servieren",
+        "es": "Servir",
+        "fr": "Servir",
+        "ro": "Servește"
       },
       "summary": {
-        "en": "Cool before slicing, then serve as kaffemat with butter, brown cheese or jam alongside coffee."
+        "en": "Cool before slicing, then serve as kaffemat with butter, brown cheese or jam alongside coffee.",
+        "de": "Vor dem Anschneiden abkühlen lassen, dann als Kaffemat mit Butter, braunem Käse oder Marmelade zum Kaffee servieren.",
+        "es": "Dejar enfriar antes de cortar, luego servir como kaffemat con mantequilla, queso marrón o mermelada junto con café.",
+        "fr": "Laisser refroidir avant de trancher, puis servir en kaffemat avec du beurre, du fromage brun ou de la confiture, accompagné de café.",
+        "ro": "Lasă la răcit înainte de a felia, apoi servește ca kaffemat cu unt, brânză brună sau gem, alături de cafea."
       }
     }
   ],

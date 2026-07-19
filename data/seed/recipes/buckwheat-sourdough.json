@@ -130,74 +130,146 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Mix starter, high-extraction flour and water; ripen about 3 hours."
+        "en": "Mix starter, high-extraction flour and water; ripen about 3 hours.",
+        "de": "Anstellgut, Mehl höherer Type und Wasser mischen; etwa 3 Stunden reifen lassen.",
+        "es": "Mezclar la masa madre, harina de alta extracción y agua; dejar madurar unas 3 horas.",
+        "fr": "Mélanger le levain chef, la farine à taux d'extraction élevé et l'eau; laisser mûrir environ 3 heures.",
+        "ro": "Amestecă maiaua, făina cu extracție ridicată și apa; lasă la maturat aproximativ 3 ore."
       }
     },
     {
       "title": {
-        "en": "Scald the buckwheat"
+        "en": "Scald the buckwheat",
+        "de": "Buchweizen brühen",
+        "es": "Escaldar el trigo sarraceno",
+        "fr": "Ébouillanter le sarrasin",
+        "ro": "Oparește hrișca"
       },
       "summary": {
-        "en": "Pour boiling water over the buckwheat flour, stir, cover and set aside to cool, this softens its structure and mellows any bitterness."
+        "en": "Pour boiling water over the buckwheat flour, stir, cover and set aside to cool, this softens its structure and mellows any bitterness.",
+        "de": "Kochendes Wasser über das Buchweizenmehl gießen, umrühren, abdecken und abkühlen lassen; das macht die Struktur weicher und mildert jede Bitterkeit.",
+        "es": "Verter agua hirviendo sobre la harina de trigo sarraceno, remover, tapar y dejar enfriar; esto suaviza su estructura y atenúa cualquier amargor.",
+        "fr": "Verser de l'eau bouillante sur la farine de sarrasin, remuer, couvrir et laisser refroidir; cela assouplit sa structure et adoucit toute amertume.",
+        "ro": "Toarnă apă clocotită peste făina de hrișcă, amestecă, acoperă și lasă să se răcească; asta îi înmoaie structura și atenuează amăreala."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Combine the high-extraction and whole wheat flours, water and the cooled scald; rest 1 hour."
+        "en": "Combine the high-extraction and whole wheat flours, water and the cooled scald; rest 1 hour.",
+        "de": "Mehl höherer Type, Weizenvollkornmehl, Wasser und das abgekühlte Brühstück verbinden; 1 Stunde ruhen lassen.",
+        "es": "Combinar la harina de alta extracción, la harina integral de trigo, el agua y el escaldado enfriado; dejar reposar 1 hora.",
+        "fr": "Combiner la farine à taux d'extraction élevé, la farine de blé complète, l'eau et l'empois refroidi; laisser reposer 1 heure.",
+        "ro": "Combină făina cu extracție ridicată, făina integrală de grâu, apa și oparul răcit; lasă la odihnă 1 oră."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Add the levain and salt, mix until smooth, rest 10 minutes, then work in the remaining water, malt syrup and aniseed."
+        "en": "Add the levain and salt, mix until smooth, rest 10 minutes, then work in the remaining water, malt syrup and aniseed.",
+        "de": "Levain und Salz zugeben, glatt mischen, 10 Minuten ruhen lassen, dann restliches Wasser, Malzsirup und Anis einarbeiten.",
+        "es": "Añadir el levain y la sal, mezclar hasta que quede lisa, dejar reposar 10 minutos, luego incorporar el agua restante, el jarabe de malta y el anís.",
+        "fr": "Ajouter le levain et le sel, mélanger jusqu'à obtenir une pâte lisse, laisser reposer 10 minutes, puis incorporer le reste de l'eau, le sirop de malt et l'anis.",
+        "ro": "Adaugă levain-ul și sarea, amestecă până devine neted, lasă la odihnă 10 minute, apoi încorporează apa rămasă, siropul de malț și anasonul."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment about 3 hours with two stretch-and-fold sets, aiming for roughly 30% rise."
+        "en": "Ferment about 3 hours with two stretch-and-fold sets, aiming for roughly 30% rise.",
+        "de": "Etwa 3 Stunden fermentieren mit zwei Runden Dehnen und Falten, mit dem Ziel von etwa 30% Volumenzuwachs.",
+        "es": "Fermentar unas 3 horas con dos series de estirar y doblar, buscando un crecimiento de aproximadamente un 30%.",
+        "fr": "Pointer environ 3 heures avec deux séries de rabats, en visant une pousse d'environ 30%.",
+        "ro": "Fermentează circa 3 ore cu două runde de întindere și pliere, urmărind o creștere de aproximativ 30%."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Preshape, rest 30 minutes, then shape into boules, optionally coating the surface in sesame seeds."
+        "en": "Preshape, rest 30 minutes, then shape into boules, optionally coating the surface in sesame seeds.",
+        "de": "Vorformen, 30 Minuten ruhen lassen, dann zu runden Laiben formen und die Oberfläche optional in Sesam wälzen.",
+        "es": "Preformar, dejar reposar 30 minutos, luego dar forma de bola y, si quieres, cubrir la superficie con semillas de sésamo.",
+        "fr": "Préformer, laisser reposer 30 minutes, puis façonner en boules, en roulant éventuellement la surface dans des graines de sésame.",
+        "ro": "Preformează, lasă la odihnă 30 de minute, apoi modelează bile rotunde și, opțional, tăvălește suprafața prin susan."
       }
     },
     {
       "title": {
-        "en": "Cold proof"
+        "en": "Cold proof",
+        "de": "Kalte Gare",
+        "es": "Fermentación en frío",
+        "fr": "Pousse au froid",
+        "ro": "Dospire la rece"
       },
       "summary": {
-        "en": "Refrigerate overnight, about 16-17 hours."
+        "en": "Refrigerate overnight, about 16-17 hours.",
+        "de": "Über Nacht im Kühlschrank gehen lassen, etwa 16-17 Stunden.",
+        "es": "Refrigerar toda la noche, unas 16-17 horas.",
+        "fr": "Réfrigérer toute la nuit, environ 16-17 heures.",
+        "ro": "Lasă la frigider peste noapte, aproximativ 16-17 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep and crisp."
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep and crisp.",
+        "de": "Im vorgeheizten Gusstopf bei 230°C backen: 20 Minuten zugedeckt mit Dampf, dann etwa 30 Minuten offen, bis die Kruste tief und knusprig ist.",
+        "es": "Hornear en una olla de hierro fundido precalentada a 230°C: 20 minutos tapada con vapor, luego unos 30 minutos destapada hasta que la corteza esté profunda y crujiente.",
+        "fr": "Cuire dans une cocotte en fonte préchauffée à 230°C : 20 minutes couverte avec buée, puis environ 30 minutes découverte jusqu'à une croûte profonde et croustillante.",
+        "ro": "Coace într-o oală de fontă preîncălzită la 230°C: 20 de minute acoperită cu abur, apoi aproximativ 30 de minute neacoperită, până coaja devine groasă și crocantă."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest 1-2 hours before slicing."
+        "en": "Rest 1-2 hours before slicing.",
+        "de": "1-2 Stunden ruhen lassen, bevor angeschnitten wird.",
+        "es": "Dejar reposar 1-2 horas antes de cortar.",
+        "fr": "Laisser reposer 1-2 heures avant de trancher.",
+        "ro": "Lasă la odihnă 1-2 ore înainte de feliere."
       }
     }
   ],

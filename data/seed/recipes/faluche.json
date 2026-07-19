@@ -116,50 +116,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom"
+        "en": "Bloom",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Warm the milk and dissolve the yeast in it for a few minutes."
+        "en": "Warm the milk and dissolve the yeast in it for a few minutes.",
+        "de": "Die Milch erwärmen und die Hefe einige Minuten darin auflösen.",
+        "es": "Calentar la leche y disolver en ella la levadura durante unos minutos.",
+        "fr": "Tiédir le lait et y dissoudre la levure pendant quelques minutes.",
+        "ro": "Încălzește laptele și dizolvă drojdia în el timp de câteva minute."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Whisk in the water, oil, sugar and salt, then work into the flour to a smooth, slightly sticky dough."
+        "en": "Whisk in the water, oil, sugar and salt, then work into the flour to a smooth, slightly sticky dough.",
+        "de": "Wasser, Öl, Zucker und Salz einrühren, dann mit dem Mehl zu einem glatten, leicht klebrigen Teig verarbeiten.",
+        "es": "Batir junto con el agua, el aceite, el azúcar y la sal, luego incorporar la harina hasta obtener una masa lisa y ligeramente pegajosa.",
+        "fr": "Incorporer l'eau, l'huile, le sucre et le sel, puis travailler avec la farine jusqu'à obtenir une pâte lisse et légèrement collante.",
+        "ro": "Amestecă apa, uleiul, zahărul și sarea, apoi încorporează făina până obții un aluat neted, ușor lipicios."
       }
     },
     {
       "title": {
-        "en": "Long rest"
+        "en": "Long rest",
+        "de": "Lange Ruhezeit",
+        "es": "Reposo largo",
+        "fr": "Long repos",
+        "ro": "Odihnă lungă"
       },
       "summary": {
-        "en": "Cover and let rest a full three hours at room temperature."
+        "en": "Cover and let rest a full three hours at room temperature.",
+        "de": "Zugedeckt volle drei Stunden bei Raumtemperatur ruhen lassen.",
+        "es": "Tapar y dejar reposar tres horas completas a temperatura ambiente.",
+        "fr": "Couvrir et laisser reposer trois heures pleines à température ambiante.",
+        "ro": "Acoperă și lasă la odihnit trei ore întregi, la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Knock back, divide into four, and roll each piece into a thin, flat disc."
+        "en": "Knock back, divide into four, and roll each piece into a thin, flat disc.",
+        "de": "Den Teig entgasen, in vier Stücke teilen und jedes zu einer dünnen, flachen Scheibe ausrollen.",
+        "es": "Desgasificar la masa, dividirla en cuatro y estirar cada porción en un disco fino y plano.",
+        "fr": "Dégazer la pâte, la diviser en quatre, puis abaisser chaque pâton en un disque fin et plat.",
+        "ro": "Degazează aluatul, împarte-l în patru și întinde fiecare bucată într-un disc subțire și plat."
       }
     },
     {
       "title": {
-        "en": "Relax"
+        "en": "Relax",
+        "de": "Entspannen lassen",
+        "es": "Reposar",
+        "fr": "Détendre",
+        "ro": "Relaxează"
       },
       "summary": {
-        "en": "Let the discs relax about an hour."
+        "en": "Let the discs relax about an hour.",
+        "de": "Die Scheiben etwa eine Stunde entspannen lassen.",
+        "es": "Dejar que los discos reposen y se relajen alrededor de una hora.",
+        "fr": "Laisser les disques se détendre environ une heure.",
+        "ro": "Lasă discurile să se relaxeze aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Bake pale"
+        "en": "Bake pale",
+        "de": "Hell backen",
+        "es": "Hornear pálida",
+        "fr": "Cuire sans coloration",
+        "ro": "Coace fără rumenire"
       },
       "summary": {
-        "en": "Brush with oil, dust with flour, and bake at low heat so the faluches stay pale and soft rather than browning."
+        "en": "Brush with oil, dust with flour, and bake at low heat so the faluches stay pale and soft rather than browning.",
+        "de": "Mit Öl bestreichen, mit Mehl bestäuben und bei niedriger Hitze backen, damit die Faluches hell und weich bleiben, statt braun zu werden.",
+        "es": "Pintar con aceite, espolvorear con harina y hornear a fuego suave para que las faluches queden pálidas y blandas en lugar de doradas.",
+        "fr": "Badigeonner d'huile, saupoudrer de farine et cuire à faible température afin que les faluches restent pâles et moelleuses plutôt que dorées.",
+        "ro": "Unge cu ulei, presară făină și coace la foc mic, astfel încât faluches să rămână palide și moi, nu rumenite."
       }
     }
   ],

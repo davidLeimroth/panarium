@@ -112,50 +112,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Whisk flour, salt and baking powder, cut in the optional fat, then stir in water to a soft, slightly sticky dough."
+        "en": "Whisk flour, salt and baking powder, cut in the optional fat, then stir in water to a soft, slightly sticky dough.",
+        "de": "Mehl, Salz und Backpulver verquirlen, das optionale Fett einarbeiten, dann Wasser einrühren zu einem weichen, leicht klebrigen Teig.",
+        "es": "Batir la harina, la sal y la levadura en polvo, incorporar la grasa opcional, luego añadir agua hasta obtener una masa blanda y algo pegajosa.",
+        "fr": "Fouetter la farine, le sel et la levure chimique, incorporer la matière grasse facultative, puis ajouter l'eau pour une pâte molle et légèrement collante.",
+        "ro": "Amestecă făina, sarea și praful de copt, încorporează grăsimea opțională, apoi adaugă apă până obții un aluat moale, ușor lipicios."
       }
     },
     {
       "title": {
-        "en": "Knead & rest"
+        "en": "Knead & rest",
+        "de": "Kneten & ruhen",
+        "es": "Amasar y reposar",
+        "fr": "Pétrir et reposer",
+        "ro": "Frământă și odihnește"
       },
       "summary": {
-        "en": "Knead 3-4 minutes, then cover and rest 30 minutes to 2 hours so the dough relaxes."
+        "en": "Knead 3-4 minutes, then cover and rest 30 minutes to 2 hours so the dough relaxes.",
+        "de": "3-4 Minuten kneten, dann zugedeckt 30 Minuten bis 2 Stunden ruhen lassen, damit sich der Teig entspannt.",
+        "es": "Amasar 3-4 minutos, luego tapar y dejar reposar de 30 minutos a 2 horas para que la masa se relaje.",
+        "fr": "Pétrir 3-4 minutes, puis couvrir et laisser reposer 30 minutes à 2 heures pour que la pâte se détende.",
+        "ro": "Frământă 3-4 minute, apoi acoperă și lasă la odihnă 30 de minute până la 2 ore, ca aluatul să se relaxeze."
       }
     },
     {
       "title": {
-        "en": "Divide & flatten"
+        "en": "Divide & flatten",
+        "de": "Teilen & flach drücken",
+        "es": "Dividir y aplanar",
+        "fr": "Diviser et aplatir",
+        "ro": "Împarte și aplatizează"
       },
       "summary": {
-        "en": "Divide into 6-8 pieces and pat or roll each into a thin round, almost like a thick tortilla."
+        "en": "Divide into 6-8 pieces and pat or roll each into a thin round, almost like a thick tortilla.",
+        "de": "In 6-8 Stücke teilen und jedes zu einer dünnen Scheibe drücken oder rollen, fast wie eine dicke Tortilla.",
+        "es": "Dividir en 6-8 piezas y aplanar o estirar cada una en un disco fino, casi como una tortilla gruesa.",
+        "fr": "Diviser en 6-8 morceaux et aplatir ou abaisser chacun en un disque fin, presque comme une tortilla épaisse.",
+        "ro": "Împarte în 6-8 bucăți și aplatizează sau întinde fiecare într-un disc subțire, aproape ca o tortilla groasă."
       }
     },
     {
       "title": {
-        "en": "Heat the oil"
+        "en": "Heat the oil",
+        "de": "Öl erhitzen",
+        "es": "Calentar el aceite",
+        "fr": "Chauffer l'huile",
+        "ro": "Încălzește uleiul"
       },
       "summary": {
-        "en": "Heat about an inch of oil in a heavy pot to 350°F (176°C)."
+        "en": "Heat about an inch of oil in a heavy pot to 350°F (176°C).",
+        "de": "Etwa 2,5 cm Öl in einem schweren Topf auf 350°F (176°C) erhitzen.",
+        "es": "Calentar cerca de 2,5 cm de aceite en una olla pesada hasta 350°F (176°C).",
+        "fr": "Chauffer environ 2,5 cm d'huile dans une marmite lourde à 350°F (176°C).",
+        "ro": "Încălzește aproximativ 2,5 cm de ulei într-o oală grea, la 350°F (176°C)."
       }
     },
     {
       "title": {
-        "en": "Fry"
+        "en": "Fry",
+        "de": "Frittieren",
+        "es": "Freír",
+        "fr": "Frire",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Fry each round 2-3 minutes per side until puffed and deep golden, turning once."
+        "en": "Fry each round 2-3 minutes per side until puffed and deep golden, turning once.",
+        "de": "Jede Scheibe 2-3 Minuten pro Seite frittieren, bis sie aufgeht und tief goldbraun ist; dabei einmal wenden.",
+        "es": "Freír cada disco 2-3 minutos por lado hasta que se infle y quede muy dorado, dándole la vuelta una vez.",
+        "fr": "Frire chaque disque 2-3 minutes par face jusqu'à ce que ça gonfle et devienne bien doré, en retournant une fois.",
+        "ro": "Prăjește fiecare disc 2-3 minute pe fiecare parte, până se umflă și devine auriu-închis, întorcând o singură dată."
       }
     },
     {
       "title": {
-        "en": "Drain & serve"
+        "en": "Drain & serve",
+        "de": "Abtropfen & servieren",
+        "es": "Escurrir y servir",
+        "fr": "Égoutter et servir",
+        "ro": "Scurge și servește"
       },
       "summary": {
-        "en": "Drain on paper towels and serve immediately, plain with honey or loaded as an Indian taco."
+        "en": "Drain on paper towels and serve immediately, plain with honey or loaded as an Indian taco.",
+        "de": "Auf Küchenpapier abtropfen lassen und sofort servieren, pur mit Honig oder beladen als Indian Taco.",
+        "es": "Escurrir sobre papel de cocina y servir de inmediato, sola con miel o cargada como un Indian taco.",
+        "fr": "Égoutter sur papier absorbant et servir aussitôt, nature avec du miel ou garni comme un Indian taco.",
+        "ro": "Scurge pe prosoape de hârtie și servește imediat, simplă cu miere sau încărcată ca un Indian taco."
       }
     }
   ],

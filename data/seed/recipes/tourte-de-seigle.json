@@ -112,50 +112,98 @@
   "method": [
     {
       "title": {
-        "en": "Have the levain dur ready"
+        "en": "Have the levain dur ready",
+        "de": "Levain dur bereithalten",
+        "es": "Tener listo el levain dur",
+        "fr": "Avoir le levain dur prêt",
+        "ro": "Pregătește levain dur-ul"
       },
       "summary": {
-        "en": "A firm rye sourdough levain, built up over previous feeds, is the base of the dough."
+        "en": "A firm rye sourdough levain, built up over previous feeds, is the base of the dough.",
+        "de": "Ein fester Roggensauerteig-Levain, der über vorherige Fütterungen aufgebaut wurde, bildet die Basis des Teigs.",
+        "es": "Un levain dur de centeno firme, desarrollado a lo largo de alimentaciones anteriores, es la base de la masa.",
+        "fr": "Un levain dur de seigle ferme, construit au fil des nourrissages précédents, est la base de la pâte.",
+        "ro": "Un levain dur ferm de secară, dezvoltat prin hrăniri anterioare, este baza aluatului."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Knead the rye flour, water, salt, levain and a touch of yeast about 8 minutes to a heavy, cohesive paste."
+        "en": "Knead the rye flour, water, salt, levain and a touch of yeast about 8 minutes to a heavy, cohesive paste.",
+        "de": "Roggenmehl, Wasser, Salz, Levain und etwas Hefe etwa 8 Minuten zu einer schweren, zusammenhängenden Masse kneten.",
+        "es": "Amasar la harina de centeno, el agua, la sal, el levain y un poco de levadura durante unos 8 minutos hasta obtener una pasta pesada y uniforme.",
+        "fr": "Pétrir la farine de seigle, l'eau, le sel, le levain et un peu de levure environ 8 minutes jusqu'à une pâte lourde et homogène.",
+        "ro": "Frământă făina de secară, apa, sarea, levain-ul și puțină drojdie timp de aproximativ 8 minute până obții o pastă grea și coezivă."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let rest about 50 minutes."
+        "en": "Let rest about 50 minutes.",
+        "de": "Etwa 50 Minuten ruhen lassen.",
+        "es": "Dejar reposar unos 50 minutos.",
+        "fr": "Laisser reposer environ 50 minutes.",
+        "ro": "Lasă să stea aproximativ 50 de minute."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide into large pieces and shape into flattish rounds with only moderate tension."
+        "en": "Divide into large pieces and shape into flattish rounds with only moderate tension.",
+        "de": "In große Stücke teilen und mit nur mäßiger Spannung zu flachen Runden formen.",
+        "es": "Dividir en piezas grandes y formar bolas achatadas con tensión solo moderada.",
+        "fr": "Diviser en gros pâtons et façonner en boules aplaties avec seulement une tension modérée.",
+        "ro": "Împarte în bucăți mari și modelează în forme rotunde, ușor turtite, cu tensiune doar moderată."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gare",
+        "es": "Fermentar",
+        "fr": "Apprêt",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Proof in floured bannetons about 35 minutes."
+        "en": "Proof in floured bannetons about 35 minutes.",
+        "de": "Etwa 35 Minuten in bemehlten Gärkörben gehen lassen.",
+        "es": "Fermentar en bannetons enharinados unos 35 minutos.",
+        "fr": "Faire pousser dans des bannetons farinés environ 35 minutes.",
+        "ro": "Lasă la dospit în bannetons făinate aproximativ 35 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at a fierce, rising heat for a long bake until the crust is thick and deeply set; cool fully on a rack."
+        "en": "Bake at a fierce, rising heat for a long bake until the crust is thick and deeply set; cool fully on a rack.",
+        "de": "Bei starker, ansteigender Hitze lange backen, bis die Kruste dick und tief ausgebacken ist; vollständig auf einem Gitter auskühlen lassen.",
+        "es": "Hornear a fuego fuerte y creciente durante un horneado largo, hasta que la corteza esté gruesa y bien asentada; dejar enfriar por completo sobre una rejilla.",
+        "fr": "Cuire à four vif et montant pendant une longue cuisson, jusqu'à une croûte épaisse et bien affirmée ; laisser refroidir complètement sur une grille.",
+        "ro": "Coace la foc puternic, în creștere, pentru o coacere lungă, până coaja devine groasă și bine formată; lasă să se răcească complet pe un grătar."
       }
     }
   ],

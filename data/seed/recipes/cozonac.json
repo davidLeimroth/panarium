@@ -173,58 +173,114 @@
   "method": [
     {
       "title": {
-        "en": "Activate the yeast"
+        "en": "Activate the yeast",
+        "de": "Hefe aktivieren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Warm the milk, stir in the yeast and a pinch of sugar, and let it foam for a few minutes."
+        "en": "Warm the milk, stir in the yeast and a pinch of sugar, and let it foam for a few minutes.",
+        "de": "Die Milch erwärmen, die Hefe und eine Prise Zucker einrühren und ein paar Minuten aufschäumen lassen.",
+        "es": "Calentar la leche, incorporar la levadura y una pizca de azúcar, y dejar que espume unos minutos.",
+        "fr": "Réchauffer le lait, incorporer la levure et une pincée de sucre, et laisser mousser quelques minutes.",
+        "ro": "Încălzește laptele, încorporează drojdia și un praf de zahăr și lasă să spumeze câteva minute."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Whisk egg yolks with sugar, vanilla, sour cream and orange zest, then combine with the yeasted milk, flour and salt. Work in the softened butter and knead to a soft, glossy dough; let it rise until doubled."
+        "en": "Whisk egg yolks with sugar, vanilla, sour cream and orange zest, then combine with the yeasted milk, flour and salt. Work in the softened butter and knead to a soft, glossy dough; let it rise until doubled.",
+        "de": "Eigelb mit Zucker, Vanille, saurer Sahne und Orangenschale verquirlen, dann mit der Hefemilch, Mehl und Salz verbinden. Die weiche Butter einarbeiten und zu einem weichen, glänzenden Teig kneten; gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Batir las yemas con el azúcar, la vainilla, la nata agria y la ralladura de naranja, luego combinar con la leche con levadura, la harina y la sal. Incorporar la mantequilla blanda y amasar hasta obtener una masa blanda y brillante; dejar fermentar hasta duplicar.",
+        "fr": "Fouetter les jaunes d'œufs avec le sucre, la vanille, la crème aigre et le zeste d'orange, puis combiner avec le lait à la levure, la farine et le sel. Incorporer le beurre ramolli et pétrir en une pâte souple et brillante; laisser lever jusqu'au double.",
+        "ro": "Bate gălbenușurile cu zahărul, vanilia, smântâna și coaja de portocală, apoi combină cu laptele cu drojdie, făina și sarea. Încorporează untul moale și frământă până obții un aluat moale și lucios; lasă-l la crescut până se dublează."
       }
     },
     {
       "title": {
-        "en": "Make the filling"
+        "en": "Make the filling",
+        "de": "Füllung zubereiten",
+        "es": "Preparar el relleno",
+        "fr": "Préparer la garniture",
+        "ro": "Pregătește umplutura"
       },
       "summary": {
-        "en": "Whisk egg whites with sugar, ground walnuts, cocoa and a little rum flavoring into a thick, spreadable paste."
+        "en": "Whisk egg whites with sugar, ground walnuts, cocoa and a little rum flavoring into a thick, spreadable paste.",
+        "de": "Eiweiß mit Zucker, gemahlenen Walnüssen, Kakao und etwas Rumaroma zu einer dicken, streichfähigen Paste verquirlen.",
+        "es": "Batir las claras con azúcar, nueces molidas, cacao y un poco de aroma de ron hasta obtener una pasta espesa y untable.",
+        "fr": "Fouetter les blancs d'œufs avec le sucre, les noix moulues, le cacao et un peu d'arôme de rhum en une pâte épaisse et tartinable.",
+        "ro": "Bate albușurile cu zahărul, nucile măcinate, cacaua și puțină esență de rom, până obții o pastă groasă, ușor de întins."
       }
     },
     {
       "title": {
-        "en": "Roll and fill"
+        "en": "Roll and fill",
+        "de": "Ausrollen und füllen",
+        "es": "Estirar y rellenar",
+        "fr": "Étaler et garnir",
+        "ro": "Întinde și umple"
       },
       "summary": {
-        "en": "Divide the risen dough, roll each piece into a rectangle, spread with the walnut-cocoa filling, and roll up tightly into a log."
+        "en": "Divide the risen dough, roll each piece into a rectangle, spread with the walnut-cocoa filling, and roll up tightly into a log.",
+        "de": "Den gegangenen Teig teilen, jedes Stück zu einem Rechteck ausrollen, mit der Walnuss-Kakao-Füllung bestreichen und straff zu einer Rolle aufrollen.",
+        "es": "Dividir la masa fermentada, estirar cada pieza en un rectángulo, untar con el relleno de nuez y cacao, y enrollar firmemente hasta formar un tronco.",
+        "fr": "Diviser la pâte levée, étaler chaque pâton en rectangle, tartiner de la garniture noix-cacao, puis rouler serré en bûche.",
+        "ro": "Împarte aluatul crescut, întinde fiecare bucată într-un dreptunghi, unge cu umplutura de nucă și cacao, apoi rulează strâns într-un sul."
       }
     },
     {
       "title": {
-        "en": "Twist and pan"
+        "en": "Twist and pan",
+        "de": "Drehen und in die Form legen",
+        "es": "Retorcer y moldear",
+        "fr": "Torsader et mouler",
+        "ro": "Răsucește și pune în formă"
       },
       "summary": {
-        "en": "Cut each log in half lengthwise and twist the two cut sides together so the filling spirals through, then settle the twist into a buttered loaf pan."
+        "en": "Cut each log in half lengthwise and twist the two cut sides together so the filling spirals through, then settle the twist into a buttered loaf pan.",
+        "de": "Jede Rolle der Länge nach halbieren und die beiden Schnittseiten miteinander verdrehen, sodass die Füllung spiralförmig durchzieht, dann in eine gebutterte Kastenform legen.",
+        "es": "Cortar cada tronco por la mitad a lo largo y retorcer los dos lados cortados juntos para que el relleno forme espirales, luego acomodar la trenza en un molde de plumcake enmantequillado.",
+        "fr": "Couper chaque bûche en deux dans la longueur et torsader ensemble les deux faces coupées pour que la garniture forme une spirale, puis installer la torsade dans un moule à cake beurré.",
+        "ro": "Taie fiecare sul pe lungime, în două, și răsucește cele două părți tăiate împreună, ca umplutura să formeze spirale, apoi așază răsucitura într-o formă de chec unsă cu unt."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Second apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover and proof again until puffy and nearly to the rim of the pan."
+        "en": "Cover and proof again until puffy and nearly to the rim of the pan.",
+        "de": "Zugedeckt erneut gehen lassen, bis er aufgepolstert ist und fast den Rand der Form erreicht.",
+        "es": "Tapar y dejar fermentar de nuevo hasta que esté hinchada y casi llegue al borde del molde.",
+        "fr": "Couvrir et laisser lever à nouveau jusqu'à un bon gonflement, presque au bord du moule.",
+        "ro": "Acoperă și lasă din nou la dospit, până se umflă și ajunge aproape de marginea formei."
       }
     },
     {
       "title": {
-        "en": "Bake and cool"
+        "en": "Bake and cool",
+        "de": "Backen und auskühlen",
+        "es": "Hornear y enfriar",
+        "fr": "Cuire et refroidir",
+        "ro": "Coace și răcește"
       },
       "summary": {
-        "en": "Bake until deep gold and a skewer comes out clean, then cool fully before slicing to reveal the marbled swirl."
+        "en": "Bake until deep gold and a skewer comes out clean, then cool fully before slicing to reveal the marbled swirl.",
+        "de": "Backen, bis tief golden und ein Spieß sauber herauskommt, dann vollständig auskühlen lassen, bevor angeschnitten wird, um die marmorierte Spirale zu zeigen.",
+        "es": "Hornear hasta que esté dorado profundo y un palillo salga limpio, luego dejar enfriar por completo antes de cortar para revelar el remolino marmoleado.",
+        "fr": "Cuire jusqu'à une couleur dorée profonde et une brochette qui ressort propre, puis laisser refroidir complètement avant de trancher pour révéler la spirale marbrée.",
+        "ro": "Coace până devine auriu-închis și o scobitoare iese curată, apoi lasă să se răcească complet înainte de feliere, pentru a dezvălui spirala marmorată."
       }
     }
   ],

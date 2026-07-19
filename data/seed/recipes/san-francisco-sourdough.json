@@ -114,66 +114,130 @@
   "method": [
     {
       "title": {
-        "en": "Feed the culture"
+        "en": "Feed the culture",
+        "de": "Anstellgut füttern",
+        "es": "Alimentar el cultivo",
+        "fr": "Nourrir le levain",
+        "ro": "Hrănește maiaua"
       },
       "summary": {
-        "en": "Combine a rye-seeded sourdough culture with bread flour and water; ferment 9 hours at room temperature, then refrigerate 34 hours to build a sharply sour levain."
+        "en": "Combine a rye-seeded sourdough culture with bread flour and water; ferment 9 hours at room temperature, then refrigerate 34 hours to build a sharply sour levain.",
+        "de": "Ein mit Roggen angesetztes Sauerteig-Anstellgut mit Weizenmehl und Wasser vermengen; 9 Stunden bei Raumtemperatur gären lassen, dann 34 Stunden kühl stellen, um einen ausgeprägt sauren Sauerteig zu entwickeln.",
+        "es": "Combinar un cultivo de masa madre iniciado con centeno con harina de fuerza y agua; fermentar 9 horas a temperatura ambiente, luego refrigerar 34 horas para desarrollar un levain marcadamente ácido.",
+        "fr": "Combiner un levain au seigle avec de la farine de force et de l'eau ; fermenter 9 heures à température ambiante, puis réfrigérer 34 heures pour développer un levain nettement acide.",
+        "ro": "Combină o maia cu secară cu făină de pâine și apă; lasă la fermentat 9 ore la temperatura camerei, apoi dă la frigider 34 de ore pentru a dezvolta o maia puternic acrișoară."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Stir the cold levain into water, then work in the bread and spelt flours and salt; knead briefly and rest 15 minutes."
+        "en": "Stir the cold levain into water, then work in the bread and spelt flours and salt; knead briefly and rest 15 minutes.",
+        "de": "Den kalten Sauerteig ins Wasser einrühren, dann das Weizen- und Dinkelmehl sowie das Salz einarbeiten; kurz kneten und 15 Minuten ruhen lassen.",
+        "es": "Disolver el levain frío en el agua, luego incorporar las harinas de fuerza y espelta y la sal; amasar brevemente y dejar reposar 15 minutos.",
+        "fr": "Délayer le levain froid dans l'eau, puis incorporer les farines de force et d'épeautre et le sel ; pétrir brièvement et laisser reposer 15 minutes.",
+        "ro": "Dizolvă maiaua rece în apă, apoi încorporează făina de pâine, făina de alac și sarea; frământă scurt și lasă la odihnă 15 minute."
       }
     },
     {
       "title": {
-        "en": "Short bulk with folds"
+        "en": "Short bulk with folds",
+        "de": "Kurze Stockgare mit Falten",
+        "es": "Fermentación en bloque corta con pliegues",
+        "fr": "Pointage court avec rabats",
+        "ro": "Fermentație scurtă în masă, cu pliere"
       },
       "summary": {
-        "en": "Perform two stretch-and-fold sequences 15 minutes apart, then let the dough rest about 40 minutes at room temperature."
+        "en": "Perform two stretch-and-fold sequences 15 minutes apart, then let the dough rest about 40 minutes at room temperature.",
+        "de": "Zwei Dehn-und-Falt-Sequenzen im Abstand von 15 Minuten durchführen, dann den Teig etwa 40 Minuten bei Raumtemperatur ruhen lassen.",
+        "es": "Realizar dos secuencias de estirar y doblar con 15 minutos de diferencia, luego dejar reposar la masa unos 40 minutos a temperatura ambiente.",
+        "fr": "Effectuer deux séries de rabats à 15 minutes d'intervalle, puis laisser reposer la pâte environ 40 minutes à température ambiante.",
+        "ro": "Fă două seturi de întindere și pliere la 15 minute distanță, apoi lasă aluatul la odihnă aproximativ 40 de minute la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Cold retard the dough"
+        "en": "Cold retard the dough",
+        "de": "Teig kalt führen",
+        "es": "Retardar la masa en frío",
+        "fr": "Pousse au froid de la pâte",
+        "ro": "Retardează aluatul la frigider"
       },
       "summary": {
-        "en": "Refrigerate the shaped-but-unformed dough for about 15 hours to deepen the sourness."
+        "en": "Refrigerate the shaped-but-unformed dough for about 15 hours to deepen the sourness.",
+        "de": "Den vorgeformten, aber noch nicht endgültig geformten Teig etwa 15 Stunden kühl stellen, um die Säure zu vertiefen.",
+        "es": "Refrigerar la masa preformada pero aún sin dar forma final durante unas 15 horas para intensificar la acidez.",
+        "fr": "Réfrigérer la pâte préformée mais pas encore façonnée pendant environ 15 heures pour intensifier l'acidité.",
+        "ro": "Dă la frigider aluatul preformat, dar încă nemodelat final, timp de aproximativ 15 ore, pentru a intensifica aciditatea."
       }
     },
     {
       "title": {
-        "en": "Acclimate and shape"
+        "en": "Acclimate and shape",
+        "de": "Akklimatisieren und formen",
+        "es": "Atemperar y formar",
+        "fr": "Tempérer et façonner",
+        "ro": "Aclimatizează și modelează"
       },
       "summary": {
-        "en": "Let the dough warm up 2 hours at room temperature, then shape into a batard or boule."
+        "en": "Let the dough warm up 2 hours at room temperature, then shape into a batard or boule.",
+        "de": "Den Teig 2 Stunden bei Raumtemperatur aufwärmen lassen, dann zu einem Batard oder einer Boule formen.",
+        "es": "Dejar que la masa se atempere 2 horas a temperatura ambiente, luego formar un batard o una boule.",
+        "fr": "Laisser la pâte revenir à température ambiante pendant 2 heures, puis façonner en bâtard ou en boule.",
+        "ro": "Lasă aluatul să se încălzească 2 ore la temperatura camerei, apoi modelează-l în formă de batard sau boule."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof 2.5-3 hours at room temperature until it passes the poke test."
+        "en": "Proof 2.5-3 hours at room temperature until it passes the poke test.",
+        "de": "2.5-3 Stunden bei Raumtemperatur gehen lassen, bis er die Fingerdruckprobe besteht.",
+        "es": "Fermentar 2.5-3 horas a temperatura ambiente hasta que pase la prueba del dedo.",
+        "fr": "Faire pousser 2.5-3 heures à température ambiante jusqu'à ce qu'elle passe le test du doigt.",
+        "ro": "Lasă la dospit 2.5-3 ore la temperatura camerei, până trece testul degetului."
       }
     },
     {
       "title": {
-        "en": "Bake with steam"
+        "en": "Bake with steam",
+        "de": "Mit Schwaden backen",
+        "es": "Hornear con vapor",
+        "fr": "Cuire avec buée",
+        "ro": "Coace cu abur"
       },
       "summary": {
-        "en": "Score and bake at 235°C on a hot stone or steel with steam (a splash of hot water in a tray) for about 45 minutes, venting the door near the end for a crisp crust."
+        "en": "Score and bake at 235°C on a hot stone or steel with steam (a splash of hot water in a tray) for about 45 minutes, venting the door near the end for a crisp crust.",
+        "de": "Einschneiden und bei 235°C auf einem heißen Stein oder Stahl mit Schwaden backen (ein Schuss heißes Wasser in einer Schale), etwa 45 Minuten, gegen Ende die Tür einen Spalt öffnen für eine knusprige Kruste.",
+        "es": "Greñar y hornear a 235°C sobre una piedra o acero caliente con vapor (un chorro de agua caliente en una bandeja), unos 45 minutos, entreabriendo la puerta hacia el final para una corteza crujiente.",
+        "fr": "Lamer et cuire à 235°C sur une pierre ou un acier chaud avec de la buée (un peu d'eau chaude dans un plat), environ 45 minutes, en entrouvrant la porte vers la fin pour une croûte croustillante.",
+        "ro": "Crestează și coace la 235°C pe o piatră sau oțel fierbinte cu abur (puțină apă fierbinte într-o tavă), aproximativ 45 de minute, întredeschizând ușa spre final pentru o coajă crocantă."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcire"
       },
       "summary": {
-        "en": "Rest fully before slicing to let the tangy crumb set."
+        "en": "Rest fully before slicing to let the tangy crumb set.",
+        "de": "Vollständig auskühlen lassen, bevor angeschnitten wird, damit sich die würzig-säuerliche Krume setzt.",
+        "es": "Dejar reposar por completo antes de cortar para que la miga ácida asiente.",
+        "fr": "Laisser refroidir complètement avant de trancher pour que la mie acidulée se stabilise.",
+        "ro": "Lasă să se răcească complet înainte de a felia, ca miezul acrișor să se stabilizeze."
       }
     }
   ],

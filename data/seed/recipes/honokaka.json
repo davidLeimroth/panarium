@@ -128,58 +128,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine rye flour, part of the all-purpose flour, yeast and salt."
+        "en": "Combine rye flour, part of the all-purpose flour, yeast and salt.",
+        "de": "Roggenmehl, einen Teil des Weizenmehls, Hefe und Salz vermischen.",
+        "es": "Combinar la harina de centeno, parte de la harina común, la levadura y la sal.",
+        "fr": "Combiner la farine de seigle, une partie de la farine ordinaire, la levure et le sel.",
+        "ro": "Combină făina de secară, o parte din făina albă, drojdia și sarea."
       }
     },
     {
       "title": {
-        "en": "Add liquid"
+        "en": "Add liquid",
+        "de": "Flüssigkeit zugeben",
+        "es": "Añadir el líquido",
+        "fr": "Ajouter le liquide",
+        "ro": "Adaugă lichidul"
       },
       "summary": {
-        "en": "Warm the milk with the syrup, then stir into the flour along with softened butter."
+        "en": "Warm the milk with the syrup, then stir into the flour along with softened butter.",
+        "de": "Die Milch mit dem Sirup erwärmen, dann zusammen mit weicher Butter ins Mehl einrühren.",
+        "es": "Calentar la leche con el sirope, luego incorporarla a la harina junto con la mantequilla ablandada.",
+        "fr": "Chauffer le lait avec le sirop, puis l'incorporer à la farine avec le beurre ramolli.",
+        "ro": "Încălzește laptele cu siropul, apoi încorporează-l în făină împreună cu untul moale."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Work in the remaining flour and knead a couple of minutes to a soft, pliable dough."
+        "en": "Work in the remaining flour and knead a couple of minutes to a soft, pliable dough.",
+        "de": "Das restliche Mehl einarbeiten und ein paar Minuten zu einem weichen, geschmeidigen Teig kneten.",
+        "es": "Incorporar el resto de la harina y amasar un par de minutos hasta obtener una masa blanda y flexible.",
+        "fr": "Incorporer le reste de la farine et pétrir quelques minutes jusqu'à obtenir une pâte molle et souple.",
+        "ro": "Încorporează restul de făină și frământă câteva minute până obții un aluat moale și flexibil."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Fermentează"
       },
       "summary": {
-        "en": "Cover and ferment about an hour."
+        "en": "Cover and ferment about an hour.",
+        "de": "Zugedeckt etwa eine Stunde gären lassen.",
+        "es": "Tapar y dejar fermentar una hora aproximadamente.",
+        "fr": "Couvrir et laisser fermenter environ une heure.",
+        "ro": "Acoperă și lasă la fermentat aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into rounds and roll each about 25cm across."
+        "en": "Divide into rounds and roll each about 25cm across.",
+        "de": "In runde Portionen teilen und jede auf etwa 25cm ausrollen.",
+        "es": "Dividir en porciones redondas y estirar cada una hasta unos 25cm de diámetro.",
+        "fr": "Diviser en pâtons ronds et abaisser chacun sur environ 25cm de diamètre.",
+        "ro": "Împarte în porții rotunde și întinde fiecare la aproximativ 25cm diametru."
       }
     },
     {
       "title": {
-        "en": "Texture and rest"
+        "en": "Texture and rest",
+        "de": "Strukturieren und ruhen",
+        "es": "Texturizar y reposar",
+        "fr": "Texturer et reposer",
+        "ro": "Texturează și odihnește"
       },
       "summary": {
-        "en": "Dimple the surface with a spiked rolling pin or fork, then rest 30 minutes."
+        "en": "Dimple the surface with a spiked rolling pin or fork, then rest 30 minutes.",
+        "de": "Die Oberfläche mit einem Stachelwalker oder einer Gabel strukturieren, dann 30 Minuten ruhen lassen.",
+        "es": "Marcar la superficie con un rodillo de púas o un tenedor, luego dejar reposar 30 minutos.",
+        "fr": "Piquer la surface avec un rouleau à pointes ou une fourchette, puis laisser reposer 30 minutes.",
+        "ro": "Presează suprafața cu un sucitor cu țepi sau cu o furculiță, apoi lasă la odihnă 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot and quick until lightly golden, 6-8 minutes."
+        "en": "Bake hot and quick until lightly golden, 6-8 minutes.",
+        "de": "Heiß und schnell backen, bis leicht goldbraun, 6-8 Minuten.",
+        "es": "Hornear caliente y rápido hasta que estén ligeramente doradas, 6-8 minutos.",
+        "fr": "Cuire chaud et rapidement jusqu'à légère coloration dorée, 6-8 minutes.",
+        "ro": "Coace fierbinte și rapid până devine ușor auriu, 6-8 minute."
       }
     }
   ],

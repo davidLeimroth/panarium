@@ -110,50 +110,98 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain vorbereiten",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Have a generous levain ready, roughly a fifth of the final dough's flour."
+        "en": "Have a generous levain ready, roughly a fifth of the final dough's flour.",
+        "de": "Einen großzügigen Levain bereithalten, etwa ein Fünftel des Mehls im fertigen Teig.",
+        "es": "Tener listo un levain generoso, aproximadamente un quinto de la harina de la masa final.",
+        "fr": "Avoir un levain généreux prêt, environ un cinquième de la farine de la pâte finale.",
+        "ro": "Pregătește un levain generos, aproximativ o cincime din făina aluatului final."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, water, levain and salt with a little yeast; knead 10-15 minutes."
+        "en": "Combine flour, water, levain and salt with a little yeast; knead 10-15 minutes.",
+        "de": "Mehl, Wasser, Levain und Salz mit etwas Hefe vermengen; 10-15 Minuten kneten.",
+        "es": "Combinar la harina, el agua, el levain y la sal con un poco de levadura; amasar 10-15 minutos.",
+        "fr": "Mélanger la farine, l'eau, le levain et le sel avec un peu de levure ; pétrir 10-15 minutes.",
+        "ro": "Amestecă făina, apa, levain-ul și sarea cu puțină drojdie; frământă 10-15 minute."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Rest about an hour."
+        "en": "Rest about an hour.",
+        "de": "Etwa eine Stunde ruhen lassen.",
+        "es": "Dejar reposar cerca de una hora.",
+        "fr": "Laisser reposer environ une heure.",
+        "ro": "Lasă la odihnă aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Laminate"
+        "en": "Laminate",
+        "de": "Laminieren",
+        "es": "Laminar",
+        "fr": "Laminer",
+        "ro": "Laminează"
       },
       "summary": {
-        "en": "Stretch the dough out and fold it over itself once, rest, then fold again from the width and seal the base."
+        "en": "Stretch the dough out and fold it over itself once, rest, then fold again from the width and seal the base.",
+        "de": "Den Teig ausziehen und einmal über sich selbst falten, ruhen lassen, dann erneut von der Breite her falten und die Unterseite verschließen.",
+        "es": "Estirar la masa y doblarla una vez sobre sí misma, dejar reposar, luego volver a doblarla desde el ancho y sellar la base.",
+        "fr": "Étirer la pâte et la replier une fois sur elle-même, laisser reposer, puis la replier à nouveau dans la largeur et sceller la base.",
+        "ro": "Întinde aluatul și pliază-l o dată peste el, lasă la odihnă, apoi pliază din nou pe lățime și sigilează baza."
       }
     },
     {
       "title": {
-        "en": "Finish the fold"
+        "en": "Finish the fold",
+        "de": "Falte fertigstellen",
+        "es": "Terminar el pliegue",
+        "fr": "Finir le pli",
+        "ro": "Finalizează plierea"
       },
       "summary": {
-        "en": "For the classic look, roll the final fold through a little oil, bran or whole wheat flour."
+        "en": "For the classic look, roll the final fold through a little oil, bran or whole wheat flour.",
+        "de": "Für das klassische Aussehen die letzte Falte durch etwas Öl, Kleie oder Weizenvollkornmehl rollen.",
+        "es": "Para el aspecto clásico, pasar el pliegue final por un poco de aceite, salvado o harina integral de trigo.",
+        "fr": "Pour l'aspect classique, rouler le dernier pli dans un peu d'huile, de son ou de farine complète.",
+        "ro": "Pentru aspectul clasic, tăvălește ultima pliere prin puțin ulei, tărâțe sau făină integrală de grâu."
       }
     },
     {
       "title": {
-        "en": "Score and bake"
+        "en": "Score and bake",
+        "de": "Einschneiden und backen",
+        "es": "Marcar y hornear",
+        "fr": "Inciser et cuire",
+        "ro": "Crestează și coace"
       },
       "summary": {
-        "en": "Proof 90 minutes, then cut lengthwise following the fold line and bake hot with steam."
+        "en": "Proof 90 minutes, then cut lengthwise following the fold line and bake hot with steam.",
+        "de": "90 Minuten gehen lassen, dann der Länge nach entlang der Faltlinie einschneiden und heiß mit Dampf backen.",
+        "es": "Dejar fermentar 90 minutos, luego cortar a lo largo siguiendo la línea del pliegue y hornear caliente con vapor.",
+        "fr": "Laisser pousser 90 minutes, puis couper dans la longueur en suivant la ligne du pli et cuire chaud avec de la buée.",
+        "ro": "Lasă la dospit 90 de minute, apoi taie pe lungime urmărind linia plierii și coace la foc iute cu abur."
       }
     }
   ],

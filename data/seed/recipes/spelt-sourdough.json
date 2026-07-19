@@ -120,66 +120,130 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Mix starter with bread flour, high-extraction flour and water; ripen 5-6 hours at warm room temperature."
+        "en": "Mix starter with bread flour, high-extraction flour and water; ripen 5-6 hours at warm room temperature.",
+        "de": "Anstellgut mit Brotmehl, hochausgemahlenem Mehl und Wasser verrühren; 5-6 Stunden bei warmer Raumtemperatur reifen lassen.",
+        "es": "Mezclar la masa madre con harina de fuerza, harina de alta extracción y agua; dejar madurar 5-6 horas a temperatura ambiente cálida.",
+        "fr": "Mélanger le levain avec farine de force, farine à haute extraction et eau, laisser mûrir 5-6 heures à température ambiante chaude.",
+        "ro": "Amestecă maiaua cu făină de pâine, făină cu extracție mare și apă; lasă să se matureze 5-6 ore la temperatura camerei, într-un loc călduț."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Combine the remaining flours, including the freshly milled spelt, with water; rest 30 minutes with the levain already mixed in."
+        "en": "Combine the remaining flours, including the freshly milled spelt, with water; rest 30 minutes with the levain already mixed in.",
+        "de": "Die restlichen Mehle, einschließlich des frisch gemahlenen Dinkels, mit Wasser vermengen; 30 Minuten ruhen lassen, das Levain ist bereits eingemischt.",
+        "es": "Combinar las harinas restantes, incluida la espelta recién molida, con agua; dejar reposar 30 minutos con el levain ya incorporado.",
+        "fr": "Combiner le reste des farines, y compris l'épeautre fraîchement moulu, avec l'eau, laisser reposer 30 minutes avec le levain déjà incorporé.",
+        "ro": "Combină restul de făinuri, inclusiv alacul proaspăt măcinat, cu apă; lasă să stea 30 de minute cu levain-ul deja încorporat."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Slap-and-fold briefly to bring the dough together, about 5 minutes."
+        "en": "Slap-and-fold briefly to bring the dough together, about 5 minutes.",
+        "de": "Kurz schlagen und falten, um den Teig zusammenzubringen, etwa 5 Minuten.",
+        "es": "Golpear y plegar brevemente para unir la masa, unos 5 minutos.",
+        "fr": "Frapper et rabattre brièvement pour rassembler la pâte, environ 5 minutes.",
+        "ro": "Lovește și pliază scurt pentru a lega aluatul, aproximativ 5 minute."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment about 4.5 hours, giving four stretch-and-fold sets in the first hour; go easy since spelt slackens more than wheat as fermentation progresses."
+        "en": "Ferment about 4.5 hours, giving four stretch-and-fold sets in the first hour; go easy since spelt slackens more than wheat as fermentation progresses.",
+        "de": "Etwa 4.5 Stunden fermentieren lassen, mit vier Sätzen Dehnen und Falten in der ersten Stunde; behutsam vorgehen, da Dinkel im Verlauf der Gärung stärker erschlafft als Weizen.",
+        "es": "Fermentar unas 4.5 horas, con cuatro series de pliegues en la primera hora; trabajar con suavidad, ya que la espelta se relaja más que el trigo a medida que avanza la fermentación.",
+        "fr": "Fermenter environ 4.5 heures, avec quatre séries de rabats pendant la première heure ; y aller doucement, car l'épeautre se détend plus que le blé à mesure que la fermentation avance.",
+        "ro": "Lasă la fermentat aproximativ 4.5 ore, cu patru seturi de întindere și pliere în prima oră; lucrează blând, deoarece alacul se relaxează mai mult decât grâul pe măsură ce fermentația avansează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide, preshape, rest 20 minutes, then shape and bench-rest another 25 minutes."
+        "en": "Divide, preshape, rest 20 minutes, then shape and bench-rest another 25 minutes.",
+        "de": "Teilen, vorformen, 20 Minuten ruhen lassen, dann formen und weitere 25 Minuten auf der Arbeitsfläche ruhen lassen.",
+        "es": "Dividir, preformar, dejar reposar 20 minutos, luego formar y dejar reposar sobre la mesa otros 25 minutos.",
+        "fr": "Diviser, préfaçonner, laisser reposer 20 minutes, puis façonner et laisser reposer sur le plan de travail encore 25 minutes.",
+        "ro": "Împarte aluatul, premodelează, lasă să stea 20 de minute, apoi modelează și lasă să stea pe blat încă 25 de minute."
       }
     },
     {
       "title": {
-        "en": "Cold retard"
+        "en": "Cold retard",
+        "de": "Kalte Gare",
+        "es": "Fermentación en frío",
+        "fr": "Pointage au froid",
+        "ro": "Fermentare la rece"
       },
       "summary": {
-        "en": "Refrigerate overnight, about 14 hours."
+        "en": "Refrigerate overnight, about 14 hours.",
+        "de": "Über Nacht kühlen, etwa 14 Stunden.",
+        "es": "Refrigerar toda la noche, unas 14 horas.",
+        "fr": "Réfrigérer toute la nuit, environ 14 heures.",
+        "ro": "Ține la frigider peste noapte, aproximativ 14 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered for a dark crust."
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 30-35 minutes uncovered for a dark crust.",
+        "de": "Im vorgeheizten Dutch Oven bei 230°C backen: 20 Minuten zugedeckt mit Schwaden, dann 30-35 Minuten offen für eine dunkle Kruste.",
+        "es": "Hornear en una olla holandesa precalentada a 230°C: 20 minutos tapada con vapor, luego 30-35 minutos destapada para una corteza oscura.",
+        "fr": "Cuire dans une cocotte en fonte préchauffée à 230°C : 20 minutes à couvert avec buée, puis 30-35 minutes à découvert pour une croûte foncée.",
+        "ro": "Coace într-un vas Dutch oven preîncălzit la 230°C: 20 de minute cu capac și abur, apoi 30-35 de minute fără capac pentru o coajă închisă la culoare."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest fully on a wire rack before slicing."
+        "en": "Rest fully on a wire rack before slicing.",
+        "de": "Vollständig auf einem Kuchengitter auskühlen lassen, bevor angeschnitten wird.",
+        "es": "Dejar reposar por completo sobre una rejilla antes de cortar.",
+        "fr": "Laisser reposer entièrement sur une grille avant de trancher.",
+        "ro": "Lasă să se răcească complet pe un grătar înainte de feliere."
       }
     }
   ],

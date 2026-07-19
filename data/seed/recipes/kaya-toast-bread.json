@@ -123,58 +123,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine bread flour, milk powder, sugar, yeast and salt with cold water; mix on low 5 minutes, then add the butter."
+        "en": "Combine bread flour, milk powder, sugar, yeast and salt with cold water; mix on low 5 minutes, then add the butter.",
+        "de": "Weizenmehl, Milchpulver, Zucker, Hefe und Salz mit kaltem Wasser vermischen; 5 Minuten langsam mixen, dann die Butter zugeben.",
+        "es": "Combinar la harina de fuerza, la leche en polvo, el azúcar, la levadura y la sal con agua fría; mezclar a velocidad baja 5 minutos, luego añadir la mantequilla.",
+        "fr": "Combiner la farine de force, le lait en poudre, le sucre, la levure et le sel avec de l'eau froide; mélanger à faible vitesse 5 minutes, puis ajouter le beurre.",
+        "ro": "Combină făina de pâine, laptele praf, zahărul, drojdia și sarea cu apă rece; amestecă la viteză mică 5 minute, apoi adaugă untul."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Increase speed and knead about 10 minutes until smooth and elastic (windowpane stage)."
+        "en": "Increase speed and knead about 10 minutes until smooth and elastic (windowpane stage).",
+        "de": "Die Geschwindigkeit erhöhen und etwa 10 Minuten kneten, bis glatt und elastisch (Fensterscheibentest).",
+        "es": "Aumentar la velocidad y amasar unos 10 minutos hasta que quede lisa y elástica (punto de ventana).",
+        "fr": "Augmenter la vitesse et pétrir environ 10 minutes jusqu'à obtenir une pâte lisse et élastique (stade du voile).",
+        "ro": "Crește viteza și frământă aproximativ 10 minute până devine neted și elastic (testul foii transparente)."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primera fermentación",
+        "fr": "Premier levage",
+        "ro": "Prima fermentare"
       },
       "summary": {
-        "en": "Shape into a ball, place in an oiled bowl, cover, and let rise about an hour until doubled."
+        "en": "Shape into a ball, place in an oiled bowl, cover, and let rise about an hour until doubled.",
+        "de": "Zu einer Kugel formen, in eine geölte Schüssel legen, zudecken und etwa eine Stunde gehen lassen, bis verdoppelt.",
+        "es": "Formar una bola, colocarla en un bol aceitado, tapar y dejar fermentar una hora aproximadamente, hasta que duplique su volumen.",
+        "fr": "Façonner en boule, placer dans un bol huilé, couvrir et laisser lever environ une heure jusqu'à ce que la pâte double.",
+        "ro": "Modelează o bilă, pune-o într-un bol uns cu ulei, acoperă și lasă la crescut aproximativ o oră, până își dublează volumul."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into 3-4 pieces, rest 10 minutes, then roll each into a rectangle, fold in the sides, and roll up tightly."
+        "en": "Divide into 3-4 pieces, rest 10 minutes, then roll each into a rectangle, fold in the sides, and roll up tightly.",
+        "de": "In 3-4 Stücke teilen, 10 Minuten ruhen lassen, dann jedes zu einem Rechteck ausrollen, die Seiten einschlagen und fest aufrollen.",
+        "es": "Dividir en 3-4 piezas, dejar reposar 10 minutos, luego estirar cada una en un rectángulo, doblar los lados hacia dentro y enrollar apretado.",
+        "fr": "Diviser en 3-4 morceaux, laisser reposer 10 minutes, puis abaisser chacun en rectangle, replier les côtés et rouler serré.",
+        "ro": "Împarte în 3-4 bucăți, lasă la odihnă 10 minute, apoi întinde fiecare într-un dreptunghi, pliază marginile spre interior și rulează strâns."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segunda fermentación",
+        "fr": "Second levage",
+        "ro": "A doua fermentare"
       },
       "summary": {
-        "en": "Place seam-down in a lined loaf pan and proof, covered, until the dough nears the rim, 45-60 minutes."
+        "en": "Place seam-down in a lined loaf pan and proof, covered, until the dough nears the rim, 45-60 minutes.",
+        "de": "Mit der Naht nach unten in eine ausgelegte Kastenform legen und zugedeckt gehen lassen, bis der Teig fast den Rand erreicht, 45-60 Minuten.",
+        "es": "Colocar con el cierre hacia abajo en un molde para pan forrado y dejar fermentar tapado hasta que la masa casi llegue al borde, 45-60 minutos.",
+        "fr": "Placer clé dessous dans un moule à cake garni et laisser pousser, couvert, jusqu'à ce que la pâte arrive presque au bord, 45-60 minutes.",
+        "ro": "Așază cu cusătura în jos într-o formă de chec căptușită și lasă la dospit, acoperit, până aluatul ajunge aproape de margine, 45-60 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 180°C (350°F) for about 50 minutes until deep golden and the internal temperature reads 88°C (190°F)."
+        "en": "Bake at 180°C (350°F) for about 50 minutes until deep golden and the internal temperature reads 88°C (190°F).",
+        "de": "Bei 180°C (350°F) etwa 50 Minuten backen, bis tief goldbraun und die Kerntemperatur 88°C (190°F) erreicht.",
+        "es": "Hornear a 180°C (350°F) durante unos 50 minutos, hasta que esté muy dorado y la temperatura interna alcance 88°C (190°F).",
+        "fr": "Cuire à 180°C (350°F) pendant environ 50 minutes, jusqu'à coloration bien dorée et une température à cœur de 88°C (190°F).",
+        "ro": "Coace la 180°C (350°F) timp de aproximativ 50 de minute, până devine auriu-închis și temperatura interioară ajunge la 88°C (190°F)."
       }
     },
     {
       "title": {
-        "en": "Cool and slice"
+        "en": "Cool and slice",
+        "de": "Auskühlen und schneiden",
+        "es": "Enfriar y cortar",
+        "fr": "Refroidir et trancher",
+        "ro": "Răcește și feliază"
       },
       "summary": {
-        "en": "Turn out onto a rack immediately; slice thick once fully cool, then toast and serve with kaya jam and cold butter."
+        "en": "Turn out onto a rack immediately; slice thick once fully cool, then toast and serve with kaya jam and cold butter.",
+        "de": "Sofort auf ein Gitter stürzen; nach vollständigem Auskühlen dick aufschneiden, dann toasten und mit Kaya-Marmelade und kalter Butter servieren.",
+        "es": "Desmoldar de inmediato sobre una rejilla; cortar en rebanadas gruesas una vez frío del todo, luego tostar y servir con mermelada de kaya y mantequilla fría.",
+        "fr": "Démouler immédiatement sur une grille; trancher épais une fois complètement refroidi, puis griller et servir avec de la confiture kaya et du beurre froid.",
+        "ro": "Scoate imediat din formă pe un grătar; feliază gros după ce s-a răcit complet, apoi prăjește la toaster și servește cu gem de kaya și unt rece."
       }
     }
   ],

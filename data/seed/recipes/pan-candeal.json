@@ -127,50 +127,98 @@
   "method": [
     {
       "title": {
-        "en": "Prefermento"
+        "en": "Prefermento",
+        "de": "Vorteig",
+        "es": "Prefermento",
+        "fr": "Pâte fermentée",
+        "ro": "Prefermentul"
       },
       "summary": {
-        "en": "The day before, mix flour, water, salt and a trace of yeast into a firm dough; let it rise, then refrigerate overnight."
+        "en": "The day before, mix flour, water, salt and a trace of yeast into a firm dough; let it rise, then refrigerate overnight.",
+        "de": "Am Vortag Mehl, Wasser, Salz und eine Spur Hefe zu einem festen Teig verarbeiten; gehen lassen, dann über Nacht kühl stellen.",
+        "es": "El día anterior, mezclar harina, agua, sal y una pizca de levadura en una masa firme; dejar fermentar y luego refrigerar durante toda la noche.",
+        "fr": "La veille, mélanger farine, eau, sel et une pointe de levure en une pâte ferme ; laisser lever puis réfrigérer toute la nuit.",
+        "ro": "Cu o zi înainte, amestecă făina, apa, sarea și puțină drojdie într-un aluat ferm; lasă la crescut, apoi dă la frigider peste noapte."
       }
     },
     {
       "title": {
-        "en": "Final dough"
+        "en": "Final dough",
+        "de": "Hauptteig",
+        "es": "Masa final",
+        "fr": "Pâte finale",
+        "ro": "Aluatul final"
       },
       "summary": {
-        "en": "Combine the prefermento with the remaining flours, water, yeast and salt into a very stiff dough, famously low-hydration, only about 50%."
+        "en": "Combine the prefermento with the remaining flours, water, yeast and salt into a very stiff dough, famously low-hydration, only about 50%.",
+        "de": "Den Vorteig mit dem restlichen Mehl, Wasser, der Hefe und dem Salz zu einem sehr festen Teig verarbeiten, bekannt für seine niedrige Hydration von nur etwa 50%.",
+        "es": "Combinar el prefermento con las harinas restantes, el agua, la levadura y la sal en una masa muy dura, famosa por su baja hidratación, solo un 50% aproximadamente.",
+        "fr": "Mélanger la pâte fermentée avec le reste des farines, l'eau, la levure et le sel en une pâte très ferme, réputée pour son hydratation très basse, environ 50% seulement.",
+        "ro": "Combină prefermentul cu restul de făină, apă, drojdie și sare într-un aluat foarte tare, cunoscut pentru hidratarea sa scăzută, doar aproximativ 50%."
       }
     },
     {
       "title": {
-        "en": "The refinado"
+        "en": "The refinado",
+        "de": "Das Refinado",
+        "es": "El refinado",
+        "fr": "Le refinado",
+        "ro": "Refinado-ul"
       },
       "summary": {
-        "en": "Instead of ordinary kneading, repeatedly pass the dough through a pasta roller (or under a heavy roller), folding it in half each time, until it turns smooth and satiny."
+        "en": "Instead of ordinary kneading, repeatedly pass the dough through a pasta roller (or under a heavy roller), folding it in half each time, until it turns smooth and satiny.",
+        "de": "Anstelle des üblichen Knetens den Teig wiederholt durch eine Nudelmaschine (oder unter eine schwere Walze) geben, ihn dabei jedes Mal in der Hälfte falten, bis er glatt und seidig glänzend wird.",
+        "es": "En lugar del amasado habitual, pasar la masa repetidamente por una máquina de pasta (o bajo un rodillo pesado), doblándola por la mitad cada vez, hasta que quede lisa y satinada.",
+        "fr": "Au lieu d'un pétrissage classique, passer la pâte à plusieurs reprises dans un laminoir à pâtes (ou sous un rouleau lourd), en la repliant en deux à chaque passage, jusqu'à ce qu'elle devienne lisse et satinée.",
+        "ro": "În loc de frământarea obișnuită, treci aluatul repetat printr-o mașină de paste (sau sub un val greu), pliindu-l în două de fiecare dată, până devine neted și satinat."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Press into a flat torta, higher in the center, and mark with the traditional cross-scoring and a pattern of pin-pricks so it can't over-expand."
+        "en": "Press into a flat torta, higher in the center, and mark with the traditional cross-scoring and a pattern of pin-pricks so it can't over-expand.",
+        "de": "Zu einer flachen Torta drücken, die in der Mitte höher ist, und mit dem traditionellen Kreuzschnitt sowie einem Muster aus Einstichen markieren, damit sie nicht zu stark aufgeht.",
+        "es": "Presionar en una torta plana, más alta en el centro, y marcar con el tradicional greñado en cruz y un pinchado para que no se expanda en exceso.",
+        "fr": "Presser en une torta plate, plus haute au centre, et marquer avec le lamage traditionnel en croix et une série de petits trous pour l'empêcher de trop se développer.",
+        "ro": "Presează într-o torta plată, mai înaltă în centru, și marchează cu crestătura tradițională în formă de cruce și înțepături pentru a nu se umfla excesiv."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let it rise about an hour at a warm room temperature."
+        "en": "Let it rise about an hour at a warm room temperature.",
+        "de": "Etwa eine Stunde bei warmer Zimmertemperatur gehen lassen.",
+        "es": "Dejar fermentar aproximadamente una hora a temperatura ambiente cálida.",
+        "fr": "Laisser pousser environ une heure à température ambiante chaude.",
+        "ro": "Lasă la dospit aproximativ o oră la temperatura camerei, într-un loc călduț."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 190°C for 15 minutes, then 170°C for 20 minutes more, until the surface is smooth, shiny and pale gold."
+        "en": "Bake at 190°C for 15 minutes, then 170°C for 20 minutes more, until the surface is smooth, shiny and pale gold.",
+        "de": "Bei 190°C 15 Minuten backen, dann bei 170°C weitere 20 Minuten, bis die Oberfläche glatt, glänzend und blassgolden ist.",
+        "es": "Hornear a 190°C durante 15 minutos, luego a 170°C 20 minutos más, hasta que la superficie esté lisa, brillante y dorada pálida.",
+        "fr": "Cuire à 190°C pendant 15 minutes, puis à 170°C 20 minutes de plus, jusqu'à ce que la surface soit lisse, brillante et d'un doré pâle.",
+        "ro": "Coace la 190°C timp de 15 minute, apoi la 170°C încă 20 de minute, până suprafața devine netedă, lucioasă și auriu pal."
       }
     }
   ],

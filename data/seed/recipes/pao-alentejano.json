@@ -102,50 +102,98 @@
   "method": [
     {
       "title": {
-        "en": "Make a well"
+        "en": "Make a well",
+        "de": "Mulde formen",
+        "es": "Hacer un hueco",
+        "fr": "Creuser un puits",
+        "ro": "Fă o adâncitură"
       },
       "summary": {
-        "en": "Pile the flour in a large bowl or trough, hollow a well in the center, and add the starter."
+        "en": "Pile the flour in a large bowl or trough, hollow a well in the center, and add the starter.",
+        "de": "Das Mehl in eine große Schüssel oder Mulde häufen, in der Mitte eine Mulde eindrücken und den Vorteig hineingeben.",
+        "es": "Amontonar la harina en un bol grande o artesa, hacer un hueco en el centro y añadir el prefermento.",
+        "fr": "Verser la farine en tas dans un grand saladier ou une maie, creuser un puits au centre et y ajouter le levain.",
+        "ro": "Adună făina grămadă într-un vas mare sau o covată, fă o adâncitură în mijloc și adaugă maiaua."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Gradually work in warm water and salt from the well outward until the flour is fully absorbed."
+        "en": "Gradually work in warm water and salt from the well outward until the flour is fully absorbed.",
+        "de": "Nach und nach warmes Wasser und Salz von der Mulde aus nach außen einarbeiten, bis das Mehl vollständig aufgenommen ist.",
+        "es": "Incorporar poco a poco agua tibia y sal desde el hueco hacia afuera hasta que la harina quede completamente absorbida.",
+        "fr": "Incorporer progressivement l'eau tiède et le sel depuis le puits vers l'extérieur jusqu'à absorption complète de la farine.",
+        "ro": "Încorporează treptat apă călduță și sare din mijloc spre margine, până făina este complet absorbită."
       }
     },
     {
       "title": {
-        "en": "Knead vigorously"
+        "en": "Knead vigorously",
+        "de": "Kräftig kneten",
+        "es": "Amasar con energía",
+        "fr": "Pétrir énergiquement",
+        "ro": "Frământă viguros"
       },
       "summary": {
-        "en": "Knead until air bubbles show in the dough, slapping it against the bowl to build strength."
+        "en": "Knead until air bubbles show in the dough, slapping it against the bowl to build strength.",
+        "de": "Kneten, bis sich Luftblasen im Teig zeigen, dabei den Teig gegen die Schüssel schlagen, um Kraft aufzubauen.",
+        "es": "Amasar hasta que aparezcan burbujas de aire en la masa, golpeándola contra el bol para desarrollar fuerza.",
+        "fr": "Pétrir jusqu'à ce que des bulles d'air apparaissent dans la pâte, en la claquant contre le saladier pour développer sa force.",
+        "ro": "Frământă până apar bule de aer în aluat, lovindu-l de vas ca să-i construiești forța."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise undisturbed in a warm spot until well expanded."
+        "en": "Cover and let rise undisturbed in a warm spot until well expanded.",
+        "de": "Abdecken und an einem warmen Ort ungestört gehen lassen, bis er gut aufgegangen ist.",
+        "es": "Tapar y dejar fermentar sin tocar en un lugar cálido hasta que haya crecido bien.",
+        "fr": "Couvrir et laisser pousser sans y toucher dans un endroit chaud jusqu'à bonne expansion.",
+        "ro": "Acoperă și lasă la crescut, netulburat, într-un loc călduros, până se umflă bine."
       }
     },
     {
       "title": {
-        "en": "Shape and proof"
+        "en": "Shape and proof",
+        "de": "Formen und Gare",
+        "es": "Formar y fermentar",
+        "fr": "Façonner et pousser",
+        "ro": "Modelează și dospește"
       },
       "summary": {
-        "en": "Shape into round loaves, dust with flour, and let proof covered."
+        "en": "Shape into round loaves, dust with flour, and let proof covered.",
+        "de": "Zu runden Laiben formen, mit Mehl bestäuben und abgedeckt gehen lassen.",
+        "es": "Formar hogazas redondas, espolvorear con harina y dejar fermentar tapadas.",
+        "fr": "Façonner en pains ronds, fariner et laisser pousser à couvert.",
+        "ro": "Modelează pâini rotunde, presară cu făină și lasă la dospit acoperite."
       }
     },
     {
       "title": {
-        "en": "Bake without steam"
+        "en": "Bake without steam",
+        "de": "Ohne Dampf backen",
+        "es": "Hornear sin vapor",
+        "fr": "Cuire sans buée",
+        "ro": "Coace fără abur"
       },
       "summary": {
-        "en": "Bake hot, around 250°C dropping to 200°C, with no added steam, exactly what gives this bread its characteristic dull, thick crust."
+        "en": "Bake hot, around 250°C dropping to 200°C, with no added steam, exactly what gives this bread its characteristic dull, thick crust.",
+        "de": "Heiß backen, bei etwa 250°C beginnend und auf 200°C absinkend, ohne zugesetzten Dampf, genau das verleiht diesem Brot seine charakteristische matte, dicke Kruste.",
+        "es": "Hornear caliente, comenzando en torno a 250°C y bajando a 200°C, sin vapor añadido, exactamente lo que le da a este pan su característica corteza mate y gruesa.",
+        "fr": "Cuire chaud, en commençant vers 250°C et en descendant à 200°C, sans buée ajoutée, ce qui donne précisément à ce pain sa croûte mate et épaisse caractéristique.",
+        "ro": "Coace la foc iute, pornind de la aproximativ 250°C și scăzând la 200°C, fără abur adăugat, exact ce dă acestei pâini coaja ei caracteristică, mată și groasă."
       }
     }
   ],

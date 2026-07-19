@@ -135,66 +135,130 @@
   "method": [
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine water, yeast, flour, eggs, sugar, salt and oil; mix on low then a little faster until smooth and elastic, finishing with a short hand fold, about 7 minutes total."
+        "en": "Combine water, yeast, flour, eggs, sugar, salt and oil; mix on low then a little faster until smooth and elastic, finishing with a short hand fold, about 7 minutes total.",
+        "de": "Wasser, Hefe, Mehl, Eier, Zucker, Salz und Öl vermengen; erst langsam, dann etwas schneller kneten, bis er glatt und elastisch ist, zum Schluss kurz von Hand falten, insgesamt etwa 7 Minuten.",
+        "es": "Mezclar el agua, la levadura, la harina, los huevos, el azúcar, la sal y el aceite; batir a velocidad baja y luego un poco más rápido hasta lograr una masa lisa y elástica, terminando con un breve amasado a mano, unos 7 minutos en total.",
+        "fr": "Mélanger l'eau, la levure, la farine, les œufs, le sucre, le sel et l'huile; pétrir doucement puis un peu plus vite jusqu'à obtenir une pâte lisse et élastique, en finissant par un bref rabat à la main, environ 7 minutes au total.",
+        "ro": "Amestecă apa, drojdia, făina, ouăle, zahărul, sarea și uleiul; frământă la viteză mică, apoi puțin mai repede, până obții un aluat neted și elastic, terminând cu o frământare scurtă de mână, în total circa 7 minute."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let the dough rest at room temperature until visibly puffed, about 40 minutes."
+        "en": "Let the dough rest at room temperature until visibly puffed, about 40 minutes.",
+        "de": "Den Teig bei Raumtemperatur ruhen lassen, bis er sichtbar aufgegangen ist, etwa 40 Minuten.",
+        "es": "Dejar reposar la masa a temperatura ambiente hasta que se note claramente hinchada, unos 40 minutos.",
+        "fr": "Laisser reposer la pâte à température ambiante jusqu'à ce qu'elle soit visiblement gonflée, environ 40 minutes.",
+        "ro": "Lasă aluatul la temperatura camerei până se umflă vizibil, aproximativ 40 de minute."
       }
     },
     {
       "title": {
-        "en": "Divide and roll"
+        "en": "Divide and roll",
+        "de": "Teilen und rollen",
+        "es": "Dividir y enrollar",
+        "fr": "Diviser et rouler",
+        "ro": "Împarte și rulează"
       },
       "summary": {
-        "en": "Divide into nine equal pieces and roll each into a rope about 35cm long."
+        "en": "Divide into nine equal pieces and roll each into a rope about 35cm long.",
+        "de": "In neun gleich große Stücke teilen und jedes zu einem etwa 35cm langen Strang rollen.",
+        "es": "Dividir en nueve piezas iguales y formar con cada una un cordón de unos 35cm de largo.",
+        "fr": "Diviser en neuf pâtons égaux et rouler chacun en un boudin d'environ 35cm de long.",
+        "ro": "Împarte în nouă bucăți egale și rulează fiecare într-un fitil lung de aproximativ 35cm."
       }
     },
     {
       "title": {
-        "en": "Braid"
+        "en": "Braid",
+        "de": "Flechten",
+        "es": "Trenzar",
+        "fr": "Tresser",
+        "ro": "Împletește"
       },
       "summary": {
-        "en": "Group the ropes in threes and plait into three loaves, tucking the ends underneath."
+        "en": "Group the ropes in threes and plait into three loaves, tucking the ends underneath.",
+        "de": "Die Stränge zu dritt gruppieren, zu drei Laiben flechten und die Enden darunter feststecken.",
+        "es": "Agrupar los cordones de tres en tres y trenzarlos en tres panes, remetiendo los extremos por debajo.",
+        "fr": "Regrouper les boudins par trois et tresser trois pains, en repliant les extrémités en dessous.",
+        "ro": "Grupează fitilele câte trei și împletește trei pâini, îndoind capetele pe dedesubt."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Second apprêt",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Proof the braids on lined trays until doubled, about 40 minutes."
+        "en": "Proof the braids on lined trays until doubled, about 40 minutes.",
+        "de": "Die geflochtenen Laibe auf ausgelegten Blechen gehen lassen, bis sie sich verdoppelt haben, etwa 40 Minuten.",
+        "es": "Dejar fermentar las trenzas en bandejas forradas hasta que doblen su volumen, unos 40 minutos.",
+        "fr": "Faire lever les tresses sur des plaques garnies jusqu'à ce qu'elles doublent de volume, environ 40 minutes.",
+        "ro": "Lasă împletiturile la dospit pe tăvi căptușite până se dublează, aproximativ 40 de minute."
       }
     },
     {
       "title": {
-        "en": "Egg wash and seeds"
+        "en": "Egg wash and seeds",
+        "de": "Eistreiche und Saat",
+        "es": "Huevo batido y semillas",
+        "fr": "Dorure et graines",
+        "ro": "Ou bătut și semințe"
       },
       "summary": {
-        "en": "Brush generously with beaten egg and scatter with sesame, poppy or nigella seeds."
+        "en": "Brush generously with beaten egg and scatter with sesame, poppy or nigella seeds.",
+        "de": "Großzügig mit verquirltem Ei bestreichen und mit Sesam, Mohn oder Schwarzkümmel bestreuen.",
+        "es": "Pintar generosamente con huevo batido y espolvorear con semillas de sésamo, amapola o nigella.",
+        "fr": "Badigeonner généreusement d'œuf battu et parsemer de graines de sésame, de pavot ou de nigelle.",
+        "ro": "Unge generos cu ou bătut și presară cu semințe de susan, mac sau negrilică."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 218°C (425°F), rotating the trays halfway through, about 25 minutes total until deep golden brown."
+        "en": "Bake at 218°C (425°F), rotating the trays halfway through, about 25 minutes total until deep golden brown.",
+        "de": "Bei 218°C (425°F) backen, die Bleche nach der Hälfte der Zeit drehen, insgesamt etwa 25 Minuten bis tief goldbraun.",
+        "es": "Hornear a 218°C (425°F), girando las bandejas a mitad de cocción, unos 25 minutos en total hasta dorar bien.",
+        "fr": "Cuire à 218°C (425°F) en tournant les plaques à mi-cuisson, environ 25 minutes au total jusqu'à belle couleur dorée foncée.",
+        "ro": "Coace la 218°C (425°F), rotind tăvile la jumătatea coacerii, în total circa 25 de minute, până se rumenesc bine."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcire"
       },
       "summary": {
-        "en": "Let the loaves cool fully on the pan before tearing or slicing."
+        "en": "Let the loaves cool fully on the pan before tearing or slicing.",
+        "de": "Die Laibe vollständig auf dem Blech abkühlen lassen, bevor sie gerissen oder geschnitten werden.",
+        "es": "Dejar que los panes se enfríen por completo en la bandeja antes de partirlos o cortarlos.",
+        "fr": "Laisser les pains refroidir complètement sur la plaque avant de les déchirer ou de les trancher.",
+        "ro": "Lasă pâinile să se răcească complet pe tavă înainte de a le rupe sau felia."
       }
     }
   ],

@@ -128,50 +128,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix batter start"
+        "en": "Mix batter start",
+        "de": "Teig ansetzen",
+        "es": "Iniciar la masa",
+        "fr": "Débuter la pâte",
+        "ro": "Începe compoziția"
       },
       "summary": {
-        "en": "Combine part of the warm milk and water with the flours, sugar and yeast, and whisk to a smooth paste."
+        "en": "Combine part of the warm milk and water with the flours, sugar and yeast, and whisk to a smooth paste.",
+        "de": "Einen Teil der warmen Milch und des Wassers mit den Mehlen, Zucker und Hefe verbinden und zu einer glatten Paste verquirlen.",
+        "es": "Combinar parte de la leche y el agua tibias con las harinas, el azúcar y la levadura, y batir hasta obtener una pasta lisa.",
+        "fr": "Combiner une partie du lait et de l'eau tièdes avec les farines, le sucre et la levure, et fouetter jusqu'à obtenir une pâte lisse.",
+        "ro": "Combină o parte din laptele și apa călduțe cu făinurile, zahărul și drojdia, și bate până obții o pastă netedă."
       }
     },
     {
       "title": {
-        "en": "Loosen"
+        "en": "Loosen",
+        "de": "Verdünnen",
+        "es": "Aligerar",
+        "fr": "Détendre",
+        "ro": "Subțiază"
       },
       "summary": {
-        "en": "Gradually whisk in the rest of the liquid until the batter is smooth and pourable."
+        "en": "Gradually whisk in the rest of the liquid until the batter is smooth and pourable.",
+        "de": "Nach und nach die restliche Flüssigkeit einrühren, bis der Teig glatt und gießfähig ist.",
+        "es": "Incorporar poco a poco el resto del líquido hasta que la masa quede lisa y líquida.",
+        "fr": "Incorporer progressivement le reste du liquide jusqu'à ce que la pâte soit lisse et coulante.",
+        "ro": "Adaugă treptat restul de lichid până compoziția devine netedă și curge ușor."
       }
     },
     {
       "title": {
-        "en": "Ferment"
+        "en": "Ferment",
+        "de": "Fermentieren",
+        "es": "Fermentar",
+        "fr": "Fermenter",
+        "ro": "Fermentează"
       },
       "summary": {
-        "en": "Cover and rest at room temperature until bubbly, 1 to 2 hours."
+        "en": "Cover and rest at room temperature until bubbly, 1 to 2 hours.",
+        "de": "Abdecken und bei Raumtemperatur ruhen lassen, bis er Blasen wirft, 1 bis 2 Stunden.",
+        "es": "Tapar y dejar reposar a temperatura ambiente hasta que burbujee, de 1 a 2 horas.",
+        "fr": "Couvrir et laisser reposer à température ambiante jusqu'à ce que ça bulle, 1 à 2 heures.",
+        "ro": "Acoperă și lasă la temperatura camerei până face bule, 1-2 ore."
       }
     },
     {
       "title": {
-        "en": "Finish batter"
+        "en": "Finish batter",
+        "de": "Teig fertigstellen",
+        "es": "Terminar la masa",
+        "fr": "Finaliser la pâte",
+        "ro": "Finalizează compoziția"
       },
       "summary": {
-        "en": "Stir in the salt and sieved bicarbonate of soda just before cooking."
+        "en": "Stir in the salt and sieved bicarbonate of soda just before cooking.",
+        "de": "Kurz vor dem Backen Salz und gesiebtes Natron einrühren.",
+        "es": "Justo antes de cocinar, incorporar la sal y el bicarbonato tamizado.",
+        "fr": "Juste avant la cuisson, incorporer le sel et le bicarbonate tamisé.",
+        "ro": "Chiar înainte de coacere, adaugă sarea și bicarbonatul cernut."
       }
     },
     {
       "title": {
-        "en": "Griddle"
+        "en": "Griddle",
+        "de": "Auf der Platte backen",
+        "es": "Cocinar en la plancha",
+        "fr": "Cuire sur la plaque",
+        "ro": "Coace pe tablă"
       },
       "summary": {
-        "en": "Lightly grease a hot griddle or frying pan and spoon on the batter freeform, without rings, cooking a few at a time."
+        "en": "Lightly grease a hot griddle or frying pan and spoon on the batter freeform, without rings, cooking a few at a time.",
+        "de": "Eine heiße Platte oder Pfanne leicht einfetten und den Teig freihändig ohne Ringe portionsweise aufgeben, mehrere gleichzeitig backen.",
+        "es": "Engrasar ligeramente una plancha o sartén caliente y verter la masa a mano alzada, sin aros, cocinando varias a la vez.",
+        "fr": "Graisser légèrement une plaque ou une poêle chaude et verser la pâte à main levée, sans cercles, en cuisant plusieurs à la fois.",
+        "ro": "Unge ușor o tablă sau tigaie fierbinte și pune compoziția cu lingura, liber, fără forme, coacând câteva odată."
       }
     },
     {
       "title": {
-        "en": "Cook & flip"
+        "en": "Cook & flip",
+        "de": "Backen & wenden",
+        "es": "Cocinar y voltear",
+        "fr": "Cuire et retourner",
+        "ro": "Coace și întoarce"
       },
       "summary": {
-        "en": "Cook undisturbed until the surface dries and bubbles, about 4-5 minutes, then flip briefly to finish, 1-2 minutes more."
+        "en": "Cook undisturbed until the surface dries and bubbles, about 4-5 minutes, then flip briefly to finish, 1-2 minutes more.",
+        "de": "Ungestört backen, bis die Oberfläche trocknet und Blasen wirft, etwa 4-5 Minuten, dann kurz wenden und fertig backen, 1-2 weitere Minuten.",
+        "es": "Cocinar sin tocar hasta que la superficie se seque y burbujee, unos 4-5 minutos, luego voltear brevemente para terminar, 1-2 minutos más.",
+        "fr": "Cuire sans toucher jusqu'à ce que la surface sèche et se couvre de bulles, environ 4-5 minutes, puis retourner brièvement pour finir, 1-2 minutes de plus.",
+        "ro": "Coace fără să atingi până suprafața se usucă și face bule, aproximativ 4-5 minute, apoi întoarce scurt pentru a termina, încă 1-2 minute."
       }
     }
   ],

@@ -139,50 +139,98 @@
   "method": [
     {
       "title": {
-        "en": "Small biga"
+        "en": "Small biga",
+        "de": "Kleine Biga",
+        "es": "Biga pequeña",
+        "fr": "Petite biga",
+        "ro": "Biga mică"
       },
       "summary": {
-        "en": "Mix a small portion of the flour and water with the yeast into a loose starter and let it ferment 1.5-2 hours until domed."
+        "en": "Mix a small portion of the flour and water with the yeast into a loose starter and let it ferment 1.5-2 hours until domed.",
+        "de": "Einen kleinen Teil des Mehls und Wassers mit der Hefe zu einer lockeren Biga verrühren und 1.5-2 Stunden gären lassen, bis sie sich wölbt.",
+        "es": "Mezclar una pequeña parte de la harina y el agua con la levadura en una biga suelta y dejar fermentar 1.5-2 horas hasta que se abombe.",
+        "fr": "Mélanger une petite partie de la farine et de l'eau avec la levure en une biga liquide, et laisser fermenter 1.5-2 heures jusqu'à ce que ça bombe.",
+        "ro": "Amestecă o parte mică din făină și apă cu drojdia într-o biga lejeră și lasă la fermentat 1.5-2 ore, până se bombează."
       }
     },
     {
       "title": {
-        "en": "Main dough"
+        "en": "Main dough",
+        "de": "Hauptteig",
+        "es": "Masa principal",
+        "fr": "Pâte principale",
+        "ro": "Aluatul principal"
       },
       "summary": {
-        "en": "Combine the biga with the rest of the flour, water, honey, oil and salt into a soft, sticky dough. No serious kneading needed, it's meant to stay wet."
+        "en": "Combine the biga with the rest of the flour, water, honey, oil and salt into a soft, sticky dough. No serious kneading needed, it's meant to stay wet.",
+        "de": "Die Biga mit dem restlichen Mehl, Wasser, Honig, Öl und Salz zu einem weichen, klebrigen Teig verarbeiten. Kein starkes Kneten nötig, der Teig soll feucht bleiben.",
+        "es": "Combinar la biga con el resto de la harina, el agua, la miel, el aceite y la sal hasta obtener una masa blanda y pegajosa. No hace falta amasar mucho, debe quedar húmeda.",
+        "fr": "Combiner la biga avec le reste de la farine, l'eau, le miel, l'huile et le sel en une pâte molle et collante. Pas besoin de pétrir sérieusement, elle doit rester humide.",
+        "ro": "Combină biga cu restul de făină, apă, miere, ulei și sare într-un aluat moale și lipicios. Nu e nevoie de frământare serioasă, aluatul trebuie să rămână umed."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentare în masă"
       },
       "summary": {
-        "en": "Let the dough ferment about 3 hours at warm room temperature until roughly tripled in size."
+        "en": "Let the dough ferment about 3 hours at warm room temperature until roughly tripled in size.",
+        "de": "Den Teig etwa 3 Stunden bei warmer Raumtemperatur gären lassen, bis er sich etwa verdreifacht hat.",
+        "es": "Dejar fermentar la masa unas 3 horas a temperatura ambiente cálida, hasta que triplique aproximadamente su tamaño.",
+        "fr": "Laisser fermenter la pâte environ 3 heures à température ambiante chaude, jusqu'à ce qu'elle triple à peu près de taille.",
+        "ro": "Lasă aluatul la fermentat aproximativ 3 ore la temperatura camerei, într-un loc călduț, până își triplează aproximativ volumul."
       }
     },
     {
       "title": {
-        "en": "Pan and dimple"
+        "en": "Pan and dimple",
+        "de": "In die Form geben und dimpeln",
+        "es": "Extender y marcar hoyuelos",
+        "fr": "Étaler et faire des marques",
+        "ro": "Întinde în tavă și presează gropițe"
       },
       "summary": {
-        "en": "Oil a sheet pan generously, stretch the dough to fill it, rest 40 minutes, then drive oiled fingertips all the way to the pan to leave deep dimples across the surface."
+        "en": "Oil a sheet pan generously, stretch the dough to fill it, rest 40 minutes, then drive oiled fingertips all the way to the pan to leave deep dimples across the surface.",
+        "de": "Ein Blech großzügig ölen, den Teig hineinziehen, bis er es ausfüllt, 40 Minuten ruhen lassen, dann mit geölten Fingerspitzen tiefe Grübchen bis zum Blechboden drücken.",
+        "es": "Aceitar generosamente una bandeja, estirar la masa hasta cubrirla, dejar reposar 40 minutos, luego hundir las yemas de los dedos aceitados hasta el fondo para dejar hoyuelos profundos por toda la superficie.",
+        "fr": "Huiler généreusement une plaque, étirer la pâte pour la remplir, laisser reposer 40 minutes, puis enfoncer les doigts huilés jusqu'au fond pour laisser des marques profondes sur toute la surface.",
+        "ro": "Unge generos o tavă, întinde aluatul până o acoperă, lasă-l 40 de minute, apoi apasă cu vârful degetelor unse până la fundul tăvii, lăsând gropițe adânci pe toată suprafața."
       }
     },
     {
       "title": {
-        "en": "Brine and rise again"
+        "en": "Brine and rise again",
+        "de": "Salzlake und erneut gehen lassen",
+        "es": "Salmuera y segunda fermentación",
+        "fr": "Saumure et nouvelle pousse",
+        "ro": "Saramură și a doua dospire"
       },
       "summary": {
-        "en": "Whisk water, olive oil and salt into a brine and pour it over the dimpled dough; scatter coarse salt on top and let it proof another hour so the brine soaks in."
+        "en": "Whisk water, olive oil and salt into a brine and pour it over the dimpled dough; scatter coarse salt on top and let it proof another hour so the brine soaks in.",
+        "de": "Wasser, Olivenöl und Salz zu einer Lake verrühren und über den gedimpelten Teig gießen; grobes Salz darüberstreuen und eine weitere Stunde gehen lassen, damit die Lake einzieht.",
+        "es": "Batir agua, aceite de oliva y sal hasta formar una salmuera y verterla sobre la masa con hoyuelos; espolvorear sal gruesa por encima y dejar fermentar una hora más para que la salmuera penetre.",
+        "fr": "Fouetter l'eau, l'huile d'olive et le sel en une saumure et la verser sur la pâte marquée; parsemer de gros sel et laisser pousser encore une heure pour que la saumure pénètre.",
+        "ro": "Amestecă apa, uleiul de măsline și sarea într-o saramură și toarn-o peste aluatul cu gropițe; presară sare grunjoasă deasupra și lasă la dospit încă o oră, ca saramura să pătrundă."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 250°C for about 18 minutes, starting on a low rack and finishing higher, until deeply golden and the brine has crisped into little salty pools."
+        "en": "Bake at 250°C for about 18 minutes, starting on a low rack and finishing higher, until deeply golden and the brine has crisped into little salty pools.",
+        "de": "Bei 250°C etwa 18 Minuten backen, zunächst auf unterer Schiene, dann höher, bis tief goldbraun und die Lake zu kleinen salzigen, knusprigen Tümpeln eingetrocknet ist.",
+        "es": "Hornear a 250°C durante unos 18 minutos, empezando en la rejilla baja y terminando más arriba, hasta que quede muy dorada y la salmuera se haya convertido en pequeños charcos salados y crujientes.",
+        "fr": "Cuire à 250°C pendant environ 18 minutes, en commençant sur la grille basse puis en finissant plus haut, jusqu'à coloration bien dorée et à ce que la saumure ait cuit en petites flaques salées croustillantes.",
+        "ro": "Coace la 250°C timp de aproximativ 18 minute, începând pe raftul de jos și terminând mai sus, până se rumenește bine și saramura se usucă în băltoace mici, sărate și crocante."
       }
     }
   ],

@@ -128,58 +128,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom yeast"
+        "en": "Bloom yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Stir yeast and sugar into the warm water and let sit briefly until active."
+        "en": "Stir yeast and sugar into the warm water and let sit briefly until active.",
+        "de": "Hefe und Zucker ins warme Wasser einrühren und kurz stehen lassen, bis sie aktiv ist.",
+        "es": "Disolver la levadura y el azúcar en el agua tibia y dejar reposar brevemente hasta que esté activa.",
+        "fr": "Mélanger la levure et le sucre dans l'eau tiède et laisser reposer brièvement jusqu'à ce qu'elle soit active.",
+        "ro": "Amestecă drojdia și zahărul în apa călduță și lasă să stea puțin, până devine activă."
       }
     },
     {
       "title": {
-        "en": "Mix and knead"
+        "en": "Mix and knead",
+        "de": "Mischen und kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Add flour, salt and olive oil; knead until a smooth, elastic dough forms."
+        "en": "Add flour, salt and olive oil; knead until a smooth, elastic dough forms.",
+        "de": "Mehl, Salz und Olivenöl zugeben; kneten, bis ein glatter, elastischer Teig entsteht.",
+        "es": "Añadir la harina, la sal y el aceite de oliva; amasar hasta formar una masa lisa y elástica.",
+        "fr": "Ajouter la farine, le sel et l'huile d'olive; pétrir jusqu'à former une pâte lisse et élastique.",
+        "ro": "Adaugă făina, sarea și uleiul de măsline; frământă până se formează un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primera fermentación",
+        "fr": "Premier levage",
+        "ro": "Prima fermentare"
       },
       "summary": {
-        "en": "Oil the dough, cover, and let it rise in a warm spot for about an hour."
+        "en": "Oil the dough, cover, and let it rise in a warm spot for about an hour.",
+        "de": "Den Teig einölen, zudecken und an einem warmen Ort etwa eine Stunde gehen lassen.",
+        "es": "Aceitar la masa, tapar y dejar fermentar en un lugar cálido durante una hora aproximadamente.",
+        "fr": "Huiler la pâte, couvrir et laisser lever dans un endroit chaud pendant environ une heure.",
+        "ro": "Unge aluatul cu ulei, acoperă și lasă la crescut într-un loc călduț timp de aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into 5 balls and rest 15 minutes, then roll each into a long log and join the ends into an oval loop."
+        "en": "Divide into 5 balls and rest 15 minutes, then roll each into a long log and join the ends into an oval loop.",
+        "de": "In 5 Kugeln teilen und 15 Minuten ruhen lassen, dann jede zu einem langen Strang rollen und die Enden zu einer ovalen Schlaufe verbinden.",
+        "es": "Dividir en 5 bolas y dejar reposar 15 minutos, luego enrollar cada una en una tira larga y unir los extremos en un aro ovalado.",
+        "fr": "Diviser en 5 boules et laisser reposer 15 minutes, puis rouler chacune en long boudin et joindre les extrémités en un anneau ovale.",
+        "ro": "Împarte în 5 bile și lasă la odihnă 15 minute, apoi rulează fiecare într-un baston lung și unește capetele într-un inel oval."
       }
     },
     {
       "title": {
-        "en": "Coat"
+        "en": "Coat",
+        "de": "Bestreichen",
+        "es": "Cubrir",
+        "fr": "Enrober",
+        "ro": "Acoperă"
       },
       "summary": {
-        "en": "Brush each ring with milk and press both sides firmly into a tray of sesame seeds."
+        "en": "Brush each ring with milk and press both sides firmly into a tray of sesame seeds.",
+        "de": "Jeden Ring mit Milch bestreichen und beide Seiten fest in eine Schale Sesam drücken.",
+        "es": "Pintar cada aro con leche y presionar ambos lados firmemente en una bandeja de semillas de sésamo.",
+        "fr": "Badigeonner chaque anneau de lait et presser fermement les deux faces dans un plateau de graines de sésame.",
+        "ro": "Unge fiecare inel cu lapte și apasă ferm ambele părți într-o tavă cu semințe de susan."
       }
     },
     {
       "title": {
-        "en": "Second rest"
+        "en": "Second rest",
+        "de": "Zweite Ruhezeit",
+        "es": "Segundo reposo",
+        "fr": "Second repos",
+        "ro": "A doua odihnă"
       },
       "summary": {
-        "en": "Cover and let the rings rest about 30 minutes before baking."
+        "en": "Cover and let the rings rest about 30 minutes before baking.",
+        "de": "Zudecken und die Ringe vor dem Backen etwa 30 Minuten ruhen lassen.",
+        "es": "Tapar y dejar reposar los aros unos 30 minutos antes de hornear.",
+        "fr": "Couvrir et laisser reposer les anneaux environ 30 minutes avant la cuisson.",
+        "ro": "Acoperă și lasă inelele la odihnă aproximativ 30 de minute înainte de coacere."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake on a hot tray until golden, then broil briefly for a deep, crackling crust."
+        "en": "Bake on a hot tray until golden, then broil briefly for a deep, crackling crust.",
+        "de": "Auf einem heißen Blech backen, bis goldbraun, dann kurz grillen für eine tief knusprige Kruste.",
+        "es": "Hornear sobre una bandeja caliente hasta que estén dorados, luego gratinar brevemente para una corteza profunda y crujiente.",
+        "fr": "Cuire sur une plaque chaude jusqu'à coloration dorée, puis passer brièvement sous le gril pour une croûte bien craquante.",
+        "ro": "Coace pe o tavă fierbinte până devin aurii, apoi dă-le puțin la grătarul cuptorului pentru o coajă crocantă și adâncă."
       }
     }
   ],

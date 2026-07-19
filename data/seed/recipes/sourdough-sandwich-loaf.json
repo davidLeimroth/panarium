@@ -130,58 +130,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Mix starter, bread flour and cool water; ferment about 12 hours at cool room temperature until nearly doubled."
+        "en": "Mix starter, bread flour and cool water; ferment about 12 hours at cool room temperature until nearly doubled.",
+        "de": "Anstellgut, Brotmehl und kühles Wasser vermengen; etwa 12 Stunden bei kühler Raumtemperatur fermentieren lassen, bis es fast doppelt so groß ist.",
+        "es": "Mezclar la masa madre, harina de fuerza y agua fría; dejar fermentar unas 12 horas a temperatura ambiente fresca hasta que casi doble su volumen.",
+        "fr": "Mélanger le levain, la farine de force et l'eau fraîche, laisser fermenter environ 12 heures à température ambiante fraîche jusqu'à ce qu'il ait presque doublé.",
+        "ro": "Amestecă maiaua, făina de pâine și apă rece; lasă la fermentat aproximativ 12 ore la temperatura camerei, într-un loc răcoros, până aproape se dublează."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine the levain with flour, warm water, butter, sugar, milk powder, salt and instant yeast; knead until smooth and elastic."
+        "en": "Combine the levain with flour, warm water, butter, sugar, milk powder, salt and instant yeast; knead until smooth and elastic.",
+        "de": "Das Levain mit Mehl, warmem Wasser, Butter, Zucker, Milchpulver, Salz und Instanthefe verbinden; kneten, bis der Teig glatt und elastisch ist.",
+        "es": "Combinar el levain con harina, agua tibia, mantequilla, azúcar, leche en polvo, sal y levadura instantánea; amasar hasta que quede lisa y elástica.",
+        "fr": "Combiner le levain avec la farine, l'eau tiède, le beurre, le sucre, le lait en poudre, le sel et la levure instantanée ; pétrir jusqu'à une pâte lisse et élastique.",
+        "ro": "Combină levain-ul cu făina, apă călduță, unt, zahăr, lapte praf, sare și drojdie instant; frământă până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let the dough rise at room temperature 1-2 hours, until doubled."
+        "en": "Let the dough rise at room temperature 1-2 hours, until doubled.",
+        "de": "Den Teig bei Raumtemperatur 1-2 Stunden gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Dejar levar la masa a temperatura ambiente 1-2 horas, hasta que doble su volumen.",
+        "fr": "Laisser lever la pâte à température ambiante 1-2 heures, jusqu'au double.",
+        "ro": "Lasă aluatul la dospit la temperatura camerei 1-2 ore, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide in two, shape each half into a tight log, and settle into greased loaf pans."
+        "en": "Divide in two, shape each half into a tight log, and settle into greased loaf pans.",
+        "de": "In zwei Teile teilen, jede Hälfte zu einer straffen Rolle formen und in gefettete Kastenformen setzen.",
+        "es": "Dividir en dos, dar forma de rollo prieto a cada mitad y colocarlas en moldes de pan engrasados.",
+        "fr": "Diviser en deux, façonner chaque moitié en un rouleau serré et les installer dans des moules à cake graissés.",
+        "ro": "Împarte în două, modelează fiecare jumătate într-un sul strâns și așază-le în tăvi de pâine unse."
       }
     },
     {
       "title": {
-        "en": "Second proof"
+        "en": "Second proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof 1-2 hours, until the dough crowns about an inch above the rim."
+        "en": "Proof 1-2 hours, until the dough crowns about an inch above the rim.",
+        "de": "1-2 Stunden gehen lassen, bis der Teig etwa 2,5 cm über den Rand aufragt.",
+        "es": "Fermentar 1-2 horas, hasta que la masa sobrepase el borde unos 2,5 cm.",
+        "fr": "Laisser pousser 1-2 heures, jusqu'à ce que la pâte dépasse le bord d'environ 2,5 cm.",
+        "ro": "Lasă la dospit 1-2 ore, până aluatul depășește marginea tăvii cu aproximativ 2,5 cm."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 190°C for 30-35 minutes, until golden brown and the pan sides feel firm."
+        "en": "Bake at 190°C for 30-35 minutes, until golden brown and the pan sides feel firm.",
+        "de": "Bei 190°C 30-35 Minuten backen, bis das Brot goldbraun ist und sich die Ränder der Form fest anfühlen.",
+        "es": "Hornear a 190°C durante 30-35 minutos, hasta que esté dorado y los lados del molde se sientan firmes.",
+        "fr": "Cuire à 190°C pendant 30-35 minutes, jusqu'à coloration dorée et des côtés de moule fermes au toucher.",
+        "ro": "Coace la 190°C timp de 30-35 de minute, până devine auriu-rumen și marginile din tavă sunt ferme la atingere."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Turn out onto a rack and cool completely before slicing."
+        "en": "Turn out onto a rack and cool completely before slicing.",
+        "de": "Auf ein Gitter stürzen und vollständig auskühlen lassen, bevor angeschnitten wird.",
+        "es": "Desmoldar sobre una rejilla y dejar enfriar por completo antes de cortar.",
+        "fr": "Démouler sur une grille et laisser refroidir complètement avant de trancher.",
+        "ro": "Răstoarnă pe un grătar și lasă să se răcească complet înainte de feliere."
       }
     }
   ],

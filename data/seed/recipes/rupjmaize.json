@@ -125,50 +125,98 @@
   "method": [
     {
       "title": {
-        "en": "Build the sour"
+        "en": "Build the sour",
+        "de": "Sauerteig ansetzen",
+        "es": "Preparar la masa ácida",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua acră"
       },
       "summary": {
-        "en": "Mix whole rye flour, water and rye starter; ferment 10-12 hours until doubled with a bubbly surface."
+        "en": "Mix whole rye flour, water and rye starter; ferment 10-12 hours until doubled with a bubbly surface.",
+        "de": "Vollkornroggenmehl, Wasser und Roggenanstellgut vermengen; 10-12 Stunden gären lassen, bis er sich verdoppelt hat und die Oberfläche blubbert.",
+        "es": "Mezclar harina integral de centeno, agua y masa madre de centeno; fermentar 10-12 horas hasta que doble y la superficie burbujee.",
+        "fr": "Mélanger farine de seigle complète, eau et levain de seigle ; fermenter 10-12 heures jusqu'à ce qu'il double avec une surface pleine de bulles.",
+        "ro": "Amestecă făina integrală de secară, apa și maiaua de secară; lasă la fermentat 10-12 ore până se dublează și suprafața face bule."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine the sour with the coarse and medium rye meals, remaining water, salt, brown sugar and caraway into a loose, batter-like dough."
+        "en": "Combine the sour with the coarse and medium rye meals, remaining water, salt, brown sugar and caraway into a loose, batter-like dough.",
+        "de": "Den Sauerteig mit dem groben und mittleren Roggenschrot, restlichem Wasser, Salz, braunem Zucker und Kümmel zu einem lockeren, teigschaumartigen Teig verarbeiten.",
+        "es": "Combinar la masa ácida con la harina de centeno gruesa y media, el agua restante, la sal, el azúcar moreno y la alcaravea en una masa suelta, parecida a una papilla.",
+        "fr": "Mélanger le levain avec les farines de seigle grossière et moyenne, le reste de l'eau, le sel, le sucre roux et le carvi en une pâte lâche, proche d'une pâte à crêpes.",
+        "ro": "Combină maiaua acră cu făina de secară grosieră și medie, apa rămasă, sarea, zahărul brun și chimenul într-un aluat lejer, ca o pastă groasă."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Leave at room temperature until visibly expanded and bubbling, roughly 12-16 hours in total."
+        "en": "Leave at room temperature until visibly expanded and bubbling, roughly 12-16 hours in total.",
+        "de": "Bei Raumtemperatur stehen lassen, bis er sichtbar aufgegangen ist und blubbert, insgesamt etwa 12-16 Stunden.",
+        "es": "Dejar a temperatura ambiente hasta que se note visiblemente expandida y burbujeante, en total unas 12-16 horas.",
+        "fr": "Laisser à température ambiante jusqu'à ce qu'elle soit visiblement gonflée et pleine de bulles, environ 12-16 heures au total.",
+        "ro": "Lasă la temperatura camerei până se umflă vizibil și face bule, în total aproximativ 12-16 ore."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Scrape onto a floured peel or sheet and shape into a long oblong loaf."
+        "en": "Scrape onto a floured peel or sheet and shape into a long oblong loaf.",
+        "de": "Auf eine bemehlte Schieberplatte oder ein Blech schaben und zu einem länglichen Laib formen.",
+        "es": "Volcar sobre una pala o bandeja enharinada y formar un pan alargado y ovalado.",
+        "fr": "Racler sur une pelle ou une plaque farinée et façonner en pain long et oblong.",
+        "ro": "Răstoarnă pe o lopată sau tavă făinată și modelează o pâine lungă și alungită."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot, then lower the oven and continue until deeply set inside."
+        "en": "Bake hot, then lower the oven and continue until deeply set inside.",
+        "de": "Heiß backen, dann die Ofentemperatur senken und weiterbacken, bis er innen fest durchgebacken ist.",
+        "es": "Hornear a temperatura alta, luego bajar el horno y continuar hasta que esté bien cocido por dentro.",
+        "fr": "Cuire à four chaud, puis baisser la température et poursuivre jusqu'à cuisson complète à l'intérieur.",
+        "ro": "Coace la foc iute, apoi scade temperatura cuptorului și continuă până se coace bine în interior."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposo",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cool completely and rest 24-48 hours before the first slice."
+        "en": "Cool completely and rest 24-48 hours before the first slice.",
+        "de": "Vollständig abkühlen lassen und 24-48 Stunden vor dem ersten Anschnitt ruhen lassen.",
+        "es": "Dejar enfriar por completo y reposar 24-48 horas antes de cortar la primera rebanada.",
+        "fr": "Laisser refroidir complètement et reposer 24-48 heures avant la première tranche.",
+        "ro": "Lasă să se răcească complet și lasă la odihnă 24-48 de ore înainte de prima felie."
       }
     }
   ],

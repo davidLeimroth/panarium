@@ -125,50 +125,98 @@
   "method": [
     {
       "title": {
-        "en": "Preheat the skillet"
+        "en": "Preheat the skillet",
+        "de": "Pfanne vorheizen",
+        "es": "Precalentar la sartén",
+        "fr": "Préchauffer la poêle",
+        "ro": "Preîncălzește tigaia"
       },
       "summary": {
-        "en": "Set a well-greased 10-inch cast-iron skillet in a very hot oven for 5-10 minutes so it's smoking-hot before the batter goes in."
+        "en": "Set a well-greased 10-inch cast-iron skillet in a very hot oven for 5-10 minutes so it's smoking-hot before the batter goes in.",
+        "de": "Eine gut gefettete 25-cm-Gusseisenpfanne 5-10 Minuten in einen sehr heißen Ofen stellen, damit sie rauchend heiß ist, bevor der Teig hineinkommt.",
+        "es": "Colocar una sartén de hierro fundido de 25 cm bien engrasada en un horno muy caliente durante 5-10 minutos, para que humee de calor antes de verter la masa.",
+        "fr": "Placer une poêle en fonte de 25 cm bien graissée dans un four très chaud pendant 5-10 minutes, pour qu'elle soit fumante avant d'y verser la pâte.",
+        "ro": "Așază o tigaie de fontă de 25 cm, bine unsă, într-un cuptor foarte fierbinte timp de 5-10 minute, ca să fie fumegândă înainte să torni compoziția."
       }
     },
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockenmischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger les ingrédients secs",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Whisk cornmeal, flour, baking powder, baking soda and salt together."
+        "en": "Whisk cornmeal, flour, baking powder, baking soda and salt together.",
+        "de": "Maismehl, Mehl, Backpulver, Natron und Salz miteinander verquirlen.",
+        "es": "Batir juntos la harina de maíz, la harina, el polvo de hornear, el bicarbonato y la sal.",
+        "fr": "Fouetter ensemble la farine de maïs, la farine, la levure chimique, le bicarbonate de soude et le sel.",
+        "ro": "Amestecă mălaiul, făina, praful de copt, bicarbonatul și sarea."
       }
     },
     {
       "title": {
-        "en": "Mix wet"
+        "en": "Mix wet",
+        "de": "Feuchtes mischen",
+        "es": "Mezclar los líquidos",
+        "fr": "Mélanger les liquides",
+        "ro": "Amestecă ingredientele umede"
       },
       "summary": {
-        "en": "Beat buttermilk, eggs and oil together in a separate bowl."
+        "en": "Beat buttermilk, eggs and oil together in a separate bowl.",
+        "de": "Buttermilch, Eier und Öl in einer separaten Schüssel miteinander verquirlen.",
+        "es": "Batir el suero de mantequilla, los huevos y el aceite en un bol aparte.",
+        "fr": "Battre le babeurre, les œufs et l'huile ensemble dans un bol à part.",
+        "ro": "Bate zara, ouăle și uleiul într-un bol separat."
       }
     },
     {
       "title": {
-        "en": "Combine"
+        "en": "Combine",
+        "de": "Verbinden",
+        "es": "Combinar",
+        "fr": "Combiner",
+        "ro": "Combină"
       },
       "summary": {
-        "en": "Stir the wet mixture into the dry just until combined; do not overmix."
+        "en": "Stir the wet mixture into the dry just until combined; do not overmix.",
+        "de": "Die feuchte Mischung in die trockene einrühren, nur bis sie sich verbinden; nicht überarbeiten.",
+        "es": "Incorporar la mezcla líquida a la seca solo hasta unir; no batir de más.",
+        "fr": "Incorporer le mélange liquide au mélange sec juste assez pour lier; ne pas trop mélanger.",
+        "ro": "Încorporează amestecul umed în cel uscat doar cât să se unească; nu amesteca prea mult."
       }
     },
     {
       "title": {
-        "en": "Sear and bake"
+        "en": "Sear and bake",
+        "de": "Anbraten und backen",
+        "es": "Sellar y hornear",
+        "fr": "Saisir et cuire",
+        "ro": "Sigilează și coace"
       },
       "summary": {
-        "en": "Carefully swirl the hot oil around the skillet to coat it, pour in the batter so it sizzles, and bake until golden and set."
+        "en": "Carefully swirl the hot oil around the skillet to coat it, pour in the batter so it sizzles, and bake until golden and set.",
+        "de": "Vorsichtig das heiße Öl in der Pfanne schwenken, um sie zu benetzen, den Teig hineingießen, sodass er zischt, und backen, bis er golden und fest ist.",
+        "es": "Con cuidado, girar el aceite caliente por la sartén para cubrirla, verter la masa para que chisporrotee, y hornear hasta que esté dorada y firme.",
+        "fr": "Faire tourner délicatement l'huile chaude dans la poêle pour bien l'enduire, verser la pâte pour qu'elle grésille, et cuire jusqu'à ce qu'elle soit dorée et prise.",
+        "ro": "Rotește cu grijă uleiul fierbinte în tigaie ca să o acopere, toarnă compoziția să sfârâie, apoi coace până devine aurie și fermă."
       }
     },
     {
       "title": {
-        "en": "Rest, then unmold"
+        "en": "Rest, then unmold",
+        "de": "Ruhen, dann stürzen",
+        "es": "Reposar y desmoldar",
+        "fr": "Reposer, puis démouler",
+        "ro": "Odihnește, apoi răstoarnă"
       },
       "summary": {
-        "en": "Cool a few minutes in the pan before turning out, or simply serve straight from the skillet."
+        "en": "Cool a few minutes in the pan before turning out, or simply serve straight from the skillet.",
+        "de": "Ein paar Minuten in der Pfanne auskühlen lassen, bevor gestürzt wird, oder einfach direkt aus der Pfanne servieren.",
+        "es": "Dejar enfriar unos minutos en la sartén antes de desmoldar, o simplemente servir directamente desde la sartén.",
+        "fr": "Laisser refroidir quelques minutes dans la poêle avant de démouler, ou simplement servir directement à la poêle.",
+        "ro": "Lasă la răcit câteva minute în tigaie înainte de a răsturna, sau servește direct din tigaie."
       }
     }
   ],

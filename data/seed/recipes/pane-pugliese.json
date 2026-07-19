@@ -109,50 +109,98 @@
   "method": [
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Mix the semolina with most of the water and rest 30-60 minutes so the coarse durum fully hydrates before any kneading starts."
+        "en": "Mix the semolina with most of the water and rest 30-60 minutes so the coarse durum fully hydrates before any kneading starts.",
+        "de": "Den Grieß mit dem Großteil des Wassers vermischen und 30-60 Minuten ruhen lassen, damit sich der grobe Hartweizen vollständig vollsaugt, bevor geknetet wird.",
+        "es": "Mezclar la sémola con la mayor parte del agua y dejar reposar 30-60 minutos para que la sémola gruesa se hidrate por completo antes de empezar a amasar.",
+        "fr": "Mélanger la semoule avec la majeure partie de l'eau et laisser reposer 30-60 minutes pour que la semoule grossière s'hydrate complètement avant tout pétrissage.",
+        "ro": "Amestecă grișul cu cea mai mare parte din apă și lasă la odihnă 30-60 de minute, ca grișul grosier să se hidrateze complet înainte de a începe frământarea."
       }
     },
     {
       "title": {
-        "en": "Add the starter"
+        "en": "Add the starter",
+        "de": "Vorteig zugeben",
+        "es": "Añadir el fermento",
+        "fr": "Ajouter le levain",
+        "ro": "Adaugă maiaua"
       },
       "summary": {
-        "en": "Work the active lievito madre into the rested dough until evenly combined."
+        "en": "Work the active lievito madre into the rested dough until evenly combined.",
+        "de": "Den aktiven lievito madre in den ausgeruhten Teig einarbeiten, bis alles gleichmäßig verbunden ist.",
+        "es": "Incorporar el lievito madre activo a la masa reposada hasta que quede uniformemente integrado.",
+        "fr": "Incorporer le lievito madre actif à la pâte reposée jusqu'à ce que le tout soit bien homogène.",
+        "ro": "Încorporează lievito madre activ în aluatul odihnit până se combină uniform."
       }
     },
     {
       "title": {
-        "en": "Knead and salt"
+        "en": "Knead and salt",
+        "de": "Kneten und salzen",
+        "es": "Amasar y salar",
+        "fr": "Pétrir et saler",
+        "ro": "Frământă și sărează"
       },
       "summary": {
-        "en": "Add the remaining water and salt (and the olive oil, if using) and knead 10-15 minutes to a smooth, extensible dough."
+        "en": "Add the remaining water and salt (and the olive oil, if using) and knead 10-15 minutes to a smooth, extensible dough.",
+        "de": "Das restliche Wasser und Salz (sowie Olivenöl, falls verwendet) zugeben und 10-15 Minuten zu einem glatten, dehnbaren Teig kneten.",
+        "es": "Añadir el agua y la sal restantes (y el aceite de oliva, si se usa) y amasar 10-15 minutos hasta obtener una masa lisa y extensible.",
+        "fr": "Ajouter le reste de l'eau et le sel (et l'huile d'olive, le cas échéant) et pétrir 10-15 minutes pour obtenir une pâte lisse et extensible.",
+        "ro": "Adaugă restul de apă și sarea (și uleiul de măsline, dacă folosești) și frământă 10-15 minute până obții un aluat neted și extensibil."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment 5-6 hours at room temperature, giving the dough two folds along the way to build strength."
+        "en": "Ferment 5-6 hours at room temperature, giving the dough two folds along the way to build strength.",
+        "de": "5-6 Stunden bei Raumtemperatur fermentieren, dabei den Teig zweimal falten, um Kraft aufzubauen.",
+        "es": "Fermentar 5-6 horas a temperatura ambiente, dando dos pliegues a la masa por el camino para desarrollar fuerza.",
+        "fr": "Faire pointer 5-6 heures à température ambiante, en donnant deux rabats à la pâte en cours de route pour développer sa force.",
+        "ro": "Lasă la fermentat 5-6 ore la temperatura camerei, dând aluatului două plieri pe parcurs pentru a-i construi forța."
       }
     },
     {
       "title": {
-        "en": "Shape and proof"
+        "en": "Shape and proof",
+        "de": "Formen und Gare",
+        "es": "Formar y fermentar",
+        "fr": "Façonner et pousser",
+        "ro": "Modelează și dospește"
       },
       "summary": {
-        "en": "Shape into a round or oval loaf and proof 1-2 hours until it's grown by about half."
+        "en": "Shape into a round or oval loaf and proof 1-2 hours until it's grown by about half.",
+        "de": "Zu einem runden oder ovalen Laib formen und 1-2 Stunden gehen lassen, bis er um etwa die Hälfte gewachsen ist.",
+        "es": "Formar una hogaza redonda u ovalada y dejar fermentar 1-2 horas hasta que haya crecido aproximadamente la mitad.",
+        "fr": "Façonner en pain rond ou ovale et laisser pousser 1-2 heures jusqu'à ce qu'il ait grossi d'environ moitié.",
+        "ro": "Modelează o pâine rotundă sau ovală și lasă la dospit 1-2 ore, până crește cu aproximativ jumătate."
       }
     },
     {
       "title": {
-        "en": "Score and bake"
+        "en": "Score and bake",
+        "de": "Einschneiden und backen",
+        "es": "Marcar y hornear",
+        "fr": "Inciser et cuire",
+        "ro": "Crestează și coace"
       },
       "summary": {
-        "en": "Score deeply and bake with steam at 220°C for 45-50 minutes until the crust is thick and deeply colored."
+        "en": "Score deeply and bake with steam at 220°C for 45-50 minutes until the crust is thick and deeply colored.",
+        "de": "Tief einschneiden und mit Dampf bei 220°C 45-50 Minuten backen, bis die Kruste dick und tief gefärbt ist.",
+        "es": "Marcar profundamente y hornear con vapor a 220°C durante 45-50 minutos hasta que la corteza esté gruesa y bien coloreada.",
+        "fr": "Inciser profondément et cuire avec de la buée à 220°C pendant 45-50 minutes jusqu'à une croûte épaisse et bien colorée.",
+        "ro": "Crestează adânc și coace cu abur la 220°C timp de 45-50 de minute, până coaja devine groasă și intens colorată."
       }
     }
   ],

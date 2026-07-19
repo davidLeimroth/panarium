@@ -148,66 +148,130 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Délayer la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast in warm water."
+        "en": "Dissolve the yeast in warm water.",
+        "de": "Die Hefe in warmem Wasser auflösen.",
+        "es": "Disolver la levadura en agua tibia.",
+        "fr": "Dissoudre la levure dans l'eau tiède.",
+        "ro": "Dizolvă drojdia în apă călduță."
       }
     },
     {
       "title": {
-        "en": "Warm the liquids"
+        "en": "Warm the liquids",
+        "de": "Flüssigkeiten erwärmen",
+        "es": "Calentar los líquidos",
+        "fr": "Chauffer les liquides",
+        "ro": "Încălzește lichidele"
       },
       "summary": {
-        "en": "Heat butter with milk until melted, then stir in apple juice, molasses, salt and sugar."
+        "en": "Heat butter with milk until melted, then stir in apple juice, molasses, salt and sugar.",
+        "de": "Butter mit der Milch erwärmen, bis sie geschmolzen ist, dann Apfelsaft, Melasse, Salz und Zucker einrühren.",
+        "es": "Calentar la mantequilla con la leche hasta que se derrita, luego añadir el zumo de manzana, la melaza, la sal y el azúcar.",
+        "fr": "Chauffer le beurre avec le lait jusqu'à ce qu'il fonde, puis incorporer le jus de pomme, la mélasse, le sel et le sucre.",
+        "ro": "Încălzește untul cu laptele până se topește, apoi adaugă sucul de mere, melasa, sarea și zahărul."
       }
     },
     {
       "title": {
-        "en": "Combine"
+        "en": "Combine",
+        "de": "Vermengen",
+        "es": "Combinar",
+        "fr": "Combiner",
+        "ro": "Combină"
       },
       "summary": {
-        "en": "Mix the yeast mixture into the warm liquids, then work in the drained spent grain and whole wheat flour."
+        "en": "Mix the yeast mixture into the warm liquids, then work in the drained spent grain and whole wheat flour.",
+        "de": "Die Hefemischung in die warmen Flüssigkeiten einrühren, dann den abgetropften Biertreber und das Vollkornmehl einarbeiten.",
+        "es": "Mezclar la levadura activada con los líquidos tibios, luego incorporar el bagazo de cerveza escurrido y la harina integral.",
+        "fr": "Mélanger la levure activée aux liquides tièdes, puis incorporer la drêche de brasserie égouttée et la farine complète.",
+        "ro": "Amestecă drojdia activată cu lichidele calde, apoi încorporează borhotul de bere scurs și făina integrală."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Gradually knead in the white flour until the dough is smooth and workable."
+        "en": "Gradually knead in the white flour until the dough is smooth and workable.",
+        "de": "Nach und nach das Weizenmehl einkneten, bis der Teig glatt und geschmeidig ist.",
+        "es": "Incorporar poco a poco la harina blanca hasta que la masa esté lisa y manejable.",
+        "fr": "Incorporer peu à peu la farine blanche jusqu'à ce que la pâte soit lisse et maniable.",
+        "ro": "Încorporează treptat făina albă până aluatul devine neted și ușor de lucrat."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let rise, covered, until doubled."
+        "en": "Let rise, covered, until doubled.",
+        "de": "Abgedeckt gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Dejar fermentar, tapada, hasta que doble.",
+        "fr": "Laisser lever, couverte, jusqu'au double.",
+        "ro": "Lasă la crescut, acoperit, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Deflate, divide in two, and shape into free-standing loaves on a cornmeal-dusted, parchment-lined sheet pan."
+        "en": "Deflate, divide in two, and shape into free-standing loaves on a cornmeal-dusted, parchment-lined sheet pan.",
+        "de": "Entgasen, halbieren und zu freistehenden Laiben formen, auf einem mit Maismehl bestäubten, mit Backpapier ausgelegten Blech.",
+        "es": "Desgasificar, dividir en dos y formar panes de miga libre sobre una bandeja forrada con papel de horno y espolvoreada con harina de maíz.",
+        "fr": "Dégazer, diviser en deux et façonner en pains sur plaque, posés sur une plaque garnie de papier cuisson et saupoudrée de farine de maïs.",
+        "ro": "Elimină gazele, împarte în două și modelează pâini libere pe o tavă căptușită cu hârtie de copt și presărată cu mălai."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Second apprêt",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Brush with egg wash, scatter a little spent grain on top, and let rise again."
+        "en": "Brush with egg wash, scatter a little spent grain on top, and let rise again.",
+        "de": "Mit Eistreiche bestreichen, etwas Biertreber darüberstreuen und erneut gehen lassen.",
+        "es": "Pintar con huevo batido, esparcir un poco de bagazo de cerveza por encima y dejar fermentar de nuevo.",
+        "fr": "Dorer à l'œuf, parsemer d'un peu de drêche de brasserie et laisser lever à nouveau.",
+        "ro": "Unge cu ou bătut, presară puțin borhot de bere deasupra și lasă din nou la crescut."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at about 165°C for approximately 45 minutes until deep golden and hollow-sounding."
+        "en": "Bake at about 165°C for approximately 45 minutes until deep golden and hollow-sounding.",
+        "de": "Bei etwa 165°C rund 45 Minuten backen, bis er tief goldbraun ist und hohl klingt.",
+        "es": "Hornear a unos 165°C durante aproximadamente 45 minutos, hasta que esté muy dorado y suene hueco.",
+        "fr": "Cuire à environ 165°C pendant approximativement 45 minutes, jusqu'à coloration bien dorée et un son creux.",
+        "ro": "Coace la aproximativ 165°C timp de circa 45 de minute, până devine auriu-închis și sună a gol."
       }
     }
   ],

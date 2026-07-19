@@ -133,50 +133,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the wheat, millet, corn and cowpea flours in a mixer bowl, then add salt, yeast and water; knead until smooth and elastic."
+        "en": "Combine the wheat, millet, corn and cowpea flours in a mixer bowl, then add salt, yeast and water; knead until smooth and elastic.",
+        "de": "Weizen-, Hirse-, Mais- und Kuhbohnenmehl in der Rührschüssel vermengen, dann Salz, Hefe und Wasser zugeben; glatt und elastisch kneten.",
+        "es": "Combinar las harinas de trigo, mijo, maíz y caupí en el bol de la amasadora, luego añadir la sal, la levadura y el agua; amasar hasta que quede lisa y elástica.",
+        "fr": "Combiner les farines de blé, mil, maïs et niébé dans le bol du batteur, puis ajouter le sel, la levure et l'eau ; pétrir jusqu'à obtenir une pâte lisse et élastique.",
+        "ro": "Combină în vasul mixerului făina de grâu, mei, porumb și fasole cu ochi negru, apoi adaugă sarea, drojdia și apa; frământă până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Place in a greased bowl, cover, and let rise in a warm spot until doubled, about 1 hour."
+        "en": "Place in a greased bowl, cover, and let rise in a warm spot until doubled, about 1 hour.",
+        "de": "In eine gefettete Schüssel geben, abdecken und an einem warmen Ort gehen lassen, bis er sich verdoppelt hat, etwa 1 Stunde.",
+        "es": "Colocar en un bol engrasado, tapar y dejar fermentar en un lugar cálido hasta que doble, aproximadamente 1 hora.",
+        "fr": "Placer dans un saladier graissé, couvrir et laisser lever dans un endroit chaud jusqu'au double, environ 1 heure.",
+        "ro": "Așază într-un bol uns cu ulei, acoperă și lasă la crescut într-un loc călduț până se dublează, aproximativ 1 oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Cut the dough into 3 pieces and shape each into a baguette-style loaf."
+        "en": "Cut the dough into 3 pieces and shape each into a baguette-style loaf.",
+        "de": "Den Teig in 3 Stücke schneiden und jedes zu einem baguetteartigen Laib formen.",
+        "es": "Cortar la masa en 3 piezas y formar con cada una un pan estilo baguette.",
+        "fr": "Couper la pâte en 3 pâtons et façonner chacun en pain façon baguette.",
+        "ro": "Taie aluatul în 3 bucăți și modelează fiecare într-o pâine în stil baghetă."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Second apprêt",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Place on a baking sheet, optionally dusted with cornmeal, cover, and let rise 30 minutes."
+        "en": "Place on a baking sheet, optionally dusted with cornmeal, cover, and let rise 30 minutes.",
+        "de": "Auf ein Backblech legen, wahlweise mit Maismehl bestäubt, abdecken und 30 Minuten gehen lassen.",
+        "es": "Colocar en una bandeja de horno, opcionalmente espolvoreada con harina de maíz, tapar y dejar fermentar 30 minutos.",
+        "fr": "Déposer sur une plaque de cuisson, éventuellement saupoudrée de farine de maïs, couvrir et laisser lever 30 minutes.",
+        "ro": "Așază pe o tavă de copt, presărată opțional cu mălai, acoperă și lasă la crescut 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Score"
+        "en": "Score",
+        "de": "Einschneiden",
+        "es": "Greñar",
+        "fr": "Lamer",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Cut one long, shallow slash along the top of each loaf."
+        "en": "Cut one long, shallow slash along the top of each loaf.",
+        "de": "Einen langen, flachen Schnitt entlang der Oberseite jedes Laibs setzen.",
+        "es": "Hacer un corte largo y poco profundo a lo largo de la parte superior de cada pan.",
+        "fr": "Faire une entaille longue et peu profonde le long du dessus de chaque pain.",
+        "ro": "Fă o crestătură lungă și puțin adâncă de-a lungul fiecărei pâini."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a hot oven until golden brown, about 15 minutes."
+        "en": "Bake in a hot oven until golden brown, about 15 minutes.",
+        "de": "In einem heißen Ofen backen, bis er goldbraun ist, etwa 15 Minuten.",
+        "es": "Hornear en un horno caliente hasta que esté dorado, unos 15 minutos.",
+        "fr": "Cuire dans un four chaud jusqu'à coloration dorée, environ 15 minutes.",
+        "ro": "Coace într-un cuptor fierbinte până devine auriu, aproximativ 15 minute."
       }
     }
   ],

@@ -112,66 +112,130 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Mix starter with whole wheat and bread flour and water; ripen about 3 hours."
+        "en": "Mix starter with whole wheat and bread flour and water; ripen about 3 hours.",
+        "de": "Anstellgut mit Vollkornmehl, Weizenmehl und Wasser mischen; etwa 3 Stunden reifen lassen.",
+        "es": "Mezclar la masa madre con harina integral, harina de fuerza y agua; dejar madurar unas 3 horas.",
+        "fr": "Mélanger le chef avec la farine complète, la farine de force et l'eau; laisser mûrir environ 3 heures.",
+        "ro": "Amestecă maiaua cu făină integrală, făină de pâine și apă; las-o la maturat aproximativ 3 ore."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Combine the whole wheat and two bread flours with most of the water; rest 2 hours."
+        "en": "Combine the whole wheat and two bread flours with most of the water; rest 2 hours.",
+        "de": "Das Vollkornmehl und die beiden Weizenmehle mit dem Großteil des Wassers vermischen; 2 Stunden ruhen lassen.",
+        "es": "Combinar la harina integral y las dos harinas de fuerza con la mayor parte del agua; dejar reposar 2 horas.",
+        "fr": "Mélanger la farine complète et les deux farines de force avec la majeure partie de l'eau; laisser reposer 2 heures.",
+        "ro": "Combină făina integrală și cele două făinuri de pâine cu cea mai mare parte din apă; lasă la odihnă 2 ore."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Work in the ripe levain, salt and the reserved water."
+        "en": "Work in the ripe levain, salt and the reserved water.",
+        "de": "Den reifen Levain, das Salz und das zurückbehaltene Wasser einarbeiten.",
+        "es": "Incorporar el levain maduro, la sal y el agua reservada.",
+        "fr": "Incorporer le levain mûr, le sel et l'eau réservée.",
+        "ro": "Încorporează levain-ul matur, sarea și apa rezervată."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentare în masă"
       },
       "summary": {
-        "en": "Ferment about 3.5 hours with five stretch-and-fold sets."
+        "en": "Ferment about 3.5 hours with five stretch-and-fold sets.",
+        "de": "Etwa 3.5 Stunden gären lassen, mit fünf Serien Dehnen und Falten.",
+        "es": "Fermentar unas 3.5 horas con cinco series de pliegues (estirar y doblar).",
+        "fr": "Laisser pointer environ 3.5 heures avec cinq séries de rabats.",
+        "ro": "Fermentează aproximativ 3.5 ore cu cinci serii de întindere și pliere."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Preshape, rest 20 minutes, then shape into a boule."
+        "en": "Preshape, rest 20 minutes, then shape into a boule.",
+        "de": "Vorformen, 20 Minuten ruhen lassen, dann zu einem runden Laib formen.",
+        "es": "Preformar, dejar reposar 20 minutos y luego dar forma de bola.",
+        "fr": "Préfaçonner, laisser reposer 20 minutes, puis façonner en boule.",
+        "ro": "Preformează, lasă la odihnă 20 de minute, apoi modelează într-o formă rotundă."
       }
     },
     {
       "title": {
-        "en": "Cold proof"
+        "en": "Cold proof",
+        "de": "Kalte Gare",
+        "es": "Fermentación en frío",
+        "fr": "Pousse au froid",
+        "ro": "Dospire la rece"
       },
       "summary": {
-        "en": "Refrigerate overnight, about 13-14 hours."
+        "en": "Refrigerate overnight, about 13-14 hours.",
+        "de": "Über Nacht kühl stellen, etwa 13-14 Stunden.",
+        "es": "Refrigerar durante toda la noche, unas 13-14 horas.",
+        "fr": "Réfrigérer toute la nuit, environ 13-14 heures.",
+        "ro": "Ține la frigider peste noapte, aproximativ 13-14 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake on a preheated baking steel at 230°C: 20 minutes with steam, then about 30 minutes uncovered until the internal temperature reaches 96-98°C."
+        "en": "Bake on a preheated baking steel at 230°C: 20 minutes with steam, then about 30 minutes uncovered until the internal temperature reaches 96-98°C.",
+        "de": "Auf einem vorgeheizten Backstahl bei 230°C backen: 20 Minuten mit Schwaden, dann etwa 30 Minuten offen, bis die Kerntemperatur 96-98°C erreicht.",
+        "es": "Hornear sobre un acero de hornear precalentado a 230°C: 20 minutos con vapor, luego unos 30 minutos destapada, hasta que la temperatura interna alcance 96-98°C.",
+        "fr": "Cuire sur un acier de cuisson préchauffé à 230°C : 20 minutes avec buée, puis environ 30 minutes découverte, jusqu'à ce que la température à cœur atteigne 96-98°C.",
+        "ro": "Coace pe o placă de oțel preîncălzită la 230°C: 20 de minute cu abur, apoi aproximativ 30 de minute neacoperit, până când temperatura interioară ajunge la 96-98°C."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Rest at least 2 hours before slicing."
+        "en": "Rest at least 2 hours before slicing.",
+        "de": "Mindestens 2 Stunden ruhen lassen, bevor es angeschnitten wird.",
+        "es": "Dejar reposar al menos 2 horas antes de cortar.",
+        "fr": "Laisser reposer au moins 2 heures avant de trancher.",
+        "ro": "Lasă la odihnit cel puțin 2 ore înainte de a felia."
       }
     }
   ],

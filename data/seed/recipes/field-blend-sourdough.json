@@ -126,58 +126,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "The day before, mix a portion of mature starter with flour and water; let it ripen at room temperature."
+        "en": "The day before, mix a portion of mature starter with flour and water; let it ripen at room temperature.",
+        "de": "Am Vortag eine Portion reifes Anstellgut mit Mehl und Wasser mischen und bei Raumtemperatur reifen lassen.",
+        "es": "El día anterior, mezclar una porción de masa madre madura con harina y agua; dejar que madure a temperatura ambiente.",
+        "fr": "La veille, mélanger une portion de chef mûr avec de la farine et de l'eau; laisser mûrir à température ambiante.",
+        "ro": "Cu o zi înainte, amestecă o parte din maiaua matură cu făină și apă; lasă-o să se coacă la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the white, whole wheat and whole rye flours with water, the ripe levain, salt and a small amount of instant yeast into a shaggy dough."
+        "en": "Combine the white, whole wheat and whole rye flours with water, the ripe levain, salt and a small amount of instant yeast into a shaggy dough.",
+        "de": "Weizenmehl, Vollkorn-Weizenmehl und Vollkorn-Roggenmehl mit Wasser, dem reifen Levain, Salz und wenig Instanthefe zu einem groben Teig vermischen.",
+        "es": "Combinar la harina blanca, la integral de trigo y la integral de centeno con agua, el levain maduro, sal y un poco de levadura instantánea hasta formar una masa basta.",
+        "fr": "Mélanger les farines blanche, complète de blé et complète de seigle avec l'eau, le levain mûr, le sel et un peu de levure instantanée, jusqu'à obtenir une pâte grossière.",
+        "ro": "Combină făina albă, cea integrală de grâu și cea integrală de secară cu apă, levain-ul matur, sarea și puțină drojdie instant, până obții un aluat grosier."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentare în masă"
       },
       "summary": {
-        "en": "Ferment about 5 hours at room temperature with a few folds, until the dough has roughly doubled."
+        "en": "Ferment about 5 hours at room temperature with a few folds, until the dough has roughly doubled.",
+        "de": "Etwa 5 Stunden bei Raumtemperatur mit ein paar Dehnfalten gären lassen, bis sich der Teig etwa verdoppelt hat.",
+        "es": "Fermentar unas 5 horas a temperatura ambiente con algunos pliegues, hasta que la masa haya doblado su volumen aproximadamente.",
+        "fr": "Laisser pointer environ 5 heures à température ambiante avec quelques rabats, jusqu'à ce que la pâte ait à peu près doublé.",
+        "ro": "Lasă la fermentat aproximativ 5 ore la temperatura camerei, cu câteva plieri, până când aluatul își dublează aproximativ volumul."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide, shape into boules, and place seam-side up in floured bannetons."
+        "en": "Divide, shape into boules, and place seam-side up in floured bannetons.",
+        "de": "Teilen, zu runden Laiben formen und mit der Schlussnaht nach oben in bemehlte Bannetons legen.",
+        "es": "Dividir la masa, darle forma de bola y colocarla con el cierre hacia arriba en bannetons enharinados.",
+        "fr": "Diviser, façonner en boules et placer clé dessus dans des bannetons farinés.",
+        "ro": "Împarte aluatul, modelează-l în forme rotunde și așază-l cu cusătura în sus în bannetons bine făinuite."
       }
     },
     {
       "title": {
-        "en": "Cold retard"
+        "en": "Cold retard",
+        "de": "Kalte Gare",
+        "es": "Fermentación en frío",
+        "fr": "Pousse au froid",
+        "ro": "Dospire la rece"
       },
       "summary": {
-        "en": "Refrigerate overnight, about 12 hours, for fuller flavor."
+        "en": "Refrigerate overnight, about 12 hours, for fuller flavor.",
+        "de": "Über Nacht kühl stellen, etwa 12 Stunden, für volleren Geschmack.",
+        "es": "Refrigerar durante toda la noche, unas 12 horas, para un sabor más completo.",
+        "fr": "Réfrigérer toute la nuit, environ 12 heures, pour une saveur plus développée.",
+        "ro": "Ține la frigider peste noapte, aproximativ 12 ore, pentru o aromă mai bogată."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a preheated cast-iron combo cooker at a high heat (about 246°C): roughly 30 minutes covered, then 20 minutes uncovered until dark brown."
+        "en": "Bake in a preheated cast-iron combo cooker at a high heat (about 246°C): roughly 30 minutes covered, then 20 minutes uncovered until dark brown.",
+        "de": "In einem vorgeheizten gusseisernen Kombi-Bräter bei hoher Hitze backen (etwa 246°C): rund 30 Minuten zugedeckt, dann 20 Minuten offen, bis dunkelbraun.",
+        "es": "Hornear en una cocotte de hierro fundido precalentada a fuego fuerte (unos 246°C): unos 30 minutos tapada y luego 20 minutos destapada, hasta que quede muy dorada.",
+        "fr": "Cuire dans une cocotte en fonte préchauffée à haute température (environ 246°C) : environ 30 minutes couverte, puis 20 minutes découverte, jusqu'à coloration bien foncée.",
+        "ro": "Coace într-o oală de fontă preîncălzită, la foc puternic (aproximativ 246°C): circa 30 de minute acoperit, apoi 20 de minute neacoperit, până se rumenește bine."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Rest at least an hour before slicing."
+        "en": "Rest at least an hour before slicing.",
+        "de": "Mindestens eine Stunde ruhen lassen, bevor es angeschnitten wird.",
+        "es": "Dejar reposar al menos una hora antes de cortar.",
+        "fr": "Laisser reposer au moins une heure avant de trancher.",
+        "ro": "Lasă la odihnit cel puțin o oră înainte de a felia."
       }
     }
   ],

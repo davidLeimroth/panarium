@@ -134,58 +134,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anschwemmen",
+        "es": "Activar la levadura",
+        "fr": "Faire mousser la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Warm the milk, stir in butter and half the sugar, then add yeast and rest 20 minutes."
+        "en": "Warm the milk, stir in butter and half the sugar, then add yeast and rest 20 minutes.",
+        "de": "Die Milch erwärmen, Butter und die Hälfte des Zuckers einrühren, dann die Hefe zugeben und 20 Minuten ruhen lassen.",
+        "es": "Calentar la leche, incorporar la mantequilla y la mitad del azúcar, luego añadir la levadura y dejar reposar 20 minutos.",
+        "fr": "Réchauffer le lait, incorporer le beurre et la moitié du sucre, puis ajouter la levure et laisser reposer 20 minutes.",
+        "ro": "Încălzește laptele, încorporează untul și jumătate din zahăr, apoi adaugă drojdia și lasă la odihnă 20 de minute."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour and remaining sugar, then work in the yeast mixture and lightly beaten egg whites."
+        "en": "Combine flour and remaining sugar, then work in the yeast mixture and lightly beaten egg whites.",
+        "de": "Mehl und restlichen Zucker verbinden, dann die Hefemischung und leicht geschlagenes Eiweiß einarbeiten.",
+        "es": "Combinar la harina y el azúcar restante, luego incorporar la mezcla de levadura y las claras ligeramente batidas.",
+        "fr": "Combiner la farine et le reste du sucre, puis incorporer le mélange de levure et les blancs d'œufs légèrement battus.",
+        "ro": "Combină făina și zahărul rămas, apoi încorporează amestecul de drojdie și albușurile bătute ușor."
       }
     },
     {
       "title": {
-        "en": "Knead and rise"
+        "en": "Knead and rise",
+        "de": "Kneten und gehen lassen",
+        "es": "Amasar y fermentar",
+        "fr": "Pétrir et pousser",
+        "ro": "Frământă și lasă la crescut"
       },
       "summary": {
-        "en": "Knead with salt to a smooth, soft dough, then cover and let double, about 1 hour."
+        "en": "Knead with salt to a smooth, soft dough, then cover and let double, about 1 hour.",
+        "de": "Mit Salz zu einem glatten, weichen Teig kneten, dann zugedeckt verdoppeln lassen, etwa 1 Stunde.",
+        "es": "Amasar con sal hasta obtener una masa lisa y blanda, luego tapar y dejar duplicar, aproximadamente 1 hora.",
+        "fr": "Pétrir avec le sel jusqu'à une pâte lisse et souple, puis couvrir et laisser doubler, environ 1 heure.",
+        "ro": "Frământă cu sare până obții un aluat neted și moale, apoi acoperă și lasă să se dubleze, aproximativ 1 oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide and roll into rings; rest 20 minutes."
+        "en": "Divide and roll into rings; rest 20 minutes.",
+        "de": "Teilen und zu Ringen rollen; 20 Minuten ruhen lassen.",
+        "es": "Dividir y formar anillos; dejar reposar 20 minutos.",
+        "fr": "Diviser et rouler en anneaux; laisser reposer 20 minutes.",
+        "ro": "Împarte și rulează în inele; lasă la odihnă 20 de minute."
       }
     },
     {
       "title": {
-        "en": "Boil"
+        "en": "Boil",
+        "de": "Blanchieren",
+        "es": "Escaldar",
+        "fr": "Pocher",
+        "ro": "Oparește"
       },
       "summary": {
-        "en": "Dip each ring in barely simmering water for 15-20 seconds."
+        "en": "Dip each ring in barely simmering water for 15-20 seconds.",
+        "de": "Jeden Ring 15-20 Sekunden in knapp siedendes Wasser tauchen.",
+        "es": "Sumergir cada anillo en agua apenas hirviendo durante 15-20 segundos.",
+        "fr": "Plonger chaque anneau dans une eau à peine frémissante pendant 15-20 secondes.",
+        "ro": "Scufundă fiecare inel în apă abia clocotită timp de 15-20 de secunde."
       }
     },
     {
       "title": {
-        "en": "Glaze and top"
+        "en": "Glaze and top",
+        "de": "Glasieren und bestreuen",
+        "es": "Glasear y decorar",
+        "fr": "Glacer et décorer",
+        "ro": "Glazurează și decorează"
       },
       "summary": {
-        "en": "Brush with beaten egg yolk mixed with milk, then coat generously with poppy or sesame seeds."
+        "en": "Brush with beaten egg yolk mixed with milk, then coat generously with poppy or sesame seeds.",
+        "de": "Mit verquirltem Eigelb, das mit Milch verrührt wurde, bestreichen, dann großzügig mit Mohn oder Sesam bestreuen.",
+        "es": "Pintar con yema de huevo batida mezclada con leche, luego cubrir generosamente con semillas de amapola o sésamo.",
+        "fr": "Badigeonner de jaune d'œuf battu mélangé à du lait, puis couvrir généreusement de graines de pavot ou de sésame.",
+        "ro": "Unge cu gălbenuș bătut amestecat cu lapte, apoi acoperă generos cu semințe de mac sau susan."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until glossy and golden brown, 15-20 minutes."
+        "en": "Bake until glossy and golden brown, 15-20 minutes.",
+        "de": "Backen, bis glänzend goldbraun, 15-20 Minuten.",
+        "es": "Hornear hasta que estén brillantes y dorados, 15-20 minutos.",
+        "fr": "Cuire jusqu'à une couleur dorée brillante, 15-20 minutes.",
+        "ro": "Coace până devin lucioase și auriu-rumenite, 15-20 de minute."
       }
     }
   ],

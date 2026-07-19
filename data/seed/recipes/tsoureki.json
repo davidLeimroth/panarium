@@ -163,58 +163,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast in lukewarm water and let it foam, while the milk warms slightly and the butter comes to room temperature."
+        "en": "Dissolve the yeast in lukewarm water and let it foam, while the milk warms slightly and the butter comes to room temperature.",
+        "de": "Die Hefe in lauwarmem Wasser auflösen und aufschäumen lassen, während die Milch leicht erwärmt wird und die Butter Raumtemperatur annimmt.",
+        "es": "Disolver la levadura en agua tibia y dejar que espume, mientras la leche se calienta ligeramente y la mantequilla llega a temperatura ambiente.",
+        "fr": "Dissoudre la levure dans l'eau tiède et laisser mousser, pendant que le lait tiédit légèrement et que le beurre revient à température ambiante.",
+        "ro": "Dizolvă drojdia în apă călduță și lasă să facă spumă, în timp ce laptele se încălzește ușor și untul ajunge la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Build the dough"
+        "en": "Build the dough",
+        "de": "Teig herstellen",
+        "es": "Preparar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Prepară aluatul"
       },
       "summary": {
-        "en": "Mix the flour with the ground mahlab and mastic, then work in the sugar, eggs, milk, butter, orange zest and bloomed yeast. Knead into a soft, very elastic dough, no salt goes in, so the yeast can push the rise along unhindered."
+        "en": "Mix the flour with the ground mahlab and mastic, then work in the sugar, eggs, milk, butter, orange zest and bloomed yeast. Knead into a soft, very elastic dough, no salt goes in, so the yeast can push the rise along unhindered.",
+        "de": "Das Mehl mit dem gemahlenen Mahlab und Mastix vermengen, dann Zucker, Eier, Milch, Butter, Orangenschale und die aufgelöste Hefe einarbeiten. Zu einem weichen, sehr elastischen Teig kneten, es kommt kein Salz hinein, damit die Hefe den Trieb ungehindert vorantreiben kann.",
+        "es": "Mezclar la harina con el mahlab y el mástique molidos, luego incorporar el azúcar, los huevos, la leche, la mantequilla, la ralladura de naranja y la levadura activada. Amasar hasta obtener una masa blanda y muy elástica, no lleva sal, para que la levadura impulse la fermentación sin obstáculos.",
+        "fr": "Mélanger la farine avec le mahlab et le mastic moulus, puis incorporer le sucre, les œufs, le lait, le beurre, le zeste d'orange et la levure activée. Pétrir en une pâte souple et très élastique, sans sel, pour que la levure pousse la fermentation sans entrave.",
+        "ro": "Amestecă făina cu mahlab-ul și mastica măcinate, apoi încorporează zahărul, ouăle, laptele, untul, coaja de portocală și drojdia activată. Frământă până obții un aluat moale, foarte elastic; nu se pune sare, ca drojdia să poată crește nestingherită."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let the dough roughly triple somewhere warm; the sugar and fat slow the yeast, so this stretches to several hours."
+        "en": "Let the dough roughly triple somewhere warm; the sugar and fat slow the yeast, so this stretches to several hours.",
+        "de": "Den Teig an einem warmen Ort etwa verdreifachen lassen; Zucker und Fett bremsen die Hefe, sodass sich das über mehrere Stunden hinzieht.",
+        "es": "Dejar que la masa casi triplique su volumen en un lugar cálido; el azúcar y la grasa frenan la levadura, así que esto se extiende varias horas.",
+        "fr": "Laisser la pâte quasiment tripler dans un endroit chaud ; le sucre et la matière grasse ralentissent la levure, ce qui étire cela sur plusieurs heures.",
+        "ro": "Lasă aluatul să se tripleze aproximativ, într-un loc călduț; zahărul și grăsimea încetinesc drojdia, așa că asta se întinde pe mai multe ore."
       }
     },
     {
       "title": {
-        "en": "Stretch and braid"
+        "en": "Stretch and braid",
+        "de": "Ausziehen und flechten",
+        "es": "Estirar y trenzar",
+        "fr": "Étirer et tresser",
+        "ro": "Întinde și împletește"
       },
       "summary": {
-        "en": "Divide the risen dough into strands and pull each one out lengthwise before braiding, the stretching aligns the gluten and produces tsoureki's signature pull-apart threads."
+        "en": "Divide the risen dough into strands and pull each one out lengthwise before braiding, the stretching aligns the gluten and produces tsoureki's signature pull-apart threads.",
+        "de": "Den aufgegangenen Teig in Stränge teilen und jeden vor dem Flechten der Länge nach ausziehen; das Ausziehen richtet den Kleber aus und erzeugt die charakteristischen, zupfbaren Fäden des Tsoureki.",
+        "es": "Dividir la masa fermentada en tiras y estirar cada una a lo largo antes de trenzar; el estirado alinea el gluten y produce los característicos hilos deshilachables del tsoureki.",
+        "fr": "Diviser la pâte levée en bandes et étirer chacune en longueur avant de tresser ; l'étirage aligne le gluten et produit les fameux fils effilochables du tsoureki.",
+        "ro": "Împarte aluatul crescut în fâșii și întinde fiecare pe lungime înainte de a împleti; întinderea aliniază glutenul și produce firele caracteristice, ușor de destrămat, ale tsoureki-ului."
       }
     },
     {
       "title": {
-        "en": "Second proof"
+        "en": "Second proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let the braided loaves rise again, snug rather than loose, until visibly puffy, tucking a red-dyed hard-boiled egg into a gap for the Easter version."
+        "en": "Let the braided loaves rise again, snug rather than loose, until visibly puffy, tucking a red-dyed hard-boiled egg into a gap for the Easter version.",
+        "de": "Die geflochtenen Brote erneut gehen lassen, eher straff als locker eingepackt, bis sie sichtbar aufgepolstert sind; für die Osterversion ein rot gefärbtes, hartgekochtes Ei in eine Lücke stecken.",
+        "es": "Dejar que las trenzas fermenten de nuevo, cubiertas de forma ajustada más que holgada, hasta que se vean bien hinchadas; para la versión de Pascua, meter un huevo duro teñido de rojo en un hueco.",
+        "fr": "Laisser les pains tressés pousser à nouveau, plutôt bien couverts que lâchement, jusqu'à ce qu'ils soient visiblement gonflés ; pour la version de Pâques, glisser un œuf dur teint en rouge dans un interstice.",
+        "ro": "Lasă împletiturile să crească din nou, acoperite mai degrabă strâns decât larg, până devin vizibil pufoase; pentru varianta de Paște, îndeasă un ou fiert tare, vopsit roșu, într-un gol."
       }
     },
     {
       "title": {
-        "en": "Egg wash and bake"
+        "en": "Egg wash and bake",
+        "de": "Mit Ei bestreichen und backen",
+        "es": "Pincelar con huevo y hornear",
+        "fr": "Dorer et cuire",
+        "ro": "Unge cu ou și coace"
       },
       "summary": {
-        "en": "Brush with beaten egg, scatter with almond slivers, and bake at a gentle temperature until deep gold and fully cooked through."
+        "en": "Brush with beaten egg, scatter with almond slivers, and bake at a gentle temperature until deep gold and fully cooked through.",
+        "de": "Mit verquirltem Ei bestreichen, mit Mandelsplittern bestreuen und bei sanfter Temperatur backen, bis es tief golden und vollständig durchgebacken ist.",
+        "es": "Pincelar con huevo batido, esparcir láminas de almendra por encima y hornear a temperatura suave hasta que esté bien dorado y completamente cocido.",
+        "fr": "Badigeonner d'œuf battu, parsemer d'amandes effilées, et cuire à température douce jusqu'à belle couleur dorée et cuisson complète.",
+        "ro": "Unge cu ou bătut, presară fulgi de migdale deasupra și coace la temperatură blândă până devine auriu-închis și complet copt."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool on a rack before slicing; the crumb keeps pulling into strands for days afterward, which is half the point."
+        "en": "Cool on a rack before slicing; the crumb keeps pulling into strands for days afterward, which is half the point.",
+        "de": "Vor dem Anschneiden auf einem Gitter auskühlen lassen; die Krume lässt sich noch tagelang in Fäden zupfen, was einen Großteil des Reizes ausmacht.",
+        "es": "Dejar enfriar sobre una rejilla antes de cortar; la miga sigue deshilachándose en tiras durante días después, lo cual es parte de la gracia.",
+        "fr": "Laisser refroidir sur une grille avant de trancher ; la mie continue de s'effilocher en fils pendant des jours, ce qui fait une bonne partie du charme.",
+        "ro": "Lasă să se răcească pe un grătar înainte de feliere; miezul continuă să se destrame în fire zile întregi după aceea, ceea ce e jumătate din farmec."
       }
     }
   ],

@@ -149,58 +149,114 @@
   "method": [
     {
       "title": {
-        "en": "Cook the filling"
+        "en": "Cook the filling",
+        "de": "Füllung kochen",
+        "es": "Cocinar el relleno",
+        "fr": "Cuire la garniture",
+        "ro": "Fierbe umplutura"
       },
       "summary": {
-        "en": "Simmer rice in water until absorbed, stir in milk and butter, then cook low and slow, stirring, until thick and smooth. Cool completely."
+        "en": "Simmer rice in water until absorbed, stir in milk and butter, then cook low and slow, stirring, until thick and smooth. Cool completely.",
+        "de": "Reis in Wasser köcheln, bis es aufgesogen ist, Milch und Butter einrühren, dann bei niedriger Hitze langsam unter Rühren kochen, bis dick und glatt. Vollständig abkühlen lassen.",
+        "es": "Cocer el arroz a fuego lento en agua hasta que se absorba, incorporar la leche y la mantequilla, luego cocinar a fuego bajo y lento, removiendo, hasta que espese y quede liso. Dejar enfriar por completo.",
+        "fr": "Faire mijoter le riz dans l'eau jusqu'à absorption, incorporer le lait et le beurre, puis cuire à feu doux et lent, en remuant, jusqu'à consistance épaisse et lisse. Laisser refroidir complètement.",
+        "ro": "Fierbe orezul înăbușit în apă până se absoarbe, încorporează laptele și untul, apoi fierbe la foc mic, amestecând, până devine gros și neted. Lasă la răcit complet."
       }
     },
     {
       "title": {
-        "en": "Make the dough"
+        "en": "Make the dough",
+        "de": "Teig herstellen",
+        "es": "Preparar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Pregătește aluatul"
       },
       "summary": {
-        "en": "Mix rye flour, wheat flour, salt, water and melted butter into a firm, non-sticky dough."
+        "en": "Mix rye flour, wheat flour, salt, water and melted butter into a firm, non-sticky dough.",
+        "de": "Roggenmehl, Weizenmehl, Salz, Wasser und geschmolzene Butter zu einem festen, nicht klebrigen Teig verarbeiten.",
+        "es": "Mezclar la harina de centeno, la harina de trigo, la sal, el agua y la mantequilla derretida hasta obtener una masa firme y no pegajosa.",
+        "fr": "Mélanger la farine de seigle, la farine de blé, le sel, l'eau et le beurre fondu en une pâte ferme et non collante.",
+        "ro": "Amestecă făina de secară, făina de grâu, sarea, apa și untul topit într-un aluat ferm și nelipicios."
       }
     },
     {
       "title": {
-        "en": "Shape the crusts"
+        "en": "Shape the crusts",
+        "de": "Böden formen",
+        "es": "Formar las bases",
+        "fr": "Façonner les abaisses",
+        "ro": "Modelează foile"
       },
       "summary": {
-        "en": "Roll a cylinder of dough, cut into pieces, and roll each almost translucently thin into an oval."
+        "en": "Roll a cylinder of dough, cut into pieces, and roll each almost translucently thin into an oval.",
+        "de": "Den Teig zu einer Rolle formen, in Stücke schneiden und jedes fast durchscheinend dünn zu einem Oval ausrollen.",
+        "es": "Formar un cilindro con la masa, cortarlo en trozos y estirar cada uno hasta un óvalo casi translúcido de fino.",
+        "fr": "Rouler la pâte en cylindre, la couper en morceaux et abaisser chacun presque translucide en un ovale.",
+        "ro": "Rulează aluatul într-un cilindru, taie-l în bucăți și întinde fiecare bucată aproape translucid de subțire, în formă ovală."
       }
     },
     {
       "title": {
-        "en": "Fill"
+        "en": "Fill",
+        "de": "Füllen",
+        "es": "Rellenar",
+        "fr": "Garnir",
+        "ro": "Umple"
       },
       "summary": {
-        "en": "Spread cooled rice porridge over the center, leaving a bare border."
+        "en": "Spread cooled rice porridge over the center, leaving a bare border.",
+        "de": "Den abgekühlten Reisbrei in der Mitte verteilen, dabei einen freien Rand lassen.",
+        "es": "Extender las gachas de arroz frías por el centro, dejando un borde libre.",
+        "fr": "Étaler la bouillie de riz refroidie au centre, en laissant un bord nu.",
+        "ro": "Întinde terciul de orez răcit pe centru, lăsând o margine liberă."
       }
     },
     {
       "title": {
-        "en": "Pleat"
+        "en": "Pleat",
+        "de": "Fälteln",
+        "es": "Plisar",
+        "fr": "Plisser",
+        "ro": "Pliază"
       },
       "summary": {
-        "en": "Fold the edges over in small pleats to form the classic open, ridged rim."
+        "en": "Fold the edges over in small pleats to form the classic open, ridged rim.",
+        "de": "Die Ränder in kleinen Falten umschlagen, um den klassischen offenen, gerillten Rand zu formen.",
+        "es": "Doblar los bordes en pequeños pliegues para formar el clásico borde abierto y ondulado.",
+        "fr": "Replier les bords en petits plis pour former le rebord ouvert et strié classique.",
+        "ro": "Îndoaie marginile în pliuri mici, pentru a forma marginea clasică, deschisă și zimțată."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a very hot oven until the crust is crisp and lightly browned, 10-15 minutes."
+        "en": "Bake in a very hot oven until the crust is crisp and lightly browned, 10-15 minutes.",
+        "de": "In einem sehr heißen Ofen backen, bis der Boden knusprig und leicht gebräunt ist, 10-15 Minuten.",
+        "es": "Hornear en un horno muy caliente hasta que la base esté crujiente y ligeramente dorada, 10-15 minutos.",
+        "fr": "Cuire dans un four très chaud jusqu'à ce que l'abaisse soit croustillante et légèrement dorée, 10-15 minutes.",
+        "ro": "Coace într-un cuptor foarte fierbinte până foaia devine crocantă și ușor rumenită, 10-15 minute."
       }
     },
     {
       "title": {
-        "en": "Finish"
+        "en": "Finish",
+        "de": "Fertigstellen",
+        "es": "Terminar",
+        "fr": "Finir",
+        "ro": "Finisează"
       },
       "summary": {
-        "en": "Brush hot from the oven with melted butter and serve with egg butter, chopped hard-boiled egg stirred into softened butter."
+        "en": "Brush hot from the oven with melted butter and serve with egg butter, chopped hard-boiled egg stirred into softened butter.",
+        "de": "Heiß aus dem Ofen mit geschmolzener Butter bestreichen und mit Eierbutter servieren, gehacktem hartgekochtem Ei, das in weiche Butter gerührt wird.",
+        "es": "Pintar calientes recién salidas del horno con mantequilla derretida y servir con mantequilla de huevo, huevo duro picado mezclado con mantequilla ablandada.",
+        "fr": "Badigeonner chaudes à la sortie du four de beurre fondu et servir avec du beurre d'œuf, de l'œuf dur haché mélangé à du beurre ramolli.",
+        "ro": "Unge-le fierbinți, direct din cuptor, cu unt topit și servește cu unt de ou, ou fiert tare tocat, amestecat în unt moale."
       }
     }
   ],

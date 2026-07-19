@@ -119,58 +119,114 @@
   "method": [
     {
       "title": {
-        "en": "Activate yeast"
+        "en": "Activate yeast",
+        "de": "Hefe aktivieren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Stir yeast and sugar into lukewarm water; let stand about 5 minutes until foamy."
+        "en": "Stir yeast and sugar into lukewarm water; let stand about 5 minutes until foamy.",
+        "de": "Hefe und Zucker in lauwarmes Wasser einrühren; etwa 5 Minuten stehen lassen, bis es schäumt.",
+        "es": "Disolver la levadura y el azúcar en agua tibia; dejar reposar unos 5 minutos hasta que espume.",
+        "fr": "Délayer la levure et le sucre dans l'eau tiède; laisser reposer environ 5 minutes jusqu'à ce que ça mousse.",
+        "ro": "Dizolvă drojdia și zahărul în apă călduță; lasă 5 minute până spumează."
       }
     },
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine with flour, salt, yogurt and olive oil into a soft dough; knead until smooth, adding extra water as needed."
+        "en": "Combine with flour, salt, yogurt and olive oil into a soft dough; knead until smooth, adding extra water as needed.",
+        "de": "Mit Mehl, Salz, Joghurt und Olivenöl zu einem weichen Teig verbinden; kneten, bis er glatt ist, bei Bedarf etwas Wasser zugeben.",
+        "es": "Combinar con harina, sal, yogur y aceite de oliva hasta obtener una masa blanda; amasar hasta que esté lisa, añadiendo agua extra si hace falta.",
+        "fr": "Combiner avec la farine, le sel, le yaourt et l'huile d'olive en une pâte souple; pétrir jusqu'à ce qu'elle soit lisse, en ajoutant de l'eau au besoin.",
+        "ro": "Combină cu făină, sare, iaurt și ulei de măsline într-un aluat moale; frământă până devine neted, adăugând apă suplimentară dacă e nevoie."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise 45-60 minutes until doubled."
+        "en": "Cover and let rise 45-60 minutes until doubled.",
+        "de": "Zugedeckt 45-60 Minuten gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar fermentar 45-60 minutos hasta que duplique el volumen.",
+        "fr": "Couvrir et laisser lever 45-60 minutes jusqu'à ce que la pâte double.",
+        "ro": "Acoperă și lasă la crescut 45-60 de minute, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Divide & rest"
+        "en": "Divide & rest",
+        "de": "Teilen & ruhen",
+        "es": "Dividir y reposar",
+        "fr": "Diviser et reposer",
+        "ro": "Împarte și odihnește"
       },
       "summary": {
-        "en": "Divide into pieces, shape into rounds, and rest under a towel about 15 minutes."
+        "en": "Divide into pieces, shape into rounds, and rest under a towel about 15 minutes.",
+        "de": "In Stücke teilen, zu Kugeln formen und unter einem Tuch etwa 15 Minuten ruhen lassen.",
+        "es": "Dividir en piezas, formar bolas y dejar reposar bajo un paño unos 15 minutos.",
+        "fr": "Diviser en pâtons, façonner en boules et laisser reposer sous un linge environ 15 minutes.",
+        "ro": "Împarte în bucăți, modelează bile și lasă la odihnă sub un prosop circa 15 minute."
       }
     },
     {
       "title": {
-        "en": "Roll or pat"
+        "en": "Roll or pat",
+        "de": "Ausrollen oder flachdrücken",
+        "es": "Estirar o aplanar",
+        "fr": "Étaler ou aplatir",
+        "ro": "Întinde sau presează"
       },
       "summary": {
-        "en": "Flatten each piece by hand or rolling pin to about a centimeter thick."
+        "en": "Flatten each piece by hand or rolling pin to about a centimeter thick.",
+        "de": "Jedes Stück von Hand oder mit dem Nudelholz auf etwa einen Zentimeter Dicke flach drücken.",
+        "es": "Aplanar cada pieza a mano o con rodillo hasta un grosor de un centímetro aproximadamente.",
+        "fr": "Aplatir chaque pâton à la main ou au rouleau sur environ un centimètre d'épaisseur.",
+        "ro": "Presează fiecare bucată cu mâna sau cu sucitorul până la aproximativ un centimetru grosime."
       }
     },
     {
       "title": {
-        "en": "Griddle"
+        "en": "Griddle",
+        "de": "Auf der Platte backen",
+        "es": "Cocinar en la plancha",
+        "fr": "Cuire à la plaque",
+        "ro": "Coace pe plită"
       },
       "summary": {
-        "en": "Cook on a medium-hot dry griddle about 90 seconds per side until puffed with brown spots."
+        "en": "Cook on a medium-hot dry griddle about 90 seconds per side until puffed with brown spots.",
+        "de": "Auf einer mittelheißen, trockenen Platte etwa 90 Sekunden pro Seite backen, bis er aufpufft und braune Flecken zeigt.",
+        "es": "Cocinar en una plancha seca a fuego medio-alto unos 90 segundos por lado, hasta que infle y aparezcan manchas doradas.",
+        "fr": "Cuire sur une plaque sèche à feu moyen-vif environ 90 secondes par face, jusqu'à ce qu'il gonfle avec des taches brunes.",
+        "ro": "Coace pe o plită uscată, la foc mediu-iute, circa 90 de secunde pe fiecare parte, până se umflă și apar pete rumenite."
       }
     },
     {
       "title": {
-        "en": "Serve warm"
+        "en": "Serve warm",
+        "de": "Warm servieren",
+        "es": "Servir caliente",
+        "fr": "Servir chaud",
+        "ro": "Servește cald"
       },
       "summary": {
-        "en": "Stack under a cloth and serve warm with cheese, jam or eggs."
+        "en": "Stack under a cloth and serve warm with cheese, jam or eggs.",
+        "de": "Unter einem Tuch stapeln und warm mit Käse, Marmelade oder Eiern servieren.",
+        "es": "Apilar bajo un paño y servir caliente con queso, mermelada o huevos.",
+        "fr": "Empiler sous un linge et servir chaud avec du fromage, de la confiture ou des œufs.",
+        "ro": "Stivuiește sub un prosop și servește cald cu brânză, gem sau ouă."
       }
     }
   ],

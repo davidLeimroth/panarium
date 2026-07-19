@@ -105,50 +105,98 @@
   "method": [
     {
       "title": {
-        "en": "Refresh the rye levain"
+        "en": "Refresh the rye levain",
+        "de": "Roggen-Anstellgut auffrischen",
+        "es": "Refrescar la masa madre de centeno",
+        "fr": "Rafraîchir le levain de seigle",
+        "ro": "Reîmprospătează maiaua de secară"
       },
       "summary": {
-        "en": "Mix the mother levain with warm water and rye flour; ferment 2-3 hours until moussy and aerated."
+        "en": "Mix the mother levain with warm water and rye flour; ferment 2-3 hours until moussy and aerated.",
+        "de": "Das Anstellgut mit warmem Wasser und Roggenmehl vermischen; 2-3 Stunden gären lassen, bis es schaumig und locker ist.",
+        "es": "Mezclar la masa madre con agua tibia y harina de centeno; fermentar 2-3 horas hasta que esté esponjosa y aireada.",
+        "fr": "Mélanger le levain chef avec de l'eau tiède et de la farine de seigle ; fermenter 2-3 heures jusqu'à ce qu'il soit mousseux et aéré.",
+        "ro": "Amestecă maiaua mamă cu apă călduță și făină de secară; lasă la fermentat 2-3 ore până devine spumoasă și aerată."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine the refreshed levain with the remaining flour, water and salt for about 10 minutes; expect a thick, pasty, non-elastic dough, that's normal for pure rye."
+        "en": "Combine the refreshed levain with the remaining flour, water and salt for about 10 minutes; expect a thick, pasty, non-elastic dough, that's normal for pure rye.",
+        "de": "Das aufgefrischte Anstellgut mit dem restlichen Mehl, Wasser und Salz etwa 10 Minuten verarbeiten; ein dicker, klebriger, kaum elastischer Teig ist bei reinem Roggen normal.",
+        "es": "Combinar la masa madre refrescada con el resto de la harina, el agua y la sal durante unos 10 minutos; una masa espesa, pastosa y poco elástica es normal en el centeno puro.",
+        "fr": "Mélanger le levain rafraîchi avec le reste de farine, d'eau et de sel pendant environ 10 minutes ; une pâte épaisse, collante et peu élastique est normale pour du seigle pur.",
+        "ro": "Combină maiaua reîmprospătată cu restul de făină, apă și sare timp de aproximativ 10 minute; un aluat gros, lipicios și puțin elastic este normal pentru secara pură."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Rest about 90 minutes until visibly aerated."
+        "en": "Rest about 90 minutes until visibly aerated.",
+        "de": "Etwa 90 Minuten ruhen lassen, bis deutlich Blasen sichtbar sind.",
+        "es": "Dejar reposar unos 90 minutos hasta que esté visiblemente aireada.",
+        "fr": "Laisser reposer environ 90 minutes jusqu'à ce qu'elle soit visiblement aérée.",
+        "ro": "Lasă la odihnă aproximativ 90 de minute până devine vizibil aerat."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Transfer gently into a greased mold, preserving as much gas in the dough as possible."
+        "en": "Transfer gently into a greased mold, preserving as much gas in the dough as possible.",
+        "de": "Vorsichtig in eine gefettete Form füllen und dabei möglichst viel Gas im Teig erhalten.",
+        "es": "Trasladar con cuidado a un molde engrasado, conservando el máximo de gas posible en la masa.",
+        "fr": "Transférer délicatement dans un moule graissé en préservant un maximum de gaz dans la pâte.",
+        "ro": "Transferă cu grijă într-o formă unsă, păstrând cât mai mult gaz posibil în aluat."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let rise a further 30 minutes."
+        "en": "Let rise a further 30 minutes.",
+        "de": "Weitere 30 Minuten gehen lassen.",
+        "es": "Dejar fermentar 30 minutos más.",
+        "fr": "Laisser pousser encore 30 minutes.",
+        "ro": "Lasă la dospit încă 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot until fully set; a dense, tight crumb is the correct result for a 100% rye loaf."
+        "en": "Bake hot until fully set; a dense, tight crumb is the correct result for a 100% rye loaf.",
+        "de": "Heiß backen, bis er durchgebacken ist; eine dichte, feste Krume ist bei 100% Roggen das richtige Ergebnis.",
+        "es": "Hornear a temperatura alta hasta que esté bien cocido; una miga densa y prieta es el resultado correcto en un pan 100% centeno.",
+        "fr": "Cuire à four chaud jusqu'à cuisson complète ; une mie dense et serrée est normale pour un pain 100% seigle.",
+        "ro": "Coace la foc iute până se coace complet; un miez dens și strâns este rezultatul corect pentru o pâine 100% secară."
       }
     }
   ],

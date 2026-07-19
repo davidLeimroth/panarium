@@ -108,42 +108,82 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Dissolve the yeast in the water and stir into the flour to form a rough dough."
+        "en": "Dissolve the yeast in the water and stir into the flour to form a rough dough.",
+        "de": "Die Hefe im Wasser auflösen und ins Mehl einrühren, bis ein grober Teig entsteht.",
+        "es": "Disolver la levadura en el agua e incorporarla a la harina hasta formar una masa basta.",
+        "fr": "Dissoudre la levure dans l'eau et l'incorporer à la farine pour former une pâte grossière.",
+        "ro": "Dizolvă drojdia în apă și încorporeaz-o în făină, pentru a forma un aluat grosier."
       }
     },
     {
       "title": {
-        "en": "Knead in the oil"
+        "en": "Knead in the oil",
+        "de": "Öl einkneten",
+        "es": "Amasar con el aceite",
+        "fr": "Pétrir avec l'huile",
+        "ro": "Frământă cu ulei"
       },
       "summary": {
-        "en": "Work in the olive oil a little at a time until smooth and elastic, about 10 minutes, then knead in the salt."
+        "en": "Work in the olive oil a little at a time until smooth and elastic, about 10 minutes, then knead in the salt.",
+        "de": "Das Olivenöl nach und nach einarbeiten, bis der Teig glatt und elastisch ist, etwa 10 Minuten, dann das Salz einkneten.",
+        "es": "Incorporar el aceite de oliva poco a poco hasta que quede lisa y elástica, unos 10 minutos, luego amasar la sal.",
+        "fr": "Incorporer l'huile d'olive petit à petit jusqu'à obtenir une pâte lisse et élastique, environ 10 minutes, puis pétrir le sel.",
+        "ro": "Încorporează uleiul de măsline puțin câte puțin, până devine neted și elastic, aproximativ 10 minute, apoi frământă și sarea."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primera fermentación",
+        "fr": "Premier levage",
+        "ro": "Prima fermentare"
       },
       "summary": {
-        "en": "Press into a rough rectangle on an oiled surface and let rise about an hour."
+        "en": "Press into a rough rectangle on an oiled surface and let rise about an hour.",
+        "de": "Auf einer geölten Fläche zu einem groben Rechteck drücken und etwa eine Stunde gehen lassen.",
+        "es": "Presionar la masa en un rectángulo tosco sobre una superficie aceitada y dejar fermentar una hora aproximadamente.",
+        "fr": "Presser en un rectangle grossier sur une surface huilée et laisser lever environ une heure.",
+        "ro": "Presează aluatul într-un dreptunghi neregulat pe o suprafață unsă și lasă la crescut aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Stretch by hand"
+        "en": "Stretch by hand",
+        "de": "Von Hand ausziehen",
+        "es": "Estirar a mano",
+        "fr": "Étirer à la main",
+        "ro": "Întinde cu mâna"
       },
       "summary": {
-        "en": "Cut thin strips from one edge of the dough and stretch each by the ends until long and thin; the natural tapering at the tips is part of the look."
+        "en": "Cut thin strips from one edge of the dough and stretch each by the ends until long and thin; the natural tapering at the tips is part of the look.",
+        "de": "Dünne Streifen von einer Kante des Teigs schneiden und jeden an den Enden ausziehen, bis er lang und dünn ist; die natürliche Verjüngung an den Spitzen gehört zum Erscheinungsbild.",
+        "es": "Cortar tiras finas de un borde de la masa y estirar cada una por los extremos hasta que quede larga y fina; el afinamiento natural en las puntas forma parte del aspecto.",
+        "fr": "Couper de fines lanières sur un bord de la pâte et étirer chacune par les extrémités jusqu'à ce qu'elle soit longue et fine; l'amincissement naturel aux pointes fait partie de l'aspect.",
+        "ro": "Taie fâșii subțiri dintr-o margine a aluatului și întinde fiecare de capete până devine lungă și subțire; subțierea naturală la vârfuri face parte din aspect."
       }
     },
     {
       "title": {
-        "en": "Bake dry"
+        "en": "Bake dry",
+        "de": "Trocken backen",
+        "es": "Hornear hasta secar",
+        "fr": "Cuire à sec",
+        "ro": "Coace uscat"
       },
       "summary": {
-        "en": "Arrange on a tray, brush lightly with oil, and bake at 200°C for 20-30 minutes until golden and completely dried through."
+        "en": "Arrange on a tray, brush lightly with oil, and bake at 200°C for 20-30 minutes until golden and completely dried through.",
+        "de": "Auf ein Blech legen, leicht mit Öl bestreichen und bei 200°C 20-30 Minuten backen, bis goldbraun und ganz durchgetrocknet.",
+        "es": "Colocar en una bandeja, pintar ligeramente con aceite y hornear a 200°C durante 20-30 minutos hasta que estén doradas y completamente secas por dentro.",
+        "fr": "Disposer sur une plaque, badigeonner légèrement d'huile et cuire à 200°C pendant 20-30 minutes jusqu'à coloration dorée et dessiccation complète.",
+        "ro": "Așază pe o tavă, unge ușor cu ulei și coace la 200°C timp de 20-30 de minute, până devin aurii și complet uscate în interior."
       }
     }
   ],

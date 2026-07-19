@@ -145,58 +145,114 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine flour, salt, olive oil and lukewarm water into a smooth, elastic dough."
+        "en": "Combine flour, salt, olive oil and lukewarm water into a smooth, elastic dough.",
+        "de": "Mehl, Salz, Olivenöl und lauwarmes Wasser zu einem glatten, elastischen Teig verarbeiten.",
+        "es": "Combinar la harina, la sal, el aceite de oliva y el agua tibia en una masa lisa y elástica.",
+        "fr": "Combiner la farine, le sel, l'huile d'olive et l'eau tiède en une pâte lisse et élastique.",
+        "ro": "Combină făina, sarea, uleiul de măsline și apa călduță într-un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Cover and let rest about 20 minutes."
+        "en": "Cover and let rest about 20 minutes.",
+        "de": "Zugedeckt etwa 20 Minuten ruhen lassen.",
+        "es": "Tapar y dejar reposar unos 20 minutos.",
+        "fr": "Couvrir et laisser reposer environ 20 minutes.",
+        "ro": "Acoperă și lasă la odihnă aproximativ 20 de minute."
       }
     },
     {
       "title": {
-        "en": "Make the filling"
+        "en": "Make the filling",
+        "de": "Füllung zubereiten",
+        "es": "Preparar el relleno",
+        "fr": "Préparer la garniture",
+        "ro": "Pregătește umplutura"
       },
       "summary": {
-        "en": "Sauté onion in olive oil, wilt in the spinach, then off the heat stir in crumbled feta and Aleppo pepper."
+        "en": "Sauté onion in olive oil, wilt in the spinach, then off the heat stir in crumbled feta and Aleppo pepper.",
+        "de": "Zwiebel in Olivenöl anschwitzen, den Spinat zusammenfallen lassen, dann vom Herd nehmen und zerbröckelten Feta und Aleppo-Pfeffer untermischen.",
+        "es": "Sofreír la cebolla en aceite de oliva, añadir las espinacas hasta que se ablanden, luego retirar del fuego e incorporar el feta desmenuzado y el pimiento de Alepo.",
+        "fr": "Faire revenir l'oignon dans l'huile d'olive, ajouter les épinards jusqu'à ce qu'ils tombent, puis hors du feu incorporer la feta émiettée et le piment d'Alep.",
+        "ro": "Călește ceapa în ulei de măsline, adaugă spanacul până se lasă, apoi ia de pe foc și încorporează feta mărunțită și piper Alep."
       }
     },
     {
       "title": {
-        "en": "Roll paper-thin"
+        "en": "Roll paper-thin",
+        "de": "Hauchdünn ausrollen",
+        "es": "Estirar fina",
+        "fr": "Étaler très finement",
+        "ro": "Întinde foarte subțire"
       },
       "summary": {
-        "en": "Divide the dough and roll each piece into a very thin, wide round."
+        "en": "Divide the dough and roll each piece into a very thin, wide round.",
+        "de": "Den Teig teilen und jedes Stück zu einer sehr dünnen, breiten Scheibe ausrollen.",
+        "es": "Dividir la masa y estirar cada porción en un disco muy fino y ancho.",
+        "fr": "Diviser la pâte et abaisser chaque pâton en un grand disque très fin.",
+        "ro": "Împarte aluatul și întinde fiecare bucată într-un disc foarte subțire și larg."
       }
     },
     {
       "title": {
-        "en": "Fill & fold"
+        "en": "Fill & fold",
+        "de": "Füllen & falten",
+        "es": "Rellenar y doblar",
+        "fr": "Garnir et plier",
+        "ro": "Umple și pliază"
       },
       "summary": {
-        "en": "Spread filling over half the round, then fold into a smaller square or rectangle, sealing the edges."
+        "en": "Spread filling over half the round, then fold into a smaller square or rectangle, sealing the edges.",
+        "de": "Die Füllung auf einer Hälfte der Scheibe verteilen, dann zu einem kleineren Quadrat oder Rechteck falten und die Ränder verschließen.",
+        "es": "Extender el relleno sobre la mitad del disco, luego doblar en un cuadrado o rectángulo más pequeño, sellando los bordes.",
+        "fr": "Étaler la garniture sur la moitié du disque, puis plier en un carré ou rectangle plus petit, en scellant les bords.",
+        "ro": "Întinde umplutura pe jumătate din disc, apoi pliază într-un pătrat sau dreptunghi mai mic, sigilând marginile."
       }
     },
     {
       "title": {
-        "en": "Griddle"
+        "en": "Griddle",
+        "de": "Braten",
+        "es": "Cocinar en la sartén",
+        "fr": "Cuire à la poêle",
+        "ro": "Coace în tigaie"
       },
       "summary": {
-        "en": "Cook in a wide, hot dry skillet, flipping a few times, until golden and crisp on both sides."
+        "en": "Cook in a wide, hot dry skillet, flipping a few times, until golden and crisp on both sides.",
+        "de": "In einer breiten, heißen, trockenen Pfanne braten, dabei mehrmals wenden, bis beide Seiten goldbraun und knusprig sind.",
+        "es": "Cocinar en una sartén ancha, caliente y seca, dándole la vuelta varias veces, hasta que esté dorada y crujiente por ambos lados.",
+        "fr": "Cuire dans une grande poêle chaude et sèche, en retournant plusieurs fois, jusqu'à coloration dorée et croustillante des deux côtés.",
+        "ro": "Coace într-o tigaie largă, fierbinte și uscată, întorcând de câteva ori, până devine aurie și crocantă pe ambele părți."
       }
     },
     {
       "title": {
-        "en": "Finish & serve"
+        "en": "Finish & serve",
+        "de": "Fertigstellen & servieren",
+        "es": "Terminar y servir",
+        "fr": "Finir et servir",
+        "ro": "Finisează și servește"
       },
       "summary": {
-        "en": "Brush with a little olive oil, cover briefly to keep tender, then cut into wedges."
+        "en": "Brush with a little olive oil, cover briefly to keep tender, then cut into wedges.",
+        "de": "Mit etwas Olivenöl bestreichen, kurz zudecken, damit es zart bleibt, dann in Ecken schneiden.",
+        "es": "Pintar con un poco de aceite de oliva, tapar brevemente para que quede tierna, luego cortar en porciones.",
+        "fr": "Badigeonner d'un peu d'huile d'olive, couvrir brièvement pour garder le moelleux, puis découper en parts.",
+        "ro": "Unge cu puțin ulei de măsline, acoperă scurt ca să rămână fragedă, apoi taie în felii."
       }
     }
   ],

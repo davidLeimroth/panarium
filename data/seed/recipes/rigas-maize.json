@@ -130,58 +130,114 @@
   "method": [
     {
       "title": {
-        "en": "Sponge"
+        "en": "Sponge",
+        "de": "Vorteig",
+        "es": "Esponja",
+        "fr": "Éponge",
+        "ro": "Prospătură"
       },
       "summary": {
-        "en": "Mix warm water with a little malt syrup, the yeast and the rye flour; rest 20 minutes until bubbly."
+        "en": "Mix warm water with a little malt syrup, the yeast and the rye flour; rest 20 minutes until bubbly.",
+        "de": "Warmes Wasser mit etwas Malzsirup, der Hefe und dem Roggenmehl verrühren; 20 Minuten ruhen lassen, bis es blubbert.",
+        "es": "Mezclar agua tibia con un poco de sirope de malta, la levadura y la harina de centeno; dejar reposar 20 minutos hasta que burbujee.",
+        "fr": "Mélanger de l'eau tiède avec un peu de sirop de malt, la levure et la farine de seigle ; laisser reposer 20 minutes jusqu'à ce que ça bouillonne.",
+        "ro": "Amestecă apă călduță cu puțin sirop de malț, drojdia și făina de secară; lasă să stea 20 de minute până face bule."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Stir in the remaining malt syrup, salt, caraway, melted butter and enough all-purpose flour to form a dough."
+        "en": "Stir in the remaining malt syrup, salt, caraway, melted butter and enough all-purpose flour to form a dough.",
+        "de": "Den restlichen Malzsirup, Salz, Kümmel, geschmolzene Butter und genug Weizenmehl einrühren, bis ein Teig entsteht.",
+        "es": "Incorporar el resto del sirope de malta, la sal, la alcaravea, la mantequilla derretida y suficiente harina de trigo hasta formar una masa.",
+        "fr": "Incorporer le reste du sirop de malt, le sel, le carvi, le beurre fondu et assez de farine de blé pour former une pâte.",
+        "ro": "Încorporează restul de sirop de malț, sarea, chimenul, untul topit și suficientă făină albă cât să obții un aluat."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead about 10 minutes until smooth and elastic."
+        "en": "Knead about 10 minutes until smooth and elastic.",
+        "de": "Etwa 10 Minuten kneten, bis der Teig glatt und elastisch ist.",
+        "es": "Amasar unos 10 minutos hasta que quede lisa y elástica.",
+        "fr": "Pétrir environ 10 minutes jusqu'à ce qu'elle soit lisse et élastique.",
+        "ro": "Frământă aproximativ 10 minute până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise about 1.5 hours, until nearly doubled."
+        "en": "Cover and let rise about 1.5 hours, until nearly doubled.",
+        "de": "Zugedeckt etwa 1.5 Stunden gehen lassen, bis der Teig fast doppelt so groß ist.",
+        "es": "Tapar y dejar levar unas 1.5 horas, hasta que casi doble su volumen.",
+        "fr": "Couvrir et laisser lever environ 1.5 heure, jusqu'à ce qu'elle ait presque doublé.",
+        "ro": "Acoperă și lasă la dospit aproximativ 1.5 ore, până aproape se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide in half and shape into oval loaves on a lined baking sheet."
+        "en": "Divide in half and shape into oval loaves on a lined baking sheet.",
+        "de": "Halbieren und zu ovalen Broten auf einem ausgelegten Backblech formen.",
+        "es": "Dividir en dos y formar panes ovalados sobre una bandeja de horno forrada.",
+        "fr": "Diviser en deux et façonner en pains ovales sur une plaque garnie.",
+        "ro": "Împarte în două și modelează pâini ovale pe o tavă căptușită."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover and rest about 30 minutes."
+        "en": "Cover and rest about 30 minutes.",
+        "de": "Zugedeckt etwa 30 Minuten ruhen lassen.",
+        "es": "Tapar y dejar reposar unos 30 minutos.",
+        "fr": "Couvrir et laisser reposer environ 30 minutes.",
+        "ro": "Acoperă și lasă să stea aproximativ 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until the crust is dark brown and the center is fully cooked, 45-50 minutes."
+        "en": "Bake until the crust is dark brown and the center is fully cooked, 45-50 minutes.",
+        "de": "Backen, bis die Kruste dunkelbraun und die Mitte vollständig durchgebacken ist, 45-50 Minuten.",
+        "es": "Hornear hasta que la corteza esté marrón oscuro y el centro totalmente cocido, 45-50 minutos.",
+        "fr": "Cuire jusqu'à ce que la croûte soit brun foncé et le centre bien cuit, 45-50 minutes.",
+        "ro": "Coace până coaja devine brun-închis și miezul e complet copt, 45-50 de minute."
       }
     }
   ],

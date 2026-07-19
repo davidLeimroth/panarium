@@ -130,66 +130,130 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Mix starter, bread flour, whole wheat flour and water; ripen about 5 hours."
+        "en": "Mix starter, bread flour, whole wheat flour and water; ripen about 5 hours.",
+        "de": "Anstellgut, Brotmehl, Weizenvollkornmehl und Wasser vermischen; etwa 5 Stunden reifen lassen.",
+        "es": "Mezclar la masa madre, la harina de fuerza, la harina integral de trigo y el agua; dejar madurar unas 5 horas.",
+        "fr": "Mélanger le levain chef, la farine à pain, la farine complète et l'eau ; laisser mûrir environ 5 heures.",
+        "ro": "Amestecă maiaua, făina de pâine, făina integrală de grâu și apa; lasă la maturat aproximativ 5 ore."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Combine the remaining flours and water; rest 1 hour."
+        "en": "Combine the remaining flours and water; rest 1 hour.",
+        "de": "Die restlichen Mehle und das Wasser vermischen; 1 Stunde ruhen lassen.",
+        "es": "Combinar el resto de las harinas con el agua; dejar reposar 1 hora.",
+        "fr": "Mélanger le reste des farines et l'eau ; laisser reposer 1 heure.",
+        "ro": "Amestecă restul de făină cu apa; lasă la odihnă 1 oră."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Work in the levain, then the salt and reserved water."
+        "en": "Work in the levain, then the salt and reserved water.",
+        "de": "Den Levain einarbeiten, dann Salz und zurückbehaltenes Wasser unterkneten.",
+        "es": "Incorporar el levain, luego la sal y el agua reservada.",
+        "fr": "Incorporer le levain, puis le sel et l'eau réservée.",
+        "ro": "Încorporează levain-ul, apoi sarea și apa rezervată."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment with olives"
+        "en": "Bulk ferment with olives",
+        "de": "Stockgare mit Oliven",
+        "es": "Fermentación en bloque con aceitunas",
+        "fr": "Pointage avec les olives",
+        "ro": "Fermentație în masă cu măsline"
       },
       "summary": {
-        "en": "Fold in the rinsed, pitted olives and herbes de Provence during the first stretch-and-fold, then continue with two more sets over about 3.5 hours."
+        "en": "Fold in the rinsed, pitted olives and herbes de Provence during the first stretch-and-fold, then continue with two more sets over about 3.5 hours.",
+        "de": "Die abgespülten, entsteinten Oliven und die Kräuter der Provence beim ersten Dehnen und Falten einarbeiten, dann mit zwei weiteren Serien über etwa 3,5 Stunden fortfahren.",
+        "es": "Incorporar las aceitunas enjuagadas y deshuesadas y las hierbas de Provenza durante el primer estirado y doblado, luego continuar con dos series más a lo largo de unas 3,5 horas.",
+        "fr": "Incorporer les olives rincées et dénoyautées et les herbes de Provence lors du premier rabat, puis poursuivre avec deux autres séries sur environ 3,5 heures.",
+        "ro": "Încorporează măslinele clătite și fără sâmburi și ierburile de Provence la prima serie de întindere și pliere, apoi continuă cu încă două serii pe parcursul a aproximativ 3,5 ore."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide, preshape, rest 30 minutes, then shape into batards or boules; optionally roll in wheat germ."
+        "en": "Divide, preshape, rest 30 minutes, then shape into batards or boules; optionally roll in wheat germ.",
+        "de": "Teilen, vorformen, 30 Minuten ruhen lassen, dann zu Bâtards oder Boules formen; optional in Weizenkeimen wälzen.",
+        "es": "Dividir, preformar, dejar reposar 30 minutos, luego formar bâtards o boules; opcionalmente pasar por germen de trigo.",
+        "fr": "Diviser, préformer, laisser reposer 30 minutes, puis façonner en bâtards ou en boules ; rouler éventuellement dans le germe de blé.",
+        "ro": "Împarte, preformează, lasă la odihnă 30 de minute, apoi modelează în bâtard-uri sau boule; opțional tăvălește prin germeni de grâu."
       }
     },
     {
       "title": {
-        "en": "Cold proof"
+        "en": "Cold proof",
+        "de": "Kalte Gare",
+        "es": "Fermentación en frío",
+        "fr": "Pousse au froid",
+        "ro": "Dospire la rece"
       },
       "summary": {
-        "en": "Proof seam-side-up in the refrigerator overnight, about 14 hours."
+        "en": "Proof seam-side-up in the refrigerator overnight, about 14 hours.",
+        "de": "Mit der Naht nach oben über Nacht im Kühlschrank gehen lassen, etwa 14 Stunden.",
+        "es": "Fermentar con la costura hacia arriba en el refrigerador durante toda la noche, unas 14 horas.",
+        "fr": "Faire pousser, soudure vers le haut, au réfrigérateur toute la nuit, environ 14 heures.",
+        "ro": "Lasă la dospit cu cusătura în sus, la frigider peste noapte, aproximativ 14 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep gold and the interior reads 96°C."
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then about 30 minutes uncovered until the crust is deep gold and the interior reads 96°C.",
+        "de": "Im vorgeheizten Bräter bei 230°C backen: 20 Minuten zugedeckt mit Dampf, dann etwa 30 Minuten offen, bis die Kruste tief goldbraun ist und der Kern 96°C erreicht.",
+        "es": "Hornear en olla de hierro precalentada a 230°C: 20 minutos tapada con vapor, luego unos 30 minutos destapada hasta que la corteza esté bien dorada y el interior alcance 96°C.",
+        "fr": "Cuire en cocotte préchauffée à 230°C : 20 minutes couverte avec de la buée, puis environ 30 minutes découverte jusqu'à une croûte bien dorée et 96°C à cœur.",
+        "ro": "Coace în vas de fontă preîncălzit la 230°C: 20 de minute acoperit cu abur, apoi aproximativ 30 de minute descoperit, până coaja e auriu-închisă și interiorul ajunge la 96°C."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest 1-2 hours before slicing."
+        "en": "Rest 1-2 hours before slicing.",
+        "de": "1-2 Stunden ruhen lassen, bevor angeschnitten wird.",
+        "es": "Dejar reposar 1-2 horas antes de cortar.",
+        "fr": "Laisser reposer 1-2 heures avant de trancher.",
+        "ro": "Lasă la odihnă 1-2 ore înainte de a felia."
       }
     }
   ],

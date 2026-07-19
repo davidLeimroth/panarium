@@ -104,50 +104,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine whole wheat flour, oil and salt, then knead in water to a soft, smooth dough. Rest 30 minutes."
+        "en": "Combine whole wheat flour, oil and salt, then knead in water to a soft, smooth dough. Rest 30 minutes.",
+        "de": "Vollkornweizenmehl, Öl und Salz vermischen, dann Wasser einkneten zu einem weichen, glatten Teig. 30 Minuten ruhen lassen.",
+        "es": "Combinar la harina integral de trigo, el aceite y la sal, luego amasar con agua hasta obtener una masa blanda y lisa. Dejar reposar 30 minutos.",
+        "fr": "Combiner la farine complète de blé, l'huile et le sel, puis pétrir avec de l'eau pour obtenir une pâte molle et lisse. Laisser reposer 30 minutes.",
+        "ro": "Combină făina integrală de grâu, uleiul și sarea, apoi frământă cu apă până obții un aluat moale și neted. Lasă la odihnă 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Divide"
+        "en": "Divide",
+        "de": "Teilen",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Divide into 8 small balls."
+        "en": "Divide into 8 small balls.",
+        "de": "In 8 kleine Kugeln teilen.",
+        "es": "Dividir en 8 bolitas pequeñas.",
+        "fr": "Diviser en 8 petites boules.",
+        "ro": "Împarte în 8 biluțe mici."
       }
     },
     {
       "title": {
-        "en": "Roll paper-thin"
+        "en": "Roll paper-thin",
+        "de": "Hauchdünn ausrollen",
+        "es": "Estirar muy fina",
+        "fr": "Étaler très finement",
+        "ro": "Întinde foarte subțire"
       },
       "summary": {
-        "en": "Roll each ball out as thin as possible, almost translucent, into a 6-7 inch round."
+        "en": "Roll each ball out as thin as possible, almost translucent, into a 6-7 inch round.",
+        "de": "Jede Kugel so dünn wie möglich ausrollen, fast durchscheinend, zu einer Scheibe von 15-18 cm.",
+        "es": "Estirar cada bola lo más fina posible, casi translúcida, hasta un disco de 15-18 cm.",
+        "fr": "Abaisser chaque boule aussi finement que possible, presque translucide, en un disque de 15-18 cm.",
+        "ro": "Întinde fiecare bilă cât mai subțire posibil, aproape translucid, într-un disc de 15-18 cm."
       }
     },
     {
       "title": {
-        "en": "Initial roast"
+        "en": "Initial roast",
+        "de": "Erstes Rösten",
+        "es": "Primer tostado",
+        "fr": "Premier grillage",
+        "ro": "Prima prăjire"
       },
       "summary": {
-        "en": "Place on a tawa over low flame and roast one side about a minute, then flip."
+        "en": "Place on a tawa over low flame and roast one side about a minute, then flip.",
+        "de": "Auf eine Tawa bei niedriger Flamme legen und eine Seite etwa eine Minute rösten, dann wenden.",
+        "es": "Colocarla sobre una tawa a fuego bajo y tostar un lado durante un minuto aproximadamente, luego darle la vuelta.",
+        "fr": "Poser sur un tawa à feu doux et griller un côté environ une minute, puis retourner.",
+        "ro": "Așază pe un tawa la foc mic și prăjește o parte aproximativ un minut, apoi întoarce."
       }
     },
     {
       "title": {
-        "en": "Press dry"
+        "en": "Press dry",
+        "de": "Trocken drücken",
+        "es": "Presionar hasta secar",
+        "fr": "Presser à sec",
+        "ro": "Presează până se usucă"
       },
       "summary": {
-        "en": "Press continuously with a wooden khakhra press or folded cloth in circular motions, flipping occasionally, until all moisture cooks out and both sides crisp with light brown spots."
+        "en": "Press continuously with a wooden khakhra press or folded cloth in circular motions, flipping occasionally, until all moisture cooks out and both sides crisp with light brown spots.",
+        "de": "Kontinuierlich mit einer hölzernen Khakhra-Presse oder einem gefalteten Tuch in kreisenden Bewegungen drücken, gelegentlich wenden, bis alle Feuchtigkeit verkocht ist und beide Seiten mit leicht braunen Flecken knusprig sind.",
+        "es": "Presionar sin parar con una prensa de khakhra de madera o un paño doblado, en movimientos circulares, dando la vuelta de vez en cuando, hasta que se evapore toda la humedad y ambos lados queden crujientes con manchas doradas.",
+        "fr": "Presser en continu avec une presse à khakhra en bois ou un torchon plié, en mouvements circulaires, en retournant de temps en temps, jusqu'à évaporation complète de l'humidité et des deux côtés croustillants avec de légères taches brunes.",
+        "ro": "Apasă continuu cu o presă de khakhra din lemn sau un prosop pliat, în mișcări circulare, întorcând din când în când, până toată umezeala se evaporă și ambele părți devin crocante, cu pete ușor rumenite."
       }
     },
     {
       "title": {
-        "en": "Cool and store"
+        "en": "Cool and store",
+        "de": "Auskühlen und aufbewahren",
+        "es": "Enfriar y guardar",
+        "fr": "Refroidir et conserver",
+        "ro": "Răcește și păstrează"
       },
       "summary": {
-        "en": "Cool completely (it crisps further as it cools), then keep in an airtight container."
+        "en": "Cool completely (it crisps further as it cools), then keep in an airtight container.",
+        "de": "Vollständig auskühlen lassen (es wird beim Abkühlen noch knuspriger), dann in einem luftdichten Behälter aufbewahren.",
+        "es": "Dejar enfriar por completo (se vuelve más crujiente al enfriarse), luego guardar en un recipiente hermético.",
+        "fr": "Laisser refroidir complètement (ça devient encore plus croustillant en refroidissant), puis conserver dans un récipient hermétique.",
+        "ro": "Lasă la răcit complet (devine și mai crocant pe măsură ce se răcește), apoi păstrează într-un recipient ermetic."
       }
     }
   ],

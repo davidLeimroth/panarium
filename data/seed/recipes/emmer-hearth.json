@@ -129,58 +129,114 @@
   "method": [
     {
       "title": {
-        "en": "Boil the potatoes"
+        "en": "Boil the potatoes",
+        "de": "Kartoffeln kochen",
+        "es": "Hervir las patatas",
+        "fr": "Faire bouillir les pommes de terre",
+        "ro": "Fierbe cartofii"
       },
       "summary": {
-        "en": "Boil unpeeled potatoes in salted water until tender, then peel and mash while still warm."
+        "en": "Boil unpeeled potatoes in salted water until tender, then peel and mash while still warm.",
+        "de": "Ungeschälte Kartoffeln in Salzwasser weich kochen, dann noch warm schälen und zerstampfen.",
+        "es": "Hervir las patatas sin pelar en agua con sal hasta que estén tiernas, luego pelarlas y hacerlas puré mientras aún estén calientes.",
+        "fr": "Faire bouillir des pommes de terre non épluchées dans l'eau salée jusqu'à tendreté, puis les éplucher et les écraser encore chaudes.",
+        "ro": "Fierbe cartofii nedecojiți în apă cu sare până devin fragezi, apoi curăță-i și fă-i piure cât încă sunt calzi."
       }
     },
     {
       "title": {
-        "en": "Proof the yeast"
+        "en": "Proof the yeast",
+        "de": "Hefe anschwemmen",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Dissolve the brewer's yeast in warm water with a little sugar; wait 5-10 minutes until foamy."
+        "en": "Dissolve the brewer's yeast in warm water with a little sugar; wait 5-10 minutes until foamy.",
+        "de": "Die frische Hefe mit etwas Zucker in warmem Wasser auflösen; 5-10 Minuten warten, bis es schäumt.",
+        "es": "Disolver la levadura fresca en agua tibia con un poco de azúcar; esperar 5-10 minutos hasta que espume.",
+        "fr": "Dissoudre la levure fraîche dans l'eau tiède avec un peu de sucre; attendre 5-10 minutes jusqu'à ce que ça mousse.",
+        "ro": "Dizolvă drojdia proaspătă în apă călduță cu puțin zahăr; așteaptă 5-10 minute până spumează."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the mashed potato with the emmer flour, salt and olive oil, then knead in the yeasted water for at least 10 minutes until smooth and elastic."
+        "en": "Combine the mashed potato with the emmer flour, salt and olive oil, then knead in the yeasted water for at least 10 minutes until smooth and elastic.",
+        "de": "Das Kartoffelpüree mit dem Emmermehl, Salz und Olivenöl verbinden, dann das Hefewasser einkneten, mindestens 10 Minuten, bis glatt und elastisch.",
+        "es": "Combinar el puré de patata con la harina de emmer, la sal y el aceite de oliva, luego amasar incorporando el agua con levadura durante al menos 10 minutos, hasta que esté lisa y elástica.",
+        "fr": "Combiner la purée de pommes de terre avec la farine d'emmer, le sel et l'huile d'olive, puis pétrir en incorporant l'eau à la levure pendant au moins 10 minutes, jusqu'à ce que ce soit lisse et élastique.",
+        "ro": "Combină piureul de cartofi cu făina de emmer, sarea și uleiul de măsline, apoi frământă încorporând apa cu drojdie timp de cel puțin 10 minute, până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Rest in an oiled, covered bowl in a warm spot 30-60 minutes until roughly doubled."
+        "en": "Rest in an oiled, covered bowl in a warm spot 30-60 minutes until roughly doubled.",
+        "de": "In einer geölten, zugedeckten Schüssel an einem warmen Ort 30-60 Minuten ruhen lassen, bis er sich etwa verdoppelt hat.",
+        "es": "Dejar reposar en un bol aceitado y tapado, en un lugar cálido, 30-60 minutos hasta duplicar aproximadamente.",
+        "fr": "Laisser reposer dans un saladier huilé et couvert, dans un endroit chaud, 30-60 minutes jusqu'à peu près le double.",
+        "ro": "Lasă la odihnă într-un bol uns cu ulei și acoperit, într-un loc călduț, 30-60 de minute, până se dublează aproximativ."
       }
     },
     {
       "title": {
-        "en": "Shape and score"
+        "en": "Shape and score",
+        "de": "Formen und einschneiden",
+        "es": "Formar y greñar",
+        "fr": "Façonner et lamer",
+        "ro": "Modelează și crestează"
       },
       "summary": {
-        "en": "Divide, shape into loaves and cut deep slashes across the top."
+        "en": "Divide, shape into loaves and cut deep slashes across the top.",
+        "de": "Teilen, zu Laiben formen und tiefe Schnitte quer über die Oberseite setzen.",
+        "es": "Dividir, dar forma de panes y hacer cortes profundos a lo ancho de la superficie.",
+        "fr": "Diviser, façonner en pains et faire de profondes entailles en travers du dessus.",
+        "ro": "Împarte, modelează în pâini și fă crestături adânci de-a curmezișul suprafeței."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof another 30-60 minutes."
+        "en": "Proof another 30-60 minutes.",
+        "de": "Weitere 30-60 Minuten gehen lassen.",
+        "es": "Dejar fermentar otros 30-60 minutos.",
+        "fr": "Laisser pousser encore 30-60 minutes.",
+        "ro": "Lasă la dospit încă 30-60 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 200°C for 30-45 minutes depending on loaf size, until deeply golden."
+        "en": "Bake at 200°C for 30-45 minutes depending on loaf size, until deeply golden.",
+        "de": "Bei 200°C 30-45 Minuten backen, je nach Laibgröße, bis tief golden.",
+        "es": "Hornear a 200°C durante 30-45 minutos, según el tamaño del pan, hasta dorar profundamente.",
+        "fr": "Cuire à 200°C pendant 30-45 minutes selon la taille du pain, jusqu'à une belle couleur dorée.",
+        "ro": "Coace la 200°C timp de 30-45 de minute, în funcție de mărimea pâinii, până devine auriu-închis."
       }
     }
   ],

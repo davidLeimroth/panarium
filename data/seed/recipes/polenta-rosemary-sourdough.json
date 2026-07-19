@@ -136,74 +136,146 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "Mix starter with bread flour, high-extraction flour and water; ripen at warm room temperature."
+        "en": "Mix starter with bread flour, high-extraction flour and water; ripen at warm room temperature.",
+        "de": "Anstellgut mit Brotmehl, hochausgemahlenem Mehl und Wasser vermischen; bei warmer Raumtemperatur reifen lassen.",
+        "es": "Mezclar la masa madre con harina de fuerza, harina de extracción alta y agua; dejar madurar a temperatura ambiente cálida.",
+        "fr": "Mélanger le levain chef avec la farine à pain, la farine à haute extraction et l'eau ; laisser mûrir à température ambiante chaude.",
+        "ro": "Amestecă maiaua cu făină de pâine, făină cu extracție ridicată și apă; lasă la maturat la temperatura camerei, într-un loc cald."
       }
     },
     {
       "title": {
-        "en": "Soak the polenta"
+        "en": "Soak the polenta",
+        "de": "Polenta einweichen",
+        "es": "Remojar la polenta",
+        "fr": "Faire tremper la polenta",
+        "ro": "Hidratează polenta"
       },
       "summary": {
-        "en": "Boil whey, stir in raw polenta and soak 45 minutes, then drain well through a sieve and cool completely."
+        "en": "Boil whey, stir in raw polenta and soak 45 minutes, then drain well through a sieve and cool completely.",
+        "de": "Molke aufkochen, rohe Polenta einrühren und 45 Minuten einweichen lassen, dann gut durch ein Sieb abtropfen lassen und vollständig abkühlen.",
+        "es": "Hervir el suero de leche, incorporar la polenta cruda y dejar en remojo 45 minutos, luego escurrir bien por un colador y enfriar por completo.",
+        "fr": "Faire bouillir le petit-lait, incorporer la polenta crue et laisser tremper 45 minutes, puis bien égoutter à travers un tamis et laisser refroidir complètement.",
+        "ro": "Fierbe zerul, adaugă polenta crudă și lasă la hidratat 45 de minute, apoi scurge bine printr-o sită și lasă să se răcească complet."
       }
     },
     {
       "title": {
-        "en": "Autolyse"
+        "en": "Autolyse",
+        "de": "Autolyse",
+        "es": "Autólisis",
+        "fr": "Autolyse",
+        "ro": "Autoliză"
       },
       "summary": {
-        "en": "Combine the flours and most of the water; rest about 1.5 hours."
+        "en": "Combine the flours and most of the water; rest about 1.5 hours.",
+        "de": "Die Mehle und den Großteil des Wassers vermischen; etwa 1,5 Stunden ruhen lassen.",
+        "es": "Combinar las harinas y la mayor parte del agua; dejar reposar unas 1,5 horas.",
+        "fr": "Mélanger les farines et la majeure partie de l'eau ; laisser reposer environ 1,5 heure.",
+        "ro": "Amestecă făinurile și cea mai mare parte din apă; lasă la odihnă aproximativ 1,5 ore."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Slap-and-fold in the levain, then work in salt, minced rosemary and the cooled, drained polenta."
+        "en": "Slap-and-fold in the levain, then work in salt, minced rosemary and the cooled, drained polenta.",
+        "de": "Den Levain per Schlagen-und-Falten einarbeiten, dann Salz, gehackten Rosmarin und die abgekühlte, abgetropfte Polenta unterarbeiten.",
+        "es": "Incorporar el levain con la técnica de golpear y doblar, luego trabajar la sal, el romero picado y la polenta fría y escurrida.",
+        "fr": "Incorporer le levain par la technique du claquage-rabat, puis travailler le sel, le romarin haché et la polenta refroidie et égouttée.",
+        "ro": "Încorporează levain-ul prin tehnica de lovire și pliere, apoi lucrează sarea, rozmarinul tocat și polenta răcită și scursă."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment quickly (polenta speeds things up) over about 3.5 hours with four stretch-and-fold sets."
+        "en": "Ferment quickly (polenta speeds things up) over about 3.5 hours with four stretch-and-fold sets.",
+        "de": "Schnell fermentieren (Polenta beschleunigt den Prozess) über etwa 3,5 Stunden mit vier Dehn-und-Falten-Serien.",
+        "es": "Fermentar rápidamente (la polenta acelera el proceso) durante unas 3,5 horas con cuatro series de estirar y doblar.",
+        "fr": "Fermenter rapidement (la polenta accélère le processus) sur environ 3,5 heures avec quatre séries de rabats.",
+        "ro": "Fermentează rapid (polenta accelerează procesul) timp de aproximativ 3,5 ore, cu patru serii de întindere și pliere."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide, preshape, rest 20 minutes, then shape into a batard or boule."
+        "en": "Divide, preshape, rest 20 minutes, then shape into a batard or boule.",
+        "de": "Teilen, vorformen, 20 Minuten ruhen lassen, dann zu einem Bâtard oder einer Boule formen.",
+        "es": "Dividir, preformar, dejar reposar 20 minutos, luego formar un bâtard o una boule.",
+        "fr": "Diviser, préformer, laisser reposer 20 minutes, puis façonner en bâtard ou en boule.",
+        "ro": "Împarte, preformează, lasă la odihnă 20 de minute, apoi modelează în formă de bâtard sau boule."
       }
     },
     {
       "title": {
-        "en": "Cold proof"
+        "en": "Cold proof",
+        "de": "Kalte Gare",
+        "es": "Fermentación en frío",
+        "fr": "Pousse au froid",
+        "ro": "Dospire la rece"
       },
       "summary": {
-        "en": "Refrigerate 10-14 hours."
+        "en": "Refrigerate 10-14 hours.",
+        "de": "10-14 Stunden kühlen.",
+        "es": "Refrigerar 10-14 horas.",
+        "fr": "Réfrigérer 10-14 heures.",
+        "ro": "Dă la frigider 10-14 ore."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 25-30 minutes uncovered until golden."
+        "en": "Bake in a preheated Dutch oven at 230°C: 20 minutes covered with steam, then 25-30 minutes uncovered until golden.",
+        "de": "Im vorgeheizten Bräter bei 230°C backen: 20 Minuten zugedeckt mit Dampf, dann 25-30 Minuten offen, bis er goldbraun ist.",
+        "es": "Hornear en olla de hierro precalentada a 230°C: 20 minutos tapada con vapor, luego 25-30 minutos destapada hasta que esté dorada.",
+        "fr": "Cuire en cocotte préchauffée à 230°C : 20 minutes couverte avec de la buée, puis 25-30 minutes découverte jusqu'à coloration dorée.",
+        "ro": "Coace în vas de fontă preîncălzit la 230°C: 20 de minute acoperit cu abur, apoi 25-30 de minute descoperit, până devine auriu."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest at least 2 hours before slicing."
+        "en": "Rest at least 2 hours before slicing.",
+        "de": "Mindestens 2 Stunden ruhen lassen, bevor angeschnitten wird.",
+        "es": "Dejar reposar al menos 2 horas antes de cortar.",
+        "fr": "Laisser reposer au moins 2 heures avant de trancher.",
+        "ro": "Lasă la odihnă cel puțin 2 ore înainte de a felia."
       }
     }
   ],

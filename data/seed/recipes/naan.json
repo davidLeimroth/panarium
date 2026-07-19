@@ -117,58 +117,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom & mix"
+        "en": "Bloom & mix",
+        "de": "Aktivieren & mischen",
+        "es": "Activar y mezclar",
+        "fr": "Activer et mélanger",
+        "ro": "Activează și amestecă"
       },
       "summary": {
-        "en": "Whisk yeast into just-boiled water to cool it, then stir in yogurt, flour and salt to a shaggy, very wet dough."
+        "en": "Whisk yeast into just-boiled water to cool it, then stir in yogurt, flour and salt to a shaggy, very wet dough.",
+        "de": "Hefe in gerade aufgekochtes Wasser einrühren, damit es abkühlt, dann Joghurt, Mehl und Salz zu einem groben, sehr feuchten Teig einrühren.",
+        "es": "Disolver la levadura en agua recién hervida para que se enfríe, luego incorporar el yogur, la harina y la sal hasta obtener una masa basta y muy húmeda.",
+        "fr": "Délayer la levure dans l'eau tout juste bouillie pour qu'elle refroidisse, puis incorporer le yaourt, la farine et le sel pour une pâte grossière et très humide.",
+        "ro": "Dizolvă drojdia în apă abia fiartă, ca să se răcească, apoi adaugă iaurtul, făina și sarea pentru un aluat grosier și foarte umed."
       }
     },
     {
       "title": {
-        "en": "Knead briefly"
+        "en": "Knead briefly",
+        "de": "Kurz kneten",
+        "es": "Amasar brevemente",
+        "fr": "Pétrir brièvement",
+        "ro": "Frământă puțin"
       },
       "summary": {
-        "en": "Knead a couple of minutes until smooth; the dough stays tacky at this high hydration."
+        "en": "Knead a couple of minutes until smooth; the dough stays tacky at this high hydration.",
+        "de": "Ein paar Minuten kneten, bis glatt; bei dieser hohen Hydration bleibt der Teig klebrig.",
+        "es": "Amasar un par de minutos hasta que esté lisa; con esta hidratación tan alta, la masa se mantiene pegajosa.",
+        "fr": "Pétrir quelques minutes jusqu'à ce qu'elle soit lisse ; avec cette forte hydratation, la pâte reste collante.",
+        "ro": "Frământă câteva minute până devine neted; la această hidratare mare, aluatul rămâne lipicios."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let rise about 75 minutes at warm room temperature until doubled."
+        "en": "Cover and let rise about 75 minutes at warm room temperature until doubled.",
+        "de": "Abdecken und bei warmer Raumtemperatur etwa 75 Minuten gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar fermentar unos 75 minutos a temperatura ambiente cálida, hasta que doble su volumen.",
+        "fr": "Couvrir et laisser pousser environ 75 minutes à température ambiante chaude, jusqu'à ce que la pâte double.",
+        "ro": "Acoperă și lasă la dospit circa 75 de minute, la temperatura camerei, într-un loc călduț, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Divide & rest"
+        "en": "Divide & rest",
+        "de": "Teilen & ruhen",
+        "es": "Dividir y reposar",
+        "fr": "Diviser et reposer",
+        "ro": "Împarte și odihnește"
       },
       "summary": {
-        "en": "Divide into 4 pieces, shape into balls, and rest a few minutes to relax the gluten."
+        "en": "Divide into 4 pieces, shape into balls, and rest a few minutes to relax the gluten.",
+        "de": "In 4 Stücke teilen, zu Kugeln formen und einige Minuten ruhen lassen, damit sich das Gluten entspannt.",
+        "es": "Dividir en 4 piezas, formar bolas y dejar reposar unos minutos para relajar el gluten.",
+        "fr": "Diviser en 4 pâtons, façonner en boules, et laisser reposer quelques minutes pour détendre le gluten.",
+        "ro": "Împarte în 4 bucăți, modelează bile și lasă la odihnă câteva minute, ca glutenul să se relaxeze."
       }
     },
     {
       "title": {
-        "en": "Stretch"
+        "en": "Stretch",
+        "de": "Formen",
+        "es": "Estirar",
+        "fr": "Étirer",
+        "ro": "Întinde"
       },
       "summary": {
-        "en": "Stretch or roll each piece into a teardrop shape without deflating the bubbles."
+        "en": "Stretch or roll each piece into a teardrop shape without deflating the bubbles.",
+        "de": "Jedes Stück ohne die Blasen zu zerdrücken zu einer Tropfenform ziehen oder ausrollen.",
+        "es": "Estirar o extender cada pieza en forma de lágrima sin desinflar las burbujas.",
+        "fr": "Étirer ou abaisser chaque pâton en forme de larme sans chasser les bulles.",
+        "ro": "Întinde sau rulează fiecare bucată într-o formă de lacrimă, fără să elimini bulele."
       }
     },
     {
       "title": {
-        "en": "Sear"
+        "en": "Sear",
+        "de": "Anbraten",
+        "es": "Sellar",
+        "fr": "Saisir",
+        "ro": "Prăjește rapid"
       },
       "summary": {
-        "en": "Lay in a dry, screaming-hot cast-iron skillet, cover, and cook about a minute per side until charred bubbles form and the naan puffs."
+        "en": "Lay in a dry, screaming-hot cast-iron skillet, cover, and cook about a minute per side until charred bubbles form and the naan puffs.",
+        "de": "In eine trockene, glühend heiße Gusseisenpfanne legen, abdecken und pro Seite etwa eine Minute backen, bis sich schwarze Blasen bilden und der Naan aufgeht.",
+        "es": "Colocar en una sartén de hierro fundido seca y muy caliente, tapar y cocinar un minuto por lado, hasta que se formen burbujas tostadas y el naan se infle.",
+        "fr": "Poser dans une poêle en fonte sèche et brûlante, couvrir, et cuire environ une minute par face, jusqu'à ce que des bulles noircies se forment et que le naan gonfle.",
+        "ro": "Așază într-o tigaie de fontă uscată, foarte încinsă, acoperă și gătește circa un minut pe fiecare parte, până se formează bule arse și naanul se umflă."
       }
     },
     {
       "title": {
-        "en": "Finish"
+        "en": "Finish",
+        "de": "Fertigstellen",
+        "es": "Terminar",
+        "fr": "Finition",
+        "ro": "Finisează"
       },
       "summary": {
-        "en": "Brush hot naan with melted butter and serve immediately, torn by hand."
+        "en": "Brush hot naan with melted butter and serve immediately, torn by hand.",
+        "de": "Den heißen Naan mit geschmolzener Butter bestreichen und sofort servieren, von Hand in Stücke gerissen.",
+        "es": "Pintar el naan caliente con mantequilla derretida y servir de inmediato, partido a mano.",
+        "fr": "Badigeonner le naan chaud de beurre fondu et servir aussitôt, déchiré à la main.",
+        "ro": "Unge naanul cald cu unt topit și servește imediat, rupt cu mâna."
       }
     }
   ],

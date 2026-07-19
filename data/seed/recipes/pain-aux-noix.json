@@ -124,50 +124,98 @@
   "method": [
     {
       "title": {
-        "en": "Prepare the walnuts"
+        "en": "Prepare the walnuts",
+        "de": "Walnüsse vorbereiten",
+        "es": "Preparar las nueces",
+        "fr": "Préparer les noix",
+        "ro": "Pregătește nucile"
       },
       "summary": {
-        "en": "Toast the walnuts lightly, then rehydrate briefly in warm water, reserving the soaking liquid."
+        "en": "Toast the walnuts lightly, then rehydrate briefly in warm water, reserving the soaking liquid.",
+        "de": "Die Walnüsse leicht rösten, dann kurz in warmem Wasser einweichen und das Einweichwasser aufbewahren.",
+        "es": "Tostar ligeramente las nueces, luego rehidratarlas brevemente en agua tibia, reservando el líquido del remojo.",
+        "fr": "Torréfier légèrement les noix, puis les réhydrater brièvement dans l'eau tiède, en réservant l'eau de trempage.",
+        "ro": "Prăjește ușor nucile, apoi hidratează-le rapid în apă călduță, păstrând apa de la înmuiat."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the flour, water (plus reserved walnut water), levain, honey, salt and a touch of yeast into a smooth dough."
+        "en": "Combine the flour, water (plus reserved walnut water), levain, honey, salt and a touch of yeast into a smooth dough.",
+        "de": "Mehl, Wasser (plus zurückbehaltenes Nusswasser), Levain, Honig, Salz und einen Hauch Hefe zu einem glatten Teig verarbeiten.",
+        "es": "Combinar la harina, el agua (más el agua de nueces reservada), el levain, la miel, la sal y un toque de levadura hasta obtener una masa lisa.",
+        "fr": "Mélanger la farine, l'eau (plus l'eau de noix réservée), le levain, le miel, le sel et une touche de levure pour obtenir une pâte lisse.",
+        "ro": "Amestecă făina, apa (plus apa de la nuci rezervată), levain-ul, mierea, sarea și un strop de drojdie, până obții un aluat neted."
       }
     },
     {
       "title": {
-        "en": "Fold in walnuts"
+        "en": "Fold in walnuts",
+        "de": "Walnüsse einarbeiten",
+        "es": "Incorporar las nueces",
+        "fr": "Incorporer les noix",
+        "ro": "Încorporează nucile"
       },
       "summary": {
-        "en": "Work the toasted walnuts through at the end of kneading."
+        "en": "Work the toasted walnuts through at the end of kneading.",
+        "de": "Die gerösteten Walnüsse gegen Ende des Knetens einarbeiten.",
+        "es": "Incorporar las nueces tostadas al final del amasado.",
+        "fr": "Incorporer les noix torréfiées à la fin du pétrissage.",
+        "ro": "Încorporează nucile prăjite spre finalul frământării."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Rest about 45 minutes."
+        "en": "Rest about 45 minutes.",
+        "de": "Etwa 45 Minuten ruhen lassen.",
+        "es": "Dejar reposar unos 45 minutos.",
+        "fr": "Laisser reposer environ 45 minutes.",
+        "ro": "Lasă la odihnă aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide and shape into bâtards."
+        "en": "Divide and shape into bâtards.",
+        "de": "Teilen und zu Bâtards formen.",
+        "es": "Dividir y formar bâtards.",
+        "fr": "Diviser et façonner en bâtards.",
+        "ro": "Împarte și modelează în formă de bâtard."
       }
     },
     {
       "title": {
-        "en": "Proof and bake"
+        "en": "Proof and bake",
+        "de": "Gare und Backen",
+        "es": "Fermentar y hornear",
+        "fr": "Apprêt et cuisson",
+        "ro": "Dospire și coacere"
       },
       "summary": {
-        "en": "Proof about 75 minutes, then bake hot with steam until richly golden."
+        "en": "Proof about 75 minutes, then bake hot with steam until richly golden.",
+        "de": "Etwa 75 Minuten gehen lassen, dann heiß mit Dampf backen, bis er satt goldbraun ist.",
+        "es": "Dejar fermentar unos 75 minutos, luego hornear caliente con vapor hasta un dorado intenso.",
+        "fr": "Laisser pousser environ 75 minutes, puis cuire chaud avec de la buée jusqu'à une belle couleur dorée.",
+        "ro": "Lasă la dospit aproximativ 75 de minute, apoi coace la foc iute cu abur, până devine auriu-intens."
       }
     }
   ],

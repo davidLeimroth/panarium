@@ -128,58 +128,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the sourdough"
+        "en": "Build the sourdough",
+        "de": "Sauerteig ansetzen",
+        "es": "Preparar la masa madre",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua"
       },
       "summary": {
-        "en": "Mix flour, water and a little starter; ferment covered overnight at room temperature until ripe and domed."
+        "en": "Mix flour, water and a little starter; ferment covered overnight at room temperature until ripe and domed.",
+        "de": "Mehl, Wasser und etwas Anstellgut mischen; zugedeckt über Nacht bei Raumtemperatur reifen lassen, bis er reif und gewölbt ist.",
+        "es": "Mezclar harina, agua y un poco de masa madre; dejar fermentar tapada toda la noche a temperatura ambiente, hasta que esté madura y abombada.",
+        "fr": "Mélanger farine, eau et un peu de levain-chef; laisser fermenter couvert toute la nuit à température ambiante, jusqu'à maturité et bombement.",
+        "ro": "Amestecă făina, apa și puțină maia; lasă la fermentat acoperit peste noapte, la temperatura camerei, până devine coaptă și bombată."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine the ripe sourdough with the remaining wheat flour, the rye and buckwheat wholegrain flours, water, salt and a small amount of yeast; mix into a smooth dough."
+        "en": "Combine the ripe sourdough with the remaining wheat flour, the rye and buckwheat wholegrain flours, water, salt and a small amount of yeast; mix into a smooth dough.",
+        "de": "Den reifen Sauerteig mit dem restlichen Weizenmehl, dem Roggen- und Buchweizenvollkornmehl, Wasser, Salz und wenig Hefe verbinden; zu einem glatten Teig verarbeiten.",
+        "es": "Combinar la masa madre madura con el resto de la harina de trigo, las harinas integrales de centeno y trigo sarraceno, agua, sal y un poco de levadura; mezclar hasta obtener una masa lisa.",
+        "fr": "Combiner le levain mûr avec le reste de la farine de blé, les farines complètes de seigle et de sarrasin, l'eau, le sel et un peu de levure; mélanger en une pâte lisse.",
+        "ro": "Combină maiaua coaptă cu restul de făină de grâu, făinurile integrale de secară și hrișcă, apa, sarea și puțină drojdie; amestecă până obții un aluat neted."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentare în masă"
       },
       "summary": {
-        "en": "Cover and let rise until visibly expanded, folding once or twice to build strength."
+        "en": "Cover and let rise until visibly expanded, folding once or twice to build strength.",
+        "de": "Zugedeckt gehen lassen, bis er sichtbar aufgegangen ist, dabei ein- bis zweimal falten, um Kraft aufzubauen.",
+        "es": "Tapar y dejar fermentar hasta que se note claramente hinchada, plegando una o dos veces para fortalecerla.",
+        "fr": "Couvrir et laisser lever jusqu'à expansion visible, en rabattant une ou deux fois pour renforcer la pâte.",
+        "ro": "Acoperă și lasă la crescut până se umflă vizibil, pliind o dată sau de două ori pentru a-i întări structura."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide in two, shape each piece into a tight round, and set seam-up in floured proofing baskets."
+        "en": "Divide in two, shape each piece into a tight round, and set seam-up in floured proofing baskets.",
+        "de": "In zwei teilen, jedes Stück zu einem straffen runden Laib formen und mit der Naht nach oben in bemehlte Gärkörbchen setzen.",
+        "es": "Dividir en dos, formar cada pieza en una bola prieta y colocarlas con el cierre hacia arriba en cestas de fermentación enharinadas.",
+        "fr": "Diviser en deux, façonner chaque pâton en boule serrée et poser clé dessus dans des bannetons farinés.",
+        "ro": "Împarte în două, modelează fiecare bucată într-o formă rotundă strânsă și așază-le cu cusătura în sus în coșulețe de dospire făinuite."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt final",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let rise covered until nicely domed and springy."
+        "en": "Let rise covered until nicely domed and springy.",
+        "de": "Zugedeckt gehen lassen, bis er schön gewölbt und federnd ist.",
+        "es": "Dejar fermentar tapada hasta que esté bien abombada y elástica al tacto.",
+        "fr": "Laisser pousser couvert jusqu'à un beau bombement, souple au toucher.",
+        "ro": "Lasă la dospit acoperit până devine frumos bombat și elastic la atingere."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Turn out onto a hot stone, bake with steam at high heat, then drop the temperature and continue until deeply browned, about 45 minutes total."
+        "en": "Turn out onto a hot stone, bake with steam at high heat, then drop the temperature and continue until deeply browned, about 45 minutes total.",
+        "de": "Auf einen heißen Stein stürzen, mit Schwaden bei hoher Hitze backen, dann die Temperatur senken und weiterbacken, bis tief gebräunt, insgesamt etwa 45 Minuten.",
+        "es": "Volcar sobre una piedra caliente, hornear con vapor a fuego fuerte, luego bajar la temperatura y continuar hasta que quede muy tostada, unos 45 minutos en total.",
+        "fr": "Faire glisser sur une pierre chaude, cuire avec buée à haute température, puis baisser la température et poursuivre jusqu'à coloration bien foncée, environ 45 minutes au total.",
+        "ro": "Răstoarnă pe o piatră fierbinte, coace cu abur la foc puternic, apoi scade temperatura și continuă până se rumenește intens, în total aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool completely on a rack before slicing."
+        "en": "Cool completely on a rack before slicing.",
+        "de": "Vollständig auf einem Gitter auskühlen lassen, bevor es angeschnitten wird.",
+        "es": "Dejar enfriar por completo sobre una rejilla antes de cortar.",
+        "fr": "Laisser refroidir complètement sur une grille avant de trancher.",
+        "ro": "Lasă la răcit complet pe un grătar înainte de a felia."
       }
     }
   ],

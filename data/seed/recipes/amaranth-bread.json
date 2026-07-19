@@ -147,50 +147,98 @@
   "method": [
     {
       "title": {
-        "en": "Soak"
+        "en": "Soak",
+        "de": "Einweichen",
+        "es": "Remojar",
+        "fr": "Faire tremper",
+        "ro": "Înmoaie"
       },
       "summary": {
-        "en": "Soak the amaranth and raisins together in boiling water for 15-20 minutes."
+        "en": "Soak the amaranth and raisins together in boiling water for 15-20 minutes.",
+        "de": "Amaranth und Rosinen zusammen 15-20 Minuten in kochendem Wasser einweichen.",
+        "es": "Remojar el amaranto y las pasas juntos en agua hirviendo durante 15-20 minutos.",
+        "fr": "Faire tremper l'amarante et les raisins secs ensemble dans l'eau bouillante pendant 15-20 minutes.",
+        "ro": "Înmoaie amarantul și stafidele împreună în apă clocotită timp de 15-20 minute."
       }
     },
     {
       "title": {
-        "en": "Mix wet"
+        "en": "Mix wet",
+        "de": "Feuchte Zutaten mischen",
+        "es": "Mezclar los líquidos",
+        "fr": "Mélanger les liquides",
+        "ro": "Amestecă ingredientele umede"
       },
       "summary": {
-        "en": "Whisk together the oil, eggs, agave syrup and vanilla."
+        "en": "Whisk together the oil, eggs, agave syrup and vanilla.",
+        "de": "Öl, Eier, Agavendicksaft und Vanille miteinander verquirlen.",
+        "es": "Batir juntos el aceite, los huevos, el jarabe de agave y la vainilla.",
+        "fr": "Fouetter ensemble l'huile, les œufs, le sirop d'agave et la vanille.",
+        "ro": "Amestecă cu telul uleiul, ouăle, siropul de agave și vanilia."
       }
     },
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockene Zutaten mischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger les poudres",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Whisk the flour, baking powder, salt and walnuts together."
+        "en": "Whisk the flour, baking powder, salt and walnuts together.",
+        "de": "Mehl, Backpulver, Salz und Walnüsse miteinander verquirlen.",
+        "es": "Batir juntos la harina, el polvo de hornear, la sal y las nueces.",
+        "fr": "Fouetter ensemble la farine, la levure chimique, le sel et les noix.",
+        "ro": "Amestecă făina, praful de copt, sarea și nucile."
       }
     },
     {
       "title": {
-        "en": "Combine"
+        "en": "Combine",
+        "de": "Vermengen",
+        "es": "Combinar",
+        "fr": "Combiner",
+        "ro": "Combină"
       },
       "summary": {
-        "en": "Stir the wet and dry mixtures together with the soaked amaranth and raisins, plus their soaking liquid, until just combined."
+        "en": "Stir the wet and dry mixtures together with the soaked amaranth and raisins, plus their soaking liquid, until just combined.",
+        "de": "Die feuchte und die trockene Mischung mit dem eingeweichten Amaranth, den Rosinen und der Einweichflüssigkeit nur kurz vermengen.",
+        "es": "Mezclar los ingredientes líquidos y secos con el amaranto y las pasas remojados, junto con su líquido, hasta apenas unir.",
+        "fr": "Mélanger les préparations liquide et sèche avec l'amarante et les raisins trempés et leur eau de trempage, juste assez pour unir.",
+        "ro": "Amestecă compoziția umedă cu cea uscată, adăugând amarantul și stafidele înmuiate împreună cu lichidul lor, doar cât să se unească."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Pour into a greased loaf pan and bake at about 175°C for 1 hour until a skewer comes out clean."
+        "en": "Pour into a greased loaf pan and bake at about 175°C for 1 hour until a skewer comes out clean.",
+        "de": "In eine gefettete Kastenform füllen und bei etwa 175°C rund 1 Stunde backen, bis ein Stäbchen sauber herauskommt.",
+        "es": "Verter en un molde engrasado y hornear a unos 175°C durante 1 hora, hasta que un palillo salga limpio.",
+        "fr": "Verser dans un moule à cake graissé et cuire à environ 175°C pendant 1 heure, jusqu'à ce qu'un pique en ressorte sec.",
+        "ro": "Toarnă compoziția într-o formă de pâine unsă și coace la aproximativ 175°C timp de 1 oră, până o scobitoare iese curată."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool in the pan 10 minutes, then turn out onto a rack to finish cooling."
+        "en": "Cool in the pan 10 minutes, then turn out onto a rack to finish cooling.",
+        "de": "10 Minuten in der Form abkühlen lassen, dann auf ein Gitter stürzen und fertig auskühlen lassen.",
+        "es": "Dejar enfriar en el molde 10 minutos, luego desmoldar sobre una rejilla para que termine de enfriarse.",
+        "fr": "Laisser refroidir dans le moule 10 minutes, puis démouler sur une grille pour terminer le refroidissement.",
+        "ro": "Lasă la răcit în formă 10 minute, apoi răstoarnă pe un grătar pentru a se răci complet."
       }
     }
   ],

@@ -106,50 +106,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine water, starter and yeast by hand, then work in the flour until a rough dough forms."
+        "en": "Combine water, starter and yeast by hand, then work in the flour until a rough dough forms.",
+        "de": "Wasser, Sauerteig und Hefe von Hand vermengen, dann das Mehl einarbeiten, bis ein grober Teig entsteht.",
+        "es": "Combinar el agua, la masa madre y la levadura a mano, luego incorporar la harina hasta formar una masa tosca.",
+        "fr": "Mélanger à la main l'eau, le levain et la levure, puis incorporer la farine jusqu'à obtenir une pâte grossière.",
+        "ro": "Combină apa, maiaua și drojdia cu mâna, apoi încorporează făina până se formează un aluat grosier."
       }
     },
     {
       "title": {
-        "en": "Aerate"
+        "en": "Aerate",
+        "de": "Belüften",
+        "es": "Airear",
+        "fr": "Aérer",
+        "ro": "Aerisește"
       },
       "summary": {
-        "en": "Knead until elastic, dividing the dough into pieces and reuniting them to work in air, then knead in the salt dissolved in a little water."
+        "en": "Knead until elastic, dividing the dough into pieces and reuniting them to work in air, then knead in the salt dissolved in a little water.",
+        "de": "Kneten, bis er elastisch ist, dabei den Teig in Stücke teilen und wieder vereinen, um Luft einzuarbeiten, dann das in etwas Wasser gelöste Salz einkneten.",
+        "es": "Amasar hasta que esté elástica, dividiendo la masa en trozos y volviéndolos a unir para incorporar aire, luego amasar la sal disuelta en un poco de agua.",
+        "fr": "Pétrir jusqu'à l'élasticité, en divisant la pâte en morceaux puis en les réunissant pour incorporer de l'air, puis pétrir le sel dissous dans un peu d'eau.",
+        "ro": "Frământă până devine elastic, împărțind aluatul în bucăți și reunindu-le pentru a încorpora aer, apoi frământă sarea dizolvată în puțină apă."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let rise 2.5 to 4 hours at around 21°C until doubled."
+        "en": "Let rise 2.5 to 4 hours at around 21°C until doubled.",
+        "de": "2.5 bis 4 Stunden bei etwa 21°C gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Dejar fermentar de 2.5 a 4 horas a unos 21°C hasta que doble su volumen.",
+        "fr": "Laisser lever 2.5 à 4 heures à environ 21°C jusqu'à ce qu'elle double.",
+        "ro": "Lasă la crescut 2.5 până la 4 ore, la aproximativ 21°C, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into a round hogaza, a ring-shaped rosca, or small bollos depending on the format wanted."
+        "en": "Shape into a round hogaza, a ring-shaped rosca, or small bollos depending on the format wanted.",
+        "de": "Je nach gewünschter Form zu einer runden Hogaza, einer ringförmigen Rosca oder kleinen Bollos formen.",
+        "es": "Formar una hogaza redonda, una rosca en forma de anillo o pequeños bollos, según el formato deseado.",
+        "fr": "Façonner en hogaza ronde, en rosca en forme d'anneau, ou en petits bollos, selon le format voulu.",
+        "ro": "Modelează o hogaza rotundă, o rosca în formă de inel sau bollos mici, în funcție de forma dorită."
       }
     },
     {
       "title": {
-        "en": "Bake with steam"
+        "en": "Bake with steam",
+        "de": "Mit Schwaden backen",
+        "es": "Hornear con vapor",
+        "fr": "Cuire avec buée",
+        "ro": "Coace cu abur"
       },
       "summary": {
-        "en": "Load into a wood-fired, stone-floored oven preheated to 250°C, add steam, then step the temperature down from 230°C to 210°C over about 35 minutes."
+        "en": "Load into a wood-fired, stone-floored oven preheated to 250°C, add steam, then step the temperature down from 230°C to 210°C over about 35 minutes.",
+        "de": "In einen holzbefeuerten Steinofen einschießen, der auf 250°C vorgeheizt ist, schwaden, dann die Temperatur über etwa 35 Minuten von 230°C auf 210°C absenken.",
+        "es": "Introducir en un horno de leña con solera de piedra precalentado a 250°C, añadir vapor, y bajar la temperatura de 230°C a 210°C a lo largo de unos 35 minutos.",
+        "fr": "Enfourner dans un four à bois à sole en pierre préchauffé à 250°C, ajouter de la buée, puis baisser la température de 230°C à 210°C sur environ 35 minutes.",
+        "ro": "Introdu în cuptorul cu lemne, cu vatră de piatră, preîncălzit la 250°C, adaugă abur, apoi scade temperatura de la 230°C la 210°C în aproximativ 35 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcire"
       },
       "summary": {
-        "en": "Rest on a rack before slicing so the crust and crumb finish setting."
+        "en": "Rest on a rack before slicing so the crust and crumb finish setting.",
+        "de": "Vor dem Anschneiden auf einem Gitter ruhen lassen, damit Kruste und Krume fertig durchziehen.",
+        "es": "Dejar reposar sobre una rejilla antes de cortar para que la corteza y la miga terminen de asentarse.",
+        "fr": "Laisser reposer sur une grille avant de trancher pour que croûte et mie finissent de se stabiliser.",
+        "ro": "Lasă pe un grătar înainte de a felia, ca coaja și miezul să se stabilizeze complet."
       }
     }
   ],

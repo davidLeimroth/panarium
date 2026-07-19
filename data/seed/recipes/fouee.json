@@ -124,50 +124,98 @@
   "method": [
     {
       "title": {
-        "en": "Quick starter"
+        "en": "Quick starter",
+        "de": "Schneller Vorteig",
+        "es": "Prefermento rápido",
+        "fr": "Levain rapide",
+        "ro": "Maia rapidă"
       },
       "summary": {
-        "en": "Mix a little flour, water, honey and yeast; let it bubble 15-20 minutes."
+        "en": "Mix a little flour, water, honey and yeast; let it bubble 15-20 minutes.",
+        "de": "Etwas Mehl, Wasser, Honig und Hefe verrühren; 15-20 Minuten blasig werden lassen.",
+        "es": "Mezclar un poco de harina, agua, miel y levadura; dejar que burbujee 15-20 minutos.",
+        "fr": "Mélanger un peu de farine, d'eau, de miel et de levure; laisser buller 15-20 minutes.",
+        "ro": "Amestecă puțină făină, apă, miere și drojdie; lasă să facă bule 15-20 de minute."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Add the remaining flours, salt and water; knead about 10 minutes to a firm, smooth dough."
+        "en": "Add the remaining flours, salt and water; knead about 10 minutes to a firm, smooth dough.",
+        "de": "Das restliche Mehl, Salz und Wasser zugeben; etwa 10 Minuten zu einem festen, glatten Teig kneten.",
+        "es": "Añadir el resto de las harinas, la sal y el agua; amasar unos 10 minutos hasta obtener una masa firme y lisa.",
+        "fr": "Ajouter le reste des farines, le sel et l'eau; pétrir environ 10 minutes jusqu'à obtenir une pâte ferme et lisse.",
+        "ro": "Adaugă restul de făină, sarea și apa; frământă aproximativ 10 minute până obții un aluat ferm și neted."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentare în masă"
       },
       "summary": {
-        "en": "Let rise 1 to 1.5 hours."
+        "en": "Let rise 1 to 1.5 hours.",
+        "de": "1 bis 1.5 Stunden gehen lassen.",
+        "es": "Dejar fermentar de 1 a 1.5 horas.",
+        "fr": "Laisser pointer 1 à 1.5 heure.",
+        "ro": "Lasă la fermentat 1 până la 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Divide and shape"
+        "en": "Divide and shape",
+        "de": "Teilen und formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser et façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide into portions, shape into rounds, and let relax briefly."
+        "en": "Divide into portions, shape into rounds, and let relax briefly.",
+        "de": "In Portionen teilen, zu runden Fladen formen und kurz entspannen lassen.",
+        "es": "Dividir en porciones, formar discos redondos y dejar relajar brevemente.",
+        "fr": "Diviser en portions, façonner en boules, et laisser détendre brièvement.",
+        "ro": "Împarte în porții, modelează rotund și lasă să se relaxeze puțin."
       }
     },
     {
       "title": {
-        "en": "Roll thin"
+        "en": "Roll thin",
+        "de": "Dünn ausrollen",
+        "es": "Estirar fino",
+        "fr": "Étaler finement",
+        "ro": "Întinde subțire"
       },
       "summary": {
-        "en": "Roll each piece into a thin disc, about 5mm."
+        "en": "Roll each piece into a thin disc, about 5mm.",
+        "de": "Jedes Stück zu einer dünnen Scheibe ausrollen, etwa 5mm.",
+        "es": "Estirar cada porción en un disco fino, de unos 5mm.",
+        "fr": "Abaisser chaque pâton en un disque fin, environ 5mm.",
+        "ro": "Întinde fiecare bucată într-un disc subțire, de aproximativ 5mm."
       }
     },
     {
       "title": {
-        "en": "Bake and stuff"
+        "en": "Bake and stuff",
+        "de": "Backen und füllen",
+        "es": "Hornear y rellenar",
+        "fr": "Cuire et garnir",
+        "ro": "Coace și umple"
       },
       "summary": {
-        "en": "Bake very hot and fast until it puffs into a hollow pocket; split open immediately and fill with rillettes, garlic butter or goat cheese."
+        "en": "Bake very hot and fast until it puffs into a hollow pocket; split open immediately and fill with rillettes, garlic butter or goat cheese.",
+        "de": "Sehr heiß und schnell backen, bis sich eine hohle Tasche bildet; sofort aufschneiden und mit Rillettes, Knoblauchbutter oder Ziegenkäse füllen.",
+        "es": "Hornear muy caliente y rápido hasta que se infle en una bolsa hueca; abrirla de inmediato y rellenar con rillettes, mantequilla de ajo o queso de cabra.",
+        "fr": "Cuire très chaud et rapidement jusqu'à ce que ça gonfle en poche creuse; fendre aussitôt et garnir de rillettes, de beurre à l'ail ou de fromage de chèvre.",
+        "ro": "Coace foarte fierbinte și rapid până se umflă într-un buzunar gol; taie imediat și umple cu rillettes, unt cu usturoi sau brânză de capră."
       }
     }
   ],

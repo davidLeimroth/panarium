@@ -104,50 +104,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Stir atta, salt and warm water into a shaggy mass, then knead 5-8 minutes to a soft, smooth, tacky-but-not-sticky dough."
+        "en": "Stir atta, salt and warm water into a shaggy mass, then knead 5-8 minutes to a soft, smooth, tacky-but-not-sticky dough.",
+        "de": "Atta, Salz und warmes Wasser zu einer groben Masse verrühren, dann 5-8 Minuten kneten, bis ein weicher, glatter, griffiger, aber nicht klebriger Teig entsteht.",
+        "es": "Mezclar la atta, la sal y el agua tibia hasta formar una masa tosca, luego amasar 5-8 minutos hasta lograr una masa suave, lisa y ligeramente pegajosa.",
+        "fr": "Mélanger l'atta, le sel et l'eau tiède en une masse grossière, puis pétrir 5-8 minutes jusqu'à obtenir une pâte souple, lisse et à peine collante.",
+        "ro": "Amestecă atta, sarea și apa călduță într-o masă grunjoasă, apoi frământă 5-8 minute până obții un aluat moale, neted, puțin lipicios."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposo",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cover and rest 10-15 minutes (or up to a day chilled) so the bran hydrates fully and the dough relaxes."
+        "en": "Cover and rest 10-15 minutes (or up to a day chilled) so the bran hydrates fully and the dough relaxes.",
+        "de": "Zugedeckt 10-15 Minuten ruhen lassen (oder bis zu einen Tag gekühlt), damit die Kleie voll durchfeuchtet und der Teig entspannt.",
+        "es": "Tapar y dejar reposar 10-15 minutos (o hasta un día en frío) para que el salvado se hidrate del todo y la masa se relaje.",
+        "fr": "Couvrir et laisser reposer 10-15 minutes (ou jusqu'à un jour au frais) pour que le son s'hydrate bien et que la pâte se détende.",
+        "ro": "Acoperă și lasă la odihnă 10-15 minute (sau până la o zi la frigider) ca tărâța să se hidrateze complet și aluatul să se relaxeze."
       }
     },
     {
       "title": {
-        "en": "Divide & roll"
+        "en": "Divide & roll",
+        "de": "Teilen & ausrollen",
+        "es": "Dividir y estirar",
+        "fr": "Diviser et étaler",
+        "ro": "Împarte și întinde"
       },
       "summary": {
-        "en": "Divide into equal balls, then roll each into a thin, even round, dusting lightly with flour."
+        "en": "Divide into equal balls, then roll each into a thin, even round, dusting lightly with flour.",
+        "de": "In gleich große Kugeln teilen, dann jede dünn und gleichmäßig rund ausrollen, dabei leicht mit Mehl bestäuben.",
+        "es": "Dividir en bolas iguales y estirar cada una en un disco fino y uniforme, enharinando ligeramente.",
+        "fr": "Diviser en boules égales, puis étaler chacune en un disque fin et régulier, en farinant légèrement.",
+        "ro": "Împarte în bile egale, apoi întinde fiecare într-un disc subțire și uniform, presărând puțină făină."
       }
     },
     {
       "title": {
-        "en": "First flip"
+        "en": "First flip",
+        "de": "Erstes Wenden",
+        "es": "Primera vuelta",
+        "fr": "Premier retournement",
+        "ro": "Prima întoarcere"
       },
       "summary": {
-        "en": "Lay on a hot dry tawa and flip as soon as the underside sets, after about 10-15 seconds."
+        "en": "Lay on a hot dry tawa and flip as soon as the underside sets, after about 10-15 seconds.",
+        "de": "Auf eine heiße, trockene Tawa legen und wenden, sobald die Unterseite fest wird, nach etwa 10-15 Sekunden.",
+        "es": "Colocar sobre una tawa caliente y seca, y dar la vuelta en cuanto la base cuaje, tras unos 10-15 segundos.",
+        "fr": "Poser sur une tawa chaude et sèche, puis retourner dès que le dessous est pris, après environ 10-15 secondes.",
+        "ro": "Așază pe o tawa fierbinte și uscată și întoarce imediat ce partea de jos se fixează, după circa 10-15 secunde."
       }
     },
     {
       "title": {
-        "en": "Second flip & puff"
+        "en": "Second flip & puff",
+        "de": "Zweites Wenden & Aufblähen",
+        "es": "Segunda vuelta e hinchado",
+        "fr": "Deuxième retournement et gonflage",
+        "ro": "A doua întoarcere și umflare"
       },
       "summary": {
-        "en": "Cook until small bubbles and brown specks appear, flip again, then hold briefly over an open flame or press gently so it puffs with trapped steam."
+        "en": "Cook until small bubbles and brown specks appear, flip again, then hold briefly over an open flame or press gently so it puffs with trapped steam.",
+        "de": "Backen, bis kleine Blasen und braune Flecken entstehen, erneut wenden, dann kurz über offener Flamme halten oder sanft andrücken, damit sie sich mit Dampf aufbläht.",
+        "es": "Cocinar hasta que aparezcan burbujas y manchas doradas, dar la vuelta otra vez, luego sostener brevemente sobre la llama o presionar con suavidad para que se hinche con el vapor atrapado.",
+        "fr": "Cuire jusqu'à l'apparition de petites bulles et de taches brunes, retourner à nouveau, puis tenir brièvement au-dessus d'une flamme nue ou presser doucement pour qu'elle gonfle sous la vapeur emprisonnée.",
+        "ro": "Coace până apar bășici mici și pete brune, întoarce din nou, apoi ține scurt deasupra flăcării sau apasă ușor ca să se umfle cu aburul prins înăuntru."
       }
     },
     {
       "title": {
-        "en": "Finish"
+        "en": "Finish",
+        "de": "Fertigstellen",
+        "es": "Terminar",
+        "fr": "Finition",
+        "ro": "Finalizare"
       },
       "summary": {
-        "en": "Stack warm in a cloth-lined container, brushing with ghee or butter if desired."
+        "en": "Stack warm in a cloth-lined container, brushing with ghee or butter if desired.",
+        "de": "Warm in einem mit Tuch ausgelegten Behälter stapeln, nach Belieben mit Ghee oder Butter bestreichen.",
+        "es": "Apilar calientes en un recipiente forrado con un paño, untando con ghee o mantequilla si lo deseas.",
+        "fr": "Empiler chaudes dans un récipient tapissé d'un linge, en badigeonnant de ghee ou de beurre si désiré.",
+        "ro": "Așază-le calde, stivuite, într-un vas căptușit cu un prosop curat, ungându-le cu ghee sau unt, după preferință."
       }
     }
   ],

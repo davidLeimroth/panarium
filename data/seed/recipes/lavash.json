@@ -121,58 +121,114 @@
   "method": [
     {
       "title": {
-        "en": "Activate yeast"
+        "en": "Activate yeast",
+        "de": "Hefe aktivieren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Whisk yeast into warm water and milk with the oil and honey; let stand until foamy."
+        "en": "Whisk yeast into warm water and milk with the oil and honey; let stand until foamy.",
+        "de": "Hefe mit Öl und Honig in warmes Wasser und warme Milch einrühren; stehen lassen, bis es schäumt.",
+        "es": "Batir la levadura en agua y leche tibias con el aceite y la miel; dejar reposar hasta que espume.",
+        "fr": "Délayer la levure dans l'eau et le lait tièdes avec l'huile et le miel; laisser reposer jusqu'à ce que ça mousse.",
+        "ro": "Amestecă drojdia în apă și lapte călduț cu uleiul și mierea; lasă la odihnă până face spumă."
       }
     },
     {
       "title": {
-        "en": "Mix & knead"
+        "en": "Mix & knead",
+        "de": "Mischen & kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Stir in flour and salt, then knead about 7-10 minutes to a smooth, soft dough."
+        "en": "Stir in flour and salt, then knead about 7-10 minutes to a smooth, soft dough.",
+        "de": "Mehl und Salz einrühren, dann etwa 7-10 Minuten zu einem glatten, weichen Teig kneten.",
+        "es": "Incorporar la harina y la sal, luego amasar unos 7-10 minutos hasta obtener una masa lisa y blanda.",
+        "fr": "Incorporer la farine et le sel, puis pétrir environ 7-10 minutes jusqu'à obtenir une pâte lisse et souple.",
+        "ro": "Adaugă făina și sarea, apoi frământă circa 7-10 minute până obții un aluat neted și moale."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Primera fermentación",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise about an hour until doubled."
+        "en": "Cover and let rise about an hour until doubled.",
+        "de": "Zugedeckt etwa eine Stunde gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Tapar y dejar fermentar en bloque cerca de una hora, hasta que doble su volumen.",
+        "fr": "Couvrir et laisser pointer environ une heure, jusqu'à ce que la pâte double de volume.",
+        "ro": "Acoperă și lasă la fermentat circa o oră, până își dublează volumul."
       }
     },
     {
       "title": {
-        "en": "Divide & rest"
+        "en": "Divide & rest",
+        "de": "Teilen & ruhen",
+        "es": "Dividir y reposar",
+        "fr": "Diviser et détendre",
+        "ro": "Divide și odihnește"
       },
       "summary": {
-        "en": "Divide into pieces, shape into balls, and let relax 10-15 minutes."
+        "en": "Divide into pieces, shape into balls, and let relax 10-15 minutes.",
+        "de": "In Stücke teilen, zu Kugeln formen und 10-15 Minuten entspannen lassen.",
+        "es": "Dividir en porciones, bolear y dejar relajar 10-15 minutos.",
+        "fr": "Diviser en pâtons, bouler et laisser détendre 10-15 minutes.",
+        "ro": "Împarte în bucăți, rotunjește în bile și lasă să se relaxeze 10-15 minute."
       }
     },
     {
       "title": {
-        "en": "Roll paper-thin"
+        "en": "Roll paper-thin",
+        "de": "Hauchdünn ausrollen",
+        "es": "Estirar bien fina",
+        "fr": "Étaler très finement",
+        "ro": "Întinde foarte subțire"
       },
       "summary": {
-        "en": "Roll each piece out as thin as possible on a floured surface."
+        "en": "Roll each piece out as thin as possible on a floured surface.",
+        "de": "Jedes Stück auf einer bemehlten Fläche so dünn wie möglich ausrollen.",
+        "es": "Estirar cada porción lo más fina posible sobre una superficie enharinada.",
+        "fr": "Étaler chaque pâton le plus finement possible sur un plan fariné.",
+        "ro": "Întinde fiecare bucată cât mai subțire pe o suprafață făinată."
       }
     },
     {
       "title": {
-        "en": "Griddle-cook"
+        "en": "Griddle-cook",
+        "de": "Auf der Platte backen",
+        "es": "Cocinar en plancha",
+        "fr": "Cuire à la plaque",
+        "ro": "Coace pe plită"
       },
       "summary": {
-        "en": "Cook on a lightly oiled, medium-hot griddle about 45-60 seconds per side until spotted and bubbling."
+        "en": "Cook on a lightly oiled, medium-hot griddle about 45-60 seconds per side until spotted and bubbling.",
+        "de": "Auf einer leicht geölten, mittelheißen Platte etwa 45-60 Sekunden pro Seite backen, bis Blasen und Flecken entstehen.",
+        "es": "Cocinar en una plancha ligeramente aceitada a fuego medio unos 45-60 segundos por lado, hasta que salgan burbujas y manchas doradas.",
+        "fr": "Cuire sur une plaque légèrement huilée à feu moyen environ 45-60 secondes de chaque côté, jusqu'à ce que des bulles et des taches apparaissent.",
+        "ro": "Coace pe o plită unsă ușor cu ulei, la foc mediu, circa 45-60 de secunde pe fiecare parte, până apar pete și băși."
       }
     },
     {
       "title": {
-        "en": "Keep soft"
+        "en": "Keep soft",
+        "de": "Weich halten",
+        "es": "Mantener blando",
+        "fr": "Garder souple",
+        "ro": "Păstrează-le moi"
       },
       "summary": {
-        "en": "Stack under a towel while warm so the sheets stay pliable for wrapping."
+        "en": "Stack under a towel while warm so the sheets stay pliable for wrapping.",
+        "de": "Warm unter einem Tuch stapeln, damit die Fladen geschmeidig bleiben und sich zum Wickeln eignen.",
+        "es": "Apilar bajo un paño mientras estén calientes para que las láminas queden flexibles y sirvan para envolver.",
+        "fr": "Empiler sous un torchon pendant qu'elles sont chaudes pour que les feuilles restent souples à rouler.",
+        "ro": "Stivuiește sub un prosop cât sunt calde, ca foile să rămână elastice pentru rulat."
       }
     }
   ],

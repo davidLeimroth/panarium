@@ -126,34 +126,66 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine fonio flour, flour (or self-raising flour), baking powder, salt, sugar, plant milk and oil in a bowl until you have a thick, uniform batter."
+        "en": "Combine fonio flour, flour (or self-raising flour), baking powder, salt, sugar, plant milk and oil in a bowl until you have a thick, uniform batter.",
+        "de": "Fonio-Mehl, Mehl (oder selbstreiches Mehl), Backpulver, Salz, Zucker, Pflanzenmilch und Öl in einer Schüssel verrühren, bis ein dicker, gleichmäßiger Teig entsteht.",
+        "es": "Combinar la harina de fonio, harina (o harina con levadura incorporada), levadura en polvo, sal, azúcar, leche vegetal y aceite en un bol hasta obtener una masa espesa y uniforme.",
+        "fr": "Combiner la farine de fonio, la farine (ou farine à levure incorporée), la levure chimique, le sel, le sucre, le lait végétal et l'huile dans un bol jusqu'à obtenir une pâte épaisse et homogène.",
+        "ro": "Combină făina de fonio, făina (sau făină cu praf de copt inclus), praful de copt, sarea, zahărul, laptele vegetal și uleiul într-un bol, până obții o compoziție groasă și uniformă."
       }
     },
     {
       "title": {
-        "en": "Pan"
+        "en": "Pan",
+        "de": "In die Form füllen",
+        "es": "Verter en el molde",
+        "fr": "Verser dans le moule",
+        "ro": "Toarnă în formă"
       },
       "summary": {
-        "en": "Pour into a lightly greased loaf tin, or divide among lined cupcake cases for individual portions."
+        "en": "Pour into a lightly greased loaf tin, or divide among lined cupcake cases for individual portions.",
+        "de": "In eine leicht gefettete Kastenform gießen oder auf ausgelegte Muffinförmchen verteilen für einzelne Portionen.",
+        "es": "Verter en un molde para pan ligeramente engrasado, o repartirla en cápsulas de magdalenas para porciones individuales.",
+        "fr": "Verser dans un moule à cake légèrement graissé, ou répartir dans des caissettes à muffins pour des portions individuelles.",
+        "ro": "Toarnă compoziția într-o formă de chec unsă ușor, sau împarte-o în forme de brioșe pentru porții individuale."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 180°C for about 25 minutes until a skewer comes out clean."
+        "en": "Bake at 180°C for about 25 minutes until a skewer comes out clean.",
+        "de": "Bei 180°C etwa 25 Minuten backen, bis ein Spieß sauber herauskommt.",
+        "es": "Hornear a 180°C durante unos 25 minutos, hasta que un palillo salga limpio.",
+        "fr": "Cuire à 180°C pendant environ 25 minutes, jusqu'à ce qu'une brochette ressorte propre.",
+        "ro": "Coace la 180°C timp de aproximativ 25 de minute, până când o scobitoare iese curată."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool completely on a wire rack before serving."
+        "en": "Cool completely on a wire rack before serving.",
+        "de": "Vollständig auf einem Kuchengitter auskühlen lassen, bevor serviert wird.",
+        "es": "Dejar enfriar por completo sobre una rejilla antes de servir.",
+        "fr": "Laisser refroidir complètement sur une grille avant de servir.",
+        "ro": "Lasă la răcit complet pe un grătar de bucătărie înainte de servire."
       }
     }
   ],

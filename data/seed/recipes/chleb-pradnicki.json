@@ -111,58 +111,114 @@
   "method": [
     {
       "title": {
-        "en": "Feed the starter"
+        "en": "Feed the starter",
+        "de": "Anstellgut füttern",
+        "es": "Alimentar la masa madre",
+        "fr": "Nourrir le levain",
+        "ro": "Hrănește maiaua"
       },
       "summary": {
-        "en": "Build or refresh an active rye sourdough starter."
+        "en": "Build or refresh an active rye sourdough starter.",
+        "de": "Ein aktives Roggensauerteig-Anstellgut ansetzen oder auffrischen.",
+        "es": "Preparar o refrescar una masa madre de centeno activa.",
+        "fr": "Préparer ou rafraîchir un levain de seigle actif.",
+        "ro": "Pregătește sau reîmprospătează o maia activă de secară."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the starter with rye flour and warm water; rest covered 8 hours or overnight."
+        "en": "Combine the starter with rye flour and warm water; rest covered 8 hours or overnight.",
+        "de": "Das Anstellgut mit Roggenmehl und warmem Wasser vermengen; zugedeckt 8 Stunden oder über Nacht ruhen lassen.",
+        "es": "Combinar la masa madre con harina de centeno y agua tibia; dejar reposar tapado 8 horas o toda la noche.",
+        "fr": "Combiner le levain avec la farine de seigle et l'eau tiède; laisser reposer couvert 8 heures ou toute la nuit.",
+        "ro": "Combină maiaua cu făina de secară și apa călduță; lasă acoperit la odihnă 8 ore sau peste noapte."
       }
     },
     {
       "title": {
-        "en": "Season"
+        "en": "Season",
+        "de": "Würzen",
+        "es": "Sazonar",
+        "fr": "Assaisonner",
+        "ro": "Asezonează"
       },
       "summary": {
-        "en": "Work in the remaining water and salt, then knead in the sunflower seeds and more rye flour to a workable, slightly sticky dough."
+        "en": "Work in the remaining water and salt, then knead in the sunflower seeds and more rye flour to a workable, slightly sticky dough.",
+        "de": "Das restliche Wasser und Salz einarbeiten, dann die Sonnenblumenkerne und mehr Roggenmehl einkneten, bis ein formbarer, leicht klebriger Teig entsteht.",
+        "es": "Incorporar el agua restante y la sal, luego amasar las pipas de girasol y más harina de centeno hasta lograr una masa manejable y algo pegajosa.",
+        "fr": "Incorporer le reste de l'eau et le sel, puis pétrir avec les graines de tournesol et plus de farine de seigle pour obtenir une pâte maniable, légèrement collante.",
+        "ro": "Încorporează apa rămasă și sarea, apoi frământă semințele de floarea-soarelui și încă făină de secară, până obții un aluat lucrabil, ușor lipicios."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide between two loaf pans and score the tops in a criss-cross pattern."
+        "en": "Divide between two loaf pans and score the tops in a criss-cross pattern.",
+        "de": "Auf zwei Kastenformen verteilen und die Oberseite gitterförmig einschneiden.",
+        "es": "Dividir entre dos moldes de pan y greñar la superficie en forma de rejilla.",
+        "fr": "Répartir dans deux moules à cake et grigner le dessus en quadrillage.",
+        "ro": "Împarte în două forme de pâine și crestează deasupra în model de grilaj."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gare",
+        "es": "Fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire"
       },
       "summary": {
-        "en": "Brush with boiling water and let rise about 2 hours in a warm spot."
+        "en": "Brush with boiling water and let rise about 2 hours in a warm spot.",
+        "de": "Mit kochendem Wasser bestreichen und etwa 2 Stunden an einem warmen Ort gehen lassen.",
+        "es": "Pintar con agua hirviendo y dejar levar unas 2 horas en un lugar cálido.",
+        "fr": "Badigeonner d'eau bouillante et laisser lever environ 2 heures dans un endroit chaud.",
+        "ro": "Unge cu apă clocotită și lasă la crescut circa 2 ore într-un loc călduț."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Blast the oven at maximum heat, then bake at 200°C, brushing again with boiling water partway through."
+        "en": "Blast the oven at maximum heat, then bake at 200°C, brushing again with boiling water partway through.",
+        "de": "Den Ofen zunächst auf höchste Stufe aufheizen, dann bei 200°C backen und zwischendurch nochmals mit kochendem Wasser bestreichen.",
+        "es": "Precalentar el horno al máximo, luego hornear a 200°C, pintando de nuevo con agua hirviendo a mitad de cocción.",
+        "fr": "Chauffer le four à pleine puissance, puis cuire à 200°C en badigeonnant à nouveau d'eau bouillante à mi-cuisson.",
+        "ro": "Încinge cuptorul la maximum, apoi coace la 200°C, ungând din nou cu apă clocotită la jumătatea coacerii."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposo",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cool completely; the flavor is best from the second day on."
+        "en": "Cool completely; the flavor is best from the second day on.",
+        "de": "Vollständig abkühlen lassen; der Geschmack ist ab dem zweiten Tag am besten.",
+        "es": "Dejar enfriar por completo; el sabor es mejor a partir del segundo día.",
+        "fr": "Laisser refroidir complètement; la saveur est meilleure à partir du deuxième jour.",
+        "ro": "Lasă să se răcească complet; gustul este cel mai bun începând din a doua zi."
       }
     }
   ],

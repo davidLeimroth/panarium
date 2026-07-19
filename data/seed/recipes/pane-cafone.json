@@ -102,50 +102,98 @@
   "method": [
     {
       "title": {
-        "en": "Build a starter"
+        "en": "Build a starter",
+        "de": "Vorteig ansetzen",
+        "es": "Preparar un prefermento",
+        "fr": "Préparer un levain",
+        "ro": "Pregătește o maia"
       },
       "summary": {
-        "en": "The night before, mix a small amount of flour, water, a pinch of yeast and salt into a firm starter (lievitino) and let it rest 12 hours at room temperature."
+        "en": "The night before, mix a small amount of flour, water, a pinch of yeast and salt into a firm starter (lievitino) and let it rest 12 hours at room temperature.",
+        "de": "Am Vorabend eine kleine Menge Mehl, Wasser, eine Prise Hefe und Salz zu einem festen Vorteig (lievitino) verrühren und 12 Stunden bei Raumtemperatur ruhen lassen.",
+        "es": "La noche anterior, mezclar una pequeña cantidad de harina, agua, una pizca de levadura y sal en un prefermento firme (lievitino) y dejar reposar 12 horas a temperatura ambiente.",
+        "fr": "La veille au soir, mélanger une petite quantité de farine, d'eau, une pincée de levure et de sel en un levain ferme (lievitino) et laisser reposer 12 heures à température ambiante.",
+        "ro": "Cu o seară înainte, amestecă puțină făină, apă, un vârf de drojdie și sare într-o maia fermă (lievitino) și lasă la odihnă 12 ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the mature starter with most of the remaining flour and water in a mixer for about 10 minutes, then work in the last of the salt and water gradually over another 20 minutes."
+        "en": "Combine the mature starter with most of the remaining flour and water in a mixer for about 10 minutes, then work in the last of the salt and water gradually over another 20 minutes.",
+        "de": "Den reifen Vorteig mit dem Großteil des restlichen Mehls und Wassers etwa 10 Minuten in der Maschine verarbeiten, dann Rest von Salz und Wasser über weitere 20 Minuten nach und nach einarbeiten.",
+        "es": "Combinar el prefermento maduro con la mayor parte de la harina y el agua restantes en una amasadora durante unos 10 minutos, luego incorporar el resto de la sal y el agua poco a poco durante otros 20 minutos.",
+        "fr": "Combiner le levain mûr avec la majeure partie de la farine et de l'eau restantes au batteur pendant environ 10 minutes, puis incorporer le reste du sel et de l'eau progressivement sur 20 minutes de plus.",
+        "ro": "Combină maiaua coaptă cu cea mai mare parte din făina și apa rămase, la mixer, timp de aproximativ 10 minute, apoi încorporează treptat restul de sare și apă în încă 20 de minute."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let the dough rest about 45 minutes."
+        "en": "Let the dough rest about 45 minutes.",
+        "de": "Den Teig etwa 45 Minuten ruhen lassen.",
+        "es": "Dejar reposar la masa unos 45 minutos.",
+        "fr": "Laisser reposer la pâte environ 45 minutes.",
+        "ro": "Lasă aluatul la odihnă aproximativ 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Fold and rise again"
+        "en": "Fold and rise again",
+        "de": "Falten und weiter gehen lassen",
+        "es": "Plegar y fermentar de nuevo",
+        "fr": "Rabattre et repousser",
+        "ro": "Pliază și lasă din nou la dospit"
       },
       "summary": {
-        "en": "Fold gently and let it rise a further 2 hours."
+        "en": "Fold gently and let it rise a further 2 hours.",
+        "de": "Sanft falten und weitere 2 Stunden gehen lassen.",
+        "es": "Plegar con suavidad y dejar fermentar 2 horas más.",
+        "fr": "Rabattre délicatement et laisser pousser encore 2 heures.",
+        "ro": "Pliază ușor și lasă la crescut încă 2 ore."
       }
     },
     {
       "title": {
-        "en": "Shape and proof"
+        "en": "Shape and proof",
+        "de": "Formen und Gare",
+        "es": "Formar y fermentar",
+        "fr": "Façonner et pousser",
+        "ro": "Modelează și dospește"
       },
       "summary": {
-        "en": "Shape into one large rustic loaf and proof about 90 minutes."
+        "en": "Shape into one large rustic loaf and proof about 90 minutes.",
+        "de": "Zu einem großen, rustikalen Laib formen und etwa 90 Minuten gehen lassen.",
+        "es": "Formar una gran hogaza rústica y dejar fermentar unos 90 minutos.",
+        "fr": "Façonner en un grand pain rustique et laisser pousser environ 90 minutes.",
+        "ro": "Modelează o pâine mare, rustică, și lasă la dospit aproximativ 90 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake in two stages"
+        "en": "Bake in two stages",
+        "de": "In zwei Stufen backen",
+        "es": "Hornear en dos etapas",
+        "fr": "Cuire en deux temps",
+        "ro": "Coace în două etape"
       },
       "summary": {
-        "en": "Bake at 220°C for 20 minutes, then lower to 200°C for 35-40 minutes more, cracking the oven door near the end for a thick, crackling crust."
+        "en": "Bake at 220°C for 20 minutes, then lower to 200°C for 35-40 minutes more, cracking the oven door near the end for a thick, crackling crust.",
+        "de": "Bei 220°C 20 Minuten backen, dann auf 200°C senken und 35-40 Minuten weiterbacken, gegen Ende die Ofentür einen Spalt öffnen für eine dicke, knusprige Kruste.",
+        "es": "Hornear a 220°C durante 20 minutos, luego bajar a 200°C durante 35-40 minutos más, entreabriendo la puerta del horno hacia el final para una corteza gruesa y crujiente.",
+        "fr": "Cuire à 220°C pendant 20 minutes, puis baisser à 200°C pendant 35-40 minutes de plus, en entrouvrant la porte du four vers la fin pour une croûte épaisse et craquante.",
+        "ro": "Coace la 220°C timp de 20 de minute, apoi redu la 200°C pentru încă 35-40 de minute, întredeschizând ușa cuptorului spre final pentru o coajă groasă și crocantă."
       }
     }
   ],

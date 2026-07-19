@@ -109,50 +109,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, yeast, baking powder and sugar, then gradually work in water to a smooth, medium-firm dough."
+        "en": "Combine flour, yeast, baking powder and sugar, then gradually work in water to a smooth, medium-firm dough.",
+        "de": "Mehl, Hefe, Backpulver und Zucker vermengen, dann nach und nach Wasser einarbeiten zu einem glatten, mittelfesten Teig.",
+        "es": "Combinar la harina, la levadura, el polvo de hornear y el azúcar, luego incorporar el agua poco a poco hasta lograr una masa lisa y de firmeza media.",
+        "fr": "Combiner la farine, la levure, la levure chimique et le sucre, puis incorporer l'eau petit à petit pour une pâte lisse et de fermeté moyenne.",
+        "ro": "Combină făina, drojdia, praful de copt și zahărul, apoi încorporează treptat apa, până obții un aluat neted, de consistență medie."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead until completely smooth, resting partway through if working by hand."
+        "en": "Knead until completely smooth, resting partway through if working by hand.",
+        "de": "Kneten, bis der Teig völlig glatt ist; bei Handarbeit zwischendurch eine Pause einlegen.",
+        "es": "Amasar hasta que quede completamente lisa, haciendo una pausa a mitad de camino si se amasa a mano.",
+        "fr": "Pétrir jusqu'à obtenir une pâte parfaitement lisse, en marquant une pause à mi-parcours si vous pétrissez à la main.",
+        "ro": "Frământă până devine complet neted, făcând o pauză la jumătate dacă lucrezi manual."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into six pieces and roll each between your palms into a taut, smooth ball."
+        "en": "Divide into six pieces and roll each between your palms into a taut, smooth ball.",
+        "de": "In sechs Stücke teilen und jedes zwischen den Handflächen zu einer straffen, glatten Kugel rollen.",
+        "es": "Dividir en seis porciones y rodar cada una entre las palmas hasta formar una bola tersa y lisa.",
+        "fr": "Diviser en six pâtons et rouler chacun entre les paumes en une boule ferme et lisse.",
+        "ro": "Împarte în șase bucăți și rulează fiecare între palme, până obții o bilă netedă și fermă."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gare",
+        "es": "Fermentar",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Set the buns in a steamer basket and let them puff for about 30 minutes at room temperature."
+        "en": "Set the buns in a steamer basket and let them puff for about 30 minutes at room temperature.",
+        "de": "Die Teiglinge in den Dämpfkorb setzen und bei Raumtemperatur etwa 30 Minuten aufgehen lassen.",
+        "es": "Colocar los panecillos en la vaporera y dejar que fermenten unos 30 minutos a temperatura ambiente.",
+        "fr": "Déposer les brioches dans le panier vapeur et laisser gonfler environ 30 minutes à température ambiante.",
+        "ro": "Așază chiflele în coșul de aburit și lasă-le să crească circa 30 de minute la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Steam"
+        "en": "Steam",
+        "de": "Dämpfen",
+        "es": "Cocer al vapor",
+        "fr": "Cuire à la vapeur",
+        "ro": "Fierbe la abur"
       },
       "summary": {
-        "en": "Set the steamer over cold water, bring to a boil, then reduce to medium-low and steam 10-12 minutes."
+        "en": "Set the steamer over cold water, bring to a boil, then reduce to medium-low and steam 10-12 minutes.",
+        "de": "Den Dämpfer über kaltem Wasser aufsetzen, zum Kochen bringen, dann auf mittlere bis niedrige Hitze reduzieren und 10-12 Minuten dämpfen.",
+        "es": "Colocar la vaporera sobre agua fría, llevar a ebullición, luego bajar a fuego medio-bajo y cocer al vapor 10-12 minutos.",
+        "fr": "Placer le panier vapeur au-dessus d'eau froide, porter à ébullition, puis réduire à feu moyen-doux et cuire à la vapeur 10-12 minutes.",
+        "ro": "Așază aburitorul deasupra apei reci, adu la fierbere, apoi redu la foc mediu-mic și fierbe la abur 10-12 minute."
       }
     },
     {
       "title": {
-        "en": "Rest before opening"
+        "en": "Rest before opening",
+        "de": "Vor dem Öffnen ruhen",
+        "es": "Reposar antes de abrir",
+        "fr": "Reposer avant d'ouvrir",
+        "ro": "Odihnește înainte să deschizi"
       },
       "summary": {
-        "en": "Let the buns sit off the heat for a couple of minutes before lifting the lid so they don't collapse in the temperature shock."
+        "en": "Let the buns sit off the heat for a couple of minutes before lifting the lid so they don't collapse in the temperature shock.",
+        "de": "Die Brötchen nach dem Garen noch ein paar Minuten stehen lassen, bevor der Deckel abgenommen wird, damit sie durch den Temperaturschock nicht zusammenfallen.",
+        "es": "Dejar los panecillos fuera del fuego un par de minutos antes de levantar la tapa, para que no se desinflen por el cambio brusco de temperatura.",
+        "fr": "Laisser les brioches hors du feu quelques minutes avant de soulever le couvercle, pour éviter qu'elles ne s'affaissent sous le choc thermique.",
+        "ro": "Lasă chiflele deoparte de foc câteva minute înainte de a ridica capacul, ca să nu se lase din cauza șocului de temperatură."
       }
     }
   ],

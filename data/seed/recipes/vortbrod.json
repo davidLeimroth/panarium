@@ -165,58 +165,114 @@
   "method": [
     {
       "title": {
-        "en": "Reduce the beer"
+        "en": "Reduce the beer",
+        "de": "Bier reduzieren",
+        "es": "Reducir la cerveza",
+        "fr": "Réduire la bière",
+        "ro": "Reduce berea"
       },
       "summary": {
-        "en": "Bring the beer to a boil and reduce by roughly half; cool to room temperature."
+        "en": "Bring the beer to a boil and reduce by roughly half; cool to room temperature.",
+        "de": "Das Bier aufkochen und um etwa die Hälfte einkochen lassen; auf Raumtemperatur abkühlen lassen.",
+        "es": "Llevar la cerveza a ebullición y reducir aproximadamente a la mitad; dejar enfriar a temperatura ambiente.",
+        "fr": "Porter la bière à ébullition et la réduire d'environ moitié ; laisser refroidir à température ambiante.",
+        "ro": "Adu berea la fierbere și redu-o cu aproximativ jumătate; lasă să se răcească la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Crumble yeast into the cooled beer along with the oil and syrup."
+        "en": "Crumble yeast into the cooled beer along with the oil and syrup.",
+        "de": "Die Hefe zusammen mit Öl und Sirup in das abgekühlte Bier bröckeln.",
+        "es": "Desmenuzar la levadura en la cerveza fría junto con el aceite y el sirope.",
+        "fr": "Émietter la levure dans la bière refroidie avec l'huile et le sirop.",
+        "ro": "Sfărâmă drojdia în berea răcită, împreună cu uleiul și siropul."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Melt butter with the ginger, cloves, orange peel, cardamom and salt, cool slightly, then stir in; add the raisins and work in the rye flour to a soft, elastic dough."
+        "en": "Melt butter with the ginger, cloves, orange peel, cardamom and salt, cool slightly, then stir in; add the raisins and work in the rye flour to a soft, elastic dough.",
+        "de": "Butter mit Ingwer, Nelken, Orangenschale, Kardamom und Salz schmelzen, leicht abkühlen lassen, dann einrühren; die Rosinen zugeben und das Roggenmehl einarbeiten zu einem weichen, elastischen Teig.",
+        "es": "Derretir la mantequilla con el jengibre, los clavos, la piel de naranja, el cardamomo y la sal, dejar enfriar un poco, luego incorporar; añadir las pasas y trabajar la harina de centeno hasta obtener una masa blanda y elástica.",
+        "fr": "Faire fondre le beurre avec le gingembre, les clous de girofle, l'écorce d'orange, la cardamome et le sel, laisser tiédir un peu, puis incorporer ; ajouter les raisins secs et travailler la farine de seigle jusqu'à une pâte souple et élastique.",
+        "ro": "Topește untul cu ghimbirul, cuișoarele, coaja de portocală, cardamomul și sarea, lasă să se răcească puțin, apoi încorporează; adaugă stafidele și încorporează făina de secară până obții un aluat moale și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let double in size, about an hour."
+        "en": "Cover and let double in size, about an hour.",
+        "de": "Zugedeckt verdoppeln lassen, etwa eine Stunde.",
+        "es": "Tapar y dejar que doble su volumen, aproximadamente una hora.",
+        "fr": "Couvrir et laisser doubler de volume, environ une heure.",
+        "ro": "Acoperă și lasă să se dubleze, aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide in two and shape into oblong loaves on a lined tray."
+        "en": "Divide in two and shape into oblong loaves on a lined tray.",
+        "de": "Halbieren und zu länglichen Broten auf einem ausgelegten Blech formen.",
+        "es": "Dividir en dos y dar forma alargada sobre una bandeja forrada.",
+        "fr": "Diviser en deux et façonner en pains allongés sur une plaque garnie.",
+        "ro": "Împarte în două și modelează pâini alungite pe o tavă căptușită."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover and rest about an hour."
+        "en": "Cover and rest about an hour.",
+        "de": "Zugedeckt etwa eine Stunde ruhen lassen.",
+        "es": "Tapar y dejar reposar aproximadamente una hora.",
+        "fr": "Couvrir et laisser reposer environ une heure.",
+        "ro": "Acoperă și lasă să stea aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at a moderate temperature, then lower the heat and finish until deeply colored, about 50 minutes total."
+        "en": "Bake at a moderate temperature, then lower the heat and finish until deeply colored, about 50 minutes total.",
+        "de": "Bei mäßiger Temperatur backen, dann die Hitze senken und fertigbacken, bis es tief gefärbt ist, insgesamt etwa 50 Minuten.",
+        "es": "Hornear a temperatura moderada, luego bajar el calor y terminar hasta que tenga un color intenso, unos 50 minutos en total.",
+        "fr": "Cuire à température modérée, puis baisser la chaleur et terminer jusqu'à une couleur soutenue, environ 50 minutes au total.",
+        "ro": "Coace la temperatură moderată, apoi redu focul și termină coacerea până capătă o culoare intensă, aproximativ 50 de minute în total."
       }
     }
   ],

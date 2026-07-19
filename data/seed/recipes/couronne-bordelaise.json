@@ -117,50 +117,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine water, salt and levain, then work in the two flours and yeast to a smooth dough; knead well."
+        "en": "Combine water, salt and levain, then work in the two flours and yeast to a smooth dough; knead well.",
+        "de": "Wasser, Salz und Levain verbinden, dann die zwei Mehle und die Hefe zu einem glatten Teig einarbeiten; gut kneten.",
+        "es": "Combinar agua, sal y levain, luego incorporar las dos harinas y la levadura hasta obtener una masa lisa; amasar bien.",
+        "fr": "Combiner l'eau, le sel et le levain, puis incorporer les deux farines et la levure pour une pâte lisse; bien pétrir.",
+        "ro": "Combină apa, sarea și levain-ul, apoi încorporează cele două făini și drojdia într-un aluat neted; frământă bine."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Ferment until roughly doubled."
+        "en": "Ferment until roughly doubled.",
+        "de": "Fermentieren, bis sich der Teig etwa verdoppelt hat.",
+        "es": "Fermentar hasta que duplique aproximadamente su volumen.",
+        "fr": "Pointer jusqu'à ce que la pâte double à peu près de volume.",
+        "ro": "Fermentează până se dublează aproximativ în volum."
       }
     },
     {
       "title": {
-        "en": "Divide"
+        "en": "Divide",
+        "de": "Teilen",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Divide into nine even balls plus one larger ball for the center."
+        "en": "Divide into nine even balls plus one larger ball for the center.",
+        "de": "In neun gleiche Kugeln plus eine größere Kugel für die Mitte teilen.",
+        "es": "Dividir en nueve bolas iguales más una bola más grande para el centro.",
+        "fr": "Diviser en neuf boules égales plus une plus grosse boule pour le centre.",
+        "ro": "Împarte în nouă bile egale plus o bilă mai mare pentru centru."
       }
     },
     {
       "title": {
-        "en": "Shape the crown"
+        "en": "Shape the crown",
+        "de": "Krone formen",
+        "es": "Formar la corona",
+        "fr": "Façonner la couronne",
+        "ro": "Modelează coroana"
       },
       "summary": {
-        "en": "Flatten the large ball into a disc for the middle and arrange the nine balls in a ring around it."
+        "en": "Flatten the large ball into a disc for the middle and arrange the nine balls in a ring around it.",
+        "de": "Die große Kugel zu einer Scheibe für die Mitte flach drücken und die neun Kugeln ringförmig darum anordnen.",
+        "es": "Aplanar la bola grande en un disco para el centro y colocar las nueve bolas en un anillo alrededor.",
+        "fr": "Aplatir la grosse boule en disque pour le centre et disposer les neuf boules en anneau tout autour.",
+        "ro": "Presează bila mare într-un disc pentru mijloc și așază cele nouă bile într-un inel în jurul ei."
       }
     },
     {
       "title": {
-        "en": "Cut and fold"
+        "en": "Cut and fold",
+        "de": "Schneiden und falten",
+        "es": "Cortar y plegar",
+        "fr": "Couper et replier",
+        "ro": "Taie și pliază"
       },
       "summary": {
-        "en": "Snip radial cuts between the balls and fold each flap over its neighbor to lock the ring together."
+        "en": "Snip radial cuts between the balls and fold each flap over its neighbor to lock the ring together.",
+        "de": "Radiale Einschnitte zwischen den Kugeln setzen und jede Lasche über den Nachbarn falten, um den Ring zu verbinden.",
+        "es": "Hacer cortes radiales entre las bolas y plegar cada solapa sobre su vecina para fijar el anillo.",
+        "fr": "Faire des entailles radiales entre les boules et replier chaque languette sur sa voisine pour verrouiller l'anneau.",
+        "ro": "Fă tăieturi radiale între bile și pliază fiecare clapă peste vecina ei, pentru a fixa inelul."
       }
     },
     {
       "title": {
-        "en": "Proof and bake"
+        "en": "Proof and bake",
+        "de": "Gehen lassen und backen",
+        "es": "Fermentar y hornear",
+        "fr": "Pousser et cuire",
+        "ro": "Dospește și coace"
       },
       "summary": {
-        "en": "Proof until puffy, then bake hot with steam until deeply golden."
+        "en": "Proof until puffy, then bake hot with steam until deeply golden.",
+        "de": "Gehen lassen, bis aufgepolstert, dann heiß mit Schwaden backen, bis tief golden.",
+        "es": "Dejar fermentar hasta que esté hinchada, luego hornear caliente con vapor hasta dorar profundamente.",
+        "fr": "Laisser pousser jusqu'à un bon gonflement, puis cuire chaud avec buée jusqu'à une belle couleur dorée.",
+        "ro": "Lasă la dospit până se umflă, apoi coace fierbinte cu abur până devine auriu-închis."
       }
     }
   ],

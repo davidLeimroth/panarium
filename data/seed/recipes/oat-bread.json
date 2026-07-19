@@ -132,58 +132,114 @@
   "method": [
     {
       "title": {
-        "en": "Soak the oats"
+        "en": "Soak the oats",
+        "de": "Haferflocken einweichen",
+        "es": "Remojar la avena",
+        "fr": "Faire tremper les flocons d'avoine",
+        "ro": "Hidratează fulgii de ovăz"
       },
       "summary": {
-        "en": "Pour boiling water over the rolled oats, oil and molasses; stir and let cool to just warm, 15-20 minutes."
+        "en": "Pour boiling water over the rolled oats, oil and molasses; stir and let cool to just warm, 15-20 minutes.",
+        "de": "Kochendes Wasser über die Haferflocken, das Öl und die Melasse gießen; verrühren und auf handwarm abkühlen lassen, 15-20 Minuten.",
+        "es": "Verter agua hirviendo sobre los copos de avena, el aceite y la melaza; remover y dejar enfriar hasta que esté tibia, 15-20 minutos.",
+        "fr": "Verser de l'eau bouillante sur les flocons d'avoine, l'huile et la mélasse ; remuer et laisser tiédir, 15-20 minutes.",
+        "ro": "Toarnă apă clocotită peste fulgii de ovăz, ulei și melasă; amestecă și lasă să se răcească până e călduț, 15-20 de minute."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Add flour, instant yeast, salt and dry milk powder; mix and knead into a soft, slightly sticky, craggy dough."
+        "en": "Add flour, instant yeast, salt and dry milk powder; mix and knead into a soft, slightly sticky, craggy dough.",
+        "de": "Mehl, Instanthefe, Salz und Milchpulver zugeben; zu einem weichen, leicht klebrigen, unregelmäßigen Teig mischen und kneten.",
+        "es": "Añadir la harina, la levadura instantánea, la sal y la leche en polvo; mezclar y amasar hasta obtener una masa suave, algo pegajosa y desigual.",
+        "fr": "Ajouter la farine, la levure instantanée, le sel et le lait en poudre ; mélanger et pétrir en une pâte souple, légèrement collante et grossière.",
+        "ro": "Adaugă făina, drojdia instant, sarea și laptele praf; amestecă și frământă până obții un aluat moale, ușor lipicios și neuniform."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let rise about 1.5 hours until puffy, though not necessarily doubled."
+        "en": "Cover and let rise about 1.5 hours until puffy, though not necessarily doubled.",
+        "de": "Abdecken und etwa 1,5 Stunden gehen lassen, bis er aufgeplustert ist, auch wenn er sich nicht unbedingt verdoppelt hat.",
+        "es": "Tapar y dejar fermentar cerca de 1,5 horas hasta que esté hinchada, aunque no necesariamente haya doblado su tamaño.",
+        "fr": "Couvrir et laisser pousser environ 1,5 heure jusqu'à ce qu'elle soit gonflée, sans forcément avoir doublé.",
+        "ro": "Acoperă și lasă la crescut aproximativ 1,5 ore până se umflă, chiar dacă nu se dublează neapărat."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into a log and settle it into a greased loaf pan."
+        "en": "Shape into a log and settle it into a greased loaf pan.",
+        "de": "Zu einem Laib formen und in eine gefettete Kastenform legen.",
+        "es": "Formar un tronco y colocarlo en un molde de pan engrasado.",
+        "fr": "Façonner en bûche et déposer dans un moule à cake graissé.",
+        "ro": "Modelează un sul și așază-l într-o formă de pâine unsă."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo levado",
+        "fr": "Deuxième pousse",
+        "ro": "A doua dospire"
       },
       "summary": {
-        "en": "Cover and let rise 45-60 minutes until the crown domes about 2.5 cm above the rim."
+        "en": "Cover and let rise 45-60 minutes until the crown domes about 2.5 cm above the rim.",
+        "de": "Abdecken und 45-60 Minuten gehen lassen, bis sich die Kuppe etwa 2,5 cm über den Formrand wölbt.",
+        "es": "Tapar y dejar fermentar 45-60 minutos hasta que la parte superior sobresalga unos 2,5 cm por encima del borde.",
+        "fr": "Couvrir et laisser pousser 45-60 minutes jusqu'à ce que le sommet dépasse d'environ 2,5 cm le bord du moule.",
+        "ro": "Acoperă și lasă la crescut 45-60 de minute până partea de sus se bombează cu aproximativ 2,5 cm peste marginea formei."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at about 175°C for 35-38 minutes until deep golden and the internal temperature reads about 88°C, tenting with foil if it browns too fast."
+        "en": "Bake at about 175°C for 35-38 minutes until deep golden and the internal temperature reads about 88°C, tenting with foil if it browns too fast.",
+        "de": "Bei etwa 175°C 35-38 Minuten backen, bis er tief goldbraun ist und die Kerntemperatur etwa 88°C erreicht; bei zu schneller Bräunung mit Folie abdecken.",
+        "es": "Hornear a unos 175°C durante 35-38 minutos hasta que esté bien dorado y la temperatura interna alcance unos 88°C, cubriendo con papel de aluminio si se dora demasiado rápido.",
+        "fr": "Cuire à environ 175°C pendant 35-38 minutes jusqu'à belle coloration dorée et une température interne d'environ 88°C, en couvrant de papier alu si ça dore trop vite.",
+        "ro": "Coace la aproximativ 175°C timp de 35-38 de minute până devine auriu-închis și temperatura din interior ajunge la circa 88°C; acoperă cu folie dacă se rumenește prea repede."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Turn out of the pan and cool on its side on a rack before slicing."
+        "en": "Turn out of the pan and cool on its side on a rack before slicing.",
+        "de": "Aus der Form stürzen und auf der Seite liegend auf einem Gitter auskühlen lassen, bevor er angeschnitten wird.",
+        "es": "Desmoldar y dejar enfriar de lado sobre una rejilla antes de cortar.",
+        "fr": "Démouler et laisser refroidir sur le flanc sur une grille avant de trancher.",
+        "ro": "Scoate din formă și lasă la răcit pe o parte, pe un grătar, înainte de a felia."
       }
     }
   ],

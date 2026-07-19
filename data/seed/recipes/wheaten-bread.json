@@ -130,50 +130,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dry"
+        "en": "Mix dry",
+        "de": "Trockenes mischen",
+        "es": "Mezclar los secos",
+        "fr": "Mélanger les secs",
+        "ro": "Amestecă ingredientele uscate"
       },
       "summary": {
-        "en": "Sift the plain flour with the cream of tartar and bicarbonate of soda, then stir in the wholemeal flour, salt and brown sugar."
+        "en": "Sift the plain flour with the cream of tartar and bicarbonate of soda, then stir in the wholemeal flour, salt and brown sugar.",
+        "de": "Das Weizenmehl mit Weinstein und Natron sieben, dann Vollkornmehl, Salz und braunen Zucker einrühren.",
+        "es": "Tamizar la harina común con el cremor tártaro y el bicarbonato de sodio, luego incorporar la harina integral, la sal y el azúcar moreno.",
+        "fr": "Tamiser la farine avec la crème de tartre et le bicarbonate de soude, puis incorporer la farine complète, le sel et le sucre roux.",
+        "ro": "Cerne făina albă cu crema de tartru și bicarbonatul de sodiu, apoi încorporează făina integrală, sarea și zahărul brun."
       }
     },
     {
       "title": {
-        "en": "Add buttermilk"
+        "en": "Add buttermilk",
+        "de": "Buttermilch zugeben",
+        "es": "Añadir el suero de leche",
+        "fr": "Ajouter le babeurre",
+        "ro": "Adaugă zara"
       },
       "summary": {
-        "en": "Make a well and pour in most of the buttermilk with the olive oil, mixing to a very soft, slightly sticky dough; add more buttermilk if it feels dry."
+        "en": "Make a well and pour in most of the buttermilk with the olive oil, mixing to a very soft, slightly sticky dough; add more buttermilk if it feels dry.",
+        "de": "Eine Mulde formen und den Großteil der Buttermilch mit dem Olivenöl hineingießen, zu einem sehr weichen, leicht klebrigen Teig verrühren; bei Bedarf mehr Buttermilch zugeben, wenn er trocken wirkt.",
+        "es": "Hacer un hueco y verter la mayor parte del suero de leche con el aceite de oliva, mezclando hasta obtener una masa muy blanda y algo pegajosa; añadir más suero si se nota seca.",
+        "fr": "Former un puits et y verser la majeure partie du babeurre avec l'huile d'olive, en mélangeant jusqu'à une pâte très souple et légèrement collante ; ajouter plus de babeurre si elle semble sèche.",
+        "ro": "Fă o adâncitură și toarnă cea mai mare parte din zară cu uleiul de măsline, amestecând până obții un aluat foarte moale, ușor lipicios; adaugă mai multă zară dacă pare uscat."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Turn out gently and pat into a round on a floured tray without kneading."
+        "en": "Turn out gently and pat into a round on a floured tray without kneading.",
+        "de": "Vorsichtig auf ein bemehltes Blech stürzen und ohne zu kneten zu einer Runde drücken.",
+        "es": "Volcar con cuidado y aplanar en forma redonda sobre una bandeja enharinada, sin amasar.",
+        "fr": "Renverser délicatement et aplatir en rond sur une plaque farinée sans pétrir.",
+        "ro": "Răstoarnă cu grijă și aplatizează într-o formă rotundă pe o tavă făinată, fără să frămânți."
       }
     },
     {
       "title": {
-        "en": "Score"
+        "en": "Score",
+        "de": "Einschneiden",
+        "es": "Greñar",
+        "fr": "Lamer",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Cut a deep cross through the top so the loaf cooks through evenly."
+        "en": "Cut a deep cross through the top so the loaf cooks through evenly.",
+        "de": "Ein tiefes Kreuz in die Oberseite schneiden, damit das Brot gleichmäßig durchgart.",
+        "es": "Hacer un corte profundo en cruz en la superficie para que el pan se cueza de manera uniforme.",
+        "fr": "Faire une croix profonde sur le dessus pour que le pain cuise uniformément à cœur.",
+        "ro": "Fă o cruce adâncă pe suprafață, ca pâinea să se coacă uniform până în centru."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake in a hot oven until well risen and golden, 25-30 minutes."
+        "en": "Bake in a hot oven until well risen and golden, 25-30 minutes.",
+        "de": "In einem heißen Ofen backen, bis es gut aufgegangen und golden ist, 25-30 Minuten.",
+        "es": "Hornear en horno caliente hasta que haya subido bien y esté dorado, 25-30 minutos.",
+        "fr": "Cuire au four chaud jusqu'à belle levée et coloration dorée, 25-30 minutes.",
+        "ro": "Coace în cuptor încins până crește bine și devine auriu, 25-30 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool wrapped"
+        "en": "Cool wrapped",
+        "de": "Eingewickelt auskühlen",
+        "es": "Enfriar envuelto",
+        "fr": "Refroidir enveloppé",
+        "ro": "Răcește înfășurată"
       },
       "summary": {
-        "en": "Check for a hollow sound when the base is tapped, then cool wrapped in a tea towel for a soft crust."
+        "en": "Check for a hollow sound when the base is tapped, then cool wrapped in a tea towel for a soft crust.",
+        "de": "Prüfen, ob der Boden hohl klingt, wenn man klopft, dann in ein Geschirrtuch gewickelt auskühlen lassen für eine weiche Kruste.",
+        "es": "Comprobar que suene hueco al golpear la base, luego dejar enfriar envuelto en un paño de cocina para una corteza blanda.",
+        "fr": "Vérifier le son creux en tapotant la base, puis laisser refroidir enveloppé dans un torchon pour une croûte tendre.",
+        "ro": "Verifică dacă baza sună a gol când e bătută, apoi lasă să se răcească înfășurată într-un prosop de bucătărie, pentru o coajă moale."
       }
     }
   ],

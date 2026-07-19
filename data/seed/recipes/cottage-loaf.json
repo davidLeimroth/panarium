@@ -110,50 +110,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix & knead"
+        "en": "Mix & knead",
+        "de": "Mischen & kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Combine flour, yeast and salt, rub in the softened lard, then add water gradually and knead 5-10 minutes to a smooth, fairly firm dough."
+        "en": "Combine flour, yeast and salt, rub in the softened lard, then add water gradually and knead 5-10 minutes to a smooth, fairly firm dough.",
+        "de": "Mehl, Hefe und Salz verbinden, das weiche Schmalz einarbeiten, dann nach und nach Wasser zugeben und 5-10 Minuten zu einem glatten, recht festen Teig kneten.",
+        "es": "Combinar harina, levadura y sal, incorporar la manteca de cerdo blanda, luego añadir agua poco a poco y amasar 5-10 minutos hasta obtener una masa lisa y bastante firme.",
+        "fr": "Combiner la farine, la levure et le sel, sabler avec le saindoux ramolli, puis ajouter l'eau petit à petit et pétrir 5-10 minutes pour une pâte lisse et assez ferme.",
+        "ro": "Combină făina, drojdia și sarea, încorporează untura moale, apoi adaugă apa treptat și frământă 5-10 minute până obții un aluat neted și destul de ferm."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Prove in an oiled bowl until doubled, anywhere from 1 to 3 hours depending on room warmth."
+        "en": "Prove in an oiled bowl until doubled, anywhere from 1 to 3 hours depending on room warmth.",
+        "de": "In einer geölten Schüssel gehen lassen, bis sich der Teig verdoppelt hat, je nach Raumwärme 1 bis 3 Stunden.",
+        "es": "Dejar fermentar en un bol aceitado hasta duplicar, entre 1 y 3 horas según la temperatura ambiente.",
+        "fr": "Laisser lever dans un saladier huilé jusqu'au double, entre 1 et 3 heures selon la chaleur de la pièce.",
+        "ro": "Lasă la crescut într-un bol uns cu ulei până se dublează, între 1 și 3 ore, în funcție de căldura camerei."
       }
     },
     {
       "title": {
-        "en": "Shape two tiers"
+        "en": "Shape two tiers",
+        "de": "Zwei Etagen formen",
+        "es": "Formar dos pisos",
+        "fr": "Façonner deux étages",
+        "ro": "Modelează două etaje"
       },
       "summary": {
-        "en": "Divide the dough roughly two-thirds and one-third, shape each into a tight ball, and set the small ball centered on top of the large one."
+        "en": "Divide the dough roughly two-thirds and one-third, shape each into a tight ball, and set the small ball centered on top of the large one.",
+        "de": "Den Teig grob in zwei Drittel und ein Drittel teilen, jedes zu einer straffen Kugel formen und die kleine Kugel mittig auf die große setzen.",
+        "es": "Dividir la masa aproximadamente en dos tercios y un tercio, formar cada parte en una bola prieta y colocar la bola pequeña centrada encima de la grande.",
+        "fr": "Diviser la pâte à peu près en deux tiers et un tiers, façonner chaque part en boule serrée, et poser la petite boule centrée sur la grande.",
+        "ro": "Împarte aluatul aproximativ în două treimi și o treime, modelează fiecare bucată într-o bilă strânsă și așază bila mică centrat deasupra celei mari."
       }
     },
     {
       "title": {
-        "en": "Seal the join"
+        "en": "Seal the join",
+        "de": "Verbindung sichern",
+        "es": "Sellar la unión",
+        "fr": "Sceller la jonction",
+        "ro": "Fixează îmbinarea"
       },
       "summary": {
-        "en": "Push a floured finger straight down through the center of both balls to bond the tiers so the top doesn't slide off in the oven."
+        "en": "Push a floured finger straight down through the center of both balls to bond the tiers so the top doesn't slide off in the oven.",
+        "de": "Einen bemehlten Finger senkrecht durch die Mitte beider Kugeln drücken, um die Etagen zu verbinden, damit der obere Teil im Ofen nicht abrutscht.",
+        "es": "Empujar un dedo enharinado en línea recta por el centro de ambas bolas para unir los pisos, de modo que la parte superior no resbale en el horno.",
+        "fr": "Enfoncer un doigt fariné bien droit au centre des deux boules pour souder les étages, afin que le haut ne glisse pas au four.",
+        "ro": "Împinge un deget înfăinat drept prin centrul ambelor bile pentru a lipi etajele, ca partea de sus să nu alunece în cuptor."
       }
     },
     {
       "title": {
-        "en": "Final proof & score"
+        "en": "Final proof & score",
+        "de": "Stückgare & einschneiden",
+        "es": "Fermentación final y greñado",
+        "fr": "Apprêt et lamage",
+        "ro": "Dospire finală și crestare"
       },
       "summary": {
-        "en": "Proof about an hour until puffy, then slash both tiers."
+        "en": "Proof about an hour until puffy, then slash both tiers.",
+        "de": "Etwa eine Stunde gehen lassen, bis aufgepolstert, dann beide Etagen einschneiden.",
+        "es": "Dejar fermentar aproximadamente una hora hasta que esté hinchada, luego hacerle cortes a ambos pisos.",
+        "fr": "Laisser pousser environ une heure jusqu'à un bon gonflement, puis inciser les deux étages.",
+        "ro": "Lasă la dospit aproximativ o oră până se umflă, apoi crestează ambele etaje."
       }
     },
     {
       "title": {
-        "en": "Bake hot, then lower"
+        "en": "Bake hot, then lower",
+        "de": "Heiß backen, dann reduzieren",
+        "es": "Hornear caliente, luego bajar",
+        "fr": "Cuire chaud, puis baisser",
+        "ro": "Coace fierbinte, apoi redu"
       },
       "summary": {
-        "en": "Bake with steam at high heat for 15 minutes, then reduce the temperature and bake 20-25 minutes more until deep golden and hollow-sounding underneath."
+        "en": "Bake with steam at high heat for 15 minutes, then reduce the temperature and bake 20-25 minutes more until deep golden and hollow-sounding underneath.",
+        "de": "Mit Schwaden bei hoher Hitze 15 Minuten backen, dann die Temperatur senken und 20-25 Minuten weiterbacken, bis tief golden und beim Klopfen hohl klingend.",
+        "es": "Hornear con vapor a temperatura alta 15 minutos, luego bajar la temperatura y hornear 20-25 minutos más, hasta dorar profundamente y sonar hueco al golpearlo.",
+        "fr": "Cuire avec buée à haute température 15 minutes, puis baisser la température et cuire 20-25 minutes de plus, jusqu'à une belle couleur dorée et un son creux en dessous.",
+        "ro": "Coace cu abur la foc iute 15 minute, apoi redu temperatura și coace încă 20-25 de minute, până devine auriu-închis și sună a gol la bătut."
       }
     }
   ],

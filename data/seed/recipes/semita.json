@@ -153,58 +153,114 @@
   "method": [
     {
       "title": {
-        "en": "Warm the enrichments"
+        "en": "Warm the enrichments",
+        "de": "Zutaten erwärmen",
+        "es": "Calentar la mezcla de leche",
+        "fr": "Chauffer les ingrédients liquides",
+        "ro": "Încălzește ingredientele lichide"
       },
       "summary": {
-        "en": "Heat milk, butter, sugar and salt together until the butter melts, then cool to lukewarm."
+        "en": "Heat milk, butter, sugar and salt together until the butter melts, then cool to lukewarm.",
+        "de": "Milch, Butter, Zucker und Salz zusammen erwärmen, bis die Butter geschmolzen ist, dann lauwarm abkühlen lassen.",
+        "es": "Calentar juntos la leche, la mantequilla, el azúcar y la sal hasta que la mantequilla se derrita, luego dejar enfriar hasta que esté tibia.",
+        "fr": "Chauffer ensemble le lait, le beurre, le sucre et le sel jusqu'à ce que le beurre fonde, puis laisser tiédir.",
+        "ro": "Încălzește împreună laptele, untul, zahărul și sarea până se topește untul, apoi lasă să se răcească până devine călduț."
       }
     },
     {
       "title": {
-        "en": "Bloom yeast"
+        "en": "Bloom yeast",
+        "de": "Hefe anrühren",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast in warm water and let stand until foamy."
+        "en": "Dissolve the yeast in warm water and let stand until foamy.",
+        "de": "Die Hefe in warmem Wasser auflösen und stehen lassen, bis sie schaumig ist.",
+        "es": "Disolver la levadura en agua tibia y dejar reposar hasta que esté espumosa.",
+        "fr": "Dissoudre la levure dans l'eau tiède et laisser reposer jusqu'à ce qu'elle mousse.",
+        "ro": "Dizolvă drojdia în apă călduță și lasă să stea până devine spumoasă."
       }
     },
     {
       "title": {
-        "en": "Mix & knead"
+        "en": "Mix & knead",
+        "de": "Mischen & kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Combine the milk mixture, yeast mixture, beaten eggs and flour into a dough, then knead until smooth and elastic."
+        "en": "Combine the milk mixture, yeast mixture, beaten eggs and flour into a dough, then knead until smooth and elastic.",
+        "de": "Die Milchmischung, die Hefemischung, verquirlte Eier und Mehl zu einem Teig verbinden, dann kneten, bis er glatt und elastisch ist.",
+        "es": "Combinar la mezcla de leche, la mezcla de levadura, los huevos batidos y la harina en una masa, luego amasar hasta que quede lisa y elástica.",
+        "fr": "Combiner le mélange de lait, le mélange de levure, les œufs battus et la farine en une pâte, puis pétrir jusqu'à ce que ce soit lisse et élastique.",
+        "ro": "Combină amestecul de lapte, amestecul de drojdie, ouăle bătute și făina într-un aluat, apoi frământă până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise until doubled, about 1 to 1.5 hours."
+        "en": "Cover and let rise until doubled, about 1 to 1.5 hours.",
+        "de": "Zugedeckt gehen lassen, bis sich der Teig verdoppelt hat, etwa 1 bis 1.5 Stunden.",
+        "es": "Tapar y dejar levar hasta que doble su volumen, entre 1 y 1.5 horas.",
+        "fr": "Couvrir et laisser lever jusqu'au double, environ 1 à 1.5 heure.",
+        "ro": "Acoperă și lasă la dospit până se dublează, aproximativ 1 până la 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Layer & fill"
+        "en": "Layer & fill",
+        "de": "Schichten & füllen",
+        "es": "Estratificar y rellenar",
+        "fr": "Étaler et garnir",
+        "ro": "Așază straturile și umple"
       },
       "summary": {
-        "en": "Press half the dough into a greased large baking pan, spread with the cinnamon-pineapple filling leaving a border, then top with a second sheet of dough and seal the edges."
+        "en": "Press half the dough into a greased large baking pan, spread with the cinnamon-pineapple filling leaving a border, then top with a second sheet of dough and seal the edges.",
+        "de": "Die Hälfte des Teigs in eine gefettete große Backform drücken, mit der Zimt-Ananas-Füllung bestreichen, dabei einen Rand freilassen, dann mit einer zweiten Teigplatte belegen und die Ränder verschließen.",
+        "es": "Presionar la mitad de la masa en un molde grande engrasado, cubrir con el relleno de canela y piña dejando un borde libre, luego tapar con una segunda lámina de masa y sellar los bordes.",
+        "fr": "Presser la moitié de la pâte dans un grand moule graissé, garnir avec la garniture cannelle-ananas en laissant une bordure, puis recouvrir d'une seconde abaisse de pâte et sceller les bords.",
+        "ro": "Presează jumătate din aluat într-o tavă mare unsă, întinde umplutura de scorțișoară și ananas lăsând o margine liberă, apoi acoperă cu o a doua foaie de aluat și sigilează marginile."
       }
     },
     {
       "title": {
-        "en": "Decorate & rest"
+        "en": "Decorate & rest",
+        "de": "Verzieren & ruhen",
+        "es": "Decorar y reposar",
+        "fr": "Décorer et reposer",
+        "ro": "Decorează și lasă la odihnă"
       },
       "summary": {
-        "en": "Lay a lattice of dough strips over the top, brush with egg wash, sprinkle with sugar, and rest 30 minutes."
+        "en": "Lay a lattice of dough strips over the top, brush with egg wash, sprinkle with sugar, and rest 30 minutes.",
+        "de": "Ein Gitter aus Teigstreifen darüberlegen, mit Eistreiche bestreichen, mit Zucker bestreuen und 30 Minuten ruhen lassen.",
+        "es": "Colocar un enrejado de tiras de masa encima, pincelar con huevo batido, espolvorear con azúcar y dejar reposar 30 minutos.",
+        "fr": "Disposer un treillis de bandes de pâte sur le dessus, badigeonner de dorure à l'œuf, saupoudrer de sucre et laisser reposer 30 minutes.",
+        "ro": "Așază un grilaj din fâșii de aluat deasupra, unge cu ou bătut, presară cu zahăr și lasă să stea 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Prick the surface all over, then bake until golden brown, 30-40 minutes; cool before cutting into squares."
+        "en": "Prick the surface all over, then bake until golden brown, 30-40 minutes; cool before cutting into squares.",
+        "de": "Die Oberfläche überall einstechen, dann goldbraun backen, 30-40 Minuten; vor dem Schneiden in Quadrate auskühlen lassen.",
+        "es": "Pinchar toda la superficie, luego hornear hasta que esté dorada, 30-40 minutos; dejar enfriar antes de cortar en cuadrados.",
+        "fr": "Piquer toute la surface, puis cuire jusqu'à coloration dorée, 30-40 minutes ; laisser refroidir avant de découper en carrés.",
+        "ro": "Înțeapă toată suprafața, apoi coace până devine auriu-rumen, 30-40 de minute; lasă să se răcească înainte de a tăia în pătrate."
       }
     }
   ],

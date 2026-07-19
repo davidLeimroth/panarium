@@ -130,50 +130,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine flour, sugar, salt and vanilla sugar; stir in the yeast, melted butter and warm water to a soft dough."
+        "en": "Combine flour, sugar, salt and vanilla sugar; stir in the yeast, melted butter and warm water to a soft dough.",
+        "de": "Mehl, Zucker, Salz und Vanillezucker vermengen; Hefe, geschmolzene Butter und warmes Wasser zu einem weichen Teig einrühren.",
+        "es": "Combinar la harina, el azúcar, la sal y el azúcar de vainilla; incorporar la levadura, la mantequilla derretida y el agua tibia hasta lograr una masa blanda.",
+        "fr": "Combiner la farine, le sucre, le sel et le sucre vanillé; incorporer la levure, le beurre fondu et l'eau tiède pour obtenir une pâte souple.",
+        "ro": "Combină făina, zahărul, sarea și zahărul vanilat; încorporează drojdia, untul topit și apa călduță într-un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead 8-10 minutes until smooth and not sticky."
+        "en": "Knead 8-10 minutes until smooth and not sticky.",
+        "de": "8-10 Minuten kneten, bis der Teig glatt und nicht mehr klebrig ist.",
+        "es": "Amasar 8-10 minutos hasta que quede lisa y ya no esté pegajosa.",
+        "fr": "Pétrir 8-10 minutes jusqu'à ce que la pâte soit lisse et ne colle plus.",
+        "ro": "Frământă 8-10 minute până devine neted și nu se mai lipește."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Shape into a ball, cover, and let rest about an hour in a warm place."
+        "en": "Shape into a ball, cover, and let rest about an hour in a warm place.",
+        "de": "Zu einer Kugel formen, abdecken und etwa eine Stunde an einem warmen Ort ruhen lassen.",
+        "es": "Formar una bola, tapar y dejar reposar aproximadamente una hora en un lugar cálido.",
+        "fr": "Façonner en boule, couvrir et laisser reposer environ une heure dans un endroit chaud.",
+        "ro": "Modelează o bilă, acoperă și lasă la odihnă aproximativ o oră într-un loc călduț."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Roll the dough to about 1cm thick and cut into small shapes: balls, circles, triangles, knots or twists."
+        "en": "Roll the dough to about 1cm thick and cut into small shapes: balls, circles, triangles, knots or twists.",
+        "de": "Den Teig etwa 1cm dick ausrollen und in kleine Formen schneiden: Kugeln, Kreise, Dreiecke, Knoten oder Zwirbel.",
+        "es": "Estirar la masa hasta unos 1cm de grosor y cortar en formas pequeñas: bolas, círculos, triángulos, nudos o espirales.",
+        "fr": "Étaler la pâte sur environ 1cm d'épaisseur et découper en petites formes : boules, cercles, triangles, nœuds ou torsades.",
+        "ro": "Întinde aluatul la aproximativ 1cm grosime și taie-l în forme mici: bile, cercuri, triunghiuri, noduri sau răsucituri."
       }
     },
     {
       "title": {
-        "en": "Fry"
+        "en": "Fry",
+        "de": "Frittieren",
+        "es": "Freír",
+        "fr": "Frire",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Heat oil to about 175°C (350°F) and fry the pieces in small batches, turning, until evenly golden, 4-6 minutes total."
+        "en": "Heat oil to about 175°C (350°F) and fry the pieces in small batches, turning, until evenly golden, 4-6 minutes total.",
+        "de": "Öl auf etwa 175°C (350°F) erhitzen und die Stücke in kleinen Portionen frittieren, dabei wenden, bis sie gleichmäßig golden sind, insgesamt 4-6 Minuten.",
+        "es": "Calentar el aceite a unos 175°C (350°F) y freír las piezas en tandas pequeñas, volteando, hasta que doren de manera uniforme, 4-6 minutos en total.",
+        "fr": "Chauffer l'huile à environ 175°C (350°F) et frire les morceaux en petites fournées, en retournant, jusqu'à une coloration dorée uniforme, 4-6 minutes au total.",
+        "ro": "Încinge uleiul la aproximativ 175°C (350°F) și prăjește bucățile în tranșe mici, întorcându-le, până se rumenesc uniform, 4-6 minute în total."
       }
     },
     {
       "title": {
-        "en": "Cool and serve"
+        "en": "Cool and serve",
+        "de": "Abkühlen und servieren",
+        "es": "Enfriar y servir",
+        "fr": "Refroidir et servir",
+        "ro": "Răcește și servește"
       },
       "summary": {
-        "en": "Drain and cool a few minutes, then serve with milk tea, honey or jam."
+        "en": "Drain and cool a few minutes, then serve with milk tea, honey or jam.",
+        "de": "Abtropfen lassen und ein paar Minuten abkühlen, dann mit Milchtee, Honig oder Marmelade servieren.",
+        "es": "Escurrir y dejar enfriar unos minutos, luego servir con té con leche, miel o mermelada.",
+        "fr": "Égoutter et laisser refroidir quelques minutes, puis servir avec du thé au lait, du miel ou de la confiture.",
+        "ro": "Scurge și lasă la răcit câteva minute, apoi servește cu ceai cu lapte, miere sau gem."
       }
     }
   ],

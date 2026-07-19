@@ -117,58 +117,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anschwemmen",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Stir yeast into warm water with honey; let sit until foamy, a few minutes."
+        "en": "Stir yeast into warm water with honey; let sit until foamy, a few minutes.",
+        "de": "Hefe mit Honig in warmes Wasser einrühren; ein paar Minuten stehen lassen, bis es schäumt.",
+        "es": "Disolver la levadura en agua tibia con miel; dejar reposar unos minutos hasta que espume.",
+        "fr": "Délayer la levure dans l'eau tiède avec le miel; laisser reposer quelques minutes jusqu'à ce que ça mousse.",
+        "ro": "Dizolvă drojdia în apă călduță cu miere; lasă câteva minute până spumează."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Stir in melted butter, then the einkorn flour and salt; mix just until fully hydrated into a soft, sticky, no-knead dough."
+        "en": "Stir in melted butter, then the einkorn flour and salt; mix just until fully hydrated into a soft, sticky, no-knead dough.",
+        "de": "Geschmolzene Butter einrühren, dann das Einkornmehl und Salz; nur mischen, bis alles vollständig hydratisiert ist zu einem weichen, klebrigen Teig ohne Kneten.",
+        "es": "Incorporar la mantequilla derretida, luego la harina de einkorn y la sal; mezclar solo hasta hidratar por completo en una masa blanda, pegajosa, sin amasado.",
+        "fr": "Incorporer le beurre fondu, puis la farine de petit épeautre et le sel; mélanger juste assez pour bien hydrater en une pâte souple, collante, sans pétrissage.",
+        "ro": "Încorporează untul topit, apoi făina de einkorn și sarea; amestecă doar cât să se hidrateze complet, într-un aluat moale, lipicios, fără frământare."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise about 1 hour."
+        "en": "Cover and let rise about 1 hour.",
+        "de": "Zugedeckt etwa 1 Stunde gehen lassen.",
+        "es": "Tapar y dejar fermentar aproximadamente 1 hora.",
+        "fr": "Couvrir et laisser lever environ 1 heure.",
+        "ro": "Acoperă și lasă la crescut aproximativ 1 oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Press into a rectangle and roll up into a loaf shape; settle into a greased loaf pan."
+        "en": "Press into a rectangle and roll up into a loaf shape; settle into a greased loaf pan.",
+        "de": "Zu einem Rechteck drücken und zu einer Laibform aufrollen; in eine gefettete Kastenform legen.",
+        "es": "Presionar en un rectángulo y enrollar en forma de pan; acomodar en un molde de plumcake engrasado.",
+        "fr": "Presser en rectangle et rouler en forme de pain; installer dans un moule à cake graissé.",
+        "ro": "Presează într-un dreptunghi și rulează în formă de pâine; așază într-o formă de chec unsă."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover with a damp towel and let rise 30-60 minutes until doubled."
+        "en": "Cover with a damp towel and let rise 30-60 minutes until doubled.",
+        "de": "Mit einem feuchten Tuch abdecken und 30-60 Minuten gehen lassen, bis der Teig sich verdoppelt hat.",
+        "es": "Cubrir con un paño húmedo y dejar fermentar 30-60 minutos hasta duplicar.",
+        "fr": "Couvrir d'un linge humide et laisser lever 30-60 minutes jusqu'au double.",
+        "ro": "Acoperă cu un prosop umed și lasă la crescut 30-60 de minute, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at 190°C for 40-45 minutes until golden brown."
+        "en": "Bake at 190°C for 40-45 minutes until golden brown.",
+        "de": "Bei 190°C 40-45 Minuten backen, bis goldbraun.",
+        "es": "Hornear a 190°C durante 40-45 minutos, hasta que esté dorado.",
+        "fr": "Cuire à 190°C pendant 40-45 minutes jusqu'à coloration dorée.",
+        "ro": "Coace la 190°C timp de 40-45 de minute, până devine auriu-rumenit."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Cool completely on a rack before slicing."
+        "en": "Cool completely on a rack before slicing.",
+        "de": "Vollständig auf einem Gitter auskühlen lassen, bevor angeschnitten wird.",
+        "es": "Dejar enfriar por completo sobre una rejilla antes de cortar.",
+        "fr": "Laisser refroidir complètement sur une grille avant de trancher.",
+        "ro": "Lasă să se răcească complet pe un grătar înainte de feliere."
       }
     }
   ],

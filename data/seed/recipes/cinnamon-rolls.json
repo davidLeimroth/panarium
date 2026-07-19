@@ -167,58 +167,114 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe anspringen lassen",
+        "es": "Activar la levadura",
+        "fr": "Activer la levure",
+        "ro": "Activează drojdia"
       },
       "summary": {
-        "en": "Warm the milk, stir in a spoonful of the sugar and the yeast, and let it sit until foamy, about 5-10 minutes."
+        "en": "Warm the milk, stir in a spoonful of the sugar and the yeast, and let it sit until foamy, about 5-10 minutes.",
+        "de": "Die Milch erwärmen, einen Löffel Zucker und die Hefe einrühren und etwa 5-10 Minuten stehen lassen, bis es schäumt.",
+        "es": "Calentar la leche, incorporar una cucharada de azúcar y la levadura, y dejar reposar unos 5-10 minutos hasta que espume.",
+        "fr": "Tiédir le lait, ajouter une cuillerée de sucre et la levure, puis laisser reposer environ 5-10 minutes jusqu'à ce que ça mousse.",
+        "ro": "Încălzește laptele, adaugă o lingură de zahăr și drojdia, apoi lasă circa 5-10 minute până face spumă."
       }
     },
     {
       "title": {
-        "en": "Mix and knead"
+        "en": "Mix and knead",
+        "de": "Mischen und kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Beat in the rest of the sugar, the butter, eggs and salt, then work in the flour and knead until you have a smooth, elastic dough."
+        "en": "Beat in the rest of the sugar, the butter, eggs and salt, then work in the flour and knead until you have a smooth, elastic dough.",
+        "de": "Den restlichen Zucker, die Butter, Eier und das Salz einrühren, dann das Mehl einarbeiten und kneten, bis ein glatter, elastischer Teig entsteht.",
+        "es": "Batir el resto del azúcar, la mantequilla, los huevos y la sal, luego incorporar la harina y amasar hasta obtener una masa lisa y elástica.",
+        "fr": "Battre le reste du sucre, le beurre, les œufs et le sel, puis incorporer la farine et pétrir jusqu'à obtenir une pâte lisse et élastique.",
+        "ro": "Bate restul de zahăr, untul, ouăle și sarea, apoi încorporează făina și frământă până obții un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let the dough double in size at room temperature, roughly 1.5-2 hours."
+        "en": "Cover and let the dough double in size at room temperature, roughly 1.5-2 hours.",
+        "de": "Zugedeckt bei Raumtemperatur gehen lassen, bis sich der Teig verdoppelt hat, etwa 1.5-2 Stunden.",
+        "es": "Tapar y dejar que la masa doble su tamaño a temperatura ambiente, unas 1.5-2 horas.",
+        "fr": "Couvrir et laisser la pâte doubler de volume à température ambiante, environ 1.5-2 heures.",
+        "ro": "Acoperă și lasă aluatul să-și dubleze volumul la temperatura camerei, aproximativ 1.5-2 ore."
       }
     },
     {
       "title": {
-        "en": "Fill and roll"
+        "en": "Fill and roll",
+        "de": "Füllen und rollen",
+        "es": "Rellenar y enrollar",
+        "fr": "Garnir et rouler",
+        "ro": "Umple și rulează"
       },
       "summary": {
-        "en": "Roll the dough into a large rectangle, spread with soft butter, scatter the cinnamon-brown-sugar filling to the edges, then roll into a tight log and slice into 12 rounds."
+        "en": "Roll the dough into a large rectangle, spread with soft butter, scatter the cinnamon-brown-sugar filling to the edges, then roll into a tight log and slice into 12 rounds.",
+        "de": "Den Teig zu einem großen Rechteck ausrollen, mit weicher Butter bestreichen, die Zimt-Zucker-Füllung bis zum Rand verteilen, dann fest aufrollen und in 12 Scheiben schneiden.",
+        "es": "Estirar la masa en un gran rectángulo, untar con mantequilla blanda, repartir el relleno de canela y azúcar moreno hasta los bordes, luego enrollar firmemente y cortar en 12 porciones.",
+        "fr": "Étaler la pâte en grand rectangle, tartiner de beurre mou, répartir la garniture cannelle-sucre roux jusqu'aux bords, puis rouler serré et couper en 12 tranches.",
+        "ro": "Întinde aluatul într-un dreptunghi mare, unge cu unt moale, presară umplutura de scorțișoară și zahăr brun până la margini, apoi rulează strâns și taie în 12 felii."
       }
     },
     {
       "title": {
-        "en": "Shape, then chill or proof"
+        "en": "Shape, then chill or proof",
+        "de": "Formen, dann kühlen oder gehen lassen",
+        "es": "Formar, luego enfriar o fermentar",
+        "fr": "Façonner, puis réfrigérer ou pousser",
+        "ro": "Modelează, apoi la rece sau dospire"
       },
       "summary": {
-        "en": "Arrange the rolls in a baking dish. Either let them puff for about an hour at room temperature, or cover and refrigerate overnight for a slow rise, bringing them back to room temperature before baking."
+        "en": "Arrange the rolls in a baking dish. Either let them puff for about an hour at room temperature, or cover and refrigerate overnight for a slow rise, bringing them back to room temperature before baking.",
+        "de": "Die Rollen in eine Backform setzen. Entweder etwa eine Stunde bei Raumtemperatur aufgehen lassen, oder zugedeckt über Nacht kühlen für eine langsame Gare und vor dem Backen wieder auf Raumtemperatur bringen.",
+        "es": "Colocar los rollos en una fuente. Dejar que hinchen una hora a temperatura ambiente, o tapar y refrigerar toda la noche para un levado lento, dejando que vuelvan a temperatura ambiente antes de hornear.",
+        "fr": "Disposer les roulés dans un plat. Soit les laisser gonfler environ une heure à température ambiante, soit couvrir et réfrigérer toute la nuit pour une pousse lente, en les ramenant à température ambiante avant cuisson.",
+        "ro": "Așază rulourile într-o tavă. Fie lasă-le să crească circa o oră la temperatura camerei, fie acoperă-le și ține-le la frigider peste noapte pentru o creștere lentă, aducându-le apoi la temperatura camerei înainte de coacere."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake at around 177°C (350°F) for 25-28 minutes until golden, tenting loosely with foil if they colour too quickly."
+        "en": "Bake at around 177°C (350°F) for 25-28 minutes until golden, tenting loosely with foil if they colour too quickly.",
+        "de": "Bei etwa 177°C (350°F) 25-28 Minuten backen, bis goldbraun; bei Bedarf locker mit Folie abdecken, falls sie zu schnell bräunen.",
+        "es": "Hornear a unos 177°C (350°F) durante 25-28 minutos hasta dorar, cubriendo suavemente con papel de aluminio si se doran demasiado rápido.",
+        "fr": "Cuire à environ 177°C (350°F) pendant 25-28 minutes jusqu'à dorure, en couvrant lâchement de papier aluminium s'ils colorent trop vite.",
+        "ro": "Coace la circa 177°C (350°F) timp de 25-28 de minute până se rumenesc, acoperind ușor cu folie dacă se colorează prea repede."
       }
     },
     {
       "title": {
-        "en": "Ice and serve"
+        "en": "Ice and serve",
+        "de": "Glasieren und servieren",
+        "es": "Glasear y servir",
+        "fr": "Glacer et servir",
+        "ro": "Glazurează și servește"
       },
       "summary": {
-        "en": "Beat the cream cheese, butter, powdered sugar, milk and vanilla into a smooth icing and spread it over the rolls while still warm."
+        "en": "Beat the cream cheese, butter, powdered sugar, milk and vanilla into a smooth icing and spread it over the rolls while still warm.",
+        "de": "Frischkäse, Butter, Puderzucker, Milch und Vanille zu einem glatten Guss verrühren und noch warm über die Rollen streichen.",
+        "es": "Batir el queso crema, la mantequilla, el azúcar glas, la leche y la vainilla hasta lograr un glaseado liso y extenderlo sobre los rollos aún calientes.",
+        "fr": "Battre le fromage frais, le beurre, le sucre glace, le lait et la vanille en un glaçage lisse, puis l'étaler sur les roulés encore chauds.",
+        "ro": "Bate crema de brânză, untul, zahărul pudră, laptele și vanilia într-o glazură netedă și întinde-o peste rulouri cât încă sunt calde."
       }
     }
   ],

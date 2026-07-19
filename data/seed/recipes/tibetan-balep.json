@@ -108,50 +108,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine whole wheat flour, baking powder and salt, then gradually knead in water to a smooth, soft dough."
+        "en": "Combine whole wheat flour, baking powder and salt, then gradually knead in water to a smooth, soft dough.",
+        "de": "Vollkornmehl, Backpulver und Salz vermengen, dann nach und nach Wasser einkneten, bis ein glatter, weicher Teig entsteht.",
+        "es": "Combinar la harina integral, la levadura en polvo y la sal, luego incorporar poco a poco el agua amasando hasta lograr una masa lisa y suave.",
+        "fr": "Mélanger la farine complète, la levure chimique et le sel, puis incorporer peu à peu l'eau en pétrissant jusqu'à obtenir une pâte lisse et souple.",
+        "ro": "Combină făina integrală, praful de copt și sarea, apoi încorporează treptat apa, frământând până obții un aluat neted și moale."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen lassen",
+        "es": "Reposo",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Divide into 6 balls and let rest 30 minutes."
+        "en": "Divide into 6 balls and let rest 30 minutes.",
+        "de": "In 6 Kugeln teilen und 30 Minuten ruhen lassen.",
+        "es": "Dividir en 6 bolas y dejar reposar 30 minutos.",
+        "fr": "Diviser en 6 boules et laisser reposer 30 minutes.",
+        "ro": "Împarte în 6 bile și lasă la odihnă 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Flatten each ball by hand or rolling pin into a thick round disc, about 1 cm thick."
+        "en": "Flatten each ball by hand or rolling pin into a thick round disc, about 1 cm thick.",
+        "de": "Jede Kugel von Hand oder mit dem Nudelholz zu einer dicken, runden Scheibe von etwa 1 cm Dicke flach drücken.",
+        "es": "Aplanar cada bola a mano o con rodillo en un disco redondo grueso, de aproximadamente 1 cm de grosor.",
+        "fr": "Aplatir chaque boule à la main ou au rouleau en un disque épais rond, d'environ 1 cm d'épaisseur.",
+        "ro": "Turtește fiecare bilă cu mâna sau cu sucitorul într-un disc rotund gros, de aproximativ 1 cm grosime."
       }
     },
     {
       "title": {
-        "en": "Cook"
+        "en": "Cook",
+        "de": "Braten",
+        "es": "Cocinar",
+        "fr": "Cuire",
+        "ro": "Gătește"
       },
       "summary": {
-        "en": "Heat a pan hot, then reduce to medium; add a little butter or oil, place a disc in the pan, and cover."
+        "en": "Heat a pan hot, then reduce to medium; add a little butter or oil, place a disc in the pan, and cover.",
+        "de": "Eine Pfanne heiß erhitzen, dann auf mittlere Hitze reduzieren; etwas Butter oder Öl zugeben, eine Scheibe in die Pfanne legen und abdecken.",
+        "es": "Calentar una sartén hasta que esté caliente, luego bajar a fuego medio; añadir un poco de mantequilla o aceite, colocar un disco en la sartén y tapar.",
+        "fr": "Chauffer une poêle bien chaude, puis réduire à feu moyen ; ajouter un peu de beurre ou d'huile, poser un disque dans la poêle et couvrir.",
+        "ro": "Încălzește o tigaie bine, apoi redu la foc mediu; adaugă puțin unt sau ulei, așază un disc în tigaie și acoperă."
       }
     },
     {
       "title": {
-        "en": "Slow-cook"
+        "en": "Slow-cook",
+        "de": "Langsam garen",
+        "es": "Cocción lenta",
+        "fr": "Cuisson lente",
+        "ro": "Gătire lentă"
       },
       "summary": {
-        "en": "Cook 10-15 minutes per side, covered, flipping once, until both sides are deep golden and the bread sounds hollow when tapped."
+        "en": "Cook 10-15 minutes per side, covered, flipping once, until both sides are deep golden and the bread sounds hollow when tapped.",
+        "de": "10-15 Minuten pro Seite abgedeckt garen, einmal wenden, bis beide Seiten tief goldbraun sind und das Brot beim Klopfen hohl klingt.",
+        "es": "Cocinar 10-15 minutos por lado, tapado, volteando una vez, hasta que ambos lados estén muy dorados y el pan suene hueco al golpearlo.",
+        "fr": "Cuire 10-15 minutes de chaque côté, à couvert, en retournant une fois, jusqu'à ce que les deux faces soient bien dorées et que le pain sonne creux au tapotement.",
+        "ro": "Gătește 10-15 minute pe fiecare parte, acoperit, întorcând o dată, până ambele părți devin auriu-închis și pâinea sună a gol când e bătută ușor."
       }
     },
     {
       "title": {
-        "en": "Serve"
+        "en": "Serve",
+        "de": "Servieren",
+        "es": "Servir",
+        "fr": "Servir",
+        "ro": "Servește"
       },
       "summary": {
-        "en": "Serve warm with butter, jam, or alongside spicy Tibetan dishes."
+        "en": "Serve warm with butter, jam, or alongside spicy Tibetan dishes.",
+        "de": "Warm mit Butter, Marmelade oder zu würzigen tibetischen Gerichten servieren.",
+        "es": "Servir caliente con mantequilla, mermelada, o junto a platos tibetanos picantes.",
+        "fr": "Servir chaud avec du beurre, de la confiture, ou en accompagnement de plats tibétains épicés.",
+        "ro": "Servește cald cu unt, gem, sau alături de mâncăruri tibetane picante."
       }
     }
   ],

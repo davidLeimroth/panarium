@@ -111,50 +111,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Rub oil and salt into the flour until crumbly, then knead in warm water gradually to a dough firmer than roti but softer than poori."
+        "en": "Rub oil and salt into the flour until crumbly, then knead in warm water gradually to a dough firmer than roti but softer than poori.",
+        "de": "Öl und Salz ins Mehl einreiben, bis es krümelig ist, dann nach und nach warmes Wasser einkneten zu einem Teig, der fester als Roti, aber weicher als Poori ist.",
+        "es": "Frotar el aceite y la sal en la harina hasta que quede arenosa, luego amasar incorporando agua tibia poco a poco hasta obtener una masa más firme que el roti pero más blanda que el poori.",
+        "fr": "Sabler l'huile et le sel dans la farine, puis incorporer l'eau tiède peu à peu en pétrissant, pour une pâte plus ferme qu'un roti mais plus souple qu'un poori.",
+        "ro": "Freacă uleiul și sarea în făină până devine grunjoasă, apoi frământă adăugând treptat apă călduță, pentru un aluat mai ferm decât roti, dar mai moale decât poori."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Repos",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cover with a damp cloth and rest 20 minutes to relax the gluten."
+        "en": "Cover with a damp cloth and rest 20 minutes to relax the gluten.",
+        "de": "Mit einem feuchten Tuch abdecken und 20 Minuten ruhen lassen, damit sich das Gluten entspannt.",
+        "es": "Tapar con un paño húmedo y dejar reposar 20 minutos para relajar el gluten.",
+        "fr": "Couvrir d'un linge humide et laisser reposer 20 minutes pour détendre le gluten.",
+        "ro": "Acoperă cu un prosop umed și lasă la odihnă 20 de minute, ca glutenul să se relaxeze."
       }
     },
     {
       "title": {
-        "en": "Knead and divide"
+        "en": "Knead and divide",
+        "de": "Kneten & teilen",
+        "es": "Amasar y dividir",
+        "fr": "Pétrir et diviser",
+        "ro": "Frământă și divide"
       },
       "summary": {
-        "en": "Knead again briefly until smooth, then divide into small, walnut-sized balls."
+        "en": "Knead again briefly until smooth, then divide into small, walnut-sized balls.",
+        "de": "Kurz nochmals kneten, bis er glatt ist, dann in kleine, walnussgroße Kugeln teilen.",
+        "es": "Amasar de nuevo brevemente hasta que quede lisa, luego dividir en bolitas del tamaño de una nuez.",
+        "fr": "Pétrir à nouveau brièvement jusqu'à ce que la pâte soit lisse, puis diviser en petites boules de la taille d'une noix.",
+        "ro": "Frământă din nou scurt până devine neted, apoi împarte în bile mici, cât o nucă."
       }
     },
     {
       "title": {
-        "en": "Roll"
+        "en": "Roll",
+        "de": "Ausrollen",
+        "es": "Estirar",
+        "fr": "Étaler",
+        "ro": "Întinde"
       },
       "summary": {
-        "en": "Roll each ball into a thin 4-inch circle, using a little oil rather than dry flour so the surface stays pale."
+        "en": "Roll each ball into a thin 4-inch circle, using a little oil rather than dry flour so the surface stays pale.",
+        "de": "Jede Kugel zu einem dünnen 10-cm-Kreis ausrollen, dabei etwas Öl statt Mehl verwenden, damit die Oberfläche hell bleibt.",
+        "es": "Estirar cada bolita en un círculo fino de 10 cm, usando un poco de aceite en vez de harina para que la superficie quede pálida.",
+        "fr": "Étaler chaque boule en un disque fin de 10 cm, avec un peu d'huile plutôt que de la farine pour garder une surface pâle.",
+        "ro": "Întinde fiecare bilă într-un disc subțire de 10 cm, folosind puțin ulei în loc de făină, ca suprafața să rămână deschisă la culoare."
       }
     },
     {
       "title": {
-        "en": "Fry"
+        "en": "Fry",
+        "de": "Frittieren",
+        "es": "Freír",
+        "fr": "Frire",
+        "ro": "Prăjește"
       },
       "summary": {
-        "en": "Slide into hot oil and gently press with a slotted spoon until it puffs into a ball; fry until just set and white, not browned."
+        "en": "Slide into hot oil and gently press with a slotted spoon until it puffs into a ball; fry until just set and white, not browned.",
+        "de": "In heißes Öl gleiten lassen und sanft mit einem Schaumlöffel andrücken, bis es sich zur Kugel aufbläht; frittieren, bis es gerade fest und weiß ist, nicht braun.",
+        "es": "Deslizar en aceite caliente y presionar suavemente con una espumadera hasta que se infle como una bola; freír solo hasta que cuaje y quede blanco, sin dorar.",
+        "fr": "Glisser dans l'huile chaude et presser doucement avec une écumoire jusqu'à ce que ça gonfle en boule; frire juste jusqu'à ce que ce soit pris et blanc, sans dorer.",
+        "ro": "Alunecă în ulei fierbinte și apasă ușor cu o spumieră până se umflă ca o minge; prăjește doar până se fixează și rămâne alb, fără să se rumenească."
       }
     },
     {
       "title": {
-        "en": "Flip and drain"
+        "en": "Flip and drain",
+        "de": "Wenden & abtropfen",
+        "es": "Voltear y escurrir",
+        "fr": "Retourner et égoutter",
+        "ro": "Întoarce și scurge"
       },
       "summary": {
-        "en": "Flip briefly to cook the other side, then lift out, drain, and serve immediately."
+        "en": "Flip briefly to cook the other side, then lift out, drain, and serve immediately.",
+        "de": "Kurz wenden, um die andere Seite zu garen, dann herausheben, abtropfen lassen und sofort servieren.",
+        "es": "Voltear brevemente para cocinar el otro lado, luego retirar, escurrir y servir de inmediato.",
+        "fr": "Retourner brièvement pour cuire l'autre face, puis sortir, égoutter et servir aussitôt.",
+        "ro": "Întoarce scurt ca să se facă și pe partea cealaltă, apoi scoate, scurge de ulei și servește imediat."
       }
     }
   ],

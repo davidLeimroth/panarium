@@ -116,50 +116,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Délayer la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Warm the milk gently and dissolve the yeast in it."
+        "en": "Warm the milk gently and dissolve the yeast in it.",
+        "de": "Die Milch sanft erwärmen und die Hefe darin auflösen.",
+        "es": "Calentar la leche suavemente y disolver la levadura en ella.",
+        "fr": "Tiédir doucement le lait et y dissoudre la levure.",
+        "ro": "Încălzește ușor laptele și dizolvă drojdia în el."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, sugar and salt, then work in the milk-yeast mixture and the softened butter; knead until smooth and elastic."
+        "en": "Combine flour, sugar and salt, then work in the milk-yeast mixture and the softened butter; knead until smooth and elastic.",
+        "de": "Mehl, Zucker und Salz vermengen, dann die Milch-Hefe-Mischung und die weiche Butter einarbeiten; glatt und elastisch kneten.",
+        "es": "Combinar la harina, el azúcar y la sal, luego incorporar la mezcla de leche y levadura y la mantequilla ablandada; amasar hasta que quede lisa y elástica.",
+        "fr": "Mélanger farine, sucre et sel, puis incorporer le lait-levure et le beurre ramolli ; pétrir jusqu'à obtenir une pâte lisse et élastique.",
+        "ro": "Combină făina, zahărul și sarea, apoi încorporează amestecul de lapte cu drojdie și untul moale; frământă până devine netedă și elastică."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Let rise about 90 minutes until doubled."
+        "en": "Let rise about 90 minutes until doubled.",
+        "de": "Etwa 90 Minuten gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Dejar reposar unos 90 minutos hasta que doble su volumen.",
+        "fr": "Laisser lever environ 90 minutes jusqu'à ce que la pâte double.",
+        "ro": "Lasă la crescut aproximativ 90 de minute până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Degas and roll into a tight cylinder to fit a buttered lidded tin."
+        "en": "Degas and roll into a tight cylinder to fit a buttered lidded tin.",
+        "de": "Entgasen und zu einem festen Zylinder rollen, der in eine gebutterte Kastenform mit Deckel passt.",
+        "es": "Desgasificar y enrollar en un cilindro prieto que quepa en un molde con tapa untado de mantequilla.",
+        "fr": "Dégazer et rouler en un cylindre serré pour qu'il tienne dans un moule à couvercle beurré.",
+        "ro": "Elimină gazele și rulează într-un cilindru strâns, potrivit pentru o formă unsă cu unt, cu capac."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Proof until the dough nears the rim, then close the lid."
+        "en": "Proof until the dough nears the rim, then close the lid.",
+        "de": "Gehen lassen, bis der Teig fast den Rand erreicht, dann den Deckel schließen.",
+        "es": "Dejar fermentar hasta que la masa casi llegue al borde, luego cerrar la tapa.",
+        "fr": "Laisser pousser jusqu'à ce que la pâte arrive presque au bord, puis fermer le couvercle.",
+        "ro": "Lasă la dospit până aluatul ajunge aproape de margine, apoi închide capacul."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake covered until fully set and golden at the ends; cool before slicing thin."
+        "en": "Bake covered until fully set and golden at the ends; cool before slicing thin.",
+        "de": "Mit geschlossenem Deckel backen, bis er fest und an den Enden goldbraun ist; vor dem dünnen Aufschneiden abkühlen lassen.",
+        "es": "Hornear con la tapa puesta hasta que esté firme y dorado en los extremos; dejar enfriar antes de cortar en rebanadas finas.",
+        "fr": "Cuire couvert jusqu'à ce qu'il soit ferme et doré aux extrémités ; laisser refroidir avant de trancher finement.",
+        "ro": "Coace cu capacul închis până devine ferm și auriu la capete; lasă la răcit înainte de a-l felia subțire."
       }
     }
   ],

@@ -136,58 +136,114 @@
   "method": [
     {
       "title": {
-        "en": "Make the scald"
+        "en": "Make the scald",
+        "de": "Brühstück ansetzen",
+        "es": "Preparar el escaldado",
+        "fr": "Préparer l'empois",
+        "ro": "Pregătește oparul"
       },
       "summary": {
-        "en": "Pour boiling water over crushed coriander, caraway, malted rye and part of the rye flour; hold warm for hours to gelatinize and sweeten."
+        "en": "Pour boiling water over crushed coriander, caraway, malted rye and part of the rye flour; hold warm for hours to gelatinize and sweeten.",
+        "de": "Kochendes Wasser über zerstoßenen Koriander, Kümmel, Roggenmalz und einen Teil des Roggenmehls gießen; stundenlang warm halten, damit es verkleistert und süß wird.",
+        "es": "Verter agua hirviendo sobre cilantro y alcaravea machacados, malta de centeno y parte de la harina de centeno; mantener caliente varias horas para que gelatinice y se endulce.",
+        "fr": "Verser de l'eau bouillante sur de la coriandre et du carvi concassés, du malt de seigle et une partie de la farine de seigle; maintenir au chaud plusieurs heures pour gélatiniser et sucrer.",
+        "ro": "Toarnă apă clocotită peste coriandru și chimion zdrobite, malț de secară și o parte din făina de secară; ține la cald câteva ore ca să se gelatinizeze și să se îndulcească."
       }
     },
     {
       "title": {
-        "en": "Build the preferment"
+        "en": "Build the preferment",
+        "de": "Vorteig ansetzen",
+        "es": "Preparar el prefermento",
+        "fr": "Préparer le préferment",
+        "ro": "Pregătește prefermentul"
       },
       "summary": {
-        "en": "Mix rye flour, water and a little yeast; ferment about 12 hours until active."
+        "en": "Mix rye flour, water and a little yeast; ferment about 12 hours until active.",
+        "de": "Roggenmehl, Wasser und etwas Hefe mischen; etwa 12 Stunden fermentieren, bis er aktiv ist.",
+        "es": "Mezclar harina de centeno, agua y un poco de levadura; fermentar unas 12 horas hasta que esté activo.",
+        "fr": "Mélanger la farine de seigle, l'eau et un peu de levure; laisser fermenter environ 12 heures jusqu'à ce qu'il soit actif.",
+        "ro": "Amestecă făina de secară, apa și puțină drojdie; lasă la fermentat aproximativ 12 ore până devine activ."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine the scald, preferment, remaining rye and wheat flours, salt, molasses and cocoa into a soft, sticky dough."
+        "en": "Combine the scald, preferment, remaining rye and wheat flours, salt, molasses and cocoa into a soft, sticky dough.",
+        "de": "Das Brühstück, den Vorteig, restliches Roggen- und Weizenmehl, Salz, Melasse und Kakao zu einem weichen, klebrigen Teig verbinden.",
+        "es": "Combinar el escaldado, el prefermento, la harina de centeno y trigo restante, la sal, la melaza y el cacao en una masa blanda y pegajosa.",
+        "fr": "Combiner l'empois, le préferment, le reste des farines de seigle et de blé, le sel, la mélasse et le cacao en une pâte souple et collante.",
+        "ro": "Combină oparul, prefermentul, restul de făină de secară și grâu, sarea, melasa și cacaua într-un aluat moale și lipicios."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Rest about 2 hours, folding once partway through."
+        "en": "Rest about 2 hours, folding once partway through.",
+        "de": "Etwa 2 Stunden ruhen lassen, dabei einmal zwischendurch falten.",
+        "es": "Dejar reposar unas 2 horas, plegando una vez a mitad del proceso.",
+        "fr": "Laisser reposer environ 2 heures, en rabattant une fois à mi-parcours.",
+        "ro": "Lasă la odihnă circa 2 ore, pliind o dată pe parcurs."
       }
     },
     {
       "title": {
-        "en": "Pan and proof"
+        "en": "Pan and proof",
+        "de": "In die Form geben & gehen lassen",
+        "es": "Moldear y fermentar",
+        "fr": "Mouler et pousser",
+        "ro": "Pune în formă și dospește"
       },
       "summary": {
-        "en": "Shape into a pan loaf and proof about an hour until domed."
+        "en": "Shape into a pan loaf and proof about an hour until domed.",
+        "de": "Zu einem Kastenlaib formen und etwa eine Stunde gehen lassen, bis er sich wölbt.",
+        "es": "Formar un pan de molde y dejar fermentar cerca de una hora hasta que se abombe.",
+        "fr": "Façonner en pain de mie et laisser pousser environ une heure jusqu'à ce qu'il bombe.",
+        "ro": "Modelează într-o pâine de formă și lasă la dospit circa o oră, până se bombează."
       }
     },
     {
       "title": {
-        "en": "Top and bake"
+        "en": "Top and bake",
+        "de": "Bestreuen und backen",
+        "es": "Decorar y hornear",
+        "fr": "Décorer et cuire",
+        "ro": "Decorează și coace"
       },
       "summary": {
-        "en": "Scatter whole coriander seed over the top, then bake until deeply set."
+        "en": "Scatter whole coriander seed over the top, then bake until deeply set.",
+        "de": "Ganze Koriandersamen über die Oberfläche streuen, dann backen, bis die Kruste fest durchgebacken ist.",
+        "es": "Esparcir semillas enteras de cilantro por encima, luego hornear hasta que quede firme y bien cocido.",
+        "fr": "Parsemer de graines de coriandre entières sur le dessus, puis cuire jusqu'à ce que la croûte soit bien prise.",
+        "ro": "Presară semințe întregi de coriandru deasupra, apoi coace până se fixează bine, cu coaja fermă."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Rest at least a few hours, ideally overnight, before slicing to avoid a gummy crumb."
+        "en": "Rest at least a few hours, ideally overnight, before slicing to avoid a gummy crumb.",
+        "de": "Mindestens ein paar Stunden ruhen lassen, idealerweise über Nacht, bevor angeschnitten wird, damit die Krume nicht klitschig bleibt.",
+        "es": "Dejar reposar al menos unas horas, idealmente toda la noche, antes de cortar para evitar una miga gomosa.",
+        "fr": "Laisser reposer au moins quelques heures, idéalement toute la nuit, avant de trancher pour éviter une mie compacte et collante.",
+        "ro": "Lasă la odihnă cel puțin câteva ore, ideal peste noapte, înainte de feliere, ca să eviți un miez cleios."
       }
     }
   ],

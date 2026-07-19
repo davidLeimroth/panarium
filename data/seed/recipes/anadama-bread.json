@@ -140,58 +140,114 @@
   "method": [
     {
       "title": {
-        "en": "Scald the cornmeal"
+        "en": "Scald the cornmeal",
+        "de": "Maismehl brühen",
+        "es": "Escaldar la harina de maíz",
+        "fr": "Ébouillanter la farine de maïs",
+        "ro": "Oparește mălaiul"
       },
       "summary": {
-        "en": "Whisk cornmeal and salt, stir in butter, molasses and boiling water until smooth, and let the mixture cool to lukewarm."
+        "en": "Whisk cornmeal and salt, stir in butter, molasses and boiling water until smooth, and let the mixture cool to lukewarm.",
+        "de": "Maismehl und Salz verquirlen, Butter, Melasse und kochendes Wasser glatt einrühren und die Mischung lauwarm abkühlen lassen.",
+        "es": "Batir la harina de maíz y la sal, incorporar la mantequilla, la melaza y el agua hirviendo hasta que quede liso, y dejar templar.",
+        "fr": "Fouetter la farine de maïs et le sel, incorporer le beurre, la mélasse et l'eau bouillante jusqu'à lisser, puis laisser tiédir.",
+        "ro": "Amestecă mălaiul cu sarea, încorporează untul, melasa și apa clocotită până e neted, apoi lasă amestecul să se răcească la căldicel."
       }
     },
     {
       "title": {
-        "en": "Build the dough"
+        "en": "Build the dough",
+        "de": "Teig ansetzen",
+        "es": "Formar la masa",
+        "fr": "Constituer la pâte",
+        "ro": "Formează aluatul"
       },
       "summary": {
-        "en": "Mix in dry milk powder, both flours and yeast; let the shaggy dough rest 20 minutes before kneading."
+        "en": "Mix in dry milk powder, both flours and yeast; let the shaggy dough rest 20 minutes before kneading.",
+        "de": "Milchpulver, beide Mehlsorten und Hefe einrühren; den groben Teig vor dem Kneten 20 Minuten ruhen lassen.",
+        "es": "Añadir la leche en polvo, ambas harinas y la levadura; dejar reposar la masa desgreñada 20 minutos antes de amasar.",
+        "fr": "Incorporer le lait en poudre, les deux farines et la levure; laisser reposer cette pâte grossière 20 minutes avant de pétrir.",
+        "ro": "Încorporează laptele praf, ambele tipuri de făină și drojdia; lasă aluatul neuniform la odihnă 20 de minute înainte de frământare."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead until smooth and elastic, about 7 minutes by machine or a bit longer by hand."
+        "en": "Knead until smooth and elastic, about 7 minutes by machine or a bit longer by hand.",
+        "de": "Kneten, bis der Teig glatt und elastisch ist, etwa 7 Minuten mit der Maschine oder von Hand etwas länger.",
+        "es": "Amasar hasta que quede lisa y elástica, unos 7 minutos a máquina o un poco más a mano.",
+        "fr": "Pétrir jusqu'à ce que la pâte soit lisse et élastique, environ 7 minutes au robot ou un peu plus à la main.",
+        "ro": "Frământă până devine neted și elastic, aproximativ 7 minute cu robotul sau puțin mai mult manual."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Primera fermentación",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let the dough double in size, about an hour."
+        "en": "Cover and let the dough double in size, about an hour.",
+        "de": "Abdecken und den Teig etwa eine Stunde gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Tapar y dejar que la masa doble su volumen, aproximadamente una hora.",
+        "fr": "Couvrir et laisser la pâte doubler de volume, environ une heure.",
+        "ro": "Acoperă și lasă aluatul să își dubleze volumul, aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into a log and settle it into a greased loaf pan."
+        "en": "Shape into a log and settle it into a greased loaf pan.",
+        "de": "Zu einem Laib formen und in eine gefettete Kastenform legen.",
+        "es": "Formar un tronco y colocarlo en un molde engrasado.",
+        "fr": "Façonner en bûche et déposer dans un moule à cake graissé.",
+        "ro": "Modelează un sul și așază-l într-o formă de pâine unsă."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segunda fermentación",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let it rise until the center crests about an inch above the rim of the pan."
+        "en": "Let it rise until the center crests about an inch above the rim of the pan.",
+        "de": "Gehen lassen, bis sich die Mitte etwa 2,5 cm über den Formrand wölbt.",
+        "es": "Dejar fermentar hasta que el centro sobresalga 2,5 cm por encima del borde del molde.",
+        "fr": "Laisser lever jusqu'à ce que le centre dépasse d'environ 2,5 cm le bord du moule.",
+        "ro": "Lasă la crescut până centrul depășește marginea formei cu aproximativ 2,5 cm."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until deeply browned and the loaf sounds hollow, with an internal temperature near 88°C (190°F)."
+        "en": "Bake until deeply browned and the loaf sounds hollow, with an internal temperature near 88°C (190°F).",
+        "de": "Backen, bis der Laib tief gebräunt ist und hohl klingt, bei einer Kerntemperatur von etwa 88°C (190°F).",
+        "es": "Hornear hasta que esté muy dorado y suene hueco al golpearlo, con una temperatura interna cercana a 88°C (190°F).",
+        "fr": "Cuire jusqu'à coloration bien dorée et un son creux au tapotement, avec une température à cœur proche de 88°C (190°F).",
+        "ro": "Coace până se rumenește intens și pâinea sună a gol la ciocănire, cu o temperatură interioară de aproximativ 88°C (190°F)."
       }
     }
   ],

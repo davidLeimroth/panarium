@@ -119,50 +119,98 @@
   "method": [
     {
       "title": {
-        "en": "Make the batter"
+        "en": "Make the batter",
+        "de": "Teig anrühren",
+        "es": "Preparar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Pregătește compoziția"
       },
       "summary": {
-        "en": "Whisk flour and salt, then beat in warm milk and water mixed with yeast and a little sugar until you have a thick, pourable batter."
+        "en": "Whisk flour and salt, then beat in warm milk and water mixed with yeast and a little sugar until you have a thick, pourable batter.",
+        "de": "Mehl und Salz verquirlen, dann warme Milch und Wasser, gemischt mit Hefe und etwas Zucker, einrühren, bis ein dicker, gießfähiger Teig entsteht.",
+        "es": "Batir la harina y la sal, luego incorporar la leche y el agua tibias mezcladas con la levadura y un poco de azúcar, hasta obtener una masa espesa y vertible.",
+        "fr": "Fouetter la farine et le sel, puis incorporer le lait et l'eau tièdes mélangés à la levure et un peu de sucre, jusqu'à obtenir une pâte épaisse et coulante.",
+        "ro": "Bate făina și sarea, apoi încorporează laptele și apa călduțe amestecate cu drojdia și puțin zahăr, până obții o compoziție groasă, care se toarnă."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let the batter stand somewhere warm for an hour or two until puffed and full of bubbles."
+        "en": "Let the batter stand somewhere warm for an hour or two until puffed and full of bubbles.",
+        "de": "Den Teig an einem warmen Ort ein bis zwei Stunden stehen lassen, bis er aufgeblasen und voller Blasen ist.",
+        "es": "Dejar reposar la masa en un lugar cálido una o dos horas, hasta que esté hinchada y llena de burbujas.",
+        "fr": "Laisser reposer la pâte dans un endroit chaud une heure ou deux, jusqu'à ce qu'elle soit gonflée et pleine de bulles.",
+        "ro": "Lasă compoziția într-un loc călduț una sau două ore, până se umflă și se umple de bule."
       }
     },
     {
       "title": {
-        "en": "Loosen with soda"
+        "en": "Loosen with soda",
+        "de": "Mit Natron auflockern",
+        "es": "Aligerar con bicarbonato",
+        "fr": "Alléger au bicarbonate",
+        "ro": "Afânează cu bicarbonat"
       },
       "summary": {
-        "en": "Beat in baking soda dissolved in a little warm water to wake up a fresh round of bubbles."
+        "en": "Beat in baking soda dissolved in a little warm water to wake up a fresh round of bubbles.",
+        "de": "In etwas warmem Wasser aufgelöstes Natron einrühren, um eine neue Runde Blasen zu wecken.",
+        "es": "Incorporar bicarbonato disuelto en un poco de agua tibia para despertar una nueva ronda de burbujas.",
+        "fr": "Incorporer le bicarbonate de soude dissous dans un peu d'eau tiède pour réveiller une nouvelle vague de bulles.",
+        "ro": "Încorporează bicarbonatul dizolvat în puțină apă călduță, pentru a trezi un nou val de bule."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segundo reposo",
+        "fr": "Second repos",
+        "ro": "A doua odihnă"
       },
       "summary": {
-        "en": "Rest another 30 minutes until visibly aerated and slightly slack."
+        "en": "Rest another 30 minutes until visibly aerated and slightly slack.",
+        "de": "Weitere 30 Minuten ruhen lassen, bis sichtbar durchlüftet und leicht locker.",
+        "es": "Dejar reposar otros 30 minutos, hasta que esté visiblemente aireada y algo floja.",
+        "fr": "Laisser reposer encore 30 minutes, jusqu'à ce que ce soit visiblement aéré et légèrement détendu.",
+        "ro": "Lasă la odihnă încă 30 de minute, până devine vizibil aerată și puțin lejeră."
       }
     },
     {
       "title": {
-        "en": "Pour and cook"
+        "en": "Pour and cook",
+        "de": "Eingießen und backen",
+        "es": "Verter y cocinar",
+        "fr": "Verser et cuire",
+        "ro": "Toarnă și coace"
       },
       "summary": {
-        "en": "Ladle batter into greased rings on a hot, lightly greased griddle; cook until the tops are covered in set holes and no longer glossy."
+        "en": "Ladle batter into greased rings on a hot, lightly greased griddle; cook until the tops are covered in set holes and no longer glossy.",
+        "de": "Den Teig in gefettete Ringe auf einer heißen, leicht gefetteten Platte schöpfen; backen, bis die Oberseite voller fester Löcher und nicht mehr glänzend ist.",
+        "es": "Verter la masa con un cucharón en aros engrasados sobre una plancha caliente y ligeramente engrasada; cocinar hasta que la superficie esté cubierta de agujeros fijos y ya no brille.",
+        "fr": "Verser la pâte à la louche dans des cercles graissés sur une plaque chaude et légèrement graissée; cuire jusqu'à ce que le dessus soit couvert de trous fixés et ne brille plus.",
+        "ro": "Toarnă compoziția cu polonicul în inele unse, pe o plită fierbinte și ușor unsă; coace până suprafața se acoperă de găuri fixate și nu mai este lucioasă."
       }
     },
     {
       "title": {
-        "en": "Finish"
+        "en": "Finish",
+        "de": "Fertigstellen",
+        "es": "Terminar",
+        "fr": "Finition",
+        "ro": "Finisare"
       },
       "summary": {
-        "en": "Flip briefly to set the top if you like more color, or leave as is for the classic pale top; cool on a rack before toasting."
+        "en": "Flip briefly to set the top if you like more color, or leave as is for the classic pale top; cool on a rack before toasting.",
+        "de": "Kurz wenden, um die Oberseite zu fixieren, wenn mehr Farbe gewünscht ist, oder für die klassische blasse Oberseite so lassen; vor dem Toasten auf einem Gitter abkühlen lassen.",
+        "es": "Voltear brevemente para fijar la superficie si prefieres más color, o dejarlo así para el clásico acabado pálido; dejar enfriar sobre una rejilla antes de tostar.",
+        "fr": "Retourner brièvement pour fixer le dessus si l'on préfère plus de couleur, ou laisser tel quel pour le dessus pâle classique; laisser refroidir sur une grille avant de griller.",
+        "ro": "Întoarce scurt pentru a fixa suprafața dacă preferi mai multă culoare, sau las-o așa pentru aspectul clasic palid; lasă la răcit pe un grătar înainte de a le prăji la toaster."
       }
     }
   ],

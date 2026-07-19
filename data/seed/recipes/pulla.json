@@ -140,50 +140,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom and mix"
+        "en": "Bloom and mix",
+        "de": "Hefe auflösen und mischen",
+        "es": "Activar la levadura y mezclar",
+        "fr": "Activer et mélanger",
+        "ro": "Activează drojdia și amestecă"
       },
       "summary": {
-        "en": "Warm the milk, stir in the yeast, then combine with flour, sugar, salt, egg, butter and freshly ground cardamom into a soft dough."
+        "en": "Warm the milk, stir in the yeast, then combine with flour, sugar, salt, egg, butter and freshly ground cardamom into a soft dough.",
+        "de": "Die Milch erwärmen, die Hefe einrühren, dann mit Mehl, Zucker, Salz, Ei, Butter und frisch gemahlenem Kardamom zu einem weichen Teig verarbeiten.",
+        "es": "Calentar la leche, disolver la levadura, luego combinar con harina, azúcar, sal, huevo, mantequilla y cardamomo recién molido hasta formar una masa blanda.",
+        "fr": "Tiédir le lait, y délayer la levure, puis mélanger avec la farine, le sucre, le sel, l'œuf, le beurre et la cardamome fraîchement moulue jusqu'à obtenir une pâte souple.",
+        "ro": "Încălzește laptele, dizolvă drojdia, apoi amestecă cu făină, zahăr, sare, ou, unt și cardamom proaspăt măcinat până obții un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Work the dough until smooth and elastic, about 10 minutes by hand or with a mixer."
+        "en": "Work the dough until smooth and elastic, about 10 minutes by hand or with a mixer.",
+        "de": "Den Teig etwa 10 Minuten von Hand oder mit der Maschine kneten, bis er glatt und elastisch ist.",
+        "es": "Trabajar la masa unos 10 minutos a mano o con amasadora hasta que esté lisa y elástica.",
+        "fr": "Pétrir la pâte environ 10 minutes à la main ou au robot, jusqu'à ce qu'elle soit lisse et élastique.",
+        "ro": "Frământă aluatul aproximativ 10 minute manual sau cu mixerul, până devine neted și elastic."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Cover and let rise until doubled, roughly 1.5 hours."
+        "en": "Cover and let rise until doubled, roughly 1.5 hours.",
+        "de": "Zugedeckt gehen lassen, bis sich der Teig verdoppelt hat, etwa 1.5 Stunden.",
+        "es": "Tapar y dejar levar hasta que doble su volumen, unas 1.5 horas.",
+        "fr": "Couvrir et laisser lever jusqu'au double, environ 1.5 heure.",
+        "ro": "Acoperă și lasă la dospit până se dublează, aproximativ 1.5 ore."
       }
     },
     {
       "title": {
-        "en": "Divide and braid"
+        "en": "Divide and braid",
+        "de": "Teilen und flechten",
+        "es": "Dividir y trenzar",
+        "fr": "Diviser et tresser",
+        "ro": "Împarte și împletește"
       },
       "summary": {
-        "en": "Split the dough into portions, roll each piece into ropes, and braid them into loaves."
+        "en": "Split the dough into portions, roll each piece into ropes, and braid them into loaves.",
+        "de": "Den Teig in Portionen teilen, jedes Stück zu einem Strang rollen und zu Broten flechten.",
+        "es": "Dividir la masa en porciones, formar un cordón con cada trozo y trenzarlos para dar forma a los panes.",
+        "fr": "Diviser la pâte en portions, rouler chaque morceau en boudin, puis les tresser pour former les pains.",
+        "ro": "Împarte aluatul în porții, rulează fiecare bucată sub formă de fitil, apoi împletește-le pentru a forma pâinile."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Stückgare",
+        "es": "Segundo levado",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let the shaped loaves proof, uncovered or lightly covered, until puffy, about an hour."
+        "en": "Let the shaped loaves proof, uncovered or lightly covered, until puffy, about an hour.",
+        "de": "Die geformten Brote offen oder leicht abgedeckt gehen lassen, bis sie schön aufgegangen sind, etwa eine Stunde.",
+        "es": "Dejar fermentar los panes formados, destapados o ligeramente cubiertos, hasta que se vean hinchados, alrededor de una hora.",
+        "fr": "Laisser pousser les pains façonnés, à découvert ou légèrement couverts, jusqu'à ce qu'ils soient gonflés, environ une heure.",
+        "ro": "Lasă pâinile modelate la dospit, neacoperite sau acoperite ușor, până devin pufoase, aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Finish and bake"
+        "en": "Finish and bake",
+        "de": "Fertigstellen und backen",
+        "es": "Terminar y hornear",
+        "fr": "Finaliser et cuire",
+        "ro": "Finalizează și coace"
       },
       "summary": {
-        "en": "Brush with egg wash, scatter generously with pearl sugar, and bake until deeply golden and fragrant."
+        "en": "Brush with egg wash, scatter generously with pearl sugar, and bake until deeply golden and fragrant.",
+        "de": "Mit Eistreiche bestreichen, großzügig mit Perlzucker bestreuen und backen, bis die Brote tief goldbraun und duftend sind.",
+        "es": "Pincelar con huevo batido, esparcir generosamente azúcar perlado y hornear hasta que estén bien dorados y aromáticos.",
+        "fr": "Badigeonner de dorure à l'œuf, parsemer généreusement de sucre perlé et cuire jusqu'à belle coloration dorée et parfum prononcé.",
+        "ro": "Unge cu ou bătut, presară generos zahăr perlat și coace până devin auriu-închis și parfumate."
       }
     }
   ],

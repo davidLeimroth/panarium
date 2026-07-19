@@ -106,50 +106,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom the yeast"
+        "en": "Bloom the yeast",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Délayer la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Dissolve the fresh yeast in the warm water."
+        "en": "Dissolve the fresh yeast in the warm water.",
+        "de": "Die frische Hefe im warmen Wasser auflösen.",
+        "es": "Disolver la levadura fresca en el agua tibia.",
+        "fr": "Délayer la levure fraîche dans l'eau tiède.",
+        "ro": "Dizolvă drojdia proaspătă în apa călduță."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Add the whole wheat flour and salt and knead 8-12 minutes to a smooth, supple dough."
+        "en": "Add the whole wheat flour and salt and knead 8-12 minutes to a smooth, supple dough.",
+        "de": "Das Weizenvollkornmehl und das Salz zugeben und 8-12 Minuten zu einem glatten, geschmeidigen Teig kneten.",
+        "es": "Añadir la harina integral de trigo y la sal y amasar 8-12 minutos hasta obtener una masa lisa y flexible.",
+        "fr": "Ajouter la farine complète et le sel et pétrir 8-12 minutes pour obtenir une pâte lisse et souple.",
+        "ro": "Adaugă făina integrală de grâu și sarea și frământă 8-12 minute până obții un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Première pousse",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let rise about an hour at room temperature until doubled."
+        "en": "Cover and let rise about an hour at room temperature until doubled.",
+        "de": "Abdecken und etwa eine Stunde bei Raumtemperatur gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Tapar y dejar fermentar cerca de una hora a temperatura ambiente hasta que doble su tamaño.",
+        "fr": "Couvrir et laisser pousser environ une heure à température ambiante jusqu'à ce qu'elle double.",
+        "ro": "Acoperă și lasă la crescut aproximativ o oră la temperatura camerei, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Degas gently and shape into a ball or bâtard."
+        "en": "Degas gently and shape into a ball or bâtard.",
+        "de": "Sanft entgasen und zu einer Kugel oder einem Bâtard formen.",
+        "es": "Desgasificar con suavidad y formar una bola o un bâtard.",
+        "fr": "Dégazer délicatement et façonner en boule ou en bâtard.",
+        "ro": "Degazează ușor și modelează în formă de minge sau bâtard."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let rise a further 45 minutes."
+        "en": "Let rise a further 45 minutes.",
+        "de": "Weitere 45 Minuten gehen lassen.",
+        "es": "Dejar fermentar otros 45 minutos.",
+        "fr": "Laisser pousser encore 45 minutes.",
+        "ro": "Lasă la dospit încă 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Score and bake hot with steam until deeply golden and hollow-sounding when tapped."
+        "en": "Score and bake hot with steam until deeply golden and hollow-sounding when tapped.",
+        "de": "Einschneiden und heiß mit Dampf backen, bis er tief goldbraun ist und beim Klopfen hohl klingt.",
+        "es": "Marcar y hornear caliente con vapor hasta que esté bien dorado y suene hueco al golpearlo.",
+        "fr": "Inciser et cuire chaud avec de la buée jusqu'à ce qu'il soit bien doré et sonne creux.",
+        "ro": "Crestează și coace la foc iute cu abur, până devine auriu-închis și sună a gol la ciocănit."
       }
     }
   ],

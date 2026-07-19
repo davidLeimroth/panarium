@@ -123,50 +123,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, salt and sugar; make a well, dissolve the yeast in a little warm water in the well, then stir in the remaining water and oil."
+        "en": "Combine flour, salt and sugar; make a well, dissolve the yeast in a little warm water in the well, then stir in the remaining water and oil.",
+        "de": "Mehl, Salz und Zucker vermengen, eine Mulde formen, die Hefe darin in wenig warmem Wasser auflösen und dann restliches Wasser und Öl unterrühren.",
+        "es": "Mezclar la harina, la sal y el azúcar; hacer un hueco, disolver la levadura en un poco de agua tibia dentro del hueco y luego incorporar el agua restante y el aceite.",
+        "fr": "Mélanger la farine, le sel et le sucre ; creuser un puits, y délayer la levure dans un peu d'eau tiède, puis incorporer le reste de l'eau et l'huile.",
+        "ro": "Amestecă făina, sarea și zahărul; fă o adâncitură, dizolvă drojdia în puțină apă călduță în mijloc, apoi adaugă restul apei și uleiul."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead 5 to 10 minutes to a smooth, soft, non-sticky dough."
+        "en": "Knead 5 to 10 minutes to a smooth, soft, non-sticky dough.",
+        "de": "5 bis 10 Minuten kneten, bis ein glatter, weicher, nicht klebriger Teig entsteht.",
+        "es": "Amasar de 5 a 10 minutos hasta obtener una masa lisa, suave y que no se pegue.",
+        "fr": "Pétrir 5 à 10 minutes jusqu'à obtenir une pâte lisse, souple et non collante.",
+        "ro": "Frământă 5-10 minute până obții un aluat neted, moale și care nu se lipește."
       }
     },
     {
       "title": {
-        "en": "Divide and rest"
+        "en": "Divide and rest",
+        "de": "Teilen und ruhen lassen",
+        "es": "Dividir y reposar",
+        "fr": "Diviser et reposer",
+        "ro": "Împarte și lasă la odihnă"
       },
       "summary": {
-        "en": "Divide into two mounds on a semolina-dusted pan, cover, and rest 10 to 15 minutes."
+        "en": "Divide into two mounds on a semolina-dusted pan, cover, and rest 10 to 15 minutes.",
+        "de": "In zwei Kugeln teilen, auf ein mit Grieß bestäubtes Blech setzen, abdecken und 10 bis 15 Minuten ruhen lassen.",
+        "es": "Dividir en dos montículos sobre una bandeja espolvoreada con sémola, tapar y dejar reposar de 10 a 15 minutos.",
+        "fr": "Diviser en deux boules sur un plateau fariné de semoule, couvrir et laisser reposer 10 à 15 minutes.",
+        "ro": "Împarte în două movilițe pe o tavă presărată cu griș, acoperă și lasă la odihnă 10-15 minute."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Pat each mound into a flat round loaf about half a centimeter thick."
+        "en": "Pat each mound into a flat round loaf about half a centimeter thick.",
+        "de": "Jede Kugel zu einem flachen, runden Laib von etwa einem halben Zentimeter Dicke flach drücken.",
+        "es": "Aplanar cada montículo hasta formar un pan redondo y plano de aproximadamente medio centímetro de grosor.",
+        "fr": "Aplatir chaque boule en un pain rond et plat d'environ un demi-centimètre d'épaisseur.",
+        "ro": "Presează ușor fiecare moviliță într-o pâine rotundă și plată, groasă de aproximativ jumătate de centimetru."
       }
     },
     {
       "title": {
-        "en": "Rise"
+        "en": "Rise",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Cover and let rise about an hour, until it springs back gently when pressed."
+        "en": "Cover and let rise about an hour, until it springs back gently when pressed.",
+        "de": "Abdecken und etwa eine Stunde gehen lassen, bis der Teig auf leichten Druck sanft zurückfedert.",
+        "es": "Tapar y dejar fermentar cerca de una hora, hasta que recupere la forma suavemente al presionar.",
+        "fr": "Couvrir et laisser pousser environ une heure, jusqu'à ce que la pâte reprenne sa forme doucement sous le doigt.",
+        "ro": "Acoperă și lasă la crescut aproximativ o oră, până când revine ușor la apăsare."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Score or prick the tops, then bake in a hot oven about 20 minutes until golden and hollow-sounding when tapped."
+        "en": "Score or prick the tops, then bake in a hot oven about 20 minutes until golden and hollow-sounding when tapped.",
+        "de": "Die Oberfläche einritzen oder einstechen, dann im heißen Ofen etwa 20 Minuten backen, bis der Laib goldbraun ist und beim Klopfen hohl klingt.",
+        "es": "Marcar o pinchar la superficie, luego hornear en horno caliente unos 20 minutos hasta que esté dorado y suene hueco al golpearlo.",
+        "fr": "Inciser ou piquer le dessus, puis cuire au four chaud environ 20 minutes jusqu'à ce que le pain soit doré et sonne creux.",
+        "ro": "Crestează sau înțeapă suprafața, apoi coace în cuptor fierbinte aproximativ 20 de minute, până e auriu și sună a gol la ciocănit."
       }
     }
   ],

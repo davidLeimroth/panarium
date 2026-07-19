@@ -110,50 +110,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, sugar and most of the water, then add yeast and salt and knead 7-8 minutes to a silky, slightly sticky dough."
+        "en": "Combine flour, sugar and most of the water, then add yeast and salt and knead 7-8 minutes to a silky, slightly sticky dough.",
+        "de": "Mehl, Zucker und den Großteil des Wassers vermengen, dann Hefe und Salz zugeben und 7-8 Minuten zu einem seidigen, leicht klebrigen Teig kneten.",
+        "es": "Combinar la harina, el azúcar y la mayor parte del agua, luego añadir la levadura y la sal y amasar 7-8 minutos hasta obtener una masa sedosa y algo pegajosa.",
+        "fr": "Combiner la farine, le sucre et la majeure partie de l'eau, puis ajouter la levure et le sel et pétrir 7-8 minutes pour une pâte soyeuse, légèrement collante.",
+        "ro": "Combină făina, zahărul și cea mai mare parte din apă, apoi adaugă drojdia și sarea și frământă 7-8 minute până obții un aluat mătăsos, ușor lipicios."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let the dough rise until roughly quadrupled, much longer and puffier than a French baguette rise."
+        "en": "Let the dough rise until roughly quadrupled, much longer and puffier than a French baguette rise.",
+        "de": "Den Teig gehen lassen, bis er sich etwa vervierfacht hat, deutlich länger und lockerer als bei einer französischen Baguette.",
+        "es": "Dejar fermentar la masa hasta que casi se cuadruplique, mucho más tiempo y con más volumen que una baguette francesa.",
+        "fr": "Laisser lever la pâte jusqu'à ce qu'elle quadruple presque de volume, bien plus longtemps et plus gonflée que pour une baguette française.",
+        "ro": "Lasă aluatul la crescut până aproape se cvadruplează, mult mai mult timp și mai pufos decât la o baghetă franțuzească."
       }
     },
     {
       "title": {
-        "en": "Divide"
+        "en": "Divide",
+        "de": "Teilen",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Divide into six pieces and flatten each into a small trapezoid."
+        "en": "Divide into six pieces and flatten each into a small trapezoid.",
+        "de": "In sechs Stücke teilen und jedes zu einem kleinen Trapez flach drücken.",
+        "es": "Dividir en seis piezas y aplanar cada una en un pequeño trapecio.",
+        "fr": "Diviser en six pâtons et aplatir chacun en un petit trapèze.",
+        "ro": "Împarte în șase bucăți și aplatizează fiecare într-un mic trapez."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Roll each piece into a tight log with tapered ends and set it in a perforated baguette tray."
+        "en": "Roll each piece into a tight log with tapered ends and set it in a perforated baguette tray.",
+        "de": "Jedes Stück zu einer festen Rolle mit spitz zulaufenden Enden formen und in eine perforierte Baguette-Form legen.",
+        "es": "Enrollar cada pieza en un cilindro apretado con extremos afinados y colocarlo en una bandeja perforada para baguettes.",
+        "fr": "Rouler chaque pâton en un boudin serré aux extrémités effilées et le poser dans une plaque à baguettes perforée.",
+        "ro": "Rulează fiecare bucată într-un sul strâns, cu capetele ascuțite, și așază-l într-o tavă perforată pentru baghete."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let the shaped rolls rise until they spring back slowly when pressed."
+        "en": "Let the shaped rolls rise until they spring back slowly when pressed.",
+        "de": "Die geformten Rollen gehen lassen, bis sie sich beim Eindrücken langsam zurückwölben.",
+        "es": "Dejar fermentar las piezas formadas hasta que, al presionarlas, vuelvan a subir despacio.",
+        "fr": "Laisser lever les pâtons façonnés jusqu'à ce qu'ils reviennent lentement sous le doigt.",
+        "ro": "Lasă rulourile modelate la crescut până revin încet la apăsare."
       }
     },
     {
       "title": {
-        "en": "Score and steam-bake"
+        "en": "Score and steam-bake",
+        "de": "Einschneiden und dampfbacken",
+        "es": "Greñar y hornear con vapor",
+        "fr": "Lamer et cuire à la buée",
+        "ro": "Crestează și coace cu abur"
       },
       "summary": {
-        "en": "Score at an angle, mist with water, and bake hot with steam for the first stretch, then finish without steam until thin and crackling."
+        "en": "Score at an angle, mist with water, and bake hot with steam for the first stretch, then finish without steam until thin and crackling.",
+        "de": "Schräg einschneiden, mit Wasser besprühen und zunächst heiß mit Schwaden backen, dann ohne Schwaden fertig backen, bis dünn und krachend knusprig.",
+        "es": "Greñar en ángulo, rociar con agua y hornear caliente con vapor al principio, luego terminar sin vapor hasta que quede fina y crujiente.",
+        "fr": "Inciser en biais, vaporiser d'eau et cuire d'abord à four chaud avec buée, puis terminer sans buée jusqu'à une croûte fine et croustillante.",
+        "ro": "Crestează oblic, pulverizează cu apă și coace la foc iute cu abur la început, apoi termină fără abur până devine subțire și crocantă."
       }
     }
   ],

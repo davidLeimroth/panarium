@@ -104,50 +104,98 @@
   "method": [
     {
       "title": {
-        "en": "Bloom"
+        "en": "Bloom",
+        "de": "Hefe auflösen",
+        "es": "Activar la levadura",
+        "fr": "Dissoudre la levure",
+        "ro": "Dizolvă drojdia"
       },
       "summary": {
-        "en": "Dissolve the yeast in the water, then mix in the flour and salt to a smooth dough."
+        "en": "Dissolve the yeast in the water, then mix in the flour and salt to a smooth dough.",
+        "de": "Die Hefe im Wasser auflösen, dann Mehl und Salz einrühren, bis ein glatter Teig entsteht.",
+        "es": "Disolver la levadura en el agua, luego mezclar con la harina y la sal hasta obtener una masa lisa.",
+        "fr": "Dissoudre la levure dans l'eau, puis mélanger avec la farine et le sel jusqu'à obtenir une pâte lisse.",
+        "ro": "Dizolvă drojdia în apă, apoi amestecă cu făina și sarea până obții un aluat neted."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Stockgare",
+        "es": "Primera fermentación",
+        "fr": "Premier levage",
+        "ro": "Prima fermentare"
       },
       "summary": {
-        "en": "Bulk ferment about 90 minutes."
+        "en": "Bulk ferment about 90 minutes.",
+        "de": "Etwa 90 Minuten stockgären lassen.",
+        "es": "Fermentar en bloque unos 90 minutos.",
+        "fr": "Laisser pointer environ 90 minutes.",
+        "ro": "Lasă la fermentat în masă aproximativ 90 de minute."
       }
     },
     {
       "title": {
-        "en": "Second rise"
+        "en": "Second rise",
+        "de": "Zweite Gare",
+        "es": "Segunda fermentación",
+        "fr": "Second levage",
+        "ro": "A doua fermentare"
       },
       "summary": {
-        "en": "Degas and let rise again to build more flavor and structure."
+        "en": "Degas and let rise again to build more flavor and structure.",
+        "de": "Entgasen und erneut gehen lassen, um mehr Geschmack und Struktur zu entwickeln.",
+        "es": "Desgasificar y dejar fermentar de nuevo para desarrollar más sabor y estructura.",
+        "fr": "Dégazer et laisser lever à nouveau pour développer plus de saveur et de structure.",
+        "ro": "Degazează și lasă din nou la crescut, pentru mai multă aromă și structură."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Divide into small pieces and roll each into a very thin, long stick, noticeably thinner than a baguette."
+        "en": "Divide into small pieces and roll each into a very thin, long stick, noticeably thinner than a baguette.",
+        "de": "In kleine Stücke teilen und jedes zu einem sehr dünnen, langen Stab rollen, deutlich dünner als eine Baguette.",
+        "es": "Dividir en piezas pequeñas y formar con cada una una barra larga y muy fina, notablemente más fina que una baguette.",
+        "fr": "Diviser en petits pâtons et rouler chacun en un bâton long et très fin, nettement plus fin qu'une baguette.",
+        "ro": "Împarte în bucăți mici și rulează fiecare într-un baton lung și foarte subțire, vizibil mai subțire decât o baghetă."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gare",
+        "es": "Fermentar",
+        "fr": "Apprêt",
+        "ro": "Dospește"
       },
       "summary": {
-        "en": "Rest under a cloth about an hour."
+        "en": "Rest under a cloth about an hour.",
+        "de": "Unter einem Tuch etwa eine Stunde ruhen lassen.",
+        "es": "Dejar reposar bajo un paño aproximadamente una hora.",
+        "fr": "Laisser reposer sous un torchon environ une heure.",
+        "ro": "Lasă la odihnit sub un șervet aproximativ o oră."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Score lightly and bake hot with steam for a short time until deeply crackled."
+        "en": "Score lightly and bake hot with steam for a short time until deeply crackled.",
+        "de": "Leicht einschneiden und kurz heiß mit Schwaden backen, bis die Kruste tief aufreißt.",
+        "es": "Greñar ligeramente y hornear caliente con vapor durante poco tiempo, hasta que la corteza se agriete bien.",
+        "fr": "Lamer légèrement et cuire chaud avec buée pendant peu de temps, jusqu'à ce que la croûte craquelle bien.",
+        "ro": "Crestează ușor și coace fierbinte cu abur pentru scurt timp, până crapă bine coaja."
       }
     }
   ],

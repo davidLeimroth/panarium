@@ -112,50 +112,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix and rest"
+        "en": "Mix and rest",
+        "de": "Mischen und ruhen lassen",
+        "es": "Mezclar y reposar",
+        "fr": "Mélanger et reposer",
+        "ro": "Amestecă și lasă la odihnă"
       },
       "summary": {
-        "en": "Combine both flours with the water, holding back the starter, and rest at least 2 hours."
+        "en": "Combine both flours with the water, holding back the starter, and rest at least 2 hours.",
+        "de": "Beide Mehle mit dem Wasser vermengen, den Sauerteig zunächst zurückhalten, und mindestens 2 Stunden ruhen lassen.",
+        "es": "Combinar ambas harinas con el agua, reservando la masa madre, y dejar reposar al menos 2 horas.",
+        "fr": "Mélanger les deux farines avec l'eau, en réservant le levain, et laisser reposer au moins 2 heures.",
+        "ro": "Combină cele două tipuri de făină cu apa, păstrând maiaua deoparte, și lasă la odihnă cel puțin 2 ore."
       }
     },
     {
       "title": {
-        "en": "Add starter and fold"
+        "en": "Add starter and fold",
+        "de": "Sauerteig zugeben und falten",
+        "es": "Añadir la masa madre y plegar",
+        "fr": "Ajouter le levain et rabattre",
+        "ro": "Adaugă maiaua și pliază"
       },
       "summary": {
-        "en": "Work in the active rye sourdough starter, then give the dough stretch-and-folds every 30 minutes for 3-4 hours."
+        "en": "Work in the active rye sourdough starter, then give the dough stretch-and-folds every 30 minutes for 3-4 hours.",
+        "de": "Das aktive Roggen-Anstellgut einarbeiten, dann den Teig 3-4 Stunden lang alle 30 Minuten dehnen und falten.",
+        "es": "Incorporar la masa madre activa de centeno, luego hacer pliegues de estirar y doblar cada 30 minutos durante 3-4 horas.",
+        "fr": "Incorporer le levain de seigle actif, puis faire des rabats toutes les 30 minutes pendant 3-4 heures.",
+        "ro": "Încorporează maiaua activă de secară, apoi pliază aluatul prin întindere și îndoire la fiecare 30 de minute, timp de 3-4 ore."
       }
     },
     {
       "title": {
-        "en": "Shape the moña"
+        "en": "Shape the moña",
+        "de": "Die Moña formen",
+        "es": "Formar la moña",
+        "fr": "Façonner la moña",
+        "ro": "Modelează moña"
       },
       "summary": {
-        "en": "Shape into a ball, pinching and lifting a piece of dough on top into the traditional twisted knot."
+        "en": "Shape into a ball, pinching and lifting a piece of dough on top into the traditional twisted knot.",
+        "de": "Zu einer Kugel formen, dabei ein Stück Teig oben abzwicken und zum traditionellen gedrehten Knoten hochziehen.",
+        "es": "Formar una bola, pellizcando y levantando un trozo de masa en la parte superior hasta formar el tradicional nudo retorcido.",
+        "fr": "Façonner en boule, en pinçant et en tirant un morceau de pâte sur le dessus pour former le nœud torsadé traditionnel.",
+        "ro": "Modelează o minge, ciupind și ridicând o bucată de aluat deasupra pentru a forma nodul răsucit tradițional."
       }
     },
     {
       "title": {
-        "en": "Cold retard"
+        "en": "Cold retard",
+        "de": "Kalt führen",
+        "es": "Frío en nevera",
+        "fr": "Pousse au froid",
+        "ro": "La frigider"
       },
       "summary": {
-        "en": "Place seam-up in a floured banneton and refrigerate at least 8-10 hours."
+        "en": "Place seam-up in a floured banneton and refrigerate at least 8-10 hours.",
+        "de": "Mit der Naht nach oben in ein bemehltes Gärkörbchen legen und mindestens 8-10 Stunden kühl stellen.",
+        "es": "Colocar con el pliegue hacia arriba en un banneton enharinado y refrigerar al menos 8-10 horas.",
+        "fr": "Placer soudure vers le haut dans un banneton fariné et réfrigérer au moins 8-10 heures.",
+        "ro": "Așază cu cusătura în sus într-un banneton făinat și dă la frigider cel puțin 8-10 ore."
       }
     },
     {
       "title": {
-        "en": "Bake in two temperatures"
+        "en": "Bake in two temperatures",
+        "de": "In zwei Temperaturstufen backen",
+        "es": "Hornear en dos temperaturas",
+        "fr": "Cuire en deux temps",
+        "ro": "Coace în două trepte de temperatură"
       },
       "summary": {
-        "en": "Bake at 250°C with steam for 15 minutes, then drop to 200°C for another 45 minutes."
+        "en": "Bake at 250°C with steam for 15 minutes, then drop to 200°C for another 45 minutes.",
+        "de": "Bei 250°C mit Schwaden 15 Minuten backen, dann auf 200°C für weitere 45 Minuten senken.",
+        "es": "Hornear a 250°C con vapor durante 15 minutos, luego bajar a 200°C 45 minutos más.",
+        "fr": "Cuire à 250°C avec buée pendant 15 minutes, puis baisser à 200°C pour 45 minutes de plus.",
+        "ro": "Coace la 250°C cu abur timp de 15 minute, apoi coboară la 200°C pentru încă 45 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Abkühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcire"
       },
       "summary": {
-        "en": "Rest on a rack at least 20 minutes before cutting so the huge holes don't collapse."
+        "en": "Rest on a rack at least 20 minutes before cutting so the huge holes don't collapse.",
+        "de": "Mindestens 20 Minuten auf einem Gitter ruhen lassen, bevor angeschnitten wird, damit die großen Löcher nicht zusammenfallen.",
+        "es": "Dejar reposar sobre una rejilla al menos 20 minutos antes de cortar para que los grandes alveolos no se hundan.",
+        "fr": "Laisser reposer sur une grille au moins 20 minutes avant de trancher pour que les grands alvéoles ne s'affaissent pas.",
+        "ro": "Lasă pe un grătar cel puțin 20 de minute înainte de a tăia, ca găurile mari să nu se surpe."
       }
     }
   ],

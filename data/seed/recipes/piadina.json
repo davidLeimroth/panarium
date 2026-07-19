@@ -109,50 +109,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Dissolve salt and baking soda into the water, then work in the lard and flour to a smooth, firm dough."
+        "en": "Dissolve salt and baking soda into the water, then work in the lard and flour to a smooth, firm dough.",
+        "de": "Salz und Natron im Wasser auflösen, dann Schmalz und Mehl zu einem glatten, festen Teig einarbeiten.",
+        "es": "Disolver la sal y el bicarbonato en el agua, luego incorporar la manteca y la harina hasta obtener una masa lisa y firme.",
+        "fr": "Dissoudre le sel et le bicarbonate dans l'eau, puis incorporer le saindoux et la farine pour obtenir une pâte lisse et ferme.",
+        "ro": "Dizolvă sarea și bicarbonatul în apă, apoi încorporează untura și făina până obții un aluat neted și ferm."
       }
     },
     {
       "title": {
-        "en": "First rest"
+        "en": "First rest",
+        "de": "Erste Ruhephase",
+        "es": "Primer reposo",
+        "fr": "Premier repos",
+        "ro": "Prima odihnă"
       },
       "summary": {
-        "en": "Cover and rest at room temperature for 30 minutes."
+        "en": "Cover and rest at room temperature for 30 minutes.",
+        "de": "Abdecken und 30 Minuten bei Raumtemperatur ruhen lassen.",
+        "es": "Tapar y dejar reposar a temperatura ambiente durante 30 minutos.",
+        "fr": "Couvrir et laisser reposer à température ambiante pendant 30 minutes.",
+        "ro": "Acoperă și lasă la odihnă la temperatura camerei timp de 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Divide"
+        "en": "Divide",
+        "de": "Teilen",
+        "es": "Dividir",
+        "fr": "Diviser",
+        "ro": "Împarte"
       },
       "summary": {
-        "en": "Portion into 6 balls and rest a further 10 minutes."
+        "en": "Portion into 6 balls and rest a further 10 minutes.",
+        "de": "In 6 Kugeln portionieren und weitere 10 Minuten ruhen lassen.",
+        "es": "Dividir en 6 bolas y dejar reposar otros 10 minutos.",
+        "fr": "Diviser en 6 boules et laisser reposer encore 10 minutes.",
+        "ro": "Împarte în 6 bile și lasă la odihnă încă 10 minute."
       }
     },
     {
       "title": {
-        "en": "Roll thin"
+        "en": "Roll thin",
+        "de": "Dünn ausrollen",
+        "es": "Estirar fino",
+        "fr": "Abaisser finement",
+        "ro": "Întinde subțire"
       },
       "summary": {
-        "en": "Roll each ball into a thin round, about 4-5mm thick."
+        "en": "Roll each ball into a thin round, about 4-5mm thick.",
+        "de": "Jede Kugel zu einer dünnen Scheibe von etwa 4-5mm Dicke ausrollen.",
+        "es": "Estirar cada bola en un disco fino, de unos 4-5mm de grosor.",
+        "fr": "Abaisser chaque boule en un disque fin, d'environ 4-5mm d'épaisseur.",
+        "ro": "Întinde fiecare bilă într-un disc subțire, gros de aproximativ 4-5mm."
       }
     },
     {
       "title": {
-        "en": "Griddle"
+        "en": "Griddle",
+        "de": "Auf der Platte backen",
+        "es": "Cocinar en la plancha",
+        "fr": "Cuire sur la plaque",
+        "ro": "Coace pe tablă"
       },
       "summary": {
-        "en": "Cook on a hot dry griddle or traditional terracotta testo, about 2 minutes per side, pricking bubbles with a fork so it stays flat."
+        "en": "Cook on a hot dry griddle or traditional terracotta testo, about 2 minutes per side, pricking bubbles with a fork so it stays flat.",
+        "de": "Auf einer heißen, trockenen Platte oder dem traditionellen Terrakotta-Testo backen, etwa 2 Minuten pro Seite, dabei Blasen mit einer Gabel einstechen, damit sie flach bleibt.",
+        "es": "Cocinar en una plancha caliente y seca o en el tradicional testo de terracota, unos 2 minutos por lado, pinchando las burbujas con un tenedor para que se mantenga plana.",
+        "fr": "Cuire sur une plaque chaude et sèche ou le testo traditionnel en terre cuite, environ 2 minutes de chaque côté, en piquant les bulles à la fourchette pour qu'elle reste plate.",
+        "ro": "Coace pe o tablă fierbinte și uscată sau pe tradiționalul testo din teracotă, aproximativ 2 minute pe fiecare parte, înțepând bulele cu o furculiță ca să rămână plată."
       }
     },
     {
       "title": {
-        "en": "Fold & fill"
+        "en": "Fold & fill",
+        "de": "Falten & füllen",
+        "es": "Doblar y rellenar",
+        "fr": "Plier et garnir",
+        "ro": "Pliază și umple"
       },
       "summary": {
-        "en": "Serve warm, folded around prosciutto, cheese and greens, or any savory filling."
+        "en": "Serve warm, folded around prosciutto, cheese and greens, or any savory filling.",
+        "de": "Warm servieren, um Prosciutto, Käse und Blattgemüse gefaltet, oder mit einer beliebigen herzhaften Füllung.",
+        "es": "Servir caliente, doblada alrededor de prosciutto, queso y verduras, o cualquier relleno salado.",
+        "fr": "Servir chaude, pliée autour de prosciutto, de fromage et de verdure, ou de toute garniture salée.",
+        "ro": "Servește caldă, pliată în jurul prosciutto-ului, brânzei și verdețurilor, sau orice umplutură sărată."
       }
     }
   ],

@@ -116,50 +116,98 @@
   "method": [
     {
       "title": {
-        "en": "Build the levain"
+        "en": "Build the levain",
+        "de": "Levain ansetzen",
+        "es": "Preparar el levain",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește levain-ul"
       },
       "summary": {
-        "en": "The evening before, mix a spoon of active starter with the rye flour and water; leave to ripen overnight at room temperature."
+        "en": "The evening before, mix a spoon of active starter with the rye flour and water; leave to ripen overnight at room temperature.",
+        "de": "Am Vorabend einen Löffel aktives Anstellgut mit dem Roggenmehl und Wasser vermischen; über Nacht bei Raumtemperatur reifen lassen.",
+        "es": "La noche anterior, mezclar una cucharada de masa madre activa con la harina de centeno y el agua; dejar madurar toda la noche a temperatura ambiente.",
+        "fr": "La veille au soir, mélanger une cuillerée de levain actif avec la farine de seigle et l'eau ; laisser mûrir toute la nuit à température ambiante.",
+        "ro": "Cu o seară înainte, amestecă o lingură de maia activă cu făina de secară și apa; lasă la maturat peste noapte, la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "The next day, combine the T80 flour, water and salt with the ripe levain; knead by hand or machine until smooth."
+        "en": "The next day, combine the T80 flour, water and salt with the ripe levain; knead by hand or machine until smooth.",
+        "de": "Am nächsten Tag das T80-Mehl, Wasser und Salz mit dem reifen Levain vermengen; von Hand oder mit der Maschine glatt kneten.",
+        "es": "Al día siguiente, combinar la harina T80, el agua y la sal con el levain maduro; amasar a mano o a máquina hasta que quede lisa.",
+        "fr": "Le lendemain, mélanger la farine T80, l'eau et le sel avec le levain mûr ; pétrir à la main ou au batteur jusqu'à ce que ce soit lisse.",
+        "ro": "A doua zi, amestecă făina T80, apa și sarea cu levain-ul copt; frământă manual sau cu mixerul până devine neted."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Rest about 3 hours at room temperature, folding once partway through."
+        "en": "Rest about 3 hours at room temperature, folding once partway through.",
+        "de": "Etwa 3 Stunden bei Raumtemperatur ruhen lassen, dabei einmal auf halbem Weg falten.",
+        "es": "Dejar reposar unas 3 horas a temperatura ambiente, plegando una vez a mitad del proceso.",
+        "fr": "Laisser reposer environ 3 heures à température ambiante, en faisant un rabat à mi-parcours.",
+        "ro": "Lasă la odihnă aproximativ 3 ore la temperatura camerei, pliind o dată la jumătatea procesului."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into a tight round and set seam-up in a floured banneton."
+        "en": "Shape into a tight round and set seam-up in a floured banneton.",
+        "de": "Zu einem straffen runden Laib formen und mit der Naht nach oben in ein bemehltes Gärkörbchen setzen.",
+        "es": "Formar una bola prieta y colocarla con la costura hacia arriba en un banneton enharinado.",
+        "fr": "Façonner en boule serrée et déposer, soudure vers le haut, dans un banneton fariné.",
+        "ro": "Modelează o pâine rotundă și strânsă și așază-o cu cusătura în sus într-un banneton făinat."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let rise about 90 minutes until visibly puffy."
+        "en": "Let rise about 90 minutes until visibly puffy.",
+        "de": "Etwa 90 Minuten gehen lassen, bis er sichtbar aufgeplustert ist.",
+        "es": "Dejar fermentar unos 90 minutos hasta que esté visiblemente hinchada.",
+        "fr": "Laisser pousser environ 90 minutes jusqu'à ce qu'elle soit visiblement gonflée.",
+        "ro": "Lasă la dospit aproximativ 90 de minute, până se umflă vizibil."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Score, then bake hot with steam before easing the temperature down to finish through."
+        "en": "Score, then bake hot with steam before easing the temperature down to finish through.",
+        "de": "Einschneiden, dann heiß mit Dampf backen, bevor die Temperatur gesenkt wird, um vollständig durchzubacken.",
+        "es": "Marcar, luego hornear caliente con vapor antes de bajar la temperatura para terminar la cocción por dentro.",
+        "fr": "Inciser, puis cuire chaud avec de la buée avant de baisser progressivement la température pour cuire à cœur.",
+        "ro": "Crestează, apoi coace la foc iute cu abur, înainte de a reduce treptat temperatura ca să se coacă complet în interior."
       }
     }
   ],

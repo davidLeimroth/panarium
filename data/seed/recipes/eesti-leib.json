@@ -133,58 +133,114 @@
   "method": [
     {
       "title": {
-        "en": "Build the leaven"
+        "en": "Build the leaven",
+        "de": "Sauerteig ansetzen",
+        "es": "Preparar el fermento",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua"
       },
       "summary": {
-        "en": "Mix dark rye flour, water and sourdough starter; ferment 18-24 hours in a warm, draft-free spot until frothy."
+        "en": "Mix dark rye flour, water and sourdough starter; ferment 18-24 hours in a warm, draft-free spot until frothy.",
+        "de": "Dunkles Roggenmehl, Wasser und Anstellgut mischen; 18-24 Stunden an einem warmen, zugfreien Ort fermentieren, bis er schäumt.",
+        "es": "Mezclar harina de centeno oscura, agua y masa madre; fermentar 18-24 horas en un lugar cálido y sin corrientes de aire, hasta que espume.",
+        "fr": "Mélanger la farine de seigle foncée, l'eau et le levain chef; laisser fermenter 18-24 heures dans un endroit chaud et sans courant d'air, jusqu'à ce que ça mousse.",
+        "ro": "Amestecă făina de secară închisă la culoare, apa și maiaua; lasă la fermentat 18-24 de ore într-un loc călduț, ferit de curent, până spumează."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Stir in salt, sugar, the rest of the rye flour, oats, coriander, fennel and sunflower seeds."
+        "en": "Stir in salt, sugar, the rest of the rye flour, oats, coriander, fennel and sunflower seeds.",
+        "de": "Salz, Zucker, das restliche Roggenmehl, Haferflocken, Koriander, Fenchel und Sonnenblumenkerne einrühren.",
+        "es": "Incorporar la sal, el azúcar, el resto de la harina de centeno, la avena, el cilantro, el hinojo y las semillas de girasol.",
+        "fr": "Incorporer le sel, le sucre, le reste de la farine de seigle, les flocons d'avoine, la coriandre, le fenouil et les graines de tournesol.",
+        "ro": "Încorporează sarea, zahărul, restul de făină de secară, fulgii de ovăz, coriandrul, fenicul și semințele de floarea-soarelui."
       }
     },
     {
       "title": {
-        "en": "Adjust texture"
+        "en": "Adjust texture",
+        "de": "Konsistenz anpassen",
+        "es": "Ajustar la textura",
+        "fr": "Ajuster la texture",
+        "ro": "Ajustează textura"
       },
       "summary": {
-        "en": "Add a little extra rye flour for a firmer loaf, or leave it wetter for a more open crumb."
+        "en": "Add a little extra rye flour for a firmer loaf, or leave it wetter for a more open crumb.",
+        "de": "Etwas zusätzliches Roggenmehl für einen festeren Laib zugeben, oder feuchter lassen für eine offenere Krume.",
+        "es": "Añadir un poco más de harina de centeno para un pan más firme, o dejarla más húmeda para una miga más abierta.",
+        "fr": "Ajouter un peu plus de farine de seigle pour un pain plus ferme, ou laisser plus humide pour une mie plus ouverte.",
+        "ro": "Adaugă puțină făină de secară în plus pentru o pâine mai fermă, sau las-o mai umedă pentru un miez mai deschis."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Spoon into a greased loaf pan and smooth the top with a wet spoon."
+        "en": "Spoon into a greased loaf pan and smooth the top with a wet spoon.",
+        "de": "Mit einem Löffel in eine gefettete Kastenform geben und die Oberfläche mit einem nassen Löffel glätten.",
+        "es": "Poner la masa con una cuchara en un molde de plumcake engrasado y alisar la superficie con una cuchara mojada.",
+        "fr": "Verser à la cuillère dans un moule à cake graissé et lisser le dessus avec une cuillère mouillée.",
+        "ro": "Pune cu lingura într-o formă de chec unsă și nivelează suprafața cu o lingură umedă."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Gehen lassen",
+        "es": "Fermentar",
+        "fr": "Pousser",
+        "ro": "Lasă la dospit"
       },
       "summary": {
-        "en": "Let rise 2-6 hours until domed."
+        "en": "Let rise 2-6 hours until domed.",
+        "de": "2-6 Stunden gehen lassen, bis er sich wölbt.",
+        "es": "Dejar fermentar 2-6 horas hasta que se abombe.",
+        "fr": "Laisser lever 2-6 heures jusqu'à ce que ça bombe.",
+        "ro": "Lasă la crescut 2-6 ore, până se bombează."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot with steam for the first stretch, then lower the heat and finish until cooked through."
+        "en": "Bake hot with steam for the first stretch, then lower the heat and finish until cooked through.",
+        "de": "Zunächst heiß mit Schwaden backen, dann die Hitze senken und fertig backen, bis vollständig durchgebacken.",
+        "es": "Hornear caliente con vapor al principio, luego bajar el calor y terminar hasta que esté bien cocido.",
+        "fr": "Cuire chaud avec buée au début, puis baisser la chaleur et terminer la cuisson à cœur.",
+        "ro": "Coace fierbinte cu abur la început, apoi redu focul și termină coacerea complet."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnește"
       },
       "summary": {
-        "en": "Cool, then cover and rest at least 2 hours before slicing."
+        "en": "Cool, then cover and rest at least 2 hours before slicing.",
+        "de": "Auskühlen lassen, dann abdecken und mindestens 2 Stunden ruhen lassen, bevor angeschnitten wird.",
+        "es": "Dejar enfriar, luego tapar y dejar reposar al menos 2 horas antes de cortar.",
+        "fr": "Laisser refroidir, puis couvrir et laisser reposer au moins 2 heures avant de trancher.",
+        "ro": "Lasă să se răcească, apoi acoperă și lasă la odihnă cel puțin 2 ore înainte de feliere."
       }
     }
   ],

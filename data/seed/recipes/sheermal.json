@@ -150,50 +150,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Frământă aluatul"
       },
       "summary": {
-        "en": "Combine flour, salt and cardamom; warm the milk with the sugar until dissolved, then knead into the flour to a soft dough. Rest 15 minutes."
+        "en": "Combine flour, salt and cardamom; warm the milk with the sugar until dissolved, then knead into the flour to a soft dough. Rest 15 minutes.",
+        "de": "Mehl, Salz und Kardamom vermengen; die Milch mit dem Zucker erwärmen, bis er sich auflöst, dann in das Mehl einkneten zu einem weichen Teig. 15 Minuten ruhen lassen.",
+        "es": "Combinar harina, sal y cardamomo; calentar la leche con el azúcar hasta disolverla, luego amasarla con la harina hasta obtener una masa blanda. Dejar reposar 15 minutos.",
+        "fr": "Combiner farine, sel et cardamome ; chauffer le lait avec le sucre jusqu'à dissolution, puis l'incorporer en pétrissant à la farine pour une pâte souple. Laisser reposer 15 minutes.",
+        "ro": "Combină făina, sarea și cardamomul; încălzește laptele cu zahărul până se dizolvă, apoi frământă-l în făină pentru un aluat moale. Lasă să stea 15 minute."
       }
     },
     {
       "title": {
-        "en": "Perfume"
+        "en": "Perfume",
+        "de": "Parfümieren",
+        "es": "Perfumar",
+        "fr": "Parfumer",
+        "ro": "Parfumează"
       },
       "summary": {
-        "en": "Work in the kewra water, then knead in the melted ghee a few tablespoons at a time until fully absorbed and the dough turns soft and glossy."
+        "en": "Work in the kewra water, then knead in the melted ghee a few tablespoons at a time until fully absorbed and the dough turns soft and glossy.",
+        "de": "Das Kewra-Wasser einarbeiten, dann das geschmolzene Ghee esslöffelweise einkneten, bis es vollständig aufgenommen ist und der Teig weich und glänzend wird.",
+        "es": "Incorporar el agua de kewra, luego amasar el ghee derretido, unas cucharadas a la vez, hasta que se absorba por completo y la masa quede blanda y brillante.",
+        "fr": "Incorporer l'eau de kewra, puis pétrir le ghee fondu, quelques cuillerées à la fois, jusqu'à absorption complète et une pâte souple et brillante.",
+        "ro": "Încorporează apa de kewra, apoi frământă ghee-ul topit, câte câteva linguri odată, până se absoarbe complet și aluatul devine moale și lucios."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cover and rest the enriched dough about 10-12 minutes."
+        "en": "Cover and rest the enriched dough about 10-12 minutes.",
+        "de": "Den angereicherten Teig zugedeckt etwa 10-12 Minuten ruhen lassen.",
+        "es": "Tapar y dejar reposar la masa enriquecida unos 10-12 minutos.",
+        "fr": "Couvrir et laisser reposer la pâte enrichie environ 10-12 minutes.",
+        "ro": "Acoperă și lasă aluatul îmbogățit să stea aproximativ 10-12 minute."
       }
     },
     {
       "title": {
-        "en": "Divide and roll"
+        "en": "Divide and roll",
+        "de": "Teilen und ausrollen",
+        "es": "Dividir y estirar",
+        "fr": "Diviser et abaisser",
+        "ro": "Împarte și întinde"
       },
       "summary": {
-        "en": "Divide into 8 balls, rest again briefly, then roll each into a 6-7 inch disc and prick all over with a fork."
+        "en": "Divide into 8 balls, rest again briefly, then roll each into a 6-7 inch disc and prick all over with a fork.",
+        "de": "In 8 Kugeln teilen, erneut kurz ruhen lassen, dann jede zu einer Scheibe von 15-18 cm ausrollen und überall mit einer Gabel einstechen.",
+        "es": "Dividir en 8 bolas, dejar reposar brevemente de nuevo, luego estirar cada una en un disco de 15-18 cm y pinchar por toda la superficie con un tenedor.",
+        "fr": "Diviser en 8 boules, laisser reposer de nouveau brièvement, puis abaisser chacune en un disque de 15-18 cm et piquer partout à la fourchette.",
+        "ro": "Împarte în 8 bile, lasă din nou să stea puțin, apoi întinde fiecare într-un disc de 15-18 cm și înțeapă peste tot cu furculița."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake on a greased tray in a 230°C oven for 12-15 minutes, until the edges turn golden."
+        "en": "Bake on a greased tray in a 230°C oven for 12-15 minutes, until the edges turn golden.",
+        "de": "Auf einem gefetteten Blech im auf 230°C vorgeheizten Ofen 12-15 Minuten backen, bis die Ränder golden werden.",
+        "es": "Hornear sobre una bandeja engrasada en un horno a 230°C durante 12-15 minutos, hasta que los bordes doren.",
+        "fr": "Cuire sur une plaque graissée dans un four à 230°C pendant 12-15 minutes, jusqu'à ce que les bords dorent.",
+        "ro": "Coace pe o tavă unsă într-un cuptor la 230°C timp de 12-15 minute, până marginile devin aurii."
       }
     },
     {
       "title": {
-        "en": "Glaze"
+        "en": "Glaze",
+        "de": "Glasieren",
+        "es": "Glasear",
+        "fr": "Glacer",
+        "ro": "Glazurează"
       },
       "summary": {
-        "en": "Steep saffron in warm milk, brush the hot bread with the saffron milk, then with melted ghee, and cool on a rack."
+        "en": "Steep saffron in warm milk, brush the hot bread with the saffron milk, then with melted ghee, and cool on a rack.",
+        "de": "Safran in warmer Milch ziehen lassen, das heiße Brot mit der Safranmilch bestreichen, dann mit geschmolzenem Ghee, und auf einem Gitter auskühlen lassen.",
+        "es": "Infusionar el azafrán en leche tibia, pincelar el pan caliente con la leche de azafrán, luego con ghee derretido, y dejar enfriar sobre una rejilla.",
+        "fr": "Infuser le safran dans du lait tiède, badigeonner le pain chaud avec ce lait safrané, puis avec du ghee fondu, et laisser refroidir sur une grille.",
+        "ro": "Lasă șofranul la infuzat în lapte călduț, unge pâinea caldă cu laptele de șofran, apoi cu ghee topit, și lasă să se răcească pe un grătar."
       }
     }
   ],

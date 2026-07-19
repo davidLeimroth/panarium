@@ -111,50 +111,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix & knead"
+        "en": "Mix & knead",
+        "de": "Mischen & kneten",
+        "es": "Mezclar y amasar",
+        "fr": "Mélanger et pétrir",
+        "ro": "Amestecă și frământă"
       },
       "summary": {
-        "en": "Combine flour, yeast and salt, add water and oil, then knead 8-10 minutes to a smooth, elastic dough."
+        "en": "Combine flour, yeast and salt, add water and oil, then knead 8-10 minutes to a smooth, elastic dough.",
+        "de": "Mehl, Hefe und Salz verbinden, Wasser und Öl zugeben, dann 8-10 Minuten zu einem glatten, elastischen Teig kneten.",
+        "es": "Combinar harina, levadura y sal, añadir agua y aceite, luego amasar 8-10 minutos hasta obtener una masa lisa y elástica.",
+        "fr": "Combiner la farine, la levure et le sel, ajouter l'eau et l'huile, puis pétrir 8-10 minutes pour une pâte lisse et élastique.",
+        "ro": "Combină făina, drojdia și sarea, adaugă apa și uleiul, apoi frământă 8-10 minute până obții un aluat neted și elastic."
       }
     },
     {
       "title": {
-        "en": "Bulk rise"
+        "en": "Bulk rise",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Prove in an oiled bowl until doubled, 45 minutes to an hour."
+        "en": "Prove in an oiled bowl until doubled, 45 minutes to an hour.",
+        "de": "In einer geölten Schüssel gehen lassen, bis sich der Teig verdoppelt hat, 45 Minuten bis eine Stunde.",
+        "es": "Dejar fermentar en un bol aceitado hasta duplicar el volumen, de 45 minutos a una hora.",
+        "fr": "Laisser lever dans un saladier huilé jusqu'au double, 45 minutes à une heure.",
+        "ro": "Lasă la crescut într-un bol uns cu ulei până se dublează, 45 de minute până la o oră."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Flatten into a rectangle, fold both short ends into the middle like a letter, turn a quarter turn, flatten again, then roll into a tight cylinder and tuck the ends under."
+        "en": "Flatten into a rectangle, fold both short ends into the middle like a letter, turn a quarter turn, flatten again, then roll into a tight cylinder and tuck the ends under.",
+        "de": "Zu einem Rechteck flach drücken, beide kurzen Enden wie einen Brief zur Mitte falten, eine Vierteldrehung machen, erneut flach drücken, dann zu einem straffen Zylinder rollen und die Enden unterschlagen.",
+        "es": "Aplanar formando un rectángulo, doblar los dos extremos cortos hacia el centro como una carta, girar un cuarto de vuelta, aplanar de nuevo, enrollar en un cilindro prieto y remeter los extremos.",
+        "fr": "Aplatir en rectangle, replier les deux petits côtés vers le centre comme une lettre, tourner d'un quart de tour, aplatir à nouveau, puis rouler en cylindre serré et replier les extrémités dessous.",
+        "ro": "Presează într-un dreptunghi, pliază ambele capete scurte spre mijloc ca o scrisoare, rotește un sfert de tură, presează din nou, apoi rulează într-un cilindru strâns și îndoaie capetele dedesubt."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Rest seam-down on a floured tray until puffy, 35-45 minutes."
+        "en": "Rest seam-down on a floured tray until puffy, 35-45 minutes.",
+        "de": "Mit Schluss nach unten auf einem bemehlten Blech ruhen lassen, bis er aufgepolstert ist, 35-45 Minuten.",
+        "es": "Dejar reposar con el cierre hacia abajo en una bandeja enharinada hasta que esté hinchada, 35-45 minutos.",
+        "fr": "Laisser reposer la clé dessous sur une plaque farinée jusqu'à ce qu'elle soit bien gonflée, 35-45 minutes.",
+        "ro": "Lasă la odihnă cu cusătura în jos pe o tavă cu făină până se umflă, 35-45 de minute."
       }
     },
     {
       "title": {
-        "en": "Score"
+        "en": "Score",
+        "de": "Einschneiden",
+        "es": "Greñar",
+        "fr": "Lamer",
+        "ro": "Crestează"
       },
       "summary": {
-        "en": "Cut three or four confident diagonal slashes along the top."
+        "en": "Cut three or four confident diagonal slashes along the top.",
+        "de": "Drei oder vier entschlossene diagonale Schnitte der Länge nach einschneiden.",
+        "es": "Hacer tres o cuatro cortes diagonales decididos a lo largo de la superficie.",
+        "fr": "Faire trois ou quatre grignes diagonales franches sur le dessus.",
+        "ro": "Fă trei sau patru crestături diagonale hotărâte de-a lungul suprafeței."
       }
     },
     {
       "title": {
-        "en": "Bake with steam"
+        "en": "Bake with steam",
+        "de": "Mit Schwaden backen",
+        "es": "Hornear con vapor",
+        "fr": "Cuire avec buée",
+        "ro": "Coace cu abur"
       },
       "summary": {
-        "en": "Bake at high heat with a pan of hot water in the oven base for a burst of steam, until deep golden and hollow-sounding underneath, 30-35 minutes."
+        "en": "Bake at high heat with a pan of hot water in the oven base for a burst of steam, until deep golden and hollow-sounding underneath, 30-35 minutes.",
+        "de": "Bei hoher Hitze backen, mit einer Schale heißem Wasser im Ofenboden für einen Schwadenstoß, bis tief golden und beim Klopfen hohl klingend, 30-35 Minuten.",
+        "es": "Hornear a temperatura alta con una bandeja de agua caliente en la base del horno para generar vapor, hasta dorar profundamente y sonar hueco al golpearlo, 30-35 minutos.",
+        "fr": "Cuire à haute température avec un plat d'eau chaude au fond du four pour créer de la buée, jusqu'à une belle couleur dorée et un son creux en dessous, 30-35 minutes.",
+        "ro": "Coace la foc iute, cu o tavă de apă fierbinte pe fundul cuptorului pentru un val de abur, până devine auriu-închis și sună a gol la bătut, 30-35 de minute."
       }
     }
   ],

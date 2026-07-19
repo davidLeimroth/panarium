@@ -128,66 +128,130 @@
   "method": [
     {
       "title": {
-        "en": "Two sourdoughs"
+        "en": "Two sourdoughs",
+        "de": "Zwei Sauerteige",
+        "es": "Dos masas madre",
+        "fr": "Deux levains",
+        "ro": "Două maiele"
       },
       "summary": {
-        "en": "The evening before, build a rye sourdough from coarse sifted rye meal, water, rye starter and salt, and separately a wheat sourdough from wholemeal flour, water and wheat starter. Ferment both covered overnight."
+        "en": "The evening before, build a rye sourdough from coarse sifted rye meal, water, rye starter and salt, and separately a wheat sourdough from wholemeal flour, water and wheat starter. Ferment both covered overnight.",
+        "de": "Am Vorabend einen Roggensauerteig aus grobem, gesiebtem Roggenschrot, Wasser, Roggen-Anstellgut und Salz ansetzen, sowie separat einen Weizensauerteig aus Vollkornmehl, Wasser und Weizen-Anstellgut. Beide zugedeckt über Nacht fermentieren lassen.",
+        "es": "La noche anterior, preparar una masa madre de centeno con sémola gruesa tamizada de centeno, agua, masa madre de centeno y sal, y por separado una masa madre de trigo con harina integral, agua y masa madre de trigo. Dejar fermentar ambas, tapadas, toda la noche.",
+        "fr": "La veille au soir, préparer un levain de seigle avec de la mouture grossière tamisée de seigle, de l'eau, du levain de seigle et du sel, et séparément un levain de blé avec de la farine complète, de l'eau et du levain de blé. Laisser fermenter les deux, couverts, toute la nuit.",
+        "ro": "Cu o seară înainte, pregătește o maia de secară din măciniș grosier cernut de secară, apă, maia de secară și sare, și separat o maia de grâu din făină integrală, apă și maia de grâu. Lasă ambele la fermentat, acoperite, peste noapte."
       }
     },
     {
       "title": {
-        "en": "Soaker"
+        "en": "Soaker",
+        "de": "Quellstück",
+        "es": "Remojo",
+        "fr": "Trempe",
+        "ro": "Înmuiere"
       },
       "summary": {
-        "en": "At the same time, pour water over roasted sunflower seeds and let them soak overnight to soften."
+        "en": "At the same time, pour water over roasted sunflower seeds and let them soak overnight to soften.",
+        "de": "Gleichzeitig Wasser über geröstete Sonnenblumenkerne gießen und über Nacht einweichen lassen, damit sie weich werden.",
+        "es": "Al mismo tiempo, verter agua sobre las pipas de girasol tostadas y dejarlas en remojo toda la noche para que se ablanden.",
+        "fr": "En même temps, verser de l'eau sur les graines de tournesol torréfiées et les laisser tremper toute la nuit pour les ramollir.",
+        "ro": "În același timp, toarnă apă peste semințele de floarea-soarelui prăjite și lasă-le la înmuiat peste noapte, ca să se înmoaie."
       }
     },
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine both ripe sourdoughs with the remaining rye and wheat flour, roasted sunflower seed meal, salt and hot water; mix until smooth, then fold in the soaked seeds."
+        "en": "Combine both ripe sourdoughs with the remaining rye and wheat flour, roasted sunflower seed meal, salt and hot water; mix until smooth, then fold in the soaked seeds.",
+        "de": "Beide reifen Sauerteige mit dem restlichen Roggen- und Weizenmehl, geröstetem Sonnenblumenkernschrot, Salz und heißem Wasser verbinden; glatt rühren, dann die eingeweichten Kerne unterheben.",
+        "es": "Combinar ambas masas madre maduras con el resto de la harina de centeno y trigo, pipas de girasol tostadas y molidas, sal y agua caliente; mezclar hasta que quede lisa, luego incorporar las pipas remojadas.",
+        "fr": "Combiner les deux levains mûrs avec le reste de la farine de seigle et de blé, la mouture de graines de tournesol torréfiées, le sel et l'eau chaude ; mélanger jusqu'à ce que ce soit lisse, puis incorporer les graines trempées.",
+        "ro": "Combină ambele maiele coapte cu restul de făină de secară și grâu, măciniș de semințe de floarea-soarelui prăjite, sare și apă fierbinte; amestecă până devine neted, apoi încorporează semințele înmuiate."
       }
     },
     {
       "title": {
-        "en": "Rest"
+        "en": "Rest",
+        "de": "Ruhen",
+        "es": "Reposar",
+        "fr": "Reposer",
+        "ro": "Odihnă"
       },
       "summary": {
-        "en": "Cover and let the dough relax briefly at room temperature before shaping."
+        "en": "Cover and let the dough relax briefly at room temperature before shaping.",
+        "de": "Zugedeckt den Teig vor dem Formen kurz bei Raumtemperatur entspannen lassen.",
+        "es": "Tapar y dejar que la masa se relaje brevemente a temperatura ambiente antes de formar.",
+        "fr": "Couvrir et laisser la pâte se détendre brièvement à température ambiante avant le façonnage.",
+        "ro": "Acoperă și lasă aluatul să se relaxeze puțin la temperatura camerei înainte de modelare."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Shape into a firm log and roll it in whole sunflower seeds, then settle it seam-down into a greased tin."
+        "en": "Shape into a firm log and roll it in whole sunflower seeds, then settle it seam-down into a greased tin.",
+        "de": "Zu einer festen Rolle formen und in ganzen Sonnenblumenkernen wälzen, dann mit der Naht nach unten in eine gefettete Form legen.",
+        "es": "Dar forma de rollo firme y rebozarlo en pipas de girasol enteras, luego colocarlo con el cierre hacia abajo en un molde engrasado.",
+        "fr": "Façonner en un rouleau ferme et le rouler dans des graines de tournesol entières, puis le placer clé vers le bas dans un moule graissé.",
+        "ro": "Modelează într-un sul ferm și tăvălește-l prin semințe întregi de floarea-soarelui, apoi așază-l cu cusătura în jos într-o tavă unsă."
       }
     },
     {
       "title": {
-        "en": "Proof"
+        "en": "Proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Cover and proof about 1.5 hours at room temperature."
+        "en": "Cover and proof about 1.5 hours at room temperature.",
+        "de": "Zugedeckt etwa 1.5 Stunden bei Raumtemperatur gären lassen.",
+        "es": "Tapar y dejar fermentar unas 1.5 horas a temperatura ambiente.",
+        "fr": "Couvrir et laisser pousser environ 1.5 heure à température ambiante.",
+        "ro": "Acoperă și lasă la dospit aproximativ 1.5 ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake hot with steam, venting after 20 minutes and dropping the temperature, for about 80 minutes total."
+        "en": "Bake hot with steam, venting after 20 minutes and dropping the temperature, for about 80 minutes total.",
+        "de": "Heiß mit Schwaden backen, nach 20 Minuten entlüften und die Temperatur senken, insgesamt etwa 80 Minuten.",
+        "es": "Hornear caliente con vapor, abriendo el tiro tras 20 minutos y bajando la temperatura, unos 80 minutos en total.",
+        "fr": "Cuire chaud avec buée, en évacuant la vapeur après 20 minutes et en baissant la température, environ 80 minutes au total.",
+        "ro": "Coace fierbinte cu abur, aerisind după 20 de minute și coborând temperatura, în total aproximativ 80 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool"
+        "en": "Cool",
+        "de": "Auskühlen",
+        "es": "Enfriar",
+        "fr": "Refroidir",
+        "ro": "Răcește"
       },
       "summary": {
-        "en": "Turn out right away and cool fully on a rack before slicing."
+        "en": "Turn out right away and cool fully on a rack before slicing.",
+        "de": "Sofort stürzen und vollständig auf einem Gitter auskühlen lassen, bevor angeschnitten wird.",
+        "es": "Desmoldar de inmediato y dejar enfriar por completo sobre una rejilla antes de cortar.",
+        "fr": "Démouler immédiatement et laisser refroidir complètement sur une grille avant de trancher.",
+        "ro": "Răstoarnă imediat și lasă să se răcească complet pe un grătar înainte de feliere."
       }
     }
   ],

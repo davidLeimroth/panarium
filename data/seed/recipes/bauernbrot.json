@@ -126,50 +126,98 @@
   "method": [
     {
       "title": {
-        "en": "Build the sourdough"
+        "en": "Build the sourdough",
+        "de": "Sauerteig ansetzen",
+        "es": "Preparar la masa madre",
+        "fr": "Préparer le levain",
+        "ro": "Pregătește maiaua"
       },
       "summary": {
-        "en": "The night before, stir rye whole meal, rye flour, warm water and a little mature starter together and let it sour about 12 hours at room temperature."
+        "en": "The night before, stir rye whole meal, rye flour, warm water and a little mature starter together and let it sour about 12 hours at room temperature.",
+        "de": "Am Vorabend Roggenvollkornschrot, Roggenmehl, warmes Wasser und etwas reifes Anstellgut verrühren und etwa 12 Stunden bei Raumtemperatur säuern lassen.",
+        "es": "La noche anterior, mezclar harina integral de centeno, harina de centeno, agua tibia y un poco de masa madre madura, y dejar fermentar unas 12 horas a temperatura ambiente.",
+        "fr": "La veille, mélanger de la farine de seigle complète, de la farine de seigle, de l'eau tiède et un peu de levain mûr, et laisser aciduler environ 12 heures à température ambiante.",
+        "ro": "Cu o seară înainte, amestecă făină integrală de secară, făină de secară, apă călduță și puțină maia matură, apoi las-o să acrească circa 12 ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Mix the dough"
+        "en": "Mix the dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Préparer la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine the ripe sourdough with more rye flour, wheat flour, whole wheat flour, salt and warm water into a firm, workable dough."
+        "en": "Combine the ripe sourdough with more rye flour, wheat flour, whole wheat flour, salt and warm water into a firm, workable dough.",
+        "de": "Den reifen Sauerteig mit weiterem Roggenmehl, Weizenmehl, Weizenvollkornmehl, Salz und warmem Wasser zu einem festen, gut bearbeitbaren Teig verbinden.",
+        "es": "Combinar la masa madre madura con más harina de centeno, harina de trigo, harina integral de trigo, sal y agua tibia hasta formar una masa firme y trabajable.",
+        "fr": "Combiner le levain mûr avec davantage de farine de seigle, de farine de blé, de farine de blé complète, du sel et de l'eau tiède en une pâte ferme et maniable.",
+        "ro": "Combină maiaua coaptă cu mai multă făină de secară, făină de grâu, făină integrală de grâu, sare și apă călduță într-un aluat ferm și ușor de lucrat."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let the dough rest around two hours at room temperature, folding it gently once or twice to redistribute warmth and build strength."
+        "en": "Let the dough rest around two hours at room temperature, folding it gently once or twice to redistribute warmth and build strength.",
+        "de": "Den Teig etwa zwei Stunden bei Raumtemperatur ruhen lassen, dabei ein- oder zweimal sanft falten, um Wärme zu verteilen und Struktur aufzubauen.",
+        "es": "Dejar reposar la masa unas dos horas a temperatura ambiente, plegándola con suavidad una o dos veces para repartir el calor y desarrollar fuerza.",
+        "fr": "Laisser reposer la pâte environ deux heures à température ambiante, en la rabattant délicatement une ou deux fois pour répartir la chaleur et renforcer la pâte.",
+        "ro": "Lasă aluatul la odihnă circa două ore la temperatura camerei, pliindu-l ușor o dată sau de două ori pentru a distribui căldura și a-l întări."
       }
     },
     {
       "title": {
-        "en": "Shape and mark"
+        "en": "Shape and mark",
+        "de": "Formen und einschneiden",
+        "es": "Formar y marcar",
+        "fr": "Façonner et inciser",
+        "ro": "Modelează și crestează"
       },
       "summary": {
-        "en": "Shape into a tight round, then rest seam-down in a floured basket. Just before baking, cut the traditional cross-hatch on top, as much a farmhouse signature as a guide for the oven spring."
+        "en": "Shape into a tight round, then rest seam-down in a floured basket. Just before baking, cut the traditional cross-hatch on top, as much a farmhouse signature as a guide for the oven spring.",
+        "de": "Zu einem straffen Rund formen, dann mit Schluss nach unten in einem bemehlten Gärkorb ruhen lassen. Kurz vor dem Backen das traditionelle Rautenmuster einschneiden, ebenso Erkennungszeichen des Bauernbrots wie Führung für den Ofentrieb.",
+        "es": "Formar una bola prieta, luego dejarla reposar con el cierre hacia abajo en un cesto enharinado. Justo antes de hornear, marcar el tradicional enrejado en la superficie, tanto sello de la casa de campo como guía para el desarrollo en el horno.",
+        "fr": "Façonner en boule serrée, puis laisser reposer la clé dessous dans un banneton fariné. Juste avant la cuisson, inciser le quadrillage traditionnel sur le dessus, à la fois signature paysanne et guide pour la pousse au four.",
+        "ro": "Modelează într-o formă rotundă, strânsă, apoi las-o la odihnă cu cusătura în jos într-un coș tapetat cu făină. Chiar înainte de coacere, crestează romburile tradiționale pe suprafață, deopotrivă semnătura gospodăriei și ghid pentru creșterea în cuptor."
       }
     },
     {
       "title": {
-        "en": "Bake hot with steam"
+        "en": "Bake hot with steam",
+        "de": "Heiß mit Schwaden backen",
+        "es": "Hornear caliente con vapor",
+        "fr": "Cuire chaud avec buée",
+        "ro": "Coace fierbinte cu abur"
       },
       "summary": {
-        "en": "Bake on a hot stone with a strong burst of steam, starting near 250°C and dropping to 220°C once the crust sets, about 50 minutes total."
+        "en": "Bake on a hot stone with a strong burst of steam, starting near 250°C and dropping to 220°C once the crust sets, about 50 minutes total.",
+        "de": "Auf einem heißen Stein mit kräftigem Schwaden backen, beginnend bei etwa 250°C und auf 220°C reduzierend, sobald die Kruste fest ist, insgesamt etwa 50 Minuten.",
+        "es": "Hornear sobre piedra caliente con una fuerte descarga de vapor, empezando cerca de 250°C y bajando a 220°C una vez fijada la corteza, unos 50 minutos en total.",
+        "fr": "Cuire sur pierre chaude avec un fort coup de buée, en commençant près de 250°C et en baissant à 220°C une fois la croûte fixée, environ 50 minutes au total.",
+        "ro": "Coace pe piatră fierbinte cu un jet puternic de abur, începând la aproximativ 250°C și coborând la 220°C după ce coaja se fixează, în total circa 50 de minute."
       }
     },
     {
       "title": {
-        "en": "Cool fully"
+        "en": "Cool fully",
+        "de": "Vollständig auskühlen",
+        "es": "Enfriar por completo",
+        "fr": "Laisser refroidir",
+        "ro": "Răcește complet"
       },
       "summary": {
-        "en": "Let it cool completely on a rack before cutting; the crumb is still setting."
+        "en": "Let it cool completely on a rack before cutting; the crumb is still setting.",
+        "de": "Vollständig auf einem Gitter auskühlen lassen, bevor angeschnitten wird; die Krume setzt sich noch.",
+        "es": "Dejar enfriar por completo sobre una rejilla antes de cortar; la miga todavía se está asentando.",
+        "fr": "Laisser refroidir complètement sur une grille avant de trancher; la mie continue de se raffermir.",
+        "ro": "Lasă să se răcească complet pe un grătar înainte de tăiere; miezul încă se așază."
       }
     }
   ],

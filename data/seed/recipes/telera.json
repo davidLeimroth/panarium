@@ -120,50 +120,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Pétrir la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Combine yeast, water, honey, melted fat, salt and most of the flour into a soft dough."
+        "en": "Combine yeast, water, honey, melted fat, salt and most of the flour into a soft dough.",
+        "de": "Hefe, Wasser, Honig, geschmolzenes Fett, Salz und den Großteil des Mehls zu einem weichen Teig verarbeiten.",
+        "es": "Combinar la levadura, el agua, la miel, la grasa derretida, la sal y la mayor parte de la harina en una masa suave.",
+        "fr": "Mélanger la levure, l'eau, le miel, la matière grasse fondue, le sel et la majeure partie de la farine en une pâte souple.",
+        "ro": "Combină drojdia, apa, mierea, grăsimea topită, sarea și cea mai mare parte din făină într-un aluat moale."
       }
     },
     {
       "title": {
-        "en": "Knead"
+        "en": "Knead",
+        "de": "Kneten",
+        "es": "Amasar",
+        "fr": "Pétrir",
+        "ro": "Frământă"
       },
       "summary": {
-        "en": "Knead 6-10 minutes by machine or 10 minutes by hand until smooth and elastic, adding a little more flour if sticky."
+        "en": "Knead 6-10 minutes by machine or 10 minutes by hand until smooth and elastic, adding a little more flour if sticky.",
+        "de": "6-10 Minuten mit der Maschine oder 10 Minuten von Hand kneten, bis er glatt und elastisch ist, bei Bedarf etwas mehr Mehl zugeben, falls er klebt.",
+        "es": "Amasar 6-10 minutos a máquina o 10 minutos a mano hasta que quede lisa y elástica, añadiendo un poco más de harina si está pegajosa.",
+        "fr": "Pétrir 6-10 minutes au robot ou 10 minutes à la main jusqu'à obtenir une pâte lisse et élastique, en ajoutant un peu plus de farine si elle colle.",
+        "ro": "Frământă 6-10 minute cu mixerul sau 10 minute cu mâna, până devine neted și elastic, adăugând puțină făină în plus dacă e lipicios."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let rise about an hour, until doubled."
+        "en": "Cover and let rise about an hour, until doubled.",
+        "de": "Abdecken und etwa eine Stunde gehen lassen, bis er sich verdoppelt hat.",
+        "es": "Tapar y dejar fermentar aproximadamente una hora, hasta que doble.",
+        "fr": "Couvrir et laisser lever environ une heure, jusqu'au double.",
+        "ro": "Acoperă și lasă la crescut aproximativ o oră, până se dublează."
       }
     },
     {
       "title": {
-        "en": "Divide & shape"
+        "en": "Divide & shape",
+        "de": "Teilen & formen",
+        "es": "Dividir y formar",
+        "fr": "Diviser & façonner",
+        "ro": "Împarte și modelează"
       },
       "summary": {
-        "en": "Divide into 10 pieces, roll into balls, rest 5 minutes, then shape each into a tapered oval about 14cm long."
+        "en": "Divide into 10 pieces, roll into balls, rest 5 minutes, then shape each into a tapered oval about 14cm long.",
+        "de": "In 10 Stücke teilen, zu Kugeln rollen, 5 Minuten ruhen lassen, dann jede zu einem spitz zulaufenden Oval von etwa 14cm Länge formen.",
+        "es": "Dividir en 10 piezas, bolear, dejar reposar 5 minutos, luego formar cada una en un óvalo afilado de unos 14cm de largo.",
+        "fr": "Diviser en 10 pâtons, bouler, laisser reposer 5 minutes, puis façonner chacun en ovale effilé d'environ 14cm de long.",
+        "ro": "Împarte în 10 bucăți, rotunjește în bile, lasă la odihnă 5 minute, apoi modelează fiecare într-un oval efilat de aproximativ 14cm lungime."
       }
     },
     {
       "title": {
-        "en": "Second rise & score"
+        "en": "Second rise & score",
+        "de": "Zweite Gare & Einschneiden",
+        "es": "Segundo levado y greñado",
+        "fr": "Second apprêt & lamage",
+        "ro": "A doua dospire și crestare"
       },
       "summary": {
-        "en": "Rest on a baking sheet while the oven preheats, then brush with egg wash and press two parallel slashes into each roll to form three lobes."
+        "en": "Rest on a baking sheet while the oven preheats, then brush with egg wash and press two parallel slashes into each roll to form three lobes.",
+        "de": "Auf einem Backblech ruhen lassen, während der Ofen vorheizt, dann mit Eistreiche bestreichen und zwei parallele Schnitte in jedes Brötchen drücken, um drei Lappen zu bilden.",
+        "es": "Dejar reposar en una bandeja de horno mientras el horno precalienta, luego pintar con huevo batido y marcar dos cortes paralelos en cada panecillo para formar tres lóbulos.",
+        "fr": "Laisser reposer sur une plaque de cuisson pendant que le four préchauffe, puis dorer à l'œuf et presser deux entailles parallèles dans chaque petit pain pour former trois lobes.",
+        "ro": "Lasă la odihnă pe o tavă de copt cât timp se încălzește cuptorul, apoi unge cu ou bătut și apasă două crestături paralele în fiecare chiflă, pentru a forma trei lobi."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until golden brown and hollow-sounding, about 20-22 minutes; cool completely before slicing for tortas."
+        "en": "Bake until golden brown and hollow-sounding, about 20-22 minutes; cool completely before slicing for tortas.",
+        "de": "Backen, bis sie goldbraun sind und hohl klingen, etwa 20-22 Minuten; vor dem Aufschneiden für Tortas vollständig abkühlen lassen.",
+        "es": "Hornear hasta que estén dorados y suenen huecos, unos 20-22 minutos; dejar enfriar por completo antes de cortar para tortas.",
+        "fr": "Cuire jusqu'à coloration dorée et un son creux, environ 20-22 minutes ; laisser refroidir complètement avant de trancher pour des tortas.",
+        "ro": "Coace până devin aurii și sună a gol, aproximativ 20-22 de minute; lasă să se răcească complet înainte de a felia pentru tortas."
       }
     }
   ],

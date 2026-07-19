@@ -149,42 +149,82 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine the flours, turmeric, coriander and nigella in a large bowl. Separately mix water, oil, yeast, salt and sugar, then stir the two together into a wet, sticky dough."
+        "en": "Combine the flours, turmeric, coriander and nigella in a large bowl. Separately mix water, oil, yeast, salt and sugar, then stir the two together into a wet, sticky dough.",
+        "de": "Die Mehle, Kurkuma, Koriander und Schwarzkümmel in einer großen Schüssel verbinden. Getrennt Wasser, Öl, Hefe, Salz und Zucker mischen, dann beides zu einem feuchten, klebrigen Teig verrühren.",
+        "es": "Combinar las harinas, la cúrcuma, el cilantro y la nigella en un bol grande. Aparte, mezclar agua, aceite, levadura, sal y azúcar, luego unir ambas mezclas en una masa húmeda y pegajosa.",
+        "fr": "Combiner les farines, le curcuma, la coriandre et la nigelle dans un grand bol. À part, mélanger l'eau, l'huile, la levure, le sel et le sucre, puis réunir le tout en une pâte humide et collante.",
+        "ro": "Combină făinurile, turmericul, coriandrul și negrilica într-un bol mare. Separat, amestecă apa, uleiul, drojdia, sarea și zahărul, apoi unește cele două într-un aluat umed și lipicios."
       }
     },
     {
       "title": {
-        "en": "Long rise"
+        "en": "Long rise",
+        "de": "Lange Gare",
+        "es": "Fermentación larga",
+        "fr": "Longue pousse",
+        "ro": "Fermentare lungă"
       },
       "summary": {
-        "en": "Transfer to a well-oiled bowl at least twice the dough's size, cover, and let ferment overnight or at least 8 hours at room temperature."
+        "en": "Transfer to a well-oiled bowl at least twice the dough's size, cover, and let ferment overnight or at least 8 hours at room temperature.",
+        "de": "In eine gut geölte Schüssel geben, mindestens doppelt so groß wie der Teig, abdecken und über Nacht oder mindestens 8 Stunden bei Raumtemperatur fermentieren lassen.",
+        "es": "Pasar a un bol bien aceitado, al menos del doble del tamaño de la masa, tapar y dejar fermentar toda la noche o al menos 8 horas a temperatura ambiente.",
+        "fr": "Transférer dans un saladier bien huilé, au moins deux fois plus grand que la pâte, couvrir et laisser fermenter toute la nuit ou au moins 8 heures à température ambiante.",
+        "ro": "Transferă într-un bol bine uns cu ulei, de cel puțin două ori mărimea aluatului, acoperă și lasă la fermentat peste noapte sau cel puțin 8 ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Shape"
+        "en": "Shape",
+        "de": "Formen",
+        "es": "Formar",
+        "fr": "Façonner",
+        "ro": "Modelează"
       },
       "summary": {
-        "en": "Line a covered ovenproof pot with oiled parchment, transfer the dough in, and let rise 30 minutes more."
+        "en": "Line a covered ovenproof pot with oiled parchment, transfer the dough in, and let rise 30 minutes more.",
+        "de": "Einen zudeckbaren, ofenfesten Topf mit geöltem Backpapier auslegen, den Teig hineingeben und weitere 30 Minuten gehen lassen.",
+        "es": "Forrar una olla apta para horno con tapa con papel vegetal aceitado, pasar la masa dentro y dejar fermentar 30 minutos más.",
+        "fr": "Tapisser une cocotte allant au four de papier cuisson huilé, y transférer la pâte et laisser lever 30 minutes de plus.",
+        "ro": "Căptușește o oală cu capac, rezistentă la cuptor, cu hârtie de copt unsă cu ulei, transferă aluatul înăuntru și lasă la crescut încă 30 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake covered"
+        "en": "Bake covered",
+        "de": "Zugedeckt backen",
+        "es": "Hornear tapado",
+        "fr": "Cuire à couvert",
+        "ro": "Coace acoperit"
       },
       "summary": {
-        "en": "Cover the pot tightly and bake until set, 45 to 50 minutes."
+        "en": "Cover the pot tightly and bake until set, 45 to 50 minutes.",
+        "de": "Den Topf fest verschließen und backen, bis er fest ist, 45 bis 50 Minuten.",
+        "es": "Cerrar la olla firmemente y hornear hasta que esté firme, 45 a 50 minutos.",
+        "fr": "Fermer la cocotte hermétiquement et cuire jusqu'à ce que ce soit pris, 45 à 50 minutes.",
+        "ro": "Acoperă bine oala și coace până se fixează, 45 până la 50 de minute."
       }
     },
     {
       "title": {
-        "en": "Flip and finish"
+        "en": "Flip and finish",
+        "de": "Wenden und fertigstellen",
+        "es": "Voltear y terminar",
+        "fr": "Retourner et terminer",
+        "ro": "Întoarce și finisează"
       },
       "summary": {
-        "en": "Turn the loaf out onto a rack, then return it upside down to the pot and bake 10 minutes more to brown the top."
+        "en": "Turn the loaf out onto a rack, then return it upside down to the pot and bake 10 minutes more to brown the top.",
+        "de": "Den Laib auf ein Gitter stürzen, dann kopfüber zurück in den Topf legen und 10 Minuten weiterbacken, um die Oberseite zu bräunen.",
+        "es": "Volcar el pan sobre una rejilla, luego devolverlo boca abajo a la olla y hornear 10 minutos más para dorar la parte superior.",
+        "fr": "Démouler le pain sur une grille, puis le remettre à l'envers dans la cocotte et cuire 10 minutes de plus pour dorer le dessus.",
+        "ro": "Răstoarnă pâinea pe un grătar, apoi pune-o cu susul în jos înapoi în oală și coace încă 10 minute, ca să se rumenească partea de sus."
       }
     }
   ],

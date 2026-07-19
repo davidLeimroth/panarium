@@ -126,50 +126,98 @@
   "method": [
     {
       "title": {
-        "en": "Warm the enrichments"
+        "en": "Warm the enrichments",
+        "de": "Zutaten erwärmen",
+        "es": "Calentar los ingredientes",
+        "fr": "Tiédir les ingrédients",
+        "ro": "Încălzește ingredientele"
       },
       "summary": {
-        "en": "Heat milk, butter and sugar together until just lukewarm, then let cool about 15 minutes."
+        "en": "Heat milk, butter and sugar together until just lukewarm, then let cool about 15 minutes.",
+        "de": "Milch, Butter und Zucker zusammen erwärmen, bis sie gerade lauwarm sind, dann etwa 15 Minuten abkühlen lassen.",
+        "es": "Calentar juntos la leche, la mantequilla y el azúcar hasta que estén apenas tibios, luego dejar enfriar unos 15 minutos.",
+        "fr": "Chauffer ensemble le lait, le beurre et le sucre jusqu'à peine tiède, puis laisser refroidir environ 15 minutes.",
+        "ro": "Încălzește împreună laptele, untul și zahărul până devin doar călduțe, apoi lasă la răcit aproximativ 15 minute."
       }
     },
     {
       "title": {
-        "en": "Mix dough"
+        "en": "Mix dough",
+        "de": "Teig mischen",
+        "es": "Mezclar la masa",
+        "fr": "Mélanger la pâte",
+        "ro": "Amestecă aluatul"
       },
       "summary": {
-        "en": "Stir in lemon zest, salt, part of the flour, the eggs and yeast, then beat until smooth."
+        "en": "Stir in lemon zest, salt, part of the flour, the eggs and yeast, then beat until smooth.",
+        "de": "Zitronenschale, Salz, einen Teil des Mehls, die Eier und die Hefe einrühren, dann glatt schlagen.",
+        "es": "Añadir la ralladura de limón, la sal, parte de la harina, los huevos y la levadura, luego batir hasta que quede lisa.",
+        "fr": "Incorporer le zeste de citron, le sel, une partie de la farine, les œufs et la levure, puis battre jusqu'à consistance lisse.",
+        "ro": "Adaugă coaja de lămâie, sarea, o parte din făină, ouăle și drojdia, apoi bate până devine neted."
       }
     },
     {
       "title": {
-        "en": "Finish the dough"
+        "en": "Finish the dough",
+        "de": "Teig fertigstellen",
+        "es": "Terminar la masa",
+        "fr": "Terminer la pâte",
+        "ro": "Finalizează aluatul"
       },
       "summary": {
-        "en": "Beat in the rest of the flour to a soft, sticky, cohesive dough."
+        "en": "Beat in the rest of the flour to a soft, sticky, cohesive dough.",
+        "de": "Das restliche Mehl einrühren, bis ein weicher, klebriger, zusammenhängender Teig entsteht.",
+        "es": "Batir con el resto de la harina hasta lograr una masa blanda, pegajosa y cohesionada.",
+        "fr": "Incorporer le reste de la farine pour obtenir une pâte souple, collante et homogène.",
+        "ro": "Încorporează restul de făină până obții un aluat moale, lipicios și coeziv."
       }
     },
     {
       "title": {
-        "en": "First rise"
+        "en": "First rise",
+        "de": "Erste Gare",
+        "es": "Primer levado",
+        "fr": "Premier pointage",
+        "ro": "Prima dospire"
       },
       "summary": {
-        "en": "Cover and let rise until nearly doubled, 45-60 minutes."
+        "en": "Cover and let rise until nearly doubled, 45-60 minutes.",
+        "de": "Abdecken und gehen lassen, bis er sich fast verdoppelt hat, 45-60 Minuten.",
+        "es": "Tapar y dejar fermentar hasta que casi doble, 45-60 minutos.",
+        "fr": "Couvrir et laisser lever jusqu'à ce qu'elle ait presque doublé, 45-60 minutes.",
+        "ro": "Acoperă și lasă la crescut până aproape se dublează, 45-60 de minute."
       }
     },
     {
       "title": {
-        "en": "Pan & second rise"
+        "en": "Pan & second rise",
+        "de": "In die Form & zweite Gare",
+        "es": "Molde y segundo levado",
+        "fr": "Moule & second apprêt",
+        "ro": "Pune în formă și a doua dospire"
       },
       "summary": {
-        "en": "Scrape the whole dough into a buttered loaf pan and let it puff again, 45-60 minutes."
+        "en": "Scrape the whole dough into a buttered loaf pan and let it puff again, 45-60 minutes.",
+        "de": "Den gesamten Teig in eine gebutterte Kastenform geben und erneut aufgehen lassen, 45-60 Minuten.",
+        "es": "Volcar toda la masa en un molde de pan enmantequillado y dejar que hinche de nuevo, 45-60 minutos.",
+        "fr": "Verser toute la pâte dans un moule à cake beurré et laisser gonfler à nouveau, 45-60 minutes.",
+        "ro": "Toarnă tot aluatul într-o formă de pâine unsă cu unt și lasă să se umfle din nou, 45-60 de minute."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake until deeply golden, tenting with foil partway through if it browns too fast, until it sounds hollow."
+        "en": "Bake until deeply golden, tenting with foil partway through if it browns too fast, until it sounds hollow.",
+        "de": "Backen, bis er tief goldbraun ist, dabei bei Bedarf mit Alufolie abdecken, falls er zu schnell bräunt, bis er hohl klingt.",
+        "es": "Hornear hasta que esté muy dorado, cubriendo con papel de aluminio a mitad de cocción si se dora demasiado rápido, hasta que suene hueco.",
+        "fr": "Cuire jusqu'à coloration bien dorée, en couvrant de papier aluminium en cours de cuisson s'il colore trop vite, jusqu'à ce qu'il sonne creux.",
+        "ro": "Coace până devine auriu-închis, acoperind cu folie de aluminiu la jumătatea coacerii dacă se rumenește prea repede, până sună a gol."
       }
     }
   ],

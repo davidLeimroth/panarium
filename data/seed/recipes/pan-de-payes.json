@@ -101,50 +101,98 @@
   "method": [
     {
       "title": {
-        "en": "Mix"
+        "en": "Mix",
+        "de": "Mischen",
+        "es": "Mezclar",
+        "fr": "Mélanger",
+        "ro": "Amestecă"
       },
       "summary": {
-        "en": "Combine flour, water, starter and salt into a smooth, cohesive dough."
+        "en": "Combine flour, water, starter and salt into a smooth, cohesive dough.",
+        "de": "Mehl, Wasser, Sauerteig und Salz zu einem glatten, zusammenhängenden Teig verarbeiten.",
+        "es": "Combinar la harina, el agua, la masa madre y la sal en una masa lisa y cohesionada.",
+        "fr": "Mélanger farine, eau, levain et sel en une pâte lisse et homogène.",
+        "ro": "Combină făina, apa, maiaua și sarea într-un aluat neted și coeziv."
       }
     },
     {
       "title": {
-        "en": "Bulk ferment"
+        "en": "Bulk ferment",
+        "de": "Stockgare",
+        "es": "Fermentación en bloque",
+        "fr": "Pointage",
+        "ro": "Fermentație în masă"
       },
       "summary": {
-        "en": "Let rise until doubled, about 3 hours at room temperature."
+        "en": "Let rise until doubled, about 3 hours at room temperature.",
+        "de": "Bis zur Verdopplung gehen lassen, etwa 3 Stunden bei Raumtemperatur.",
+        "es": "Dejar fermentar hasta que doble su volumen, unas 3 horas a temperatura ambiente.",
+        "fr": "Laisser lever jusqu'au double, environ 3 heures à température ambiante.",
+        "ro": "Lasă la crescut până se dublează, aproximativ 3 ore la temperatura camerei."
       }
     },
     {
       "title": {
-        "en": "Shape without scoring"
+        "en": "Shape without scoring",
+        "de": "Formen ohne Einschneiden",
+        "es": "Formar sin greñar",
+        "fr": "Façonner sans lamer",
+        "ro": "Modelează fără crestare"
       },
       "summary": {
-        "en": "Shape into a round loaf and rest 10 minutes; no slashing is needed for this bread."
+        "en": "Shape into a round loaf and rest 10 minutes; no slashing is needed for this bread.",
+        "de": "Zu einem runden Laib formen und 10 Minuten ruhen lassen; bei diesem Brot ist kein Einschneiden nötig.",
+        "es": "Formar un pan redondo y dejar reposar 10 minutos; este pan no necesita greñado.",
+        "fr": "Façonner en boule et laisser reposer 10 minutes ; ce pain ne nécessite pas de lamage.",
+        "ro": "Modelează o pâine rotundă și lasă la odihnă 10 minute; această pâine nu are nevoie de crestare."
       }
     },
     {
       "title": {
-        "en": "Flip the seams up"
+        "en": "Flip the seams up",
+        "de": "Naht nach oben legen",
+        "es": "Colocar con el pliegue hacia arriba",
+        "fr": "Soudure vers le haut",
+        "ro": "Așază cusătura în sus"
       },
       "summary": {
-        "en": "Set the dough seam-side up for its final proof so the seams crack open naturally in the oven instead of a scored top."
+        "en": "Set the dough seam-side up for its final proof so the seams crack open naturally in the oven instead of a scored top.",
+        "de": "Den Teig mit der Naht nach oben zur letzten Gare legen, damit die Naht im Ofen von selbst aufreißt, statt eingeschnitten zu werden.",
+        "es": "Colocar la masa con el pliegue hacia arriba para el fermento final, para que se abra sola en el horno en lugar de greñarla.",
+        "fr": "Placer la pâte soudure vers le haut pour l'apprêt final afin qu'elle s'ouvre naturellement au four au lieu d'être lamée.",
+        "ro": "Așază aluatul cu cusătura în sus pentru dospirea finală, ca aceasta să crape natural în cuptor, în loc să fie crestată."
       }
     },
     {
       "title": {
-        "en": "Final proof"
+        "en": "Final proof",
+        "de": "Stückgare",
+        "es": "Fermentación final",
+        "fr": "Apprêt",
+        "ro": "Dospire finală"
       },
       "summary": {
-        "en": "Let it rise again until doubled."
+        "en": "Let it rise again until doubled.",
+        "de": "Erneut bis zur Verdopplung gehen lassen.",
+        "es": "Dejar fermentar de nuevo hasta que doble su volumen.",
+        "fr": "Laisser lever à nouveau jusqu'au double.",
+        "ro": "Lasă din nou la crescut până se dublează."
       }
     },
     {
       "title": {
-        "en": "Bake"
+        "en": "Bake",
+        "de": "Backen",
+        "es": "Hornear",
+        "fr": "Cuire",
+        "ro": "Coace"
       },
       "summary": {
-        "en": "Bake starting hot around 200°C, then lower to about 165°C, roughly 40 minutes total, until deeply golden and the natural seams have burst into a rustic crust."
+        "en": "Bake starting hot around 200°C, then lower to about 165°C, roughly 40 minutes total, until deeply golden and the natural seams have burst into a rustic crust.",
+        "de": "Zunächst heiß bei etwa 200°C backen, dann auf etwa 165°C senken, insgesamt rund 40 Minuten, bis er tief goldbraun ist und die Naht zu einer rustikalen Kruste aufgeplatzt ist.",
+        "es": "Empezar a hornear caliente a unos 200°C, luego bajar a unos 165°C, unos 40 minutos en total, hasta que esté muy dorado y el pliegue natural haya reventado en una corteza rústica.",
+        "fr": "Commencer à cuire chaud vers 200°C, puis baisser à environ 165°C, à peu près 40 minutes au total, jusqu'à belle couleur dorée et que la soudure naturelle ait éclaté en une croûte rustique.",
+        "ro": "Începe coacerea la cald, în jur de 200°C, apoi coboară la aproximativ 165°C, în total circa 40 de minute, până devine auriu-închis, iar cusătura naturală a crăpat într-o coajă rustică."
       }
     }
   ],
