@@ -3,16 +3,40 @@
     "id": "bakers-percentage",
     "name": {
       "en": "Baker's percentage",
-      "de": "Backerprozent",
+      "de": "Bäckerprozent",
       "es": "Porcentaje panadero",
       "fr": "Pourcentage boulanger"
     },
     "category": "scaling",
     "expression": "ingredient_pct = (ingredient_weight / flour_weight) * 100; ingredient_weight = flour_weight * (ingredient_pct / 100)",
     "variables": [
-      { "sym": "ingredient_pct", "meaning": { "en": "an ingredient's weight expressed as a percentage of total flour weight", "de": "Gewicht einer Zutat als Prozentsatz des gesamten Mehlgewichts", "es": "peso de un ingrediente expresado como porcentaje del peso total de harina", "fr": "poids d'un ingredient exprime en pourcentage du poids total de farine" } },
-      { "sym": "ingredient_weight", "meaning": { "en": "actual weight of the ingredient, in any consistent unit", "de": "tatsaechliches Gewicht der Zutat in einer beliebigen einheitlichen Einheit", "es": "peso real del ingrediente, en cualquier unidad coherente", "fr": "poids reel de l'ingredient, dans une unite coherente" } },
-      { "sym": "flour_weight", "meaning": { "en": "total weight of all flour in the formula, always treated as 100%", "de": "Gesamtgewicht des gesamten Mehls in der Formel, immer als 100% behandelt", "es": "peso total de toda la harina en la formula, siempre tratado como 100%", "fr": "poids total de toute la farine dans la formule, toujours traite comme 100%" } }
+      {
+        "sym": "ingredient_pct",
+        "meaning": {
+          "en": "an ingredient's weight expressed as a percentage of total flour weight",
+          "de": "Gewicht einer Zutat als Prozentsatz des gesamten Mehlgewichts",
+          "es": "peso de un ingrediente expresado como porcentaje del peso total de harina",
+          "fr": "poids d'un ingrédient exprimé en pourcentage du poids total de farine"
+        }
+      },
+      {
+        "sym": "ingredient_weight",
+        "meaning": {
+          "en": "actual weight of the ingredient, in any consistent unit",
+          "de": "tatsächliches Gewicht der Zutat in einer beliebigen einheitlichen Einheit",
+          "es": "peso real del ingrediente, en cualquier unidad coherente",
+          "fr": "poids réel de l'ingrédient, dans une unité cohérente"
+        }
+      },
+      {
+        "sym": "flour_weight",
+        "meaning": {
+          "en": "total weight of all flour in the formula, always treated as 100%",
+          "de": "Gesamtgewicht des gesamten Mehls in der Formel, immer als 100% behandelt",
+          "es": "peso total de toda la harina en la fórmula, siempre tratado como 100%",
+          "fr": "poids total de toute la farine dans la formule, toujours traité comme 100%"
+        }
+      }
     ],
     "example": "10 kg flour (=100%) and 3.5 kg water: water_pct = (3.5/10)*100 = 35%. Conversely, at 35% water_pct with 10 kg flour: water_weight = 10*(35/100) = 3.5 kg.",
     "sources": [
@@ -25,17 +49,57 @@
     "name": {
       "en": "Hydration from ingredients",
       "de": "Hydration aus den Zutaten",
-      "es": "Hidratacion a partir de los ingredientes",
-      "fr": "Hydratation a partir des ingredients"
+      "es": "Hidratación a partir de los ingredientes",
+      "fr": "Hydratation à partir des ingrédients"
     },
     "category": "hydration",
     "expression": "hydration_pct = (water + 0.87*milk + 0.75*egg + 0.16*butter + other_liquid_water) / flour * 100",
     "variables": [
-      { "sym": "water", "meaning": { "en": "plain water weight added directly to the dough", "de": "reines Wassergewicht, das direkt dem Teig zugegeben wird", "es": "peso de agua pura anadida directamente a la masa", "fr": "poids d'eau pure ajoutee directement a la pate" } },
-      { "sym": "milk", "meaning": { "en": "milk weight, counted at 87% water content", "de": "Milchgewicht, mit 87% Wasseranteil angesetzt", "es": "peso de la leche, contado con un 87% de contenido de agua", "fr": "poids de lait, compte a 87% de teneur en eau" } },
-      { "sym": "egg", "meaning": { "en": "whole egg weight, counted at 75% water content", "de": "Gewicht des ganzen Eis, mit 75% Wasseranteil angesetzt", "es": "peso del huevo entero, contado con un 75% de contenido de agua", "fr": "poids de l'oeuf entier, compte a 75% de teneur en eau" } },
-      { "sym": "butter", "meaning": { "en": "butter weight, counted at 16% water content (about 83% fat)", "de": "Buttergewicht, mit 16% Wasseranteil angesetzt (rund 83% Fettanteil)", "es": "peso de la mantequilla, contado con un 16% de contenido de agua (unos 83% de grasa)", "fr": "poids de beurre, compte a 16% de teneur en eau (environ 83% de matiere grasse)" } },
-      { "sym": "flour", "meaning": { "en": "total flour weight, the baker's-percentage baseline", "de": "Gesamtmehlgewicht, die Bezugsgroesse der Bäckerprozentrechnung", "es": "peso total de harina, la base del porcentaje panadero", "fr": "poids total de farine, la base du pourcentage boulanger" } }
+      {
+        "sym": "water",
+        "meaning": {
+          "en": "plain water weight added directly to the dough",
+          "de": "reines Wassergewicht, das direkt dem Teig zugegeben wird",
+          "es": "peso de agua pura añadida directamente a la masa",
+          "fr": "poids d'eau pure ajoutée directement à la pâte"
+        }
+      },
+      {
+        "sym": "milk",
+        "meaning": {
+          "en": "milk weight, counted at 87% water content",
+          "de": "Milchgewicht, mit 87% Wasseranteil angesetzt",
+          "es": "peso de la leche, contado con un 87% de contenido de agua",
+          "fr": "poids de lait, compté à 87% de teneur en eau"
+        }
+      },
+      {
+        "sym": "egg",
+        "meaning": {
+          "en": "whole egg weight, counted at 75% water content",
+          "de": "Gewicht des ganzen Eis, mit 75% Wasseranteil angesetzt",
+          "es": "peso del huevo entero, contado con un 75% de contenido de agua",
+          "fr": "poids de l'œuf entier, compté à 75% de teneur en eau"
+        }
+      },
+      {
+        "sym": "butter",
+        "meaning": {
+          "en": "butter weight, counted at 16% water content (about 83% fat)",
+          "de": "Buttergewicht, mit 16% Wasseranteil angesetzt (rund 83% Fettanteil)",
+          "es": "peso de la mantequilla, contado con un 16% de contenido de agua (unos 83% de grasa)",
+          "fr": "poids de beurre, compté à 16% de teneur en eau (environ 83% de matière grasse)"
+        }
+      },
+      {
+        "sym": "flour",
+        "meaning": {
+          "en": "total flour weight, the baker's-percentage baseline",
+          "de": "Gesamtmehlgewicht, die Bezugsgröße der Bäckerprozentrechnung",
+          "es": "peso total de harina, la base del porcentaje panadero",
+          "fr": "poids total de farine, la base du pourcentage boulanger"
+        }
+      }
     ],
     "example": "Santa Lucia crown, 500g flour: 125g milk (x0.87=108.75g water) + 125g water + 110g egg (x0.75=82.5g water) + 50g butter (x0.16=8g water) = 324.25g effective water; hydration = 324.25/500*100 = 64.85%, matching the source's reported 64.9%.",
     "sources": [
@@ -48,16 +112,48 @@
     "name": {
       "en": "Hydration ceiling from flour protein",
       "de": "Hydrationsgrenze aus dem Mehlproteingehalt",
-      "es": "Limite de hidratacion segun la proteina de la harina",
-      "fr": "Plafond d'hydratation selon la teneur en proteines de la farine"
+      "es": "Límite de hidratación según la proteína de la harina",
+      "fr": "Plafond d'hydratation selon la teneur en protéines de la farine"
     },
     "category": "hydration",
     "expression": "hydration_pct_new = hydration_pct_base + 2.5 * (protein_pct_new - protein_pct_base)",
     "variables": [
-      { "sym": "hydration_pct_base", "meaning": { "en": "the hydration percentage the formula already uses with the base flour", "de": "der Hydrationsanteil, den die Formel bereits mit dem Ausgangsmehl verwendet", "es": "el porcentaje de hidratacion que la formula ya usa con la harina base", "fr": "le pourcentage d'hydratation deja utilise par la formule avec la farine de base" } },
-      { "sym": "protein_pct_base", "meaning": { "en": "protein percentage of the base flour", "de": "Proteingehalt des Ausgangsmehls in Prozent", "es": "porcentaje de proteina de la harina base", "fr": "pourcentage de proteines de la farine de base" } },
-      { "sym": "protein_pct_new", "meaning": { "en": "protein percentage of the replacement flour", "de": "Proteingehalt des Ersatzmehls in Prozent", "es": "porcentaje de proteina de la harina de sustitucion", "fr": "pourcentage de proteines de la farine de remplacement" } },
-      { "sym": "hydration_pct_new", "meaning": { "en": "estimated hydration percentage suited to the replacement flour", "de": "geschaetzter, zum Ersatzmehl passender Hydrationsanteil", "es": "porcentaje de hidratacion estimado adecuado para la harina de sustitucion", "fr": "pourcentage d'hydratation estime adapte a la farine de remplacement" } }
+      {
+        "sym": "hydration_pct_base",
+        "meaning": {
+          "en": "the hydration percentage the formula already uses with the base flour",
+          "de": "der Hydrationsanteil, den die Formel bereits mit dem Ausgangsmehl verwendet",
+          "es": "el porcentaje de hidratación que la fórmula ya usa con la harina base",
+          "fr": "le pourcentage d'hydratation déjà utilisé par la formule avec la farine de base"
+        }
+      },
+      {
+        "sym": "protein_pct_base",
+        "meaning": {
+          "en": "protein percentage of the base flour",
+          "de": "Proteingehalt des Ausgangsmehls in Prozent",
+          "es": "porcentaje de proteína de la harina base",
+          "fr": "pourcentage de protéines de la farine de base"
+        }
+      },
+      {
+        "sym": "protein_pct_new",
+        "meaning": {
+          "en": "protein percentage of the replacement flour",
+          "de": "Proteingehalt des Ersatzmehls in Prozent",
+          "es": "porcentaje de proteína de la harina de sustitución",
+          "fr": "pourcentage de protéines de la farine de remplacement"
+        }
+      },
+      {
+        "sym": "hydration_pct_new",
+        "meaning": {
+          "en": "estimated hydration percentage suited to the replacement flour",
+          "de": "geschätzter, zum Ersatzmehl passender Hydrationsanteil",
+          "es": "porcentaje de hidratación estimado adecuado para la harina de sustitución",
+          "fr": "pourcentage d'hydratation estimé adapté à la farine de remplacement"
+        }
+      }
     ],
     "example": "Switching from King Arthur all-purpose flour (11.7% protein) to King Arthur bread flour (12.7% protein) in a 65%-hydration formula: hydration_pct_new = 65 + 2.5*(12.7-11.7) = 67.5%.",
     "sources": [
@@ -71,14 +167,30 @@
     "name": {
       "en": "Fat and sugar thresholds in enriched dough",
       "de": "Fett- und Zuckerschwellen im angereicherten Teig",
-      "es": "Umbrales de grasa y azucar en masa enriquecida",
-      "fr": "Seuils de matiere grasse et de sucre en pate enrichie"
+      "es": "Umbrales de grasa y azúcar en masa enriquecida",
+      "fr": "Seuils de matière grasse et de sucre en pâte enrichie"
     },
     "category": "enrichment",
     "expression": "fat_pct <= 10 -> mix_from_start; fat_pct > 10 -> add_after_gluten_development (traditional rule, increasingly contested)",
     "variables": [
-      { "sym": "fat_pct", "meaning": { "en": "added fat (butter/oil) weight as a percentage of total flour weight", "de": "zugesetztes Fett (Butter/Oel) als Prozentsatz des Gesamtmehlgewichts", "es": "grasa anadida (mantequilla/aceite) como porcentaje del peso total de harina", "fr": "matiere grasse ajoutee (beurre/huile) en pourcentage du poids total de farine" } },
-      { "sym": "sugar_pct", "meaning": { "en": "added sugar weight as a percentage of total flour weight", "de": "zugesetzter Zucker als Prozentsatz des Gesamtmehlgewichts", "es": "azucar anadido como porcentaje del peso total de harina", "fr": "sucre ajoute en pourcentage du poids total de farine" } }
+      {
+        "sym": "fat_pct",
+        "meaning": {
+          "en": "added fat (butter/oil) weight as a percentage of total flour weight",
+          "de": "zugesetztes Fett (Butter/Öl) als Prozentsatz des Gesamtmehlgewichts",
+          "es": "grasa añadida (mantequilla/aceite) como porcentaje del peso total de harina",
+          "fr": "matière grasse ajoutée (beurre/huile) en pourcentage du poids total de farine"
+        }
+      },
+      {
+        "sym": "sugar_pct",
+        "meaning": {
+          "en": "added sugar weight as a percentage of total flour weight",
+          "de": "zugesetzter Zucker als Prozentsatz des Gesamtmehlgewichts",
+          "es": "azúcar añadido como porcentaje del peso total de harina",
+          "fr": "sucre ajouté en pourcentage du poids total de farine"
+        }
+      }
     ],
     "example": "A 500g-flour dough with 10% fat (50g) can usually be mixed in from the start; traditional guidance holds back fat above 10% (e.g. a 40% brioche) until after gluten development, though some bakers now report success mixing 40% fat in from the start. Separately, a controlled fermentation trial measured CO2 output after 3h rising from 107.9 mL at 0% sucrose to a peak of 203.7 mL at 7%, then falling to 157.7 mL at 14% and to 94.3 mL (below the unsweetened baseline) at 21%, showing sugar's effect on yeast is non-monotonic rather than a single cutoff.",
     "sources": [
@@ -91,18 +203,58 @@
     "id": "ddt-three-factor",
     "name": {
       "en": "Desired dough temperature (3-factor)",
-      "de": "Gewuenschte Teigtemperatur (3-Faktor-Methode)",
+      "de": "Gewünschte Teigtemperatur (3-Faktor-Methode)",
       "es": "Temperatura deseada de la masa (3 factores)",
-      "fr": "Temperature de pate desiree (methode a 3 facteurs)"
+      "fr": "Température de pâte désirée (méthode à 3 facteurs)"
     },
     "category": "temperature",
     "expression": "water_temp = 3*DDT - room_temp - flour_temp - friction_factor",
     "variables": [
-      { "sym": "DDT", "meaning": { "en": "desired dough temperature right after mixing", "de": "gewuenschte Teigtemperatur unmittelbar nach dem Mischen", "es": "temperatura deseada de la masa justo despues del mezclado", "fr": "temperature de pate desiree juste apres le petrissage" } },
-      { "sym": "room_temp", "meaning": { "en": "ambient/room (air) temperature", "de": "Raum- bzw. Umgebungstemperatur", "es": "temperatura ambiente/de la sala", "fr": "temperature ambiante/de la piece" } },
-      { "sym": "flour_temp", "meaning": { "en": "temperature of the flour before mixing", "de": "Temperatur des Mehls vor dem Mischen", "es": "temperatura de la harina antes de mezclar", "fr": "temperature de la farine avant petrissage" } },
-      { "sym": "friction_factor", "meaning": { "en": "estimated temperature rise from mechanical mixing", "de": "geschaetzter Temperaturanstieg durch das maschinelle Mischen", "es": "aumento de temperatura estimado por el mezclado mecanico", "fr": "hausse de temperature estimee due au petrissage mecanique" } },
-      { "sym": "water_temp", "meaning": { "en": "water temperature to mix in, the value being solved for", "de": "einzumischende Wassertemperatur, die gesuchte Groesse", "es": "temperatura del agua a mezclar, el valor que se busca", "fr": "temperature de l'eau a incorporer, la valeur recherchee" } }
+      {
+        "sym": "DDT",
+        "meaning": {
+          "en": "desired dough temperature right after mixing",
+          "de": "gewünschte Teigtemperatur unmittelbar nach dem Mischen",
+          "es": "temperatura deseada de la masa justo después del mezclado",
+          "fr": "température de pâte désirée juste après le pétrissage"
+        }
+      },
+      {
+        "sym": "room_temp",
+        "meaning": {
+          "en": "ambient/room (air) temperature",
+          "de": "Raum- bzw. Umgebungstemperatur",
+          "es": "temperatura ambiente/de la sala",
+          "fr": "température ambiante/de la pièce"
+        }
+      },
+      {
+        "sym": "flour_temp",
+        "meaning": {
+          "en": "temperature of the flour before mixing",
+          "de": "Temperatur des Mehls vor dem Mischen",
+          "es": "temperatura de la harina antes de mezclar",
+          "fr": "température de la farine avant pétrissage"
+        }
+      },
+      {
+        "sym": "friction_factor",
+        "meaning": {
+          "en": "estimated temperature rise from mechanical mixing",
+          "de": "geschätzter Temperaturanstieg durch das maschinelle Mischen",
+          "es": "aumento de temperatura estimado por el mezclado mecánico",
+          "fr": "hausse de température estimée due au pétrissage mécanique"
+        }
+      },
+      {
+        "sym": "water_temp",
+        "meaning": {
+          "en": "water temperature to mix in, the value being solved for",
+          "de": "einzumischende Wassertemperatur, die gesuchte Größe",
+          "es": "temperatura del agua a mezclar, el valor que se busca",
+          "fr": "température de l'eau à incorporer, la valeur recherchée"
+        }
+      }
     ],
     "example": "Target DDT 78F, flour 71F, room 72F, stand-mixer friction factor 22F: water_temp = 78*3 - 72 - 71 - 22 = 69F.",
     "sources": [
@@ -114,18 +266,58 @@
     "id": "ddt-four-factor-preferment",
     "name": {
       "en": "Desired dough temperature with preferment (4-factor)",
-      "de": "Gewuenschte Teigtemperatur mit Vorteig (4-Faktor-Methode)",
+      "de": "Gewünschte Teigtemperatur mit Vorteig (4-Faktor-Methode)",
       "es": "Temperatura deseada de la masa con prefermento (4 factores)",
-      "fr": "Temperature de pate desiree avec preferment (methode a 4 facteurs)"
+      "fr": "Température de pâte désirée avec preferment (méthode à 4 facteurs)"
     },
     "category": "temperature",
     "expression": "water_temp = 4*DDT - room_temp - flour_temp - friction_factor - preferment_temp",
     "variables": [
-      { "sym": "DDT", "meaning": { "en": "desired dough temperature right after mixing", "de": "gewuenschte Teigtemperatur unmittelbar nach dem Mischen", "es": "temperatura deseada de la masa justo despues del mezclado", "fr": "temperature de pate desiree juste apres le petrissage" } },
-      { "sym": "preferment_temp", "meaning": { "en": "temperature of the levain/preferment/starter before mixing", "de": "Temperatur des Vorteigs/Sauerteigs vor dem Mischen", "es": "temperatura del levain/prefermento antes de mezclar", "fr": "temperature du levain/preferment avant petrissage" } },
-      { "sym": "room_temp", "meaning": { "en": "ambient/room (air) temperature", "de": "Raum- bzw. Umgebungstemperatur", "es": "temperatura ambiente/de la sala", "fr": "temperature ambiante/de la piece" } },
-      { "sym": "flour_temp", "meaning": { "en": "temperature of the flour before mixing", "de": "Temperatur des Mehls vor dem Mischen", "es": "temperatura de la harina antes de mezclar", "fr": "temperature de la farine avant petrissage" } },
-      { "sym": "friction_factor", "meaning": { "en": "estimated temperature rise from mechanical mixing", "de": "geschaetzter Temperaturanstieg durch das maschinelle Mischen", "es": "aumento de temperatura estimado por el mezclado mecanico", "fr": "hausse de temperature estimee due au petrissage mecanique" } }
+      {
+        "sym": "DDT",
+        "meaning": {
+          "en": "desired dough temperature right after mixing",
+          "de": "gewünschte Teigtemperatur unmittelbar nach dem Mischen",
+          "es": "temperatura deseada de la masa justo después del mezclado",
+          "fr": "température de pâte désirée juste après le pétrissage"
+        }
+      },
+      {
+        "sym": "preferment_temp",
+        "meaning": {
+          "en": "temperature of the levain/preferment/starter before mixing",
+          "de": "Temperatur des Vorteigs/Sauerteigs vor dem Mischen",
+          "es": "temperatura del levain/prefermento antes de mezclar",
+          "fr": "température du levain/preferment avant pétrissage"
+        }
+      },
+      {
+        "sym": "room_temp",
+        "meaning": {
+          "en": "ambient/room (air) temperature",
+          "de": "Raum- bzw. Umgebungstemperatur",
+          "es": "temperatura ambiente/de la sala",
+          "fr": "température ambiante/de la pièce"
+        }
+      },
+      {
+        "sym": "flour_temp",
+        "meaning": {
+          "en": "temperature of the flour before mixing",
+          "de": "Temperatur des Mehls vor dem Mischen",
+          "es": "temperatura de la harina antes de mezclar",
+          "fr": "température de la farine avant pétrissage"
+        }
+      },
+      {
+        "sym": "friction_factor",
+        "meaning": {
+          "en": "estimated temperature rise from mechanical mixing",
+          "de": "geschätzter Temperaturanstieg durch das maschinelle Mischen",
+          "es": "aumento de temperatura estimado por el mezclado mecánico",
+          "fr": "hausse de température estimée due au pétrissage mécanique"
+        }
+      }
     ],
     "example": "Target DDT 78F, flour 71F, room 72F, stand-mixer friction 22F, ripe levain at 76F: water_temp = 78*4 - 72 - 71 - 22 - 76 = 71F. Note: Wordloaf's Andrew Janjigian instead weights the preferment term by the preferment's percentage of the total formula rather than treating it as a plain 4th factor, arguing a small levain should sway the average less than a large one.",
     "sources": [
@@ -139,16 +331,48 @@
     "name": {
       "en": "Friction factor calibration",
       "de": "Kalibrierung des Reibungsfaktors",
-      "es": "Calibracion del factor de friccion",
-      "fr": "Etalonnage du facteur de friction"
+      "es": "Calibración del factor de fricción",
+      "fr": "Étalonnage du facteur de friction"
     },
     "category": "temperature",
     "expression": "friction_factor_next = friction_factor_used - (DDT_target - dough_temp_actual)",
     "variables": [
-      { "sym": "friction_factor_used", "meaning": { "en": "friction factor assumed for the batch just mixed", "de": "fuer den soeben gemischten Teig angenommener Reibungsfaktor", "es": "factor de friccion asumido para el lote recien mezclado", "fr": "facteur de friction suppose pour le lot qui vient d'etre petri" } },
-      { "sym": "DDT_target", "meaning": { "en": "the dough temperature that was aimed for", "de": "die angestrebte Teigtemperatur", "es": "la temperatura de masa que se buscaba", "fr": "la temperature de pate visee" } },
-      { "sym": "dough_temp_actual", "meaning": { "en": "the dough temperature actually measured after mixing", "de": "die nach dem Mischen tatsaechlich gemessene Teigtemperatur", "es": "la temperatura de masa realmente medida tras el mezclado", "fr": "la temperature de pate reellement mesuree apres petrissage" } },
-      { "sym": "friction_factor_next", "meaning": { "en": "the corrected friction factor to use on the next batch", "de": "der korrigierte Reibungsfaktor fuer den naechsten Teig", "es": "el factor de friccion corregido para el siguiente lote", "fr": "le facteur de friction corrige a utiliser pour le prochain lot" } }
+      {
+        "sym": "friction_factor_used",
+        "meaning": {
+          "en": "friction factor assumed for the batch just mixed",
+          "de": "für den soeben gemischten Teig angenommener Reibungsfaktor",
+          "es": "factor de fricción asumido para el lote recién mezclado",
+          "fr": "facteur de friction supposé pour le lot qui vient d'être pétri"
+        }
+      },
+      {
+        "sym": "DDT_target",
+        "meaning": {
+          "en": "the dough temperature that was aimed for",
+          "de": "die angestrebte Teigtemperatur",
+          "es": "la temperatura de masa que se buscaba",
+          "fr": "la température de pâte visée"
+        }
+      },
+      {
+        "sym": "dough_temp_actual",
+        "meaning": {
+          "en": "the dough temperature actually measured after mixing",
+          "de": "die nach dem Mischen tatsächlich gemessene Teigtemperatur",
+          "es": "la temperatura de masa realmente medida tras el mezclado",
+          "fr": "la température de pâte réellement mesurée après pétrissage"
+        }
+      },
+      {
+        "sym": "friction_factor_next",
+        "meaning": {
+          "en": "the corrected friction factor to use on the next batch",
+          "de": "der korrigierte Reibungsfaktor für den nächsten Teig",
+          "es": "el factor de fricción corregido para el siguiente lote",
+          "fr": "le facteur de friction corrigé à utiliser pour le prochain lot"
+        }
+      }
     ],
     "example": "A baker assumes friction_factor_used=24F, mixes, and the dough reads 75F against a 77F target (2F short): friction_factor_next = 24 - (77-75) = 22F for the next batch. Starting-point ranges before any calibration: hand kneading 6-8F (about 3-4C), home stand mixer 22-24F (about 12-13C), spiral/commercial mixer 24-28F (about 13-16C) per Hamelman.",
     "sources": [
@@ -161,15 +385,39 @@
     "name": {
       "en": "Yeast conversion (fresh, active dry, instant)",
       "de": "Hefeumrechnung (frisch, Trockenhefe, Instanthefe)",
-      "es": "Conversion de levadura (fresca, seca activa, instantanea)",
-      "fr": "Conversion de levure (fraiche, seche active, instantanee)"
+      "es": "Conversión de levadura (fresca, seca activa, instantánea)",
+      "fr": "Conversion de levure (fraîche, sèche active, instantanée)"
     },
     "category": "yeast",
     "expression": "active_dry_g = fresh_g * 0.4; instant_g = fresh_g * 0.33; active_dry_g_simplified = fresh_g / 2; instant_g_simplified = fresh_g / 3",
     "variables": [
-      { "sym": "fresh_g", "meaning": { "en": "fresh (cake/compressed) yeast weight in grams", "de": "Gewicht der Frischhefe (Presshefe) in Gramm", "es": "peso de la levadura fresca (en pastilla) en gramos", "fr": "poids de levure fraiche (levure de boulanger pressee) en grammes" } },
-      { "sym": "active_dry_g", "meaning": { "en": "equivalent active dry yeast weight per King Arthur's professional chart", "de": "aequivalentes Gewicht an Trockenhefe nach der professionellen Tabelle von King Arthur", "es": "peso equivalente de levadura seca activa segun la tabla profesional de King Arthur", "fr": "poids equivalent de levure seche active selon le tableau professionnel de King Arthur" } },
-      { "sym": "instant_g", "meaning": { "en": "equivalent instant yeast weight per King Arthur's professional chart", "de": "aequivalentes Gewicht an Instanthefe nach der professionellen Tabelle von King Arthur", "es": "peso equivalente de levadura instantanea segun la tabla profesional de King Arthur", "fr": "poids equivalent de levure instantanee selon le tableau professionnel de King Arthur" } }
+      {
+        "sym": "fresh_g",
+        "meaning": {
+          "en": "fresh (cake/compressed) yeast weight in grams",
+          "de": "Gewicht der Frischhefe (Presshefe) in Gramm",
+          "es": "peso de la levadura fresca (en pastilla) en gramos",
+          "fr": "poids de levure fraîche (levure de boulanger pressée) en grammes"
+        }
+      },
+      {
+        "sym": "active_dry_g",
+        "meaning": {
+          "en": "equivalent active dry yeast weight per King Arthur's professional chart",
+          "de": "äquivalentes Gewicht an Trockenhefe nach der professionellen Tabelle von King Arthur",
+          "es": "peso equivalente de levadura seca activa según la tabla profesional de King Arthur",
+          "fr": "poids équivalent de levure sèche active selon le tableau professionnel de King Arthur"
+        }
+      },
+      {
+        "sym": "instant_g",
+        "meaning": {
+          "en": "equivalent instant yeast weight per King Arthur's professional chart",
+          "de": "äquivalentes Gewicht an Instanthefe nach der professionellen Tabelle von King Arthur",
+          "es": "peso equivalente de levadura instantánea según la tabla profesional de King Arthur",
+          "fr": "poids équivalent de levure instantanée selon le tableau professionnel de King Arthur"
+        }
+      }
     ],
     "example": "30g fresh yeast: King Arthur's professional ratio gives 30*0.4=12g active dry or 30*0.33=9.9g (~10g) instant; a commonly quoted simplified home rule instead gives 30/2=15g active dry or 30/3=10g instant. Separately, many calculator sites claim instant yeast is 25% more potent by weight than active dry (implying active_dry_g = instant_g*1.25), but King Arthur's own 2022 blog and Red Star's conversion chart both treat active dry and instant as substitutable 1:1 in practice, framing the difference as dissolving speed and rise time rather than final leavening power.",
     "sources": [
@@ -182,17 +430,49 @@
     "id": "fermentation-time-temp-scaling",
     "name": {
       "en": "Fermentation time-temperature scaling",
-      "de": "Zeit-Temperatur-Skalierung der Gaerung",
-      "es": "Escalado tiempo-temperatura de la fermentacion",
-      "fr": "Mise a l'echelle temps-temperature de la fermentation"
+      "de": "Zeit-Temperatur-Skalierung der Gärung",
+      "es": "Escalado tiempo-temperatura de la fermentación",
+      "fr": "Mise à l'échelle temps-température de la fermentation"
     },
     "category": "fermentation",
     "expression": "time_new = time_ref * 2^((temp_ref - temp_new) / doubling_interval)",
     "variables": [
-      { "sym": "time_ref", "meaning": { "en": "known fermentation/bulk time at the reference temperature", "de": "bekannte Gaer-/Stockgarezeit bei der Referenztemperatur", "es": "tiempo de fermentacion/bulk conocido a la temperatura de referencia", "fr": "temps de fermentation/pointage connu a la temperature de reference" } },
-      { "sym": "temp_ref", "meaning": { "en": "the reference dough temperature", "de": "die Referenz-Teigtemperatur", "es": "la temperatura de masa de referencia", "fr": "la temperature de pate de reference" } },
-      { "sym": "temp_new", "meaning": { "en": "the new dough temperature to estimate time for", "de": "die neue Teigtemperatur, fuer die die Zeit geschaetzt werden soll", "es": "la nueva temperatura de masa para la que se estima el tiempo", "fr": "la nouvelle temperature de pate pour laquelle estimer le temps" } },
-      { "sym": "doubling_interval", "meaning": { "en": "degrees of temperature change that double or halve fermentation time; sources disagree (about 8C per The Sourdough Journey, about 5C per Weekend Bakery)", "de": "Temperaturaenderung, die die Gaerzeit verdoppelt oder halbiert; Quellen widersprechen sich (rund 8C nach The Sourdough Journey, rund 5C nach Weekend Bakery)", "es": "cambio de temperatura que duplica o reduce a la mitad el tiempo de fermentacion; las fuentes no coinciden (unos 8C segun The Sourdough Journey, unos 5C segun Weekend Bakery)", "fr": "variation de temperature qui double ou divise par deux le temps de fermentation; les sources divergent (environ 8C selon The Sourdough Journey, environ 5C selon Weekend Bakery)" } }
+      {
+        "sym": "time_ref",
+        "meaning": {
+          "en": "known fermentation/bulk time at the reference temperature",
+          "de": "bekannte Gär-/Stockgarezeit bei der Referenztemperatur",
+          "es": "tiempo de fermentación/bulk conocido a la temperatura de referencia",
+          "fr": "temps de fermentation/pointage connu à la température de référence"
+        }
+      },
+      {
+        "sym": "temp_ref",
+        "meaning": {
+          "en": "the reference dough temperature",
+          "de": "die Referenz-Teigtemperatur",
+          "es": "la temperatura de masa de referencia",
+          "fr": "la température de pâte de référence"
+        }
+      },
+      {
+        "sym": "temp_new",
+        "meaning": {
+          "en": "the new dough temperature to estimate time for",
+          "de": "die neue Teigtemperatur, für die die Zeit geschätzt werden soll",
+          "es": "la nueva temperatura de masa para la que se estima el tiempo",
+          "fr": "la nouvelle température de pâte pour laquelle estimer le temps"
+        }
+      },
+      {
+        "sym": "doubling_interval",
+        "meaning": {
+          "en": "degrees of temperature change that double or halve fermentation time; sources disagree (about 8C per The Sourdough Journey, about 5C per Weekend Bakery)",
+          "de": "Temperaturänderung, die die Gärzeit verdoppelt oder halbiert; Quellen widersprechen sich (rund 8C nach The Sourdough Journey, rund 5C nach Weekend Bakery)",
+          "es": "cambio de temperatura que duplica o reduce a la mitad el tiempo de fermentación; las fuentes no coinciden (unos 8C según The Sourdough Journey, unos 5C según Weekend Bakery)",
+          "fr": "variation de température qui double ou divise par deux le temps de fermentation; les sources divergent (environ 8C selon The Sourdough Journey, environ 5C selon Weekend Bakery)"
+        }
+      }
     ],
     "example": "A dough that bulk-ferments in 4h at 24C would, per The Sourdough Journey's 15F/8C-doubling rule, take about 8h at 16C. Per Weekend Bakery's 5C-doubling rule ('fermentation roughly doubles for every 5C increase'), that same doubling would already occur by 19C, a materially different sensitivity to temperature. Below about 4C, cold retard is generally described as suspending yeast activity almost entirely while acid-forming bacteria keep working slowly; The Perfect Loaf reports successfully retarding shaped dough for up to 12h at 50F/10C and only about 8h once the retarder runs above 46-48F/8-9C.",
     "sources": [
@@ -205,17 +485,49 @@
     "id": "levain-build-ratio",
     "name": {
       "en": "Levain build ratio and inoculation",
-      "de": "Anstellgut-Aufbauverhaeltnis und Inokulation",
-      "es": "Proporcion de construccion del levain e inoculacion",
+      "de": "Anstellgut-Aufbauverhältnis und Inokulation",
+      "es": "Proporción de construcción del levain e inoculación",
       "fr": "Ratio de construction du levain et inoculation"
     },
     "category": "fermentation",
     "expression": "inoculation_pct = starter_weight / (starter_weight + build_flour_weight + build_water_weight) * 100",
     "variables": [
-      { "sym": "starter_weight", "meaning": { "en": "weight of mature starter/levain used to seed the new build", "de": "Gewicht des reifen Anstellguts, mit dem der neue Ansatz beimpft wird", "es": "peso de masa madre/levain maduro usado para sembrar la nueva construccion", "fr": "poids de levain mur utilise pour ensemencer la nouvelle construction" } },
-      { "sym": "build_flour_weight", "meaning": { "en": "flour weight added in this levain build", "de": "in diesem Anstellgut-Ansatz zugesetztes Mehlgewicht", "es": "peso de harina anadido en esta construccion de levain", "fr": "poids de farine ajoute dans cette construction de levain" } },
-      { "sym": "build_water_weight", "meaning": { "en": "water weight added in this levain build", "de": "in diesem Anstellgut-Ansatz zugesetztes Wassergewicht", "es": "peso de agua anadido en esta construccion de levain", "fr": "poids d'eau ajoute dans cette construction de levain" } },
-      { "sym": "inoculation_pct", "meaning": { "en": "starter weight as a percentage of the total build, which drives peak timing", "de": "Anstellgut-Gewicht als Prozentsatz des gesamten Ansatzes, massgeblich fuer den Reifezeitpunkt", "es": "peso de masa madre como porcentaje de la construccion total, determina el momento de pico", "fr": "poids de levain en pourcentage de la construction totale, determinant le moment du pic" } }
+      {
+        "sym": "starter_weight",
+        "meaning": {
+          "en": "weight of mature starter/levain used to seed the new build",
+          "de": "Gewicht des reifen Anstellguts, mit dem der neue Ansatz beimpft wird",
+          "es": "peso de masa madre/levain maduro usado para sembrar la nueva construcción",
+          "fr": "poids de levain mûr utilisé pour ensemencer la nouvelle construction"
+        }
+      },
+      {
+        "sym": "build_flour_weight",
+        "meaning": {
+          "en": "flour weight added in this levain build",
+          "de": "in diesem Anstellgut-Ansatz zugesetztes Mehlgewicht",
+          "es": "peso de harina añadido en esta construcción de levain",
+          "fr": "poids de farine ajouté dans cette construction de levain"
+        }
+      },
+      {
+        "sym": "build_water_weight",
+        "meaning": {
+          "en": "water weight added in this levain build",
+          "de": "in diesem Anstellgut-Ansatz zugesetztes Wassergewicht",
+          "es": "peso de agua añadido en esta construcción de levain",
+          "fr": "poids d'eau ajouté dans cette construction de levain"
+        }
+      },
+      {
+        "sym": "inoculation_pct",
+        "meaning": {
+          "en": "starter weight as a percentage of the total build, which drives peak timing",
+          "de": "Anstellgut-Gewicht als Prozentsatz des gesamten Ansatzes, maßgeblich für den Reifezeitpunkt",
+          "es": "peso de masa madre como porcentaje de la construcción total, determina el momento de pico",
+          "fr": "poids de levain en pourcentage de la construction totale, déterminant le moment du pic"
+        }
+      }
     ],
     "example": "A 1:5:5 build (20g mature starter, 100g flour, 100g water) has inoculation_pct = 20/(20+100+100)*100 = 9.1%, which per the 5-10% inoculation banding should peak in about 16h or more at room temperature; a 1:1:1 build (100% inoculation) instead peaks in about 3-4h. Hydration also matters: a 50-65%-hydration stiff levain favors acetic-acid production (reads tangier), while a 100%+ liquid levain favors lactic acid (milder, rounder sourness).",
     "sources": [
@@ -229,14 +541,38 @@
       "en": "Prefermented flour percentage",
       "de": "Anteil vorfermentierten Mehls",
       "es": "Porcentaje de harina prefermentada",
-      "fr": "Pourcentage de farine prefermentee"
+      "fr": "Pourcentage de farine préfermentée"
     },
     "category": "fermentation",
     "expression": "prefermented_flour_pct = preferment_flour_weight / total_flour_weight * 100",
     "variables": [
-      { "sym": "preferment_flour_weight", "meaning": { "en": "flour weight contained inside the poolish/biga/levain", "de": "im Poolish/Biga/Anstellgut enthaltenes Mehlgewicht", "es": "peso de harina contenido dentro del poolish/biga/levain", "fr": "poids de farine contenu dans le poolish/biga/levain" } },
-      { "sym": "total_flour_weight", "meaning": { "en": "total flour weight across the whole formula, preferment included", "de": "Gesamtmehlgewicht der gesamten Formel, Vorteig eingerechnet", "es": "peso total de harina en toda la formula, incluido el prefermento", "fr": "poids total de farine dans toute la formule, preferment inclus" } },
-      { "sym": "prefermented_flour_pct", "meaning": { "en": "share of total flour that ferments in the preferment before final mixing", "de": "Anteil des Gesamtmehls, der vor dem endgueltigen Mischen im Vorteig fermentiert", "es": "proporcion de la harina total que fermenta en el prefermento antes del mezclado final", "fr": "part de la farine totale qui fermente dans le preferment avant le petrissage final" } }
+      {
+        "sym": "preferment_flour_weight",
+        "meaning": {
+          "en": "flour weight contained inside the poolish/biga/levain",
+          "de": "im Poolish/Biga/Anstellgut enthaltenes Mehlgewicht",
+          "es": "peso de harina contenido dentro del poolish/biga/levain",
+          "fr": "poids de farine contenu dans le poolish/biga/levain"
+        }
+      },
+      {
+        "sym": "total_flour_weight",
+        "meaning": {
+          "en": "total flour weight across the whole formula, preferment included",
+          "de": "Gesamtmehlgewicht der gesamten Formel, Vorteig eingerechnet",
+          "es": "peso total de harina en toda la fórmula, incluido el prefermento",
+          "fr": "poids total de farine dans toute la formule, preferment inclus"
+        }
+      },
+      {
+        "sym": "prefermented_flour_pct",
+        "meaning": {
+          "en": "share of total flour that ferments in the preferment before final mixing",
+          "de": "Anteil des Gesamtmehls, der vor dem endgültigen Mischen im Vorteig fermentiert",
+          "es": "proporción de la harina total que fermenta en el prefermento antes del mezclado final",
+          "fr": "part de la farine totale qui fermente dans le preferment avant le pétrissage final"
+        }
+      }
     ],
     "example": "King Arthur's professional ciabatta: 3kg biga flour + 7kg final-dough flour = 10kg total flour, so prefermented_flour_pct = 3/10*100 = 30%, with the biga fermented about 16h before final mixing. Poolish for baguette commonly runs 20-40% of total flour; levain for country sourdough commonly runs 15-25%, occasionally 10-50%; mixed rye formulas often run 30-50% or more because rye needs acid to bake well, not just gluten.",
     "sources": [
@@ -248,16 +584,40 @@
     "id": "salt-by-flour-weight",
     "name": {
       "en": "Salt by flour weight",
-      "de": "Salz im Verhaeltnis zum Mehlgewicht",
-      "es": "Sal segun el peso de la harina",
+      "de": "Salz im Verhältnis zum Mehlgewicht",
+      "es": "Sal según el peso de la harina",
       "fr": "Sel selon le poids de la farine"
     },
     "category": "salt",
     "expression": "salt_weight = flour_weight * (salt_pct / 100), salt_pct typically 1.8 to 2.2",
     "variables": [
-      { "sym": "flour_weight", "meaning": { "en": "total flour weight, the baker's-percentage baseline", "de": "Gesamtmehlgewicht, die Bezugsgroesse der Bäckerprozentrechnung", "es": "peso total de harina, la base del porcentaje panadero", "fr": "poids total de farine, la base du pourcentage boulanger" } },
-      { "sym": "salt_pct", "meaning": { "en": "salt weight as a percentage of total flour weight", "de": "Salzgewicht als Prozentsatz des Gesamtmehlgewichts", "es": "peso de sal como porcentaje del peso total de harina", "fr": "poids de sel en pourcentage du poids total de farine" } },
-      { "sym": "salt_weight", "meaning": { "en": "the actual salt weight to add", "de": "das tatsaechlich zuzugebende Salzgewicht", "es": "el peso real de sal a anadir", "fr": "le poids de sel reel a ajouter" } }
+      {
+        "sym": "flour_weight",
+        "meaning": {
+          "en": "total flour weight, the baker's-percentage baseline",
+          "de": "Gesamtmehlgewicht, die Bezugsgröße der Bäckerprozentrechnung",
+          "es": "peso total de harina, la base del porcentaje panadero",
+          "fr": "poids total de farine, la base du pourcentage boulanger"
+        }
+      },
+      {
+        "sym": "salt_pct",
+        "meaning": {
+          "en": "salt weight as a percentage of total flour weight",
+          "de": "Salzgewicht als Prozentsatz des Gesamtmehlgewichts",
+          "es": "peso de sal como porcentaje del peso total de harina",
+          "fr": "poids de sel en pourcentage du poids total de farine"
+        }
+      },
+      {
+        "sym": "salt_weight",
+        "meaning": {
+          "en": "the actual salt weight to add",
+          "de": "das tatsächlich zuzugebende Salzgewicht",
+          "es": "el peso real de sal a añadir",
+          "fr": "le poids de sel réel à ajouter"
+        }
+      }
     ],
     "example": "1000g total flour at 2% salt: salt_weight = 1000*(2/100) = 20g. Named formulas cluster tightly: Hamelman runs 1.8-2%, Robertson about 2%, Forkish 2.1-2.2%. Below about 1.5% the dough ferments faster and tastes flat; above about 2.5% both yeast activity and gluten strength suffer.",
     "sources": [
@@ -270,15 +630,39 @@
     "name": {
       "en": "Dough weight from pan volume",
       "de": "Teiggewicht aus dem Formvolumen",
-      "es": "Peso de la masa segun el volumen del molde",
-      "fr": "Poids de pate selon le volume du moule"
+      "es": "Peso de la masa según el volumen del molde",
+      "fr": "Poids de pâte selon le volume du moule"
     },
     "category": "scaling",
     "expression": "dough_weight_g = pan_volume_cm3 * density_factor, density_factor disagrees by source (~0.25 g/cm3 low-density model vs ~0.56-0.60 g/cm3 magic-number model)",
     "variables": [
-      { "sym": "pan_volume_cm3", "meaning": { "en": "usable pan/tin volume in cubic centimeters (1 cm3 = 1 mL)", "de": "nutzbares Form-/Kastenvolumen in Kubikzentimetern (1 cm3 = 1 mL)", "es": "volumen util del molde en centimetros cubicos (1 cm3 = 1 mL)", "fr": "volume utile du moule en centimetres cubes (1 cm3 = 1 mL)" } },
-      { "sym": "density_factor", "meaning": { "en": "grams of raw dough per cm3 of pan volume; sources disagree substantially on this constant", "de": "Gramm Rohteig pro cm3 Formvolumen; die Quellen widersprechen sich bei dieser Konstante deutlich", "es": "gramos de masa cruda por cm3 de volumen del molde; las fuentes discrepan sustancialmente en esta constante", "fr": "grammes de pate crue par cm3 de volume du moule; les sources divergent sensiblement sur cette constante" } },
-      { "sym": "dough_weight_g", "meaning": { "en": "raw dough weight to scale into the pan, in grams", "de": "in die Form einzuwiegendes Rohteiggewicht in Gramm", "es": "peso de masa cruda a pesar para el molde, en gramos", "fr": "poids de pate crue a peser pour le moule, en grammes" } }
+      {
+        "sym": "pan_volume_cm3",
+        "meaning": {
+          "en": "usable pan/tin volume in cubic centimeters (1 cm3 = 1 mL)",
+          "de": "nutzbares Form-/Kastenvolumen in Kubikzentimetern (1 cm3 = 1 mL)",
+          "es": "volumen útil del molde en centímetros cúbicos (1 cm3 = 1 mL)",
+          "fr": "volume utile du moule en centimètres cubes (1 cm3 = 1 mL)"
+        }
+      },
+      {
+        "sym": "density_factor",
+        "meaning": {
+          "en": "grams of raw dough per cm3 of pan volume; sources disagree substantially on this constant",
+          "de": "Gramm Rohteig pro cm3 Formvolumen; die Quellen widersprechen sich bei dieser Konstante deutlich",
+          "es": "gramos de masa cruda por cm3 de volumen del molde; las fuentes discrepan sustancialmente en esta constante",
+          "fr": "grammes de pâte crue par cm3 de volume du moule; les sources divergent sensiblement sur cette constante"
+        }
+      },
+      {
+        "sym": "dough_weight_g",
+        "meaning": {
+          "en": "raw dough weight to scale into the pan, in grams",
+          "de": "in die Form einzuwiegendes Rohteiggewicht in Gramm",
+          "es": "peso de masa cruda a pesar para el molde, en gramos",
+          "fr": "poids de pâte crue à peser pour le moule, en grammes"
+        }
+      }
     ],
     "example": "A 2400 cm3 (mL) pan: princessbamboo.com's 4:1 volume:weight rule gives about 2400/4 = 600g dough (the author's actual loaf used 580g). Bake With Jack's white-bread 'magic number' method instead computes density_factor = 1/1.78 = 0.562 g/cm3, giving 2400*0.562 = 1349g for the same pan, over twice as much. The Pantry Mama's real pan-size chart (e.g. a 9.25x5.25x2.75in open pan at 800g) sits closer to the lower figure. Bake With Jack's magic numbers also vary by flour: 1.78 white, 1.71 half-wholemeal, 1.66 wholemeal.",
     "sources": [
@@ -291,17 +675,49 @@
     "id": "total-dough-from-piece-count",
     "name": {
       "en": "Total dough weight from piece count",
-      "de": "Gesamtteiggewicht aus der Stueckzahl",
-      "es": "Peso total de masa segun el numero de piezas",
-      "fr": "Poids total de pate selon le nombre de pieces"
+      "de": "Gesamtteiggewicht aus der Stückzahl",
+      "es": "Peso total de masa según el número de piezas",
+      "fr": "Poids total de pâte selon le nombre de pièces"
     },
     "category": "scaling",
     "expression": "total_dough_weight = piece_count * piece_weight + bench_allowance; flour_weight = total_dough_weight / (sum_of_all_pcts / 100)",
     "variables": [
-      { "sym": "piece_count", "meaning": { "en": "number of finished dough pieces (loaves/rolls) wanted", "de": "gewuenschte Anzahl fertiger Teigstuecke (Brote/Broetchen)", "es": "numero de piezas de masa terminadas deseadas (panes/bollos)", "fr": "nombre de pieces de pate finies souhaitees (pains/petits pains)" } },
-      { "sym": "piece_weight", "meaning": { "en": "target weight of each dough piece", "de": "Zielgewicht je Teigstueck", "es": "peso objetivo de cada pieza de masa", "fr": "poids cible de chaque piece de pate" } },
-      { "sym": "bench_allowance", "meaning": { "en": "small extra weight added to cover scaling/rounding/trim loss", "de": "kleiner Gewichtszuschlag zum Ausgleich von Abwaage-, Rundungs- und Verschnittverlust", "es": "peso adicional pequeno para cubrir la merma de pesado, redondeo y recorte", "fr": "leger supplement de poids pour couvrir les pertes de pesee, d'arrondi et de parage" } },
-      { "sym": "sum_of_all_pcts", "meaning": { "en": "sum of every ingredient's baker's percentage, including flour's own 100", "de": "Summe aller Bäckerprozente saemtlicher Zutaten, einschliesslich der 100 des Mehls selbst", "es": "suma de los porcentajes panaderos de todos los ingredientes, incluido el 100 de la propia harina", "fr": "somme des pourcentages boulangers de tous les ingredients, y compris les 100 de la farine elle-meme" } }
+      {
+        "sym": "piece_count",
+        "meaning": {
+          "en": "number of finished dough pieces (loaves/rolls) wanted",
+          "de": "gewünschte Anzahl fertiger Teigstücke (Brote/Brötchen)",
+          "es": "número de piezas de masa terminadas deseadas (panes/bollos)",
+          "fr": "nombre de pièces de pâte finies souhaitées (pains/petits pains)"
+        }
+      },
+      {
+        "sym": "piece_weight",
+        "meaning": {
+          "en": "target weight of each dough piece",
+          "de": "Zielgewicht je Teigstück",
+          "es": "peso objetivo de cada pieza de masa",
+          "fr": "poids cible de chaque pièce de pâte"
+        }
+      },
+      {
+        "sym": "bench_allowance",
+        "meaning": {
+          "en": "small extra weight added to cover scaling/rounding/trim loss",
+          "de": "kleiner Gewichtszuschlag zum Ausgleich von Abwaage-, Rundungs- und Verschnittverlust",
+          "es": "peso adicional pequeño para cubrir la merma de pesado, redondeo y recorte",
+          "fr": "léger supplément de poids pour couvrir les pertes de pesée, d'arrondi et de parage"
+        }
+      },
+      {
+        "sym": "sum_of_all_pcts",
+        "meaning": {
+          "en": "sum of every ingredient's baker's percentage, including flour's own 100",
+          "de": "Summe aller Bäckerprozente sämtlicher Zutaten, einschließlich der 100 des Mehls selbst",
+          "es": "suma de los porcentajes panaderos de todos los ingredientes, incluido el 100 de la propia harina",
+          "fr": "somme des pourcentages boulangers de tous les ingrédients, y compris les 100 de la farine elle-même"
+        }
+      }
     ],
     "example": "1 loaf (950g) + 4 rolls (80g each) = 1270g, plus a 10g bench/rounding allowance = 1280g target dough. If a base recipe yields 961g dough from 570g flour, the scaling factor is 1280/961 = 1.33, so new flour weight = 570*1.33 = 758g, and every other ingredient scales by the same 1.33 factor.",
     "sources": [
@@ -314,15 +730,39 @@
     "name": {
       "en": "Scaling weight from bake loss",
       "de": "Einwaage aus dem Backverlust",
-      "es": "Peso de dosificacion segun la merma de coccion",
-      "fr": "Poids de pesee selon la perte a la cuisson"
+      "es": "Peso de dosificación según la merma de cocción",
+      "fr": "Poids de pesée selon la perte à la cuisson"
     },
     "category": "scaling",
     "expression": "scaling_weight = target_baked_weight / (1 - bake_loss_pct/100)",
     "variables": [
-      { "sym": "target_baked_weight", "meaning": { "en": "the finished, baked and cooled weight wanted for one piece", "de": "das gewuenschte fertige, gebackene und ausgekuehlte Gewicht eines Stuecks", "es": "el peso final horneado y enfriado deseado para una pieza", "fr": "le poids final cuit et refroidi souhaite pour une piece" } },
-      { "sym": "bake_loss_pct", "meaning": { "en": "percentage weight lost to evaporation during proofing, baking, and cooling", "de": "prozentualer Gewichtsverlust durch Verdunstung waehrend Gare, Backen und Auskuehlen", "es": "porcentaje de peso perdido por evaporacion durante el fermentado, horneado y enfriado", "fr": "pourcentage de poids perdu par evaporation pendant la pousse, la cuisson et le refroidissement" } },
-      { "sym": "scaling_weight", "meaning": { "en": "the raw dough weight to portion out before baking", "de": "das vor dem Backen abzuwiegende Rohteiggewicht", "es": "el peso de masa cruda a porcionar antes de hornear", "fr": "le poids de pate crue a peser avant la cuisson" } }
+      {
+        "sym": "target_baked_weight",
+        "meaning": {
+          "en": "the finished, baked and cooled weight wanted for one piece",
+          "de": "das gewünschte fertige, gebackene und ausgekühlte Gewicht eines Stücks",
+          "es": "el peso final horneado y enfriado deseado para una pieza",
+          "fr": "le poids final cuit et refroidi souhaité pour une pièce"
+        }
+      },
+      {
+        "sym": "bake_loss_pct",
+        "meaning": {
+          "en": "percentage weight lost to evaporation during proofing, baking, and cooling",
+          "de": "prozentualer Gewichtsverlust durch Verdunstung während Gare, Backen und Auskühlen",
+          "es": "porcentaje de peso perdido por evaporación durante el fermentado, horneado y enfriado",
+          "fr": "pourcentage de poids perdu par évaporation pendant la pousse, la cuisson et le refroidissement"
+        }
+      },
+      {
+        "sym": "scaling_weight",
+        "meaning": {
+          "en": "the raw dough weight to portion out before baking",
+          "de": "das vor dem Backen abzuwiegende Rohteiggewicht",
+          "es": "el peso de masa cruda a porcionar antes de hornear",
+          "fr": "le poids de pâte crue à peser avant la cuisson"
+        }
+      }
     ],
     "example": "A finished 800g sandwich loaf that loses 10-12% of its weight during proofing and baking needs scaling_weight = 800/(1-0.10) = 889g to 800/(1-0.12) = 909g, matching the commonly cited 890-900g practical range.",
     "sources": [
