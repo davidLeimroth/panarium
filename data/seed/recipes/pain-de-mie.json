@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national",
-    "note": "France's answer to English-style tin bread, ubiquitous in French kitchens for croque-monsieur and toast."
+    "region": {
+      "en": "national"
+    },
+    "note": {
+      "en": "France's answer to English-style tin bread, ubiquitous in French kitchens for croque-monsieur and toast."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -51,7 +55,9 @@
     {
       "key": "butter",
       "grams": 30,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "key": "sugar",
@@ -64,13 +70,17 @@
     {
       "key": "instant-yeast",
       "grams": 8,
-      "note": "dry baker's yeast"
+      "note": {
+        "en": "dry baker's yeast"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 750,
-    "shape": "22x10x10cm lidded tin loaf"
+    "shape": {
+      "en": "22x10x10cm lidded tin loaf"
+    }
   },
   "time": {
     "totalMin": 230,
@@ -110,7 +120,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "Slices and freezes exceptionally well for toast throughout the week."
+    "note": {
+      "en": "Slices and freezes exceptionally well for toast throughout the week."
+    }
   },
   "equipment": [
     "pullman-pan"

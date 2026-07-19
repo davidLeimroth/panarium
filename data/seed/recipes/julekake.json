@@ -22,7 +22,9 @@
   },
   "origin": {
     "country": "NO",
-    "note": "Also spelled julekage or julebrød; close cousins are claimed by Sweden and Denmark. Traditionally served as kaffemat, a coffee-table treat, throughout the Christmas season."
+    "note": {
+      "en": "Also spelled julekage or julebrød; close cousins are claimed by Sweden and Denmark. Traditionally served as kaffemat, a coffee-table treat, throughout the Christmas season."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -55,7 +57,9 @@
     {
       "key": "butter",
       "grams": 150,
-      "note": "cold, cut into pieces"
+      "note": {
+        "en": "cold, cut into pieces"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -72,7 +76,9 @@
     {
       "key": "cardamom",
       "grams": 4,
-      "note": "freshly ground"
+      "note": {
+        "en": "freshly ground"
+      }
     },
     {
       "key": "raisins",
@@ -81,13 +87,17 @@
     {
       "key": "candied-citrus",
       "grams": 100,
-      "note": "finely diced candied peel (sukat)"
+      "note": {
+        "en": "finely diced candied peel (sukat)"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 870,
-    "shape": "round loaf"
+    "shape": {
+      "en": "round loaf"
+    }
   },
   "time": {
     "totalMin": 175,
@@ -127,7 +137,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Stays tender a few days wrapped; delicious toasted with butter once a day or two old."
+    "note": {
+      "en": "Stays tender a few days wrapped; delicious toasted with butter once a day or two old."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -267,7 +279,9 @@
     "url": "https://northwildkitchen.com/julekake-norwegian-christmas-bread/",
     "site": "North Wild Kitchen",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt, not given by this source, was set to about 1.8% of the flour weight, matching the proportion used in a second Norwegian julekake recipe; all other ratios are this source's own."
+    "adaptation": {
+      "en": "Salt, not given by this source, was set to about 1.8% of the flour weight, matching the proportion used in a second Norwegian julekake recipe; all other ratios are this source's own."
+    }
   },
   "tags": [
     "christmas",

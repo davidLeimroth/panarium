@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "YE",
-    "region": "Yemenite Jewish communities, now centered in Israel",
-    "note": "Carried to Israel by Yemenite Jewish immigrants from the 1950s onward; today it is baked far more in Israeli homes and bakeries than in Yemen itself."
+    "region": {
+      "en": "Yemenite Jewish communities, now centered in Israel"
+    },
+    "note": {
+      "en": "Carried to Israel by Yemenite Jewish immigrants from the 1950s onward; today it is baked far more in Israeli homes and bakeries than in Yemen itself."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -45,7 +49,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 450,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
@@ -66,7 +72,9 @@
     {
       "key": "egg",
       "grams": 80,
-      "note": "1 whole egg plus 1 egg white"
+      "note": {
+        "en": "1 whole egg plus 1 egg white"
+      }
     },
     {
       "key": "vegetable-oil",
@@ -75,7 +83,9 @@
     {
       "key": "butter",
       "grams": 57,
-      "note": "softened, for laminating between folds"
+      "note": {
+        "en": "softened, for laminating between folds"
+      }
     },
     {
       "label": {
@@ -90,13 +100,17 @@
     {
       "key": "egg-yolk",
       "grams": 17,
-      "note": "for the egg wash before baking"
+      "note": {
+        "en": "for the egg wash before baking"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 75,
-    "shape": "pull-apart coil baked in a round pan"
+    "shape": {
+      "en": "pull-apart coil baked in a round pan"
+    }
   },
   "time": {
     "totalMin": 240,
@@ -136,7 +150,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best warm the day it is baked; wrap leftovers and reheat gently in foil to soften the layers again."
+    "note": {
+      "en": "Best warm the day it is baked; wrap leftovers and reheat gently in foil to soften the layers again."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -260,7 +276,9 @@
     "url": "https://breadtopia.com/kubaneh-jewish-yemeni-bread/",
     "site": "Breadtopia",
     "retrieved": "2026-07-18",
-    "adaptation": "Used the site's plain-yeast version rather than its sourdough option; egg and nigella seed weights converted from count/tablespoons to grams."
+    "adaptation": {
+      "en": "Used the site's plain-yeast version rather than its sourdough option; egg and nigella seed weights converted from count/tablespoons to grams."
+    }
   },
   "tags": [
     "shabbat",

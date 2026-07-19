@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Tuscany",
-    "note": "DOP since 2016. Traditionally salt-free (pane sciocco/sciapo) so it can carry Tuscany's salty cured meats and soups without competing."
+    "region": {
+      "en": "Tuscany"
+    },
+    "note": {
+      "en": "DOP since 2016. Traditionally salt-free (pane sciocco/sciapo) so it can carry Tuscany's salty cured meats and soups without competing."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -48,12 +52,16 @@
     {
       "key": "flour:wheat-whole",
       "grams": 350,
-      "note": "farina tipo 2, a rustic semi-wholemeal wheat flour"
+      "note": {
+        "en": "farina tipo 2, a rustic semi-wholemeal wheat flour"
+      }
     },
     {
       "key": "flour:spelt-whole",
       "grams": 150,
-      "note": "whole spelt flour"
+      "note": {
+        "en": "whole spelt flour"
+      }
     },
     {
       "key": "water",
@@ -62,12 +70,16 @@
     {
       "key": "sourdough-starter",
       "grams": 150,
-      "note": "pasta madre, refreshed the day before"
+      "note": {
+        "en": "pasta madre, refreshed the day before"
+      }
     },
     {
       "key": "malt-syrup",
       "grams": 2.5,
-      "note": "diastatic malt powder"
+      "note": {
+        "en": "diastatic malt powder"
+      }
     },
     {
       "key": "olive-oil",
@@ -77,7 +89,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1037,
-    "shape": "oval hearth loaf (filone)"
+    "shape": {
+      "en": "oval hearth loaf (filone)"
+    }
   },
   "time": {
     "totalMin": 302,
@@ -116,7 +130,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "Made to be bland on purpose so it's a foil for Tuscany's salty cured meats, salt-forward soups and olive oil, not a bread meant to be eaten alone."
+    "note": {
+      "en": "Made to be bland on purpose so it's a foil for Tuscany's salty cured meats, salt-forward soups and olive oil, not a bread meant to be eaten alone."
+    }
   },
   "equipment": [
     "banneton",
@@ -224,7 +240,9 @@
     "url": "https://www.lievitonaturale.org/pane_toscano_bozza.php",
     "site": "Lievito Naturale",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams as published; the starter is assumed at roughly 50% hydration (typical Tuscan pasta madre) to split its flour/water into total-flour baker's percentages. Zero salt is original, not an omission."
+    "adaptation": {
+      "en": "Grams as published; the starter is assumed at roughly 50% hydration (typical Tuscan pasta madre) to split its flour/water into total-flour baker's percentages. Zero salt is original, not an omission."
+    }
   },
   "tags": [
     "dop",

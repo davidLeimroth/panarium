@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "SN",
-    "region": "Gambia, Mauritania and Guinea",
-    "note": "Adapted from the French colonial baguette but stretched with millet, maize and cowpea flour and baked in wood-fired mud-brick ovens; heavier and more filling than its French ancestor."
+    "region": {
+      "en": "Gambia, Mauritania and Guinea"
+    },
+    "note": {
+      "en": "Adapted from the French colonial baguette but stretched with millet, maize and cowpea flour and baked in wood-fired mud-brick ovens; heavier and more filling than its French ancestor."
+    }
   },
   "leaven": "yeast",
   "family": "baguette",
@@ -62,17 +66,23 @@
     {
       "key": "flour:corn",
       "grams": 210,
-      "note": "yellow corn flour"
+      "note": {
+        "en": "yellow corn flour"
+      }
     },
     {
       "key": "flour:chickpea",
       "grams": 42,
-      "note": "cowpea (black-eyed pea) flour; chickpea is the closest taxonomy match"
+      "note": {
+        "en": "cowpea (black-eyed pea) flour; chickpea is the closest taxonomy match"
+      }
     },
     {
       "key": "water",
       "grams": 356,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -86,7 +96,9 @@
   "yield": {
     "count": 3,
     "pieceGrams": 251,
-    "shape": "baguette loaf"
+    "shape": {
+      "en": "baguette loaf"
+    }
   },
   "time": {
     "totalMin": 140,
@@ -126,7 +138,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day it is baked; the dense multigrain crumb keeps a little longer than plain wheat bread and toasts well after a day or two."
+    "note": {
+      "en": "Best the day it is baked; the dense multigrain crumb keeps a little longer than plain wheat bread and toasts well after a day or two."
+    }
   },
   "equipment": [
     "sheet-pan",
@@ -234,7 +248,9 @@
     "url": "https://www.196flavors.com/gambia-tapalapa/",
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup quantities for millet, corn and cowpea flours converted to grams using estimated densities; cowpea flour mapped to the taxonomy's chickpea type as the closest legume-flour match."
+    "adaptation": {
+      "en": "Cup quantities for millet, corn and cowpea flours converted to grams using estimated densities; cowpea flour mapped to the taxonomy's chickpea type as the closest legume-flour match."
+    }
   },
   "tags": [
     "west-african",

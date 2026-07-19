@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Romagna (Emilia-Romagna)",
-    "note": "EU-protected as a Protected Geographical Indication (PGI); popularized nationally by poet Giovanni Pascoli and as 1950s roadside street food."
+    "region": {
+      "en": "Romagna (Emilia-Romagna)"
+    },
+    "note": {
+      "en": "EU-protected as a Protected Geographical Indication (PGI); popularized nationally by poet Giovanni Pascoli and as 1950s roadside street food."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -46,7 +50,9 @@
     {
       "key": "water",
       "grams": 220,
-      "note": "room temperature"
+      "note": {
+        "en": "room temperature"
+      }
     },
     {
       "key": "lard",
@@ -64,7 +70,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 135,
-    "shape": "thin round, 20-25 cm, 4-5mm thick"
+    "shape": {
+      "en": "thin round, 20-25 cm, 4-5mm thick"
+    }
   },
   "time": {
     "totalMin": 80,
@@ -103,7 +111,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fresh off the griddle, folded warm around a filling; keeps a day or two wrapped and reheats well on a dry pan. Freezes raw or cooked."
+    "note": {
+      "en": "Best fresh off the griddle, folded warm around a filling; keeps a day or two wrapped and reheats well on a dry pan. Freezes raw or cooked."
+    }
   },
   "equipment": [
     "griddle"
@@ -210,7 +220,9 @@
     "url": "https://www.recipesfromitaly.com/piadina-recipe-italian-flatbread/",
     "site": "Recipes from Italy",
     "retrieved": "2026-07-17",
-    "adaptation": "Lard version used (recipe offers oil or lard); piece weight recalculated from the full ingredient list's total dough weight, since the source's stated per-ball weight didn't match its own quantities."
+    "adaptation": {
+      "en": "Lard version used (recipe offers oil or lard); piece weight recalculated from the full ingredient list's total dough weight, since the source's stated per-ball weight didn't match its own quantities."
+    }
   },
   "tags": [
     "pgi",

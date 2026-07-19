@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "San Francisco, California",
-    "note": "Chad Robertson's Tartine Bakery formula, first published in 'Tartine Bread' (2010); a modern reinvention distinct from the French pain de campagne tradition it draws inspiration from."
+    "region": {
+      "en": "San Francisco, California"
+    },
+    "note": {
+      "en": "Chad Robertson's Tartine Bakery formula, first published in 'Tartine Bread' (2010); a modern reinvention distinct from the French pain de campagne tradition it draws inspiration from."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -45,7 +49,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 700,
-      "note": "unbleached all-purpose"
+      "note": {
+        "en": "unbleached all-purpose"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -58,7 +64,9 @@
     {
       "key": "sourdough-starter",
       "grams": 31,
-      "note": "mature, 100% hydration, to build the overnight leaven"
+      "note": {
+        "en": "mature, 100% hydration, to build the overnight leaven"
+      }
     },
     {
       "key": "salt",
@@ -68,7 +76,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 950,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 2295,
@@ -246,7 +256,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo, after Chad Robertson / Tartine Bread",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages recomputed to include the leaven's flour/water in the 100% flour base; the source, following Robertson's book, excludes the leaven from hydration."
+    "adaptation": {
+      "en": "Percentages recomputed to include the leaven's flour/water in the 100% flour base; the source, following Robertson's book, excludes the leaven from hydration."
+    }
   },
   "tags": [
     "tartine",

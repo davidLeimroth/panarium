@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Liguria (Genoa)",
-    "note": "Nearly identical to Provençal socca across the French border in Nice; both likely share a common Ligurian coastal ancestry."
+    "region": {
+      "en": "Liguria (Genoa)"
+    },
+    "note": {
+      "en": "Nearly identical to Provençal socca across the French border in Nice; both likely share a common Ligurian coastal ancestry."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -51,7 +55,9 @@
     {
       "key": "olive-oil",
       "grams": 64,
-      "note": "some in the batter, some to oil the pan"
+      "note": {
+        "en": "some in the batter, some to oil the pan"
+      }
     },
     {
       "key": "salt",
@@ -61,7 +67,9 @@
   "yield": {
     "count": 8,
     "pieceGrams": 158,
-    "shape": "thin round tart, 40 cm, cut into wedges"
+    "shape": {
+      "en": "thin round tart, 40 cm, cut into wedges"
+    }
   },
   "time": {
     "totalMin": 388,
@@ -99,7 +107,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": false,
-    "note": "Best eaten warm from the oven within the hour, crisp on top and custardy beneath; it turns rubbery once cold or reheated, and does not freeze well."
+    "note": {
+      "en": "Best eaten warm from the oven within the hour, crisp on top and custardy beneath; it turns rubbery once cold or reheated, and does not freeze well."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -206,7 +216,9 @@
     "url": "https://www.asmallkitcheningenoa.com/farinata-genoa-chickpea-tart/",
     "site": "A Small Kitchen in Genoa",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt quantity estimated at about 1% of flour weight since the source says 'salt to taste'; oil quantity kept as sourced for a 40 cm pan."
+    "adaptation": {
+      "en": "Salt quantity estimated at about 1% of flour weight since the source says 'salt to taste'; oil quantity kept as sourced for a 40 cm pan."
+    }
   },
   "tags": [
     "gluten-free",

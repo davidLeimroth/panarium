@@ -16,8 +16,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Altamura, Puglia (Apulia)",
-    "note": "Protected DOP since 2003; the disciplinare requires mostly local durum wheat varieties and a mature natural starter renewed at least three times before baking."
+    "region": {
+      "en": "Altamura, Puglia (Apulia)"
+    },
+    "note": {
+      "en": "Protected DOP since 2003; the disciplinare requires mostly local durum wheat varieties and a mature natural starter renewed at least three times before baking."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -37,7 +41,9 @@
     {
       "key": "flour:durum",
       "grams": 500,
-      "note": "semola rimacinata di grano duro"
+      "note": {
+        "en": "semola rimacinata di grano duro"
+      }
     },
     {
       "key": "water",
@@ -46,7 +52,9 @@
     {
       "key": "sourdough-starter",
       "grams": 100,
-      "note": "lievito madre; a stiff, mature durum starter renewed at least three times"
+      "note": {
+        "en": "lievito madre; a stiff, mature durum starter renewed at least three times"
+      }
     },
     {
       "key": "salt",
@@ -56,7 +64,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 900,
-    "shape": "large domed loaf with an overlapping folded cap"
+    "shape": {
+      "en": "large domed loaf with an overlapping folded cap"
+    }
   },
   "time": {
     "totalMin": 290,
@@ -97,7 +107,9 @@
   "keeping": {
     "freshDays": 7,
     "freezes": true,
-    "note": "Thick crust, durum semolina and a mature sourdough combine to keep this loaf genuinely good for a week, longer than almost any other Italian bread."
+    "note": {
+      "en": "Thick crust, durum semolina and a mature sourdough combine to keep this loaf genuinely good for a week, longer than almost any other Italian bread."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -205,7 +217,9 @@
     "url": "https://www.panealtamuradop.it/pane-dop/fasi-della-lavorazione/",
     "site": "Pane di Altamura DOP",
     "retrieved": "2026-07-17",
-    "adaptation": "Home-batch grams derived from the disciplinare's per-100kg ratios; lievito madre assumed at roughly 50% hydration (typical Apulian stiff starter) to compute total-flour percentages."
+    "adaptation": {
+      "en": "Home-batch grams derived from the disciplinare's per-100kg ratios; lievito madre assumed at roughly 50% hydration (typical Apulian stiff starter) to compute total-flour percentages."
+    }
   },
   "tags": [
     "dop",

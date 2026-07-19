@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Germany-wide",
-    "note": "The same everyday roll goes by different names regionally, Schrippe in Berlin, Wasserweck further west and south, Semmel in Bavaria and Austria."
+    "region": {
+      "en": "Germany-wide"
+    },
+    "note": {
+      "en": "The same everyday roll goes by different names regionally, Schrippe in Berlin, Wasserweck further west and south, Semmel in Bavaria and Austria."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -43,12 +47,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "wheat flour type 550"
+      "note": {
+        "en": "wheat flour type 550"
+      }
     },
     {
       "key": "water",
       "grams": 340,
-      "note": "~25°C"
+      "note": {
+        "en": "~25°C"
+      }
     },
     {
       "key": "salt",
@@ -66,7 +74,9 @@
   "yield": {
     "count": 8,
     "pieceGrams": 100,
-    "shape": "round rolls, single scored slash"
+    "shape": {
+      "en": "round rolls, single scored slash"
+    }
   },
   "time": {
     "totalMin": 1150,
@@ -105,7 +115,9 @@
   "keeping": {
     "freshDays": 1.5,
     "freezes": true,
-    "note": "Best the day they're baked; a quick blast in a hot oven revives them the next morning."
+    "note": {
+      "en": "Best the day they're baked; a quick blast in a hot oven revives them the next morning."
+    }
   },
   "equipment": [
     "baking-stone"

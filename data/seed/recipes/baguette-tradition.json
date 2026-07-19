@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national",
-    "note": "Legally defined since a 1993 decree: 'baguette de tradition française' may contain only wheat flour, water, salt and leavening, no additives, no freezing during production."
+    "region": {
+      "en": "national"
+    },
+    "note": {
+      "en": "Legally defined since a 1993 decree: 'baguette de tradition française' may contain only wheat flour, water, salt and leavening, no additives, no freezing during production."
+    }
   },
   "leaven": "hybrid",
   "family": "baguette",
@@ -43,7 +47,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "T65 tradition flour"
+      "note": {
+        "en": "T65 tradition flour"
+      }
     },
     {
       "key": "water",
@@ -52,7 +58,9 @@
     {
       "key": "levain",
       "grams": 100,
-      "note": "active liquid levain"
+      "note": {
+        "en": "active liquid levain"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -66,7 +74,9 @@
   "yield": {
     "count": 3,
     "pieceGrams": 260,
-    "shape": "long baguette"
+    "shape": {
+      "en": "long baguette"
+    }
   },
   "time": {
     "totalMin": 1150,
@@ -105,7 +115,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Famously fast to stale; best the day it's baked. Freeze and re-crisp in a hot oven if needed."
+    "note": {
+      "en": "Famously fast to stale; best the day it's baked. Freeze and re-crisp in a hot oven if needed."
+    }
   },
   "equipment": [
     "baking-stone",
@@ -229,7 +241,9 @@
     "url": "https://la-boite-a-pain.com/baguette-tradition-recette/",
     "site": "La boîte à pain",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages recomputed to include the levain's own flour and water in the baker's-percentage totals."
+    "adaptation": {
+      "en": "Percentages recomputed to include the levain's own flour and water in the baker's-percentage totals."
+    }
   },
   "tags": [
     "boulangerie",

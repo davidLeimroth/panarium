@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national",
-    "note": "The standard 'brown bread' of French boulangeries, distinct from the more rustic, often sourdough-leavened pain de campagne."
+    "region": {
+      "en": "national"
+    },
+    "note": {
+      "en": "The standard 'brown bread' of French boulangeries, distinct from the more rustic, often sourdough-leavened pain de campagne."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-whole",
       "grams": 500,
-      "note": "T150"
+      "note": {
+        "en": "T150"
+      }
     },
     {
       "key": "water",
@@ -60,7 +66,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 750,
-    "shape": "bâtard or boule"
+    "shape": {
+      "en": "bâtard or boule"
+    }
   },
   "time": {
     "totalMin": 190,
@@ -100,7 +108,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Slices and freezes well for toast during the week."
+    "note": {
+      "en": "Slices and freezes well for toast during the week."
+    }
   },
   "equipment": [
     "baking-stone"

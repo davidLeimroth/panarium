@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "American home baking, popularized through the 20th century",
-    "note": "Took off as a fast, yeast-free way to have fresh bread at home, especially valued when yeast was scarce or unreliable, such as during the Great Depression and wartime shortages."
+    "region": {
+      "en": "American home baking, popularized through the 20th century"
+    },
+    "note": {
+      "en": "Took off as a fast, yeast-free way to have fresh bread at home, especially valued when yeast was scarce or unreliable, such as during the Great Depression and wartime shortages."
+    }
   },
   "leaven": "chemical",
   "family": "quick",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 310,
-      "note": "or use self-rising flour and omit the baking powder and salt below"
+      "note": {
+        "en": "or use self-rising flour and omit the baking powder and salt below"
+      }
     },
     {
       "key": "baking-powder",
@@ -61,7 +67,9 @@
         "ro": "bere"
       },
       "grams": 340,
-      "note": "any style; lighter beers give a milder flavor, stouts and ales a stronger one"
+      "note": {
+        "en": "any style; lighter beers give a milder flavor, stouts and ales a stronger one"
+      }
     },
     {
       "key": "sugar",
@@ -70,13 +78,17 @@
     {
       "key": "butter",
       "grams": 57,
-      "note": "melted; most stirred into the batter, a little drizzled on top before baking"
+      "note": {
+        "en": "melted; most stirred into the batter, a little drizzled on top before baking"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 700,
-    "shape": "9 x 5 in loaf pan"
+    "shape": {
+      "en": "9 x 5 in loaf pan"
+    }
   },
   "time": {
     "totalMin": 78,
@@ -187,7 +199,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/classic-beer-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-18",
-    "adaptation": "Self-rising flour decomposed into plain flour plus an estimated baking powder and salt content, since exact proportions vary slightly by brand."
+    "adaptation": {
+      "en": "Self-rising flour decomposed into plain flour plus an estimated baking powder and salt content, since exact proportions vary slightly by brand."
+    }
   },
   "tags": [
     "quick-bread",

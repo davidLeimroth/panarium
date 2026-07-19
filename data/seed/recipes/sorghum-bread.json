@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern gluten-free home baking",
-    "note": "Sorghum is an ancient African staple grain, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique, distinct from sorghum's traditional use in flatbreads like Sudanese kisra."
+    "region": {
+      "en": "Modern gluten-free home baking"
+    },
+    "note": {
+      "en": "Sorghum is an ancient African staple grain, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique, distinct from sorghum's traditional use in flatbreads like Sudanese kisra."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -82,7 +86,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1000,
-    "shape": "9 x 5 in loaf pan"
+    "shape": {
+      "en": "9 x 5 in loaf pan"
+    }
   },
   "time": {
     "totalMin": 480,
@@ -120,7 +126,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Must cool completely, 4-5 hours, before slicing or the crumb turns gummy; a common trait of gluten-free psyllium loaves."
+    "note": {
+      "en": "Must cool completely, 4-5 hours, before slicing or the crumb turns gummy; a common trait of gluten-free psyllium loaves."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -243,7 +251,9 @@
     "url": "https://www.natashashome.com/sorghum-bread/",
     "site": "Natasha's Home",
     "retrieved": "2026-07-18",
-    "adaptation": "Salt recorded at the midpoint of the source's 10-12g range."
+    "adaptation": {
+      "en": "Salt recorded at the midpoint of the source's 10-12g range."
+    }
   },
   "tags": [
     "gluten-free",

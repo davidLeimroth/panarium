@@ -22,7 +22,9 @@
   },
   "origin": {
     "country": "LB",
-    "note": "A wet, poured dough related in technique to Italian focaccia; home bakers top it with za'atar, sesame or nigella, or send it out to a communal oven for baking."
+    "note": {
+      "en": "A wet, poured dough related in technique to Italian focaccia; home bakers top it with za'atar, sesame or nigella, or send it out to a communal oven for baking."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -48,7 +50,9 @@
     {
       "key": "water",
       "grams": 533,
-      "note": "warm, added gradually while beating"
+      "note": {
+        "en": "warm, added gradually while beating"
+      }
     },
     {
       "key": "sugar",
@@ -69,13 +73,17 @@
     {
       "key": "sesame-seeds",
       "grams": 15,
-      "note": "topping; nigella seeds or za'atar are common alternatives"
+      "note": {
+        "en": "topping; nigella seeds or za'atar are common alternatives"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 98,
-    "shape": "flat sheet, cut into pieces"
+    "shape": {
+      "en": "flat sheet, cut into pieces"
+    }
   },
   "time": {
     "totalMin": 220,
@@ -115,7 +123,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm the day it is baked; wrap and freeze extra pieces, then reheat in a hot oven."
+    "note": {
+      "en": "Best warm the day it is baked; wrap and freeze extra pieces, then reheat in a hot oven."
+    }
   },
   "equipment": [
     "sheet-pan",
@@ -223,7 +233,9 @@
     "url": "https://maureenabood.com/garlic-butter-glazed-talami-bread/",
     "site": "Maureen Abood",
     "retrieved": "2026-07-18",
-    "adaptation": "Used the base dough only; the source's garlic-butter finish (a modern variant) was replaced with the more traditional sesame/za'atar/nigella toppings the same site describes elsewhere."
+    "adaptation": {
+      "en": "Used the base dough only; the source's garlic-butter finish (a modern variant) was replaced with the more traditional sesame/za'atar/nigella toppings the same site describes elsewhere."
+    }
   },
   "tags": [
     "lebanese",

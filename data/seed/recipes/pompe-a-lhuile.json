@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Provence (Aix-en-Provence, Vallée des Baux)",
-    "note": "Said to descend from olive-mill workers enriching the flour used to mop up the last virgin oil from the press with sugar and citrus zest. Central to the Provençal 'treize desserts' Christmas Eve tradition."
+    "region": {
+      "en": "Provence (Aix-en-Provence, Vallée des Baux)"
+    },
+    "note": {
+      "en": "Said to descend from olive-mill workers enriching the flour used to mop up the last virgin oil from the press with sugar and citrus zest. Central to the Provençal 'treize desserts' Christmas Eve tradition."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -46,7 +50,9 @@
     {
       "key": "water",
       "grams": 220,
-      "note": "estimated from a source described only as 'a glass'"
+      "note": {
+        "en": "estimated from a source described only as 'a glass'"
+      }
     },
     {
       "key": "olive-oil",
@@ -76,7 +82,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 900,
-    "shape": "flat disc, about 30cm, slashed"
+    "shape": {
+      "en": "flat disc, about 30cm, slashed"
+    }
   },
   "time": {
     "totalMin": 340,
@@ -115,7 +123,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Traditionally torn by hand rather than cut, an old superstition for luck in the coming year."
+    "note": {
+      "en": "Traditionally torn by hand rather than cut, an old superstition for luck in the coming year."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -222,7 +232,9 @@
     "url": "https://www.aixenprovencetourism.com/gastronomie/recettes-de-cuisine-provencale/recette-de-la-pompe-a-huile/",
     "site": "Aix-en-Provence Tourisme",
     "retrieved": "2026-07-17",
-    "adaptation": "Source specified water only as 'a glass'; estimated at 220g."
+    "adaptation": {
+      "en": "Source specified water only as 'a glass'; estimated at 220g."
+    }
   },
   "tags": [
     "noel",

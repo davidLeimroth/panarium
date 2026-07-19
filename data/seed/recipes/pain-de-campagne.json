@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national, rural tradition",
-    "note": "A catch-all term rather than one fixed recipe; every region and every boulangerie has its own blend of country flour, rye and levain."
+    "region": {
+      "en": "national, rural tradition"
+    },
+    "note": {
+      "en": "A catch-all term rather than one fixed recipe; every region and every boulangerie has its own blend of country flour, rye and levain."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -46,12 +50,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 396,
-      "note": "T80 country flour"
+      "note": {
+        "en": "T80 country flour"
+      }
     },
     {
       "key": "flour:rye-whole",
       "grams": 45,
-      "note": "for the overnight levain"
+      "note": {
+        "en": "for the overnight levain"
+      }
     },
     {
       "key": "water",
@@ -60,7 +68,9 @@
     {
       "key": "sourdough-starter",
       "grams": 9,
-      "note": "active chef to build the levain"
+      "note": {
+        "en": "active chef to build the levain"
+      }
     },
     {
       "key": "salt",
@@ -70,7 +80,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 600,
-    "shape": "round boule"
+    "shape": {
+      "en": "round boule"
+    }
   },
   "time": {
     "totalMin": 1260,
@@ -109,7 +121,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Keeps noticeably better than a plain white loaf thanks to the levain and rye."
+    "note": {
+      "en": "Keeps noticeably better than a plain white loaf thanks to the levain and rye."
+    }
   },
   "equipment": [
     "banneton",
@@ -217,7 +231,9 @@
     "url": "https://tutorial.painaulevain.fr/knowledge-base/votre-premier-pain-de-campagne-au-levain/",
     "site": "Pain au Levain (tutorial)",
     "retrieved": "2026-07-17",
-    "adaptation": "Levain's own flour and water folded into the total baker's percentages per Panarium convention."
+    "adaptation": {
+      "en": "Levain's own flour and water folded into the total baker's percentages per Panarium convention."
+    }
   },
   "tags": [
     "levain",

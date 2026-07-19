@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "SE",
-    "region": "nationwide",
-    "note": "Historically tied to vörtbröd/Christmas baking, but eaten year-round as a breakfast and toasting loaf."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Historically tied to vörtbröd/Christmas baking, but eaten year-round as a breakfast and toasting loaf."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -56,12 +60,16 @@
     {
       "key": "flour:wheat-whole",
       "grams": 57,
-      "note": "golden/whole wheat flour"
+      "note": {
+        "en": "golden/whole wheat flour"
+      }
     },
     {
       "key": "flour:rye-whole",
       "grams": 53,
-      "note": "pumpernickel-style whole rye"
+      "note": {
+        "en": "pumpernickel-style whole rye"
+      }
     },
     {
       "key": "water",
@@ -74,7 +82,9 @@
     {
       "key": "molasses",
       "grams": 78,
-      "note": "or dark corn syrup"
+      "note": {
+        "en": "or dark corn syrup"
+      }
     },
     {
       "key": "butter",
@@ -99,7 +109,9 @@
     {
       "key": "orange-zest",
       "grams": 5,
-      "note": "or a few drops orange oil"
+      "note": {
+        "en": "or a few drops orange oil"
+      }
     },
     {
       "label": {
@@ -115,7 +127,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 750,
-    "shape": "round hearth loaf"
+    "shape": {
+      "en": "round hearth loaf"
+    }
   },
   "time": {
     "totalMin": 210,
@@ -155,7 +169,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Best toasted from day two onward; keep wrapped airtight."
+    "note": {
+      "en": "Best toasted from day two onward; keep wrapped airtight."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -278,7 +294,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/swedish-limpa-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Rounded gram weights from King Arthur's ranges; dark corn syrup generalized to molasses."
+    "adaptation": {
+      "en": "Rounded gram weights from King Arthur's ranges; dark corn syrup generalized to molasses."
+    }
   },
   "tags": [
     "christmas",

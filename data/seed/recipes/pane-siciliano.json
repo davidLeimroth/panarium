@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Sicily",
-    "note": "Traditionally coated in toasted sesame (giuggiulena in Sicilian dialect) and shaped into the wavy 'mafalda' curve."
+    "region": {
+      "en": "Sicily"
+    },
+    "note": {
+      "en": "Traditionally coated in toasted sesame (giuggiulena in Sicilian dialect) and shaped into the wavy 'mafalda' curve."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -43,7 +47,9 @@
     {
       "key": "flour:durum",
       "grams": 500,
-      "note": "semola rimacinata di grano duro"
+      "note": {
+        "en": "semola rimacinata di grano duro"
+      }
     },
     {
       "key": "water",
@@ -64,13 +70,17 @@
     {
       "key": "sesame-seeds",
       "grams": 15,
-      "note": "for the traditional coating, applied after dampening the shaped loaf"
+      "note": {
+        "en": "for the traditional coating, applied after dampening the shaped loaf"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 429,
-    "shape": "wavy S-shaped 'mafalda' loaf, coated in sesame"
+    "shape": {
+      "en": "wavy S-shaped 'mafalda' loaf, coated in sesame"
+    }
   },
   "time": {
     "totalMin": 480,
@@ -109,7 +119,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Durum crumb keeps it from staling as fast as soft-wheat bread; the sesame crust softens first."
+    "note": {
+      "en": "Durum crumb keeps it from staling as fast as soft-wheat bread; the sesame crust softens first."
+    }
   },
   "equipment": [
     "dutch-oven"
@@ -216,7 +228,9 @@
     "url": "https://www.alessiofarina.org/2020/11/06/pane-di-semola-rimacinata-siciliano/",
     "site": "Alessio Farina",
     "retrieved": "2026-07-17",
-    "adaptation": "Water averaged from the site's stated 300-350 ml range; the source flags its own process as experimental. Sesame coating and mafalda shaping reflect standard Sicilian practice."
+    "adaptation": {
+      "en": "Water averaged from the site's stated 300-350 ml range; the source flags its own process as experimental. Sesame coating and mafalda shaping reflect standard Sicilian practice."
+    }
   },
   "tags": [
     "sesame",

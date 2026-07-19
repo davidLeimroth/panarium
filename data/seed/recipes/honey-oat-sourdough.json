@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Home-baking tradition",
-    "note": "A home-baker favorite built on the classic honey-oatmeal loaf, updated with a wild-yeast levain in place of commercial yeast."
+    "region": {
+      "en": "Home-baking tradition"
+    },
+    "note": {
+      "en": "A home-baker favorite built on the classic honey-oatmeal loaf, updated with a wild-yeast levain in place of commercial yeast."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -40,12 +44,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "rolled-oats",
       "grams": 50,
-      "note": "plus extra for rolling the shaped loaf"
+      "note": {
+        "en": "plus extra for rolling the shaped loaf"
+      }
     },
     {
       "key": "water",
@@ -58,7 +66,9 @@
     {
       "key": "sourdough-starter",
       "grams": 50,
-      "note": "active, 100% hydration"
+      "note": {
+        "en": "active, 100% hydration"
+      }
     },
     {
       "key": "salt",
@@ -68,7 +78,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 880,
-    "shape": "bâtard"
+    "shape": {
+      "en": "bâtard"
+    }
   },
   "time": {
     "totalMin": 900,
@@ -231,7 +243,9 @@
     "url": "https://pantrymama.com/honey-oat-sourdough-bread/",
     "site": "The Pantry Mama",
     "retrieved": "2026-07-17",
-    "adaptation": "Rolled oats treated as a soaked inclusion rather than a structural flour, so they sit outside the 100% flour base used for hydration."
+    "adaptation": {
+      "en": "Rolled oats treated as a soaked inclusion rather than a structural flour, so they sit outside the 100% flour base used for hydration."
+    }
   },
   "tags": [
     "oat",

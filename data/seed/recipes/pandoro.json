@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Verona, Veneto",
-    "note": "Created in 1894 by Veronese pastry chef Domenico Melegatti, who patented the eight-point star mold; it's now Italy's second Christmas bread after panettone."
+    "region": {
+      "en": "Verona, Veneto"
+    },
+    "note": {
+      "en": "Created in 1894 by Veronese pastry chef Domenico Melegatti, who patented the eight-point star mold; it's now Italy's second Christmas bread after panettone."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -45,42 +49,58 @@
     {
       "key": "flour:wheat-white",
       "grams": 425,
-      "note": "95 g in the overnight starter, 330 g in the main dough"
+      "note": {
+        "en": "95 g in the overnight starter, 330 g in the main dough"
+      }
     },
     {
       "key": "water",
       "grams": 60,
-      "note": "lukewarm, for the starter"
+      "note": {
+        "en": "lukewarm, for the starter"
+      }
     },
     {
       "key": "active-dry-yeast",
       "grams": 11,
-      "note": "about 2 g in the starter, 9 g in the main dough"
+      "note": {
+        "en": "about 2 g in the starter, 9 g in the main dough"
+      }
     },
     {
       "key": "sugar",
       "grams": 104,
-      "note": "4 g in the starter, 100 g in the main dough"
+      "note": {
+        "en": "4 g in the starter, 100 g in the main dough"
+      }
     },
     {
       "key": "salt",
       "grams": 3,
-      "note": "in the starter only"
+      "note": {
+        "en": "in the starter only"
+      }
     },
     {
       "key": "milk",
       "grams": 120,
-      "note": "whole milk, lukewarm"
+      "note": {
+        "en": "whole milk, lukewarm"
+      }
     },
     {
       "key": "egg-yolk",
       "grams": 80,
-      "note": "about 4 large yolks"
+      "note": {
+        "en": "about 4 large yolks"
+      }
     },
     {
       "key": "butter",
       "grams": 170,
-      "note": "unsalted, softened, worked in gradually"
+      "note": {
+        "en": "unsalted, softened, worked in gradually"
+      }
     },
     {
       "key": "honey",
@@ -89,23 +109,31 @@
     {
       "key": "vanilla",
       "grams": 30,
-      "note": "vanilla bean paste, or 2 tsp extract"
+      "note": {
+        "en": "vanilla bean paste, or 2 tsp extract"
+      }
     },
     {
       "key": "lemon-zest",
       "grams": 3,
-      "note": "zest of 1 lemon"
+      "note": {
+        "en": "zest of 1 lemon"
+      }
     },
     {
       "key": "sugar",
       "grams": 30,
-      "note": "powdered sugar with vanilla, for dusting after baking"
+      "note": {
+        "en": "powdered sugar with vanilla, for dusting after baking"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 950,
-    "shape": "8-point star (Melegatti-style pandoro mold)"
+    "shape": {
+      "en": "8-point star (Melegatti-style pandoro mold)"
+    }
   },
   "time": {
     "totalMin": 1365,
@@ -145,7 +173,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Wrap airtight in foil or a bag; without candied fruit to hold moisture the crumb dries a little faster than panettone."
+    "note": {
+      "en": "Wrap airtight in foil or a bag; without candied fruit to hold moisture the crumb dries a little faster than panettone."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -269,7 +299,9 @@
     "url": "https://www.daringgourmet.com/pandoro-recipe/",
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-17",
-    "adaptation": "Paraphrased the starter-then-main-dough method; cross-checked the salt level and gradual butter incorporation against a second traditional recipe."
+    "adaptation": {
+      "en": "Paraphrased the starter-then-main-dough method; cross-checked the salt level and gradual butter incorporation against a second traditional recipe."
+    }
   },
   "tags": [
     "christmas",

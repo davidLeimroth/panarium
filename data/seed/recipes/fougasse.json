@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Provence",
-    "note": "Bakers once fired the first fougasse into the wood oven to test its heat before the real bake of the day, long before it became a dish in its own right."
+    "region": {
+      "en": "Provence"
+    },
+    "note": {
+      "en": "Bakers once fired the first fougasse into the wood oven to test its heat before the real bake of the day, long before it became a dish in its own right."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -67,7 +71,9 @@
         "ro": "măsline negre"
       },
       "grams": 100,
-      "note": "pitted, sliced"
+      "note": {
+        "en": "pitted, sliced"
+      }
     },
     {
       "label": {
@@ -83,7 +89,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 730,
-    "shape": "flat oval, leaf-slashed"
+    "shape": {
+      "en": "flat oval, leaf-slashed"
+    }
   },
   "time": {
     "totalMin": 160,
@@ -123,7 +131,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best warm the day it's baked; a hot oven for a few minutes revives it the next day."
+    "note": {
+      "en": "Best warm the day it's baked; a hot oven for a few minutes revives it the next day."
+    }
   },
   "equipment": [
     "sheet-pan"

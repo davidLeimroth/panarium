@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "RU",
-    "region": "nationwide",
-    "note": "Traditionally credited to nuns commemorating the 1812 Battle of Borodino; a GOST-standard formula since the Soviet era."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Traditionally credited to nuns commemorating the 1812 Battle of Borodino; a GOST-standard formula since the Soviet era."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -48,7 +52,9 @@
     {
       "key": "flour:rye-whole",
       "grams": 210,
-      "note": "180g wholemeal rye plus 30g diastatic red rye malt, split across scald, preferment and final dough"
+      "note": {
+        "en": "180g wholemeal rye plus 30g diastatic red rye malt, split across scald, preferment and final dough"
+      }
     },
     {
       "key": "flour:wheat-white",
@@ -57,7 +63,9 @@
     {
       "key": "water",
       "grams": 340,
-      "note": "split across scald, preferment and final dough"
+      "note": {
+        "en": "split across scald, preferment and final dough"
+      }
     },
     {
       "key": "instant-yeast",
@@ -74,12 +82,16 @@
     {
       "key": "coriander-seed",
       "grams": 8,
-      "note": "crushed, plus whole seed for topping"
+      "note": {
+        "en": "crushed, plus whole seed for topping"
+      }
     },
     {
       "key": "caraway",
       "grams": 8,
-      "note": "crushed"
+      "note": {
+        "en": "crushed"
+      }
     },
     {
       "key": "cocoa",
@@ -89,7 +101,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 650,
-    "shape": "pan loaf, domed top"
+    "shape": {
+      "en": "pan loaf, domed top"
+    }
   },
   "time": {
     "totalMin": 1170,
@@ -130,7 +144,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Wrap well; the coriander crust softens but the flavor deepens over the following days."
+    "note": {
+      "en": "Wrap well; the coriander crust softens but the flavor deepens over the following days."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -253,7 +269,9 @@
     "url": "https://www.chainbaker.com/borodinsky/",
     "site": "ChainBaker",
     "retrieved": "2026-07-17",
-    "adaptation": "Malted rye folded into the rye-whole total-flour percentage since the taxonomy has no separate malt-flour type; preferment here is yeasted rather than a wild rye sourdough as in historic versions."
+    "adaptation": {
+      "en": "Malted rye folded into the rye-whole total-flour percentage since the taxonomy has no separate malt-flour type; preferment here is yeasted rather than a wild rye sourdough as in historic versions."
+    }
   },
   "tags": [
     "russian-classic",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "Nationwide Mexico; a central-Mexico holiday custom above all",
-    "note": "Descends from Spain's Roscón de Reyes, brought over by Spanish colonizers; that tradition in turn traces to older European midwinter fruit-studded ring cakes with roots reaching back to Roman Saturnalia and Twelfth Night customs."
+    "region": {
+      "en": "Nationwide Mexico; a central-Mexico holiday custom above all"
+    },
+    "note": {
+      "en": "Descends from Spain's Roscón de Reyes, brought over by Spanish colonizers; that tradition in turn traces to older European midwinter fruit-studded ring cakes with roots reaching back to Roman Saturnalia and Twelfth Night customs."
+    }
   },
   "leaven": "yeast",
   "family": "ring",
@@ -48,32 +52,44 @@
     {
       "key": "instant-yeast",
       "grams": 9,
-      "note": "fast-action/instant yeast"
+      "note": {
+        "en": "fast-action/instant yeast"
+      }
     },
     {
       "key": "salt",
       "grams": 12,
-      "note": "fine salt"
+      "note": {
+        "en": "fine salt"
+      }
     },
     {
       "key": "sugar",
       "grams": 100,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "butter",
       "grams": 170,
-      "note": "softened, in the dough"
+      "note": {
+        "en": "softened, in the dough"
+      }
     },
     {
       "key": "egg",
       "grams": 200,
-      "note": "4 large eggs, in the dough"
+      "note": {
+        "en": "4 large eggs, in the dough"
+      }
     },
     {
       "key": "milk",
       "grams": 80,
-      "note": "whole milk"
+      "note": {
+        "en": "whole milk"
+      }
     },
     {
       "key": "orange-zest",
@@ -92,12 +108,16 @@
     {
       "key": "egg",
       "grams": 25,
-      "note": "beaten, for the egg wash"
+      "note": {
+        "en": "beaten, for the egg wash"
+      }
     },
     {
       "key": "sugar",
       "grams": 12,
-      "note": "sprinkled on top before baking"
+      "note": {
+        "en": "sprinkled on top before baking"
+      }
     },
     {
       "label": {
@@ -108,7 +128,9 @@
         "ro": "fâșii de pastă de guava candisată"
       },
       "grams": 90,
-      "note": "traditional crown decoration"
+      "note": {
+        "en": "traditional crown decoration"
+      }
     },
     {
       "label": {
@@ -119,13 +141,17 @@
         "ro": "cireșe glasate"
       },
       "grams": 40,
-      "note": "red and green, for decoration"
+      "note": {
+        "en": "red and green, for decoration"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1150,
-    "shape": "large ring, about 30 cm across, serves 10-12"
+    "shape": {
+      "en": "large ring, about 30 cm across, serves 10-12"
+    }
   },
   "time": {
     "totalMin": 250,
@@ -166,7 +192,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the day it's baked; wrap airtight and it stays soft about three days, or freeze the plain, undecorated ring."
+    "note": {
+      "en": "Best the day it's baked; wrap airtight and it stays soft about three days, or freeze the plain, undecorated ring."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -290,7 +318,9 @@
     "url": "https://savortheflavour.com/rosca-de-reyes/",
     "site": "Savor the Flavour",
     "retrieved": "2026-07-17",
-    "adaptation": "Converted from cup measurements. Kept the classic candied-fruit topping (guava paste, glacé cherries) but omitted the source's added shortbread decoration paste for a simpler, more traditional finish."
+    "adaptation": {
+      "en": "Converted from cup measurements. Kept the classic candied-fruit topping (guava paste, glacé cherries) but omitted the source's added shortbread decoration paste for a simpler, more traditional finish."
+    }
   },
   "tags": [
     "dia-de-reyes",

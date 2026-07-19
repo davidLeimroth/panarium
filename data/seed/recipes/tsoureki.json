@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "GR",
-    "region": "nationwide, with strong bakery traditions around Thessaloniki and the Peloponnese",
-    "note": "The three braided strands are widely read as a symbol of the Holy Trinity in Greek Orthodox tradition."
+    "region": {
+      "en": "nationwide, with strong bakery traditions around Thessaloniki and the Peloponnese"
+    },
+    "note": {
+      "en": "The three braided strands are widely read as a symbol of the Holy Trinity in Greek Orthodox tradition."
+    }
   },
   "leaven": "yeast",
   "family": "braid",
@@ -48,7 +52,9 @@
     {
       "key": "water",
       "grams": 110,
-      "note": "lukewarm, to bloom the yeast"
+      "note": {
+        "en": "lukewarm, to bloom the yeast"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -57,12 +63,16 @@
     {
       "key": "milk",
       "grams": 150,
-      "note": "room temperature"
+      "note": {
+        "en": "room temperature"
+      }
     },
     {
       "key": "butter",
       "grams": 135,
-      "note": "room temperature"
+      "note": {
+        "en": "room temperature"
+      }
     },
     {
       "key": "sugar",
@@ -71,12 +81,16 @@
     {
       "key": "egg",
       "grams": 200,
-      "note": "4 medium eggs, for the dough"
+      "note": {
+        "en": "4 medium eggs, for the dough"
+      }
     },
     {
       "key": "orange-zest",
       "grams": 5,
-      "note": "zest of 1 orange"
+      "note": {
+        "en": "zest of 1 orange"
+      }
     },
     {
       "label": {
@@ -97,28 +111,38 @@
         "ro": "mastic măcinat"
       },
       "grams": 3,
-      "note": "ground with a pinch of sugar so it doesn't turn gummy"
+      "note": {
+        "en": "ground with a pinch of sugar so it doesn't turn gummy"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "beaten with a little water, for the egg wash"
+      "note": {
+        "en": "beaten with a little water, for the egg wash"
+      }
     },
     {
       "key": "almonds",
       "grams": 15,
-      "note": "sliced, scattered on top before baking"
+      "note": {
+        "en": "sliced, scattered on top before baking"
+      }
     },
     {
       "key": "egg",
       "grams": 60,
-      "note": "one red-dyed hard-boiled egg tucked into the braid for Easter (festive variant)"
+      "note": {
+        "en": "one red-dyed hard-boiled egg tucked into the braid for Easter (festive variant)"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 870,
-    "shape": "three-strand braid"
+    "shape": {
+      "en": "three-strand braid"
+    }
   },
   "time": {
     "totalMin": 410,
@@ -158,7 +182,9 @@
   "keeping": {
     "freshDays": 5.5,
     "freezes": true,
-    "note": "Stays soft wrapped for the better part of a week; a light sugar-syrup brush after baking keeps it tender even longer."
+    "note": {
+      "en": "Stays soft wrapped for the better part of a week; a light sugar-syrup brush after baking keeps it tender even longer."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -282,7 +308,9 @@
     "url": "https://www.mygreekdish.com/recipe/tsoureki-recipe-traditional-greek-easter-bread/",
     "site": "My Greek Dish",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased; omitted salt to match the source's explicit no-salt formulation, and added the red-egg-in-the-braid detail as a noted festive variant beyond the base recipe."
+    "adaptation": {
+      "en": "Method paraphrased; omitted salt to match the source's explicit no-salt formulation, and added the red-egg-in-the-braid detail as a noted festive variant beyond the base recipe."
+    }
   },
   "tags": [
     "easter",

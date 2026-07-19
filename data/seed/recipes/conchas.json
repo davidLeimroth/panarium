@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "Mexico (nationwide)",
-    "note": "One of dozens of shapes sold from the same panadería tray; what defines a concha is the scored shell topping, not a fixed flavor - vanilla and chocolate are the two classics."
+    "region": {
+      "en": "Mexico (nationwide)"
+    },
+    "note": {
+      "en": "One of dozens of shapes sold from the same panadería tray; what defines a concha is the scored shell topping, not a fixed flavor - vanilla and chocolate are the two classics."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -45,22 +49,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 450,
-      "note": "all-purpose flour, for the dough"
+      "note": {
+        "en": "all-purpose flour, for the dough"
+      }
     },
     {
       "key": "milk",
       "grams": 140,
-      "note": "warmed, for the dough"
+      "note": {
+        "en": "warmed, for the dough"
+      }
     },
     {
       "key": "active-dry-yeast",
       "grams": 7,
-      "note": "about 1 packet"
+      "note": {
+        "en": "about 1 packet"
+      }
     },
     {
       "key": "sugar",
       "grams": 67,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "salt",
@@ -69,43 +81,59 @@
     {
       "key": "butter",
       "grams": 113,
-      "note": "melted, for the dough"
+      "note": {
+        "en": "melted, for the dough"
+      }
     },
     {
       "key": "egg",
       "grams": 150,
-      "note": "3 large eggs, beaten"
+      "note": {
+        "en": "3 large eggs, beaten"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 125,
-      "note": "for the shell topping paste; not counted toward the dough's flour percentage"
+      "note": {
+        "en": "for the shell topping paste; not counted toward the dough's flour percentage"
+      }
     },
     {
       "key": "sugar",
       "grams": 80,
-      "note": "powdered sugar, for the topping"
+      "note": {
+        "en": "powdered sugar, for the topping"
+      }
     },
     {
       "key": "butter",
       "grams": 113,
-      "note": "softened, for the topping"
+      "note": {
+        "en": "softened, for the topping"
+      }
     },
     {
       "key": "vanilla",
       "grams": 4,
-      "note": "flavors half the topping batch"
+      "note": {
+        "en": "flavors half the topping batch"
+      }
     },
     {
       "key": "cocoa",
       "grams": 6,
-      "note": "flavors the other half of the topping batch"
+      "note": {
+        "en": "flavors the other half of the topping batch"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 105,
-    "shape": "round bun with scored shell topping"
+    "shape": {
+      "en": "round bun with scored shell topping"
+    }
   },
   "time": {
     "totalMin": 300,
@@ -146,7 +174,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the day of baking with coffee or hot chocolate; the crumb still freezes and reheats well after the shell softens."
+    "note": {
+      "en": "Best the day of baking with coffee or hot chocolate; the crumb still freezes and reheats well after the shell softens."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -270,7 +300,9 @@
     "url": "https://www.isabeleats.com/conchas/",
     "site": "Isabel Eats",
     "retrieved": "2026-07-17",
-    "adaptation": "formula.* covers the dough only; the sugar-butter shell topping (split vanilla/cocoa) is itemized in ingredients but excluded from the flour total and hydration/sugar/fat percentages."
+    "adaptation": {
+      "en": "formula.* covers the dough only; the sugar-butter shell topping (split vanilla/cocoa) is itemized in ingredients but excluded from the flour total and hydration/sugar/fat percentages."
+    }
   },
   "tags": [
     "pan-dulce",

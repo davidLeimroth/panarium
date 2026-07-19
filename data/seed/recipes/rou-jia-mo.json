@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "CN",
-    "region": "Xi'an, Shaanxi province",
-    "note": "Recognized since 2016 as part of China's intangible cultural heritage; food historians date versions of it back over 2000 years."
+    "region": {
+      "en": "Xi'an, Shaanxi province"
+    },
+    "note": {
+      "en": "Recognized since 2016 as part of China's intangible cultural heritage; food historians date versions of it back over 2000 years."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -55,7 +59,9 @@
     {
       "key": "water",
       "grams": 266,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "label": {
@@ -66,13 +72,17 @@
         "ro": "piept de porc înăbușit, tocat (cu sos de soia, anason stelat și mirodenii)"
       },
       "grams": 300,
-      "note": "for the filling, braised separately"
+      "note": {
+        "en": "for the filling, braised separately"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 92,
-    "shape": "split flatbread, pan-cooked, stuffed with pork, ~10 cm"
+    "shape": {
+      "en": "split flatbread, pan-cooked, stuffed with pork, ~10 cm"
+    }
   },
   "time": {
     "totalMin": 155,
@@ -112,7 +122,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "The plain bread reheats well from frozen on a dry pan; assemble with hot filling just before eating for the best contrast of textures."
+    "note": {
+      "en": "The plain bread reheats well from frozen on a dry pan; assemble with hot filling just before eating for the best contrast of textures."
+    }
   },
   "equipment": [
     "skillet"
@@ -219,7 +231,9 @@
     "url": "https://thewoksoflife.com/chinese-hamburgers-rou-jia-mo/",
     "site": "The Woks of Life",
     "retrieved": "2026-07-18",
-    "adaptation": "Salt increased slightly from the source's scant 3/4 tsp; the multi-hour pork braise condensed to one estimated-weight filling line, matching this atlas's treatment of complex fillings (see baozi)."
+    "adaptation": {
+      "en": "Salt increased slightly from the source's scant 3/4 tsp; the multi-hour pork braise condensed to one estimated-weight filling line, matching this atlas's treatment of complex fillings (see baozi)."
+    }
   },
   "tags": [
     "street-food",

@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national",
-    "note": "The everyday, less-buttery cousin of brioche, sold in every French bakery for breakfast and school lunchboxes."
+    "region": {
+      "en": "national"
+    },
+    "note": {
+      "en": "The everyday, less-buttery cousin of brioche, sold in every French bakery for breakfast and school lunchboxes."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 300,
-      "note": "T55"
+      "note": {
+        "en": "T55"
+      }
     },
     {
       "key": "milk",
@@ -55,7 +61,9 @@
     {
       "key": "egg",
       "grams": 30,
-      "note": "1 egg white"
+      "note": {
+        "en": "1 egg white"
+      }
     },
     {
       "key": "sugar",
@@ -72,13 +80,17 @@
     {
       "key": "egg-yolk",
       "grams": 15,
-      "note": "for the egg wash"
+      "note": {
+        "en": "for the egg wash"
+      }
     }
   ],
   "yield": {
     "count": 9,
     "pieceGrams": 60,
-    "shape": "small oval roll"
+    "shape": {
+      "en": "small oval roll"
+    }
   },
   "time": {
     "totalMin": 180,
@@ -117,7 +129,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Small enriched rolls freeze and reheat very well."
+    "note": {
+      "en": "Small enriched rolls freeze and reheat very well."
+    }
   },
   "equipment": [
     "sheet-pan"

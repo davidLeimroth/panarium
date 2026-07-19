@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American home baking, using pre-milled sprouted flour",
-    "note": "Builds on the older European tradition of sprouted-grain breads, but uses commercially milled sprouted flour and commercial yeast rather than a traditional sourdough culture."
+    "region": {
+      "en": "Modern American home baking, using pre-milled sprouted flour"
+    },
+    "note": {
+      "en": "Builds on the older European tradition of sprouted-grain breads, but uses commercially milled sprouted flour and commercial yeast rather than a traditional sourdough culture."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -45,17 +49,23 @@
     {
       "key": "flour:wheat-whole",
       "grams": 570,
-      "note": "sprouted, dried and milled wholegrain wheat flour"
+      "note": {
+        "en": "sprouted, dried and milled wholegrain wheat flour"
+      }
     },
     {
       "key": "flour:rye-whole",
       "grams": 156,
-      "note": "sprouted, dried and milled wholegrain rye flour"
+      "note": {
+        "en": "sprouted, dried and milled wholegrain rye flour"
+      }
     },
     {
       "key": "water",
       "grams": 632,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "instant-yeast",
@@ -68,23 +78,31 @@
     {
       "key": "molasses",
       "grams": 43,
-      "note": "unsulphured"
+      "note": {
+        "en": "unsulphured"
+      }
     },
     {
       "key": "caraway",
       "grams": 7,
-      "note": "toasted"
+      "note": {
+        "en": "toasted"
+      }
     },
     {
       "key": "cocoa",
       "grams": 10,
-      "note": "optional, for a darker color, in the style of German pumpernickel"
+      "note": {
+        "en": "optional, for a darker color, in the style of German pumpernickel"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 646,
-    "shape": "4.5 x 8 in loaf pans"
+    "shape": {
+      "en": "4.5 x 8 in loaf pans"
+    }
   },
   "time": {
     "totalMin": 305,
@@ -123,7 +141,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Sprouted-grain flour reportedly gives a moister, longer-keeping crumb, though it still stales like any yeasted loaf within a few days."
+    "note": {
+      "en": "Sprouted-grain flour reportedly gives a moister, longer-keeping crumb, though it still stales like any yeasted loaf within a few days."
+    }
   },
   "equipment": [
     "loaf-pan"

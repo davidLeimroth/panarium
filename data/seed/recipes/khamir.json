@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "AE",
-    "region": "United Arab Emirates and the wider Gulf",
-    "note": "A teatime bread from Emirati and Gulf households, brushed with saffron milk and finished with sesame; often paired with cheese, honey or a savory filling like labneh or olives."
+    "region": {
+      "en": "United Arab Emirates and the wider Gulf"
+    },
+    "note": {
+      "en": "A teatime bread from Emirati and Gulf households, brushed with saffron milk and finished with sesame; often paired with cheese, honey or a savory filling like labneh or olives."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -45,7 +49,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 250,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "instant-yeast",
@@ -66,7 +72,9 @@
     {
       "key": "milk",
       "grams": 150,
-      "note": "warm, plus extra infused with saffron for brushing"
+      "note": {
+        "en": "warm, plus extra infused with saffron for brushing"
+      }
     },
     {
       "key": "olive-oil",
@@ -79,7 +87,9 @@
     {
       "key": "sesame-seeds",
       "grams": 18,
-      "note": "black and white mix, for topping"
+      "note": {
+        "en": "black and white mix, for topping"
+      }
     },
     {
       "label": {
@@ -90,13 +100,17 @@
         "ro": "fire de șofran"
       },
       "grams": 0.2,
-      "note": "steeped in the milk used for brushing"
+      "note": {
+        "en": "steeped in the milk used for brushing"
+      }
     }
   ],
   "yield": {
     "count": 4,
     "pieceGrams": 118,
-    "shape": "round flatbread, about 15 cm"
+    "shape": {
+      "en": "round flatbread, about 15 cm"
+    }
   },
   "time": {
     "totalMin": 125,
@@ -135,7 +149,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm or at room temperature the same day; wrap airtight to keep it soft for a second day."
+    "note": {
+      "en": "Best warm or at room temperature the same day; wrap airtight to keep it soft for a second day."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -242,7 +258,9 @@
     "url": "https://www.mycookingjourney.com/emirati-khameer-khamir-flatbread-from-uae/",
     "site": "My Cooking Journey",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tablespoon quantities converted to grams; saffron threads reduced to a token weight since a quarter teaspoon is nearly negligible by mass."
+    "adaptation": {
+      "en": "Cup/tablespoon quantities converted to grams; saffron threads reduced to a token weight since a quarter teaspoon is nearly negligible by mass."
+    }
   },
   "tags": [
     "gulf",

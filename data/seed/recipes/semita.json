@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "SV",
-    "region": "El Salvador (also Guatemala and Honduras, with local variants)",
-    "note": "A yeasted bread dough, not a pastry crust, sandwiches the jam filling and bakes flat in a large pan before being cut into squares; pineapple is the most traditional filling, though mango or guava versions exist."
+    "region": {
+      "en": "El Salvador (also Guatemala and Honduras, with local variants)"
+    },
+    "note": {
+      "en": "A yeasted bread dough, not a pastry crust, sandwiches the jam filling and bakes flat in a large pan before being cut into squares; pineapple is the most traditional filling, though mango or guava versions exist."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -42,22 +46,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 688,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "milk",
       "grams": 180,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "butter",
       "grams": 113,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "salt",
@@ -66,7 +78,9 @@
     {
       "key": "water",
       "grams": 79,
-      "note": "warm, for blooming the yeast"
+      "note": {
+        "en": "warm, for blooming the yeast"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -75,7 +89,9 @@
     {
       "key": "egg",
       "grams": 150,
-      "note": "3 eggs, dough"
+      "note": {
+        "en": "3 eggs, dough"
+      }
     },
     {
       "label": {
@@ -86,28 +102,38 @@
         "ro": "dulceață de ananas"
       },
       "grams": 480,
-      "note": "filling"
+      "note": {
+        "en": "filling"
+      }
     },
     {
       "key": "cinnamon",
       "grams": 5,
-      "note": "filling"
+      "note": {
+        "en": "filling"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "beaten, for egg wash"
+      "note": {
+        "en": "beaten, for egg wash"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "for topping before baking"
+      "note": {
+        "en": "for topping before baking"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 145,
-    "shape": "large flat rectangular tart cut into 12 squares"
+    "shape": {
+      "en": "large flat rectangular tart cut into 12 squares"
+    }
   },
   "time": {
     "totalMin": 190,
@@ -147,7 +173,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Keeps well for several days at room temperature under a cloth; the jam filling keeps the crumb moist longer than a plain sweet roll."
+    "note": {
+      "en": "Keeps well for several days at room temperature under a cloth; the jam filling keeps the crumb moist longer than a plain sweet roll."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -271,7 +299,9 @@
     "url": "https://www.whats4eats.com/desserts/semita-de-pina-recipe",
     "site": "Whats4Eats",
     "retrieved": "2026-07-18",
-    "adaptation": "formula.* covers the base dough only; the pineapple filling, lattice trim and egg-sugar topping are excluded from the percentages. Cup measures converted to grams via standard baker's conversions."
+    "adaptation": {
+      "en": "formula.* covers the base dough only; the pineapple filling, lattice trim and egg-sugar topping are excluded from the percentages. Cup measures converted to grams via standard baker's conversions."
+    }
   },
   "tags": [
     "el-salvador",

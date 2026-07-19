@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "PL",
-    "region": "Białystok, and the Jewish bakeries of New York City",
-    "note": "Most of Białystok's Jewish bakers perished in the Holocaust, and the bialy nearly vanished with them; it survives today mainly through New York's delis and bakeries."
+    "region": {
+      "en": "Białystok, and the Jewish bakeries of New York City"
+    },
+    "note": {
+      "en": "Most of Białystok's Jewish bakers perished in the Holocaust, and the bialy nearly vanished with them; it survives today mainly through New York's delis and bakeries."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 840,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
@@ -65,7 +71,9 @@
         "ro": "pudră de ceapă"
       },
       "grams": 1,
-      "note": "in the dough, for background flavor"
+      "note": {
+        "en": "in the dough, for background flavor"
+      }
     },
     {
       "label": {
@@ -76,23 +84,31 @@
         "ro": "ceapă galbenă, tocată"
       },
       "grams": 150,
-      "note": "sautéed briefly for the filling"
+      "note": {
+        "en": "sautéed briefly for the filling"
+      }
     },
     {
       "key": "poppy-seeds",
       "grams": 3,
-      "note": "in the filling"
+      "note": {
+        "en": "in the filling"
+      }
     },
     {
       "key": "olive-oil",
       "grams": 14,
-      "note": "for softening the onions"
+      "note": {
+        "en": "for softening the onions"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 128,
-    "shape": "flattened disc with a dimpled, onion-filled center"
+    "shape": {
+      "en": "flattened disc with a dimpled, onion-filled center"
+    }
   },
   "time": {
     "totalMin": 830,
@@ -132,7 +148,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fresh or lightly toasted the next day; freezes and reheats well."
+    "note": {
+      "en": "Best fresh or lightly toasted the next day; freezes and reheats well."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -240,7 +258,9 @@
     "site": "King Arthur Baking",
     "author": "Emily Teel",
     "retrieved": "2026-07-17",
-    "adaptation": "Ratios kept as sourced; pan-dusting flour and ground pepper omitted from the ingredient list for brevity."
+    "adaptation": {
+      "en": "Ratios kept as sourced; pan-dusting flour and ground pepper omitted from the ingredient list for brevity."
+    }
   },
   "tags": [
     "polish-jewish",

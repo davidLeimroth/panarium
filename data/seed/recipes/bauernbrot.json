@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Germany and Austria, farmhouse tradition",
-    "note": "Not a legally defined term like Vollkornbrot, Bauernbrot describes a rustic round style of mixed rye-wheat sourdough rather than a fixed ratio."
+    "region": {
+      "en": "Germany and Austria, farmhouse tradition"
+    },
+    "note": {
+      "en": "Not a legally defined term like Vollkornbrot, Bauernbrot describes a rustic round style of mixed rye-wheat sourdough rather than a fixed ratio."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -49,22 +53,30 @@
     {
       "key": "flour:rye-whole",
       "grams": 99,
-      "note": "coarse rye whole meal, in the sourdough"
+      "note": {
+        "en": "coarse rye whole meal, in the sourdough"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 239,
-      "note": "rye flour type 1150, split between sourdough and main dough"
+      "note": {
+        "en": "rye flour type 1150, split between sourdough and main dough"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 148,
-      "note": "wheat type 1050 plus whole wheat flour"
+      "note": {
+        "en": "wheat type 1050 plus whole wheat flour"
+      }
     },
     {
       "key": "water",
       "grams": 338,
-      "note": "warm, 40–50°C"
+      "note": {
+        "en": "warm, 40–50°C"
+      }
     },
     {
       "key": "salt",
@@ -73,13 +85,17 @@
     {
       "key": "sourdough-starter",
       "grams": 15,
-      "note": "soft rye starter, TA 200"
+      "note": {
+        "en": "soft rye starter, TA 200"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 800,
-    "shape": "round hearth loaf, cross-hatch scored"
+    "shape": {
+      "en": "round hearth loaf, cross-hatch scored"
+    }
   },
   "time": {
     "totalMin": 1040,
@@ -119,7 +135,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Keeps well wrapped in linen; flavor rounds out by day two."
+    "note": {
+      "en": "Keeps well wrapped in linen; flavor rounds out by day two."
+    }
   },
   "equipment": [
     "banneton",

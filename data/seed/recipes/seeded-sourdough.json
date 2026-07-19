@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "A contemporary high-fiber formula from the artisan home-baking movement."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "A contemporary high-fiber formula from the artisan home-baking movement."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -49,12 +53,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 666,
-      "note": "medium-protein bread flour"
+      "note": {
+        "en": "medium-protein bread flour"
+      }
     },
     {
       "key": "flour:durum",
       "grams": 133,
-      "note": "semolina"
+      "note": {
+        "en": "semolina"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -75,33 +83,45 @@
     {
       "key": "flax-seeds",
       "grams": 40,
-      "note": "soaked"
+      "note": {
+        "en": "soaked"
+      }
     },
     {
       "key": "sesame-seeds",
       "grams": 40,
-      "note": "soaked"
+      "note": {
+        "en": "soaked"
+      }
     },
     {
       "key": "fennel-seed",
       "grams": 13,
-      "note": "soaked"
+      "note": {
+        "en": "soaked"
+      }
     },
     {
       "key": "sunflower-seeds",
       "grams": 40,
-      "note": "unroasted"
+      "note": {
+        "en": "unroasted"
+      }
     },
     {
       "key": "lemon-zest",
       "grams": 8,
-      "note": "optional"
+      "note": {
+        "en": "optional"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "boule or bâtard"
+    "shape": {
+      "en": "boule or bâtard"
+    }
   },
   "time": {
     "totalMin": 1585,

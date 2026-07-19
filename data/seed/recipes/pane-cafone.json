@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Campania",
-    "note": "The name comes from 'cafone' (peasant farmer); traditional loaves baked in communal wood ovens weighed up to 4 kg to feed a household for days."
+    "region": {
+      "en": "Campania"
+    },
+    "note": {
+      "en": "The name comes from 'cafone' (peasant farmer); traditional loaves baked in communal wood ovens weighed up to 4 kg to feed a household for days."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -38,7 +42,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 620,
-      "note": "strong Manitoba flour"
+      "note": {
+        "en": "strong Manitoba flour"
+      }
     },
     {
       "key": "water",
@@ -56,7 +62,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1026,
-    "shape": "large rustic filone (baton), up to 4 kg in bakeries"
+    "shape": {
+      "en": "large rustic filone (baton), up to 4 kg in bakeries"
+    }
   },
   "time": {
     "totalMin": 1063,
@@ -95,7 +103,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Thick crust and a long, slow fermentation keep it honestly good for days, in the spirit of a loaf meant to feed a household all week."
+    "note": {
+      "en": "Thick crust and a long, slow fermentation keep it honestly good for days, in the spirit of a loaf meant to feed a household all week."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -203,7 +213,9 @@
     "url": "https://www.dissapore.com/ricette/pane-cafone/",
     "site": "Dissapore",
     "retrieved": "2026-07-17",
-    "adaptation": "Preferment (lievitino) share of total flour estimated at roughly 11%, consistent with typical pane cafone formulas; the source's headline totals for flour, water, yeast and salt are used directly."
+    "adaptation": {
+      "en": "Preferment (lievitino) share of total flour estimated at roughly 11%, consistent with typical pane cafone formulas; the source's headline totals for flour, water, yeast and salt are used directly."
+    }
   },
   "tags": [
     "wood-fired",

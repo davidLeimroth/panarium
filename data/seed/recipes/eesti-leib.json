@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "EE",
-    "region": "nationwide",
-    "note": "Rye has grown in Estonia for over a thousand years; nearly every family keeps its own starter and spice mix."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Rye has grown in Estonia for over a thousand years; nearly every family keeps its own starter and spice mix."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -47,7 +51,9 @@
     {
       "key": "flour:rye-whole",
       "grams": 1500,
-      "note": "split between the overnight leaven and the final dough"
+      "note": {
+        "en": "split between the overnight leaven and the final dough"
+      }
     },
     {
       "key": "rolled-oats",
@@ -64,7 +70,9 @@
     {
       "key": "salt",
       "grams": 45,
-      "note": "sea salt"
+      "note": {
+        "en": "sea salt"
+      }
     },
     {
       "key": "sugar",
@@ -77,7 +85,9 @@
     {
       "key": "fennel-seed",
       "grams": 15,
-      "note": "or caraway seeds"
+      "note": {
+        "en": "or caraway seeds"
+      }
     },
     {
       "key": "sunflower-seeds",
@@ -87,7 +97,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 1650,
-    "shape": "loaf-pan loaf or freeform sausage-shaped loaf"
+    "shape": {
+      "en": "loaf-pan loaf or freeform sausage-shaped loaf"
+    }
   },
   "time": {
     "totalMin": 1700,
@@ -127,7 +139,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Every family varies the fermentation length, spices and seeds; this version keeps moist about a week."
+    "note": {
+      "en": "Every family varies the fermentation length, spices and seeds; this version keeps moist about a week."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -250,7 +264,9 @@
     "url": "https://www.andreatamme.com/blog/estonian-black-bread",
     "site": "Andrea Tamme",
     "retrieved": "2026-07-17",
-    "adaptation": "Starter assumed at 100% hydration to estimate its internal flour/water split for baker's percentages, since the source gives it only by volume."
+    "adaptation": {
+      "en": "Starter assumed at 100% hydration to estimate its internal flour/water split for baker's percentages, since the source gives it only by volume."
+    }
   },
   "tags": [
     "baltic",

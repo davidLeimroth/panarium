@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "San Francisco Bay Area, California",
-    "note": "The tang comes from a specific wild-yeast/bacteria partnership favored by the Bay Area's cool, foggy climate, first studied and named after the city in the 1970s."
+    "region": {
+      "en": "San Francisco Bay Area, California"
+    },
+    "note": {
+      "en": "The tang comes from a specific wild-yeast/bacteria partnership favored by the Bay Area's cool, foggy climate, first studied and named after the city in the 1970s."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -45,7 +49,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 390,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "flour:spelt-whole",
@@ -58,7 +64,9 @@
     {
       "key": "sourdough-starter",
       "grams": 24,
-      "note": "rye-seeded culture"
+      "note": {
+        "en": "rye-seeded culture"
+      }
     },
     {
       "key": "salt",
@@ -68,7 +76,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 700,
-    "shape": "batard or boule"
+    "shape": {
+      "en": "batard or boule"
+    }
   },
   "time": {
     "totalMin": 5300,
@@ -107,7 +117,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The sourness deepens over the first day or two."
+    "note": {
+      "en": "The sourness deepens over the first day or two."
+    }
   },
   "equipment": [
     "baking-stone",
@@ -247,7 +259,9 @@
     "url": "https://www.weekendbakery.com/posts/san-francisco-style-sourdough-bread/",
     "site": "Weekend Bakery",
     "retrieved": "2026-07-17",
-    "adaptation": "Baker's percentages recomputed to include the levain-building flour and water in the 100% flour base per house convention."
+    "adaptation": {
+      "en": "Baker's percentages recomputed to include the levain-building flour and water in the 100% flour base per house convention."
+    }
   },
   "tags": [
     "classic",

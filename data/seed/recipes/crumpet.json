@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "England",
-    "note": "Early flat versions go back centuries; the holey, spongy crumpet we know today took shape in the Victorian era once refined flour and reliable commercial yeast were common."
+    "region": {
+      "en": "England"
+    },
+    "note": {
+      "en": "Early flat versions go back centuries; the holey, spongy crumpet we know today took shape in the Victorian era once refined flour and reliable commercial yeast were common."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -45,12 +49,16 @@
     {
       "key": "milk",
       "grams": 240,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "water",
       "grams": 237,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -67,13 +75,17 @@
     {
       "key": "baking-soda",
       "grams": 3,
-      "note": "beaten in before the second rise, for extra bubbles"
+      "note": {
+        "en": "beaten in before the second rise, for extra bubbles"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 75,
-    "shape": "griddle-cooked disc set in a 3-inch ring"
+    "shape": {
+      "en": "griddle-cooked disc set in a 3-inch ring"
+    }
   },
   "time": {
     "totalMin": 170,
@@ -113,7 +125,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Best toasted rather than eaten fresh; keeps several days and freezes well."
+    "note": {
+      "en": "Best toasted rather than eaten fresh; keeps several days and freezes well."
+    }
   },
   "equipment": [
     "griddle"
@@ -220,7 +234,9 @@
     "url": "https://www.daringgourmet.com/traditional-english-crumpets/",
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-17",
-    "adaptation": "Cup measures converted to grams using standard baker's conversions; ring size and batch count simplified."
+    "adaptation": {
+      "en": "Cup measures converted to grams using standard baker's conversions; ring size and batch count simplified."
+    }
   },
   "tags": [
     "griddle-bread",

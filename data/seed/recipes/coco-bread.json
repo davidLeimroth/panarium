@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "JM",
-    "region": "nationwide",
-    "note": "Likely developed during the colonial plantation era by enslaved African and indentured Chinese and Indian laborers; today it's the classic wrapper for a Jamaican beef patty."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Likely developed during the colonial plantation era by enslaved African and indentured Chinese and Indian laborers; today it's the classic wrapper for a Jamaican beef patty."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -54,7 +58,9 @@
     {
       "key": "instant-yeast",
       "grams": 8,
-      "note": "quick-rise yeast"
+      "note": {
+        "en": "quick-rise yeast"
+      }
     },
     {
       "label": {
@@ -65,18 +71,24 @@
         "ro": "lapte de cocos"
       },
       "grams": 397,
-      "note": "unsweetened, warmed"
+      "note": {
+        "en": "unsweetened, warmed"
+      }
     },
     {
       "key": "butter",
       "grams": 57,
-      "note": "melted, divided between the dough and brushing"
+      "note": {
+        "en": "melted, divided between the dough and brushing"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 88,
-    "shape": "folded half-moon roll"
+    "shape": {
+      "en": "folded half-moon roll"
+    }
   },
   "time": {
     "totalMin": 135,
@@ -116,7 +128,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fresh and still warm, split open for a patty; freezes and reheats well for a couple of months."
+    "note": {
+      "en": "Best fresh and still warm, split open for a patty; freezes and reheats well for a couple of months."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -223,7 +237,9 @@
     "url": "https://www.196flavors.com/jamaica-coco-bread/",
     "site": "196 Flavors",
     "retrieved": "2026-07-17",
-    "adaptation": "Coconut milk's water and fat split estimated from typical canned coconut milk, since it isn't among the taxonomy's defined conversions."
+    "adaptation": {
+      "en": "Coconut milk's water and fat split estimated from typical canned coconut milk, since it isn't among the taxonomy's defined conversions."
+    }
   },
   "tags": [
     "jamaican-patty",

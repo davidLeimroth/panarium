@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "ZA",
-    "region": "Western Cape winelands",
-    "note": "Brought by French Huguenot refugees who settled Franschhoek from 1688; traditionally leavened with mos, the partly fermented grape must left over from winemaking, hence the name (mos + bolletjies, 'must balls')."
+    "region": {
+      "en": "Western Cape winelands"
+    },
+    "note": {
+      "en": "Brought by French Huguenot refugees who settled Franschhoek from 1688; traditionally leavened with mos, the partly fermented grape must left over from winemaking, hence the name (mos + bolletjies, 'must balls')."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -59,7 +63,9 @@
     {
       "key": "anise",
       "grams": 20,
-      "note": "whole aniseed"
+      "note": {
+        "en": "whole aniseed"
+      }
     },
     {
       "key": "butter",
@@ -78,23 +84,31 @@
     {
       "key": "milk",
       "grams": 120,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "water",
       "grams": 237,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "for the syrup glaze brushed on after baking"
+      "note": {
+        "en": "for the syrup glaze brushed on after baking"
+      }
     }
   ],
   "yield": {
     "count": 16,
     "pieceGrams": 111,
-    "shape": "soft pull-apart bun baked in a shared tin"
+    "shape": {
+      "en": "soft pull-apart bun baked in a shared tin"
+    }
   },
   "time": {
     "totalMin": 130,
@@ -134,7 +148,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Eaten fresh with butter, or dried further into mosbeskuit (rusks) for a keeper that lasts weeks."
+    "note": {
+      "en": "Eaten fresh with butter, or dried further into mosbeskuit (rusks) for a keeper that lasts weeks."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -257,7 +273,9 @@
     "url": "https://www.eitanbernath.com/2017/11/14/traditional-mosbolletjies/",
     "site": "Eitan Bernath",
     "retrieved": "2026-07-17",
-    "adaptation": "Modern grape-juice-plus-commercial-yeast version used in place of traditional fermented grape must; glaze sugar kept as a separate entry from the dough formula."
+    "adaptation": {
+      "en": "Modern grape-juice-plus-commercial-yeast version used in place of traditional fermented grape must; glaze sugar kept as a separate entry from the dough formula."
+    }
   },
   "tags": [
     "cape-winelands",

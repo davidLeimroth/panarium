@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "New Mexico (Albuquerque) and the American Southwest",
-    "note": "Emerged in the 1800s from the blending of Hispano and Native American foodways in New Mexico under Spanish, Mexican and American territorial rule; served as a savory bread substitute or, dusted with cinnamon sugar, as a dessert."
+    "region": {
+      "en": "New Mexico (Albuquerque) and the American Southwest"
+    },
+    "note": {
+      "en": "Emerged in the 1800s from the blending of Hispano and Native American foodways in New Mexico under Spanish, Mexican and American territorial rule; served as a savory bread substitute or, dusted with cinnamon sugar, as a dessert."
+    }
   },
   "leaven": "chemical",
   "family": "fried",
@@ -52,33 +56,45 @@
     {
       "key": "lard",
       "grams": 27,
-      "note": "or vegetable shortening"
+      "note": {
+        "en": "or vegetable shortening"
+      }
     },
     {
       "key": "water",
       "grams": 178,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 325,
-      "note": "for deep-frying; only a small fraction is absorbed into the dough"
+      "note": {
+        "en": "for deep-frying; only a small fraction is absorbed into the dough"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "for the cinnamon-sugar coating"
+      "note": {
+        "en": "for the cinnamon-sugar coating"
+      }
     },
     {
       "key": "cinnamon",
       "grams": 3,
-      "note": "ground, for the coating"
+      "note": {
+        "en": "ground, for the coating"
+      }
     }
   ],
   "yield": {
     "count": 20,
     "pieceGrams": 25,
-    "shape": "quartered wedges from five 8-inch rolled circles"
+    "shape": {
+      "en": "quartered wedges from five 8-inch rolled circles"
+    }
   },
   "time": {
     "totalMin": 35,
@@ -116,7 +132,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best eaten hot and puffed, minutes from the fryer; they deflate and toughen quickly once cool."
+    "note": {
+      "en": "Best eaten hot and puffed, minutes from the fryer; they deflate and toughen quickly once cool."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -223,7 +241,9 @@
     "url": "https://muybuenoblog.com/sopaipillas/",
     "site": "Muy Bueno",
     "retrieved": "2026-07-18",
-    "adaptation": "Frying oil listed separately since only a small fraction is absorbed into the dough; formula reflects the dough only. Lard used per the source's shortening alternative."
+    "adaptation": {
+      "en": "Frying oil listed separately since only a small fraction is absorbed into the dough; formula reflects the dough only. Lard used per the source's shortening alternative."
+    }
   },
   "tags": [
     "new-mexico",

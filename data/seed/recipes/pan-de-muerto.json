@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "Central and southern Mexico, now nationwide",
-    "note": "Baked as an offering (ofrenda) for departed relatives during Día de Muertos as well as a treat for the living; the crossed 'bones' and central knob evoke the skulls and skeletons central to the holiday's imagery."
+    "region": {
+      "en": "Central and southern Mexico, now nationwide"
+    },
+    "note": {
+      "en": "Baked as an offering (ofrenda) for departed relatives during Día de Muertos as well as a treat for the living; the crossed 'bones' and central knob evoke the skulls and skeletons central to the holiday's imagery."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -44,22 +48,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 480,
-      "note": "60 g in the sponge, the rest in the final dough"
+      "note": {
+        "en": "60 g in the sponge, the rest in the final dough"
+      }
     },
     {
       "key": "milk",
       "grams": 113,
-      "note": "lukewarm, in the sponge"
+      "note": {
+        "en": "lukewarm, in the sponge"
+      }
     },
     {
       "key": "instant-yeast",
       "grams": 9,
-      "note": "in the sponge"
+      "note": {
+        "en": "in the sponge"
+      }
     },
     {
       "key": "sugar",
       "grams": 99,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "salt",
@@ -68,17 +80,23 @@
     {
       "key": "egg",
       "grams": 200,
-      "note": "4 large eggs"
+      "note": {
+        "en": "4 large eggs"
+      }
     },
     {
       "key": "butter",
       "grams": 226,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "anise",
       "grams": 4,
-      "note": "seeds"
+      "note": {
+        "en": "seeds"
+      }
     },
     {
       "key": "orange-zest",
@@ -97,18 +115,24 @@
     {
       "key": "butter",
       "grams": 85,
-      "note": "melted, for basting the baked loaves"
+      "note": {
+        "en": "melted, for basting the baked loaves"
+      }
     },
     {
       "key": "sugar",
       "grams": 66,
-      "note": "for rolling the butter-basted loaves"
+      "note": {
+        "en": "for rolling the butter-basted loaves"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 580,
-    "shape": "two 20 cm round loaves, crossed bones and a skull knob"
+    "shape": {
+      "en": "two 20 cm round loaves, crossed bones and a skull knob"
+    }
   },
   "time": {
     "totalMin": 1080,
@@ -150,7 +174,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Keeps about 3 days well wrapped at room temperature thanks to all the butter; the sugared crust softens first, so it's best within a day or two."
+    "note": {
+      "en": "Keeps about 3 days well wrapped at room temperature thanks to all the butter; the sugared crust softens first, so it's best within a day or two."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -274,7 +300,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/pan-de-muerto-day-of-the-dead-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "formula.* covers the mixed dough only; the basting butter and finishing sugar coat are listed as separate ingredients, not counted in fatPct/sugarPct."
+    "adaptation": {
+      "en": "formula.* covers the mixed dough only; the basting butter and finishing sugar coat are listed as separate ingredients, not counted in fatPct/sugarPct."
+    }
   },
   "tags": [
     "dia-de-muertos",

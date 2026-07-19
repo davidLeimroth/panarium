@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Paris (Saint-Germain-des-Prés)",
-    "note": "Inspired by Pierre Poilâne's 1932 bakery on rue du Cherche-Midi, which built its name on a rustic sourdough round when molded white baguettes were the fashion. This entry is a home approximation of the style, not the bakery's proprietary formula."
+    "region": {
+      "en": "Paris (Saint-Germain-des-Prés)"
+    },
+    "note": {
+      "en": "Inspired by Pierre Poilâne's 1932 bakery on rue du Cherche-Midi, which built its name on a rustic sourdough round when molded white baguettes were the fashion. This entry is a home approximation of the style, not the bakery's proprietary formula."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -50,27 +54,37 @@
     {
       "key": "flour:wheat-white",
       "grams": 360,
-      "note": "T65"
+      "note": {
+        "en": "T65"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 120,
-      "note": "T150"
+      "note": {
+        "en": "T150"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 120,
-      "note": "T130"
+      "note": {
+        "en": "T130"
+      }
     },
     {
       "key": "water",
       "grams": 440,
-      "note": "cold"
+      "note": {
+        "en": "cold"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 200,
-      "note": "active"
+      "note": {
+        "en": "active"
+      }
     },
     {
       "key": "salt",
@@ -80,7 +94,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1000,
-    "shape": "grande miche ronde"
+    "shape": {
+      "en": "grande miche ronde"
+    }
   },
   "time": {
     "totalMin": 900,
@@ -120,7 +136,9 @@
   "keeping": {
     "freshDays": 7,
     "freezes": true,
-    "note": "The thick crust and high hydration let a real miche keep well for a week, traditionally sold and eaten by the slice."
+    "note": {
+      "en": "The thick crust and high hydration let a real miche keep well for a week, traditionally sold and eaten by the slice."
+    }
   },
   "equipment": [
     "banneton",
@@ -228,7 +246,9 @@
     "url": "https://www.lecoconutblog.com/2015/11/27/pain-au-levain-facon-poilane/",
     "site": "Le Coconut Blog",
     "retrieved": "2026-07-17",
-    "adaptation": "Home-baker approximation of Poilâne's stone-ground sourdough miche; not the bakery's own secret formula. Starter's flour/water content folded into total baker's percentages."
+    "adaptation": {
+      "en": "Home-baker approximation of Poilâne's stone-ground sourdough miche; not the bakery's own secret formula. Starter's flour/water content folded into total baker's percentages."
+    }
   },
   "tags": [
     "levain",

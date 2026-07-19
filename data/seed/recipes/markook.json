@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "LB",
-    "region": "Levant (Lebanon, Syria, Jordan, Palestine)",
-    "note": "Known by several regional names: markook, shrak, mashrouh, khubz ruqaq; a favorite for mezze tables and as a long-keeping travel bread."
+    "region": {
+      "en": "Levant (Lebanon, Syria, Jordan, Palestine)"
+    },
+    "note": {
+      "en": "Known by several regional names: markook, shrak, mashrouh, khubz ruqaq; a favorite for mezze tables and as a long-keeping travel bread."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -56,7 +60,9 @@
     {
       "key": "water",
       "grams": 411,
-      "note": "cold"
+      "note": {
+        "en": "cold"
+      }
     },
     {
       "key": "salt",
@@ -69,13 +75,17 @@
     {
       "key": "instant-yeast",
       "grams": 0.35,
-      "note": "just a touch, relies on a long slow rest rather than yeast power"
+      "note": {
+        "en": "just a touch, relies on a long slow rest rather than yeast power"
+      }
     }
   ],
   "yield": {
     "count": 7,
     "pieceGrams": 132,
-    "shape": "paper-thin round, stretched to 40-60cm before cooking"
+    "shape": {
+      "en": "paper-thin round, stretched to 40-60cm before cooking"
+    }
   },
   "time": {
     "totalMin": 343,
@@ -112,7 +122,9 @@
   "keeping": {
     "freshDays": 7,
     "freezes": true,
-    "note": "Keeps up to a week at room temperature in an airtight container, much longer refrigerated, and freezes for months. Fold into quarters once cooled for easy storage."
+    "note": {
+      "en": "Keeps up to a week at room temperature in an airtight container, much longer refrigerated, and freezes for months. Fold into quarters once cooled for easy storage."
+    }
   },
   "equipment": [
     "griddle"
@@ -219,7 +231,9 @@
     "url": "https://www.alphafoodie.com/markouk-saj-bread/",
     "site": "Alphafoodie",
     "retrieved": "2026-07-17",
-    "adaptation": "Rescaled from the source's large 40-piece batch to a 500g-flour batch, preserving ratios; hydration recomputed from the source's explicit quantities, not its separately stated approximate range."
+    "adaptation": {
+      "en": "Rescaled from the source's large 40-piece batch to a 500g-flour batch, preserving ratios; hydration recomputed from the source's explicit quantities, not its separately stated approximate range."
+    }
   },
   "tags": [
     "stretched",

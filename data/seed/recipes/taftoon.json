@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IR",
-    "region": "Iran & Afghanistan/Pakistan border regions",
-    "note": "The name comes from Persian 'taftan', to heat or kindle; closely related to Afghan and Pakistani tandoor breads of the same family."
+    "region": {
+      "en": "Iran & Afghanistan/Pakistan border regions"
+    },
+    "note": {
+      "en": "The name comes from Persian 'taftan', to heat or kindle; closely related to Afghan and Pakistani tandoor breads of the same family."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -56,7 +60,9 @@
     {
       "key": "butter",
       "grams": 28,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "sugar",
@@ -69,7 +75,9 @@
     {
       "key": "milk",
       "grams": 267,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "label": {
@@ -80,7 +88,9 @@
         "ro": "fire de șofran"
       },
       "grams": 0.2,
-      "note": "steeped in a little milk, brushed on top before baking"
+      "note": {
+        "en": "steeped in a little milk, brushed on top before baking"
+      }
     },
     {
       "label": {
@@ -91,13 +101,17 @@
         "ro": "semințe de negrilică"
       },
       "grams": 6,
-      "note": "topping"
+      "note": {
+        "en": "topping"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 92,
-    "shape": "round, about 13 cm, thick edge, docked center"
+    "shape": {
+      "en": "round, about 13 cm, thick edge, docked center"
+    }
   },
   "time": {
     "totalMin": 132,
@@ -137,7 +151,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm the day it's baked; stays soft a couple of days wrapped, and freezes well."
+    "note": {
+      "en": "Best warm the day it's baked; stays soft a couple of days wrapped, and freezes well."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -260,7 +276,9 @@
     "url": "https://www.mycookingjourney.com/taftan-bread-taftoon/",
     "site": "My Cooking Journey",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration includes milk, yogurt and butter's water content per baker's-percentage convention; this version is oven-baked at 400°F rather than in a true tandoor."
+    "adaptation": {
+      "en": "Hydration includes milk, yogurt and butter's water content per baker's-percentage convention; this version is oven-baked at 400°F rather than in a true tandoor."
+    }
   },
   "tags": [
     "tandoor",

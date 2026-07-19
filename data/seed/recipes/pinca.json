@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "HR",
-    "region": "Dalmatia, Croatia",
-    "note": "Also called 'sirnica' in regions where a little fresh cheese is worked into the dough; bakers still debate whether raisins or candied fruit belong in a proper pinca."
+    "region": {
+      "en": "Dalmatia, Croatia"
+    },
+    "note": {
+      "en": "Also called 'sirnica' in regions where a little fresh cheese is worked into the dough; bakers still debate whether raisins or candied fruit belong in a proper pinca."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -52,7 +56,9 @@
     {
       "key": "butter",
       "grams": 140,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "label": {
@@ -71,17 +77,23 @@
     {
       "key": "vanilla",
       "grams": 16,
-      "note": "as 2 packets vanilla sugar"
+      "note": {
+        "en": "as 2 packets vanilla sugar"
+      }
     },
     {
       "key": "egg",
       "grams": 150,
-      "note": "3 whole eggs"
+      "note": {
+        "en": "3 whole eggs"
+      }
     },
     {
       "key": "egg-yolk",
       "grams": 36,
-      "note": "2 extra yolks"
+      "note": {
+        "en": "2 extra yolks"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -98,23 +110,31 @@
     {
       "key": "salt",
       "grams": 2,
-      "note": "a pinch, per the source"
+      "note": {
+        "en": "a pinch, per the source"
+      }
     },
     {
       "key": "sugar",
       "grams": 12,
-      "note": "simple syrup glaze brushed on after the first bake; not counted toward the dough's sugar%"
+      "note": {
+        "en": "simple syrup glaze brushed on after the first bake; not counted toward the dough's sugar%"
+      }
     },
     {
       "key": "water",
       "grams": 60,
-      "note": "for the glaze syrup; not counted toward hydration"
+      "note": {
+        "en": "for the glaze syrup; not counted toward hydration"
+      }
     }
   ],
   "yield": {
     "count": 4,
     "pieceGrams": 540,
-    "shape": "round loaf slashed with a cross or three-way cut"
+    "shape": {
+      "en": "round loaf slashed with a cross or three-way cut"
+    }
   },
   "time": {
     "totalMin": 210,
@@ -155,7 +175,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "The butter-and-shortening crumb stays tender for a few days; the syrup glaze also helps keep the crust from drying out."
+    "note": {
+      "en": "The butter-and-shortening crumb stays tender for a few days; the syrup glaze also helps keep the crust from drying out."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -279,7 +301,9 @@
     "url": "https://www.196flavors.com/pinca/",
     "site": "196 Flavors",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt recorded as a small estimated pinch per the source's own wording; yield estimated at four ~540 g loaves from the summed ingredient weight."
+    "adaptation": {
+      "en": "Salt recorded as a small estimated pinch per the source's own wording; yield estimated at four ~540 g loaves from the summed ingredient weight."
+    }
   },
   "tags": [
     "easter",

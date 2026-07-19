@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "PT",
-    "region": "nationwide, also Portuguese-American New England",
-    "note": "The name means roughly 'dry throat'; the rolls are Portugal's most-eaten everyday bread and remain a fixture of Portuguese-American bakeries in Massachusetts and Rhode Island."
+    "region": {
+      "en": "nationwide, also Portuguese-American New England"
+    },
+    "note": {
+      "en": "The name means roughly 'dry throat'; the rolls are Portugal's most-eaten everyday bread and remain a fixture of Portuguese-American bakeries in Massachusetts and Rhode Island."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -43,12 +47,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 625,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
       "grams": 474,
-      "note": "combined dough and yeast-activation water"
+      "note": {
+        "en": "combined dough and yeast-activation water"
+      }
     },
     {
       "key": "salt",
@@ -69,13 +77,17 @@
     {
       "key": "cornmeal",
       "grams": 15,
-      "note": "for dusting the peel and proofing cloth"
+      "note": {
+        "en": "for dusting the peel and proofing cloth"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 118,
-    "shape": "crusty half-moon roll with a deep center crease"
+    "shape": {
+      "en": "crusty half-moon roll with a deep center crease"
+    }
   },
   "time": {
     "totalMin": 720,
@@ -115,7 +127,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best eaten the day of baking while the crust still crackles; a daily-bakery staple in Portugal and Portuguese-American communities."
+    "note": {
+      "en": "Best eaten the day of baking while the crust still crackles; a daily-bakery staple in Portugal and Portuguese-American communities."
+    }
   },
   "equipment": [
     "baking-stone",
@@ -239,7 +253,9 @@
     "url": "https://leitesculinaria.com/282693/recipes-papo-secos-portuguese-rolls.html",
     "site": "Leite's Culinaria",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams kept as sourced; cornmeal dusting quantity estimated since the source gave no amount; overall timing follows the source's own stated 'about 12 hours, mostly hands-off.'"
+    "adaptation": {
+      "en": "Grams kept as sourced; cornmeal dusting quantity estimated since the source gave no amount; overall timing follows the source's own stated 'about 12 hours, mostly hands-off.'"
+    }
   },
   "tags": [
     "portuguese-bakery",

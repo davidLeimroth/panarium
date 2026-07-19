@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "LB",
-    "region": "Levant and Egypt",
-    "note": "Mahlab, ground from St. Lucie cherry pits, flavors sweet breads and pastries across the Eastern Mediterranean; this seeded, olive-oil version is a home-bakery teatime bread rather than a festival loaf."
+    "region": {
+      "en": "Levant and Egypt"
+    },
+    "note": {
+      "en": "Mahlab, ground from St. Lucie cherry pits, flavors sweet breads and pastries across the Eastern Mediterranean; this seeded, olive-oil version is a home-bakery teatime bread rather than a festival loaf."
+    }
   },
   "leaven": "yeast",
   "family": "crispbread",
@@ -53,7 +57,9 @@
     {
       "key": "olive-oil",
       "grams": 154,
-      "note": "rubbed into the flour until sandy, plus extra for brushing"
+      "note": {
+        "en": "rubbed into the flour until sandy, plus extra for brushing"
+      }
     },
     {
       "label": {
@@ -76,17 +82,23 @@
     {
       "key": "salt",
       "grams": 10,
-      "note": "not specified by source; a modest amount added as is typical for yeasted dough"
+      "note": {
+        "en": "not specified by source; a modest amount added as is typical for yeasted dough"
+      }
     },
     {
       "key": "anise",
       "grams": 18,
-      "note": "whole and ground seeds, combined"
+      "note": {
+        "en": "whole and ground seeds, combined"
+      }
     },
     {
       "key": "fennel-seed",
       "grams": 1.2,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "label": {
@@ -101,13 +113,17 @@
     {
       "key": "sesame-seeds",
       "grams": 27,
-      "note": "white and optional black sesame, for the dough and topping"
+      "note": {
+        "en": "white and optional black sesame, for the dough and topping"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 115,
-    "shape": "thin round, about 1 cm thick"
+    "shape": {
+      "en": "thin round, about 1 cm thick"
+    }
   },
   "time": {
     "totalMin": 130,
@@ -146,7 +162,9 @@
   "keeping": {
     "freshDays": 10,
     "freezes": true,
-    "note": "Its whole point is long shelf life: keeps over a week in an airtight tin and needs no reheating."
+    "note": {
+      "en": "Its whole point is long shelf life: keeps over a week in an airtight tin and needs no reheating."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -269,7 +287,9 @@
     "url": "https://honestcooking.com/middle-eastern-seeds-olive-oil-bread-recipe/",
     "site": "Honest Cooking",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup measures converted to grams; source did not list salt, so a modest typical amount was added; chose the 10-large-piece option over the 20-small alternative."
+    "adaptation": {
+      "en": "Cup measures converted to grams; source did not list salt, so a modest typical amount was added; chose the 10-large-piece option over the 20-small alternative."
+    }
   },
   "tags": [
     "teatime",

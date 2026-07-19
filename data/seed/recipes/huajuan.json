@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "CN",
-    "region": "nationwide, northern origin",
-    "note": "Same steamed-wheat family as mantou, but layered with a savory scallion-oil filling and twisted into a flower shape before steaming."
+    "region": {
+      "en": "nationwide, northern origin"
+    },
+    "note": {
+      "en": "Same steamed-wheat family as mantou, but layered with a savory scallion-oil filling and twisted into a flower shape before steaming."
+    }
   },
   "leaven": "yeast",
   "family": "steamed",
@@ -49,7 +53,9 @@
     {
       "key": "water",
       "grams": 165,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -66,7 +72,9 @@
     {
       "key": "salt",
       "grams": 1.5,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "label": {
@@ -81,12 +89,16 @@
     {
       "key": "salt",
       "grams": 3,
-      "note": "in the scallion filling"
+      "note": {
+        "en": "in the scallion filling"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 27,
-      "note": "brushed between the layers"
+      "note": {
+        "en": "brushed between the layers"
+      }
     },
     {
       "label": {
@@ -102,7 +114,9 @@
   "yield": {
     "count": 8,
     "pieceGrams": 65,
-    "shape": "twisted flower/knot roll, steamed"
+    "shape": {
+      "en": "twisted flower/knot roll, steamed"
+    }
   },
   "time": {
     "totalMin": 130,
@@ -141,7 +155,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Steams back to fluffy from frozen in about 10 minutes; a savory alternative to mantou alongside braises and congee."
+    "note": {
+      "en": "Steams back to fluffy from frozen in about 10 minutes; a savory alternative to mantou alongside braises and congee."
+    }
   },
   "equipment": [
     "steamer"
@@ -264,7 +280,9 @@
     "url": "https://thewoksoflife.com/hua-juan-flower-rolls-scallion-buns/",
     "site": "The Woks of Life",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tbsp/tsp amounts converted to grams using standard baking references; dough salt and filling salt kept as two separate lines to mirror the source's two stages."
+    "adaptation": {
+      "en": "Cup/tbsp/tsp amounts converted to grams using standard baking references; dough salt and filling salt kept as two separate lines to mirror the source's two stages."
+    }
   },
   "tags": [
     "steamed",

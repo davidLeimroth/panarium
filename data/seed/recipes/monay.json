@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "PH",
-    "region": "nationwide panaderia bread",
-    "note": "Adapted from Spanish pan de monja during the colonial era; now a everyday panaderia staple alongside pandesal."
+    "region": {
+      "en": "nationwide panaderia bread"
+    },
+    "note": {
+      "en": "Adapted from Spanish pan de monja during the colonial era; now a everyday panaderia staple alongside pandesal."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -47,7 +51,9 @@
     {
       "key": "milk",
       "grams": 60,
-      "note": "dry milk powder; not counted toward hydration"
+      "note": {
+        "en": "dry milk powder; not counted toward hydration"
+      }
     },
     {
       "key": "sugar",
@@ -60,7 +66,9 @@
     {
       "key": "water",
       "grams": 210,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "instant-yeast",
@@ -73,18 +81,24 @@
     {
       "key": "egg",
       "grams": 45,
-      "note": "1 medium egg"
+      "note": {
+        "en": "1 medium egg"
+      }
     },
     {
       "key": "milk",
       "grams": 30,
-      "note": "for brushing after baking"
+      "note": {
+        "en": "for brushing after baking"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 131,
-    "shape": "twin-lobed oval roll with a center scored crease, ~10 cm"
+    "shape": {
+      "en": "twin-lobed oval roll with a center scored crease, ~10 cm"
+    }
   },
   "time": {
     "totalMin": 130,
@@ -123,7 +137,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fresh and slightly warm, straight from a panaderia; freezes and reheats well wrapped in foil."
+    "note": {
+      "en": "Best fresh and slightly warm, straight from a panaderia; freezes and reheats well wrapped in foil."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -246,7 +262,9 @@
     "url": "https://www.foxyfolksy.com/monay/",
     "site": "Foxy Folksy",
     "retrieved": "2026-07-18",
-    "adaptation": "Water increased slightly from the source's 3/4 cup for a workable dough, matching its own 'adjust as needed' note; salt increased slightly from the source for balance."
+    "adaptation": {
+      "en": "Water increased slightly from the source's 3/4 cup for a workable dough, matching its own 'adjust as needed' note; salt increased slightly from the source for balance."
+    }
   },
   "tags": [
     "panaderia",

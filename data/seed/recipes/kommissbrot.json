@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Germany-wide, historically military",
-    "note": "Kommiss was slang for military supply; Kommissbrot was the standard-issue ration loaf of German-speaking armies for centuries, prized for surviving long storage."
+    "region": {
+      "en": "Germany-wide, historically military"
+    },
+    "note": {
+      "en": "Kommiss was slang for military supply; Kommissbrot was the standard-issue ration loaf of German-speaking armies for centuries, prized for surviving long storage."
+    }
   },
   "leaven": "hybrid",
   "family": "pan-loaf",
@@ -44,7 +48,9 @@
     {
       "key": "flour:rye",
       "grams": 800,
-      "note": "Roggenmehl Type 1370, split between sourdough and main dough"
+      "note": {
+        "en": "Roggenmehl Type 1370, split between sourdough and main dough"
+      }
     },
     {
       "key": "water",
@@ -53,7 +59,9 @@
     {
       "key": "sourdough-starter",
       "grams": 36,
-      "note": "Anstellgut, to build the sourdough"
+      "note": {
+        "en": "Anstellgut, to build the sourdough"
+      }
     },
     {
       "key": "salt",
@@ -87,7 +95,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1500,
-    "shape": "large pan loaf, 1.5kg tin"
+    "shape": {
+      "en": "large pan loaf, 1.5kg tin"
+    }
   },
   "time": {
     "totalMin": 2360,
@@ -127,7 +137,9 @@
   "keeping": {
     "freshDays": 14,
     "freezes": true,
-    "note": "Keeps up to two weeks at room temperature; let it rest a full day before the first slice."
+    "note": {
+      "en": "Keeps up to two weeks at room temperature; let it rest a full day before the first slice."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -250,7 +262,9 @@
     "url": "https://brotdoc.com/2012/11/01/kommissbrot/",
     "site": "Brotdoc",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased; used the recipe's regular fresh-yeast option (8g) rather than its organic-yeast variant (16g)."
+    "adaptation": {
+      "en": "Method paraphrased; used the recipe's regular fresh-yeast option (8g) rather than its organic-yeast variant (16g)."
+    }
   },
   "tags": [
     "historic",

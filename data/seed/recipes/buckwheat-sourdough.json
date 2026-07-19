@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Pacific Northwest artisan bakeries",
-    "note": "Built around a Pacific Northwest stone-milled high-extraction flour; buckwheat itself is native to Central Asia, but this scalding technique and formula are a contemporary artisan development."
+    "region": {
+      "en": "Pacific Northwest artisan bakeries"
+    },
+    "note": {
+      "en": "Built around a Pacific Northwest stone-milled high-extraction flour; buckwheat itself is native to Central Asia, but this scalding technique and formula are a contemporary artisan development."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -48,17 +52,23 @@
     {
       "key": "flour:wheat-whole",
       "grams": 687,
-      "note": "high-extraction (Type 85-style) flour"
+      "note": {
+        "en": "high-extraction (Type 85-style) flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 183,
-      "note": "regular whole wheat flour"
+      "note": {
+        "en": "regular whole wheat flour"
+      }
     },
     {
       "key": "flour:buckwheat",
       "grams": 46,
-      "note": "scalded with boiling water before mixing"
+      "note": {
+        "en": "scalded with boiling water before mixing"
+      }
     },
     {
       "key": "water",
@@ -75,18 +85,24 @@
     {
       "key": "malt-syrup",
       "grams": 46,
-      "note": "barley malt syrup"
+      "note": {
+        "en": "barley malt syrup"
+      }
     },
     {
       "key": "anise",
       "grams": 6,
-      "note": "ground aniseed"
+      "note": {
+        "en": "ground aniseed"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 1630,
@@ -280,7 +296,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
-    "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown (no exact taxonomy match); ingredient list keeps the flour as named in the source."
+    "adaptation": {
+      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown (no exact taxonomy match); ingredient list keeps the flour as named in the source."
+    }
   },
   "tags": [
     "buckwheat",

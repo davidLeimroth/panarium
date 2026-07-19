@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Turin, Piedmont",
-    "note": "The hand-stretched 'stirato' shape (rather than machine-rolled) is what distinguishes true Turin grissini from generic breadstick snacks."
+    "region": {
+      "en": "Turin, Piedmont"
+    },
+    "note": {
+      "en": "The hand-stretched 'stirato' shape (rather than machine-rolled) is what distinguishes true Turin grissini from generic breadstick snacks."
+    }
   },
   "leaven": "yeast",
   "family": "crispbread",
@@ -50,7 +54,9 @@
     {
       "key": "olive-oil",
       "grams": 50,
-      "note": "plus extra for brushing before baking"
+      "note": {
+        "en": "plus extra for brushing before baking"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -64,7 +70,9 @@
   "yield": {
     "count": 20,
     "pieceGrams": 41,
-    "shape": "hand-stretched thin stick, about 25-30 cm long"
+    "shape": {
+      "en": "hand-stretched thin stick, about 25-30 cm long"
+    }
   },
   "time": {
     "totalMin": 110,
@@ -102,7 +110,9 @@
   "keeping": {
     "freshDays": 20,
     "freezes": true,
-    "note": "Baked down to almost no moisture, so it stays crisp in a sealed tin for weeks, the whole point of a grissino is that it never truly goes stale."
+    "note": {
+      "en": "Baked down to almost no moisture, so it stays crisp in a sealed tin for weeks, the whole point of a grissino is that it never truly goes stale."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -193,7 +203,9 @@
     "url": "https://sommeliersuite.com/en/ironed-breadsticks/",
     "site": "Sommelier Suite",
     "retrieved": "2026-07-17",
-    "adaptation": "This version uses olive oil only; some historic Turin bakery formulas instead work lard (strutto) and diastatic malt into the dough, noted here as background but not reflected in these grams."
+    "adaptation": {
+      "en": "This version uses olive oil only; some historic Turin bakery formulas instead work lard (strutto) and diastatic malt into the dough, noted here as background but not reflected in these grams."
+    }
   },
   "tags": [
     "hand-stretched",

@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "ET",
-    "region": "Ethiopia and Ethiopian Jewish (Beta Israel) communities, now largely in Israel",
-    "note": "Amharic dabo simply means bread, but the word is used for this festive round loaf served at Sabbath and holidays, unlike the everyday injera. Closely related to Eritrean himbasha."
+    "region": {
+      "en": "Ethiopia and Ethiopian Jewish (Beta Israel) communities, now largely in Israel"
+    },
+    "note": {
+      "en": "Amharic dabo simply means bread, but the word is used for this festive round loaf served at Sabbath and holidays, unlike the everyday injera. Closely related to Eritrean himbasha."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -49,7 +53,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 438,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -88,7 +94,9 @@
     {
       "key": "coriander-seed",
       "grams": 6,
-      "note": "toasted and ground"
+      "note": {
+        "en": "toasted and ground"
+      }
     },
     {
       "label": {
@@ -99,13 +107,17 @@
         "ro": "semințe de negrilică"
       },
       "grams": 1.5,
-      "note": "toasted and ground"
+      "note": {
+        "en": "toasted and ground"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1010,
-    "shape": "large round loaf baked in a covered pot"
+    "shape": {
+      "en": "large round loaf baked in a covered pot"
+    }
   },
   "time": {
     "totalMin": 610,
@@ -145,7 +157,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Keeps 5 to 7 days refrigerated in an airtight container, true to its role as a bread made once for a whole week of holiday meals."
+    "note": {
+      "en": "Keeps 5 to 7 days refrigerated in an airtight container, true to its role as a bread made once for a whole week of holiday meals."
+    }
   },
   "equipment": [
     "dutch-oven"
@@ -236,7 +250,9 @@
     "url": "https://www.jewishfoodsociety.org/recipes/dabo-ethiopian-bread-1",
     "site": "Jewish Food Society",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/teaspoon/tablespoon quantities converted to grams; turmeric and nigella weights estimated using standard ground-spice density."
+    "adaptation": {
+      "en": "Cup/teaspoon/tablespoon quantities converted to grams; turmeric and nigella weights estimated using standard ground-spice density."
+    }
   },
   "tags": [
     "celebration",

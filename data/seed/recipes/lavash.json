@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "AM",
-    "region": "South Caucasus",
-    "note": "UNESCO-listed as an element of Armenian intangible cultural heritage (2014); also baked across Iran, Turkey, Azerbaijan and Central Asia, traditionally in a tonir clay oven."
+    "region": {
+      "en": "South Caucasus"
+    },
+    "note": {
+      "en": "UNESCO-listed as an element of Armenian intangible cultural heritage (2014); also baked across Iran, Turkey, Azerbaijan and Central Asia, traditionally in a tonir clay oven."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -44,17 +48,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 470,
-      "note": "all-purpose flour"
+      "note": {
+        "en": "all-purpose flour"
+      }
     },
     {
       "key": "water",
       "grams": 178,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "milk",
       "grams": 180,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -76,7 +86,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 144,
-    "shape": "large thin oval or rectangle wrap"
+    "shape": {
+      "en": "large thin oval or rectangle wrap"
+    }
   },
   "time": {
     "totalMin": 110,
@@ -115,7 +127,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Stays pliable a couple of days wrapped; once stiff, mist with water and wrap in a towel to soften. Freezes well."
+    "note": {
+      "en": "Stays pliable a couple of days wrapped; once stiff, mist with water and wrap in a towel to soften. Freezes well."
+    }
   },
   "equipment": [
     "griddle"
@@ -238,7 +252,9 @@
     "url": "https://www.daringgourmet.com/lavash-bread/",
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration recalculated to include the milk's water content per baker's-percentage convention; the source's own figure counted only the added water."
+    "adaptation": {
+      "en": "Hydration recalculated to include the milk's water content per baker's-percentage convention; the source's own figure counted only the added water."
+    }
   },
   "tags": [
     "unesco",

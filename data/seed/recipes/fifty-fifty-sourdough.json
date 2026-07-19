@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "A deliberately balanced formula designed as an entry point into whole-grain sourdough baking."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "A deliberately balanced formula designed as an entry point into whole-grain sourdough baking."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -44,12 +48,16 @@
     {
       "key": "flour:wheat-whole",
       "grams": 477,
-      "note": "stoneground, preferred"
+      "note": {
+        "en": "stoneground, preferred"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 476,
-      "note": "blend of medium- and high-protein bread flour"
+      "note": {
+        "en": "blend of medium- and high-protein bread flour"
+      }
     },
     {
       "key": "water",
@@ -67,7 +75,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 1525,
@@ -246,7 +256,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
-    "adaptation": "The source's reserved 100g of autolyse water is read as additional to, not part of, the initial 634g; this matches its own stated 82% hydration."
+    "adaptation": {
+      "en": "The source's reserved 100g of autolyse water is read as additional to, not part of, the initial 634g; this matches its own stated 82% hydration."
+    }
   },
   "tags": [
     "whole-grain",

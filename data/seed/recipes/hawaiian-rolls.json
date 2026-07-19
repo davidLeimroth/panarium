@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Hilo, Hawai'i",
-    "note": "Created in the 1950s by Robert Taira, a Hawaii-born son of Japanese immigrants, drawing on the Portuguese sweet-bread tradition that Portuguese laborers brought to Hawaii's sugar plantations in the 19th century."
+    "region": {
+      "en": "Hilo, Hawai'i"
+    },
+    "note": {
+      "en": "Created in the 1950s by Robert Taira, a Hawaii-born son of Japanese immigrants, drawing on the Portuguese sweet-bread tradition that Portuguese laborers brought to Hawaii's sugar plantations in the 19th century."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -47,7 +51,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 360,
-      "note": "combined sponge and dough flour"
+      "note": {
+        "en": "combined sponge and dough flour"
+      }
     },
     {
       "key": "flour:potato",
@@ -60,7 +66,9 @@
     {
       "key": "water",
       "grams": 28,
-      "note": "for the sponge"
+      "note": {
+        "en": "for the sponge"
+      }
     },
     {
       "label": {
@@ -75,7 +83,9 @@
     {
       "key": "butter",
       "grams": 57,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "key": "brown-sugar",
@@ -84,12 +94,16 @@
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "egg-yolk",
       "grams": 17,
-      "note": "1 extra yolk"
+      "note": {
+        "en": "1 extra yolk"
+      }
     },
     {
       "key": "salt",
@@ -103,7 +117,9 @@
   "yield": {
     "count": 16,
     "pieceGrams": 49,
-    "shape": "soft pull-apart dinner roll"
+    "shape": {
+      "en": "soft pull-apart dinner roll"
+    }
   },
   "time": {
     "totalMin": 235,
@@ -143,7 +159,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Stays soft for days thanks to its sugar and pineapple juice content; a slider-bun favorite that reheats beautifully."
+    "note": {
+      "en": "Stays soft for days thanks to its sugar and pineapple juice content; a slider-bun favorite that reheats beautifully."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -250,7 +268,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/hawaiian-rolls-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams kept as sourced; vanilla extract weight estimated since the source gave it by volume only."
+    "adaptation": {
+      "en": "Grams kept as sourced; vanilla extract weight estimated since the source gave it by volume only."
+    }
   },
   "tags": [
     "slider-bun",

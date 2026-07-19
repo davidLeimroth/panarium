@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "New England (Massachusetts)",
-    "note": "Emerged in the early 1800s alongside Boston baked beans as a hearty Saturday-night supper bread; traditionally steamed, first over the open hearth and later in the reused coffee cans that gave it its ridged cylindrical shape."
+    "region": {
+      "en": "New England (Massachusetts)"
+    },
+    "note": {
+      "en": "Emerged in the early 1800s alongside Boston baked beans as a hearty Saturday-night supper bread; traditionally steamed, first over the open hearth and later in the reused coffee cans that gave it its ridged cylindrical shape."
+    }
   },
   "leaven": "chemical",
   "family": "steamed",
@@ -56,7 +60,9 @@
     {
       "key": "flour:corn",
       "grams": 85,
-      "note": "finely ground cornmeal"
+      "note": {
+        "en": "finely ground cornmeal"
+      }
     },
     {
       "key": "baking-powder",
@@ -79,7 +85,9 @@
         "ro": "piper englezesc"
       },
       "grams": 0.5,
-      "note": "optional"
+      "note": {
+        "en": "optional"
+      }
     },
     {
       "key": "buttermilk",
@@ -93,7 +101,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 560,
-    "shape": "cylindrical loaf steamed in a 28oz can, sliced into rounds"
+    "shape": {
+      "en": "cylindrical loaf steamed in a 28oz can, sliced into rounds"
+    }
   },
   "time": {
     "totalMin": 100,
@@ -131,7 +141,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "Keeps unusually well, moist for the better part of a week; good served with butter or cream cheese, or fried in butter the next day."
+    "note": {
+      "en": "Keeps unusually well, moist for the better part of a week; good served with butter or cream cheese, or fried in butter the next day."
+    }
   },
   "equipment": [
     "steamer"
@@ -239,7 +251,9 @@
     "site": "Bigger Bolder Baking",
     "author": "Gemma Stafford",
     "retrieved": "2026-07-18",
-    "adaptation": "Molasses's water content estimated at a typical ~22% since it isn't one of this taxonomy's defined conversions."
+    "adaptation": {
+      "en": "Molasses's water content estimated at a typical ~22% since it isn't one of this taxonomy's defined conversions."
+    }
   },
   "tags": [
     "new-england",

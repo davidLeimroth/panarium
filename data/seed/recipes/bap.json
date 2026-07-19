@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Scotland; also across England and Wales as 'morning roll', 'batch', 'cob' or 'barm'",
-    "note": "A breakfast-table and sandwich staple, deliberately baked pale and soft rather than browned and crisp."
+    "region": {
+      "en": "Scotland; also across England and Wales as 'morning roll', 'batch', 'cob' or 'barm'"
+    },
+    "note": {
+      "en": "A breakfast-table and sandwich staple, deliberately baked pale and soft rather than browned and crisp."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -46,12 +50,16 @@
     {
       "key": "milk",
       "grams": 160,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "water",
       "grams": 160,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "instant-yeast",
@@ -64,18 +72,24 @@
     {
       "key": "milk",
       "grams": 30,
-      "note": "for brushing the tops before baking"
+      "note": {
+        "en": "for brushing the tops before baking"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 15,
-      "note": "for dusting the tops thickly"
+      "note": {
+        "en": "for dusting the tops thickly"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 72,
-    "shape": "flattened round rolls"
+    "shape": {
+      "en": "flattened round rolls"
+    }
   },
   "time": {
     "totalMin": 185,
@@ -114,7 +128,9 @@
   "keeping": {
     "freshDays": 1.5,
     "freezes": true,
-    "note": "Best very fresh and soft; the floury top doesn't hold a crisp texture past a day."
+    "note": {
+      "en": "Best very fresh and soft; the floury top doesn't hold a crisp texture past a day."
+    }
   },
   "equipment": [
     "sheet-pan"

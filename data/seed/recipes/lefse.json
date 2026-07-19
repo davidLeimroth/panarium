@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "NO",
-    "region": "nationwide",
-    "note": "Historically made with a mix of flours; became almost purely potato-based among Norwegian-American immigrant communities."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Historically made with a mix of flours; became almost purely potato-based among Norwegian-American immigrant communities."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -47,7 +51,9 @@
     {
       "key": "mashed-potato",
       "grams": 269,
-      "note": "riced, still warm"
+      "note": {
+        "en": "riced, still warm"
+      }
     },
     {
       "key": "flour:wheat-white",
@@ -56,12 +62,16 @@
     {
       "key": "butter",
       "grams": 28,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "key": "milk",
       "grams": 28,
-      "note": "or heavy cream"
+      "note": {
+        "en": "or heavy cream"
+      }
     },
     {
       "key": "salt",
@@ -75,7 +85,9 @@
   "yield": {
     "count": 12,
     "pieceGrams": 30,
-    "shape": "6-inch thin round"
+    "shape": {
+      "en": "6-inch thin round"
+    }
   },
   "time": {
     "totalMin": 300,
@@ -113,7 +125,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Stack between parchment; refrigerates and freezes well ahead of the holidays."
+    "note": {
+      "en": "Stack between parchment; refrigerates and freezes well ahead of the holidays."
+    }
   },
   "equipment": [
     "griddle"
@@ -236,7 +250,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/lefse-norwegian-potato-flatbread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Potato counted as the primary flour component per baker's-percentage convention; hydration reflects only added milk/cream, not the potato's own moisture."
+    "adaptation": {
+      "en": "Potato counted as the primary flour component per baker's-percentage convention; hydration reflects only added milk/cream, not the potato's own moisture."
+    }
   },
   "tags": [
     "christmas",

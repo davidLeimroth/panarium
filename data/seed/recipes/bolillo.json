@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "nationwide",
-    "note": "Credited to French influence, possibly during Maximilian's 1860s reign or via French-run mining companies; today it's Mexico's everyday bread and the base of the torta sandwich."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Credited to French influence, possibly during Maximilian's 1860s reign or via French-run mining companies; today it's Mexico's everyday bread and the base of the torta sandwich."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -47,7 +51,9 @@
     {
       "key": "lard",
       "grams": 25,
-      "note": "or unsalted butter"
+      "note": {
+        "en": "or unsalted butter"
+      }
     },
     {
       "key": "sugar",
@@ -64,13 +70,17 @@
     {
       "key": "water",
       "grams": 350,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 152,
-    "shape": "tapered torpedo roll, about 6 inches"
+    "shape": {
+      "en": "tapered torpedo roll, about 6 inches"
+    }
   },
   "time": {
     "totalMin": 165,
@@ -110,7 +120,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best within hours while the crust still shatters; reheat briefly to revive a day-old roll."
+    "note": {
+      "en": "Best within hours while the crust still shatters; reheat briefly to revive a day-old roll."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -233,7 +245,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/bolillos",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams kept as sourced; traditional lard option kept over the butter alternative."
+    "adaptation": {
+      "en": "Grams kept as sourced; traditional lard option kept over the butter alternative."
+    }
   },
   "tags": [
     "torta",

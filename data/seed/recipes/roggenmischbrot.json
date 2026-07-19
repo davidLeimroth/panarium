@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Germany-wide",
-    "note": "German bread law defines Roggenmischbrot as containing 50–89% rye flour with the remainder wheat; below that it is Weizenmischbrot instead."
+    "region": {
+      "en": "Germany-wide"
+    },
+    "note": {
+      "en": "German bread law defines Roggenmischbrot as containing 50–89% rye flour with the remainder wheat; below that it is Weizenmischbrot instead."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -46,12 +50,16 @@
     {
       "key": "flour:rye",
       "grams": 610,
-      "note": "rye flour type 1150, split between sourdough and main dough"
+      "note": {
+        "en": "rye flour type 1150, split between sourdough and main dough"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 270,
-      "note": "wheat type 1050 plus whole wheat flour, autolysed"
+      "note": {
+        "en": "wheat type 1050 plus whole wheat flour, autolysed"
+      }
     },
     {
       "label": {
@@ -62,12 +70,16 @@
         "ro": "pâine veche, uscată, prăjită și măcinată (Altbrot)"
       },
       "grams": 90,
-      "note": "soaked as a flavor and moisture-boosting Quellstück"
+      "note": {
+        "en": "soaked as a flavor and moisture-boosting Quellstück"
+      }
     },
     {
       "key": "water",
       "grams": 705,
-      "note": "warm, ~40°C, split across all stages"
+      "note": {
+        "en": "warm, ~40°C, split across all stages"
+      }
     },
     {
       "key": "salt",
@@ -76,18 +88,24 @@
     {
       "key": "sourdough-starter",
       "grams": 40,
-      "note": "active rye starter (Anstellgut)"
+      "note": {
+        "en": "active rye starter (Anstellgut)"
+      }
     },
     {
       "key": "fresh-yeast",
       "grams": 9,
-      "note": "optional, for a more reliable rise alongside the sourdough"
+      "note": {
+        "en": "optional, for a more reliable rise alongside the sourdough"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1650,
-    "shape": "oval hearth loaf (bâtard)"
+    "shape": {
+      "en": "oval hearth loaf (bâtard)"
+    }
   },
   "time": {
     "totalMin": 1440,
@@ -127,7 +145,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Wrap in linen or paper; the crumb stays moist for most of a week."
+    "note": {
+      "en": "Wrap in linen or paper; the crumb stays moist for most of a week."
+    }
   },
   "equipment": [
     "banneton",
@@ -252,7 +272,9 @@
     "url": "https://einfachbrotbacken.de/brot-backen/mit-sauerteig/roggenmischbrot-mit-altbrot",
     "site": "EinfachBrotBacken",
     "retrieved": "2026-07-17",
-    "adaptation": "Simplified from a three-stage recipe (sourdough, Altbrot soaker, autolyse); Altbrot's water was folded into the hydration total, its dry weight kept out of the flour percentages."
+    "adaptation": {
+      "en": "Simplified from a three-stage recipe (sourdough, Altbrot soaker, autolyse); Altbrot's water was folded into the hydration total, its dry weight kept out of the flour percentages."
+    }
   },
   "tags": [
     "mischbrot",

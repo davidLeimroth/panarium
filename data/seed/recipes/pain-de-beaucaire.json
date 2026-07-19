@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Beaucaire, Gard (Languedoc)",
-    "note": "Traced to the 15th century in Beaucaire, once home to one of Europe's largest trade fairs on the banks of the Rhône."
+    "region": {
+      "en": "Beaucaire, Gard (Languedoc)"
+    },
+    "note": {
+      "en": "Traced to the 15th century in Beaucaire, once home to one of Europe's largest trade fairs on the banks of the Rhône."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -41,7 +45,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 1000,
-      "note": "T55"
+      "note": {
+        "en": "T55"
+      }
     },
     {
       "key": "water",
@@ -50,7 +56,9 @@
     {
       "key": "levain",
       "grams": 500,
-      "note": "about a quarter of the dough's weight"
+      "note": {
+        "en": "about a quarter of the dough's weight"
+      }
     },
     {
       "key": "salt",
@@ -64,7 +72,9 @@
   "yield": {
     "count": 3,
     "pieceGrams": 650,
-    "shape": "rectangular, folded into quarters"
+    "shape": {
+      "en": "rectangular, folded into quarters"
+    }
   },
   "time": {
     "totalMin": 270,
@@ -103,7 +113,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Its high levain ratio was prized for letting it be stored without hardening, useful in the hot Languedoc summers."
+    "note": {
+      "en": "Its high levain ratio was prized for letting it be stored without hardening, useful in the hot Languedoc summers."
+    }
   },
   "equipment": [
     "banneton",
@@ -211,7 +223,9 @@
     "url": "https://www.bloc-notes-culinaire.com/2018/02/pain-de-beaucaire.html",
     "site": "Bloc-notes culinaire",
     "retrieved": "2026-07-17",
-    "adaptation": "Levain's own flour/water content estimated (assumed roughly 100%-hydration liquid levain) and folded into total baker's percentages."
+    "adaptation": {
+      "en": "Levain's own flour/water content estimated (assumed roughly 100%-hydration liquid levain) and folded into total baker's percentages."
+    }
   },
   "tags": [
     "languedoc",

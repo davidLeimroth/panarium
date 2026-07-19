@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "YE",
-    "region": "Yemenite Jewish communities (Aden), now centered in Israel",
-    "note": "Baked overnight in observance of the Sabbath prohibition on cooking; became a fixture of Israeli cuisine after mass Yemenite Jewish immigration in the 1950s."
+    "region": {
+      "en": "Yemenite Jewish communities (Aden), now centered in Israel"
+    },
+    "note": {
+      "en": "Baked overnight in observance of the Sabbath prohibition on cooking; became a fixture of Israeli cuisine after mass Yemenite Jewish immigration in the 1950s."
+    }
   },
   "leaven": "none",
   "family": "roll",
@@ -44,7 +48,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 1040,
-      "note": "all-purpose flour"
+      "note": {
+        "en": "all-purpose flour"
+      }
     },
     {
       "key": "water",
@@ -53,7 +59,9 @@
     {
       "key": "sugar",
       "grams": 55,
-      "note": "brown sugar"
+      "note": {
+        "en": "brown sugar"
+      }
     },
     {
       "key": "salt",
@@ -66,13 +74,17 @@
     {
       "key": "butter",
       "grams": 227,
-      "note": "softened, for laminating the sheets"
+      "note": {
+        "en": "softened, for laminating the sheets"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 175,
-    "shape": "rolled log, sliced into pinwheels after baking"
+    "shape": {
+      "en": "rolled log, sliced into pinwheels after baking"
+    }
   },
   "time": {
     "totalMin": 1350,
@@ -111,7 +123,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Slices keep well refrigerated and reheat nicely pan-fried or in a low oven; freezes for longer storage."
+    "note": {
+      "en": "Slices keep well refrigerated and reheat nicely pan-fried or in a low oven; freezes for longer storage."
+    }
   },
   "equipment": [
     "dutch-oven",
@@ -235,7 +249,9 @@
     "url": "https://www.jewishfoodsociety.org/recipes/jachnun-yemenite-jewish-bread-with-slow-cooked-egg",
     "site": "Jewish Food Society",
     "retrieved": "2026-07-18",
-    "adaptation": "Water amount taken as the midpoint of the source's stated 2½-3 cup range; bread slices used only to line the traditional baking pot are omitted from the ingredient list."
+    "adaptation": {
+      "en": "Water amount taken as the midpoint of the source's stated 2½-3 cup range; bread slices used only to line the traditional baking pot are omitted from the ingredient list."
+    }
   },
   "tags": [
     "shabbat",

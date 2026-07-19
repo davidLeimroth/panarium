@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "VN",
-    "region": "Saigon (Ho Chi Minh City) and nationwide",
-    "note": "Adapted from the French colonial baguette introduced in the mid-1800s; wartime wheat shortages later pushed some bakers toward lighter, sometimes rice-flour-blended doughs, shaping its thin-crusted character."
+    "region": {
+      "en": "Saigon (Ho Chi Minh City) and nationwide"
+    },
+    "note": {
+      "en": "Adapted from the French colonial baguette introduced in the mid-1800s; wartime wheat shortages later pushed some bakers toward lighter, sometimes rice-flour-blended doughs, shaping its thin-crusted character."
+    }
   },
   "leaven": "yeast",
   "family": "baguette",
@@ -43,7 +47,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 375,
-      "note": "bread flour, high protein"
+      "note": {
+        "en": "bread flour, high protein"
+      }
     },
     {
       "key": "water",
@@ -65,7 +71,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 102,
-    "shape": "thin torpedo roll, about 10-12 inches"
+    "shape": {
+      "en": "thin torpedo roll, about 10-12 inches"
+    }
   },
   "time": {
     "totalMin": 145,
@@ -104,7 +112,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best within hours of baking while the crust still crackles; classically bought fresh for same-day banh mi."
+    "note": {
+      "en": "Best within hours of baking while the crust still crackles; classically bought fresh for same-day banh mi."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -211,7 +221,9 @@
     "url": "https://fullofplants.com/how-to-make-banh-mi-vietnamese-baguette/",
     "site": "Full of Plants",
     "retrieved": "2026-07-17",
-    "adaptation": "Simplified to the core lean dough; bread improver, vitamin C powder and butter brushing omitted as non-traditional additions."
+    "adaptation": {
+      "en": "Simplified to the core lean dough; bread improver, vitamin C powder and butter brushing omitted as non-traditional additions."
+    }
   },
   "tags": [
     "street-food",

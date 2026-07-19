@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "DK",
-    "region": "nationwide",
-    "note": "A daily staple since the Middle Ages and the base of smørrebrød, Denmark's open sandwich tradition."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "A daily staple since the Middle Ages and the base of smørrebrød, Denmark's open sandwich tradition."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -47,7 +51,9 @@
     {
       "key": "flour:rye-whole",
       "grams": 635,
-      "note": "wholegrain rye flour plus cracked rye meal, split across two sour stages"
+      "note": {
+        "en": "wholegrain rye flour plus cracked rye meal, split across two sour stages"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -70,7 +76,9 @@
     {
       "key": "sourdough-starter",
       "grams": 5,
-      "note": "active rye sour culture"
+      "note": {
+        "en": "active rye sour culture"
+      }
     },
     {
       "key": "salt",
@@ -79,7 +87,9 @@
     {
       "key": "molasses",
       "grams": 25,
-      "note": "or dark corn syrup"
+      "note": {
+        "en": "or dark corn syrup"
+      }
     },
     {
       "key": "pumpkin-seeds",
@@ -101,7 +111,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1250,
-    "shape": "pullman/tin loaf"
+    "shape": {
+      "en": "pullman/tin loaf"
+    }
   },
   "time": {
     "totalMin": 1740,
@@ -140,7 +152,9 @@
   "keeping": {
     "freshDays": 7,
     "freezes": true,
-    "note": "Wrap and rest a full day before the first slice; the crumb needs it to set."
+    "note": {
+      "en": "Wrap and rest a full day before the first slice; the crumb needs it to set."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -264,7 +278,9 @@
     "site": "The Rye Baker",
     "author": "Stanley Ginsberg",
     "retrieved": "2026-07-17",
-    "adaptation": "Scaled to a single home loaf from the source's two-loaf bakery formula; percentages preserved."
+    "adaptation": {
+      "en": "Scaled to a single home loaf from the source's two-loaf bakery formula; percentages preserved."
+    }
   },
   "tags": [
     "smørrebrød",

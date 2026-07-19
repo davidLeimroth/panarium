@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Stoke-on-Trent and North Staffordshire",
-    "note": "Sold since the 18th century from small 'hole in the wall' street windows as a cheap, filling breakfast for local pottery workers; still filled and rolled with bacon, cheese or beans today."
+    "region": {
+      "en": "Stoke-on-Trent and North Staffordshire"
+    },
+    "note": {
+      "en": "Sold since the 18th century from small 'hole in the wall' street windows as a cheap, filling breakfast for local pottery workers; still filled and rolled with bacon, cheese or beans today."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -48,17 +52,23 @@
     {
       "key": "flour:oat",
       "grams": 150,
-      "note": "fine oatmeal, or oats ground fine"
+      "note": {
+        "en": "fine oatmeal, or oats ground fine"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 60,
-      "note": "strong white flour"
+      "note": {
+        "en": "strong white flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 60,
-      "note": "strong wholemeal flour"
+      "note": {
+        "en": "strong wholemeal flour"
+      }
     },
     {
       "key": "salt",
@@ -67,7 +77,9 @@
     {
       "key": "instant-yeast",
       "grams": 2,
-      "note": "fast-action dried yeast"
+      "note": {
+        "en": "fast-action dried yeast"
+      }
     },
     {
       "key": "milk",
@@ -76,18 +88,24 @@
     {
       "key": "water",
       "grams": 250,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 14,
-      "note": "for frying"
+      "note": {
+        "en": "for frying"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 105,
-    "shape": "large thin griddle rounds, about 20cm/8 inches across"
+    "shape": {
+      "en": "large thin griddle rounds, about 20cm/8 inches across"
+    }
   },
   "time": {
     "totalMin": 150,
@@ -126,7 +144,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Stacks and keeps a few days refrigerated; classically refreshed in a hot dry pan before filling and rolling."
+    "note": {
+      "en": "Stacks and keeps a few days refrigerated; classically refreshed in a hot dry pan before filling and rolling."
+    }
   },
   "equipment": [
     "griddle"
@@ -233,7 +253,9 @@
     "url": "https://www.littlesugarsnaps.com/staffordshire-oatcakes/",
     "site": "Little Sugar Snaps",
     "retrieved": "2026-07-18",
-    "adaptation": "Frying oil quantity estimated per standard griddle-bread practice; the source specifies 'flavourless oil' without a fixed total amount."
+    "adaptation": {
+      "en": "Frying oil quantity estimated per standard griddle-bread practice; the source specifies 'flavourless oil' without a fixed total amount."
+    }
   },
   "tags": [
     "stoke-on-trent",

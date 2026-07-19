@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "TR",
-    "region": "Turkey (Anatolia); nomadic Central Asian roots",
-    "note": "The name likely derives from Turkish 'közleme', to cook on embers, reflecting origins among nomadic communities migrating from Central Asia into Anatolia."
+    "region": {
+      "en": "Turkey (Anatolia); nomadic Central Asian roots"
+    },
+    "note": {
+      "en": "The name likely derives from Turkish 'közleme', to cook on embers, reflecting origins among nomadic communities migrating from Central Asia into Anatolia."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -46,12 +50,16 @@
     {
       "key": "water",
       "grams": 237,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "olive-oil",
       "grams": 41,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "salt",
@@ -66,7 +74,9 @@
         "ro": "spanac baby"
       },
       "grams": 120,
-      "note": "roughly chopped, for the filling"
+      "note": {
+        "en": "roughly chopped, for the filling"
+      }
     },
     {
       "label": {
@@ -77,17 +87,23 @@
         "ro": "ceapă galbenă"
       },
       "grams": 110,
-      "note": "finely chopped, for the filling"
+      "note": {
+        "en": "finely chopped, for the filling"
+      }
     },
     {
       "key": "olive-oil",
       "grams": 27,
-      "note": "for cooking the filling"
+      "note": {
+        "en": "for cooking the filling"
+      }
     },
     {
       "key": "cheese",
       "grams": 150,
-      "note": "feta, crumbled, for the filling"
+      "note": {
+        "en": "feta, crumbled, for the filling"
+      }
     },
     {
       "label": {
@@ -98,13 +114,17 @@
         "ro": "ardei Aleppo"
       },
       "grams": 1,
-      "note": "for the filling"
+      "note": {
+        "en": "for the filling"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 194,
-    "shape": "filled, folded square or rectangle, thin"
+    "shape": {
+      "en": "filled, folded square or rectangle, thin"
+    }
   },
   "time": {
     "totalMin": 70,
@@ -142,7 +162,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best eaten hot off the griddle while the layers are crisp; leftovers soften as the filling's moisture seeps in, though reheating on a dry pan helps. Freezes well before cooking."
+    "note": {
+      "en": "Best eaten hot off the griddle while the layers are crisp; leftovers soften as the filling's moisture seeps in, though reheating on a dry pan helps. Freezes well before cooking."
+    }
   },
   "equipment": [
     "griddle"
@@ -265,7 +287,9 @@
     "url": "https://www.themediterraneandish.com/gozleme-turkish-flatbread/",
     "site": "The Mediterranean Dish",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration recomputed from the source's own stated 473 g flour figure rather than its cup-based approximation, which implied a different flour weight per cup."
+    "adaptation": {
+      "en": "Hydration recomputed from the source's own stated 473 g flour figure rather than its cup-based approximation, which implied a different flour weight per cup."
+    }
   },
   "tags": [
     "street-food",

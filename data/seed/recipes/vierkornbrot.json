@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Germany-wide",
-    "note": "Not a historic regional specialty but a deliberately composed modern everyday loaf; the barley is included partly for its beta-glucan content, not just flavor."
+    "region": {
+      "en": "Germany-wide"
+    },
+    "note": {
+      "en": "Not a historic regional specialty but a deliberately composed modern everyday loaf; the barley is included partly for its beta-glucan content, not just flavor."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -54,22 +58,30 @@
     {
       "key": "flour:spelt-whole",
       "grams": 398,
-      "note": "in the overnight pre-dough"
+      "note": {
+        "en": "in the overnight pre-dough"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 388,
-      "note": "type 1050"
+      "note": {
+        "en": "type 1050"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 99,
-      "note": "type 1150, in the overnight sourdough"
+      "note": {
+        "en": "type 1150, in the overnight sourdough"
+      }
     },
     {
       "key": "flour:barley",
       "grams": 99,
-      "note": "wholegrain barley flour"
+      "note": {
+        "en": "wholegrain barley flour"
+      }
     },
     {
       "key": "water",
@@ -78,7 +90,9 @@
     {
       "key": "sourdough-starter",
       "grams": 20,
-      "note": "soft rye starter (TA 200)"
+      "note": {
+        "en": "soft rye starter (TA 200)"
+      }
     },
     {
       "key": "salt",
@@ -87,7 +101,9 @@
     {
       "key": "vegetable-oil",
       "grams": 20,
-      "note": "sunflower oil"
+      "note": {
+        "en": "sunflower oil"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -97,7 +113,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1480,
-    "shape": "large oblong hearth loaf"
+    "shape": {
+      "en": "large oblong hearth loaf"
+    }
   },
   "time": {
     "totalMin": 990,
@@ -137,7 +155,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "The sunflower oil and rye sourdough both help this loaf stay soft several days longer than a lean wheat bread."
+    "note": {
+      "en": "The sunflower oil and rye sourdough both help this loaf stay soft several days longer than a lean wheat bread."
+    }
   },
   "equipment": [
     "baking-stone",
@@ -262,7 +282,9 @@
     "site": "Plötzblog",
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages reconciled by resolving the soft rye starter (TA 200) into its flour/water components, matching the source's own wholegrain math; method paraphrased and condensed."
+    "adaptation": {
+      "en": "Percentages reconciled by resolving the soft rye starter (TA 200) into its flour/water components, matching the source's own wholegrain math; method paraphrased and condensed."
+    }
   },
   "tags": [
     "mehrkornbrot",

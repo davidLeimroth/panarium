@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "New York City",
-    "note": "Descended from ring-shaped breads of Polish-Jewish bakers; the boil-then-bake method and malt-sweetened water are the defining New York techniques."
+    "region": {
+      "en": "New York City"
+    },
+    "note": {
+      "en": "Descended from ring-shaped breads of Polish-Jewish bakers; the boil-then-bake method and malt-sweetened water are the defining New York techniques."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -43,17 +47,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "bread flour, high gluten"
+      "note": {
+        "en": "bread flour, high gluten"
+      }
     },
     {
       "key": "water",
       "grams": 290,
-      "note": "warm, ~35°C"
+      "note": {
+        "en": "warm, ~35°C"
+      }
     },
     {
       "key": "malt-syrup",
       "grams": 20,
-      "note": "barley malt syrup, plus more for the boiling water"
+      "note": {
+        "en": "barley malt syrup, plus more for the boiling water"
+      }
     },
     {
       "key": "salt",
@@ -67,7 +77,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 137,
-    "shape": "hand-rolled ring, boiled then baked"
+    "shape": {
+      "en": "hand-rolled ring, boiled then baked"
+    }
   },
   "time": {
     "totalMin": 700,
@@ -107,7 +119,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day it's baked; slice before freezing so it goes straight from freezer to toaster."
+    "note": {
+      "en": "Best the day it's baked; slice before freezing so it goes straight from freezer to toaster."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -214,7 +228,9 @@
     "url": "https://thepracticalkitchen.com/hand-rolled-new-york-style-bagels-overnight-recipe/",
     "site": "The Practical Kitchen",
     "retrieved": "2026-07-17",
-    "adaptation": "Core dough ratios kept as sourced; egg wash and optional vital wheat gluten omitted from the ingredient list."
+    "adaptation": {
+      "en": "Core dough ratios kept as sourced; egg wash and optional vital wheat gluten omitted from the ingredient list."
+    }
   },
   "tags": [
     "deli",

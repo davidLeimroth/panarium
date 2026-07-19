@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "PL",
-    "region": "Kraków and Wieliczka",
-    "note": "First documented in royal ledgers from 1394; holds EU Protected Geographical Indication status, restricted to Kraków and Wieliczka."
+    "region": {
+      "en": "Kraków and Wieliczka"
+    },
+    "note": {
+      "en": "First documented in royal ledgers from 1394; holds EU Protected Geographical Indication status, restricted to Kraków and Wieliczka."
+    }
   },
   "leaven": "yeast",
   "family": "ring",
@@ -58,28 +62,38 @@
     {
       "key": "baking-soda",
       "grams": 14,
-      "note": "for the boiling water bath"
+      "note": {
+        "en": "for the boiling water bath"
+      }
     },
     {
       "key": "honey",
       "grams": 21,
-      "note": "for the boiling water bath, for shine"
+      "note": {
+        "en": "for the boiling water bath, for shine"
+      }
     },
     {
       "key": "sesame-seeds",
       "grams": 15,
-      "note": "topping, half the batch"
+      "note": {
+        "en": "topping, half the batch"
+      }
     },
     {
       "key": "poppy-seeds",
       "grams": 15,
-      "note": "topping, other half of the batch"
+      "note": {
+        "en": "topping, other half of the batch"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 115,
-    "shape": "twisted ring, boiled then baked"
+    "shape": {
+      "en": "twisted ring, boiled then baked"
+    }
   },
   "time": {
     "totalMin": 145,
@@ -118,7 +132,9 @@
   "keeping": {
     "freshDays": 0.5,
     "freezes": true,
-    "note": "Best eaten within a few hours of baking, still warm from the cart; can be frozen and refreshed in the oven."
+    "note": {
+      "en": "Best eaten within a few hours of baking, still warm from the cart; can be frozen and refreshed in the oven."
+    }
   },
   "equipment": [
     "sheet-pan"

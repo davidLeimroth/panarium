@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Pacific Northwest artisan bakeries",
-    "note": "Built around Cairnspring Mills' stone-milled Trailblazer flour from Washington State; part of the broader high-extraction-flour movement in contemporary American artisan baking."
+    "region": {
+      "en": "Pacific Northwest artisan bakeries"
+    },
+    "note": {
+      "en": "Built around Cairnspring Mills' stone-milled Trailblazer flour from Washington State; part of the broader high-extraction-flour movement in contemporary American artisan baking."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -45,7 +49,9 @@
     {
       "key": "flour:wheat-whole",
       "grams": 946,
-      "note": "single high-extraction (Type 85-style) flour, e.g. Cairnspring Trailblazer"
+      "note": {
+        "en": "single high-extraction (Type 85-style) flour, e.g. Cairnspring Trailblazer"
+      }
     },
     {
       "key": "water",
@@ -63,7 +69,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "boule or bâtard"
+    "shape": {
+      "en": "boule or bâtard"
+    }
   },
   "time": {
     "totalMin": 1710,
@@ -241,7 +249,9 @@
     "site": "Cairnspring Mills",
     "author": "Maurizio Leo, from 'The Perfect Loaf' (2022)",
     "retrieved": "2026-07-17",
-    "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown, since no exact taxonomy match exists for it."
+    "adaptation": {
+      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown, since no exact taxonomy match exists for it."
+    }
   },
   "tags": [
     "high-extraction",

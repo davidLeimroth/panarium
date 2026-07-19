@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "Punjab, North India",
-    "note": "The classic partner of chole (spiced chickpeas); yeast is a modern shortcut, the traditional rise comes only from fermented yogurt and a long rest."
+    "region": {
+      "en": "Punjab, North India"
+    },
+    "note": {
+      "en": "The classic partner of chole (spiced chickpeas); yeast is a modern shortcut, the traditional rise comes only from fermented yogurt and a long rest."
+    }
   },
   "leaven": "chemical",
   "family": "fried",
@@ -47,22 +51,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 250,
-      "note": "all-purpose flour (maida)"
+      "note": {
+        "en": "all-purpose flour (maida)"
+      }
     },
     {
       "key": "flour:durum",
       "grams": 20,
-      "note": "fine semolina (sooji)"
+      "note": {
+        "en": "fine semolina (sooji)"
+      }
     },
     {
       "key": "yogurt",
       "grams": 60,
-      "note": "full-fat"
+      "note": {
+        "en": "full-fat"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 13.5,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "sugar",
@@ -83,18 +95,24 @@
     {
       "key": "water",
       "grams": 110,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 65,
-      "note": "for deep-frying; amount absorbed is estimated"
+      "note": {
+        "en": "for deep-frying; amount absorbed is estimated"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 66,
-    "shape": "6-7 in (15-18 cm) fried oval"
+    "shape": {
+      "en": "6-7 in (15-18 cm) fried oval"
+    }
   },
   "time": {
     "totalMin": 235,
@@ -133,7 +151,9 @@
   "keeping": {
     "freshDays": 0.5,
     "freezes": true,
-    "note": "Eats best minutes after frying while still puffed; deflates and toughens once cold. Shaped raw dough balls freeze well before frying."
+    "note": {
+      "en": "Eats best minutes after frying while still puffed; deflates and toughens once cold. Shaped raw dough balls freeze well before frying."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -240,7 +260,9 @@
     "url": "https://www.indianhealthyrecipes.com/bhatura/",
     "site": "Swasthi's Recipes",
     "retrieved": "2026-07-18",
-    "adaptation": "Used baking soda/powder rather than fruit-salt (Eno) to fit the taxonomy; frying-oil absorption estimated per convention; salt increased slightly from the source's very light 1/4 tsp."
+    "adaptation": {
+      "en": "Used baking soda/powder rather than fruit-salt (Eno) to fit the taxonomy; frying-oil absorption estimated per convention; salt increased slightly from the source's very light 1/4 tsp."
+    }
   },
   "tags": [
     "punjabi",

@@ -23,8 +23,12 @@
   },
   "origin": {
     "country": "UA",
-    "region": "with parallel Slovak, Rusyn and Carpatho-Rusyn variants across Central-Eastern Europe",
-    "note": "Close relatives include Slovak kolač and Carpatho-Rusyn wedding breads, all ring-shaped and ceremonial. Not to be confused with Czech/Texan kolache, a small filled sweet bun that is a completely different pastry."
+    "region": {
+      "en": "with parallel Slovak, Rusyn and Carpatho-Rusyn variants across Central-Eastern Europe"
+    },
+    "note": {
+      "en": "Close relatives include Slovak kolač and Carpatho-Rusyn wedding breads, all ring-shaped and ceremonial. Not to be confused with Czech/Texan kolache, a small filled sweet bun that is a completely different pastry."
+    }
   },
   "leaven": "yeast",
   "family": "ring",
@@ -47,22 +51,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 156,
-      "note": "for the sponge/starter"
+      "note": {
+        "en": "for the sponge/starter"
+      }
     },
     {
       "key": "milk",
       "grams": 120,
-      "note": "warm, for the starter"
+      "note": {
+        "en": "warm, for the starter"
+      }
     },
     {
       "key": "instant-yeast",
       "grams": 6,
-      "note": "split between starter and dough"
+      "note": {
+        "en": "split between starter and dough"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 255,
-      "note": "for the final dough"
+      "note": {
+        "en": "for the final dough"
+      }
     },
     {
       "key": "water",
@@ -71,7 +83,9 @@
     {
       "key": "butter",
       "grams": 56,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "key": "honey",
@@ -84,7 +98,9 @@
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "vanilla",
@@ -99,18 +115,24 @@
         "ro": "extract de rom și lămâie"
       },
       "grams": 20,
-      "note": "flavoring; rum can be omitted"
+      "note": {
+        "en": "flavoring; rum can be omitted"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "for egg wash, brushed before baking; not counted in hydration"
+      "note": {
+        "en": "for egg wash, brushed before baking; not counted in hydration"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 780,
-    "shape": "one large braided ring (stacked 3-high for Christmas Eve)"
+    "shape": {
+      "en": "one large braided ring (stacked 3-high for Christmas Eve)"
+    }
   },
   "time": {
     "totalMin": 330,
@@ -150,7 +172,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Stays soft longer than a lean loaf thanks to the egg and butter; wrap well once cooled."
+    "note": {
+      "en": "Stays soft longer than a lean loaf thanks to the egg and butter; wrap well once cooled."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -274,7 +298,9 @@
     "url": "https://abreadaday.com/kolach-ukranian-christmas-bread/",
     "site": "A Bread A Day",
     "retrieved": "2026-07-17",
-    "adaptation": "Vanilla, rum and lemon extract combined into one flavoring line; egg-wash egg excluded from hydration % as a surface treatment, not dough liquid."
+    "adaptation": {
+      "en": "Vanilla, rum and lemon extract combined into one flavoring line; egg-wash egg excluded from hydration % as a surface treatment, not dough liquid."
+    }
   },
   "tags": [
     "wedding-bread",

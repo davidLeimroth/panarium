@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American craft-brewery bakeries",
-    "note": "Spent grain is beer brewing's biggest byproduct by volume; pairing a brewery with a bakery to bake it into bread is a 21st-century sustainability practice, not a historical recipe."
+    "region": {
+      "en": "Modern American craft-brewery bakeries"
+    },
+    "note": {
+      "en": "Spent grain is beer brewing's biggest byproduct by volume; pairing a brewery with a bakery to bake it into bread is a 21st-century sustainability practice, not a historical recipe."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -51,7 +55,9 @@
     {
       "key": "instant-yeast",
       "grams": 18,
-      "note": "or active dry yeast"
+      "note": {
+        "en": "or active dry yeast"
+      }
     },
     {
       "key": "butter",
@@ -105,7 +111,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 820,
-    "shape": "free-standing loaf on a sheet pan"
+    "shape": {
+      "en": "free-standing loaf on a sheet pan"
+    }
   },
   "time": {
     "totalMin": 205,
@@ -144,7 +152,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "A moist, tender loaf from all the added liquid; a good way to use spent grain a brewery would otherwise discard."
+    "note": {
+      "en": "A moist, tender loaf from all the added liquid; a good way to use spent grain a brewery would otherwise discard."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -283,7 +293,9 @@
     "url": "https://www.woodstockinnbrewery.com/sustainable-baking-and-brewing-spent-grain-beer-bread-recipe/",
     "site": "Woodstock Inn Brewery",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup measurements converted to grams; spent grain and flour weights are estimates since densities vary by brew and mill. Hydration counts only water, milk and juice at their approximate water content."
+    "adaptation": {
+      "en": "Cup measurements converted to grams; spent grain and flour weights are estimates since densities vary by brew and mill. Hydration counts only water, milk and juice at their approximate water content."
+    }
   },
   "tags": [
     "upcycled",

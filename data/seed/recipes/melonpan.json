@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "JP",
-    "region": "nationwide",
-    "note": "Part of the kashipan (sweet bread) family sold at every Japanese bakery and convenience store; regional cousins swap the cookie crust for cocoa or matcha versions."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Part of the kashipan (sweet bread) family sold at every Japanese bakery and convenience store; regional cousins swap the cookie crust for cocoa or matcha versions."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -44,7 +48,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 250,
-      "note": "225g bread flour + 25g cake flour, for the bread dough"
+      "note": {
+        "en": "225g bread flour + 25g cake flour, for the bread dough"
+      }
     },
     {
       "key": "water",
@@ -87,17 +93,23 @@
     {
       "key": "butter",
       "grams": 60,
-      "note": "for the cookie crust"
+      "note": {
+        "en": "for the cookie crust"
+      }
     },
     {
       "key": "sugar",
       "grams": 100,
-      "note": "for the cookie crust"
+      "note": {
+        "en": "for the cookie crust"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "for the cookie crust"
+      "note": {
+        "en": "for the cookie crust"
+      }
     },
     {
       "key": "baking-powder",
@@ -106,13 +118,17 @@
     {
       "key": "sugar",
       "grams": 25,
-      "note": "for rolling the shaped buns before scoring"
+      "note": {
+        "en": "for rolling the shaped buns before scoring"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 92,
-    "shape": "round bun, cross-hatched cookie crust, ~9 cm"
+    "shape": {
+      "en": "round bun, cross-hatched cookie crust, ~9 cm"
+    }
   },
   "time": {
     "totalMin": 210,
@@ -152,7 +168,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "The cookie crust is crispest the day it is baked and softens as it sits; still freezes and reheats acceptably in a toaster oven."
+    "note": {
+      "en": "The cookie crust is crispest the day it is baked and softens as it sits; still freezes and reheats acceptably in a toaster oven."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -276,7 +294,9 @@
     "url": "https://www.justonecookbook.com/melon-pan/",
     "site": "Just One Cookbook",
     "retrieved": "2026-07-18",
-    "adaptation": "Formula percentages describe the yeasted bread dough only; the cookie-dough crust is listed separately and excluded from the formula, since it isn't a bread dough. Salt estimated at standard density."
+    "adaptation": {
+      "en": "Formula percentages describe the yeasted bread dough only; the cookie-dough crust is listed separately and excluded from the formula, since it isn't a bread dough. Salt estimated at standard density."
+    }
   },
   "tags": [
     "kashipan",

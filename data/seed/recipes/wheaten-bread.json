@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Northern Ireland",
-    "note": "The everyday brown soda bread of Ulster tables, distinct from the white soda farl; buttermilk's acid reacting with bicarbonate of soda gives the rise instead of yeast."
+    "region": {
+      "en": "Northern Ireland"
+    },
+    "note": {
+      "en": "The everyday brown soda bread of Ulster tables, distinct from the white soda farl; buttermilk's acid reacting with bicarbonate of soda gives the rise instead of yeast."
+    }
   },
   "leaven": "chemical",
   "family": "quick",
@@ -46,12 +50,16 @@
     {
       "key": "flour:wheat-whole",
       "grams": 142,
-      "note": "wholemeal"
+      "note": {
+        "en": "wholemeal"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 227,
-      "note": "plain flour"
+      "note": {
+        "en": "plain flour"
+      }
     },
     {
       "key": "buttermilk",
@@ -87,7 +95,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 700,
-    "shape": "round farmhouse loaf, deep cross scored on top"
+    "shape": {
+      "en": "round farmhouse loaf, deep cross scored on top"
+    }
   },
   "time": {
     "totalMin": 65,
@@ -125,7 +135,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Keeps better than white soda bread thanks to the wholemeal; many say it's best thickly sliced and toasted from day two."
+    "note": {
+      "en": "Keeps better than white soda bread thanks to the wholemeal; many say it's best thickly sliced and toasted from day two."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -232,7 +244,9 @@
     "url": "https://discovernorthernireland.com/blog/post/how-to-make-traditional-irish-wheaten-bread/",
     "site": "Discover Northern Ireland",
     "retrieved": "2026-07-18",
-    "adaptation": "Source gave a wide buttermilk range and only 'a pinch' of salt; standardized both to defined baker's percentages, and omitted the optional wheat germ and bran boosters for a clean baseline formula."
+    "adaptation": {
+      "en": "Source gave a wide buttermilk range and only 'a pinch' of salt; standardized both to defined baker's percentages, and omitted the optional wheat germ and bran boosters for a clean baseline formula."
+    }
   },
   "tags": [
     "ulster",

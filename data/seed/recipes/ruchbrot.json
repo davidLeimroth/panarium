@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "CH",
-    "region": "German-speaking Switzerland",
-    "note": "Ruchmehl is Switzerland's characteristic darker wheat flour, milled with more bran and germ left in than white flour but less than full wholemeal."
+    "region": {
+      "en": "German-speaking Switzerland"
+    },
+    "note": {
+      "en": "Ruchmehl is Switzerland's characteristic darker wheat flour, milled with more bran and germ left in than white flour but less than full wholemeal."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -41,7 +45,9 @@
     {
       "key": "flour:wheat-whole",
       "grams": 425,
-      "note": "Ruchmehl, split between an overnight pre-dough and the main dough"
+      "note": {
+        "en": "Ruchmehl, split between an overnight pre-dough and the main dough"
+      }
     },
     {
       "key": "water",
@@ -59,7 +65,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 650,
-    "shape": "oblong hearth loaf with three diagonal slashes"
+    "shape": {
+      "en": "oblong hearth loaf with three diagonal slashes"
+    }
   },
   "time": {
     "totalMin": 2237,
@@ -98,7 +106,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "A lean, all-wheat crumb; best within a few days once wrapped in linen or paper."
+    "note": {
+      "en": "A lean, all-wheat crumb; best within a few days once wrapped in linen or paper."
+    }
   },
   "equipment": [
     "baking-stone",
@@ -223,7 +233,9 @@
     "site": "Plötzblog",
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages taken from the site's own stated ratios; method paraphrased and condensed."
+    "adaptation": {
+      "en": "Percentages taken from the site's own stated ratios; method paraphrased and condensed."
+    }
   },
   "tags": [
     "ruchmehl",

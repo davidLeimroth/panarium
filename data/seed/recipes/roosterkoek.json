@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "ZA",
-    "region": "nationwide",
-    "note": "Named from rooster (the grill grid) and koek (cake) in Afrikaans; a fixture of the braai (barbecue) alongside grilled meat, cooked directly over the coals rather than in an oven."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Named from rooster (the grill grid) and koek (cake) in Afrikaans; a fixture of the braai (barbecue) alongside grilled meat, cooked directly over the coals rather than in an oven."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -42,12 +46,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "cake flour"
+      "note": {
+        "en": "cake flour"
+      }
     },
     {
       "key": "water",
       "grams": 415,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "instant-yeast",
@@ -61,7 +69,9 @@
   "yield": {
     "count": 12,
     "pieceGrams": 68,
-    "shape": "small rolls"
+    "shape": {
+      "en": "small rolls"
+    }
   },
   "time": {
     "totalMin": 100,
@@ -100,7 +110,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best hot off the coals with butter; leftovers dry out quickly, though the shaped dough balls can be frozen unbaked."
+    "note": {
+      "en": "Best hot off the coals with butter; leftovers dry out quickly, though the shaped dough balls can be frozen unbaked."
+    }
   },
   "equipment": [
     "griddle"
@@ -191,7 +203,9 @@
     "url": "https://braai.com/roosterkoek/",
     "site": "Braai.com (Jan Braai)",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/teaspoon quantities converted to grams; the source's ingredient list is intentionally minimal (no sugar or oil), reflecting the traditional simple recipe."
+    "adaptation": {
+      "en": "Cup/teaspoon quantities converted to grams; the source's ingredient list is intentionally minimal (no sugar or oil), reflecting the traditional simple recipe."
+    }
   },
   "tags": [
     "braai",

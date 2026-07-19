@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "PS",
-    "region": "Jerusalem and the West Bank",
-    "note": "Sold since Ottoman times by street vendors near Jerusalem's Old City gates; Palestinians consider the Jerusalem version the definitive one across the region."
+    "region": {
+      "en": "Jerusalem and the West Bank"
+    },
+    "note": {
+      "en": "Sold since Ottoman times by street vendors near Jerusalem's Old City gates; Palestinians consider the Jerusalem version the definitive one across the region."
+    }
   },
   "leaven": "yeast",
   "family": "ring",
@@ -45,12 +49,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 750,
-      "note": "all-purpose flour"
+      "note": {
+        "en": "all-purpose flour"
+      }
     },
     {
       "key": "water",
       "grams": 593,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "instant-yeast",
@@ -71,18 +79,24 @@
     {
       "key": "milk",
       "grams": 60,
-      "note": "for brushing before the sesame coating"
+      "note": {
+        "en": "for brushing before the sesame coating"
+      }
     },
     {
       "key": "sesame-seeds",
       "grams": 100,
-      "note": "hulled, toasted, coats both sides; source sets out a full 8 oz for dipping but much of it does not adhere"
+      "note": {
+        "en": "hulled, toasted, coats both sides; source sets out a full 8 oz for dipping but much of it does not adhere"
+      }
     }
   ],
   "yield": {
     "count": 5,
     "pieceGrams": 290,
-    "shape": "long oval ring/loop"
+    "shape": {
+      "en": "long oval ring/loop"
+    }
   },
   "time": {
     "totalMin": 175,
@@ -122,7 +136,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm the day it is baked; freezes well and crisps back up in a toaster or hot oven."
+    "note": {
+      "en": "Best warm the day it is baked; freezes well and crisps back up in a toaster or hot oven."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -245,7 +261,9 @@
     "url": "https://palestineinadish.com/recipes/kaek-al-quds-a-crusty-and-simple-jerusalem-sesame-bread/",
     "site": "Palestine in a Dish",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tablespoon quantities converted to grams with standard baking equivalents; sesame quantity reduced from the source's full 8 oz dipping tray to an estimated adhered coating weight."
+    "adaptation": {
+      "en": "Cup/tablespoon quantities converted to grams with standard baking equivalents; sesame quantity reduced from the source's full 8 oz dipping tray to an estimated adhered coating weight."
+    }
   },
   "tags": [
     "street-food",

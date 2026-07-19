@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "Cooked-grain porridge breads have roots across Northern Europe; this specific high-hydration sourdough treatment is a contemporary artisan formula."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "Cooked-grain porridge breads have roots across Northern Europe; this specific high-hydration sourdough treatment is a contemporary artisan formula."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -52,17 +56,23 @@
     {
       "key": "water",
       "grams": 845,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "rolled-oats",
       "grams": 250,
-      "note": "cooked into a porridge, plus extra for rolling the shaped loaf"
+      "note": {
+        "en": "cooked into a porridge, plus extra for rolling the shaped loaf"
+      }
     },
     {
       "key": "water",
       "grams": 500,
-      "note": "to cook the oat porridge"
+      "note": {
+        "en": "to cook the oat porridge"
+      }
     },
     {
       "key": "sourdough-starter",
@@ -76,7 +86,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 1250,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 1740,
@@ -115,7 +127,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "The cooked porridge keeps the crumb moist noticeably longer than a plain sourdough."
+    "note": {
+      "en": "The cooked porridge keeps the crumb moist noticeably longer than a plain sourdough."
+    }
   },
   "equipment": [
     "dutch-oven",
@@ -256,7 +270,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration counts only part of the porridge's cooking water as effective dough hydration, since much of it is bound into the cooked starch rather than behaving as free water."
+    "adaptation": {
+      "en": "Hydration counts only part of the porridge's cooking water as effective dough hydration, since much of it is bound into the cooked starch rather than behaving as free water."
+    }
   },
   "tags": [
     "porridge",

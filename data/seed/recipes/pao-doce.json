@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "PT",
-    "region": "Azores",
-    "note": "Called massa sovada ('kneaded dough') in the Azores; Azorean immigrants carried it to Hawaii in the late 1800s, where it evolved into Hawaiian sweet bread and, later, King's Hawaiian rolls."
+    "region": {
+      "en": "Azores"
+    },
+    "note": {
+      "en": "Called massa sovada ('kneaded dough') in the Azores; Azorean immigrants carried it to Hawaii in the late 1800s, where it evolved into Hawaiian sweet bread and, later, King's Hawaiian rolls."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -48,17 +52,23 @@
     {
       "key": "milk",
       "grams": 180,
-      "note": "warmed"
+      "note": {
+        "en": "warmed"
+      }
     },
     {
       "key": "egg",
       "grams": 200,
-      "note": "about 4 large eggs"
+      "note": {
+        "en": "about 4 large eggs"
+      }
     },
     {
       "key": "butter",
       "grams": 135,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "key": "sugar",
@@ -67,7 +77,9 @@
     {
       "key": "water",
       "grams": 76,
-      "note": "warm, for blooming the yeast"
+      "note": {
+        "en": "warm, for blooming the yeast"
+      }
     },
     {
       "key": "salt",
@@ -80,18 +92,24 @@
     {
       "key": "lemon-zest",
       "grams": 5,
-      "note": "from about 1 lemon"
+      "note": {
+        "en": "from about 1 lemon"
+      }
     },
     {
       "key": "mashed-potato",
       "grams": 60,
-      "note": "mashed sweet potato, a traditional Azorean addition"
+      "note": {
+        "en": "mashed sweet potato, a traditional Azorean addition"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1300,
-    "shape": "large round loaf, egg-washed and often cross-scored"
+    "shape": {
+      "en": "large round loaf, egg-washed and often cross-scored"
+    }
   },
   "time": {
     "totalMin": 420,
@@ -130,7 +148,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the day it's baked; toasts well or makes fine French toast from day two on."
+    "note": {
+      "en": "Best the day it's baked; toasts well or makes fine French toast from day two on."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -270,7 +290,9 @@
     "url": "https://byacores.com/en/azorean-sweet-bread/",
     "site": "By Açores",
     "retrieved": "2026-07-17",
-    "adaptation": "Ratios composited from this Azorean recipe with a moderate hydration increase; the overnight starter was simplified to one stage. Hawaii lineage per Wikipedia's Portuguese sweet bread entry."
+    "adaptation": {
+      "en": "Ratios composited from this Azorean recipe with a moderate hydration increase; the overnight starter was simplified to one stage. Hawaii lineage per Wikipedia's Portuguese sweet bread entry."
+    }
   },
   "tags": [
     "azores",

@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "CL",
-    "region": "nationwide, originally Valparaíso",
-    "note": "Said to be created by French immigrant brothers named Marraquette in 19th-century Valparaíso; it now accounts for roughly 70% of Chile's daily bread consumption."
+    "region": {
+      "en": "nationwide, originally Valparaíso"
+    },
+    "note": {
+      "en": "Said to be created by French immigrant brothers named Marraquette in 19th-century Valparaíso; it now accounts for roughly 70% of Chile's daily bread consumption."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -47,7 +51,9 @@
     {
       "key": "water",
       "grams": 600,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "salt",
@@ -64,13 +70,17 @@
     {
       "key": "vegetable-oil",
       "grams": 10,
-      "note": "for brushing before baking"
+      "note": {
+        "en": "for brushing before baking"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 206,
-    "shape": "two joined 100g balls pressed with a cross, four-lobed look"
+    "shape": {
+      "en": "two joined 100g balls pressed with a cross, four-lobed look"
+    }
   },
   "time": {
     "totalMin": 150,
@@ -110,7 +120,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best within hours of baking, when the crust still crackles; Chileans buy it fresh nearly every day."
+    "note": {
+      "en": "Best within hours of baking, when the crust still crackles; Chileans buy it fresh nearly every day."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -233,7 +245,9 @@
     "url": "https://www.chileanfoodrecipes.com/marraqueta-bread-recipe/",
     "site": "Chilean Food Recipes",
     "retrieved": "2026-07-17",
-    "adaptation": "Scaled ratios kept as sourced; 'dry yeast' treated as active-dry yeast."
+    "adaptation": {
+      "en": "Scaled ratios kept as sourced; 'dry yeast' treated as active-dry yeast."
+    }
   },
   "tags": [
     "chilean-staple",

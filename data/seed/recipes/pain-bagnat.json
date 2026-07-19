@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Nice (Alpes-Maritimes, Provence)",
-    "note": "'Pan bagnat' means 'wet bread' in old Niçois, the name of the finished sandwich, born as portable food for 19th-century fishermen and market workers. This entry is the plain roll itself."
+    "region": {
+      "en": "Nice (Alpes-Maritimes, Provence)"
+    },
+    "note": {
+      "en": "'Pan bagnat' means 'wet bread' in old Niçois, the name of the finished sandwich, born as portable food for 19th-century fishermen and market workers. This entry is the plain roll itself."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -41,7 +45,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 250,
-      "note": "T55"
+      "note": {
+        "en": "T55"
+      }
     },
     {
       "key": "water",
@@ -63,7 +69,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 180,
-    "shape": "round roll, about 20cm"
+    "shape": {
+      "en": "round roll, about 20cm"
+    }
   },
   "time": {
     "totalMin": 120,
@@ -102,7 +110,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Needs to hold its structure for a day, pan bagnat is famously better the next day once the filling's oil has soaked in."
+    "note": {
+      "en": "Needs to hold its structure for a day, pan bagnat is famously better the next day once the filling's oil has soaked in."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -209,7 +219,9 @@
     "url": "https://www.marciatack.fr/recette-pains-ronds/",
     "site": "MarciaTack",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt increased slightly from the source's volumetric 3g to 5g (2%) for standard French bread-salting practice."
+    "adaptation": {
+      "en": "Salt increased slightly from the source's volumetric 3g to 5g (2%) for standard French bread-salting practice."
+    }
   },
   "tags": [
     "nice",

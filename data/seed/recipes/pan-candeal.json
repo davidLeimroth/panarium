@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "ES",
-    "region": "Castile",
-    "note": "The 'sobado' or 'bregado' rolling technique, rather than kneading, is what gives this bread its uniquely tight, non-porous crumb."
+    "region": {
+      "en": "Castile"
+    },
+    "note": {
+      "en": "The 'sobado' or 'bregado' rolling technique, rather than kneading, is what gives this bread its uniquely tight, non-porous crumb."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -42,48 +46,66 @@
     {
       "key": "flour:wheat-white",
       "grams": 100,
-      "note": "harina panadera, in the prefermento"
+      "note": {
+        "en": "harina panadera, in the prefermento"
+      }
     },
     {
       "key": "water",
       "grams": 50,
-      "note": "in the prefermento"
+      "note": {
+        "en": "in the prefermento"
+      }
     },
     {
       "key": "salt",
       "grams": 2,
-      "note": "in the prefermento"
+      "note": {
+        "en": "in the prefermento"
+      }
     },
     {
       "key": "instant-yeast",
       "grams": 0.5,
-      "note": "in the prefermento"
+      "note": {
+        "en": "in the prefermento"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "300 g harina panadera plus 200 g harina panadera recia (strong wheat flour), in the final dough"
+      "note": {
+        "en": "300 g harina panadera plus 200 g harina panadera recia (strong wheat flour), in the final dough"
+      }
     },
     {
       "key": "water",
       "grams": 250,
-      "note": "in the final dough"
+      "note": {
+        "en": "in the final dough"
+      }
     },
     {
       "key": "instant-yeast",
       "grams": 2.5,
-      "note": "in the final dough"
+      "note": {
+        "en": "in the final dough"
+      }
     },
     {
       "key": "salt",
       "grams": 8,
-      "note": "in the final dough"
+      "note": {
+        "en": "in the final dough"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 913,
-    "shape": "flat torta, higher at the center, cross-scored on top"
+    "shape": {
+      "en": "flat torta, higher at the center, cross-scored on top"
+    }
   },
   "time": {
     "totalMin": 835,
@@ -121,7 +143,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Low hydration and a dense, sealed crumb are exactly why candeal keeps far longer than a typical high-hydration loaf; bakers historically prized it for durability."
+    "note": {
+      "en": "Low hydration and a dense, sealed crumb are exactly why candeal keeps far longer than a typical high-hydration loaf; bakers historically prized it for durability."
+    }
   },
   "equipment": [
     "stand-mixer"
@@ -228,7 +252,9 @@
     "url": "https://invitadoinvierno.com/pan-candeal-receta/",
     "site": "El Invitado de Invierno",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams follow the source's own stated aggregate totals (600 g flour / 300 g water / 10 g salt / 3 g yeast)."
+    "adaptation": {
+      "en": "Grams follow the source's own stated aggregate totals (600 g flour / 300 g water / 10 g salt / 3 g yeast)."
+    }
   },
   "tags": [
     "sobado",

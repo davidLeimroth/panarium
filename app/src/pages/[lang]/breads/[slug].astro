@@ -76,7 +76,7 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
  <header class="recipe-head">
  <div>
  <p class="kicker">
- {flagEmoji(r.origin.country)} {regionName(r.origin.country, lang)}{r.origin.region ? `, ${r.origin.region}` : ''}
+ {flagEmoji(r.origin.country)} {regionName(r.origin.country, lang)}{r.origin.region ? `, ${pick(r.origin.region, lang)}` : ''}
  </p>
  <h1>
  {rName}
@@ -186,7 +186,7 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
   </h2>
   <p class="fine mono">
  {fmt(t.recipe.forYield, { count: r.yield.count, grams: r.yield.pieceGrams })}
- {r.yield.shape ? ` · ${r.yield.shape}` : ''}
+ {r.yield.shape ? ` · ${pick(r.yield.shape, lang)}` : ''}
   </p>
  <FormulaCard
  client:visible
@@ -220,7 +220,7 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
   <p class="kitchen-note-text">{r.kitchenTested.note}</p>
   </blockquote>
   )}
-  {r.keeping.note && <p class="fine">{r.keeping.note}</p>}
+  {r.keeping.note && <p class="fine">{pick(r.keeping.note, lang)}</p>}
   </section>
 
  <section class="card pad source-card">
@@ -232,9 +232,9 @@ const labHref = withBase(`/${lang}/lab/?${labParams.toString()}`);
  {r.source.author ? ` · ${r.source.author}` : ''}
  </p>
  {r.source.adaptation && (
- <p class="fine">{t.recipe.adapted}: {r.source.adaptation}</p>
+ <p class="fine">{t.recipe.adapted}: {pick(r.source.adaptation, lang)}</p>
  )}
- {r.origin.note && <p class="fine">{r.origin.note}</p>}
+ {r.origin.note && <p class="fine">{pick(r.origin.note, lang)}</p>}
  <div class="no-print" style="margin-top: 10px;">
  <button class="chip" onclick="window.print()">🖨 {t.recipe.print}</button>
  </div>

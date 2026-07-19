@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "NG",
-    "region": "Agege, Lagos State, and nationwide",
-    "note": "Named for the Lagos suburb of Agege, where Jamaican immigrant baker Amos Shackleford popularized the extra-soft, tall-rising loaf now sold on nearly every Nigerian street corner."
+    "region": {
+      "en": "Agege, Lagos State, and nationwide"
+    },
+    "note": {
+      "en": "Named for the Lagos suburb of Agege, where Jamaican immigrant baker Amos Shackleford popularized the extra-soft, tall-rising loaf now sold on nearly every Nigerian street corner."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -43,17 +47,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 42,
-      "note": "for the tangzhong (cooked flour-water paste)"
+      "note": {
+        "en": "for the tangzhong (cooked flour-water paste)"
+      }
     },
     {
       "key": "water",
       "grams": 237,
-      "note": "for the tangzhong"
+      "note": {
+        "en": "for the tangzhong"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 531,
-      "note": "bread flour, for the main dough"
+      "note": {
+        "en": "bread flour, for the main dough"
+      }
     },
     {
       "key": "sugar",
@@ -70,18 +80,24 @@
     {
       "key": "butter",
       "grams": 57,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "milk",
       "grams": 180,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 995,
-    "shape": "pan loaf, built from 3-4 dough balls baked together"
+    "shape": {
+      "en": "pan loaf, built from 3-4 dough balls baked together"
+    }
   },
   "time": {
     "totalMin": 195,
@@ -122,7 +138,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The tangzhong technique keeps it soft for several days at room temperature; slices freeze well for toast."
+    "note": {
+      "en": "The tangzhong technique keeps it soft for several days at room temperature; slices freeze well for toast."
+    }
   },
   "equipment": [
     "loaf-pan",
@@ -246,7 +264,9 @@
     "url": "https://www.dashofjazz.com/how-to-make-agege-bread/",
     "site": "Dash of Jazz",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tablespoon quantities converted to grams; tangzhong flour and water folded into the overall flour and hydration totals."
+    "adaptation": {
+      "en": "Cup/tablespoon quantities converted to grams; tangzhong flour and water folded into the overall flour and hydration totals."
+    }
   },
   "tags": [
     "west-african",

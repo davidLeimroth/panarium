@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Milan, Lombardy",
-    "note": "Milanese in origin, traditionally leavened only with lievito madre, a stiff mother starter refreshed for days before baking. Home and industrial versions sometimes add a little baker's yeast for reliability, but classic artisan formulas stay purely natural."
+    "region": {
+      "en": "Milan, Lombardy"
+    },
+    "note": {
+      "en": "Milanese in origin, traditionally leavened only with lievito madre, a stiff mother starter refreshed for days before baking. Home and industrial versions sometimes add a little baker's yeast for reliability, but classic artisan formulas stay purely natural."
+    }
   },
   "leaven": "sourdough",
   "family": "sweet-loaf",
@@ -43,12 +47,16 @@
     {
       "key": "sourdough-starter",
       "grams": 69,
-      "note": "mature stiff lievito madre (pasta madre), about 40% hydration, refreshed before use"
+      "note": {
+        "en": "mature stiff lievito madre (pasta madre), about 40% hydration, refreshed before use"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 300,
-      "note": "high-protein (Manitoba-style) flour: 240g in the primo impasto, 60g in the secondo impasto"
+      "note": {
+        "en": "high-protein (Manitoba-style) flour: 240g in the primo impasto, 60g in the secondo impasto"
+      }
     },
     {
       "key": "water",
@@ -57,17 +65,23 @@
     {
       "key": "sugar",
       "grams": 141,
-      "note": "granulated: 75g in the primo impasto, 66g in the secondo impasto"
+      "note": {
+        "en": "granulated: 75g in the primo impasto, 66g in the secondo impasto"
+      }
     },
     {
       "key": "egg-yolk",
       "grams": 150,
-      "note": "54g in the primo impasto, 96g in the secondo impasto"
+      "note": {
+        "en": "54g in the primo impasto, 96g in the secondo impasto"
+      }
     },
     {
       "key": "butter",
       "grams": 112,
-      "note": "72g in the primo impasto, 40g in the secondo impasto, softened"
+      "note": {
+        "en": "72g in the primo impasto, 40g in the secondo impasto, softened"
+      }
     },
     {
       "key": "salt",
@@ -76,43 +90,59 @@
     {
       "key": "malt-syrup",
       "grams": 2,
-      "note": "diastatic malt powder; 1 tsp honey may substitute"
+      "note": {
+        "en": "diastatic malt powder; 1 tsp honey may substitute"
+      }
     },
     {
       "key": "honey",
       "grams": 30,
-      "note": "in the overnight aromatic infusion, with citrus zest"
+      "note": {
+        "en": "in the overnight aromatic infusion, with citrus zest"
+      }
     },
     {
       "key": "orange-zest",
       "grams": 5,
-      "note": "zest of 1 orange, in the aromatic infusion"
+      "note": {
+        "en": "zest of 1 orange, in the aromatic infusion"
+      }
     },
     {
       "key": "lemon-zest",
       "grams": 3,
-      "note": "zest of 1 lemon, in the aromatic infusion"
+      "note": {
+        "en": "zest of 1 lemon, in the aromatic infusion"
+      }
     },
     {
       "key": "vanilla",
       "grams": 3,
-      "note": "seeds scraped from 1 vanilla pod"
+      "note": {
+        "en": "seeds scraped from 1 vanilla pod"
+      }
     },
     {
       "key": "raisins",
       "grams": 120,
-      "note": "sultanas, folded in with the candied peel"
+      "note": {
+        "en": "sultanas, folded in with the candied peel"
+      }
     },
     {
       "key": "candied-citrus",
       "grams": 90,
-      "note": "60g candied orange peel plus 30g candied lemon peel"
+      "note": {
+        "en": "60g candied orange peel plus 30g candied lemon peel"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 550,
-    "shape": "tall paper panettone mold, ~13cm dia."
+    "shape": {
+      "en": "tall paper panettone mold, ~13cm dia."
+    }
   },
   "time": {
     "totalMin": 2010,
@@ -153,7 +183,9 @@
   "keeping": {
     "freshDays": 14,
     "freezes": true,
-    "note": "A proper natural-levain crumb stays remarkably soft and fragrant for about two weeks sealed at room temperature; the long fermentation and high sugar and fat content act as natural preservatives."
+    "note": {
+      "en": "A proper natural-levain crumb stays remarkably soft and fragrant for about two weeks sealed at room temperature; the long fermentation and high sugar and fat content act as natural preservatives."
+    }
   },
   "equipment": [
     "stand-mixer"
@@ -293,7 +325,9 @@
     "site": "Natasha's Baking",
     "author": "adapted from Piergiorgio Giorilli's formula",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased and condensed from a two-day primo/secondo impasto process; citrus zest and vanilla pod weights estimated since the source gives them by piece, not grams."
+    "adaptation": {
+      "en": "Method paraphrased and condensed from a two-day primo/secondo impasto process; citrus zest and vanilla pod weights estimated since the source gives them by piece, not grams."
+    }
   },
   "tags": [
     "lievito-madre",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "Khorasan wheat is ancient (Egypt/Fertile Crescent origins); 'Kamut' is a modern American trademark for the grain, and this sourdough treatment is a contemporary home-baking formula."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "Khorasan wheat is ancient (Egypt/Fertile Crescent origins); 'Kamut' is a modern American trademark for the grain, and this sourdough treatment is a contemporary home-baking formula."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -45,12 +49,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 300,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "flour:khorasan",
       "grams": 200,
-      "note": "whole grain Kamut"
+      "note": {
+        "en": "whole grain Kamut"
+      }
     },
     {
       "key": "water",
@@ -59,7 +67,9 @@
     {
       "key": "sourdough-starter",
       "grams": 75,
-      "note": "active"
+      "note": {
+        "en": "active"
+      }
     },
     {
       "key": "salt",
@@ -69,7 +79,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 870,
-    "shape": "boule or bâtard"
+    "shape": {
+      "en": "boule or bâtard"
+    }
   },
   "time": {
     "totalMin": 1230,
@@ -231,7 +243,9 @@
     "url": "https://breadtopia.com/kamut-sourdough-bread/",
     "site": "Breadtopia",
     "retrieved": "2026-07-17",
-    "adaptation": "Used the site's '40% whole grain Kamut' formula, its recommended balance of structure and flavor."
+    "adaptation": {
+      "en": "Used the site's '40% whole grain Kamut' formula, its recommended balance of structure and flavor."
+    }
   },
   "tags": [
     "ancient-grain",

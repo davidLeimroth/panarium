@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern gluten-free home baking",
-    "note": "Buckwheat breads have deep roots across Eastern Europe and the Alps, but this single-flour, psyllium-bound, yeasted formula is a 21st-century gluten-free-baking technique rather than a traditional recipe."
+    "region": {
+      "en": "Modern gluten-free home baking"
+    },
+    "note": {
+      "en": "Buckwheat breads have deep roots across Eastern Europe and the Alps, but this single-flour, psyllium-bound, yeasted formula is a 21st-century gluten-free-baking technique rather than a traditional recipe."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -78,13 +82,17 @@
     {
       "key": "sugar",
       "grams": 8,
-      "note": "to activate the yeast"
+      "note": {
+        "en": "to activate the yeast"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 920,
-    "shape": "9 x 5 in loaf pan, finished free-standing on the oven rack"
+    "shape": {
+      "en": "9 x 5 in loaf pan, finished free-standing on the oven rack"
+    }
   },
   "time": {
     "totalMin": 170,
@@ -244,7 +252,9 @@
     "url": "https://www.natashashome.com/buckwheat-bread/",
     "site": "Natasha's Home",
     "retrieved": "2026-07-18",
-    "adaptation": "Salt recorded at the midpoint of the source's 10-12g range."
+    "adaptation": {
+      "en": "Salt recorded at the midpoint of the source's 10-12g range."
+    }
   },
   "tags": [
     "gluten-free",

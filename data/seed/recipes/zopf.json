@@ -23,8 +23,12 @@
   },
   "origin": {
     "country": "CH",
-    "region": "German-speaking Switzerland (nationwide)",
-    "note": "Traditionally baked and eaten every Sunday morning, a weekly ritual rather than a single annual holiday bread."
+    "region": {
+      "en": "German-speaking Switzerland (nationwide)"
+    },
+    "note": {
+      "en": "Traditionally baked and eaten every Sunday morning, a weekly ritual rather than a single annual holiday bread."
+    }
   },
   "leaven": "yeast",
   "family": "braid",
@@ -45,7 +49,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 1000,
-      "note": "Zopfmehl or fine white flour"
+      "note": {
+        "en": "Zopfmehl or fine white flour"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -62,12 +68,16 @@
     {
       "key": "butter",
       "grams": 120,
-      "note": "soft"
+      "note": {
+        "en": "soft"
+      }
     },
     {
       "key": "egg",
       "grams": 55,
-      "note": "one whole egg, worked into the dough"
+      "note": {
+        "en": "one whole egg, worked into the dough"
+      }
     },
     {
       "key": "salt",
@@ -77,7 +87,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1825,
-    "shape": "two-strand braid"
+    "shape": {
+      "en": "two-strand braid"
+    }
   },
   "time": {
     "totalMin": 200,
@@ -117,7 +129,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the first two days, the butter and egg keep it softer longer than a lean loaf. Lovely toasted on day three."
+    "note": {
+      "en": "Best the first two days, the butter and egg keep it softer longer than a lean loaf. Lovely toasted on day three."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -225,7 +239,9 @@
     "url": "https://schweizerbrot.ch/rezept/butterzopf/",
     "site": "Schweizer Brot",
     "retrieved": "2026-07-17",
-    "adaptation": "Egg wash treated as a second brushing of the dough's own egg rather than a separate yolk; scaled to one standard loaf."
+    "adaptation": {
+      "en": "Egg wash treated as a second brushing of the dough's own egg rather than a separate yolk; scaled to one standard loaf."
+    }
   },
   "tags": [
     "sunday-bread",

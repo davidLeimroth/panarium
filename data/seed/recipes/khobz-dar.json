@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "MA",
-    "region": "Morocco and the wider Maghreb (Algeria, Tunisia)",
-    "note": "Called khobz dar or khobz eddar, 'bread of the house', because nearly every family bakes its own daily round, often finishing it at a communal neighborhood oven (ferran)."
+    "region": {
+      "en": "Morocco and the wider Maghreb (Algeria, Tunisia)"
+    },
+    "note": {
+      "en": "Called khobz dar or khobz eddar, 'bread of the house', because nearly every family bakes its own daily round, often finishing it at a communal neighborhood oven (ferran)."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -45,12 +49,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "bread flour or other high-gluten flour"
+      "note": {
+        "en": "bread flour or other high-gluten flour"
+      }
     },
     {
       "key": "water",
       "grams": 296,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "salt",
@@ -67,18 +75,24 @@
     {
       "key": "vegetable-oil",
       "grams": 27,
-      "note": "olive or vegetable oil"
+      "note": {
+        "en": "olive or vegetable oil"
+      }
     },
     {
       "key": "semolina",
       "grams": 15,
-      "note": "for dusting the pan, optional"
+      "note": {
+        "en": "for dusting the pan, optional"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 380,
-    "shape": "flat round loaf, about 20 cm across"
+    "shape": {
+      "en": "flat round loaf, about 20 cm across"
+    }
   },
   "time": {
     "totalMin": 125,
@@ -117,7 +131,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day it is baked, while the crust still sounds hollow when tapped; freezes well and refreshes in a hot oven."
+    "note": {
+      "en": "Best the day it is baked, while the crust still sounds hollow when tapped; freezes well and refreshes in a hot oven."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -224,7 +240,9 @@
     "url": "https://tasteofmaroc.com/moroccan-bread-khobz-recipe/",
     "site": "Taste of Maroc",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/teaspoon/tablespoon quantities converted to grams; the source's optional pan-dusting semolina is listed at a representative small quantity rather than folded into the flour total."
+    "adaptation": {
+      "en": "Cup/teaspoon/tablespoon quantities converted to grams; the source's optional pan-dusting semolina is listed at a representative small quantity rather than folded into the flour total."
+    }
   },
   "tags": [
     "maghreb",

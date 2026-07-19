@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "UA",
-    "region": "Named for the Darnytsia district of Kyiv",
-    "note": "Became a standard GOST-style loaf across the whole USSR, including Russia, where it remains a daily staple."
+    "region": {
+      "en": "Named for the Darnytsia district of Kyiv"
+    },
+    "note": {
+      "en": "Became a standard GOST-style loaf across the whole USSR, including Russia, where it remains a daily staple."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -47,12 +51,16 @@
     {
       "key": "flour:rye-whole",
       "grams": 280,
-      "note": "split between the levain and final dough"
+      "note": {
+        "en": "split between the levain and final dough"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 200,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
@@ -78,7 +86,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 380,
-    "shape": "small pan loaf, about 14.5 x 10cm"
+    "shape": {
+      "en": "small pan loaf, about 14.5 x 10cm"
+    }
   },
   "time": {
     "totalMin": 800,
@@ -119,7 +129,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "A daily loaf across the former USSR; keeps well wrapped for the better part of a week."
+    "note": {
+      "en": "A daily loaf across the former USSR; keeps well wrapped for the better part of a week."
+    }
   },
   "equipment": [
     "loaf-pan"

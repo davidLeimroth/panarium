@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "ET",
-    "region": "Ethiopian grain, adapted in modern gluten-free home baking",
-    "note": "Teff is Ethiopia's staple grain, traditionally fermented into the flatbread injera; this raised, tin-baked sandwich-loaf format is a 21st-century gluten-free-baking adaptation, not a traditional Ethiopian bread."
+    "region": {
+      "en": "Ethiopian grain, adapted in modern gluten-free home baking"
+    },
+    "note": {
+      "en": "Teff is Ethiopia's staple grain, traditionally fermented into the flatbread injera; this raised, tin-baked sandwich-loaf format is a 21st-century gluten-free-baking adaptation, not a traditional Ethiopian bread."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -47,12 +51,16 @@
     {
       "key": "flour:teff",
       "grams": 500,
-      "note": "white/ivory teff flour"
+      "note": {
+        "en": "white/ivory teff flour"
+      }
     },
     {
       "key": "flour:cassava",
       "grams": 100,
-      "note": "tapioca flour or cassava flour"
+      "note": {
+        "en": "tapioca flour or cassava flour"
+      }
     },
     {
       "key": "water",
@@ -94,7 +102,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1350,
-    "shape": "Pullman tin loaf, 23 x 10 x 10 cm"
+    "shape": {
+      "en": "Pullman tin loaf, 23 x 10 x 10 cm"
+    }
   },
   "time": {
     "totalMin": 250,
@@ -133,7 +143,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Gluten-free loaves firm up and dry out faster than wheat bread; slice and freeze whatever will not be eaten within 2-3 days."
+    "note": {
+      "en": "Gluten-free loaves firm up and dry out faster than wheat bread; slice and freeze whatever will not be eaten within 2-3 days."
+    }
   },
   "equipment": [
     "pullman-pan"
@@ -256,7 +268,9 @@
     "url": "https://georgeats.com/recipes/teff-bread-gluten-free/",
     "site": "George Eats",
     "retrieved": "2026-07-18",
-    "adaptation": "Water recorded at the midpoint of the source's 750-850g range; tapioca/cassava was recorded under the taxonomy's cassava flour type since the source treats the two as interchangeable."
+    "adaptation": {
+      "en": "Water recorded at the midpoint of the source's 750-850g range; tapioca/cassava was recorded under the taxonomy's cassava flour type since the source treats the two as interchangeable."
+    }
   },
   "tags": [
     "gluten-free",

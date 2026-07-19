@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Tyneside and North East England (Newcastle, Sunderland, Durham)",
-    "note": "The name comes from Geordie dialect 'to stott', meaning to bounce; bakers are said to have tested the dough by dropping a piece and watching how it rebounded."
+    "region": {
+      "en": "Tyneside and North East England (Newcastle, Sunderland, Durham)"
+    },
+    "note": {
+      "en": "The name comes from Geordie dialect 'to stott', meaning to bounce; bakers are said to have tested the dough by dropping a piece and watching how it rebounded."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -46,7 +50,9 @@
     {
       "key": "water",
       "grams": 470,
-      "note": "warm, divided"
+      "note": {
+        "en": "warm, divided"
+      }
     },
     {
       "key": "salt",
@@ -69,13 +75,17 @@
         "ro": "piper alb"
       },
       "grams": 1,
-      "note": "a distinctive, subtle Tyneside touch"
+      "note": {
+        "en": "a distinctive, subtle Tyneside touch"
+      }
     }
   ],
   "yield": {
     "count": 3,
     "pieceGrams": 370,
-    "shape": "large flattened round, deep thumb-dimple in the center"
+    "shape": {
+      "en": "large flattened round, deep thumb-dimple in the center"
+    }
   },
   "time": {
     "totalMin": 155,
@@ -113,7 +123,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Dense crumb holds up well to hearty fillings for a day or two; split and toast if it firms up."
+    "note": {
+      "en": "Dense crumb holds up well to hearty fillings for a day or two; split and toast if it firms up."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -220,7 +232,9 @@
     "url": "https://www.196flavors.com/united-kingdom-stottie-cake-stotty/",
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup measures converted to grams via standard baker's conversions; this source's version omits added fat, unlike some modern recipes that add lard, dripping or oil."
+    "adaptation": {
+      "en": "Cup measures converted to grams via standard baker's conversions; this source's version omits added fat, unlike some modern recipes that add lard, dripping or oil."
+    }
   },
   "tags": [
     "geordie",

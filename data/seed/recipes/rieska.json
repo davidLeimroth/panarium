@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FI",
-    "region": "Lapland and northern Finland",
-    "note": "One of several rieska variants named for their flour, barley (ohrarieska), rye (ruisrieska) or potato (perunarieska)."
+    "region": {
+      "en": "Lapland and northern Finland"
+    },
+    "note": {
+      "en": "One of several rieska variants named for their flour, barley (ohrarieska), rye (ruisrieska) or potato (perunarieska)."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -66,7 +70,9 @@
     {
       "key": "butter",
       "grams": 50,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "egg",
@@ -76,7 +82,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 120,
-    "shape": "wedge cut from one large flatbread round"
+    "shape": {
+      "en": "wedge cut from one large flatbread round"
+    }
   },
   "time": {
     "totalMin": 34,
@@ -114,7 +122,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm the day it's baked; wrap and reheat, or freeze wedges for later."
+    "note": {
+      "en": "Best warm the day it's baked; wrap and reheat, or freeze wedges for later."
+    }
   },
   "equipment": [
     "sheet-pan"

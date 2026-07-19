@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "SE",
-    "region": "Sweden (also Norway and Denmark)",
-    "note": "Named 'Lucia's cats' for their curled shape; the tradition blends the medieval St. Lucia light festival with early-20th-century saffron marketing by Swedish millers and bakers."
+    "region": {
+      "en": "Sweden (also Norway and Denmark)"
+    },
+    "note": {
+      "en": "Named 'Lucia's cats' for their curled shape; the tradition blends the medieval St. Lucia light festival with early-20th-century saffron marketing by Swedish millers and bakers."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -49,7 +53,9 @@
     {
       "key": "milk",
       "grams": 500,
-      "note": "room temperature"
+      "note": {
+        "en": "room temperature"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -58,17 +64,23 @@
     {
       "key": "butter",
       "grams": 200,
-      "note": "salted, softened"
+      "note": {
+        "en": "salted, softened"
+      }
     },
     {
       "key": "sugar",
       "grams": 154,
-      "note": "150 g in the dough, 4 g for grinding the saffron"
+      "note": {
+        "en": "150 g in the dough, 4 g for grinding the saffron"
+      }
     },
     {
       "key": "salt",
       "grams": 3,
-      "note": "estimated from the salted butter; add a pinch more if using unsalted"
+      "note": {
+        "en": "estimated from the salted butter; add a pinch more if using unsalted"
+      }
     },
     {
       "label": {
@@ -79,23 +91,31 @@
         "ro": "fire de șofran"
       },
       "grams": 1.5,
-      "note": "ground with sugar and steeped in 2 tbsp rum or brandy"
+      "note": {
+        "en": "ground with sugar and steeped in 2 tbsp rum or brandy"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "for egg wash"
+      "note": {
+        "en": "for egg wash"
+      }
     },
     {
       "key": "raisins",
       "grams": 40,
-      "note": "2 pressed into each bun"
+      "note": {
+        "en": "2 pressed into each bun"
+      }
     }
   ],
   "yield": {
     "count": 40,
     "pieceGrams": 50,
-    "shape": "S-curled bun (\"Lucia's cat\") with a raisin in each spiral"
+    "shape": {
+      "en": "S-curled bun (\"Lucia's cat\") with a raisin in each spiral"
+    }
   },
   "time": {
     "totalMin": 160,
@@ -136,7 +156,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day they're baked while the crumb is still pillowy; freeze extras and refresh in a warm oven."
+    "note": {
+      "en": "Best the day they're baked while the crumb is still pillowy; freeze extras and refresh in a warm oven."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -244,7 +266,9 @@
     "url": "https://alwaysusebutter.com/lussekatter-traditional-swedish-saffron-buns/",
     "site": "Always Use Butter",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt estimated from the salted butter the source specifies, since no separate salt is listed; the rum soak and egg wash are treated as minor additions outside the headline formula."
+    "adaptation": {
+      "en": "Salt estimated from the salted butter the source specifies, since no separate salt is listed; the rum soak and egg wash are treated as minor additions outside the headline formula."
+    }
   },
   "tags": [
     "st-lucia",

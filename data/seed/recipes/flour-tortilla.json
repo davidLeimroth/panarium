@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "Northern Mexico (Sonora, Chihuahua) & US-Mexico borderlands",
-    "note": "Sonoran in origin; became the everyday bread of the whole US Southwest through border and migrant cooking."
+    "region": {
+      "en": "Northern Mexico (Sonora, Chihuahua) & US-Mexico borderlands"
+    },
+    "note": {
+      "en": "Sonoran in origin; became the everyday bread of the whole US Southwest through border and migrant cooking."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -41,7 +45,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "all-purpose flour"
+      "note": {
+        "en": "all-purpose flour"
+      }
     },
     {
       "key": "lard",
@@ -58,13 +64,17 @@
     {
       "key": "water",
       "grams": 296,
-      "note": "hot"
+      "note": {
+        "en": "hot"
+      }
     }
   ],
   "yield": {
     "count": 13,
     "pieceGrams": 64,
-    "shape": "7-8 in (18-20 cm) round"
+    "shape": {
+      "en": "7-8 in (18-20 cm) round"
+    }
   },
   "time": {
     "totalMin": 33,
@@ -102,7 +112,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "Keeps soft several days sealed at room temperature thanks to the fat content; reheat briefly on a dry skillet. Freezes well stacked with parchment."
+    "note": {
+      "en": "Keeps soft several days sealed at room temperature thanks to the fat content; reheat briefly on a dry skillet. Freezes well stacked with parchment."
+    }
   },
   "equipment": [
     "griddle"
@@ -225,7 +237,9 @@
     "url": "https://muybuenoblog.com/homemade-flour-tortillas-video/",
     "site": "Muy Bueno",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration recalculated from the source's cup measurements using standard gram conversions (125 g/cup flour, 237 g/cup water); notably higher than the source's own self-reported figure."
+    "adaptation": {
+      "en": "Hydration recalculated from the source's cup measurements using standard gram conversions (125 g/cup flour, 237 g/cup water); notably higher than the source's own self-reported figure."
+    }
   },
   "tags": [
     "borderlands",

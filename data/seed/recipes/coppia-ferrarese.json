@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Ferrara, Emilia-Romagna",
-    "note": "IGP since 2004; a bread of this twisted, horned shape is documented in Ferrarese records since at least the 16th century under names like 'ritorto' or 'intorto'."
+    "region": {
+      "en": "Ferrara, Emilia-Romagna"
+    },
+    "note": {
+      "en": "IGP since 2004; a bread of this twisted, horned shape is documented in Ferrarese records since at least the 16th century under names like 'ritorto' or 'intorto'."
+    }
   },
   "leaven": "hybrid",
   "family": "roll",
@@ -43,7 +47,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "farina tipo '0'"
+      "note": {
+        "en": "farina tipo '0'"
+      }
     },
     {
       "key": "water",
@@ -56,12 +62,16 @@
     {
       "key": "lard",
       "grams": 30,
-      "note": "strutto di puro suino"
+      "note": {
+        "en": "strutto di puro suino"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 50,
-      "note": "lievito madre"
+      "note": {
+        "en": "lievito madre"
+      }
     },
     {
       "key": "salt",
@@ -75,7 +85,9 @@
   "yield": {
     "count": 4,
     "pieceGrams": 197,
-    "shape": "twisted four-horned roll, two halves joined at a knot"
+    "shape": {
+      "en": "twisted four-horned roll, two halves joined at a knot"
+    }
   },
   "time": {
     "totalMin": 200,
@@ -115,7 +127,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Famous for going stale within hours of baking, which is why it's traditionally bought and eaten the same day."
+    "note": {
+      "en": "Famous for going stale within hours of baking, which is why it's traditionally bought and eaten the same day."
+    }
   },
   "equipment": [
     "stand-mixer"
@@ -222,7 +236,9 @@
     "url": "https://www.gazzettadelgusto.it/cibo/la-coppia-ferrarese-igp-un-po-pane-un-po-grissino/",
     "site": "Gazzetta del Gusto",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams reconstructed from the IGP disciplinare's published percentages (oil 3-4%, lard 6%, lievito madre 10%, water 35%). Bake time/temp not given, so a typical 220°C/20-25 min is used."
+    "adaptation": {
+      "en": "Grams reconstructed from the IGP disciplinare's published percentages (oil 3-4%, lard 6%, lievito madre 10%, water 35%). Bake time/temp not given, so a typical 220°C/20-25 min is used."
+    }
   },
   "tags": [
     "igp",

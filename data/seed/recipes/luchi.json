@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "West Bengal (also Bangladesh, Assam, Odisha)",
-    "note": "A festive-breakfast staple, especially during Durga Puja, usually paired with a dry potato curry (aloo dum) or chholar dal."
+    "region": {
+      "en": "West Bengal (also Bangladesh, Assam, Odisha)"
+    },
+    "note": {
+      "en": "A festive-breakfast staple, especially during Durga Puja, usually paired with a dry potato curry (aloo dum) or chholar dal."
+    }
   },
   "leaven": "none",
   "family": "fried",
@@ -42,12 +46,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 310,
-      "note": "all-purpose flour (maida)"
+      "note": {
+        "en": "all-purpose flour (maida)"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 27,
-      "note": "in the dough (moyan)"
+      "note": {
+        "en": "in the dough (moyan)"
+      }
     },
     {
       "key": "salt",
@@ -56,18 +64,24 @@
     {
       "key": "water",
       "grams": 160,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 33,
-      "note": "for deep-frying; amount absorbed is estimated"
+      "note": {
+        "en": "for deep-frying; amount absorbed is estimated"
+      }
     }
   ],
   "yield": {
     "count": 11,
     "pieceGrams": 48,
-    "shape": "4 in (10 cm) fried disc"
+    "shape": {
+      "en": "4 in (10 cm) fried disc"
+    }
   },
   "time": {
     "totalMin": 65,
@@ -105,7 +119,9 @@
   "keeping": {
     "freshDays": 0.3,
     "freezes": true,
-    "note": "Best eaten within minutes of frying while puffed; deflates and turns tough once cold. Raw rolled rounds can be stacked with parchment and frozen for later frying."
+    "note": {
+      "en": "Best eaten within minutes of frying while puffed; deflates and turns tough once cold. Raw rolled rounds can be stacked with parchment and frozen for later frying."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -212,7 +228,9 @@
     "url": "https://www.whiskaffair.com/bengali-luchi-recipe/",
     "site": "Whisk Affair",
     "retrieved": "2026-07-18",
-    "adaptation": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; salt increased slightly from the source's 1/2 tsp for balance."
+    "adaptation": {
+      "en": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; salt increased slightly from the source's 1/2 tsp for balance."
+    }
   },
   "tags": [
     "bengali",

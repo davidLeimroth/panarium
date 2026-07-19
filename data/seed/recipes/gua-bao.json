@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "TW",
-    "region": "nationwide",
-    "note": "Brought by Fuzhounese immigrants and popularized as street food from the 1970s; it became far better known abroad after chef David Chang's Momofuku popularized it as the 'pork belly bun' in the 2000s."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Brought by Fuzhounese immigrants and popularized as street food from the 1970s; it became far better known abroad after chef David Chang's Momofuku popularized it as the 'pork belly bun' in the 2000s."
+    }
   },
   "leaven": "yeast",
   "family": "steamed",
@@ -47,7 +51,9 @@
     {
       "key": "water",
       "grams": 155,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "instant-yeast",
@@ -70,7 +76,9 @@
         "ro": "piept de porc înăbușit, feliat"
       },
       "grams": 400,
-      "note": "traditional filling, braised separately and folded in at serving"
+      "note": {
+        "en": "traditional filling, braised separately and folded in at serving"
+      }
     },
     {
       "label": {
@@ -81,13 +89,17 @@
         "ro": "muștar murat și arahide pisate"
       },
       "grams": 80,
-      "note": "traditional garnish"
+      "note": {
+        "en": "traditional garnish"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 58,
-    "shape": "folded oval steamed bun (bun only, unfilled)"
+    "shape": {
+      "en": "folded oval steamed bun (bun only, unfilled)"
+    }
   },
   "time": {
     "totalMin": 105,
@@ -127,7 +139,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "The plain steamed bun freezes and resteams beautifully; classically assembled fresh with hot braised pork at serving."
+    "note": {
+      "en": "The plain steamed bun freezes and resteams beautifully; classically assembled fresh with hot braised pork at serving."
+    }
   },
   "equipment": [
     "steamer"
@@ -234,7 +248,9 @@
     "url": "https://redhousespice.com/gua-bao-pork-belly-buns/",
     "site": "Red House Spice",
     "retrieved": "2026-07-17",
-    "adaptation": "Bun dough grams kept as sourced; a short bulk rise was added as standard practice since the source's steps jumped straight to shaping; pork and garnish quantities are a typical per-bun estimate."
+    "adaptation": {
+      "en": "Bun dough grams kept as sourced; a short bulk rise was added as standard practice since the source's steps jumped straight to shaping; pork and garnish quantities are a typical per-bun estimate."
+    }
   },
   "tags": [
     "street-food",

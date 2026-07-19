@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "Indian subcontinent (India, Pakistan, Nepal, Bangladesh)",
-    "note": "Daily bread across the whole subcontinent; called roti in Hindi/Urdu/Punjabi, chapati especially in western India and among the East African Indian diaspora."
+    "region": {
+      "en": "Indian subcontinent (India, Pakistan, Nepal, Bangladesh)"
+    },
+    "note": {
+      "en": "Daily bread across the whole subcontinent; called roti in Hindi/Urdu/Punjabi, chapati especially in western India and among the East African Indian diaspora."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -42,12 +46,16 @@
     {
       "key": "flour:wheat-whole",
       "grams": 280,
-      "note": "atta (finely milled whole wheat)"
+      "note": {
+        "en": "atta (finely milled whole wheat)"
+      }
     },
     {
       "key": "water",
       "grams": 227,
-      "note": "room temperature, added gradually"
+      "note": {
+        "en": "room temperature, added gradually"
+      }
     },
     {
       "key": "salt",
@@ -56,13 +64,17 @@
     {
       "key": "butter",
       "grams": 10,
-      "note": "ghee, optional, brushed on hot"
+      "note": {
+        "en": "ghee, optional, brushed on hot"
+      }
     }
   ],
   "yield": {
     "count": 5,
     "pieceGrams": 102,
-    "shape": "thin round griddle bread"
+    "shape": {
+      "en": "thin round griddle bread"
+    }
   },
   "time": {
     "totalMin": 58,
@@ -98,7 +110,9 @@
   "keeping": {
     "freshDays": 1.5,
     "freezes": true,
-    "note": "Best warm off the tawa; wrap in cloth to stay soft for a few hours, or stack with parchment and freeze."
+    "note": {
+      "en": "Best warm off the tawa; wrap in cloth to stay soft for a few hours, or stack with parchment and freeze."
+    }
   },
   "equipment": [
     "griddle"
@@ -205,7 +219,9 @@
     "url": "https://www.teaforturmeric.com/roti-chapati/",
     "site": "Tea for Turmeric",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt and finishing ghee are optional home additions; core atta-to-water ratio kept as sourced."
+    "adaptation": {
+      "en": "Salt and finishing ghee are optional home additions; core atta-to-water ratio kept as sourced."
+    }
   },
   "tags": [
     "unleavened",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Orkney Islands, Scotland",
-    "note": "Made from beremeal, a six-row barley landrace grown in Orkney for millennia and still stone-ground at Barony Mill, one of only two working bere mills left in Britain."
+    "region": {
+      "en": "Orkney Islands, Scotland"
+    },
+    "note": {
+      "en": "Made from beremeal, a six-row barley landrace grown in Orkney for millennia and still stone-ground at Barony Mill, one of only two working bere mills left in Britain."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -45,12 +49,16 @@
     {
       "key": "flour:barley",
       "grams": 280,
-      "note": "beremeal, stone-ground"
+      "note": {
+        "en": "beremeal, stone-ground"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 125,
-      "note": "plain flour"
+      "note": {
+        "en": "plain flour"
+      }
     },
     {
       "key": "baking-soda",
@@ -74,7 +82,9 @@
   "yield": {
     "count": 3,
     "pieceGrams": 198,
-    "shape": "flat round, about 2.5 cm thick, cut into wedges"
+    "shape": {
+      "en": "flat round, about 2.5 cm thick, cut into wedges"
+    }
   },
   "time": {
     "totalMin": 35,
@@ -110,7 +120,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best warm from the griddle the same day; this is a quick unleavened-style flatbread, not meant to keep like a yeasted loaf."
+    "note": {
+      "en": "Best warm from the griddle the same day; this is a quick unleavened-style flatbread, not meant to keep like a yeasted loaf."
+    }
   },
   "equipment": [
     "griddle"
@@ -217,7 +229,9 @@
     "url": "https://baronymill.com/orkney-bere-bannocks-recipe/",
     "site": "Barony Mill",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup and teaspoon measurements converted to grams using standard flour, milk and leavening-agent weight conventions; the recipe's optional salt was omitted since no quantity was given."
+    "adaptation": {
+      "en": "Cup and teaspoon measurements converted to grams using standard flour, milk and leavening-agent weight conventions; the recipe's optional salt was omitted since no quantity was given."
+    }
   },
   "tags": [
     "ancient-grain",

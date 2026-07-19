@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "MN",
-    "region": "nationwide",
-    "note": "A centerpiece of the Tsagaan Sar (Lunar New Year) table, often stacked in odd-numbered towers as a good-luck centerpiece."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "A centerpiece of the Tsagaan Sar (Lunar New Year) table, often stacked in odd-numbered towers as a good-luck centerpiece."
+    }
   },
   "leaven": "yeast",
   "family": "fried",
@@ -48,12 +52,16 @@
     {
       "key": "water",
       "grams": 250,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "butter",
       "grams": 57,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -80,13 +88,17 @@
     {
       "key": "vegetable-oil",
       "grams": 50,
-      "note": "for deep-frying; amount absorbed is estimated"
+      "note": {
+        "en": "for deep-frying; amount absorbed is estimated"
+      }
     }
   ],
   "yield": {
     "count": 24,
     "pieceGrams": 33,
-    "shape": "small twisted or knotted piece, deep-fried, 3-5 cm"
+    "shape": {
+      "en": "small twisted or knotted piece, deep-fried, 3-5 cm"
+    }
   },
   "time": {
     "totalMin": 125,
@@ -125,7 +137,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Keeps several days in an airtight container, staying pleasantly crisp outside; dip in milk tea to soften if it firms up."
+    "note": {
+      "en": "Keeps several days in an airtight container, staying pleasantly crisp outside; dip in milk tea to soften if it firms up."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -232,7 +246,9 @@
     "url": "https://www.threecamellodge.com/boortsog-recipe/",
     "site": "Three Camel Lodge",
     "retrieved": "2026-07-18",
-    "adaptation": "Salt reduced slightly from the source's 1.5 tsp for balance; frying-oil absorption and final piece count estimated per this atlas's convention for small deep-fried pieces."
+    "adaptation": {
+      "en": "Salt reduced slightly from the source's 1.5 tsp for balance; frying-oil absorption and final piece count estimated per this atlas's convention for small deep-fried pieces."
+    }
   },
   "tags": [
     "mongolian",

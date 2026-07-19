@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "North India & Pakistan (Punjab)",
-    "note": "The name and tandoor technique trace back to Persia and Central Asia; today it is most iconic in North Indian and Pakistani Punjabi cooking."
+    "region": {
+      "en": "North India & Pakistan (Punjab)"
+    },
+    "note": {
+      "en": "The name and tandoor technique trace back to Persia and Central Asia; today it is most iconic in North Indian and Pakistani Punjabi cooking."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -43,17 +47,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 256,
-      "note": "all-purpose flour"
+      "note": {
+        "en": "all-purpose flour"
+      }
     },
     {
       "key": "water",
       "grams": 136,
-      "note": "just-boiled, cooled slightly to activate yeast"
+      "note": {
+        "en": "just-boiled, cooled slightly to activate yeast"
+      }
     },
     {
       "key": "yogurt",
       "grams": 120,
-      "note": "full-fat"
+      "note": {
+        "en": "full-fat"
+      }
     },
     {
       "key": "instant-yeast",
@@ -66,13 +76,17 @@
     {
       "key": "butter",
       "grams": 28,
-      "note": "melted, brushed on after cooking"
+      "note": {
+        "en": "melted, brushed on after cooking"
+      }
     }
   ],
   "yield": {
     "count": 4,
     "pieceGrams": 130,
-    "shape": "teardrop, 8-9 in (20-23 cm)"
+    "shape": {
+      "en": "teardrop, 8-9 in (20-23 cm)"
+    }
   },
   "time": {
     "totalMin": 115,
@@ -111,7 +125,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best hot off the skillet; reheat wrapped in foil. Freezes well stacked between parchment."
+    "note": {
+      "en": "Best hot off the skillet; reheat wrapped in foil. Freezes well stacked between parchment."
+    }
   },
   "equipment": [
     "skillet"
@@ -235,7 +251,9 @@
     "site": "Alexandra's Kitchen",
     "author": "Alexandra Stafford",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration recalculated using yogurt's approximate water content per baker's-percentage convention (milk ~88%); source states liquid and flour as equal by weight."
+    "adaptation": {
+      "en": "Hydration recalculated using yogurt's approximate water content per baker's-percentage convention (milk ~88%); source states liquid and flour as equal by weight."
+    }
   },
   "tags": [
     "tandoor",

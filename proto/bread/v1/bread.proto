@@ -35,7 +35,7 @@ message Ingredient {
   string key = 1; // taxonomy ingredient key, optional
   LocalizedText label = 2;
   double grams = 3;
-  string note = 4;
+  LocalizedText note = 4;
 }
 
 message TimeInfo {
@@ -56,7 +56,7 @@ message BakeInfo {
 message Yield {
   int32 count = 1;
   double piece_grams = 2;
-  string shape = 3;
+  LocalizedText shape = 3;
 }
 
 message Diet {
@@ -71,7 +71,7 @@ message Diet {
 message Keeping {
   double fresh_days = 1;
   bool freezes = 2;
-  string note = 3;
+  LocalizedText note = 3;
 }
 
 message MethodStep {
@@ -85,13 +85,13 @@ message Source {
   string author = 3;
   string license = 4;
   string retrieved = 5; // YYYY-MM-DD
-  string adaptation = 6;
+  LocalizedText adaptation = 6;
 }
 
 message Origin {
   string country = 1; // ISO 3166-1 alpha-2
-  string region = 2;
-  string note = 3;
+  LocalizedText region = 2;
+  LocalizedText note = 3;
 }
 
 message KitchenTested {

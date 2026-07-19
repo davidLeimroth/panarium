@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Swabia (Baden-Württemberg)",
-    "note": "Named for the 'netzen' (wetting) technique: the shaped loaf is repeatedly moistened by hand instead of being scored, so the baked crust stays smooth and glossy rather than developing a scored ausbund."
+    "region": {
+      "en": "Swabia (Baden-Württemberg)"
+    },
+    "note": {
+      "en": "Named for the 'netzen' (wetting) technique: the shaped loaf is repeatedly moistened by hand instead of being scored, so the baked crust stays smooth and glossy rather than developing a scored ausbund."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -55,22 +59,30 @@
     {
       "key": "flour:spelt-whole",
       "grams": 124,
-      "note": "Dinkelvollkornmehl, in the cold preferment"
+      "note": {
+        "en": "Dinkelvollkornmehl, in the cold preferment"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 185,
-      "note": "Weizenmehl Type 1050"
+      "note": {
+        "en": "Weizenmehl Type 1050"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 155,
-      "note": "Roggenmehl Type 1150"
+      "note": {
+        "en": "Roggenmehl Type 1150"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 124,
-      "note": "Weizenmehl Type 550"
+      "note": {
+        "en": "Weizenmehl Type 550"
+      }
     },
     {
       "key": "water",
@@ -89,12 +101,16 @@
     {
       "key": "fresh-yeast",
       "grams": 6.2,
-      "note": "split between the preferment and main dough"
+      "note": {
+        "en": "split between the preferment and main dough"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 62,
-      "note": "mature wheat starter (Anstellgut), added directly to the main dough"
+      "note": {
+        "en": "mature wheat starter (Anstellgut), added directly to the main dough"
+      }
     },
     {
       "key": "salt",
@@ -108,7 +124,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1150,
-    "shape": "round hearth loaf, un-scored, wet-shaped"
+    "shape": {
+      "en": "round hearth loaf, un-scored, wet-shaped"
+    }
   },
   "time": {
     "totalMin": 1679,
@@ -148,7 +166,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Best in the first two days; the smooth crust softens rather than staying crisp."
+    "note": {
+      "en": "Best in the first two days; the smooth crust softens rather than staying crisp."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -272,7 +292,9 @@
     "site": "Plötzblog",
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased; fresh-yeast total combines the small amounts used in both the preferment and the main dough; bulk/proof split is estimated to match the source's overall stated time."
+    "adaptation": {
+      "en": "Method paraphrased; fresh-yeast total combines the small amounts used in both the preferment and the main dough; bulk/proof split is estimated to match the source's overall stated time."
+    }
   },
   "tags": [
     "swabian",

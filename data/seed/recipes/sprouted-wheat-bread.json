@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IL",
-    "region": "Judaean Desert (Qumran) in antiquity; the technique is kept alive today mostly by natural-foods bakeries",
-    "note": "Attributed to the ancient Essene sect near the Dead Sea, though scholars find little direct evidence for the link; the sprouting-and-grinding method itself is very old and appears in several ancient Near Eastern food traditions."
+    "region": {
+      "en": "Judaean Desert (Qumran) in antiquity; the technique is kept alive today mostly by natural-foods bakeries"
+    },
+    "note": {
+      "en": "Attributed to the ancient Essene sect near the Dead Sea, though scholars find little direct evidence for the link; the sprouting-and-grinding method itself is very old and appears in several ancient Near Eastern food traditions."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -41,18 +45,24 @@
     {
       "key": "flour:wheat-whole",
       "grams": 400,
-      "note": "hard red wheat berries, whole (not milled), sprouted 2-3 days then ground fresh into a paste"
+      "note": {
+        "en": "hard red wheat berries, whole (not milled), sprouted 2-3 days then ground fresh into a paste"
+      }
     },
     {
       "key": "water",
       "grams": 260,
-      "note": "residual moisture retained in the berries after sprouting and rinsing; a little more may be worked in by hand"
+      "note": {
+        "en": "residual moisture retained in the berries after sprouting and rinsing; a little more may be worked in by hand"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 275,
-    "shape": "flattened round patty, about 4 cm thick"
+    "shape": {
+      "en": "flattened round patty, about 4 cm thick"
+    }
   },
   "time": {
     "totalMin": 3810,
@@ -89,7 +99,9 @@
   "keeping": {
     "freshDays": 3.5,
     "freezes": true,
-    "note": "Keeps 3-4 days at room temperature and up to several weeks refrigerated; the dense, moist crumb resists staling better than yeasted bread."
+    "note": {
+      "en": "Keeps 3-4 days at room temperature and up to several weeks refrigerated; the dense, moist crumb resists staling better than yeasted bread."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -196,7 +208,9 @@
     "url": "https://simmerandsave.com/2013/10/18/sprouted-wheat-bread-essene-bread/",
     "site": "Simmer and Save",
     "retrieved": "2026-07-18",
-    "adaptation": "Water content is an estimate of residual moisture in the ground sprout paste, since the source uses only wheat berries and soak/rinse water, most of which drains away rather than being measured in."
+    "adaptation": {
+      "en": "Water content is an estimate of residual moisture in the ground sprout paste, since the source uses only wheat berries and soak/rinse water, most of which drains away rather than being measured in."
+    }
   },
   "tags": [
     "sprouted",

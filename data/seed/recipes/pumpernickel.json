@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Westphalia (Westfalen)",
-    "note": "Traditionally just rye meal, water and salt; the color and sweetness come entirely from the long, low bake, not from added sugar or molasses."
+    "region": {
+      "en": "Westphalia (Westfalen)"
+    },
+    "note": {
+      "en": "Traditionally just rye meal, water and salt; the color and sweetness come entirely from the long, low bake, not from added sugar or molasses."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -39,7 +43,9 @@
     {
       "key": "flour:rye-whole",
       "grams": 1050,
-      "note": "coarse/medium whole rye meal (Roggenschrot)"
+      "note": {
+        "en": "coarse/medium whole rye meal (Roggenschrot)"
+      }
     },
     {
       "key": "water",
@@ -52,13 +58,17 @@
     {
       "key": "sourdough-starter",
       "grams": 50,
-      "note": "active rye starter"
+      "note": {
+        "en": "active rye starter"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1900,
-    "shape": "pullman/lidded tin loaf"
+    "shape": {
+      "en": "pullman/lidded tin loaf"
+    }
   },
   "time": {
     "totalMin": 2480,
@@ -97,7 +107,9 @@
   "keeping": {
     "freshDays": 14,
     "freezes": true,
-    "note": "Keeps unusually long thanks to the dense crumb and low residual sugars; slice thin."
+    "note": {
+      "en": "Keeps unusually long thanks to the dense crumb and low residual sugars; slice thin."
+    }
   },
   "equipment": [
     "pullman-pan"
@@ -188,7 +200,9 @@
     "url": "https://kleineprise.de/pumpernickel-rezept/",
     "site": "kleineprise.de",
     "retrieved": "2026-07-17",
-    "adaptation": "Home-style simplified version; some traditional Westphalian pumpernickel recipes ferment longer before the long low-temperature bake."
+    "adaptation": {
+      "en": "Home-style simplified version; some traditional Westphalian pumpernickel recipes ferment longer before the long low-temperature bake."
+    }
   },
   "tags": [
     "schwarzbrot",

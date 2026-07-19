@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "PL",
-    "region": "Prądnik valley, Kraków",
-    "note": "Documented from 1421; historical loaves reached 14kg. Holds EU Protected Geographical Indication status."
+    "region": {
+      "en": "Prądnik valley, Kraków"
+    },
+    "note": {
+      "en": "Documented from 1421; historical loaves reached 14kg. Holds EU Protected Geographical Indication status."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -42,7 +46,9 @@
     {
       "key": "sourdough-starter",
       "grams": 100,
-      "note": "active rye starter"
+      "note": {
+        "en": "active rye starter"
+      }
     },
     {
       "key": "flour:rye-whole",
@@ -64,7 +70,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 820,
-    "shape": "loaf-pan loaf, scored criss-cross"
+    "shape": {
+      "en": "loaf-pan loaf, scored criss-cross"
+    }
   },
   "time": {
     "totalMin": 685,
@@ -105,7 +113,9 @@
   "keeping": {
     "freshDays": 7,
     "freezes": true,
-    "note": "Best from the second day on; historically baked in giant multi-kilogram loaves built to keep for weeks."
+    "note": {
+      "en": "Best from the second day on; historically baked in giant multi-kilogram loaves built to keep for weeks."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -228,7 +238,9 @@
     "url": "https://en.wikipedia.org/wiki/Pr%C4%85dnik_bread",
     "site": "Wikipedia",
     "retrieved": "2026-07-17",
-    "adaptation": "The historical guild recipe is not publicly published; proportions are estimated from generic Polish all-rye sourdough formulas and scaled down from the loaf's traditional multi-kilogram size."
+    "adaptation": {
+      "en": "The historical guild recipe is not publicly published; proportions are estimated from generic Polish all-rye sourdough formulas and scaled down from the loaf's traditional multi-kilogram size."
+    }
   },
   "tags": [
     "pgi",

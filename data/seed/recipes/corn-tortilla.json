@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "Mesoamerica, nationwide Mexico",
-    "note": "Descended from millennia-old Mesoamerican nixtamalization; the Nahuatl name for the flatbread was tlaxcalli."
+    "region": {
+      "en": "Mesoamerica, nationwide Mexico"
+    },
+    "note": {
+      "en": "Descended from millennia-old Mesoamerican nixtamalization; the Nahuatl name for the flatbread was tlaxcalli."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -41,23 +45,31 @@
     {
       "key": "flour:corn",
       "grams": 120,
-      "note": "masa harina; dehydrated, nixtamalized corn masa flour"
+      "note": {
+        "en": "masa harina; dehydrated, nixtamalized corn masa flour"
+      }
     },
     {
       "key": "water",
       "grams": 200,
-      "note": "warm, about 38°C"
+      "note": {
+        "en": "warm, about 38°C"
+      }
     },
     {
       "key": "salt",
       "grams": 3,
-      "note": "optional"
+      "note": {
+        "en": "optional"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 40,
-    "shape": "thin 6 in (15 cm) round"
+    "shape": {
+      "en": "thin 6 in (15 cm) round"
+    }
   },
   "time": {
     "totalMin": 38,
@@ -95,7 +107,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fresh and warm off the comal; once cooled it turns leathery quickly but softens again on a hot dry skillet. Refrigerates a few days or freezes stacked with parchment."
+    "note": {
+      "en": "Best fresh and warm off the comal; once cooled it turns leathery quickly but softens again on a hot dry skillet. Refrigerates a few days or freezes stacked with parchment."
+    }
   },
   "equipment": [
     "griddle"
@@ -218,7 +232,9 @@
     "url": "https://masienda.com/blogs/learn/recipe-tortillas-masa-harina",
     "site": "Masienda",
     "retrieved": "2026-07-17",
-    "adaptation": "Yield reconciled to the stated ~40 g dough balls (8 tortillas) rather than the source's separately claimed count of 10, since the two figures were inconsistent with the given dough weight."
+    "adaptation": {
+      "en": "Yield reconciled to the stated ~40 g dough balls (8 tortillas) rather than the source's separately claimed count of 10, since the two figures were inconsistent with the given dough weight."
+    }
   },
   "tags": [
     "nixtamalized",

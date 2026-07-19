@@ -123,7 +123,7 @@ export default function FormulaCard({ ingredients, yieldCount, yieldGrams, lang,
               <tr key={`${i.key ?? i.label?.en ?? idx}`}>
                 <td>
                   {label(i)}
-                  {i.note ? <span className="note">, {i.note}</span> : null}
+                  {i.note ? <span className="note">, {pick(i.note, lang)}</span> : null}
                 </td>
                 <td className="num">{formatMass(grams, sys)}</td>
                 {volumes ? <td className="num">{vol ? `${vol.qty} ${vol.unit}` : '·'}</td> : null}

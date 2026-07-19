@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Southern Germany, Baden-Württemberg",
-    "note": "Spelt is a popular choice for those who find modern bread wheat harder to digest, though it is a wheat relative and still contains gluten."
+    "region": {
+      "en": "Southern Germany, Baden-Württemberg"
+    },
+    "note": {
+      "en": "Spelt is a popular choice for those who find modern bread wheat harder to digest, though it is a wheat relative and still contains gluten."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -41,12 +45,16 @@
     {
       "key": "flour:spelt",
       "grams": 500,
-      "note": "light spelt flour, type 630"
+      "note": {
+        "en": "light spelt flour, type 630"
+      }
     },
     {
       "key": "water",
       "grams": 325,
-      "note": "~28°C"
+      "note": {
+        "en": "~28°C"
+      }
     },
     {
       "key": "salt",
@@ -55,13 +63,17 @@
     {
       "key": "sourdough-starter",
       "grams": 75,
-      "note": "active spelt starter"
+      "note": {
+        "en": "active spelt starter"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 860,
-    "shape": "round hearth loaf (boule)"
+    "shape": {
+      "en": "round hearth loaf (boule)"
+    }
   },
   "time": {
     "totalMin": 1140,
@@ -100,7 +112,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Best within a few days; spelt crumb dries out faster than a rye sourdough."
+    "note": {
+      "en": "Best within a few days; spelt crumb dries out faster than a rye sourdough."
+    }
   },
   "equipment": [
     "banneton",

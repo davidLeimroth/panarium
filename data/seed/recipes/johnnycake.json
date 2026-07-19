@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Rhode Island and southern New England",
-    "note": "Originally called 'journey cakes' for how well they traveled and cooked quickly over a campfire; Rhode Island's version uses a distinctive fine white flint corn, still stone-ground at local grist mills."
+    "region": {
+      "en": "Rhode Island and southern New England"
+    },
+    "note": {
+      "en": "Originally called 'journey cakes' for how well they traveled and cooked quickly over a campfire; Rhode Island's version uses a distinctive fine white flint corn, still stone-ground at local grist mills."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -42,7 +46,9 @@
     {
       "key": "flour:corn",
       "grams": 150,
-      "note": "stone-ground white or yellow cornmeal"
+      "note": {
+        "en": "stone-ground white or yellow cornmeal"
+      }
     },
     {
       "key": "sugar",
@@ -55,23 +61,31 @@
     {
       "key": "water",
       "grams": 592,
-      "note": "boiling"
+      "note": {
+        "en": "boiling"
+      }
     },
     {
       "key": "butter",
       "grams": 28,
-      "note": "for the batter"
+      "note": {
+        "en": "for the batter"
+      }
     },
     {
       "key": "butter",
       "grams": 14,
-      "note": "or oil/bacon grease, for frying"
+      "note": {
+        "en": "or oil/bacon grease, for frying"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 50,
-    "shape": "3-inch fried rounds, about 1/4 inch thick"
+    "shape": {
+      "en": "3-inch fried rounds, about 1/4 inch thick"
+    }
   },
   "time": {
     "totalMin": 45,
@@ -109,7 +123,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best hot off the griddle; these don't keep well and are meant to be eaten fresh, though extra batter keeps a day refrigerated."
+    "note": {
+      "en": "Best hot off the griddle; these don't keep well and are meant to be eaten fresh, though extra batter keeps a day refrigerated."
+    }
   },
   "equipment": [
     "skillet"
@@ -216,7 +232,9 @@
     "url": "https://www.daringgourmet.com/traditional-johnny-cakes/",
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-18",
-    "adaptation": "Frying fat quantity estimated since the source leaves the amount to the cook's discretion."
+    "adaptation": {
+      "en": "Frying fat quantity estimated since the source leaves the amount to the cook's discretion."
+    }
   },
   "tags": [
     "new-england",

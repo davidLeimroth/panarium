@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "England, commercialized in New York City",
-    "note": "Rooted in British griddle 'muffins' and crumpets; the modern packaged English muffin was popularized in the US by Samuel Bath Thomas's 1880s NYC bakery."
+    "region": {
+      "en": "England, commercialized in New York City"
+    },
+    "note": {
+      "en": "Rooted in British griddle 'muffins' and crumpets; the modern packaged English muffin was popularized in the US by Samuel Bath Thomas's 1880s NYC bakery."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -44,27 +48,37 @@
     {
       "key": "flour:wheat-white",
       "grams": 190,
-      "note": "all-purpose, for the overnight preferment"
+      "note": {
+        "en": "all-purpose, for the overnight preferment"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 120,
-      "note": "all-purpose, for the final dough"
+      "note": {
+        "en": "all-purpose, for the final dough"
+      }
     },
     {
       "key": "milk",
       "grams": 152,
-      "note": "lukewarm, for the preferment"
+      "note": {
+        "en": "lukewarm, for the preferment"
+      }
     },
     {
       "key": "water",
       "grams": 102,
-      "note": "lukewarm, for the preferment"
+      "note": {
+        "en": "lukewarm, for the preferment"
+      }
     },
     {
       "key": "instant-yeast",
       "grams": 2,
-      "note": "in the preferment"
+      "note": {
+        "en": "in the preferment"
+      }
     },
     {
       "key": "salt",
@@ -77,18 +91,24 @@
     {
       "key": "butter",
       "grams": 18,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "cornmeal",
       "grams": 20,
-      "note": "for dusting"
+      "note": {
+        "en": "for dusting"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 99,
-    "shape": "3.5-inch griddle-cooked round"
+    "shape": {
+      "en": "3.5-inch griddle-cooked round"
+    }
   },
   "time": {
     "totalMin": 380,
@@ -128,7 +148,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Split with a fork, not a knife, to keep the nooks and crannies; toasts well straight from frozen."
+    "note": {
+      "en": "Split with a fork, not a knife, to keep the nooks and crannies; toasts well straight from frozen."
+    }
   },
   "equipment": [
     "griddle"
@@ -235,7 +257,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/english-muffins-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Ratios preserved from the sourced version; presentation simplified."
+    "adaptation": {
+      "en": "Ratios preserved from the sourced version; presentation simplified."
+    }
   },
   "tags": [
     "griddle-bread",

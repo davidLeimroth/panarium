@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Yorkshire and the Midlands (Staffordshire, Derbyshire)",
-    "note": "The name is thought to trace to the Welsh 'bara pyglyd' (pitchy bread), carried into the Black Country by Welsh miners before spreading to Yorkshire and Derbyshire under the same name."
+    "region": {
+      "en": "Yorkshire and the Midlands (Staffordshire, Derbyshire)"
+    },
+    "note": {
+      "en": "The name is thought to trace to the Welsh 'bara pyglyd' (pitchy bread), carried into the Black Country by Welsh miners before spreading to Yorkshire and Derbyshire under the same name."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -41,17 +45,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 125,
-      "note": "strong bread flour"
+      "note": {
+        "en": "strong bread flour"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 100,
-      "note": "plain flour"
+      "note": {
+        "en": "plain flour"
+      }
     },
     {
       "key": "instant-yeast",
       "grams": 3,
-      "note": "fast-action dried yeast"
+      "note": {
+        "en": "fast-action dried yeast"
+      }
     },
     {
       "key": "salt",
@@ -72,18 +82,24 @@
     {
       "key": "water",
       "grams": 150,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "butter",
       "grams": 5,
-      "note": "for greasing the griddle"
+      "note": {
+        "en": "for greasing the griddle"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 40,
-    "shape": "thin, irregular griddle rounds, wider than a ringed crumpet"
+    "shape": {
+      "en": "thin, irregular griddle rounds, wider than a ringed crumpet"
+    }
   },
   "time": {
     "totalMin": 120,
@@ -122,7 +138,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fresh and warm, or lightly toasted the next day like a crumpet."
+    "note": {
+      "en": "Best fresh and warm, or lightly toasted the next day like a crumpet."
+    }
   },
   "equipment": [
     "griddle"
@@ -229,7 +247,9 @@
     "url": "https://www.littlesugarsnaps.com/pikelets/",
     "site": "Little Sugar Snaps",
     "retrieved": "2026-07-18",
-    "adaptation": "Plain version chosen; the source's optional currant fruit-pikelet variant is omitted here to keep this entry distinct from the atlas's other dried-fruit breads."
+    "adaptation": {
+      "en": "Plain version chosen; the source's optional currant fruit-pikelet variant is omitted here to keep this entry distinct from the atlas's other dried-fruit breads."
+    }
   },
   "tags": [
     "griddle-bread",

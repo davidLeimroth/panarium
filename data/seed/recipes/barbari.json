@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IR",
-    "region": "Iran (nationwide)",
-    "note": "One of Iran's everyday breakfast breads alongside sangak and lavash; now also baked across the Iranian diaspora and wider Middle East."
+    "region": {
+      "en": "Iran (nationwide)"
+    },
+    "note": {
+      "en": "One of Iran's everyday breakfast breads alongside sangak and lavash; now also baked across the Iranian diaspora and wider Middle East."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -48,7 +52,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 250,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -57,7 +63,9 @@
     {
       "key": "water",
       "grams": 395,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "instant-yeast",
@@ -70,7 +78,9 @@
     {
       "key": "sugar",
       "grams": 10,
-      "note": "or use honey"
+      "note": {
+        "en": "or use honey"
+      }
     },
     {
       "key": "olive-oil",
@@ -93,23 +103,31 @@
     {
       "key": "flour:wheat-white",
       "grams": 15,
-      "note": "for the roomal glaze"
+      "note": {
+        "en": "for the roomal glaze"
+      }
     },
     {
       "key": "water",
       "grams": 80,
-      "note": "for the roomal glaze"
+      "note": {
+        "en": "for the roomal glaze"
+      }
     },
     {
       "key": "baking-soda",
       "grams": 1,
-      "note": "for the roomal glaze"
+      "note": {
+        "en": "for the roomal glaze"
+      }
     }
   ],
   "yield": {
     "count": 3,
     "pieceGrams": 349,
-    "shape": "long oval grooved loaf"
+    "shape": {
+      "en": "long oval grooved loaf"
+    }
   },
   "time": {
     "totalMin": 858,
@@ -149,7 +167,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best warm the day it's baked, as sold fresh from Iranian bakeries each morning; freezes well and refreshes in a hot oven."
+    "note": {
+      "en": "Best warm the day it's baked, as sold fresh from Iranian bakeries each morning; freezes well and refreshes in a hot oven."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -272,7 +292,9 @@
     "url": "https://www.thedeliciouscrescent.com/healthy-persian-barbari-bread/",
     "site": "The Delicious Crescent",
     "retrieved": "2026-07-17",
-    "adaptation": "Headline hydration reflects the main dough only; the roomal glaze's flour and water are listed separately but excluded from hydrationPct since it's brushed on, not fermented with the dough."
+    "adaptation": {
+      "en": "Headline hydration reflects the main dough only; the roomal glaze's flour and water are listed separately but excluded from hydrationPct since it's brushed on, not fermented with the dough."
+    }
   },
   "tags": [
     "persian",

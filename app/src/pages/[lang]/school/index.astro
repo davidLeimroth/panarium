@@ -63,14 +63,14 @@ const faultsByStage = stages
   <div class="fault-body">
   {f.signs && f.signs.length > 0 && (
   <p>
-  <strong>{t.school.signs}:</strong> {f.signs.join(' · ')}
+  <strong>{t.school.signs}:</strong> {f.signs.map((x) => pick(x, lang)).join(' · ')}
   </p>
   )}
   <p>
-  <strong>{t.school.causes}:</strong> {f.causes.join(' · ')}
+  <strong>{t.school.causes}:</strong> {f.causes.map((x) => pick(x, lang)).join(' · ')}
   </p>
   <p>
-  <strong>{t.school.fixes}:</strong> {f.fixes.join(' · ')}
+  <strong>{t.school.fixes}:</strong> {f.fixes.map((x) => pick(x, lang)).join(' · ')}
   </p>
   {f.article && (
   <p>

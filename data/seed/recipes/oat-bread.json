@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "New England and general American home baking",
-    "note": "A staple of the mid-20th-century American home-baking repertoire. Oats have no gluten of their own, so they are always cut with wheat flour to get a raised loaf like this one, unlike a pure oatcake or bannock."
+    "region": {
+      "en": "New England and general American home baking"
+    },
+    "note": {
+      "en": "A staple of the mid-20th-century American home-baking repertoire. Oats have no gluten of their own, so they are always cut with wheat flour to get a raised loaf like this one, unlike a pure oatcake or bannock."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -51,12 +55,16 @@
     {
       "key": "flour:oat",
       "grams": 89,
-      "note": "old-fashioned rolled oats, softened in boiling water before mixing"
+      "note": {
+        "en": "old-fashioned rolled oats, softened in boiling water before mixing"
+      }
     },
     {
       "key": "water",
       "grams": 301,
-      "note": "boiling, poured over the oats to soften them"
+      "note": {
+        "en": "boiling, poured over the oats to soften them"
+      }
     },
     {
       "key": "vegetable-oil",
@@ -88,7 +96,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 800,
-    "shape": "8.5 x 4.5 in loaf pan"
+    "shape": {
+      "en": "8.5 x 4.5 in loaf pan"
+    }
   },
   "time": {
     "totalMin": 235,

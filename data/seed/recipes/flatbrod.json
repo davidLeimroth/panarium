@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "NO",
-    "region": "nationwide",
-    "note": "Traces to Viking-era cooking on flat stones; historically made from whatever grain was on hand, most often barley."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Traces to Viking-era cooking on flat stones; historically made from whatever grain was on hand, most often barley."
+    }
   },
   "leaven": "none",
   "family": "crispbread",
@@ -62,7 +66,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 60,
-    "shape": "paper-thin 20-25cm round"
+    "shape": {
+      "en": "paper-thin 20-25cm round"
+    }
   },
   "time": {
     "totalMin": 80,
@@ -101,7 +107,9 @@
   "keeping": {
     "freshDays": 180,
     "freezes": false,
-    "note": "Keeps for months in a dry tin, food built for a Norwegian winter, no freezer required."
+    "note": {
+      "en": "Keeps for months in a dry tin, food built for a Norwegian winter, no freezer required."
+    }
   },
   "equipment": [
     "griddle"
@@ -208,7 +216,9 @@
     "url": "https://thenordicdish.com/norwegian-flatbrod-flatbread-recipe-masterclass/",
     "site": "The Nordic Dish",
     "retrieved": "2026-07-17",
-    "adaptation": "Used the base grain-and-water version (no potato or butter option) to keep this entry distinct from the potato-based lefse."
+    "adaptation": {
+      "en": "Used the base grain-and-water version (no potato or butter option) to keep this entry distinct from the potato-based lefse."
+    }
   },
   "tags": [
     "viking-era",

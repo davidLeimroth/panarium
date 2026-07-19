@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national, especially Périgord and Savoie walnut country",
-    "note": "A staple of the French cheese course, pairing particularly well with goat and blue cheeses."
+    "region": {
+      "en": "national, especially Périgord and Savoie walnut country"
+    },
+    "note": {
+      "en": "A staple of the French cheese course, pairing particularly well with goat and blue cheeses."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -44,17 +48,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 1000,
-      "note": "T65"
+      "note": {
+        "en": "T65"
+      }
     },
     {
       "key": "water",
       "grams": 700,
-      "note": "includes the walnut soaking water"
+      "note": {
+        "en": "includes the walnut soaking water"
+      }
     },
     {
       "key": "levain",
       "grams": 200,
-      "note": "liquid levain"
+      "note": {
+        "en": "liquid levain"
+      }
     },
     {
       "key": "honey",
@@ -71,13 +81,17 @@
     {
       "key": "walnuts",
       "grams": 200,
-      "note": "toasted, then briefly rehydrated"
+      "note": {
+        "en": "toasted, then briefly rehydrated"
+      }
     }
   ],
   "yield": {
     "count": 5,
     "pieceGrams": 350,
-    "shape": "bâtards"
+    "shape": {
+      "en": "bâtards"
+    }
   },
   "time": {
     "totalMin": 230,
@@ -117,7 +131,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Walnut oils turn slightly after a few days at room temperature; freezing keeps it tasting fresh."
+    "note": {
+      "en": "Walnut oils turn slightly after a few days at room temperature; freezing keeps it tasting fresh."
+    }
   },
   "equipment": [
     "baking-stone",
@@ -225,7 +241,9 @@
     "url": "https://technomitron.aainb.com/recettes-2/pains-speciaux/pain-aux-noix-sur-levain-liquide/",
     "site": "Technomitron (AAINB)",
     "retrieved": "2026-07-17",
-    "adaptation": "Liquid levain's own flour/water content folded into the total baker's percentages."
+    "adaptation": {
+      "en": "Liquid levain's own flour/water content folded into the total baker's percentages."
+    }
   },
   "tags": [
     "noix",

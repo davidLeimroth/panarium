@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "AT",
-    "region": "Styria (Steiermark)",
-    "note": "Styrian pumpkin seed oil (Steirisches Kürbiskernöl) holds EU protected-origin status; this bread folds the region's signature oil and seeds into an everyday sourdough loaf."
+    "region": {
+      "en": "Styria (Steiermark)"
+    },
+    "note": {
+      "en": "Styrian pumpkin seed oil (Steirisches Kürbiskernöl) holds EU protected-origin status; this bread folds the region's signature oil and seeds into an everyday sourdough loaf."
+    }
   },
   "leaven": "hybrid",
   "family": "pan-loaf",
@@ -50,27 +54,37 @@
     {
       "key": "flour:spelt-whole",
       "grams": 100,
-      "note": "Dinkelvollkornmehl, scalded into the soaker"
+      "note": {
+        "en": "Dinkelvollkornmehl, scalded into the soaker"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 120,
-      "note": "dark rye, Type 1150, for the sourdough"
+      "note": {
+        "en": "dark rye, Type 1150, for the sourdough"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 350,
-      "note": "Halbweißmehl, Type 720"
+      "note": {
+        "en": "Halbweißmehl, Type 720"
+      }
     },
     {
       "key": "water",
       "grams": 670,
-      "note": "550g boiling, scalded over the soaker; 120g in the sourdough build"
+      "note": {
+        "en": "550g boiling, scalded over the soaker; 120g in the sourdough build"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 10,
-      "note": "active culture to build the rye sourdough"
+      "note": {
+        "en": "active culture to build the rye sourdough"
+      }
     },
     {
       "key": "salt",
@@ -83,7 +97,9 @@
     {
       "key": "pumpkin-seeds",
       "grams": 170,
-      "note": "roasted, for the soaker and rolling"
+      "note": {
+        "en": "roasted, for the soaker and rolling"
+      }
     },
     {
       "label": {
@@ -98,13 +114,17 @@
     {
       "key": "cheese",
       "grams": 60,
-      "note": "Speisequark, fresh curd cheese"
+      "note": {
+        "en": "Speisequark, fresh curd cheese"
+      }
     }
   ],
   "yield": {
     "count": 4,
     "pieceGrams": 382,
-    "shape": "small tins, 22x9x6cm, rolled in pumpkin seeds"
+    "shape": {
+      "en": "small tins, 22x9x6cm, rolled in pumpkin seeds"
+    }
   },
   "time": {
     "totalMin": 1440,
@@ -144,7 +164,9 @@
   "keeping": {
     "freshDays": 3.5,
     "freezes": true,
-    "note": "Keeps 3-4 days in a cloth bag or breadbox; freezes well for up to two months."
+    "note": {
+      "en": "Keeps 3-4 days in a cloth bag or breadbox; freezes well for up to two months."
+    }
   },
   "equipment": [
     "loaf-pan",
@@ -284,7 +306,9 @@
     "url": "https://www.marcelpaa.com/rezepte/steirisches-kuerbiskernbrot/",
     "site": "Marcel Paa - Einfach Backen",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased; ingredient grams kept at the source's stated 4-loaf batch size rather than scaled to a single loaf."
+    "adaptation": {
+      "en": "Method paraphrased; ingredient grams kept at the source's stated 4-loaf batch size rather than scaled to a single loaf."
+    }
   },
   "tags": [
     "steiermark",

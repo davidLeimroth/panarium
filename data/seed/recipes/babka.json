@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "PL",
-    "region": "Ashkenazi communities of Poland and Ukraine; later reshaped in New York's Jewish bakeries",
-    "note": "Ashkenazi bakers rolled leftover challah or rugelach dough with sugar, cinnamon or chocolate to avoid waste. Poland and Ukraine both claim it, and it is unrelated to the taller Slavic Easter cake that shares its name."
+    "region": {
+      "en": "Ashkenazi communities of Poland and Ukraine; later reshaped in New York's Jewish bakeries"
+    },
+    "note": {
+      "en": "Ashkenazi bakers rolled leftover challah or rugelach dough with sugar, cinnamon or chocolate to avoid waste. Poland and Ukraine both claim it, and it is unrelated to the taller Slavic Easter cake that shares its name."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -45,22 +49,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 750,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "water",
       "grams": 255,
-      "note": "lukewarm; source gives a 227-283g range depending on flour absorption"
+      "note": {
+        "en": "lukewarm; source gives a 227-283g range depending on flour absorption"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs, in the dough"
+      "note": {
+        "en": "2 large eggs, in the dough"
+      }
     },
     {
       "key": "milk",
       "grams": 37,
-      "note": "dry milk powder; not counted toward hydration since it adds no free liquid"
+      "note": {
+        "en": "dry milk powder; not counted toward hydration since it adds no free liquid"
+      }
     },
     {
       "key": "instant-yeast",
@@ -69,12 +81,16 @@
     {
       "key": "cinnamon",
       "grams": 3,
-      "note": "ground; split across the dough, filling and streusel topping"
+      "note": {
+        "en": "ground; split across the dough, filling and streusel topping"
+      }
     },
     {
       "key": "sugar",
       "grams": 198,
-      "note": "granulated: 99g in the dough, 99g in the filling"
+      "note": {
+        "en": "granulated: 99g in the dough, 99g in the filling"
+      }
     },
     {
       "key": "salt",
@@ -83,17 +99,23 @@
     {
       "key": "butter",
       "grams": 256,
-      "note": "256g total: 142g in the dough, 57g melted into the filling, 57g melted into the streusel"
+      "note": {
+        "en": "256g total: 142g in the dough, 57g melted into the filling, 57g melted into the streusel"
+      }
     },
     {
       "key": "vanilla",
       "grams": 14,
-      "note": "extract"
+      "note": {
+        "en": "extract"
+      }
     },
     {
       "key": "cocoa",
       "grams": 28,
-      "note": "unsweetened, in the filling, plus a pinch of espresso powder to deepen the chocolate flavor"
+      "note": {
+        "en": "unsweetened, in the filling, plus a pinch of espresso powder to deepen the chocolate flavor"
+      }
     },
     {
       "label": {
@@ -104,33 +126,45 @@
         "ro": "ciocolată semidulce, tocată"
       },
       "grams": 170,
-      "note": "in the filling"
+      "note": {
+        "en": "in the filling"
+      }
     },
     {
       "key": "walnuts",
       "grams": 113,
-      "note": "toasted, or pecans, in the filling"
+      "note": {
+        "en": "toasted, or pecans, in the filling"
+      }
     },
     {
       "key": "sugar",
       "grams": 74,
-      "note": "confectioners', in the streusel topping"
+      "note": {
+        "en": "confectioners', in the streusel topping"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 60,
-      "note": "in the streusel topping only; not counted toward the dough's baker's percentages"
+      "note": {
+        "en": "in the streusel topping only; not counted toward the dough's baker's percentages"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "for an egg glaze before the streusel goes on"
+      "note": {
+        "en": "for an egg glaze before the streusel goes on"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 1000,
-    "shape": "twisted loaf, 23x13cm (9x5in) pan"
+    "shape": {
+      "en": "twisted loaf, 23x13cm (9x5in) pan"
+    }
   },
   "time": {
     "totalMin": 420,
@@ -172,7 +206,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Rich with butter and chocolate, it keeps well wrapped at room temperature for several days and freezes beautifully, whole or sliced."
+    "note": {
+      "en": "Rich with butter and chocolate, it keeps well wrapped at room temperature for several days and freezes beautifully, whole or sliced."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -312,7 +348,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/chocolate-babka-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased and condensed; water taken as the midpoint of the site's 227-283g range; egg weight estimated at 50g per large egg."
+    "adaptation": {
+      "en": "Method paraphrased and condensed; water taken as the midpoint of the site's 227-283g range; egg weight estimated at 50g per large egg."
+    }
   },
   "tags": [
     "swirl-bread",

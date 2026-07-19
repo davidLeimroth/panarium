@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "SE",
-    "region": "originally central Sweden",
-    "note": "Dates to at least the 6th century; the center hole let loaves be strung on poles for winter storage."
+    "region": {
+      "en": "originally central Sweden"
+    },
+    "note": {
+      "en": "Dates to at least the 6th century; the center hole let loaves be strung on poles for winter storage."
+    }
   },
   "leaven": "yeast",
   "family": "crispbread",
@@ -52,7 +56,9 @@
     {
       "key": "flour:rye",
       "grams": 102,
-      "note": "dark rye flour"
+      "note": {
+        "en": "dark rye flour"
+      }
     },
     {
       "key": "flour:wheat-white",
@@ -81,7 +87,9 @@
     {
       "key": "butter",
       "grams": 28,
-      "note": "melted, plus extra for brushing"
+      "note": {
+        "en": "melted, plus extra for brushing"
+      }
     },
     {
       "label": {
@@ -97,7 +105,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 55,
-    "shape": "thin 20-23cm disc with a center hole"
+    "shape": {
+      "en": "thin 20-23cm disc with a center hole"
+    }
   },
   "time": {
     "totalMin": 95,
@@ -136,7 +146,9 @@
   "keeping": {
     "freshDays": 90,
     "freezes": false,
-    "note": "Keeps for months in an airtight tin at room temperature; that longevity is the whole point."
+    "note": {
+      "en": "Keeps for months in an airtight tin at room temperature; that longevity is the whole point."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -259,7 +271,9 @@
     "url": "https://true-north-kitchen.com/rye-and-oat-crispbread/",
     "site": "True North Kitchen",
     "retrieved": "2026-07-17",
-    "adaptation": "Converted volume measures to grams with standard conversions; oats counted within total flour for baker's percentages."
+    "adaptation": {
+      "en": "Converted volume measures to grams with standard conversions; oats counted within total flour for baker's percentages."
+    }
   },
   "tags": [
     "keeper",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "BE",
-    "region": "Flanders",
-    "note": "Popularized outside Belgium by Laurel Robertson's 'Laurel's Kitchen Bread Book'; the starter is grown in cool flour rather than inoculated from the air."
+    "region": {
+      "en": "Flanders"
+    },
+    "note": {
+      "en": "Popularized outside Belgium by Laurel Robertson's 'Laurel's Kitchen Bread Book'; the starter is grown in cool flour rather than inoculated from the air."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -42,12 +46,16 @@
     {
       "key": "flour:wheat-whole",
       "grams": 350,
-      "note": "hard white spring wheat, freshly milled"
+      "note": {
+        "en": "hard white spring wheat, freshly milled"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 100,
-      "note": "Red Fife heritage wheat, freshly milled"
+      "note": {
+        "en": "Red Fife heritage wheat, freshly milled"
+      }
     },
     {
       "key": "water",
@@ -56,7 +64,9 @@
     {
       "key": "sourdough-starter",
       "grams": 20,
-      "note": "mature desem culture, kept cool and fed only on flour"
+      "note": {
+        "en": "mature desem culture, kept cool and fed only on flour"
+      }
     },
     {
       "key": "salt",
@@ -66,7 +76,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 780,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 1770,
@@ -104,7 +116,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "Improves a day after baking as the whole-grain crumb settles."
+    "note": {
+      "en": "Improves a day after baking as the whole-grain crumb settles."
+    }
   },
   "equipment": [
     "dutch-oven",
@@ -228,7 +242,9 @@
     "url": "https://breadtopia.com/whole-grain-desem-bread/",
     "site": "Breadtopia",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages recomputed to include the levain's flour and water in the 100% flour base per house convention."
+    "adaptation": {
+      "en": "Percentages recomputed to include the levain's flour and water in the 100% flour base per house convention."
+    }
   },
   "tags": [
     "whole-grain",

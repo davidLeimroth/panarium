@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "PT",
-    "region": "Northern Portugal (Minho, Trás-os-Montes)",
-    "note": "The boiling-water scald over the cornmeal gelatinizes its starch, the technique behind broa's moist, long-keeping crumb."
+    "region": {
+      "en": "Northern Portugal (Minho, Trás-os-Montes)"
+    },
+    "note": {
+      "en": "The boiling-water scald over the cornmeal gelatinizes its starch, the technique behind broa's moist, long-keeping crumb."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -46,32 +50,44 @@
     {
       "key": "flour:wheat-white",
       "grams": 75,
-      "note": "flour share of the 120 g starter (massa velha) used; make a full batch and reserve the rest"
+      "note": {
+        "en": "flour share of the 120 g starter (massa velha) used; make a full batch and reserve the rest"
+      }
     },
     {
       "key": "water",
       "grams": 45,
-      "note": "water portion of the 120 g starter used"
+      "note": {
+        "en": "water portion of the 120 g starter used"
+      }
     },
     {
       "key": "flour:corn",
       "grams": 280,
-      "note": "white cornmeal"
+      "note": {
+        "en": "white cornmeal"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 130,
-      "note": "sifted rye flour"
+      "note": {
+        "en": "sifted rye flour"
+      }
     },
     {
       "key": "water",
       "grams": 200,
-      "note": "boiling, for scalding the cornmeal"
+      "note": {
+        "en": "boiling, for scalding the cornmeal"
+      }
     },
     {
       "key": "water",
       "grams": 70,
-      "note": "tepid, added when mixing the final dough"
+      "note": {
+        "en": "tepid, added when mixing the final dough"
+      }
     },
     {
       "key": "salt",
@@ -80,13 +96,17 @@
     {
       "key": "instant-yeast",
       "grams": 9,
-      "note": "optional; the starter alone can leaven it given enough time"
+      "note": {
+        "en": "optional; the starter alone can leaven it given enough time"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 817,
-    "shape": "round, dense hearth loaf"
+    "shape": {
+      "en": "round, dense hearth loaf"
+    }
   },
   "time": {
     "totalMin": 788,
@@ -124,7 +144,9 @@
   "keeping": {
     "freshDays": 7,
     "freezes": true,
-    "note": "The scalded cornmeal locks in moisture, which is why broa famously stays soft and edible far longer than a wheat loaf, traditionally baked in big batches to last the week."
+    "note": {
+      "en": "The scalded cornmeal locks in moisture, which is why broa famously stays soft and edible far longer than a wheat loaf, traditionally baked in big batches to last the week."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -215,7 +237,9 @@
     "url": "https://zinedepao.pt/17464.html",
     "site": "Zine de Pão",
     "retrieved": "2026-07-17",
-    "adaptation": "The starter's flour/water is scaled to the 120 g portion actually used in the final dough; make a full starter batch and reserve the remainder for your next bake, per tradition."
+    "adaptation": {
+      "en": "The starter's flour/water is scaled to the 120 g portion actually used in the final dough; make a full starter batch and reserve the remainder for your next bake, per tradition."
+    }
   },
   "tags": [
     "scalded-cornmeal",

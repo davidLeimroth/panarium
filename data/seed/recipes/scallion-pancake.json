@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "CN",
-    "region": "Northern China",
-    "note": "A home-kitchen staple across northern China, now equally common at street stalls and dim sum restaurants worldwide."
+    "region": {
+      "en": "Northern China"
+    },
+    "note": {
+      "en": "A home-kitchen staple across northern China, now equally common at street stalls and dim sum restaurants worldwide."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -42,27 +46,37 @@
     {
       "key": "flour:wheat-white",
       "grams": 250,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "water",
       "grams": 160,
-      "note": "boiling, for the hot-water dough"
+      "note": {
+        "en": "boiling, for the hot-water dough"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 10,
-      "note": "for coating the dough while it rests"
+      "note": {
+        "en": "for coating the dough while it rests"
+      }
     },
     {
       "key": "lard",
       "grams": 26,
-      "note": "melted, for the you su lamination paste; or use coconut or neutral oil"
+      "note": {
+        "en": "melted, for the you su lamination paste; or use coconut or neutral oil"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 16,
-      "note": "for the you su lamination paste"
+      "note": {
+        "en": "for the you su lamination paste"
+      }
     },
     {
       "label": {
@@ -73,12 +87,16 @@
         "ro": "piper Sichuan, măcinat"
       },
       "grams": 0.5,
-      "note": "or five-spice powder, in the paste"
+      "note": {
+        "en": "or five-spice powder, in the paste"
+      }
     },
     {
       "key": "salt",
       "grams": 1.5,
-      "note": "in the paste"
+      "note": {
+        "en": "in the paste"
+      }
     },
     {
       "label": {
@@ -89,18 +107,24 @@
         "ro": "ceapă verde"
       },
       "grams": 40,
-      "note": "finely chopped"
+      "note": {
+        "en": "finely chopped"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 40,
-      "note": "for pan-frying"
+      "note": {
+        "en": "for pan-frying"
+      }
     }
   ],
   "yield": {
     "count": 4,
     "pieceGrams": 136,
-    "shape": "thick round, 13 cm, laminated"
+    "shape": {
+      "en": "thick round, 13 cm, laminated"
+    }
   },
   "time": {
     "totalMin": 55,
@@ -139,7 +163,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best straight from the pan while shatteringly crisp; leftovers can be recrisped in a dry skillet. Freezes very well at the rolled, uncooked stage."
+    "note": {
+      "en": "Best straight from the pan while shatteringly crisp; leftovers can be recrisped in a dry skillet. Freezes very well at the rolled, uncooked stage."
+    }
   },
   "equipment": [
     "skillet"
@@ -262,7 +288,9 @@
     "url": "https://redhousespice.com/spring-onion-pancake/",
     "site": "Red House Spice",
     "retrieved": "2026-07-17",
-    "adaptation": "Small quantities of coating and frying oil estimated, since the source didn't fix them precisely; dough and you su paste flour/fat were combined for the total percentages."
+    "adaptation": {
+      "en": "Small quantities of coating and frying oil estimated, since the source didn't fix them precisely; dough and you su paste flour/fat were combined for the total percentages."
+    }
   },
   "tags": [
     "laminated",

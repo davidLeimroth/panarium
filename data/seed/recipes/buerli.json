@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "CH",
-    "region": "German-speaking Switzerland, especially St. Gallen",
-    "note": "St. Gallen is often cited as the Bürli's home; near-identical rolls (Bauernbrötli, Ruch-Bürli) appear region-wide under local names."
+    "region": {
+      "en": "German-speaking Switzerland, especially St. Gallen"
+    },
+    "note": {
+      "en": "St. Gallen is often cited as the Bürli's home; near-identical rolls (Bauernbrötli, Ruch-Bürli) appear region-wide under local names."
+    }
   },
   "leaven": "hybrid",
   "family": "roll",
@@ -56,22 +60,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 258,
-      "note": "type 550"
+      "note": {
+        "en": "type 550"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 258,
-      "note": "type 1050"
+      "note": {
+        "en": "type 1050"
+      }
     },
     {
       "key": "flour:spelt-whole",
       "grams": 101,
-      "note": "in the overnight pre-dough"
+      "note": {
+        "en": "in the overnight pre-dough"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 32,
-      "note": "type 997"
+      "note": {
+        "en": "type 997"
+      }
     },
     {
       "key": "water",
@@ -80,7 +92,9 @@
     {
       "key": "sourdough-starter",
       "grams": 32,
-      "note": "mature, stiff wheat starter (TA 150)"
+      "note": {
+        "en": "mature, stiff wheat starter (TA 150)"
+      }
     },
     {
       "key": "salt",
@@ -89,7 +103,9 @@
     {
       "key": "fresh-yeast",
       "grams": 7.7,
-      "note": "1 g in the pre-dough, 6.7 g in the main dough"
+      "note": {
+        "en": "1 g in the pre-dough, 6.7 g in the main dough"
+      }
     },
     {
       "key": "olive-oil",
@@ -99,7 +115,9 @@
   "yield": {
     "count": 8,
     "pieceGrams": 140,
-    "shape": "oval rolls baked in touching pairs (Doppelbürli)"
+    "shape": {
+      "en": "oval rolls baked in touching pairs (Doppelbürli)"
+    }
   },
   "time": {
     "totalMin": 1081,
@@ -139,7 +157,9 @@
   "keeping": {
     "freshDays": 1.5,
     "freezes": true,
-    "note": "The crackling crust softens fast; best the day it's baked, or split and toasted the next day."
+    "note": {
+      "en": "The crackling crust softens fast; best the day it's baked, or split and toasted the next day."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -263,7 +283,9 @@
     "site": "Plötzblog",
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
-    "adaptation": "Baker's percentages reconciled by resolving the stiff starter (TA 150) into its flour/water components; method paraphrased into fewer steps."
+    "adaptation": {
+      "en": "Baker's percentages reconciled by resolving the stiff starter (TA 150) into its flour/water components; method paraphrased into fewer steps."
+    }
   },
   "tags": [
     "st-gallen",

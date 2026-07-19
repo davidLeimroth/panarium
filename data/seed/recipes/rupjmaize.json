@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "LV",
-    "region": "nationwide",
-    "note": "Rye has been grown and eaten daily in Latvia for over 1,200 years; historically baked in wood-fired hearth ovens."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Rye has been grown and eaten daily in Latvia for over 1,200 years; historically baked in wood-fired hearth ovens."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -47,12 +51,16 @@
     {
       "key": "flour:rye-whole",
       "grams": 795,
-      "note": "700g coarse rye meal plus 95g fine whole rye flour used in the sour"
+      "note": {
+        "en": "700g coarse rye meal plus 95g fine whole rye flour used in the sour"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 300,
-      "note": "medium rye meal"
+      "note": {
+        "en": "medium rye meal"
+      }
     },
     {
       "key": "water",
@@ -61,7 +69,9 @@
     {
       "key": "sourdough-starter",
       "grams": 10,
-      "note": "active rye sour"
+      "note": {
+        "en": "active rye sour"
+      }
     },
     {
       "key": "salt",
@@ -79,7 +89,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1800,
-    "shape": "long oblong hearth loaf, about 15cm x 35-40cm"
+    "shape": {
+      "en": "long oblong hearth loaf, about 15cm x 35-40cm"
+    }
   },
   "time": {
     "totalMin": 3230,
@@ -119,7 +131,9 @@
   "keeping": {
     "freshDays": 8,
     "freezes": true,
-    "note": "Rest 24-48 hours before the first slice; the dense crumb needs the time to set."
+    "note": {
+      "en": "Rest 24-48 hours before the first slice; the dense crumb needs the time to set."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -227,7 +241,9 @@
     "site": "The Rye Baker",
     "author": "Stanley Ginsberg",
     "retrieved": "2026-07-17",
-    "adaptation": "Medium rye meal classified under the taxonomy's 'rye' (light/medium) type per grind, distinct from the coarse and whole components classified as 'rye-whole'."
+    "adaptation": {
+      "en": "Medium rye meal classified under the taxonomy's 'rye' (light/medium) type per grind, distinct from the coarse and whole components classified as 'rye-whole'."
+    }
   },
   "tags": [
     "all-rye",

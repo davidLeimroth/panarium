@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Genoa, Liguria",
-    "note": "The salamoia (water-oil-salt brine) poured into the dimples before the final rise is what separates this from every other Italian focaccia."
+    "region": {
+      "en": "Genoa, Liguria"
+    },
+    "note": {
+      "en": "The salamoia (water-oil-salt brine) poured into the dimples before the final rise is what separates this from every other Italian focaccia."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -43,12 +47,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "strong Manitoba (350 g) plus tipo '0' (150 g)"
+      "note": {
+        "en": "strong Manitoba (350 g) plus tipo '0' (150 g)"
+      }
     },
     {
       "key": "water",
       "grams": 300,
-      "note": "dough water"
+      "note": {
+        "en": "dough water"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -61,38 +69,52 @@
     {
       "key": "olive-oil",
       "grams": 30,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "salt",
       "grams": 10,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "water",
       "grams": 135,
-      "note": "for the salamoia brine"
+      "note": {
+        "en": "for the salamoia brine"
+      }
     },
     {
       "key": "olive-oil",
       "grams": 28,
-      "note": "for the salamoia brine, plus extra for the pan"
+      "note": {
+        "en": "for the salamoia brine, plus extra for the pan"
+      }
     },
     {
       "key": "salt",
       "grams": 2,
-      "note": "dissolved into the salamoia brine"
+      "note": {
+        "en": "dissolved into the salamoia brine"
+      }
     },
     {
       "key": "salt",
       "grams": 15,
-      "note": "coarse crystals scattered on top; stays crunchy, not counted toward saltPct"
+      "note": {
+        "en": "coarse crystals scattered on top; stays crunchy, not counted toward saltPct"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1035,
-    "shape": "40×35 cm sheet pan, cut into squares to serve"
+    "shape": {
+      "en": "40×35 cm sheet pan, cut into squares to serve"
+    }
   },
   "time": {
     "totalMin": 480,
@@ -132,7 +154,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best the day it's baked while the base still has a little crispness; it softens fast but reheats and freezes well."
+    "note": {
+      "en": "Best the day it's baked while the base still has a little crispness; it softens fast but reheats and freezes well."
+    }
   },
   "equipment": [
     "sheet-pan",
@@ -240,7 +264,9 @@
     "url": "https://www.tavolartegusto.it/ricetta/focaccia-genovese-ricetta-originale/",
     "site": "Tavolartegusto",
     "retrieved": "2026-07-17",
-    "adaptation": "Gram quantities follow this site's recipe; total hydration is calculated including the salamoia brine water, which the dimpled dough visibly drinks in."
+    "adaptation": {
+      "en": "Gram quantities follow this site's recipe; total hydration is calculated including the salamoia brine water, which the dimpled dough visibly drinks in."
+    }
   },
   "tags": [
     "salamoia",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "SI",
-    "region": "Central Slovenia, rural highland communities",
-    "note": "Buckwheat suits Slovenia's poor mountain soils and short seasons better than wheat, making this loaf a historic staple of rural households; families reportedly kept baking it through wartime shortages."
+    "region": {
+      "en": "Central Slovenia, rural highland communities"
+    },
+    "note": {
+      "en": "Buckwheat suits Slovenia's poor mountain soils and short seasons better than wheat, making this loaf a historic staple of rural households; families reportedly kept baking it through wartime shortages."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -51,12 +55,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 150,
-      "note": "strong/bread flour, for structure"
+      "note": {
+        "en": "strong/bread flour, for structure"
+      }
     },
     {
       "key": "water",
       "grams": 400,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -65,7 +73,9 @@
     {
       "key": "salt",
       "grams": 12,
-      "note": "source says only \"to taste\"; a typical baker's-percentage estimate"
+      "note": {
+        "en": "source says only \"to taste\"; a typical baker's-percentage estimate"
+      }
     },
     {
       "key": "vegetable-oil",
@@ -75,7 +85,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 990,
-    "shape": "oval hearth loaf"
+    "shape": {
+      "en": "oval hearth loaf"
+    }
   },
   "time": {
     "totalMin": 150,
@@ -252,7 +264,9 @@
     "url": "https://excitedfood.com/recipes/ajdov-kruh",
     "site": "Excited Food",
     "retrieved": "2026-07-18",
-    "adaptation": "Bake temperature/time (absent here) taken from a second recipe for the same bread. Yeast read as one 25g fresh-yeast cake; salt estimated since this source says only \"to taste.\""
+    "adaptation": {
+      "en": "Bake temperature/time (absent here) taken from a second recipe for the same bread. Yeast read as one 25g fresh-yeast cake; salt estimated since this source says only \"to taste.\""
+    }
   },
   "tags": [
     "ancient-grain",

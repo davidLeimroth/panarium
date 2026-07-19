@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Bordeaux / Gascony (Sud-Ouest)",
-    "note": "Traditionally shaped from 8 or 9 balls with a small rosette on top; made with only 6 balls, the same shape is called a couronne gasconne."
+    "region": {
+      "en": "Bordeaux / Gascony (Sud-Ouest)"
+    },
+    "note": {
+      "en": "Traditionally shaped from 8 or 9 balls with a small rosette on top; made with only 6 balls, the same shape is called a couronne gasconne."
+    }
   },
   "leaven": "hybrid",
   "family": "ring",
@@ -45,12 +49,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "T65"
+      "note": {
+        "en": "T65"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 100,
-      "note": "T110"
+      "note": {
+        "en": "T110"
+      }
     },
     {
       "key": "water",
@@ -72,7 +80,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1000,
-    "shape": "crown of 9 balls plus centre"
+    "shape": {
+      "en": "crown of 9 balls plus centre"
+    }
   },
   "time": {
     "totalMin": 280,
@@ -218,7 +228,9 @@
     "url": "https://croquantfondantgourmand.com/couronne-bordelaise/",
     "site": "Croquant Fondant Gourmand",
     "retrieved": "2026-07-17",
-    "adaptation": "Levain's own flour/water content estimated (assumed 100%-hydration liquid levain) and folded into total baker's percentages."
+    "adaptation": {
+      "en": "Levain's own flour/water content estimated (assumed 100%-hydration liquid levain) and folded into total baker's percentages."
+    }
   },
   "tags": [
     "bordeaux",

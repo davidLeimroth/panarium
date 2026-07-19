@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Normandie (pays de Bessin, Calvados)",
-    "note": "Recorded as early as a 1567 decree under the name 'pain de Chapître'; prized by Norman fishermen and sailors for keeping fresh for one to two weeks at sea."
+    "region": {
+      "en": "Normandie (pays de Bessin, Calvados)"
+    },
+    "note": {
+      "en": "Recorded as early as a 1567 decree under the name 'pain de Chapître'; prized by Norman fishermen and sailors for keeping fresh for one to two weeks at sea."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -43,7 +47,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 1300,
-      "note": "T55, split between the pre-ferment and final dough"
+      "note": {
+        "en": "T55, split between the pre-ferment and final dough"
+      }
     },
     {
       "key": "water",
@@ -52,7 +58,9 @@
     {
       "key": "butter",
       "grams": 60,
-      "note": "soft"
+      "note": {
+        "en": "soft"
+      }
     },
     {
       "key": "salt",
@@ -66,7 +74,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "stubby bâtard"
+    "shape": {
+      "en": "stubby bâtard"
+    }
   },
   "time": {
     "totalMin": 320,
@@ -105,7 +115,9 @@
   "keeping": {
     "freshDays": 12,
     "freezes": true,
-    "note": "Famed for keeping up to two weeks, the whole reason Norman sailors carried it to sea."
+    "note": {
+      "en": "Famed for keeping up to two weeks, the whole reason Norman sailors carried it to sea."
+    }
   },
   "equipment": [
     "stand-mixer"
@@ -212,7 +224,9 @@
     "url": "https://www.yumelise.fr/pain-brie/",
     "site": "Yumelise",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt increased from the source's 10g to 23g (1.8%) to match standard French bread-salting practice; source's own figure ran unusually low."
+    "adaptation": {
+      "en": "Salt increased from the source's 10g to 23g (1.8%) to match standard French bread-salting practice; source's own figure ran unusually low."
+    }
   },
   "tags": [
     "normandie",

@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "PH",
-    "region": "nationwide",
-    "note": "Descended from the Spanish 'pan de sal' (salt bread) introduced during colonization; the name stuck even though the modern roll turned notably sweet rather than salty."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Descended from the Spanish 'pan de sal' (salt bread) introduced during colonization; the name stuck even though the modern roll turned notably sweet rather than salty."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 520,
-      "note": "half all-purpose, half bread flour"
+      "note": {
+        "en": "half all-purpose, half bread flour"
+      }
     },
     {
       "key": "instant-yeast",
@@ -59,17 +65,23 @@
     {
       "key": "milk",
       "grams": 240,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 eggs"
+      "note": {
+        "en": "2 eggs"
+      }
     },
     {
       "key": "butter",
       "grams": 57,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "label": {
@@ -80,13 +92,17 @@
         "ro": "pesmet uscat"
       },
       "grams": 40,
-      "note": "for rolling the shaped rolls before baking"
+      "note": {
+        "en": "for rolling the shaped rolls before baking"
+      }
     }
   ],
   "yield": {
     "count": 16,
     "pieceGrams": 67,
-    "shape": "oval roll rolled in breadcrumbs"
+    "shape": {
+      "en": "oval roll rolled in breadcrumbs"
+    }
   },
   "time": {
     "totalMin": 170,
@@ -126,7 +142,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm the morning it's baked, often dunked in coffee or filled with corned beef; reheats well from frozen."
+    "note": {
+      "en": "Best warm the morning it's baked, often dunked in coffee or filled with corned beef; reheats well from frozen."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -249,7 +267,9 @@
     "url": "https://www.hungryhuy.com/pandesal/",
     "site": "Hungry Huy",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams kept as sourced; the two flour types combined into a single ingredient entry."
+    "adaptation": {
+      "en": "Grams kept as sourced; the two flour types combined into a single ingredient entry."
+    }
   },
   "tags": [
     "breakfast-bread",

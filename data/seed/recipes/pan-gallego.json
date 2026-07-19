@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "ES",
-    "region": "Galicia",
-    "note": "Recently granted Protected Geographical Indication status; must contain a minimum share of native Galician flours."
+    "region": {
+      "en": "Galicia"
+    },
+    "note": {
+      "en": "Recently granted Protected Geographical Indication status; must contain a minimum share of native Galician flours."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -54,7 +58,9 @@
     {
       "key": "sourdough-starter",
       "grams": 125,
-      "note": "masa madre de centeno, a rye sourdough starter"
+      "note": {
+        "en": "masa madre de centeno, a rye sourdough starter"
+      }
     },
     {
       "key": "salt",
@@ -64,7 +70,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1135,
-    "shape": "round loaf topped with the traditional twisted 'moña' knot"
+    "shape": {
+      "en": "round loaf topped with the traditional twisted 'moña' knot"
+    }
   },
   "time": {
     "totalMin": 940,
@@ -105,7 +113,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The rye sourdough and thick crust give it real keeping power; it's traditionally baked in large loaves meant to last several days."
+    "note": {
+      "en": "The rye sourdough and thick crust give it real keeping power; it's traditionally baked in large loaves meant to last several days."
+    }
   },
   "equipment": [
     "banneton",
@@ -213,7 +223,9 @@
     "url": "https://www.laflordegalicia.es/blog/como-hacer-pan-gallego-receta",
     "site": "La Flor de Galicia",
     "retrieved": "2026-07-17",
-    "adaptation": "The rye starter is assumed at roughly 100% hydration to split into total-flour baker's percentages."
+    "adaptation": {
+      "en": "The rye starter is assumed at roughly 100% hydration to split into total-flour baker's percentages."
+    }
   },
   "tags": [
     "moña",

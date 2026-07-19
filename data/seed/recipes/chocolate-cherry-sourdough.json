@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "A dessert-leaning sourdough popularized in the Tartine-adjacent artisan bakery scene."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "A dessert-leaning sourdough popularized in the Tartine-adjacent artisan bakery scene."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -46,7 +50,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 678,
-      "note": "blend of regular and high-protein bread flour"
+      "note": {
+        "en": "blend of regular and high-protein bread flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -67,12 +73,16 @@
     {
       "key": "cocoa",
       "grams": 24,
-      "note": "unsweetened, bloomed in oil"
+      "note": {
+        "en": "unsweetened, bloomed in oil"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 24,
-      "note": "neutral oil, e.g. canola"
+      "note": {
+        "en": "neutral oil, e.g. canola"
+      }
     },
     {
       "key": "sugar",
@@ -97,13 +107,17 @@
         "ro": "vișine uscate"
       },
       "grams": 159,
-      "note": "soaked briefly in warm water"
+      "note": {
+        "en": "soaked briefly in warm water"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 2300,

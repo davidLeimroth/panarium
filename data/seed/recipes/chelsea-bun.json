@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "London (Chelsea)",
-    "note": "First baked at the Chelsea Bun House, a bakery favored by the Hanoverian royal family in the 18th century; cut square because the buns are sliced from one shared spiral log baked touching in the pan."
+    "region": {
+      "en": "London (Chelsea)"
+    },
+    "note": {
+      "en": "First baked at the Chelsea Bun House, a bakery favored by the Hanoverian royal family in the 18th century; cut square because the buns are sliced from one shared spiral log baked touching in the pan."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 344,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "instant-yeast",
@@ -57,12 +63,16 @@
         "ro": "amestec de mirodenii"
       },
       "grams": 2,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "brown-sugar",
       "grams": 38,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "salt",
@@ -71,7 +81,9 @@
     {
       "key": "butter",
       "grams": 43,
-      "note": "softened, dough"
+      "note": {
+        "en": "softened, dough"
+      }
     },
     {
       "key": "milk",
@@ -80,17 +92,23 @@
     {
       "key": "egg",
       "grams": 50,
-      "note": "1 large egg"
+      "note": {
+        "en": "1 large egg"
+      }
     },
     {
       "key": "butter",
       "grams": 85,
-      "note": "softened, for the filling"
+      "note": {
+        "en": "softened, for the filling"
+      }
     },
     {
       "key": "brown-sugar",
       "grams": 100,
-      "note": "packed, for the filling"
+      "note": {
+        "en": "packed, for the filling"
+      }
     },
     {
       "label": {
@@ -101,38 +119,52 @@
         "ro": "amestec de mirodenii"
       },
       "grams": 4,
-      "note": "filling"
+      "note": {
+        "en": "filling"
+      }
     },
     {
       "key": "cinnamon",
       "grams": 3,
-      "note": "ground, filling"
+      "note": {
+        "en": "ground, filling"
+      }
     },
     {
       "key": "raisins",
       "grams": 113,
-      "note": "dried currants (small Zante-type raisins), traditional for this bun; filling"
+      "note": {
+        "en": "dried currants (small Zante-type raisins), traditional for this bun; filling"
+      }
     },
     {
       "key": "candied-citrus",
       "grams": 36,
-      "note": "chopped candied lemon peel, filling"
+      "note": {
+        "en": "chopped candied lemon peel, filling"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "for the glaze, brushed on hot from the oven"
+      "note": {
+        "en": "for the glaze, brushed on hot from the oven"
+      }
     },
     {
       "key": "water",
       "grams": 45,
-      "note": "for the glaze syrup, simmered with the sugar"
+      "note": {
+        "en": "for the glaze syrup, simmered with the sugar"
+      }
     }
   ],
   "yield": {
     "count": 9,
     "pieceGrams": 118,
-    "shape": "square-cut spiral bun, baked touching in a pan"
+    "shape": {
+      "en": "square-cut spiral bun, baked touching in a pan"
+    }
   },
   "time": {
     "totalMin": 140,
@@ -172,7 +204,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the day of baking while sticky-glazed; still good split and toasted a couple of days on."
+    "note": {
+      "en": "Best the day of baking while sticky-glazed; still good split and toasted a couple of days on."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -280,7 +314,9 @@
     "url": "https://www.daringgourmet.com/chelsea-buns/",
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-18",
-    "adaptation": "formula.* covers the dough only; the buttery currant filling and sugar-syrup glaze are itemized but excluded from the percentages. Cup measures converted to grams via standard baker's conversions."
+    "adaptation": {
+      "en": "formula.* covers the dough only; the buttery currant filling and sugar-syrup glaze are itemized but excluded from the percentages. Cup measures converted to grams via standard baker's conversions."
+    }
   },
   "tags": [
     "teatime",

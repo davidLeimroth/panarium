@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "PE",
-    "region": "Andes (Peru, Bolivia), Lake Titicaca basin cultivation 5,000-7,000 years old",
-    "note": "Called the Inca's 'Golden Grain of the Andes' and reportedly fed to warriors for strength; this multi-flour, yeasted loaf format is a modern gluten-free-baking adaptation, not a traditional Andean recipe."
+    "region": {
+      "en": "Andes (Peru, Bolivia), Lake Titicaca basin cultivation 5,000-7,000 years old"
+    },
+    "note": {
+      "en": "Called the Inca's 'Golden Grain of the Andes' and reportedly fed to warriors for strength; this multi-flour, yeasted loaf format is a modern gluten-free-baking adaptation, not a traditional Andean recipe."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -73,7 +77,9 @@
     {
       "key": "flour:potato",
       "grams": 200,
-      "note": "potato starch, not whole potato flour"
+      "note": {
+        "en": "potato starch, not whole potato flour"
+      }
     },
     {
       "label": {
@@ -104,7 +110,9 @@
     {
       "key": "egg",
       "grams": 150,
-      "note": "3 large eggs"
+      "note": {
+        "en": "3 large eggs"
+      }
     },
     {
       "label": {
@@ -120,7 +128,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1050,
-    "shape": "standard loaf pan"
+    "shape": {
+      "en": "standard loaf pan"
+    }
   },
   "time": {
     "totalMin": 128,
@@ -158,7 +168,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best the day it's baked; freeze anything left over, since this multi-flour gluten-free loaf stales quickly."
+    "note": {
+      "en": "Best the day it's baked; freeze anything left over, since this multi-flour gluten-free loaf stales quickly."
+    }
   },
   "equipment": [
     "loaf-pan",
@@ -266,7 +278,9 @@
     "url": "https://www.simplyquinoa.com/high-protein-quinoa-bread-recipe/",
     "site": "Simply Quinoa",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup measurements for the four flour/starch components converted to grams using estimated typical densities; potato starch counted under the taxonomy's potato flour type."
+    "adaptation": {
+      "en": "Cup measurements for the four flour/starch components converted to grams using estimated typical densities; potato starch counted under the taxonomy's potato flour type."
+    }
   },
   "tags": [
     "gluten-free",

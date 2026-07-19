@@ -16,8 +16,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "coastal New England (Massachusetts, Maine)",
-    "note": "Likely baked in New England kitchens before 1850; the name only appears in print from 1915, and the fisherman's-wife story is folklore rather than documented history."
+    "region": {
+      "en": "coastal New England (Massachusetts, Maine)"
+    },
+    "note": {
+      "en": "Likely baked in New England kitchens before 1850; the name only appears in print from 1915, and the fisherman's-wife story is folklore rather than documented history."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -47,7 +51,9 @@
     {
       "key": "flour:corn",
       "grams": 113,
-      "note": "yellow cornmeal"
+      "note": {
+        "en": "yellow cornmeal"
+      }
     },
     {
       "key": "salt",
@@ -60,12 +66,16 @@
     {
       "key": "molasses",
       "grams": 85,
-      "note": "dark/robust preferred"
+      "note": {
+        "en": "dark/robust preferred"
+      }
     },
     {
       "key": "water",
       "grams": 240,
-      "note": "boiling, to scald the cornmeal"
+      "note": {
+        "en": "boiling, to scald the cornmeal"
+      }
     },
     {
       "label": {
@@ -80,12 +90,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 240,
-      "note": "all-purpose"
+      "note": {
+        "en": "all-purpose"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 113,
-      "note": "white whole wheat"
+      "note": {
+        "en": "white whole wheat"
+      }
     },
     {
       "key": "instant-yeast",
@@ -95,7 +109,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 878,
-    "shape": "8.5-inch pan loaf"
+    "shape": {
+      "en": "8.5-inch pan loaf"
+    }
   },
   "time": {
     "totalMin": 230,
@@ -135,7 +151,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "Stays moist for most of a week thanks to the molasses; slices best after resting a day."
+    "note": {
+      "en": "Stays moist for most of a week thanks to the molasses; slices best after resting a day."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -258,7 +276,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/new-england-anadama-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams kept as sourced; scalding water quantity set at the recipe's own suggested midpoint."
+    "adaptation": {
+      "en": "Grams kept as sourced; scalding water quantity set at the recipe's own suggested midpoint."
+    }
   },
   "tags": [
     "molasses",

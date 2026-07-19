@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Milan, Lombardy",
-    "note": "Called michetta in Milanese dialect and rosetta elsewhere in Italy; often traced to the Austrian Kaisersemmel of Habsburg-era Milan, hollowed out to stay crisp longer in the city's humid climate."
+    "region": {
+      "en": "Milan, Lombardy"
+    },
+    "note": {
+      "en": "Called michetta in Milanese dialect and rosetta elsewhere in Italy; often traced to the Austrian Kaisersemmel of Habsburg-era Milan, hollowed out to stay crisp longer in the city's humid climate."
+    }
   },
   "leaven": "sourdough",
   "family": "roll",
@@ -44,32 +48,44 @@
     {
       "key": "flour:wheat-white",
       "grams": 455,
-      "note": "strong flour (W 380), in the overnight biga"
+      "note": {
+        "en": "strong flour (W 380), in the overnight biga"
+      }
     },
     {
       "key": "water",
       "grams": 260,
-      "note": "in the biga"
+      "note": {
+        "en": "in the biga"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 80,
-      "note": "refreshed starter, in the biga"
+      "note": {
+        "en": "refreshed starter, in the biga"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 80,
-      "note": "strong flour, in the final dough"
+      "note": {
+        "en": "strong flour, in the final dough"
+      }
     },
     {
       "key": "water",
       "grams": 40,
-      "note": "in the final dough"
+      "note": {
+        "en": "in the final dough"
+      }
     },
     {
       "key": "malt-syrup",
       "grams": 2.5,
-      "note": "diastatic malt powder"
+      "note": {
+        "en": "diastatic malt powder"
+      }
     },
     {
       "key": "salt",
@@ -79,7 +95,9 @@
   "yield": {
     "count": 10,
     "pieceGrams": 90,
-    "shape": "star-stamped hollow roll with a small central cap (soffiata)"
+    "shape": {
+      "en": "star-stamped hollow roll with a small central cap (soffiata)"
+    }
   },
   "time": {
     "totalMin": 1462,
@@ -118,7 +136,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "At its best within hours of baking; the hollow shell turns leathery by the next day, which is why Milanese bakeries sell fresh batches morning and afternoon."
+    "note": {
+      "en": "At its best within hours of baking; the hollow shell turns leathery by the next day, which is why Milanese bakeries sell fresh batches morning and afternoon."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -226,7 +246,9 @@
     "url": "https://www.lievitonaturale.org/panini_rosette.php",
     "site": "Lievito Naturale",
     "retrieved": "2026-07-17",
-    "adaptation": "Starter assumed roughly 50% hydration to split into total-flour percentages; this is a home approximation of the professional star-stamped michetta, which bakeries shape with a mechanical press."
+    "adaptation": {
+      "en": "Starter assumed roughly 50% hydration to split into total-flour percentages; this is a home approximation of the professional star-stamped michetta, which bakeries shape with a mechanical press."
+    }
   },
   "tags": [
     "hollow",

@@ -22,7 +22,9 @@
   },
   "origin": {
     "country": "PL",
-    "note": "Close kin to babka and stollen; poppy seeds are a traditional symbol of wealth and abundance for the year ahead, especially at the Christmas Eve supper (Wigilia)."
+    "note": {
+      "en": "Close kin to babka and stollen; poppy seeds are a traditional symbol of wealth and abundance for the year ahead, especially at the Christmas Eve supper (Wigilia)."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -51,12 +53,16 @@
     {
       "key": "sugar",
       "grams": 15,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "sugar",
       "grams": 100,
-      "note": "for the poppyseed filling"
+      "note": {
+        "en": "for the poppyseed filling"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -69,43 +75,59 @@
     {
       "key": "egg-yolk",
       "grams": 40,
-      "note": "2 yolks, for the dough"
+      "note": {
+        "en": "2 yolks, for the dough"
+      }
     },
     {
       "key": "butter",
       "grams": 50,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "butter",
       "grams": 10,
-      "note": "melted into the filling"
+      "note": {
+        "en": "melted into the filling"
+      }
     },
     {
       "key": "poppy-seeds",
       "grams": 300,
-      "note": "soaked in boiling water, then drained and finely ground"
+      "note": {
+        "en": "soaked in boiling water, then drained and finely ground"
+      }
     },
     {
       "key": "egg",
       "grams": 60,
-      "note": "whites only, bind the filling"
+      "note": {
+        "en": "whites only, bind the filling"
+      }
     },
     {
       "key": "honey",
       "grams": 64,
-      "note": "in the filling"
+      "note": {
+        "en": "in the filling"
+      }
     },
     {
       "key": "raisins",
       "grams": 150,
-      "note": "folded into the filling"
+      "note": {
+        "en": "folded into the filling"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 700,
-    "shape": "tight spiral log, sliced crosswise"
+    "shape": {
+      "en": "tight spiral log, sliced crosswise"
+    }
   },
   "time": {
     "totalMin": 870,
@@ -145,7 +167,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Improves overnight as the filling settles; slice thin once fully cooled so the spiral holds together."
+    "note": {
+      "en": "Improves overnight as the filling settles; slice thin once fully cooled so the spiral holds together."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -285,7 +309,9 @@
     "url": "https://polishhousewife.com/makowiec-polish-poppy-seed-roll/",
     "site": "Polish Housewife",
     "retrieved": "2026-07-17",
-    "adaptation": "sugarPct, fatPct and hydration include the filling's sugar, honey, butter and egg whites, not just the dough's own - the filling carries most of the sweetness in this rolled loaf."
+    "adaptation": {
+      "en": "sugarPct, fatPct and hydration include the filling's sugar, honey, butter and egg whites, not just the dough's own - the filling carries most of the sweetness in this rolled loaf."
+    }
   },
   "tags": [
     "christmas",

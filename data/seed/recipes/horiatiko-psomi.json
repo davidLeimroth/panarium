@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "GR",
-    "region": "Greece-wide",
-    "note": "A home-baking staple with countless family variations; the long, unhurried rise rather than any single ingredient is what defines it."
+    "region": {
+      "en": "Greece-wide"
+    },
+    "note": {
+      "en": "A home-baking staple with countless family variations; the long, unhurried rise rather than any single ingredient is what defines it."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -63,13 +67,17 @@
     {
       "key": "semolina",
       "grams": 20,
-      "note": "for dusting the work surface while kneading"
+      "note": {
+        "en": "for dusting the work surface while kneading"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 650,
-    "shape": "round loaves, baked in a covered pot"
+    "shape": {
+      "en": "round loaves, baked in a covered pot"
+    }
   },
   "time": {
     "totalMin": 734,
@@ -108,7 +116,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "A simple everyday loaf, good for a few days and popular for feeding a crowd at Sunday lunch."
+    "note": {
+      "en": "A simple everyday loaf, good for a few days and popular for feeding a crowd at Sunday lunch."
+    }
   },
   "equipment": [
     "dutch-oven"
@@ -215,7 +225,9 @@
     "url": "https://www.mygreekdish.com/recipe/greek-bread-recipe-village-bread-horiatiko-psomi/",
     "site": "My Greek Dish",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams as published; the final proof duration before baking wasn't explicitly stated by the source, so a short rest is assumed."
+    "adaptation": {
+      "en": "Grams as published; the final proof duration before baking wasn't explicitly stated by the source, so a short rest is assumed."
+    }
   },
   "tags": [
     "dutch-oven",

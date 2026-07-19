@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Nord-Pas-de-Calais (and Tournai, Belgium)",
-    "note": "Said to have originated as scraps of dough flattened and baked in a wood oven not yet hot enough for the main batch of bread."
+    "region": {
+      "en": "Nord-Pas-de-Calais (and Tournai, Belgium)"
+    },
+    "note": {
+      "en": "Said to have originated as scraps of dough flattened and baked in a wood oven not yet hot enough for the main batch of bread."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -54,7 +58,9 @@
     {
       "key": "vegetable-oil",
       "grams": 41,
-      "note": "grapeseed oil"
+      "note": {
+        "en": "grapeseed oil"
+      }
     },
     {
       "key": "sugar",
@@ -72,7 +78,9 @@
   "yield": {
     "count": 4,
     "pieceGrams": 200,
-    "shape": "flat disc"
+    "shape": {
+      "en": "flat disc"
+    }
   },
   "time": {
     "totalMin": 290,
@@ -110,7 +118,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Soft and pale with no protective crust, so it's best eaten the day it's made."
+    "note": {
+      "en": "Soft and pale with no protective crust, so it's best eaten the day it's made."
+    }
   },
   "equipment": [
     "sheet-pan"

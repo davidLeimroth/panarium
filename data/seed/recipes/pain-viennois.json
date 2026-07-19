@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Paris",
-    "note": "Created in 1839 when the Austrian officer August Zang opened his 'Boulangerie Viennoise' on rue de Richelieu, introducing mechanical kneading and steam ovens; Parisian bakers then built their own milk-and-butter loaf inspired by his techniques."
+    "region": {
+      "en": "Paris"
+    },
+    "note": {
+      "en": "Created in 1839 when the Austrian officer August Zang opened his 'Boulangerie Viennoise' on rue de Richelieu, introducing mechanical kneading and steam ovens; Parisian bakers then built their own milk-and-butter loaf inspired by his techniques."
+    }
   },
   "leaven": "yeast",
   "family": "baguette",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 1000,
-      "note": "T55"
+      "note": {
+        "en": "T55"
+      }
     },
     {
       "key": "water",
@@ -55,7 +61,9 @@
     {
       "key": "egg",
       "grams": 100,
-      "note": "about 2 eggs"
+      "note": {
+        "en": "about 2 eggs"
+      }
     },
     {
       "key": "sugar",
@@ -73,7 +81,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 270,
-    "shape": "long stick, saucisson-scored"
+    "shape": {
+      "en": "long stick, saucisson-scored"
+    }
   },
   "time": {
     "totalMin": 245,
@@ -112,7 +122,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Softer and slightly longer-keeping than a plain baguette thanks to the milk and butter."
+    "note": {
+      "en": "Softer and slightly longer-keeping than a plain baguette thanks to the milk and butter."
+    }
   },
   "equipment": [
     "sheet-pan"

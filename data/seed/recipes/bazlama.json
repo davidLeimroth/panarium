@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "TR",
-    "region": "Anatolia (rural Turkey)",
-    "note": "Known as Turkey's 'village bread', traditionally griddled on a wood-fired sac; now common at markets and breakfast tables nationwide."
+    "region": {
+      "en": "Anatolia (rural Turkey)"
+    },
+    "note": {
+      "en": "Known as Turkey's 'village bread', traditionally griddled on a wood-fired sac; now common at markets and breakfast tables nationwide."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -50,7 +54,9 @@
     {
       "key": "instant-yeast",
       "grams": 6,
-      "note": "or active dry yeast"
+      "note": {
+        "en": "or active dry yeast"
+      }
     },
     {
       "key": "sugar",
@@ -59,12 +65,16 @@
     {
       "key": "water",
       "grams": 309,
-      "note": "lukewarm; includes water added to adjust consistency"
+      "note": {
+        "en": "lukewarm; includes water added to adjust consistency"
+      }
     },
     {
       "key": "yogurt",
       "grams": 110,
-      "note": "Greek-style"
+      "note": {
+        "en": "Greek-style"
+      }
     },
     {
       "key": "olive-oil",
@@ -74,7 +84,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 165,
-    "shape": "thick round griddle bread, about 1 cm thick"
+    "shape": {
+      "en": "thick round griddle bread, about 1 cm thick"
+    }
   },
   "time": {
     "totalMin": 115,
@@ -113,7 +125,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm off the griddle; stays soft a day or two wrapped in a cloth, and reheats well on a dry pan. Freezes well between parchment."
+    "note": {
+      "en": "Best warm off the griddle; stays soft a day or two wrapped in a cloth, and reheats well on a dry pan. Freezes well between parchment."
+    }
   },
   "equipment": [
     "griddle"
@@ -236,7 +250,9 @@
     "url": "https://www.giverecipe.com/bazlama/",
     "site": "Give Recipe",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration recalculated including the extra water and yogurt's water content per baker's-percentage convention; the source's own self-reported hydration didn't match its own listed quantities."
+    "adaptation": {
+      "en": "Hydration recalculated including the extra water and yogurt's water content per baker's-percentage convention; the source's own self-reported hydration didn't match its own listed quantities."
+    }
   },
   "tags": [
     "village-bread",

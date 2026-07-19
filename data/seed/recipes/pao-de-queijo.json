@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "BR",
-    "region": "Minas Gerais",
-    "note": "Traditionally made with polvilho azedo (naturally soured tapioca starch) and Minas cheese; this version uses sweet tapioca starch with Parmesan and mozzarella for wider availability."
+    "region": {
+      "en": "Minas Gerais"
+    },
+    "note": {
+      "en": "Traditionally made with polvilho azedo (naturally soured tapioca starch) and Minas cheese; this version uses sweet tapioca starch with Parmesan and mozzarella for wider availability."
+    }
   },
   "leaven": "none",
   "family": "roll",
@@ -42,12 +46,16 @@
     {
       "key": "flour:cassava",
       "grams": 500,
-      "note": "tapioca starch (polvilho)"
+      "note": {
+        "en": "tapioca starch (polvilho)"
+      }
     },
     {
       "key": "milk",
       "grams": 300,
-      "note": "whole milk"
+      "note": {
+        "en": "whole milk"
+      }
     },
     {
       "key": "water",
@@ -64,23 +72,31 @@
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "cheese",
       "grams": 150,
-      "note": "Parmesan, finely grated"
+      "note": {
+        "en": "Parmesan, finely grated"
+      }
     },
     {
       "key": "cheese",
       "grams": 100,
-      "note": "mozzarella, shredded"
+      "note": {
+        "en": "mozzarella, shredded"
+      }
     }
   ],
   "yield": {
     "count": 24,
     "pieceGrams": 56,
-    "shape": "golf-ball-sized puff"
+    "shape": {
+      "en": "golf-ball-sized puff"
+    }
   },
   "time": {
     "totalMin": 45,
@@ -118,7 +134,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best piping hot from the oven; the raw shaped balls freeze beautifully and bake straight from frozen."
+    "note": {
+      "en": "Best piping hot from the oven; the raw shaped balls freeze beautifully and bake straight from frozen."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -225,7 +243,9 @@
     "url": "https://www.oliviascuisine.com/authentic-brazilian-cheese-bread/",
     "site": "Olivia's Cuisine",
     "retrieved": "2026-07-17",
-    "adaptation": "Volumes converted to grams via standard conversions; yield simplified to a single batch size."
+    "adaptation": {
+      "en": "Volumes converted to grams via standard conversions; yield simplified to a single batch size."
+    }
   },
   "tags": [
     "gluten-free",

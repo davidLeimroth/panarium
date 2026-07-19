@@ -29,7 +29,10 @@ export function isGlutenFree(r: Recipe): boolean {
 
 export function toIndexEntry(r: Recipe, lang: Lang): RecipeIndexEntry {
   const names = [r.name.en, r.name.de, r.name.es, r.name.fr, r.name.native ?? ''];
-  const haystack = [...names, ...r.aliases, ...r.tags, r.origin.region ?? '']
+  const region = r.origin.region;
+  // search across every language's region text, not just the displayed one
+  const regionAll = region ? [region.en, region.de, region.es, region.fr, region.ro] : [];
+  const haystack = [...names, ...r.aliases, ...r.tags, ...regionAll.filter(Boolean)]
     .join(' ')
     .toLowerCase();
   return {
@@ -38,7 +41,7 @@ export function toIndexEntry(r: Recipe, lang: Lang): RecipeIndexEntry {
     native: r.name.native,
     desc: pick(r.description, lang),
     country: r.origin.country,
-    region: r.origin.region,
+    region: region ? pick(region, lang) : undefined,
     family: r.family,
     leaven: r.leaven,
     hydration: r.formula.hydrationPct,

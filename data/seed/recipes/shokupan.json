@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "JP",
-    "region": "Nationwide; marketed abroad as Hokkaido milk bread for the region's dairy",
-    "note": "Bread itself entered Japan through 16th-century Portuguese traders. The soft, roux-based loaf builds on Japan's own yudane technique; its cousin 'tangzhong' spread internationally under a Chinese name popularized by a Taiwanese cookbook author."
+    "region": {
+      "en": "Nationwide; marketed abroad as Hokkaido milk bread for the region's dairy"
+    },
+    "note": {
+      "en": "Bread itself entered Japan through 16th-century Portuguese traders. The soft, roux-based loaf builds on Japan's own yudane technique; its cousin 'tangzhong' spread internationally under a Chinese name popularized by a Taiwanese cookbook author."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -45,22 +49,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 314,
-      "note": "bread flour: 14g cooked into the tangzhong, 300g in the final dough"
+      "note": {
+        "en": "bread flour: 14g cooked into the tangzhong, 300g in the final dough"
+      }
     },
     {
       "key": "water",
       "grams": 43,
-      "note": "in the tangzhong"
+      "note": {
+        "en": "in the tangzhong"
+      }
     },
     {
       "key": "milk",
       "grams": 156,
-      "note": "whole milk: 43g in the tangzhong, 113g in the dough"
+      "note": {
+        "en": "whole milk: 43g in the tangzhong, 113g in the dough"
+      }
     },
     {
       "key": "milk",
       "grams": 14,
-      "note": "Baker's Special dry milk powder, in the dough; not counted toward hydration"
+      "note": {
+        "en": "Baker's Special dry milk powder, in the dough; not counted toward hydration"
+      }
     },
     {
       "key": "sugar",
@@ -73,23 +85,31 @@
     {
       "key": "instant-yeast",
       "grams": 9,
-      "note": "1 tablespoon"
+      "note": {
+        "en": "1 tablespoon"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "1 large egg"
+      "note": {
+        "en": "1 large egg"
+      }
     },
     {
       "key": "butter",
       "grams": 57,
-      "note": "melted, unsalted"
+      "note": {
+        "en": "melted, unsalted"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 640,
-    "shape": "domed pullman loaf, 23x13cm (9x5in) pan"
+    "shape": {
+      "en": "domed pullman loaf, 23x13cm (9x5in) pan"
+    }
   },
   "time": {
     "totalMin": 260,
@@ -130,7 +150,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "The tangzhong keeps it soft far longer than a plain enriched loaf; wrap airtight and it stays pillowy nearly a week, or freeze slices for later toasting."
+    "note": {
+      "en": "The tangzhong keeps it soft far longer than a plain enriched loaf; wrap airtight and it stays pillowy nearly a week, or freeze slices for later toasting."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -254,7 +276,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/japanese-milk-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased and condensed; egg weight estimated at 50g per large egg; instant yeast converted from 1 tbsp using standard density."
+    "adaptation": {
+      "en": "Method paraphrased and condensed; egg weight estimated at 50g per large egg; instant yeast converted from 1 tbsp using standard density."
+    }
   },
   "tags": [
     "tangzhong",

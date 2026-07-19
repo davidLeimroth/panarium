@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Selkirk, Scottish Borders",
-    "note": "Created in the mid-1800s by a Selkirk baker who added sugar and dried fruit to leftover bread dough. Its fame grew after Queen Victoria was served a slice on a royal visit."
+    "region": {
+      "en": "Selkirk, Scottish Borders"
+    },
+    "note": {
+      "en": "Created in the mid-1800s by a Selkirk baker who added sugar and dried fruit to leftover bread dough. Its fame grew after Queen Victoria was served a slice on a royal visit."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -58,7 +62,9 @@
     {
       "key": "milk",
       "grams": 250,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "butter",
@@ -67,18 +73,24 @@
     {
       "key": "raisins",
       "grams": 300,
-      "note": "sultanas, traditionally imported from Turkey"
+      "note": {
+        "en": "sultanas, traditionally imported from Turkey"
+      }
     },
     {
       "key": "milk",
       "grams": 15,
-      "note": "for glazing before baking"
+      "note": {
+        "en": "for glazing before baking"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1130,
-    "shape": "single large round loaf, cut into thick slices for tea"
+    "shape": {
+      "en": "single large round loaf, cut into thick slices for tea"
+    }
   },
   "time": {
     "totalMin": 210,
@@ -119,7 +131,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Keeps well thanks to the butter and dried fruit; traditionally toasted and buttered once a few days old."
+    "note": {
+      "en": "Keeps well thanks to the butter and dried fruit; traditionally toasted and buttered once a few days old."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -226,7 +240,9 @@
     "url": "https://scottishscran.com/easy-selkirk-bannock-recipe/",
     "site": "Scottish Scran",
     "retrieved": "2026-07-18",
-    "adaptation": "Source called for only 'a pinch' of salt; standardized to a defined baker's percentage."
+    "adaptation": {
+      "en": "Source called for only 'a pinch' of salt; standardized to a defined baker's percentage."
+    }
   },
   "tags": [
     "scottish-borders",

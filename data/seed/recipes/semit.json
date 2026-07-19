@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "EG",
-    "region": "nationwide, especially Cairo and Alexandria street stalls",
-    "note": "Related to Turkish simit and the wider Ottoman sesame-ring family, but sized and served differently in Egypt, often alongside boiled eggs and dukkah."
+    "region": {
+      "en": "nationwide, especially Cairo and Alexandria street stalls"
+    },
+    "note": {
+      "en": "Related to Turkish simit and the wider Ottoman sesame-ring family, but sized and served differently in Egypt, often alongside boiled eggs and dukkah."
+    }
   },
   "leaven": "yeast",
   "family": "ring",
@@ -68,7 +72,9 @@
     {
       "key": "molasses",
       "grams": 20,
-      "note": "diluted in water for the sticky coating before rolling in sesame"
+      "note": {
+        "en": "diluted in water for the sticky coating before rolling in sesame"
+      }
     },
     {
       "key": "sesame-seeds",
@@ -78,7 +84,9 @@
   "yield": {
     "count": 4,
     "pieceGrams": 200,
-    "shape": "twisted double ring"
+    "shape": {
+      "en": "twisted double ring"
+    }
   },
   "time": {
     "totalMin": 195,
@@ -118,7 +126,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Keeps a few days in a paper bag; refresh in a hot oven to recrisp the sesame crust."
+    "note": {
+      "en": "Keeps a few days in a paper bag; refresh in a hot oven to recrisp the sesame crust."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -241,7 +251,9 @@
     "url": "https://tableya.net/recipes/the-breads-of-egypt-semit",
     "site": "Tableya",
     "retrieved": "2026-07-18",
-    "adaptation": "Yeast converted from 1 teaspoon to grams; the molasses dip's dilution water is mostly discarded, so it is left out; the dukkah accompaniment is a side condiment, not a bread ingredient."
+    "adaptation": {
+      "en": "Yeast converted from 1 teaspoon to grams; the molasses dip's dilution water is mostly discarded, so it is left out; the dukkah accompaniment is a side condiment, not a bread ingredient."
+    }
   },
   "tags": [
     "street-food",

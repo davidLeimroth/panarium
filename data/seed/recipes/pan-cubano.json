@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Tampa (Ybor City) and Miami, Florida",
-    "note": "Developed by Cuban, Spanish and Italian immigrant bakers in Tampa's Ybor City from the 1890s onward; Miami and Tampa still each claim the 'real' version, and it descends from Cuba's own wheat-and-lard bread traditions."
+    "region": {
+      "en": "Tampa (Ybor City) and Miami, Florida"
+    },
+    "note": {
+      "en": "Developed by Cuban, Spanish and Italian immigrant bakers in Tampa's Ybor City from the 1890s onward; Miami and Tampa still each claim the 'real' version, and it descends from Cuba's own wheat-and-lard bread traditions."
+    }
   },
   "leaven": "yeast",
   "family": "baguette",
@@ -42,12 +46,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
       "grams": 296,
-      "note": "room temperature"
+      "note": {
+        "en": "room temperature"
+      }
     },
     {
       "key": "instant-yeast",
@@ -60,7 +68,9 @@
     {
       "key": "lard",
       "grams": 57,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "salt",
@@ -70,7 +80,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 440,
-    "shape": "long torpedo loaf, about 18 inches, scored lengthwise"
+    "shape": {
+      "en": "long torpedo loaf, about 18 inches, scored lengthwise"
+    }
   },
   "time": {
     "totalMin": 190,
@@ -110,7 +122,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best eaten within hours of baking; stales quickly and is traditionally bought fresh daily."
+    "note": {
+      "en": "Best eaten within hours of baking; stales quickly and is traditionally bought fresh daily."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -233,7 +247,9 @@
     "url": "https://savortheflavour.com/homemade-cuban-bread-pan-cubano/",
     "site": "Savor the Flavour",
     "retrieved": "2026-07-17",
-    "adaptation": "Volumes converted to grams via standard conversions; palmetto-frond scoring kept as an optional traditional step."
+    "adaptation": {
+      "en": "Volumes converted to grams via standard conversions; palmetto-frond scoring kept as an optional traditional step."
+    }
   },
   "tags": [
     "cuban-sandwich",

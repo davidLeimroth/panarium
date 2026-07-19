@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Cornwall, England",
-    "note": "Saffron reached Cornwall through Mediterranean and Phoenician-era trade routes; Cornish saffron cake dates back to at least the 14th century, when the spice was a valuable trade commodity, and was a treat for church outings and celebrations."
+    "region": {
+      "en": "Cornwall, England"
+    },
+    "note": {
+      "en": "Saffron reached Cornwall through Mediterranean and Phoenician-era trade routes; Cornish saffron cake dates back to at least the 14th century, when the spice was a valuable trade commodity, and was a treat for church outings and celebrations."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -60,12 +64,16 @@
         "ro": "șofran"
       },
       "grams": 2,
-      "note": "threads, soaked in the warm water"
+      "note": {
+        "en": "threads, soaked in the warm water"
+      }
     },
     {
       "key": "water",
       "grams": 118,
-      "note": "warm, for soaking the saffron"
+      "note": {
+        "en": "warm, for soaking the saffron"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -78,28 +86,38 @@
     {
       "key": "milk",
       "grams": 237,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 eggs"
+      "note": {
+        "en": "2 eggs"
+      }
     },
     {
       "key": "raisins",
       "grams": 85,
-      "note": "mixed dried fruit"
+      "note": {
+        "en": "mixed dried fruit"
+      }
     },
     {
       "key": "raisins",
       "grams": 38,
-      "note": "currants"
+      "note": {
+        "en": "currants"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1120,
-    "shape": "single loaf baked in a 2lb tin, sliced"
+    "shape": {
+      "en": "single loaf baked in a 2lb tin, sliced"
+    }
   },
   "time": {
     "totalMin": 185,
@@ -139,7 +157,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Keeps well thanks to the butter and dried fruit; many say the saffron flavor deepens a day or two after baking."
+    "note": {
+      "en": "Keeps well thanks to the butter and dried fruit; many say the saffron flavor deepens a day or two after baking."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -247,7 +267,9 @@
     "url": "https://streamofflavors.com/recipes/cornish-saffron-cake/",
     "site": "Stream of Flavors",
     "retrieved": "2026-07-18",
-    "adaptation": "Source's very light 1/4 tsp salt standardized upward to a defined baker's percentage. Yeast recorded as fresh yeast given its proportion to the flour; ounce/cup measures converted to grams."
+    "adaptation": {
+      "en": "Source's very light 1/4 tsp salt standardized upward to a defined baker's percentage. Yeast recorded as fresh yeast given its proportion to the flour; ounce/cup measures converted to grams."
+    }
   },
   "tags": [
     "cornwall",

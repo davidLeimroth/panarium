@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "Oaxaca",
-    "note": "One of many egg-rich Day of the Dead breads made across Oaxaca, distinct from the anise-and-orange pan de muerto; here the sheer number of yolks, not sugar-and-bone decoration, is the defining feature."
+    "region": {
+      "en": "Oaxaca"
+    },
+    "note": {
+      "en": "One of many egg-rich Day of the Dead breads made across Oaxaca, distinct from the anise-and-orange pan de muerto; here the sheer number of yolks, not sugar-and-bone decoration, is the defining feature."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -54,22 +58,30 @@
     {
       "key": "water",
       "grams": 296,
-      "note": "lukewarm, for blooming the yeast"
+      "note": {
+        "en": "lukewarm, for blooming the yeast"
+      }
     },
     {
       "key": "butter",
       "grams": 227,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "key": "egg-yolk",
       "grams": 162,
-      "note": "9 yolks"
+      "note": {
+        "en": "9 yolks"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "salt",
@@ -78,13 +90,17 @@
     {
       "key": "egg",
       "grams": 50,
-      "note": "beaten, for egg wash"
+      "note": {
+        "en": "beaten, for egg wash"
+      }
     }
   ],
   "yield": {
     "count": 16,
     "pieceGrams": 100,
-    "shape": "round bun, three slashes on top"
+    "shape": {
+      "en": "round bun, three slashes on top"
+    }
   },
   "time": {
     "totalMin": 200,
@@ -125,7 +141,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Rich with butter and yolks, so it stays soft a few days; traditionally left out as an ofrenda before being eaten."
+    "note": {
+      "en": "Rich with butter and yolks, so it stays soft a few days; traditionally left out as an ofrenda before being eaten."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -249,7 +267,9 @@
     "url": "https://patijinich.com/pan-de-yema/",
     "site": "Pati Jinich",
     "retrieved": "2026-07-18",
-    "adaptation": "Egg yolk water content estimated at about 50% (lower than whole egg), since this taxonomy's conversions cover whole egg but not yolk. Vague pinch of salt standardized to a defined percentage."
+    "adaptation": {
+      "en": "Egg yolk water content estimated at about 50% (lower than whole egg), since this taxonomy's conversions cover whole egg but not yolk. Vague pinch of salt standardized to a defined percentage."
+    }
   },
   "tags": [
     "oaxaca",

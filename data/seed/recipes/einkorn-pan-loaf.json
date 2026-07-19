@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American home baking",
-    "note": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this quick, commercially-yeasted pan-loaf treatment is a modern home-baking shortcut next to the long-fermented sourdough versions more common in artisan bakeries."
+    "region": {
+      "en": "Modern American home baking"
+    },
+    "note": {
+      "en": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this quick, commercially-yeasted pan-loaf treatment is a modern home-baking shortcut next to the long-fermented sourdough versions more common in artisan bakeries."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -43,12 +47,16 @@
     {
       "key": "flour:einkorn",
       "grams": 500,
-      "note": "all-purpose einkorn flour"
+      "note": {
+        "en": "all-purpose einkorn flour"
+      }
     },
     {
       "key": "water",
       "grams": 296,
-      "note": "warm, 38-40°C"
+      "note": {
+        "en": "warm, 38-40°C"
+      }
     },
     {
       "key": "honey",
@@ -57,7 +65,9 @@
     {
       "key": "butter",
       "grams": 43,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -71,7 +81,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 800,
-    "shape": "1 lb loaf pan"
+    "shape": {
+      "en": "1 lb loaf pan"
+    }
   },
   "time": {
     "totalMin": 183,
@@ -111,7 +123,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Einkorn's delicate crumb dries out a little faster than modern wheat; best within a few days or sliced and frozen."
+    "note": {
+      "en": "Einkorn's delicate crumb dries out a little faster than modern wheat; best within a few days or sliced and frozen."
+    }
   },
   "equipment": [
     "loaf-pan"

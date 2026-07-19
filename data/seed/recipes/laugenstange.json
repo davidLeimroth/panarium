@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Southern Germany (Bavaria/Swabia), now nationwide",
-    "note": "Part of the same Laugengebäck family as the Laugenbrezel; shaped as a straight stick rather than tied into a knot."
+    "region": {
+      "en": "Southern Germany (Bavaria/Swabia), now nationwide"
+    },
+    "note": {
+      "en": "Part of the same Laugengebäck family as the Laugenbrezel; shaped as a straight stick rather than tied into a knot."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -44,7 +48,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 450,
-      "note": "type 550"
+      "note": {
+        "en": "type 550"
+      }
     },
     {
       "key": "water",
@@ -61,12 +67,16 @@
     {
       "key": "fresh-yeast",
       "grams": 21,
-      "note": "half a standard yeast cube"
+      "note": {
+        "en": "half a standard yeast cube"
+      }
     },
     {
       "key": "sugar",
       "grams": 4,
-      "note": "to wake the yeast"
+      "note": {
+        "en": "to wake the yeast"
+      }
     },
     {
       "key": "salt",
@@ -75,13 +85,17 @@
     {
       "key": "salt",
       "grams": 50,
-      "note": "coarse pretzel salt for the topping, not part of the dough itself"
+      "note": {
+        "en": "coarse pretzel salt for the topping, not part of the dough itself"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 70,
-    "shape": "tapered baton/stick"
+    "shape": {
+      "en": "tapered baton/stick"
+    }
   },
   "time": {
     "totalMin": 130,
@@ -121,7 +135,9 @@
   "keeping": {
     "freshDays": 1.5,
     "freezes": true,
-    "note": "Best the day it's baked; a hot-oven reheat the next day revives the crust."
+    "note": {
+      "en": "Best the day it's baked; a hot-oven reheat the next day revives the crust."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -244,7 +260,9 @@
     "url": "https://eat.de/rezept/laugenstangen-wie-vom-baecker/",
     "site": "eat.de",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages computed from the stated quantities; the lye bath is described as technique rather than weighed as a dough ingredient; method paraphrased."
+    "adaptation": {
+      "en": "Percentages computed from the stated quantities; the lye bath is described as technique rather than weighed as a dough ingredient; method paraphrased."
+    }
   },
   "tags": [
     "laugengebaeck",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "ZA",
-    "region": "nationwide (Afrikaans and township cooking)",
-    "note": "Called vetkoek ('fat cake') in Afrikaans and amagwinya or magwinya in Nguni and Sotho languages; a township and farm-kitchen staple eaten sweet or split and filled with curried mince."
+    "region": {
+      "en": "nationwide (Afrikaans and township cooking)"
+    },
+    "note": {
+      "en": "Called vetkoek ('fat cake') in Afrikaans and amagwinya or magwinya in Nguni and Sotho languages; a township and farm-kitchen staple eaten sweet or split and filled with curried mince."
+    }
   },
   "leaven": "yeast",
   "family": "fried",
@@ -44,12 +48,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 660,
-      "note": "cake flour"
+      "note": {
+        "en": "cake flour"
+      }
     },
     {
       "key": "water",
       "grams": 472,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "salt",
@@ -66,13 +74,17 @@
     {
       "key": "vegetable-oil",
       "grams": 118,
-      "note": "absorbed during frying; the deep-frying oil bath itself is mostly reused, not counted"
+      "note": {
+        "en": "absorbed during frying; the deep-frying oil bath itself is mostly reused, not counted"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 162,
-    "shape": "round or oval fried bun"
+    "shape": {
+      "en": "round or oval fried bun"
+    }
   },
   "time": {
     "totalMin": 130,
@@ -112,7 +124,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best eaten hot the day it is fried; reheat in a hot oven to recrisp rather than microwaving, which turns them soft and greasy."
+    "note": {
+      "en": "Best eaten hot the day it is fried; reheat in a hot oven to recrisp rather than microwaving, which turns them soft and greasy."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -219,7 +233,9 @@
     "url": "https://www.africanbites.com/vetkoek/",
     "site": "Immaculate Bites",
     "retrieved": "2026-07-18",
-    "adaptation": "Frying oil absorbed into the dough estimated at 10% of the dough's weight, since the deep-frying bath itself is mostly reused, not consumed."
+    "adaptation": {
+      "en": "Frying oil absorbed into the dough estimated at 10% of the dough's weight, since the deep-frying bath itself is mostly reused, not consumed."
+    }
   },
   "tags": [
     "fried-bread",

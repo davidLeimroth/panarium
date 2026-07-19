@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "PR",
-    "region": "island-wide",
-    "note": "Named 'sobao' (kneaded) for its intensively worked dough; also called pan de manteca for its traditional lard, a staple of the neighborhood panadería."
+    "region": {
+      "en": "island-wide"
+    },
+    "note": {
+      "en": "Named 'sobao' (kneaded) for its intensively worked dough; also called pan de manteca for its traditional lard, a staple of the neighborhood panadería."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -43,22 +47,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 16,
-      "note": "poolish"
+      "note": {
+        "en": "poolish"
+      }
     },
     {
       "key": "water",
       "grams": 30,
-      "note": "poolish"
+      "note": {
+        "en": "poolish"
+      }
     },
     {
       "key": "active-dry-yeast",
       "grams": 0.5,
-      "note": "poolish"
+      "note": {
+        "en": "poolish"
+      }
     },
     {
       "key": "water",
       "grams": 350,
-      "note": "main dough, divided for blooming yeast and mixing"
+      "note": {
+        "en": "main dough, divided for blooming yeast and mixing"
+      }
     },
     {
       "key": "sugar",
@@ -67,17 +79,23 @@
     {
       "key": "active-dry-yeast",
       "grams": 15,
-      "note": "2 packages, main dough"
+      "note": {
+        "en": "2 packages, main dough"
+      }
     },
     {
       "key": "lard",
       "grams": 51,
-      "note": "or shortening"
+      "note": {
+        "en": "or shortening"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 648,
-      "note": "main dough"
+      "note": {
+        "en": "main dough"
+      }
     },
     {
       "key": "salt",
@@ -87,7 +105,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 525,
-    "shape": "two 12-inch logs"
+    "shape": {
+      "en": "two 12-inch logs"
+    }
   },
   "time": {
     "totalMin": 1380,
@@ -127,7 +147,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Stays soft longer than a crusty hearth loaf thanks to the lard; great for sandwiches for a couple of days."
+    "note": {
+      "en": "Stays soft longer than a crusty hearth loaf thanks to the lard; great for sandwiches for a couple of days."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -252,7 +274,9 @@
     "url": "https://senseandedibility.com/pan-sobao-puerto-rican-bread/",
     "site": "Sense & Edibility",
     "retrieved": "2026-07-18",
-    "adaptation": "Flour and water ranges given as midpoints. Poolish refrigeration time shortened from the source's stated maximum of 24 hours to a more typical overnight rest for the total-time estimate."
+    "adaptation": {
+      "en": "Flour and water ranges given as midpoints. Poolish refrigeration time shortened from the source's stated maximum of 24 hours to a more typical overnight rest for the total-time estimate."
+    }
   },
   "tags": [
     "puerto-rico",

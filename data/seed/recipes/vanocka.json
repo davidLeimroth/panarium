@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "CZ",
-    "region": "Czech Republic, also baked in Slovakia",
-    "note": "Documented since the 14th century in a Benedictine monk's writing; the older regional name Houska still lingers among Czech emigrant communities. Each tier and strand traditionally carries its own symbolic meaning."
+    "region": {
+      "en": "Czech Republic, also baked in Slovakia"
+    },
+    "note": {
+      "en": "Documented since the 14th century in a Benedictine monk's writing; the older regional name Houska still lingers among Czech emigrant communities. Each tier and strand traditionally carries its own symbolic meaning."
+    }
   },
   "leaven": "yeast",
   "family": "braid",
@@ -49,7 +53,9 @@
     {
       "key": "milk",
       "grams": 290,
-      "note": "warmed"
+      "note": {
+        "en": "warmed"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -66,12 +72,16 @@
     {
       "key": "egg-yolk",
       "grams": 36,
-      "note": "2 large yolks"
+      "note": {
+        "en": "2 large yolks"
+      }
     },
     {
       "key": "butter",
       "grams": 115,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "lemon-zest",
@@ -84,23 +94,31 @@
     {
       "key": "almonds",
       "grams": 60,
-      "note": "chopped, worked into the dough"
+      "note": {
+        "en": "chopped, worked into the dough"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "beaten, for the egg wash"
+      "note": {
+        "en": "beaten, for the egg wash"
+      }
     },
     {
       "key": "almonds",
       "grams": 30,
-      "note": "sliced, sprinkled on top before baking"
+      "note": {
+        "en": "sliced, sprinkled on top before baking"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1150,
-    "shape": "three-tiered braid: 4 strands over 3 over a twist"
+    "shape": {
+      "en": "three-tiered braid: 4 strands over 3 over a twist"
+    }
   },
   "time": {
     "totalMin": 330,
@@ -142,7 +160,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Wrapped loosely, the butter and egg keep it soft for four to five days; it also freezes well whole or pre-sliced."
+    "note": {
+      "en": "Wrapped loosely, the butter and egg keep it soft for four to five days; it also freezes well whole or pre-sliced."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -282,7 +302,9 @@
     "url": "https://www.cooklikeczechs.com/vanocka-recipe/",
     "site": "Cook Like Czechs",
     "retrieved": "2026-07-17",
-    "adaptation": "Cross-checked against two other Czech sources: salt nudged up slightly; almonds added into the dough, not just on top, matching several traditional versions. yeastPct is instant-yeast-equivalent."
+    "adaptation": {
+      "en": "Cross-checked against two other Czech sources: salt nudged up slightly; almonds added into the dough, not just on top, matching several traditional versions. yeastPct is instant-yeast-equivalent."
+    }
   },
   "tags": [
     "christmas",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "ET",
-    "region": "Ethiopia & Eritrea",
-    "note": "The shared national staple of both Ethiopia and Eritrea; teff blends and fermentation length vary by region and household."
+    "region": {
+      "en": "Ethiopia & Eritrea"
+    },
+    "note": {
+      "en": "The shared national staple of both Ethiopia and Eritrea; teff blends and fermentation length vary by region and household."
+    }
   },
   "leaven": "sourdough",
   "family": "flatbread",
@@ -41,7 +45,9 @@
     {
       "key": "flour:teff",
       "grams": 376,
-      "note": "whole grain teff, brown or ivory"
+      "note": {
+        "en": "whole grain teff, brown or ivory"
+      }
     },
     {
       "key": "water",
@@ -50,18 +56,24 @@
     {
       "key": "salt",
       "grams": 3,
-      "note": "stirred in just before cooking, not during fermentation"
+      "note": {
+        "en": "stirred in just before cooking, not during fermentation"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 40,
-      "note": "optional ersho (starter from a previous batch) to kickstart fermentation"
+      "note": {
+        "en": "optional ersho (starter from a previous batch) to kickstart fermentation"
+      }
     }
   ],
   "yield": {
     "count": 9,
     "pieceGrams": 126,
-    "shape": "large thin spongy round, 25-30 cm"
+    "shape": {
+      "en": "large thin spongy round, 25-30 cm"
+    }
   },
   "time": {
     "totalMin": 4340,
@@ -98,7 +110,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Stays pliable several days at room temperature wrapped in cloth; refrigerates over a week and freezes well, though it's tangiest and spongiest fresh."
+    "note": {
+      "en": "Stays pliable several days at room temperature wrapped in cloth; refrigerates over a week and freezes well, though it's tangiest and spongiest fresh."
+    }
   },
   "equipment": [
     "griddle"
@@ -205,7 +219,9 @@
     "url": "https://figaroshakes.com/cultural-ferments/injera-recipe-ethiopian-fermented-teff-flatbread/",
     "site": "Figaro Shakes",
     "retrieved": "2026-07-17",
-    "adaptation": "Cup measurements converted to grams using a standard teff-flour weight (~188 g/cup); hydration and salt percentage computed from those converted weights per baker's-percentage convention."
+    "adaptation": {
+      "en": "Cup measurements converted to grams using a standard teff-flour weight (~188 g/cup); hydration and salt percentage computed from those converted weights per baker's-percentage convention."
+    }
   },
   "tags": [
     "gluten-free",

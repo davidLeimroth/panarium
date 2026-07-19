@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "Emmer (farro) is an ancient wheat first domesticated in the Fertile Crescent; this sourdough treatment is a contemporary artisan-bakery formula, not a historical recipe."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "Emmer (farro) is an ancient wheat first domesticated in the Fertile Crescent; this sourdough treatment is a contemporary artisan-bakery formula, not a historical recipe."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -43,12 +47,16 @@
     {
       "key": "flour:emmer",
       "grams": 225,
-      "note": "whole grain, home-milled or store-bought"
+      "note": {
+        "en": "whole grain, home-milled or store-bought"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 225,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
@@ -57,7 +65,9 @@
     {
       "key": "sourdough-starter",
       "grams": 100,
-      "note": "active, 100% hydration"
+      "note": {
+        "en": "active, 100% hydration"
+      }
     },
     {
       "key": "salt",
@@ -67,7 +77,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 850,
-    "shape": "boule or bâtard"
+    "shape": {
+      "en": "boule or bâtard"
+    }
   },
   "time": {
     "totalMin": 1240,

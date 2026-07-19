@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "FI",
-    "region": "Western Finland",
-    "note": "The center hole let loaves hang on poles from the rafters for slow drying and storage."
+    "region": {
+      "en": "Western Finland"
+    },
+    "note": {
+      "en": "The center hole let loaves hang on poles from the rafters for slow drying and storage."
+    }
   },
   "leaven": "hybrid",
   "family": "ring",
@@ -48,12 +52,16 @@
     {
       "key": "flour:rye-whole",
       "grams": 677,
-      "note": "split across an overnight sour and the final dough"
+      "note": {
+        "en": "split across an overnight sour and the final dough"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 68,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
@@ -62,7 +70,9 @@
     {
       "key": "sourdough-starter",
       "grams": 11,
-      "note": "active rye sour"
+      "note": {
+        "en": "active rye sour"
+      }
     },
     {
       "key": "instant-yeast",
@@ -76,7 +86,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 650,
-    "shape": "flat ring, about 35cm across, with a center hole"
+    "shape": {
+      "en": "flat ring, about 35cm across, with a center hole"
+    }
   },
   "time": {
     "totalMin": 1150,
@@ -117,7 +129,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Traditionally hung to dry for weeks; fresh-baked loaves keep well wrapped for under a week."
+    "note": {
+      "en": "Traditionally hung to dry for weeks; fresh-baked loaves keep well wrapped for under a week."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -241,7 +255,9 @@
     "site": "The Rye Baker",
     "author": "Stanley Ginsberg",
     "retrieved": "2026-07-17",
-    "adaptation": "Simplified to the two main loaves; the source's two small bonus rolls are omitted."
+    "adaptation": {
+      "en": "Simplified to the two main loaves; the source's two small bonus rolls are omitted."
+    }
   },
   "tags": [
     "hole-bread",

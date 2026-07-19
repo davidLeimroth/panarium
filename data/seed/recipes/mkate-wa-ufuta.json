@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "TZ",
-    "region": "Swahili coast (Zanzibar, coastal Kenya and Tanzania)",
-    "note": "Reflects the Swahili coast's Indian Ocean trade history, where coconut, sesame and wheat converge in one griddle bread."
+    "region": {
+      "en": "Swahili coast (Zanzibar, coastal Kenya and Tanzania)"
+    },
+    "note": {
+      "en": "Reflects the Swahili coast's Indian Ocean trade history, where coconut, sesame and wheat converge in one griddle bread."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -52,7 +56,9 @@
         "ro": "lapte de cocos"
       },
       "grams": 270,
-      "note": "full-fat, canned"
+      "note": {
+        "en": "full-fat, canned"
+      }
     },
     {
       "key": "egg",
@@ -69,18 +75,24 @@
     {
       "key": "olive-oil",
       "grams": 54,
-      "note": "or a neutral vegetable oil"
+      "note": {
+        "en": "or a neutral vegetable oil"
+      }
     },
     {
       "key": "sesame-seeds",
       "grams": 32,
-      "note": "for coating both sides before cooking"
+      "note": {
+        "en": "for coating both sides before cooking"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 133,
-    "shape": "round, about 16 cm wide"
+    "shape": {
+      "en": "round, about 16 cm wide"
+    }
   },
   "time": {
     "totalMin": 90,
@@ -118,7 +130,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best served warm right off the pan; leftovers reheat well in a dry skillet."
+    "note": {
+      "en": "Best served warm right off the pan; leftovers reheat well in a dry skillet."
+    }
   },
   "equipment": [
     "skillet"
@@ -241,7 +255,9 @@
     "url": "https://leitesculinaria.com/106462/recipes-mkate-wa-ufuta.html",
     "site": "Leite's Culinaria",
     "retrieved": "2026-07-18",
-    "adaptation": "Coconut milk's contribution to hydration estimated at 65% of its weight and its fat at 24%, since no standard conversion is given for it; cup/tsp/tbsp quantities converted to grams."
+    "adaptation": {
+      "en": "Coconut milk's contribution to hydration estimated at 65% of its weight and its fat at 24%, since no standard conversion is given for it; cup/tsp/tbsp quantities converted to grams."
+    }
   },
   "tags": [
     "swahili-coast",

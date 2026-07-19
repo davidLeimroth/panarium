@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "CA",
-    "region": "nationwide, especially the Prairies and Métis communities",
-    "note": "Adapted from a Métis recipe demonstrated at Rocky Mountain House National Historic Site, Alberta. Indigenous peoples across Canada have long had versions of this bread; wheat flour and baking powder entered after contact with Scottish fur traders, layered onto older methods."
+    "region": {
+      "en": "nationwide, especially the Prairies and Métis communities"
+    },
+    "note": {
+      "en": "Adapted from a Métis recipe demonstrated at Rocky Mountain House National Historic Site, Alberta. Indigenous peoples across Canada have long had versions of this bread; wheat flour and baking powder entered after contact with Scottish fur traders, layered onto older methods."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -53,13 +57,17 @@
     {
       "key": "water",
       "grams": 250,
-      "note": "cold"
+      "note": {
+        "en": "cold"
+      }
     }
   ],
   "yield": {
     "count": 4,
     "pieceGrams": 172,
-    "shape": "flattened rounds pressed into a hot pan over an open fire"
+    "shape": {
+      "en": "flattened rounds pressed into a hot pan over an open fire"
+    }
   },
   "time": {
     "totalMin": 35,
@@ -97,7 +105,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best hot from the pan; a simple camp bread meant to be eaten fresh rather than stored."
+    "note": {
+      "en": "Best hot from the pan; a simple camp bread meant to be eaten fresh rather than stored."
+    }
   },
   "equipment": [
     "skillet"
@@ -204,7 +214,9 @@
     "url": "https://parks.canada.ca/culture/gourmand-gourmet/recette-recipe66",
     "site": "Parks Canada",
     "retrieved": "2026-07-18",
-    "adaptation": "Source gives no salt and no fixed yield; left as in the original rather than adding ingredients not in the source. Portion count and weight are this atlas's own estimate for this size of dough."
+    "adaptation": {
+      "en": "Source gives no salt and no fixed yield; left as in the original rather than adding ingredients not in the source. Portion count and weight are this atlas's own estimate for this size of dough."
+    }
   },
   "tags": [
     "indigenous",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "VE",
-    "region": "Venezuela & Colombia (Andean/Timoto-Cuica origin)",
-    "note": "Predates the Spanish conquest by millennia; the name descends from 'erepa', a Timoto-Cuica word for cornbread. Colombia's thinner, topped version is equally central to its own cuisine."
+    "region": {
+      "en": "Venezuela & Colombia (Andean/Timoto-Cuica origin)"
+    },
+    "note": {
+      "en": "Predates the Spanish conquest by millennia; the name descends from 'erepa', a Timoto-Cuica word for cornbread. Colombia's thinner, topped version is equally central to its own cuisine."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -42,12 +46,16 @@
     {
       "key": "flour:corn",
       "grams": 140,
-      "note": "masarepa / harina precocida (precooked corn flour, e.g. Harina P.A.N.)"
+      "note": {
+        "en": "masarepa / harina precocida (precooked corn flour, e.g. Harina P.A.N.)"
+      }
     },
     {
       "key": "water",
       "grams": 296,
-      "note": "warm, about 40°C"
+      "note": {
+        "en": "warm, about 40°C"
+      }
     },
     {
       "key": "salt",
@@ -56,13 +64,17 @@
     {
       "key": "vegetable-oil",
       "grams": 5,
-      "note": "optional, for a richer texture"
+      "note": {
+        "en": "optional, for a richer texture"
+      }
     }
   ],
   "yield": {
     "count": 5,
     "pieceGrams": 89,
-    "shape": "thick round disc, 10 cm x 2 cm, split and stuffed"
+    "shape": {
+      "en": "thick round disc, 10 cm x 2 cm, split and stuffed"
+    }
   },
   "time": {
     "totalMin": 39,
@@ -101,7 +113,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm, split and stuffed right after cooking; leftovers reheat well in a toaster oven or dry skillet, and cooked arepas freeze well."
+    "note": {
+      "en": "Best warm, split and stuffed right after cooking; leftovers reheat well in a toaster oven or dry skillet, and cooked arepas freeze well."
+    }
   },
   "equipment": [
     "griddle"
@@ -224,7 +238,9 @@
     "url": "https://happyspicyhour.com/venezuelan-arepas/",
     "site": "Happy Spicy Hour",
     "retrieved": "2026-07-17",
-    "adaptation": "Masarepa cup-to-gram weight estimated at 140 g (brands vary); hydration and salt percentage computed from that estimate per baker's-percentage convention."
+    "adaptation": {
+      "en": "Masarepa cup-to-gram weight estimated at 140 g (brands vary); hydration and salt percentage computed from that estimate per baker's-percentage convention."
+    }
   },
   "tags": [
     "gluten-free",

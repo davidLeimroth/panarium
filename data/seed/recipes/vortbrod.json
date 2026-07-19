@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "SE",
-    "region": "nationwide",
-    "note": "Named for vört, the sweet brewer's wort traditionally used in the dough; modern versions substitute dark beer or julmust."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Named for vört, the sweet brewer's wort traditionally used in the dough; modern versions substitute dark beer or julmust."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -51,12 +55,16 @@
     {
       "key": "molasses",
       "grams": 140,
-      "note": "or dark Swedish brödsirap"
+      "note": {
+        "en": "or dark Swedish brödsirap"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 45,
-      "note": "rapeseed/canola oil"
+      "note": {
+        "en": "rapeseed/canola oil"
+      }
     },
     {
       "label": {
@@ -105,7 +113,9 @@
     {
       "key": "orange-zest",
       "grams": 3,
-      "note": "or dried bitter orange peel (pomeransskal)"
+      "note": {
+        "en": "or dried bitter orange peel (pomeransskal)"
+      }
     },
     {
       "key": "cardamom",
@@ -123,7 +133,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 700,
-    "shape": "oblong hearth loaf"
+    "shape": {
+      "en": "oblong hearth loaf"
+    }
   },
   "time": {
     "totalMin": 195,
@@ -163,7 +175,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "A julbord classic; keeps well wrapped for the better part of a week."
+    "note": {
+      "en": "A julbord classic; keeps well wrapped for the better part of a week."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -286,7 +300,9 @@
     "url": "https://lelasfood.wordpress.com/2013/12/10/swedish-christmas-bread-vortbrod/",
     "site": "Lela's Food",
     "retrieved": "2026-07-17",
-    "adaptation": "Dark bread syrup (brödsirap) mapped to molasses and bitter orange peel to orange zest, since the taxonomy has no exact matching keys; volumes converted to grams with standard density estimates."
+    "adaptation": {
+      "en": "Dark bread syrup (brödsirap) mapped to molasses and bitter orange peel to orange zest, since the taxonomy has no exact matching keys; volumes converted to grams with standard density estimates."
+    }
   },
   "tags": [
     "christmas",

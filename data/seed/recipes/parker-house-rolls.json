@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Boston, Massachusetts",
-    "note": "Created at the Parker House hotel, the same 19th-century Boston establishment credited with inventing Boston Cream Pie."
+    "region": {
+      "en": "Boston, Massachusetts"
+    },
+    "note": {
+      "en": "Created at the Parker House hotel, the same 19th-century Boston establishment credited with inventing Boston Cream Pie."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -50,7 +54,9 @@
     {
       "key": "flour:potato",
       "grams": 50,
-      "note": "potato flour, or dried potato flakes, for a tender crumb"
+      "note": {
+        "en": "potato flour, or dried potato flakes, for a tender crumb"
+      }
     },
     {
       "key": "instant-yeast",
@@ -67,7 +73,9 @@
     {
       "key": "butter",
       "grams": 43,
-      "note": "softened, mixed into the dough"
+      "note": {
+        "en": "softened, mixed into the dough"
+      }
     },
     {
       "key": "milk",
@@ -80,13 +88,17 @@
     {
       "key": "butter",
       "grams": 53,
-      "note": "melted, for folding into and brushing over the rolls"
+      "note": {
+        "en": "melted, for folding into and brushing over the rolls"
+      }
     }
   ],
   "yield": {
     "count": 16,
     "pieceGrams": 52,
-    "shape": "folded rectangular roll, about 2.25 x 3 inches"
+    "shape": {
+      "en": "folded rectangular roll, about 2.25 x 3 inches"
+    }
   },
   "time": {
     "totalMin": 163,
@@ -126,7 +138,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Reheats well; brush with a little extra melted butter after warming through."
+    "note": {
+      "en": "Reheats well; brush with a little extra melted butter after warming through."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -250,7 +264,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/parker-house-rolls-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams kept as sourced; brushing butter counted into the fat total since it is folded into and over every roll."
+    "adaptation": {
+      "en": "Grams kept as sourced; brushing butter counted into the fat total since it is folded into and over every roll."
+    }
   },
   "tags": [
     "thanksgiving",

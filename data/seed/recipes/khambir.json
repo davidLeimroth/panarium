@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "Ladakh (also Tibetan communities in Nepal and Bhutan)",
-    "note": "A high-altitude breakfast staple, traditionally baked on a hot iron plate in a wood or dung-fired stove and served with salted butter tea (gur gur chai)."
+    "region": {
+      "en": "Ladakh (also Tibetan communities in Nepal and Bhutan)"
+    },
+    "note": {
+      "en": "A high-altitude breakfast staple, traditionally baked on a hot iron plate in a wood or dung-fired stove and served with salted butter tea (gur gur chai)."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -59,18 +63,24 @@
     {
       "key": "water",
       "grams": 270,
-      "note": "lukewarm; includes the portion used to activate the yeast"
+      "note": {
+        "en": "lukewarm; includes the portion used to activate the yeast"
+      }
     },
     {
       "key": "butter",
       "grams": 15,
-      "note": "ghee, brushed on after cooking"
+      "note": {
+        "en": "ghee, brushed on after cooking"
+      }
     }
   ],
   "yield": {
     "count": 7,
     "pieceGrams": 100,
-    "shape": "round flatbread, griddle- and open-flame-toasted, ~15 cm"
+    "shape": {
+      "en": "round flatbread, griddle- and open-flame-toasted, ~15 cm"
+    }
   },
   "time": {
     "totalMin": 640,
@@ -109,7 +119,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Slight fermented tang helps it keep a few days; warm on a dry pan or open flame to refresh."
+    "note": {
+      "en": "Slight fermented tang helps it keep a few days; warm on a dry pan or open flame to refresh."
+    }
   },
   "equipment": [
     "griddle"
@@ -216,7 +228,9 @@
     "url": "https://candidtreat.com/khambir-recipe-ladakhi-khamiri-roti-recipe/",
     "site": "Candid Treat",
     "retrieved": "2026-07-18",
-    "adaptation": "Vague volumes ('1 bowl flour', 'pinch of salt') converted to gram estimates; used the source's traditional overnight ferment as the primary timeline rather than its faster same-day shortcut."
+    "adaptation": {
+      "en": "Vague volumes ('1 bowl flour', 'pinch of salt') converted to gram estimates; used the source's traditional overnight ferment as the primary timeline rather than its faster same-day shortcut."
+    }
   },
   "tags": [
     "ladakh",

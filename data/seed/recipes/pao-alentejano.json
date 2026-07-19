@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "PT",
-    "region": "Alentejo",
-    "note": "Traditionally mixed and kneaded by hand in a wooden trough (masseira); baked with no steam, which is why the crust stays thick and matte rather than glossy."
+    "region": {
+      "en": "Alentejo"
+    },
+    "note": {
+      "en": "Traditionally mixed and kneaded by hand in a wooden trough (masseira); baked with no steam, which is why the crust stays thick and matte rather than glossy."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -38,7 +42,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 1000,
-      "note": "tipo 65 wheat flour"
+      "note": {
+        "en": "tipo 65 wheat flour"
+      }
     },
     {
       "key": "water",
@@ -47,7 +53,9 @@
     {
       "key": "sourdough-starter",
       "grams": 50,
-      "note": "massa mãe"
+      "note": {
+        "en": "massa mãe"
+      }
     },
     {
       "key": "salt",
@@ -57,7 +65,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 834,
-    "shape": "large round hearth loaf, dull matte crust, no steam"
+    "shape": {
+      "en": "large round hearth loaf, dull matte crust, no steam"
+    }
   },
   "time": {
     "totalMin": 310,
@@ -96,7 +106,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "A dense crumb and thick, dull crust hold up well for days, in keeping with the Alentejo tradition of baking large loaves to last."
+    "note": {
+      "en": "A dense crumb and thick, dull crust hold up well for days, in keeping with the Alentejo tradition of baking large loaves to last."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -203,7 +215,9 @@
     "url": "https://asenhoradomonte.com/2016/05/09/receita-de-pao-alentejano/",
     "site": "A Senhora do Monte",
     "retrieved": "2026-07-17",
-    "adaptation": "Starter assumed roughly 100% hydration to split into total-flour percentages; bulk and proof durations, left unspecified by the source, are typical estimates for this hydration and starter level."
+    "adaptation": {
+      "en": "Starter assumed roughly 100% hydration to split into total-flour percentages; bulk and proof durations, left unspecified by the source, are typical estimates for this hydration and starter level."
+    }
   },
   "tags": [
     "no-steam",

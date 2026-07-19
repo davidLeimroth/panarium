@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "GR",
-    "region": "Crete",
-    "note": "Leavened only by kounenos, a wild culture grown on soaked chickpeas rather than flour; no commercial yeast or conventional sourdough starter is used at all."
+    "region": {
+      "en": "Crete"
+    },
+    "note": {
+      "en": "Leavened only by kounenos, a wild culture grown on soaked chickpeas rather than flour; no commercial yeast or conventional sourdough starter is used at all."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -48,27 +52,37 @@
     {
       "key": "flour:chickpea",
       "grams": 60,
-      "note": "for the wild-fermented kounenos starter"
+      "note": {
+        "en": "for the wild-fermented kounenos starter"
+      }
     },
     {
       "key": "water",
       "grams": 240,
-      "note": "cooled aromatic water, brewed with bay leaf and black pepper, for the starter"
+      "note": {
+        "en": "cooled aromatic water, brewed with bay leaf and black pepper, for the starter"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 186,
-      "note": "added to the activated starter before its second rise"
+      "note": {
+        "en": "added to the activated starter before its second rise"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 249,
-      "note": "remaining flour, in the final dough"
+      "note": {
+        "en": "remaining flour, in the final dough"
+      }
     },
     {
       "key": "water",
       "grams": 120,
-      "note": "remaining aromatic water, in the final dough"
+      "note": {
+        "en": "remaining aromatic water, in the final dough"
+      }
     },
     {
       "key": "olive-oil",
@@ -81,18 +95,24 @@
     {
       "key": "sugar",
       "grams": 8,
-      "note": "brewed into the aromatic water to feed the wild fermentation"
+      "note": {
+        "en": "brewed into the aromatic water to feed the wild fermentation"
+      }
     },
     {
       "key": "sesame-seeds",
       "grams": 4.5,
-      "note": "black and white sesame, for topping"
+      "note": {
+        "en": "black and white sesame, for topping"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 904,
-    "shape": "round loaf, sometimes double-baked into paximadia (rusks)"
+    "shape": {
+      "en": "round loaf, sometimes double-baked into paximadia (rusks)"
+    }
   },
   "time": {
     "totalMin": 1233,
@@ -132,7 +152,9 @@
   "keeping": {
     "freshDays": 10,
     "freezes": true,
-    "note": "Traditionally double-baked into paximadia (rusks) for months of shelf life, a practical trick from Crete's island pantries."
+    "note": {
+      "en": "Traditionally double-baked into paximadia (rusks) for months of shelf life, a practical trick from Crete's island pantries."
+    }
   },
   "equipment": [],
   "method": [
@@ -237,7 +259,9 @@
     "url": "https://gr.thehungrybites.com/eftazimo-psomi-kritiki-sintagi/",
     "site": "The Hungry Bites",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams converted from cup/tsp measures; baking temperature wasn't specified by the source, so 200°C, typical for a rustic loaf of this size and bake time, is used."
+    "adaptation": {
+      "en": "Grams converted from cup/tsp measures; baking temperature wasn't specified by the source, so 200°C, typical for a rustic loaf of this size and bake time, is used."
+    }
   },
   "tags": [
     "wild-fermentation",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Garfagnana, Tuscany",
-    "note": "Farro della Garfagnana is emmer wheat (Triticum dicoccum) with IGP protected status. Potato stretched scarce or failed cereal harvests in this mountain valley; the mix became a local specialty in its own right, distinct from an ordinary wheat loaf."
+    "region": {
+      "en": "Garfagnana, Tuscany"
+    },
+    "note": {
+      "en": "Farro della Garfagnana is emmer wheat (Triticum dicoccum) with IGP protected status. Potato stretched scarce or failed cereal harvests in this mountain valley; the mix became a local specialty in its own right, distinct from an ordinary wheat loaf."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -48,43 +52,59 @@
     {
       "key": "flour:emmer",
       "grams": 500,
-      "note": "farro della Garfagnana, a regional emmer wheat with IGP protection"
+      "note": {
+        "en": "farro della Garfagnana, a regional emmer wheat with IGP protection"
+      }
     },
     {
       "key": "mashed-potato",
       "grams": 200,
-      "note": "boiled unpeeled, then peeled and mashed"
+      "note": {
+        "en": "boiled unpeeled, then peeled and mashed"
+      }
     },
     {
       "key": "water",
       "grams": 150,
-      "note": "warm, to dissolve the yeast"
+      "note": {
+        "en": "warm, to dissolve the yeast"
+      }
     },
     {
       "key": "fresh-yeast",
       "grams": 25,
-      "note": "brewer's yeast, dissolved in the warm water first"
+      "note": {
+        "en": "brewer's yeast, dissolved in the warm water first"
+      }
     },
     {
       "key": "olive-oil",
       "grams": 20,
-      "note": "amount not specified by source; typical estimate"
+      "note": {
+        "en": "amount not specified by source; typical estimate"
+      }
     },
     {
       "key": "salt",
       "grams": 10,
-      "note": "amount not specified by source; typical baker's-percentage estimate"
+      "note": {
+        "en": "amount not specified by source; typical baker's-percentage estimate"
+      }
     },
     {
       "key": "sugar",
       "grams": 5,
-      "note": "a pinch, to help activate the yeast; amount not specified by source"
+      "note": {
+        "en": "a pinch, to help activate the yeast; amount not specified by source"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 410,
-    "shape": "oval hearth loaf, deeply scored"
+    "shape": {
+      "en": "oval hearth loaf, deeply scored"
+    }
   },
   "time": {
     "totalMin": 173,
@@ -123,7 +143,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The potato keeps this loaf moist noticeably longer than a plain emmer bread."
+    "note": {
+      "en": "The potato keeps this loaf moist noticeably longer than a plain emmer bread."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -246,7 +268,9 @@
     "url": "https://farrodellagarfagnana.it/essential_grid/pane-di-patate-e-farro/?lang=en",
     "site": "Consorzio Farro della Garfagnana IGP",
     "retrieved": "2026-07-18",
-    "adaptation": "Salt, oil and sugar amounts weren't given; typical estimates used. Source's translation says 'spelt' but Garfagnana's farro is emmer; potato modeled at ~22% dry matter."
+    "adaptation": {
+      "en": "Salt, oil and sugar amounts weren't given; typical estimates used. Source's translation says 'spelt' but Garfagnana's farro is emmer; potato modeled at ~22% dry matter."
+    }
   },
   "tags": [
     "ancient-grain",

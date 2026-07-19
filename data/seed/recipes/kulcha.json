@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "Punjab (Amritsar), North India",
-    "note": "Kulcha is a Punjabi original, distinct from naan's Persian tandoor lineage even though both bake in similar ovens today."
+    "region": {
+      "en": "Punjab (Amritsar), North India"
+    },
+    "note": {
+      "en": "Kulcha is a Punjabi original, distinct from naan's Persian tandoor lineage even though both bake in similar ovens today."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -44,17 +48,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 280,
-      "note": "all-purpose flour (maida)"
+      "note": {
+        "en": "all-purpose flour (maida)"
+      }
     },
     {
       "key": "yogurt",
       "grams": 120,
-      "note": "full-fat, room temperature"
+      "note": {
+        "en": "full-fat, room temperature"
+      }
     },
     {
       "key": "milk",
       "grams": 60,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "vegetable-oil",
@@ -79,13 +89,17 @@
     {
       "key": "butter",
       "grams": 15,
-      "note": "melted, brushed on after cooking"
+      "note": {
+        "en": "melted, brushed on after cooking"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 85,
-    "shape": "6 in (15 cm) disc"
+    "shape": {
+      "en": "6 in (15 cm) disc"
+    }
   },
   "time": {
     "totalMin": 80,
@@ -124,7 +138,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best eaten hot off the tawa; reheat on a dry pan. Uncooked dough balls freeze well between parchment."
+    "note": {
+      "en": "Best eaten hot off the tawa; reheat on a dry pan. Uncooked dough balls freeze well between parchment."
+    }
   },
   "equipment": [
     "griddle"
@@ -215,7 +231,9 @@
     "url": "https://www.indianhealthyrecipes.com/kulcha-recipe/",
     "site": "Swasthi's Recipes",
     "retrieved": "2026-07-18",
-    "adaptation": "Simplified to a plain butter kulcha; source's potato-paneer stuffing omitted for a clean bread entry. Hydration treats yogurt like milk at ~88% water per atlas convention."
+    "adaptation": {
+      "en": "Simplified to a plain butter kulcha; source's potato-paneer stuffing omitted for a clean bread entry. Hydration treats yogurt like milk at ~88% water per atlas convention."
+    }
   },
   "tags": [
     "punjabi",

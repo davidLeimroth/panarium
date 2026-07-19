@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Bath, Somerset, England",
-    "note": "First recorded in Bath around 1780. The name's origin is disputed between a legendary Huguenot baker known as 'Sally Lunn' and a folk etymology from the French 'sol et lune' (sun and moon), for its golden top and pale base."
+    "region": {
+      "en": "Bath, Somerset, England"
+    },
+    "note": {
+      "en": "First recorded in Bath around 1780. The name's origin is disputed between a legendary Huguenot baker known as 'Sally Lunn' and a folk etymology from the French 'sol et lune' (sun and moon), for its golden top and pale base."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -47,7 +51,9 @@
     {
       "key": "milk",
       "grams": 227,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "butter",
@@ -60,7 +66,9 @@
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "instant-yeast",
@@ -73,13 +81,17 @@
     {
       "key": "lemon-zest",
       "grams": 6,
-      "note": "or 2 tsp vanilla extract"
+      "note": {
+        "en": "or 2 tsp vanilla extract"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 830,
-    "shape": "single tall round loaf, sliced into three layers"
+    "shape": {
+      "en": "single tall round loaf, sliced into three layers"
+    }
   },
   "time": {
     "totalMin": 150,
@@ -119,7 +131,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Rich enough to stay soft a few days; lovely toasted once past its first-day best."
+    "note": {
+      "en": "Rich enough to stay soft a few days; lovely toasted once past its first-day best."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -227,7 +241,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/little-sally-lunns-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-18",
-    "adaptation": "Source's individual-bun (muffin tin) format adapted to the single tall loaf that is Sally Lunn's traditional presentation, using the source's own stated loaf-pan alternative and its loaf bake time."
+    "adaptation": {
+      "en": "Source's individual-bun (muffin tin) format adapted to the single tall loaf that is Sally Lunn's traditional presentation, using the source's own stated loaf-pan alternative and its loaf bake time."
+    }
   },
   "tags": [
     "bath",

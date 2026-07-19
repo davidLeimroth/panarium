@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this long-fermented sourdough treatment of it is a 21st-century artisan-bakery revival, not a historical recipe."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this long-fermented sourdough treatment of it is a 21st-century artisan-bakery revival, not a historical recipe."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -42,7 +46,9 @@
     {
       "key": "flour:einkorn",
       "grams": 1105,
-      "note": "all-purpose einkorn flour"
+      "note": {
+        "en": "all-purpose einkorn flour"
+      }
     },
     {
       "key": "water",
@@ -51,7 +57,9 @@
     {
       "key": "sourdough-starter",
       "grams": 39,
-      "note": "100% hydration, to build the stiff levain"
+      "note": {
+        "en": "100% hydration, to build the stiff levain"
+      }
     },
     {
       "key": "salt",
@@ -61,7 +69,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 950,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 1400,
@@ -100,7 +110,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best within the first 2-3 days; einkorn's delicate crumb dries out a little faster than modern wheat."
+    "note": {
+      "en": "Best within the first 2-3 days; einkorn's delicate crumb dries out a little faster than modern wheat."
+    }
   },
   "equipment": [
     "dutch-oven",
@@ -241,7 +253,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages recomputed to include levain flour/water in the 100% flour base per house convention."
+    "adaptation": {
+      "en": "Percentages recomputed to include levain flour/water in the 100% flour base per house convention."
+    }
   },
   "tags": [
     "ancient-grain",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "CN",
-    "region": "Central Tibet",
-    "note": "Now made almost exclusively with white or whole wheat flour; older versions before modern milling used whole wheat or barley."
+    "region": {
+      "en": "Central Tibet"
+    },
+    "note": {
+      "en": "Now made almost exclusively with white or whole wheat flour; older versions before modern milling used whole wheat or barley."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -58,13 +62,17 @@
     {
       "key": "butter",
       "grams": 15,
-      "note": "for pan-frying"
+      "note": {
+        "en": "for pan-frying"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 73,
-    "shape": "thick round disc, pan-fried, ~1 cm thick, 12-15 cm diameter"
+    "shape": {
+      "en": "thick round disc, pan-fried, ~1 cm thick, 12-15 cm diameter"
+    }
   },
   "time": {
     "totalMin": 100,
@@ -102,7 +110,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Keeps at room temperature about two days; toast on a dry pan to refresh, especially good with butter and jam."
+    "note": {
+      "en": "Keeps at room temperature about two days; toast on a dry pan to refresh, especially good with butter and jam."
+    }
   },
   "equipment": [
     "skillet"
@@ -209,7 +219,9 @@
     "url": "http://priyaeasyntastyrecipes.blogspot.com/2018/09/balep-korkumtibetan-flatbreadtibet.html",
     "site": "Priya's Versatile Recipes",
     "retrieved": "2026-07-18",
-    "adaptation": "Salt and water amounts estimated since the source gave them only as 'to taste'/'as needed'; a small amount of pan-frying butter added as an optional cooking fat per the source's own note."
+    "adaptation": {
+      "en": "Salt and water amounts estimated since the source gave them only as 'to taste'/'as needed'; a small amount of pan-frying butter added as an optional cooking fat per the source's own note."
+    }
   },
   "tags": [
     "tibetan",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "JP",
-    "region": "Tokyo, nationwide since the Meiji era",
-    "note": "Created in 1874 at the Kimuraya bakery; considered the first truly Japanese bread and still one of the most common kashipan (sweet breads)."
+    "region": {
+      "en": "Tokyo, nationwide since the Meiji era"
+    },
+    "note": {
+      "en": "Created in 1874 at the Kimuraya bakery; considered the first truly Japanese bread and still one of the most common kashipan (sweet breads)."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -44,7 +48,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 260,
-      "note": "225g bread flour + 35g cake flour"
+      "note": {
+        "en": "225g bread flour + 35g cake flour"
+      }
     },
     {
       "key": "water",
@@ -83,13 +89,17 @@
         "ro": "pastă dulce de fasole roșie (anko)"
       },
       "grams": 280,
-      "note": "35g per bun; store-bought or homemade"
+      "note": {
+        "en": "35g per bun; store-bought or homemade"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 98,
-    "shape": "filled round bun, sesame-topped, ~8 cm"
+    "shape": {
+      "en": "filled round bun, sesame-topped, ~8 cm"
+    }
   },
   "time": {
     "totalMin": 175,
@@ -130,7 +140,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best day-of, still soft from the anko's moisture; reheat briefly in a toaster oven. Freezes well either unfilled or filled."
+    "note": {
+      "en": "Best day-of, still soft from the anko's moisture; reheat briefly in a toaster oven. Freezes well either unfilled or filled."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -254,7 +266,9 @@
     "url": "https://www.justonecookbook.com/anpan/",
     "site": "Just One Cookbook",
     "retrieved": "2026-07-18",
-    "adaptation": "Salt recalculated from Diamond Crystal kosher salt's lower density (roughly 2.8 g/tsp) rather than the source's rounded 6g figure."
+    "adaptation": {
+      "en": "Salt recalculated from Diamond Crystal kosher salt's lower density (roughly 2.8 g/tsp) rather than the source's rounded 6g figure."
+    }
   },
   "tags": [
     "kashipan",

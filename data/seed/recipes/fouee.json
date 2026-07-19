@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Touraine / Anjou (Val de Loire)",
-    "note": "Traditionally the small test-piece a wood-oven baker threw onto the hearth floor to check whether the oven was hot enough for the day's real bake."
+    "region": {
+      "en": "Touraine / Anjou (Val de Loire)"
+    },
+    "note": {
+      "en": "Traditionally the small test-piece a wood-oven baker threw onto the hearth floor to check whether the oven was hot enough for the day's real bake."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -48,7 +52,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 580,
-      "note": "T55"
+      "note": {
+        "en": "T55"
+      }
     },
     {
       "key": "flour:rye",
@@ -78,7 +84,9 @@
   "yield": {
     "count": 5,
     "pieceGrams": 175,
-    "shape": "thin puffed disc"
+    "shape": {
+      "en": "thin puffed disc"
+    }
   },
   "time": {
     "totalMin": 150,
@@ -118,7 +126,9 @@
   "keeping": {
     "freshDays": 0.5,
     "freezes": true,
-    "note": "Meant to be eaten warm within the hour, split open and stuffed, it doesn't keep as a loaf."
+    "note": {
+      "en": "Meant to be eaten warm within the hour, split open and stuffed, it doesn't keep as a loaf."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -225,7 +235,9 @@
     "url": "https://www.supertoinette.com/recette/1312/pain-fouee-de-touraine.html",
     "site": "Supertoinette",
     "retrieved": "2026-07-17",
-    "adaptation": "Baking temperature estimated at 250°C for a home oven; source gave only a 10-15 minute bake time with no explicit temperature."
+    "adaptation": {
+      "en": "Baking temperature estimated at 250°C for a home oven; source gave only a 10-15 minute bake time with no explicit temperature."
+    }
   },
   "tags": [
     "touraine",

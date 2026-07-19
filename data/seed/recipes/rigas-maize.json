@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "LV",
-    "region": "Riga",
-    "note": "A native Latvian bread long popular among Russian bakers too; lighter and sweeter than the coarse rupjmaize style."
+    "region": {
+      "en": "Riga"
+    },
+    "note": {
+      "en": "A native Latvian bread long popular among Russian bakers too; lighter and sweeter than the coarse rupjmaize style."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -48,7 +52,9 @@
     {
       "key": "flour:rye",
       "grams": 156,
-      "note": "medium rye flour"
+      "note": {
+        "en": "medium rye flour"
+      }
     },
     {
       "key": "flour:wheat-white",
@@ -61,7 +67,9 @@
     {
       "key": "malt-syrup",
       "grams": 43,
-      "note": "or dark honey"
+      "note": {
+        "en": "or dark honey"
+      }
     },
     {
       "key": "instant-yeast",
@@ -78,13 +86,17 @@
     {
       "key": "butter",
       "grams": 43,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 400,
-    "shape": "oval hearth loaf"
+    "shape": {
+      "en": "oval hearth loaf"
+    }
   },
   "time": {
     "totalMin": 210,
@@ -124,7 +136,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Keeps about 4 days at room temperature, wrapped; freezes well up to 3 months."
+    "note": {
+      "en": "Keeps about 4 days at room temperature, wrapped; freezes well up to 3 months."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -247,7 +261,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/rizhsky-khleb-riga-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "This Americanized version is wheat-majority; traditional Latvian Rīgas maize is typically rye-majority. Presented as sourced, with the difference flagged here."
+    "adaptation": {
+      "en": "This Americanized version is wheat-majority; traditional Latvian Rīgas maize is typically rye-majority. Presented as sourced, with the difference flagged here."
+    }
   },
   "tags": [
     "baltic",

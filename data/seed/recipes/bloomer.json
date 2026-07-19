@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "England, nationwide",
-    "note": "A high-street bakery staple; the name is generally thought to come from the way the crust 'blooms' open along the slashes as it bakes."
+    "region": {
+      "en": "England, nationwide"
+    },
+    "note": {
+      "en": "A high-street bakery staple; the name is generally thought to come from the way the crust 'blooms' open along the slashes as it bakes."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -42,12 +46,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "strong white bread flour"
+      "note": {
+        "en": "strong white bread flour"
+      }
     },
     {
       "key": "water",
       "grams": 350,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "key": "salt",
@@ -65,7 +73,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 800,
-    "shape": "long oval, three or four diagonal slashes on top"
+    "shape": {
+      "en": "long oval, three or four diagonal slashes on top"
+    }
   },
   "time": {
     "totalMin": 180,
@@ -105,7 +115,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Crust is at its best within hours of baking; wrap in paper, not plastic, to keep it from going soft."
+    "note": {
+      "en": "Crust is at its best within hours of baking; wrap in paper, not plastic, to keep it from going soft."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -212,7 +224,9 @@
     "url": "https://thegreatbritishbakeoff.co.uk/recipes/all/classic-white-bloomer/",
     "site": "The Great British Bake Off",
     "retrieved": "2026-07-18",
-    "adaptation": "Water given as a range; used the midpoint. Optional poppy seed topping omitted for a plain classic version."
+    "adaptation": {
+      "en": "Water given as a range; used the midpoint. Optional poppy seed topping omitted for a plain classic version."
+    }
   },
   "tags": [
     "crusty-loaf",

@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "RO",
-    "region": "Romania and Moldova (also Bulgaria, as kozunak)",
-    "note": "A fixture of both the Christmas and Easter table; related sweet breads under other names span much of the former Ottoman Balkans."
+    "region": {
+      "en": "Romania and Moldova (also Bulgaria, as kozunak)"
+    },
+    "note": {
+      "en": "A fixture of both the Christmas and Easter table; related sweet breads under other names span much of the former Ottoman Balkans."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -49,7 +53,9 @@
     {
       "key": "milk",
       "grams": 240,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "instant-yeast",
@@ -58,12 +64,16 @@
     {
       "key": "sugar",
       "grams": 67,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "egg-yolk",
       "grams": 72,
-      "note": "about 4 yolks"
+      "note": {
+        "en": "about 4 yolks"
+      }
     },
     {
       "label": {
@@ -78,7 +88,9 @@
     {
       "key": "butter",
       "grams": 85,
-      "note": "unsalted, softened"
+      "note": {
+        "en": "unsalted, softened"
+      }
     },
     {
       "key": "salt",
@@ -87,7 +99,9 @@
     {
       "key": "vanilla",
       "grams": 17,
-      "note": "13 g in the dough, 4 g in the filling"
+      "note": {
+        "en": "13 g in the dough, 4 g in the filling"
+      }
     },
     {
       "key": "orange-zest",
@@ -96,22 +110,30 @@
     {
       "key": "walnuts",
       "grams": 360,
-      "note": "finely ground, for the filling"
+      "note": {
+        "en": "finely ground, for the filling"
+      }
     },
     {
       "key": "sugar",
       "grams": 133,
-      "note": "in the filling"
+      "note": {
+        "en": "in the filling"
+      }
     },
     {
       "key": "egg",
       "grams": 90,
-      "note": "3 egg whites, for the filling"
+      "note": {
+        "en": "3 egg whites, for the filling"
+      }
     },
     {
       "key": "cocoa",
       "grams": 18,
-      "note": "unsweetened, for the filling"
+      "note": {
+        "en": "unsweetened, for the filling"
+      }
     },
     {
       "label": {
@@ -122,13 +144,17 @@
         "ro": "esență de rom"
       },
       "grams": 8,
-      "note": "in the filling"
+      "note": {
+        "en": "in the filling"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 700,
-    "shape": "twisted double-strand loaf in a pan"
+    "shape": {
+      "en": "twisted double-strand loaf in a pan"
+    }
   },
   "time": {
     "totalMin": 317,
@@ -168,7 +194,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Wrapped well, the buttery crumb stays moist for days; freezes nicely sliced for later."
+    "note": {
+      "en": "Wrapped well, the buttery crumb stays moist for days; freezes nicely sliced for later."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -292,7 +320,9 @@
     "url": "https://letthebakingbegin.com/cozonac-romanian-easter-christmas-bread/",
     "site": "Let the Baking Begin!",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased; added a small amount of orange zest to the dough as a common regional touch; formula percentages count the dough only, filling sugar/nuts excluded."
+    "adaptation": {
+      "en": "Method paraphrased; added a small amount of orange zest to the dough as a common regional touch; formula percentages count the dough only, filling sugar/nuts excluded."
+    }
   },
   "tags": [
     "christmas",

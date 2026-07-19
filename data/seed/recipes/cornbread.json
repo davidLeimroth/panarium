@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "the American South",
-    "note": "Corn-based breads predate wheat in the region; the sugarless, buttermilk-and-cast-iron style is the marker of Southern cornbread versus the sweeter Northern style."
+    "region": {
+      "en": "the American South"
+    },
+    "note": {
+      "en": "Corn-based breads predate wheat in the region; the sugarless, buttermilk-and-cast-iron style is the marker of Southern cornbread versus the sweeter Northern style."
+    }
   },
   "leaven": "chemical",
   "family": "quick",
@@ -44,12 +48,16 @@
     {
       "key": "flour:corn",
       "grams": 276,
-      "note": "stone-ground cornmeal, yellow or white"
+      "note": {
+        "en": "stone-ground cornmeal, yellow or white"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 94,
-      "note": "all-purpose, for structure"
+      "note": {
+        "en": "all-purpose, for structure"
+      }
     },
     {
       "key": "baking-powder",
@@ -70,18 +78,24 @@
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 54,
-      "note": "peanut oil traditionally; more reserved for greasing the skillet"
+      "note": {
+        "en": "peanut oil traditionally; more reserved for greasing the skillet"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1020,
-    "shape": "10-inch cast-iron skillet round, cut into wedges to serve"
+    "shape": {
+      "en": "10-inch cast-iron skillet round, cut into wedges to serve"
+    }
   },
   "time": {
     "totalMin": 45,
@@ -119,7 +133,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm from the skillet the same day; wrap and freeze extra wedges to reheat."
+    "note": {
+      "en": "Best warm from the skillet the same day; wrap and freeze extra wedges to reheat."
+    }
   },
   "equipment": [
     "skillet"
@@ -226,7 +242,9 @@
     "url": "https://www.gritsandpinecones.com/traditional-southern-style-cornbread/",
     "site": "Grits and Pinecones",
     "retrieved": "2026-07-17",
-    "adaptation": "Cup measures converted to grams via standard baker's conversions; greasing oil kept separate from the batter total."
+    "adaptation": {
+      "en": "Cup measures converted to grams via standard baker's conversions; greasing oil kept separate from the batter total."
+    }
   },
   "tags": [
     "cast-iron",

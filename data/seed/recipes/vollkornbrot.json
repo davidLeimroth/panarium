@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Germany-wide, strongest in the north",
-    "note": "Protected term in Germany: Vollkornbrot must be at least 90% wholegrain."
+    "region": {
+      "en": "Germany-wide, strongest in the north"
+    },
+    "note": {
+      "en": "Protected term in Germany: Vollkornbrot must be at least 90% wholegrain."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -46,7 +50,9 @@
     {
       "key": "flour:rye-whole",
       "grams": 450,
-      "note": "coarse rye meal (Roggenschrot)"
+      "note": {
+        "en": "coarse rye meal (Roggenschrot)"
+      }
     },
     {
       "key": "flour:rye",
@@ -55,12 +61,16 @@
     {
       "key": "water",
       "grams": 425,
-      "note": "warm, ~35°C"
+      "note": {
+        "en": "warm, ~35°C"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 50,
-      "note": "active rye starter"
+      "note": {
+        "en": "active rye starter"
+      }
     },
     {
       "key": "salt",
@@ -69,18 +79,24 @@
     {
       "key": "sunflower-seeds",
       "grams": 100,
-      "note": "toasted"
+      "note": {
+        "en": "toasted"
+      }
     },
     {
       "key": "flax-seeds",
       "grams": 50,
-      "note": "soaked overnight"
+      "note": {
+        "en": "soaked overnight"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1100,
-    "shape": "pullman/tin loaf"
+    "shape": {
+      "en": "pullman/tin loaf"
+    }
   },
   "time": {
     "totalMin": 1740,
@@ -120,7 +136,9 @@
   "keeping": {
     "freshDays": 7,
     "freezes": true,
-    "note": "Wrap in linen; wait 24h before the first slice or the crumb smears."
+    "note": {
+      "en": "Wrap in linen; wait 24h before the first slice or the crumb smears."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -228,7 +246,9 @@
     "site": "Plötzblog",
     "author": "Lutz Geißler (style reference)",
     "retrieved": "2026-07-17",
-    "adaptation": "Composite of classic German home-baking ratios; simplified one-stage sourdough."
+    "adaptation": {
+      "en": "Composite of classic German home-baking ratios; simplified one-stage sourdough."
+    }
   },
   "tags": [
     "schrotbrot",

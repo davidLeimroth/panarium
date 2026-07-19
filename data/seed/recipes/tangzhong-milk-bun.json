@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "CN",
-    "region": "China and Taiwan; common across East and Southeast Asian bakeries today",
-    "note": "The tangzhong (water roux) technique was popularized internationally by Taiwanese cookbook author Yvonne Chen's '65°C Bread Doctor'."
+    "region": {
+      "en": "China and Taiwan; common across East and Southeast Asian bakeries today"
+    },
+    "note": {
+      "en": "The tangzhong (water roux) technique was popularized internationally by Taiwanese cookbook author Yvonne Chen's '65°C Bread Doctor'."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -43,17 +47,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 731,
-      "note": "bread flour: 16g cooked into the tangzhong, 715g in the final dough"
+      "note": {
+        "en": "bread flour: 16g cooked into the tangzhong, 715g in the final dough"
+      }
     },
     {
       "key": "water",
       "grams": 30,
-      "note": "in the tangzhong"
+      "note": {
+        "en": "in the tangzhong"
+      }
     },
     {
       "key": "milk",
       "grams": 450,
-      "note": "whole milk: 30g in the tangzhong, 420g in the dough"
+      "note": {
+        "en": "whole milk: 30g in the tangzhong, 420g in the dough"
+      }
     },
     {
       "key": "sugar",
@@ -70,18 +80,24 @@
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "butter",
       "grams": 113,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     }
   ],
   "yield": {
     "count": 24,
     "pieceGrams": 62,
-    "shape": "individual round bun, spaced apart on a sheet pan, ~8 cm"
+    "shape": {
+      "en": "individual round bun, spaced apart on a sheet pan, ~8 cm"
+    }
   },
   "time": {
     "totalMin": 135,
@@ -122,7 +138,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Tangzhong keeps these soft for days at room temperature, well wrapped; freezes and reheats well."
+    "note": {
+      "en": "Tangzhong keeps these soft for days at room temperature, well wrapped; freezes and reheats well."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -246,7 +264,9 @@
     "url": "https://www.thelittleepicurean.com/milk-bread-rolls/",
     "site": "The Little Epicurean",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tbsp measurements converted to grams; shaped as individually spaced rolls rather than the source's touching pan-rolls, to stay distinct from this atlas's Hokkaido rolls."
+    "adaptation": {
+      "en": "Cup/tbsp measurements converted to grams; shaped as individually spaced rolls rather than the source's touching pan-rolls, to stay distinct from this atlas's Hokkaido rolls."
+    }
   },
   "tags": [
     "tangzhong",

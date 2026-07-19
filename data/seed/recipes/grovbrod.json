@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "NO",
-    "region": "nationwide",
-    "note": "The everyday counterpart to festive breads like lefse and vörtbröd-style loaves; built around whole grains, bran and seeds."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "The everyday counterpart to festive breads like lefse and vörtbröd-style loaves; built around whole grains, bran and seeds."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -54,7 +58,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 240,
-      "note": "strong bread flour"
+      "note": {
+        "en": "strong bread flour"
+      }
     },
     {
       "key": "flour:rye-whole",
@@ -96,7 +102,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 950,
-    "shape": "9x5-inch pan loaf"
+    "shape": {
+      "en": "9x5-inch pan loaf"
+    }
   },
   "time": {
     "totalMin": 290,
@@ -136,7 +144,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Keeps about 2 days at room temperature in an airtight bag; freezes well sliced."
+    "note": {
+      "en": "Keeps about 2 days at room temperature in an airtight bag; freezes well sliced."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -259,7 +269,9 @@
     "url": "https://northwildkitchen.com/hearty-whole-grain-bread/",
     "site": "North Wild Kitchen",
     "retrieved": "2026-07-17",
-    "adaptation": "Wheat bran kept as a separate ingredient outside the flour-percentage total, since the taxonomy has no bran flour type."
+    "adaptation": {
+      "en": "Wheat bran kept as a separate ingredient outside the flour-percentage total, since the taxonomy has no bran flour type."
+    }
   },
   "tags": [
     "daily-bread",

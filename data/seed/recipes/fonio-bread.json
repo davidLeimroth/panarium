@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "SN",
-    "region": "West Africa (Senegal, Mali, Guinea, Burkina Faso, Nigeria)",
-    "note": "Fonio (acha) is considered Africa's oldest cultivated cereal, traditionally reserved for chiefs, royalty, Ramadan and celebrations in parts of West Africa. This sweet, wheat-blended quick-bread format is a modern diaspora adaptation, not a traditional preparation."
+    "region": {
+      "en": "West Africa (Senegal, Mali, Guinea, Burkina Faso, Nigeria)"
+    },
+    "note": {
+      "en": "Fonio (acha) is considered Africa's oldest cultivated cereal, traditionally reserved for chiefs, royalty, Ramadan and celebrations in parts of West Africa. This sweet, wheat-blended quick-bread format is a modern diaspora adaptation, not a traditional preparation."
+    }
   },
   "leaven": "chemical",
   "family": "quick",
@@ -56,7 +60,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 121,
-      "note": "or use self-raising flour and omit the baking powder below"
+      "note": {
+        "en": "or use self-raising flour and omit the baking powder below"
+      }
     },
     {
       "key": "baking-powder",
@@ -69,23 +75,31 @@
     {
       "key": "sugar",
       "grams": 100,
-      "note": "caster sugar"
+      "note": {
+        "en": "caster sugar"
+      }
     },
     {
       "key": "milk",
       "grams": 240,
-      "note": "any plant milk: soy, coconut or oat"
+      "note": {
+        "en": "any plant milk: soy, coconut or oat"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 72,
-      "note": "sunflower oil"
+      "note": {
+        "en": "sunflower oil"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 630,
-    "shape": "loaf tin, or divided among lined cupcake cases"
+    "shape": {
+      "en": "loaf tin, or divided among lined cupcake cases"
+    }
   },
   "time": {
     "totalMin": 55,
@@ -196,7 +210,9 @@
     "url": "https://www.vegannigerian.com/2022/07/6-ingredient-fonio-bread-no-egg-no-dairy.html",
     "site": "The Vegan Nigerian",
     "retrieved": "2026-07-18",
-    "adaptation": "Self-raising flour decomposed into plain flour plus an estimated baking powder and salt content; cup weights for fonio flour and self-raising flour are estimates."
+    "adaptation": {
+      "en": "Self-raising flour decomposed into plain flour plus an estimated baking powder and salt content; cup weights for fonio flour and self-raising flour are estimates."
+    }
   },
   "tags": [
     "ancient-grain",

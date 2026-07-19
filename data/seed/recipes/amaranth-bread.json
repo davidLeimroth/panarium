@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "Mesoamerica, amaranth cultivation dating back 6,000-8,000 years",
-    "note": "The Aztecs called amaranth huauhtli and ranked it with maize and beans as a primary crop; this raisin-walnut quick-bread format is a modern adaptation rather than a historical Aztec recipe."
+    "region": {
+      "en": "Mesoamerica, amaranth cultivation dating back 6,000-8,000 years"
+    },
+    "note": {
+      "en": "The Aztecs called amaranth huauhtli and ranked it with maize and beans as a primary crop; this raisin-walnut quick-bread format is a modern adaptation rather than a historical Aztec recipe."
+    }
   },
   "leaven": "chemical",
   "family": "quick",
@@ -55,12 +59,16 @@
     {
       "key": "flour:wheat-whole",
       "grams": 250,
-      "note": "white whole wheat flour"
+      "note": {
+        "en": "white whole wheat flour"
+      }
     },
     {
       "key": "water",
       "grams": 237,
-      "note": "boiling, to soak the amaranth and raisins"
+      "note": {
+        "en": "boiling, to soak the amaranth and raisins"
+      }
     },
     {
       "label": {
@@ -79,7 +87,9 @@
     {
       "key": "walnuts",
       "grams": 110,
-      "note": "coarsely chopped"
+      "note": {
+        "en": "coarsely chopped"
+      }
     },
     {
       "key": "salt",
@@ -88,12 +98,16 @@
     {
       "key": "vegetable-oil",
       "grams": 54,
-      "note": "canola or other neutral oil"
+      "note": {
+        "en": "canola or other neutral oil"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "vanilla",
@@ -107,7 +121,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1000,
-    "shape": "9 x 5 x 3 in loaf pan"
+    "shape": {
+      "en": "9 x 5 x 3 in loaf pan"
+    }
   },
   "time": {
     "totalMin": 120,

@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "England, nationwide",
-    "note": "A centuries-old bakery shape, once common enough that it gave its name to a whole class of round hearth loaves; now mostly kept alive by home bakers and specialty bakeries."
+    "region": {
+      "en": "England, nationwide"
+    },
+    "note": {
+      "en": "A centuries-old bakery shape, once common enough that it gave its name to a whole class of round hearth loaves; now mostly kept alive by home bakers and specialty bakeries."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -41,7 +45,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "strong white bread flour"
+      "note": {
+        "en": "strong white bread flour"
+      }
     },
     {
       "key": "water",
@@ -50,7 +56,9 @@
     {
       "key": "lard",
       "grams": 50,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "key": "instant-yeast",
@@ -64,7 +72,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 780,
-    "shape": "two stacked balls, large cob topped by a smaller one"
+    "shape": {
+      "en": "two stacked balls, large cob topped by a smaller one"
+    }
   },
   "time": {
     "totalMin": 270,
@@ -104,7 +114,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day it's baked; the thick crust softens noticeably by day two."
+    "note": {
+      "en": "Best the day it's baked; the thick crust softens noticeably by day two."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -212,7 +224,9 @@
     "site": "The Great British Bake Off",
     "author": "Paul Hollywood (recipe developer)",
     "retrieved": "2026-07-18",
-    "adaptation": "Water given as a range across two additions; used the midpoint as a single hydration figure."
+    "adaptation": {
+      "en": "Water given as a range across two additions; used the midpoint as a single hydration figure."
+    }
   },
   "tags": [
     "stacked-loaf",

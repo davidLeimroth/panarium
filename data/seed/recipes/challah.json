@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Ashkenazi communities of medieval Central Europe",
-    "note": "Genuinely contested: separating a piece of dough as 'challah' is an ancient Israelite practice from Torah law, while the braided shape is usually traced to medieval Ashkenazi Jews in Germany, likely adapting local plaited breads like Zopf."
+    "region": {
+      "en": "Ashkenazi communities of medieval Central Europe"
+    },
+    "note": {
+      "en": "Genuinely contested: separating a piece of dough as 'challah' is an ancient Israelite practice from Torah law, while the braided shape is usually traced to medieval Ashkenazi Jews in Germany, likely adapting local plaited breads like Zopf."
+    }
   },
   "leaven": "yeast",
   "family": "braid",
@@ -48,17 +52,23 @@
     {
       "key": "water",
       "grams": 400,
-      "note": "cool, room temperature"
+      "note": {
+        "en": "cool, room temperature"
+      }
     },
     {
       "key": "active-dry-yeast",
       "grams": 15,
-      "note": "or 40g fresh yeast"
+      "note": {
+        "en": "or 40g fresh yeast"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs, in the dough"
+      "note": {
+        "en": "2 large eggs, in the dough"
+      }
     },
     {
       "key": "sugar",
@@ -71,23 +81,31 @@
     {
       "key": "vegetable-oil",
       "grams": 75,
-      "note": "sunflower or canola; unsalted butter may replace it for a dairy (non-parve) version"
+      "note": {
+        "en": "sunflower or canola; unsalted butter may replace it for a dairy (non-parve) version"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "for egg wash, beaten with 1 tbsp water and a pinch of salt"
+      "note": {
+        "en": "for egg wash, beaten with 1 tbsp water and a pinch of salt"
+      }
     },
     {
       "key": "sesame-seeds",
       "grams": 90,
-      "note": "or poppy or nigella seeds, or a mix, for topping"
+      "note": {
+        "en": "or poppy or nigella seeds, or a mix, for topping"
+      }
     }
   ],
   "yield": {
     "count": 3,
     "pieceGrams": 560,
-    "shape": "three-strand braided loaf"
+    "shape": {
+      "en": "three-strand braided loaf"
+    }
   },
   "time": {
     "totalMin": 185,
@@ -128,7 +146,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the first two days; it dries out faster than a pan loaf, so wrap it well. Stale slices make excellent French toast, and it freezes well whole or sliced."
+    "note": {
+      "en": "Best the first two days; it dries out faster than a pan loaf, so wrap it well. Stale slices make excellent French toast, and it freezes well whole or sliced."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -269,7 +289,9 @@
     "site": "Jewish Food Society",
     "author": "Uri Scheft",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased into fewer steps; egg weight estimated at 50g per large egg; assumed vegetable oil (not the butter alternative) for the parve version."
+    "adaptation": {
+      "en": "Method paraphrased into fewer steps; egg weight estimated at 50g per large egg; assumed vegetable oil (not the butter alternative) for the parve version."
+    }
   },
   "tags": [
     "shabbat",

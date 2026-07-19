@@ -16,8 +16,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Bari, Puglia",
-    "note": "Mashed potato keeps the very wet dough workable and the crumb tender; whole, unpitted olives are traditional since the pit helps them hold moisture in the hot oven."
+    "region": {
+      "en": "Bari, Puglia"
+    },
+    "note": {
+      "en": "Mashed potato keeps the very wet dough workable and the crumb tender; whole, unpitted olives are traditional since the pit helps them hold moisture in the hot oven."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -42,12 +46,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 300,
-      "note": "tipo '0' (200 g) and strong Manitoba (100 g) blend"
+      "note": {
+        "en": "tipo '0' (200 g) and strong Manitoba (100 g) blend"
+      }
     },
     {
       "key": "flour:durum",
       "grams": 200,
-      "note": "semola rimacinata"
+      "note": {
+        "en": "semola rimacinata"
+      }
     },
     {
       "key": "water",
@@ -56,7 +64,9 @@
     {
       "key": "mashed-potato",
       "grams": 150,
-      "note": "boiled potato, mashed while still warm"
+      "note": {
+        "en": "boiled potato, mashed while still warm"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -65,7 +75,9 @@
     {
       "key": "olive-oil",
       "grams": 34,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "salt",
@@ -80,7 +92,9 @@
         "ro": "roșii cherry"
       },
       "grams": 500,
-      "note": "halved, pressed cut-side up into the dough"
+      "note": {
+        "en": "halved, pressed cut-side up into the dough"
+      }
     },
     {
       "label": {
@@ -91,7 +105,9 @@
         "ro": "măsline negre"
       },
       "grams": 60,
-      "note": "whole, with pits"
+      "note": {
+        "en": "whole, with pits"
+      }
     },
     {
       "label": {
@@ -106,18 +122,24 @@
     {
       "key": "olive-oil",
       "grams": 20,
-      "note": "drizzled over the topping"
+      "note": {
+        "en": "drizzled over the topping"
+      }
     },
     {
       "key": "salt",
       "grams": 5,
-      "note": "scattered over the topping; not counted toward saltPct"
+      "note": {
+        "en": "scattered over the topping; not counted toward saltPct"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 800,
-    "shape": "30 cm round or rectangular pan, topped with tomato"
+    "shape": {
+      "en": "30 cm round or rectangular pan, topped with tomato"
+    }
   },
   "time": {
     "totalMin": 438,
@@ -158,7 +180,9 @@
   "keeping": {
     "freshDays": 1.5,
     "freezes": true,
-    "note": "Potato keeps the crumb tender a day longer than most focacce, but it's best fresh or lightly reheated the next day."
+    "note": {
+      "en": "Potato keeps the crumb tender a day longer than most focacce, but it's best fresh or lightly reheated the next day."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -265,7 +289,9 @@
     "url": "https://www.tavolartegusto.it/ricetta/focaccia-barese-ricetta-originale/",
     "site": "Tavolartegusto",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration includes an estimated water contribution from the boiled potato (~70% water by weight), which the source's high-hydration technique relies on but doesn't quantify directly."
+    "adaptation": {
+      "en": "Hydration includes an estimated water contribution from the boiled potato (~70% water by weight), which the source's high-hydration technique relies on but doesn't quantify directly."
+    }
   },
   "tags": [
     "potato-dough",

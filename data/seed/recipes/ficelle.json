@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national",
-    "note": "A thinner sibling of the baguette, valued for its extra-high crust-to-crumb ratio and quick bake."
+    "region": {
+      "en": "national"
+    },
+    "note": {
+      "en": "A thinner sibling of the baguette, valued for its extra-high crust-to-crumb ratio and quick bake."
+    }
   },
   "leaven": "yeast",
   "family": "baguette",
@@ -58,7 +62,9 @@
   "yield": {
     "count": 5,
     "pieceGrams": 120,
-    "shape": "very thin stick"
+    "shape": {
+      "en": "very thin stick"
+    }
   },
   "time": {
     "totalMin": 280,
@@ -97,7 +103,9 @@
   "keeping": {
     "freshDays": 0.5,
     "freezes": true,
-    "note": "Even faster to stale than a baguette given how thin it is; a classic same-day, bistro bread-basket loaf."
+    "note": {
+      "en": "Even faster to stale than a baguette given how thin it is; a classic same-day, bistro bread-basket loaf."
+    }
   },
   "equipment": [
     "baking-stone",
@@ -205,7 +213,9 @@
     "url": "https://www.votrepain.com/pain-ficelle-c-est-une-baguette-toute-simple-et-merveilleuse.html",
     "site": "VotrePain",
     "retrieved": "2026-07-17",
-    "adaptation": "Source's volumetric measures were imprecise; hydration and salt adjusted to typical lean-baguette ratios."
+    "adaptation": {
+      "en": "Source's volumetric measures were imprecise; hydration and salt adjusted to typical lean-baguette ratios."
+    }
   },
   "tags": [
     "apero",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "England",
-    "note": "The cross recalls the crucifixion; the mixed spice was traditionally likened to the spices used to prepare Christ's body for burial. Eaten to mark the end of the Good Friday/Lenten fast."
+    "region": {
+      "en": "England"
+    },
+    "note": {
+      "en": "The cross recalls the crucifixion; the mixed spice was traditionally likened to the spices used to prepare Christ's body for burial. Eaten to mark the end of the Good Friday/Lenten fast."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -44,32 +48,44 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "strong white bread flour, for the dough"
+      "note": {
+        "en": "strong white bread flour, for the dough"
+      }
     },
     {
       "key": "milk",
       "grams": 300,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "butter",
       "grams": 57,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "1 large egg"
+      "note": {
+        "en": "1 large egg"
+      }
     },
     {
       "key": "egg-yolk",
       "grams": 18,
-      "note": "1 extra yolk, for richness"
+      "note": {
+        "en": "1 extra yolk, for richness"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "instant-yeast",
@@ -82,17 +98,23 @@
     {
       "key": "lemon-zest",
       "grams": 5,
-      "note": "zest of 1 lemon"
+      "note": {
+        "en": "zest of 1 lemon"
+      }
     },
     {
       "key": "raisins",
       "grams": 110,
-      "note": "or currants, the more traditional British choice"
+      "note": {
+        "en": "or currants, the more traditional British choice"
+      }
     },
     {
       "key": "candied-citrus",
       "grams": 45,
-      "note": "mixed candied orange and lemon peel"
+      "note": {
+        "en": "mixed candied orange and lemon peel"
+      }
     },
     {
       "label": {
@@ -107,33 +129,45 @@
     {
       "key": "cinnamon",
       "grams": 3,
-      "note": "extra ground cinnamon"
+      "note": {
+        "en": "extra ground cinnamon"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 30,
-      "note": "for the piped flour-water cross; not counted toward the dough's flour percentage"
+      "note": {
+        "en": "for the piped flour-water cross; not counted toward the dough's flour percentage"
+      }
     },
     {
       "key": "water",
       "grams": 45,
-      "note": "for the cross paste"
+      "note": {
+        "en": "for the cross paste"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "for the post-bake glaze"
+      "note": {
+        "en": "for the post-bake glaze"
+      }
     },
     {
       "key": "water",
       "grams": 60,
-      "note": "for the post-bake glaze syrup"
+      "note": {
+        "en": "for the post-bake glaze syrup"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 103,
-    "shape": "round bun, piped cross"
+    "shape": {
+      "en": "round bun, piped cross"
+    }
   },
   "time": {
     "totalMin": 295,
@@ -174,7 +208,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Good for a few days and excellent toasted after that; the dried fruit keeps them moister than a plain roll."
+    "note": {
+      "en": "Good for a few days and excellent toasted after that; the dried fruit keeps them moister than a plain roll."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -314,7 +350,9 @@
     "url": "https://www.daringgourmet.com/traditional-hot-cross-buns/",
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-17",
-    "adaptation": "formula.* covers the dough only. The piped flour-water cross and post-bake sugar glaze are itemized but excluded from the flour total and from hydration/sugar/fat percentages."
+    "adaptation": {
+      "en": "formula.* covers the dough only. The piped flour-water cross and post-bake sugar glaze are itemized but excluded from the flour total and from hydration/sugar/fat percentages."
+    }
   },
   "tags": [
     "easter",

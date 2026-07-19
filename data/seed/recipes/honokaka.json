@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "SE",
-    "region": "Hönö, Bohuslän archipelago near Gothenburg",
-    "note": "Named for the island of Hönö; historically made with hjorthornssalt (deer-antler salt), now ammonium carbonate."
+    "region": {
+      "en": "Hönö, Bohuslän archipelago near Gothenburg"
+    },
+    "note": {
+      "en": "Named for the island of Hönö; historically made with hjorthornssalt (deer-antler salt), now ammonium carbonate."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -83,7 +87,9 @@
   "yield": {
     "count": 4,
     "pieceGrams": 175,
-    "shape": "large 25cm round, traditionally cut into half-moons"
+    "shape": {
+      "en": "large 25cm round, traditionally cut into half-moons"
+    }
   },
   "time": {
     "totalMin": 112,
@@ -123,7 +129,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Best fresh or lightly toasted within a few days; freezes well split into halves."
+    "note": {
+      "en": "Best fresh or lightly toasted within a few days; freezes well split into halves."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -246,7 +254,9 @@
     "url": "https://scandinaviansimpleeating.com/2020/09/11/swedish-flatbread-honokaka-with-rye-flour/",
     "site": "Scandinavian Simple Eating",
     "retrieved": "2026-07-17",
-    "adaptation": "Golden syrup weight estimated from a honey-density conversion since the source lists it only by spoon measure."
+    "adaptation": {
+      "en": "Golden syrup weight estimated from a honey-density conversion since the source lists it only by spoon measure."
+    }
   },
   "tags": [
     "archipelago",

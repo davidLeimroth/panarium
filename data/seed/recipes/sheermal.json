@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "Lucknow, Awadh (also Hyderabad and Kashmir)",
-    "note": "Name blends Persian 'sheer' (milk) and 'mal' (to rub/massage), tracing to Mughal and Nawabi royal kitchens."
+    "region": {
+      "en": "Lucknow, Awadh (also Hyderabad and Kashmir)"
+    },
+    "note": {
+      "en": "Name blends Persian 'sheer' (milk) and 'mal' (to rub/massage), tracing to Mughal and Nawabi royal kitchens."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -47,12 +51,16 @@
     {
       "key": "milk",
       "grams": 240,
-      "note": "warm, in the dough"
+      "note": {
+        "en": "warm, in the dough"
+      }
     },
     {
       "key": "cardamom",
       "grams": 1,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "key": "sugar",
@@ -65,7 +73,9 @@
     {
       "key": "butter",
       "grams": 100,
-      "note": "ghee, worked into the dough in stages"
+      "note": {
+        "en": "ghee, worked into the dough in stages"
+      }
     },
     {
       "label": {
@@ -80,7 +90,9 @@
     {
       "key": "baking-powder",
       "grams": 2.3,
-      "note": "optional, for a lighter crumb"
+      "note": {
+        "en": "optional, for a lighter crumb"
+      }
     },
     {
       "label": {
@@ -91,23 +103,31 @@
         "ro": "fire de șofran"
       },
       "grams": 0.3,
-      "note": "crushed, steeped in the brushing milk"
+      "note": {
+        "en": "crushed, steeped in the brushing milk"
+      }
     },
     {
       "key": "milk",
       "grams": 45,
-      "note": "warm, for the saffron steep; brushed on after baking"
+      "note": {
+        "en": "warm, for the saffron steep; brushed on after baking"
+      }
     },
     {
       "key": "butter",
       "grams": 40,
-      "note": "ghee, for the final brushing"
+      "note": {
+        "en": "ghee, for the final brushing"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 91,
-    "shape": "6-7 in (15-18 cm) disc"
+    "shape": {
+      "en": "6-7 in (15-18 cm) disc"
+    }
   },
   "time": {
     "totalMin": 90,
@@ -146,7 +166,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Ghee keeps it tender for a few days; warm gently before serving. Wrap airtight; freezes well par-baked."
+    "note": {
+      "en": "Ghee keeps it tender for a few days; warm gently before serving. Wrap airtight; freezes well par-baked."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -253,7 +275,9 @@
     "url": "https://www.vegrecipesofindia.com/sheermal/",
     "site": "Dassana's Veg Recipes",
     "retrieved": "2026-07-18",
-    "adaptation": "Oven method used instead of the source's stovetop tawa for a reproducible temperature; baking powder included for a lighter crumb; kewra water treated as full water-equivalent."
+    "adaptation": {
+      "en": "Oven method used instead of the source's stovetop tawa for a reproducible temperature; baking powder included for a lighter crumb; kewra water treated as full water-equivalent."
+    }
   },
   "tags": [
     "mughlai",

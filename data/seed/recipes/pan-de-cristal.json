@@ -16,8 +16,12 @@
   },
   "origin": {
     "country": "ES",
-    "region": "Barcelona, Catalonia",
-    "note": "A relatively recent invention by Catalan bakers chasing extreme hydration; now a tapas-bar staple, usually toasted and rubbed with tomato (pa amb tomàquet)."
+    "region": {
+      "en": "Barcelona, Catalonia"
+    },
+    "note": {
+      "en": "A relatively recent invention by Catalan bakers chasing extreme hydration; now a tapas-bar staple, usually toasted and rubbed with tomato (pa amb tomàquet)."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -36,7 +40,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 400,
-      "note": "strong bread flour"
+      "note": {
+        "en": "strong bread flour"
+      }
     },
     {
       "key": "water",
@@ -54,7 +60,9 @@
   "yield": {
     "count": 4,
     "pieceGrams": 188,
-    "shape": "thin, glass-like rectangle, irregularly cut"
+    "shape": {
+      "en": "thin, glass-like rectangle, irregularly cut"
+    }
   },
   "time": {
     "totalMin": 750,
@@ -93,7 +101,9 @@
   "keeping": {
     "freshDays": 0.5,
     "freezes": true,
-    "note": "The paper-thin crust means it's at its peak within hours of baking and doesn't keep like a denser loaf, though it freezes and retoasts nicely."
+    "note": {
+      "en": "The paper-thin crust means it's at its peak within hours of baking and doesn't keep like a denser loaf, though it freezes and retoasts nicely."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -184,7 +194,9 @@
     "url": "https://invitadoinvierno.com/pan-cristal/",
     "site": "El Invitado de Invierno",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams as published; total elapsed time reflects the site's overnight cold-fermentation option, which most bakers use for better flavor and an easier schedule."
+    "adaptation": {
+      "en": "Grams as published; total elapsed time reflects the site's overnight cold-fermentation option, which most bakers use for better flavor and an easier schedule."
+    }
   },
   "tags": [
     "high-hydration",

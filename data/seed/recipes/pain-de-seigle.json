@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national, especially Brittany and Paris",
-    "note": "The classic accompaniment to oysters in French brasseries; also one of the original breads of the Poilâne bakery since 1932."
+    "region": {
+      "en": "national, especially Brittany and Paris"
+    },
+    "note": {
+      "en": "The classic accompaniment to oysters in French brasseries; also one of the original breads of the Poilâne bakery since 1932."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -41,7 +45,9 @@
     {
       "key": "flour:rye",
       "grams": 360,
-      "note": "T130, split between the levain refresh and the final dough"
+      "note": {
+        "en": "T130, split between the levain refresh and the final dough"
+      }
     },
     {
       "key": "water",
@@ -50,7 +56,9 @@
     {
       "key": "sourdough-starter",
       "grams": 100,
-      "note": "active rye levain mother"
+      "note": {
+        "en": "active rye levain mother"
+      }
     },
     {
       "key": "salt",
@@ -60,7 +68,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 650,
-    "shape": "molded rye loaf"
+    "shape": {
+      "en": "molded rye loaf"
+    }
   },
   "time": {
     "totalMin": 400,
@@ -99,7 +109,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Rye's natural acidity and density make it a strong keeper; slice thin as it ages."
+    "note": {
+      "en": "Rye's natural acidity and density make it a strong keeper; slice thin as it ages."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -206,7 +218,9 @@
     "url": "https://culturelevain.com/recette-pain-de-seigle-au-levain/",
     "site": "Culture Levain",
     "retrieved": "2026-07-17",
-    "adaptation": "Mother levain's own flour/water content estimated and folded into total baker's percentages; resulting hydration is high, typical of pure-rye doughs."
+    "adaptation": {
+      "en": "Mother levain's own flour/water content estimated and folded into total baker's percentages; resulting hydration is high, typical of pure-rye doughs."
+    }
   },
   "tags": [
     "seigle",

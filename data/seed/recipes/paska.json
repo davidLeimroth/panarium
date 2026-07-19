@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "UA",
-    "region": "Ukraine-wide; also Poland, Slovakia and the diaspora",
-    "note": "Blessed in the Easter basket on Holy Saturday. Rounder, flatter and far less sweet than Russian kulich, paska's glory is its sculpted dough decoration, not icing."
+    "region": {
+      "en": "Ukraine-wide; also Poland, Slovakia and the diaspora"
+    },
+    "note": {
+      "en": "Blessed in the Easter basket on Holy Saturday. Rounder, flatter and far less sweet than Russian kulich, paska's glory is its sculpted dough decoration, not icing."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -44,22 +48,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 800,
-      "note": "bread flour or high-protein all-purpose"
+      "note": {
+        "en": "bread flour or high-protein all-purpose"
+      }
     },
     {
       "key": "milk",
       "grams": 350,
-      "note": "whole, warmed to ~43°C"
+      "note": {
+        "en": "whole, warmed to ~43°C"
+      }
     },
     {
       "key": "egg",
       "grams": 150,
-      "note": "3 large"
+      "note": {
+        "en": "3 large"
+      }
     },
     {
       "key": "butter",
       "grams": 50,
-      "note": "melted"
+      "note": {
+        "en": "melted"
+      }
     },
     {
       "key": "sugar",
@@ -68,7 +80,9 @@
     {
       "key": "active-dry-yeast",
       "grams": 14,
-      "note": "2 packets"
+      "note": {
+        "en": "2 packets"
+      }
     },
     {
       "key": "salt",
@@ -77,13 +91,17 @@
     {
       "key": "raisins",
       "grams": 75,
-      "note": "optional; some families add saffron instead"
+      "note": {
+        "en": "optional; some families add saffron instead"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1400,
-    "shape": "tall round loaf in a 23 cm springform, decorated top"
+    "shape": {
+      "en": "tall round loaf in a 23 cm springform, decorated top"
+    }
   },
   "time": {
     "totalMin": 255,
@@ -123,7 +141,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best fresh with butter or cheese; toast day-three slices."
+    "note": {
+      "en": "Best fresh with butter or cheese; toast day-three slices."
+    }
   },
   "equipment": [
     "loaf-pan",
@@ -231,7 +251,9 @@
     "url": "https://oventales.com/ukranian-paska/",
     "site": "OvenTales",
     "retrieved": "2026-07-17",
-    "adaptation": "Yeast normalized to 14 g active dry (the source's tsp and gram figures disagree); yeastPct given as instant-yeast equivalent."
+    "adaptation": {
+      "en": "Yeast normalized to 14 g active dry (the source's tsp and gram figures disagree); yeastPct given as instant-yeast equivalent."
+    }
   },
   "tags": [
     "easter",

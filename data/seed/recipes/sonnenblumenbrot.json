@@ -19,7 +19,9 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Germany-wide"
+    "region": {
+      "en": "Germany-wide"
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -47,27 +49,37 @@
     {
       "key": "flour:rye-whole",
       "grams": 131,
-      "note": "Roggenschrot, coarse sifted rye meal, in the rye sourdough"
+      "note": {
+        "en": "Roggenschrot, coarse sifted rye meal, in the rye sourdough"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 315,
-      "note": "Roggenmehl Type 1370, in the main dough"
+      "note": {
+        "en": "Roggenmehl Type 1370, in the main dough"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 195,
-      "note": "99g wholemeal in the wheat sourdough plus 96g Type 1050 in the main dough"
+      "note": {
+        "en": "99g wholemeal in the wheat sourdough plus 96g Type 1050 in the main dough"
+      }
     },
     {
       "key": "water",
       "grams": 592,
-      "note": "across both sourdoughs, the seed soaker and the main dough"
+      "note": {
+        "en": "across both sourdoughs, the seed soaker and the main dough"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 31.3,
-      "note": "26g rye starter and 5.3g wheat starter, to build the two levains"
+      "note": {
+        "en": "26g rye starter and 5.3g wheat starter, to build the two levains"
+      }
     },
     {
       "key": "salt",
@@ -76,13 +88,17 @@
     {
       "key": "sunflower-seeds",
       "grams": 263,
-      "note": "roasted, for the soaker; more for rolling the shaped loaf"
+      "note": {
+        "en": "roasted, for the soaker; more for rolling the shaped loaf"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1550,
-    "shape": "pan loaf, 23x11x10cm tin, rolled in sunflower seeds"
+    "shape": {
+      "en": "pan loaf, 23x11x10cm tin, rolled in sunflower seeds"
+    }
   },
   "time": {
     "totalMin": 969,
@@ -122,7 +138,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Wrap once fully cooled; the seeded crumb stays moist for the better part of a week."
+    "note": {
+      "en": "Wrap once fully cooled; the seeded crumb stays moist for the better part of a week."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -262,7 +280,9 @@
     "site": "Plötzblog",
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
-    "adaptation": "Method paraphrased; the source's unquantified extra seeds for rolling the loaf are not counted separately in the ingredient total."
+    "adaptation": {
+      "en": "Method paraphrased; the source's unquantified extra seeds for rolling the loaf are not counted separately in the ingredient total."
+    }
   },
   "tags": [
     "seeded",

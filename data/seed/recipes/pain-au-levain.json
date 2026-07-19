@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national",
-    "note": "The pre-industrial way of leavening French bread, kept alive by artisan bakers even as commercial yeast took over most everyday loaves."
+    "region": {
+      "en": "national"
+    },
+    "note": {
+      "en": "The pre-industrial way of leavening French bread, kept alive by artisan bakers even as commercial yeast took over most everyday loaves."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 525,
-      "note": "T65 tradition flour"
+      "note": {
+        "en": "T65 tradition flour"
+      }
     },
     {
       "key": "water",
@@ -51,7 +57,9 @@
     {
       "key": "levain",
       "grams": 200,
-      "note": "active liquid levain, refreshed 5-7h ahead"
+      "note": {
+        "en": "active liquid levain, refreshed 5-7h ahead"
+      }
     },
     {
       "key": "salt",
@@ -61,7 +69,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 900,
-    "shape": "large round miche"
+    "shape": {
+      "en": "large round miche"
+    }
   },
   "time": {
     "totalMin": 1450,
@@ -100,7 +110,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The natural acidity of the levain slows staling well beyond a yeasted white loaf."
+    "note": {
+      "en": "The natural acidity of the levain slows staling well beyond a yeasted white loaf."
+    }
   },
   "equipment": [
     "banneton",
@@ -224,7 +236,9 @@
     "url": "https://mapatisserie.fr/recette/pain/recette-pain-levain/",
     "site": "maPatisserie.fr",
     "retrieved": "2026-07-17",
-    "adaptation": "Combined the site's 'intermediate' 67%-hydration formula with the levain's own flour/water folded into the totals, giving 72% by Panarium's convention."
+    "adaptation": {
+      "en": "Combined the site's 'intermediate' 67%-hydration formula with the levain's own flour/water folded into the totals, giving 72% by Panarium's convention."
+    }
   },
   "tags": [
     "levain",

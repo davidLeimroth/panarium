@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "Punjab, North India",
-    "note": "The lachha (spiral-layered) style is a Punjabi specialty; plainer paratha variants exist across the whole subcontinent."
+    "region": {
+      "en": "Punjab, North India"
+    },
+    "note": {
+      "en": "The lachha (spiral-layered) style is a Punjabi specialty; plainer paratha variants exist across the whole subcontinent."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -43,7 +47,9 @@
     {
       "key": "flour:wheat-whole",
       "grams": 250,
-      "note": "atta"
+      "note": {
+        "en": "atta"
+      }
     },
     {
       "key": "water",
@@ -56,7 +62,9 @@
     {
       "key": "vegetable-oil",
       "grams": 27,
-      "note": "kneaded into the dough"
+      "note": {
+        "en": "kneaded into the dough"
+      }
     },
     {
       "label": {
@@ -67,7 +75,9 @@
         "ro": "ghee (unt clarificat)"
       },
       "grams": 54,
-      "note": "for laminating layers and pan-frying"
+      "note": {
+        "en": "for laminating layers and pan-frying"
+      }
     },
     {
       "label": {
@@ -78,13 +88,17 @@
         "ro": "semințe de ajwain"
       },
       "grams": 2,
-      "note": "optional, kneaded into dough"
+      "note": {
+        "en": "optional, kneaded into dough"
+      }
     }
   ],
   "yield": {
     "count": 4,
     "pieceGrams": 125,
-    "shape": "layered spiral disc"
+    "shape": {
+      "en": "layered spiral disc"
+    }
   },
   "time": {
     "totalMin": 75,
@@ -123,7 +137,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Eat hot off the tawa for maximum flakiness; reheats on a dry tawa but layers soften with time. Freeze uncooked rounds between parchment."
+    "note": {
+      "en": "Eat hot off the tawa for maximum flakiness; reheats on a dry tawa but layers soften with time. Freeze uncooked rounds between parchment."
+    }
   },
   "equipment": [
     "griddle"
@@ -230,7 +246,9 @@
     "url": "https://hebbarskitchen.com/lachha-paratha-lachha-parantha-recipe/",
     "site": "Hebbar's Kitchen",
     "retrieved": "2026-07-17",
-    "adaptation": "Source gave water and ghee only as \"as needed\"/relative cup measures; gram quantities and hydration/fat percentages are reasonable home-baking estimates flagged as such."
+    "adaptation": {
+      "en": "Source gave water and ghee only as \"as needed\"/relative cup measures; gram quantities and hydration/fat percentages are reasonable home-baking estimates flagged as such."
+    }
   },
   "tags": [
     "laminated",

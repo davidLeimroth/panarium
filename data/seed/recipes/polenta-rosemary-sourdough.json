@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "A contemporary artisan formula pairing American cornmeal traditions with a wheat sourdough base."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "A contemporary artisan formula pairing American cornmeal traditions with a wheat sourdough base."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -44,12 +48,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 702,
-      "note": "blend of bread flour and a high-protein bread flour"
+      "note": {
+        "en": "blend of bread flour and a high-protein bread flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 302,
-      "note": "high-extraction (Type 85-style) flour"
+      "note": {
+        "en": "high-extraction (Type 85-style) flour"
+      }
     },
     {
       "key": "water",
@@ -66,7 +74,9 @@
     {
       "key": "cornmeal",
       "grams": 170,
-      "note": "coarse polenta, soaked in hot whey then drained"
+      "note": {
+        "en": "coarse polenta, soaked in hot whey then drained"
+      }
     },
     {
       "label": {
@@ -77,7 +87,9 @@
         "ro": "zer"
       },
       "grams": 445,
-      "note": "used to soak the polenta; most drains away before mixing"
+      "note": {
+        "en": "used to soak the polenta; most drains away before mixing"
+      }
     },
     {
       "label": {
@@ -93,7 +105,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "batard or boule"
+    "shape": {
+      "en": "batard or boule"
+    }
   },
   "time": {
     "totalMin": 1570,
@@ -288,7 +302,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
-    "adaptation": "Polenta and whey treated as inclusions outside the 100% flour base; high-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown."
+    "adaptation": {
+      "en": "Polenta and whey treated as inclusions outside the 100% flour base; high-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown."
+    }
   },
   "tags": [
     "corn",

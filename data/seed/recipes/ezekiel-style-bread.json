@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American natural-foods and home-milling movement",
-    "note": "Named for Ezekiel 4:9, where the prophet is told to mix wheat, barley, beans, lentils, millet and spelt into bread; the sprouted, milled version made today is a 20th/21st-century health-food reading of that verse, not an ancient recipe."
+    "region": {
+      "en": "Modern American natural-foods and home-milling movement"
+    },
+    "note": {
+      "en": "Named for Ezekiel 4:9, where the prophet is told to mix wheat, barley, beans, lentils, millet and spelt into bread; the sprouted, milled version made today is a 20th/21st-century health-food reading of that verse, not an ancient recipe."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -59,22 +63,30 @@
     {
       "key": "flour:wheat-whole",
       "grams": 500,
-      "note": "hard wheat berries, sprouted 2-3 days then milled"
+      "note": {
+        "en": "hard wheat berries, sprouted 2-3 days then milled"
+      }
     },
     {
       "key": "flour:spelt-whole",
       "grams": 300,
-      "note": "spelt berries, sprouted then milled"
+      "note": {
+        "en": "spelt berries, sprouted then milled"
+      }
     },
     {
       "key": "flour:barley",
       "grams": 100,
-      "note": "hulled barley, sprouted then milled"
+      "note": {
+        "en": "hulled barley, sprouted then milled"
+      }
     },
     {
       "key": "flour:millet",
       "grams": 50,
-      "note": "sprouted then milled"
+      "note": {
+        "en": "sprouted then milled"
+      }
     },
     {
       "label": {
@@ -127,7 +139,9 @@
     {
       "key": "olive-oil",
       "grams": 108,
-      "note": "or coconut oil"
+      "note": {
+        "en": "or coconut oil"
+      }
     },
     {
       "key": "salt",
@@ -141,7 +155,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 1272,
-    "shape": "sandwich loaf pan"
+    "shape": {
+      "en": "sandwich loaf pan"
+    }
   },
   "time": {
     "totalMin": 3765,
@@ -180,7 +196,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "A dense, moist multigrain loaf that keeps well; commercial versions of this bread are always sold refrigerated or frozen since there are no preservatives."
+    "note": {
+      "en": "A dense, moist multigrain loaf that keeps well; commercial versions of this bread are always sold refrigerated or frozen since there are no preservatives."
+    }
   },
   "equipment": [
     "loaf-pan",
@@ -288,7 +306,9 @@
     "url": "https://www.theprairiehomestead.com/2012/11/make-your-own-ezekiel-bread-guest-post.html",
     "site": "The Prairie Homestead",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup measurements for grains, legumes and liquids converted to grams using standard dry-grain and liquid weight conventions; the whey option was recorded as water for a dairy-free base."
+    "adaptation": {
+      "en": "Cup measurements for grains, legumes and liquids converted to grams using standard dry-grain and liquid weight conventions; the whey option was recorded as water for a dairy-free base."
+    }
   },
   "tags": [
     "sprouted",

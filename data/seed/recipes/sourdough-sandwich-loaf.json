@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American home baking",
-    "note": "A pan-loaf adaptation that folds a wild-yeast levain into the classic American enriched sandwich bread format."
+    "region": {
+      "en": "Modern American home baking"
+    },
+    "note": {
+      "en": "A pan-loaf adaptation that folds a wild-yeast levain into the classic American enriched sandwich bread format."
+    }
   },
   "leaven": "hybrid",
   "family": "pan-loaf",
@@ -44,7 +48,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 758,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
@@ -57,7 +63,9 @@
     {
       "key": "butter",
       "grams": 57,
-      "note": "unsalted, softened"
+      "note": {
+        "en": "unsalted, softened"
+      }
     },
     {
       "key": "sugar",
@@ -85,7 +93,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 690,
-    "shape": "8.5-inch pan loaf"
+    "shape": {
+      "en": "8.5-inch pan loaf"
+    }
   },
   "time": {
     "totalMin": 1010,
@@ -248,7 +258,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/sourdough-sandwich-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base; butter's water-equivalent (16%) folded into hydration per house convention."
+    "adaptation": {
+      "en": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base; butter's water-equivalent (16%) folded into hydration per house convention."
+    }
   },
   "tags": [
     "sandwich",

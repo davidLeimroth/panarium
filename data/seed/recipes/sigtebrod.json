@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "DK",
-    "region": "nationwide",
-    "note": "A very old style of Danish bread; sigtemel is a semi-coarse sifted wheat-rye flour blend, traditionally about 30% rye."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "A very old style of Danish bread; sigtemel is a semi-coarse sifted wheat-rye flour blend, traditionally about 30% rye."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -50,7 +54,9 @@
     {
       "key": "flour:rye-whole",
       "grams": 210,
-      "note": "dark rye flour"
+      "note": {
+        "en": "dark rye flour"
+      }
     },
     {
       "key": "water",
@@ -71,7 +77,9 @@
     {
       "key": "caraway",
       "grams": 1.5,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "key": "salt",
@@ -81,7 +89,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 800,
-    "shape": "sandwich pan loaf"
+    "shape": {
+      "en": "sandwich pan loaf"
+    }
   },
   "time": {
     "totalMin": 165,
@@ -121,7 +131,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "A lighter alternative to rugbrød for open sandwiches; keeps a few days wrapped."
+    "note": {
+      "en": "A lighter alternative to rugbrød for open sandwiches; keeps a few days wrapped."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -244,7 +256,9 @@
     "url": "https://sweetsoursavory.com/blog/2017/7/21/sifted-rye-bread-sigtebrd",
     "site": "Sweet Sour Savory",
     "retrieved": "2026-07-17",
-    "adaptation": "Fresh yeast quantity kept as sourced rather than converted, since the taxonomy's yeastPct field is defined for instant yeast only."
+    "adaptation": {
+      "en": "Fresh yeast quantity kept as sourced rather than converted, since the taxonomy's yeastPct field is defined for instant yeast only."
+    }
   },
   "tags": [
     "sandwich-bread",

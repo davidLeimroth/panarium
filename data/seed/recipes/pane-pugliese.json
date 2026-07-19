@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Puglia (Apulia)",
-    "note": "The generic, everyday version of Apulia's durum sourdough loaf, next to the geographically-protected Pane di Altamura."
+    "region": {
+      "en": "Puglia (Apulia)"
+    },
+    "note": {
+      "en": "The generic, everyday version of Apulia's durum sourdough loaf, next to the geographically-protected Pane di Altamura."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -39,7 +43,9 @@
     {
       "key": "flour:durum",
       "grams": 500,
-      "note": "semola rimacinata di grano duro"
+      "note": {
+        "en": "semola rimacinata di grano duro"
+      }
     },
     {
       "key": "water",
@@ -48,7 +54,9 @@
     {
       "key": "sourdough-starter",
       "grams": 100,
-      "note": "active lievito madre"
+      "note": {
+        "en": "active lievito madre"
+      }
     },
     {
       "key": "salt",
@@ -57,13 +65,17 @@
     {
       "key": "olive-oil",
       "grams": 13,
-      "note": "optional, for a softer crumb"
+      "note": {
+        "en": "optional, for a softer crumb"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 960,
-    "shape": "round or oval hearth loaf, deeply scored"
+    "shape": {
+      "en": "round or oval hearth loaf, deeply scored"
+    }
   },
   "time": {
     "totalMin": 524,
@@ -102,7 +114,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "Durum crumb and a mature starter keep it good most of the week; slice thick for bruschetta once it's a day old."
+    "note": {
+      "en": "Durum crumb and a mature starter keep it good most of the week; slice thick for bruschetta once it's a day old."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -210,7 +224,9 @@
     "url": "https://barracudamatera.it/consigli/pane-pugliese-con-lievito-madre/",
     "site": "Barracuda Matera",
     "retrieved": "2026-07-17",
-    "adaptation": "The lievito madre is assumed at roughly 50% hydration to convert into total-flour baker's percentages; olive oil is an optional regional variant included here."
+    "adaptation": {
+      "en": "The lievito madre is assumed at roughly 50% hydration to convert into total-flour baker's percentages; olive oil is an optional regional variant included here."
+    }
   },
   "tags": [
     "durum-sourdough"

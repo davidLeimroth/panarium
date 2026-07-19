@@ -21,6 +21,25 @@ const localized = z.object({
 
 const localizedName = localized.extend({ native: z.string().optional() });
 
+/**
+ * Prose that renders on the page and therefore needs a translation. English is
+ * required and keeps its original budget; the other languages arrive per
+ * language so they stay optional, and they get headroom because the same
+ * sentence runs longer in German and French than it does in English.
+ */
+const prose = (max: number) => {
+  const wide = Math.round(max * 1.4);
+  return z
+    .object({
+      en: z.string().max(max),
+      de: z.string().max(wide).optional(),
+      es: z.string().max(wide).optional(),
+      fr: z.string().max(wide).optional(),
+      ro: z.string().max(wide).optional(),
+    })
+    .strict();
+};
+
 const stepTitle = z
   .object({
     en: z.string().max(60),
@@ -49,8 +68,8 @@ export const recipeSchema = z
     description: localized,
     origin: z.object({
       country: z.string().regex(/^[A-Z]{2}$/),
-      region: z.string().optional(),
-      note: z.string().max(300).optional(),
+      region: prose(120).optional(),
+      note: prose(300).optional(),
     }),
     leaven: z.enum(LEAVENS),
     family: z.enum(FAMILIES),
@@ -71,14 +90,14 @@ export const recipeSchema = z
           key: z.string().optional(),
           label: localized.optional(),
           grams: z.number().min(0),
-          note: z.string().max(120).optional(),
+          note: prose(120).optional(),
         }),
       )
       .min(2),
     yield: z.object({
       count: z.number().int().min(1),
       pieceGrams: z.number().min(10),
-      shape: z.string().max(60).optional(),
+      shape: prose(60).optional(),
     }),
     time: z.object({
       totalMin: z.number().min(5),
@@ -109,7 +128,7 @@ export const recipeSchema = z
     keeping: z.object({
       freshDays: z.number().min(0.25),
       freezes: z.boolean().optional(),
-      note: z.string().max(200).optional(),
+      note: prose(200).optional(),
     }),
     equipment: z.array(z.enum(EQUIPMENT)).max(4).default([]),
     method: z
@@ -125,7 +144,7 @@ export const recipeSchema = z
         .string()
         .regex(/^\d{4}-\d{2}-\d{2}$/)
         .optional(),
-      adaptation: z.string().max(200).optional(),
+      adaptation: prose(200).optional(),
     }),
     tags: z.array(z.string()).max(6).default([]),
     kitchenTested: z

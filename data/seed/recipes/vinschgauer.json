@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Vinschgau / Val Venosta, South Tyrol",
-    "note": "Baked in German-speaking South Tyrol (Alto Adige), Italy, culturally and linguistically part of the Austro-Bavarian Alpine tradition, though the region has been Italian since 1919."
+    "region": {
+      "en": "Vinschgau / Val Venosta, South Tyrol"
+    },
+    "note": {
+      "en": "Baked in German-speaking South Tyrol (Alto Adige), Italy, culturally and linguistically part of the Austro-Bavarian Alpine tradition, though the region has been Italian since 1919."
+    }
   },
   "leaven": "sourdough",
   "family": "roll",
@@ -51,27 +55,37 @@
     {
       "key": "flour:rye-whole",
       "grams": 190,
-      "note": "coarse rye meal, in the sourdough"
+      "note": {
+        "en": "coarse rye meal, in the sourdough"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 100,
-      "note": "Ruchmehl or Type 1050"
+      "note": {
+        "en": "Ruchmehl or Type 1050"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 240,
-      "note": "Type 1150"
+      "note": {
+        "en": "Type 1150"
+      }
     },
     {
       "key": "water",
       "grams": 450,
-      "note": "warm, ~43–45°C"
+      "note": {
+        "en": "warm, ~43–45°C"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 38,
-      "note": "active rye starter (Anstellgut)"
+      "note": {
+        "en": "active rye starter (Anstellgut)"
+      }
     },
     {
       "key": "salt",
@@ -80,12 +94,16 @@
     {
       "key": "caraway",
       "grams": 2,
-      "note": "lightly crushed"
+      "note": {
+        "en": "lightly crushed"
+      }
     },
     {
       "key": "fennel-seed",
       "grams": 2,
-      "note": "lightly crushed"
+      "note": {
+        "en": "lightly crushed"
+      }
     },
     {
       "key": "anise",
@@ -95,7 +113,9 @@
   "yield": {
     "count": 10,
     "pieceGrams": 95,
-    "shape": "flattened paired round roll (Paarl)"
+    "shape": {
+      "en": "flattened paired round roll (Paarl)"
+    }
   },
   "time": {
     "totalMin": 1075,
@@ -135,7 +155,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "A rustic keeping bread, stays good several days, traditionally sliced thin for Speck and mountain cheese."
+    "note": {
+      "en": "A rustic keeping bread, stays good several days, traditionally sliced thin for Speck and mountain cheese."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -242,7 +264,9 @@
     "url": "https://heimbaecker.de/vinschgerl/",
     "site": "der heimbäcker",
     "retrieved": "2026-07-17",
-    "adaptation": "Bread-spice blend simplified to caraway, fennel and anise; quantities scaled to a 10-piece home batch."
+    "adaptation": {
+      "en": "Bread-spice blend simplified to caraway, fennel and anise; quantities scaled to a 10-piece home batch."
+    }
   },
   "tags": [
     "south-tyrol",

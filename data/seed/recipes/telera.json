@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "MX",
-    "region": "Mexico City and nationwide",
-    "note": "The everyday roll of the Mexican torta sandwich; its two parallel slashes, creating three lobes, make it easy to split horizontally without falling apart."
+    "region": {
+      "en": "Mexico City and nationwide"
+    },
+    "note": {
+      "en": "The everyday roll of the Mexican torta sandwich; its two parallel slashes, creating three lobes, make it easy to split horizontally without falling apart."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -55,7 +59,9 @@
     {
       "key": "lard",
       "grams": 14,
-      "note": "or shortening or butter, melted and cooled"
+      "note": {
+        "en": "or shortening or butter, melted and cooled"
+      }
     },
     {
       "key": "salt",
@@ -68,13 +74,17 @@
     {
       "key": "egg",
       "grams": 15,
-      "note": "beaten with water, for the egg wash glaze"
+      "note": {
+        "en": "beaten with water, for the egg wash glaze"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 82,
-    "shape": "oval, two parallel slashes forming three lobes, 14cm long"
+    "shape": {
+      "en": "oval, two parallel slashes forming three lobes, 14cm long"
+    }
   },
   "time": {
     "totalMin": 140,
@@ -114,7 +124,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day it's baked for tortas; the soft crumb stales quickly, though day-old rolls toast well."
+    "note": {
+      "en": "Best the day it's baked for tortas; the soft crumb stales quickly, though day-old rolls toast well."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -221,7 +233,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/telera-rolls-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-18",
-    "adaptation": "Flour given as a range; used the midpoint. Lard chosen as the traditional fat option among the source's three alternatives."
+    "adaptation": {
+      "en": "Flour given as a range; used the midpoint. Lard chosen as the traditional fat option among the source's three alternatives."
+    }
   },
   "tags": [
     "torta-bread",

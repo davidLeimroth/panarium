@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Northern Ireland",
-    "note": "Grew out of using up leftover mashed potato from the day before rather than a fixed recipe, so yields and ratios vary from house to house."
+    "region": {
+      "en": "Northern Ireland"
+    },
+    "note": {
+      "en": "Grew out of using up leftover mashed potato from the day before rather than a fixed recipe, so yields and ratios vary from house to house."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -46,7 +50,9 @@
     {
       "key": "mashed-potato",
       "grams": 650,
-      "note": "riced or well-mashed, still warm"
+      "note": {
+        "en": "riced or well-mashed, still warm"
+      }
     },
     {
       "key": "flour:wheat-white",
@@ -69,13 +75,17 @@
     {
       "key": "butter",
       "grams": 57,
-      "note": "divided between the dough and the frying pan"
+      "note": {
+        "en": "divided between the dough and the frying pan"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 125,
-    "shape": "wedges cut from one 8-inch round"
+    "shape": {
+      "en": "wedges cut from one 8-inch round"
+    }
   },
   "time": {
     "totalMin": 40,
@@ -113,7 +123,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fried fresh and hot; leftovers reheat well in a dry pan or under the grill for a fry-up the next day."
+    "note": {
+      "en": "Best fried fresh and hot; leftovers reheat well in a dry pan or under the grill for a fry-up the next day."
+    }
   },
   "equipment": [
     "skillet"
@@ -205,7 +217,9 @@
     "site": "Bigger Bolder Baking",
     "author": "Gemma Stafford",
     "retrieved": "2026-07-18",
-    "adaptation": "Uses no chemical leavener, relying on potato and pan heat alone. Potato treated as the primary flour per baker's-percentage convention (as with lefse); hydration reflects only the added butter."
+    "adaptation": {
+      "en": "Uses no chemical leavener, relying on potato and pan heat alone. Potato treated as the primary flour per baker's-percentage convention (as with lefse); hydration reflects only the added butter."
+    }
   },
   "tags": [
     "ulster-fry",

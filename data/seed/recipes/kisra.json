@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "SD",
-    "region": "Sudan & South Sudan",
-    "note": "Sudan's staple bread, and South Sudan's second staple after asida; the household starter, sometimes called al-rahiba, is passed down and fed between batches like a family heirloom."
+    "region": {
+      "en": "Sudan & South Sudan"
+    },
+    "note": {
+      "en": "Sudan's staple bread, and South Sudan's second staple after asida; the household starter, sometimes called al-rahiba, is passed down and fed between batches like a family heirloom."
+    }
   },
   "leaven": "sourdough",
   "family": "flatbread",
@@ -48,18 +52,24 @@
     {
       "key": "salt",
       "grams": 2,
-      "note": "added just before cooking"
+      "note": {
+        "en": "added just before cooking"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 30,
-      "note": "al-rahiba, a household starter culture, or a spoonful of a previous batch"
+      "note": {
+        "en": "al-rahiba, a household starter culture, or a spoonful of a previous batch"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 124,
-    "shape": "large paper-thin round or rectangle sheet"
+    "shape": {
+      "en": "large paper-thin round or rectangle sheet"
+    }
   },
   "time": {
     "totalMin": 1095,
@@ -96,7 +106,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fresh, still faintly warm and pliable; dries out within a couple of days, though some households sun-dry extra kisra for long-term storage and rehydrate it later."
+    "note": {
+      "en": "Best fresh, still faintly warm and pliable; dries out within a couple of days, though some households sun-dry extra kisra for long-term storage and rehydrate it later."
+    }
   },
   "equipment": [
     "griddle"
@@ -219,7 +231,9 @@
     "url": "https://www.africanfood.recipes/2019/04/kisra-kesra-bread.html",
     "site": "African Food Recipes",
     "retrieved": "2026-07-17",
-    "adaptation": "Source gave process and cultural detail but no precise quantities; flour-water ratio and salt are drawn from general convention (2 cups each), using an estimated 120 g/cup sorghum weight."
+    "adaptation": {
+      "en": "Source gave process and cultural detail but no precise quantities; flour-water ratio and salt are drawn from general convention (2 cups each), using an estimated 120 g/cup sorghum weight."
+    }
   },
   "tags": [
     "fermented",

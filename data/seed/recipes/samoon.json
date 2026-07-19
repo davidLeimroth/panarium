@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IQ",
-    "region": "especially Baghdad",
-    "note": "The name traces to Turkish somun, itself from Greek psomos ('bread'); the modern diamond shape is credited to 20th-century Baghdad bakers."
+    "region": {
+      "en": "especially Baghdad"
+    },
+    "note": {
+      "en": "The name traces to Turkish somun, itself from Greek psomos ('bread'); the modern diamond shape is credited to 20th-century Baghdad bakers."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -49,17 +53,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "all-purpose flour"
+      "note": {
+        "en": "all-purpose flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 12,
-      "note": "wheat bran, whisked into the flour"
+      "note": {
+        "en": "wheat bran, whisked into the flour"
+      }
     },
     {
       "key": "water",
       "grams": 237,
-      "note": "warm, about 37°C, for blooming the yeast and mixing"
+      "note": {
+        "en": "warm, about 37°C, for blooming the yeast and mixing"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -84,18 +94,24 @@
     {
       "key": "egg",
       "grams": 50,
-      "note": "beaten with vinegar, for the egg wash"
+      "note": {
+        "en": "beaten with vinegar, for the egg wash"
+      }
     },
     {
       "key": "sesame-seeds",
       "grams": 15,
-      "note": "for topping"
+      "note": {
+        "en": "for topping"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 165,
-    "shape": "torpedo/diamond, thin tapered ends"
+    "shape": {
+      "en": "torpedo/diamond, thin tapered ends"
+    }
   },
   "time": {
     "totalMin": 150,
@@ -135,7 +151,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day it is baked while the crust is crisp; freezes well and refreshes in a hot oven."
+    "note": {
+      "en": "Best the day it is baked while the crust is crisp; freezes well and refreshes in a hot oven."
+    }
   },
   "equipment": [
     "baking-stone",
@@ -243,7 +261,9 @@
     "url": "https://www.196flavors.com/iraq-samoon/",
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
-    "adaptation": "Weights converted from cups/tablespoons; wheat bran folded into the flour total as a small wholegrain share; the bowl of water used only for oven steam is omitted."
+    "adaptation": {
+      "en": "Weights converted from cups/tablespoons; wheat bran folded into the flour total as a small wholegrain share; the bowl of water used only for oven steam is omitted."
+    }
   },
   "tags": [
     "street-food",

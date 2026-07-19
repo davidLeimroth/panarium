@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "MG",
-    "region": "nationwide",
-    "note": "Sold by street vendors from large multi-cavity pans each morning; the name simply means 'Malagasy bread' and distinguishes it from mofo baolina and other local breads."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Sold by street vendors from large multi-cavity pans each morning; the name simply means 'Malagasy bread' and distinguishes it from mofo baolina and other local breads."
+    }
   },
   "leaven": "yeast",
   "family": "fried",
@@ -51,7 +55,9 @@
     {
       "key": "flour:rice",
       "grams": 43,
-      "note": "cream of rice / rice semolina"
+      "note": {
+        "en": "cream of rice / rice semolina"
+      }
     },
     {
       "key": "sugar",
@@ -64,7 +70,9 @@
     {
       "key": "water",
       "grams": 119,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "label": {
@@ -97,13 +105,17 @@
     {
       "key": "butter",
       "grams": 28,
-      "note": "or coconut oil, melted"
+      "note": {
+        "en": "or coconut oil, melted"
+      }
     }
   ],
   "yield": {
     "count": 22,
     "pieceGrams": 19,
-    "shape": "small puffs from a multi-cavity pan"
+    "shape": {
+      "en": "small puffs from a multi-cavity pan"
+    }
   },
   "time": {
     "totalMin": 175,
@@ -143,7 +155,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best eaten warm the same morning; leftovers can be frozen and reheated, though the fluffiness fades."
+    "note": {
+      "en": "Best eaten warm the same morning; leftovers can be frozen and reheated, though the fluffiness fades."
+    }
   },
   "equipment": [
     "skillet"
@@ -250,7 +264,9 @@
     "url": "https://mayuris-jikoni.com/2018/11/26/mofo-gasy/",
     "site": "Mayuri's Jikoni",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tablespoon quantities converted to grams; rice semolina, coconut milk and grated coconut weights estimated since no standard conversion exists for them."
+    "adaptation": {
+      "en": "Cup/tablespoon quantities converted to grams; rice semolina, coconut milk and grated coconut weights estimated since no standard conversion exists for them."
+    }
   },
   "tags": [
     "street-food",

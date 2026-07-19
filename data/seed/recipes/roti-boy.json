@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "MY",
-    "region": "Penang, sold nationwide and exported across Asia",
-    "note": "Created in 1998 at a Bukit Mertajam bakery; the name means 'bread boy' and the chain popularized the bun as 'Rotiboy', later widely copied under names like Papparoti."
+    "region": {
+      "en": "Penang, sold nationwide and exported across Asia"
+    },
+    "note": {
+      "en": "Created in 1998 at a Bukit Mertajam bakery; the name means 'bread boy' and the chain popularized the bun as 'Rotiboy', later widely copied under names like Papparoti."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -45,7 +49,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 200,
-      "note": "bread flour, for the dough"
+      "note": {
+        "en": "bread flour, for the dough"
+      }
     },
     {
       "key": "sugar",
@@ -58,7 +64,9 @@
     {
       "key": "milk",
       "grams": 35,
-      "note": "dry milk powder; not counted toward hydration"
+      "note": {
+        "en": "dry milk powder; not counted toward hydration"
+      }
     },
     {
       "key": "instant-yeast",
@@ -75,27 +83,37 @@
     {
       "key": "butter",
       "grams": 20,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "butter",
       "grams": 60,
-      "note": "filling, frozen into six 10g cubes"
+      "note": {
+        "en": "filling, frozen into six 10g cubes"
+      }
     },
     {
       "key": "butter",
       "grams": 60,
-      "note": "for the coffee topping"
+      "note": {
+        "en": "for the coffee topping"
+      }
     },
     {
       "key": "sugar",
       "grams": 60,
-      "note": "for the coffee topping"
+      "note": {
+        "en": "for the coffee topping"
+      }
     },
     {
       "key": "egg",
       "grams": 50,
-      "note": "for the coffee topping"
+      "note": {
+        "en": "for the coffee topping"
+      }
     },
     {
       "label": {
@@ -110,7 +128,9 @@
     {
       "key": "water",
       "grams": 15,
-      "note": "boiling, to dissolve the coffee for the topping"
+      "note": {
+        "en": "boiling, to dissolve the coffee for the topping"
+      }
     },
     {
       "label": {
@@ -126,7 +146,9 @@
   "yield": {
     "count": 6,
     "pieceGrams": 129,
-    "shape": "round bun, butter-filled, coffee cookie topping, ~8 cm"
+    "shape": {
+      "en": "round bun, butter-filled, coffee cookie topping, ~8 cm"
+    }
   },
   "time": {
     "totalMin": 150,
@@ -166,7 +188,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best warm from the oven while the butter center is still melty; reheat briefly to re-soften. Freezes acceptably, though the topping loses some crispness."
+    "note": {
+      "en": "Best warm from the oven while the butter center is still melty; reheat briefly to re-soften. Freezes acceptably, though the topping loses some crispness."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -274,7 +298,9 @@
     "url": "https://tasteasianfood.com/rotiboy-coffee-bun/",
     "site": "Taste of Asian Food",
     "retrieved": "2026-07-18",
-    "adaptation": "Formula percentages describe the bread dough only; the coffee topping and butter filling are listed separately and excluded, as with melonpan. Salt increased slightly for balance."
+    "adaptation": {
+      "en": "Formula percentages describe the bread dough only; the coffee topping and butter filling are listed separately and excluded, as with melonpan. Salt increased slightly for balance."
+    }
   },
   "tags": [
     "kopitiam",

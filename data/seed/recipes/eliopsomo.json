@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "GR",
-    "region": "Greece-wide",
-    "note": "Chopped olives season the crumb from within; feta, tomatoes and olive oil are its classic table companions."
+    "region": {
+      "en": "Greece-wide"
+    },
+    "note": {
+      "en": "Chopped olives season the crumb from within; feta, tomatoes and olive oil are its classic table companions."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -63,18 +67,24 @@
     {
       "key": "sesame-seeds",
       "grams": 10,
-      "note": "optional, for topping"
+      "note": {
+        "en": "optional, for topping"
+      }
     },
     {
       "key": "olive-oil",
       "grams": 10,
-      "note": "for oiling the rising bowl"
+      "note": {
+        "en": "for oiling the rising bowl"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 939,
-    "shape": "round loaf, baked in a covered pot"
+    "shape": {
+      "en": "round loaf, baked in a covered pot"
+    }
   },
   "time": {
     "totalMin": 273,
@@ -113,7 +123,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Good for a few days; the olives keep the crumb from drying out as fast as a plain loaf."
+    "note": {
+      "en": "Good for a few days; the olives keep the crumb from drying out as fast as a plain loaf."
+    }
   },
   "equipment": [
     "dutch-oven",
@@ -221,7 +233,9 @@
     "url": "https://www.argiro.gr/recipe/eliopsomo/",
     "site": "Argiro.gr",
     "retrieved": "2026-07-17",
-    "adaptation": "Flour classified as whole wheat, one of the two options the source offers; olive quantity converted from a half-cup measure."
+    "adaptation": {
+      "en": "Flour classified as whole wheat, one of the two options the source offers; olive quantity converted from a half-cup measure."
+    }
   },
   "tags": [
     "olives",

@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "San Francisco, California",
-    "note": "A Tartine Bakery variation on Chad Robertson's country loaf; distinct from the traditional French levain aux noix it takes inspiration from."
+    "region": {
+      "en": "San Francisco, California"
+    },
+    "note": {
+      "en": "A Tartine Bakery variation on Chad Robertson's country loaf; distinct from the traditional French levain aux noix it takes inspiration from."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -44,7 +48,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 900,
-      "note": "white bread flour"
+      "note": {
+        "en": "white bread flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -57,7 +63,9 @@
     {
       "key": "sourdough-starter",
       "grams": 30,
-      "note": "mature, to build the overnight leaven"
+      "note": {
+        "en": "mature, to build the overnight leaven"
+      }
     },
     {
       "key": "salt",
@@ -66,13 +74,17 @@
     {
       "key": "walnuts",
       "grams": 260,
-      "note": "toasted, shelled"
+      "note": {
+        "en": "toasted, shelled"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 1050,
-    "shape": "one batard, one boule"
+    "shape": {
+      "en": "one batard, one boule"
+    }
   },
   "time": {
     "totalMin": 2190,
@@ -111,7 +123,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The crumb around the walnuts deepens to purple-brown over the first day, a normal reaction with fermentation tannins."
+    "note": {
+      "en": "The crumb around the walnuts deepens to purple-brown over the first day, a normal reaction with fermentation tannins."
+    }
   },
   "equipment": [
     "dutch-oven",
@@ -252,7 +266,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo, after Chad Robertson / Tartine Bread",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages include the leaven's flour/water (only part of the build is used, prorated); walnut weight estimated from the stated '2 cups'."
+    "adaptation": {
+      "en": "Percentages include the leaven's flour/water (only part of the build is used, prorated); walnut weight estimated from the stated '2 cups'."
+    }
   },
   "tags": [
     "tartine",

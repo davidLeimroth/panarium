@@ -16,8 +16,12 @@
   },
   "origin": {
     "country": "ES",
-    "region": "Andalusia",
-    "note": "Said to trace back to ship galleys, where thin, dry dough scraps were rationed to sailors 'through gritted teeth' (a regañadientes), the likely source of the name."
+    "region": {
+      "en": "Andalusia"
+    },
+    "note": {
+      "en": "Said to trace back to ship galleys, where thin, dry dough scraps were rationed to sailors 'through gritted teeth' (a regañadientes), the likely source of the name."
+    }
   },
   "leaven": "hybrid",
   "family": "crispbread",
@@ -37,27 +41,37 @@
     {
       "key": "flour:wheat-white",
       "grams": 65,
-      "note": "30 g wheat flour plus 35 g strong flour, in the starter"
+      "note": {
+        "en": "30 g wheat flour plus 35 g strong flour, in the starter"
+      }
     },
     {
       "key": "water",
       "grams": 35,
-      "note": "in the starter"
+      "note": {
+        "en": "in the starter"
+      }
     },
     {
       "key": "fresh-yeast",
       "grams": 0.3,
-      "note": "in the starter"
+      "note": {
+        "en": "in the starter"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 300,
-      "note": "250 g wheat flour plus 50 g strong flour, in the main dough"
+      "note": {
+        "en": "250 g wheat flour plus 50 g strong flour, in the main dough"
+      }
     },
     {
       "key": "water",
       "grams": 150,
-      "note": "in the main dough"
+      "note": {
+        "en": "in the main dough"
+      }
     },
     {
       "key": "salt",
@@ -67,7 +81,9 @@
   "yield": {
     "count": 14,
     "pieceGrams": 40,
-    "shape": "paper-thin cracker oval, about 1 mm thick, fork-docked"
+    "shape": {
+      "en": "paper-thin cracker oval, about 1 mm thick, fork-docked"
+    }
   },
   "time": {
     "totalMin": 983,
@@ -106,7 +122,9 @@
   "keeping": {
     "freshDays": 30,
     "freezes": true,
-    "note": "Baked bone-dry, so it keeps crisp in a tin for weeks, the way any good cracker-bread should."
+    "note": {
+      "en": "Baked bone-dry, so it keeps crisp in a tin for weeks, the way any good cracker-bread should."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -213,7 +231,9 @@
     "url": "https://www.directoalpaladar.com/recetas-de-panes/receta-reganas-caseras-opcion-casera-para-esta-torta-pan-fina-crujiente",
     "site": "Directo al Paladar",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams as published; this version omits olive oil, which some modern regañás recipes add and which is noted here only as a common variant."
+    "adaptation": {
+      "en": "Grams as published; this version omits olive oil, which some modern regañás recipes add and which is noted here only as a common variant."
+    }
   },
   "tags": [
     "cracker-bread",

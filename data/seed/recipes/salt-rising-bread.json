@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Appalachia (West Virginia and the rural South/Midwest)",
-    "note": "The earliest known recipe dates to 1778 in what is now West Virginia. Developed where commercial yeast was scarce or unreliable, using wild bacteria cultured from cornmeal instead; the process can take the better part of a day and is notoriously temperature-sensitive."
+    "region": {
+      "en": "Appalachia (West Virginia and the rural South/Midwest)"
+    },
+    "note": {
+      "en": "The earliest known recipe dates to 1778 in what is now West Virginia. Developed where commercial yeast was scarce or unreliable, using wild bacteria cultured from cornmeal instead; the process can take the better part of a day and is notoriously temperature-sensitive."
+    }
   },
   "leaven": "chemical",
   "family": "pan-loaf",
@@ -46,63 +50,87 @@
     {
       "key": "milk",
       "grams": 57,
-      "note": "starter 1"
+      "note": {
+        "en": "starter 1"
+      }
     },
     {
       "key": "cornmeal",
       "grams": 14,
-      "note": "starter 1"
+      "note": {
+        "en": "starter 1"
+      }
     },
     {
       "key": "sugar",
       "grams": 4,
-      "note": "starter 1"
+      "note": {
+        "en": "starter 1"
+      }
     },
     {
       "key": "water",
       "grams": 227,
-      "note": "hot, 49-54°C; starter 2"
+      "note": {
+        "en": "hot, 49-54°C; starter 2"
+      }
     },
     {
       "key": "salt",
       "grams": 3,
-      "note": "starter 2"
+      "note": {
+        "en": "starter 2"
+      }
     },
     {
       "key": "baking-soda",
       "grams": 2.5,
-      "note": "starter 2"
+      "note": {
+        "en": "starter 2"
+      }
     },
     {
       "key": "sugar",
       "grams": 2,
-      "note": "starter 2"
+      "note": {
+        "en": "starter 2"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 180,
-      "note": "starter 2"
+      "note": {
+        "en": "starter 2"
+      }
     },
     {
       "key": "butter",
       "grams": 57,
-      "note": "soft, final dough"
+      "note": {
+        "en": "soft, final dough"
+      }
     },
     {
       "key": "salt",
       "grams": 3,
-      "note": "final dough"
+      "note": {
+        "en": "final dough"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 285,
-      "note": "final dough"
+      "note": {
+        "en": "final dough"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 750,
-    "shape": "single pan loaf, 8.5 x 4.5 inch"
+    "shape": {
+      "en": "single pan loaf, 8.5 x 4.5 inch"
+    }
   },
   "time": {
     "totalMin": 1100,
@@ -142,7 +170,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Famous for keeping exceptionally well past a week, unusual for a bread without preservatives; the flavor mellows and rounds out a day or two after baking."
+    "note": {
+      "en": "Famous for keeping exceptionally well past a week, unusual for a bread without preservatives; the flavor mellows and rounds out a day or two after baking."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -249,7 +279,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/classic-american-salt-rising-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-18",
-    "adaptation": "Classified leaven as chemical per the source's framing of the added baking soda, though the primary rise is wild bacterial fermentation in the two starters, a mechanism outside this taxonomy's enum."
+    "adaptation": {
+      "en": "Classified leaven as chemical per the source's framing of the added baking soda, though the primary rise is wild bacterial fermentation in the two starters, a mechanism outside this taxonomy's enum."
+    }
   },
   "tags": [
     "appalachian",

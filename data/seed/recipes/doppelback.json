@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Ostwestfalen / Paderborner Land",
-    "note": "A staple found in almost every bakery in East Westphalia; named for its defining two-stage bake rather than for any single town."
+    "region": {
+      "en": "Ostwestfalen / Paderborner Land"
+    },
+    "note": {
+      "en": "A staple found in almost every bakery in East Westphalia; named for its defining two-stage bake rather than for any single town."
+    }
   },
   "leaven": "hybrid",
   "family": "pan-loaf",
@@ -46,12 +50,16 @@
     {
       "key": "flour:rye",
       "grams": 240,
-      "note": "type 1150; split between the levain and the main dough"
+      "note": {
+        "en": "type 1150; split between the levain and the main dough"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 465,
-      "note": "type 1050"
+      "note": {
+        "en": "type 1050"
+      }
     },
     {
       "key": "water",
@@ -60,7 +68,9 @@
     {
       "key": "sourdough-starter",
       "grams": 13,
-      "note": "mature rye starter (Anstellgut)"
+      "note": {
+        "en": "mature rye starter (Anstellgut)"
+      }
     },
     {
       "key": "salt",
@@ -73,13 +83,17 @@
     {
       "key": "malt-syrup",
       "grams": 13,
-      "note": "dry rye malt plus liquid inactive malt, for crust color and flavor"
+      "note": {
+        "en": "dry rye malt plus liquid inactive malt, for crust color and flavor"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1050,
-    "shape": "buttered loaf tin (Kastenform)"
+    "shape": {
+      "en": "buttered loaf tin (Kastenform)"
+    }
   },
   "time": {
     "totalMin": 1470,
@@ -118,7 +132,9 @@
   "keeping": {
     "freshDays": 10,
     "freezes": true,
-    "note": "The second bake dries and hardens the crust, which is exactly why this loaf outlasts a single-baked mixed bread by many days."
+    "note": {
+      "en": "The second bake dries and hardens the crust, which is exactly why this loaf outlasts a single-baked mixed bread by many days."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -242,7 +258,9 @@
     "site": "Ketex – Der Hobbybrotbäcker",
     "author": "Gerd Kellner",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages computed from the stated gram quantities; method paraphrased and reordered to foreground the double-bake technique."
+    "adaptation": {
+      "en": "Percentages computed from the stated gram quantities; method paraphrased and reordered to foreground the double-bake technique."
+    }
   },
   "tags": [
     "ostwestfalen",

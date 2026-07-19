@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "MY",
-    "region": "Malaysia & Singapore (Mamak / Indian-Muslim cuisine)",
-    "note": "Descended from South Indian paratha traditions brought by Tamil Muslim immigrants; roti canai and Singapore's roti prata are close siblings of the same dough."
+    "region": {
+      "en": "Malaysia & Singapore (Mamak / Indian-Muslim cuisine)"
+    },
+    "note": {
+      "en": "Descended from South Indian paratha traditions brought by Tamil Muslim immigrants; roti canai and Singapore's roti prata are close siblings of the same dough."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -42,7 +46,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 520,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "egg",
@@ -51,7 +57,9 @@
     {
       "key": "butter",
       "grams": 40,
-      "note": "melted, in the dough"
+      "note": {
+        "en": "melted, in the dough"
+      }
     },
     {
       "label": {
@@ -74,13 +82,17 @@
     {
       "key": "butter",
       "grams": 100,
-      "note": "for coating dough balls and laminating during stretching"
+      "note": {
+        "en": "for coating dough balls and laminating during stretching"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 105,
-    "shape": "thin stretched round or square, pan-fried, 20-25 cm"
+    "shape": {
+      "en": "thin stretched round or square, pan-fried, 20-25 cm"
+    }
   },
   "time": {
     "totalMin": 850,
@@ -119,7 +131,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best hot off the griddle, torn and fluffed by hand; keeps poorly once cool. Uncooked dough balls freeze well and cook straight from frozen, like the common frozen roti canai sold in stores."
+    "note": {
+      "en": "Best hot off the griddle, torn and fluffed by hand; keeps poorly once cool. Uncooked dough balls freeze well and cook straight from frozen, like the common frozen roti canai sold in stores."
+    }
   },
   "equipment": [
     "griddle"
@@ -242,7 +256,9 @@
     "url": "https://www.elmundoeats.com/homemade-roti-canai/",
     "site": "El Mundo Eats",
     "retrieved": "2026-07-17",
-    "adaptation": "Lamination butter quantity beyond the dough itself estimated at roughly 100 g across 10 pieces, since the source calls for 'additional butter for coating and cooking' without a fixed amount."
+    "adaptation": {
+      "en": "Lamination butter quantity beyond the dough itself estimated at roughly 100 g across 10 pieces, since the source calls for 'additional butter for coating and cooking' without a fixed amount."
+    }
   },
   "tags": [
     "laminated",

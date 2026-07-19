@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Louisiana (New Orleans)",
-    "note": "Descends from the French Catholic Epiphany treat galette des rois, carried to Louisiana by French colonists. Twentieth-century New Orleans bakeries recast it into today's cinnamon-and-icing Carnival ring, distinct from both galette des rois and brioche."
+    "region": {
+      "en": "Louisiana (New Orleans)"
+    },
+    "note": {
+      "en": "Descends from the French Catholic Epiphany treat galette des rois, carried to Louisiana by French colonists. Twentieth-century New Orleans bakeries recast it into today's cinnamon-and-icing Carnival ring, distinct from both galette des rois and brioche."
+    }
   },
   "leaven": "yeast",
   "family": "ring",
@@ -47,7 +51,9 @@
     {
       "key": "water",
       "grams": 59,
-      "note": "warm, for blooming the yeast"
+      "note": {
+        "en": "warm, for blooming the yeast"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -56,17 +62,23 @@
     {
       "key": "milk",
       "grams": 60,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "butter",
       "grams": 113,
-      "note": "softened, for the dough"
+      "note": {
+        "en": "softened, for the dough"
+      }
     },
     {
       "key": "sugar",
       "grams": 25,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "salt",
@@ -75,22 +87,30 @@
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 eggs"
+      "note": {
+        "en": "2 eggs"
+      }
     },
     {
       "key": "butter",
       "grams": 57,
-      "note": "melted, for the cinnamon filling"
+      "note": {
+        "en": "melted, for the cinnamon filling"
+      }
     },
     {
       "key": "brown-sugar",
       "grams": 67,
-      "note": "packed light brown, for the filling"
+      "note": {
+        "en": "packed light brown, for the filling"
+      }
     },
     {
       "key": "cinnamon",
       "grams": 4,
-      "note": "for the filling"
+      "note": {
+        "en": "for the filling"
+      }
     },
     {
       "label": {
@@ -105,12 +125,16 @@
     {
       "key": "sugar",
       "grams": 120,
-      "note": "powdered sugar, whisked with milk into the icing"
+      "note": {
+        "en": "powdered sugar, whisked with milk into the icing"
+      }
     },
     {
       "key": "milk",
       "grams": 22,
-      "note": "for the icing glaze"
+      "note": {
+        "en": "for the icing glaze"
+      }
     },
     {
       "label": {
@@ -125,7 +149,9 @@
     {
       "key": "sugar",
       "grams": 30,
-      "note": "colored purple, green and gold, for dusting on top"
+      "note": {
+        "en": "colored purple, green and gold, for dusting on top"
+      }
     },
     {
       "label": {
@@ -136,13 +162,17 @@
         "ro": "figurină de bebeluș din plastic"
       },
       "grams": 5,
-      "note": "traditional trinket tucked in from underneath after baking; inedible, optional"
+      "note": {
+        "en": "traditional trinket tucked in from underneath after baking; inedible, optional"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 960,
-    "shape": "one large oval/ring, serves 12-15"
+    "shape": {
+      "en": "one large oval/ring, serves 12-15"
+    }
   },
   "time": {
     "totalMin": 270,
@@ -184,7 +214,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the day it's iced; the enriched dough dries faster than a lean loaf, though it holds a couple of days well wrapped."
+    "note": {
+      "en": "Best the day it's iced; the enriched dough dries faster than a lean loaf, though it holds a couple of days well wrapped."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -308,7 +340,9 @@
     "url": "https://girlraisedinthesouth.com/authentic-king-cake-mardi-gras/",
     "site": "Girl Raised in the South",
     "retrieved": "2026-07-17",
-    "adaptation": "Flour picked from source's 3–3½ cup range (used 3 cups) for typical hydration. Icing, decorative sugar and the baby figurine excluded from formula %s as post-bake additions."
+    "adaptation": {
+      "en": "Flour picked from source's 3–3½ cup range (used 3 cups) for typical hydration. Icing, decorative sugar and the baby figurine excluded from formula %s as post-bake additions."
+    }
   },
   "tags": [
     "mardi-gras",

@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "New York City, Lower East Side",
-    "note": "Brought by Eastern European Jewish immigrants (Poland, Russia, Ukraine) in the late 1800s; the light rye and caraway profile is a New York adaptation of older European rye traditions."
+    "region": {
+      "en": "New York City, Lower East Side"
+    },
+    "note": {
+      "en": "Brought by Eastern European Jewish immigrants (Poland, Russia, Ukraine) in the late 1800s; the light rye and caraway profile is a New York adaptation of older European rye traditions."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -46,32 +50,44 @@
     {
       "key": "sourdough-starter",
       "grams": 14,
-      "note": "ripe starter, to build the rye sour"
+      "note": {
+        "en": "ripe starter, to build the rye sour"
+      }
     },
     {
       "key": "flour:rye-whole",
       "grams": 237,
-      "note": "pumpernickel-style whole rye, for the rye sour"
+      "note": {
+        "en": "pumpernickel-style whole rye, for the rye sour"
+      }
     },
     {
       "key": "water",
       "grams": 198,
-      "note": "for the rye sour"
+      "note": {
+        "en": "for the rye sour"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 420,
-      "note": "bread or all-purpose flour, for the final dough"
+      "note": {
+        "en": "bread or all-purpose flour, for the final dough"
+      }
     },
     {
       "key": "water",
       "grams": 241,
-      "note": "for the final dough"
+      "note": {
+        "en": "for the final dough"
+      }
     },
     {
       "key": "caraway",
       "grams": 8,
-      "note": "whole seeds plus a pinch ground"
+      "note": {
+        "en": "whole seeds plus a pinch ground"
+      }
     },
     {
       "key": "salt",
@@ -85,7 +101,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1133,
-    "shape": "plump oval hearth loaf, caraway-topped"
+    "shape": {
+      "en": "plump oval hearth loaf, caraway-topped"
+    }
   },
   "time": {
     "totalMin": 960,
@@ -125,7 +143,9 @@
   "keeping": {
     "freshDays": 5,
     "freezes": true,
-    "note": "Improves after a day; wrap tightly since rye dries out fast once cut."
+    "note": {
+      "en": "Improves after a day; wrap tightly since rye dries out fast once cut."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -232,7 +252,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/jewish-rye-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Traditional old-bread soaker (altus) omitted for a cleaner formula; caraway and rye-sour ratios kept as sourced."
+    "adaptation": {
+      "en": "Traditional old-bread soaker (altus) omitted for a cleaner formula; caraway and rye-sour ratios kept as sourced."
+    }
   },
   "tags": [
     "deli",

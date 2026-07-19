@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Navajo Nation, American Southwest",
-    "note": "Created from the flour, lard and salt rations forced on the Navajo during the 1864 Long Walk relocation; a food of survival now claimed across many Native nations, and debated as a symbol of both resilience and colonization."
+    "region": {
+      "en": "Navajo Nation, American Southwest"
+    },
+    "note": {
+      "en": "Created from the flour, lard and salt rations forced on the Navajo during the 1864 Long Walk relocation; a food of survival now claimed across many Native nations, and debated as a symbol of both resilience and colonization."
+    }
   },
   "leaven": "chemical",
   "family": "fried",
@@ -53,7 +57,9 @@
     {
       "key": "vegetable-oil",
       "grams": 26,
-      "note": "shortening, lard or oil in the dough, optional"
+      "note": {
+        "en": "shortening, lard or oil in the dough, optional"
+      }
     },
     {
       "key": "water",
@@ -62,13 +68,17 @@
     {
       "key": "vegetable-oil",
       "grams": 70,
-      "note": "for deep-frying; amount absorbed is estimated"
+      "note": {
+        "en": "for deep-frying; amount absorbed is estimated"
+      }
     }
   ],
   "yield": {
     "count": 7,
     "pieceGrams": 75,
-    "shape": "thin round or oval, deep-fried, 15-20 cm"
+    "shape": {
+      "en": "thin round or oval, deep-fried, 15-20 cm"
+    }
   },
   "time": {
     "totalMin": 86,
@@ -106,7 +116,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best eaten within minutes of frying, puffed and hot; turns tough and greasy once cold. The raw dough rounds freeze well for frying later."
+    "note": {
+      "en": "Best eaten within minutes of frying, puffed and hot; turns tough and greasy once cold. The raw dough rounds freeze well for frying later."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -213,7 +225,9 @@
     "url": "https://www.inthekitchenwithmatt.com/indian-fry-bread",
     "site": "In The Kitchen With Matt",
     "retrieved": "2026-07-17",
-    "adaptation": "Oil absorbed during frying estimated at roughly 10 g per piece and listed separately from the dough's own optional fat."
+    "adaptation": {
+      "en": "Oil absorbed during frying estimated at roughly 10 g per piece and listed separately from the dough's own optional fat."
+    }
   },
   "tags": [
     "survival-food",

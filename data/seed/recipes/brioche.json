@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national, especially Normandy and Île-de-France",
-    "note": "A centuries-old enriched bread, standardized into its modern buttery form by 19th-century Parisian pâtissiers-boulangers."
+    "region": {
+      "en": "national, especially Normandy and Île-de-France"
+    },
+    "note": {
+      "en": "A centuries-old enriched bread, standardized into its modern buttery form by 19th-century Parisian pâtissiers-boulangers."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -43,17 +47,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "T45"
+      "note": {
+        "en": "T45"
+      }
     },
     {
       "key": "egg",
       "grams": 300,
-      "note": "about 5 eggs"
+      "note": {
+        "en": "about 5 eggs"
+      }
     },
     {
       "key": "butter",
       "grams": 250,
-      "note": "room temperature"
+      "note": {
+        "en": "room temperature"
+      }
     },
     {
       "key": "sugar",
@@ -71,7 +81,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1050,
-    "shape": "brioche Nanterre (loaf mold)"
+    "shape": {
+      "en": "brioche Nanterre (loaf mold)"
+    }
   },
   "time": {
     "totalMin": 1010,
@@ -111,7 +123,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the first day or two; wonderful toasted or turned into pain perdu afterward."
+    "note": {
+      "en": "Best the first day or two; wonderful toasted or turned into pain perdu afterward."
+    }
   },
   "equipment": [
     "stand-mixer",

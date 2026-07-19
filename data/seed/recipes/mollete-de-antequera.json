@@ -16,8 +16,12 @@
   },
   "origin": {
     "country": "ES",
-    "region": "Antequera, Málaga, Andalusia",
-    "note": "IGP since 2020; deliberately underbaked so the crust stays pale and soft rather than crisp, the opposite goal of most bread."
+    "region": {
+      "en": "Antequera, Málaga, Andalusia"
+    },
+    "note": {
+      "en": "IGP since 2020; deliberately underbaked so the crust stays pale and soft rather than crisp, the opposite goal of most bread."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -41,12 +45,16 @@
     {
       "key": "flour:durum",
       "grams": 100,
-      "note": "semolina"
+      "note": {
+        "en": "semolina"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 400,
-      "note": "250 g bread flour plus 150 g hard wheat flour"
+      "note": {
+        "en": "250 g bread flour plus 150 g hard wheat flour"
+      }
     },
     {
       "key": "olive-oil",
@@ -63,13 +71,17 @@
     {
       "key": "instant-yeast",
       "grams": 2,
-      "note": "lyophilized (freeze-dried) yeast"
+      "note": {
+        "en": "lyophilized (freeze-dried) yeast"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 110,
-    "shape": "flattened oval roll, pale and barely colored"
+    "shape": {
+      "en": "flattened oval roll, pale and barely colored"
+    }
   },
   "time": {
     "totalMin": 219,
@@ -108,7 +120,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Meant to be soft and barely baked; day-old molletes are traditionally split and toasted rather than eaten fresh."
+    "note": {
+      "en": "Meant to be soft and barely baked; day-old molletes are traditionally split and toasted rather than eaten fresh."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -215,7 +229,9 @@
     "url": "https://invitadoinvierno.com/molletes-antequera/",
     "site": "El Invitado de Invierno",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams as published for an 8-roll batch; olive oil converted from 50 ml using standard olive oil density."
+    "adaptation": {
+      "en": "Grams as published for an 8-roll batch; olive oil converted from 50 ml using standard olive oil density."
+    }
   },
   "tags": [
     "igp",

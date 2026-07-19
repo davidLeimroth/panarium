@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Adria, Veneto (Rovigo province)",
-    "note": "Trademarked in 1982 by baker-miller Arnaldo Cavallari as 'Ciabatta Italia', created to defend Italian sandwich bread against the encroaching French baguette."
+    "region": {
+      "en": "Adria, Veneto (Rovigo province)"
+    },
+    "note": {
+      "en": "Trademarked in 1982 by baker-miller Arnaldo Cavallari as 'Ciabatta Italia', created to defend Italian sandwich bread against the encroaching French baguette."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -49,7 +53,9 @@
     {
       "key": "fresh-yeast",
       "grams": 7,
-      "note": "2 g in the poolish, 5 g in the final dough"
+      "note": {
+        "en": "2 g in the poolish, 5 g in the final dough"
+      }
     },
     {
       "key": "salt",
@@ -59,7 +65,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 458,
-    "shape": "flattened slipper-shaped loaf"
+    "shape": {
+      "en": "flattened slipper-shaped loaf"
+    }
   },
   "time": {
     "totalMin": 1170,
@@ -98,7 +106,9 @@
   "keeping": {
     "freshDays": 1.5,
     "freezes": true,
-    "note": "Best the day it's baked; the thin crust turns chewy fast in humid air, but sliced loaves freeze and toast back to life."
+    "note": {
+      "en": "Best the day it's baked; the thin crust turns chewy fast in humid air, but sliced loaves freeze and toast back to life."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -189,7 +199,9 @@
     "url": "https://biancolievito.it/en/ciabatta-bread-with-high-hydration/",
     "site": "Biancolievito",
     "retrieved": "2026-07-17",
-    "adaptation": "Formula follows this site's poolish method at 80% hydration; the original 1982 Cavallari trademark recipe used a stiffer 70% biga."
+    "adaptation": {
+      "en": "Formula follows this site's poolish method at 80% hydration; the original 1982 Cavallari trademark recipe used a stiffer 70% biga."
+    }
   },
   "tags": [
     "poolish",

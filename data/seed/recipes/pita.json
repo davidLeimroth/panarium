@@ -23,8 +23,12 @@
   },
   "origin": {
     "country": "LB",
-    "region": "Levant (Eastern Mediterranean)",
-    "note": "Claimed across Lebanon, Syria, Jordan and Palestine as a daily bread; the international name 'pita' comes from Modern Greek, while the ancestral pocket flatbread is much older Middle Eastern baking."
+    "region": {
+      "en": "Levant (Eastern Mediterranean)"
+    },
+    "note": {
+      "en": "Claimed across Lebanon, Syria, Jordan and Palestine as a daily bread; the international name 'pita' comes from Modern Greek, while the ancestral pocket flatbread is much older Middle Eastern baking."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -44,12 +48,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "water",
       "grams": 300,
-      "note": "warm; 100g used to bloom the yeast"
+      "note": {
+        "en": "warm; 100g used to bloom the yeast"
+      }
     },
     {
       "key": "salt",
@@ -63,7 +71,9 @@
   "yield": {
     "count": 8,
     "pieceGrams": 102,
-    "shape": "round pocket flatbread"
+    "shape": {
+      "en": "round pocket flatbread"
+    }
   },
   "time": {
     "totalMin": 255,
@@ -102,7 +112,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best warm the same day; store airtight and reheat on a dry skillet. Refrigerates about a week; freezes well."
+    "note": {
+      "en": "Best warm the same day; store airtight and reheat on a dry skillet. Refrigerates about a week; freezes well."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -225,7 +237,9 @@
     "url": "https://waleedasadi.com/p/authentic-levantine-pita-bread",
     "site": "Waleed Asadi",
     "retrieved": "2026-07-17",
-    "adaptation": "Ratios and timings taken directly from a single home baker's Levantine recipe; rounded for baker's percentages."
+    "adaptation": {
+      "en": "Ratios and timings taken directly from a single home baker's Levantine recipe; rounded for baker's percentages."
+    }
   },
   "tags": [
     "levant",

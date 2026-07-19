@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "MY",
-    "region": "Malaysia (also Singapore and Indonesia)",
-    "note": "Also called roti kirai or jala roti; its net pattern is named directly after fishing nets (jala)."
+    "region": {
+      "en": "Malaysia (also Singapore and Indonesia)"
+    },
+    "note": {
+      "en": "Also called roti kirai or jala roti; its net pattern is named directly after fishing nets (jala)."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -79,7 +83,9 @@
   "yield": {
     "count": 16,
     "pieceGrams": 49,
-    "shape": "thin lacy net crepe, ~20 cm, folded into quarters or rolled"
+    "shape": {
+      "en": "thin lacy net crepe, ~20 cm, folded into quarters or rolled"
+    }
   },
   "time": {
     "totalMin": 55,
@@ -117,7 +123,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best fresh and pliable; stack cooled crepes between parchment to prevent tearing, and freeze for later reheating."
+    "note": {
+      "en": "Best fresh and pliable; stack cooled crepes between parchment to prevent tearing, and freeze for later reheating."
+    }
   },
   "equipment": [
     "griddle"
@@ -224,7 +232,9 @@
     "url": "https://tasteasianfood.com/how-to-make-roti-jala/",
     "site": "Taste of Asian Food",
     "retrieved": "2026-07-18",
-    "adaptation": "Coconut cream's water content estimated at roughly 68% for hydration purposes, matching this atlas's dairy convention; oil used only to grease the pan and omitted as negligible."
+    "adaptation": {
+      "en": "Coconut cream's water content estimated at roughly 68% for hydration purposes, matching this atlas's dairy convention; oil used only to grease the pan and omitted as negligible."
+    }
   },
   "tags": [
     "malay",

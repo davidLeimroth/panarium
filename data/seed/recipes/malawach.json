@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "YE",
-    "region": "Yemen; now central to Israeli cuisine via Yemenite Jewish immigration",
-    "note": "Brought to Israel by Yemenite Jewish immigrants in the 20th century; now sold frozen in Israeli supermarkets as a breakfast staple."
+    "region": {
+      "en": "Yemen; now central to Israeli cuisine via Yemenite Jewish immigration"
+    },
+    "note": {
+      "en": "Brought to Israel by Yemenite Jewish immigrants in the 20th century; now sold frozen in Israeli supermarkets as a breakfast staple."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -54,18 +58,24 @@
     {
       "key": "water",
       "grams": 475,
-      "note": "boiling"
+      "note": {
+        "en": "boiling"
+      }
     },
     {
       "key": "butter",
       "grams": 113,
-      "note": "for laminating between folds; recipe also allows oil or margarine"
+      "note": {
+        "en": "for laminating between folds; recipe also allows oil or margarine"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 129,
-    "shape": "thin laminated square or coiled disc, pan-fried"
+    "shape": {
+      "en": "thin laminated square or coiled disc, pan-fried"
+    }
   },
   "time": {
     "totalMin": 340,
@@ -103,7 +113,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Traditionally rolled, laminated and frozen uncooked in stacks, frozen malawach is a common Israeli grocery staple, then pan-fried straight from frozen. Cooked malawach is best fresh and hot."
+    "note": {
+      "en": "Traditionally rolled, laminated and frozen uncooked in stacks, frozen malawach is a common Israeli grocery staple, then pan-fried straight from frozen. Cooked malawach is best fresh and hot."
+    }
   },
   "equipment": [
     "skillet"
@@ -210,7 +222,9 @@
     "url": "https://www.laboiteny.com/blogs/recipes/homemade-malawach",
     "site": "La Boîte",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt corrected to a standard 12 g (2 tsp) since the source's own stated 30 g figure for 2 teaspoons of salt was inconsistent with standard salt density."
+    "adaptation": {
+      "en": "Salt corrected to a standard 12 g (2 tsp) since the source's own stated 30 g figure for 2 teaspoons of salt was inconsistent with standard salt density."
+    }
   },
   "tags": [
     "laminated",

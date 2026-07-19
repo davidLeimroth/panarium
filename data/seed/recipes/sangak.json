@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "IR",
-    "region": "Iran (nationwide, especially Tehran bakeries)",
-    "note": "The name means 'little stone' in Farsi, from the river-pebble baking surface; widely regarded as Iran's national bread."
+    "region": {
+      "en": "Iran (nationwide, especially Tehran bakeries)"
+    },
+    "note": {
+      "en": "The name means 'little stone' in Farsi, from the river-pebble baking surface; widely regarded as Iran's national bread."
+    }
   },
   "leaven": "sourdough",
   "family": "flatbread",
@@ -55,7 +59,9 @@
     {
       "key": "sourdough-starter",
       "grams": 90,
-      "note": "active starter, assumed ~100% hydration"
+      "note": {
+        "en": "active starter, assumed ~100% hydration"
+      }
     },
     {
       "key": "water",
@@ -72,18 +78,24 @@
     {
       "key": "olive-oil",
       "grams": 14,
-      "note": "for kneading in and for oiling hands to dimple"
+      "note": {
+        "en": "for kneading in and for oiling hands to dimple"
+      }
     },
     {
       "key": "sesame-seeds",
       "grams": 10,
-      "note": "pressed into the dimples before baking"
+      "note": {
+        "en": "pressed into the dimples before baking"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 409,
-    "shape": "long thin dimpled sheet (traditionally up to 1 m)"
+    "shape": {
+      "en": "long thin dimpled sheet (traditionally up to 1 m)"
+    }
   },
   "time": {
     "totalMin": 215,
@@ -123,7 +135,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best the day it's baked, still warm; store airtight to slow staling, and freeze for longer keeping."
+    "note": {
+      "en": "Best the day it's baked, still warm; store airtight to slow staling, and freeze for longer keeping."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -246,7 +260,9 @@
     "url": "https://www.proportionalplate.com/sangak/",
     "site": "Proportional Plate",
     "retrieved": "2026-07-17",
-    "adaptation": "Hydration and preferment % recalculated to include the starter's own flour and water, per baker's-percentage convention; starter assumed ~100% hydration since the source didn't specify."
+    "adaptation": {
+      "en": "Hydration and preferment % recalculated to include the starter's own flour and water, per baker's-percentage convention; starter assumed ~100% hydration since the source didn't specify."
+    }
   },
   "tags": [
     "sourdough",

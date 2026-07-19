@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "Spelt has deep Central European roots, but this long-fermented, high-hydration treatment is a contemporary artisan-bakery formula."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "Spelt has deep Central European roots, but this long-fermented, high-hydration treatment is a contemporary artisan-bakery formula."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -48,17 +52,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 381,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 286,
-      "note": "high-extraction (Type 85-style) flour"
+      "note": {
+        "en": "high-extraction (Type 85-style) flour"
+      }
     },
     {
       "key": "flour:spelt-whole",
       "grams": 285,
-      "note": "freshly milled"
+      "note": {
+        "en": "freshly milled"
+      }
     },
     {
       "key": "water",
@@ -76,7 +86,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "boule or bâtard"
+    "shape": {
+      "en": "boule or bâtard"
+    }
   },
   "time": {
     "totalMin": 1650,
@@ -254,7 +266,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
-    "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown; only the levain fraction actually used in the dough is counted, prorated from the full build."
+    "adaptation": {
+      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown; only the levain fraction actually used in the dough is counted, prorated from the full build."
+    }
   },
   "tags": [
     "spelt",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "KE",
-    "region": "Tanzania and Uganda (Swahili coast and East African interior)",
-    "note": "Known as mahamri on the Swahili coast when made with coconut milk; a beloved teatime and breakfast snack across East Africa."
+    "region": {
+      "en": "Tanzania and Uganda (Swahili coast and East African interior)"
+    },
+    "note": {
+      "en": "Known as mahamri on the Swahili coast when made with coconut milk; a beloved teatime and breakfast snack across East Africa."
+    }
   },
   "leaven": "yeast",
   "family": "fried",
@@ -48,7 +52,9 @@
     {
       "key": "water",
       "grams": 60,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "label": {
@@ -89,23 +95,31 @@
     {
       "key": "cardamom",
       "grams": 2,
-      "note": "crushed"
+      "note": {
+        "en": "crushed"
+      }
     },
     {
       "key": "cinnamon",
       "grams": 1,
-      "note": "or grated nutmeg"
+      "note": {
+        "en": "or grated nutmeg"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 70,
-      "note": "absorbed during frying"
+      "note": {
+        "en": "absorbed during frying"
+      }
     }
   ],
   "yield": {
     "count": 15,
     "pieceGrams": 51,
-    "shape": "triangles"
+    "shape": {
+      "en": "triangles"
+    }
   },
   "time": {
     "totalMin": 155,
@@ -145,7 +159,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Keeps a day or two at room temperature in an airtight container; best refreshed briefly in a warm oven."
+    "note": {
+      "en": "Keeps a day or two at room temperature in an airtight container; best refreshed briefly in a warm oven."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -252,7 +268,9 @@
     "url": "https://www.africanbites.com/mandazi-east-african-doughnuts/",
     "site": "Immaculate Bites",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tablespoon quantities converted to grams; frying oil absorbed into the dough estimated at 10% of the dough's weight."
+    "adaptation": {
+      "en": "Cup/tablespoon quantities converted to grams; frying oil absorbed into the dough estimated at 10% of the dough's weight."
+    }
   },
   "tags": [
     "street-food",

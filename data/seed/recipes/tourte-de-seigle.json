@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "Auvergne",
-    "note": "Rye was historically the reliable grain of Auvergne's cold volcanic highlands, where wheat struggled; the tourte was baked large and kept for weeks between village bakes."
+    "region": {
+      "en": "Auvergne"
+    },
+    "note": {
+      "en": "Rye was historically the reliable grain of Auvergne's cold volcanic highlands, where wheat struggled; the tourte was baked large and kept for weeks between village bakes."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -51,7 +55,9 @@
     {
       "key": "sourdough-starter",
       "grams": 600,
-      "note": "firm rye levain (levain dur)"
+      "note": {
+        "en": "firm rye levain (levain dur)"
+      }
     },
     {
       "key": "salt",
@@ -65,7 +71,9 @@
   "yield": {
     "count": 3,
     "pieceGrams": 700,
-    "shape": "flattish round tourte"
+    "shape": {
+      "en": "flattish round tourte"
+    }
   },
   "time": {
     "totalMin": 220,
@@ -105,7 +113,9 @@
   "keeping": {
     "freshDays": 10,
     "freezes": true,
-    "note": "A dense wholegrain rye levain loaf that traditionally kept village families going for a week or two between bakes."
+    "note": {
+      "en": "A dense wholegrain rye levain loaf that traditionally kept village families going for a week or two between bakes."
+    }
   },
   "equipment": [
     "banneton",
@@ -213,7 +223,9 @@
     "url": "https://www.thuriesmagazine.fr/fr/recettes/pain-de-seigle-auvergnat",
     "site": "Thuriès Magazine",
     "retrieved": "2026-07-17",
-    "adaptation": "Firm levain's flour/water content estimated at roughly 2:1 flour:water and folded into the total baker's percentages."
+    "adaptation": {
+      "en": "Firm levain's flour/water content estimated at roughly 2:1 flour:water and folded into the total baker's percentages."
+    }
   },
   "tags": [
     "seigle",

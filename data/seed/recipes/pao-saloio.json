@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "PT",
-    "region": "Greater Lisbon (Saloia farm belt)",
-    "note": "'Saloio' names the smallholder farmers who historically supplied Lisbon with bread, produce and dairy from the surrounding countryside."
+    "region": {
+      "en": "Greater Lisbon (Saloia farm belt)"
+    },
+    "note": {
+      "en": "'Saloio' names the smallholder farmers who historically supplied Lisbon with bread, produce and dairy from the surrounding countryside."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -42,7 +46,9 @@
     {
       "key": "water",
       "grams": 340,
-      "note": "mineral water"
+      "note": {
+        "en": "mineral water"
+      }
     },
     {
       "key": "salt",
@@ -56,7 +62,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 951,
-    "shape": "round boule"
+    "shape": {
+      "en": "round boule"
+    }
   },
   "time": {
     "totalMin": 1779,
@@ -95,7 +103,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "A long cold ferment gives real sourdough depth and decent keeping power for a few days."
+    "note": {
+      "en": "A long cold ferment gives real sourdough depth and decent keeping power for a few days."
+    }
   },
   "equipment": [
     "banneton",
@@ -203,7 +213,9 @@
     "url": "https://cozinhaalacarte.pt/receita/pao-de-trigo-saloio/",
     "site": "Cozinha à la Carte",
     "retrieved": "2026-07-17",
-    "adaptation": "Starter assumed roughly 100% hydration to split into total-flour percentages."
+    "adaptation": {
+      "en": "Starter assumed roughly 100% hydration to split into total-flour percentages."
+    }
   },
   "tags": [
     "cold-retard",

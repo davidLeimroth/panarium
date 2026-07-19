@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "A Mediterranean-leaning mix-in on the standard American artisan sourdough base, not tied to a single olive-growing region."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "A Mediterranean-leaning mix-in on the standard American artisan sourdough base, not tied to a single olive-growing region."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -45,7 +49,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 646,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -87,7 +93,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 900,
-    "shape": "batard or boule"
+    "shape": {
+      "en": "batard or boule"
+    }
   },
   "time": {
     "totalMin": 1605,
@@ -266,7 +274,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
-    "adaptation": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base per house convention (the source's own published percentages exclude it)."
+    "adaptation": {
+      "en": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base per house convention (the source's own published percentages exclude it)."
+    }
   },
   "tags": [
     "olive",

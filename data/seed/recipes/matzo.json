@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IL",
-    "region": "Jewish diaspora worldwide; ritually tied to ancient Egypt and Israel (Exodus)",
-    "note": "Strict ritual shmura matzah for Passover uses only flour and water, mixed and baked within 18 minutes to guarantee no fermentation; this version relaxes that constraint with oil and normal resting for year-round eating."
+    "region": {
+      "en": "Jewish diaspora worldwide; ritually tied to ancient Egypt and Israel (Exodus)"
+    },
+    "note": {
+      "en": "Strict ritual shmura matzah for Passover uses only flour and water, mixed and baked within 18 minutes to guarantee no fermentation; this version relaxes that constraint with oil and normal resting for year-round eating."
+    }
   },
   "leaven": "none",
   "family": "crispbread",
@@ -43,7 +47,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 150,
-      "note": "white bread flour"
+      "note": {
+        "en": "white bread flour"
+      }
     },
     {
       "key": "water",
@@ -56,18 +62,24 @@
     {
       "key": "salt",
       "grams": 3,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "salt",
       "grams": 2,
-      "note": "coarse, sprinkled on top before baking"
+      "note": {
+        "en": "coarse, sprinkled on top before baking"
+      }
     }
   ],
   "yield": {
     "count": 5,
     "pieceGrams": 48,
-    "shape": "thin hand-sized cracker, docked"
+    "shape": {
+      "en": "thin hand-sized cracker, docked"
+    }
   },
   "time": {
     "totalMin": 62,
@@ -106,7 +118,9 @@
   "keeping": {
     "freshDays": 30,
     "freezes": true,
-    "note": "Keeps for weeks in an airtight container at room temperature since it's baked bone-dry, exactly why it was chosen as the Passover bread, with no risk of ever leavening or spoiling."
+    "note": {
+      "en": "Keeps for weeks in an airtight container at room temperature since it's baked bone-dry, exactly why it was chosen as the Passover bread, with no risk of ever leavening or spoiling."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -229,7 +243,9 @@
     "url": "https://www.chainbaker.com/matzah/",
     "site": "ChainBaker",
     "retrieved": "2026-07-17",
-    "adaptation": "This version adds olive oil and normal resting for better home texture; strict ritual shmura matzah uses only flour and water, completed within 18 minutes with no resting at all."
+    "adaptation": {
+      "en": "This version adds olive oil and normal resting for better home texture; strict ritual shmura matzah uses only flour and water, completed within 18 minutes with no resting at all."
+    }
   },
   "tags": [
     "passover",

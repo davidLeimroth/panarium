@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "England, medieval through Tudor times",
-    "note": "From Old French miscelin, mixture. A co-sown wheat-and-rye crop grown as a hedge against crop failure; the bread it made sat below fine wheat Pandemain but above the coarsest peasant loaves in the medieval bread hierarchy."
+    "region": {
+      "en": "England, medieval through Tudor times"
+    },
+    "note": {
+      "en": "From Old French miscelin, mixture. A co-sown wheat-and-rye crop grown as a hedge against crop failure; the bread it made sat below fine wheat Pandemain but above the coarsest peasant loaves in the medieval bread hierarchy."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -54,22 +58,30 @@
     {
       "key": "flour:wheat-whole",
       "grams": 350,
-      "note": "stoneground wholemeal"
+      "note": {
+        "en": "stoneground wholemeal"
+      }
     },
     {
       "key": "flour:rye",
       "grams": 200,
-      "note": "stoneground"
+      "note": {
+        "en": "stoneground"
+      }
     },
     {
       "key": "flour:barley",
       "grams": 100,
-      "note": "stoneground"
+      "note": {
+        "en": "stoneground"
+      }
     },
     {
       "key": "water",
       "grams": 500,
-      "note": "part boiling, part cold, mixed to warm"
+      "note": {
+        "en": "part boiling, part cold, mixed to warm"
+      }
     },
     {
       "key": "salt",
@@ -78,13 +90,17 @@
     {
       "key": "sourdough-starter",
       "grams": 200,
-      "note": "active, 100% hydration"
+      "note": {
+        "en": "active, 100% hydration"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1200,
-    "shape": "round hearth loaf"
+    "shape": {
+      "en": "round hearth loaf"
+    }
   },
   "time": {
     "totalMin": 430,
@@ -245,7 +261,9 @@
     "url": "https://oakden.co.uk/maslin-bread-recipe/",
     "site": "Oakden",
     "retrieved": "2026-07-18",
-    "adaptation": "Sourdough option used (the source's own 'authentic' choice) over commercial yeast. Percentages include the starter's flour and water, assumed a 100%-hydration white-flour starter."
+    "adaptation": {
+      "en": "Sourdough option used (the source's own 'authentic' choice) over commercial yeast. Percentages include the starter's flour and water, assumed a 100%-hydration white-flour starter."
+    }
   },
   "tags": [
     "medieval",

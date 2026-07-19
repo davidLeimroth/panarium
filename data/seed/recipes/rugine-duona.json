@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "LT",
-    "region": "nationwide",
-    "note": "Rye has anchored Lithuanian daily bread for centuries; the malt scald and honey give the classic sweet-sour profile."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Rye has anchored Lithuanian daily bread for centuries; the malt scald and honey give the classic sweet-sour profile."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -46,7 +50,9 @@
     {
       "key": "flour:rye-whole",
       "grams": 450,
-      "note": "whole rye flour, split across sour, sponge and final dough"
+      "note": {
+        "en": "whole rye flour, split across sour, sponge and final dough"
+      }
     },
     {
       "key": "flour:wheat-white",
@@ -59,12 +65,16 @@
     {
       "key": "flour:rye-whole",
       "grams": 35,
-      "note": "red rye malt, for the scald"
+      "note": {
+        "en": "red rye malt, for the scald"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 10,
-      "note": "active rye sour"
+      "note": {
+        "en": "active rye sour"
+      }
     },
     {
       "key": "salt",
@@ -82,7 +92,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 900,
-    "shape": "oblong tin loaf"
+    "shape": {
+      "en": "oblong tin loaf"
+    }
   },
   "time": {
     "totalMin": 2950,
@@ -123,7 +135,9 @@
   "keeping": {
     "freshDays": 8,
     "freezes": true,
-    "note": "Needs a full day's rest minimum before slicing; keeps moist under wrap for over a week."
+    "note": {
+      "en": "Needs a full day's rest minimum before slicing; keeps moist under wrap for over a week."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -247,7 +261,9 @@
     "site": "The Rye Baker",
     "author": "Stanley Ginsberg",
     "retrieved": "2026-07-17",
-    "adaptation": "Prefermented-flour share not specified by the source and omitted; malt treated as an addition on top of the 500g flour base, consistent with the source's own percentage framing."
+    "adaptation": {
+      "en": "Prefermented-flour share not specified by the source and omitted; malt treated as an addition on top of the 500g flour base, consistent with the source's own percentage framing."
+    }
   },
   "tags": [
     "black-bread",

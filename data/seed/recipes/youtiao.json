@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "CN",
-    "region": "nationwide",
-    "note": "Regional cousins include Vietnam's quẩy, Myanmar's e-kya-kway and Thailand's pathongko, all deep-fried twin-stick doughs of the same basic idea."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Regional cousins include Vietnam's quẩy, Myanmar's e-kya-kway and Thailand's pathongko, all deep-fried twin-stick doughs of the same basic idea."
+    }
   },
   "leaven": "chemical",
   "family": "fried",
@@ -63,7 +67,9 @@
     {
       "key": "butter",
       "grams": 28,
-      "note": "softened, in the dough"
+      "note": {
+        "en": "softened, in the dough"
+      }
     },
     {
       "key": "water",
@@ -72,13 +78,17 @@
     {
       "key": "vegetable-oil",
       "grams": 50,
-      "note": "for deep-frying; amount absorbed is estimated"
+      "note": {
+        "en": "for deep-frying; amount absorbed is estimated"
+      }
     }
   ],
   "yield": {
     "count": 9,
     "pieceGrams": 55,
-    "shape": "twisted stick, deep-fried, ~23 cm (9 in) long"
+    "shape": {
+      "en": "twisted stick, deep-fried, ~23 cm (9 in) long"
+    }
   },
   "time": {
     "totalMin": 890,
@@ -117,7 +127,9 @@
   "keeping": {
     "freshDays": 0.5,
     "freezes": true,
-    "note": "Best eaten hot within an hour of frying, crisp outside and airy within; leftovers turn chewy but can be recrisped in a hot oven or air fryer."
+    "note": {
+      "en": "Best eaten hot within an hour of frying, crisp outside and airy within; leftovers turn chewy but can be recrisped in a hot oven or air fryer."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -224,7 +236,9 @@
     "url": "https://thewoksoflife.com/youtiao-recipe/",
     "site": "The Woks of Life",
     "retrieved": "2026-07-18",
-    "adaptation": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; water amount set at the midpoint of the source's given range."
+    "adaptation": {
+      "en": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; water amount set at the midpoint of the source's given range."
+    }
   },
   "tags": [
     "street-food",

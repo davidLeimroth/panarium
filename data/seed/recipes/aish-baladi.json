@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "EG",
-    "region": "nationwide",
-    "note": "Aish means both 'bread' and 'life' in Egyptian Arabic; government-subsidized baladi bread is a politically sensitive staple, and price changes have historically triggered unrest."
+    "region": {
+      "en": "nationwide"
+    },
+    "note": {
+      "en": "Aish means both 'bread' and 'life' in Egyptian Arabic; government-subsidized baladi bread is a politically sensitive staple, and price changes have historically triggered unrest."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -49,7 +53,9 @@
     {
       "key": "water",
       "grams": 296,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -76,13 +82,17 @@
         "ro": "tărâțe de grâu"
       },
       "grams": 13,
-      "note": "for dusting the work surface and coating the dough"
+      "note": {
+        "en": "for dusting the work surface and coating the dough"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 73,
-    "shape": "thin round pocket flatbread"
+    "shape": {
+      "en": "thin round pocket flatbread"
+    }
   },
   "time": {
     "totalMin": 170,
@@ -122,7 +132,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm the same day; once cooled it dries out quickly, so wrap airtight or freeze for later toasting."
+    "note": {
+      "en": "Best warm the same day; once cooled it dries out quickly, so wrap airtight or freeze for later toasting."
+    }
   },
   "equipment": [
     "baking-stone"
@@ -229,7 +241,9 @@
     "url": "https://www.mycookingjourney.com/aish-baladi-egyptian-flatbread-vegan-flatbread/",
     "site": "My Cooking Journey",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tablespoon quantities converted to grams; wheat bran treated as a coating/dusting ingredient rather than folded into the flour total, matching its use on the work surface."
+    "adaptation": {
+      "en": "Cup/tablespoon quantities converted to grams; wheat bran treated as a coating/dusting ingredient rather than folded into the flour total, matching its use on the work surface."
+    }
   },
   "tags": [
     "egyptian",

@@ -23,8 +23,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Dresden, Saxony",
-    "note": "\"Dresdner Stollen\" is a protected geographical term; countless regional versions exist across Germany, and many include a marzipan core."
+    "region": {
+      "en": "Dresden, Saxony"
+    },
+    "note": {
+      "en": "\"Dresdner Stollen\" is a protected geographical term; countless regional versions exist across Germany, and many include a marzipan core."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -54,7 +58,9 @@
     {
       "key": "milk",
       "grams": 170,
-      "note": "warm, to activate the yeast"
+      "note": {
+        "en": "warm, to activate the yeast"
+      }
     },
     {
       "key": "salt",
@@ -63,17 +69,23 @@
     {
       "key": "sugar",
       "grams": 95,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "almonds",
       "grams": 122,
-      "note": "mostly sweet almonds, a few bitter almonds for classic flavor"
+      "note": {
+        "en": "mostly sweet almonds, a few bitter almonds for classic flavor"
+      }
     },
     {
       "key": "butter",
       "grams": 250,
-      "note": "soft"
+      "note": {
+        "en": "soft"
+      }
     },
     {
       "label": {
@@ -84,12 +96,16 @@
         "ro": "unt clarifiat"
       },
       "grams": 50,
-      "note": "used alongside regular butter; higher smoke point and better keeping"
+      "note": {
+        "en": "used alongside regular butter; higher smoke point and better keeping"
+      }
     },
     {
       "key": "candied-citrus",
       "grams": 120,
-      "note": "lemon and orange peel (Zitronat/Orangeat)"
+      "note": {
+        "en": "lemon and orange peel (Zitronat/Orangeat)"
+      }
     },
     {
       "key": "lemon-zest",
@@ -98,7 +114,9 @@
     {
       "key": "raisins",
       "grams": 460,
-      "note": "sultanas, soaked in rum overnight"
+      "note": {
+        "en": "sultanas, soaked in rum overnight"
+      }
     },
     {
       "label": {
@@ -109,7 +127,9 @@
         "ro": "rom"
       },
       "grams": 40,
-      "note": "for soaking the sultanas"
+      "note": {
+        "en": "for soaking the sultanas"
+      }
     },
     {
       "label": {
@@ -124,28 +144,38 @@
     {
       "key": "vanilla",
       "grams": 2,
-      "note": "half a vanilla pod, scraped"
+      "note": {
+        "en": "half a vanilla pod, scraped"
+      }
     },
     {
       "key": "butter",
       "grams": 100,
-      "note": "clarified, for brushing after baking"
+      "note": {
+        "en": "clarified, for brushing after baking"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "coarse, for rolling the warm loaf"
+      "note": {
+        "en": "coarse, for rolling the warm loaf"
+      }
     },
     {
       "key": "sugar",
       "grams": 50,
-      "note": "powdered, for the final dusting"
+      "note": {
+        "en": "powdered, for the final dusting"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1800,
-    "shape": "folded oval loaf (Stollen)"
+    "shape": {
+      "en": "folded oval loaf (Stollen)"
+    }
   },
   "time": {
     "totalMin": 1020,
@@ -184,7 +214,9 @@
   "keeping": {
     "freshDays": 45,
     "freezes": true,
-    "note": "Improves for weeks, wrap tightly and let it mature at least 2–3 weeks before cutting; traditionally baked well ahead of Christmas."
+    "note": {
+      "en": "Improves for weeks, wrap tightly and let it mature at least 2–3 weeks before cutting; traditionally baked well ahead of Christmas."
+    }
   },
   "equipment": [
     "sheet-pan",
@@ -324,7 +356,9 @@
     "url": "https://www.sachsen-tourismus.de/blog/rezept-dresdner-christstollen",
     "site": "Sachsen Tourismus",
     "retrieved": "2026-07-17",
-    "adaptation": "Decoration sugars split into a rolling step and a dusting step; kept the sourced Butterschmalz (clarified butter, not meat lard) and bitter almonds as authentic details."
+    "adaptation": {
+      "en": "Decoration sugars split into a rolling step and a dusting step; kept the sourced Butterschmalz (clarified butter, not meat lard) and bitter almonds as authentic details."
+    }
   },
   "tags": [
     "christmas",

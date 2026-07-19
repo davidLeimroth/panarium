@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "United States (nationwide)",
-    "note": "Descends from Scandinavian immigrant sweet-bun baking (kin to Swedish kanelbullar) but grew larger, softer and more heavily iced into its own distinct American bakery-case identity."
+    "region": {
+      "en": "United States (nationwide)"
+    },
+    "note": {
+      "en": "Descends from Scandinavian immigrant sweet-bun baking (kin to Swedish kanelbullar) but grew larger, softer and more heavily iced into its own distinct American bakery-case identity."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -44,27 +48,37 @@
     {
       "key": "flour:wheat-white",
       "grams": 570,
-      "note": "bread or all-purpose flour, for the dough"
+      "note": {
+        "en": "bread or all-purpose flour, for the dough"
+      }
     },
     {
       "key": "milk",
       "grams": 250,
-      "note": "warm, for the dough"
+      "note": {
+        "en": "warm, for the dough"
+      }
     },
     {
       "key": "sugar",
       "grams": 100,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "key": "butter",
       "grams": 115,
-      "note": "softened, for the dough"
+      "note": {
+        "en": "softened, for the dough"
+      }
     },
     {
       "key": "salt",
@@ -77,17 +91,23 @@
     {
       "key": "butter",
       "grams": 115,
-      "note": "softened, for the filling"
+      "note": {
+        "en": "softened, for the filling"
+      }
     },
     {
       "key": "brown-sugar",
       "grams": 130,
-      "note": "packed, for the filling"
+      "note": {
+        "en": "packed, for the filling"
+      }
     },
     {
       "key": "cinnamon",
       "grams": 10,
-      "note": "ground, for the filling"
+      "note": {
+        "en": "ground, for the filling"
+      }
     },
     {
       "label": {
@@ -98,28 +118,38 @@
         "ro": "brânză cremă"
       },
       "grams": 115,
-      "note": "softened, for the icing"
+      "note": {
+        "en": "softened, for the icing"
+      }
     },
     {
       "key": "sugar",
       "grams": 120,
-      "note": "powdered/confectioners', for the icing"
+      "note": {
+        "en": "powdered/confectioners', for the icing"
+      }
     },
     {
       "key": "milk",
       "grams": 15,
-      "note": "or heavy cream, for the icing"
+      "note": {
+        "en": "or heavy cream, for the icing"
+      }
     },
     {
       "key": "vanilla",
       "grams": 2,
-      "note": "for the icing"
+      "note": {
+        "en": "for the icing"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 118,
-    "shape": "spiral-cut roll, iced"
+    "shape": {
+      "en": "spiral-cut roll, iced"
+    }
   },
   "time": {
     "totalMin": 870,
@@ -161,7 +191,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best day one; the cream cheese icing means leftovers should be refrigerated rather than left out."
+    "note": {
+      "en": "Best day one; the cream cheese icing means leftovers should be refrigerated rather than left out."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -285,7 +317,9 @@
     "url": "https://sallysbakingaddiction.com/overnight-cinnamon-rolls/",
     "site": "Sally's Baking Addiction",
     "retrieved": "2026-07-17",
-    "adaptation": "formula.* covers the dough only; the cinnamon-sugar filling and cream cheese icing are itemized but excluded from the percentages. Salt nudged up slightly from source for balance."
+    "adaptation": {
+      "en": "formula.* covers the dough only; the cinnamon-sugar filling and cream cheese icing are itemized but excluded from the percentages. Salt nudged up slightly from source for balance."
+    }
   },
   "tags": [
     "breakfast-pastry",

@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "SE",
-    "region": "Sweden (nationwide)",
-    "note": "A fika staple since the early 20th century; cardamom in the dough is considered essential, not a flourish. Distinct from, and ancestral in spirit to, the larger American cinnamon roll."
+    "region": {
+      "en": "Sweden (nationwide)"
+    },
+    "note": {
+      "en": "A fika staple since the early 20th century; cardamom in the dough is considered essential, not a flourish. Distinct from, and ancestral in spirit to, the larger American cinnamon roll."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -45,27 +49,37 @@
     {
       "key": "flour:wheat-white",
       "grams": 435,
-      "note": "for the dough"
+      "note": {
+        "en": "for the dough"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 25,
-      "note": "for the tangzhong (cooked flour-milk-water scald that softens the crumb)"
+      "note": {
+        "en": "for the tangzhong (cooked flour-milk-water scald that softens the crumb)"
+      }
     },
     {
       "key": "milk",
       "grams": 120,
-      "note": "lukewarm, for the dough"
+      "note": {
+        "en": "lukewarm, for the dough"
+      }
     },
     {
       "key": "milk",
       "grams": 75,
-      "note": "for the tangzhong"
+      "note": {
+        "en": "for the tangzhong"
+      }
     },
     {
       "key": "water",
       "grams": 75,
-      "note": "for the tangzhong"
+      "note": {
+        "en": "for the tangzhong"
+      }
     },
     {
       "key": "instant-yeast",
@@ -74,7 +88,9 @@
     {
       "key": "cardamom",
       "grams": 2,
-      "note": "green cardamom, freshly ground"
+      "note": {
+        "en": "green cardamom, freshly ground"
+      }
     },
     {
       "key": "salt",
@@ -87,32 +103,44 @@
     {
       "key": "egg",
       "grams": 50,
-      "note": "1 large egg"
+      "note": {
+        "en": "1 large egg"
+      }
     },
     {
       "key": "butter",
       "grams": 85,
-      "note": "melted, for the dough"
+      "note": {
+        "en": "melted, for the dough"
+      }
     },
     {
       "key": "butter",
       "grams": 70,
-      "note": "soft, for the filling"
+      "note": {
+        "en": "soft, for the filling"
+      }
     },
     {
       "key": "brown-sugar",
       "grams": 40,
-      "note": "for the filling"
+      "note": {
+        "en": "for the filling"
+      }
     },
     {
       "key": "cinnamon",
       "grams": 5,
-      "note": "for the filling"
+      "note": {
+        "en": "for the filling"
+      }
     },
     {
       "key": "egg",
       "grams": 20,
-      "note": "beaten, for the egg wash"
+      "note": {
+        "en": "beaten, for the egg wash"
+      }
     },
     {
       "label": {
@@ -123,13 +151,17 @@
         "ro": "zahăr perlat"
       },
       "grams": 25,
-      "note": "for the topping (pärlsocker)"
+      "note": {
+        "en": "for the topping (pärlsocker)"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 91,
-    "shape": "twisted knot"
+    "shape": {
+      "en": "twisted knot"
+    }
   },
   "time": {
     "totalMin": 195,
@@ -170,7 +202,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day they're baked since there's no icing to seal in moisture; freezes and reheats well."
+    "note": {
+      "en": "Best the day they're baked since there's no icing to seal in moisture; freezes and reheats well."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -294,7 +328,9 @@
     "url": "https://true-north-kitchen.com/swedish-cinnamon-buns/",
     "site": "True North Kitchen",
     "retrieved": "2026-07-17",
-    "adaptation": "Tangzhong (cooked flour-liquid scald) is counted into the dough total, not as a preferment since nothing ferments in it. formula.* excludes the filling, egg wash and pearl-sugar topping."
+    "adaptation": {
+      "en": "Tangzhong (cooked flour-liquid scald) is counted into the dough total, not as a preferment since nothing ferments in it. formula.* excludes the filling, egg wash and pearl-sugar topping."
+    }
   },
   "tags": [
     "fika",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FI",
-    "region": "Karelia",
-    "note": "First written mention dates to 1686; the rye crust once held barley or talkkuna fillings before rice porridge became standard."
+    "region": {
+      "en": "Karelia"
+    },
+    "note": {
+      "en": "First written mention dates to 1686; the rye crust once held barley or talkkuna fillings before rice porridge became standard."
+    }
   },
   "leaven": "none",
   "family": "roll",
@@ -50,27 +54,37 @@
     {
       "key": "flour:wheat-white",
       "grams": 50,
-      "note": "or spelt flour"
+      "note": {
+        "en": "or spelt flour"
+      }
     },
     {
       "key": "salt",
       "grams": 3,
-      "note": "in the crust"
+      "note": {
+        "en": "in the crust"
+      }
     },
     {
       "key": "water",
       "grams": 80,
-      "note": "in the crust"
+      "note": {
+        "en": "in the crust"
+      }
     },
     {
       "key": "butter",
       "grams": 15,
-      "note": "melted, in the crust"
+      "note": {
+        "en": "melted, in the crust"
+      }
     },
     {
       "key": "butter",
       "grams": 50,
-      "note": "for brushing after baking"
+      "note": {
+        "en": "for brushing after baking"
+      }
     },
     {
       "label": {
@@ -85,28 +99,38 @@
     {
       "key": "milk",
       "grams": 1000,
-      "note": "whole milk, for the rice filling"
+      "note": {
+        "en": "whole milk, for the rice filling"
+      }
     },
     {
       "key": "butter",
       "grams": 50,
-      "note": "in the rice filling"
+      "note": {
+        "en": "in the rice filling"
+      }
     },
     {
       "key": "egg",
       "grams": 200,
-      "note": "hard-boiled, for the egg butter (munavoi)"
+      "note": {
+        "en": "hard-boiled, for the egg butter (munavoi)"
+      }
     },
     {
       "key": "butter",
       "grams": 120,
-      "note": "softened, for the egg butter"
+      "note": {
+        "en": "softened, for the egg butter"
+      }
     }
   ],
   "yield": {
     "count": 9,
     "pieceGrams": 55,
-    "shape": "thin oval hand-pie with a pleated rye crust, about 13cm long"
+    "shape": {
+      "en": "thin oval hand-pie with a pleated rye crust, about 13cm long"
+    }
   },
   "time": {
     "totalMin": 110,
@@ -144,7 +168,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm the day of baking; reheat gently, or freeze unfilled crusts."
+    "note": {
+      "en": "Best warm the day of baking; reheat gently, or freeze unfilled crusts."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -267,7 +293,9 @@
     "url": "https://bake-street.com/en/karjalanpiirakka-or-karelian-pies/",
     "site": "Bake Street",
     "retrieved": "2026-07-17",
-    "adaptation": "Baker's percentages computed from the crust flour only; the rice filling and egg butter are listed as ingredients but excluded from the flour totals."
+    "adaptation": {
+      "en": "Baker's percentages computed from the crust flour only; the rice filling and egg butter are listed as ingredients but excluded from the flour totals."
+    }
   },
   "tags": [
     "karelia",

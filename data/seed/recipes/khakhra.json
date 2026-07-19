@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "Gujarat, western India",
-    "note": "Traditionally made from leftover roti dough to avoid waste; spiced versions add cumin, turmeric, chili powder or fenugreek (methi) leaves."
+    "region": {
+      "en": "Gujarat, western India"
+    },
+    "note": {
+      "en": "Traditionally made from leftover roti dough to avoid waste; spiced versions add cumin, turmeric, chili powder or fenugreek (methi) leaves."
+    }
   },
   "leaven": "none",
   "family": "crispbread",
@@ -54,13 +58,17 @@
     {
       "key": "water",
       "grams": 150,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 34,
-    "shape": "paper-thin roasted disc, 15-18 cm, cracker-crisp"
+    "shape": {
+      "en": "paper-thin roasted disc, 15-18 cm, cracker-crisp"
+    }
   },
   "time": {
     "totalMin": 95,
@@ -98,7 +106,9 @@
   "keeping": {
     "freshDays": 30,
     "freezes": false,
-    "note": "Its whole reason for being: keeps crisp for weeks in an airtight container at room temperature, no refrigeration needed."
+    "note": {
+      "en": "Its whole reason for being: keeps crisp for weeks in an airtight container at room temperature, no refrigeration needed."
+    }
   },
   "equipment": [
     "skillet"
@@ -205,7 +215,9 @@
     "url": "https://gujaratieats.com/regional-recepies/how-to-make-khakhra-recipe/",
     "site": "Gujarati Eats",
     "retrieved": "2026-07-18",
-    "adaptation": "Hydration recalibrated to a standard chapati ratio (~60%) since the source gave only a vague liquid amount; pieceGrams reduced from raw dough weight for moisture loss, as with knäckebröd."
+    "adaptation": {
+      "en": "Hydration recalibrated to a standard chapati ratio (~60%) since the source gave only a vague liquid amount; pieceGrams reduced from raw dough weight for moisture loss, as with knäckebröd."
+    }
   },
   "tags": [
     "gujarati",

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "South Tyrol / Alto Adige (Südtirol)",
-    "note": "A German-speaking Alpine province of Italy; Schüttelbrot is a historic farmhouse keeping-bread shared with neighboring North and East Tyrol in Austria."
+    "region": {
+      "en": "South Tyrol / Alto Adige (Südtirol)"
+    },
+    "note": {
+      "en": "A German-speaking Alpine province of Italy; Schüttelbrot is a historic farmhouse keeping-bread shared with neighboring North and East Tyrol in Austria."
+    }
   },
   "leaven": "yeast",
   "family": "crispbread",
@@ -46,12 +50,16 @@
     {
       "key": "flour:rye-whole",
       "grams": 900,
-      "note": "split between a yeasted pre-ferment and the main dough"
+      "note": {
+        "en": "split between a yeasted pre-ferment and the main dough"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 300,
-      "note": "Italian Tipo 1 flour"
+      "note": {
+        "en": "Italian Tipo 1 flour"
+      }
     },
     {
       "key": "water",
@@ -60,7 +68,9 @@
     {
       "key": "fresh-yeast",
       "grams": 42,
-      "note": "one full yeast cube, split across both stages"
+      "note": {
+        "en": "one full yeast cube, split across both stages"
+      }
     },
     {
       "key": "salt",
@@ -69,22 +79,30 @@
     {
       "key": "caraway",
       "grams": 2.5,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "key": "fennel-seed",
       "grams": 2.5,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "key": "anise",
       "grams": 2.5,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "key": "coriander-seed",
       "grams": 2.5,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "label": {
@@ -95,13 +113,17 @@
         "ro": "schinduf (Brotklee)"
       },
       "grams": 2.5,
-      "note": "ground; traditional Tyrolean spice-mix component"
+      "note": {
+        "en": "ground; traditional Tyrolean spice-mix component"
+      }
     }
   ],
   "yield": {
     "count": 12,
     "pieceGrams": 140,
-    "shape": "paper-thin rounds, shaken flat by hand"
+    "shape": {
+      "en": "paper-thin rounds, shaken flat by hand"
+    }
   },
   "time": {
     "totalMin": 210,
@@ -140,7 +162,9 @@
   "keeping": {
     "freshDays": 120,
     "freezes": false,
-    "note": "Baked hard and thin specifically to dry out fully, a keeping-bread built to last months in a dry pantry, not a fresh-eating loaf."
+    "note": {
+      "en": "Baked hard and thin specifically to dry out fully, a keeping-bread built to last months in a dry pantry, not a fresh-eating loaf."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -263,7 +287,9 @@
     "url": "https://www.pursuedtirol.com/de/ueber-uns/genussmagazin/suedtiroler-rezepte/suedtiroler-schuettelbrot-selber-machen",
     "site": "Pur Südtirol",
     "retrieved": "2026-07-17",
-    "adaptation": "Percentages computed from the stated gram/ml quantities; method paraphrased; the traditional wooden shaking board has no matching equipment enum value so only the baking pan is listed."
+    "adaptation": {
+      "en": "Percentages computed from the stated gram/ml quantities; method paraphrased; the traditional wooden shaking board has no matching equipment enum value so only the baking pan is listed."
+    }
   },
   "tags": [
     "suedtirol",

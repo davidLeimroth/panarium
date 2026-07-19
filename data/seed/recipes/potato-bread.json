@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IE",
-    "region": "Ireland and Northern Ireland",
-    "note": "Born from using up leftover boiled or mashed potato. The name farl comes from the Gaelic fardel, four parts, since the round is traditionally cut into quarters or sixths before frying; a centerpiece of the Ulster Fry breakfast."
+    "region": {
+      "en": "Ireland and Northern Ireland"
+    },
+    "note": {
+      "en": "Born from using up leftover boiled or mashed potato. The name farl comes from the Gaelic fardel, four parts, since the round is traditionally cut into quarters or sixths before frying; a centerpiece of the Ulster Fry breakfast."
+    }
   },
   "leaven": "none",
   "family": "flatbread",
@@ -46,12 +50,16 @@
     {
       "key": "mashed-potato",
       "grams": 650,
-      "note": "peeled potatoes, boiled and riced or sieved while hot, not raw mash"
+      "note": {
+        "en": "peeled potatoes, boiled and riced or sieved while hot, not raw mash"
+      }
     },
     {
       "key": "flour:wheat-white",
       "grams": 115,
-      "note": "plain/all-purpose flour"
+      "note": {
+        "en": "plain/all-purpose flour"
+      }
     },
     {
       "key": "salt",
@@ -70,13 +78,17 @@
     {
       "key": "butter",
       "grams": 57,
-      "note": "half worked into the dough, half for frying"
+      "note": {
+        "en": "half worked into the dough, half for frying"
+      }
     }
   ],
   "yield": {
     "count": 6,
     "pieceGrams": 139,
-    "shape": "triangular farl, cut from an 8 in round"
+    "shape": {
+      "en": "triangular farl, cut from an 8 in round"
+    }
   },
   "time": {
     "totalMin": 40,
@@ -113,7 +125,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best fresh and hot from the pan; leftovers reheat well fried, and uncooked farls freeze well between sheets of parchment."
+    "note": {
+      "en": "Best fresh and hot from the pan; leftovers reheat well fried, and uncooked farls freeze well between sheets of parchment."
+    }
   },
   "equipment": [
     "skillet"
@@ -204,7 +218,9 @@
     "url": "https://www.biggerbolderbaking.com/authentic-irish-potato-farls/",
     "site": "Bigger Bolder Baking",
     "retrieved": "2026-07-18",
-    "adaptation": "Boiled potato modeled as roughly 22% dry matter / 78% water to derive baker's percentages, since it fully replaces flour as the dough's main bulk here rather than acting as a minor addition."
+    "adaptation": {
+      "en": "Boiled potato modeled as roughly 22% dry matter / 78% water to derive baker's percentages, since it fully replaces flour as the dough's main bulk here rather than acting as a minor addition."
+    }
   },
   "tags": [
     "potato",

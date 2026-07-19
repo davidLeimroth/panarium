@@ -3,173 +3,827 @@
   "$id": "https://panarium.dev/schema/recipe.schema.json",
   "title": "Panarium Recipe",
   "type": "object",
-  "required": ["slug", "name", "description", "origin", "leaven", "family", "formula", "ingredients", "yield", "time", "bake", "difficulty", "crumb", "crust", "flavors", "purposes", "diet", "keeping", "method", "source"],
+  "required": [
+    "slug",
+    "name",
+    "description",
+    "origin",
+    "leaven",
+    "family",
+    "formula",
+    "ingredients",
+    "yield",
+    "time",
+    "bake",
+    "difficulty",
+    "crumb",
+    "crust",
+    "flavors",
+    "purposes",
+    "diet",
+    "keeping",
+    "method",
+    "source"
+  ],
   "additionalProperties": false,
   "properties": {
-    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "kebab-case id; must equal the filename without .json" },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "kebab-case id; must equal the filename without .json"
+    },
     "name": {
-      "type": "object", "required": ["en", "de", "es", "fr"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "en",
+        "de",
+        "es",
+        "fr"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "en": { "type": "string" }, "de": { "type": "string" }, "es": { "type": "string" }, "fr": { "type": "string" },
-        "ro": { "type": "string", "description": "optional Romanian translation, not yet populated across the corpus" },
-        "native": { "type": "string", "description": "name in its native language/script if different from all four" }
+        "en": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "es": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "ro": {
+          "type": "string",
+          "description": "optional Romanian translation, not yet populated across the corpus"
+        },
+        "native": {
+          "type": "string",
+          "description": "name in its native language/script if different from all four"
+        }
       }
     },
-    "aliases": { "type": "array", "items": { "type": "string" }, "maxItems": 8 },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 8
+    },
     "description": {
-      "type": "object", "required": ["en", "de", "es", "fr"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "en",
+        "de",
+        "es",
+        "fr"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "en": { "type": "string", "maxLength": 280 }, "de": { "type": "string", "maxLength": 280 },
-        "es": { "type": "string", "maxLength": 280 }, "fr": { "type": "string", "maxLength": 280 },
-        "ro": { "type": "string", "maxLength": 280, "description": "optional Romanian translation, not yet populated across the corpus" }
+        "en": {
+          "type": "string",
+          "maxLength": 280
+        },
+        "de": {
+          "type": "string",
+          "maxLength": 280
+        },
+        "es": {
+          "type": "string",
+          "maxLength": 280
+        },
+        "fr": {
+          "type": "string",
+          "maxLength": 280
+        },
+        "ro": {
+          "type": "string",
+          "maxLength": 280,
+          "description": "optional Romanian translation, not yet populated across the corpus"
+        }
       }
     },
     "origin": {
-      "type": "object", "required": ["country"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "country"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "country": { "type": "string", "pattern": "^[A-Z]{2}$" },
-        "region": { "type": "string" },
-        "note": { "type": "string", "maxLength": 300 }
-      }
-    },
-    "leaven": { "enum": ["sourdough", "yeast", "hybrid", "chemical", "none"] },
-    "family": { "enum": ["hearth-loaf", "pan-loaf", "baguette", "flatbread", "roll", "braid", "ring", "crispbread", "steamed", "fried", "quick", "sweet-loaf"] },
-    "doughType": { "enum": ["dough", "batter", "paste", "stiff"], "description": "optional: physical class of the unbaked mass; defaults to dough" },
-    "formula": {
-      "type": "object", "required": ["hydrationPct", "saltPct", "flours"], "additionalProperties": false,
-      "properties": {
-        "hydrationPct": { "type": "number", "minimum": 0, "maximum": 400 },
-        "saltPct": { "type": "number", "minimum": 0, "maximum": 8 },
-        "sugarPct": { "type": "number", "minimum": 0 },
-        "fatPct": { "type": "number", "minimum": 0 },
-        "prefermentedFlourPct": { "type": "number", "minimum": 0, "maximum": 100 },
-        "yeastPct": { "type": "number", "minimum": 0, "description": "instant yeast as baker's %" },
-        "flours": {
-          "type": "array", "minItems": 1,
-          "items": {
-            "type": "object", "required": ["type", "pct"], "additionalProperties": false,
-            "properties": {
-              "type": { "enum": ["wheat-white", "wheat-whole", "durum", "rye", "rye-whole", "spelt", "spelt-whole", "einkorn", "emmer", "khorasan", "barley", "oat", "corn", "rice", "buckwheat", "teff", "millet", "sorghum", "chickpea", "potato", "cassava", "other"] },
-              "pct": { "type": "number", "minimum": 0, "maximum": 100 }
+        "country": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$"
+        },
+        "region": {
+          "type": "object",
+          "required": [
+            "en"
+          ],
+          "additionalProperties": false,
+          "description": "region within the country; en REQUIRED, translations optional",
+          "properties": {
+            "en": {
+              "type": "string",
+              "maxLength": 120
+            },
+            "de": {
+              "type": "string",
+              "maxLength": 168
+            },
+            "es": {
+              "type": "string",
+              "maxLength": 168
+            },
+            "fr": {
+              "type": "string",
+              "maxLength": 168
+            },
+            "ro": {
+              "type": "string",
+              "maxLength": 168
             }
           }
         },
-        "confidence": { "enum": ["from-source", "estimated"] }
+        "note": {
+          "type": "object",
+          "required": [
+            "en"
+          ],
+          "additionalProperties": false,
+          "description": "origin note; en REQUIRED, translations optional",
+          "properties": {
+            "en": {
+              "type": "string",
+              "maxLength": 300
+            },
+            "de": {
+              "type": "string",
+              "maxLength": 420
+            },
+            "es": {
+              "type": "string",
+              "maxLength": 420
+            },
+            "fr": {
+              "type": "string",
+              "maxLength": 420
+            },
+            "ro": {
+              "type": "string",
+              "maxLength": 420
+            }
+          }
+        }
+      }
+    },
+    "leaven": {
+      "enum": [
+        "sourdough",
+        "yeast",
+        "hybrid",
+        "chemical",
+        "none"
+      ]
+    },
+    "family": {
+      "enum": [
+        "hearth-loaf",
+        "pan-loaf",
+        "baguette",
+        "flatbread",
+        "roll",
+        "braid",
+        "ring",
+        "crispbread",
+        "steamed",
+        "fried",
+        "quick",
+        "sweet-loaf"
+      ]
+    },
+    "doughType": {
+      "enum": [
+        "dough",
+        "batter",
+        "paste",
+        "stiff"
+      ],
+      "description": "optional: physical class of the unbaked mass; defaults to dough"
+    },
+    "formula": {
+      "type": "object",
+      "required": [
+        "hydrationPct",
+        "saltPct",
+        "flours"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "hydrationPct": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 400
+        },
+        "saltPct": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 8
+        },
+        "sugarPct": {
+          "type": "number",
+          "minimum": 0
+        },
+        "fatPct": {
+          "type": "number",
+          "minimum": 0
+        },
+        "prefermentedFlourPct": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "yeastPct": {
+          "type": "number",
+          "minimum": 0,
+          "description": "instant yeast as baker's %"
+        },
+        "flours": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "type",
+              "pct"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": {
+                "enum": [
+                  "wheat-white",
+                  "wheat-whole",
+                  "durum",
+                  "rye",
+                  "rye-whole",
+                  "spelt",
+                  "spelt-whole",
+                  "einkorn",
+                  "emmer",
+                  "khorasan",
+                  "barley",
+                  "oat",
+                  "corn",
+                  "rice",
+                  "buckwheat",
+                  "teff",
+                  "millet",
+                  "sorghum",
+                  "chickpea",
+                  "potato",
+                  "cassava",
+                  "other"
+                ]
+              },
+              "pct": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100
+              }
+            }
+          }
+        },
+        "confidence": {
+          "enum": [
+            "from-source",
+            "estimated"
+          ]
+        }
       }
     },
     "ingredients": {
-      "type": "array", "minItems": 2,
+      "type": "array",
+      "minItems": 2,
       "items": {
-        "type": "object", "required": ["grams"], "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "grams"
+        ],
+        "additionalProperties": false,
         "properties": {
-          "key": { "type": "string", "description": "ingredient key from TAXONOMY.md, e.g. water, salt, flour:wheat-white" },
-          "label": {
-            "type": "object", "required": ["en", "de", "es", "fr"], "additionalProperties": false,
-            "properties": { "en": { "type": "string" }, "de": { "type": "string" }, "es": { "type": "string" }, "fr": { "type": "string" }, "ro": { "type": "string", "description": "optional Romanian translation, not yet populated across the corpus" } }
+          "key": {
+            "type": "string",
+            "description": "ingredient key from TAXONOMY.md, e.g. water, salt, flour:wheat-white"
           },
-          "grams": { "type": "number", "minimum": 0 },
-          "note": { "type": "string", "maxLength": 120 }
+          "label": {
+            "type": "object",
+            "required": [
+              "en",
+              "de",
+              "es",
+              "fr"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "de": {
+                "type": "string"
+              },
+              "es": {
+                "type": "string"
+              },
+              "fr": {
+                "type": "string"
+              },
+              "ro": {
+                "type": "string",
+                "description": "optional Romanian translation, not yet populated across the corpus"
+              }
+            }
+          },
+          "grams": {
+            "type": "number",
+            "minimum": 0
+          },
+          "note": {
+            "type": "object",
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false,
+            "description": "ingredient note; en REQUIRED, translations optional",
+            "properties": {
+              "en": {
+                "type": "string",
+                "maxLength": 120
+              },
+              "de": {
+                "type": "string",
+                "maxLength": 168
+              },
+              "es": {
+                "type": "string",
+                "maxLength": 168
+              },
+              "fr": {
+                "type": "string",
+                "maxLength": 168
+              },
+              "ro": {
+                "type": "string",
+                "maxLength": 168
+              }
+            }
+          }
         }
       }
     },
     "yield": {
-      "type": "object", "required": ["count", "pieceGrams"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "count",
+        "pieceGrams"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "count": { "type": "integer", "minimum": 1 },
-        "pieceGrams": { "type": "number", "minimum": 10 },
-        "shape": { "type": "string", "maxLength": 60 }
+        "count": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "pieceGrams": {
+          "type": "number",
+          "minimum": 10
+        },
+        "shape": {
+          "type": "object",
+          "required": [
+            "en"
+          ],
+          "additionalProperties": false,
+          "description": "shape of the finished piece; en REQUIRED, translations optional",
+          "properties": {
+            "en": {
+              "type": "string",
+              "maxLength": 60
+            },
+            "de": {
+              "type": "string",
+              "maxLength": 84
+            },
+            "es": {
+              "type": "string",
+              "maxLength": 84
+            },
+            "fr": {
+              "type": "string",
+              "maxLength": 84
+            },
+            "ro": {
+              "type": "string",
+              "maxLength": 84
+            }
+          }
+        }
       }
     },
     "time": {
-      "type": "object", "required": ["totalMin", "activeMin", "bakeMin"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "totalMin",
+        "activeMin",
+        "bakeMin"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "totalMin": { "type": "number", "minimum": 5, "description": "first touch to cooled bread, incl. overnight rests" },
-        "activeMin": { "type": "number", "minimum": 2 },
-        "bulkMin": { "type": "number" },
-        "proofMin": { "type": "number" },
-        "bakeMin": { "type": "number", "minimum": 1 },
-        "overnight": { "type": "boolean" }
+        "totalMin": {
+          "type": "number",
+          "minimum": 5,
+          "description": "first touch to cooled bread, incl. overnight rests"
+        },
+        "activeMin": {
+          "type": "number",
+          "minimum": 2
+        },
+        "bulkMin": {
+          "type": "number"
+        },
+        "proofMin": {
+          "type": "number"
+        },
+        "bakeMin": {
+          "type": "number",
+          "minimum": 1
+        },
+        "overnight": {
+          "type": "boolean"
+        }
       }
     },
     "bake": {
-      "type": "object", "required": ["tempC", "vessel"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "tempC",
+        "vessel"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "tempC": { "type": "number", "minimum": 60, "maximum": 500 },
-        "steam": { "type": "boolean" },
-        "vessel": { "enum": ["dutch-oven", "stone", "steel", "loaf-pan", "sheet", "skillet", "griddle", "tandoor", "steamer", "fryer", "pot", "none"] }
+        "tempC": {
+          "type": "number",
+          "minimum": 60,
+          "maximum": 500
+        },
+        "steam": {
+          "type": "boolean"
+        },
+        "vessel": {
+          "enum": [
+            "dutch-oven",
+            "stone",
+            "steel",
+            "loaf-pan",
+            "sheet",
+            "skillet",
+            "griddle",
+            "tandoor",
+            "steamer",
+            "fryer",
+            "pot",
+            "none"
+          ]
+        }
       }
     },
-    "difficulty": { "type": "integer", "minimum": 1, "maximum": 5 },
-    "crumb": { "enum": ["open", "medium", "tight"] },
-    "crust": { "enum": ["crackly", "crisp", "chewy", "soft", "blistered", "floury"] },
-    "flavors": { "type": "array", "minItems": 1, "maxItems": 5, "items": { "enum": ["mild", "wheaty", "yeasty", "tangy", "sour", "sweet", "nutty", "earthy", "buttery", "rich", "malty", "toasty", "smoky", "herbal", "olive", "spiced", "fruity", "chocolate", "cheesy", "savory", "caramel", "honeyed"] } },
-    "purposes": { "type": "array", "minItems": 1, "maxItems": 4, "items": { "enum": ["everyday", "sandwich", "toast", "table", "soup-companion", "breakfast", "snack", "celebration", "holiday", "street-food", "burger", "picnic", "dessert", "side"] } },
+    "difficulty": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "crumb": {
+      "enum": [
+        "open",
+        "medium",
+        "tight"
+      ]
+    },
+    "crust": {
+      "enum": [
+        "crackly",
+        "crisp",
+        "chewy",
+        "soft",
+        "blistered",
+        "floury"
+      ]
+    },
+    "flavors": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 5,
+      "items": {
+        "enum": [
+          "mild",
+          "wheaty",
+          "yeasty",
+          "tangy",
+          "sour",
+          "sweet",
+          "nutty",
+          "earthy",
+          "buttery",
+          "rich",
+          "malty",
+          "toasty",
+          "smoky",
+          "herbal",
+          "olive",
+          "spiced",
+          "fruity",
+          "chocolate",
+          "cheesy",
+          "savory",
+          "caramel",
+          "honeyed"
+        ]
+      }
+    },
+    "purposes": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 4,
+      "items": {
+        "enum": [
+          "everyday",
+          "sandwich",
+          "toast",
+          "table",
+          "soup-companion",
+          "breakfast",
+          "snack",
+          "celebration",
+          "holiday",
+          "street-food",
+          "burger",
+          "picnic",
+          "dessert",
+          "side"
+        ]
+      }
+    },
     "diet": {
-      "type": "object", "required": ["vegan", "vegetarian", "containsGluten"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "vegan",
+        "vegetarian",
+        "containsGluten"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "vegan": { "type": "boolean" }, "vegetarian": { "type": "boolean" },
-        "containsGluten": { "type": "boolean" }, "containsDairy": { "type": "boolean" },
-        "containsEgg": { "type": "boolean" }, "wholegrainPct": { "type": "number", "minimum": 0, "maximum": 100 }
+        "vegan": {
+          "type": "boolean"
+        },
+        "vegetarian": {
+          "type": "boolean"
+        },
+        "containsGluten": {
+          "type": "boolean"
+        },
+        "containsDairy": {
+          "type": "boolean"
+        },
+        "containsEgg": {
+          "type": "boolean"
+        },
+        "wholegrainPct": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        }
       }
     },
     "keeping": {
-      "type": "object", "required": ["freshDays"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "freshDays"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "freshDays": { "type": "number", "minimum": 0.25, "description": "days it eats well at room temp" },
-        "freezes": { "type": "boolean" },
-        "note": { "type": "string", "maxLength": 200 }
+        "freshDays": {
+          "type": "number",
+          "minimum": 0.25,
+          "description": "days it eats well at room temp"
+        },
+        "freezes": {
+          "type": "boolean"
+        },
+        "note": {
+          "type": "object",
+          "required": [
+            "en"
+          ],
+          "additionalProperties": false,
+          "description": "keeping note; en REQUIRED, translations optional",
+          "properties": {
+            "en": {
+              "type": "string",
+              "maxLength": 200
+            },
+            "de": {
+              "type": "string",
+              "maxLength": 280
+            },
+            "es": {
+              "type": "string",
+              "maxLength": 280
+            },
+            "fr": {
+              "type": "string",
+              "maxLength": 280
+            },
+            "ro": {
+              "type": "string",
+              "maxLength": 280
+            }
+          }
+        }
       }
     },
-    "equipment": { "type": "array", "maxItems": 4, "items": { "enum": ["dutch-oven", "baking-stone", "baking-steel", "loaf-pan", "sheet-pan", "skillet", "griddle", "tandoor", "steamer", "deep-fryer", "banneton", "couche", "stand-mixer", "pullman-pan"] } },
-    "method": {
-      "type": "array", "minItems": 3, "maxItems": 9,
+    "equipment": {
+      "type": "array",
+      "maxItems": 4,
       "items": {
-        "type": "object", "required": ["title", "summary"], "additionalProperties": false,
+        "enum": [
+          "dutch-oven",
+          "baking-stone",
+          "baking-steel",
+          "loaf-pan",
+          "sheet-pan",
+          "skillet",
+          "griddle",
+          "tandoor",
+          "steamer",
+          "deep-fryer",
+          "banneton",
+          "couche",
+          "stand-mixer",
+          "pullman-pan"
+        ]
+      }
+    },
+    "method": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 9,
+      "items": {
+        "type": "object",
+        "required": [
+          "title",
+          "summary"
+        ],
+        "additionalProperties": false,
         "properties": {
           "title": {
-            "type": "object", "required": ["en"], "additionalProperties": false,
+            "type": "object",
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false,
             "description": "step title; en is REQUIRED, de/es/fr/ro OPTIONAL, each <= 60 chars",
             "properties": {
-              "en": { "type": "string", "maxLength": 60 },
-              "de": { "type": "string", "maxLength": 60 },
-              "es": { "type": "string", "maxLength": 60 },
-              "fr": { "type": "string", "maxLength": 60 },
-              "ro": { "type": "string", "maxLength": 60 }
+              "en": {
+                "type": "string",
+                "maxLength": 60
+              },
+              "de": {
+                "type": "string",
+                "maxLength": 60
+              },
+              "es": {
+                "type": "string",
+                "maxLength": 60
+              },
+              "fr": {
+                "type": "string",
+                "maxLength": 60
+              },
+              "ro": {
+                "type": "string",
+                "maxLength": 60
+              }
             }
           },
           "summary": {
-            "type": "object", "required": ["en"], "additionalProperties": false,
+            "type": "object",
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false,
             "description": "step summary; en is REQUIRED, de/es/fr/ro OPTIONAL, each <= 300 chars",
             "properties": {
-              "en": { "type": "string", "maxLength": 300 },
-              "de": { "type": "string", "maxLength": 300 },
-              "es": { "type": "string", "maxLength": 300 },
-              "fr": { "type": "string", "maxLength": 300 },
-              "ro": { "type": "string", "maxLength": 300 }
+              "en": {
+                "type": "string",
+                "maxLength": 300
+              },
+              "de": {
+                "type": "string",
+                "maxLength": 300
+              },
+              "es": {
+                "type": "string",
+                "maxLength": 300
+              },
+              "fr": {
+                "type": "string",
+                "maxLength": 300
+              },
+              "ro": {
+                "type": "string",
+                "maxLength": 300
+              }
             }
           }
         }
       }
     },
     "source": {
-      "type": "object", "required": ["url", "site"], "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "url",
+        "site"
+      ],
+      "additionalProperties": false,
       "properties": {
-        "url": { "type": "string", "format": "uri" },
-        "site": { "type": "string" },
-        "author": { "type": "string" },
-        "license": { "type": "string" },
-        "retrieved": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
-        "adaptation": { "type": "string", "maxLength": 200, "description": "how this entry deviates from the source" }
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "site": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string"
+        },
+        "retrieved": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "adaptation": {
+          "type": "object",
+          "required": [
+            "en"
+          ],
+          "additionalProperties": false,
+          "description": "how the recipe was adapted; en REQUIRED, translations optional",
+          "properties": {
+            "en": {
+              "type": "string",
+              "maxLength": 200
+            },
+            "de": {
+              "type": "string",
+              "maxLength": 280
+            },
+            "es": {
+              "type": "string",
+              "maxLength": 280
+            },
+            "fr": {
+              "type": "string",
+              "maxLength": 280
+            },
+            "ro": {
+              "type": "string",
+              "maxLength": 280
+            }
+          }
+        }
       }
     },
-    "tags": { "type": "array", "maxItems": 6, "items": { "type": "string" } },
+    "tags": {
+      "type": "array",
+      "maxItems": 6,
+      "items": {
+        "type": "string"
+      }
+    },
     "kitchenTested": {
       "type": "object",
       "additionalProperties": false,
       "description": "optional: present only when the maintainer has personally baked this bread; presence alone means 'baked', never infer or generate this field",
       "properties": {
-        "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$", "description": "YYYY-MM or YYYY-MM-DD" },
-        "note": { "type": "string", "maxLength": 300 }
+        "date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$",
+          "description": "YYYY-MM or YYYY-MM-DD"
+        },
+        "note": {
+          "type": "string",
+          "maxLength": 300
+        }
       }
     }
   }

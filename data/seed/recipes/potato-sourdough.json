@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "Potato bread has many regional ancestors; this long-fermented sourdough version with roasted (not boiled) potato is a contemporary artisan formula."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "Potato bread has many regional ancestors; this long-fermented sourdough version with roasted (not boiled) potato is a contemporary artisan formula."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -44,12 +48,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 695,
-      "note": "malted white and high-gluten bread flour blend"
+      "note": {
+        "en": "malted white and high-gluten bread flour blend"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 188,
-      "note": "stoneground whole wheat"
+      "note": {
+        "en": "stoneground whole wheat"
+      }
     },
     {
       "key": "water",
@@ -66,7 +74,9 @@
     {
       "key": "mashed-potato",
       "grams": 464,
-      "note": "roasted, peeled and pureed, not boiled"
+      "note": {
+        "en": "roasted, peeled and pureed, not boiled"
+      }
     },
     {
       "label": {
@@ -82,7 +92,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 1000,
-    "shape": "bâtard"
+    "shape": {
+      "en": "bâtard"
+    }
   },
   "time": {
     "totalMin": 1450,
@@ -121,7 +133,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The potato keeps the crumb moist noticeably longer than a plain sourdough."
+    "note": {
+      "en": "The potato keeps the crumb moist noticeably longer than a plain sourdough."
+    }
   },
   "equipment": [
     "dutch-oven",

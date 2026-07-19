@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "MA",
-    "region": "Maghreb (also Tunisia, Algeria)",
-    "note": "A breakfast and tea-time staple across the Maghreb; the name means roughly 'oiled' in Arabic, describing the lamination technique."
+    "region": {
+      "en": "Maghreb (also Tunisia, Algeria)"
+    },
+    "note": {
+      "en": "A breakfast and tea-time staple across the Maghreb; the name means roughly 'oiled' in Arabic, describing the lamination technique."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -52,7 +56,9 @@
     {
       "key": "flour:durum",
       "grams": 85,
-      "note": "fine semolina, in the dough"
+      "note": {
+        "en": "fine semolina, in the dough"
+      }
     },
     {
       "key": "sugar",
@@ -69,28 +75,38 @@
     {
       "key": "water",
       "grams": 356,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 60,
-      "note": "for laminating and oiling the work surface; recipe calls for up to 1 cup, most drains back off"
+      "note": {
+        "en": "for laminating and oiling the work surface; recipe calls for up to 1 cup, most drains back off"
+      }
     },
     {
       "key": "flour:durum",
       "grams": 85,
-      "note": "fine semolina, sprinkled between the folded layers"
+      "note": {
+        "en": "fine semolina, sprinkled between the folded layers"
+      }
     },
     {
       "key": "butter",
       "grams": 57,
-      "note": "very soft, dotted between layers"
+      "note": {
+        "en": "very soft, dotted between layers"
+      }
     }
   ],
   "yield": {
     "count": 20,
     "pieceGrams": 55,
-    "shape": "4 in (10 cm) square, laminated"
+    "shape": {
+      "en": "4 in (10 cm) square, laminated"
+    }
   },
   "time": {
     "totalMin": 93,
@@ -128,7 +144,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best hot off the griddle, crisp outside and soft within; turns chewy as it cools. Reheats well on a dry pan and freezes very well between sheets of parchment."
+    "note": {
+      "en": "Best hot off the griddle, crisp outside and soft within; turns chewy as it cools. Reheats well on a dry pan and freezes very well between sheets of parchment."
+    }
   },
   "equipment": [
     "griddle"
@@ -251,7 +269,9 @@
     "url": "https://tasteofmaroc.com/msemen-recipe/",
     "site": "Taste of Maroc",
     "retrieved": "2026-07-17",
-    "adaptation": "Lamination oil quantity reduced from the source's 'up to 1 cup, adjust as needed' to a more realistic absorbed amount; hydration includes butter's water content per baker's-percentage convention."
+    "adaptation": {
+      "en": "Lamination oil quantity reduced from the source's 'up to 1 cup, adjust as needed' to a more realistic absorbed amount; hydration includes butter's water content per baker's-percentage convention."
+    }
   },
   "tags": [
     "laminated",

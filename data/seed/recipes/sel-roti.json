@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "NP",
-    "region": "nationwide (also Sikkim, Darjeeling and Kumaon)",
-    "note": "Centered on the Dashain and Tihar festivals, when households fry large batches to share with neighbors and visiting family."
+    "region": {
+      "en": "nationwide (also Sikkim, Darjeeling and Kumaon)"
+    },
+    "note": {
+      "en": "Centered on the Dashain and Tihar festivals, when households fry large batches to share with neighbors and visiting family."
+    }
   },
   "leaven": "none",
   "family": "fried",
@@ -42,12 +46,16 @@
     {
       "key": "flour:rice",
       "grams": 300,
-      "note": "short-grain rice, soaked 5-6 hours then ground to a paste"
+      "note": {
+        "en": "short-grain rice, soaked 5-6 hours then ground to a paste"
+      }
     },
     {
       "key": "water",
       "grams": 150,
-      "note": "for soaking the rice and thinning the batter; source did not fully quantify, estimated"
+      "note": {
+        "en": "for soaking the rice and thinning the batter; source did not fully quantify, estimated"
+      }
     },
     {
       "key": "milk",
@@ -70,12 +78,16 @@
     {
       "key": "cardamom",
       "grams": 1,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "key": "butter",
       "grams": 28,
-      "note": "ghee, melted"
+      "note": {
+        "en": "ghee, melted"
+      }
     },
     {
       "key": "salt",
@@ -84,13 +96,17 @@
     {
       "key": "vegetable-oil",
       "grams": 40,
-      "note": "for deep-frying; amount absorbed is estimated"
+      "note": {
+        "en": "for deep-frying; amount absorbed is estimated"
+      }
     }
   ],
   "yield": {
     "count": 8,
     "pieceGrams": 100,
-    "shape": "ring/pretzel-shaped, deep-fried, ~12 cm diameter"
+    "shape": {
+      "en": "ring/pretzel-shaped, deep-fried, ~12 cm diameter"
+    }
   },
   "time": {
     "totalMin": 440,
@@ -130,7 +146,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best fresh, still faintly warm and crackly; toughens by the next day. Freezes reasonably and can be gently reheated."
+    "note": {
+      "en": "Best fresh, still faintly warm and crackly; toughens by the next day. Freezes reasonably and can be gently reheated."
+    }
   },
   "equipment": [
     "deep-fryer"
@@ -237,7 +255,9 @@
     "url": "https://delishglobe.com/recipe/sel-roti-nepali-rice-doughnut/",
     "site": "DelishGlobe",
     "retrieved": "2026-07-18",
-    "adaptation": "Omitted the source's optional wheat-flour binder for a traditional rice-only batter; added estimated water since the source didn't specify how much thins the batter; fry-oil absorption estimated."
+    "adaptation": {
+      "en": "Omitted the source's optional wheat-flour binder for a traditional rice-only batter; added estimated water since the source didn't specify how much thins the batter; fry-oil absorption estimated."
+    }
   },
   "tags": [
     "nepali",

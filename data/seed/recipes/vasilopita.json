@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "GR",
-    "region": "also Cyprus",
-    "note": "Named for St Basil of Caesarea, a 4th-century bishop remembered for generosity to the poor; a coin baked into the dough brings its finder luck for the coming year."
+    "region": {
+      "en": "also Cyprus"
+    },
+    "note": {
+      "en": "Named for St Basil of Caesarea, a 4th-century bishop remembered for generosity to the poor; a coin baked into the dough brings its finder luck for the coming year."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -64,7 +68,9 @@
     {
       "key": "water",
       "grams": 65,
-      "note": "tepid, to activate the yeast"
+      "note": {
+        "en": "tepid, to activate the yeast"
+      }
     },
     {
       "key": "salt",
@@ -73,12 +79,16 @@
     {
       "key": "orange-zest",
       "grams": 3,
-      "note": "from about half an orange"
+      "note": {
+        "en": "from about half an orange"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large eggs"
+      "note": {
+        "en": "2 large eggs"
+      }
     },
     {
       "label": {
@@ -99,13 +109,17 @@
         "ro": "rășină de mastic, măcinată"
       },
       "grams": 1,
-      "note": "crushed with a little of the sugar"
+      "note": {
+        "en": "crushed with a little of the sugar"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 780,
-    "shape": "braided rope coiled into a round tin"
+    "shape": {
+      "en": "braided rope coiled into a round tin"
+    }
   },
   "time": {
     "totalMin": 335,
@@ -145,7 +159,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Mastic and the high sugar content keep it soft for several days, unusually long for a yeasted loaf."
+    "note": {
+      "en": "Mastic and the high sugar content keep it soft for several days, unusually long for a yeasted loaf."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -285,7 +301,9 @@
     "url": "https://www.mygreekdish.com/recipe/vasilopita-tsoureki-recipe-greek-new-years-bread-vasilopita-bread/",
     "site": "My Greek Dish",
     "retrieved": "2026-07-17",
-    "adaptation": "Salt raised slightly from the source's 1/2 tsp for balance. Coin custom and cake-variant note per Wikipedia's Vasilopita entry."
+    "adaptation": {
+      "en": "Salt raised slightly from the source's 1/2 tsp for balance. Coin custom and cake-variant note per Wikipedia's Vasilopita entry."
+    }
   },
   "tags": [
     "new-year",

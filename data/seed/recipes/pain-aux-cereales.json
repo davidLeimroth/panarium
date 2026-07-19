@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "FR",
-    "region": "national",
-    "note": "A modern boulangerie staple rather than a historic regional bread, popularized as bakeries diversified beyond baguette and pain de campagne."
+    "region": {
+      "en": "national"
+    },
+    "note": {
+      "en": "A modern boulangerie staple rather than a historic regional bread, popularized as bakeries diversified beyond baguette and pain de campagne."
+    }
   },
   "leaven": "yeast",
   "family": "hearth-loaf",
@@ -47,7 +51,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 500,
-      "note": "T65"
+      "note": {
+        "en": "T65"
+      }
     },
     {
       "key": "flour:rye-whole",
@@ -64,7 +70,9 @@
     {
       "key": "sugar",
       "grams": 12,
-      "note": "cassonade"
+      "note": {
+        "en": "cassonade"
+      }
     },
     {
       "key": "salt",
@@ -104,7 +112,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 570,
-    "shape": "free-standing loaf"
+    "shape": {
+      "en": "free-standing loaf"
+    }
   },
   "time": {
     "totalMin": 385,
@@ -145,7 +155,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The seed mix helps it stay moist longer than a plain white loaf."
+    "note": {
+      "en": "The seed mix helps it stay moist longer than a plain white loaf."
+    }
   },
   "equipment": [
     "baking-stone"

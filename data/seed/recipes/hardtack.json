@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Royal Navy and merchant marine, later also the US Army and Navy",
-    "note": "Descends from a long line of dry preserved breads: buccellum for Roman legionaries, dhourra cake for Egyptian sailors. The Royal Navy mass-produced it from the 1660s; it became notorious as Civil War ration and fought weevils more than staleness."
+    "region": {
+      "en": "Royal Navy and merchant marine, later also the US Army and Navy"
+    },
+    "note": {
+      "en": "Descends from a long line of dry preserved breads: buccellum for Roman legionaries, dhourra cake for Egyptian sailors. The Royal Navy mass-produced it from the 1660s; it became notorious as Civil War ration and fought weevils more than staleness."
+    }
   },
   "leaven": "none",
   "family": "crispbread",
@@ -54,7 +58,9 @@
   "yield": {
     "count": 10,
     "pieceGrams": 44,
-    "shape": "6 x 7.5 cm rectangle, about 1.3 cm thick"
+    "shape": {
+      "en": "6 x 7.5 cm rectangle, about 1.3 cm thick"
+    }
   },
   "time": {
     "totalMin": 110,
@@ -89,7 +95,9 @@
   "keeping": {
     "freshDays": 1825,
     "freezes": true,
-    "note": "Kept bone dry it survives for years; naval and Civil War rations were provisioned for months at sea. Weevils, not staleness, were the traditional enemy."
+    "note": {
+      "en": "Kept bone dry it survives for years; naval and Civil War rations were provisioned for months at sea. Weevils, not staleness, were the traditional enemy."
+    }
   },
   "equipment": [
     "sheet-pan"

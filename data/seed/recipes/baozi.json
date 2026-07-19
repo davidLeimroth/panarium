@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "CN",
-    "region": "nationwide, northern origin",
-    "note": "Descended from mantou once cooks began stuffing the steamed dough; Song-dynasty texts (960-1279) already distinguish filled baozi from plain mantou."
+    "region": {
+      "en": "nationwide, northern origin"
+    },
+    "note": {
+      "en": "Descended from mantou once cooks began stuffing the steamed dough; Song-dynasty texts (960-1279) already distinguish filled baozi from plain mantou."
+    }
   },
   "leaven": "yeast",
   "family": "steamed",
@@ -52,7 +56,9 @@
     {
       "key": "sugar",
       "grams": 8,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "vegetable-oil",
@@ -61,7 +67,9 @@
     {
       "key": "water",
       "grams": 290,
-      "note": "lukewarm"
+      "note": {
+        "en": "lukewarm"
+      }
     },
     {
       "label": {
@@ -72,7 +80,9 @@
         "ro": "piept de porc tocat"
       },
       "grams": 450,
-      "note": "for the filling"
+      "note": {
+        "en": "for the filling"
+      }
     },
     {
       "label": {
@@ -83,7 +93,9 @@
         "ro": "varză chinezească, tăiată mărunt"
       },
       "grams": 450,
-      "note": "squeezed dry, for the filling"
+      "note": {
+        "en": "squeezed dry, for the filling"
+      }
     },
     {
       "label": {
@@ -104,18 +116,24 @@
         "ro": "sos de soia, închis și deschis"
       },
       "grams": 40,
-      "note": "for the filling"
+      "note": {
+        "en": "for the filling"
+      }
     },
     {
       "key": "salt",
       "grams": 6,
-      "note": "in the filling"
+      "note": {
+        "en": "in the filling"
+      }
     }
   ],
   "yield": {
     "count": 24,
     "pieceGrams": 79,
-    "shape": "pleated round bun with pork-cabbage filling"
+    "shape": {
+      "en": "pleated round bun with pork-cabbage filling"
+    }
   },
   "time": {
     "totalMin": 145,
@@ -155,7 +173,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Freezes raw or cooked exceptionally well; resteam from frozen for a few extra minutes."
+    "note": {
+      "en": "Freezes raw or cooked exceptionally well; resteam from frozen for a few extra minutes."
+    }
   },
   "equipment": [
     "steamer"
@@ -262,7 +282,9 @@
     "url": "https://halicopteraway.com/baozi-chinese-steamed-buns/",
     "site": "Halicopter Away",
     "retrieved": "2026-07-17",
-    "adaptation": "Dough and filling grams kept as sourced; filling condensed to its most essential aromatics for this entry."
+    "adaptation": {
+      "en": "Dough and filling grams kept as sourced; filling condensed to its most essential aromatics for this entry."
+    }
   },
   "tags": [
     "street-food",

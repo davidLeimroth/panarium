@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Portland, Oregon",
-    "note": "From Ken Forkish's 'Flour Water Salt Yeast' (2012), by way of Ken's Artisan Bakery; the 'field blend' name borrows from winemaking's practice of co-fermenting several grape varieties."
+    "region": {
+      "en": "Portland, Oregon"
+    },
+    "note": {
+      "en": "From Ken Forkish's 'Flour Water Salt Yeast' (2012), by way of Ken's Artisan Bakery; the 'field blend' name borrows from winemaking's practice of co-fermenting several grape varieties."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -50,7 +54,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 700,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "flour:wheat-whole",
@@ -67,7 +73,9 @@
     {
       "key": "levain",
       "grams": 180,
-      "note": "built the day before from starter, flour and water"
+      "note": {
+        "en": "built the day before from starter, flour and water"
+      }
     },
     {
       "key": "salt",
@@ -76,13 +84,17 @@
     {
       "key": "instant-yeast",
       "grams": 2,
-      "note": "a small insurance amount alongside the wild levain"
+      "note": {
+        "en": "a small insurance amount alongside the wild levain"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 850,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 1800,
@@ -244,7 +256,9 @@
     "site": "Baking Artisan Bread",
     "author": "After Ken Forkish / Flour Water Salt Yeast",
     "retrieved": "2026-07-17",
-    "adaptation": "Source gives flour percentages and partial timing from a halved batch, but not hydration or salt; those and the gram scale are estimated from Forkish's well-documented formula conventions."
+    "adaptation": {
+      "en": "Source gives flour percentages and partial timing from a halved batch, but not hydration or salt; those and the gram scale are estimated from Forkish's well-documented formula conventions."
+    }
   },
   "tags": [
     "forkish",

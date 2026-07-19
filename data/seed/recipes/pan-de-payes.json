@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "ES",
-    "region": "Catalonia",
-    "note": "One of Spain's IGP-recognized breads; the round hogaza needs no scoring because the seams left from shaping crack open on their own during baking."
+    "region": {
+      "en": "Catalonia"
+    },
+    "note": {
+      "en": "One of Spain's IGP-recognized breads; the round hogaza needs no scoring because the seams left from shaping crack open on their own during baking."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -46,7 +50,9 @@
     {
       "key": "sourdough-starter",
       "grams": 90,
-      "note": "masa madre sólida, roughly 50% hydration"
+      "note": {
+        "en": "masa madre sólida, roughly 50% hydration"
+      }
     },
     {
       "key": "salt",
@@ -56,7 +62,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 925,
-    "shape": "round loaf (hogaza), unscored, it cracks naturally"
+    "shape": {
+      "en": "round loaf (hogaza), unscored, it cracks naturally"
+    }
   },
   "time": {
     "totalMin": 365,
@@ -95,7 +103,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The sourdough and thick crust give it decent keeping power, typical of Catalonia's classic everyday country loaf."
+    "note": {
+      "en": "The sourdough and thick crust give it decent keeping power, typical of Catalonia's classic everyday country loaf."
+    }
   },
   "equipment": [
     "banneton"
@@ -202,7 +212,9 @@
     "url": "https://levanova.es/receta-pan-payes-casero/",
     "site": "Levanova",
     "retrieved": "2026-07-17",
-    "adaptation": "Reconstructed using this site's no-scoring, flip-to-crack method with typical pan de payés ratios (60-70% hydration, 15-20% solid starter), not the site's own commercial starter-packet amounts."
+    "adaptation": {
+      "en": "Reconstructed using this site's no-scoring, flip-to-crack method with typical pan de payés ratios (60-70% hydration, 15-20% solid starter), not the site's own commercial starter-packet amounts."
+    }
   },
   "tags": [
     "no-scoring",

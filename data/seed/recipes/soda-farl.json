@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Northern Ireland",
-    "note": "The word 'farl' comes from the Scots 'fardel', a quartered cake. Cooked on a dry griddle rather than baked in the oven, unlike most soda bread."
+    "region": {
+      "en": "Northern Ireland"
+    },
+    "note": {
+      "en": "The word 'farl' comes from the Scots 'fardel', a quartered cake. Cooked on a dry griddle rather than baked in the oven, unlike most soda bread."
+    }
   },
   "leaven": "chemical",
   "family": "flatbread",
@@ -53,7 +57,9 @@
     {
       "key": "butter",
       "grams": 42,
-      "note": "cold, divided between the dough and the griddle"
+      "note": {
+        "en": "cold, divided between the dough and the griddle"
+      }
     },
     {
       "key": "buttermilk",
@@ -63,7 +69,9 @@
   "yield": {
     "count": 4,
     "pieceGrams": 110,
-    "shape": "quartered triangles cut from one 8-inch round"
+    "shape": {
+      "en": "quartered triangles cut from one 8-inch round"
+    }
   },
   "time": {
     "totalMin": 50,
@@ -101,7 +109,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best warm off the griddle; reheat in a dry pan the next day for a fry-up."
+    "note": {
+      "en": "Best warm off the griddle; reheat in a dry pan the next day for a fry-up."
+    }
   },
   "equipment": [
     "griddle"
@@ -208,7 +218,9 @@
     "url": "https://bakefromscratch.com/soda-farls/",
     "site": "Bake from Scratch",
     "retrieved": "2026-07-18",
-    "adaptation": "A herb compound butter accompaniment from the source is omitted to keep this entry to the bread itself."
+    "adaptation": {
+      "en": "A herb compound butter accompaniment from the source is omitted to keep this entry to the bread itself."
+    }
   },
   "tags": [
     "ulster-fry",

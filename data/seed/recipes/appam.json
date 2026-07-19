@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IN",
-    "region": "Kerala, South India (also Sri Lanka as 'hoppers')",
-    "note": "Traditionally fermented with toddy, a mild palm wine; commercial yeast is the common home-kitchen substitute today."
+    "region": {
+      "en": "Kerala, South India (also Sri Lanka as 'hoppers')"
+    },
+    "note": {
+      "en": "Traditionally fermented with toddy, a mild palm wine; commercial yeast is the common home-kitchen substitute today."
+    }
   },
   "leaven": "yeast",
   "family": "flatbread",
@@ -43,12 +47,16 @@
     {
       "key": "flour:rice",
       "grams": 400,
-      "note": "raw white rice, soaked and ground; a portion is cooked into a soft porridge and blended back in"
+      "note": {
+        "en": "raw white rice, soaked and ground; a portion is cooked into a soft porridge and blended back in"
+      }
     },
     {
       "key": "water",
       "grams": 592,
-      "note": "for grinding the rice and cooking the porridge, combined"
+      "note": {
+        "en": "for grinding the rice and cooking the porridge, combined"
+      }
     },
     {
       "label": {
@@ -59,7 +67,9 @@
         "ro": "lapte de cocos proaspăt"
       },
       "grams": 370,
-      "note": "grated coconut blended with water and strained"
+      "note": {
+        "en": "grated coconut blended with water and strained"
+      }
     },
     {
       "key": "sugar",
@@ -77,7 +87,9 @@
   "yield": {
     "count": 16,
     "pieceGrams": 87,
-    "shape": "bowl-shaped, lacy edges, soft spongy center, ~15 cm"
+    "shape": {
+      "en": "bowl-shaped, lacy edges, soft spongy center, ~15 cm"
+    }
   },
   "time": {
     "totalMin": 1020,
@@ -116,7 +128,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best fresh and warm, spongy center and crisp lace edges; reheat covered with a splash of water to re-soften. Batter or cooked appam both freeze reasonably well."
+    "note": {
+      "en": "Best fresh and warm, spongy center and crisp lace edges; reheat covered with a splash of water to re-soften. Batter or cooked appam both freeze reasonably well."
+    }
   },
   "equipment": [
     "skillet"
@@ -223,7 +237,9 @@
     "url": "https://www.kannammacooks.com/kerala-appam-kerala-palappam-recipe/",
     "site": "Kannamma Cooks",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup-to-gram conversions estimated for rice, coconut and yeast; strained coconut water simplified to one 'coconut milk' ingredient; salt reduced slightly for balance."
+    "adaptation": {
+      "en": "Cup-to-gram conversions estimated for rice, coconut and yeast; strained coconut water simplified to one 'coconut milk' ingredient; salt reduced slightly for balance."
+    }
   },
   "tags": [
     "kerala",

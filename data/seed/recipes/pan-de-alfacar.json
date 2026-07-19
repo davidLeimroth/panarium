@@ -16,8 +16,12 @@
   },
   "origin": {
     "country": "ES",
-    "region": "Alfacar and Víznar, Granada, Andalusia",
-    "note": "IGP since 2011; the disciplinare permits baking only directly on a wood-fired oven's stone floor, no other oven type."
+    "region": {
+      "en": "Alfacar and Víznar, Granada, Andalusia"
+    },
+    "note": {
+      "en": "IGP since 2011; the disciplinare permits baking only directly on a wood-fired oven's stone floor, no other oven type."
+    }
   },
   "leaven": "hybrid",
   "family": "hearth-loaf",
@@ -41,12 +45,16 @@
     {
       "key": "water",
       "grams": 300,
-      "note": "mineral or spring water"
+      "note": {
+        "en": "mineral or spring water"
+      }
     },
     {
       "key": "sourdough-starter",
       "grams": 75,
-      "note": "roughly 60% hydration"
+      "note": {
+        "en": "roughly 60% hydration"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -60,7 +68,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 889,
-    "shape": "round hogaza or ring-shaped rosca; also small bollos"
+    "shape": {
+      "en": "round hogaza or ring-shaped rosca; also small bollos"
+    }
   },
   "time": {
     "totalMin": 265,
@@ -99,7 +109,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "A wood-fired crust and a mild sourdough tang keep it in good shape for a few days past baking."
+    "note": {
+      "en": "A wood-fired crust and a mild sourdough tang keep it in good shape for a few days past baking."
+    }
   },
   "equipment": [
     "banneton",
@@ -207,7 +219,9 @@
     "url": "https://www.vadepanes.com/panes/pan-de-alfacar.html",
     "site": "VadePanes",
     "retrieved": "2026-07-17",
-    "adaptation": "Grams as published for a 1 kg loaf; hydration and starter share line up with the IGP's own published minimums (55-60% hydration, at least 10% masa madre)."
+    "adaptation": {
+      "en": "Grams as published for a 1 kg loaf; hydration and starter share line up with the IGP's own published minimums (55-60% hydration, at least 10% masa madre)."
+    }
   },
   "tags": [
     "igp",

@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Bath, Somerset, England",
-    "note": "Credited to 18th-century Bath baker William Oliver, of Bath Oliver biscuit fame. Originally topped with sugar-coated caraway comfits, later simplified to caraway seeds or, as here, coarse nib sugar."
+    "region": {
+      "en": "Bath, Somerset, England"
+    },
+    "note": {
+      "en": "Credited to 18th-century Bath baker William Oliver, of Bath Oliver biscuit fame. Originally topped with sugar-coated caraway comfits, later simplified to caraway seeds or, as here, coarse nib sugar."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -41,7 +45,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 170,
-      "note": "dough"
+      "note": {
+        "en": "dough"
+      }
     },
     {
       "key": "salt",
@@ -50,12 +56,16 @@
     {
       "key": "butter",
       "grams": 71,
-      "note": "softened, dough"
+      "note": {
+        "en": "softened, dough"
+      }
     },
     {
       "key": "sugar",
       "grams": 28,
-      "note": "cane sugar, dough"
+      "note": {
+        "en": "cane sugar, dough"
+      }
     },
     {
       "key": "fresh-yeast",
@@ -64,7 +74,9 @@
     {
       "key": "egg",
       "grams": 50,
-      "note": "1 egg, dough"
+      "note": {
+        "en": "1 egg, dough"
+      }
     },
     {
       "key": "milk",
@@ -77,28 +89,38 @@
     {
       "key": "raisins",
       "grams": 9,
-      "note": "dried currants, filling"
+      "note": {
+        "en": "dried currants, filling"
+      }
     },
     {
       "key": "candied-citrus",
       "grams": 12,
-      "note": "chopped candied orange peel, filling"
+      "note": {
+        "en": "chopped candied orange peel, filling"
+      }
     },
     {
       "key": "egg",
       "grams": 15,
-      "note": "beaten, for egg wash before baking"
+      "note": {
+        "en": "beaten, for egg wash before baking"
+      }
     },
     {
       "key": "sugar",
       "grams": 13,
-      "note": "coarse nib or pearl sugar, sprinkled on top before baking"
+      "note": {
+        "en": "coarse nib or pearl sugar, sprinkled on top before baking"
+      }
     }
   ],
   "yield": {
     "count": 4,
     "pieceGrams": 105,
-    "shape": "large individual bun"
+    "shape": {
+      "en": "large individual bun"
+    }
   },
   "time": {
     "totalMin": 100,
@@ -138,7 +160,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best fresh the day they're baked, while the nib sugar still crunches; day-old buns are good split and toasted."
+    "note": {
+      "en": "Best fresh the day they're baked, while the nib sugar still crunches; day-old buns are good split and toasted."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -246,7 +270,9 @@
     "url": "https://streamofflavors.com/recipes/bath-buns-recipe/",
     "site": "Stream of Flavors",
     "retrieved": "2026-07-18",
-    "adaptation": "formula.* covers the dough only; egg wash and nib-sugar topping are excluded. Source's '1/2 oz active yeast' recorded as fresh yeast; ounce/cup measures converted to grams via standard conversions."
+    "adaptation": {
+      "en": "formula.* covers the dough only; egg wash and nib-sugar topping are excluded. Source's '1/2 oz active yeast' recorded as fresh yeast; ounce/cup measures converted to grams via standard conversions."
+    }
   },
   "tags": [
     "bath",

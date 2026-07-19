@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "IT",
-    "region": "Lombardy",
-    "note": "Lombardy's Easter icon: legends tie the dove to medieval Pavia, but today's colomba was shaped by 20th-century Milanese bakers giving panettone an Easter sibling."
+    "region": {
+      "en": "Lombardy"
+    },
+    "note": {
+      "en": "Lombardy's Easter icon: legends tie the dove to medieval Pavia, but today's colomba was shaped by 20th-century Milanese bakers giving panettone an Easter sibling."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -45,17 +49,23 @@
     {
       "key": "flour:wheat-white",
       "grams": 390,
-      "note": "120 g of it in the overnight biga"
+      "note": {
+        "en": "120 g of it in the overnight biga"
+      }
     },
     {
       "key": "water",
       "grams": 113,
-      "note": "in the biga"
+      "note": {
+        "en": "in the biga"
+      }
     },
     {
       "key": "instant-yeast",
       "grams": 7,
-      "note": "a pinch in the biga, the rest in the dough"
+      "note": {
+        "en": "a pinch in the biga, the rest in the dough"
+      }
     },
     {
       "key": "sugar",
@@ -64,17 +74,23 @@
     {
       "key": "butter",
       "grams": 57,
-      "note": "soft"
+      "note": {
+        "en": "soft"
+      }
     },
     {
       "key": "egg",
       "grams": 100,
-      "note": "2 large"
+      "note": {
+        "en": "2 large"
+      }
     },
     {
       "key": "egg-yolk",
       "grams": 18,
-      "note": "white reserved for the glaze"
+      "note": {
+        "en": "white reserved for the glaze"
+      }
     },
     {
       "key": "salt",
@@ -83,12 +99,16 @@
     {
       "key": "raisins",
       "grams": 170,
-      "note": "golden; candied orange peel in traditional versions"
+      "note": {
+        "en": "golden; candied orange peel in traditional versions"
+      }
     },
     {
       "key": "orange-zest",
       "grams": 6,
-      "note": "1 orange; or fiori di Sicilia"
+      "note": {
+        "en": "1 orange; or fiori di Sicilia"
+      }
     },
     {
       "key": "vanilla",
@@ -97,12 +117,16 @@
     {
       "key": "almonds",
       "grams": 44,
-      "note": "ground into the glaze plus sliced on top"
+      "note": {
+        "en": "ground into the glaze plus sliced on top"
+      }
     },
     {
       "key": "sugar",
       "grams": 25,
-      "note": "in the glaze"
+      "note": {
+        "en": "in the glaze"
+      }
     },
     {
       "label": {
@@ -113,13 +137,17 @@
         "ro": "zahăr perlat"
       },
       "grams": 28,
-      "note": "scattered over the glaze"
+      "note": {
+        "en": "scattered over the glaze"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 950,
-    "shape": "dove of two crossed logs (or paper colomba mold)"
+    "shape": {
+      "en": "dove of two crossed logs (or paper colomba mold)"
+    }
   },
   "time": {
     "totalMin": 1320,
@@ -160,7 +188,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "The almond glaze keeps the crumb moist; wrap airtight. Artisan natural-leaven versions keep far longer."
+    "note": {
+      "en": "The almond glaze keeps the crumb moist; wrap airtight. Artisan natural-leaven versions keep far longer."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -268,7 +298,9 @@
     "url": "https://www.kingarthurbaking.com/recipes/colomba-pasquale-easter-dove-bread-recipe",
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
-    "adaptation": "Home-scale yeasted biga version; artisan colomba uses lievito madre (difficulty 5). sugarPct counts dough sugar only; glaze sugars listed separately."
+    "adaptation": {
+      "en": "Home-scale yeasted biga version; artisan colomba uses lievito madre (difficulty 5). sugarPct counts dough sugar only; glaze sugars listed separately."
+    }
   },
   "tags": [
     "easter",

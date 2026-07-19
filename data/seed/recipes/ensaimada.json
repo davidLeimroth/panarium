@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "ES",
-    "region": "Mallorca, Balearic Islands",
-    "note": "Protected Geographical Indication tied specifically to Mallorca since at least the 17th century; the name comes straight from saïm, Mallorquín for pork lard, the fat that's stretched through the dough rather than kneaded into it."
+    "region": {
+      "en": "Mallorca, Balearic Islands"
+    },
+    "note": {
+      "en": "Protected Geographical Indication tied specifically to Mallorca since at least the 17th century; the name comes straight from saïm, Mallorquín for pork lard, the fat that's stretched through the dough rather than kneaded into it."
+    }
   },
   "leaven": "yeast",
   "family": "ring",
@@ -46,22 +50,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 560,
-      "note": "60 g in an overnight poolish, the rest in the final dough"
+      "note": {
+        "en": "60 g in an overnight poolish, the rest in the final dough"
+      }
     },
     {
       "key": "water",
       "grams": 155,
-      "note": "60 g in the poolish, the rest in the dough"
+      "note": {
+        "en": "60 g in the poolish, the rest in the dough"
+      }
     },
     {
       "key": "instant-yeast",
       "grams": 5,
-      "note": "a trace in the poolish, the rest in the dough"
+      "note": {
+        "en": "a trace in the poolish, the rest in the dough"
+      }
     },
     {
       "key": "egg",
       "grams": 155,
-      "note": "about 2½ large eggs"
+      "note": {
+        "en": "about 2½ large eggs"
+      }
     },
     {
       "key": "sugar",
@@ -78,7 +90,9 @@
     {
       "key": "lard",
       "grams": 150,
-      "note": "fresh pork lard, stretched through the dough during lamination"
+      "note": {
+        "en": "fresh pork lard, stretched through the dough during lamination"
+      }
     },
     {
       "label": {
@@ -89,18 +103,24 @@
         "ro": "umplutură de dovleac confiat (cabello de ángel)"
       },
       "grams": 260,
-      "note": "optional filling for one of the two coils; omit for the plain version"
+      "note": {
+        "en": "optional filling for one of the two coils; omit for the plain version"
+      }
     },
     {
       "key": "sugar",
       "grams": 30,
-      "note": "powdered, for dusting after baking"
+      "note": {
+        "en": "powdered, for dusting after baking"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 550,
-    "shape": "two flat coiled spirals, about 22 cm across"
+    "shape": {
+      "en": "two flat coiled spirals, about 22 cm across"
+    }
   },
   "time": {
     "totalMin": 2750,
@@ -141,7 +161,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best very fresh, within a day while the coil stays light and delicate; wrap airtight for up to two days, or freeze whole and warm briefly before serving."
+    "note": {
+      "en": "Best very fresh, within a day while the coil stays light and delicate; wrap airtight for up to two days, or freeze whole and warm briefly before serving."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -265,7 +287,9 @@
     "url": "https://bake-street.com/en/how-to-make-homemade-ensaimada/",
     "site": "Bake Street",
     "retrieved": "2026-07-17",
-    "adaptation": "Lard amount (150 g) is estimated/composited from several traditional recipes, since this source gives only a 'generous' smear rather than a gram figure; formula confidence marked estimated."
+    "adaptation": {
+      "en": "Lard amount (150 g) is estimated/composited from several traditional recipes, since this source gives only a 'generous' smear rather than a gram figure; formula confidence marked estimated."
+    }
   },
   "tags": [
     "mallorca",

@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "NZ",
-    "region": "nationwide, Māori communities",
-    "note": "Adopted after European contact brought potatoes and wheat; the wild-fermented 'potato bug' starter became a distinctly Māori technique, still central to hui (gatherings) and marae meals today."
+    "region": {
+      "en": "nationwide, Māori communities"
+    },
+    "note": {
+      "en": "Adopted after European contact brought potatoes and wheat; the wild-fermented 'potato bug' starter became a distinctly Māori technique, still central to hui (gatherings) and marae meals today."
+    }
   },
   "leaven": "sourdough",
   "family": "pan-loaf",
@@ -55,18 +59,24 @@
     {
       "key": "sourdough-starter",
       "grams": 480,
-      "note": "active rewena potato bug (fermented potato, flour, sugar and water)"
+      "note": {
+        "en": "active rewena potato bug (fermented potato, flour, sugar and water)"
+      }
     },
     {
       "key": "water",
       "grams": 474,
-      "note": "warm"
+      "note": {
+        "en": "warm"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1610,
-    "shape": "tin loaf"
+    "shape": {
+      "en": "tin loaf"
+    }
   },
   "time": {
     "totalMin": 330,
@@ -105,7 +115,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Keeps well thanks to its natural fermentation; a treasured Māori bread often served at gatherings and hui."
+    "note": {
+      "en": "Keeps well thanks to its natural fermentation; a treasured Māori bread often served at gatherings and hui."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -212,7 +224,9 @@
     "url": "https://www.disheswithdel.com/blog/traditional-r%C4%93wena-bread-recipe",
     "site": "Dishes with Del",
     "retrieved": "2026-07-17",
-    "adaptation": "The potato-bug starter is treated as one opaque ingredient; its internal flour and water aren't decomposed, so hydration reflects only the dough's own added water and flour."
+    "adaptation": {
+      "en": "The potato-bug starter is treated as one opaque ingredient; its internal flour and water aren't decomposed, so hydration reflects only the dough's own added water and flour."
+    }
   },
   "tags": [
     "maori",

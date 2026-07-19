@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Wales",
-    "note": "Two real traditions exist: an older yeast-leavened bread and this now-dominant chemically-leavened tea loaf. This entry follows the tea loaf, the version most Welsh households and cafés make today; eaten at teatime, St David's Day and Christmas."
+    "region": {
+      "en": "Wales"
+    },
+    "note": {
+      "en": "Two real traditions exist: an older yeast-leavened bread and this now-dominant chemically-leavened tea loaf. This entry follows the tea loaf, the version most Welsh households and cafés make today; eaten at teatime, St David's Day and Christmas."
+    }
   },
   "leaven": "chemical",
   "family": "quick",
@@ -44,7 +48,9 @@
     {
       "key": "flour:wheat-white",
       "grams": 250,
-      "note": "self-raising flour"
+      "note": {
+        "en": "self-raising flour"
+      }
     },
     {
       "label": {
@@ -55,17 +61,23 @@
         "ro": "ceai negru tare"
       },
       "grams": 300,
-      "note": "poured hot over the fruit, soaked overnight"
+      "note": {
+        "en": "poured hot over the fruit, soaked overnight"
+      }
     },
     {
       "key": "raisins",
       "grams": 400,
-      "note": "mixed sultanas, raisins and currants"
+      "note": {
+        "en": "mixed sultanas, raisins and currants"
+      }
     },
     {
       "key": "brown-sugar",
       "grams": 100,
-      "note": "dark muscovado"
+      "note": {
+        "en": "dark muscovado"
+      }
     },
     {
       "key": "egg",
@@ -80,18 +92,24 @@
         "ro": "amestec de mirodenii"
       },
       "grams": 5,
-      "note": "British-style blend: cinnamon, nutmeg, allspice"
+      "note": {
+        "en": "British-style blend: cinnamon, nutmeg, allspice"
+      }
     },
     {
       "key": "honey",
       "grams": 15,
-      "note": "for glazing after baking"
+      "note": {
+        "en": "for glazing after baking"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1000,
-    "shape": "2lb/900g loaf tin"
+    "shape": {
+      "en": "2lb/900g loaf tin"
+    }
   },
   "time": {
     "totalMin": 725,
@@ -129,7 +147,9 @@
   "keeping": {
     "freshDays": 6,
     "freezes": true,
-    "note": "Tea-soaked fruit keeps this loaf moist far longer than most quick breads; many say it's best on day two or three."
+    "note": {
+      "en": "Tea-soaked fruit keeps this loaf moist far longer than most quick breads; many say it's best on day two or three."
+    }
   },
   "equipment": [
     "loaf-pan"
@@ -220,7 +240,9 @@
     "url": "https://www.visitwales.com/things-do/food-and-drink/welsh-food-and-recipes/bara-brith-recipe",
     "site": "Visit Wales",
     "retrieved": "2026-07-17",
-    "adaptation": "Picked the dominant chemical tea-loaf version over the older yeasted original. Hydration% treats soaking tea as dough liquid, adapted since it's absorbed by fruit, not kneaded into gluten."
+    "adaptation": {
+      "en": "Picked the dominant chemical tea-loaf version over the older yeasted original. Hydration% treats soaking tea as dough liquid, adapted since it's absorbed by fruit, not kneaded into gluten."
+    }
   },
   "tags": [
     "teatime",

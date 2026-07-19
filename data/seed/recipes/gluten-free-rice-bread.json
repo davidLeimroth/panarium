@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "GB",
-    "region": "Modern British gluten-free home baking",
-    "note": "Developed by a British gluten-free flour brand as an accessible entry point into gluten-free baking; this batter-in-a-tin style of rice bread has no deep regional history of its own, unlike wheat or rye loaves."
+    "region": {
+      "en": "Modern British gluten-free home baking"
+    },
+    "note": {
+      "en": "Developed by a British gluten-free flour brand as an accessible entry point into gluten-free baking; this batter-in-a-tin style of rice bread has no deep regional history of its own, unlike wheat or rye loaves."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -43,7 +47,9 @@
     {
       "key": "flour:rice",
       "grams": 250,
-      "note": "white rice flour"
+      "note": {
+        "en": "white rice flour"
+      }
     },
     {
       "key": "water",
@@ -64,7 +70,9 @@
     {
       "key": "instant-yeast",
       "grams": 6,
-      "note": "quick/fast-action yeast"
+      "note": {
+        "en": "quick/fast-action yeast"
+      }
     },
     {
       "label": {
@@ -80,7 +88,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 520,
-    "shape": "500g / 1 lb tin loaf"
+    "shape": {
+      "en": "500g / 1 lb tin loaf"
+    }
   },
   "time": {
     "totalMin": 156,
@@ -117,7 +127,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Rice bread dries out quickly since it has no gluten network to hold moisture; best fresh or sliced and frozen within a day or two."
+    "note": {
+      "en": "Rice bread dries out quickly since it has no gluten network to hold moisture; best fresh or sliced and frozen within a day or two."
+    }
   },
   "equipment": [
     "loaf-pan"

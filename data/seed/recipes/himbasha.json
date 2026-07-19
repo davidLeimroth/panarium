@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "ER",
-    "region": "Eritrea and Ethiopia",
-    "note": "Baked for weddings, holidays and other celebrations; the scored wheel pattern on top is decorative and varies by household. Closely related to the Ethiopian ambasha."
+    "region": {
+      "en": "Eritrea and Ethiopia"
+    },
+    "note": {
+      "en": "Baked for weddings, holidays and other celebrations; the scored wheel pattern on top is decorative and varies by household. Closely related to the Ethiopian ambasha."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -49,7 +53,9 @@
     {
       "key": "water",
       "grams": 474,
-      "note": "lukewarm, about 36°C"
+      "note": {
+        "en": "lukewarm, about 36°C"
+      }
     },
     {
       "key": "active-dry-yeast",
@@ -58,7 +64,9 @@
     {
       "key": "cardamom",
       "grams": 4,
-      "note": "ground"
+      "note": {
+        "en": "ground"
+      }
     },
     {
       "key": "salt",
@@ -67,7 +75,9 @@
     {
       "key": "sugar",
       "grams": 67,
-      "note": "caster sugar"
+      "note": {
+        "en": "caster sugar"
+      }
     },
     {
       "label": {
@@ -78,28 +88,38 @@
         "ro": "semințe de negrilică"
       },
       "grams": 12,
-      "note": "or black sesame seeds"
+      "note": {
+        "en": "or black sesame seeds"
+      }
     },
     {
       "key": "butter",
       "grams": 114,
-      "note": "niter kibbeh (Ethiopian spiced clarified butter) or olive oil"
+      "note": {
+        "en": "niter kibbeh (Ethiopian spiced clarified butter) or olive oil"
+      }
     },
     {
       "key": "milk",
       "grams": 45,
-      "note": "for the finishing glaze"
+      "note": {
+        "en": "for the finishing glaze"
+      }
     },
     {
       "key": "butter",
       "grams": 41,
-      "note": "niter kibbeh or olive oil, for the finishing glaze"
+      "note": {
+        "en": "niter kibbeh or olive oil, for the finishing glaze"
+      }
     }
   ],
   "yield": {
     "count": 2,
     "pieceGrams": 690,
-    "shape": "flat round loaf, about 30 cm across"
+    "shape": {
+      "en": "flat round loaf, about 30 cm across"
+    }
   },
   "time": {
     "totalMin": 180,
@@ -139,7 +159,9 @@
   "keeping": {
     "freshDays": 3,
     "freezes": true,
-    "note": "Best the day or two after baking while soft; wrap well and freeze any extra loaf."
+    "note": {
+      "en": "Best the day or two after baking while soft; wrap well and freeze any extra loaf."
+    }
   },
   "equipment": [
     "loaf-pan",
@@ -263,7 +285,9 @@
     "url": "https://www.196flavors.com/himbasha/",
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
-    "adaptation": "Cup/tablespoon quantities converted to grams with standard baking equivalents; niter kibbeh treated as butter for the hydration and fat math."
+    "adaptation": {
+      "en": "Cup/tablespoon quantities converted to grams with standard baking equivalents; niter kibbeh treated as butter for the hydration and fat math."
+    }
   },
   "tags": [
     "celebration",

@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "PY",
-    "region": "nationwide (also northern Argentina)",
-    "note": "Distinct from Brazil's pao de queijo: firmer, less stretchy, shaped into rings rather than small balls, and often flavored with anise. A year-round snack, especially popular around Easter."
+    "region": {
+      "en": "nationwide (also northern Argentina)"
+    },
+    "note": {
+      "en": "Distinct from Brazil's pao de queijo: firmer, less stretchy, shaped into rings rather than small balls, and often flavored with anise. A year-round snack, especially popular around Easter."
+    }
   },
   "leaven": "chemical",
   "family": "ring",
@@ -41,22 +45,30 @@
     {
       "key": "flour:cassava",
       "grams": 400,
-      "note": "cassava/tapioca starch"
+      "note": {
+        "en": "cassava/tapioca starch"
+      }
     },
     {
       "key": "cheese",
       "grams": 300,
-      "note": "grated mozzarella"
+      "note": {
+        "en": "grated mozzarella"
+      }
     },
     {
       "key": "egg",
       "grams": 150,
-      "note": "3 large eggs"
+      "note": {
+        "en": "3 large eggs"
+      }
     },
     {
       "key": "vegetable-oil",
       "grams": 55,
-      "note": "or butter/lard"
+      "note": {
+        "en": "or butter/lard"
+      }
     },
     {
       "key": "milk",
@@ -73,13 +85,17 @@
     {
       "key": "anise",
       "grams": 1,
-      "note": "optional, whole seeds"
+      "note": {
+        "en": "optional, whole seeds"
+      }
     }
   ],
   "yield": {
     "count": 20,
     "pieceGrams": 43,
-    "shape": "small rings (rosquitas), rolled and joined into a loop"
+    "shape": {
+      "en": "small rings (rosquitas), rolled and joined into a loop"
+    }
   },
   "time": {
     "totalMin": 50,
@@ -117,7 +133,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best eaten warm the day it's baked while the cheesy chew is at its peak; reheats acceptably from frozen."
+    "note": {
+      "en": "Best eaten warm the day it's baked while the cheesy chew is at its peak; reheats acceptably from frozen."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -224,7 +242,9 @@
     "url": "https://www.laylita.com/recipes/paraguayan-chipa-cheese-bread/",
     "site": "Laylita's Recipes",
     "retrieved": "2026-07-18",
-    "adaptation": "Source's vague 'pinch' of salt standardized to a small defined baker's percentage, reflecting that the cheese itself supplies much of the seasoning."
+    "adaptation": {
+      "en": "Source's vague 'pinch' of salt standardized to a small defined baker's percentage, reflecting that the cheese itself supplies much of the seasoning."
+    }
   },
   "tags": [
     "paraguay",

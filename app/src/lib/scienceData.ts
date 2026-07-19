@@ -56,11 +56,17 @@ export interface FaultEntry {
   id: string;
   stage: 'mixing' | 'fermentation' | 'shaping' | 'baking' | 'storage';
   fault: LocalizedSci;
-  signs?: string[];
-  causes: string[];
-  fixes: string[];
+  signs?: LocalizedSci[];
+  causes: LocalizedSci[];
+  fixes: LocalizedSci[];
   article?: string;
 }
+
+// A localized entry must be an object carrying at least English. Checking only
+// Array.isArray would let a half-migrated fault through, and a raw string here
+// renders as "undefined" once pick() looks for a language key on it.
+const isLocalized = (v: unknown): v is LocalizedSci =>
+  typeof v === 'object' && v !== null && typeof (v as Record<string, unknown>).en === 'string';
 
 function validFault(v: unknown): v is FaultEntry {
   if (typeof v !== 'object' || v === null) return false;
@@ -68,9 +74,12 @@ function validFault(v: unknown): v is FaultEntry {
   return (
     typeof o.id === 'string' &&
     typeof o.stage === 'string' &&
-    typeof o.fault === 'object' &&
+    isLocalized(o.fault) &&
     Array.isArray(o.causes) &&
-    Array.isArray(o.fixes)
+    o.causes.every(isLocalized) &&
+    Array.isArray(o.fixes) &&
+    o.fixes.every(isLocalized) &&
+    (o.signs === undefined || (Array.isArray(o.signs) && o.signs.every(isLocalized)))
   );
 }
 

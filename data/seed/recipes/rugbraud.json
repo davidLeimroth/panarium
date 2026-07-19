@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "IS",
-    "region": "notably Laugarvatn and other geothermal areas",
-    "note": "Nicknamed þrumari ('thunderer'); rye became Iceland's main grain after Denmark's 1602-1786 trade monopoly."
+    "region": {
+      "en": "notably Laugarvatn and other geothermal areas"
+    },
+    "note": {
+      "en": "Nicknamed þrumari ('thunderer'); rye became Iceland's main grain after Denmark's 1602-1786 trade monopoly."
+    }
   },
   "leaven": "chemical",
   "family": "pan-loaf",
@@ -78,7 +82,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1900,
-    "shape": "large round loaf baked in a covered pot"
+    "shape": {
+      "en": "large round loaf baked in a covered pot"
+    }
   },
   "time": {
     "totalMin": 705,
@@ -117,7 +123,9 @@
   "keeping": {
     "freshDays": 7,
     "freezes": true,
-    "note": "Stays moist about a week wrapped; traditionally sliced thin with butter, smoked fish or hangikjöt."
+    "note": {
+      "en": "Stays moist about a week wrapped; traditionally sliced thin with butter, smoked fish or hangikjöt."
+    }
   },
   "equipment": [
     "dutch-oven"
@@ -224,7 +232,9 @@
     "url": "https://thetoothsometable.com/bread/icelandic-rye-bread-rugbraud/",
     "site": "The Toothsome Table",
     "retrieved": "2026-07-17",
-    "adaptation": "Home-oven method from the source; the traditional version is buried and steam-baked near a geothermal hot spring for about 24 hours."
+    "adaptation": {
+      "en": "Home-oven method from the source; the traditional version is buried and steam-baked near a geothermal hot spring for about 24 hours."
+    }
   },
   "tags": [
     "geothermal",

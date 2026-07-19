@@ -20,8 +20,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern gluten-free home baking",
-    "note": "Millet has been a staple grain across Africa and Asia for millennia, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique rather than a traditional regional bread."
+    "region": {
+      "en": "Modern gluten-free home baking"
+    },
+    "note": {
+      "en": "Millet has been a staple grain across Africa and Asia for millennia, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique rather than a traditional regional bread."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -87,13 +91,17 @@
     {
       "key": "baking-powder",
       "grams": 4,
-      "note": "optional"
+      "note": {
+        "en": "optional"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1080,
-    "shape": "9 x 5 in loaf pan"
+    "shape": {
+      "en": "9 x 5 in loaf pan"
+    }
   },
   "time": {
     "totalMin": 220,
@@ -131,7 +139,9 @@
   "keeping": {
     "freshDays": 3.5,
     "freezes": true,
-    "note": "Keeps 3-4 days at room temperature and up to 3 months frozen."
+    "note": {
+      "en": "Keeps 3-4 days at room temperature and up to 3 months frozen."
+    }
   },
   "equipment": [
     "loaf-pan"

@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "DE",
-    "region": "Bavaria and Swabia (Baden-Württemberg)",
-    "note": "The lye dip is what defines Laugengebäck as a category; without it the same dough would just be a plain roll."
+    "region": {
+      "en": "Bavaria and Swabia (Baden-Württemberg)"
+    },
+    "note": {
+      "en": "The lye dip is what defines Laugengebäck as a category; without it the same dough would just be a plain roll."
+    }
   },
   "leaven": "yeast",
   "family": "roll",
@@ -44,12 +48,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 575,
-      "note": "wheat flour type 550, split between pre-dough and main dough"
+      "note": {
+        "en": "wheat flour type 550, split between pre-dough and main dough"
+      }
     },
     {
       "key": "water",
       "grams": 290,
-      "note": "cold, split between stages"
+      "note": {
+        "en": "cold, split between stages"
+      }
     },
     {
       "key": "salt",
@@ -62,13 +70,17 @@
     {
       "key": "butter",
       "grams": 40,
-      "note": "or lard"
+      "note": {
+        "en": "or lard"
+      }
     }
   ],
   "yield": {
     "count": 10,
     "pieceGrams": 88,
-    "shape": "classic hand-twisted pretzel knot"
+    "shape": {
+      "en": "classic hand-twisted pretzel knot"
+    }
   },
   "time": {
     "totalMin": 820,
@@ -108,7 +120,9 @@
   "keeping": {
     "freshDays": 1,
     "freezes": true,
-    "note": "Best the day it's baked; the lye crust turns leathery quickly. Refresh in a hot oven to re-crisp."
+    "note": {
+      "en": "Best the day it's baked; the lye crust turns leathery quickly. Refresh in a hot oven to re-crisp."
+    }
   },
   "equipment": [
     "sheet-pan",

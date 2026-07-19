@@ -22,8 +22,12 @@
   },
   "origin": {
     "country": "RU",
-    "region": "Russia-wide, Orthodox tradition",
-    "note": "Blessed by an Orthodox priest alongside painted eggs and paskha cheese on Holy Saturday, then eaten at the Easter breakfast that breaks the Lenten fast."
+    "region": {
+      "en": "Russia-wide, Orthodox tradition"
+    },
+    "note": {
+      "en": "Blessed by an Orthodox priest alongside painted eggs and paskha cheese on Holy Saturday, then eaten at the Easter breakfast that breaks the Lenten fast."
+    }
   },
   "leaven": "yeast",
   "family": "sweet-loaf",
@@ -45,22 +49,30 @@
     {
       "key": "flour:wheat-white",
       "grams": 435,
-      "note": "high-protein bread flour; 100 g in the overnight preferment, 335 g in the main dough"
+      "note": {
+        "en": "high-protein bread flour; 100 g in the overnight preferment, 335 g in the main dough"
+      }
     },
     {
       "key": "water",
       "grams": 114,
-      "note": "for the preferment"
+      "note": {
+        "en": "for the preferment"
+      }
     },
     {
       "key": "fresh-yeast",
       "grams": 13,
-      "note": "1 g in the preferment, 12 g in the main dough"
+      "note": {
+        "en": "1 g in the preferment, 12 g in the main dough"
+      }
     },
     {
       "key": "sugar",
       "grams": 55,
-      "note": "in the dough"
+      "note": {
+        "en": "in the dough"
+      }
     },
     {
       "key": "honey",
@@ -69,12 +81,16 @@
     {
       "key": "egg",
       "grams": 200,
-      "note": "3 large eggs plus 1 extra yolk"
+      "note": {
+        "en": "3 large eggs plus 1 extra yolk"
+      }
     },
     {
       "key": "butter",
       "grams": 165,
-      "note": "cold, cubed"
+      "note": {
+        "en": "cold, cubed"
+      }
     },
     {
       "key": "salt",
@@ -83,7 +99,9 @@
     {
       "key": "vanilla",
       "grams": 2,
-      "note": "seeds scraped from about half a vanilla pod"
+      "note": {
+        "en": "seeds scraped from about half a vanilla pod"
+      }
     },
     {
       "label": {
@@ -94,27 +112,37 @@
         "ro": "fire de șofran"
       },
       "grams": 0.3,
-      "note": "steeped in warm milk; traditional but often left out today"
+      "note": {
+        "en": "steeped in warm milk; traditional but often left out today"
+      }
     },
     {
       "key": "raisins",
       "grams": 100,
-      "note": "sultanas, soaked in a spiced rum syrup and drained"
+      "note": {
+        "en": "sultanas, soaked in a spiced rum syrup and drained"
+      }
     },
     {
       "key": "candied-citrus",
       "grams": 50,
-      "note": "candied orange peel, for the traditional studded crumb"
+      "note": {
+        "en": "candied orange peel, for the traditional studded crumb"
+      }
     },
     {
       "key": "egg",
       "grams": 38,
-      "note": "egg white only, whisked into the icing"
+      "note": {
+        "en": "egg white only, whisked into the icing"
+      }
     },
     {
       "key": "sugar",
       "grams": 76,
-      "note": "for the icing, whisked with the egg white"
+      "note": {
+        "en": "for the icing, whisked with the egg white"
+      }
     },
     {
       "label": {
@@ -125,13 +153,17 @@
         "ro": "ornamente colorate din zahăr"
       },
       "grams": 8,
-      "note": "for decorating the icing"
+      "note": {
+        "en": "for decorating the icing"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 1160,
-    "shape": "tall cylindrical dome in a tube mold or tall can"
+    "shape": {
+      "en": "tall cylindrical dome in a tube mold or tall can"
+    }
   },
   "time": {
     "totalMin": 1912,
@@ -172,7 +204,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Best within a few days; the iced dome means it's kept loosely covered rather than sealed airtight."
+    "note": {
+      "en": "Best within a few days; the iced dome means it's kept loosely covered rather than sealed airtight."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -296,7 +330,9 @@
     "url": "https://bake-street.com/en/kulich-russian-easter-bread/",
     "site": "Bake-Street.com",
     "retrieved": "2026-07-17",
-    "adaptation": "Swapped the source's modern berry/nut/petal garnish for a classic icing-and-sprinkles finish; added a pinch of saffron and some candied peel alongside its raisins, per traditional kulich practice."
+    "adaptation": {
+      "en": "Swapped the source's modern berry/nut/petal garnish for a classic icing-and-sprinkles finish; added a pinch of saffron and some candied peel alongside its raisins, per traditional kulich practice."
+    }
   },
   "tags": [
     "easter",

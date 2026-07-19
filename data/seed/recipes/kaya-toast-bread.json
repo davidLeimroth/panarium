@@ -21,8 +21,12 @@
   },
   "origin": {
     "country": "SG",
-    "region": "Singapore and Malaysia, via Hainanese immigrant cooks",
-    "note": "Traditional kopitiam bakeries often used vegetable shortening rather than butter or milk powder, since dairy was costly and refrigeration scarce; this is a modern home-kitchen version."
+    "region": {
+      "en": "Singapore and Malaysia, via Hainanese immigrant cooks"
+    },
+    "note": {
+      "en": "Traditional kopitiam bakeries often used vegetable shortening rather than butter or milk powder, since dairy was costly and refrigeration scarce; this is a modern home-kitchen version."
+    }
   },
   "leaven": "yeast",
   "family": "pan-loaf",
@@ -44,12 +48,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 350,
-      "note": "bread flour"
+      "note": {
+        "en": "bread flour"
+      }
     },
     {
       "key": "milk",
       "grams": 15,
-      "note": "dry milk powder; not counted toward hydration"
+      "note": {
+        "en": "dry milk powder; not counted toward hydration"
+      }
     },
     {
       "key": "sugar",
@@ -66,18 +74,24 @@
     {
       "key": "water",
       "grams": 225,
-      "note": "cold"
+      "note": {
+        "en": "cold"
+      }
     },
     {
       "key": "butter",
       "grams": 30,
-      "note": "softened"
+      "note": {
+        "en": "softened"
+      }
     }
   ],
   "yield": {
     "count": 1,
     "pieceGrams": 638,
-    "shape": "tall pullman or standard loaf, crusts often trimmed"
+    "shape": {
+      "en": "tall pullman or standard loaf, crusts often trimmed"
+    }
   },
   "time": {
     "totalMin": 200,
@@ -116,7 +130,9 @@
   "keeping": {
     "freshDays": 4,
     "freezes": true,
-    "note": "Slices cleanly once fully cooled; kopitiam cooks often bake it a day ahead so it is firm enough to slice thin for toasting."
+    "note": {
+      "en": "Slices cleanly once fully cooled; kopitiam cooks often bake it a day ahead so it is firm enough to slice thin for toasting."
+    }
   },
   "equipment": [
     "stand-mixer",
@@ -240,7 +256,9 @@
     "url": "https://whattocooktoday.com/hainanese-bread-loaf.html",
     "site": "What To Cook Today",
     "retrieved": "2026-07-18",
-    "adaptation": "Salt increased slightly from the source's scant 1/4 tsp for balance."
+    "adaptation": {
+      "en": "Salt increased slightly from the source's scant 1/4 tsp for balance."
+    }
   },
   "tags": [
     "kopitiam",

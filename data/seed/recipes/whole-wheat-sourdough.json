@@ -19,8 +19,12 @@
   },
   "origin": {
     "country": "US",
-    "region": "Modern American artisan bakeries",
-    "note": "A contemporary high-hydration approach to whole wheat sourdough, distinct from denser European wholegrain traditions."
+    "region": {
+      "en": "Modern American artisan bakeries"
+    },
+    "note": {
+      "en": "A contemporary high-hydration approach to whole wheat sourdough, distinct from denser European wholegrain traditions."
+    }
   },
   "leaven": "sourdough",
   "family": "hearth-loaf",
@@ -44,12 +48,16 @@
     {
       "key": "flour:wheat-white",
       "grams": 290,
-      "note": "all-purpose"
+      "note": {
+        "en": "all-purpose"
+      }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 790,
-      "note": "290g stoneground whole wheat, 500g high-extraction (Type 85-style)"
+      "note": {
+        "en": "290g stoneground whole wheat, 500g high-extraction (Type 85-style)"
+      }
     },
     {
       "key": "water",
@@ -58,7 +66,9 @@
     {
       "key": "sourdough-starter",
       "grams": 40,
-      "note": "100% hydration"
+      "note": {
+        "en": "100% hydration"
+      }
     },
     {
       "key": "salt",
@@ -78,7 +88,9 @@
   "yield": {
     "count": 2,
     "pieceGrams": 1000,
-    "shape": "boule"
+    "shape": {
+      "en": "boule"
+    }
   },
   "time": {
     "totalMin": 1430,
@@ -257,7 +269,9 @@
     "site": "The Perfect Loaf",
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
-    "adaptation": "High-extraction flour modeled as a 60/40 white/whole-wheat blend (no exact taxonomy match) for the formula breakdown; ingredient list keeps the flour as named in the source."
+    "adaptation": {
+      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend (no exact taxonomy match) for the formula breakdown; ingredient list keeps the flour as named in the source."
+    }
   },
   "tags": [
     "whole-grain",

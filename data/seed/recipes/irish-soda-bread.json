@@ -17,8 +17,12 @@
   },
   "origin": {
     "country": "IE",
-    "region": "nationwide, rural households",
-    "note": "First published in Irish newspapers in the 1830s; baking soda gave poor households a leavened bread without the expense of yeast."
+    "region": {
+      "en": "nationwide, rural households"
+    },
+    "note": {
+      "en": "First published in Irish newspapers in the 1830s; baking soda gave poor households a leavened bread without the expense of yeast."
+    }
   },
   "leaven": "chemical",
   "family": "quick",
@@ -41,7 +45,9 @@
     {
       "key": "buttermilk",
       "grams": 470,
-      "note": "cold"
+      "note": {
+        "en": "cold"
+      }
     },
     {
       "key": "baking-soda",
@@ -55,7 +61,9 @@
   "yield": {
     "count": 1,
     "pieceGrams": 1063,
-    "shape": "8-inch round, deep cross scored on top"
+    "shape": {
+      "en": "8-inch round, deep cross scored on top"
+    }
   },
   "time": {
     "totalMin": 75,
@@ -93,7 +101,9 @@
   "keeping": {
     "freshDays": 2,
     "freezes": true,
-    "note": "Best the day it's baked or toasted the day after; stales faster than yeasted bread."
+    "note": {
+      "en": "Best the day it's baked or toasted the day after; stales faster than yeasted bread."
+    }
   },
   "equipment": [
     "sheet-pan"
@@ -200,7 +210,9 @@
     "url": "https://www.countrysidecravings.com/irish-soda-bread/",
     "site": "Countryside Cravings",
     "retrieved": "2026-07-17",
-    "adaptation": "Kept to the traditional four ingredients; optional raisins, zest and sugar mentioned by the source were omitted."
+    "adaptation": {
+      "en": "Kept to the traditional four ingredients; optional raisins, zest and sugar mentioned by the source were omitted."
+    }
   },
   "tags": [
     "quick-bread",
