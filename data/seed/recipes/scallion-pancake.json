@@ -5,7 +5,8 @@
     "de": "Frühlingszwiebel-Pfannkuchen (Cong You Bing)",
     "es": "Panqueque de cebolleta (Cong You Bing)",
     "fr": "Galette à la ciboule (Cong You Bing)",
-    "native": "葱油饼"
+    "native": "葱油饼",
+    "ro": "Clătită cu ceapă verde (Cong You Bing)"
   },
   "aliases": [
     "cong you bing",
@@ -15,7 +16,8 @@
     "en": "A hot-water dough laminated with a scallion-flecked fat paste, coiled into a spiral and pan-fried until crisp outside and chewy in flaky spirals within. A northern Chinese breakfast and street-stall favorite, torn into wedges.",
     "de": "Ein Heißwasserteig, mit einer mit Frühlingszwiebeln gespickten Fettpaste laminiert, zur Spirale aufgerollt und in der Pfanne gebraten, bis er außen knusprig und innen zäh-blättrig ist. Ein nordchinesischer Frühstücks- und Straßenstand-Favorit, in Keile gerissen.",
     "es": "Una masa de agua caliente laminada con una pasta de grasa moteada de cebolleta, enrollada en espiral y frita en sartén hasta quedar crujiente por fuera y masticable en espirales hojaldradas por dentro. Un favorito del desayuno y los puestos callejeros del norte de China.",
-    "fr": "Une pâte à l'eau chaude feuilletée d'une pâte grasse mouchetée de ciboule, enroulée en spirale et poêlée jusqu'à devenir croustillante à l'extérieur et moelleuse en spirales feuilletées à l'intérieur. Un favori du petit-déjeuner et des étals de rue du nord de la Chine."
+    "fr": "Une pâte à l'eau chaude feuilletée d'une pâte grasse mouchetée de ciboule, enroulée en spirale et poêlée jusqu'à devenir croustillante à l'extérieur et moelleuse en spirales feuilletées à l'intérieur. Un favori du petit-déjeuner et des étals de rue du nord de la Chine.",
+    "ro": "Un aluat opărit, laminat cu o pastă grasă presărată cu ceapă verde, rulat în spirală și prăjit în tigaie până devine crocant la exterior și elastic, în straturi fragede, la interior. Preferat la micul dejun și la tarabele de stradă din nordul Chinei, rupt în felii."
   },
   "origin": {
     "country": "CN",
@@ -67,7 +69,8 @@
         "en": "ground Sichuan pepper",
         "de": "gemahlener Sichuan-Pfeffer",
         "es": "pimienta de Sichuan molida",
-        "fr": "poivre du Sichuan moulu"
+        "fr": "poivre du Sichuan moulu",
+        "ro": "piper Sichuan, măcinat"
       },
       "grams": 0.5,
       "note": "or five-spice powder, in the paste"
@@ -82,7 +85,8 @@
         "en": "scallions",
         "de": "Frühlingszwiebeln",
         "es": "cebolletas",
-        "fr": "ciboules"
+        "fr": "ciboules",
+        "ro": "ceapă verde"
       },
       "grams": 40,
       "note": "finely chopped"

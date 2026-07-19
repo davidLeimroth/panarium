@@ -5,7 +5,8 @@
     "de": "Cozonac (rumänisches Walnuss-Wirbelbrot)",
     "es": "Cozonac (pan rumano con remolino de nueces)",
     "fr": "Cozonac (brioche roumaine au tourbillon de noix)",
-    "native": "Cozonac"
+    "native": "Cozonac",
+    "ro": "Cozonac"
   },
   "aliases": [
     "kozunak (Bulgaria)",
@@ -16,7 +17,8 @@
     "en": "Romania's holiday centerpiece: a soft, egg-yellow yeasted loaf twisted around a walnut-cocoa filling before baking, so every slice reveals a dark marbled swirl. Cozonac appears at both Christmas and Easter, always cut thick and shared.",
     "de": "Rumäniens Festtagsgebäck: ein weicher, eigelbgelber Hefeteig, der vor dem Backen um eine Walnuss-Kakao-Füllung gedreht wird, sodass jede Scheibe eine dunkle Marmorierung zeigt. Cozonac kommt zu Weihnachten wie zu Ostern auf den Tisch.",
     "es": "El pan festivo de Rumanía: una masa de levadura suave y amarilla, retorcida antes de hornear alrededor de un relleno de nuez y cacao, de modo que cada rebanada muestra un remolino oscuro. El cozonac se sirve en Navidad y en Pascua.",
-    "fr": "La brioche des fêtes en Roumanie : une pâte levée, moelleuse et dorée aux jaunes d'œuf, torsadée avant cuisson autour d'une garniture de noix et de cacao, si bien que chaque tranche révèle un tourbillon sombre. Servie à Noël et à Pâques."
+    "fr": "La brioche des fêtes en Roumanie : une pâte levée, moelleuse et dorée aux jaunes d'œuf, torsadée avant cuisson autour d'une garniture de noix et de cacao, si bien que chaque tranche révèle un tourbillon sombre. Servie à Noël et à Pâques.",
+    "ro": "Vedeta sărbătorilor românești: o pâine dospită, moale, galbenă de la ouă, răsucită în jurul unei umpluturi de nucă și cacao, așa că fiecare felie arată un vârtej închis la culoare. Cozonacul apare și de Crăciun, și de Paște, tăiat în felii groase și împărțit."
   },
   "origin": {
     "country": "RO",
@@ -68,7 +70,8 @@
         "en": "sour cream",
         "de": "Saure Sahne",
         "es": "crema agria",
-        "fr": "crème fraîche épaisse"
+        "fr": "crème fraîche épaisse",
+        "ro": "smântână"
       },
       "grams": 30
     },
@@ -115,7 +118,8 @@
         "en": "rum extract",
         "de": "Rumaroma",
         "es": "extracto de ron",
-        "fr": "arôme de rhum"
+        "fr": "arôme de rhum",
+        "ro": "esență de rom"
       },
       "grams": 8,
       "note": "in the filling"

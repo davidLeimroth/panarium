@@ -5,7 +5,8 @@
     "de": "Kare-pan (japanisches Curry-Brot)",
     "es": "Kare-pan (pan de curry japonés)",
     "fr": "Kare-pan (pain au curry japonais)",
-    "native": "カレーパン"
+    "native": "カレーパン",
+    "ro": "Kare-pan (pâine japoneză cu curry)"
   },
   "aliases": [
     "curry bread",
@@ -15,7 +16,8 @@
     "en": "A yeasted bun sealed around thick, chilled Japanese curry, breaded in panko and deep-fried until the shell turns into a crisp, shard-like crust. A bakery-case staple, eaten out of hand as a savory snack rather than with a knife and fork.",
     "de": "Ein Hefebrötchen, um dickflüssiges, gekühltes japanisches Curry verschlossen, in Panko paniert und frittiert, bis die Schale knusprig und splittrig wird. Ein Bäckerei-Standard, aus der Hand gegessen statt mit Messer und Gabel.",
     "es": "Un bollo de levadura sellado alrededor de curry japonés espeso y frío, empanizado en panko y frito hasta que la cáscara se convierte en una corteza crujiente y quebradiza. Un clásico de la vitrina de panadería, se come con la mano como aperitivo salado, sin cuchillo ni tenedor.",
-    "fr": "Un petit pain levé scellé autour d'un curry japonais épais et refroidi, pané au panko et frit jusqu'à ce que la coque devienne une croûte croustillante et cassante. Un classique de vitrine de boulangerie, mangé à la main comme en-cas salé plutôt qu'au couteau et à la fourchette."
+    "fr": "Un petit pain levé scellé autour d'un curry japonais épais et refroidi, pané au panko et frit jusqu'à ce que la coque devienne une croûte croustillante et cassante. Un classique de vitrine de boulangerie, mangé à la main comme en-cas salé plutôt qu'au couteau et à la fourchette.",
+    "ro": "O chiflă dospită, sigilată în jurul unui curry japonez gros și rece, dată prin pesmet panko și prăjită în baie de ulei până coaja devine crocantă, ca niște cioburi. Un clasic de vitrină de brutărie, mâncat din mână, ca gustare sărată, nu cu cuțitul și furculița."
   },
   "origin": {
     "country": "JP",
@@ -69,7 +71,8 @@
         "en": "Japanese curry filling, thick and chilled (with vegetables and meat)",
         "de": "japanische Curry-Füllung, dickflüssig und gekühlt (mit Gemüse und Fleisch)",
         "es": "relleno de curry japonés, espeso y frío (con verduras y carne)",
-        "fr": "garniture de curry japonais, épaisse et refroidie (avec légumes et viande)"
+        "fr": "garniture de curry japonais, épaisse et refroidie (avec légumes et viande)",
+        "ro": "umplutură japoneză de curry, groasă și rece (cu legume și carne)"
       },
       "grams": 180,
       "note": "about 1-1.5 tbsp per bun"
@@ -84,7 +87,8 @@
         "en": "panko breadcrumbs",
         "de": "Panko-Semmelbrösel",
         "es": "pan rallado panko",
-        "fr": "chapelure panko"
+        "fr": "chapelure panko",
+        "ro": "pesmet panko"
       },
       "grams": 50
     },

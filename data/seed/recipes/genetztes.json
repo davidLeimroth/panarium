@@ -4,7 +4,8 @@
     "en": "Genetztes Brot (Wet-Shaped Bread)",
     "de": "Genetztes Brot",
     "es": "Pan humedecido (Genetztes Brot)",
-    "fr": "Pain humidifié (Genetztes Brot)"
+    "fr": "Pain humidifié (Genetztes Brot)",
+    "ro": "Genetztes Brot (pâine modelată prin umezire)"
   },
   "aliases": [
     "Netzbrot",
@@ -14,7 +15,8 @@
     "en": "A Swabian specialty shaped not by scoring but by wetting: bakers slap and tighten the risen dough with soaked hands until the skin turns glassy, then bake it bare. No slashes, no bloom - just a smooth, mirror-bright crust over an open, wheaty crumb.",
     "de": "Eine schwäbische Spezialität, die nicht eingeschnitten, sondern genetzt wird: Der reife Teig wird mit nassen Händen rund geschlagen, bis die Haut glänzt, dann unversehrt gebacken. Kein Einschnitt, kein Ausbund – nur eine spiegelglatte Kruste über lockerer, weiziger Krume.",
     "es": "Una especialidad suaba que no se corta, sino que se humedece: la masa madura se golpea y tensa con las manos mojadas hasta que la piel brilla, y se hornea sin marcas. Sin cortes ni greña, solo una corteza lisa y brillante sobre una miga aireada de trigo.",
-    "fr": "Une spécialité souabe qu'on ne lame pas, mais qu'on mouille: la pâte mûre est tapotée et retendue à mains humides jusqu'à ce que la peau devienne brillante, puis cuite telle quelle. Ni grigne ni lamage, juste une croûte lisse et brillante sur une mie aérée."
+    "fr": "Une spécialité souabe qu'on ne lame pas, mais qu'on mouille: la pâte mûre est tapotée et retendue à mains humides jusqu'à ce que la peau devienne brillante, puis cuite telle quelle. Ni grigne ni lamage, juste une croûte lisse et brillante sur une mie aérée.",
+    "ro": "O specialitate șvabă modelată nu prin crestare, ci prin umezire: brutarii bat și întind aluatul crescut cu mâinile ude până coaja devine sticloasă, apoi îl coc simplu. Fără crestături, doar o coajă netedă și lucioasă, peste un miez deschis, cu gust de grâu."
   },
   "origin": {
     "country": "DE",
@@ -79,7 +81,8 @@
         "en": "toasted ground stale bread",
         "de": "geröstetes, gemahlenes Altbrot",
         "es": "pan duro tostado y molido",
-        "fr": "vieux pain grillé et moulu"
+        "fr": "vieux pain grillé et moulu",
+        "ro": "pâine veche, prăjită și măcinată"
       },
       "grams": 43
     },

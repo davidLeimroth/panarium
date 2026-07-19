@@ -4,7 +4,8 @@
     "en": "Whole Wheat Sourdough",
     "de": "Vollkorn-Weizensauerteigbrot",
     "es": "Pan integral de trigo con masa madre",
-    "fr": "Pain de blé complet au levain"
+    "fr": "Pain de blé complet au levain",
+    "ro": "Pâine integrală de grâu cu maia"
   },
   "aliases": [
     "High-hydration whole wheat sourdough"
@@ -13,7 +14,8 @@
     "en": "A boldly whole-grain loaf built from stoneground and high-extraction wheat flours at a startling 95% hydration. Wheat germ folded in for extra nutty crunch gives a hearty crumb that still stays remarkably light for how much bran it carries.",
     "de": "Ein konsequent vollkörniges Brot aus geschrotetem und hochausgemahlenem Weizenmehl bei erstaunlichen 95% Hydration. Untergemischter Weizenkeim sorgt für nussigen Biss – eine herzhafte Krume, die trotz der Kleiemenge bemerkenswert locker bleibt.",
     "es": "Un pan decididamente integral hecho con harinas de trigo molidas en piedra y de alta extracción, a una sorprendente hidratación del 95%. El germen de trigo añade un toque crujiente, dando una miga sustanciosa que se mantiene ligera pese a tanto salvado.",
-    "fr": "Un pain résolument complet, à base de farines de blé moulues sur meule et à haute extraction, avec une hydratation stupéfiante de 95%. Le germe de blé ajouté apporte un croquant noisetté, pour une mie généreuse qui reste étonnamment légère malgré tout ce son."
+    "fr": "Un pain résolument complet, à base de farines de blé moulues sur meule et à haute extraction, avec une hydratation stupéfiante de 95%. Le germe de blé ajouté apporte un croquant noisetté, pour une mie généreuse qui reste étonnamment légère malgré tout ce son.",
+    "ro": "O pâine cu adevărat integrală, din făinuri de grâu măcinate la piatră și cu extracție mare, la o hidratare surprinzătoare de 95%. Germenii de grâu adăugați pentru un plus de crocanță aromată dau un miez consistent, dar remarcabil de ușor pentru câtă tărâță conține."
   },
   "origin": {
     "country": "US",
@@ -67,7 +69,8 @@
         "en": "wheat germ",
         "de": "Weizenkeime",
         "es": "germen de trigo",
-        "fr": "germe de blé"
+        "fr": "germe de blé",
+        "ro": "germeni de grâu"
       },
       "grams": 50
     }

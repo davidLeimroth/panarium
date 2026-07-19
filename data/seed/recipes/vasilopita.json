@@ -5,7 +5,8 @@
     "de": "Vasilopita (Neujahrsbrot des Heiligen Basilius)",
     "es": "Vasilopita (Pan de Año Nuevo de San Basilio)",
     "fr": "Vasilopita (Pain du Nouvel An de Saint-Basile)",
-    "native": "Βασιλόπιτα"
+    "native": "Βασιλόπιτα",
+    "ro": "Vasilopita (pâine de Anul Nou a Sfântului Vasile)"
   },
   "aliases": [
     "Vasilopita tsoureki",
@@ -16,7 +17,8 @@
     "en": "Greece's New Year loaf, cut open on January 1st for St Basil's Day with a coin baked inside for good luck. This yeasted, tsoureki-style version is scented with mahlab and mastic; many families bake a simpler cake instead.",
     "de": "Griechenlands Neujahrsbrot, das am 1. Januar zum Basiliusfest angeschnitten wird - mit einer Münze für Glück im neuen Jahr. Diese Hefeteig-Version im Tsoureki-Stil duftet nach Mahlab und Mastix; manche backen lieber einen Kuchen.",
     "es": "El pan de Año Nuevo griego, que se corta el 1 de enero por San Basilio con una moneda escondida que trae suerte. Esta versión con levadura, al estilo tsoureki, huele a mahlab y almáciga; muchas familias prefieren un bizcocho.",
-    "fr": "Le pain du Nouvel An grec, coupé le 1er janvier pour la Saint-Basile avec une pièce porte-bonheur cachée dedans. Cette version levée façon tsoureki embaume le mahlab et le mastic ; beaucoup de familles préfèrent un gâteau."
+    "fr": "Le pain du Nouvel An grec, coupé le 1er janvier pour la Saint-Basile avec une pièce porte-bonheur cachée dedans. Cette version levée façon tsoureki embaume le mahlab et le mastic ; beaucoup de familles préfèrent un gâteau.",
+    "ro": "Pâinea de Anul Nou a Greciei, tăiată pe 1 ianuarie, de Sfântul Vasile, cu o monedă coaptă înăuntru pentru noroc. Această variantă dospită, în stil tsoureki, e aromată cu mahlep și mastic; multe familii coc în schimb un cozonac mai simplu."
   },
   "origin": {
     "country": "GR",
@@ -83,7 +85,8 @@
         "en": "mahlab (ground cherry-pit spice)",
         "de": "Mahlab (gemahlenes Kirschkerngewürz)",
         "es": "majlab (especia de hueso de cereza molido)",
-        "fr": "mahleb (épice de noyau de cerise moulue)"
+        "fr": "mahleb (épice de noyau de cerise moulue)",
+        "ro": "mahlep (condiment din sâmburi de cireș măcinați)"
       },
       "grams": 4
     },
@@ -92,7 +95,8 @@
         "en": "mastic resin, ground",
         "de": "Mastix-Harz, gemahlen",
         "es": "resina de almáciga, molida",
-        "fr": "résine de mastic, moulue"
+        "fr": "résine de mastic, moulue",
+        "ro": "rășină de mastic, măcinată"
       },
       "grams": 1,
       "note": "crushed with a little of the sugar"

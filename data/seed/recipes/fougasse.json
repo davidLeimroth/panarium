@@ -5,7 +5,8 @@
     "de": "Fougasse (provenzalisches Olivenbrot)",
     "es": "Fougasse (pan provenzal de aceitunas)",
     "fr": "Fougasse aux olives",
-    "native": "Fougasse"
+    "native": "Fougasse",
+    "ro": "Fougasse (pâine provensală cu măsline)"
   },
   "aliases": [
     "fougasse provençale"
@@ -14,7 +15,8 @@
     "en": "A flat, leaf-shaped Provençal loaf slashed into a lattice so it bakes thin and mostly crust, its olive-oil dough studded with black olives and herbes de Provence. Descended from the Roman panis focacius.",
     "de": "Ein flaches, blattförmiges provenzalisches Brot mit gitterartigen Einschnitten, das dünn und fast nur aus Kruste bäckt; der Olivenölteig ist gespickt mit schwarzen Oliven und Kräutern der Provence. Abstammend vom römischen panis focacius.",
     "es": "Una hogaza provenzal plana, en forma de hoja, cortada en celosía para que se hornee fina y casi toda corteza; su masa con aceite de oliva va salpicada de aceitunas negras y hierbas de Provenza. Desciende del panis focacius romano.",
-    "fr": "Un pain provençal plat en forme de feuille, entaillé en réseau pour cuire fin et croustillant à souhait, à la pâte à l'huile d'olive parsemée d'olives noires et d'herbes de Provence. Descendant du panis focacius romain."
+    "fr": "Un pain provençal plat en forme de feuille, entaillé en réseau pour cuire fin et croustillant à souhait, à la pâte à l'huile d'olive parsemée d'olives noires et d'herbes de Provence. Descendant du panis focacius romain.",
+    "ro": "O pâine provensală plată, în formă de frunză, crestată ca o zăbrea, astfel încât se coace subțire și aproape numai coajă; aluatul cu ulei de măsline e presărat cu măsline negre și ierburi de Provence. Descinde din panis focacius al romanilor."
   },
   "origin": {
     "country": "FR",
@@ -61,7 +63,8 @@
         "en": "black olives",
         "de": "schwarze Oliven",
         "es": "aceitunas negras",
-        "fr": "olives noires"
+        "fr": "olives noires",
+        "ro": "măsline negre"
       },
       "grams": 100,
       "note": "pitted, sliced"
@@ -71,7 +74,8 @@
         "en": "herbes de Provence",
         "de": "Kräuter der Provence",
         "es": "hierbas de Provenza",
-        "fr": "herbes de Provence"
+        "fr": "herbes de Provence",
+        "ro": "ierburi de Provence"
       },
       "grams": 5
     }

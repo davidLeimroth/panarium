@@ -4,7 +4,8 @@
     "en": "Styrian Pumpkin Seed Bread",
     "de": "Steirisches Kürbiskernbrot",
     "es": "Pan de pepitas de calabaza de Estiria",
-    "fr": "Pain aux graines de courge de Styrie"
+    "fr": "Pain aux graines de courge de Styrie",
+    "ro": "Pâine styriană cu semințe de dovleac"
   },
   "aliases": [
     "Kürbiskernbrot",
@@ -14,7 +15,8 @@
     "en": "A Styrian farmhouse loaf built on a scalded pumpkin-seed soaker, a short rye sourdough and a dash of the region's dark green pumpkin seed oil. Rolled in seeds before baking, it slices moist and nutty, equally good under ham or soft cheese.",
     "de": "Ein steirisches Bauernbrot aus einem gebrühten Kürbiskernstück, kurzem Roggensauerteig und einem Schuss dunkelgrünem Kürbiskernöl. Vor dem Backen in Kernen gewälzt, schmeckt es saftig-nussig – ideal zu Speck oder würzigem Käse.",
     "es": "Un pan de campo de Estiria sobre un escaldado de pepitas de calabaza, una breve masa madre de centeno y un toque del aceite de semillas de calabaza verde oscuro típico de la región. Rebozado en pepitas, resulta jugoso y de sabor a nuez.",
-    "fr": "Un pain de ferme styrien bâti sur une trempe de graines de courge ébouillantées, un bref levain de seigle et une touche d'huile de pépins de courge vert foncé, typique de la région. Roulé dans les graines, il est moelleux et parfumé de noisette."
+    "fr": "Un pain de ferme styrien bâti sur une trempe de graines de courge ébouillantées, un bref levain de seigle et une touche d'huile de pépins de courge vert foncé, typique de la région. Roulé dans les graines, il est moelleux et parfumé de noisette.",
+    "ro": "O pâine țărănească din Stiria, construită pe o opăreală cu semințe de dovleac, o maia scurtă de secară și un strop din uleiul verde-închis de dovleac al regiunii. Rulată prin semințe înainte de coacere, se taie umedă și cu gust de alune, la fel de bună cu șuncă sau brânză moale."
   },
   "origin": {
     "country": "AT",
@@ -88,7 +90,8 @@
         "en": "pumpkin seed oil",
         "de": "Kürbiskernöl",
         "es": "aceite de semillas de calabaza",
-        "fr": "huile de pépins de courge"
+        "fr": "huile de pépins de courge",
+        "ro": "ulei de semințe de dovleac"
       },
       "grams": 30
     },

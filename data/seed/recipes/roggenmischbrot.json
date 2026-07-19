@@ -4,7 +4,8 @@
     "en": "German Rye-Wheat Bread (Roggenmischbrot)",
     "de": "Roggenmischbrot",
     "es": "Pan mixto de centeno alemán (Roggenmischbrot)",
-    "fr": "Pain mixte seigle-blé allemand (Roggenmischbrot)"
+    "fr": "Pain mixte seigle-blé allemand (Roggenmischbrot)",
+    "ro": "Roggenmischbrot"
   },
   "aliases": [
     "rye-wheat mixed bread",
@@ -14,7 +15,8 @@
     "en": "A rustic 70/30 rye-and-wheat sourdough loaf, the everyday bread of German households. Rye gives it backbone and long keeping; wheat softens the crumb. A stale-bread soaker deepens the flavor further.",
     "de": "Ein rustikales Mischbrot aus Roggen und Weizen im Verhältnis etwa 70:30, mit Sauerteig geführt. Der Roggen bringt Kraft und Haltbarkeit, der Weizen macht die Krume milder. Ein Altbrot-Quellstück vertieft das Aroma zusätzlich.",
     "es": "Un pan mixto rústico de centeno y trigo, en proporción aproximada 70:30, fermentado con masa madre. El centeno aporta cuerpo y larga conservación; el trigo suaviza la miga. Un remojo de pan viejo profundiza aún más el sabor.",
-    "fr": "Un pain mixte rustique de seigle et de blé, dans une proportion d'environ 70:30, au levain. Le seigle apporte du corps et une bonne conservation, le blé adoucit la mie. Un trempage de vieux pain approfondit encore la saveur."
+    "fr": "Un pain mixte rustique de seigle et de blé, dans une proportion d'environ 70:30, au levain. Le seigle apporte du corps et une bonne conservation, le blé adoucit la mie. Un trempage de vieux pain approfondit encore la saveur.",
+    "ro": "O pâine rustică cu maia, din secară și grâu, în proporție de 70:30, pâinea de zi cu zi a gospodăriilor germane. Secara îi dă tărie și păstrare îndelungată; grâul înmoaie miezul. Pâine veche, prăjită și măcinată, apoi înmuiată, adâncește și mai mult aroma."
   },
   "origin": {
     "country": "DE",
@@ -56,7 +58,8 @@
         "en": "dried, toasted old bread, ground (Altbrot)",
         "de": "getrocknetes, geröstetes Altbrot, gemahlen",
         "es": "pan viejo tostado y molido (Altbrot)",
-        "fr": "vieux pain séché et torréfié, moulu (Altbrot)"
+        "fr": "vieux pain séché et torréfié, moulu (Altbrot)",
+        "ro": "pâine veche, uscată, prăjită și măcinată (Altbrot)"
       },
       "grams": 90,
       "note": "soaked as a flavor and moisture-boosting Quellstück"

@@ -5,7 +5,8 @@
     "de": "Kaisersemmel",
     "es": "Panecillo vienés Kaisersemmel",
     "fr": "Petit pain viennois Kaisersemmel",
-    "native": "Kaisersemmel"
+    "native": "Kaisersemmel",
+    "ro": "Kaisersemmel (chiflă vieneză)"
   },
   "aliases": [
     "Kaiser roll",
@@ -17,7 +18,8 @@
     "en": "Vienna's iconic breakfast roll, its crust folded by hand into a five-point star before baking. A long, cool preferment builds flavor in an otherwise lean dough, giving a crackling crust and a mild, airy crumb that toasts beautifully.",
     "de": "Wiens berühmtes Frühstücksbrötchen mit der von Hand gefalteten Fünf-Stern-Kruste. Ein langer, kühler Vorteig gibt dem sonst mageren Teig sein Aroma – reschen Glanz außen, helle, luftige Krume innen.",
     "es": "El icónico panecillo vienés de desayuno, con su corteza plegada a mano en forma de estrella de cinco puntas. Una larga prefermentación en frío aporta sabor a esta masa magra, dejando una corteza crujiente y una miga clara y ligera.",
-    "fr": "Le petit pain viennois emblématique du petit-déjeuner, à la croûte pliée à la main en étoile à cinq pointes. Une longue préfermentation au frais développe l'arôme de cette pâte pourtant maigre, pour une croûte craquante et une mie claire et légère."
+    "fr": "Le petit pain viennois emblématique du petit-déjeuner, à la croûte pliée à la main en étoile à cinq pointes. Une longue préfermentation au frais développe l'arôme de cette pâte pourtant maigre, pour une croûte craquante et une mie claire et légère.",
+    "ro": "Chifla emblematică de dimineață a Vienei, cu coaja împăturită manual într-o stea cu cinci colțuri înainte de coacere. O prospătură lungă, la rece, dezvoltă aromă într-un aluat altfel simplu, dând o coajă crocantă și un miez blând, aerat, care se prăjește minunat."
   },
   "origin": {
     "country": "AT",
@@ -63,7 +65,8 @@
         "en": "malt flour (inactive)",
         "de": "inaktives Malzmehl",
         "es": "harina de malta (inactiva)",
-        "fr": "farine de malt (inactive)"
+        "fr": "farine de malt (inactive)",
+        "ro": "făină de malț (inactivă)"
       },
       "grams": 5,
       "note": "for crust color and flavor; can be omitted"

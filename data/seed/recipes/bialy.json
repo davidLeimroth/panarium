@@ -5,7 +5,8 @@
     "de": "Bialy",
     "es": "Bialy",
     "fr": "Bialy",
-    "native": "Bialystoker kuchen"
+    "native": "Bialystoker kuchen",
+    "ro": "Bialy"
   },
   "aliases": [
     "Bialystoker kuchen",
@@ -15,7 +16,8 @@
     "en": "A cousin to the bagel that skips the boil: this chewy, onion-and-poppy-topped roll from Białystok, Poland travelled to New York's Jewish bakeries and stayed for good. Its center is dimpled, not holed, and packed with caramelized onion.",
     "de": "Der Bagel-Vetter, der aufs Kochen verzichtet: Dieses zähe, mit Zwiebeln und Mohn belegte Brötchen aus dem polnischen Białystok wanderte in New Yorks jüdische Bäckereien aus und blieb dort. Die Mitte ist eingedrückt, gefüllt mit karamellisierten Zwiebeln.",
     "es": "Un primo del bagel que se salta el hervido: este panecillo masticable, cubierto de cebolla y semillas de amapola, viajó desde Białystok, Polonia, hasta las panaderías judías de Nueva York y allí se quedó. El centro está hundido y relleno de cebolla caramelizada.",
-    "fr": "Un cousin du bagel sans ébullition : ce petit pain moelleux, garni d'oignon et de graines de pavot, a voyagé de Białystok, en Pologne, jusqu'aux boulangeries juives de New York et s'y est installé. Le centre est creusé et rempli d'oignon caramélisé."
+    "fr": "Un cousin du bagel sans ébullition : ce petit pain moelleux, garni d'oignon et de graines de pavot, a voyagé de Białystok, en Pologne, jusqu'aux boulangeries juives de New York et s'y est installé. Le centre est creusé et rempli d'oignon caramélisé.",
+    "ro": "Vărul bagelului care sare peste fierbere: această chiflă elastică, cu ceapă și mac deasupra, din Białystok, Polonia, a ajuns în brutăriile evreiești din New York și a rămas acolo pentru totdeauna. Mijlocul e adâncit, nu găurit, și plin de ceapă caramelizată."
   },
   "origin": {
     "country": "PL",
@@ -59,7 +61,8 @@
         "en": "onion powder",
         "de": "Zwiebelpulver",
         "es": "cebolla en polvo",
-        "fr": "oignon en poudre"
+        "fr": "oignon en poudre",
+        "ro": "pudră de ceapă"
       },
       "grams": 1,
       "note": "in the dough, for background flavor"
@@ -69,7 +72,8 @@
         "en": "yellow onion, chopped",
         "de": "gelbe Zwiebel, gehackt",
         "es": "cebolla amarilla picada",
-        "fr": "oignon jaune haché"
+        "fr": "oignon jaune haché",
+        "ro": "ceapă galbenă, tocată"
       },
       "grams": 150,
       "note": "sautéed briefly for the filling"

@@ -4,13 +4,15 @@
     "en": "Focaccia Barese",
     "de": "Focaccia Barese",
     "es": "Focaccia de Bari",
-    "fr": "Focaccia de Bari"
+    "fr": "Focaccia de Bari",
+    "ro": "Focaccia Barese"
   },
   "description": {
     "en": "Bari's high-rising answer to focaccia, made tender and moist with mashed potato folded into the dough. Halved cherry tomatoes and whole pitted olives are pressed deep into the wet dough before baking, so every square arrives soft and jammy on top, crisp underneath.",
     "de": "Baris hochgezogene Antwort auf die Focaccia: durch Kartoffelpüree im Teig besonders zart und feucht. Halbierte Kirschtomaten und ganze Oliven werden vor dem Backen tief in den nassen Teig gedrückt, jedes Stück wird oben weich-fruchtig, unten knusprig.",
     "es": "La respuesta alta de Bari a la focaccia, tierna y húmeda gracias al puré de patata mezclado en la masa. Tomates cherry partidos y aceitunas enteras se hunden en la masa húmeda antes de hornear: cada trozo sale blando y jugoso arriba, crujiente por debajo.",
-    "fr": "La réponse généreuse de Bari à la focaccia, moelleuse et humide grâce à la purée de pomme de terre incorporée à la pâte. Tomates cerises coupées et olives entières s'enfoncent dans la pâte humide avant cuisson: chaque part ressort moelleuse dessus, croustillante dessous."
+    "fr": "La réponse généreuse de Bari à la focaccia, moelleuse et humide grâce à la purée de pomme de terre incorporée à la pâte. Tomates cerises coupées et olives entières s'enfoncent dans la pâte humide avant cuisson: chaque part ressort moelleuse dessus, croustillante dessous.",
+    "ro": "Răspunsul înalt al Bariului la focaccia, fraged și umed datorită piureului de cartofi din aluat. Roșii cherry tăiate în jumătate și măsline întregi, fără sâmburi, sunt presate adânc în aluat înainte de coacere, iar fiecare bucată iese moale deasupra, crocantă dedesubt."
   },
   "origin": {
     "country": "IT",
@@ -74,7 +76,8 @@
         "en": "cherry tomatoes",
         "de": "Kirschtomaten",
         "es": "tomates cherry",
-        "fr": "tomates cerises"
+        "fr": "tomates cerises",
+        "ro": "roșii cherry"
       },
       "grams": 500,
       "note": "halved, pressed cut-side up into the dough"
@@ -84,7 +87,8 @@
         "en": "black olives",
         "de": "schwarze Oliven",
         "es": "aceitunas negras",
-        "fr": "olives noires"
+        "fr": "olives noires",
+        "ro": "măsline negre"
       },
       "grams": 60,
       "note": "whole, with pits"
@@ -94,7 +98,8 @@
         "en": "dried oregano",
         "de": "getrockneter Oregano",
         "es": "orégano seco",
-        "fr": "origan séché"
+        "fr": "origan séché",
+        "ro": "oregano uscat"
       },
       "grams": 3
     },

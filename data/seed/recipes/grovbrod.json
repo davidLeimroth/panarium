@@ -5,7 +5,8 @@
     "de": "Grovbrød (norwegisches Vollkornbrot)",
     "es": "Pan integral noruego (Grovbrød)",
     "fr": "Pain complet norvégien (Grovbrød)",
-    "native": "Grovbrød"
+    "native": "Grovbrød",
+    "ro": "Grovbrød (pâine integrală norvegiană)"
   },
   "aliases": [
     "Norwegian brown bread",
@@ -15,7 +16,8 @@
     "en": "Norway's daily sandwich loaf: whole wheat, a little rye and a scattering of bran and seeds, kneaded into a hearty pan bread with a light natural sweetness. The everyday backbone of the Norwegian breakfast and packed-lunch table.",
     "de": "Norwegens tägliches Sandwichbrot: Vollkornweizen, ein wenig Roggen und eine Prise Kleie und Saaten, zu einem herzhaften Kastenbrot mit leichter natürlicher Süße geknetet. Das alltägliche Rückgrat des norwegischen Frühstücks- und Lunchpakettischs.",
     "es": "El pan de molde diario de Noruega: trigo integral, un poco de centeno y un toque de salvado y semillas, amasado en un pan de molde contundente con una ligera dulzura natural. El pilar cotidiano del desayuno y la fiambrera noruegos.",
-    "fr": "Le pain de mie quotidien de la Norvège : blé complet, un peu de seigle et une touche de son et de graines, pétri en un pain de mie généreux à la douceur naturelle discrète. Le pilier de tous les jours du petit-déjeuner et du panier-repas norvégien."
+    "fr": "Le pain de mie quotidien de la Norvège : blé complet, un peu de seigle et une touche de son et de graines, pétri en un pain de mie généreux à la douceur naturelle discrète. Le pilier de tous les jours du petit-déjeuner et du panier-repas norvégien.",
+    "ro": "Pâinea zilnică de sandviș a Norvegiei: grâu integral, puțină secară și o presărare de tărâțe și semințe, frământate într-o pâine consistentă, coaptă în tavă, cu o dulceață naturală discretă. Coloana vertebrală a micului dejun și a pachetului de prânz norvegian."
   },
   "origin": {
     "country": "NO",
@@ -63,7 +65,8 @@
         "en": "wheat bran",
         "de": "Weizenkleie",
         "es": "salvado de trigo",
-        "fr": "son de blé"
+        "fr": "son de blé",
+        "ro": "tărâțe de grâu"
       },
       "grams": 50
     },
@@ -84,7 +87,8 @@
         "en": "mixed seeds (sunflower, pumpkin, flax, sesame)",
         "de": "gemischte Saaten (Sonnenblume, Kürbis, Lein, Sesam)",
         "es": "semillas variadas (girasol, calabaza, lino, sésamo)",
-        "fr": "graines mélangées (tournesol, courge, lin, sésame)"
+        "fr": "graines mélangées (tournesol, courge, lin, sésame)",
+        "ro": "amestec de semințe (floarea-soarelui, dovleac, in, susan)"
       },
       "grams": 30
     }

@@ -5,7 +5,8 @@
     "de": "Karjalanpiirakka (karelische Pastete)",
     "es": "Empanada de Carelia (Karjalanpiirakka)",
     "fr": "Tourte carélienne (Karjalanpiirakka)",
-    "native": "Karjalanpiirakka"
+    "native": "Karjalanpiirakka",
+    "ro": "Karjalanpiirakka (plăcintă careliană)"
   },
   "aliases": [
     "Karelian pasty",
@@ -15,7 +16,8 @@
     "en": "A wafer-thin rye crust pleated into an open oval and filled with creamy milk-rice porridge, baked blistering hot until the edges crackle. Finland's favorite savory pastry, always finished with a smear of egg butter.",
     "de": "Eine hauchdünne Roggenkruste, zu einem offenen Oval gefaltet und mit cremigem Milchreisbrei gefüllt, glühend heiß gebacken, bis die Ränder knacken. Finnlands liebstes herzhaftes Gebäck, immer vollendet mit einem Klecks Eierbutter.",
     "es": "Una fina corteza de centeno plegada en un óvalo abierto y rellena de cremoso arroz con leche, horneada a fuego altísimo hasta que los bordes crujen. El pastel salado favorito de Finlandia, siempre rematado con un toque de mantequilla de huevo.",
-    "fr": "Une croûte de seigle ultra-fine, pliée en ovale ouvert et garnie d'un crémeux riz au lait, cuite à four brûlant jusqu'à ce que les bords craquent. La pâtisserie salée préférée de la Finlande, toujours terminée d'une touche de beurre à l'œuf."
+    "fr": "Une croûte de seigle ultra-fine, pliée en ovale ouvert et garnie d'un crémeux riz au lait, cuite à four brûlant jusqu'à ce que les bords craquent. La pâtisserie salée préférée de la Finlande, toujours terminée d'une touche de beurre à l'œuf.",
+    "ro": "O crustă de secară subțire ca hârtia, plisată într-un oval deschis și umplută cu terci cremos de orez cu lapte, coaptă la foc iute până marginile crapă. Cea mai îndrăgită plăcintă sărată a Finlandei, mereu terminată cu un strat de unt cu ou."
   },
   "origin": {
     "country": "FI",
@@ -75,7 +77,8 @@
         "en": "short-grain rice",
         "de": "Rundkornreis",
         "es": "arroz de grano corto",
-        "fr": "riz rond"
+        "fr": "riz rond",
+        "ro": "orez cu bob scurt"
       },
       "grams": 150
     },

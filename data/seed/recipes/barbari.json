@@ -5,7 +5,8 @@
     "de": "Barbari (Persisches Fladenbrot)",
     "es": "Barbari (Pan plano persa)",
     "fr": "Barbari (Pain plat persan)",
-    "native": "نان بربری"
+    "native": "نان بربری",
+    "ro": "Barbari (lipie persană)"
   },
   "aliases": [
     "nan-e barbari",
@@ -15,7 +16,8 @@
     "en": "A long, oval Persian flatbread with deep finger-pressed grooves, brushed with a cooked flour glaze called roomal for its glossy, crackly crust, then scattered with sesame and nigella seeds. Sold warm each morning and torn straight from the loaf.",
     "de": "Ein langes, ovales persisches Fladenbrot mit tiefen, mit den Fingern gedrückten Rillen, bestrichen mit einer gekochten Mehlglasur namens Roomal für die glänzende, krachige Kruste, bestreut mit Sesam und Schwarzkümmel. Wird morgens warm verkauft.",
     "es": "Un pan plano persa, largo y ovalado, con surcos profundos marcados con los dedos, pincelado con un glaseado de harina cocida llamado roomal que le da su corteza brillante y crujiente, y espolvoreado con sésamo y nigella. Se vende caliente cada mañana.",
-    "fr": "Un pain plat persan long et ovale, marqué de sillons profonds pressés du bout des doigts, badigeonné d'un glaçage de farine cuite appelé roomal qui lui donne sa croûte brillante et craquante, puis parsemé de sésame et de nigelle. Vendu chaud chaque matin."
+    "fr": "Un pain plat persan long et ovale, marqué de sillons profonds pressés du bout des doigts, badigeonné d'un glaçage de farine cuite appelé roomal qui lui donne sa croûte brillante et craquante, puis parsemé de sésame et de nigelle. Vendu chaud chaque matin.",
+    "ro": "O lipie persană lungă și ovală, cu șanțuri adânci făcute cu degetele, unsă cu o glazură fiartă din făină numită roomal, pentru o coajă lucioasă și crocantă, apoi presărată cu susan și negrilică. Se vinde caldă în fiecare dimineață și se rupe direct din pâine."
   },
   "origin": {
     "country": "IR",
@@ -83,7 +85,8 @@
         "en": "nigella seeds",
         "de": "Schwarzkümmel",
         "es": "semillas de nigella",
-        "fr": "graines de nigelle"
+        "fr": "graines de nigelle",
+        "ro": "semințe de negrilică"
       },
       "grams": 9
     },

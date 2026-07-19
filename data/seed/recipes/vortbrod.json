@@ -5,7 +5,8 @@
     "de": "Vörtbröd (schwedisches Weihnachts-Würzebrot)",
     "es": "Pan de mosto navideño sueco (Vörtbröd)",
     "fr": "Pain de moût de Noël suédois (Vörtbröd)",
-    "native": "Vörtbröd"
+    "native": "Vörtbröd",
+    "ro": "Vörtbröd (pâine suedeză de Crăciun cu must de bere)"
   },
   "aliases": [
     "vörtlimpa",
@@ -15,7 +16,8 @@
     "en": "Sweden's spiced Christmas rye, deepened with dark beer standing in for brewer's wort, sweetened with syrup and studded with raisins. Warmly scented with ginger, clove and cardamom, it's a fixture of the julbord beside ham and pickled herring.",
     "de": "Schwedens würziges Weihnachtsroggenbrot, mit dunklem Bier statt Braumaische vertieft, mit Sirup gesüßt und mit Rosinen gespickt. Warm duftend nach Ingwer, Nelke und Kardamom, ein fester Bestandteil des Julbord neben Schinken und eingelegtem Hering.",
     "es": "El pan de centeno especiado navideño de Suecia, profundizado con cerveza oscura en lugar del mosto cervecero, endulzado con sirope y salpicado de pasas. Con un cálido aroma a jengibre, clavo y cardamomo, es fijo en la mesa navideña junto al jamón y el arenque encurtido.",
-    "fr": "Le pain de seigle épicé de Noël en Suède, approfondi à la bière brune en lieu et place du moût de brasserie, sucré au sirop et parsemé de raisins secs. Parfumé au gingembre, au clou de girofle et à la cardamome, un incontournable du buffet de Noël."
+    "fr": "Le pain de seigle épicé de Noël en Suède, approfondi à la bière brune en lieu et place du moût de brasserie, sucré au sirop et parsemé de raisins secs. Parfumé au gingembre, au clou de girofle et à la cardamome, un incontournable du buffet de Noël.",
+    "ro": "Pâinea suedeză de secară, condimentată de Crăciun, adâncită cu bere neagră în locul mustului de bere, îndulcită cu sirop și presărată cu stafide. Aromată cald cu ghimbir, cuișoare și cardamom, e nelipsită de la julbord, alături de șuncă și hering murat."
   },
   "origin": {
     "country": "SE",
@@ -61,7 +63,8 @@
         "en": "stout or porter beer",
         "de": "Stout- oder Porterbier",
         "es": "cerveza stout o porter",
-        "fr": "bière stout ou porter"
+        "fr": "bière stout ou porter",
+        "ro": "bere stout sau porter"
       },
       "grams": 300
     },
@@ -70,7 +73,8 @@
         "en": "dark Christmas beer",
         "de": "dunkles Weihnachtsbier",
         "es": "cerveza oscura navideña",
-        "fr": "bière brune de Noël"
+        "fr": "bière brune de Noël",
+        "ro": "bere neagră de Crăciun"
       },
       "grams": 250
     },
@@ -83,7 +87,8 @@
         "en": "ground ginger",
         "de": "gemahlener Ingwer",
         "es": "jengibre molido",
-        "fr": "gingembre moulu"
+        "fr": "gingembre moulu",
+        "ro": "ghimbir măcinat"
       },
       "grams": 8
     },
@@ -92,7 +97,8 @@
         "en": "ground cloves",
         "de": "gemahlene Nelken",
         "es": "clavo molido",
-        "fr": "clou de girofle moulu"
+        "fr": "clou de girofle moulu",
+        "ro": "cuișoare măcinate"
       },
       "grams": 6
     },

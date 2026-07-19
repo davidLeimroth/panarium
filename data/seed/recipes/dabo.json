@@ -5,7 +5,8 @@
     "de": "Dabo (äthiopisches Sabbatbrot)",
     "es": "Dabo (pan etíope de sabbat)",
     "fr": "Dabo (pain éthiopien du sabbat)",
-    "native": "ዳቦ"
+    "native": "ዳቦ",
+    "ro": "Dabo (pâine etiopiană de Șabat)"
   },
   "aliases": [
     "difo dabo",
@@ -16,7 +17,8 @@
     "en": "A round, lightly sweet Ethiopian Sabbath bread perfumed with turmeric, coriander and nigella, mixed as a wet dough and fermented overnight before a long, slow bake in a covered pot. Ethiopian Jewish families serve it as their Friday-night challah.",
     "de": "Ein rundes, leicht süßes äthiopisches Sabbatbrot mit Kurkuma, Koriander und Schwarzkümmel, als feuchter Teig über Nacht fermentiert vor langsamem Backen im gedeckten Topf. Äthiopisch-jüdische Familien servieren es als Challah am Freitagabend.",
     "es": "Un pan de sabbat etíope redondo y dulce, con cúrcuma, cilantro y nigella, en masa húmeda fermentada toda la noche antes de una cocción lenta en una olla tapada. Las familias judías etíopes lo sirven como su jalá del viernes por la noche.",
-    "fr": "Un pain de sabbat éthiopien rond et sucré, parfumé au curcuma, à la coriandre et à la nigelle, en pâte humide fermentée toute la nuit avant une cuisson lente en cocotte couverte. Les familles juives éthiopiennes le servent le vendredi soir."
+    "fr": "Un pain de sabbat éthiopien rond et sucré, parfumé au curcuma, à la coriandre et à la nigelle, en pâte humide fermentée toute la nuit avant une cuisson lente en cocotte couverte. Les familles juives éthiopiennes le servent le vendredi soir.",
+    "ro": "O pâine rotundă, ușor dulce, de Șabat etiopian, parfumată cu turmeric, coriandru și negrilică, un aluat umed fermentat peste noapte înainte de o coacere lungă și lentă, într-o oală acoperită. Familiile evreiești din Etiopia o servesc drept challah de vineri seara."
   },
   "origin": {
     "country": "ET",
@@ -78,7 +80,8 @@
         "en": "ground turmeric",
         "de": "gemahlene Kurkuma",
         "es": "cúrcuma molida",
-        "fr": "curcuma moulu"
+        "fr": "curcuma moulu",
+        "ro": "turmeric măcinat"
       },
       "grams": 1
     },
@@ -92,7 +95,8 @@
         "en": "nigella seeds",
         "de": "Schwarzkümmel",
         "es": "semillas de nigella",
-        "fr": "graines de nigelle"
+        "fr": "graines de nigelle",
+        "ro": "semințe de negrilică"
       },
       "grams": 1.5,
       "note": "toasted and ground"

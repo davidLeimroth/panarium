@@ -4,7 +4,8 @@
     "en": "Three Kings' Bread (Rosca de Reyes)",
     "de": "Dreikönigskranz (Rosca de Reyes)",
     "es": "Rosca de Reyes",
-    "fr": "Couronne des Rois mexicaine (Rosca de Reyes)"
+    "fr": "Couronne des Rois mexicaine (Rosca de Reyes)",
+    "ro": "Colacul celor Trei Crai (Rosca de Reyes)"
   },
   "aliases": [
     "Three Kings Bread",
@@ -15,7 +16,8 @@
     "en": "A butter-rich, orange-scented ring baked for Día de Reyes on January 6th, its crown set with strips of candied guava paste and glacé cherries like jewels. A tiny hidden figure of the Christ child makes whoever finds it host tamales on Candlemas.",
     "de": "Ein buttriger, orangenduftender Hefekranz für den 6. Januar, das Dreikönigsfest: seine Krone ist mit Streifen kandierter Guavenpaste und Glasurkirschen wie Edelsteinen besetzt. Wer die versteckte Jesusfigur findet, richtet an Mariä Lichtmess die Tamales aus.",
     "es": "Una rosca de pan dulce, mantequillosa y perfumada de naranja, para el Día de Reyes el 6 de enero: su corona luce tiras de ate de guayaba y cerezas cristalizadas como joyas. A quien le toque el muñequito escondido le tocará ofrecer los tamales en la Candelaria.",
-    "fr": "Une couronne briochée au beurre et à l'orange pour le Jour des Rois, le 6 janvier : parée de bandes de pâte de goyave confite et de cerises confites, comme des joyaux. Qui trouve la figurine cachée devra offrir les tamales à la Chandeleur."
+    "fr": "Une couronne briochée au beurre et à l'orange pour le Jour des Rois, le 6 janvier : parée de bandes de pâte de goyave confite et de cerises confites, comme des joyaux. Qui trouve la figurine cachée devra offrir les tamales à la Chandeleur.",
+    "ro": "Un colac bogat în unt, cu parfum de portocală, copt de Día de Reyes, cu coroana presărată cu fâșii de pastă de guava candisată și cireșe glasate, ca niște bijuterii. Cine găsește figurina ascunsă a Pruncului Iisus găzduiește tamale de Stretenie."
   },
   "origin": {
     "country": "MX",
@@ -82,7 +84,8 @@
         "en": "orange extract",
         "de": "Orangenextrakt",
         "es": "extracto de naranja",
-        "fr": "extrait d'orange"
+        "fr": "extrait d'orange",
+        "ro": "extract de portocale"
       },
       "grams": 15
     },
@@ -101,7 +104,8 @@
         "en": "candied guava paste strips",
         "de": "Streifen kandierte Guavenpaste",
         "es": "tiras de ate de guayaba",
-        "fr": "bandes de pâte de goyave confite"
+        "fr": "bandes de pâte de goyave confite",
+        "ro": "fâșii de pastă de guava candisată"
       },
       "grams": 90,
       "note": "traditional crown decoration"
@@ -111,7 +115,8 @@
         "en": "glacé cherries",
         "de": "Glasurkirschen",
         "es": "cerezas cristalizadas",
-        "fr": "cerises confites"
+        "fr": "cerises confites",
+        "ro": "cireșe glasate"
       },
       "grams": 40,
       "note": "red and green, for decoration"

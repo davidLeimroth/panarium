@@ -5,13 +5,15 @@
     "de": "Eliopsomo (griechisches Olivenbrot)",
     "es": "Eliopsomo (pan griego de aceitunas)",
     "fr": "Eliopsomo (pain grec aux olives)",
-    "native": "Ελιόψωμο"
+    "native": "Ελιόψωμο",
+    "ro": "Eliopsomo (pâine grecească cu măsline)"
   },
   "description": {
     "en": "A whole-wheat Greek loaf studded with chopped olives, their brine seasoning the crumb from within so the bread needs little added salt. Baked covered like its cousin horiatiko psomi, it's a favorite alongside feta, tomatoes, and a drizzle of olive oil.",
     "de": "Ein griechisches Vollkornbrot voller gehackter Oliven, deren Salzlake die Krume von innen würzt, sodass kaum zusätzliches Salz nötig ist. Wie sein Cousin horiatiko psomi wird es abgedeckt gebacken, ein Favorit neben Feta, Tomaten und einem Schuss Olivenöl.",
     "es": "Un pan griego integral repleto de aceitunas picadas, cuya salmuera sazona la miga desde dentro, por lo que apenas necesita sal añadida. Horneado tapado como su primo el horiatiko psomi, es un favorito junto a feta, tomates y un chorro de aceite de oliva.",
-    "fr": "Un pain grec complet parsemé d'olives hachées, dont la saumure assaisonne la mie de l'intérieur, si bien qu'il ne faut presque pas de sel ajouté. Cuit à couvert comme son cousin le horiatiko psomi, il accompagne volontiers la feta, les tomates et un filet d'huile d'olive."
+    "fr": "Un pain grec complet parsemé d'olives hachées, dont la saumure assaisonne la mie de l'intérieur, si bien qu'il ne faut presque pas de sel ajouté. Cuit à couvert comme son cousin le horiatiko psomi, il accompagne volontiers la feta, les tomates et un filet d'huile d'olive.",
+    "ro": "O pâine grecească integrală, plină de măsline tocate, a căror saramură condimentează miezul din interior, așa că pâinea are nevoie de puțină sare adăugată. Coaptă acoperită, ca verișoara ei horiatiko psomi, e preferată alături de feta, roșii și un fir de ulei de măsline."
   },
   "origin": {
     "country": "GR",
@@ -53,7 +55,8 @@
         "en": "pitted olives, chopped",
         "de": "entkernte Oliven, gehackt",
         "es": "aceitunas deshuesadas picadas",
-        "fr": "olives dénoyautées hachées"
+        "fr": "olives dénoyautées hachées",
+        "ro": "măsline fără sâmbure, tocate"
       },
       "grams": 75
     },

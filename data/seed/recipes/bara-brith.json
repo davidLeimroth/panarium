@@ -5,7 +5,8 @@
     "de": "Walisisches Tee-Früchtebrot (Bara Brith)",
     "es": "Pan moteado galés (Bara Brith)",
     "fr": "Pain tacheté gallois (Bara Brith)",
-    "native": "Bara Brith"
+    "native": "Bara Brith",
+    "ro": "Pâine galeză pestriță (Bara Brith)"
   },
   "aliases": [
     "Welsh tea bread",
@@ -16,7 +17,8 @@
     "en": "Wales's beloved teatime loaf: raisins, sultanas and currants steeped overnight in strong tea, then folded into a spiced batter and baked low and slow. No kneading required, just sliced thin, buttered, and served for St David's Day or Christmas.",
     "de": "Waliens beliebtes Teebrot: Rosinen, Sultaninen und Korinthen ziehen über Nacht in starkem Tee, werden mit Gewürzen zu einem Teig verrührt und langsam gebacken. Kein Kneten nötig – dünn geschnitten und gebuttert zum St. David's Day oder Weihnachten.",
     "es": "El pan de té favorito de Gales: pasas, sultanas y grosellas se remojan toda la noche en té negro fuerte, se mezclan con especias y se hornean despacio. Sin amasado, se sirve en rebanadas finas con mantequilla para el Día de San David o Navidad.",
-    "fr": "Le pain au thé préféré du pays de Galles : raisins secs et groseilles trempent toute la nuit dans un thé noir fort, puis sont mêlés à une pâte épicée et cuits lentement. Sans pétrissage, tranché fin et beurré, pour la Saint David ou Noël."
+    "fr": "Le pain au thé préféré du pays de Galles : raisins secs et groseilles trempent toute la nuit dans un thé noir fort, puis sont mêlés à une pâte épicée et cuits lentement. Sans pétrissage, tranché fin et beurré, pour la Saint David ou Noël.",
+    "ro": "Pâinea de ceai îndrăgită în Țara Galilor: stafide, stafide aurii și coacăze uscate stau peste noapte în ceai tare, apoi se adaugă într-un aluat cu mirodenii, copt lent, la foc mic. Nu se frământă, se taie subțire, se unge cu unt și se servește de Ziua Sf. David sau de Crăciun."
   },
   "origin": {
     "country": "GB",
@@ -49,7 +51,8 @@
         "en": "strong black tea",
         "de": "starker schwarzer Tee",
         "es": "té negro fuerte",
-        "fr": "thé noir fort"
+        "fr": "thé noir fort",
+        "ro": "ceai negru tare"
       },
       "grams": 300,
       "note": "poured hot over the fruit, soaked overnight"
@@ -73,7 +76,8 @@
         "en": "mixed spice",
         "de": "Gewürzmischung",
         "es": "especias mixtas",
-        "fr": "épices mélangées"
+        "fr": "épices mélangées",
+        "ro": "amestec de mirodenii"
       },
       "grams": 5,
       "note": "British-style blend: cinnamon, nutmeg, allspice"

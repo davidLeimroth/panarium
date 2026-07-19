@@ -5,7 +5,8 @@
     "de": "Tsoureki (griechischer Osterzopf)",
     "es": "Tsoureki (trenza de Pascua griega)",
     "fr": "Tsoureki (tresse de Pâques grecque)",
-    "native": "Τσουρέκι"
+    "native": "Τσουρέκι",
+    "ro": "Tsoureki (împletitură grecească de Paște)"
   },
   "aliases": [
     "Greek Easter bread",
@@ -16,7 +17,8 @@
     "en": "Greece's Easter bread: a glossy three-strand braid perfumed with mahlab and mastic, its pull-apart threads said to echo the resurrection. Families often nestle a red-dyed egg into the braid before baking it fresh for Holy Saturday.",
     "de": "Griechenlands Osterbrot: ein glänzender Dreierzopf mit dem Aroma von Mahlep und Mastix, dessen zupfbare Fäden an die Auferstehung erinnern sollen. Oft wird ein rot gefärbtes Ei mit eingeflochten, frisch gebacken für Karsamstag.",
     "es": "El pan de Pascua griego: una trenza de tres cabos, brillante y perfumada con mahlab y mastiha, cuyas hebras deshilachadas evocan la resurrección. Muchas familias esconden un huevo teñido de rojo en la trenza antes de hornearlo para Sábado Santo.",
-    "fr": "Le pain de Pâques grec : une tresse à trois brins, luisante, parfumée au mahlab et au mastic, dont les fils effilochés évoqueraient la résurrection. On y niche souvent un œuf teint en rouge avant cuisson, pour le Samedi saint."
+    "fr": "Le pain de Pâques grec : une tresse à trois brins, luisante, parfumée au mahlab et au mastic, dont les fils effilochés évoqueraient la résurrection. On y niche souvent un œuf teint en rouge avant cuisson, pour le Samedi saint.",
+    "ro": "Pâinea de Paște a Greciei: o împletitură lucioasă din trei fire, parfumată cu mahlep și mastic, ale cărei fire ce se despart ușor amintesc, se spune, de înviere. Multe familii ascund în împletitură un ou vopsit roșu înainte de coacere, pentru Sâmbăta Mare."
   },
   "origin": {
     "country": "GR",
@@ -81,7 +83,8 @@
         "en": "ground mahlab (mahlepi)",
         "de": "gemahlener Mahlep (Mahlepi)",
         "es": "mahlab molido (mahlepi)",
-        "fr": "mahlab moulu (mahlepi)"
+        "fr": "mahlab moulu (mahlepi)",
+        "ro": "mahlep măcinat"
       },
       "grams": 10
     },
@@ -90,7 +93,8 @@
         "en": "ground mastic (mastiha)",
         "de": "gemahlener Mastix (Mastiha)",
         "es": "almáciga molida (mastiha)",
-        "fr": "mastic moulu (mastiha)"
+        "fr": "mastic moulu (mastiha)",
+        "ro": "mastic măcinat"
       },
       "grams": 3,
       "note": "ground with a pinch of sugar so it doesn't turn gummy"

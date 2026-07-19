@@ -5,7 +5,8 @@
     "de": "Kulitsch (russisches Osterbrot)",
     "es": "Kulich (pan de Pascua ruso)",
     "fr": "Koulitch (brioche de Pâques russe)",
-    "native": "Кулич"
+    "native": "Кулич",
+    "ro": "Kulici (pâine rusească de Paște)"
   },
   "aliases": [
     "Russian Easter bread",
@@ -16,7 +17,8 @@
     "en": "Russia's Orthodox Easter bread: a tall saffron-and-vanilla column studded with raisins and candied peel, baked in a tube mold until it domes over the rim. Iced white and sprinkled, it's blessed at church and eaten fresh on Easter morning.",
     "de": "Russlands orthodoxes Osterbrot: eine hohe, nach Safran und Vanille duftende Säule voller Rosinen und kandierter Schale, in einer Röhrenform gebacken, bis sie über den Rand kuppelt. Weiß glasiert, wird es gesegnet und am Ostermorgen gegessen.",
     "es": "El pan de Pascua ortodoxo ruso: una columna alta perfumada con azafrán y vainilla, repleta de pasas y fruta confitada, horneada en un molde tubular hasta abombarse sobre el borde. Glaseado en blanco, se bendice y se come el domingo de Pascua.",
-    "fr": "Le pain de Pâques orthodoxe russe : une haute colonne parfumée au safran et à la vanille, cloutée de raisins secs et d'écorces confites, cuite dans un moule tubulaire jusqu'à bomber au-dessus du bord. Glacé de blanc, béni puis mangé à Pâques."
+    "fr": "Le pain de Pâques orthodoxe russe : une haute colonne parfumée au safran et à la vanille, cloutée de raisins secs et d'écorces confites, cuite dans un moule tubulaire jusqu'à bomber au-dessus du bord. Glacé de blanc, béni puis mangé à Pâques.",
+    "ro": "Pâinea ortodoxă rusească de Paște: o coloană înaltă, cu aromă de șofran și vanilie, presărată cu stafide și coajă confiată, coaptă tubular până se bombează peste margine. Glazurată alb și ornamentată, e sfințită la biserică și mâncată proaspătă de Paște."
   },
   "origin": {
     "country": "RU",
@@ -88,7 +90,8 @@
         "en": "saffron threads",
         "de": "Safranfäden",
         "es": "hebras de azafrán",
-        "fr": "pistils de safran"
+        "fr": "pistils de safran",
+        "ro": "fire de șofran"
       },
       "grams": 0.3,
       "note": "steeped in warm milk; traditional but often left out today"
@@ -118,7 +121,8 @@
         "en": "colored sugar sprinkles",
         "de": "bunte Zuckerstreusel",
         "es": "fideos de azúcar de colores",
-        "fr": "vermicelles en sucre colorés"
+        "fr": "vermicelles en sucre colorés",
+        "ro": "ornamente colorate din zahăr"
       },
       "grams": 8,
       "note": "for decorating the icing"

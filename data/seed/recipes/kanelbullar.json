@@ -5,7 +5,8 @@
     "de": "Schwedische Zimtschnecken (Kanelbullar)",
     "es": "Bollos suecos de canela (Kanelbullar)",
     "fr": "Brioches suédoises à la cannelle (Kanelbullar)",
-    "native": "Kanelbullar"
+    "native": "Kanelbullar",
+    "ro": "Melci suedezi cu scorțișoară (Kanelbullar)"
   },
   "aliases": [
     "kanelbulle",
@@ -16,7 +17,8 @@
     "en": "Sweden's beloved fika bun: a cardamom-scented dough twisted into a knot, filled with cinnamon and brown sugar, and topped with crunchy pearl sugar. Smaller and less sweet than its American cousin, it's celebrated every October 4 on Kanelbullens dag.",
     "de": "Schwedens liebstes Fika-Gebäck: ein kardamomduftender Hefeteig, zum Knoten gedreht, mit Zimt und braunem Zucker gefüllt und mit knusprigem Perlzucker bestreut. Kleiner und weniger süß als sein amerikanisches Pendant, gefeiert am 4. Oktober.",
     "es": "El bollo favorito del fika sueco: una masa perfumada con cardamomo, anudada, rellena de canela y azúcar moreno y coronada con azúcar perlado crujiente. Más pequeño y menos dulce que su primo americano, se celebra cada 4 de octubre.",
-    "fr": "La brioche fétiche du fika suédois : une pâte à la cardamome, nouée, fourrée de cannelle et de sucre roux, couronnée de sucre perlé croquant. Plus petite et moins sucrée que sa cousine américaine, fêtée chaque 4 octobre."
+    "fr": "La brioche fétiche du fika suédois : une pâte à la cardamome, nouée, fourrée de cannelle et de sucre roux, couronnée de sucre perlé croquant. Plus petite et moins sucrée que sa cousine américaine, fêtée chaque 4 octobre.",
+    "ro": "Chifla îndrăgită a fika-ului suedez: un aluat aromat cu cardamom, răsucit în nod, umplut cu scorțișoară și zahăr brun, presărat cu zahăr perlat crocant. Mai mică și mai puțin dulce decât verișoara ei americană, sărbătorită în fiecare 4 octombrie de Kanelbullens dag."
   },
   "origin": {
     "country": "SE",
@@ -117,7 +119,8 @@
         "en": "pearl sugar",
         "de": "Perlzucker",
         "es": "azúcar perlado",
-        "fr": "sucre perlé"
+        "fr": "sucre perlé",
+        "ro": "zahăr perlat"
       },
       "grams": 25,
       "note": "for the topping (pärlsocker)"

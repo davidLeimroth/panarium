@@ -5,7 +5,8 @@
     "de": "Sheermal (Safran-Fladenbrot)",
     "es": "Sheermal (pan plano de azafrán)",
     "fr": "Sheermal (pain plat au safran)",
-    "native": "شیرمال"
+    "native": "شیرمال",
+    "ro": "Sheermal (lipie cu șofran)"
   },
   "aliases": [
     "shirmal",
@@ -15,7 +16,8 @@
     "en": "A mildly sweet, saffron-scented flatbread from the royal kitchens of Awadh, its milk-enriched dough worked with generous ghee until soft and glossy. Baked, then brushed twice with saffron milk and ghee, it is torn slowly alongside rich meat curries.",
     "de": "Ein leicht süßes, safranduftendes Fladenbrot aus den königlichen Küchen von Awadh; der Milchteig wird mit reichlich Ghee geknetet, bis er weich und glänzend ist. Gebacken und mit Safranmilch und Ghee bestrichen, isst man es langsam zu kräftigen Fleisch-Currys.",
     "es": "Un pan plano ligeramente dulce y perfumado con azafrán, de las cocinas reales de Awadh; su masa de leche se trabaja con abundante ghee hasta quedar suave y brillante. Horneado y pincelado con leche de azafrán y ghee, se come despacio junto a curris de carne intensos.",
-    "fr": "Un pain plat légèrement sucré et parfumé au safran, issu des cuisines royales d'Awadh ; sa pâte au lait est travaillée avec beaucoup de ghee jusqu'à devenir souple et brillante. Cuit puis badigeonné de lait au safran et de ghee, il se déguste avec de riches currys de viande."
+    "fr": "Un pain plat légèrement sucré et parfumé au safran, issu des cuisines royales d'Awadh ; sa pâte au lait est travaillée avec beaucoup de ghee jusqu'à devenir souple et brillante. Cuit puis badigeonné de lait au safran et de ghee, il se déguste avec de riches currys de viande.",
+    "ro": "O lipie ușor dulce, parfumată cu șofran, din bucătăriile regale ale Awadhului; aluatul cu lapte se frământă cu mult ghee până devine moale și lucios. Copt, apoi uns de două ori cu lapte de șofran și ghee, se rupe încet alături de curry-uri bogate cu carne."
   },
   "origin": {
     "country": "IN",
@@ -70,7 +72,8 @@
         "en": "kewra water (screwpine essence)",
         "de": "Kewra-Wasser (Schraubenpalmen-Essenz)",
         "es": "agua de kewra (esencia de pandano)",
-        "fr": "eau de kewra (essence de pandanus)"
+        "fr": "eau de kewra (essence de pandanus)",
+        "ro": "apă de kewra (esență de pandanus)"
       },
       "grams": 15
     },
@@ -84,7 +87,8 @@
         "en": "saffron threads",
         "de": "Safranfäden",
         "es": "hebras de azafrán",
-        "fr": "filaments de safran"
+        "fr": "filaments de safran",
+        "ro": "fire de șofran"
       },
       "grams": 0.3,
       "note": "crushed, steeped in the brushing milk"

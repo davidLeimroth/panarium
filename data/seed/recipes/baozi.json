@@ -5,7 +5,8 @@
     "de": "Baozi (gedämpftes Schweinefleisch-Brötchen)",
     "es": "Baozi (bollo relleno al vapor)",
     "fr": "Baozi (brioche vapeur farcie)",
-    "native": "包子 (bāozi)"
+    "native": "包子 (bāozi)",
+    "ro": "Baozi (chiflă cu porc, la abur)"
   },
   "aliases": [
     "bao",
@@ -15,7 +16,8 @@
     "en": "Mantou's stuffed cousin: a soft, faintly sweet wheat wrapper is pleated shut, twelve folds or more by tradition, around juicy pork and cabbage, then steamed in bamboo baskets until pillowy. Street food and breakfast across China.",
     "de": "Mantous gefüllter Vetter: Ein weicher, leicht süßer Weizenteig wird verschlossen gefaltet – der Überlieferung nach mit zwölf oder mehr Falten – um saftiges Schweinefleisch und Kohl, dann in Bambuskörben zu Wolkenweichheit gedämpft. Streetfood und Frühstück in ganz China.",
     "es": "El primo relleno del mantou: una masa de trigo suave y algo dulce se pliega y cierra, doce pliegues o más según la tradición, en torno a cerdo jugoso y col, y se cuece al vapor en cestas de bambú hasta quedar esponjosa. Comida callejera y desayuno en China.",
-    "fr": "Le cousin farci du mantou : une pâte de blé souple et un peu sucrée est pliée et scellée, douze plis ou plus selon la tradition, autour de porc juteux et de chou, puis cuite à la vapeur en panier de bambou jusqu'à devenir moelleuse. Street food chinoise."
+    "fr": "Le cousin farci du mantou : une pâte de blé souple et un peu sucrée est pliée et scellée, douze plis ou plus selon la tradition, autour de porc juteux et de chou, puis cuite à la vapeur en panier de bambou jusqu'à devenir moelleuse. Street food chinoise.",
+    "ro": "Verișoara umplută a lui mantou: un înveliș moale și dulce din grâu se închide cu pliuri, cel puțin douăsprezece după tradiție, în jurul cărnii de porc și verzei, apoi se fierbe la abur în coșuri de bambus până devine pufos. Se găsește pe stradă și la micul dejun în toată China."
   },
   "origin": {
     "country": "CN",
@@ -66,7 +68,8 @@
         "en": "ground pork belly",
         "de": "Schweinebauch, gemahlen",
         "es": "panceta de cerdo molida",
-        "fr": "poitrine de porc hachée"
+        "fr": "poitrine de porc hachée",
+        "ro": "piept de porc tocat"
       },
       "grams": 450,
       "note": "for the filling"
@@ -76,7 +79,8 @@
         "en": "napa cabbage, finely diced",
         "de": "Chinakohl, fein gewürfelt",
         "es": "col china picada fina",
-        "fr": "chou chinois finement haché"
+        "fr": "chou chinois finement haché",
+        "ro": "varză chinezească, tăiată mărunt"
       },
       "grams": 450,
       "note": "squeezed dry, for the filling"
@@ -86,7 +90,8 @@
         "en": "ginger, finely diced",
         "de": "Ingwer, fein gewürfelt",
         "es": "jengibre picado fino",
-        "fr": "gingembre finement haché"
+        "fr": "gingembre finement haché",
+        "ro": "ghimbir, tăiat mărunt"
       },
       "grams": 15
     },
@@ -95,7 +100,8 @@
         "en": "soy sauce, dark and light",
         "de": "Sojasauce, dunkel und hell",
         "es": "salsa de soja, oscura y clara",
-        "fr": "sauce soja, foncée et claire"
+        "fr": "sauce soja, foncée et claire",
+        "ro": "sos de soia, închis și deschis"
       },
       "grams": 40,
       "note": "for the filling"

@@ -5,7 +5,8 @@
     "de": "Taftoon (Persisches Tandoor-Brot)",
     "es": "Taftoon (Pan persa de tandoor)",
     "fr": "Taftoon (Pain persan au tandoor)",
-    "native": "تافتون"
+    "native": "تافتون",
+    "ro": "Taftoon (pâine persană de tandoor)"
   },
   "aliases": [
     "taftan",
@@ -15,7 +16,8 @@
     "en": "A saffron-washed Persian flatbread with a thick, docked center and a puffed rim, traditionally slapped onto the scorching wall of a tandoor. Scented with nigella seed and a touch of sweetness, it's torn warm alongside breakfast tea.",
     "de": "Ein mit Safran bestrichenes persisches Fladenbrot mit dick eingestochener Mitte und aufgepufftem Rand, traditionell an die glühend heiße Tandoor-Wand geklatscht. Mit Schwarzkümmel und einer Spur Süße verfeinert, wird es warm zum Frühstückstee gerissen.",
     "es": "Un pan plano persa pincelado con azafrán, de centro grueso y marcado y borde inflado, tradicionalmente adherido a la pared abrasadora de un horno tandoor. Perfumado con semillas de nigella y un toque de dulzor, se arranca caliente junto al té del desayuno.",
-    "fr": "Un pain plat persan badigeonné de safran, au centre épais et piqué et au bord gonflé, traditionnellement plaqué contre la paroi brûlante d'un four tandoor. Parfumé à la nigelle et légèrement sucré, on le déchire chaud avec le thé du matin."
+    "fr": "Un pain plat persan badigeonné de safran, au centre épais et piqué et au bord gonflé, traditionnellement plaqué contre la paroi brûlante d'un four tandoor. Parfumé à la nigelle et légèrement sucré, on le déchire chaud avec le thé du matin.",
+    "ro": "O lipie persană unsă cu șofran, cu mijlocul gros și înțepat și marginea umflată, lipită tradițional de peretele fierbinte al unui tandoor. Aromată cu semințe de negrilică și puțină dulceață, se rupe caldă alături de ceaiul de dimineață."
   },
   "origin": {
     "country": "IR",
@@ -74,7 +76,8 @@
         "en": "saffron threads",
         "de": "Safranfäden",
         "es": "hebras de azafrán",
-        "fr": "filaments de safran"
+        "fr": "filaments de safran",
+        "ro": "fire de șofran"
       },
       "grams": 0.2,
       "note": "steeped in a little milk, brushed on top before baking"
@@ -84,7 +87,8 @@
         "en": "nigella seeds",
         "de": "Schwarzkümmel",
         "es": "semillas de nigella",
-        "fr": "graines de nigelle"
+        "fr": "graines de nigelle",
+        "ro": "semințe de negrilică"
       },
       "grams": 6,
       "note": "topping"

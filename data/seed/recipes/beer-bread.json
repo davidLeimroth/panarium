@@ -4,7 +4,8 @@
     "en": "Beer Bread",
     "de": "Bierbrot",
     "es": "Pan de cerveza",
-    "fr": "Pain à la bière"
+    "fr": "Pain à la bière",
+    "ro": "Pâine cu bere"
   },
   "aliases": [
     "quick beer bread",
@@ -14,7 +15,8 @@
     "en": "Self-rising flour, a can of beer, sugar and melted butter stir together in minutes with no yeast and no kneading. The beer's carbonation and a little baking powder do all the lifting, giving a moist, malty quick loaf almost as fast as turning on the oven.",
     "de": "Selbstaufsteigendes Mehl, eine Dose Bier, Zucker und geschmolzene Butter werden in Minuten verrührt, ganz ohne Hefe und Kneten. Die Kohlensäure des Biers und etwas Backpulver übernehmen das Lockern und ergeben im Handumdrehen ein feuchtes, malziges Schnellbrot.",
     "es": "Harina leudante, una lata de cerveza, azúcar y mantequilla derretida se mezclan en minutos, sin levadura ni amasado. La carbonatación de la cerveza y un poco de polvo de hornear hacen todo el trabajo de subir la masa, dando un pan rápido, húmedo y con sabor a malta.",
-    "fr": "Farine à levure incorporée, une canette de bière, du sucre et du beurre fondu se mélangent en quelques minutes, sans levure ni pétrissage. Le gaz de la bière et un peu de levure chimique font toute la levée, pour un pain rapide, humide et malté."
+    "fr": "Farine à levure incorporée, une canette de bière, du sucre et du beurre fondu se mélangent en quelques minutes, sans levure ni pétrissage. Le gaz de la bière et un peu de levure chimique font toute la levée, pour un pain rapide, humide et malté.",
+    "ro": "Făină autocrescătoare, o doză de bere, zahăr și unt topit se amestecă în câteva minute, fără drojdie și fără frământare. Bulele berii și puțin praf de copt fac toată dospirea, dând o pâine rapidă, umedă și cu gust de malț, gata aproape cât pornești cuptorul."
   },
   "origin": {
     "country": "US",
@@ -55,7 +57,8 @@
         "en": "beer",
         "de": "Bier",
         "es": "cerveza",
-        "fr": "bière"
+        "fr": "bière",
+        "ro": "bere"
       },
       "grams": 340,
       "note": "any style; lighter beers give a milder flavor, stouts and ales a stronger one"

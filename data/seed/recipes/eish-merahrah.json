@@ -5,7 +5,8 @@
     "de": "Eish Merahrah (Bockshornklee-Maisbrot)",
     "es": "Eish Merahrah (pan de maíz y fenogreco)",
     "fr": "Eish Merahrah (pain de maïs au fenugrec)",
-    "native": "عيش مرحرح"
+    "native": "عيش مرحرح",
+    "ro": "Eish Merahrah (pâine de porumb cu schinduf)"
   },
   "aliases": [
     "aish mehrahrah",
@@ -16,7 +17,8 @@
     "en": "A dense, earthy flatbread from Upper Egypt's villages, its dough built from corn and wheat flours with roasted ground fenugreek folded through. Baked in wide, flat rounds meant to last, it is torn and eaten with tea, beans or a simple dip.",
     "de": "Ein dichtes, erdiges Fladenbrot aus den Dörfern Oberägyptens, der Teig aus Mais- und Weizenmehl mit geröstetem, gemahlenem Bockshornklee. In breiten, flachen Runden gebacken, damit es lange hält, wird es zerrissen mit Tee, Bohnen oder einem einfachen Dip gegessen.",
     "es": "Un pan plano denso y terroso de los pueblos del Alto Egipto, con masa de harina de maíz y trigo y fenogreco molido y tostado incorporado. Horneado en discos anchos y planos pensados para durar, se parte y se come con té, habas o una salsa sencilla.",
-    "fr": "Un pain plat dense et terreux des villages de Haute-Égypte, la pâte à base de farine de maïs et de blé mêlée de fenugrec torréfié et moulu. Cuit en larges disques plats pensés pour durer, il se déchire et se mange avec du thé, des fèves ou une sauce simple."
+    "fr": "Un pain plat dense et terreux des villages de Haute-Égypte, la pâte à base de farine de maïs et de blé mêlée de fenugrec torréfié et moulu. Cuit en larges disques plats pensés pour durer, il se déchire et se mange avec du thé, des fèves ou une sauce simple.",
+    "ro": "O turtă densă, cu gust de pământ, din satele Egiptului de Sus, cu aluat din făină de porumb și de grâu, cu schinduf măcinat și prăjit amestecat prin el. Coaptă în rotocoale late și plate, gândite să țină mult, se rupe și se mănâncă cu ceai, fasole sau un sos simplu."
   },
   "origin": {
     "country": "EG",
@@ -76,7 +78,8 @@
         "en": "ground fenugreek",
         "de": "gemahlener Bockshornklee",
         "es": "fenogreco molido",
-        "fr": "fenugrec moulu"
+        "fr": "fenugrec moulu",
+        "ro": "schinduf măcinat"
       },
       "grams": 1,
       "note": "dry-roasted before grinding"

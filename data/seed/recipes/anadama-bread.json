@@ -4,13 +4,15 @@
     "en": "Anadama Bread",
     "de": "Anadama-Brot",
     "es": "Pan Anadama",
-    "fr": "Pain Anadama"
+    "fr": "Pain Anadama",
+    "ro": "Pâine Anadama"
   },
   "description": {
     "en": "New England legend says a fed-up Gloucester fisherman threw flour and yeast into his wife Anna's cornmeal-molasses mush, muttering 'Anna, damn her', hence the name. True or not, the result is a tender, faintly sweet loaf the color of strong tea.",
     "de": "Der Legende aus Neuengland zufolge warf ein genervter Fischer aus Gloucester Mehl und Hefe in den Maisbrei seiner Frau Anna und murmelte 'Anna, verdammt nochmal' – daher der Name. Ob wahr oder nicht: Das Ergebnis ist ein zartes, leicht süßes Brot in der Farbe von starkem Tee.",
     "es": "Cuenta la leyenda de Nueva Inglaterra que un pescador harto de Gloucester echó harina y levadura en las gachas de maíz y melaza de su esposa Anna, mascullando 'maldita sea, Anna'. Cierto o no, el resultado es un pan tierno y algo dulce, del color del té fuerte.",
-    "fr": "La légende veut qu'un pêcheur excédé de Gloucester ait jeté farine et levure dans la bouillie de maïs et de mélasse de sa femme Anna en marmonnant 'Anna, maudite soit-elle', d'où le nom. Vraie ou non, le résultat est un pain tendre et légèrement sucré, couleur de thé fort."
+    "fr": "La légende veut qu'un pêcheur excédé de Gloucester ait jeté farine et levure dans la bouillie de maïs et de mélasse de sa femme Anna en marmonnant 'Anna, maudite soit-elle', d'où le nom. Vraie ou non, le résultat est un pain tendre et légèrement sucré, couleur de thé fort.",
+    "ro": "Legenda din Noua Anglie spune că un pescar sătul din Gloucester a aruncat făină și drojdie peste terciul de mălai cu melasă al soției sale Anna, bombănind 'Anna, afurisita', de unde și numele. Adevărat sau nu, rezultatul e o pâine fragedă, ușor dulce, culoarea ceaiului tare."
   },
   "origin": {
     "country": "US",
@@ -70,7 +72,8 @@
         "en": "dry milk powder",
         "de": "Magermilchpulver",
         "es": "leche en polvo",
-        "fr": "lait en poudre"
+        "fr": "lait en poudre",
+        "ro": "lapte praf"
       },
       "grams": 28
     },

@@ -5,7 +5,8 @@
     "de": "Huajuan (chinesische Frühlingszwiebel-Blütenbrötchen)",
     "es": "Huajuan (panecillos flor de cebolleta chinos)",
     "fr": "Huajuan (petits pains fleurs à la ciboule chinois)",
-    "native": "花卷 (huājuǎn)"
+    "native": "花卷 (huājuǎn)",
+    "ro": "Huajuan (chifle chinezești în formă de floare, cu ceapă verde)"
   },
   "aliases": [
     "hua juan",
@@ -16,7 +17,8 @@
     "en": "Steamed Chinese wheat rolls, twisted and folded so their layers fan out like petals when torn open. Brushed between the folds with oil, five-spice and scallion, they are mantou's savory, spiral-layered cousin, served alongside braises and congee.",
     "de": "Gedämpfte chinesische Weizenbrötchen, gedreht und gefaltet, sodass sich ihre Schichten beim Aufreißen wie Blütenblätter auffächern. Mit Öl, Fünf-Gewürzen und Frühlingszwiebeln gefüllt, sind sie Mantous herzhafter Vetter, serviert zu Schmorgerichten und Congee.",
     "es": "Panecillos chinos de trigo al vapor, girados y plegados para que sus capas se abran como pétalos al partirlos. Untados entre los pliegues con aceite, cinco especias y cebolleta, son el primo salado y de capas en espiral del mantou, servidos junto a guisos y congee.",
-    "fr": "Petits pains chinois de blé cuits à la vapeur, tordus et pliés pour que leurs couches s'ouvrent comme des pétales une fois déchirés. Garnis d'huile, de cinq-épices et de ciboule, ils sont le cousin salé du mantou, servis avec des braisés et du congee."
+    "fr": "Petits pains chinois de blé cuits à la vapeur, tordus et pliés pour que leurs couches s'ouvrent comme des pétales une fois déchirés. Garnis d'huile, de cinq-épices et de ciboule, ils sont le cousin salé du mantou, servis avec des braisés et du congee.",
+    "ro": "Chifle chinezești de grâu, la abur, răsucite și pliate astfel încât straturile se desfac în evantai la rupere. Unse între pliuri cu ulei, cinci mirodenii și ceapă verde, sunt verișoarele sărate ale mantoului, servite alături de mâncăruri înăbușite și congee."
   },
   "origin": {
     "country": "CN",
@@ -71,7 +73,8 @@
         "en": "five-spice powder",
         "de": "Fünf-Gewürze-Pulver",
         "es": "cinco especias chinas",
-        "fr": "cinq-épices chinois"
+        "fr": "cinq-épices chinois",
+        "ro": "amestec de cinci mirodenii"
       },
       "grams": 1.5
     },
@@ -90,7 +93,8 @@
         "en": "scallions, finely chopped",
         "de": "Frühlingszwiebeln, fein gehackt",
         "es": "cebolletas picadas finas",
-        "fr": "ciboules finement hachées"
+        "fr": "ciboules finement hachées",
+        "ro": "ceapă verde, tocată mărunt"
       },
       "grams": 50
     }

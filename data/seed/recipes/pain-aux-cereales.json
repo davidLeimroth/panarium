@@ -5,7 +5,8 @@
     "de": "Pain aux Céréales (französisches Mehrkornbrot)",
     "es": "Pain aux céréales (pan multicereales francés)",
     "fr": "Pain aux céréales",
-    "native": "Pain aux Céréales"
+    "native": "Pain aux Céréales",
+    "ro": "Pain aux Céréales (pâine franțuzească multicereale)"
   },
   "aliases": [
     "multigrain bread",
@@ -15,7 +16,8 @@
     "en": "A hearty bakery loaf built on wheat and whole rye flour, studded with a toasted mix of flax, sunflower, sesame, millet and poppy seeds. Nuttier and more filling than a plain white loaf, and a favorite for weekday sandwiches.",
     "de": "Ein herzhaftes Bäckereibrot auf Basis von Weizen- und Roggenvollkornmehl, gespickt mit einer gerösteten Mischung aus Lein-, Sonnenblumen-, Sesam-, Hirse- und Mohnsamen. Nussiger und sättigender als ein reines Weißbrot, ein Favorit für Pausenbrote unter der Woche.",
     "es": "Una hogaza de panadería contundente, hecha con trigo y harina integral de centeno, salpicada de una mezcla tostada de semillas de lino, girasol, sésamo, mijo y amapola. Más sabrosa y saciante que una hogaza blanca simple, favorita para los bocadillos entre semana.",
-    "fr": "Un pain de boulangerie généreux, à base de blé et de farine de seigle complète, parsemé d'un mélange de graines de lin, tournesol, sésame, millet et pavot légèrement torréfiées. Plus goûteux et nourrissant qu'un pain blanc classique, un favori pour les sandwichs de la semaine."
+    "fr": "Un pain de boulangerie généreux, à base de blé et de farine de seigle complète, parsemé d'un mélange de graines de lin, tournesol, sésame, millet et pavot légèrement torréfiées. Plus goûteux et nourrissant qu'un pain blanc classique, un favori pour les sandwichs de la semaine.",
+    "ro": "O pâine consistentă de brutărie, pe bază de făină de grâu și secară integrală, presărată cu un amestec prăjit de semințe de in, floarea-soarelui, susan, mei și mac. Mai alunată și mai sățioasă decât o pâine albă simplă, preferată pentru sandvișurile din timpul săptămânii."
   },
   "origin": {
     "country": "FR",
@@ -89,7 +91,8 @@
         "en": "millet seeds",
         "de": "Hirsesamen",
         "es": "semillas de mijo",
-        "fr": "graines de millet"
+        "fr": "graines de millet",
+        "ro": "semințe de mei"
       },
       "grams": 10
     },

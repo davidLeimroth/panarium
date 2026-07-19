@@ -4,7 +4,8 @@
     "en": "Spent Grain Beer Bread",
     "de": "Biertreber-Brot",
     "es": "Pan de bagazo de cerveza",
-    "fr": "Pain à la drêche de bière"
+    "fr": "Pain à la drêche de bière",
+    "ro": "Pâine cu borhot de bere"
   },
   "aliases": [
     "brewer's spent grain bread",
@@ -14,7 +15,8 @@
     "en": "Damp, spent barley grain left over from brewing gets folded into a soft, enriched loaf with milk, apple juice and molasses. A modern brewery-and-bakery pairing that turns a byproduct breweries discard by the truckload into a malty, toasty everyday bread.",
     "de": "Feuchter Biertreber, das Nebenprodukt des Brauens, wird in einen weichen, angereicherten Teig mit Milch, Apfelsaft und Melasse eingearbeitet. Eine moderne Brauerei-Bäckerei-Partnerschaft, die ein sonst tonnenweise entsorgtes Nebenprodukt zu malzigem Alltagsbrot macht.",
     "es": "El bagazo de cerveza húmedo, sobrante de la elaboración, se incorpora a una masa suave y enriquecida con leche, jugo de manzana y melaza. Una alianza moderna entre cervecería y panadería que convierte un subproducto desechado a toneladas en un pan cotidiano, maltoso y tostado.",
-    "fr": "La drêche humide, résidu du brassage de la bière, s'incorpore à une pâte tendre et enrichie de lait, de jus de pomme et de mélasse. Un mariage moderne brasserie-boulangerie qui transforme un sous-produit jeté par tonnes en un pain quotidien, malté et grillé."
+    "fr": "La drêche humide, résidu du brassage de la bière, s'incorpore à une pâte tendre et enrichie de lait, de jus de pomme et de mélasse. Un mariage moderne brasserie-boulangerie qui transforme un sous-produit jeté par tonnes en un pain quotidien, malté et grillé.",
+    "ro": "Orz umed, rămas de la fabricarea berii, se încorporează într-un aluat moale, cu lapte, suc de mere și melasă. O colaborare modernă între berărie și brutărie, care transformă în pâine maltoasă de zi cu zi un subprodus pe care berăriile altfel îl aruncă în cantități uriașe."
   },
   "origin": {
     "country": "US",
@@ -64,7 +66,8 @@
         "en": "apple juice",
         "de": "Apfelsaft",
         "es": "jugo de manzana",
-        "fr": "jus de pomme"
+        "fr": "jus de pomme",
+        "ro": "suc de mere"
       },
       "grams": 245
     },
@@ -85,7 +88,8 @@
         "en": "brewer's spent grain, drained",
         "de": "Biertreber, abgetropft",
         "es": "bagazo de cerveza escurrido",
-        "fr": "drêche de brasserie égouttée"
+        "fr": "drêche de brasserie égouttée",
+        "ro": "borhot de bere, scurs"
       },
       "grams": 300
     },

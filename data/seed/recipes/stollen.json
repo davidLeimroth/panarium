@@ -5,7 +5,8 @@
     "de": "Christstollen",
     "es": "Stollen navideño alemán",
     "fr": "Stollen de Noël allemand",
-    "native": "Stollen"
+    "native": "Stollen",
+    "ro": "Stollen"
   },
   "aliases": [
     "Christstollen",
@@ -17,7 +18,8 @@
     "en": "Germany's great Christmas loaf: a dense, buttery dough packed with rum-soaked raisins, candied peel and almonds, baked in its traditional folded shape and finished in butter and sugar. Wrapped and rested for weeks, it only gets better.",
     "de": "Deutschlands großes Weihnachtsgebäck: ein dichter, butterreicher Teig voller rumgetränkter Rosinen, Zitronat und Mandeln, in der traditionellen gefalteten Form gebacken und zum Schluss in Butter und Zucker gewälzt. Gut eingepackt reift er wochenlang nach.",
     "es": "El gran pan navideño de Alemania: una masa densa y mantecosa cargada de pasas maceradas en ron, cortezas confitadas y almendras, horneada en su forma plegada tradicional y rematada en mantequilla y azúcar. Envuelto y reposado durante semanas, mejora con el tiempo.",
-    "fr": "Le grand pain de Noël allemand : une pâte dense et beurrée, gorgée de raisins secs macérés au rhum, d'écorces confites et d'amandes, cuite dans sa forme pliée traditionnelle puis roulée dans le beurre et le sucre. Enveloppé, il se bonifie pendant des semaines."
+    "fr": "Le grand pain de Noël allemand : une pâte dense et beurrée, gorgée de raisins secs macérés au rhum, d'écorces confites et d'amandes, cuite dans sa forme pliée traditionnelle puis roulée dans le beurre et le sucre. Enveloppé, il se bonifie pendant des semaines.",
+    "ro": "Marea pâine de Crăciun a Germaniei: un aluat dens și unturos, plin de stafide înmuiate în rom, coajă confiată și migdale, copt în forma tradițională pliată și finisat cu unt și zahăr. Înfășurat și odihnit săptămâni întregi, devine tot mai bun."
   },
   "origin": {
     "country": "DE",
@@ -78,7 +80,8 @@
         "en": "clarified butter",
         "de": "Butterschmalz",
         "es": "mantequilla clarificada",
-        "fr": "beurre clarifié"
+        "fr": "beurre clarifié",
+        "ro": "unt clarifiat"
       },
       "grams": 50,
       "note": "used alongside regular butter; higher smoke point and better keeping"
@@ -102,7 +105,8 @@
         "en": "rum",
         "de": "Rum",
         "es": "ron",
-        "fr": "rhum"
+        "fr": "rhum",
+        "ro": "rom"
       },
       "grams": 40,
       "note": "for soaking the sultanas"
@@ -112,7 +116,8 @@
         "en": "stollen spice (cardamom, mace, cinnamon)",
         "de": "Stollengewürz (Kardamom, Muskatblüte, Zimt)",
         "es": "especias para stollen (cardamomo, macis, canela)",
-        "fr": "épices à stollen (cardamome, macis, cannelle)"
+        "fr": "épices à stollen (cardamome, macis, cannelle)",
+        "ro": "condiment pentru stollen (cardamom, macis, scorțișoară)"
       },
       "grams": 1
     },

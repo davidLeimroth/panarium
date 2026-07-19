@@ -4,7 +4,8 @@
     "en": "Kommissbrot (German Ration Rye)",
     "de": "Kommissbrot",
     "es": "Pan de ración alemán (Kommissbrot)",
-    "fr": "Pain de munition allemand (Kommissbrot)"
+    "fr": "Pain de munition allemand (Kommissbrot)",
+    "ro": "Kommissbrot (pâine germană de secară, de rație)"
   },
   "aliases": [
     "Kommißbrot",
@@ -15,7 +16,8 @@
     "en": "Germany's old army-ration loaf: a straight rye sourdough baked low and slow in a tin until the crust turns thick and dark. Built for durability, not delicacy - it once had to survive weeks in a soldier's pack and still taste of something.",
     "de": "Das alte deutsche Kommissbrot: ein reiner Roggensauerteig, lang und mäßig heiß im Kastenbrot gebacken, bis die Kruste dick und dunkel wird. Für Haltbarkeit gemacht, nicht für Zartheit – einst wochenlang im Tornister haltbar.",
     "es": "El viejo pan de ración del ejército alemán: una masa madre de centeno puro, horneada despacio en molde hasta que la corteza queda gruesa y oscura. Pensado para durar, no para ser delicado, antaño aguantaba semanas en la mochila del soldado.",
-    "fr": "Le vieux pain de munition de l'armée allemande: un levain de seigle pur, cuit longuement en moule jusqu'à une croûte épaisse et sombre. Conçu pour durer, pas pour la finesse, autrefois capable de tenir des semaines dans le sac d'un soldat."
+    "fr": "Le vieux pain de munition de l'armée allemande: un levain de seigle pur, cuit longuement en moule jusqu'à une croûte épaisse et sombre. Conçu pour durer, pas pour la finesse, autrefois capable de tenir des semaines dans le sac d'un soldat.",
+    "ro": "Vechea pâine germană de rație militară: o maia pură de secară, coaptă lent la foc mic, în tavă, până coaja devine groasă și închisă la culoare. Făcută pentru rezistență, nu pentru rafinament; cândva trebuia să reziste săptămâni în ranița unui soldat și să aibă totuși gust."
   },
   "origin": {
     "country": "DE",
@@ -66,7 +68,8 @@
         "en": "sugar beet syrup",
         "de": "Zuckerrübensirup (Rübenkraut)",
         "es": "jarabe de remolacha azucarera",
-        "fr": "sirop de betterave sucrière"
+        "fr": "sirop de betterave sucrière",
+        "ro": "sirop de sfeclă de zahăr"
       },
       "grams": 40
     },
@@ -75,7 +78,8 @@
         "en": "roasted rye malt (for color)",
         "de": "Roggenfärbemalz",
         "es": "malta de centeno tostada (para el color)",
-        "fr": "malt de seigle torréfié (pour la couleur)"
+        "fr": "malt de seigle torréfié (pour la couleur)",
+        "ro": "malț de secară prăjit (pentru culoare)"
       },
       "grams": 20
     }

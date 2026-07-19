@@ -5,7 +5,8 @@
     "de": "Rugbrød (Dänisches Roggenbrot)",
     "es": "Pan de centeno danés (Rugbrød)",
     "fr": "Pain de seigle danois (Rugbrød)",
-    "native": "Rugbrød"
+    "native": "Rugbrød",
+    "ro": "Rugbrød (pâine daneză de secară)"
   },
   "aliases": [
     "Danish sourdough rye",
@@ -15,7 +16,8 @@
     "en": "Denmark's everyday sourdough rye: a two-stage sour, cracked and wholegrain rye, a splash of beer and four toasted seeds baked low and slow in a tin. Thin-sliced for smørrebrød, it only improves after a day's rest.",
     "de": "Dänemarks tägliches Sauerteig-Roggenbrot: ein zweistufiger Sauerteig, grober und feiner Vollkornroggen, ein Schuss Bier und vier geröstete Saaten, langsam im Kasten gebacken. Dünn geschnitten für Smørrebrød, wird es nach einem Ruhetag nur besser.",
     "es": "El pan de centeno con masa madre de cada día en Dinamarca: una masa madre en dos etapas, centeno integral fino y grueso, un toque de cerveza y cuatro semillas tostadas, horneado despacio en molde. Cortado fino para el smørrebrød, mejora tras un día de reposo.",
-    "fr": "Le pain de seigle au levain du quotidien danois : un levain en deux étapes, seigle complet fin et grossier, une touche de bière et quatre graines torréfiées, cuit lentement en moule. Tranché fin pour le smørrebrød, il ne fait que s'améliorer après un jour de repos."
+    "fr": "Le pain de seigle au levain du quotidien danois : un levain en deux étapes, seigle complet fin et grossier, une touche de bière et quatre graines torréfiées, cuit lentement en moule. Tranché fin pour le smørrebrød, il ne fait que s'améliorer après un jour de repos.",
+    "ro": "Pâinea daneză de zi cu zi, de secară cu maia: o maia în două etape, secară spartă și integrală, un strop de bere și patru semințe prăjite, coaptă lent, la foc mic, în formă de tavă. Feliată subțire pentru smørrebrød, se îmbunătățește doar după o zi de odihnă."
   },
   "origin": {
     "country": "DK",
@@ -60,7 +62,8 @@
         "en": "dark lager beer",
         "de": "dunkles Lagerbier",
         "es": "cerveza lager oscura",
-        "fr": "bière brune"
+        "fr": "bière brune",
+        "ro": "bere lager brună"
       },
       "grams": 160
     },

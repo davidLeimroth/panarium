@@ -5,7 +5,8 @@
     "de": "Limpa (schwedisches Orangen-Roggenbrot)",
     "es": "Limpa (pan de centeno y naranja sueco)",
     "fr": "Limpa (pain suédois au seigle et à l'orange)",
-    "native": "Limpa"
+    "native": "Limpa",
+    "ro": "Limpa (pâine suedeză de secară cu portocală)"
   },
   "aliases": [
     "vörtlimpa",
@@ -15,7 +16,8 @@
     "en": "A softly sweet Swedish sandwich loaf where rye meets wheat, laced with molasses, orange zest and a trio of warm seeds, caraway, anise, fennel. Classic on the Christmas julbord, just as at home toasted with salted butter any morning.",
     "de": "Ein sanft süßes schwedisches Sandwichbrot aus Roggen und Weizen, mit Melasse, Orangenschale und drei warmen Samen – Kümmel, Anis, Fenchel. Klassiker auf dem weihnachtlichen Julbord, genauso gut geröstet mit gesalzener Butter zum Frühstück.",
     "es": "Un pan de molde sueco suavemente dulce que mezcla centeno y trigo, con melaza, ralladura de naranja y un trío de semillas cálidas: alcaravea, anís e hinojo. Clásico en la mesa navideña, igual de bueno tostado con mantequilla salada.",
-    "fr": "Un pain de mie suédois doucement sucré mariant seigle et froment, parfumé à la mélasse, au zeste d'orange et à un trio de graines chaudes : carvi, anis, fenouil. Classique de la table de Noël, tout aussi bon grillé avec du beurre salé."
+    "fr": "Un pain de mie suédois doucement sucré mariant seigle et froment, parfumé à la mélasse, au zeste d'orange et à un trio de graines chaudes : carvi, anis, fenouil. Classique de la table de Noël, tout aussi bon grillé avec du beurre salé.",
+    "ro": "O pâine suedeză de sandviș, ușor dulce, unde secara întâlnește grâul, aromată cu melasă, coajă de portocală și un trio de semințe calde: chimen, anason, fenicul. Clasică pe julbordul de Crăciun, la fel de potrivită prăjită cu unt sărat în orice dimineață."
   },
   "origin": {
     "country": "SE",
@@ -104,7 +106,8 @@
         "en": "dry milk powder",
         "de": "Trockenmilchpulver",
         "es": "leche en polvo",
-        "fr": "lait en poudre"
+        "fr": "lait en poudre",
+        "ro": "lapte praf"
       },
       "grams": 28
     }

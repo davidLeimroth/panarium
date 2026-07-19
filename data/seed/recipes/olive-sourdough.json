@@ -4,7 +4,8 @@
     "en": "Green Olive & Herb Sourdough",
     "de": "Sauerteigbrot mit grünen Oliven und Kräutern",
     "es": "Pan de masa madre con aceitunas verdes y hierbas",
-    "fr": "Pain au levain aux olives vertes et aux herbes"
+    "fr": "Pain au levain aux olives vertes et aux herbes",
+    "ro": "Pâine cu maia, măsline verzi și ierburi"
   },
   "aliases": [
     "Olive sourdough",
@@ -14,7 +15,8 @@
     "en": "Briny Castelvetrano-style green olives and a scattering of herbes de Provence turn a simple wheat sourdough into a Mediterranean-leaning table loaf. Salty, herbal and faintly tangy, it needs nothing more than a good olive oil alongside.",
     "de": "Salzig-milde grüne Oliven nach Castelvetrano-Art und eine Prise Herbes de Provence machen aus einem schlichten Weizensauerteig ein mediterran angehauchtes Tischbrot. Salzig, kräuterwürzig und leicht säuerlich – dazu braucht es nur ein gutes Olivenöl.",
     "es": "Aceitunas verdes saladas al estilo Castelvetrano y un toque de hierbas de Provenza convierten un sencillo pan de trigo con masa madre en un pan de mesa de aire mediterráneo. Salado, herbáceo y ligeramente ácido, no necesita más que un buen aceite de oliva al lado.",
-    "fr": "Des olives vertes salées façon Castelvetrano et une pincée d'herbes de Provence transforment un simple levain de blé en un pain de table aux accents méditerranéens. Salé, herbacé et légèrement acidulé, il ne demande qu'une bonne huile d'olive à ses côtés."
+    "fr": "Des olives vertes salées façon Castelvetrano et une pincée d'herbes de Provence transforment un simple levain de blé en un pain de table aux accents méditerranéens. Salé, herbacé et légèrement acidulé, il ne demande qu'une bonne huile d'olive à ses côtés.",
+    "ro": "Măsline verzi sărate, în stil Castelvetrano, și un praf de ierburi de Provence transformă o pâine simplă cu maia într-o pâine de masă cu aer mediteranean. Sărată, aromată și ușor acrișoară, nu are nevoie decât de un ulei de măsline bun alături."
   },
   "origin": {
     "country": "US",
@@ -66,7 +68,8 @@
         "en": "green olives, pitted and rinsed",
         "de": "grüne Oliven, entsteint und abgespült",
         "es": "aceitunas verdes, deshuesadas y enjuagadas",
-        "fr": "olives vertes dénoyautées et rincées"
+        "fr": "olives vertes dénoyautées et rincées",
+        "ro": "măsline verzi, fără sâmburi, clătite"
       },
       "grams": 203
     },
@@ -75,7 +78,8 @@
         "en": "herbes de Provence",
         "de": "Kräuter der Provence",
         "es": "hierbas de Provenza",
-        "fr": "herbes de Provence"
+        "fr": "herbes de Provence",
+        "ro": "ierburi de Provence"
       },
       "grams": 7
     }

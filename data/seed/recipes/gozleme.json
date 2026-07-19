@@ -5,7 +5,8 @@
     "de": "Gözleme (Türkisches gefülltes Fladenbrot)",
     "es": "Gözleme (Pan plano turco relleno)",
     "fr": "Gözleme (Pain plat turc farci)",
-    "native": "gözleme"
+    "native": "gözleme",
+    "ro": "Gözleme (turtă turcească umplută)"
   },
   "aliases": [
     "gozleme",
@@ -15,7 +16,8 @@
     "en": "Paper-thin Turkish dough folded around spinach, feta and onion, then griddled on a domed sac until golden and crisp. Sold hot from market stalls and roadside stands, cut into wedges and eaten by hand.",
     "de": "Hauchdünner türkischer Teig, um Spinat, Feta und Zwiebeln gefaltet und auf einer gewölbten Sac-Platte gebacken, bis er golden und knusprig ist. Wird heiß an Marktständen verkauft, in Keile geschnitten und mit der Hand gegessen.",
     "es": "Masa turca finísima, doblada alrededor de espinacas, feta y cebolla, y cocida sobre un sac abombado hasta dorarse y quedar crujiente. Se vende caliente en puestos de mercado, cortada en cuñas y comida con la mano.",
-    "fr": "Une pâte turque très fine, repliée autour d'épinards, de feta et d'oignon, puis cuite sur un sac bombé jusqu'à devenir dorée et croustillante. Vendue chaude sur les étals de marché, coupée en quartiers et mangée à la main."
+    "fr": "Une pâte turque très fine, repliée autour d'épinards, de feta et d'oignon, puis cuite sur un sac bombé jusqu'à devenir dorée et croustillante. Vendue chaude sur les étals de marché, coupée en quartiers et mangée à la main.",
+    "ro": "Un aluat turcesc subțire ca hârtia, împăturit în jurul spanacului, fetei și cepei, apoi copt pe o placă bombată numită sac, până devine auriu și crocant. Se vinde fierbinte la tarabe de piață și gherete de la marginea drumului, tăiat felii și mâncat cu mâna."
   },
   "origin": {
     "country": "TR",
@@ -60,7 +62,8 @@
         "en": "baby spinach",
         "de": "Baby-Spinat",
         "es": "espinacas baby",
-        "fr": "jeunes pousses d'épinard"
+        "fr": "jeunes pousses d'épinard",
+        "ro": "spanac baby"
       },
       "grams": 120,
       "note": "roughly chopped, for the filling"
@@ -70,7 +73,8 @@
         "en": "yellow onion",
         "de": "gelbe Zwiebel",
         "es": "cebolla amarilla",
-        "fr": "oignon jaune"
+        "fr": "oignon jaune",
+        "ro": "ceapă galbenă"
       },
       "grams": 110,
       "note": "finely chopped, for the filling"
@@ -90,7 +94,8 @@
         "en": "Aleppo pepper",
         "de": "Aleppo-Pfeffer",
         "es": "pimienta de Alepo",
-        "fr": "piment d'Alep"
+        "fr": "piment d'Alep",
+        "ro": "ardei Aleppo"
       },
       "grams": 1,
       "note": "for the filling"

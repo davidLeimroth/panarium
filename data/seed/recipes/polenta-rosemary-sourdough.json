@@ -4,7 +4,8 @@
     "en": "Polenta & Rosemary Sourdough",
     "de": "Sauerteigbrot mit Polenta und Rosmarin",
     "es": "Pan de masa madre con polenta y romero",
-    "fr": "Pain au levain à la polenta et au romarin"
+    "fr": "Pain au levain à la polenta et au romarin",
+    "ro": "Pâine cu maia, polenta și rozmarin"
   },
   "aliases": [
     "Cornmeal rosemary sourdough"
@@ -13,7 +14,8 @@
     "en": "Coarse polenta, plumped in hot whey, folds through a high-extraction wheat dough for a subtly sweet, corn-flecked crumb, with fresh rosemary running through for a savory lift. A distinctly American answer to the classic herbed hearth loaf.",
     "de": "Grobe Polenta, in heißer Molke aufgequollen, wird in einen hochausgemahlenen Weizenteig eingearbeitet – für eine dezent süße, mit Mais gesprenkelte Krume, dazu frischer Rosmarin für pikante Würze. Eine unverkennbar amerikanische Antwort auf das klassische Kräuterbrot.",
     "es": "Polenta gruesa, hinchada en suero de leche caliente, se incorpora a una masa de trigo de alta extracción para una miga sutilmente dulce y salpicada de maíz, con romero fresco que aporta un toque sabroso. Una respuesta claramente americana al clásico pan de hierbas.",
-    "fr": "De la polenta grossière, gonflée dans du petit-lait chaud, s'incorpore à une pâte de blé à haute extraction pour une mie subtilement sucrée et mouchetée de maïs, avec du romarin frais qui apporte une note relevée. Une réponse résolument américaine au pain aux herbes classique."
+    "fr": "De la polenta grossière, gonflée dans du petit-lait chaud, s'incorpore à une pâte de blé à haute extraction pour une mie subtilement sucrée et mouchetée de maïs, avec du romarin frais qui apporte une note relevée. Une réponse résolument américaine au pain aux herbes classique.",
+    "ro": "Polenta grunjoasă, umflată în zer fierbinte, se încorporează într-un aluat de grâu semiintegral, pentru un miez ușor dulceag, punctat cu porumb, cu rozmarin proaspăt pentru o notă sărată. Un răspuns american la pâinea clasică de vatră cu ierburi."
   },
   "origin": {
     "country": "US",
@@ -71,7 +73,8 @@
         "en": "whey",
         "de": "Molke",
         "es": "suero de leche",
-        "fr": "petit-lait"
+        "fr": "petit-lait",
+        "ro": "zer"
       },
       "grams": 445,
       "note": "used to soak the polenta; most drains away before mixing"
@@ -81,7 +84,8 @@
         "en": "fresh rosemary, minced",
         "de": "frischer Rosmarin, gehackt",
         "es": "romero fresco picado",
-        "fr": "romarin frais haché"
+        "fr": "romarin frais haché",
+        "ro": "rozmarin proaspăt, tocat"
       },
       "grams": 10
     }

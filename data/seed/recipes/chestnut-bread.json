@@ -5,7 +5,8 @@
     "de": "Pane di San Martino (italienisches Kastanienbrot)",
     "es": "Pane di San Martino (pan italiano de castañas)",
     "fr": "Pane di San Martino (pain italien aux châtaignes)",
-    "native": "Pane di San Martino"
+    "native": "Pane di San Martino",
+    "ro": "Pane di San Martino (pâine italiană cu castane)"
   },
   "aliases": [
     "Italian chestnut bread",
@@ -15,7 +16,8 @@
     "en": "Chestnut flour, wheat or spelt flour and walnuts, built on a sourdough leaven plus a little fresh yeast. Baked in Italy's chestnut hills for Saint Martin's feast day, it carries the sweet, nutty flavor that once helped poor mountain villages survive when wheat was scarce.",
     "de": "Kastanienmehl, Weizen- oder Dinkelmehl und Walnüsse, getragen von einem Sauerteig-Ansatz und etwas frischer Hefe. In Italiens Kastanienregionen zum Martinstag im November gebacken, trägt es den süßen, nussigen Geschmack, der armen Bergdörfern half, wenn Weizen knapp war.",
     "es": "Harina de castañas, harina de trigo o espelta y nueces, con un fermento de masa madre y algo de levadura fresca. Horneado en las colinas castañeras de Italia por San Martín, conserva el sabor dulce y a nuez que ayudó a aldeas pobres cuando el trigo escaseaba.",
-    "fr": "Farine de châtaigne, farine de blé ou d'épeautre et noix, portées par un levain et un peu de levure fraîche. Cuite dans les collines à châtaigniers d'Italie pour la Saint-Martin, elle garde la saveur douce et noisettée qui aidait les villages pauvres quand le blé manquait."
+    "fr": "Farine de châtaigne, farine de blé ou d'épeautre et noix, portées par un levain et un peu de levure fraîche. Cuite dans les collines à châtaigniers d'Italie pour la Saint-Martin, elle garde la saveur douce et noisettée qui aidait les villages pauvres quand le blé manquait.",
+    "ro": "Făină de castane, făină de grâu sau de spelta și nuci, pe o maia de aluat plus puțină drojdie proaspătă. Coaptă în dealurile italiene cu castani, de ziua Sfântului Martin, păstrează gustul dulce și de nucă ce a ajutat cândva satele sărace de munte când grâul lipsea."
   },
   "origin": {
     "country": "IT",
@@ -48,7 +50,8 @@
         "en": "chestnut flour",
         "de": "Kastanienmehl",
         "es": "harina de castañas",
-        "fr": "farine de châtaigne"
+        "fr": "farine de châtaigne",
+        "ro": "făină de castane"
       },
       "grams": 50,
       "note": "in the pre-ferment"
@@ -58,7 +61,8 @@
         "en": "chestnut flour",
         "de": "Kastanienmehl",
         "es": "harina de castañas",
-        "fr": "farine de châtaigne"
+        "fr": "farine de châtaigne",
+        "ro": "făină de castane"
       },
       "grams": 250,
       "note": "in the main dough"

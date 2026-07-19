@@ -4,7 +4,8 @@
     "en": "Dark Chocolate-Cherry Sourdough",
     "de": "Sauerteigbrot mit dunkler Schokolade und Kirschen",
     "es": "Pan de masa madre con chocolate negro y cerezas",
-    "fr": "Pain au levain au chocolat noir et aux cerises"
+    "fr": "Pain au levain au chocolat noir et aux cerises",
+    "ro": "Pâine de maia cu ciocolată neagră și vișine"
   },
   "aliases": [
     "Chocolate cherry bread"
@@ -13,7 +14,8 @@
     "en": "Bloomed cocoa, dark chocolate chunks and tart dried cherries turn a wheat sourdough into something between bread and dessert. Rich and just sweet enough, with the sourdough's tang keeping it from tipping into cake territory.",
     "de": "Aufgeblühter Kakao, Stücke dunkler Schokolade und säuerliche getrocknete Kirschen machen aus einem Weizensauerteig etwas zwischen Brot und Dessert. Reichhaltig und gerade süß genug, während die Säure des Sauerteigs verhindert, dass es zu kuchig wird.",
     "es": "Cacao atemperado, trozos de chocolate negro y cerezas secas ácidas convierten un pan de trigo con masa madre en algo entre pan y postre. Intenso y justo lo bastante dulce, con la acidez de la masa madre evitando que se convierta en un bizcocho.",
-    "fr": "Du cacao infusé dans l'huile, des morceaux de chocolat noir et des cerises séchées acidulées transforment un levain de blé en quelque chose entre pain et dessert. Riche et juste assez sucré, l'acidité du levain l'empêchant de basculer vers le gâteau."
+    "fr": "Du cacao infusé dans l'huile, des morceaux de chocolat noir et des cerises séchées acidulées transforment un levain de blé en quelque chose entre pain et dessert. Riche et juste assez sucré, l'acidité du levain l'empêchant de basculer vers le gâteau.",
+    "ro": "Cacao hidratată, bucăți de ciocolată neagră și vișine uscate, acrișoare, transformă o pâine de maia din grâu în ceva între pâine și desert. Bogată și exact atât de dulce cât trebuie, cu aciditatea maielei care o ține departe de teritoriul prăjiturii."
   },
   "origin": {
     "country": "US",
@@ -81,7 +83,8 @@
         "en": "dark chocolate chunks (62% cacao)",
         "de": "Stücke dunkler Schokolade (62% Kakao)",
         "es": "trozos de chocolate negro (62% cacao)",
-        "fr": "morceaux de chocolat noir (62% cacao)"
+        "fr": "morceaux de chocolat noir (62% cacao)",
+        "ro": "bucăți de ciocolată neagră (62% cacao)"
       },
       "grams": 159
     },
@@ -90,7 +93,8 @@
         "en": "dried tart cherries",
         "de": "getrocknete Sauerkirschen",
         "es": "cerezas ácidas deshidratadas",
-        "fr": "cerises acidulées séchées"
+        "fr": "cerises acidulées séchées",
+        "ro": "vișine uscate"
       },
       "grams": 159,
       "note": "soaked briefly in warm water"

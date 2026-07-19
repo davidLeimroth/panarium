@@ -5,7 +5,8 @@
     "de": "Gua Bao (gefaltetes Dampfbrötchen)",
     "es": "Gua bao (bollo taiwanés plegado)",
     "fr": "Gua bao (petit pain vapeur plié taïwanais)",
-    "native": "割包 / 刈包 (guàbāo)"
+    "native": "割包 / 刈包 (guàbāo)",
+    "ro": "Gua Bao (chiflă taiwaneză pliată)"
   },
   "aliases": [
     "cut bun",
@@ -15,7 +16,8 @@
     "en": "Taiwan's answer to the sandwich: a flat, faintly sweet steamed bun is folded like a coin purse around braised pork belly, pickled mustard greens and crushed peanuts. Steamed, not baked, so it stays soft enough to fold without ever cracking.",
     "de": "Taiwans Antwort auf das Sandwich: Ein flaches, leicht süßes Dampfbrötchen wird wie ein Geldbeutel um geschmorten Schweinebauch, eingelegtes Senfgemüse und gehackte Erdnüsse gefaltet. Gedämpft statt gebacken, bleibt es weich genug, um ohne zu reißen zu falten.",
     "es": "La respuesta de Taiwán al sándwich: un bollo plano y algo dulce, cocido al vapor, se pliega como un monedero alrededor de panceta de cerdo braseada, mostaza china encurtida y maní triturado. Al vapor, no horneado, queda lo bastante blando para plegarse sin romperse.",
-    "fr": "La réponse de Taïwan au sandwich : un petit pain plat et légèrement sucré, cuit à la vapeur, est plié comme un porte-monnaie autour de poitrine de porc braisée, de légumes moutarde marinés et de cacahuètes concassées. Cuit vapeur, il plie sans jamais craquer."
+    "fr": "La réponse de Taïwan au sandwich : un petit pain plat et légèrement sucré, cuit à la vapeur, est plié comme un porte-monnaie autour de poitrine de porc braisée, de légumes moutarde marinés et de cacahuètes concassées. Cuit vapeur, il plie sans jamais craquer.",
+    "ro": "Răspunsul Taiwanului la sandviș: o chiflă plată, ușor dulce, gătită la abur, e împăturită ca un portofel în jurul pieptului de porc înăbușit, muștarului murat și arahidelor pisate. Gătită la abur, nu coaptă, rămâne destul de moale ca să se îndoaie fără să crape."
   },
   "origin": {
     "country": "TW",
@@ -64,7 +66,8 @@
         "en": "braised pork belly, sliced",
         "de": "geschmorter Schweinebauch, in Scheiben",
         "es": "panceta de cerdo braseada, en lonchas",
-        "fr": "poitrine de porc braisée, tranchée"
+        "fr": "poitrine de porc braisée, tranchée",
+        "ro": "piept de porc înăbușit, feliat"
       },
       "grams": 400,
       "note": "traditional filling, braised separately and folded in at serving"
@@ -74,7 +77,8 @@
         "en": "pickled mustard greens and crushed peanuts",
         "de": "eingelegtes Senfgemüse und gehackte Erdnüsse",
         "es": "mostaza china encurtida y maní triturado",
-        "fr": "légumes moutarde marinés et cacahuètes concassées"
+        "fr": "légumes moutarde marinés et cacahuètes concassées",
+        "ro": "muștar murat și arahide pisate"
       },
       "grams": 80,
       "note": "traditional garnish"

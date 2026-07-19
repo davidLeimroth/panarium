@@ -4,7 +4,8 @@
     "en": "Boston Brown Bread",
     "de": "Boston Brown Bread (gedämpftes Roggen-Mais-Brot)",
     "es": "Boston brown bread (pan de centeno y maíz al vapor)",
-    "fr": "Boston brown bread (pain vapeur au seigle et au maïs)"
+    "fr": "Boston brown bread (pain vapeur au seigle et au maïs)",
+    "ro": "Boston Brown Bread (pâine la abur din secară și porumb)"
   },
   "aliases": [
     "New England brown bread",
@@ -14,7 +15,8 @@
     "en": "A dark, dense New England bread of rye, wheat and cornmeal sweetened with molasses, steamed rather than baked in a covered can until moist and ridged. Traditionally sliced into rounds alongside baked beans for Saturday supper.",
     "de": "Ein dunkles, dichtes Brot aus Neuengland aus Roggen, Weizen und Maismehl, mit Melasse gesüßt, gedämpft statt gebacken in einer verschlossenen Dose, bis es feucht und geriffelt ist. Traditionell in Scheiben zu gebackenen Bohnen für das Samstagsabendessen serviert.",
     "es": "Un pan oscuro y denso de Nueva Inglaterra con centeno, trigo y harina de maíz, endulzado con melaza, cocido al vapor en una lata cerrada hasta quedar húmedo y acanalado. Se corta en rodajas junto a alubias horneadas para la cena del sábado.",
-    "fr": "Un pain sombre et dense de Nouvelle-Angleterre au seigle, au blé et à la semoule de maïs, sucré à la mélasse, cuit à la vapeur dans une boîte couverte jusqu'à devenir moelleux et strié. Tranché en rondelles avec des haricots au four pour le souper du samedi."
+    "fr": "Un pain sombre et dense de Nouvelle-Angleterre au seigle, au blé et à la semoule de maïs, sucré à la mélasse, cuit à la vapeur dans une boîte couverte jusqu'à devenir moelleux et strié. Tranché en rondelles avec des haricots au four pour le souper du samedi.",
+    "ro": "O pâine închisă și densă din Noua Anglie, din secară, grâu și mălai, îndulcită cu melasă, gătită la abur într-o cutie acoperită, nu la cuptor, până rămâne umedă și striată. Se taie tradițional felii rotunde, alături de fasole la cuptor, la cina de sâmbătă."
   },
   "origin": {
     "country": "US",
@@ -73,7 +75,8 @@
         "en": "allspice",
         "de": "Piment",
         "es": "pimienta de Jamaica",
-        "fr": "quatre-épices"
+        "fr": "quatre-épices",
+        "ro": "piper englezesc"
       },
       "grams": 0.5,
       "note": "optional"
