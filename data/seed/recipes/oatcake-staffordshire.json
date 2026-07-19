@@ -20,10 +20,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Stoke-on-Trent and North Staffordshire"
+      "en": "Stoke-on-Trent and North Staffordshire",
+      "de": "Stoke-on-Trent und North Staffordshire",
+      "es": "Stoke-on-Trent y North Staffordshire",
+      "fr": "Stoke-on-Trent et le North Staffordshire",
+      "ro": "Stoke-on-Trent si North Staffordshire"
     },
     "note": {
-      "en": "Sold since the 18th century from small 'hole in the wall' street windows as a cheap, filling breakfast for local pottery workers; still filled and rolled with bacon, cheese or beans today."
+      "en": "Sold since the 18th century from small 'hole in the wall' street windows as a cheap, filling breakfast for local pottery workers; still filled and rolled with bacon, cheese or beans today.",
+      "de": "Seit dem 18. Jahrhundert aus kleinen 'Schaufenster'-Verkaufsfnungen als billiges, sattigendes Fruhstck fur die rtlichen Tpferarbeiter verkauft; wird auch heute noch mit Speck, Kse oder Bohnen gefullt und gerollt.",
+      "es": "Vendido desde el siglo XVIII desde pequenas ventanillas callejeras como desayuno barato y abundante para los trabajadores locales de ceramica; todavia se rellena y enrolla con tocino, queso o frijoles hoy en dia.",
+      "fr": "Vendu depuis le XVIIIe siecle depuis de petites fenetres de rue comme un petit-dejeuner bon marche et copieux pour les ouvriers potiers locaux; encore farci et roule avec du bacon, du fromage ou des haricots aujourd'hui.",
+      "ro": "Vandut din secolul al XVIII-lea din mici ferestre stradale ca un mic dejun ieftin si satios pentru muncitorii locali de ceramica; inca umplut si rulat cu slanina, branza sau fasole astazi."
     }
   },
   "leaven": "yeast",
@@ -53,21 +61,33 @@
       "key": "flour:oat",
       "grams": 150,
       "note": {
-        "en": "fine oatmeal, or oats ground fine"
+        "en": "fine oatmeal, or oats ground fine",
+        "de": "feines Hafermehl oder fein gemahlener Hafer",
+        "es": "harina fina de avena, o avena molida fina",
+        "fr": "farine d'avoine fine, ou flocons d'avoine moulus fin",
+        "ro": "faina fina de ovaz, sau ovaz macinat fin"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 60,
       "note": {
-        "en": "strong white flour"
+        "en": "strong white flour",
+        "de": "Weizenbrotmehl",
+        "es": "harina de pan blanca",
+        "fr": "farine de pain blanche",
+        "ro": "faina alba de paine"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 60,
       "note": {
-        "en": "strong wholemeal flour"
+        "en": "strong wholemeal flour",
+        "de": "Vollkornbrotmehl",
+        "es": "harina integral de pan",
+        "fr": "farine complete de pain",
+        "ro": "faina integrala de paine"
       }
     },
     {
@@ -78,7 +98,11 @@
       "key": "instant-yeast",
       "grams": 2,
       "note": {
-        "en": "fast-action dried yeast"
+        "en": "fast-action dried yeast",
+        "de": "schnellaktive Trockenhefe",
+        "es": "levadura seca de accion rapida",
+        "fr": "levure seche active",
+        "ro": "drojdie uscata cu actiune rapida"
       }
     },
     {
@@ -89,14 +113,22 @@
       "key": "water",
       "grams": 250,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiede",
+        "ro": "calduta"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 14,
       "note": {
-        "en": "for frying"
+        "en": "for frying",
+        "de": "zum Braten",
+        "es": "para freir",
+        "fr": "pour la friture",
+        "ro": "pentru prajit"
       }
     }
   ],
@@ -104,7 +136,11 @@
     "count": 6,
     "pieceGrams": 105,
     "shape": {
-      "en": "large thin griddle rounds, about 20cm/8 inches across"
+      "en": "large thin griddle rounds, about 20cm/8 inches across",
+      "de": "gro e dunne Pfannenrundlinge, etwa 20 cm Durchmesser",
+      "es": "grandes circulos delgados de plancha, de unos 20 cm de diametro",
+      "fr": "grands disques fins a la poele, environ 20 cm de diametre",
+      "ro": "rotunde mari si subtiri de tigaie, aproximativ 20 cm diametru"
     }
   },
   "time": {
@@ -145,7 +181,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Stacks and keeps a few days refrigerated; classically refreshed in a hot dry pan before filling and rolling."
+      "en": "Stacks and keeps a few days refrigerated; classically refreshed in a hot dry pan before filling and rolling.",
+      "de": "Stapelbar und im Kuhlschrank einige Tage haltbar; klassisch in einer heien trockenen Pfanne aufgefrischt vor dem Fullen und Rollen.",
+      "es": "Se apila y se conserva unos dias refrigerado; classicamente se refresca en una sarten seca caliente antes de rellenar y enrollar.",
+      "fr": "Se empile et se conserve quelques jours au refrigerateur; classiquement rafraichi dans une poele seche chaude avant d'etre farci et roule.",
+      "ro": "Se stivuiesc si se pastreaza cateva zile la frigider; in mod clasic improspatate intr-o tigaie uscata fierbinte inainte de umplere si rulare."
     }
   },
   "equipment": [
@@ -254,7 +294,11 @@
     "site": "Little Sugar Snaps",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Frying oil quantity estimated per standard griddle-bread practice; the source specifies 'flavourless oil' without a fixed total amount."
+      "en": "Frying oil quantity estimated per standard griddle-bread practice; the source specifies 'flavourless oil' without a fixed total amount.",
+      "de": "Menge des Bratls nach Standard-Pfannenbrot-Praxis geschtzt; die Quelle gibt 'geschmacksneutrales Ol' ohne feste Gesamtmenge an.",
+      "es": "Cantidad de aceite para freir estimada segun la practica estandar del pan de plancha; la fuente especifica 'aceite sin sabor' sin una cantidad total fija.",
+      "fr": "Quantite d'huile de friture estimee selon la pratique standard du pain a la poele; la source specifie 'huile neutre' sans quantite totale fixe.",
+      "ro": "Cantitatea de ulei pentru prajit estimata conform practicii standard a painii de tigaie; sursa specifica 'ulei fara aroma' fara o cantitate totala fixa."
     }
   },
   "tags": [

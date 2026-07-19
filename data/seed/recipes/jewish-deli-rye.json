@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "New York City, Lower East Side"
+      "en": "New York City, Lower East Side",
+      "de": "New York City, Lower East Side",
+      "es": "Nueva York, Lower East Side",
+      "fr": "New York, Lower East Side",
+      "ro": "New York City, Lower East Side"
     },
     "note": {
-      "en": "Brought by Eastern European Jewish immigrants (Poland, Russia, Ukraine) in the late 1800s; the light rye and caraway profile is a New York adaptation of older European rye traditions."
+      "en": "Brought by Eastern European Jewish immigrants (Poland, Russia, Ukraine) in the late 1800s; the light rye and caraway profile is a New York adaptation of older European rye traditions.",
+      "de": "Von osteuropäischen jüdischen Einwanderern (Polen, Russland, Ukraine) im späten 19. Jahrhundert eingeführt; das helle Roggen- und Kümmelprofil ist eine New Yorker Adaption älterer europäischer Roggentraditionen.",
+      "es": "Traído por inmigrantes judíos de Europa del Este (Polonia, Rusia, Ucrania) a finales del siglo XIX; el perfil de centeno claro y alcaravea es una adaptación neoyorquina de tradiciones europeas de centeno más antiguas.",
+      "fr": "Apporté par les immigrants juifs d'Europe de l'Est (Pologne, Russie, Ukraine) à la fin du XIXe siècle; le profil de seigle léger et de carvi est une adaptation new-yorkaise de traditions européennes plus anciennes.",
+      "ro": "Adus de imigranții evrei din Europa de Est (Polonia, Rusia, Ucraina) la sfârșitul anilor 1800; profilul de secară ușoară și chimen este o adaptare newyorkeză a tradițiilor europene mai vechi de secară."
     }
   },
   "leaven": "sourdough",
@@ -51,42 +59,66 @@
       "key": "sourdough-starter",
       "grams": 14,
       "note": {
-        "en": "ripe starter, to build the rye sour"
+        "en": "ripe starter, to build the rye sour",
+        "de": "reifer Starter, für den Roggensauer",
+        "es": "masa madre madura, para preparar la masa agria de centeno",
+        "fr": "levain mûr, pour construire le levain de seigle",
+        "ro": "maia matură, pentru a construi maiaua de secară"
       }
     },
     {
       "key": "flour:rye-whole",
       "grams": 237,
       "note": {
-        "en": "pumpernickel-style whole rye, for the rye sour"
+        "en": "pumpernickel-style whole rye, for the rye sour",
+        "de": "Roggenvollkorn nach Pumpernickel-Art, für den Roggensauer",
+        "es": "centeno integral estilo pumpernickel, para la masa agria de centeno",
+        "fr": "seigle complet style pumpernickel, pour le levain de seigle",
+        "ro": "secară integrală tip pumpernickel, pentru maiaua de secară"
       }
     },
     {
       "key": "water",
       "grams": 198,
       "note": {
-        "en": "for the rye sour"
+        "en": "for the rye sour",
+        "de": "für den Roggensauer",
+        "es": "para la masa agria de centeno",
+        "fr": "pour le levain de seigle",
+        "ro": "pentru maiaua de secară"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 420,
       "note": {
-        "en": "bread or all-purpose flour, for the final dough"
+        "en": "bread or all-purpose flour, for the final dough",
+        "de": "Brotmehl oder Haushaltsmehl, für den Endteig",
+        "es": "harina de pan o harina común, para la masa final",
+        "fr": "farine à pain ou farine tout usage, pour la pâte finale",
+        "ro": "făină de pâine sau făină universală, pentru aluatul final"
       }
     },
     {
       "key": "water",
       "grams": 241,
       "note": {
-        "en": "for the final dough"
+        "en": "for the final dough",
+        "de": "für den Endteig",
+        "es": "para la masa final",
+        "fr": "pour la pâte finale",
+        "ro": "pentru aluatul final"
       }
     },
     {
       "key": "caraway",
       "grams": 8,
       "note": {
-        "en": "whole seeds plus a pinch ground"
+        "en": "whole seeds plus a pinch ground",
+        "de": "ganze Körner plus eine Prise gemahlen",
+        "es": "semillas enteras más una pizca molida",
+        "fr": "graines entières plus une pincée moulue",
+        "ro": "semințe întregi plus un praf măcinat"
       }
     },
     {
@@ -102,7 +134,11 @@
     "count": 1,
     "pieceGrams": 1133,
     "shape": {
-      "en": "plump oval hearth loaf, caraway-topped"
+      "en": "plump oval hearth loaf, caraway-topped",
+      "de": "prallovales Ofenbrot, mit Kümmel bestreut",
+      "es": "horno ovalado y voluminoso, cubierto de alcaravea",
+      "fr": "pain de foyer ovale et rebondi, garni de carvi",
+      "ro": "pâine de vatră ovală și voluminoasă, cu chimen deasupra"
     }
   },
   "time": {
@@ -144,7 +180,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Improves after a day; wrap tightly since rye dries out fast once cut."
+      "en": "Improves after a day; wrap tightly since rye dries out fast once cut.",
+      "de": "Wird nach einem Tag besser; gut einwickeln, da Roggen nach dem Anschneiden schnell austrocknet.",
+      "es": "Mejora después de un día; envolver bien, ya que el centeno se seca rápido una vez cortado.",
+      "fr": "S'améliore après un jour; emballer hermétiquement car le seigle sèche vite une fois entamé.",
+      "ro": "Se îmbunătățește după o zi; înfășoară bine, deoarece secara se usucă repede după tăiere."
     }
   },
   "equipment": [
@@ -253,7 +293,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Traditional old-bread soaker (altus) omitted for a cleaner formula; caraway and rye-sour ratios kept as sourced."
+      "en": "Traditional old-bread soaker (altus) omitted for a cleaner formula; caraway and rye-sour ratios kept as sourced.",
+      "de": "Traditioneller Altbrot-Quellstück (Altus) für eine klarere Rezeptur weggelassen; Kümmel- und Roggensauer-Anteile wie in der Quelle belassen.",
+      "es": "Remojo de pan duro tradicional (altus) omitido para una fórmula más limpia; proporciones de alcaravea y masa agria de centeno mantenidas según la fuente.",
+      "fr": "Trempe de pain rassis traditionnelle (altus) omise pour une formule plus nette; les proportions de carvi et de levain de seigle conservées telles que dans la source.",
+      "ro": "Înmuierea tradițională cu pâine veche (altus) omisă pentru o formulă mai curată; proporțiile de chimen și maia de secară păstrate conform sursei."
     }
   },
   "tags": [

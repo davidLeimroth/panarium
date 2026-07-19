@@ -21,10 +21,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Northern Ireland"
+      "en": "Northern Ireland",
+      "de": "Nordirland",
+      "es": "Irlanda del Norte",
+      "fr": "Irlande du Nord",
+      "ro": "Irlanda de Nord"
     },
     "note": {
-      "en": "The everyday brown soda bread of Ulster tables, distinct from the white soda farl; buttermilk's acid reacting with bicarbonate of soda gives the rise instead of yeast."
+      "en": "The everyday brown soda bread of Ulster tables, distinct from the white soda farl; buttermilk's acid reacting with bicarbonate of soda gives the rise instead of yeast.",
+      "de": "Das alltägliche braune Sodabrot der Ulster-Tische, zu unterscheiden vom weißen Sodafarl; die Säure der Buttermilch reagiert mit Natron und treibt den Teig statt Hefe.",
+      "es": "El pan de soda integral cotidiano de las mesas del Úlster, distinto del farl de soda blanco; el ácido del suero de mantequilla reacciona con el bicarbonato de sodio y da el levante en lugar de la levadura.",
+      "fr": "Le pain au bicarbonate brun quotidien des tables d'Ulster, distinct du farl blanc au bicarbonate; l'acide du babeurre réagit avec le bicarbonate de soude pour faire lever la pâte au lieu de la levure.",
+      "ro": "Pâinea zilnică brună cu bicarbonat a meselor din Ulster, distinctă de farl alb cu bicarbonat; acidul din zară reacționează cu bicarbonatul de sodiu și dă creșterea în locul drojdiei."
     }
   },
   "leaven": "chemical",
@@ -51,14 +59,22 @@
       "key": "flour:wheat-whole",
       "grams": 142,
       "note": {
-        "en": "wholemeal"
+        "en": "wholemeal",
+        "de": "Vollkornmehl",
+        "es": "harina integral",
+        "fr": "farine complète",
+        "ro": "făină integrală"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 227,
       "note": {
-        "en": "plain flour"
+        "en": "plain flour",
+        "de": "glattes Weizenmehl",
+        "es": "harina de trigo común",
+        "fr": "farine de blé tout usage",
+        "ro": "făină simplă de grâu"
       }
     },
     {
@@ -96,7 +112,11 @@
     "count": 1,
     "pieceGrams": 700,
     "shape": {
-      "en": "round farmhouse loaf, deep cross scored on top"
+      "en": "round farmhouse loaf, deep cross scored on top",
+      "de": "runder Bauernlaib, tiefes Kreuz oben eingeritzt",
+      "es": "hogaza redonda campestre, con cruz profunda marcada arriba",
+      "fr": "pain rond campagnard, croix profonde incisée sur le dessus",
+      "ro": "pâine rotundă țărănească, cu cruce adâncă incizată deasupra"
     }
   },
   "time": {
@@ -136,7 +156,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Keeps better than white soda bread thanks to the wholemeal; many say it's best thickly sliced and toasted from day two."
+      "en": "Keeps better than white soda bread thanks to the wholemeal; many say it's best thickly sliced and toasted from day two.",
+      "de": "Hält sich dank des Vollkornmehls besser als weißes Sodabrot; viele sagen, es schmeckt ab Tag zwei am besten dick geschnitten und getoastet.",
+      "es": "Se conserva mejor que el pan de soda blanco gracias a la harina integral; muchos dicen que está mejor en rebanadas gruesas y tostado a partir del segundo día.",
+      "fr": "Se conserve mieux que le pain au bicarbonate blanc grâce à la farine complète; beaucoup disent qu'il est meilleur en tranches épaisses grillées à partir du deuxième jour.",
+      "ro": "Se păstrează mai bine decât pâinea albă cu bicarbonat datorită făinii integrale; mulți spun că este cel mai bun tăiat gros și prăjit din a doua zi."
     }
   },
   "equipment": [
@@ -153,10 +177,10 @@
       },
       "summary": {
         "en": "Sift the cream of tartar and bicarb into the plain flour, then stir through the wholemeal flour with the salt and brown sugar.",
-        "de": "Das Weizenmehl mit Weinstein und Natron sieben, dann Vollkornmehl, Salz und braunen Zucker einrühren.",
-        "es": "Tamizar la harina común con el cremor tártaro y el bicarbonato de sodio, luego incorporar la harina integral, la sal y el azúcar moreno.",
-        "fr": "Tamiser la farine avec la crème de tartre et le bicarbonate de soude, puis incorporer la farine complète, le sel et le sucre roux.",
-        "ro": "Cerne făina albă cu crema de tartru și bicarbonatul de sodiu, apoi încorporează făina integrală, sarea și zahărul brun."
+        "de": "Das Weizenmehl mit Weinstein und Natron sieben, dann das Vollkornmehl, Salz und braunen Zucker einrühren.",
+        "es": "Tamizar el crémor tártaro y el bicarbonato con la harina blanca, luego incorporar la harina integral, la sal y el azúcar moreno.",
+        "fr": "Tamiser la crème de tartre et le bicarbonate avec la farine blanche, puis incorporer la farine complète, le sel et le sucre roux.",
+        "ro": "Cerne făina albă cu crema de tartru și bicarbonatul, apoi încorporează făina integrală, sarea și zahărul brun."
       }
     },
     {
@@ -245,7 +269,11 @@
     "site": "Discover Northern Ireland",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Source gave a wide buttermilk range and only 'a pinch' of salt; standardized both to defined baker's percentages, and omitted the optional wheat germ and bran boosters for a clean baseline formula."
+      "en": "Source gave a wide buttermilk range and only 'a pinch' of salt; standardized both to defined baker's percentages, and omitted the optional wheat germ and bran boosters for a clean baseline formula.",
+      "de": "Die Quelle gab eine breite Buttermilchspanne und nur 'eine Prise' Salz an; beides auf definierte Bäckerprozente standardisiert und die optionalen Weizenkeim- und Kleieverstärker für eine saubere Basisformel weggelassen.",
+      "es": "La fuente daba un amplio rango de suero de mantequilla y solo 'una pizca' de sal; ambos estandarizados a porcentajes panaderos definidos, y omitidos los refuerzos opcionales de germen de trigo y salvado para una fórmula base limpia.",
+      "fr": "La source donnait une large fourchette de babeurre et seulement 'une pincée' de sel; les deux standardisés en pourcentages de boulanger définis, et les boosters facultatifs de germe de blé et son omis pour une formule de base propre.",
+      "ro": "Sursa a oferit o gamă largă de zară și doar 'un praf' de sare; ambele standardizate la procente definite de panificație, iar stimulentele opționale de germeni de grâu și tărâțe omise pentru o formulă de bază curată."
     }
   },
   "tags": [

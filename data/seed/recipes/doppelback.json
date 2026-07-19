@@ -22,10 +22,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Ostwestfalen / Paderborner Land"
+      "en": "Ostwestfalen / Paderborner Land",
+      "de": "Ostwestfalen / Paderborner Land",
+      "es": "Ostwestfalen / Paderborner Land",
+      "fr": "Ostwestfalen / Paderborner Land",
+      "ro": "Ostwestfalen / Paderborner Land"
     },
     "note": {
-      "en": "A staple found in almost every bakery in East Westphalia; named for its defining two-stage bake rather than for any single town."
+      "en": "A staple found in almost every bakery in East Westphalia; named for its defining two-stage bake rather than for any single town.",
+      "de": "Ein Grundnahrungsmittel in fast jeder Bäckerei Ostwestfalens; benannt nach dem charakteristischen Zweistufenbacken, nicht nach einem einzelnen Ort.",
+      "es": "Un alimento básico que se encuentra en casi todas las panaderías de Ostwestfalen; nombrado por su característico horneado en dos etapas, no por ninguna ciudad en particular.",
+      "fr": "Un aliment de base présent dans presque toutes les boulangeries d'Ostwestfalen; nommé pour sa cuisson caractéristique en deux étapes plutôt que pour une ville particulière.",
+      "ro": "Un aliment de bază găsit în aproape orice brutărie din Ostwestfalen; numit pentru coacerea sa definitorie în două etape, nu pentru un anumit oraș."
     }
   },
   "leaven": "hybrid",
@@ -51,14 +59,22 @@
       "key": "flour:rye",
       "grams": 240,
       "note": {
-        "en": "type 1150; split between the levain and the main dough"
+        "en": "type 1150; split between the levain and the main dough",
+        "de": "Type 1150; aufgeteilt zwischen Levain und Hauptteig",
+        "es": "tipo 1150; repartido entre el levain y la masa principal",
+        "fr": "type 1150; réparti entre le levain et la pâte principale",
+        "ro": "tip 1150; împărțit între levain și aluatul principal"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 465,
       "note": {
-        "en": "type 1050"
+        "en": "type 1050",
+        "de": "Type 1050",
+        "es": "tipo 1050",
+        "fr": "type 1050",
+        "ro": "tip 1050"
       }
     },
     {
@@ -69,7 +85,11 @@
       "key": "sourdough-starter",
       "grams": 13,
       "note": {
-        "en": "mature rye starter (Anstellgut)"
+        "en": "mature rye starter (Anstellgut)",
+        "de": "reifer Roggensauerteig (Anstellgut)",
+        "es": "fermento de centeno maduro (Anstellgut)",
+        "fr": "levain de seigle mature (Anstellgut)",
+        "ro": "maia de secară matură (Anstellgut)"
       }
     },
     {
@@ -84,7 +104,11 @@
       "key": "malt-syrup",
       "grams": 13,
       "note": {
-        "en": "dry rye malt plus liquid inactive malt, for crust color and flavor"
+        "en": "dry rye malt plus liquid inactive malt, for crust color and flavor",
+        "de": "trockenes Roggenmalz plus flüssiges inaktives Malz, für Krustenfarbe und Geschmack",
+        "es": "malta de centeno seca más malta inactiva líquida, para color y sabor de la corteza",
+        "fr": "malt de seigle sec plus malt inactif liquide, pour la couleur et la saveur de la croûte",
+        "ro": "malț de secară uscat plus malț inactiv lichid, pentru culoarea și aroma cojii"
       }
     }
   ],
@@ -92,7 +116,11 @@
     "count": 1,
     "pieceGrams": 1050,
     "shape": {
-      "en": "buttered loaf tin (Kastenform)"
+      "en": "buttered loaf tin (Kastenform)",
+      "de": "gefettete Kastenform",
+      "es": "molde de pan engrasado (Kastenform)",
+      "fr": "moule à cake beurré (Kastenform)",
+      "ro": "formă de chec unsă cu unt (Kastenform)"
     }
   },
   "time": {
@@ -133,7 +161,11 @@
     "freshDays": 10,
     "freezes": true,
     "note": {
-      "en": "The second bake dries and hardens the crust, which is exactly why this loaf outlasts a single-baked mixed bread by many days."
+      "en": "The second bake dries and hardens the crust, which is exactly why this loaf outlasts a single-baked mixed bread by many days.",
+      "de": "Der zweite Backgang trocknet und härtet die Kruste, genau deshalb hält dieser Laib viele Tage länger als ein einfach gebackenes Mischbrot.",
+      "es": "El segundo horneado seca y endurece la corteza, que es exactamente por lo que este pan dura muchos más días que un pan mixto horneado una sola vez.",
+      "fr": "La deuxième cuisson sèche et durcit la croûte, c'est exactement pourquoi ce pain survit de nombreux jours à un pain mixte cuit une seule fois.",
+      "ro": "A doua coacere usucă și întărește coaja, tocmai de aceea această pâine rezistă cu multe zile mai mult decât o pâine mixtă coaptă o singură dată."
     }
   },
   "equipment": [
@@ -259,7 +291,11 @@
     "author": "Gerd Kellner",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages computed from the stated gram quantities; method paraphrased and reordered to foreground the double-bake technique."
+      "en": "Percentages computed from the stated gram quantities; method paraphrased and reordered to foreground the double-bake technique.",
+      "de": "Prozente aus den angegebenen Grammengen berechnet; Methode paraphrasiert und neu angeordnet, um die Zweistufentechnik hervorzuheben.",
+      "es": "Porcentajes calculados a partir de las cantidades en gramos indicadas; método parafraseado y reordenado para resaltar la técnica de doble horneado.",
+      "fr": "Pourcentages calculés à partir des quantités en grammes indiquées; méthode paraphrasée et réorganisée pour mettre en avant la technique de double cuisson.",
+      "ro": "Procentele calculate din cantitățile specificate în grame; metoda parafrazată și reordonată pentru a evidenția tehnica dublei coaceri."
     }
   },
   "tags": [

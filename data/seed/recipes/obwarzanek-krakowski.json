@@ -22,10 +22,18 @@
   "origin": {
     "country": "PL",
     "region": {
-      "en": "Kraków and Wieliczka"
+      "en": "Kraków and Wieliczka",
+      "de": "Krakau und Wieliczka",
+      "es": "Cracovia y Wieliczka",
+      "fr": "Cracovie et Wieliczka",
+      "ro": "Cracovia si Wieliczka"
     },
     "note": {
-      "en": "First documented in royal ledgers from 1394; holds EU Protected Geographical Indication status, restricted to Kraków and Wieliczka."
+      "en": "First documented in royal ledgers from 1394; holds EU Protected Geographical Indication status, restricted to Kraków and Wieliczka.",
+      "de": "Erstmals 1394 in koniglichen Registern dokumentiert; besitzt EU-Status als geschutzte geografische Angabe, beschrankt auf Krakau und Wieliczka.",
+      "es": "Documentado por primera vez en registros reales de 1394; tiene estatus de Indicacion Geografica Protegida de la UE, restringido a Cracovia y Wieliczka.",
+      "fr": "Documente pour la premiere fois dans des registres royaux de 1394; beneficie du statut d'Indication Geographique Protegee de l'UE, restreint a Cracovie et Wieliczka.",
+      "ro": "Documentat pentru prima data in registrele regale din 1394; detine statutul de Indicatie Geografica Protejata a UE, restrictionat la Cracovia si Wieliczka."
     }
   },
   "leaven": "yeast",
@@ -63,28 +71,44 @@
       "key": "baking-soda",
       "grams": 14,
       "note": {
-        "en": "for the boiling water bath"
+        "en": "for the boiling water bath",
+        "de": "fur das Kochwasserbad",
+        "es": "para el bano de agua hirviendo",
+        "fr": "pour le bain d'eau bouillante",
+        "ro": "pentru baia de apa fiarta"
       }
     },
     {
       "key": "honey",
       "grams": 21,
       "note": {
-        "en": "for the boiling water bath, for shine"
+        "en": "for the boiling water bath, for shine",
+        "de": "fur das Kochwasserbad, fur den Glanz",
+        "es": "para el bano de agua hirviendo, para dar brillo",
+        "fr": "pour le bain d'eau bouillante, pour la brillance",
+        "ro": "pentru baia de apa fiarta, pentru luciu"
       }
     },
     {
       "key": "sesame-seeds",
       "grams": 15,
       "note": {
-        "en": "topping, half the batch"
+        "en": "topping, half the batch",
+        "de": "Belag, die Halfte der Charge",
+        "es": "cobertura, la mitad del lote",
+        "fr": "garniture, la moitie de la fournee",
+        "ro": "topping, jumatate din lot"
       }
     },
     {
       "key": "poppy-seeds",
       "grams": 15,
       "note": {
-        "en": "topping, other half of the batch"
+        "en": "topping, other half of the batch",
+        "de": "Belag, die andere Halfte der Charge",
+        "es": "cobertura, la otra mitad del lote",
+        "fr": "garniture, l'autre moitie de la fournee",
+        "ro": "topping, cealalta jumatate a lotului"
       }
     }
   ],
@@ -92,7 +116,11 @@
     "count": 6,
     "pieceGrams": 115,
     "shape": {
-      "en": "twisted ring, boiled then baked"
+      "en": "twisted ring, boiled then baked",
+      "de": "gedrehter Ring, gekocht dann gebacken",
+      "es": "anillo trenzado, hervido y luego horneado",
+      "fr": "anneau torsade, bouilli puis cuit au four",
+      "ro": "inel rasucit, fiert apoi copt"
     }
   },
   "time": {
@@ -133,7 +161,11 @@
     "freshDays": 0.5,
     "freezes": true,
     "note": {
-      "en": "Best eaten within a few hours of baking, still warm from the cart; can be frozen and refreshed in the oven."
+      "en": "Best eaten within a few hours of baking, still warm from the cart; can be frozen and refreshed in the oven.",
+      "de": "Am besten innerhalb weniger Stunden nach dem Backen essen, noch warm vom Wagen; kann eingefroren und im Ofen aufgefrischt werden.",
+      "es": "Mejor comerlo dentro de unas horas despues de hornearlo, aun caliente del carrito; se puede congelar y refrescar en el horno.",
+      "fr": "Meilleur mange dans les heures suivant la cuisson, encore chaud du chariot; peut etre congele et rafraichi au four.",
+      "ro": "Cel mai bun consumat in cateva ore de la coacere, inca cald din carucior; poate fi congelat si improspatat la cuptor."
     }
   },
   "equipment": [

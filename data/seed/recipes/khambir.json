@@ -21,10 +21,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "Ladakh (also Tibetan communities in Nepal and Bhutan)"
+      "en": "Ladakh (also Tibetan communities in Nepal and Bhutan)",
+      "de": "Ladakh (auch tibetische Gemeinschaften in Nepal und Bhutan)",
+      "es": "Ladakh (también comunidades tibetanas en Nepal y Bután)",
+      "fr": "Ladakh (également communautés tibétaines au Népal et au Bhoutan)",
+      "ro": "Ladakh (de asemenea comunități tibetane în Nepal și Bhutan)"
     },
     "note": {
-      "en": "A high-altitude breakfast staple, traditionally baked on a hot iron plate in a wood or dung-fired stove and served with salted butter tea (gur gur chai)."
+      "en": "A high-altitude breakfast staple, traditionally baked on a hot iron plate in a wood or dung-fired stove and served with salted butter tea (gur gur chai).",
+      "de": "Ein Frühstücksgrundnahrungsmittel in großer Höhe, traditionell auf einer heißen Eisenplatte in einem holz- oder dungbetriebenen Ofen gebacken und mit gesalzenem Buttertee (Gur Gur Chai) serviert.",
+      "es": "Un básico del desayuno en altitudes elevadas, tradicionalmente horneado en una plancha de hierro caliente en una estufa de leña o estiércol y servido con té de mantequilla salada (gur gur chai).",
+      "fr": "Un aliment de base du petit-déjeuner en haute altitude, traditionnellement cuit sur une plaque de fer chaude dans un poêle à bois ou à bouse et servi avec du thé au beurre salé (gur gur chai).",
+      "ro": "Un aliment de bază pentru micul dejun la altitudine mare, copt în mod tradițional pe o placă de fier fierbinte într-un cuptor cu lemne sau bălegar și servit cu ceai cu unt sărat (gur gur chai)."
     }
   },
   "leaven": "yeast",
@@ -64,14 +72,22 @@
       "key": "water",
       "grams": 270,
       "note": {
-        "en": "lukewarm; includes the portion used to activate the yeast"
+        "en": "lukewarm; includes the portion used to activate the yeast",
+        "de": "lauwarm; beinhaltet den Teil, der zur Aktivierung der Hefe verwendet wird",
+        "es": "tibia; incluye la porción usada para activar la levadura",
+        "fr": "tiède; comprend la portion utilisée pour activer la levure",
+        "ro": "călduță; include porțiunea folosită pentru a activa drojdia"
       }
     },
     {
       "key": "butter",
       "grams": 15,
       "note": {
-        "en": "ghee, brushed on after cooking"
+        "en": "ghee, brushed on after cooking",
+        "de": "Ghee, nach dem Backen aufgestrichen",
+        "es": "ghee, untado después de cocinar",
+        "fr": "ghee, badigeonné après la cuisson",
+        "ro": "ghee, uns după gătire"
       }
     }
   ],
@@ -79,7 +95,11 @@
     "count": 7,
     "pieceGrams": 100,
     "shape": {
-      "en": "round flatbread, griddle- and open-flame-toasted, ~15 cm"
+      "en": "round flatbread, griddle- and open-flame-toasted, ~15 cm",
+      "de": "rundes Fladenbrot, auf dem Griddle und über offener Flamme geröstet, ~15 cm",
+      "es": "pan plano redondo, tostado en plancha y llama abierta, ~15 cm",
+      "fr": "pain plat rond, toasté à la plaque et à la flamme nue, ~15 cm",
+      "ro": "pâine plată rotundă, prăjită pe grătar și la flacără deschisă, ~15 cm"
     }
   },
   "time": {
@@ -120,7 +140,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Slight fermented tang helps it keep a few days; warm on a dry pan or open flame to refresh."
+      "en": "Slight fermented tang helps it keep a few days; warm on a dry pan or open flame to refresh.",
+      "de": "Leichte fermentierte Note hilft, es einige Tage haltbar zu machen; auf einer trockenen Pfanne oder offener Flamme erwärmen, um es aufzufrischen.",
+      "es": "Un ligero toque fermentado ayuda a que se conserve unos días; calentar en una sartén seca o llama abierta para refrescar.",
+      "fr": "Une légère note fermentée l'aide à se conserver quelques jours; réchauffer sur une poêle sèche ou à la flamme nue pour le rafraîchir.",
+      "ro": "Un ușor gust fermentat îl ajută să se păstreze câteva zile; încălzește pe o tigaie uscată sau la flacără deschisă pentru a reîmprospăta."
     }
   },
   "equipment": [
@@ -229,7 +253,11 @@
     "site": "Candid Treat",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Vague volumes ('1 bowl flour', 'pinch of salt') converted to gram estimates; used the source's traditional overnight ferment as the primary timeline rather than its faster same-day shortcut."
+      "en": "Vague volumes ('1 bowl flour', 'pinch of salt') converted to gram estimates; used the source's traditional overnight ferment as the primary timeline rather than its faster same-day shortcut.",
+      "de": "Vage Mengen ('1 Schale Mehl', 'Prise Salz') in Grammschätzungen umgewandelt; die traditionelle Über-Nacht-Fermentation der Quelle als primären Zeitplan verwendet statt ihres schnelleren Ein-Tages-Kurzwegs.",
+      "es": "Volúmenes vagos ('1 tazón de harina', 'pizca de sal') convertidos a estimaciones en gramos; utilizado el fermento nocturno tradicional de la fuente como cronograma principal en lugar de su atajo más rápido del mismo día.",
+      "fr": "Volumes vagues ('1 bol de farine', 'pincée de sel') convertis en estimations de grammes; utilisé la fermentation nocturne traditionnelle de la source comme calendrier principal plutôt que son raccourci plus rapide du même jour.",
+      "ro": "Volume vagi ('1 castron făină', 'vârf de cuțit de sare') convertite în estimări de grame; folosit fermentarea tradițională peste noapte a sursei ca termen principal în locul scurtăturii mai rapide din aceeași zi."
     }
   },
   "tags": [

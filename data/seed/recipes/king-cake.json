@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Louisiana (New Orleans)"
+      "en": "Louisiana (New Orleans)",
+      "de": "Louisiana (New Orleans)",
+      "es": "Luisiana (Nueva Orleans)",
+      "fr": "Louisiane (La Nouvelle-Orléans)",
+      "ro": "Louisiana (New Orleans)"
     },
     "note": {
-      "en": "Descends from the French Catholic Epiphany treat galette des rois, carried to Louisiana by French colonists. Twentieth-century New Orleans bakeries recast it into today's cinnamon-and-icing Carnival ring, distinct from both galette des rois and brioche."
+      "en": "Descends from the French Catholic Epiphany treat galette des rois, carried to Louisiana by French colonists. Twentieth-century New Orleans bakeries recast it into today's cinnamon-and-icing Carnival ring, distinct from both galette des rois and brioche.",
+      "de": "Stammt von der französischen katholischen Dreikönigs-Spezialität Galette des Rois ab, die von französischen Kolonisten nach Louisiana gebracht wurde. Bäckereien in New Orleans des 20. Jahrhunderts formten sie zum heutigen Zimt-und-Zuckerguss-Karnevalsring um, der sich sowohl von der Galette des Rois als auch von Brioche unterscheidet.",
+      "es": "Desciende del manjar francés católico de la Epifanía galette des rois, llevado a Luisiana por colonos franceses. Las panaderías neorleanesas del siglo XX la transformaron en el actual anillo de Carnaval con canela y glaseado, distinto tanto de la galette des rois como de la brioche.",
+      "fr": "Descend de la galette des rois française catholique de l'Épiphanie, apportée en Louisiane par les colons français. Les boulangeries de la Nouvelle-Orléans du XXe siècle l'ont transformée en l'anneau de Carnaval à la cannelle et au glaçage d'aujourd'hui, distinct à la fois de la galette des rois et de la brioche.",
+      "ro": "Descinde din prăjitura catolică franceză de Epifanie galette des rois, adusă în Louisiana de coloniștii francezi. Brutăriile din New Orleans ale secolului XX au transformat-o în inelul de Carnaval de astăzi cu scorțișoară și glazură, distinct atât de galette des rois cât și de brioche."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "water",
       "grams": 59,
       "note": {
-        "en": "warm, for blooming the yeast"
+        "en": "warm, for blooming the yeast",
+        "de": "warm, zum Aktivieren der Hefe",
+        "es": "tibia, para activar la levadura",
+        "fr": "tiède, pour activer la levure",
+        "ro": "călduță, pentru a activa drojdia"
       }
     },
     {
@@ -63,21 +75,33 @@
       "key": "milk",
       "grams": 60,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
       "key": "butter",
       "grams": 113,
       "note": {
-        "en": "softened, for the dough"
+        "en": "softened, for the dough",
+        "de": "weich, für den Teig",
+        "es": "ablandada, para la masa",
+        "fr": "ramolli, pour la pâte",
+        "ro": "înmuiat, pentru aluat"
       }
     },
     {
       "key": "sugar",
       "grams": 25,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
@@ -88,28 +112,44 @@
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 eggs"
+        "en": "2 eggs",
+        "de": "2 Eier",
+        "es": "2 huevos",
+        "fr": "2 œufs",
+        "ro": "2 ouă"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "melted, for the cinnamon filling"
+        "en": "melted, for the cinnamon filling",
+        "de": "geschmolzen, für die Zimtfüllung",
+        "es": "derretida, para el relleno de canela",
+        "fr": "fondu, pour la garniture à la cannelle",
+        "ro": "topit, pentru umplutura de scorțișoară"
       }
     },
     {
       "key": "brown-sugar",
       "grams": 67,
       "note": {
-        "en": "packed light brown, for the filling"
+        "en": "packed light brown, for the filling",
+        "de": "fest gepackter hellbrauner Zucker, für die Füllung",
+        "es": "azúcar moreno claro compactado, para el relleno",
+        "fr": "sucre brun clair tassé, pour la garniture",
+        "ro": "zahăr brun deschis tasat, pentru umplutură"
       }
     },
     {
       "key": "cinnamon",
       "grams": 4,
       "note": {
-        "en": "for the filling"
+        "en": "for the filling",
+        "de": "für die Füllung",
+        "es": "para el relleno",
+        "fr": "pour la garniture",
+        "ro": "pentru umplutură"
       }
     },
     {
@@ -126,14 +166,22 @@
       "key": "sugar",
       "grams": 120,
       "note": {
-        "en": "powdered sugar, whisked with milk into the icing"
+        "en": "powdered sugar, whisked with milk into the icing",
+        "de": "Puderzucker, mit Milch zum Zuckerguss verrührt",
+        "es": "azúcar glas, batido con leche para el glaseado",
+        "fr": "sucre glace, fouetté avec du lait pour le glaçage",
+        "ro": "zahăr pudră, bătut cu lapte pentru glazură"
       }
     },
     {
       "key": "milk",
       "grams": 22,
       "note": {
-        "en": "for the icing glaze"
+        "en": "for the icing glaze",
+        "de": "für die Zuckerglasur",
+        "es": "para el glaseado",
+        "fr": "pour le glaçage",
+        "ro": "pentru glazură"
       }
     },
     {
@@ -150,7 +198,11 @@
       "key": "sugar",
       "grams": 30,
       "note": {
-        "en": "colored purple, green and gold, for dusting on top"
+        "en": "colored purple, green and gold, for dusting on top",
+        "de": "lila, grün und gold gefärbt, zum Bestreuen obendrauf",
+        "es": "coloreado púrpura, verde y dorado, para espolvorear encima",
+        "fr": "coloré violet, vert et or, pour saupoudrer sur le dessus",
+        "ro": "colorat mov, verde și auriu, pentru pudrat deasupra"
       }
     },
     {
@@ -163,7 +215,11 @@
       },
       "grams": 5,
       "note": {
-        "en": "traditional trinket tucked in from underneath after baking; inedible, optional"
+        "en": "traditional trinket tucked in from underneath after baking; inedible, optional",
+        "de": "traditionelles Figürchen, nach dem Backen von unten eingesteckt; ungenießbar, optional",
+        "es": "baratija tradicional, introducida desde abajo después de hornear; no comestible, opcional",
+        "fr": "breloque traditionnelle glissée par le dessous après la cuisson; non comestible, facultative",
+        "ro": "obiect tradițional introdus de dedesubt după coacere; necomestibil, opțional"
       }
     }
   ],
@@ -171,7 +227,11 @@
     "count": 1,
     "pieceGrams": 960,
     "shape": {
-      "en": "one large oval/ring, serves 12-15"
+      "en": "one large oval/ring, serves 12-15",
+      "de": "ein großer ovaler Ring, für 12–15 Portionen",
+      "es": "un gran óvalo/anillo, sirve para 12–15",
+      "fr": "un grand ovale/anneau, pour 12–15 personnes",
+      "ro": "un oval/inel mare, servește 12–15 persoane"
     }
   },
   "time": {
@@ -215,7 +275,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the day it's iced; the enriched dough dries faster than a lean loaf, though it holds a couple of days well wrapped."
+      "en": "Best the day it's iced; the enriched dough dries faster than a lean loaf, though it holds a couple of days well wrapped.",
+      "de": "Am besten am Tag des Glasierens; der angereicherte Teig trocknet schneller als ein magerer Laib, hält sich aber eingewickelt ein paar Tage.",
+      "es": "Mejor el día que se glasea; la masa enriquecida se seca más rápido que un pan magro, aunque se conserva un par de días bien envuelto.",
+      "fr": "Meilleur le jour du glaçage; la pâte enrichie sèche plus vite qu'un pain maigre, mais se conserve quelques jours bien emballé.",
+      "ro": "Cel mai bun în ziua glazurării; aluatul îmbogățit se usucă mai repede decât o pâine slabă, dar ține câteva zile bine înfășurat."
     }
   },
   "equipment": [
@@ -341,7 +405,11 @@
     "site": "Girl Raised in the South",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Flour picked from source's 3–3½ cup range (used 3 cups) for typical hydration. Icing, decorative sugar and the baby figurine excluded from formula %s as post-bake additions."
+      "en": "Flour picked from source's 3–3½ cup range (used 3 cups) for typical hydration. Icing, decorative sugar and the baby figurine excluded from formula %s as post-bake additions.",
+      "de": "Mehl aus der 3–3½-Tassen-Spanne der Quelle ausgewählt (3 Tassen verwendet) für eine typische Hydratation. Zuckerguss, Dekorzucker und die Babyfigur aus den Formelprozenten als Zugaben nach dem Backen ausgeschlossen.",
+      "es": "Harina seleccionada del rango de 3–3½ tazas de la fuente (usadas 3 tazas) para una hidratación típica. Glaseado, azúcar decorativo y la figura del bebé excluidos de los porcentajes de la fórmula como adiciones posteriores al horneado.",
+      "fr": "Farine choisie dans la fourchette de 3–3½ tasses de la source (3 tasses utilisées) pour une hydratation typique. Glaçage, sucre décoratif et la figurine du bébé exclus des % de la formule en tant qu'ajouts post-cuisson.",
+      "ro": "Făină aleasă din intervalul de 3–3½ căni al sursei (folosite 3 căni) pentru o hidratare tipică. Glazura, zahărul decorativ și figurina bebelușului excluse din procentele formulei ca adaosuri după coacere."
     }
   },
   "tags": [

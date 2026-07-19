@@ -22,10 +22,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Bavaria and Swabia (Baden-Württemberg)"
+      "en": "Bavaria and Swabia (Baden-Württemberg)",
+      "de": "Bayern und Schwaben (Baden-Württemberg)",
+      "es": "Baviera y Suabia (Baden-Württemberg)",
+      "fr": "Bavière et Souabe (Bade-Wurtemberg)",
+      "ro": "Bavaria și Șvabia (Baden-Württemberg)"
     },
     "note": {
-      "en": "The lye dip is what defines Laugengebäck as a category; without it the same dough would just be a plain roll."
+      "en": "The lye dip is what defines Laugengebäck as a category; without it the same dough would just be a plain roll.",
+      "de": "Der Laugenbad definiert Laugengebäck als Kategorie; ohne ihn wäre derselbe Teig nur eine einfache Semmel.",
+      "es": "El baño de lejía es lo que define al Laugengebäck como categoría; sin él, la misma masa sería solo un panecillo simple.",
+      "fr": "Le bain de lessive est ce qui définit le Laugengebäck en tant que catégorie; sans lui, la même pâte ne serait qu'un petit pain ordinaire.",
+      "ro": "Baia de leșie este ceea ce definește Laugengebäck ca o categorie; fără ea, același aluat ar fi doar o chiflă simplă."
     }
   },
   "leaven": "yeast",
@@ -49,14 +57,22 @@
       "key": "flour:wheat-white",
       "grams": 575,
       "note": {
-        "en": "wheat flour type 550, split between pre-dough and main dough"
+        "en": "wheat flour type 550, split between pre-dough and main dough",
+        "de": "Weizenmehl Type 550, aufgeteilt auf Vorteig und Hauptteig",
+        "es": "harina de trigo tipo 550, repartida entre premasa y masa principal",
+        "fr": "farine de blé type 550, répartie entre le pré-dough et la pâte principale",
+        "ro": "făină de grâu tip 550, împărțită între pre-aluat și aluatul principal"
       }
     },
     {
       "key": "water",
       "grams": 290,
       "note": {
-        "en": "cold, split between stages"
+        "en": "cold, split between stages",
+        "de": "kalt, aufgeteilt auf die einzelnen Stufen",
+        "es": "fría, repartida entre las etapas",
+        "fr": "froide, répartie entre les étapes",
+        "ro": "rece, împărțită între etape"
       }
     },
     {
@@ -71,7 +87,11 @@
       "key": "butter",
       "grams": 40,
       "note": {
-        "en": "or lard"
+        "en": "or lard",
+        "de": "oder Schmalz",
+        "es": "o manteca de cerdo",
+        "fr": "ou saindoux",
+        "ro": "sau untură"
       }
     }
   ],
@@ -79,7 +99,11 @@
     "count": 10,
     "pieceGrams": 88,
     "shape": {
-      "en": "classic hand-twisted pretzel knot"
+      "en": "classic hand-twisted pretzel knot",
+      "de": "klassischer handgeschlungener Brezelknoten",
+      "es": "nudo clásico de pretzel retorcido a mano",
+      "fr": "nœud de bretzel classique torsadé à la main",
+      "ro": "nod clasic de covrig răsucit manual"
     }
   },
   "time": {
@@ -121,7 +145,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; the lye crust turns leathery quickly. Refresh in a hot oven to re-crisp."
+      "en": "Best the day it's baked; the lye crust turns leathery quickly. Refresh in a hot oven to re-crisp.",
+      "de": "Am besten am Backtag; die Laugenkruste wird schnell ledrig. Im heißen Ofen auffrischen, um sie wieder knusprig zu machen.",
+      "es": "Mejor el día de horneado; la corteza de lejía se vuelve correosa rápidamente. Refrescar en horno caliente para que vuelva a estar crujiente.",
+      "fr": "Meilleur le jour de la cuisson; la croûte à la lessive devient vite caoutchouteuse. Rafraîchir au four chaud pour la rendre croustillante.",
+      "ro": "Cel mai bun în ziua coacerii; coaja de leșie devine rapid pieloasă. Reîmprospătează în cuptorul fierbinte pentru a o face din nou crocantă."
     }
   },
   "equipment": [

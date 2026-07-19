@@ -17,10 +17,18 @@
   "origin": {
     "country": "ES",
     "region": {
-      "en": "Andalusia"
+      "en": "Andalusia",
+      "de": "Andalusien",
+      "es": "Andalucía",
+      "fr": "Andalousie",
+      "ro": "Andaluzia"
     },
     "note": {
-      "en": "Said to trace back to ship galleys, where thin, dry dough scraps were rationed to sailors 'through gritted teeth' (a regañadientes), the likely source of the name."
+      "en": "Said to trace back to ship galleys, where thin, dry dough scraps were rationed to sailors 'through gritted teeth' (a regañadientes), the likely source of the name.",
+      "de": "Soll auf Schiffsgalerren zurückgehen, wo dünne, trockene Teigreste an Seeleute 'mit zusammengebissenen Zähnen' (a regañadientes) rationiert wurden, der wahrscheinliche Ursprung des Namens.",
+      "es": "Se dice que se remonta a las galeras de los barcos, donde se racionaban a los marineros restos de masa fina y seca 'a regañadientes', el probable origen del nombre.",
+      "fr": "On dit qu'il remonte aux galères des navires, où de fines restes de pâte sèche étaient rationnés aux marins 'à contrecœur' (a regañadientes), l'origine probable du nom.",
+      "ro": "Se spune că provine de la galerele navelor, unde resturi subțiri și uscate de aluat erau raționate marinarilor 'cu dinții încleștați' (a regañadientes), sursa probabilă a numelui."
     }
   },
   "leaven": "hybrid",
@@ -42,35 +50,55 @@
       "key": "flour:wheat-white",
       "grams": 65,
       "note": {
-        "en": "30 g wheat flour plus 35 g strong flour, in the starter"
+        "en": "30 g wheat flour plus 35 g strong flour, in the starter",
+        "de": "30 g Weizenmehl plus 35 g starkes Mehl, im Vorteig",
+        "es": "30 g de harina de trigo más 35 g de harina fuerte, en la masa madre",
+        "fr": "30 g de farine de blé plus 35 g de farine forte, dans le levain",
+        "ro": "30 g făină de grâu plus 35 g făină tare, în maia"
       }
     },
     {
       "key": "water",
       "grams": 35,
       "note": {
-        "en": "in the starter"
+        "en": "in the starter",
+        "de": "im Vorteig",
+        "es": "en la masa madre",
+        "fr": "dans le levain",
+        "ro": "în maia"
       }
     },
     {
       "key": "fresh-yeast",
       "grams": 0.3,
       "note": {
-        "en": "in the starter"
+        "en": "in the starter",
+        "de": "im Vorteig",
+        "es": "en la masa madre",
+        "fr": "dans le levain",
+        "ro": "în maia"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 300,
       "note": {
-        "en": "250 g wheat flour plus 50 g strong flour, in the main dough"
+        "en": "250 g wheat flour plus 50 g strong flour, in the main dough",
+        "de": "250 g Weizenmehl plus 50 g starkes Mehl, im Hauptteig",
+        "es": "250 g de harina de trigo más 50 g de harina fuerte, en la masa principal",
+        "fr": "250 g de farine de blé plus 50 g de farine forte, dans la pâte principale",
+        "ro": "250 g făină de grâu plus 50 g făină tare, în aluatul principal"
       }
     },
     {
       "key": "water",
       "grams": 150,
       "note": {
-        "en": "in the main dough"
+        "en": "in the main dough",
+        "de": "im Hauptteig",
+        "es": "en la masa principal",
+        "fr": "dans la pâte principale",
+        "ro": "în aluatul principal"
       }
     },
     {
@@ -82,7 +110,11 @@
     "count": 14,
     "pieceGrams": 40,
     "shape": {
-      "en": "paper-thin cracker oval, about 1 mm thick, fork-docked"
+      "en": "paper-thin cracker oval, about 1 mm thick, fork-docked",
+      "de": "hauchdünnes Cracker-Oval, etwa 1 mm dick, mit Gabel eingestochen",
+      "es": "óvalo de galleta fina como papel, de unos 1 mm de grosor, pinchado con tenedor",
+      "fr": "ovale de cracker fin comme du papier, environ 1 mm d'épaisseur, piqué à la fourchette",
+      "ro": "oval subțire ca hârtia, de aproximativ 1 mm grosime, înțepat cu furculița"
     }
   },
   "time": {
@@ -123,7 +155,11 @@
     "freshDays": 30,
     "freezes": true,
     "note": {
-      "en": "Baked bone-dry, so it keeps crisp in a tin for weeks, the way any good cracker-bread should."
+      "en": "Baked bone-dry, so it keeps crisp in a tin for weeks, the way any good cracker-bread should.",
+      "de": "Knochentrocken gebacken, so bleibt es wochenlang knusprig in einer Dose, wie jedes gute Knäckebrot.",
+      "es": "Horneado hasta quedar seco como un hueso, por lo que se mantiene crujiente en una lata durante semanas, como debe ser cualquier buen pan crujiente.",
+      "fr": "Cuit à sec, il reste croustillant dans une boîte pendant des semaines, comme tout bon pain craquant.",
+      "ro": "Copt complet uscat, așa că rămâne crocant într-o cutie săptămâni, așa cum ar trebui orice pâine-pesmet bună."
     }
   },
   "equipment": [
@@ -232,7 +268,11 @@
     "site": "Directo al Paladar",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams as published; this version omits olive oil, which some modern regañás recipes add and which is noted here only as a common variant."
+      "en": "Grams as published; this version omits olive oil, which some modern regañás recipes add and which is noted here only as a common variant.",
+      "de": "Gramm wie veröffentlicht; diese Version verzichtet auf Olivenöl, das einige moderne Regañás-Rezepte hinzufügen und das hier nur als häufige Variante vermerkt wird.",
+      "es": "Gramos tal como se publicó; esta versión omite el aceite de oliva, que algunas recetas modernas de regañás añaden y que aquí se menciona solo como variante común.",
+      "fr": "Grammes tels que publiés; cette version omet l'huile d'olive, que certaines recettes modernes de regañás ajoutent et qui n'est notée ici que comme variante courante.",
+      "ro": "Gramele conform publicației; această versiune omite uleiul de măsline, pe care unele rețete moderne de regañás îl adaugă și care este notat aici doar ca variantă comună."
     }
   },
   "tags": [

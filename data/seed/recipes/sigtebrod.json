@@ -22,10 +22,18 @@
   "origin": {
     "country": "DK",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "în toată țara"
     },
     "note": {
-      "en": "A very old style of Danish bread; sigtemel is a semi-coarse sifted wheat-rye flour blend, traditionally about 30% rye."
+      "en": "A very old style of Danish bread; sigtemel is a semi-coarse sifted wheat-rye flour blend, traditionally about 30% rye.",
+      "de": "Eine sehr alte Art dänischen Brotes; Sigtemel ist eine halbgrobe gesiebte Weizen-Roggen-Mehlmischung, traditionell mit etwa 30 % Roggen.",
+      "es": "Un estilo muy antiguo de pan danés; sigtemel es una mezcla de harina de trigo y centeno semi-gruesa tamizada, tradicionalmente con alrededor de un 30 % de centeno.",
+      "fr": "Un style très ancien de pain danois ; la sigtemel est un mélange de farine de blé et de seigle semi-grossier tamisé, traditionnellement composé d’environ 30 % de seigle.",
+      "ro": "Un stil foarte vechi de pâine daneză; sigtemel este un amestec semi-grosier de făină de grâu și secară cernută, în mod tradițional cu aproximativ 30 % secară."
     }
   },
   "leaven": "yeast",
@@ -55,7 +63,11 @@
       "key": "flour:rye-whole",
       "grams": 210,
       "note": {
-        "en": "dark rye flour"
+        "en": "dark rye flour",
+        "de": "dunkles Roggenmehl",
+        "es": "harina de centeno oscura",
+        "fr": "farine de seigle foncée",
+        "ro": "făină de secară închisă"
       }
     },
     {
@@ -78,7 +90,11 @@
       "key": "caraway",
       "grams": 1.5,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
@@ -90,7 +106,11 @@
     "count": 2,
     "pieceGrams": 800,
     "shape": {
-      "en": "sandwich pan loaf"
+      "en": "sandwich pan loaf",
+      "de": "Kastenform-Sandwichbrot",
+      "es": "pan de molde para sándwiches",
+      "fr": "pain de mie pour sandwich",
+      "ro": "pâine de tavă pentru sandvișuri"
     }
   },
   "time": {
@@ -132,7 +152,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "A lighter alternative to rugbrød for open sandwiches; keeps a few days wrapped."
+      "en": "A lighter alternative to rugbrød for open sandwiches; keeps a few days wrapped.",
+      "de": "Eine leichtere Alternative zu Rugbrød für offene Sandwiches; eingewickelt einige Tage haltbar.",
+      "es": "Una alternativa más ligera al rugbrød para sándwiches abiertos; se conserva unos días envuelto.",
+      "fr": "Une alternative plus légère au rugbrød pour les sandwichs ouverts ; se conserve quelques jours emballé.",
+      "ro": "O alternativă mai ușoară la rugbrød pentru sandvișuri deschise; se păstrează câteva zile învelit."
     }
   },
   "equipment": [
@@ -257,7 +281,11 @@
     "site": "Sweet Sour Savory",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Fresh yeast quantity kept as sourced rather than converted, since the taxonomy's yeastPct field is defined for instant yeast only."
+      "en": "Fresh yeast quantity kept as sourced rather than converted, since the taxonomy's yeastPct field is defined for instant yeast only.",
+      "de": "Frischhefemenge wie in der Quelle belassen statt umgerechnet, da das yeastPct-Feld der Taxonomie nur für Trockenhefe definiert ist.",
+      "es": "Cantidad de levadura fresca mantenida como en la fuente en lugar de convertirla, ya que el campo yeastPct de la taxonomía está definido solo para levadura instantánea.",
+      "fr": "Quantité de levure fraîche conservée telle quelle plutôt que convertie, car le champ yeastPct de la taxonomie n’est défini que pour la levure instantanée.",
+      "ro": "Cantitatea de drojdie proaspătă păstrată ca în sursă în loc de convertit, deoarece câmpul yeastPct al taxonomiei este definit doar pentru drojdia instantanee."
     }
   },
   "tags": [

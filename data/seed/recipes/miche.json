@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Paris (Saint-Germain-des-Prés)"
+      "en": "Paris (Saint-Germain-des-Prés)",
+      "de": "Paris (Saint-Germain-des-Pres)",
+      "es": "Paris (Saint-Germain-des-Pres)",
+      "fr": "Paris (Saint-Germain-des-Pres)",
+      "ro": "Paris (Saint-Germain-des-Pres)"
     },
     "note": {
-      "en": "Inspired by Pierre Poilâne's 1932 bakery on rue du Cherche-Midi, which built its name on a rustic sourdough round when molded white baguettes were the fashion. This entry is a home approximation of the style, not the bakery's proprietary formula."
+      "en": "Inspired by Pierre Poilâne's 1932 bakery on rue du Cherche-Midi, which built its name on a rustic sourdough round when molded white baguettes were the fashion. This entry is a home approximation of the style, not the bakery's proprietary formula.",
+      "de": "Inspiriert von Pierre Poilanes Backerei von 1932 in der Rue du Cherche-Midi, die sich mit einer rustikalen Sauerteigrunde einen Namen machte, als geformte wee Bagutten in Mode waren. Dieser Eintrag ist eine hausliche Annaherung an den Stil, nicht die firmeneigene Formel der Backerei.",
+      "es": "Inspirado en la panaderia de Pierre Poilane de 1932 en la rue du Cherche-Midi, que se labro su reputacion con un pan redondo rustico de masa madre cuando los baguettes blancos moldeados estaban de moda. Esta entrada es una aproximacion casera al estilo, no la formula propietaria de la panaderia.",
+      "fr": "Inspire de la boulangerie de Pierre Poilane de 1932 rue du Cherche-Midi, qui a bati sa reputation sur une miche ronde rustique au levain alors que les baguettes blanches moulees etaient a la mode. Cette entree est une approximation maison du style, pas la formule proprietaire de la boulangerie.",
+      "ro": "Inspirat de brutaria lui Pierre Poilane din 1932 de pe rue du Cherche-Midi, care si-a construit numele pe o paine rotunda rustica cu maia cand baghetele albe modelate erau la moda. Aceasta intrare este o aproximare casnica a stilului, nu formula proprietara a brutariei."
     }
   },
   "leaven": "sourdough",
@@ -55,35 +63,55 @@
       "key": "flour:wheat-white",
       "grams": 360,
       "note": {
-        "en": "T65"
+        "en": "T65",
+        "de": "T65",
+        "es": "T65",
+        "fr": "T65",
+        "ro": "T65"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 120,
       "note": {
-        "en": "T150"
+        "en": "T150",
+        "de": "T150",
+        "es": "T150",
+        "fr": "T150",
+        "ro": "T150"
       }
     },
     {
       "key": "flour:rye",
       "grams": 120,
       "note": {
-        "en": "T130"
+        "en": "T130",
+        "de": "T130",
+        "es": "T130",
+        "fr": "T130",
+        "ro": "T130"
       }
     },
     {
       "key": "water",
       "grams": 440,
       "note": {
-        "en": "cold"
+        "en": "cold",
+        "de": "kalt",
+        "es": "fria",
+        "fr": "froide",
+        "ro": "rece"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 200,
       "note": {
-        "en": "active"
+        "en": "active",
+        "de": "aktiv",
+        "es": "activo",
+        "fr": "actif",
+        "ro": "activ"
       }
     },
     {
@@ -95,7 +123,11 @@
     "count": 1,
     "pieceGrams": 1000,
     "shape": {
-      "en": "grande miche ronde"
+      "en": "grande miche ronde",
+      "de": "gro e runde Miche",
+      "es": "gran miche redonda",
+      "fr": "grande miche ronde",
+      "ro": "miche mare rotunda"
     }
   },
   "time": {
@@ -137,7 +169,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "The thick crust and high hydration let a real miche keep well for a week, traditionally sold and eaten by the slice."
+      "en": "The thick crust and high hydration let a real miche keep well for a week, traditionally sold and eaten by the slice.",
+      "de": "Die dicke Kruste und hohe Hydratation lassen eine echte Miche gut eine Woche halten, traditionell stuckweise verkauft und gegessen.",
+      "es": "La corteza gruesa y la alta hidratacion permiten que una autentica miche se conserve bien durante una semana, tradicionalmente vendida y consumida por rebanadas.",
+      "fr": "La croute epaisse et l'hydratation elevee permettent a une vraie miche de bien se conserver une semaine, traditionnellement vendue et mangee a la tranche.",
+      "ro": "Crusta groasa si hidratarea ridicata permit unei miche adevarate sa se pastreze bine o saptamana, vinduta si consumata in mod traditional feliata."
     }
   },
   "equipment": [
@@ -247,7 +283,11 @@
     "site": "Le Coconut Blog",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Home-baker approximation of Poilâne's stone-ground sourdough miche; not the bakery's own secret formula. Starter's flour/water content folded into total baker's percentages."
+      "en": "Home-baker approximation of Poilâne's stone-ground sourdough miche; not the bakery's own secret formula. Starter's flour/water content folded into total baker's percentages.",
+      "de": "Hobbybacker-Annaherung an Poilanes Steinmahl-Sauerteig-Miche; nicht das eigene Geheimrezept der Backerei. Mehl-/Wasseranteil des Starters in die Gesamtbackerprozente eingerechnet.",
+      "es": "Aproximacion casera a la miche de masa madre molida a piedra de Poilane; no es la formula secreta de la panaderia. El contenido de harina y agua del fermento integrado en los porcentajes totales de panadero.",
+      "fr": "Approximation maison de la miche au levain de Poilane moulue sur pierre; pas la formule secrete de la boulangerie. La farine et l'eau du levain integrees dans les pourcentages totaux du boulanger.",
+      "ro": "Aproximare casnica a miche-ului cu maia al lui Poilane, macinata la piatra; nu formula secreta a brutariei. Faina si apa maielei incluse in procentele totale de brutar."
     }
   },
   "tags": [

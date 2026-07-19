@@ -17,10 +17,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Altamura, Puglia (Apulia)"
+      "en": "Altamura, Puglia (Apulia)",
+      "de": "Altamura, Apulien",
+      "es": "Altamura, Apulia",
+      "fr": "Altamura, Pouilles",
+      "ro": "Altamura, Puglia"
     },
     "note": {
-      "en": "Protected DOP since 2003; the disciplinare requires mostly local durum wheat varieties and a mature natural starter renewed at least three times before baking."
+      "en": "Protected DOP since 2003; the disciplinare requires mostly local durum wheat varieties and a mature natural starter renewed at least three times before baking.",
+      "de": "Seit 2003 DOP-geschutzt; die Disciplinare schreibt uberwiegend lokale Durumweizensorten und einen reifen Naturstarter vor, der vor dem Backen mindestens dreimal erneuert wird.",
+      "es": "Protegido DOP desde 2003; el disciplinario exige mayoritariamente variedades locales de trigo duro y un prefermento natural maduro renovado al menos tres veces antes de hornear.",
+      "fr": "Protege DOP depuis 2003 ; le disciplinaire exige principalement des varietes locales de ble dur et un levain naturel mature renove au moins trois fois avant la cuisson.",
+      "ro": "Protejat DOP din 2003; disciplinara cere predominant soiuri locale de grâu dur şi un starter natural matur reinoit cel puţin de trei ori înainte de coacere."
     }
   },
   "leaven": "sourdough",
@@ -42,7 +50,11 @@
       "key": "flour:durum",
       "grams": 500,
       "note": {
-        "en": "semola rimacinata di grano duro"
+        "en": "semola rimacinata di grano duro",
+        "de": "Semola rimacinata di grano duro",
+        "es": "semola rimacinata di grano duro",
+        "fr": "semola rimacinata di grano duro",
+        "ro": "semola rimacinata di grano duro"
       }
     },
     {
@@ -53,7 +65,11 @@
       "key": "sourdough-starter",
       "grams": 100,
       "note": {
-        "en": "lievito madre; a stiff, mature durum starter renewed at least three times"
+        "en": "lievito madre; a stiff, mature durum starter renewed at least three times",
+        "de": "Lievito Madre; ein fester, reifer Durumstarter, mindestens dreimal erneuert",
+        "es": "lievito madre; un prefermento firme y maduro de trigo duro renovado al menos tres veces",
+        "fr": "lievito madre ; un levain ferme et mature de ble dur renouvele au moins trois fois",
+        "ro": "lievito madre; un maiă tare, matură, de grâu dur, reinoită cel puţin de trei ori"
       }
     },
     {
@@ -65,7 +81,11 @@
     "count": 1,
     "pieceGrams": 900,
     "shape": {
-      "en": "large domed loaf with an overlapping folded cap"
+      "en": "large domed loaf with an overlapping folded cap",
+      "de": "großer gewolbter Laib mit uberlappender Falzkappe",
+      "es": "gran pan abovedado con una tapa plegada superpuesta",
+      "fr": "gros pain dome avec un capuchon plie en chevauchement",
+      "ro": "pâine mare, boltită, cu un capac pliat suprapus"
     }
   },
   "time": {
@@ -108,7 +128,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "Thick crust, durum semolina and a mature sourdough combine to keep this loaf genuinely good for a week, longer than almost any other Italian bread."
+      "en": "Thick crust, durum semolina and a mature sourdough combine to keep this loaf genuinely good for a week, longer than almost any other Italian bread.",
+      "de": "Dicke Kruste, Durumgrieß und ein reifer Sauerteig halten diesen Laib wirklich eine Woche lang gut, langer als fast jedes andere italienische Brot.",
+      "es": "Corteza gruesa, semola de trigo duro y una masa madre madura se combinan para mantener este pan genuinamente bueno durante una semana, mas que casi cualquier otro pan italiano.",
+      "fr": "Croute epaisse, semoule de ble dur et levain mature se combinent pour garder ce pain vraiment bon pendant une semaine, plus longtemps que presque tout autre pain italien.",
+      "ro": "Coaja groasa, griul de grâu dur şi un maia matur se combină pentru a păstra această pâine bună o săptămână întreagă, mai mult decât aproape orice altă pâine italiană."
     }
   },
   "equipment": [
@@ -218,7 +242,11 @@
     "site": "Pane di Altamura DOP",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Home-batch grams derived from the disciplinare's per-100kg ratios; lievito madre assumed at roughly 50% hydration (typical Apulian stiff starter) to compute total-flour percentages."
+      "en": "Home-batch grams derived from the disciplinare's per-100kg ratios; lievito madre assumed at roughly 50% hydration (typical Apulian stiff starter) to compute total-flour percentages.",
+      "de": "Gramm fur den Haushalt aus den Verhaltnissen der Disciplinare pro 100 kg abgeleitet; Lievito Madre mit etwa 50 % Hydratation (typischer apulischer fester Starter) angenommen, um die Gesamtmehl-Prozente zu berechnen.",
+      "es": "Gramos para hornear en casa derivados de las proporciones por 100 kg del disciplinario; se asume un lievito madre con aproximadamente 50 % de hidratacion (starter firme apuliano tipico) para calcular los porcentajes totales de harina.",
+      "fr": "Grammages pour la maison derives des ratios par 100 kg du disciplinaire ; lievito madre suppose a environ 50 % d'hydratation (levain ferme apulien typique) pour calculer les pourcentages totaux de farine.",
+      "ro": "Gramele pentru uz casnic derivate din raporturile disciplinarei la 100 kg; lievito madre presupus la aproximativ 50% hidratare (maiă tare apuliană tipică) pentru a calcula procentele totale de făină."
     }
   },
   "tags": [

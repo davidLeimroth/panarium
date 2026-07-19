@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national, especially Normandy and Île-de-France"
+      "en": "national, especially Normandy and Île-de-France",
+      "de": "national, besonders Normandie und Île-de-France",
+      "es": "nacional, especialmente Normandía e Isla de Francia",
+      "fr": "national, particulièrement Normandie et Île-de-France",
+      "ro": "național, în special Normandia și Île-de-France"
     },
     "note": {
-      "en": "A centuries-old enriched bread, standardized into its modern buttery form by 19th-century Parisian pâtissiers-boulangers."
+      "en": "A centuries-old enriched bread, standardized into its modern buttery form by 19th-century Parisian pâtissiers-boulangers.",
+      "de": "Ein jahrhundertealtes Feingebäck, standardisiert in seine moderne buttrige Form von Pariser Pâtissiers-Boulangers des 19. Jahrhunderts.",
+      "es": "Un pan enriquecido centenario, estandarizado en su forma moderna y mantecosa por los pâtissiers-boulangers parisinos del siglo XIX.",
+      "fr": "Un pain enrichi vieux de plusieurs siècles, standardisé dans sa forme moderne et beurrée par les pâtissiers-boulangers parisiens du XIXe siècle.",
+      "ro": "O pâine îmbogățită seculară, standardizată în forma sa modernă untosă de pâtissiers-boulangers parizieni din secolul al XIX-lea."
     }
   },
   "leaven": "yeast",
@@ -48,21 +56,33 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "T45"
+        "en": "T45",
+        "de": "T45",
+        "es": "T45",
+        "fr": "T45",
+        "ro": "T45"
       }
     },
     {
       "key": "egg",
       "grams": 300,
       "note": {
-        "en": "about 5 eggs"
+        "en": "about 5 eggs",
+        "de": "etwa 5 Eier",
+        "es": "aproximadamente 5 huevos",
+        "fr": "environ 5 œufs",
+        "ro": "aproximativ 5 ouă"
       }
     },
     {
       "key": "butter",
       "grams": 250,
       "note": {
-        "en": "room temperature"
+        "en": "room temperature",
+        "de": "Zimmertemperatur",
+        "es": "temperatura ambiente",
+        "fr": "température ambiante",
+        "ro": "temperatura camerei"
       }
     },
     {
@@ -82,7 +102,11 @@
     "count": 1,
     "pieceGrams": 1050,
     "shape": {
-      "en": "brioche Nanterre (loaf mold)"
+      "en": "brioche Nanterre (loaf mold)",
+      "de": "Brioche Nanterre (Kastenform)",
+      "es": "brioche Nanterre (molde de pan)",
+      "fr": "brioche Nanterre (moule à cake)",
+      "ro": "brioche Nanterre (tavă de pâine)"
     }
   },
   "time": {
@@ -124,7 +148,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the first day or two; wonderful toasted or turned into pain perdu afterward."
+      "en": "Best the first day or two; wonderful toasted or turned into pain perdu afterward.",
+      "de": "Am besten am ersten oder zweiten Tag; danach wunderbar getoastet oder als Pain perdu.",
+      "es": "Mejor el primer día o dos; maravilloso tostado o convertido en pain perdu después.",
+      "fr": "Meilleur le premier ou le deuxième jour; merveilleux toasté ou transformé en pain perdu ensuite.",
+      "ro": "Cel mai bun în prima sau a doua zi; minunat prăjit sau transformat în pain perdu după aceea."
     }
   },
   "equipment": [

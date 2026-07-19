@@ -22,10 +22,18 @@
   "origin": {
     "country": "KE",
     "region": {
-      "en": "Tanzania and Uganda (Swahili coast and East African interior)"
+      "en": "Tanzania and Uganda (Swahili coast and East African interior)",
+      "de": "Tansania und Uganda (Swahili-Küste und ostafrikanisches Inland)",
+      "es": "Tanzania y Uganda (costa swahili e interior de África Oriental)",
+      "fr": "Tanzanie et Ouganda (côte swahilie et intérieur de l'Afrique de l'Est)",
+      "ro": "Tanzania și Uganda (coasta swahili și interiorul Africii de Est)"
     },
     "note": {
-      "en": "Known as mahamri on the Swahili coast when made with coconut milk; a beloved teatime and breakfast snack across East Africa."
+      "en": "Known as mahamri on the Swahili coast when made with coconut milk; a beloved teatime and breakfast snack across East Africa.",
+      "de": "An der Swahili-Küste als Mahamri bekannt, wenn mit Kokosmilch zubereitet; ein beliebter Teezeit- und Frühstückssnack in ganz Ostafrika.",
+      "es": "Conocido como mahamri en la costa swahili cuando se hace con leche de coco; un bocadillo popular para la hora del té y el desayuno en toda África Oriental.",
+      "fr": "Connu sous le nom de mahamri sur la côte swahilie lorsqu'il est fait avec du lait de coco; un en-cas populaire pour le thé et le petit-déjeuner dans toute l'Afrique de l'Est.",
+      "ro": "Cunoscut ca mahamri pe coasta swahili când este făcut cu lapte de cocos; o gustare populară pentru ceai și mic dejun în toată Africa de Est."
     }
   },
   "leaven": "yeast",
@@ -53,7 +61,11 @@
       "key": "water",
       "grams": 60,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -96,21 +108,33 @@
       "key": "cardamom",
       "grams": 2,
       "note": {
-        "en": "crushed"
+        "en": "crushed",
+        "de": "zerdrückt",
+        "es": "machacados",
+        "fr": "écrasées",
+        "ro": "zdrobite"
       }
     },
     {
       "key": "cinnamon",
       "grams": 1,
       "note": {
-        "en": "or grated nutmeg"
+        "en": "or grated nutmeg",
+        "de": "oder geriebene Muskatnuss",
+        "es": "o nuez moscada rallada",
+        "fr": "ou noix de muscade râpée",
+        "ro": "sau nucșoară rasă"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 70,
       "note": {
-        "en": "absorbed during frying"
+        "en": "absorbed during frying",
+        "de": "beim Frittieren aufgenommen",
+        "es": "absorbido durante la fritura",
+        "fr": "absorbé pendant la friture",
+        "ro": "absorbit în timpul prăjirii"
       }
     }
   ],
@@ -118,7 +142,11 @@
     "count": 15,
     "pieceGrams": 51,
     "shape": {
-      "en": "triangles"
+      "en": "triangles",
+      "de": "Dreiecke",
+      "es": "triángulos",
+      "fr": "triangles",
+      "ro": "triunghiuri"
     }
   },
   "time": {
@@ -160,7 +188,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Keeps a day or two at room temperature in an airtight container; best refreshed briefly in a warm oven."
+      "en": "Keeps a day or two at room temperature in an airtight container; best refreshed briefly in a warm oven.",
+      "de": "Hält sich ein bis zwei Tage bei Raumtemperatur in einem luftdichten Behälter; am besten kurz im warmen Ofen auffrischen.",
+      "es": "Se conserva un día o dos a temperatura ambiente en un recipiente hermético; mejor refrescar brevemente en horno tibio.",
+      "fr": "Se conserve un jour ou deux à température ambiante dans un récipient hermétique; mieux vaut le rafraîchir brièvement au four tiède.",
+      "ro": "Se păstrează o zi sau două la temperatura camerei într-un recipient ermetic; cel mai bun reîmprospătat scurt în cuptorul cald."
     }
   },
   "equipment": [
@@ -269,7 +301,11 @@
     "site": "Immaculate Bites",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tablespoon quantities converted to grams; frying oil absorbed into the dough estimated at 10% of the dough's weight."
+      "en": "Cup/tablespoon quantities converted to grams; frying oil absorbed into the dough estimated at 10% of the dough's weight.",
+      "de": "Tassen-/Esslöffelmengen in Gramm umgerechnet; das vom Frittieren aufgenommene Öl auf 10 % des Teiggewichts geschätzt.",
+      "es": "Cantidades en tazas/cucharadas convertidas a gramos; el aceite absorbido al freír se estimó en el 10 % del peso de la masa.",
+      "fr": "Quantités en tasses/cuillères à soupe converties en grammes; l'huile absorbée par la friture estimée à 10 % du poids de la pâte.",
+      "ro": "Cantitățile de căni/linguri convertite în grame; uleiul absorbit la prăjire estimat la 10 % din greutatea aluatului."
     }
   },
   "tags": [

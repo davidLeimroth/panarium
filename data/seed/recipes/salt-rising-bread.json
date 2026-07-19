@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Appalachia (West Virginia and the rural South/Midwest)"
+      "en": "Appalachia (West Virginia and the rural South/Midwest)",
+      "de": "Appalachen (West Virginia und der ländliche Süden/Mittlere Westen)",
+      "es": "Apalaches (Virginia Occidental y el sur rural/Medio Oeste)",
+      "fr": "Appalaches (Virginie-Occidentale et le Sud rural/Midwest)",
+      "ro": "Appalachia (Virginia de Vest și Sudul rural/Midwest)"
     },
     "note": {
-      "en": "The earliest known recipe dates to 1778 in what is now West Virginia. Developed where commercial yeast was scarce or unreliable, using wild bacteria cultured from cornmeal instead; the process can take the better part of a day and is notoriously temperature-sensitive."
+      "en": "The earliest known recipe dates to 1778 in what is now West Virginia. Developed where commercial yeast was scarce or unreliable, using wild bacteria cultured from cornmeal instead; the process can take the better part of a day and is notoriously temperature-sensitive.",
+      "de": "Das früheste bekannte Rezept stammt von 1778 aus dem heutigen West Virginia. Entwickelt dort, wo kommerzielle Hefe knapp oder unzuverlässig war, unter Verwendung wilder Bakterien aus Maismehlkultur; der Prozess kann den größten Teil eines Tages dauern und ist notorisch temperaturempfindlich.",
+      "es": "La primera receta conocida data de 1778 en lo que hoy es Virginia Occidental. Desarrollada donde la levadura comercial era escasa o poco fiable, utilizando bacterias silvestres cultivadas a partir de harina de maíz; el proceso puede llevar la mayor parte de un día y es notoriamente sensible a la temperatura.",
+      "fr": "La plus ancienne recette connue date de 1778 dans ce qui est aujourd'hui la Virginie-Occidentale. Développée là où la levure commerciale était rare ou peu fiable, utilisant des bactéries sauvages cultivées à partir de farine de maïs; le processus peut prendre la majeure partie d'une journée et est notoirement sensible à la température.",
+      "ro": "Cea mai veche rețetă cunoscută datează din 1778 în ceea ce este astăzi Virginia de Vest. Dezvoltată acolo unde drojdia comercială era rară sau nesigură, folosind bacterii sălbatice cultivate din mălai; procesul poate dura cea mai mare parte a unei zile și este notoriu de sensibil la temperatură."
     }
   },
   "leaven": "chemical",
@@ -51,77 +59,121 @@
       "key": "milk",
       "grams": 57,
       "note": {
-        "en": "starter 1"
+        "en": "starter 1",
+        "de": "Starter 1",
+        "es": "iniciador 1",
+        "fr": "starter 1",
+        "ro": "starter 1"
       }
     },
     {
       "key": "cornmeal",
       "grams": 14,
       "note": {
-        "en": "starter 1"
+        "en": "starter 1",
+        "de": "Starter 1",
+        "es": "iniciador 1",
+        "fr": "starter 1",
+        "ro": "starter 1"
       }
     },
     {
       "key": "sugar",
       "grams": 4,
       "note": {
-        "en": "starter 1"
+        "en": "starter 1",
+        "de": "Starter 1",
+        "es": "iniciador 1",
+        "fr": "starter 1",
+        "ro": "starter 1"
       }
     },
     {
       "key": "water",
       "grams": 227,
       "note": {
-        "en": "hot, 49-54°C; starter 2"
+        "en": "hot, 49-54°C; starter 2",
+        "de": "heiß, 49–54 °C; Starter 2",
+        "es": "caliente, 49–54 °C; iniciador 2",
+        "fr": "chaud, 49–54 °C; starter 2",
+        "ro": "fierbinte, 49–54 °C; starter 2"
       }
     },
     {
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "starter 2"
+        "en": "starter 2",
+        "de": "Starter 2",
+        "es": "iniciador 2",
+        "fr": "starter 2",
+        "ro": "starter 2"
       }
     },
     {
       "key": "baking-soda",
       "grams": 2.5,
       "note": {
-        "en": "starter 2"
+        "en": "starter 2",
+        "de": "Starter 2",
+        "es": "iniciador 2",
+        "fr": "starter 2",
+        "ro": "starter 2"
       }
     },
     {
       "key": "sugar",
       "grams": 2,
       "note": {
-        "en": "starter 2"
+        "en": "starter 2",
+        "de": "Starter 2",
+        "es": "iniciador 2",
+        "fr": "starter 2",
+        "ro": "starter 2"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 180,
       "note": {
-        "en": "starter 2"
+        "en": "starter 2",
+        "de": "Starter 2",
+        "es": "iniciador 2",
+        "fr": "starter 2",
+        "ro": "starter 2"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "soft, final dough"
+        "en": "soft, final dough",
+        "de": "weich, Hauptteig",
+        "es": "blanda, masa final",
+        "fr": "ramolli, pâte finale",
+        "ro": "moale, aluat final"
       }
     },
     {
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "final dough"
+        "en": "final dough",
+        "de": "Hauptteig",
+        "es": "masa final",
+        "fr": "pâte finale",
+        "ro": "aluat final"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 285,
       "note": {
-        "en": "final dough"
+        "en": "final dough",
+        "de": "Hauptteig",
+        "es": "masa final",
+        "fr": "pâte finale",
+        "ro": "aluat final"
       }
     }
   ],
@@ -129,7 +181,11 @@
     "count": 1,
     "pieceGrams": 750,
     "shape": {
-      "en": "single pan loaf, 8.5 x 4.5 inch"
+      "en": "single pan loaf, 8.5 x 4.5 inch",
+      "de": "einzelner Kastenformlaib, 21,6 × 11,4 cm",
+      "es": "hogaza única de molde, 21,6 × 11,4 cm",
+      "fr": "pain unique en moule, 21,6 × 11,4 cm",
+      "ro": "pâine unică de formă, 21,6 × 11,4 cm"
     }
   },
   "time": {
@@ -171,7 +227,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Famous for keeping exceptionally well past a week, unusual for a bread without preservatives; the flavor mellows and rounds out a day or two after baking."
+      "en": "Famous for keeping exceptionally well past a week, unusual for a bread without preservatives; the flavor mellows and rounds out a day or two after baking.",
+      "de": "Bekannt für seine außergewöhnlich gute Haltbarkeit von über einer Woche, ungewöhnlich für ein Brot ohne Konservierungsstoffe; der Geschmack wird ein bis zwei Tage nach dem Backen milder und abgerundeter.",
+      "es": "Famoso por conservarse excepcionalmente bien más allá de una semana, inusual para un pan sin conservantes; el sabor se suaviza y redondea uno o dos días después del horneado.",
+      "fr": "Célèbre pour se conserver exceptionnellement bien au-delà d'une semaine, inhabituel pour un pain sans conservateurs; la saveur s'adoucit et s'arrondit un jour ou deux après la cuisson.",
+      "ro": "Faimos pentru că se păstrează excepțional de bine peste o săptămână, neobișnuit pentru o pâine fără conservanți; aroma se îmblânzește și se rotunjește la o zi sau două după coacere."
     }
   },
   "equipment": [
@@ -268,10 +328,10 @@
       },
       "summary": {
         "en": "Leave it in the pan 10 minutes, then flip it out and let it cool fully on a rack before slicing.",
-        "de": "10 Minuten in der Form ruhen lassen, dann auf ein Gitter stürzen und vollständig abkühlen lassen, bevor angeschnitten wird.",
-        "es": "Dejar reposar en el molde 10 minutos, luego desmoldar sobre una rejilla y dejar enfriar por completo antes de cortar.",
-        "fr": "Laisser reposer dans le moule 10 minutes, puis démouler sur une grille et laisser refroidir complètement avant de trancher.",
-        "ro": "Lasă în formă 10 minute, apoi răstoarnă pe un grătar și lasă să se răcească complet înainte de a felia."
+        "de": "10 Minuten in der Form ruhen lassen, dann auf ein Gitter stürzen und vollständig auskühlen lassen, bevor angeschnitten wird.",
+        "es": "Dejar en el molde 10 minutos, luego desmoldar y dejar enfriar completamente sobre una rejilla antes de rebanar.",
+        "fr": "Laisser dans le moule 10 minutes, puis démouler et laisser refroidir complètement sur une grille avant de trancher.",
+        "ro": "Lasă în formă 10 minute, apoi răstoarnă și lasă să se răcească complet pe un grătar înainte de a felia."
       }
     }
   ],
@@ -280,7 +340,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Classified leaven as chemical per the source's framing of the added baking soda, though the primary rise is wild bacterial fermentation in the two starters, a mechanism outside this taxonomy's enum."
+      "en": "Classified leaven as chemical per the source's framing of the added baking soda, though the primary rise is wild bacterial fermentation in the two starters, a mechanism outside this taxonomy's enum.",
+      "de": "Triebmittel als chemisch eingestuft gemäß der Darstellung der Quelle zum zugesetzten Natron, obwohl der primäre Trieb durch wilde Bakterienfermentation in den beiden Startern erfolgt, ein Mechanismus außerhalb der Aufzählung dieser Taxonomie.",
+      "es": "Levadura clasificada como química según el marco de la fuente sobre el bicarbonato de sodio añadido, aunque el levado principal es fermentación bacteriana salvaje en los dos iniciadores, un mecanismo fuera de la enumeración de esta taxonomía.",
+      "fr": "Levain classé comme chimique selon le cadre de la source concernant le bicarbonate de soude ajouté, bien que la pousse principale soit une fermentation bactérienne sauvage dans les deux starters, un mécanisme en dehors de l'énumération de cette taxonomie.",
+      "ro": "Agentul de creștere clasificat ca chimic conform cadrului sursei privind bicarbonatul de sodiu adăugat, deși creșterea principală este fermentația bacteriană sălbatică în cei doi starteri, un mecanism în afara enumerării acestei taxonomii."
     }
   },
   "tags": [

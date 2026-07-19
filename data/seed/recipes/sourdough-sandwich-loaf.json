@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American home baking"
+      "en": "Modern American home baking",
+      "de": "Moderne amerikanische Hausbäckerei",
+      "es": "Panadería casera estadounidense moderna",
+      "fr": "Boulangerie domestique américaine moderne",
+      "ro": "Panificație casnică americană modernă"
     },
     "note": {
-      "en": "A pan-loaf adaptation that folds a wild-yeast levain into the classic American enriched sandwich bread format."
+      "en": "A pan-loaf adaptation that folds a wild-yeast levain into the classic American enriched sandwich bread format.",
+      "de": "Eine Kastenform-Adaption, die einen Wildhefe-Levain in das klassische amerikanische angereicherte Sandwichbrot-Format einarbeitet.",
+      "es": "Una adaptación de pan de molde que incorpora un levain de levadura salvaje al formato clásico del pan de sándwich enriquecido estadounidense.",
+      "fr": "Une adaptation en pain de moule qui intègre un levain de levure sauvage dans le format classique du pain de mie américain enrichi.",
+      "ro": "O adaptare de pâine de tavă care încorporează un levain de drojdie sălbatică în formatul clasic american de pâine pentru sandvișuri îmbogățită."
     }
   },
   "leaven": "hybrid",
@@ -49,7 +57,11 @@
       "key": "flour:wheat-white",
       "grams": 758,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
@@ -64,7 +76,11 @@
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "unsalted, softened"
+        "en": "unsalted, softened",
+        "de": "ungesalzen, weich",
+        "es": "sin sal, ablandada",
+        "fr": "non salé, ramolli",
+        "ro": "nesărat, înmuiat"
       }
     },
     {
@@ -94,7 +110,11 @@
     "count": 2,
     "pieceGrams": 690,
     "shape": {
-      "en": "8.5-inch pan loaf"
+      "en": "8.5-inch pan loaf",
+      "de": "Kastenformbrot, 21,6 cm Form",
+      "es": "pan de molde de 21,6 cm",
+      "fr": "pain de moule de 21,6 cm",
+      "ro": "pâine de tavă de 21,6 cm"
     }
   },
   "time": {
@@ -215,10 +235,10 @@
       },
       "summary": {
         "en": "Proof 1-2 hours, until the dough has risen roughly an inch past the top of the pan.",
-        "de": "1-2 Stunden gehen lassen, bis der Teig etwa 2,5 cm über den Rand aufragt.",
-        "es": "Fermentar 1-2 horas, hasta que la masa sobrepase el borde unos 2,5 cm.",
-        "fr": "Laisser pousser 1-2 heures, jusqu'à ce que la pâte dépasse le bord d'environ 2,5 cm.",
-        "ro": "Lasă la dospit 1-2 ore, până aluatul depășește marginea tăvii cu aproximativ 2,5 cm."
+        "de": "1-2 Stunden gehen lassen, bis der Teig etwa 2,5 cm über den Formrand aufragt.",
+        "es": "Dejar levar 1-2 horas, hasta que la masa haya subido aproximadamente 2,5 cm por encima del borde del molde.",
+        "fr": "Laisser en apprêt 1-2 heures, jusqu'à ce que la pâte ait levé d'environ 2,5 cm au-dessus du bord du moule.",
+        "ro": "Lasă la dospire finală 1-2 ore, până aluatul a crescut cu aproximativ 2,5 cm deasupra marginii formei."
       }
     },
     {
@@ -259,7 +279,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base; butter's water-equivalent (16%) folded into hydration per house convention."
+      "en": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base; butter's water-equivalent (16%) folded into hydration per house convention.",
+      "de": "Bäckerprozente neu berechnet, um das Mehl und Wasser des Levains in die 100-%-Mehlbasis einzubeziehen; das Wasseräquivalent der Butter (16 %) gemäß der hauseigenen Konvention in die Hydratation eingerechnet.",
+      "es": "Porcentajes panaderos recalculados para incluir la harina y agua del levain en la base de harina al 100 %; el equivalente de agua de la mantequilla (16 %) incorporado a la hidratación según la convención interna.",
+      "fr": "Pourcentages de boulanger recalculés pour inclure la farine et l’eau du levain dans la base de farine à 100 % ; l’équivalent en eau du beurre (16 %) intégré à l’hydratation selon la convention maison.",
+      "ro": "Procentele de brutar recalculate pentru a include făina și apa levain-ului în baza de 100 % făină; echivalentul de apă al untului (16 %) inclus în hidratare conform convenției casei."
     }
   },
   "tags": [

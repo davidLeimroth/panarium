@@ -23,10 +23,18 @@
   "origin": {
     "country": "MA",
     "region": {
-      "en": "Morocco and the wider Maghreb (Algeria, Tunisia)"
+      "en": "Morocco and the wider Maghreb (Algeria, Tunisia)",
+      "de": "Marokko und der weitere Maghreb (Algerien, Tunesien)",
+      "es": "Marruecos y el Magreb en general (Argelia, Túnez)",
+      "fr": "Maroc et l'ensemble du Maghreb (Algérie, Tunisie)",
+      "ro": "Maroc și Maghrebul mai larg (Algeria, Tunisia)"
     },
     "note": {
-      "en": "Called khobz dar or khobz eddar, 'bread of the house', because nearly every family bakes its own daily round, often finishing it at a communal neighborhood oven (ferran)."
+      "en": "Called khobz dar or khobz eddar, 'bread of the house', because nearly every family bakes its own daily round, often finishing it at a communal neighborhood oven (ferran).",
+      "de": "Khobz dar oder khobz eddar genannt, 'Brot des Hauses', weil fast jede Familie ihren eigenen täglichen Laib backt, oft in einem gemeinschaftlichen Nachbarschaftsofen (Ferran) fertiggebacken.",
+      "es": "Llamado khobz dar o khobz eddar, 'pan de la casa', porque casi todas las familias hornean su propia pieza diaria, a menudo terminándola en un horno comunitario del vecindario (ferran).",
+      "fr": "Appelé khobz dar ou khobz eddar, 'pain de la maison', car presque chaque famille cuit son propre pain quotidien, le finissant souvent dans un four de quartier communal (ferran).",
+      "ro": "Numit khobz dar sau khobz eddar, 'pâinea casei', deoarece aproape fiecare familie coace propria pâine zilnică, adesea finisând-o într-un cuptor comunal de cartier (ferran)."
     }
   },
   "leaven": "yeast",
@@ -50,14 +58,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "bread flour or other high-gluten flour"
+        "en": "bread flour or other high-gluten flour",
+        "de": "Brotmehl oder anderes hochglutenhaltiges Mehl",
+        "es": "harina de pan u otra harina de alto gluten",
+        "fr": "farine à pain ou autre farine à haute teneur en gluten",
+        "ro": "făină de pâine sau altă făină cu gluten ridicat"
       }
     },
     {
       "key": "water",
       "grams": 296,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -76,14 +92,22 @@
       "key": "vegetable-oil",
       "grams": 27,
       "note": {
-        "en": "olive or vegetable oil"
+        "en": "olive or vegetable oil",
+        "de": "Oliven- oder Pflanzenöl",
+        "es": "aceite de oliva o vegetal",
+        "fr": "huile d'olive ou végétale",
+        "ro": "ulei de măsline sau vegetal"
       }
     },
     {
       "key": "semolina",
       "grams": 15,
       "note": {
-        "en": "for dusting the pan, optional"
+        "en": "for dusting the pan, optional",
+        "de": "zum Bestäuben der Pfanne, optional",
+        "es": "para espolvorear la sartén, opcional",
+        "fr": "pour saupoudrer la poêle, facultatif",
+        "ro": "pentru pudrat tava, opțional"
       }
     }
   ],
@@ -91,7 +115,11 @@
     "count": 2,
     "pieceGrams": 380,
     "shape": {
-      "en": "flat round loaf, about 20 cm across"
+      "en": "flat round loaf, about 20 cm across",
+      "de": "flacher runder Laib, etwa 20 cm Durchmesser",
+      "es": "pan plano redondo, de unos 20 cm de diámetro",
+      "fr": "pain rond plat, d'environ 20 cm de diamètre",
+      "ro": "pâine rotundă plată, de aproximativ 20 cm diametru"
     }
   },
   "time": {
@@ -132,7 +160,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day it is baked, while the crust still sounds hollow when tapped; freezes well and refreshes in a hot oven."
+      "en": "Best the day it is baked, while the crust still sounds hollow when tapped; freezes well and refreshes in a hot oven.",
+      "de": "Am besten am Backtag, solange die Kruste beim Klopfen noch hohl klingt; lässt sich gut einfrieren und im heißen Ofen auffrischen.",
+      "es": "Mejor el día de horneado, mientras la corteza aún suena hueca al golpearla; se congela bien y se refresca en horno caliente.",
+      "fr": "Meilleur le jour de la cuisson, quand la croûte sonne encore creux quand on la tapote; se congèle bien et se rafraîchit au four chaud.",
+      "ro": "Cel mai bun în ziua coacerii, când crusta sună încă a gol când este bătută; se congelează bine și se reîmprospătează în cuptor fierbinte."
     }
   },
   "equipment": [
@@ -241,7 +273,11 @@
     "site": "Taste of Maroc",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/teaspoon/tablespoon quantities converted to grams; the source's optional pan-dusting semolina is listed at a representative small quantity rather than folded into the flour total."
+      "en": "Cup/teaspoon/tablespoon quantities converted to grams; the source's optional pan-dusting semolina is listed at a representative small quantity rather than folded into the flour total.",
+      "de": "Tassen-/Teelöffel-/Esslöffelmengen in Gramm umgerechnet; das optionale Grieß zum Bestäuben der Pfanne der Quelle ist als repräsentative kleine Menge aufgeführt, nicht in die Mehlsumme eingerechnet.",
+      "es": "Cantidades en tazas/cucharaditas/cucharadas convertidas a gramos; la sémola opcional para espolvorear la sartén de la fuente se lista en una cantidad pequeña representativa en lugar de incorporarse al total de harina.",
+      "fr": "Quantités en tasses/cuillères à café/cuillères à soupe converties en grammes; la semoule facultative pour saupoudrer la poêle de la source est listée en quantité représentative plutôt qu'intégrée au total de farine.",
+      "ro": "Cantitățile în căni/lingurițe/linguri convertite în grame; grișul opțional pentru pudrat tava al sursei este listat la o cantitate mică reprezentativă, nu încorporat în totalul de făină."
     }
   },
   "tags": [

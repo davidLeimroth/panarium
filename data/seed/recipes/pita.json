@@ -24,10 +24,18 @@
   "origin": {
     "country": "LB",
     "region": {
-      "en": "Levant (Eastern Mediterranean)"
+      "en": "Levant (Eastern Mediterranean)",
+      "de": "Levante (östliches Mittelmeer)",
+      "es": "Levante (Mediterráneo oriental)",
+      "fr": "Levant (Méditerranée orientale)",
+      "ro": "Levant (Mediterana de Est)"
     },
     "note": {
-      "en": "Claimed across Lebanon, Syria, Jordan and Palestine as a daily bread; the international name 'pita' comes from Modern Greek, while the ancestral pocket flatbread is much older Middle Eastern baking."
+      "en": "Claimed across Lebanon, Syria, Jordan and Palestine as a daily bread; the international name 'pita' comes from Modern Greek, while the ancestral pocket flatbread is much older Middle Eastern baking.",
+      "de": "Wird im Libanon, Syrien, Jordanien und Palästina als tägliches Brot beansprucht; der internationale Name 'Pita' stammt aus dem Neugriechischen, während das ursprüngliche Taschentaschenbrot ein viel älteres nahöstliches Backwerk ist.",
+      "es": "Reclamado en Líbano, Siria, Jordania y Palestina como pan diario; el nombre internacional 'pita' proviene del griego moderno, mientras que el pan de bolsillo ancestral es una elaboración del Medio Oriente mucho más antigua.",
+      "fr": "Revendiqué au Liban, en Syrie, en Jordanie et en Palestine comme pain quotidien; le nom international 'pita' vient du grec moderne, alors que le pain plat à poche ancestral est une tradition de cuisson du Moyen-Orient bien plus ancienne.",
+      "ro": "Revendicat în Liban, Siria, Iordania și Palestina ca pâine zilnică; numele internațional 'pita' provine din greaca modernă, în timp ce pâinea plată cu buzunar ancestrală este o tradiție de panificație mult mai veche din Orientul Mijlociu."
     }
   },
   "leaven": "yeast",
@@ -49,14 +57,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
       "key": "water",
       "grams": 300,
       "note": {
-        "en": "warm; 100g used to bloom the yeast"
+        "en": "warm; 100g used to bloom the yeast",
+        "de": "warm; 100 g zum Anspringen der Hefe",
+        "es": "templada; 100 g usados para activar la levadura",
+        "fr": "tiède; 100 g utilisés pour réhydrater la levure",
+        "ro": "călduță; 100 g folosite pentru activarea drojdiei"
       }
     },
     {
@@ -72,7 +88,11 @@
     "count": 8,
     "pieceGrams": 102,
     "shape": {
-      "en": "round pocket flatbread"
+      "en": "round pocket flatbread",
+      "de": "rundes Taschentaschenbrot",
+      "es": "pan plano de bolsillo redondo",
+      "fr": "pain plat à poche rond",
+      "ro": "pâine plată rotundă cu buzunar"
     }
   },
   "time": {
@@ -113,7 +133,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best warm the same day; store airtight and reheat on a dry skillet. Refrigerates about a week; freezes well."
+      "en": "Best warm the same day; store airtight and reheat on a dry skillet. Refrigerates about a week; freezes well.",
+      "de": "Am besten warm am selben Tag; luftdicht lagern und in einer trockenen Pfanne aufwärmen. Kühlschrank etwa eine Woche; lässt sich gut einfrieren.",
+      "es": "Mejor caliente el mismo día; guardar hermético y recalentar en una sartén seca. Refrigera aproximadamente una semana; congela bien.",
+      "fr": "Meilleur tiède le jour même; conserver hermétique et réchauffer à la poêle sèche. Se conserve au frais environ une semaine; se congèle bien.",
+      "ro": "Cel mai bun cald în aceeași zi; păstrați ermetic și reîncălziți într-o tigaie uscată. La frigider aproximativ o săptămână; se congelează bine."
     }
   },
   "equipment": [
@@ -238,7 +262,11 @@
     "site": "Waleed Asadi",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Ratios and timings taken directly from a single home baker's Levantine recipe; rounded for baker's percentages."
+      "en": "Ratios and timings taken directly from a single home baker's Levantine recipe; rounded for baker's percentages.",
+      "de": "Verhältnisse und Zeiten direkt aus einem levantinischen Rezept eines Hausbäckers übernommen; für Bäckerprozente gerundet.",
+      "es": "Proporciones y tiempos tomados directamente de una receta levantina de un panadero casero; redondeados para porcentajes de panadero.",
+      "fr": "Proportions et durées reprises directement d'une recette levantine d'un boulanger amateur; arrondies pour les pourcentages de boulanger.",
+      "ro": "Proporțiile și timpii luați direct dintr-o rețetă levantină a unui brutar de casă; rotunjite pentru procente de brutar."
     }
   },
   "tags": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national"
+      "en": "national",
+      "de": "landesweit",
+      "es": "nacional",
+      "fr": "national",
+      "ro": "național"
     },
     "note": {
-      "en": "A thinner sibling of the baguette, valued for its extra-high crust-to-crumb ratio and quick bake."
+      "en": "A thinner sibling of the baguette, valued for its extra-high crust-to-crumb ratio and quick bake.",
+      "de": "Ein dünneres Geschwisterchen der Baguette, geschätzt für sein besonders hohes Verhältnis von Kruste zu Krume und die schnelle Backzeit.",
+      "es": "Un hermano más delgado de la baguette, valorado por su proporción extra alta de corteza a miga y su horneado rápido.",
+      "fr": "Un cousin plus fin de la baguette, apprécié pour son rapport croûte/mie très élevé et sa cuisson rapide.",
+      "ro": "O rudă mai subțire a baghetei, apreciată pentru raportul extrem de ridicat dintre crustă și miez și coacerea rapidă."
     }
   },
   "leaven": "yeast",
@@ -63,7 +71,11 @@
     "count": 5,
     "pieceGrams": 120,
     "shape": {
-      "en": "very thin stick"
+      "en": "very thin stick",
+      "de": "sehr dünne Stange",
+      "es": "barra muy fina",
+      "fr": "bâton très fin",
+      "ro": "băț foarte subțire"
     }
   },
   "time": {
@@ -104,7 +116,11 @@
     "freshDays": 0.5,
     "freezes": true,
     "note": {
-      "en": "Even faster to stale than a baguette given how thin it is; a classic same-day, bistro bread-basket loaf."
+      "en": "Even faster to stale than a baguette given how thin it is; a classic same-day, bistro bread-basket loaf.",
+      "de": "Wird aufgrund seiner Dünnheit noch schneller altbacken als eine Baguette; ein klassisches Bistrobrot für den täglichen Brotkorb.",
+      "es": "Se pone duro incluso más rápido que una baguette debido a lo delgada que es; un pan clásico de cesta de pan de bistró para el mismo día.",
+      "fr": "Rassit encore plus vite qu'une baguette vu sa finesse; un pain de corbeille de bistro classique à consommer le jour même.",
+      "ro": "Se învechește și mai repede decât o baghetă dată fiind cât de subțire este; o pâine clasică de coș de bistro, pentru aceeași zi."
     }
   },
   "equipment": [
@@ -214,7 +230,11 @@
     "site": "VotrePain",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Source's volumetric measures were imprecise; hydration and salt adjusted to typical lean-baguette ratios."
+      "en": "Source's volumetric measures were imprecise; hydration and salt adjusted to typical lean-baguette ratios.",
+      "de": "Die volumetrischen Angaben der Quelle waren ungenau; Hydratation und Salz an typische magere Baguette-Verhältnisse angepasst.",
+      "es": "Las medidas volumétricas de la fuente eran imprecisas; la hidratación y la sal se ajustaron a las proporciones típicas de baguette magra.",
+      "fr": "Les mesures volumétriques de la source étaient imprécises; hydratation et sel ajustés aux ratios typiques de baguette maigre.",
+      "ro": "Măsurătorile volumetrice ale sursei au fost imprecise; hidratarea și sarea ajustate la proporțiile tipice de baghetă slabă."
     }
   },
   "tags": [

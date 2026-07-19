@@ -20,10 +20,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Yorkshire and the Midlands (Staffordshire, Derbyshire)"
+      "en": "Yorkshire and the Midlands (Staffordshire, Derbyshire)",
+      "de": "Yorkshire und die Midlands (Staffordshire, Derbyshire)",
+      "es": "Yorkshire y los Midlands (Staffordshire, Derbyshire)",
+      "fr": "Yorkshire et les Midlands (Staffordshire, Derbyshire)",
+      "ro": "Yorkshire și Midlands (Staffordshire, Derbyshire)"
     },
     "note": {
-      "en": "The name is thought to trace to the Welsh 'bara pyglyd' (pitchy bread), carried into the Black Country by Welsh miners before spreading to Yorkshire and Derbyshire under the same name."
+      "en": "The name is thought to trace to the Welsh 'bara pyglyd' (pitchy bread), carried into the Black Country by Welsh miners before spreading to Yorkshire and Derbyshire under the same name.",
+      "de": "Der Name soll auf das walisische 'bara pyglyd' (teeriges Brot) zurückgehen, von walisischen Bergleuten ins Black Country gebracht, bevor er sich unter demselben Namen nach Yorkshire und Derbyshire verbreitete.",
+      "es": "Se cree que el nombre proviene del galés 'bara pyglyd' (pan pecoso), llevado al Black Country por mineros galeses antes de extenderse a Yorkshire y Derbyshire con el mismo nombre.",
+      "fr": "Le nom viendrait du gallois 'bara pyglyd' (pain poisseux), apporté dans le Black Country par des mineurs gallois avant de se répandre sous le même nom dans le Yorkshire et le Derbyshire.",
+      "ro": "Se crede că numele provine din galeza 'bara pyglyd' (pâine lipicioasă), adusă în Black Country de minerii galezi înainte de a se răspândi sub același nume în Yorkshire și Derbyshire."
     }
   },
   "leaven": "yeast",
@@ -46,21 +54,33 @@
       "key": "flour:wheat-white",
       "grams": 125,
       "note": {
-        "en": "strong bread flour"
+        "en": "strong bread flour",
+        "de": "starkes Brotmehl",
+        "es": "harina de pan fuerte",
+        "fr": "farine de pain forte",
+        "ro": "făină de pâine tare"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 100,
       "note": {
-        "en": "plain flour"
+        "en": "plain flour",
+        "de": "glattes Mehl",
+        "es": "harina común",
+        "fr": "farine tout usage",
+        "ro": "făină simplă"
       }
     },
     {
       "key": "instant-yeast",
       "grams": 3,
       "note": {
-        "en": "fast-action dried yeast"
+        "en": "fast-action dried yeast",
+        "de": "Trockenhefe (schnellwirkend)",
+        "es": "levadura seca de acción rápida",
+        "fr": "levure sèche instantanée",
+        "ro": "drojdie uscată cu acțiune rapidă"
       }
     },
     {
@@ -83,14 +103,22 @@
       "key": "water",
       "grams": 150,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templado",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
       "key": "butter",
       "grams": 5,
       "note": {
-        "en": "for greasing the griddle"
+        "en": "for greasing the griddle",
+        "de": "zum Einfetten der Griddle-Platte",
+        "es": "para engrasar la plancha",
+        "fr": "pour graisser la plaque",
+        "ro": "pentru ungerea plăcii"
       }
     }
   ],
@@ -98,7 +126,11 @@
     "count": 12,
     "pieceGrams": 40,
     "shape": {
-      "en": "thin, irregular griddle rounds, wider than a ringed crumpet"
+      "en": "thin, irregular griddle rounds, wider than a ringed crumpet",
+      "de": "dünne, unregelmäßige Griddle-Runden, breiter als ein ringförmiger Crumpet",
+      "es": "círculos finos e irregulares de plancha, más anchos que un crumpet anillado",
+      "fr": "ronds minces et irréguliers cuits à la plaque, plus larges qu'un crumpet à anneau",
+      "ro": "rotunde subțiri și neregulate, mai late decât un crumpet inelat"
     }
   },
   "time": {
@@ -139,7 +171,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh and warm, or lightly toasted the next day like a crumpet."
+      "en": "Best fresh and warm, or lightly toasted the next day like a crumpet.",
+      "de": "Am besten frisch und warm, oder am nächsten Tag leicht getoastet wie ein Crumpet.",
+      "es": "Mejor fresco y caliente, o ligeramente tostado al día siguiente como un crumpet.",
+      "fr": "Meilleur frais et chaud, ou légèrement grillé le lendemain comme un crumpet.",
+      "ro": "Cel mai bun proaspăt și cald, sau ușor prăjit a doua zi ca un crumpet."
     }
   },
   "equipment": [
@@ -173,9 +209,9 @@
       "summary": {
         "en": "Whisk in the remaining liquid a little at a time, until the batter turns smooth and pourable.",
         "de": "Nach und nach die restliche Flüssigkeit einrühren, bis der Teig glatt und gießfähig ist.",
-        "es": "Incorporar poco a poco el resto del líquido hasta que la masa quede lisa y líquida.",
-        "fr": "Incorporer progressivement le reste du liquide jusqu'à ce que la pâte soit lisse et coulante.",
-        "ro": "Adaugă treptat restul de lichid până compoziția devine netedă și curge ușor."
+        "es": "Añadir el líquido restante poco a poco, batiendo hasta que la masa quede lisa y vertible.",
+        "fr": "Incorporer le reste de liquide petit à petit, en fouettant, jusqu'à ce que la pâte soit lisse et coulante.",
+        "ro": "Adaugă restul de lichid treptat, amestecând, până compoziția devine netedă și se toarnă ușor."
       }
     },
     {
@@ -248,7 +284,11 @@
     "site": "Little Sugar Snaps",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Plain version chosen; the source's optional currant fruit-pikelet variant is omitted here to keep this entry distinct from the atlas's other dried-fruit breads."
+      "en": "Plain version chosen; the source's optional currant fruit-pikelet variant is omitted here to keep this entry distinct from the atlas's other dried-fruit breads.",
+      "de": "Einfache Version gewählt; die optionale Korinthen-Fruchtpikelet-Variante der Quelle wird hier weggelassen, um diesen Eintrag von den anderen Trockenfruchtbroten des Atlas zu unterscheiden.",
+      "es": "Versión simple elegida; la variante opcional de pikelet con grosellas de la fuente se omite aquí para mantener esta entrada distinta de los otros panes de frutos secos del atlas.",
+      "fr": "Version simple choisie; la variante facultative aux groseilles de la source est omise ici pour distinguer cette entrée des autres pains aux fruits secs de l'atlas.",
+      "ro": "Versiunea simplă aleasă; varianta opțională de pikelet cu coacăze a sursei este omisă aici pentru a păstra această intrare distinctă de celelalte pâini cu fructe uscate ale atlasului."
     }
   },
   "tags": [

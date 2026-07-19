@@ -17,10 +17,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "coastal New England (Massachusetts, Maine)"
+      "en": "coastal New England (Massachusetts, Maine)",
+      "de": "Küste Neuenglands (Massachusetts, Maine)",
+      "es": "costa de Nueva Inglaterra (Massachusetts, Maine)",
+      "fr": "côte de Nouvelle-Angleterre (Massachusetts, Maine)",
+      "ro": "coasta Noii Anglie (Massachusetts, Maine)"
     },
     "note": {
-      "en": "Likely baked in New England kitchens before 1850; the name only appears in print from 1915, and the fisherman's-wife story is folklore rather than documented history."
+      "en": "Likely baked in New England kitchens before 1850; the name only appears in print from 1915, and the fisherman's-wife story is folklore rather than documented history.",
+      "de": "Vermutlich vor 1850 in neuenglischen Küchen gebacken; der Name taucht erst ab 1915 in Drucken auf, und die Geschichte von der Fischersfrau ist Folklore, keine dokumentierte Historie.",
+      "es": "Probablemente se horneaba en cocinas de Nueva Inglaterra antes de 1850; el nombre solo aparece impreso desde 1915, y la historia de la esposa del pescador es folclore, no historia documentada.",
+      "fr": "Probablement cuit dans les cuisines de Nouvelle-Angleterre avant 1850; le nom n'apparaît dans les textes imprimés qu'à partir de 1915, et l'histoire de la femme du pêcheur relève du folklore plutôt que de l'histoire documentée.",
+      "ro": "Probabil copt în bucătăriile din Noua Anglie înainte de 1850; numele apare tipărit abia din 1915, iar povestea soției pescarului este folclor, nu istorie documentată."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "flour:corn",
       "grams": 113,
       "note": {
-        "en": "yellow cornmeal"
+        "en": "yellow cornmeal",
+        "de": "gelbes Maismehl",
+        "es": "harina de maíz amarilla",
+        "fr": "farine de maïs jaune",
+        "ro": "făină de porumb galbenă"
       }
     },
     {
@@ -67,14 +79,22 @@
       "key": "molasses",
       "grams": 85,
       "note": {
-        "en": "dark/robust preferred"
+        "en": "dark/robust preferred",
+        "de": "dunkel/kräftig bevorzugt",
+        "es": "oscura/intensa preferida",
+        "fr": "foncée/robuste de préférence",
+        "ro": "întunecată/robustă, preferabil"
       }
     },
     {
       "key": "water",
       "grams": 240,
       "note": {
-        "en": "boiling, to scald the cornmeal"
+        "en": "boiling, to scald the cornmeal",
+        "de": "kochend, zum Überbrühen des Maismehls",
+        "es": "hirviendo, para escaldar la harina de maíz",
+        "fr": "bouillante, pour ébouillanter la farine de maïs",
+        "ro": "fierbinte, pentru opărirea făinii de porumb"
       }
     },
     {
@@ -91,14 +111,22 @@
       "key": "flour:wheat-white",
       "grams": 240,
       "note": {
-        "en": "all-purpose"
+        "en": "all-purpose",
+        "de": "Type 405",
+        "es": "harina común",
+        "fr": "farine de blé standard",
+        "ro": "făină universală"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 113,
       "note": {
-        "en": "white whole wheat"
+        "en": "white whole wheat",
+        "de": "weißes Vollkornweizenmehl",
+        "es": "harina integral de trigo blanca",
+        "fr": "farine de blé entier blanc",
+        "ro": "făină integrală de grâu alb"
       }
     },
     {
@@ -110,7 +138,11 @@
     "count": 1,
     "pieceGrams": 878,
     "shape": {
-      "en": "8.5-inch pan loaf"
+      "en": "8.5-inch pan loaf",
+      "de": "Kastenformbrot, 21,5 cm",
+      "es": "hogaza de molde, 21,5 cm",
+      "fr": "pain de moule, 21,5 cm",
+      "ro": "pâine de tavă, 21,5 cm"
     }
   },
   "time": {
@@ -152,7 +184,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Stays moist for most of a week thanks to the molasses; slices best after resting a day."
+      "en": "Stays moist for most of a week thanks to the molasses; slices best after resting a day.",
+      "de": "Bleibt dank der Melasse fast eine Woche lang feucht; lässt sich am besten nach einem Ruhetag schneiden.",
+      "es": "Se mantiene húmedo casi toda una semana gracias a la melaza; se corta mejor después de reposar un día.",
+      "fr": "Reste humide presque une semaine grâce à la mélasse; se coupe mieux après un jour de repos.",
+      "ro": "Rămâne umed aproape o săptămână datorită melasei; se taie cel mai bine după o zi de odihnă."
     }
   },
   "equipment": [
@@ -169,10 +205,10 @@
       },
       "summary": {
         "en": "Whisk cornmeal and salt, stir in butter, molasses and boiling water until smooth, then set aside to cool until just warm.",
-        "de": "Maismehl und Salz verquirlen, Butter, Melasse und kochendes Wasser glatt einrühren und die Mischung lauwarm abkühlen lassen.",
-        "es": "Batir la harina de maíz y la sal, incorporar la mantequilla, la melaza y el agua hirviendo hasta que quede liso, y dejar templar.",
-        "fr": "Fouetter la farine de maïs et le sel, incorporer le beurre, la mélasse et l'eau bouillante jusqu'à lisser, puis laisser tiédir.",
-        "ro": "Amestecă mălaiul cu sarea, încorporează untul, melasa și apa clocotită până e neted, apoi lasă amestecul să se răcească la căldicel."
+        "de": "Maismehl und Salz verquirlen, Butter, Melasse und kochendes Wasser glatt einrühren und lauwarm abkühlen lassen.",
+        "es": "Batir la harina de maíz y la sal, incorporar la mantequilla, la melaza y el agua hirviendo hasta que esté lisa y dejar entibiar.",
+        "fr": "Fouetter la farine de maïs et le sel, incorporer le beurre, la mélasse et l'eau bouillante jusqu'à consistance lisse et laisser tiédir.",
+        "ro": "Amestecă mălaiul cu sarea, încorporează untul, melasa și apa clocotită până devine netedă și lasă să se răcească până la căldicel."
       }
     },
     {
@@ -250,9 +286,9 @@
       "summary": {
         "en": "Let it rise until the middle domes about an inch higher than the pan's rim.",
         "de": "Gehen lassen, bis sich die Mitte etwa 2,5 cm über den Formrand wölbt.",
-        "es": "Dejar fermentar hasta que el centro sobresalga 2,5 cm por encima del borde del molde.",
-        "fr": "Laisser lever jusqu'à ce que le centre dépasse d'environ 2,5 cm le bord du moule.",
-        "ro": "Lasă la crescut până centrul depășește marginea formei cu aproximativ 2,5 cm."
+        "es": "Dejar levar hasta que el centro se eleve unos 2,5 cm por encima del borde del molde.",
+        "fr": "Laisser lever jusqu'à ce que le centre s'élève d'environ 2,5 cm au-dessus du bord du moule.",
+        "ro": "Lasă la crescut până centrul se bombează cu aproximativ 2,5 cm deasupra marginii formei."
       }
     },
     {
@@ -277,7 +313,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams kept as sourced; scalding water quantity set at the recipe's own suggested midpoint."
+      "en": "Grams kept as sourced; scalding water quantity set at the recipe's own suggested midpoint.",
+      "de": "Grammangaben wie in der Quelle belassen; Menge des Brühwassers auf den Mittelwert der empfohlenen Spanne gesetzt.",
+      "es": "Gramos mantenidos como en la fuente; la cantidad de agua hirviendo se fijó en el punto medio sugerido por la receta.",
+      "fr": "Grammes conservés tels que dans la source; quantité d'eau bouillante fixée au milieu de la fourchette suggérée par la recette.",
+      "ro": "Gramajul păstrat ca în sursă; cantitatea de apă clocotită stabilită la mijlocul intervalului sugerat de rețetă."
     }
   },
   "tags": [

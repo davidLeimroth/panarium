@@ -21,10 +21,18 @@
   "origin": {
     "country": "MG",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el pais",
+      "fr": "dans tout le pays",
+      "ro": "la nivel national"
     },
     "note": {
-      "en": "Sold by street vendors from large multi-cavity pans each morning; the name simply means 'Malagasy bread' and distinguishes it from mofo baolina and other local breads."
+      "en": "Sold by street vendors from large multi-cavity pans each morning; the name simply means 'Malagasy bread' and distinguishes it from mofo baolina and other local breads.",
+      "de": "Wird jeden Morgen von Straenverkaufern aus groen Mehrfach-Pfannen verkauft; der Name bedeutet einfach 'madagassisches Brot' und unterscheidet es von Mofo Baolina und anderen lokalen Broten.",
+      "es": "Vendido por vendedores ambulantes en grandes sartenes de multiples cavidades cada manana; el nombre significa simplemente 'pan malgache' y lo distingue del mofo baolina y otros panes locales.",
+      "fr": "Vendu par des vendeurs de rue dans de grandes poeles a plusieurs alveoles chaque matin; le nom signifie simplement 'pain malgache' et le distingue du mofo baolina et d'autres pains locaux.",
+      "ro": "Vandut de vanzatorii stradali din tigaia mari cu mai multe cavitati in fiecare dimineata; numele inseamna simplu 'paine malgasa' si il deosebeste de mofo baolina si alte paini locale."
     }
   },
   "leaven": "yeast",
@@ -56,7 +64,11 @@
       "key": "flour:rice",
       "grams": 43,
       "note": {
-        "en": "cream of rice / rice semolina"
+        "en": "cream of rice / rice semolina",
+        "de": "Reismehl / Reissemolina",
+        "es": "crema de arroz / semola de arroz",
+        "fr": "creme de riz / semoule de riz",
+        "ro": "crema de orez / gris de orez"
       }
     },
     {
@@ -71,7 +83,11 @@
       "key": "water",
       "grams": 119,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiede",
+        "ro": "calduta"
       }
     },
     {
@@ -106,7 +122,11 @@
       "key": "butter",
       "grams": 28,
       "note": {
-        "en": "or coconut oil, melted"
+        "en": "or coconut oil, melted",
+        "de": "oder Kokosol, geschmolzen",
+        "es": "o aceite de coco, derretido",
+        "fr": "ou huile de coco, fondue",
+        "ro": "sau ulei de cocos, topit"
       }
     }
   ],
@@ -114,7 +134,11 @@
     "count": 22,
     "pieceGrams": 19,
     "shape": {
-      "en": "small puffs from a multi-cavity pan"
+      "en": "small puffs from a multi-cavity pan",
+      "de": "kleine Ballchen aus einer Mehrfach-Pfanne",
+      "es": "pequenos bollos de una sarten de multiples cavidades",
+      "fr": "petits pains d'une poele a plusieurs alveoles",
+      "ro": "mici gogosi dintr-o tigaie cu mai multe cavitati"
     }
   },
   "time": {
@@ -156,7 +180,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best eaten warm the same morning; leftovers can be frozen and reheated, though the fluffiness fades."
+      "en": "Best eaten warm the same morning; leftovers can be frozen and reheated, though the fluffiness fades.",
+      "de": "Am besten warm am selben Morgen essen; Reste konnen eingefroren und aufgewarmt werden, obwohl die Fluffigkeit nachlasst.",
+      "es": "Mejor comerlo caliente la misma manana; las sobras se pueden congelar y recalentar, aunque la esponjosidad disminuye.",
+      "fr": "Meilleur mange chaud le matin meme; les restes peuvent etre congeles et rechauffes, bien que le moelleux s'estompe.",
+      "ro": "Cel mai bun consumat cald in aceeasi dimineata; resturile pot fi congelate si reincalzite, desi pufozitatea se pierde."
     }
   },
   "equipment": [
@@ -265,7 +293,11 @@
     "site": "Mayuri's Jikoni",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tablespoon quantities converted to grams; rice semolina, coconut milk and grated coconut weights estimated since no standard conversion exists for them."
+      "en": "Cup/tablespoon quantities converted to grams; rice semolina, coconut milk and grated coconut weights estimated since no standard conversion exists for them.",
+      "de": "Tassen-/Essloffel-Mengen in Gramm umgerechnet; Reissemolina, Kokosmilch und Kokosraspelgewichte geschatzt, da keine Standardumrechnung dafur existiert.",
+      "es": "Cantidades en tazas/cucharadas convertidas a gramos; pesos de semola de arroz, leche de coco y coco rallado estimados ya que no existe una conversion estandar para ellos.",
+      "fr": "Quantites en tasses/cuilleres a soupe converties en grammes; poids de semoule de riz, lait de coco et noix de coco rapee estimes car aucune conversion standard n'existe pour eux.",
+      "ro": "Cantitatile in cani/linguri convertite in grame; greutatile pentru gris de orez, lapte de cocos si nuca de cocos rasa estimate, deoarece nu exista o conversie standard pentru ele."
     }
   },
   "tags": [

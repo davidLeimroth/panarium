@@ -21,10 +21,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Germany-wide"
+      "en": "Germany-wide",
+      "de": "Deutschlandweit",
+      "es": "En toda Alemania",
+      "fr": "Dans toute l'Allemagne",
+      "ro": "La nivel național în Germania"
     },
     "note": {
-      "en": "German bread law defines Roggenmischbrot as containing 50–89% rye flour with the remainder wheat; below that it is Weizenmischbrot instead."
+      "en": "German bread law defines Roggenmischbrot as containing 50–89% rye flour with the remainder wheat; below that it is Weizenmischbrot instead.",
+      "de": "Das deutsche Brotgesetz definiert Roggenmischbrot als Brot mit 50–89 % Roggenmehl, der Rest Weizen; darunter heißt es Weizenmischbrot.",
+      "es": "La ley alemana del pan define Roggenmischbrot como pan que contiene 50–89 % de harina de centeno, el resto trigo; por debajo de eso se denomina Weizenmischbrot.",
+      "fr": "La loi allemande sur le pain définit le Roggenmischbrot comme contenant 50–89 % de farine de seigle, le reste étant du blé; en dessous, on parle de Weizenmischbrot.",
+      "ro": "Legea germană a pâinii definește Roggenmischbrot ca pâine cu 50–89 % făină de secară, restul grâu; sub acest procent se numește Weizenmischbrot."
     }
   },
   "leaven": "hybrid",
@@ -51,14 +59,22 @@
       "key": "flour:rye",
       "grams": 610,
       "note": {
-        "en": "rye flour type 1150, split between sourdough and main dough"
+        "en": "rye flour type 1150, split between sourdough and main dough",
+        "de": "Roggenmehl Type 1150, auf Sauerteig und Hauptteig aufgeteilt",
+        "es": "harina de centeno tipo 1150, dividida entre masa madre y masa final",
+        "fr": "farine de seigle type 1150, répartie entre le levain et la pâte finale",
+        "ro": "făină de secară tip 1150, împărțită între maia și aluatul final"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 270,
       "note": {
-        "en": "wheat type 1050 plus whole wheat flour, autolysed"
+        "en": "wheat type 1050 plus whole wheat flour, autolysed",
+        "de": "Weizenmehl Type 1050 plus Weizenvollkornmehl, autolysiert",
+        "es": "harina de trigo tipo 1050 más harina integral de trigo, autolizada",
+        "fr": "farine de blé type 1050 plus farine complète de blé, autolysée",
+        "ro": "făină de grâu tip 1050 plus făină integrală de grâu, autolizată"
       }
     },
     {
@@ -71,14 +87,22 @@
       },
       "grams": 90,
       "note": {
-        "en": "soaked as a flavor and moisture-boosting Quellstück"
+        "en": "soaked as a flavor and moisture-boosting Quellstück",
+        "de": "als geschmacks- und feuchtigkeitsförderndes Quellstück eingeweicht",
+        "es": "remojado como Quellstück potenciador de sabor y humedad",
+        "fr": "trempé en tant que Quellstück pour relever la saveur et l'humidité",
+        "ro": "înmuiat ca Quellstück pentru intensificarea aromei și umidității"
       }
     },
     {
       "key": "water",
       "grams": 705,
       "note": {
-        "en": "warm, ~40°C, split across all stages"
+        "en": "warm, ~40°C, split across all stages",
+        "de": "warm, ~40°C, auf alle Stufen verteilt",
+        "es": "templada, ~40°C, repartida en todas las etapas",
+        "fr": "tiède, ~40°C, répartie dans toutes les étapes",
+        "ro": "călduță, ~40°C, împărțită pe toate etapele"
       }
     },
     {
@@ -89,14 +113,22 @@
       "key": "sourdough-starter",
       "grams": 40,
       "note": {
-        "en": "active rye starter (Anstellgut)"
+        "en": "active rye starter (Anstellgut)",
+        "de": "aktiver Roggensauerteig (Anstellgut)",
+        "es": "masa madre activa de centeno (Anstellgut)",
+        "fr": "levain de seigle actif (Anstellgut)",
+        "ro": "maia activă de secară (Anstellgut)"
       }
     },
     {
       "key": "fresh-yeast",
       "grams": 9,
       "note": {
-        "en": "optional, for a more reliable rise alongside the sourdough"
+        "en": "optional, for a more reliable rise alongside the sourdough",
+        "de": "optional, für einen zuverlässigeren Trieb neben dem Sauerteig",
+        "es": "opcional, para un levado más fiable junto con la masa madre",
+        "fr": "facultatif, pour une pousse plus fiable en complément du levain",
+        "ro": "opțional, pentru o creștere mai sigură împreună cu maiaua"
       }
     }
   ],
@@ -104,7 +136,11 @@
     "count": 1,
     "pieceGrams": 1650,
     "shape": {
-      "en": "oval hearth loaf (bâtard)"
+      "en": "oval hearth loaf (bâtard)",
+      "de": "ovaler Ofenlaib (Bâtard)",
+      "es": "hogaza oval de hogar (bâtard)",
+      "fr": "pain de ménage ovale (bâtard)",
+      "ro": "pâine ovală de vatră (bâtard)"
     }
   },
   "time": {
@@ -146,7 +182,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Wrap in linen or paper; the crumb stays moist for most of a week."
+      "en": "Wrap in linen or paper; the crumb stays moist for most of a week.",
+      "de": "In Leinen oder Papier wickeln; die Krume bleibt fast eine Woche feucht.",
+      "es": "Envolver en lino o papel; la miga se mantiene húmeda casi toda una semana.",
+      "fr": "Envelopper dans du lin ou du papier; la mie reste humide presque une semaine.",
+      "ro": "Învelește în in sau hârtie; miezul rămâne umed aproape o săptămână."
     }
   },
   "equipment": [
@@ -273,7 +313,11 @@
     "site": "EinfachBrotBacken",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Simplified from a three-stage recipe (sourdough, Altbrot soaker, autolyse); Altbrot's water was folded into the hydration total, its dry weight kept out of the flour percentages."
+      "en": "Simplified from a three-stage recipe (sourdough, Altbrot soaker, autolyse); Altbrot's water was folded into the hydration total, its dry weight kept out of the flour percentages.",
+      "de": "Vereinfacht aus einem Drei-Stufen-Rezept (Sauerteig, Altbrot-Quellstück, Autolyse); das Wasser des Altbrots wurde in die Gesamthydration eingerechnet, sein Trockengewicht blieb außerhalb der Mehlprozentzahlen.",
+      "es": "Simplificado de una receta de tres etapas (masa madre, remojo con Altbrot, autólisis); el agua del Altbrot se incorporó a la hidratación total, su peso seco se mantuvo fuera de los porcentajes de harina.",
+      "fr": "Simplifié d'une recette en trois étapes (levain, trempage Altbrot, autolyse); l'eau de l'Altbrot a été intégrée à l'hydratation totale, son poids sec exclu des pourcentages de farine.",
+      "ro": "Simplificat dintr-o rețetă în trei etape (maia, înmuiere cu Altbrot, autoliză); apa din Altbrot a fost inclusă în hidratarea totală, greutatea uscată exclusă din procentele de făină."
     }
   },
   "tags": [

@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national"
+      "en": "national",
+      "de": "landesweit",
+      "es": "nacional",
+      "fr": "national",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "France's answer to English-style tin bread, ubiquitous in French kitchens for croque-monsieur and toast."
+      "en": "France's answer to English-style tin bread, ubiquitous in French kitchens for croque-monsieur and toast.",
+      "de": "Frankreichs Antwort auf das englische Kastenweißbrot, allgegenwärtig in französischen Küchen für Croque-Monsieur und Toast.",
+      "es": "La respuesta francesa al pan de molde inglés, omnipresente en las cocinas francesas para croque-monsieur y tostadas.",
+      "fr": "La réponse française au pain de mie anglais, omniprésent dans les cuisines françaises pour le croque-monsieur et le toast.",
+      "ro": "Răspunsul Franței la pâinea englezească de formă, ubicuu în bucătăriile franceze pentru croque-monsieur și pâine prăjită."
     }
   },
   "leaven": "yeast",
@@ -56,7 +64,11 @@
       "key": "butter",
       "grams": 30,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "moale"
       }
     },
     {
@@ -71,7 +83,11 @@
       "key": "instant-yeast",
       "grams": 8,
       "note": {
-        "en": "dry baker's yeast"
+        "en": "dry baker's yeast",
+        "de": "Trockenbackhefe",
+        "es": "levadura seca de panadero",
+        "fr": "levure sèche de boulanger",
+        "ro": "drojdie uscată de panificație"
       }
     }
   ],
@@ -79,7 +95,11 @@
     "count": 1,
     "pieceGrams": 750,
     "shape": {
-      "en": "22x10x10cm lidded tin loaf"
+      "en": "22x10x10cm lidded tin loaf",
+      "de": "Kastenformbrot 22x10x10 cm mit Deckel",
+      "es": "pan de molde con tapa de 22x10x10 cm",
+      "fr": "pain de moule à couvercle 22x10x10 cm",
+      "ro": "pâine de formă cu capac 22x10x10 cm"
     }
   },
   "time": {
@@ -121,7 +141,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Slices and freezes exceptionally well for toast throughout the week."
+      "en": "Slices and freezes exceptionally well for toast throughout the week.",
+      "de": "Lässt sich hervorragend in Scheiben schneiden und einfrieren für Toast die ganze Woche.",
+      "es": "Se rebanada y congela excepcionalmente bien para tostadas durante toda la semana.",
+      "fr": "Se tranche et se congèle exceptionnellement bien pour le grille-pain toute la semaine.",
+      "ro": "Se feliază și se congrează excepțional de bine pentru pâine prăjită toată săptămâna."
     }
   },
   "equipment": [

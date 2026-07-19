@@ -22,10 +22,18 @@
   "origin": {
     "country": "PL",
     "region": {
-      "en": "Prądnik valley, Kraków"
+      "en": "Prądnik valley, Kraków",
+      "de": "Prądnik-Tal, Krakau",
+      "es": "Valle de Prądnik, Cracovia",
+      "fr": "Vallée de Prądnik, Cracovie",
+      "ro": "Valea Prądnik, Cracovia"
     },
     "note": {
-      "en": "Documented from 1421; historical loaves reached 14kg. Holds EU Protected Geographical Indication status."
+      "en": "Documented from 1421; historical loaves reached 14kg. Holds EU Protected Geographical Indication status.",
+      "de": "Seit 1421 dokumentiert; historische Laibe erreichten 14 kg. Trägt den Status einer EU-geschützten geografischen Angabe.",
+      "es": "Documentado desde 1421; hogazas históricas alcanzaron 14 kg. Posee estatus de Indicación Geográfica Protegida de la UE.",
+      "fr": "Documenté depuis 1421; les pains historiques atteignaient 14 kg. Bénéficie du statut d'Indication Géographique Protégée de l'UE.",
+      "ro": "Documentat din 1421; pâinile istorice au ajuns la 14 kg. Deține statutul de Indicație Geografică Protejată a UE."
     }
   },
   "leaven": "sourdough",
@@ -47,7 +55,11 @@
       "key": "sourdough-starter",
       "grams": 100,
       "note": {
-        "en": "active rye starter"
+        "en": "active rye starter",
+        "de": "aktiver Roggensauerteig",
+        "es": "masa madre de centeno activa",
+        "fr": "levain de seigle actif",
+        "ro": "maia activă de secară"
       }
     },
     {
@@ -71,7 +83,11 @@
     "count": 2,
     "pieceGrams": 820,
     "shape": {
-      "en": "loaf-pan loaf, scored criss-cross"
+      "en": "loaf-pan loaf, scored criss-cross",
+      "de": "Kastenformlaib, kreuzweise eingeritzt",
+      "es": "hogaza de molde, marcada en cruz",
+      "fr": "pain de moule, scarifié en croix",
+      "ro": "pâine de tavă, crestată în cruce"
     }
   },
   "time": {
@@ -114,7 +130,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "Best from the second day on; historically baked in giant multi-kilogram loaves built to keep for weeks."
+      "en": "Best from the second day on; historically baked in giant multi-kilogram loaves built to keep for weeks.",
+      "de": "Ab dem zweiten Tag am besten; historisch in riesigen Multi-Kilogramm-Laiben gebacken, die wochenlang haltbar waren.",
+      "es": "Mejor a partir del segundo día; históricamente horneado en hogazas gigantes de varios kilos hechas para durar semanas.",
+      "fr": "Meilleur à partir du deuxième jour; historiquement cuit en pains géants de plusieurs kilos conçus pour se conserver des semaines.",
+      "ro": "Cel mai bun din a doua zi; copt istoric în pâini uriașe de multe kilograme menite să reziste săptămâni."
     }
   },
   "equipment": [
@@ -239,7 +259,11 @@
     "site": "Wikipedia",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "The historical guild recipe is not publicly published; proportions are estimated from generic Polish all-rye sourdough formulas and scaled down from the loaf's traditional multi-kilogram size."
+      "en": "The historical guild recipe is not publicly published; proportions are estimated from generic Polish all-rye sourdough formulas and scaled down from the loaf's traditional multi-kilogram size.",
+      "de": "Das historische Zunftrezept ist nicht öffentlich veröffentlicht; die Anteile werden aus generischen polnischen Roggen-Vollsauerteigformeln geschätzt und von der traditionellen Multi-Kilogramm-Größe des Laibs herunterskaliert.",
+      "es": "La receta histórica del gremio no está publicada públicamente; las proporciones se estimaron a partir de fórmulas genéricas polacas de masa madre de centeno y se redujeron del tamaño tradicional de varios kilos de la hogaza.",
+      "fr": "La recette historique de la guilde n'est pas publiée publiquement; les proportions sont estimées à partir de formules génériques polonaises de levain de seigle pur et réduites à partir de la taille traditionnelle de plusieurs kilos du pain.",
+      "ro": "Rețeta istorică a breslei nu este publicată; proporțiile sunt estimate din formule generice poloneze de maia de secară și reduse de la dimensiunea tradițională de multe kilograme a pâinii."
     }
   },
   "tags": [

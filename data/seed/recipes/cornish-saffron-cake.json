@@ -21,10 +21,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Cornwall, England"
+      "en": "Cornwall, England",
+      "de": "Cornwall, England",
+      "es": "Cornualles, Inglaterra",
+      "fr": "Cornouailles, Angleterre",
+      "ro": "Cornwall, Anglia"
     },
     "note": {
-      "en": "Saffron reached Cornwall through Mediterranean and Phoenician-era trade routes; Cornish saffron cake dates back to at least the 14th century, when the spice was a valuable trade commodity, and was a treat for church outings and celebrations."
+      "en": "Saffron reached Cornwall through Mediterranean and Phoenician-era trade routes; Cornish saffron cake dates back to at least the 14th century, when the spice was a valuable trade commodity, and was a treat for church outings and celebrations.",
+      "de": "Safran erreichte Cornwall über mediterrane und phönizische Handelsrouten; der Cornish Saffron Cake stammt mindestens aus dem 14. Jahrhundert, als das Gewürz ein wertvolles Handelsgut war, und war eine Leckerei für Kirchenausflüge und Feierlichkeiten.",
+      "es": "El azafrán llegó a Cornualles a través de rutas comerciales mediterráneas y fenicias; el pastel de azafrán de Cornualles se remonta al menos al siglo XIV, cuando la especia era un valioso producto comercial, y era un manjar para excursiones y celebraciones eclesiásticas.",
+      "fr": "Le safran a atteint les Cornouailles par les routes commerciales méditerranéennes et phéniciennes; le gâteau au safran cornique remonte au moins au XIVe siècle, quand l'épice était une denrée précieuse, et était une gourmandise pour les sorties d'église et les célébrations.",
+      "ro": "Șofranul a ajuns în Cornwall prin rutele comerciale mediteraneene și feniciene; prăjitura cu șofran cornish datează de cel puțin din secolul al XIV-lea, când condimentul era o marfă prețioasă, și era un răsfăț pentru excursii bisericești și sărbători."
     }
   },
   "leaven": "yeast",
@@ -65,14 +73,22 @@
       },
       "grams": 2,
       "note": {
-        "en": "threads, soaked in the warm water"
+        "en": "threads, soaked in the warm water",
+        "de": "Fäden, im warmen Wasser eingeweicht",
+        "es": "hebras, remojadas en el agua tibia",
+        "fr": "filaments, trempés dans l'eau tiède",
+        "ro": "fire, înmuiate în apa caldă"
       }
     },
     {
       "key": "water",
       "grams": 118,
       "note": {
-        "en": "warm, for soaking the saffron"
+        "en": "warm, for soaking the saffron",
+        "de": "warm, zum Einweichen des Safrans",
+        "es": "tibia, para remojar el azafrán",
+        "fr": "tiède, pour tremper le safran",
+        "ro": "caldă, pentru înmuiat șofranul"
       }
     },
     {
@@ -87,28 +103,44 @@
       "key": "milk",
       "grams": 237,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "cald"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 eggs"
+        "en": "2 eggs",
+        "de": "2 Eier",
+        "es": "2 huevos",
+        "fr": "2 œufs",
+        "ro": "2 ouă"
       }
     },
     {
       "key": "raisins",
       "grams": 85,
       "note": {
-        "en": "mixed dried fruit"
+        "en": "mixed dried fruit",
+        "de": "gemischte Trockenfrüchte",
+        "es": "fruta seca mixta",
+        "fr": "fruits secs mélangés",
+        "ro": "fructe uscate mixte"
       }
     },
     {
       "key": "raisins",
       "grams": 38,
       "note": {
-        "en": "currants"
+        "en": "currants",
+        "de": "Korinthen",
+        "es": "grosellas secas",
+        "fr": "raisins de Corinthe",
+        "ro": "stafide de Corint"
       }
     }
   ],
@@ -116,7 +148,11 @@
     "count": 1,
     "pieceGrams": 1120,
     "shape": {
-      "en": "single loaf baked in a 2lb tin, sliced"
+      "en": "single loaf baked in a 2lb tin, sliced",
+      "de": "einzelner Laib, in einer 2-Pfund-Form gebacken, in Scheiben geschnitten",
+      "es": "hogaza individual horneada en un molde de 2 libras, en rebanadas",
+      "fr": "pain unique cuit dans un moule de 2 livres, tranché",
+      "ro": "pâine individuală coptă într-o formă de 2 livre, feliată"
     }
   },
   "time": {
@@ -158,7 +194,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Keeps well thanks to the butter and dried fruit; many say the saffron flavor deepens a day or two after baking."
+      "en": "Keeps well thanks to the butter and dried fruit; many say the saffron flavor deepens a day or two after baking.",
+      "de": "Hält sich gut dank der Butter und Trockenfrüchte; viele sagen, das Safranaroma intensiviert sich ein bis zwei Tage nach dem Backen.",
+      "es": "Se conserva bien gracias a la mantequilla y la fruta seca; muchos dicen que el sabor a azafrán se intensifica uno o dos días después del horneado.",
+      "fr": "Se conserve bien grâce au beurre et aux fruits secs; beaucoup disent que la saveur du safran s'intensifie un jour ou deux après la cuisson.",
+      "ro": "Se păstrează bine datorită untului și fructelor uscate; mulți spun că aroma de șofran se adâncește o zi sau două după coacere."
     }
   },
   "equipment": [
@@ -268,7 +308,11 @@
     "site": "Stream of Flavors",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Source's very light 1/4 tsp salt standardized upward to a defined baker's percentage. Yeast recorded as fresh yeast given its proportion to the flour; ounce/cup measures converted to grams."
+      "en": "Source's very light 1/4 tsp salt standardized upward to a defined baker's percentage. Yeast recorded as fresh yeast given its proportion to the flour; ounce/cup measures converted to grams.",
+      "de": "Das sehr leichte 1/4 TL Salz der Quelle wurde auf einen definierten Bäckerprozentsatz erhöht. Hefe aufgrund ihres Anteils am Mehl als Frischhefe erfasst; Unzen-/Tassenmaße in Gramm umgerechnet.",
+      "es": "La muy ligera 1/4 cucharadita de sal de la fuente se estandarizó al alza a un porcentaje panadero definido. Levadura registrada como levadura fresca dada su proporción con la harina; medidas en onzas/tazas convertidas a gramos.",
+      "fr": "Le très léger 1/4 c à café de sel de la source a été standardisé à la hausse en un pourcentage de boulanger défini. Levure enregistrée comme levure fraîche vu sa proportion par rapport à la farine; mesures en onces/tasses converties en grammes.",
+      "ro": "Foarte ușorul 1/4 linguriță de sare al sursei a fost standardizat în sus la un procent definit de panificație. Drojdia înregistrată ca drojdie proaspătă având în vedere proporția sa față de făină; măsurile în uncii/căni convertite în grame."
     }
   },
   "tags": [

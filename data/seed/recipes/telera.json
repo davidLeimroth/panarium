@@ -21,10 +21,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "Mexico City and nationwide"
+      "en": "Mexico City and nationwide",
+      "de": "Mexiko-Stadt und landesweit",
+      "es": "Ciudad de México y todo el país",
+      "fr": "Mexico et tout le pays",
+      "ro": "Ciudad de México și la nivel național"
     },
     "note": {
-      "en": "The everyday roll of the Mexican torta sandwich; its two parallel slashes, creating three lobes, make it easy to split horizontally without falling apart."
+      "en": "The everyday roll of the Mexican torta sandwich; its two parallel slashes, creating three lobes, make it easy to split horizontally without falling apart.",
+      "de": "Das alltägliche Brötchen des mexikanischen Torta-Sandwiches; seine zwei parallelen Einschnitte, die drei Lappen bilden, machen es leicht, es horizontal zu teilen, ohne auseinanderzufallen.",
+      "es": "El panecillo cotidiano del sándwich mexicano de torta; sus dos cortes paralelos, que crean tres lóbulos, facilitan partirlo horizontalmente sin que se desmorone.",
+      "fr": "Le petit pain quotidien du sandwich mexicain torta; ses deux incisions parallèles créant trois lobes le rendent facile à fendre horizontalement sans se défaire.",
+      "ro": "Chifla de zi cu zi a sandvișului mexican torta; cele două tăieturi paralele, care creează trei lobi, o fac ușor de despicat orizontal fără să se desfacă."
     }
   },
   "leaven": "yeast",
@@ -60,7 +68,11 @@
       "key": "lard",
       "grams": 14,
       "note": {
-        "en": "or shortening or butter, melted and cooled"
+        "en": "or shortening or butter, melted and cooled",
+        "de": "oder Backfett oder Butter, geschmolzen und abgekühlt",
+        "es": "o manteca vegetal o mantequilla, derretida y enfriada",
+        "fr": "ou saindoux végétal ou beurre, fondu et refroidi",
+        "ro": "sau scurtătură sau unt, topit și răcit"
       }
     },
     {
@@ -75,7 +87,11 @@
       "key": "egg",
       "grams": 15,
       "note": {
-        "en": "beaten with water, for the egg wash glaze"
+        "en": "beaten with water, for the egg wash glaze",
+        "de": "Mit Wasser verquirlt, für die Eierwaschglasur",
+        "es": "Batido con agua, para el glaseado de huevo",
+        "fr": "Battu avec de l'eau, pour la dorure à l'œuf",
+        "ro": "Bătut cu apă, pentru glazura de ou"
       }
     }
   ],
@@ -83,7 +99,11 @@
     "count": 10,
     "pieceGrams": 82,
     "shape": {
-      "en": "oval, two parallel slashes forming three lobes, 14cm long"
+      "en": "oval, two parallel slashes forming three lobes, 14cm long",
+      "de": "Oval, zwei parallele Einschnitte formen drei Lappen, 14 cm lang",
+      "es": "Oval, dos cortes paralelos formando tres lóbulos, 14 cm de largo",
+      "fr": "Ovale, deux incisions parallèles formant trois lobes, 14 cm de long",
+      "ro": "Oval, două tăieturi paralele formând trei lobi, 14 cm lungime"
     }
   },
   "time": {
@@ -125,7 +145,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked for tortas; the soft crumb stales quickly, though day-old rolls toast well."
+      "en": "Best the day it's baked for tortas; the soft crumb stales quickly, though day-old rolls toast well.",
+      "de": "Am besten am Backtag für Tortas; die weiche Krume wird schnell altbacken, aber einen Tag alte Brötchen lassen sich gut toasten.",
+      "es": "Mejor el día de horneado para tortas; la miga suave se endurece rápido, aunque los panecillos del día anterior se tuestan bien.",
+      "fr": "Meilleur le jour de la cuisson pour les tortas; la mie molle rassit vite, mais les petits pains d'un jour se toastent bien.",
+      "ro": "Cel mai bun în ziua coacerii pentru tortas; miezul moale învechește repede, dar chiflele de o zi se prăjesc bine."
     }
   },
   "equipment": [
@@ -234,7 +258,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Flour given as a range; used the midpoint. Lard chosen as the traditional fat option among the source's three alternatives."
+      "en": "Flour given as a range; used the midpoint. Lard chosen as the traditional fat option among the source's three alternatives.",
+      "de": "Mehl als Spanne angegeben; Mittelwert verwendet. Schmalz als traditionelle Fettoption unter den drei Alternativen der Quelle gewählt.",
+      "es": "Harina dada como un rango; se usó el punto medio. Se eligió manteca de cerdo como la opción de grasa tradicional entre las tres alternativas de la fuente.",
+      "fr": "Farine donnée en fourchette; point médian utilisé. Saindoux choisi comme matière grasse traditionnelle parmi les trois alternatives de la source.",
+      "ro": "Făina dată ca interval; s-a folosit punctul mediu. S-a ales untura ca opțiunea tradițională de grăsime dintre cele trei alternative ale sursei."
     }
   },
   "tags": [

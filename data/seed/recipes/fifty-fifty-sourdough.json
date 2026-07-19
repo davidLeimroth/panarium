@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutăriile artizanale americane moderne"
     },
     "note": {
-      "en": "A deliberately balanced formula designed as an entry point into whole-grain sourdough baking."
+      "en": "A deliberately balanced formula designed as an entry point into whole-grain sourdough baking.",
+      "de": "Eine bewusst ausgewogene Formel, die als Einstieg in das Vollkorn-Sauerteigbacken konzipiert ist.",
+      "es": "Una fórmula deliberadamente equilibrada diseñada como punto de entrada a la panificación con masa madre integral.",
+      "fr": "Une formule délibérément équilibrée conçue comme point d'entrée dans la boulangerie au levain aux céréales complètes.",
+      "ro": "O formulă deliberat echilibrată concepută ca punct de intrare în panificația cu maia din cereale integrale."
     }
   },
   "leaven": "sourdough",
@@ -49,14 +57,22 @@
       "key": "flour:wheat-whole",
       "grams": 477,
       "note": {
-        "en": "stoneground, preferred"
+        "en": "stoneground, preferred",
+        "de": "Steinmahl, bevorzugt",
+        "es": "molida a piedra, preferiblemente",
+        "fr": "moulue à la meule de pierre, de préférence",
+        "ro": "măcinată la piatră, preferabil"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 476,
       "note": {
-        "en": "blend of medium- and high-protein bread flour"
+        "en": "blend of medium- and high-protein bread flour",
+        "de": "Mischung aus mittel- und hochproteinhaltigem Brotmehl",
+        "es": "mezcla de harina de pan de proteína media y alta",
+        "fr": "mélange de farine de pain à teneur moyenne et élevée en protéines",
+        "ro": "amestec de făină pentru pâine cu conținut mediu și ridicat de proteine"
       }
     },
     {
@@ -76,7 +92,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {
@@ -257,7 +277,11 @@
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "The source's reserved 100g of autolyse water is read as additional to, not part of, the initial 634g; this matches its own stated 82% hydration."
+      "en": "The source's reserved 100g of autolyse water is read as additional to, not part of, the initial 634g; this matches its own stated 82% hydration.",
+      "de": "Die reservierten 100 g Autolyse-Wasser der Quelle werden als zusätzlich zu den anfänglichen 634 g gelesen, nicht als Teil davon; dies entspricht der selbst angegebenen Hydratation von 82 %.",
+      "es": "Los 100 g de agua de autólisis reservados por la fuente se leen como adicionales a los 634 g iniciales, no como parte de ellos; esto coincide con su propia hidratación declarada del 82 %.",
+      "fr": "Les 100 g d'eau d'autolyse réservés par la source sont lus comme supplémentaires aux 634 g initiaux, non comme en faisant partie; cela correspond à son hydratation annoncée de 82 %.",
+      "ro": "Cei 100 g de apă de autoliză rezervați de sursă sunt considerați suplimentari față de cei 634 g inițiali, nu ca parte a acestora; aceasta corespunde hidratării sale declarate de 82 %."
     }
   },
   "tags": [

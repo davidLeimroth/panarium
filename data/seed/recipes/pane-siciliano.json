@@ -22,10 +22,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Sicily"
+      "en": "Sicily",
+      "de": "Sizilien",
+      "es": "Sicilia",
+      "fr": "Sicile",
+      "ro": "Sicilia"
     },
     "note": {
-      "en": "Traditionally coated in toasted sesame (giuggiulena in Sicilian dialect) and shaped into the wavy 'mafalda' curve."
+      "en": "Traditionally coated in toasted sesame (giuggiulena in Sicilian dialect) and shaped into the wavy 'mafalda' curve.",
+      "de": "Traditionell mit gerostetem Sesam bestreut (giuggiulena im sizilianischen Dialekt) und in die wellige Mafalda-Kurve geformt.",
+      "es": "Tradicionalmente recubierto de sesamo tostado (giuggiulena en dialecto siciliano) y formado en la curva ondulada 'mafalda'.",
+      "fr": "Traditionnellement recouvert de sesame grille (giuggiulena en dialecte sicilien) et faconne en courbe ondulante « mafalda ».",
+      "ro": "Traditional acoperit cu susan prajit (giuggiulena în dialectul sicilian) şi modelat în curba ondulată „mafalda”."
     }
   },
   "leaven": "yeast",
@@ -48,7 +56,11 @@
       "key": "flour:durum",
       "grams": 500,
       "note": {
-        "en": "semola rimacinata di grano duro"
+        "en": "semola rimacinata di grano duro",
+        "de": "Semola rimacinata di grano duro",
+        "es": "semola rimacinata di grano duro",
+        "fr": "semola rimacinata di grano duro",
+        "ro": "semola rimacinata di grano duro"
       }
     },
     {
@@ -71,7 +83,11 @@
       "key": "sesame-seeds",
       "grams": 15,
       "note": {
-        "en": "for the traditional coating, applied after dampening the shaped loaf"
+        "en": "for the traditional coating, applied after dampening the shaped loaf",
+        "de": "fur die traditionelle Bestreuung, aufgetragen nach dem Befeuchten des geformten Laibs",
+        "es": "para el recubrimiento tradicional, aplicado despues de humedecer el pan moldeado",
+        "fr": "pour l'enrobage traditionnel, applique apres avoir humidifie le pain faconne",
+        "ro": "pentru acoperirea traditională, aplicată după umezirea pâinii modelate"
       }
     }
   ],
@@ -79,7 +95,11 @@
     "count": 2,
     "pieceGrams": 429,
     "shape": {
-      "en": "wavy S-shaped 'mafalda' loaf, coated in sesame"
+      "en": "wavy S-shaped 'mafalda' loaf, coated in sesame",
+      "de": "wellenförmiger S-formiger Mafalda-Laib, mit Sesam bestreut",
+      "es": "pan mafalda con forma de S ondulada, recubierto de sesamo",
+      "fr": "pain mafalda en forme de S ondule, enrobe de sesame",
+      "ro": "pâine mafalda în formă de S ondulată, acoperită cu susan"
     }
   },
   "time": {
@@ -120,7 +140,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Durum crumb keeps it from staling as fast as soft-wheat bread; the sesame crust softens first."
+      "en": "Durum crumb keeps it from staling as fast as soft-wheat bread; the sesame crust softens first.",
+      "de": "Durumkrume verhindert das Altbackenwerden schneller als bei Weichweizenbrot; die Sesamkruste wird zuerst weich.",
+      "es": "La miga de trigo duro evita que se ponga duro tan rapido como el pan de trigo blando; la corteza de sesamo se ablanda primero.",
+      "fr": "La mie de ble dur l'empeche de rassir aussi vite qu'un pain de ble tendre ; la croute de sesame ramollit en premier.",
+      "ro": "Miezul de grâu dur îl păstrează proaspăt mai mult decât pâinea de grâu moale; coaja de susan se înmoaie primă."
     }
   },
   "equipment": [
@@ -229,7 +253,11 @@
     "site": "Alessio Farina",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Water averaged from the site's stated 300-350 ml range; the source flags its own process as experimental. Sesame coating and mafalda shaping reflect standard Sicilian practice."
+      "en": "Water averaged from the site's stated 300-350 ml range; the source flags its own process as experimental. Sesame coating and mafalda shaping reflect standard Sicilian practice.",
+      "de": "Wassermenge aus dem angegebenen Bereich von 300-350 ml gemittelt; die Quelle bezeichnet ihr Verfahren selbst als experimentell. Sesambestreuung und Mafalda-Form entsprechen der sizilianischen Standardpraxis.",
+      "es": "Agua promediada del rango de 300-350 ml indicado en la fuente; la fuente califica su proceso como experimental. El recubrimiento de sesamo y la forma mafalda reflejan la practica estandar siciliana.",
+      "fr": "Eau moyennee a partir de la fourchette 300-350 ml indiquee par la source ; la source qualifie son procede d'experimental. L'enrobage de sesame et le faconnage mafalda refletent la pratique sicilienne standard.",
+      "ro": "Apă mediată din intervalul 300-350 ml declarat de sursă; sursa îşi califică propriul proces ca experimental. Acoperirea cu susan şi modelarea mafalda reflectă practica standard siciliană."
     }
   },
   "tags": [

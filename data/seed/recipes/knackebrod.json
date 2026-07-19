@@ -22,10 +22,18 @@
   "origin": {
     "country": "SE",
     "region": {
-      "en": "originally central Sweden"
+      "en": "originally central Sweden",
+      "de": "ursprünglich Mittelschweden",
+      "es": "originalmente Suecia central",
+      "fr": "originaire du centre de la Suède",
+      "ro": "originar din Suedia centrală"
     },
     "note": {
-      "en": "Dates to at least the 6th century; the center hole let loaves be strung on poles for winter storage."
+      "en": "Dates to at least the 6th century; the center hole let loaves be strung on poles for winter storage.",
+      "de": "Stammt mindestens aus dem 6. Jahrhundert; das Mittelloch ermöglichte es, die Brote für die Winterlagerung auf Stangen aufzureihen.",
+      "es": "Data al menos del siglo VI; el agujero central permitía ensartar los panes en varas para almacenarlos en invierno.",
+      "fr": "Remonte au moins au VIe siècle; le trou central permettait d'enfiler les pains sur des perches pour le stockage hivernal.",
+      "ro": "Datează de cel puțin din secolul al VI-lea; gaura din centru permitea înșirarea pâinilor pe prăjini pentru depozitarea de iarnă."
     }
   },
   "leaven": "yeast",
@@ -57,7 +65,11 @@
       "key": "flour:rye",
       "grams": 102,
       "note": {
-        "en": "dark rye flour"
+        "en": "dark rye flour",
+        "de": "dunkles Roggenmehl",
+        "es": "harina de centeno oscura",
+        "fr": "farine de seigle foncée",
+        "ro": "făină de secară închisă"
       }
     },
     {
@@ -88,7 +100,11 @@
       "key": "butter",
       "grams": 28,
       "note": {
-        "en": "melted, plus extra for brushing"
+        "en": "melted, plus extra for brushing",
+        "de": "geschmolzen, plus extra zum Bestreichen",
+        "es": "derretida, más extra para pincelar",
+        "fr": "fondu, plus un supplément pour badigeonner",
+        "ro": "topit, plus suplimentar pentru uns"
       }
     },
     {
@@ -106,7 +122,11 @@
     "count": 6,
     "pieceGrams": 55,
     "shape": {
-      "en": "thin 20-23cm disc with a center hole"
+      "en": "thin 20-23cm disc with a center hole",
+      "de": "dünne Scheibe von 20–23 cm mit Mittelloch",
+      "es": "disco fino de 20–23 cm con un agujero central",
+      "fr": "disque fin de 20–23 cm avec un trou central",
+      "ro": "disc subțire de 20–23 cm cu o gaură în centru"
     }
   },
   "time": {
@@ -147,7 +167,11 @@
     "freshDays": 90,
     "freezes": false,
     "note": {
-      "en": "Keeps for months in an airtight tin at room temperature; that longevity is the whole point."
+      "en": "Keeps for months in an airtight tin at room temperature; that longevity is the whole point.",
+      "de": "Hält sich monatelang in einer luftdichten Dose bei Raumtemperatur; genau darum geht es.",
+      "es": "Se conserva durante meses en una lata hermética a temperatura ambiente; esa longevidad es el objetivo.",
+      "fr": "Se conserve des mois dans une boîte hermétique à température ambiante; c'est tout l'intérêt.",
+      "ro": "Se păstrează luni de zile într-o cutie ermetică la temperatura camerei; tocmai asta este ideea."
     }
   },
   "equipment": [
@@ -272,7 +296,11 @@
     "site": "True North Kitchen",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Converted volume measures to grams with standard conversions; oats counted within total flour for baker's percentages."
+      "en": "Converted volume measures to grams with standard conversions; oats counted within total flour for baker's percentages.",
+      "de": "Volumenmaße mit Standardumrechnungen in Gramm umgewandelt; Hafer in der gesamten Mehlmenge für Bäckerprozente mitgezählt.",
+      "es": "Medidas de volumen convertidas a gramos con conversiones estándar; avena contada dentro del total de harina para los porcentajes de panadero.",
+      "fr": "Mesures de volume converties en grammes avec des conversions standard; l'avoine comptée dans le total de farine pour les pourcentages de boulanger.",
+      "ro": "Măsurile de volum convertite în grame cu conversii standard; ovăzul numărat în totalul de făină pentru procentele brutarului."
     }
   },
   "tags": [

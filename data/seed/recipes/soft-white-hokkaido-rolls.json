@@ -21,10 +21,18 @@
   "origin": {
     "country": "JP",
     "region": {
-      "en": "Hokkaido; sold nationwide and exported across East and Southeast Asia"
+      "en": "Hokkaido; sold nationwide and exported across East and Southeast Asia",
+      "de": "Hokkaido; landesweit verkauft und nach Ost- und Südostasien exportiert",
+      "es": "Hokkaido; vendido en todo el país y exportado a toda Asia Oriental y Sudoriental",
+      "fr": "Hokkaido ; vendu dans tout le pays et exporté dans toute l’Asie de l’Est et du Sud-Est",
+      "ro": "Hokkaido; vândut în toată țara și exportat în Asia de Est și de Sud-Est"
     },
     "note": {
-      "en": "Marketed worldwide under the Hokkaido name for the island's dairy reputation, even when made far from Japan."
+      "en": "Marketed worldwide under the Hokkaido name for the island's dairy reputation, even when made far from Japan.",
+      "de": "Weltweit unter dem Namen Hokkaido für den Ruf der Insel als Milchwirtschaftsregion vermarktet, auch wenn es weit weg von Japan hergestellt wird.",
+      "es": "Comercializado mundialmente bajo el nombre de Hokkaido por la reputación lechera de la isla, incluso cuando se elabora lejos de Japón.",
+      "fr": "Commercialisé dans le monde entier sous le nom Hokkaido pour la réputation laitière de l’île, même lorsqu’il est fabriqué loin du Japon.",
+      "ro": "Comercializat la nivel mondial sub numele Hokkaido datorită reputației lactate a insulei, chiar și atunci când este făcut departe de Japonia."
     }
   },
   "leaven": "yeast",
@@ -48,28 +56,44 @@
       "key": "flour:wheat-white",
       "grams": 374,
       "note": {
-        "en": "bread flour: 24g cooked into the tangzhong, 350g in the final dough"
+        "en": "bread flour: 24g cooked into the tangzhong, 350g in the final dough",
+        "de": "Brotmehl: 24 g in den Tangzhong eingekocht, 350 g im fertigen Teig",
+        "es": "harina de pan: 24 g cocida en el tangzhong, 350 g en la masa final",
+        "fr": "farine à pain : 24 g cuite dans le tangzhong, 350 g dans la pâte finale",
+        "ro": "făină de pâine: 24 g gătită în tangzhong, 350 g în aluatul final"
       }
     },
     {
       "key": "water",
       "grams": 59,
       "note": {
-        "en": "in the tangzhong"
+        "en": "in the tangzhong",
+        "de": "im Tangzhong",
+        "es": "en el tangzhong",
+        "fr": "dans le tangzhong",
+        "ro": "în tangzhong"
       }
     },
     {
       "key": "milk",
       "grams": 118,
       "note": {
-        "en": "whole milk: 59g in the tangzhong, 59g in the dough"
+        "en": "whole milk: 59g in the tangzhong, 59g in the dough",
+        "de": "Vollmilch: 59 g im Tangzhong, 59 g im Teig",
+        "es": "leche entera: 59 g en el tangzhong, 59 g en la masa",
+        "fr": "lait entier : 59 g dans le tangzhong, 59 g dans la pâte",
+        "ro": "lapte integral: 59 g în tangzhong, 59 g în aluat"
       }
     },
     {
       "key": "milk",
       "grams": 16,
       "note": {
-        "en": "dry milk powder, in the dough; not counted toward hydration"
+        "en": "dry milk powder, in the dough; not counted toward hydration",
+        "de": "Milchpulver, im Teig; nicht zur Hydratation gezählt",
+        "es": "leche en polvo, en la masa; no contabilizado en la hidratación",
+        "fr": "lait en poudre, dans la pâte ; non compté dans l’hydratation",
+        "ro": "praf de lapte, în aluat; nu se numără la hidratare"
       }
     },
     {
@@ -88,14 +112,22 @@
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "1 large egg"
+        "en": "1 large egg",
+        "de": "1 großes Ei",
+        "es": "1 huevo grande",
+        "fr": "1 gros œuf",
+        "ro": "1 ou mare"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "cubed, softened"
+        "en": "cubed, softened",
+        "de": "gewürfelt, weich",
+        "es": "en cubos, ablandada",
+        "fr": "en dés, ramolli",
+        "ro": "cuburi, înmuiat"
       }
     }
   ],
@@ -103,7 +135,11 @@
     "count": 9,
     "pieceGrams": 85,
     "shape": {
-      "en": "square pull-apart roll, baked touching in a pan, ~8 cm"
+      "en": "square pull-apart roll, baked touching in a pan, ~8 cm",
+      "de": "quadratisches Abzupfbrötchen, in der Form aneinandergebacken, ~8 cm",
+      "es": "panecillo cuadrado para desmenuzar, horneado tocándose en el molde, ~8 cm",
+      "fr": "petit pain carré à effeuiller, cuit en contact dans le moule, ~8 cm",
+      "ro": "chiflă pătrată care se desprinde, coptă lipită în tavă, ~8 cm"
     }
   },
   "time": {
@@ -146,7 +182,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Pull-apart rolls share moisture with their neighbors and stay soft for several days wrapped; freezes and reheats well."
+      "en": "Pull-apart rolls share moisture with their neighbors and stay soft for several days wrapped; freezes and reheats well.",
+      "de": "Abzupfbrötchen teilen Feuchtigkeit mit ihren Nachbarn und bleiben eingewickelt mehrere Tage weich; lassen sich gut einfrieren und wieder aufwärmen.",
+      "es": "Los panecillos para desmenuzar comparten humedad con sus vecinos y se mantienen suaves durante varios días envueltos; se congelan y recalentan bien.",
+      "fr": "Les petits pains à effeuiller partagent l’humidité avec leurs voisins et restent moelleux plusieurs jours emballés ; se congèlent et se réchauffent bien.",
+      "ro": "Chiflele care se desprind împart umezeala cu vecinii și rămân moi câteva zile învelite; se congelează și reîncălzesc bine."
     }
   },
   "equipment": [
@@ -272,7 +312,11 @@
     "site": "Hungry Huy",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Fluid-ounce measurements converted to grams using standard density; shaped and panned as pull-apart rolls per the source, distinguishing this from this atlas's individually spaced tangzhong milk bun."
+      "en": "Fluid-ounce measurements converted to grams using standard density; shaped and panned as pull-apart rolls per the source, distinguishing this from this atlas's individually spaced tangzhong milk bun.",
+      "de": "Flüssigunzen-Maße mit Standarddichte in Gramm umgerechnet; als Abzupfbrötchen geformt und in die Form gesetzt gemäß der Quelle, um dies vom einzeln angeordneten Tangzhong-Milchbrötchen dieses Atlasses zu unterscheiden.",
+      "es": "Medidas en onzas líquidas convertidas a gramos usando densidad estándar; formados y colocados en el molde como panecillos para desmenuzar según la fuente, distinguiendo esto del panecillo de leche tangzhong individualmente espaciado de este atlas.",
+      "fr": "Mesures en onces liquides converties en grammes en utilisant la densité standard ; façonnés et placés dans le moule en petits pains à effeuiller selon la source, distinguant ainsi cette recette du petit pain au lait tangzhong individuellement espacé de cet atlas.",
+      "ro": "Măsurile în uncii lichide convertite în grame folosind densitatea standard; modelate și așezate în tavă ca chifle care se desprind conform sursei, diferențiind aceasta de chifla cu lapte tangzhong spațiată individual a acestui atlas."
     }
   },
   "tags": [

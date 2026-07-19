@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "San Francisco Bay Area, California"
+      "en": "San Francisco Bay Area, California",
+      "de": "San Francisco Bay Area, Kalifornien",
+      "es": "Área de la Bahía de San Francisco, California",
+      "fr": "Région de la baie de San Francisco, Californie",
+      "ro": "Zona Golfului San Francisco, California"
     },
     "note": {
-      "en": "The tang comes from a specific wild-yeast/bacteria partnership favored by the Bay Area's cool, foggy climate, first studied and named after the city in the 1970s."
+      "en": "The tang comes from a specific wild-yeast/bacteria partnership favored by the Bay Area's cool, foggy climate, first studied and named after the city in the 1970s.",
+      "de": "Die Säure stammt von einer spezifischen Wildhefe-Bakterien-Symbiose, die vom kühlen, nebligen Klima der Bay Area begünstigt wird, erstmals in den 1970er Jahren untersucht und nach der Stadt benannt.",
+      "es": "El característico sabor ácido proviene de una asociación específica de levadura salvaje y bacterias favorecida por el clima fresco y nublado del Área de la Bahía, estudiada y nombrada por primera vez en honor a la ciudad en los años 1970.",
+      "fr": "L'acidité provient d'un partenariat spécifique entre levure sauvage et bactéries favorisé par le climat frais et brumeux de la baie, étudié et nommé d'après la ville dans les années 1970.",
+      "ro": "Acrișoara provine dintr-un parteneriat specific de drojdie sălbatică și bacterii favorizat de climatul răcoros și cețos al zonei golfului, studiat și numit după oraș în anii 1970."
     }
   },
   "leaven": "sourdough",
@@ -50,7 +58,11 @@
       "key": "flour:wheat-white",
       "grams": 390,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
@@ -65,7 +77,11 @@
       "key": "sourdough-starter",
       "grams": 24,
       "note": {
-        "en": "rye-seeded culture"
+        "en": "rye-seeded culture",
+        "de": "mit Roggen angezüchtete Kultur",
+        "es": "cultivo iniciado con centeno",
+        "fr": "culture ensemencée au seigle",
+        "ro": "cultură pornită pe secară"
       }
     },
     {
@@ -77,7 +93,11 @@
     "count": 1,
     "pieceGrams": 700,
     "shape": {
-      "en": "batard or boule"
+      "en": "batard or boule",
+      "de": "Bâtard oder Boule",
+      "es": "batard o boule",
+      "fr": "batard ou boule",
+      "ro": "batard sau boule"
     }
   },
   "time": {
@@ -118,7 +138,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The sourness deepens over the first day or two."
+      "en": "The sourness deepens over the first day or two.",
+      "de": "Die Säure wird im Laufe des ersten oder zweiten Tages intensiver.",
+      "es": "La acidez se intensifica durante el primer día o dos.",
+      "fr": "L'acidité s'intensifie au cours du premier ou des deux premiers jours.",
+      "ro": "Aciditatea se adâncește în prima zi sau două."
     }
   },
   "equipment": [
@@ -260,7 +284,11 @@
     "site": "Weekend Bakery",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Baker's percentages recomputed to include the levain-building flour and water in the 100% flour base per house convention."
+      "en": "Baker's percentages recomputed to include the levain-building flour and water in the 100% flour base per house convention.",
+      "de": "Backprozente neu berechnet, um das Mehl und Wasser für den Levain in die 100-%-Mehlbasis einzubeziehen, gemäß der Konvention dieses Atlas.",
+      "es": "Porcentajes de panadero recalculados para incluir la harina y el agua de construcción del levain en la base 100% de harina según la convención de este atlas.",
+      "fr": "Pourcentages boulangers recalculés pour inclure la farine et l'eau de construction du levain dans la base de farine à 100% selon la convention de cet atlas.",
+      "ro": "Procentele de brutărie recalculate pentru a include făina și apa de construcție a levain-ului în baza de 100% făină conform convenției acestui atlas."
     }
   },
   "tags": [

@@ -22,10 +22,18 @@
   "origin": {
     "country": "VN",
     "region": {
-      "en": "Saigon (Ho Chi Minh City) and nationwide"
+      "en": "Saigon (Ho Chi Minh City) and nationwide",
+      "de": "Saigon (Ho-Chi-Minh-Stadt) und landesweit",
+      "es": "Saigón (Ciudad Ho Chi Minh) y en todo el país",
+      "fr": "Saigon (Hô-Chi-Minh-Ville) et dans tout le pays",
+      "ro": "Saigon (Ho Și Min) și în toată țara"
     },
     "note": {
-      "en": "Adapted from the French colonial baguette introduced in the mid-1800s; wartime wheat shortages later pushed some bakers toward lighter, sometimes rice-flour-blended doughs, shaping its thin-crusted character."
+      "en": "Adapted from the French colonial baguette introduced in the mid-1800s; wartime wheat shortages later pushed some bakers toward lighter, sometimes rice-flour-blended doughs, shaping its thin-crusted character.",
+      "de": "Adaptiert von der französischen Kolonialbaguette, die Mitte des 19. Jahrhunderts eingeführt wurde; kriegsbedingte Weizenknappheit trieb später einige Bäcker zu leichteren, manchmal mit Reismehl gemischten Teigen, was seinen dünnkrustigen Charakter prägte.",
+      "es": "Adaptado de la baguette colonial francesa introducida a mediados del siglo XIX; la escasez de trigo en tiempos de guerra llevó más tarde a algunos panaderos a masas más ligeras, a veces mezcladas con harina de arroz, moldeando su característica corteza fina.",
+      "fr": "Adapté de la baguette coloniale française introduite au milieu du XIXe siècle; les pénuries de blé en temps de guerre ont ensuite poussé certains boulangers vers des pâtes plus légères, parfois mélangées à de la farine de riz, façonnant son caractère à croûte fine.",
+      "ro": "Adaptată de la bagheta colonială franceză introdusă la mijlocul anilor 1800; lipsa de grâu din timpul războiului a împins ulterior unii brutari către aluaturi mai ușoare, uneori amestecate cu făină de orez, modelând caracterul său cu crustă subțire."
     }
   },
   "leaven": "yeast",
@@ -48,7 +56,11 @@
       "key": "flour:wheat-white",
       "grams": 375,
       "note": {
-        "en": "bread flour, high protein"
+        "en": "bread flour, high protein",
+        "de": "Brotmehl, hoher Proteingehalt",
+        "es": "harina de pan, alta proteína",
+        "fr": "farine à pain, haute teneur en protéines",
+        "ro": "făină pentru pâine, cu proteine ridicate"
       }
     },
     {
@@ -72,7 +84,11 @@
     "count": 6,
     "pieceGrams": 102,
     "shape": {
-      "en": "thin torpedo roll, about 10-12 inches"
+      "en": "thin torpedo roll, about 10-12 inches",
+      "de": "dünne Torpedo-Brötchen, etwa 25–30 cm",
+      "es": "pan fino en forma de torpedo, unos 25–30 cm",
+      "fr": "petit pain torpille fin, environ 25–30 cm",
+      "ro": "chiflă subțire tip torpilă, aproximativ 25–30 cm"
     }
   },
   "time": {
@@ -113,7 +129,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best within hours of baking while the crust still crackles; classically bought fresh for same-day banh mi."
+      "en": "Best within hours of baking while the crust still crackles; classically bought fresh for same-day banh mi.",
+      "de": "Am besten innerhalb weniger Stunden nach dem Backen, solange die Kruste noch knusprig ist; traditionell frisch für das Banh Mi am selben Tag gekauft.",
+      "es": "Mejor dentro de las horas de horneado mientras la corteza aún cruje; clásicamente se compra fresco para el banh mi del día.",
+      "fr": "Meilleur dans les heures suivant la cuisson pendant que la croûte craque encore; classiquement acheté frais pour le banh mi du jour.",
+      "ro": "Cel mai bun în câteva ore de la coacere, cât crusta încă foșnește; cumpărat clasic proaspăt pentru banh mi-ul din aceeași zi."
     }
   },
   "equipment": [
@@ -222,7 +242,11 @@
     "site": "Full of Plants",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Simplified to the core lean dough; bread improver, vitamin C powder and butter brushing omitted as non-traditional additions."
+      "en": "Simplified to the core lean dough; bread improver, vitamin C powder and butter brushing omitted as non-traditional additions.",
+      "de": "Auf den kernmageren Teig vereinfacht; Brotverbesserer, Vitamin-C-Pulver und Butterbestreichung als nichttraditionelle Zutaten weggelassen.",
+      "es": "Simplificado a la masa magra básica; mejorante de pan, vitamina C en polvo y pincelado de mantequilla omitidos por no ser añadidos tradicionales.",
+      "fr": "Simplifié à la pâte maigre de base; améliorant à pain, vitamine C en poudre et badigeon de beurre omis car non traditionnels.",
+      "ro": "Simplificat la aluatul slab de bază; ameliorator de pâine, pudră de vitamină C și ungere cu unt omise ca adaosuri netradiționale."
     }
   },
   "tags": [

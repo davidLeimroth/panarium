@@ -22,10 +22,18 @@
   "origin": {
     "country": "CN",
     "region": {
-      "en": "Central Tibet"
+      "en": "Central Tibet",
+      "de": "Zentraltibet",
+      "es": "Tíbet central",
+      "fr": "Tibet central",
+      "ro": "Tibetul Central"
     },
     "note": {
-      "en": "Now made almost exclusively with white or whole wheat flour; older versions before modern milling used whole wheat or barley."
+      "en": "Now made almost exclusively with white or whole wheat flour; older versions before modern milling used whole wheat or barley.",
+      "de": "Heute fast ausschließlich mit weißem oder Vollkornweizenmehl hergestellt; ältere Versionen vor der modernen Vermahlung verwendeten Vollkornweizen oder Gerste.",
+      "es": "Ahora hecho casi exclusivamente con harina blanca o integral; las versiones más antiguas antes de la molienda moderna usaban trigo integral o cebada.",
+      "fr": "Aujourd'hui fait presque exclusivement avec de la farine blanche ou complète; les versions plus anciennes avant la mouture moderne utilisaient du blé complet ou de l'orge.",
+      "ro": "Acum făcut aproape exclusiv cu făină albă sau integrală de grâu; versiunile mai vechi, înainte de măcinarea modernă, foloseau grâu integral sau orz."
     }
   },
   "leaven": "chemical",
@@ -63,7 +71,11 @@
       "key": "butter",
       "grams": 15,
       "note": {
-        "en": "for pan-frying"
+        "en": "for pan-frying",
+        "de": "zum Braten in der Pfanne",
+        "es": "para freír en sartén",
+        "fr": "pour la poêle",
+        "ro": "pentru prăjit în tigaie"
       }
     }
   ],
@@ -71,7 +83,11 @@
     "count": 6,
     "pieceGrams": 73,
     "shape": {
-      "en": "thick round disc, pan-fried, ~1 cm thick, 12-15 cm diameter"
+      "en": "thick round disc, pan-fried, ~1 cm thick, 12-15 cm diameter",
+      "de": "Dicke runde Scheibe, in der Pfanne gebraten, etwa 1 cm dick, 12-15 cm Durchmesser",
+      "es": "Disco redondo grueso, frito en sartén, unos 1 cm de grosor, 12-15 cm de diámetro",
+      "fr": "Disque rond épais, poêlé, environ 1 cm d'épaisseur, 12-15 cm de diamètre",
+      "ro": "Disc rotund gros, prăjit în tigaie, aproximativ 1 cm grosime, 12-15 cm diametru"
     }
   },
   "time": {
@@ -111,7 +127,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Keeps at room temperature about two days; toast on a dry pan to refresh, especially good with butter and jam."
+      "en": "Keeps at room temperature about two days; toast on a dry pan to refresh, especially good with butter and jam.",
+      "de": "Hält sich bei Raumtemperatur etwa zwei Tage; in einer trockenen Pfanne toasten, um es aufzufrischen, besonders gut mit Butter und Marmelade.",
+      "es": "Se conserva a temperatura ambiente unos dos días; tostar en una sartén seca para refrescar, especialmente bueno con mantequilla y mermelada.",
+      "fr": "Se conserve à température ambiante environ deux jours; toaster à la poêle à sec pour le rafraîchir, particulièrement bon avec du beurre et de la confiture.",
+      "ro": "Se păstrează la temperatura camerei aproximativ două zile; prăjește-l într-o tigaie uscată pentru a-l reîmprospăta, deosebit de bun cu unt și gem."
     }
   },
   "equipment": [
@@ -208,10 +228,10 @@
       },
       "summary": {
         "en": "Best eaten warm, split and spread with butter or jam, or alongside a Tibetan curry or stew.",
-        "de": "Warm mit Butter, Marmelade oder zu würzigen tibetischen Gerichten servieren.",
-        "es": "Servir caliente con mantequilla, mermelada, o junto a platos tibetanos picantes.",
-        "fr": "Servir chaud avec du beurre, de la confiture, ou en accompagnement de plats tibétains épicés.",
-        "ro": "Servește cald cu unt, gem, sau alături de mâncăruri tibetane picante."
+        "de": "Am besten warm genießen, gespalten und mit Butter oder Marmelade bestrichen, oder zu einem tibetischen Curry oder Eintopf.",
+        "es": "Mejor comer caliente, partido y untado con mantequilla o mermelada, o junto a un curry o guiso tibetano.",
+        "fr": "Meilleur dégusté chaud, fendu et tartiné de beurre ou de confiture, ou accompagné d'un curry ou d'un ragoût tibétain.",
+        "ro": "Cel mai bun cald, tăiat și uns cu unt sau gem, sau alături de un curry tibetan sau o tocană."
       }
     }
   ],
@@ -220,7 +240,11 @@
     "site": "Priya's Versatile Recipes",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Salt and water amounts estimated since the source gave them only as 'to taste'/'as needed'; a small amount of pan-frying butter added as an optional cooking fat per the source's own note."
+      "en": "Salt and water amounts estimated since the source gave them only as 'to taste'/'as needed'; a small amount of pan-frying butter added as an optional cooking fat per the source's own note.",
+      "de": "Salz- und Wassermengen geschätzt, da die Quelle sie nur als nach Geschmack/nach Bedarf angab; eine kleine Menge Butter zum Braten in der Pfanne als optionales Kochfett gemäß der Anmerkung der Quelle hinzugefügt.",
+      "es": "Cantidades de sal y agua estimadas ya que la fuente las dio solo como 'al gusto'/'según sea necesario'; se añadió una pequeña cantidad de mantequilla para freír en sartén como grasa de cocción opcional según la nota de la propia fuente.",
+      "fr": "Quantités de sel et d'eau estimées car la source ne les donnait qu'au goût/selon besoin; une petite quantité de beurre pour la friture à la poêle ajoutée comme matière grasse de cuisson optionnelle selon la propre note de la source.",
+      "ro": "Cantitățile de sare și apă estimate, deoarece sursa le-a dat doar ca 'după gust'/'după necesitate'; o cantitate mică de unt pentru prăjit în tigaie adăugată ca grăsime opțională de gătit conform notei proprii a sursei."
     }
   },
   "tags": [

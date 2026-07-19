@@ -22,10 +22,18 @@
   "origin": {
     "country": "PL",
     "region": {
-      "en": "Białystok, and the Jewish bakeries of New York City"
+      "en": "Białystok, and the Jewish bakeries of New York City",
+      "de": "Białystok und die jüdischen Bäckereien von New York City",
+      "es": "Białystok y las panaderías judías de la ciudad de Nueva York",
+      "fr": "Białystok et les boulangeries juives de New York",
+      "ro": "Białystok și brutăriile evreiești din New York City"
     },
     "note": {
-      "en": "Most of Białystok's Jewish bakers perished in the Holocaust, and the bialy nearly vanished with them; it survives today mainly through New York's delis and bakeries."
+      "en": "Most of Białystok's Jewish bakers perished in the Holocaust, and the bialy nearly vanished with them; it survives today mainly through New York's delis and bakeries.",
+      "de": "Die meisten jüdischen Bäcker von Białystok kamen im Holocaust ums Leben, und der Bialy verschwand fast mit ihnen; er überlebt heute hauptsächlich in New Yorks Delis und Bäckereien.",
+      "es": "La mayoría de los panaderos judíos de Białystok perecieron en el Holocausto, y el bialy casi desapareció con ellos; hoy sobrevive principalmente en los delis y panaderías de Nueva York.",
+      "fr": "La plupart des boulangers juifs de Białystok ont péri dans la Shoah, et le bialy a failli disparaître avec eux; il survit aujourd'hui principalement dans les delis et boulangeries de New York.",
+      "ro": "Cei mai mulți dintre brutarii evrei din Białystok au pierit în Holocaust, iar bialy-ul aproape că a dispărut odată cu ei; astăzi supraviețuiește mai ales prin delicatese și brutăriile din New York."
     }
   },
   "leaven": "yeast",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-white",
       "grams": 840,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Weizenmehl Type 550 (Brotmehl)",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină pentru pâine"
       }
     },
     {
@@ -72,7 +84,11 @@
       },
       "grams": 1,
       "note": {
-        "en": "in the dough, for background flavor"
+        "en": "in the dough, for background flavor",
+        "de": "im Teig, für eine dezente Geschmacksnote",
+        "es": "en la masa, para un sabor de fondo",
+        "fr": "dans la pâte, pour une saveur de fond",
+        "ro": "în aluat, pentru o aromă de fundal"
       }
     },
     {
@@ -85,21 +101,33 @@
       },
       "grams": 150,
       "note": {
-        "en": "sautéed briefly for the filling"
+        "en": "sautéed briefly for the filling",
+        "de": "kurz angebraten für die Füllung",
+        "es": "salteado brevemente para el relleno",
+        "fr": "brièvement revenu pour la garniture",
+        "ro": "călit scurt pentru umplutură"
       }
     },
     {
       "key": "poppy-seeds",
       "grams": 3,
       "note": {
-        "en": "in the filling"
+        "en": "in the filling",
+        "de": "in der Füllung",
+        "es": "en el relleno",
+        "fr": "dans la garniture",
+        "ro": "în umplutură"
       }
     },
     {
       "key": "olive-oil",
       "grams": 14,
       "note": {
-        "en": "for softening the onions"
+        "en": "for softening the onions",
+        "de": "zum Weichen der Zwiebeln",
+        "es": "para ablandar las cebollas",
+        "fr": "pour ramollir les oignons",
+        "ro": "pentru înmuierea cepei"
       }
     }
   ],
@@ -107,7 +135,11 @@
     "count": 12,
     "pieceGrams": 128,
     "shape": {
-      "en": "flattened disc with a dimpled, onion-filled center"
+      "en": "flattened disc with a dimpled, onion-filled center",
+      "de": "flache Scheibe mit vertiefter, mit Zwiebeln gefüllter Mitte",
+      "es": "disco aplanado con un centro hundido relleno de cebolla",
+      "fr": "disque aplati avec un centre creux rempli d'oignons",
+      "ro": "disc aplatizat cu un centru adâncit umplut cu ceapă"
     }
   },
   "time": {
@@ -149,7 +181,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh or lightly toasted the next day; freezes and reheats well."
+      "en": "Best fresh or lightly toasted the next day; freezes and reheats well.",
+      "de": "Am besten frisch oder am nächsten Tag leicht getoastet; lässt sich gut einfrieren und aufwärmen.",
+      "es": "Mejor fresco o ligeramente tostado al día siguiente; se congela y recalienta bien.",
+      "fr": "Meilleur frais ou légèrement toasté le lendemain; se congèle et se réchauffe bien.",
+      "ro": "Cel mai bun proaspăt sau ușor prăjit a doua zi; se congrează și se reîncălzește bine."
     }
   },
   "equipment": [
@@ -259,7 +295,11 @@
     "author": "Emily Teel",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Ratios kept as sourced; pan-dusting flour and ground pepper omitted from the ingredient list for brevity."
+      "en": "Ratios kept as sourced; pan-dusting flour and ground pepper omitted from the ingredient list for brevity.",
+      "de": "Verhältnisse wie aus der Quelle übernommen; Mehl zum Bestäuben und gemahlener Pfeffer wurden der Kürze halber aus der Zutatenliste gestrichen.",
+      "es": "Proporciones mantenidas según la fuente; harina para espolvorear el molde y pimienta molida omitidas de la lista de ingredientes por brevedad.",
+      "fr": "Proportions conservées telles quelles; farine de saupoudrage du moule et poivre moulu omis de la liste d'ingrédients par souci de concision.",
+      "ro": "Proporțiile păstrate ca în sursă; făina de presărat tava și piperul măcinat omise din lista de ingrediente pentru concizie."
     }
   },
   "tags": [

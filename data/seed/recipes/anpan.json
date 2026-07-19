@@ -22,10 +22,18 @@
   "origin": {
     "country": "JP",
     "region": {
-      "en": "Tokyo, nationwide since the Meiji era"
+      "en": "Tokyo, nationwide since the Meiji era",
+      "de": "Tokio, seit der Meiji-Zeit landesweit",
+      "es": "Tokio, en todo el país desde la era Meiji",
+      "fr": "Tokyo, dans tout le pays depuis l'ère Meiji",
+      "ro": "Tokyo, în toată țara din era Meiji"
     },
     "note": {
-      "en": "Created in 1874 at the Kimuraya bakery; considered the first truly Japanese bread and still one of the most common kashipan (sweet breads)."
+      "en": "Created in 1874 at the Kimuraya bakery; considered the first truly Japanese bread and still one of the most common kashipan (sweet breads).",
+      "de": "1874 in der Bäckerei Kimuraya kreiert; gilt als das erste echt japanische Brot und ist immer noch eines der verbreitetsten Kashipan (süße Hefegebäcke).",
+      "es": "Creado en 1874 en la panadería Kimuraya; considerado el primer pan verdaderamente japonés y sigue siendo uno de los kashipan (panes dulces) más comunes.",
+      "fr": "Créé en 1874 à la boulangerie Kimuraya; considéré comme le premier pain véritablement japonais et encore l'un des kashipan (pains sucrés) les plus courants.",
+      "ro": "Creat în 1874 la brutăria Kimuraya; considerat prima pâine cu adevărat japoneză și încă unul dintre cele mai comune kashipan (pâini dulci)."
     }
   },
   "leaven": "yeast",
@@ -49,7 +57,11 @@
       "key": "flour:wheat-white",
       "grams": 260,
       "note": {
-        "en": "225g bread flour + 35g cake flour"
+        "en": "225g bread flour + 35g cake flour",
+        "de": "225 g Brotmehl + 35 g Kuchenmehl",
+        "es": "225 g de harina de pan + 35 g de harina de repostería",
+        "fr": "225 g de farine à pain + 35 g de farine à gâteau",
+        "ro": "225 g făină pentru pâine + 35 g făină pentru prăjituri"
       }
     },
     {
@@ -90,7 +102,11 @@
       },
       "grams": 280,
       "note": {
-        "en": "35g per bun; store-bought or homemade"
+        "en": "35g per bun; store-bought or homemade",
+        "de": "35 g pro Brötchen; gekauft oder selbstgemacht",
+        "es": "35 g por bollo; comprado o casero",
+        "fr": "35 g par petit pain; du commerce ou maison",
+        "ro": "35 g per chiflă; cumpărat sau de casă"
       }
     }
   ],
@@ -98,7 +114,11 @@
     "count": 8,
     "pieceGrams": 98,
     "shape": {
-      "en": "filled round bun, sesame-topped, ~8 cm"
+      "en": "filled round bun, sesame-topped, ~8 cm",
+      "de": "gefülltes rundes Brötchen, mit Sesam bestreut, ~8 cm",
+      "es": "bollo redondo relleno, cubierto de sésamo, ~8 cm",
+      "fr": "petit pain rond fourré, garni de sésame, ~8 cm",
+      "ro": "chiflă rotundă umplută, cu susan deasupra, ~8 cm"
     }
   },
   "time": {
@@ -141,7 +161,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best day-of, still soft from the anko's moisture; reheat briefly in a toaster oven. Freezes well either unfilled or filled."
+      "en": "Best day-of, still soft from the anko's moisture; reheat briefly in a toaster oven. Freezes well either unfilled or filled.",
+      "de": "Am besten am Tag der Zubereitung, noch weich von der Feuchtigkeit des Anko; kurz im Toasterofen aufwärmen. Lässt sich sowohl gefüllt als auch ungefüllt gut einfrieren.",
+      "es": "Mejor el mismo día, aún blando por la humedad del anko; recalienta brevemente en un horno tostador. Se congela bien, relleno o sin rellenar.",
+      "fr": "Meilleur le jour même, encore moelleux grâce à l'humidité de l'anko; réchauffer brièvement au four grille-pain. Se congèle bien, farci ou non.",
+      "ro": "Cel mai bun în ziua respectivă, încă moale de la umiditatea anko; reîncălzește scurt într-un cuptor toaster. Se congèlează bine, umplut sau neumplut."
     }
   },
   "equipment": [
@@ -267,7 +291,11 @@
     "site": "Just One Cookbook",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Salt recalculated from Diamond Crystal kosher salt's lower density (roughly 2.8 g/tsp) rather than the source's rounded 6g figure."
+      "en": "Salt recalculated from Diamond Crystal kosher salt's lower density (roughly 2.8 g/tsp) rather than the source's rounded 6g figure.",
+      "de": "Salz auf Basis der geringeren Dichte von Diamond-Crystal-Koshersalz (etwa 2,8 g/TL) neu berechnet, statt des gerundeten Werts von 6 g aus der Quelle.",
+      "es": "Sal recalculada a partir de la menor densidad de la sal kosher Diamond Crystal (aproximadamente 2,8 g/cucharadita) en lugar de los 6 g redondeados de la fuente.",
+      "fr": "Sel recalculé d'après la densité plus faible du sel kasher Diamond Crystal (environ 2,8 g/c.à.c.) plutôt que le chiffre arrondi de 6 g de la source.",
+      "ro": "Sarea recalculată pe baza densității mai mici a sării kosher Diamond Crystal (aproximativ 2,8 g/linguriță), nu cifra rotunjită de 6 g din sursă."
     }
   },
   "tags": [

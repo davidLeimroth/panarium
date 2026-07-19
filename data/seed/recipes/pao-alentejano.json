@@ -18,10 +18,18 @@
   "origin": {
     "country": "PT",
     "region": {
-      "en": "Alentejo"
+      "en": "Alentejo",
+      "de": "Alentejo",
+      "es": "Alentejo",
+      "fr": "Alentejo",
+      "ro": "Alentejo"
     },
     "note": {
-      "en": "Traditionally mixed and kneaded by hand in a wooden trough (masseira); baked with no steam, which is why the crust stays thick and matte rather than glossy."
+      "en": "Traditionally mixed and kneaded by hand in a wooden trough (masseira); baked with no steam, which is why the crust stays thick and matte rather than glossy.",
+      "de": "Traditionell von Hand in einem Holz trog (Masseira) gemischt und geknetet; ohne Dampf gebacken, weshalb die Kruste dick und matt bleibt statt glänzend.",
+      "es": "Tradicionalmente mezclado y amasado a mano en una artesa de madera (masseira); horneado sin vapor, por lo que la corteza permanece gruesa y mate en lugar de brillante.",
+      "fr": "Traditionnellement mélange et petri à la main dans une auge en bois (masseira); cuit sans vapeur, c'est pourquoi la croûte reste épaisse et mate plutot que brillante.",
+      "ro": "Traditional amestecat şi frământat de mană într-un trog de lemn (masseira); copt fără abur, de unde coaja rămâne groasă şi mată în loc de lucioasă."
     }
   },
   "leaven": "sourdough",
@@ -43,7 +51,11 @@
       "key": "flour:wheat-white",
       "grams": 1000,
       "note": {
-        "en": "tipo 65 wheat flour"
+        "en": "tipo 65 wheat flour",
+        "de": "Weizenmehl Tipo 65",
+        "es": "harina de trigo tipo 65",
+        "fr": "farine de blé type 65",
+        "ro": "făină de grâu tipo 65"
       }
     },
     {
@@ -54,7 +66,11 @@
       "key": "sourdough-starter",
       "grams": 50,
       "note": {
-        "en": "massa mãe"
+        "en": "massa mãe",
+        "de": "Massa Mae",
+        "es": "massa mãe",
+        "fr": "massa mãe",
+        "ro": "massa mãe"
       }
     },
     {
@@ -66,7 +82,11 @@
     "count": 2,
     "pieceGrams": 834,
     "shape": {
-      "en": "large round hearth loaf, dull matte crust, no steam"
+      "en": "large round hearth loaf, dull matte crust, no steam",
+      "de": "großer runder Herdlaib, matte Kruste, kein Dampf",
+      "es": "gran pan de hogaza redondo, corteza mate, sin vapor",
+      "fr": "grand pain de foyer rond, croûte mate, sans vapeur",
+      "ro": "pâine mare de vatră rotundă, coajă mată, fără abur"
     }
   },
   "time": {
@@ -107,7 +127,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "A dense crumb and thick, dull crust hold up well for days, in keeping with the Alentejo tradition of baking large loaves to last."
+      "en": "A dense crumb and thick, dull crust hold up well for days, in keeping with the Alentejo tradition of baking large loaves to last.",
+      "de": "Eine dichte Krume und eine dicke, matte Kruste halten sich tagelang gut, ganz in der Tradition des Alentejo, große Laibe zum Haltbarmachen zu backen.",
+      "es": "Una miga densa y una corteza gruesa y mate se conservan bien durante días, en consonancia con la tradición del Alentejo de hornear grandes hogazas que duren.",
+      "fr": "Une mie dense et une croûte épaisse et mate se conservent bien plusieurs jours, conformément à la tradition de l'Alentejo de cuire de gros pains pour qu'ils durent.",
+      "ro": "Un miez dens şi o coajă groasă şi mată se pastrează bine zile întregi, în linie cu tradiţia Alentejo de a coace pâini mari care să ţină."
     }
   },
   "equipment": [
@@ -216,7 +240,11 @@
     "site": "A Senhora do Monte",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Starter assumed roughly 100% hydration to split into total-flour percentages; bulk and proof durations, left unspecified by the source, are typical estimates for this hydration and starter level."
+      "en": "Starter assumed roughly 100% hydration to split into total-flour percentages; bulk and proof durations, left unspecified by the source, are typical estimates for this hydration and starter level.",
+      "de": "Starter mit etwa 100 % Hydratation angenommen, um in Gesamtmehl-Prozente aufzuteilen; Stock- und Stuckgare, von der Quelle nicht angegeben, sind typische Schatzungen für diese Hydratation und Startermenge.",
+      "es": "Se asume un prefermento con aproximadamente 100 % de hidratación para dividirlo en porcentajes totales de harina; los tiempos de fermentación en masa y pieza, no especificados por la fuente, son estimaciones típicas para esta hidratación y nivel de prefermento.",
+      "fr": "Levain suppose à environ 100 % d'hydratation pour le diviser en pourcentages totaux de farine ; les durées de pointage et d'apprêt, non spécifiées par la source, sont des estimations typiques pour cette hydratation et ce niveau de levain.",
+      "ro": "Starter presupus la aproximativ 100% hidratare pentru a-i împărţi făina/apa in procente totale de făină; timpii de dospire în masă şi pe piesă, nespecificaţi de sursă, sunt estimări tipice pentru această hidratare şi nivel de starter."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "SE",
     "region": {
-      "en": "Sweden (nationwide)"
+      "en": "Sweden (nationwide)",
+      "de": "Schweden (landesweit)",
+      "es": "Suecia (en todo el país)",
+      "fr": "Suède (dans tout le pays)",
+      "ro": "Suedia (la nivel național)"
     },
     "note": {
-      "en": "A fika staple since the early 20th century; cardamom in the dough is considered essential, not a flourish. Distinct from, and ancestral in spirit to, the larger American cinnamon roll."
+      "en": "A fika staple since the early 20th century; cardamom in the dough is considered essential, not a flourish. Distinct from, and ancestral in spirit to, the larger American cinnamon roll.",
+      "de": "Ein Fika-Grundnahrungsmittel seit dem frühen 20. Jahrhundert; Kardamom im Teig gilt als wesentlich, nicht als Verzierung. Unterscheidet sich von der größeren amerikanischen Zimtschnecke und ist ihr im Geiste vorausgegangen.",
+      "es": "Un básico del fika desde principios del siglo XX; el cardamomo en la masa se considera esencial, no un adorno. Distinto, y ancestral en espíritu, al rollo de canela americano más grande.",
+      "fr": "Un incontournable du fika depuis le début du XXe siècle; la cardamome dans la pâte est considérée comme essentielle, pas une fantaisie. Distinct du, et ancestral dans l'esprit du, plus grand cinnamon roll américain.",
+      "ro": "Un aliment de bază fika de la începutul secolului XX; cardamomul din aluat este considerat esențial, nu un ornament. Diferit de, și ancestral în spirit față de, rulada americană mai mare cu scorțișoară."
     }
   },
   "leaven": "yeast",
@@ -50,35 +58,55 @@
       "key": "flour:wheat-white",
       "grams": 435,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 25,
       "note": {
-        "en": "for the tangzhong (cooked flour-milk-water scald that softens the crumb)"
+        "en": "for the tangzhong (cooked flour-milk-water scald that softens the crumb)",
+        "de": "für den Tangzhong (gekochter Mehl-Milch-Wasser-Brühstück, der die Krume weich macht)",
+        "es": "para el tangzhong (escaldado cocido de harina, leche y agua que ablanda la miga)",
+        "fr": "pour le tangzhong (ébouillanté farine-lait-eau cuit qui ramollit la mie)",
+        "ro": "pentru tangzhong (opăreală fiertă de făină-lapte-apă care înmoaie miezul)"
       }
     },
     {
       "key": "milk",
       "grams": 120,
       "note": {
-        "en": "lukewarm, for the dough"
+        "en": "lukewarm, for the dough",
+        "de": "lauwarm, für den Teig",
+        "es": "tibia, para la masa",
+        "fr": "tiède, pour la pâte",
+        "ro": "călduță, pentru aluat"
       }
     },
     {
       "key": "milk",
       "grams": 75,
       "note": {
-        "en": "for the tangzhong"
+        "en": "for the tangzhong",
+        "de": "für den Tangzhong",
+        "es": "para el tangzhong",
+        "fr": "pour le tangzhong",
+        "ro": "pentru tangzhong"
       }
     },
     {
       "key": "water",
       "grams": 75,
       "note": {
-        "en": "for the tangzhong"
+        "en": "for the tangzhong",
+        "de": "für den Tangzhong",
+        "es": "para el tangzhong",
+        "fr": "pour le tangzhong",
+        "ro": "pentru tangzhong"
       }
     },
     {
@@ -89,7 +117,11 @@
       "key": "cardamom",
       "grams": 2,
       "note": {
-        "en": "green cardamom, freshly ground"
+        "en": "green cardamom, freshly ground",
+        "de": "grüner Kardamom, frisch gemahlen",
+        "es": "cardamomo verde, recién molido",
+        "fr": "cardamome verte, fraîchement moulue",
+        "ro": "cardamom verde, proaspăt măcinat"
       }
     },
     {
@@ -104,42 +136,66 @@
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "1 large egg"
+        "en": "1 large egg",
+        "de": "1 großes Ei",
+        "es": "1 huevo grande",
+        "fr": "1 gros œuf",
+        "ro": "1 ou mare"
       }
     },
     {
       "key": "butter",
       "grams": 85,
       "note": {
-        "en": "melted, for the dough"
+        "en": "melted, for the dough",
+        "de": "geschmolzen, für den Teig",
+        "es": "derretida, para la masa",
+        "fr": "fondu, pour la pâte",
+        "ro": "topit, pentru aluat"
       }
     },
     {
       "key": "butter",
       "grams": 70,
       "note": {
-        "en": "soft, for the filling"
+        "en": "soft, for the filling",
+        "de": "weich, für die Füllung",
+        "es": "blanda, para el relleno",
+        "fr": "mou, pour la garniture",
+        "ro": "moale, pentru umplutură"
       }
     },
     {
       "key": "brown-sugar",
       "grams": 40,
       "note": {
-        "en": "for the filling"
+        "en": "for the filling",
+        "de": "für die Füllung",
+        "es": "para el relleno",
+        "fr": "pour la garniture",
+        "ro": "pentru umplutură"
       }
     },
     {
       "key": "cinnamon",
       "grams": 5,
       "note": {
-        "en": "for the filling"
+        "en": "for the filling",
+        "de": "für die Füllung",
+        "es": "para el relleno",
+        "fr": "pour la garniture",
+        "ro": "pentru umplutură"
       }
     },
     {
       "key": "egg",
       "grams": 20,
       "note": {
-        "en": "beaten, for the egg wash"
+        "en": "beaten, for the egg wash",
+        "de": "verquirlt, zum Bestreichen",
+        "es": "batido, para el huevo batido",
+        "fr": "battu, pour la dorure",
+        "ro": "bătut, pentru spălarea cu ou"
       }
     },
     {
@@ -152,7 +208,11 @@
       },
       "grams": 25,
       "note": {
-        "en": "for the topping (pärlsocker)"
+        "en": "for the topping (pärlsocker)",
+        "de": "für den Belag (pärlsocker)",
+        "es": "para la cobertura (pärlsocker)",
+        "fr": "pour la garniture (pärlsocker)",
+        "ro": "pentru topping (pärlsocker)"
       }
     }
   ],
@@ -160,7 +220,11 @@
     "count": 12,
     "pieceGrams": 91,
     "shape": {
-      "en": "twisted knot"
+      "en": "twisted knot",
+      "de": "gedrehter Knoten",
+      "es": "nudo retorcido",
+      "fr": "nœud torsadé",
+      "ro": "nod răsucit"
     }
   },
   "time": {
@@ -203,7 +267,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day they're baked since there's no icing to seal in moisture; freezes and reheats well."
+      "en": "Best the day they're baked since there's no icing to seal in moisture; freezes and reheats well.",
+      "de": "Am besten am Backtag, da kein Zuckerguss die Feuchtigkeit versiegelt; lässt sich gut einfrieren und wieder aufwärmen.",
+      "es": "Mejor el día de horneado ya que no hay glaseado para sellar la humedad; se congela y recalienta bien.",
+      "fr": "Meilleurs le jour de la cuisson car il n'y a pas de glaçage pour sceller l'humidité; se congèlent et se réchauffent bien.",
+      "ro": "Cei mai buni în ziua coacerii, deoarece nu există glazură care să sigileze umiditatea; se congelează și se reîncălzesc bine."
     }
   },
   "equipment": [
@@ -329,7 +397,11 @@
     "site": "True North Kitchen",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Tangzhong (cooked flour-liquid scald) is counted into the dough total, not as a preferment since nothing ferments in it. formula.* excludes the filling, egg wash and pearl-sugar topping."
+      "en": "Tangzhong (cooked flour-liquid scald) is counted into the dough total, not as a preferment since nothing ferments in it. formula.* excludes the filling, egg wash and pearl-sugar topping.",
+      "de": "Tangzhong (gekochter Mehl-Flüssigkeits-Brühstück) wird in der Teiggesamtheit gezählt, nicht als Vorteig, da darin nichts gärt. formula.* schließt Füllung, Eistreich und Hagelzuckerbelag aus.",
+      "es": "Tangzhong (escaldado de harina y líquido cocido) se cuenta en el total de la masa, no como prefermento ya que nada fermenta en él. formula.* excluye el relleno, el huevo batido y la cobertura de azúcar perlado.",
+      "fr": "Le tangzhong (ébouillanté farine-liquide cuit) est compté dans le total de la pâte, pas comme un préferment car rien n'y fermente. formula.* exclut la garniture, la dorure à l'œuf et la garniture de sucre perlé.",
+      "ro": "Tangzhong (opăreala fiert de făină-lichid) este numărat în totalul aluatului, nu ca preferment deoarece nimic nu fermentează în el. formula.* exclude umplutura, spălarea cu ou și toppingul de zahăr perlat."
     }
   },
   "tags": [

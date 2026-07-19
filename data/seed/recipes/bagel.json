@@ -22,10 +22,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "New York City"
+      "en": "New York City",
+      "de": "New York City",
+      "es": "Nueva York",
+      "fr": "New York City",
+      "ro": "New York City"
     },
     "note": {
-      "en": "Descended from ring-shaped breads of Polish-Jewish bakers; the boil-then-bake method and malt-sweetened water are the defining New York techniques."
+      "en": "Descended from ring-shaped breads of Polish-Jewish bakers; the boil-then-bake method and malt-sweetened water are the defining New York techniques.",
+      "de": "Abstammend von ringförmigen Broten polnisch-jüdischer Bäcker; die Methode des Kochens und anschließenden Backens sowie das mit Malz gesüßte Wasser sind die charakteristischen New Yorker Techniken.",
+      "es": "Derivado de los panes en forma de anillo de los panaderos polaco-judíos; el método de hervir y luego hornear y el agua endulzada con malta son las técnicas neoyorquinas definitorias.",
+      "fr": "Issu des pains en forme d'anneau des boulangers juifs polonais; la méthode bouillir-puis-cuire et l'eau sucrée au malt sont les techniques new-yorkaises par excellence.",
+      "ro": "Descins din pâinile în formă de inel ale brutarilor polono-evrei; metoda de fierbere urmată de coacere și apa îndulcită cu malț sunt tehnicile definitorii new-yorkeze."
     }
   },
   "leaven": "yeast",
@@ -48,21 +56,33 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "bread flour, high gluten"
+        "en": "bread flour, high gluten",
+        "de": "Brotmehl, hoher Glutengehalt",
+        "es": "harina de pan, alto gluten",
+        "fr": "farine à pain, haute teneur en gluten",
+        "ro": "făină pentru pâine, cu gluten ridicat"
       }
     },
     {
       "key": "water",
       "grams": 290,
       "note": {
-        "en": "warm, ~35°C"
+        "en": "warm, ~35°C",
+        "de": "warm, ~35°C",
+        "es": "tibia, ~35°C",
+        "fr": "tiède, ~35°C",
+        "ro": "călduță, ~35°C"
       }
     },
     {
       "key": "malt-syrup",
       "grams": 20,
       "note": {
-        "en": "barley malt syrup, plus more for the boiling water"
+        "en": "barley malt syrup, plus more for the boiling water",
+        "de": "Gerstenmalzsirup, plus mehr für das Kochwasser",
+        "es": "jarabe de malta de cebada, y más para el agua de hervir",
+        "fr": "sirop de malt d'orge, plus pour l'eau de cuisson",
+        "ro": "sirop de malț de orz, plus pentru apa de fierbere"
       }
     },
     {
@@ -78,7 +98,11 @@
     "count": 6,
     "pieceGrams": 137,
     "shape": {
-      "en": "hand-rolled ring, boiled then baked"
+      "en": "hand-rolled ring, boiled then baked",
+      "de": "handgeformter Ring, gekocht dann gebacken",
+      "es": "anillo enrollado a mano, hervido y luego horneado",
+      "fr": "anneau roulé à la main, bouilli puis cuit au four",
+      "ro": "inel modelat manual, fiert apoi copt"
     }
   },
   "time": {
@@ -120,7 +144,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; slice before freezing so it goes straight from freezer to toaster."
+      "en": "Best the day it's baked; slice before freezing so it goes straight from freezer to toaster.",
+      "de": "Am besten am Backtag; vor dem Einfrieren in Scheiben schneiden, damit es direkt vom Gefrierschrank in den Toaster kommt.",
+      "es": "Mejor el día de horneado; rebanar antes de congelar para que vaya directo del congelador al tostador.",
+      "fr": "Meilleur le jour de la cuisson; trancher avant de congeler pour qu'il aille directement du congélateur au grille-pain.",
+      "ro": "Cel mai bun în ziua coacerii; feliază înainte de congelare pentru a merge direct de la congelator la prăjitor."
     }
   },
   "equipment": [
@@ -229,7 +257,11 @@
     "site": "The Practical Kitchen",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Core dough ratios kept as sourced; egg wash and optional vital wheat gluten omitted from the ingredient list."
+      "en": "Core dough ratios kept as sourced; egg wash and optional vital wheat gluten omitted from the ingredient list.",
+      "de": "Kern-Teigverhältnisse wie in der Quelle belassen; Eiglasur und optionales Vitalweizengluten von der Zutatenliste gestrichen.",
+      "es": "Proporciones básicas de la masa mantenidas como en la fuente; el glaseado de huevo y el gluten de trigo vital opcional omitidos de la lista de ingredientes.",
+      "fr": "Ratios de pâte de base conservés tels que dans la source; dorure à l'œuf et gluten de blé vital facultatif supprimés de la liste d'ingrédients.",
+      "ro": "Proporțiile de bază ale aluatului păstrate ca în sursă; glazura de ou și glutenul vital de grâu opțional omise din lista de ingrediente."
     }
   },
   "tags": [

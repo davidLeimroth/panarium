@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national"
+      "en": "national",
+      "de": "national",
+      "es": "nacional",
+      "fr": "national",
+      "ro": "national"
     },
     "note": {
-      "en": "A modern boulangerie staple rather than a historic regional bread, popularized as bakeries diversified beyond baguette and pain de campagne."
+      "en": "A modern boulangerie staple rather than a historic regional bread, popularized as bakeries diversified beyond baguette and pain de campagne.",
+      "de": "Eher ein moderner Boulangerie-Grundbestandteil als ein historisches Regionalbrot, populr geworden, als Backereien ber Baguette und Pain de Campagne hinaus diversifizierten.",
+      "es": "Mas un basico moderno de boulangerie que un pan regional historico, popularizado a medida que las panaderias se diversificaron mas alla de la baguette y el pain de campagne.",
+      "fr": "Un incontournable moderne de boulangerie plutot qu'un pain regional historique, popularise a mesure que les boulangeries se diversifiaient au-dela de la baguette et du pain de campagne.",
+      "ro": "Mai degraba un element de baza modern de boulangerie decat o paine regionala istorica, popularizat pe masura ce brutariile s-au diversificat dincolo de bagheta si pain de campagne."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "T65"
+        "en": "T65",
+        "de": "T65",
+        "es": "T65",
+        "fr": "T65",
+        "ro": "T65"
       }
     },
     {
@@ -71,7 +83,11 @@
       "key": "sugar",
       "grams": 12,
       "note": {
-        "en": "cassonade"
+        "en": "cassonade",
+        "de": "Cassonade",
+        "es": "cassonade",
+        "fr": "cassonade",
+        "ro": "cassonade"
       }
     },
     {
@@ -113,7 +129,11 @@
     "count": 2,
     "pieceGrams": 570,
     "shape": {
-      "en": "free-standing loaf"
+      "en": "free-standing loaf",
+      "de": "freistehender Laib",
+      "es": "pan libre",
+      "fr": "pain libre",
+      "ro": "paine libera"
     }
   },
   "time": {
@@ -156,7 +176,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The seed mix helps it stay moist longer than a plain white loaf."
+      "en": "The seed mix helps it stay moist longer than a plain white loaf.",
+      "de": "Die Saatenmischung hilft, lnger feucht zu bleiben als ein einfacher weier Laib.",
+      "es": "La mezcla de semillas ayuda a que se mantenga humedo mas tiempo que un pan blanco simple.",
+      "fr": "Le melange de graines l'aide a rester humide plus longtemps qu'un pain blanc nature.",
+      "ro": "Amestecul de semințe il ajuta sa ramana umed mai mult timp decat o paine alba simpla."
     }
   },
   "equipment": [

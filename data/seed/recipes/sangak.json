@@ -21,10 +21,18 @@
   "origin": {
     "country": "IR",
     "region": {
-      "en": "Iran (nationwide, especially Tehran bakeries)"
+      "en": "Iran (nationwide, especially Tehran bakeries)",
+      "de": "Iran (landesweit, besonders in Teheraner Bäckereien)",
+      "es": "Irán (en todo el país, especialmente en las panaderías de Teherán)",
+      "fr": "Iran (dans tout le pays, surtout dans les boulangeries de Téhéran)",
+      "ro": "Iran (în toată țara, mai ales în brutăriile din Teheran)"
     },
     "note": {
-      "en": "The name means 'little stone' in Farsi, from the river-pebble baking surface; widely regarded as Iran's national bread."
+      "en": "The name means 'little stone' in Farsi, from the river-pebble baking surface; widely regarded as Iran's national bread.",
+      "de": "Der Name bedeutet im Farsi „kleiner Stein“, von der Backfläche aus Flusskieseln; gilt weithin als Irans Nationalbrot.",
+      "es": "El nombre significa «piedrecita» en farsi, por la superficie de guijarros de río; considerado ampliamente el pan nacional de Irán.",
+      "fr": "Le nom signifie « petit caillou » en farsi, d’après la surface de cuisson en galets de rivière ; largement considéré comme le pain national iranien.",
+      "ro": "Numele înseamnă «pietricică» în farsi, de la suprafața de coacere din pietre de râu; considerat pe scară largă pâinea națională a Iranului."
     }
   },
   "leaven": "sourdough",
@@ -60,7 +68,11 @@
       "key": "sourdough-starter",
       "grams": 90,
       "note": {
-        "en": "active starter, assumed ~100% hydration"
+        "en": "active starter, assumed ~100% hydration",
+        "de": "aktiver Sauerteigstarter, ~100 % Hydratation angenommen",
+        "es": "fermento activo, asumido ~100 % de hidratación",
+        "fr": "levain actif, supposé ~100 % d’hydratation",
+        "ro": "starter activ, presupus ~100 % hidratare"
       }
     },
     {
@@ -79,14 +91,22 @@
       "key": "olive-oil",
       "grams": 14,
       "note": {
-        "en": "for kneading in and for oiling hands to dimple"
+        "en": "for kneading in and for oiling hands to dimple",
+        "de": "zum Einkneten und zum Einölen der Hände für die Vertiefungen",
+        "es": "para amasar y para engrasar las manos y hacer los hoyuelos",
+        "fr": "pour pétrir et pour huiler les mains afin de former les alvéoles",
+        "ro": "pentru a frământa și pentru a unge mâinile pentru a face gropițele"
       }
     },
     {
       "key": "sesame-seeds",
       "grams": 10,
       "note": {
-        "en": "pressed into the dimples before baking"
+        "en": "pressed into the dimples before baking",
+        "de": "vor dem Backen in die Vertiefungen gedrückt",
+        "es": "presionado en los hoyuelos antes de hornear",
+        "fr": "pressé dans les alvéoles avant la cuisson",
+        "ro": "presat în gropițe înainte de coacere"
       }
     }
   ],
@@ -94,7 +114,11 @@
     "count": 1,
     "pieceGrams": 409,
     "shape": {
-      "en": "long thin dimpled sheet (traditionally up to 1 m)"
+      "en": "long thin dimpled sheet (traditionally up to 1 m)",
+      "de": "lange dünne, mit Vertiefungen versehene Bahn (traditionell bis zu 1 m)",
+      "es": "lámina larga y delgada con hoyuelos (tradicionalmente de hasta 1 m)",
+      "fr": "longue feuille fine alvéolée (traditionnellement jusqu’à 1 m)",
+      "ro": "foaie lungă și subțire cu gropițe (tradițional până la 1 m)"
     }
   },
   "time": {
@@ -136,7 +160,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked, still warm; store airtight to slow staling, and freeze for longer keeping."
+      "en": "Best the day it's baked, still warm; store airtight to slow staling, and freeze for longer keeping.",
+      "de": "Am besten am Backtag, noch warm; luftdicht lagern, um Altbackenwerden zu verlangsamen, und zum längeren Aufbewahren einfrieren.",
+      "es": "Mejor el mismo día de horneado, aún caliente; guardar en recipiente hermético para retrasar el endurecimiento y congelar para conservar más tiempo.",
+      "fr": "Meilleur le jour de la cuisson, encore chaud ; conserver hermétiquement pour ralentir le rassissement et congeler pour une conservation plus longue.",
+      "ro": "Cel mai bun în ziua coacerii, încă cald; păstrează ermetic pentru a încetini învechirea și congelează pentru păstrare mai lungă."
     }
   },
   "equipment": [
@@ -261,7 +289,11 @@
     "site": "Proportional Plate",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration and preferment % recalculated to include the starter's own flour and water, per baker's-percentage convention; starter assumed ~100% hydration since the source didn't specify."
+      "en": "Hydration and preferment % recalculated to include the starter's own flour and water, per baker's-percentage convention; starter assumed ~100% hydration since the source didn't specify.",
+      "de": "Hydratation und Vorteig-% neu berechnet, um das eigene Mehl und Wasser des Starters gemäß der Bäckerprozentrechnung einzubeziehen; Starter mit ~100 % Hydratation angenommen, da die Quelle keine Angabe machte.",
+      "es": "Hidratación y % de prefermento recalculados para incluir la propia harina y agua del fermento, según la convención de porcentajes panaderos; se asumió fermento con ~100 % de hidratación porque la fuente no lo especificó.",
+      "fr": "Hydratation et % de préferment recalculés pour inclure la farine et l’eau du levain, selon la convention des pourcentages du boulanger ; levain supposé à ~100 % d’hydratation, car la source ne l’a pas précisé.",
+      "ro": "Hidratarea și % de preferment recalculate pentru a include făina și apa proprii starterului, conform convenției procentelor de brutar; starter presupus la ~100 % hidratare, deoarece sursa nu a specificat."
     }
   },
   "tags": [

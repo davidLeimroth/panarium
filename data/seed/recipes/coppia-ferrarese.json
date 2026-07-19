@@ -21,10 +21,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Ferrara, Emilia-Romagna"
+      "en": "Ferrara, Emilia-Romagna",
+      "de": "Ferrara, Emilia-Romagna",
+      "es": "Ferrara, Emilia-Romaña",
+      "fr": "Ferrare, Émilie-Romagne",
+      "ro": "Ferrara, Emilia-Romagna"
     },
     "note": {
-      "en": "IGP since 2004; a bread of this twisted, horned shape is documented in Ferrarese records since at least the 16th century under names like 'ritorto' or 'intorto'."
+      "en": "IGP since 2004; a bread of this twisted, horned shape is documented in Ferrarese records since at least the 16th century under names like 'ritorto' or 'intorto'.",
+      "de": "IGP seit 2004; ein Brot dieser gedrehten, gehörnten Form ist in Ferrareser Aufzeichnungen seit mindestens dem 16. Jahrhundert unter Namen wie ritorto oder intorto dokumentiert.",
+      "es": "IGP desde 2004; un pan de esta forma retorcida y con cuernos está documentado en registros ferrareses desde al menos el siglo XVI bajo nombres como ritorto o intorto.",
+      "fr": "IGP depuis 2004; un pain de cette forme torsadée et cornue est documenté dans les archives ferrareses depuis au moins le XVIe siècle sous des noms comme ritorto ou intorto.",
+      "ro": "IGP din 2004; o pâine cu această formă răsucită, cu coarne, este documentată în înregistrările ferrareze încă din secolul al XVI-lea sub nume precum ritorto sau intorto."
     }
   },
   "leaven": "hybrid",
@@ -48,7 +56,11 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "farina tipo '0'"
+        "en": "farina tipo '0'",
+        "de": "Farina Tipo 0",
+        "es": "farina tipo 0",
+        "fr": "farina tipo 0",
+        "ro": "farina tipo 0"
       }
     },
     {
@@ -63,14 +75,22 @@
       "key": "lard",
       "grams": 30,
       "note": {
-        "en": "strutto di puro suino"
+        "en": "strutto di puro suino",
+        "de": "Strutto di Puro Suino",
+        "es": "strutto di puro suino",
+        "fr": "strutto di puro suino",
+        "ro": "strutto di puro suino"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 50,
       "note": {
-        "en": "lievito madre"
+        "en": "lievito madre",
+        "de": "Lievito Madre",
+        "es": "lievito madre",
+        "fr": "lievito madre",
+        "ro": "lievito madre"
       }
     },
     {
@@ -86,7 +106,11 @@
     "count": 4,
     "pieceGrams": 197,
     "shape": {
-      "en": "twisted four-horned roll, two halves joined at a knot"
+      "en": "twisted four-horned roll, two halves joined at a knot",
+      "de": "gedrehtes vierhörniges Brötchen, zwei Hälften an einem Knoten verbunden",
+      "es": "pan retorcido de cuatro cuernos, dos mitades unidas en un nudo",
+      "fr": "petit pain torsadé à quatre cornes, deux moitiés jointes par un nœud",
+      "ro": "chiflă răsucită cu patru coarne, două jumătăți unite la un nod"
     }
   },
   "time": {
@@ -128,7 +152,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Famous for going stale within hours of baking, which is why it's traditionally bought and eaten the same day."
+      "en": "Famous for going stale within hours of baking, which is why it's traditionally bought and eaten the same day.",
+      "de": "Berühmt dafür, innerhalb von Stunden nach dem Backen altbacken zu werden, weshalb es traditionell am selben Tag gekauft und gegessen wird.",
+      "es": "Famoso por ponerse duro a las horas de horneado, por lo que tradicionalmente se compra y se come el mismo día.",
+      "fr": "Célèbre pour rassir en quelques heures après la cuisson, c'est pourquoi il est traditionnellement acheté et mangé le jour même.",
+      "ro": "Faimos pentru că se învechește în câteva ore de la coacere, motiv pentru care este cumpărat și mâncat în mod tradițional în aceeași zi."
     }
   },
   "equipment": [
@@ -237,7 +265,11 @@
     "site": "Gazzetta del Gusto",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams reconstructed from the IGP disciplinare's published percentages (oil 3-4%, lard 6%, lievito madre 10%, water 35%). Bake time/temp not given, so a typical 220°C/20-25 min is used."
+      "en": "Grams reconstructed from the IGP disciplinare's published percentages (oil 3-4%, lard 6%, lievito madre 10%, water 35%). Bake time/temp not given, so a typical 220°C/20-25 min is used.",
+      "de": "Gramm aus den veröffentlichten Prozenten des IGP-Disciplinare rekonstruiert (Öl 3-4%, Schmalz 6%, Lievito Madre 10%, Wasser 35%). Backzeit/-temperatur nicht angegeben, daher typische 220°C/20-25 Min. verwendet.",
+      "es": "Gramos reconstruidos a partir de los porcentajes publicados del disciplinare IGP (aceite 3-4%, manteca 6%, lievito madre 10%, agua 35%). Tiempo/temperatura de horneado no proporcionados, por lo que se usan 220°C/20-25 min típicos.",
+      "fr": "Grammes reconstitués à partir des pourcentages publiés du disciplinaire IGP (huile 3-4%, saindoux 6%, lievito madre 10%, eau 35%). Temps/température de cuisson non donnés, donc 220°C/20-25 min typiques utilisés.",
+      "ro": "Grame reconstituite din procentele publicate ale disciplinare IGP (ulei 3-4%, untură 6%, lievito madre 10%, apă 35%). Timpul/temperatura de coacere nu sunt date, așa că se folosesc 220°C/20-25 min tipice."
     }
   },
   "tags": [

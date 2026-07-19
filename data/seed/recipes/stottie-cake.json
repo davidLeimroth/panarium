@@ -22,10 +22,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Tyneside and North East England (Newcastle, Sunderland, Durham)"
+      "en": "Tyneside and North East England (Newcastle, Sunderland, Durham)",
+      "de": "Tyneside und Nordostengland (Newcastle, Sunderland, Durham)",
+      "es": "Tyneside y noreste de Inglaterra (Newcastle, Sunderland, Durham)",
+      "fr": "Tyneside et nord-est de l'Angleterre (Newcastle, Sunderland, Durham)",
+      "ro": "Tyneside și nord-estul Angliei (Newcastle, Sunderland, Durham)"
     },
     "note": {
-      "en": "The name comes from Geordie dialect 'to stott', meaning to bounce; bakers are said to have tested the dough by dropping a piece and watching how it rebounded."
+      "en": "The name comes from Geordie dialect 'to stott', meaning to bounce; bakers are said to have tested the dough by dropping a piece and watching how it rebounded.",
+      "de": "Der Name stammt aus dem Geordie-Dialekt to stott, was hüpfen bedeutet; Bäcker sollen den Teig getestet haben, indem sie ein Stück fallen ließen und beobachteten, wie es zurücksprang.",
+      "es": "El nombre proviene del dialecto geordie 'to stott', que significa rebotar; se dice que los panaderos probaban la masa dejando caer un trozo y observando cómo rebotaba.",
+      "fr": "Le nom vient du dialecte geordie 'to stott', qui signifie rebondir; les boulangers auraient testé la pâte en laissant tomber un morceau et en observant son rebond.",
+      "ro": "Numele provine din dialectul geordie 'to stott', care înseamnă a sări; se spune că brutarii testau aluatul lăsând să cadă o bucată și urmărind cum sărea înapoi."
     }
   },
   "leaven": "yeast",
@@ -51,7 +59,11 @@
       "key": "water",
       "grams": 470,
       "note": {
-        "en": "warm, divided"
+        "en": "warm, divided",
+        "de": "warm, geteilt",
+        "es": "tibia, dividida",
+        "fr": "tiède, divisée",
+        "ro": "călduță, împărțită"
       }
     },
     {
@@ -76,7 +88,11 @@
       },
       "grams": 1,
       "note": {
-        "en": "a distinctive, subtle Tyneside touch"
+        "en": "a distinctive, subtle Tyneside touch",
+        "de": "Eine unverwechselbare, dezente Tyneside-Note",
+        "es": "Un toque distintivo y sutil de Tyneside",
+        "fr": "Une touche distinctive et subtile de Tyneside",
+        "ro": "O notă distinctivă și subtilă de Tyneside"
       }
     }
   ],
@@ -84,7 +100,11 @@
     "count": 3,
     "pieceGrams": 370,
     "shape": {
-      "en": "large flattened round, deep thumb-dimple in the center"
+      "en": "large flattened round, deep thumb-dimple in the center",
+      "de": "Großer flacher runder Laib, tiefe Daumenmulde in der Mitte",
+      "es": "Redondo grande aplanado, hoyuelo profundo de pulgar en el centro",
+      "fr": "Grand rond aplati, creux profond de pouce au centre",
+      "ro": "Rotund mare aplatizat, adâncitură adâncă de deget în centru"
     }
   },
   "time": {
@@ -124,7 +144,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Dense crumb holds up well to hearty fillings for a day or two; split and toast if it firms up."
+      "en": "Dense crumb holds up well to hearty fillings for a day or two; split and toast if it firms up.",
+      "de": "Die dichte Krume hält herzhaften Füllungen ein bis zwei Tage lang stand; aufschneiden und toasten, wenn sie fester wird.",
+      "es": "La miga densa aguanta bien rellenos sustanciosos durante uno o dos días; partir y tostar si se endurece.",
+      "fr": "La mie dense supporte bien les garnitures copieuses pendant un jour ou deux; couper et toaster si elle raffermit.",
+      "ro": "Miezul dens suportă bine umpluturile consistente pentru o zi sau două; taie-l și prăjește-l dacă se întărește."
     }
   },
   "equipment": [
@@ -233,7 +257,11 @@
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup measures converted to grams via standard baker's conversions; this source's version omits added fat, unlike some modern recipes that add lard, dripping or oil."
+      "en": "Cup measures converted to grams via standard baker's conversions; this source's version omits added fat, unlike some modern recipes that add lard, dripping or oil.",
+      "de": "Tassenmaße mit standardisierten Bäckereiumrechnungen in Gramm umgerechnet; diese Version der Quelle verzichtet auf zugesetztes Fett, im Gegensatz zu einigen modernen Rezepten, die Schmalz, Fett oder Öl hinzufügen.",
+      "es": "Medidas en tazas convertidas a gramos mediante conversiones estándar de panadería; la versión de esta fuente omite la grasa añadida, a diferencia de algunas recetas modernas que añaden manteca, jugo de carne o aceite.",
+      "fr": "Mesures en tasses converties en grammes via des conversions standard de boulangerie; la version de cette source omet la matière grasse ajoutée, contrairement à certaines recettes modernes qui ajoutent du saindoux, de la graisse de rôti ou de l'huile.",
+      "ro": "Măsurile în căni convertite în grame prin conversii standard de brutărie; versiunea acestei surse omite grăsimea adăugată, spre deosebire de unele rețete moderne care adaugă untură, grăsime de friptură sau ulei."
     }
   },
   "tags": [

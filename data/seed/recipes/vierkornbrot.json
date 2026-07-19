@@ -21,10 +21,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Germany-wide"
+      "en": "Germany-wide",
+      "de": "Deutschlandweit",
+      "es": "En toda Alemania",
+      "fr": "Dans toute l'Allemagne",
+      "ro": "La nivelul Germaniei"
     },
     "note": {
-      "en": "Not a historic regional specialty but a deliberately composed modern everyday loaf; the barley is included partly for its beta-glucan content, not just flavor."
+      "en": "Not a historic regional specialty but a deliberately composed modern everyday loaf; the barley is included partly for its beta-glucan content, not just flavor.",
+      "de": "Keine historische regionale Spezialität, sondern ein bewusst komponiertes modernes Alltagsbrot; die Gerste wird teilweise wegen ihres Beta-Glucan-Gehalts verwendet, nicht nur wegen des Geschmacks.",
+      "es": "No es una especialidad regional histórica sino un pan cotidiano moderno deliberadamente compuesto; la cebada se incluye en parte por su contenido de betaglucano, no solo por su sabor.",
+      "fr": "Pas une spécialité régionale historique mais un pain quotidien moderne délibérément composé; l'orge est incluse en partie pour sa teneur en bêta-glucane, pas seulement pour la saveur.",
+      "ro": "Nu este o specialitate regională istorică, ci o pâine modernă de zi cu zi compusă în mod deliberat; orzul este inclus parțial pentru conținutul său de beta-glucan, nu doar pentru aromă."
     }
   },
   "leaven": "hybrid",
@@ -59,28 +67,44 @@
       "key": "flour:spelt-whole",
       "grams": 398,
       "note": {
-        "en": "in the overnight pre-dough"
+        "en": "in the overnight pre-dough",
+        "de": "im Vorteig über Nacht",
+        "es": "en la prefermentación nocturna",
+        "fr": "dans le pré-pain de la veille",
+        "ro": "în pre-aluatul de peste noapte"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 388,
       "note": {
-        "en": "type 1050"
+        "en": "type 1050",
+        "de": "Type 1050",
+        "es": "tipo 1050",
+        "fr": "type 1050",
+        "ro": "tip 1050"
       }
     },
     {
       "key": "flour:rye",
       "grams": 99,
       "note": {
-        "en": "type 1150, in the overnight sourdough"
+        "en": "type 1150, in the overnight sourdough",
+        "de": "Type 1150, im Sauerteig über Nacht",
+        "es": "tipo 1150, en la masa madre nocturna",
+        "fr": "type 1150, dans le levain de la veille",
+        "ro": "tip 1150, în maiaua de peste noapte"
       }
     },
     {
       "key": "flour:barley",
       "grams": 99,
       "note": {
-        "en": "wholegrain barley flour"
+        "en": "wholegrain barley flour",
+        "de": "Vollkorn-Gerstenmehl",
+        "es": "harina integral de cebada",
+        "fr": "farine complète d'orge",
+        "ro": "făină integrală de orz"
       }
     },
     {
@@ -91,7 +115,11 @@
       "key": "sourdough-starter",
       "grams": 20,
       "note": {
-        "en": "soft rye starter (TA 200)"
+        "en": "soft rye starter (TA 200)",
+        "de": "Weicher Roggensauerteigansatz (TA 200)",
+        "es": "Prefermento blando de centeno (TA 200)",
+        "fr": "Levain mou de seigle (TA 200)",
+        "ro": "Maia moale de secară (TA 200)"
       }
     },
     {
@@ -102,7 +130,11 @@
       "key": "vegetable-oil",
       "grams": 20,
       "note": {
-        "en": "sunflower oil"
+        "en": "sunflower oil",
+        "de": "Sonnenblumenöl",
+        "es": "aceite de girasol",
+        "fr": "huile de tournesol",
+        "ro": "ulei de floarea-soarelui"
       }
     },
     {
@@ -114,7 +146,11 @@
     "count": 1,
     "pieceGrams": 1480,
     "shape": {
-      "en": "large oblong hearth loaf"
+      "en": "large oblong hearth loaf",
+      "de": "Großer länglicher Freigeschobener",
+      "es": "Gran hogaza alargada de horno de piedra",
+      "fr": "Grand pain oblong cuit sur sole",
+      "ro": "Pâine mare alungită de vatră"
     }
   },
   "time": {
@@ -156,7 +192,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "The sunflower oil and rye sourdough both help this loaf stay soft several days longer than a lean wheat bread."
+      "en": "The sunflower oil and rye sourdough both help this loaf stay soft several days longer than a lean wheat bread.",
+      "de": "Das Sonnenblumenöl und das Roggensauerteig helfen diesem Laib, mehrere Tage länger weich zu bleiben als ein mageres Weizenbrot.",
+      "es": "El aceite de girasol y la masa madre de centeno ayudan a que este pan se mantenga blando varios días más que un pan de trigo magro.",
+      "fr": "L'huile de tournesol et le levain de seigle aident ce pain à rester mou plusieurs jours de plus qu'un pain de blé maigre.",
+      "ro": "Uleiul de floarea-soarelui și maiaua de secară ajută această pâine să rămână moale cu câteva zile mai mult decât o pâine slabă de grâu."
     }
   },
   "equipment": [
@@ -283,7 +323,11 @@
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages reconciled by resolving the soft rye starter (TA 200) into its flour/water components, matching the source's own wholegrain math; method paraphrased and condensed."
+      "en": "Percentages reconciled by resolving the soft rye starter (TA 200) into its flour/water components, matching the source's own wholegrain math; method paraphrased and condensed.",
+      "de": "Prozentangaben abgeglichen, indem der weiche Roggensauerteigansatz (TA 200) in seine Mehl-/Wasserbestandteile aufgelöst wurde, entsprechend der eigenen Vollkornrechnung der Quelle; Methode paraphrasiert und verdichtet.",
+      "es": "Porcentajes reconciliados descomponiendo el prefermento blando de centeno (TA 200) en sus componentes de harina/agua, coincidiendo con el propio cálculo integral de la fuente; método parafraseado y condensado.",
+      "fr": "Pourcentages reconciliés en décomposant le levain mou de seigle (TA 200) en ses composants farine/eau, correspondant au calcul intégral de la source; méthode paraphrasée et condensée.",
+      "ro": "Procentele reconciliate prin descompunerea maielei moi de secară (TA 200) în componentele sale de făină/apă, corespunzând calculului integral propriu al sursei; metodă parafrazată și condensată."
     }
   },
   "tags": [

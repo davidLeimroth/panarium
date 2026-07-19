@@ -17,10 +17,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Bari, Puglia"
+      "en": "Bari, Puglia",
+      "de": "Bari, Apulien",
+      "es": "Bari, Apulia",
+      "fr": "Bari, Pouilles",
+      "ro": "Bari, Puglia"
     },
     "note": {
-      "en": "Mashed potato keeps the very wet dough workable and the crumb tender; whole, unpitted olives are traditional since the pit helps them hold moisture in the hot oven."
+      "en": "Mashed potato keeps the very wet dough workable and the crumb tender; whole, unpitted olives are traditional since the pit helps them hold moisture in the hot oven.",
+      "de": "Kartoffelbrei hält den sehr feuchten Teig bearbeitbar und die Krume zart; ganze Oliven mit Kern sind traditionell, da der Kern ihnen hilft, im heißen Ofen Feuchtigkeit zu behalten.",
+      "es": "El puré de patata mantiene la masa muy húmeda manejable y la miga tierna; las aceitunas enteras con hueso son tradicionales ya que el hueso les ayuda a retener la humedad en el horno caliente.",
+      "fr": "La purée de pomme de terre rend la pâte très humide maniable et la mie tendre; les olives entières non dénoyautées sont traditionnelles car le noyau les aide à retenir l'humidité dans le four chaud.",
+      "ro": "Piureul de cartofi menține aluatul foarte umed lucrabil și miezul fraged; măslinele întregi cu sâmburi sunt tradiționale deoarece sâmburele le ajută să rețină umezeala în cuptorul fierbinte."
     }
   },
   "leaven": "yeast",
@@ -47,14 +55,22 @@
       "key": "flour:wheat-white",
       "grams": 300,
       "note": {
-        "en": "tipo '0' (200 g) and strong Manitoba (100 g) blend"
+        "en": "tipo '0' (200 g) and strong Manitoba (100 g) blend",
+        "de": "Mischung aus Tipo '0' (200 g) und starkem Manitoba (100 g)",
+        "es": "mezcla de tipo '0' (200 g) y Manitoba de fuerza (100 g)",
+        "fr": "mélange de tipo '0' (200 g) et Manitoba forte (100 g)",
+        "ro": "amestec de tipo '0' (200 g) și Manitoba tare (100 g)"
       }
     },
     {
       "key": "flour:durum",
       "grams": 200,
       "note": {
-        "en": "semola rimacinata"
+        "en": "semola rimacinata",
+        "de": "semola rimacinata",
+        "es": "semola rimacinata",
+        "fr": "semola rimacinata",
+        "ro": "semola rimacinata"
       }
     },
     {
@@ -65,7 +81,11 @@
       "key": "mashed-potato",
       "grams": 150,
       "note": {
-        "en": "boiled potato, mashed while still warm"
+        "en": "boiled potato, mashed while still warm",
+        "de": "gekochte Kartoffel, noch warm zerstampft",
+        "es": "patata hervida, machacada aún caliente",
+        "fr": "pomme de terre bouillie, écrasée encore chaude",
+        "ro": "cartof fiert, pisat cât încă fierbinte"
       }
     },
     {
@@ -76,7 +96,11 @@
       "key": "olive-oil",
       "grams": 34,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
@@ -93,7 +117,11 @@
       },
       "grams": 500,
       "note": {
-        "en": "halved, pressed cut-side up into the dough"
+        "en": "halved, pressed cut-side up into the dough",
+        "de": "halbiert, mit der Schnittseite nach oben in den Teig gedrückt",
+        "es": "partidas por la mitad, presionadas con el corte hacia arriba en la masa",
+        "fr": "coupées en deux, enfoncées côté coupé vers le haut dans la pâte",
+        "ro": "tăiate pe jumătate, presate cu partea tăiată în sus în aluat"
       }
     },
     {
@@ -106,7 +134,11 @@
       },
       "grams": 60,
       "note": {
-        "en": "whole, with pits"
+        "en": "whole, with pits",
+        "de": "ganz, mit Kern",
+        "es": "enteras, con hueso",
+        "fr": "entières, avec noyau",
+        "ro": "întregi, cu sâmburi"
       }
     },
     {
@@ -123,14 +155,22 @@
       "key": "olive-oil",
       "grams": 20,
       "note": {
-        "en": "drizzled over the topping"
+        "en": "drizzled over the topping",
+        "de": "über den Belag geträufelt",
+        "es": "rociado sobre la cobertura",
+        "fr": "arrosé sur la garniture",
+        "ro": "stropit deasupra"
       }
     },
     {
       "key": "salt",
       "grams": 5,
       "note": {
-        "en": "scattered over the topping; not counted toward saltPct"
+        "en": "scattered over the topping; not counted toward saltPct",
+        "de": "über den Belag gestreut; nicht im Salzprozentsatz enthalten",
+        "es": "esparcido sobre la cobertura; no contabilizado en el porcentaje de sal",
+        "fr": "parsemé sur la garniture; non compté dans le pourcentage de sel",
+        "ro": "presărat deasupra; neinclus în procentul de sare"
       }
     }
   ],
@@ -138,7 +178,11 @@
     "count": 2,
     "pieceGrams": 800,
     "shape": {
-      "en": "30 cm round or rectangular pan, topped with tomato"
+      "en": "30 cm round or rectangular pan, topped with tomato",
+      "de": "runde oder rechteckige Form 30 cm, mit Tomate belegt",
+      "es": "molde redondo o rectangular de 30 cm, cubierto con tomate",
+      "fr": "moule rond ou rectangulaire de 30 cm, garni de tomate",
+      "ro": "tavă rotundă sau dreptunghiulară de 30 cm, acoperită cu roșii"
     }
   },
   "time": {
@@ -181,7 +225,11 @@
     "freshDays": 1.5,
     "freezes": true,
     "note": {
-      "en": "Potato keeps the crumb tender a day longer than most focacce, but it's best fresh or lightly reheated the next day."
+      "en": "Potato keeps the crumb tender a day longer than most focacce, but it's best fresh or lightly reheated the next day.",
+      "de": "Kartoffel hält die Krume einen Tag länger zart als bei den meisten Focacce, aber am besten ist sie frisch oder am nächsten Tag leicht aufgewärmt.",
+      "es": "La patata mantiene la miga tierna un día más que la mayoría de las focacce, pero es mejor fresca o ligeramente recalentada al día siguiente.",
+      "fr": "La pomme de terre garde la mie tendre un jour de plus que la plupart des focacce, mais elle est meilleure fraîche ou légèrement réchauffée le lendemain.",
+      "ro": "Cartoful menține miezul fraged cu o zi mai mult decât majoritatea focacce-urilor, dar este cel mai bună proaspătă sau ușor reîncălzită a doua zi."
     }
   },
   "equipment": [
@@ -290,7 +338,11 @@
     "site": "Tavolartegusto",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration includes an estimated water contribution from the boiled potato (~70% water by weight), which the source's high-hydration technique relies on but doesn't quantify directly."
+      "en": "Hydration includes an estimated water contribution from the boiled potato (~70% water by weight), which the source's high-hydration technique relies on but doesn't quantify directly.",
+      "de": "Die Hydratation enthält einen geschätzten Wasserbeitrag der gekochten Kartoffel (~70 % Wasseranteil), auf den die Hochhydratationstechnik der Quelle angewiesen ist, den sie aber nicht direkt beziffert.",
+      "es": "La hidratación incluye una contribución estimada de agua de la patata hervida (~70 % de agua en peso), de la que la técnica de alta hidratación de la fuente depende pero no cuantifica directamente.",
+      "fr": "L'hydratation inclut une contribution d'eau estimée de la pomme de terre bouillie (~70 % d'eau en poids), sur laquelle la technique d'hydratation élevée de la source repose sans la quantifier directement.",
+      "ro": "Hidratarea include o contribuție estimată de apă din cartoful fiert (~70 % apă din greutate), de care tehnica de hidratare ridicată a sursei depinde dar nu o cuantifică direct."
     }
   },
   "tags": [

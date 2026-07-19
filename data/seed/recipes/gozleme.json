@@ -22,10 +22,18 @@
   "origin": {
     "country": "TR",
     "region": {
-      "en": "Turkey (Anatolia); nomadic Central Asian roots"
+      "en": "Turkey (Anatolia); nomadic Central Asian roots",
+      "de": "Türkei (Anatolien); nomadische zentralasiatische Wurzeln",
+      "es": "Turquía (Anatolia); raíces nómadas de Asia Central",
+      "fr": "Turquie (Anatolie); racines nomades d'Asie centrale",
+      "ro": "Turcia (Anatolia); rădăcini nomade din Asia Centrală"
     },
     "note": {
-      "en": "The name likely derives from Turkish 'közleme', to cook on embers, reflecting origins among nomadic communities migrating from Central Asia into Anatolia."
+      "en": "The name likely derives from Turkish 'közleme', to cook on embers, reflecting origins among nomadic communities migrating from Central Asia into Anatolia.",
+      "de": "Der Name leitet sich wahrscheinlich vom türkischen 'közleme' ab, was 'auf Glut kochen' bedeutet, und spiegelt die Ursprünge unter nomadischen Gemeinschaften wider, die von Zentralasien nach Anatolien migrierten.",
+      "es": "El nombre probablemente deriva del turco 'közleme', cocinar sobre brasas, reflejando los orígenes entre comunidades nómadas que migraron de Asia Central a Anatolia.",
+      "fr": "Le nom dérive probablement du turc 'közleme', cuire sur la braise, reflétant les origines parmi les communautés nomades migrant d'Asie centrale vers l'Anatolie.",
+      "ro": "Numele derivă probabil din turcescul 'közleme', a găti pe jăratic, reflectând originile comunităților nomade care au migrat din Asia Centrală în Anatolia."
     }
   },
   "leaven": "none",
@@ -51,14 +59,22 @@
       "key": "water",
       "grams": 237,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "templado",
+        "fr": "tiède",
+        "ro": "călduț"
       }
     },
     {
       "key": "olive-oil",
       "grams": 41,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
@@ -75,7 +91,11 @@
       },
       "grams": 120,
       "note": {
-        "en": "roughly chopped, for the filling"
+        "en": "roughly chopped, for the filling",
+        "de": "grob gehackt, für die Füllung",
+        "es": "picado grueso, para el relleno",
+        "fr": "grossièrement haché, pour la garniture",
+        "ro": "tocat grosier, pentru umplutură"
       }
     },
     {
@@ -88,21 +108,33 @@
       },
       "grams": 110,
       "note": {
-        "en": "finely chopped, for the filling"
+        "en": "finely chopped, for the filling",
+        "de": "fein gehackt, für die Füllung",
+        "es": "finamente picado, para el relleno",
+        "fr": "finement haché, pour la garniture",
+        "ro": "tocat mărunt, pentru umplutură"
       }
     },
     {
       "key": "olive-oil",
       "grams": 27,
       "note": {
-        "en": "for cooking the filling"
+        "en": "for cooking the filling",
+        "de": "zum Garen der Füllung",
+        "es": "para cocinar el relleno",
+        "fr": "pour cuire la garniture",
+        "ro": "pentru gătirea umpluturii"
       }
     },
     {
       "key": "cheese",
       "grams": 150,
       "note": {
-        "en": "feta, crumbled, for the filling"
+        "en": "feta, crumbled, for the filling",
+        "de": "Feta, zerbröselt, für die Füllung",
+        "es": "feta, desmenuzado, para el relleno",
+        "fr": "feta, émietté, pour la garniture",
+        "ro": "feta, sfărâmat, pentru umplutură"
       }
     },
     {
@@ -115,7 +147,11 @@
       },
       "grams": 1,
       "note": {
-        "en": "for the filling"
+        "en": "for the filling",
+        "de": "für die Füllung",
+        "es": "para el relleno",
+        "fr": "pour la garniture",
+        "ro": "pentru umplutură"
       }
     }
   ],
@@ -123,7 +159,11 @@
     "count": 6,
     "pieceGrams": 194,
     "shape": {
-      "en": "filled, folded square or rectangle, thin"
+      "en": "filled, folded square or rectangle, thin",
+      "de": "gefülltes, gefaltetes Quadrat oder Rechteck, dünn",
+      "es": "cuadrado o rectángulo doblado y relleno, fino",
+      "fr": "carré ou rectangle plié et farci, fin",
+      "ro": "pătrat sau dreptunghi pliat și umplut, subțire"
     }
   },
   "time": {
@@ -163,7 +203,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best eaten hot off the griddle while the layers are crisp; leftovers soften as the filling's moisture seeps in, though reheating on a dry pan helps. Freezes well before cooking."
+      "en": "Best eaten hot off the griddle while the layers are crisp; leftovers soften as the filling's moisture seeps in, though reheating on a dry pan helps. Freezes well before cooking.",
+      "de": "Am besten heiß vom Grill, solange die Schichten knusprig sind; Reste werden weich, wenn die Feuchtigkeit der Füllung eindringt, aber Aufwärmen in einer trockenen Pfanne hilft. Lässt sich vor dem Kochen gut einfrieren.",
+      "es": "Mejor caliente de la plancha mientras las capas están crujientes; las sobras se ablandan a medida que la humedad del relleno penetra, aunque recalentar en una sartén seca ayuda. Se congela bien antes de cocinar.",
+      "fr": "Meilleur chaud de la plaque tandis que les couches sont croustillantes; les restes ramollissent à mesure que l'humidité de la garniture pénètre, bien que le réchauffage à la poêle sèche aide. Se congèle bien avant cuisson.",
+      "ro": "Cel mai bun fierbinte de pe grătar cât straturile sunt crocante; resturile se înmoaie pe măsură ce umezeala umpluturii pătrunde, deși reîncălzirea într-o tigaie uscată ajută. Se congela bine înainte de gătire."
     }
   },
   "equipment": [
@@ -288,7 +332,11 @@
     "site": "The Mediterranean Dish",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration recomputed from the source's own stated 473 g flour figure rather than its cup-based approximation, which implied a different flour weight per cup."
+      "en": "Hydration recomputed from the source's own stated 473 g flour figure rather than its cup-based approximation, which implied a different flour weight per cup.",
+      "de": "Hydratation neu berechnet anhand der eigenen Angabe von 473 g Mehl anstelle der tassenbasierten Näherung, die ein anderes Mehlgewicht pro Tasse implizierte.",
+      "es": "Hidratación recalculada a partir de los 473 g de harina indicados por la fuente en lugar de su aproximación en tazas, que implicaba un peso de harina diferente por taza.",
+      "fr": "Hydratation recalculée à partir des 473 g de farine indiqués par la source plutôt que de son approximation en tasses, qui impliquait un poids de farine différent par tasse.",
+      "ro": "Hidratare recalculată pe baza cifrei de 473 g făină specificată de sursă, nu pe aproximarea în căni, care implica o greutate diferită a făinii per cană."
     }
   },
   "tags": [

@@ -22,10 +22,18 @@
   "origin": {
     "country": "IE",
     "region": {
-      "en": "Ireland and Northern Ireland"
+      "en": "Ireland and Northern Ireland",
+      "de": "Irland und Nordirland",
+      "es": "Irlanda e Irlanda del Norte",
+      "fr": "Irlande et Irlande du Nord",
+      "ro": "Irlanda și Irlanda de Nord"
     },
     "note": {
-      "en": "Born from using up leftover boiled or mashed potato. The name farl comes from the Gaelic fardel, four parts, since the round is traditionally cut into quarters or sixths before frying; a centerpiece of the Ulster Fry breakfast."
+      "en": "Born from using up leftover boiled or mashed potato. The name farl comes from the Gaelic fardel, four parts, since the round is traditionally cut into quarters or sixths before frying; a centerpiece of the Ulster Fry breakfast.",
+      "de": "Entstanden aus der Verwertung von übrig gebliebenen gekochten oder gestampften Kartoffeln. Der Name Farl kommt vom Gälischen fardel, vier Teile, da die Runde traditionell vor dem Braten in Viertel oder Sechstel geschnitten wird; ein Herzstück des Ulster Fry-Frühstücks.",
+      "es": "Nacido de aprovechar el puré de patatas sobrante. El nombre farl proviene del gaélico fardel, cuatro partes, ya que el redondo se corta tradicionalmente en cuartos o sextos antes de freírlo; pieza central del desayuno Ulster Fry.",
+      "fr": "Né de l'utilisation des restes de pommes de terre bouillies ou en purée. Le nom farl vient du gaélique fardel, quatre parties, car le rond est traditionnellement coupé en quartiers ou sixièmes avant d'être frit; pièce maîtresse du petit-déjeuner Ulster Fry.",
+      "ro": "Născut din utilizarea cartofilor fierți sau piure rămași. Numele farl provine din gaelicul fardel, patru părți, deoarece rotundul este tăiat tradițional în sferturi sau șesimi înainte de prăjire; o piesă centrală a micului dejun Ulster Fry."
     }
   },
   "leaven": "none",
@@ -51,14 +59,22 @@
       "key": "mashed-potato",
       "grams": 650,
       "note": {
-        "en": "peeled potatoes, boiled and riced or sieved while hot, not raw mash"
+        "en": "peeled potatoes, boiled and riced or sieved while hot, not raw mash",
+        "de": "geschälte Kartoffeln, gekocht und heiß durch die Kartoffelpresse oder durchgesiebt, nicht roher Brei",
+        "es": "patatas peladas, hervidas y pasadas por el prensapuré o tamizadas calientes, no puré crudo",
+        "fr": "pommes de terre épluchées, cuites et passées au presse-purée ou tamisées chaudes, pas de purée crue",
+        "ro": "cartofi curățați de coajă, fierți și pasați sau cerneți când sunt fierbinți, nu piure crud"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 115,
       "note": {
-        "en": "plain/all-purpose flour"
+        "en": "plain/all-purpose flour",
+        "de": "glattes/universelles Mehl",
+        "es": "harina común/todo uso",
+        "fr": "farine tout usage",
+        "ro": "făină simplă/de uz general"
       }
     },
     {
@@ -79,7 +95,11 @@
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "half worked into the dough, half for frying"
+        "en": "half worked into the dough, half for frying",
+        "de": "zur Hälfte in den Teig eingearbeitet, zur Hälfte zum Braten",
+        "es": "la mitad incorporada a la masa, la mitad para freír",
+        "fr": "moitié incorporée à la pâte, moitié pour la friture",
+        "ro": "jumătate încorporată în aluat, jumătate pentru prăjire"
       }
     }
   ],
@@ -87,7 +107,11 @@
     "count": 6,
     "pieceGrams": 139,
     "shape": {
-      "en": "triangular farl, cut from an 8 in round"
+      "en": "triangular farl, cut from an 8 in round",
+      "de": "dreieckiger Farl, aus einer Runde von 20,3 cm geschnitten",
+      "es": "farl triangular, cortado de un redondo de 20,3 cm",
+      "fr": "farl triangulaire, coupé dans un rond de 20,3 cm",
+      "ro": "farl triunghiular, tăiat dintr-un rotund de 20,3 cm"
     }
   },
   "time": {
@@ -126,7 +150,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best fresh and hot from the pan; leftovers reheat well fried, and uncooked farls freeze well between sheets of parchment."
+      "en": "Best fresh and hot from the pan; leftovers reheat well fried, and uncooked farls freeze well between sheets of parchment.",
+      "de": "Am besten frisch und heiß aus der Pfanne; Reste lassen sich gut gebraten aufwärmen, und ungekochte Farls frieren sich gut zwischen Pergamentpapier ein.",
+      "es": "Mejor fresco y caliente de la sartén; las sobras se recalientan bien fritas, y los farls crudos se congelan bien entre hojas de papel pergamino.",
+      "fr": "Meilleur frais et chaud à la sortie de la poêle; les restes se réchauffent bien à la poêle, et les farls non cuits se congèlent bien entre des feuilles de papier sulfurisé.",
+      "ro": "Cel mai bun proaspăt și fierbinte din tigaie; resturile se reîncălzesc bine prăjite, iar farlurile necoapte se congelează bine între foi de pergament."
     }
   },
   "equipment": [
@@ -219,7 +247,11 @@
     "site": "Bigger Bolder Baking",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Boiled potato modeled as roughly 22% dry matter / 78% water to derive baker's percentages, since it fully replaces flour as the dough's main bulk here rather than acting as a minor addition."
+      "en": "Boiled potato modeled as roughly 22% dry matter / 78% water to derive baker's percentages, since it fully replaces flour as the dough's main bulk here rather than acting as a minor addition.",
+      "de": "Gekochte Kartoffel als etwa 22 % Trockenmasse / 78 % Wasser modelliert, um Bäckerprozente abzuleiten, da sie hier das Mehl als Hauptmasse des Teigs vollständig ersetzt und nicht als geringfügige Zugabe wirkt.",
+      "es": "Papa cocida modelada como aproximadamente 22% de materia seca / 78% de agua para derivar los porcentajes de panadero, ya que aquí reemplaza completamente a la harina como volumen principal de la masa en lugar de actuar como una adición menor.",
+      "fr": "Pomme de terre cuite modélisée comme environ 22 % de matière sèche / 78 % d'eau pour en déduire les pourcentages de boulanger, car elle remplace ici entièrement la farine comme volume principal de la pâte plutôt que d'agir comme un ajout mineur.",
+      "ro": "Cartoful fiert modelat ca aproximativ 22% substanță uscată / 78% apă pentru a deriva procentele de brutar, deoarece aici înlocuiește complet făina ca volum principal al aluatului, în loc să acționeze ca o adăugare minoră."
     }
   },
   "tags": [

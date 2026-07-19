@@ -22,10 +22,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "South Tyrol / Alto Adige (Südtirol)"
+      "en": "South Tyrol / Alto Adige (Südtirol)",
+      "de": "Südtirol / Alto Adige",
+      "es": "Tirol del Sur / Alto Adigio",
+      "fr": "Tyrol du Sud / Haut-Adige",
+      "ro": "Tirolul de Sud / Alto Adige"
     },
     "note": {
-      "en": "A German-speaking Alpine province of Italy; Schüttelbrot is a historic farmhouse keeping-bread shared with neighboring North and East Tyrol in Austria."
+      "en": "A German-speaking Alpine province of Italy; Schüttelbrot is a historic farmhouse keeping-bread shared with neighboring North and East Tyrol in Austria.",
+      "de": "Eine deutschsprachige Alpenprovinz Italiens; Schüttelbrot ist ein traditionelles Bauernhaus-Haltbrot, das mit dem benachbarten Nord- und Osttirol in Österreich geteilt wird.",
+      "es": "Una provincia alpina de habla alemana de Italia; el Schüttelbrot es un pan de conservación histórico de granja compartido con los vecinos Tirol del Norte y Tirol Oriental en Austria.",
+      "fr": "Une province alpine italienne de langue allemande ; le Schüttelbrot est un pain de garde de ferme historique partagé avec le Tyrol du Nord et le Tyrol oriental voisins en Autriche.",
+      "ro": "O provincie alpină de limbă germană a Italiei; Schüttelbrot este o pâine de conservare istorică de fermă, comună cu Tirolul de Nord și Tirolul de Est vecine din Austria."
     }
   },
   "leaven": "yeast",
@@ -51,14 +59,22 @@
       "key": "flour:rye-whole",
       "grams": 900,
       "note": {
-        "en": "split between a yeasted pre-ferment and the main dough"
+        "en": "split between a yeasted pre-ferment and the main dough",
+        "de": "aufgeteilt zwischen einem Hefe-Vorteig und dem Hauptteig",
+        "es": "dividido entre un prefermento con levadura y la masa principal",
+        "fr": "réparti entre un préferment levuré et la pâte principale",
+        "ro": "împărțit între un preferment cu drojdie și aluatul principal"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 300,
       "note": {
-        "en": "Italian Tipo 1 flour"
+        "en": "Italian Tipo 1 flour",
+        "de": "italienisches Tipo-1-Mehl",
+        "es": "harina italiana Tipo 1",
+        "fr": "farine italienne Tipo 1",
+        "ro": "făină italiană Tipo 1"
       }
     },
     {
@@ -69,7 +85,11 @@
       "key": "fresh-yeast",
       "grams": 42,
       "note": {
-        "en": "one full yeast cube, split across both stages"
+        "en": "one full yeast cube, split across both stages",
+        "de": "ein ganzer Hefewürfel, auf beide Stufen aufgeteilt",
+        "es": "un cubo de levadura entero, dividido entre ambas etapas",
+        "fr": "un cube de levure entier, réparti entre les deux étapes",
+        "ro": "un cub întreg de drojdie, împărțit pe ambele etape"
       }
     },
     {
@@ -80,28 +100,44 @@
       "key": "caraway",
       "grams": 2.5,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
       "key": "fennel-seed",
       "grams": 2.5,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
       "key": "anise",
       "grams": 2.5,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
       "key": "coriander-seed",
       "grams": 2.5,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
@@ -114,7 +150,11 @@
       },
       "grams": 2.5,
       "note": {
-        "en": "ground; traditional Tyrolean spice-mix component"
+        "en": "ground; traditional Tyrolean spice-mix component",
+        "de": "gemahlen; traditionelle Zutat der Tiroler Gewürzmischung",
+        "es": "molido; componente tradicional de la mezcla de especias tirolesa",
+        "fr": "moulu ; composant traditionnel du mélange d’épices tyrolien",
+        "ro": "măcinat; component tradițional al amestecului de mirodenii tirolez"
       }
     }
   ],
@@ -122,7 +162,11 @@
     "count": 12,
     "pieceGrams": 140,
     "shape": {
-      "en": "paper-thin rounds, shaken flat by hand"
+      "en": "paper-thin rounds, shaken flat by hand",
+      "de": "hauchdünne runde Fladen, von Hand flach geschüttelt",
+      "es": "discos finos como papel, aplanados a mano sacudiéndolos",
+      "fr": "ronds fins comme du papier, aplatis à la main en secouant",
+      "ro": "discuri subțiri ca hârtia, aplatizate cu mâna prin scuturare"
     }
   },
   "time": {
@@ -163,7 +207,11 @@
     "freshDays": 120,
     "freezes": false,
     "note": {
-      "en": "Baked hard and thin specifically to dry out fully, a keeping-bread built to last months in a dry pantry, not a fresh-eating loaf."
+      "en": "Baked hard and thin specifically to dry out fully, a keeping-bread built to last months in a dry pantry, not a fresh-eating loaf.",
+      "de": "Hart und dünn gebacken, um vollständig zu trocknen; ein Haltbrot, das in einer trockenen Speisekammer monatelang haltbar ist, kein Frischbrot.",
+      "es": "Horneado duro y delgado específicamente para secarse por completo, un pan de conservación diseñado para durar meses en una despensa seca, no un pan para consumo fresco.",
+      "fr": "Cuit dur et fin spécifiquement pour sécher complètement, un pain de garde conçu pour durer des mois dans un garde-manger sec, pas un pain à consommer frais.",
+      "ro": "Copt tare și subțire special pentru a se usca complet, o pâine de conservare făcută să reziste luni într-o cămară uscată, nu o pâine de consumat proaspătă."
     }
   },
   "equipment": [
@@ -288,7 +336,11 @@
     "site": "Pur Südtirol",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages computed from the stated gram/ml quantities; method paraphrased; the traditional wooden shaking board has no matching equipment enum value so only the baking pan is listed."
+      "en": "Percentages computed from the stated gram/ml quantities; method paraphrased; the traditional wooden shaking board has no matching equipment enum value so only the baking pan is listed.",
+      "de": "Prozente aus den angegebenen Gramm/ml-Mengen berechnet; Methode umschrieben; das traditionelle Holzschüttelbrett hat keinen passenden Eintrag in der Geräte-Aufzählung, daher ist nur das Backblech aufgeführt.",
+      "es": "Porcentajes calculados a partir de las cantidades indicadas en gramos/ml; método parafraseado; la tabla de agitación de madera tradicional no tiene un valor de enumeración de equipo correspondiente, por lo que solo se enumera la bandeja de horno.",
+      "fr": "Pourcentages calculés à partir des quantités indiquées en grammes/ml ; méthode paraphrasée ; la planche à secouer traditionnelle en bois n’a pas de valeur d’énumération d’équipement correspondante, donc seule la plaque de cuisson est répertoriée.",
+      "ro": "Procente calculate din cantitățile declarate în grame/ml; metodă parafrazată; tabla tradițională de scuturat din lemn nu are o valoare de enumerare a echipamentului corespunzătoare, așa că este listată doar tava de copt."
     }
   },
   "tags": [

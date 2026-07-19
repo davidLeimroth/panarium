@@ -23,10 +23,18 @@
   "origin": {
     "country": "GR",
     "region": {
-      "en": "also Cyprus"
+      "en": "also Cyprus",
+      "de": "auch Zypern",
+      "es": "también Chipre",
+      "fr": "aussi Chypre",
+      "ro": "și Cipru"
     },
     "note": {
-      "en": "Named for St Basil of Caesarea, a 4th-century bishop remembered for generosity to the poor; a coin baked into the dough brings its finder luck for the coming year."
+      "en": "Named for St Basil of Caesarea, a 4th-century bishop remembered for generosity to the poor; a coin baked into the dough brings its finder luck for the coming year.",
+      "de": "Benannt nach dem heiligen Basilius von Cäsarea, einem Bischof des 4. Jahrhunderts, der für seine Großzügigkeit gegenüber den Armen bekannt ist; eine in den Teig eingebackene Münze bringt dem Finder Glück für das kommende Jahr.",
+      "es": "Lleva el nombre de San Basilio de Cesarea, un obispo del siglo IV recordado por su generosidad con los pobres; una moneda horneada en la masa trae suerte a quien la encuentra para el año venidero.",
+      "fr": "Nommé d'après saint Basile de Césarée, un évêque du IVe siècle connu pour sa générosité envers les pauvres; une pièce cuite dans la pâte porte chance à celui qui la trouve pour l'année à venir.",
+      "ro": "Numită după Sfântul Vasile al Cezareei, un episcop din secolul al IV-lea cunoscut pentru generozitatea sa față de săraci; o monedă coptă în aluat aduce noroc celui care o găsește pentru anul care vine."
     }
   },
   "leaven": "yeast",
@@ -69,7 +77,11 @@
       "key": "water",
       "grams": 65,
       "note": {
-        "en": "tepid, to activate the yeast"
+        "en": "tepid, to activate the yeast",
+        "de": "lauwarm, um die Hefe zu aktivieren",
+        "es": "tibia, para activar la levadura",
+        "fr": "tiède, pour activer la levure",
+        "ro": "călduță, pentru a activa drojdia"
       }
     },
     {
@@ -80,14 +92,22 @@
       "key": "orange-zest",
       "grams": 3,
       "note": {
-        "en": "from about half an orange"
+        "en": "from about half an orange",
+        "de": "von etwa einer halben Orange",
+        "es": "de aproximadamente media naranja",
+        "fr": "d'environ une demi-orange",
+        "ro": "de la aproximativ o jumătate de portocală"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
@@ -110,7 +130,11 @@
       },
       "grams": 1,
       "note": {
-        "en": "crushed with a little of the sugar"
+        "en": "crushed with a little of the sugar",
+        "de": "mit etwas Zucker zerstoßen",
+        "es": "machacada con un poco del azúcar",
+        "fr": "écrasé avec un peu du sucre",
+        "ro": "zdrobit cu puțin din zahăr"
       }
     }
   ],
@@ -118,7 +142,11 @@
     "count": 1,
     "pieceGrams": 780,
     "shape": {
-      "en": "braided rope coiled into a round tin"
+      "en": "braided rope coiled into a round tin",
+      "de": "Geflochtene Stränge zu einer runden Form gewunden",
+      "es": "Cuerda trenzada enrollada en un molde redondo",
+      "fr": "Cordon tressé enroulé dans un moule rond",
+      "ro": "Funie împletită încolăcită într-o tavă rotundă"
     }
   },
   "time": {
@@ -160,7 +188,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Mastic and the high sugar content keep it soft for several days, unusually long for a yeasted loaf."
+      "en": "Mastic and the high sugar content keep it soft for several days, unusually long for a yeasted loaf.",
+      "de": "Mastix und der hohe Zuckergehalt halten es mehrere Tage weich, ungewöhnlich lange für einen gehefeten Laib.",
+      "es": "El mástique y el alto contenido de azúcar lo mantienen blando durante varios días, inusualmente largo para un pan con levadura.",
+      "fr": "Le mastic et la teneur élevée en sucre le gardent mou plusieurs jours, exceptionnellement long pour un pain levé.",
+      "ro": "Mastica și conținutul ridicat de zahăr îl mențin moale mai multe zile, neobișnuit de mult pentru o pâine dospită."
     }
   },
   "equipment": [
@@ -302,7 +334,11 @@
     "site": "My Greek Dish",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt raised slightly from the source's 1/2 tsp for balance. Coin custom and cake-variant note per Wikipedia's Vasilopita entry."
+      "en": "Salt raised slightly from the source's 1/2 tsp for balance. Coin custom and cake-variant note per Wikipedia's Vasilopita entry.",
+      "de": "Salz leicht erhöht von 1/2 TL der Quelle für die Balance. Münzbrauch und Kuchenvariantenhinweis nach dem Wikipedia-Eintrag zu Vasilopita.",
+      "es": "Sal ligeramente aumentada de la 1/2 cucharadita de la fuente para equilibrar. Costumbre de la moneda y nota de variante de pastel según la entrada de Wikipedia de Vasilopita.",
+      "fr": "Sel légèrement augmenté par rapport aux 1/2 c. à café de la source pour l'équilibre. Coutume de la pièce et note de variante gâteau selon l'entrée Wikipédia de Vassilopita.",
+      "ro": "Sarea ușor crescută față de 1/2 linguriță a sursei pentru echilibru. Obiceiul monedei și nota despre varianta de prăjitură conform intrării Wikipedia despre Vasilopita."
     }
   },
   "tags": [

@@ -22,10 +22,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Lombardy"
+      "en": "Lombardy",
+      "de": "Lombardei",
+      "es": "Lombardía",
+      "fr": "Lombardie",
+      "ro": "Lombardia"
     },
     "note": {
-      "en": "Lombardy's Easter icon: legends tie the dove to medieval Pavia, but today's colomba was shaped by 20th-century Milanese bakers giving panettone an Easter sibling."
+      "en": "Lombardy's Easter icon: legends tie the dove to medieval Pavia, but today's colomba was shaped by 20th-century Milanese bakers giving panettone an Easter sibling.",
+      "de": "Ostersymbol der Lombardei: Legenden verbinden die Taube mit dem mittelalterlichen Pavia, aber die heutige Colomba wurde von Mailänder Bäckern des 20. Jahrhunderts geprägt, die dem Panettone ein österliches Geschwisterchen gaben.",
+      "es": "Icono pascual de Lombardía: las leyendas vinculan la paloma con la Pavía medieval, pero la colomba actual fue moldeada por panaderos milaneses del siglo XX que le dieron al panettone un hermano pascual.",
+      "fr": "Icône pascale de Lombardie: les légendes lient la colombe à Pavie médiévale, mais la colomba actuelle a été façonnée par les boulangers milanais du XXe siècle donnant au panettone un frère de Pâques.",
+      "ro": "Icoana Paștelui din Lombardia: legendele leagă porumbelul de Pavie medievală, dar colomba de astăzi a fost modelată de brutarii milanezi ai secolului XX, dându-i panettone-ului un frate de Paște."
     }
   },
   "leaven": "yeast",
@@ -50,21 +58,33 @@
       "key": "flour:wheat-white",
       "grams": 390,
       "note": {
-        "en": "120 g of it in the overnight biga"
+        "en": "120 g of it in the overnight biga",
+        "de": "120 g davon in der Über-Nacht-Biga",
+        "es": "120 g de ello en la biga de noche",
+        "fr": "120 g de celle-ci dans la biga de nuit",
+        "ro": "120 g din aceasta în biga de peste noapte"
       }
     },
     {
       "key": "water",
       "grams": 113,
       "note": {
-        "en": "in the biga"
+        "en": "in the biga",
+        "de": "in der Biga",
+        "es": "en la biga",
+        "fr": "dans la biga",
+        "ro": "în biga"
       }
     },
     {
       "key": "instant-yeast",
       "grams": 7,
       "note": {
-        "en": "a pinch in the biga, the rest in the dough"
+        "en": "a pinch in the biga, the rest in the dough",
+        "de": "eine Prise in der Biga, der Rest im Teig",
+        "es": "una pizca en la biga, el resto en la masa",
+        "fr": "une pincée dans la biga, le reste dans la pâte",
+        "ro": "un praf în biga, restul în aluat"
       }
     },
     {
@@ -75,21 +95,33 @@
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "soft"
+        "en": "soft",
+        "de": "weich",
+        "es": "blanda",
+        "fr": "mou",
+        "ro": "moale"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large"
+        "en": "2 large",
+        "de": "2 große",
+        "es": "2 grandes",
+        "fr": "2 gros",
+        "ro": "2 mari"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 18,
       "note": {
-        "en": "white reserved for the glaze"
+        "en": "white reserved for the glaze",
+        "de": "Eiweiß für den Guss zurückbehalten",
+        "es": "clara reservada para el glaseado",
+        "fr": "blanc réservé pour le glaçage",
+        "ro": "albușuri rezervate pentru glazură"
       }
     },
     {
@@ -100,14 +132,22 @@
       "key": "raisins",
       "grams": 170,
       "note": {
-        "en": "golden; candied orange peel in traditional versions"
+        "en": "golden; candied orange peel in traditional versions",
+        "de": "golden; kandierte Orangenschale in traditionellen Versionen",
+        "es": "dorado; cáscara de naranja confitada en versiones tradicionales",
+        "fr": "blond; écorce d'orange confite dans les versions traditionnelles",
+        "ro": "auriu; coajă de portocală confiată în versiunile tradiționale"
       }
     },
     {
       "key": "orange-zest",
       "grams": 6,
       "note": {
-        "en": "1 orange; or fiori di Sicilia"
+        "en": "1 orange; or fiori di Sicilia",
+        "de": "1 Orange; oder Fiori di Sicilia",
+        "es": "1 naranja; o fiori di Sicilia",
+        "fr": "1 orange; ou fiori di Sicilia",
+        "ro": "1 portocală; sau fiori di Sicilia"
       }
     },
     {
@@ -118,14 +158,22 @@
       "key": "almonds",
       "grams": 44,
       "note": {
-        "en": "ground into the glaze plus sliced on top"
+        "en": "ground into the glaze plus sliced on top",
+        "de": "gemahlen in den Guss plus in Scheiben obendrauf",
+        "es": "molido en el glaseado más en rodajas encima",
+        "fr": "moulu dans le glaçage plus en tranches sur le dessus",
+        "ro": "măcinat în glazură plus feliat deasupra"
       }
     },
     {
       "key": "sugar",
       "grams": 25,
       "note": {
-        "en": "in the glaze"
+        "en": "in the glaze",
+        "de": "im Guss",
+        "es": "en el glaseado",
+        "fr": "dans le glaçage",
+        "ro": "în glazură"
       }
     },
     {
@@ -138,7 +186,11 @@
       },
       "grams": 28,
       "note": {
-        "en": "scattered over the glaze"
+        "en": "scattered over the glaze",
+        "de": "über den Guss gestreut",
+        "es": "esparcido sobre el glaseado",
+        "fr": "parsemé sur le glaçage",
+        "ro": "presărat peste glazură"
       }
     }
   ],
@@ -146,7 +198,11 @@
     "count": 1,
     "pieceGrams": 950,
     "shape": {
-      "en": "dove of two crossed logs (or paper colomba mold)"
+      "en": "dove of two crossed logs (or paper colomba mold)",
+      "de": "Taube aus zwei gekreuzten Teigsträngen (oder Papier-Colomba-Form)",
+      "es": "paloma de dos troncos cruzados (o molde de papel de colomba)",
+      "fr": "colombe de deux bûches croisées (ou moule en papier colomba)",
+      "ro": "porumbel din două bucăți încrucișate (sau formă de hârtie colomba)"
     }
   },
   "time": {
@@ -189,7 +245,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The almond glaze keeps the crumb moist; wrap airtight. Artisan natural-leaven versions keep far longer."
+      "en": "The almond glaze keeps the crumb moist; wrap airtight. Artisan natural-leaven versions keep far longer.",
+      "de": "Der Mandelguss hält die Krume feucht; luftdicht verpacken. Handwerkliche Versionen mit Natursauerteig halten wesentlich länger.",
+      "es": "El glaseado de almendra mantiene la miga húmeda; envolver hermético. Las versiones artesanales con masa madre natural duran mucho más.",
+      "fr": "Le glaçage aux amandes garde la mie humide; emballer hermétiquement. Les versions artisanales au levain naturel se conservent bien plus longtemps.",
+      "ro": "Glazura de migdale menține miezul umed; înfășoară ermetic. Versiunile artizanale cu maia naturală rezistă mult mai mult."
     }
   },
   "equipment": [
@@ -299,7 +359,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Home-scale yeasted biga version; artisan colomba uses lievito madre (difficulty 5). sugarPct counts dough sugar only; glaze sugars listed separately."
+      "en": "Home-scale yeasted biga version; artisan colomba uses lievito madre (difficulty 5). sugarPct counts dough sugar only; glaze sugars listed separately.",
+      "de": "Haushaltsgroße Biga-Version mit Hefe; handwerkliche Colomba verwendet Lievito Madre (Schwierigkeit 5). sugarPct zählt nur den Teigzucker; Gusszucker separat aufgeführt.",
+      "es": "Versión casera de biga con levadura; la colomba artesanal usa lievito madre (dificultad 5). sugarPct cuenta solo el azúcar de la masa; azúcares del glaseado listados por separado.",
+      "fr": "Version maison à la biga levurée; la colomba artisanale utilise du lievito madre (difficulté 5). sugarPct compte le sucre de la pâte seulement; sucres du glaçage listés séparément.",
+      "ro": "Versiune casnică cu biga cu drojdie; colomba artizanală folosește lievito madre (dificultate 5). sugarPct numără doar zahărul din aluat; zaharurile glazurei listate separat."
     }
   },
   "tags": [

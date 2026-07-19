@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national, especially Périgord and Savoie walnut country"
+      "en": "national, especially Périgord and Savoie walnut country",
+      "de": "landesweit, besonders in den Walnussregionen Périgord und Savoie",
+      "es": "nacional, especialmente la zona de nueces de Périgord y Saboya",
+      "fr": "national, surtout le pays de la noix en Périgord et en Savoie",
+      "ro": "la nivel național, în special zona nucilor din Périgord și Savoia"
     },
     "note": {
-      "en": "A staple of the French cheese course, pairing particularly well with goat and blue cheeses."
+      "en": "A staple of the French cheese course, pairing particularly well with goat and blue cheeses.",
+      "de": "Ein fester Bestandteil des französischen Käsegangs, der besonders gut zu Ziegen- und Blauschimmelkäse passt.",
+      "es": "Un clásico del plato de quesos francés, combina especialmente bien con quesos de cabra y azules.",
+      "fr": "Un incontournable du plateau de fromages français, s'accorde particulièrement bien avec les chèvres et les bleus.",
+      "ro": "Un element de bază al platoului de brânzeturi franțuzesc, se potrivește deosebit de bine cu brânzeturile de capră și cele cu mucegai."
     }
   },
   "leaven": "hybrid",
@@ -49,21 +57,33 @@
       "key": "flour:wheat-white",
       "grams": 1000,
       "note": {
-        "en": "T65"
+        "en": "T65",
+        "de": "T65",
+        "es": "T65",
+        "fr": "T65",
+        "ro": "T65"
       }
     },
     {
       "key": "water",
       "grams": 700,
       "note": {
-        "en": "includes the walnut soaking water"
+        "en": "includes the walnut soaking water",
+        "de": "inklusive des Walnuss-Einweichwassers",
+        "es": "incluye el agua de remojo de las nueces",
+        "fr": "comprend l'eau de trempage des noix",
+        "ro": "include apa de înmuiere a nucilor"
       }
     },
     {
       "key": "levain",
       "grams": 200,
       "note": {
-        "en": "liquid levain"
+        "en": "liquid levain",
+        "de": "flüssiger Levain",
+        "es": "levain líquido",
+        "fr": "levain liquide",
+        "ro": "levain lichid"
       }
     },
     {
@@ -82,7 +102,11 @@
       "key": "walnuts",
       "grams": 200,
       "note": {
-        "en": "toasted, then briefly rehydrated"
+        "en": "toasted, then briefly rehydrated",
+        "de": "geröstet, dann kurz rehydriert",
+        "es": "tostadas, luego rehidratadas brevemente",
+        "fr": "toastées, puis brièvement réhydratées",
+        "ro": "prăjite, apoi rehidratate scurt"
       }
     }
   ],
@@ -90,7 +114,11 @@
     "count": 5,
     "pieceGrams": 350,
     "shape": {
-      "en": "bâtards"
+      "en": "bâtards",
+      "de": "Bâtards",
+      "es": "bâtards",
+      "fr": "bâtards",
+      "ro": "bâtards"
     }
   },
   "time": {
@@ -132,7 +160,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Walnut oils turn slightly after a few days at room temperature; freezing keeps it tasting fresh."
+      "en": "Walnut oils turn slightly after a few days at room temperature; freezing keeps it tasting fresh.",
+      "de": "Walnussöle werden nach ein paar Tagen bei Zimmertemperatur leicht ranzig; Einfrieren hält es frisch.",
+      "es": "Los aceites de nuez se vuelven ligeramente rancios a los pocos días a temperatura ambiente; la congelación lo mantiene fresco.",
+      "fr": "Les huiles de noix rancissent légèrement après quelques jours à température ambiante; la congélation le garde frais.",
+      "ro": "Uleiurile din nuci se râncezesc ușor după câteva zile la temperatura camerei; congelația îl păstrează proaspăt."
     }
   },
   "equipment": [
@@ -242,7 +274,11 @@
     "site": "Technomitron (AAINB)",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Liquid levain's own flour/water content folded into the total baker's percentages."
+      "en": "Liquid levain's own flour/water content folded into the total baker's percentages.",
+      "de": "Der Mehl-/Wasseranteil des flüssigen Levains in die gesamten Bäckerprozente eingerechnet.",
+      "es": "El contenido de harina/agua del levain líquido integrado en los porcentajes totales del panadero.",
+      "fr": "La teneur en farine/eau du levain liquide intégrée dans les pourcentages totaux du boulanger.",
+      "ro": "Conținutul de făină/apă al levainului lichid integrat în procentele totale de panificație."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "SE",
     "region": {
-      "en": "Sweden (also Norway and Denmark)"
+      "en": "Sweden (also Norway and Denmark)",
+      "de": "Schweden (auch Norwegen und Dänemark)",
+      "es": "Suecia (también Noruega y Dinamarca)",
+      "fr": "Suède (également Norvège et Danemark)",
+      "ro": "Suedia (de asemenea Norvegia și Danemarca)"
     },
     "note": {
-      "en": "Named 'Lucia's cats' for their curled shape; the tradition blends the medieval St. Lucia light festival with early-20th-century saffron marketing by Swedish millers and bakers."
+      "en": "Named 'Lucia's cats' for their curled shape; the tradition blends the medieval St. Lucia light festival with early-20th-century saffron marketing by Swedish millers and bakers.",
+      "de": "Benannt als 'Luciaskatzen' nach ihrer gerollten Form; die Tradition verbindet das mittelalterliche Lucia-Lichterfest mit der Safranvermarktung schwedischer Müller und Bäcker des frühen 20. Jahrhunderts.",
+      "es": "Nombrados 'gatos de Lucía' por su forma rizada; la tradición combina el festival medieval de la luz de Santa Lucía con la comercialización del azafrán por molineros y panaderos suecos de principios del siglo XX.",
+      "fr": "Nommés 'chats de Lucie' pour leur forme enroulée; la tradition mêle la fête médiévale de la lumière de Sainte-Lucie au marketing du safran par les meuniers et boulangers suédois du début du XXe siècle.",
+      "ro": "Numite 'pisicile Luciei' după forma lor ondulată; tradiția îmbină festivalul medieval al luminii Sfintei Lucia cu marketingul de șofran al morarilor și brutarilor suedezi de la începutul secolului XX."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "milk",
       "grams": 500,
       "note": {
-        "en": "room temperature"
+        "en": "room temperature",
+        "de": "Raumtemperatur",
+        "es": "temperatura ambiente",
+        "fr": "température ambiante",
+        "ro": "temperatura camerei"
       }
     },
     {
@@ -65,21 +77,33 @@
       "key": "butter",
       "grams": 200,
       "note": {
-        "en": "salted, softened"
+        "en": "salted, softened",
+        "de": "gesalzen, weich",
+        "es": "salada, ablandada",
+        "fr": "salé, ramolli",
+        "ro": "sărat, înmuiat"
       }
     },
     {
       "key": "sugar",
       "grams": 154,
       "note": {
-        "en": "150 g in the dough, 4 g for grinding the saffron"
+        "en": "150 g in the dough, 4 g for grinding the saffron",
+        "de": "150 g im Teig, 4 g zum Mahlen des Safrans",
+        "es": "150 g en la masa, 4 g para moler el azafrán",
+        "fr": "150 g dans la pâte, 4 g pour moudre le safran",
+        "ro": "150 g în aluat, 4 g pentru măcinarea șofranului"
       }
     },
     {
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "estimated from the salted butter; add a pinch more if using unsalted"
+        "en": "estimated from the salted butter; add a pinch more if using unsalted",
+        "de": "aus der gesalzenen Butter geschätzt; bei ungesalzener Butter eine Prise mehr zugeben",
+        "es": "estimada de la mantequilla salada; añadir una pizca más si se usa sin sal",
+        "fr": "estimé à partir du beurre salé; ajouter une pincée supplémentaire si non salé",
+        "ro": "estimat din untul sărat; adaugă un praf în plus dacă folosești nesărat"
       }
     },
     {
@@ -92,21 +116,33 @@
       },
       "grams": 1.5,
       "note": {
-        "en": "ground with sugar and steeped in 2 tbsp rum or brandy"
+        "en": "ground with sugar and steeped in 2 tbsp rum or brandy",
+        "de": "mit Zucker gemahlen und in 2 EL Rum oder Brandy eingelegt",
+        "es": "molido con azúcar y remojado en 2 cucharadas de ron o brandy",
+        "fr": "moulu avec du sucre et trempé dans 2 c. à soupe de rhum ou d'eau-de-vie",
+        "ro": "măcinat cu zahăr și înmuiat în 2 linguri de rom sau brandy"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for egg wash"
+        "en": "for egg wash",
+        "de": "für die Eierwasche",
+        "es": "para el baño de huevo",
+        "fr": "pour la dorure à l'oeuf",
+        "ro": "pentru unsul cu ou"
       }
     },
     {
       "key": "raisins",
       "grams": 40,
       "note": {
-        "en": "2 pressed into each bun"
+        "en": "2 pressed into each bun",
+        "de": "2 in jedes Brötchen gedrückt",
+        "es": "2 presionadas en cada bollo",
+        "fr": "2 enfoncées dans chaque petit pain",
+        "ro": "2 presate în fiecare chiștoc"
       }
     }
   ],
@@ -114,7 +150,11 @@
     "count": 40,
     "pieceGrams": 50,
     "shape": {
-      "en": "S-curled bun (\"Lucia's cat\") with a raisin in each spiral"
+      "en": "S-curled bun (\"Lucia's cat\") with a raisin in each spiral",
+      "de": "S-förmiges Brötchen (Luciaskatze) mit einer Rosine in jeder Spirale",
+      "es": "bollo en forma de S (gato de Lucía) con una pasa en cada espiral",
+      "fr": "petit pain en S (chat de Lucie) avec un raisin sec dans chaque spirale",
+      "ro": "chiștoc în formă de S (pisica Luciei) cu o stafidă în fiecare spirală"
     }
   },
   "time": {
@@ -157,7 +197,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day they're baked while the crumb is still pillowy; freeze extras and refresh in a warm oven."
+      "en": "Best the day they're baked while the crumb is still pillowy; freeze extras and refresh in a warm oven.",
+      "de": "Am besten am Backtag, solange die Krume noch fluffig ist; überschüssige einfrieren und im warmen Ofen auffrischen.",
+      "es": "Mejor el día de horneado mientras la miga esté esponjosa; congelar los sobrantes y refrescar en horno tibio.",
+      "fr": "Meilleur le jour de la cuisson tant que la mie est encore moelleuse; congeler les surplus et les rafraîchir au four tiède.",
+      "ro": "Cei mai buni în ziua coacerii cât miezul este încă pufos; congelează surplusul și reîmprospătează în cuptorul cald."
     }
   },
   "equipment": [
@@ -267,7 +311,11 @@
     "site": "Always Use Butter",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt estimated from the salted butter the source specifies, since no separate salt is listed; the rum soak and egg wash are treated as minor additions outside the headline formula."
+      "en": "Salt estimated from the salted butter the source specifies, since no separate salt is listed; the rum soak and egg wash are treated as minor additions outside the headline formula.",
+      "de": "Salz aus der von der Quelle angegebenen gesalzenen Butter geschätzt, da kein separates Salz aufgeführt ist; der Rumansatz und die Eierwasche werden als geringfügige Zugaben außerhalb der Hauptformel behandelt.",
+      "es": "Sal estimada de la mantequilla salada que especifica la fuente, ya que no se lista sal separada; el remojo en ron y el baño de huevo se tratan como adiciones menores fuera de la fórmula principal.",
+      "fr": "Sel estimé à partir du beurre salé spécifié par la source, puisqu'aucun sel séparé n'est listé; le trempage au rhum et la dorure sont traités comme des ajouts mineurs hors de la formule principale.",
+      "ro": "Sarea estimată din untul sărat specificat de sursă, deoarece nu este listată sare separată; înmuierea în rom și unsul cu ou sunt tratate ca adaosuri minore în afara formulei principale."
     }
   },
   "tags": [

@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "San Francisco, California"
+      "en": "San Francisco, California",
+      "de": "San Francisco, Kalifornien",
+      "es": "San Francisco, California",
+      "fr": "San Francisco, Californie",
+      "ro": "San Francisco, California"
     },
     "note": {
-      "en": "A Tartine Bakery variation on Chad Robertson's country loaf; distinct from the traditional French levain aux noix it takes inspiration from."
+      "en": "A Tartine Bakery variation on Chad Robertson's country loaf; distinct from the traditional French levain aux noix it takes inspiration from.",
+      "de": "Eine Tartine-Bakery-Variation von Chad Robertsons Landbrot; unterscheidet sich vom traditionellen französischen levain aux noix, von dem es inspiriert ist.",
+      "es": "Una variación de Tartine Bakery del pan rústico de Chad Robertson; distinto del tradicional levain aux noix francés del que toma inspiración.",
+      "fr": "Une variation de Tartine Bakery sur le pain de campagne de Chad Robertson; distinct du traditionnel levain aux noix français dont il s'inspire.",
+      "ro": "O variație Tartine Bakery a pâinii de țară a lui Chad Robertson; distinctă de tradiționalul levain aux noix francez de la care se inspiră."
     }
   },
   "leaven": "sourdough",
@@ -49,7 +57,11 @@
       "key": "flour:wheat-white",
       "grams": 900,
       "note": {
-        "en": "white bread flour"
+        "en": "white bread flour",
+        "de": "Weizenmehl (hell)",
+        "es": "harina de pan blanca",
+        "fr": "farine blanche pour pain",
+        "ro": "făină albă de pâine"
       }
     },
     {
@@ -64,7 +76,11 @@
       "key": "sourdough-starter",
       "grams": 30,
       "note": {
-        "en": "mature, to build the overnight leaven"
+        "en": "mature, to build the overnight leaven",
+        "de": "reif, für den Sauerteigansatz über Nacht",
+        "es": "maduro, para preparar el prefermento de noche",
+        "fr": "mûr, pour construire le levain de nuit",
+        "ro": "matur, pentru construirea maielei peste noapte"
       }
     },
     {
@@ -75,7 +91,11 @@
       "key": "walnuts",
       "grams": 260,
       "note": {
-        "en": "toasted, shelled"
+        "en": "toasted, shelled",
+        "de": "geröstet, geschält",
+        "es": "tostadas, peladas",
+        "fr": "torréfiées, décortiquées",
+        "ro": "prăjite, decojite"
       }
     }
   ],
@@ -83,7 +103,11 @@
     "count": 2,
     "pieceGrams": 1050,
     "shape": {
-      "en": "one batard, one boule"
+      "en": "one batard, one boule",
+      "de": "ein Bâtard, eine Boule",
+      "es": "un batard, una boule",
+      "fr": "un batard, une boule",
+      "ro": "un batard, o boule"
     }
   },
   "time": {
@@ -124,7 +148,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The crumb around the walnuts deepens to purple-brown over the first day, a normal reaction with fermentation tannins."
+      "en": "The crumb around the walnuts deepens to purple-brown over the first day, a normal reaction with fermentation tannins.",
+      "de": "Die Krume um die Walnüsse wird am ersten Tag violett-braun, eine normale Reaktion mit Fermentationsgerbstoffen.",
+      "es": "La miga alrededor de las nueces se oscurece a marrón violáceo durante el primer día, una reacción normal con los taninos de fermentación.",
+      "fr": "La mie autour des noix fonce au brun violacé pendant le premier jour, une réaction normale avec les tanins de fermentation.",
+      "ro": "Miezul din jurul nucilor se întunecă spre maro-violet în prima zi, o reacție normală cu taninii de fermentație."
     }
   },
   "equipment": [
@@ -267,7 +295,11 @@
     "author": "Maurizio Leo, after Chad Robertson / Tartine Bread",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages include the leaven's flour/water (only part of the build is used, prorated); walnut weight estimated from the stated '2 cups'."
+      "en": "Percentages include the leaven's flour/water (only part of the build is used, prorated); walnut weight estimated from the stated '2 cups'.",
+      "de": "Prozentsätze enthalten das Mehl/Wasser des Sauerteigansatzes (nur ein Teil des Ansatzes wird verwendet, anteilig berechnet); Walnussgewicht aus den angegebenen '2 Tassen' geschätzt.",
+      "es": "Los porcentajes incluyen la harina/agua del prefermento (solo se usa una parte de la preparación, prorrateada); peso de las nueces estimado a partir de las '2 tazas' indicadas.",
+      "fr": "Les pourcentages incluent la farine/l'eau du levain (seule une partie de la préparation est utilisée, au prorata); poids des noix estimé d'après les '2 tasses' indiquées.",
+      "ro": "Procentajele includ făina/apa maielei (doar o parte din construcție este folosită, proporțional); greutatea nucilor estimată din '2 căni' menționate."
     }
   },
   "tags": [

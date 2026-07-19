@@ -23,10 +23,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "Kerala, South India (also Sri Lanka as 'hoppers')"
+      "en": "Kerala, South India (also Sri Lanka as 'hoppers')",
+      "de": "Kerala, Südindien (auch Sri Lanka als 'Hoppers')",
+      "es": "Kerala, sur de la India (también Sri Lanka como 'hoppers')",
+      "fr": "Kerala, Inde du Sud (également au Sri Lanka sous le nom de 'hoppers')",
+      "ro": "Kerala, India de Sud (de asemenea Sri Lanka, sub numele de 'hoppers')"
     },
     "note": {
-      "en": "Traditionally fermented with toddy, a mild palm wine; commercial yeast is the common home-kitchen substitute today."
+      "en": "Traditionally fermented with toddy, a mild palm wine; commercial yeast is the common home-kitchen substitute today.",
+      "de": "Traditionell mit Toddy, einem milden Palmwein, fermentiert; heute wird in der heimischen Küche meist handelsübliche Hefe verwendet.",
+      "es": "Tradicionalmente fermentado con toddy, un vino de palma suave; hoy se usa levadura comercial como sustituto común en la cocina casera.",
+      "fr": "Traditionnellement fermenté avec du toddy, un vin de palme doux; la levure du commerce est aujourd'hui le substitut courant dans les cuisines domestiques.",
+      "ro": "Tradițional fermentat cu toddy, un vin ușor de palmier; drojdia comercială este înlocuitorul obișnuit astăzi în bucătăria de acasă."
     }
   },
   "leaven": "yeast",
@@ -48,14 +56,22 @@
       "key": "flour:rice",
       "grams": 400,
       "note": {
-        "en": "raw white rice, soaked and ground; a portion is cooked into a soft porridge and blended back in"
+        "en": "raw white rice, soaked and ground; a portion is cooked into a soft porridge and blended back in",
+        "de": "roher weißer Reis, eingeweicht und gemahlen; ein Teil wird zu einem weichen Brei gekocht und wieder untergemischt",
+        "es": "arroz blanco crudo, remojado y molido; una parte se cuece en una papilla blanda y se mezcla de nuevo",
+        "fr": "riz blanc cru, trempé et moulu; une partie est cuite en bouillie molle et réincorporée",
+        "ro": "orez alb crud, înmuiat și măcinat; o parte este fiartă într-un terci moale și reamestecată"
       }
     },
     {
       "key": "water",
       "grams": 592,
       "note": {
-        "en": "for grinding the rice and cooking the porridge, combined"
+        "en": "for grinding the rice and cooking the porridge, combined",
+        "de": "zum Mahlen des Reises und Kochen des Breis, zusammen",
+        "es": "para moler el arroz y cocer la papilla, combinados",
+        "fr": "pour moudre le riz et cuire la bouillie, combinés",
+        "ro": "pentru măcinarea orezului și fierberea terciului, combinate"
       }
     },
     {
@@ -68,7 +84,11 @@
       },
       "grams": 370,
       "note": {
-        "en": "grated coconut blended with water and strained"
+        "en": "grated coconut blended with water and strained",
+        "de": "geriebene Kokosnuss mit Wasser püriert und abgeseiht",
+        "es": "coco rallado licuado con agua y colado",
+        "fr": "noix de coco râpée mixée avec de l'eau et filtrée",
+        "ro": "nucă de cocos rasă amestecată cu apă și strecurată"
       }
     },
     {
@@ -88,7 +108,11 @@
     "count": 16,
     "pieceGrams": 87,
     "shape": {
-      "en": "bowl-shaped, lacy edges, soft spongy center, ~15 cm"
+      "en": "bowl-shaped, lacy edges, soft spongy center, ~15 cm",
+      "de": "schüsselförmig, spitzenartige Ränder, weiche schwammige Mitte, ~15 cm",
+      "es": "forma de cuenco, bordes de encaje, centro esponjoso suave, ~15 cm",
+      "fr": "en forme de bol, bords dentelés, centre spongieux moelleux, ~15 cm",
+      "ro": "în formă de bol, margini dantelate, centru spongios moale, ~15 cm"
     }
   },
   "time": {
@@ -129,7 +153,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best fresh and warm, spongy center and crisp lace edges; reheat covered with a splash of water to re-soften. Batter or cooked appam both freeze reasonably well."
+      "en": "Best fresh and warm, spongy center and crisp lace edges; reheat covered with a splash of water to re-soften. Batter or cooked appam both freeze reasonably well.",
+      "de": "Am besten frisch und warm, schwammige Mitte und knusprige Spitzenränder; mit einem Spritzer Wasser abgedeckt aufwärmen, um wieder weich zu werden. Sowohl Teig als auch fertige Appam lassen sich gut einfrieren.",
+      "es": "Mejor fresco y caliente, centro esponjoso y bordes de encaje crujientes; recalienta tapado con un chorrito de agua para reablandecer. La masa o los appam cocidos se congelan bastante bien.",
+      "fr": "Meilleur frais et tiède, centre spongieux et bords dentelés croustillants; réchauffer couvert d'un filet d'eau pour ramollir. La pâte ou les appam cuits se congèlent assez bien.",
+      "ro": "Cel mai bun proaspăt și cald, centru spongios și margini crocante; reîncălzește acoperit cu un strop de apă pentru a se înmuia. Atât aluatul cât și appam-ul gătit se congelează destul de bine."
     }
   },
   "equipment": [
@@ -238,7 +266,11 @@
     "site": "Kannamma Cooks",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup-to-gram conversions estimated for rice, coconut and yeast; strained coconut water simplified to one 'coconut milk' ingredient; salt reduced slightly for balance."
+      "en": "Cup-to-gram conversions estimated for rice, coconut and yeast; strained coconut water simplified to one 'coconut milk' ingredient; salt reduced slightly for balance.",
+      "de": "Tassen-zu-Gramm-Umrechnungen für Reis, Kokos und Hefe geschätzt; abgeseihtes Kokoswasser zu einer Zutat 'Kokosmilch' vereinfacht; Salz für die Balance leicht reduziert.",
+      "es": "Conversiones de tazas a gramos estimadas para el arroz, el coco y la levadura; el agua de coco colada se simplificó a un solo ingrediente de 'leche de coco'; la sal se redujo ligeramente para equilibrar.",
+      "fr": "Conversions tasses-grammes estimées pour le riz, la noix de coco et la levure; l'eau de coco filtrée simplifiée en un seul ingrédient 'lait de coco'; sel légèrement réduit pour l'équilibre.",
+      "ro": "Conversii căni-grame estimate pentru orez, nucă de cocos și drojdie; apa de cocos strecurată simplificată la un singur ingredient 'lapte de cocos'; sarea redusă ușor pentru echilibru."
     }
   },
   "tags": [

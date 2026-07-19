@@ -20,10 +20,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Selkirk, Scottish Borders"
+      "en": "Selkirk, Scottish Borders",
+      "de": "Selkirk, Scottish Borders",
+      "es": "Selkirk, Scottish Borders",
+      "fr": "Selkirk, Scottish Borders",
+      "ro": "Selkirk, Scottish Borders"
     },
     "note": {
-      "en": "Created in the mid-1800s by a Selkirk baker who added sugar and dried fruit to leftover bread dough. Its fame grew after Queen Victoria was served a slice on a royal visit."
+      "en": "Created in the mid-1800s by a Selkirk baker who added sugar and dried fruit to leftover bread dough. Its fame grew after Queen Victoria was served a slice on a royal visit.",
+      "de": "Mitte des 19. Jahrhunderts von einem Bäcker aus Selkirk entwickelt, der Zucker und Trockenfrüchte zu übriggebliebenem Brotteig hinzufügte. Seine Berühmtheit wuchs, nachdem Königin Victoria bei einem königlichen Besuch ein Stück serviert bekam.",
+      "es": "Creado a mediados del siglo XIX por un panadero de Selkirk que añadió azúcar y fruta seca a la masa de pan sobrante. Su fama creció después de que a la reina Victoria le sirvieran una rebanada durante una visita real.",
+      "fr": "Créé au milieu du XIXe siècle par un boulanger de Selkirk qui a ajouté du sucre et des fruits secs à de la pâte à pain restante. Sa renommée a grandi après que la reine Victoria s’est vu servir une tranche lors d’une visite royale.",
+      "ro": "Creat la mijlocul secolului al XIX-lea de un brutar din Selkirk care a adăugat zahăr și fructe uscate la aluatul de pâine rămas. Faima sa a crescut după ce reginei Victoria i s-a servit o felie într-o vizită regală."
     }
   },
   "leaven": "yeast",
@@ -63,7 +71,11 @@
       "key": "milk",
       "grams": 250,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibio",
+        "fr": "tiède",
+        "ro": "călduț"
       }
     },
     {
@@ -74,14 +86,22 @@
       "key": "raisins",
       "grams": 300,
       "note": {
-        "en": "sultanas, traditionally imported from Turkey"
+        "en": "sultanas, traditionally imported from Turkey",
+        "de": "Sultaninen, traditionell aus der Türkei importiert",
+        "es": "sultanas, tradicionalmente importadas de Turquía",
+        "fr": "raisins de Smyrne, traditionnellement importés de Turquie",
+        "ro": "stafide sultane, importate în mod tradițional din Turcia"
       }
     },
     {
       "key": "milk",
       "grams": 15,
       "note": {
-        "en": "for glazing before baking"
+        "en": "for glazing before baking",
+        "de": "zum Bestreichen vor dem Backen",
+        "es": "para barnizar antes de hornear",
+        "fr": "pour dorer avant la cuisson",
+        "ro": "pentru uns înainte de coacere"
       }
     }
   ],
@@ -89,7 +109,11 @@
     "count": 1,
     "pieceGrams": 1130,
     "shape": {
-      "en": "single large round loaf, cut into thick slices for tea"
+      "en": "single large round loaf, cut into thick slices for tea",
+      "de": "einzelner großer runder Laib, in dicke Scheiben geschnitten zum Tee",
+      "es": "un solo pan redondo grande, cortado en rebanadas gruesas para el té",
+      "fr": "un seul gros pain rond, coupé en épaisses tranches pour le thé",
+      "ro": "un singur pâine rotundă mare, tăiată în felii groase pentru ceai"
     }
   },
   "time": {
@@ -132,7 +156,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Keeps well thanks to the butter and dried fruit; traditionally toasted and buttered once a few days old."
+      "en": "Keeps well thanks to the butter and dried fruit; traditionally toasted and buttered once a few days old.",
+      "de": "Hält sich dank der Butter und der Trockenfrüchte gut; traditionell nach ein paar Tagen getoastet und gebuttert.",
+      "es": "Se conserva bien gracias a la mantequilla y la fruta seca; tradicionalmente se tuesta y unta con mantequilla después de unos días.",
+      "fr": "Se conserve bien grâce au beurre et aux fruits secs ; traditionnellement toasté et beurré après quelques jours.",
+      "ro": "Se păstrează bine datorită untului și fructelor uscate; tradițional prăjit și uns cu unt după câteva zile."
     }
   },
   "equipment": [
@@ -241,7 +269,11 @@
     "site": "Scottish Scran",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Source called for only 'a pinch' of salt; standardized to a defined baker's percentage."
+      "en": "Source called for only 'a pinch' of salt; standardized to a defined baker's percentage.",
+      "de": "Die Quelle verlangte nur „eine Prise“ Salz; auf einen definierten Bäckerprozentsatz standardisiert.",
+      "es": "La fuente pedía solo «una pizca» de sal; estandarizado a un porcentaje panadero definido.",
+      "fr": "La source ne demandait qu’une « pincée » de sel ; standardisé à un pourcentage de boulanger défini.",
+      "ro": "Sursa cerea doar «un praf» de sare; standardizat la un procent de brutar definit."
     }
   },
   "tags": [

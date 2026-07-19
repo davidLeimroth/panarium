@@ -18,10 +18,18 @@
   "origin": {
     "country": "ES",
     "region": {
-      "en": "Galicia"
+      "en": "Galicia",
+      "de": "Galicien",
+      "es": "Galicia",
+      "fr": "Galice",
+      "ro": "Galicia"
     },
     "note": {
-      "en": "Recently granted Protected Geographical Indication status; must contain a minimum share of native Galician flours."
+      "en": "Recently granted Protected Geographical Indication status; must contain a minimum share of native Galician flours.",
+      "de": "Kürzlich mit dem Status «Protected Geographical Indication» ausgezeichnet; muss einen Mindestanteil an heimischen galicischen Mehlen enthalten.",
+      "es": "Recientemente otorgado el estatus de Indicación Geográfica Protegida; debe contener una proporción mínima de harinas gallegas autóctonas.",
+      "fr": "Récemment doté du statut d'Indication Géographique Protégée; doit contenir une part minimale de farines galiciennes natives.",
+      "ro": "Recent a primit statutul de Indicație Geografică Protejată; trebuie să conțină o proporție minimă de făinuri galiciene native."
     }
   },
   "leaven": "sourdough",
@@ -59,7 +67,11 @@
       "key": "sourdough-starter",
       "grams": 125,
       "note": {
-        "en": "masa madre de centeno, a rye sourdough starter"
+        "en": "masa madre de centeno, a rye sourdough starter",
+        "de": "Masa madre de centeno, ein Roggensauerteigstarter",
+        "es": "masa madre de centeno, un fermento de masa madre de centeno",
+        "fr": "masa madre de centeno, un levain de seigle",
+        "ro": "masa madre de centeno, o maia de secară"
       }
     },
     {
@@ -71,7 +83,11 @@
     "count": 1,
     "pieceGrams": 1135,
     "shape": {
-      "en": "round loaf topped with the traditional twisted 'moña' knot"
+      "en": "round loaf topped with the traditional twisted 'moña' knot",
+      "de": "runder Laib mit traditionellem gedrehtem «Moña»-Knoten oben",
+      "es": "hogaza redonda coronada con el tradicional nudo trenzado «moña»",
+      "fr": "pain rond surmonté du traditionnel nœud torsadé « moña »",
+      "ro": "pâine rotundă cu nodul tradițional răsucit «moña» deasupra"
     }
   },
   "time": {
@@ -114,7 +130,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The rye sourdough and thick crust give it real keeping power; it's traditionally baked in large loaves meant to last several days."
+      "en": "The rye sourdough and thick crust give it real keeping power; it's traditionally baked in large loaves meant to last several days.",
+      "de": "Der Roggensauerteig und die dicke Kruste verleihen ihm echte Haltbarkeit; es wird traditionell in großen Laiben gebacken, die mehrere Tage halten sollen.",
+      "es": "La masa madre de centeno y la corteza gruesa le dan una capacidad de conservación real; se hornea tradicionalmente en hogazas grandes destinadas a durar varios días.",
+      "fr": "Le levain de seigle et la croûte épaisse lui confèrent une réelle capacité de conservation; il est traditionnellement cuit en gros pains destinés à durer plusieurs jours.",
+      "ro": "Maiaua de secară și crusta groasă îi conferă o capacitate reală de păstrare; se coace tradițional în pâini mari menite să țină câteva zile."
     }
   },
   "equipment": [
@@ -224,7 +244,11 @@
     "site": "La Flor de Galicia",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "The rye starter is assumed at roughly 100% hydration to split into total-flour baker's percentages."
+      "en": "The rye starter is assumed at roughly 100% hydration to split into total-flour baker's percentages.",
+      "de": "Der Roggenstarter wird mit etwa 100 % Hydration angenommen, um in die Gesamtmehl-Bäckerprozente aufzuteilen.",
+      "es": "La masa madre de centeno se asume con aproximadamente 100 % de hidratación para desglosar en los porcentajes totales de harina del panadero.",
+      "fr": "Le levain de seigle est supposé à environ 100 % d'hydratation pour être décomposé dans les pourcentages totaux de farine du boulanger.",
+      "ro": "Maiaua de secară este presupusă la aproximativ 100 % hidratare pentru a fi defalcată în procentele totale de făină de panificație."
     }
   },
   "tags": [

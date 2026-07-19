@@ -22,10 +22,18 @@
   "origin": {
     "country": "BE",
     "region": {
-      "en": "Flanders"
+      "en": "Flanders",
+      "de": "Flandern",
+      "es": "Flandes",
+      "fr": "Flandre",
+      "ro": "Flandra"
     },
     "note": {
-      "en": "Popularized outside Belgium by Laurel Robertson's 'Laurel's Kitchen Bread Book'; the starter is grown in cool flour rather than inoculated from the air."
+      "en": "Popularized outside Belgium by Laurel Robertson's 'Laurel's Kitchen Bread Book'; the starter is grown in cool flour rather than inoculated from the air.",
+      "de": "Außerhalb Belgiens durch Laurel Robertsons 'Laurel's Kitchen Bread Book' bekannt gemacht; der Starter wird in kühlem Mehl gezüchtet, nicht aus der Luft inokuliert.",
+      "es": "Popularizado fuera de Bélgica por 'Laurel's Kitchen Bread Book' de Laurel Robertson; el fermento se cultiva en harina fría en lugar de inocularse del aire.",
+      "fr": "Popularisé hors de Belgique par 'Laurel's Kitchen Bread Book' de Laurel Robertson; le levain est cultivé dans de la farine fraîche plutôt qu'inoculé de l'air.",
+      "ro": "Popularizat în afara Belgiei de 'Laurel's Kitchen Bread Book' al lui Laurel Robertson; starter-ul este cultivat în făină rece, nu inoculat din aer."
     }
   },
   "leaven": "sourdough",
@@ -47,14 +55,22 @@
       "key": "flour:wheat-whole",
       "grams": 350,
       "note": {
-        "en": "hard white spring wheat, freshly milled"
+        "en": "hard white spring wheat, freshly milled",
+        "de": "harter weißer Sommerweizen, frisch gemahlen",
+        "es": "trigo blanco de primavera duro, recién molido",
+        "fr": "blé blanc de printemps dur, fraîchement moulu",
+        "ro": "grâu alb de primăvară dur, proaspăt măcinat"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 100,
       "note": {
-        "en": "Red Fife heritage wheat, freshly milled"
+        "en": "Red Fife heritage wheat, freshly milled",
+        "de": "Red-Fife-Erbsenweizen, frisch gemahlen",
+        "es": "trigo patrimonial Red Fife, recién molido",
+        "fr": "blé patrimonial Red Fife, fraîchement moulu",
+        "ro": "grâu de moștenire Red Fife, proaspăt măcinat"
       }
     },
     {
@@ -65,7 +81,11 @@
       "key": "sourdough-starter",
       "grams": 20,
       "note": {
-        "en": "mature desem culture, kept cool and fed only on flour"
+        "en": "mature desem culture, kept cool and fed only on flour",
+        "de": "reife Desem-Kultur, kühl gehalten und nur mit Mehl gefüttert",
+        "es": "cultivo maduro de desem, mantenido fresco y alimentado solo con harina",
+        "fr": "culture de desem mature, maintenue au frais et nourrie uniquement de farine",
+        "ro": "cultură de desem matură, ținută la rece și hrănită doar cu făină"
       }
     },
     {
@@ -77,7 +97,11 @@
     "count": 1,
     "pieceGrams": 780,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule (Kugel)",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {
@@ -117,7 +141,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Improves a day after baking as the whole-grain crumb settles."
+      "en": "Improves a day after baking as the whole-grain crumb settles.",
+      "de": "Wird einen Tag nach dem Backen besser, wenn sich die Vollkornkrume setzt.",
+      "es": "Mejora un día después del horneado a medida que se asienta la miga integral.",
+      "fr": "S'améliore un jour après la cuisson à mesure que la mie complète se stabilise.",
+      "ro": "Se îmbunătățește la o zi după coacere pe măsură ce miezul integral se așază."
     }
   },
   "equipment": [
@@ -183,10 +211,10 @@
       },
       "summary": {
         "en": "Rest 20-30 minutes, then work through a few stretch-and-folds over 4-8 hours until the dough is roughly 90% bigger, just short of doubled.",
-        "de": "20-30 Minuten ruhen lassen, dann über 4-8 Stunden mehrmals dehnen und falten, bis der Teig um etwa 90% gewachsen ist.",
-        "es": "Dejar reposar 20-30 minutos, luego realizar varios pliegues de estirar y doblar durante 4-8 horas, hasta que la masa haya crecido un 90% aproximadamente.",
-        "fr": "Laisser reposer 20-30 minutes, puis faire plusieurs rabats sur 4-8 heures, jusqu'à ce que la pâte ait grossi d'environ 90%.",
-        "ro": "Lasă la odihnă 20-30 de minute, apoi fă câteva runde de întindere și pliere pe parcursul a 4-8 ore, până aluatul crește cu aproximativ 90%."
+        "de": "20-30 Minuten ruhen lassen, dann über 4-8 Stunden mehrmals dehnen und falten, bis der Teig um etwa 90% größer ist, knapp unter dem doppelten Volumen.",
+        "es": "Reposar 20-30 minutos, luego hacer varios estirados y plegados durante 4-8 horas hasta que la masa haya crecido aproximadamente un 90%, casi el doble.",
+        "fr": "Laisser reposer 20-30 minutes, puis effectuer quelques étirements et pliages sur 4-8 heures jusqu'à ce que la pâte ait grossi d'environ 90%, presque le double.",
+        "ro": "Lasă la odihnă 20-30 de minute, apoi fă câteva runde de întindere și pliere pe parcursul a 4-8 ore, până aluatul crește cu aproximativ 90%, aproape dublu."
       }
     },
     {
@@ -243,7 +271,11 @@
     "site": "Breadtopia",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages recomputed to include the levain's flour and water in the 100% flour base per house convention."
+      "en": "Percentages recomputed to include the levain's flour and water in the 100% flour base per house convention.",
+      "de": "Prozente neu berechnet, um Mehl und Wasser des Levains in die 100-%-Mehlbasis einzubeziehen, gemäß Hauskonvention.",
+      "es": "Porcentajes recalculados para incluir la harina y el agua del levain en la base de 100 % de harina según la convención de la casa.",
+      "fr": "Pourcentages recalculés pour inclure la farine et l'eau du levain dans la base de 100 % de farine selon la convention maison.",
+      "ro": "Procentele recalculate pentru a include făina și apa levain-ului în baza de 100 % făină, conform convenției casei."
     }
   },
   "tags": [

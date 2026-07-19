@@ -23,10 +23,18 @@
   "origin": {
     "country": "ES",
     "region": {
-      "en": "Mallorca, Balearic Islands"
+      "en": "Mallorca, Balearic Islands",
+      "de": "Mallorca, Balearische Inseln",
+      "es": "Mallorca, Islas Baleares",
+      "fr": "Majorque, îles Baléares",
+      "ro": "Mallorca, Insulele Baleare"
     },
     "note": {
-      "en": "Protected Geographical Indication tied specifically to Mallorca since at least the 17th century; the name comes straight from saïm, Mallorquín for pork lard, the fat that's stretched through the dough rather than kneaded into it."
+      "en": "Protected Geographical Indication tied specifically to Mallorca since at least the 17th century; the name comes straight from saïm, Mallorquín for pork lard, the fat that's stretched through the dough rather than kneaded into it.",
+      "de": "Geschützte geografische Angabe, die seit mindestens dem 17. Jahrhundert speziell an Mallorca gebunden ist; der Name kommt direkt von saïm, mallorquinisch für Schweineschmalz, dem Fett, das durch den Teig gezogen statt eingeknetet wird.",
+      "es": "Indicación Geográfica Protegida vinculada específicamente a Mallorca desde al menos el siglo XVII; el nombre proviene directamente de saïm, mallorquín para la manteca de cerdo, la grasa que se extiende a través de la masa en lugar de amasarse.",
+      "fr": "Indication Géographique Protégée liée spécifiquement à Majorque depuis au moins le XVIIe siècle; le nom vient directement de saïm, majorquin pour le saindoux, la matière grasse qui est étirée dans la pâte plutôt que pétrie.",
+      "ro": "Indicație Geografică Protejată legată specific de Mallorca încă din secolul al XVII-lea; numele provine direct din saïm, cuvânt mallorquin pentru untură de porc, grăsimea care se întinde prin aluat în loc să se frământe."
     }
   },
   "leaven": "yeast",
@@ -51,28 +59,44 @@
       "key": "flour:wheat-white",
       "grams": 560,
       "note": {
-        "en": "60 g in an overnight poolish, the rest in the final dough"
+        "en": "60 g in an overnight poolish, the rest in the final dough",
+        "de": "60 g in einem Poolish über Nacht, der Rest im finalen Teig",
+        "es": "60 g en un poolish de noche, el resto en la masa final",
+        "fr": "60 g dans un poolish de nuit, le reste dans la pâte finale",
+        "ro": "60 g într-un poolish peste noapte, restul în aluatul final"
       }
     },
     {
       "key": "water",
       "grams": 155,
       "note": {
-        "en": "60 g in the poolish, the rest in the dough"
+        "en": "60 g in the poolish, the rest in the dough",
+        "de": "60 g im Poolish, der Rest im Teig",
+        "es": "60 g en el poolish, el resto en la masa",
+        "fr": "60 g dans le poolish, le reste dans la pâte",
+        "ro": "60 g în poolish, restul în aluat"
       }
     },
     {
       "key": "instant-yeast",
       "grams": 5,
       "note": {
-        "en": "a trace in the poolish, the rest in the dough"
+        "en": "a trace in the poolish, the rest in the dough",
+        "de": "eine Spur im Poolish, der Rest im Teig",
+        "es": "una pizca en el poolish, el resto en la masa",
+        "fr": "une trace dans le poolish, le reste dans la pâte",
+        "ro": "un strop în poolish, restul în aluat"
       }
     },
     {
       "key": "egg",
       "grams": 155,
       "note": {
-        "en": "about 2½ large eggs"
+        "en": "about 2½ large eggs",
+        "de": "etwa 2 ½ große Eier",
+        "es": "unos 2 ½ huevos grandes",
+        "fr": "environ 2 ½ gros œufs",
+        "ro": "aproximativ 2 ½ ouă mari"
       }
     },
     {
@@ -91,7 +115,11 @@
       "key": "lard",
       "grams": 150,
       "note": {
-        "en": "fresh pork lard, stretched through the dough during lamination"
+        "en": "fresh pork lard, stretched through the dough during lamination",
+        "de": "frisches Schweineschmalz, während der Lamination durch den Teig gezogen",
+        "es": "manteca de cerdo fresca, extendida a través de la masa durante el laminado",
+        "fr": "saindoux frais, étiré dans la pâte pendant le laminage",
+        "ro": "untură de porc proaspătă, întinsă prin aluat în timpul laminării"
       }
     },
     {
@@ -104,14 +132,22 @@
       },
       "grams": 260,
       "note": {
-        "en": "optional filling for one of the two coils; omit for the plain version"
+        "en": "optional filling for one of the two coils; omit for the plain version",
+        "de": "optionale Füllung für eine der beiden Spiralen; für die einfache Version weglassen",
+        "es": "relleno opcional para una de las dos espirales; omitir para la versión simple",
+        "fr": "garniture facultative pour l'une des deux spirales; omettre pour la version nature",
+        "ro": "umplutură opțională pentru una dintre cele două spirale; omite pentru varianta simplă"
       }
     },
     {
       "key": "sugar",
       "grams": 30,
       "note": {
-        "en": "powdered, for dusting after baking"
+        "en": "powdered, for dusting after baking",
+        "de": "Puderzucker, zum Bestäuben nach dem Backen",
+        "es": "azúcar glas, para espolvorear después de hornear",
+        "fr": "sucre glace, pour saupoudrer après cuisson",
+        "ro": "zahăr pudră, pentru presărat după coacere"
       }
     }
   ],
@@ -119,7 +155,11 @@
     "count": 2,
     "pieceGrams": 550,
     "shape": {
-      "en": "two flat coiled spirals, about 22 cm across"
+      "en": "two flat coiled spirals, about 22 cm across",
+      "de": "zwei flache gewundene Spiralen, etwa 22 cm Durchmesser",
+      "es": "dos espirales planas enrolladas, de unos 22 cm de diámetro",
+      "fr": "deux spirales plates enroulées, d'environ 22 cm de diamètre",
+      "ro": "două spirale plate rulate, de aproximativ 22 cm diametru"
     }
   },
   "time": {
@@ -162,7 +202,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best very fresh, within a day while the coil stays light and delicate; wrap airtight for up to two days, or freeze whole and warm briefly before serving."
+      "en": "Best very fresh, within a day while the coil stays light and delicate; wrap airtight for up to two days, or freeze whole and warm briefly before serving.",
+      "de": "Am besten ganz frisch, innerhalb eines Tages, solange die Spirale leicht und zart bleibt; luftdicht verpackt bis zu zwei Tagen haltbar, oder ganz einfrieren und vor dem Servieren kurz erwärmen.",
+      "es": "Mejor muy fresco, dentro del primer día mientras la espiral se mantiene ligera y delicada; envolver hermético hasta dos días, o congelar entero y calentar brevemente antes de servir.",
+      "fr": "Meilleur très frais, dans la journée tant que la spirale reste légère et délicate; emballer hermétique jusqu'à deux jours, ou congeler entier et réchauffer brièvement avant de servir.",
+      "ro": "Cel mai bun foarte proaspăt, în prima zi cât spirala rămâne ușoară și delicată; înfășoară ermetic până la două zile sau congelează întreg și reîncălzește scurt înainte de servire."
     }
   },
   "equipment": [
@@ -288,7 +332,11 @@
     "site": "Bake Street",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Lard amount (150 g) is estimated/composited from several traditional recipes, since this source gives only a 'generous' smear rather than a gram figure; formula confidence marked estimated."
+      "en": "Lard amount (150 g) is estimated/composited from several traditional recipes, since this source gives only a 'generous' smear rather than a gram figure; formula confidence marked estimated.",
+      "de": "Schmalzmenge (150 g) ist aus mehreren traditionellen Rezepten geschätzt/zusammengesetzt, da diese Quelle nur einen großzügigen Strich statt einer Grammangabe liefert; Formelzuverlässigkeit als geschätzt markiert.",
+      "es": "Cantidad de manteca (150 g) estimada/compuesta de varias recetas tradicionales, ya que esta fuente da solo una untada generosa en lugar de una cifra en gramos; confianza de la fórmula marcada como estimada.",
+      "fr": "Quantité de saindoux (150 g) estimée/composée à partir de plusieurs recettes traditionnelles, cette source ne donnant qu'une couche généreuse plutôt qu'un chiffre en grammes; confiance de la formule marquée estimée.",
+      "ro": "Cantitatea de untură (150 g) este estimată/compusă din mai multe rețete tradiționale, deoarece această sursă oferă doar o ungere generoasă în loc de o cifră în grame; încrederea formulei marcată estimată."
     }
   },
   "tags": [

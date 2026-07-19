@@ -129,19 +129,19 @@
             },
             "de": {
               "type": "string",
-              "maxLength": 168
+              "maxLength": 240
             },
             "es": {
               "type": "string",
-              "maxLength": 168
+              "maxLength": 240
             },
             "fr": {
               "type": "string",
-              "maxLength": 168
+              "maxLength": 240
             },
             "ro": {
               "type": "string",
-              "maxLength": 168
+              "maxLength": 240
             }
           }
         },
@@ -159,19 +159,19 @@
             },
             "de": {
               "type": "string",
-              "maxLength": 420
+              "maxLength": 600
             },
             "es": {
               "type": "string",
-              "maxLength": 420
+              "maxLength": 600
             },
             "fr": {
               "type": "string",
-              "maxLength": 420
+              "maxLength": 600
             },
             "ro": {
               "type": "string",
-              "maxLength": 420
+              "maxLength": 600
             }
           }
         }
@@ -361,19 +361,19 @@
               },
               "de": {
                 "type": "string",
-                "maxLength": 168
+                "maxLength": 240
               },
               "es": {
                 "type": "string",
-                "maxLength": 168
+                "maxLength": 240
               },
               "fr": {
                 "type": "string",
-                "maxLength": 168
+                "maxLength": 240
               },
               "ro": {
                 "type": "string",
-                "maxLength": 168
+                "maxLength": 240
               }
             }
           }
@@ -410,19 +410,19 @@
             },
             "de": {
               "type": "string",
-              "maxLength": 84
+              "maxLength": 120
             },
             "es": {
               "type": "string",
-              "maxLength": 84
+              "maxLength": 120
             },
             "fr": {
               "type": "string",
-              "maxLength": 84
+              "maxLength": 120
             },
             "ro": {
               "type": "string",
-              "maxLength": 84
+              "maxLength": 120
             }
           }
         }
@@ -631,19 +631,19 @@
             },
             "de": {
               "type": "string",
-              "maxLength": 280
+              "maxLength": 400
             },
             "es": {
               "type": "string",
-              "maxLength": 280
+              "maxLength": 400
             },
             "fr": {
               "type": "string",
-              "maxLength": 280
+              "maxLength": 400
             },
             "ro": {
               "type": "string",
-              "maxLength": 280
+              "maxLength": 400
             }
           }
         }
@@ -697,19 +697,19 @@
               },
               "de": {
                 "type": "string",
-                "maxLength": 60
+                "maxLength": 120
               },
               "es": {
                 "type": "string",
-                "maxLength": 60
+                "maxLength": 120
               },
               "fr": {
                 "type": "string",
-                "maxLength": 60
+                "maxLength": 120
               },
               "ro": {
                 "type": "string",
-                "maxLength": 60
+                "maxLength": 120
               }
             }
           },
@@ -727,19 +727,19 @@
               },
               "de": {
                 "type": "string",
-                "maxLength": 300
+                "maxLength": 600
               },
               "es": {
                 "type": "string",
-                "maxLength": 300
+                "maxLength": 600
               },
               "fr": {
                 "type": "string",
-                "maxLength": 300
+                "maxLength": 600
               },
               "ro": {
                 "type": "string",
-                "maxLength": 300
+                "maxLength": 600
               }
             }
           }
@@ -785,19 +785,19 @@
             },
             "de": {
               "type": "string",
-              "maxLength": 280
+              "maxLength": 400
             },
             "es": {
               "type": "string",
-              "maxLength": 280
+              "maxLength": 400
             },
             "fr": {
               "type": "string",
-              "maxLength": 280
+              "maxLength": 400
             },
             "ro": {
               "type": "string",
-              "maxLength": 280
+              "maxLength": 400
             }
           }
         }

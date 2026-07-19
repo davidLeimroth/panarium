@@ -21,10 +21,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Germany and Austria, farmhouse tradition"
+      "en": "Germany and Austria, farmhouse tradition",
+      "de": "Deutschland und Österreich, Bauernhaustradition",
+      "es": "Alemania y Austria, tradición campesina",
+      "fr": "Allemagne et Autriche, tradition fermière",
+      "ro": "Germania și Austria, tradiție țărănească"
     },
     "note": {
-      "en": "Not a legally defined term like Vollkornbrot, Bauernbrot describes a rustic round style of mixed rye-wheat sourdough rather than a fixed ratio."
+      "en": "Not a legally defined term like Vollkornbrot, Bauernbrot describes a rustic round style of mixed rye-wheat sourdough rather than a fixed ratio.",
+      "de": "Kein legal definierter Begriff wie Vollkornbrot; Bauernbrot beschreibt einen rustikalen runden Stil aus gemischtem Roggen-Weizen-Sauerteig, eher als ein festes Verhältnis.",
+      "es": "No es un término legalmente definido como Vollkornbrot; Bauernbrot describe un estilo rústico redondo de masa madre mixta de centeno y trigo, más que una proporción fija.",
+      "fr": "Pas un terme légalement défini comme Vollkornbrot; Bauernbrot décrit un style rustique rond de levain mixte seigle-blé plutôt qu'un ratio fixe.",
+      "ro": "Nu este un termen definit legal precum Vollkornbrot; Bauernbrot descrie un stil rustic rotund de maia mixtă secară-grâu, mai degrabă decât un raport fix."
     }
   },
   "leaven": "sourdough",
@@ -54,28 +62,44 @@
       "key": "flour:rye-whole",
       "grams": 99,
       "note": {
-        "en": "coarse rye whole meal, in the sourdough"
+        "en": "coarse rye whole meal, in the sourdough",
+        "de": "grobes Roggenschrot, im Sauerteig",
+        "es": "harina integral gruesa de centeno, en la masa madre",
+        "fr": "farine complète de seigle grossière, dans le levain",
+        "ro": "făină integrală grosieră de secară, în maia"
       }
     },
     {
       "key": "flour:rye",
       "grams": 239,
       "note": {
-        "en": "rye flour type 1150, split between sourdough and main dough"
+        "en": "rye flour type 1150, split between sourdough and main dough",
+        "de": "Roggenmehl Type 1150, aufgeteilt zwischen Sauerteig und Hauptteig",
+        "es": "harina de centeno tipo 1150, repartida entre la masa madre y la masa principal",
+        "fr": "farine de seigle type 1150, répartie entre le levain et la pâte principale",
+        "ro": "făină de secară tip 1150, împărțită între maia și aluatul principal"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 148,
       "note": {
-        "en": "wheat type 1050 plus whole wheat flour"
+        "en": "wheat type 1050 plus whole wheat flour",
+        "de": "Weizenmehl Type 1050 plus Vollkornweizenmehl",
+        "es": "harina de trigo tipo 1050 más harina integral de trigo",
+        "fr": "farine de blé type 1050 plus farine de blé entier",
+        "ro": "făină de grâu tip 1050 plus făină integrală de grâu"
       }
     },
     {
       "key": "water",
       "grams": 338,
       "note": {
-        "en": "warm, 40–50°C"
+        "en": "warm, 40–50°C",
+        "de": "warm, 40–50°C",
+        "es": "tibia, 40–50°C",
+        "fr": "tiède, 40–50°C",
+        "ro": "călduță, 40–50°C"
       }
     },
     {
@@ -86,7 +110,11 @@
       "key": "sourdough-starter",
       "grams": 15,
       "note": {
-        "en": "soft rye starter, TA 200"
+        "en": "soft rye starter, TA 200",
+        "de": "weicher Roggen-Sauerteigansatz, TA 200",
+        "es": "masa madre de centeno suave, TA 200",
+        "fr": "levain de seigle souple, TA 200",
+        "ro": "maia de secară moale, TA 200"
       }
     }
   ],
@@ -94,7 +122,11 @@
     "count": 1,
     "pieceGrams": 800,
     "shape": {
-      "en": "round hearth loaf, cross-hatch scored"
+      "en": "round hearth loaf, cross-hatch scored",
+      "de": "runder Ofenbrotlaib, rautenförmig eingeschnitten",
+      "es": "hogaza redonda de hogar, marcada con patrón cruzado",
+      "fr": "pain de four rond, scarifié en croisillons",
+      "ro": "pâine rotundă de vatră, tăiată în cruce"
     }
   },
   "time": {
@@ -136,7 +168,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Keeps well wrapped in linen; flavor rounds out by day two."
+      "en": "Keeps well wrapped in linen; flavor rounds out by day two.",
+      "de": "Hält sich gut in Leinen eingewickelt; der Geschmack rundet sich bis zum zweiten Tag.",
+      "es": "Se conserva bien envuelto en lino; el sabor se redondea para el segundo día.",
+      "fr": "Se conserve bien enveloppé dans un linge; la saveur s'arrondit au deuxième jour.",
+      "ro": "Se păstrează bine înfășurat în pânză de in; aroma se rotunjește până în a doua zi."
     }
   },
   "equipment": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern gluten-free home baking"
+      "en": "Modern gluten-free home baking",
+      "de": "Moderne glutenfreie Hausbackerei",
+      "es": "Reposteria casera moderna sin gluten",
+      "fr": "Patisserie maison moderne sans gluten",
+      "ro": "Panificatie casnica moderna fara gluten"
     },
     "note": {
-      "en": "Millet has been a staple grain across Africa and Asia for millennia, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique rather than a traditional regional bread."
+      "en": "Millet has been a staple grain across Africa and Asia for millennia, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique rather than a traditional regional bread.",
+      "de": "Hirse ist seit Jahrtausenden ein Grundgetreide in Afrika und Asien, aber dieses Einzelmehl-, Psyllium-gebundene, gehefe Brotformat ist eher eine glutenfreie Backtechnik des 21. Jahrhunderts als ein traditionelles regionales Brot.",
+      "es": "El mijo ha sido un cereal basico en Africa y Asia durante milenios, pero este formato de pan con una sola harina, ligado con psyllium y levado con levadura es una tecnica de reposteria sin gluten del siglo XXI mas que un pan regional tradicional.",
+      "fr": "Le millet est une cereale de base en Afrique et en Asie depuis des millenaires, mais ce format de pain a une seule farine, lie au psyllium et leve a la levure est une technique de boulangerie sans gluten du XXIe siecle plutot qu'un pain regional traditionnel.",
+      "ro": "Meiul a fost un cereal de baza in Africa si Asia de milenii, dar acest format de paine cu o singura faina, legata cu psyllium, dospita cu drojdie este mai degraba o tehnica de panificatie fara gluten din secolul XXI decat o paine regionala traditionala."
     }
   },
   "leaven": "yeast",
@@ -92,7 +100,11 @@
       "key": "baking-powder",
       "grams": 4,
       "note": {
-        "en": "optional"
+        "en": "optional",
+        "de": "optional",
+        "es": "opcional",
+        "fr": "facultatif",
+        "ro": "optional"
       }
     }
   ],
@@ -100,7 +112,11 @@
     "count": 1,
     "pieceGrams": 1080,
     "shape": {
-      "en": "9 x 5 in loaf pan"
+      "en": "9 x 5 in loaf pan",
+      "de": "Kastenform 22,9 x 12,7 cm",
+      "es": "molde de pan 22,9 x 12,7 cm",
+      "fr": "moule a pain 22,9 x 12,7 cm",
+      "ro": "tava de paine 22,9 x 12,7 cm"
     }
   },
   "time": {
@@ -140,7 +156,11 @@
     "freshDays": 3.5,
     "freezes": true,
     "note": {
-      "en": "Keeps 3-4 days at room temperature and up to 3 months frozen."
+      "en": "Keeps 3-4 days at room temperature and up to 3 months frozen.",
+      "de": "Halt sich 3-4 Tage bei Raumtemperatur und bis zu 3 Monate gefroren.",
+      "es": "Se conserva de 3 a 4 dias a temperatura ambiente y hasta 3 meses congelado.",
+      "fr": "Se conserve 3-4 jours a temperature ambiante et jusqu'a 3 mois au congelateur.",
+      "ro": "Se pastreaza 3-4 zile la temperatura camerei si pana la 3 luni congelata."
     }
   },
   "equipment": [
@@ -189,10 +209,10 @@
       },
       "summary": {
         "en": "Mix the psyllium gel and oil into the flour blend, then knead 5-10 minutes to a sticky dough without adding extra flour.",
-        "de": "Das Psylliumgel und das Öl in die trockenen Zutaten einarbeiten und 5-10 Minuten zu einem klebrigen Teig kneten; kein zusätzliches Mehl zugeben.",
-        "es": "Incorporar el gel de psyllium y el aceite a los ingredientes secos y amasar 5-10 minutos hasta obtener una masa pegajosa; no añadir más harina.",
-        "fr": "Incorporer le gel de psyllium et l'huile aux ingrédients secs et pétrir 5-10 minutes en une pâte collante ; ne pas ajouter de farine supplémentaire.",
-        "ro": "Încorporează gelul de psyllium și uleiul în ingredientele uscate și frământă 5-10 minute până obții un aluat lipicios; nu adăuga făină în plus."
+        "de": "Das Psylliumgel und das Öl in die Mehlmischung einarbeiten und 5-10 Minuten zu einem klebrigen Teig kneten, ohne zusätzliches Mehl hinzuzufügen.",
+        "es": "Mezclar el gel de psyllium y el aceite con la mezcla de harina, luego amasar 5-10 minutos hasta obtener una masa pegajosa sin añadir harina extra.",
+        "fr": "Incorporer le gel de psyllium et l'huile au mélange de farines, puis pétrir 5-10 minutes jusqu'à obtenir une pâte collante sans ajouter de farine supplémentaire.",
+        "ro": "Încorporează gelul de psyllium și uleiul în amestecul de făinuri, apoi frământă 5-10 minute până obții un aluat lipicios, fără a adăuga făină în plus."
       }
     },
     {

@@ -11,35 +11,71 @@
     },
     "signs": [
       {
-        "en": "Dough clings to hands, bowl and counter and won't hold together"
+        "en": "Dough clings to hands, bowl and counter and won't hold together",
+        "de": "Teig klebt an Händen, Schüssel und Arbeitsfläche und hält nicht zusammen",
+        "es": "La masa se pega a las manos, al bol y a la encimera y no se mantiene unida",
+        "fr": "La pâte colle aux mains, au saladier et au plan de travail et ne tient pas ensemble",
+        "ro": "Aluatul se lipește de mâini, de bol și de blat și nu se ține împreună"
       },
       {
-        "en": "Feels more like batter than dough"
+        "en": "Feels more like batter than dough",
+        "de": "Fühlt sich eher wie ein dünnflüssiger Teig als wie Brotteig an",
+        "es": "Parece más una mezcla líquida que una masa de pan",
+        "fr": "Ressemble plus à une pâte liquide qu'à une pâte à pain",
+        "ro": "Se simte mai mult ca un aluat lichid decât ca un aluat de pâine"
       }
     ],
     "causes": [
       {
-        "en": "Underdeveloped gluten (far more often the real cause than water)"
+        "en": "Underdeveloped gluten (far more often the real cause than water)",
+        "de": "Unterentwickeltes Gluten (weitaus häufiger die eigentliche Ursache als Wasser)",
+        "es": "Gluten subdesarrollado (mucho más a menudo la causa real que el agua)",
+        "fr": "Gluten sous-développé (bien plus souvent la vraie cause que l'eau)",
+        "ro": "Gluten subdezvoltat (mult mai des cauza reală decât apa)"
       },
       {
-        "en": "Dough too warm, which always feels stickier at a given hydration"
+        "en": "Dough too warm, which always feels stickier at a given hydration",
+        "de": "Teig zu warm, was bei gegebener Hydratation immer klebriger wirkt",
+        "es": "Masa demasiado cálida, que siempre parece más pegajosa con la misma hidratación",
+        "fr": "Pâte trop chaude, qui semble toujours plus collante à hydratation égale",
+        "ro": "Aluat prea cald, care pare întotdeauna mai lipicios la aceeași hidratare"
       },
       {
-        "en": "Hydration genuinely too high for the flour's strength"
+        "en": "Hydration genuinely too high for the flour's strength",
+        "de": "Hydratation tatsächlich zu hoch für die Stärke des Mehls",
+        "es": "Hidratación realmente demasiado alta para la fuerza de la harina",
+        "fr": "Hydratation vraiment trop élevée pour la force de la farine",
+        "ro": "Hidratare într-adevăr prea mare pentru puterea făinii"
       }
     ],
     "fixes": [
       {
-        "en": "Autolyse 30-60 minutes before final mixing so flour fully hydrates first"
+        "en": "Autolyse 30-60 minutes before final mixing so flour fully hydrates first",
+        "de": "Autolyse 30-60 Minuten vor dem finalen Mischen durchführen, damit das Mehl zuerst vollständig hydratisiert",
+        "es": "Hacer una autólisis de 30 a 60 minutos antes del mezclado final para que la harina se hidrate por completo primero",
+        "fr": "Faire une autolyse de 30 à 60 minutes avant le mélange final pour que la farine s'hydrate complètement d'abord",
+        "ro": "Fă o autoliză de 30-60 de minute înainte de amestecarea finală, ca făina să se hidrateze complet mai întâi"
       },
       {
-        "en": "Use wet hands or a bench scraper with Rubaud or slap-and-fold instead of adding flour"
+        "en": "Use wet hands or a bench scraper with Rubaud or slap-and-fold instead of adding flour",
+        "de": "Nasse Hände oder einen Teigschaber mit Rubaud-Methode oder Slap-and-Fold verwenden, statt Mehl hinzuzufügen",
+        "es": "Usar las manos mojadas o un rasqueta con el método Rubaud o de golpear y doblar en lugar de añadir harina",
+        "fr": "Utiliser des mains mouillées ou une corne avec la méthode Rubaud ou slap-and-fold au lieu d'ajouter de la farine",
+        "ro": "Folosește mâinile ude sau o răzuitoare de blat cu metoda Rubaud sau slap-and-fold în loc să adaugi făină"
       },
       {
-        "en": "Chill the dough briefly if it's simply too warm"
+        "en": "Chill the dough briefly if it's simply too warm",
+        "de": "Teig kurz kühlen, falls er einfach zu warm ist",
+        "es": "Enfriar la masa brevemente si está simplemente demasiado caliente",
+        "fr": "Refroidir la pâte brièvement si elle est simplement trop chaude",
+        "ro": "Răcește aluatul scurt dacă este pur și simplu prea cald"
       },
       {
-        "en": "Only as a last resort, lower hydration by 2-3% at a time"
+        "en": "Only as a last resort, lower hydration by 2-3% at a time",
+        "de": "Nur als letztes Mittel die Hydratation um 2-3 % auf einmal senken",
+        "es": "Solo como último recurso, reducir la hidratación en un 2-3 % a la vez",
+        "fr": "En dernier recours seulement, réduire l'hydratation de 2-3 % à la fois",
+        "ro": "Doar ca ultimă soluție, scade hidratarea cu 2-3 % odată"
       }
     ],
     "article": "flour-and-gluten"
@@ -56,32 +92,64 @@
     },
     "signs": [
       {
-        "en": "Tears rather than stretching thin when tested"
+        "en": "Tears rather than stretching thin when tested",
+        "de": "Reißt beim Testen eher, als dass es sich dünn ausziehen lässt",
+        "es": "Se rompe en lugar de estirarse fino al probarlo",
+        "fr": "Se déchire plutôt que de s'étirer finement lors du test",
+        "ro": "Se rupe în loc să se întindă subțire când este testat"
       },
       {
-        "en": "Can't reach a thin, translucent windowpane without ripping"
+        "en": "Can't reach a thin, translucent windowpane without ripping",
+        "de": "Lässt sich kein dünnes, durchscheinendes Fenster ohne Riss ausziehen",
+        "es": "No se puede formar una membrana fina y translúcida sin romperse",
+        "fr": "Impossible d'obtenir une fine membrane translucide sans la déchirer",
+        "ro": "Nu se poate obține o fereastră subțire și translucidă fără a se rupe"
       }
     ],
     "causes": [
       {
-        "en": "Under-mixed - not enough kneading or folding yet"
+        "en": "Under-mixed - not enough kneading or folding yet",
+        "de": "Zu wenig geknetet oder gefaltet",
+        "es": "Insuficientemente mezclada - aún no ha recibido suficiente amasado o plegado",
+        "fr": "Insuffisamment mélangée - pas assez de pétrissage ou de pliage",
+        "ro": "Insuficient frământată - nu a primit încă suficientă frământare sau pliere"
       },
       {
-        "en": "Low-protein or bran-heavy flour cutting the gluten strands"
+        "en": "Low-protein or bran-heavy flour cutting the gluten strands",
+        "de": "Eiweißarmes oder kleiehaltiges Mehl, das die Glutenstränge durchtrennt",
+        "es": "Harina baja en proteína o con mucho salvado que corta las hebras de gluten",
+        "fr": "Farine pauvre en protéines ou riche en son qui coupe les brins de gluten",
+        "ro": "Făină săracă în proteine sau bogată în tărâțe care taie firele de gluten"
       },
       {
-        "en": "Dough is early in a long, cold-fermentation schedule where full development isn't expected yet"
+        "en": "Dough is early in a long, cold-fermentation schedule where full development isn't expected yet",
+        "de": "Teig steht am Anfang einer langen Kaltfermentation, bei der die volle Entwicklung noch nicht erwartet wird",
+        "es": "La masa está al inicio de una fermentación larga y fría donde no se espera aún el desarrollo completo",
+        "fr": "La pâte est au début d'une longue fermentation à froid où le développement complet n'est pas encore attendu",
+        "ro": "Aluatul este devreme într-o fermentație lungă la rece unde dezvoltarea completă nu este încă așteptată"
       }
     ],
     "fixes": [
       {
-        "en": "Continue mixing or add more stretch-and-fold sets, then retest"
+        "en": "Continue mixing or add more stretch-and-fold sets, then retest",
+        "de": "Weiter kneten oder weitere Fold-Sets durchführen, dann erneut testen",
+        "es": "Seguir mezclando o añadir más series de pliegues y estiramientos, luego volver a probar",
+        "fr": "Continuer à mélanger ou ajouter d'autres séries de pliages, puis retester",
+        "ro": "Continuă să frămânți sau adaugă mai multe serii de plieri și întinderi, apoi testează din nou"
       },
       {
-        "en": "Blend in a stronger bread or high-gluten flour, or reduce whole-grain percentage"
+        "en": "Blend in a stronger bread or high-gluten flour, or reduce whole-grain percentage",
+        "de": "Ein stärkeres Brotmehl oder High-Gluten-Mehl untermischen oder den Vollkornanteil reduzieren",
+        "es": "Añadir una harina de pan más fuerte o de alto gluten, o reducir el porcentaje de harina integral",
+        "fr": "Incorporer une farine à pain plus forte ou à haute teneur en gluten, ou réduire le pourcentage de grains entiers",
+        "ro": "Încorporează o făină de pâine mai tare sau cu gluten ridicat, sau reduce procentul de cereale integrale"
       },
       {
-        "en": "If the dough is meant for a long bulk rise, confirm only partial development is needed now - strength will build on its own"
+        "en": "If the dough is meant for a long bulk rise, confirm only partial development is needed now - strength will build on its own",
+        "de": "Wenn der Teig für eine lange Stockgare vorgesehen ist, bestätigen, dass nur teilweise Entwicklung nötig ist - die Struktur baut sich von selbst auf",
+        "es": "Si la masa está destinada a una larga fermentación en bloque, confirmar que solo se necesita un desarrollo parcial - la fuerza se desarrollará por sí sola",
+        "fr": "Si la pâte est destinée à une longue fermentation en masse, confirmer qu'un développement partiel suffit - la force se construira d'elle-même",
+        "ro": "Dacă aluatul este destinat unei fermentări lungi în vrac, confirmă că este necesară doar o dezvoltare parțială - structura se va construi de la sine"
       }
     ],
     "article": "flour-and-gluten"
@@ -98,32 +166,64 @@
     },
     "signs": [
       {
-        "en": "Slices fall apart or crumble when cut"
+        "en": "Slices fall apart or crumble when cut",
+        "de": "Scheiben zerfallen oder bröseln beim Schneiden",
+        "es": "Las rebanadas se deshacen o se desmigan al cortar",
+        "fr": "Les tranches se désagrègent ou s'émiettent à la coupe",
+        "ro": "Feliiile se sparg sau se sfărâmă la tăiere"
       },
       {
-        "en": "Crumb feels dry and short rather than moist and cohesive"
+        "en": "Crumb feels dry and short rather than moist and cohesive",
+        "de": "Krume fühlt sich trocken und bröckelig an statt feucht und zusammenhängend",
+        "es": "La miga se siente seca y quebradiza en lugar de húmeda y cohesiva",
+        "fr": "La mie est sèche et friable au lieu d'être humide et cohésive",
+        "ro": "Miezul se simte uscat și sfărâmicios în loc de umed și coeziv"
       }
     ],
     "causes": [
       {
-        "en": "Dough mixed too stiff or low-hydration for the flour used"
+        "en": "Dough mixed too stiff or low-hydration for the flour used",
+        "de": "Teig zu fest oder zu niedrige Hydratation für das verwendete Mehl",
+        "es": "Masa mezclada demasiado firme o con baja hidratación para la harina utilizada",
+        "fr": "Pâte mélangée trop ferme ou à faible hydratation pour la farine utilisée",
+        "ro": "Aluat frământat prea ferm sau cu hidratare prea scăzută pentru făina folosită"
       },
       {
-        "en": "High proportion of low-gluten grain (whole wheat, rye, ancient grains) without adjusting technique"
+        "en": "High proportion of low-gluten grain (whole wheat, rye, ancient grains) without adjusting technique",
+        "de": "Hoher Anteil an glutenarmem Getreide (Vollweizen, Roggen, Urgetreide) ohne Anpassung der Technik",
+        "es": "Alta proporción de grano bajo en gluten (trigo integral, centeno, cereales antiguos) sin ajustar la técnica",
+        "fr": "Fort pourcentage de céréales pauvres en gluten (blé complet, seigle, céréales anciennes) sans ajustement technique",
+        "ro": "Proporție mare de cereale cu gluten scăzut (grâu integral, secară, cereale străvechi) fără ajustarea tehnicii"
       },
       {
-        "en": "Overbaked, driving off more moisture than the crumb can spare"
+        "en": "Overbaked, driving off more moisture than the crumb can spare",
+        "de": "Zu lange gebacken, wodurch mehr Feuchtigkeit entzogen wurde als die Krume entbehren kann",
+        "es": "Horneado en exceso, eliminando más humedad de la que la miga puede permitirse",
+        "fr": "Trop cuit, éliminant plus d'humidité que la mie ne peut en perdre",
+        "ro": "Copt prea mult, eliminând mai multă umiditate decât poate suporta miezul"
       }
     ],
     "fixes": [
       {
-        "en": "Raise hydration slightly, judged against how the dough actually feels, not just the percentage"
+        "en": "Raise hydration slightly, judged against how the dough actually feels, not just the percentage",
+        "de": "Hydratation leicht erhöhen, gemessen am tatsächlichen Teiggefühl, nicht nur am Prozentwert",
+        "es": "Aumentar ligeramente la hidratación, juzgada por cómo se siente la masa realmente, no solo el porcentaje",
+        "fr": "Augmenter légèrement l'hydratation, en se fiant à la sensation réelle de la pâte, pas seulement au pourcentage",
+        "ro": "Crește ușor hidratarea, judecând după cum se simte aluatul de fapt, nu doar după procent"
       },
       {
-        "en": "Add an autolyse or soaker for whole-grain portions so bran fully hydrates before mixing"
+        "en": "Add an autolyse or soaker for whole-grain portions so bran fully hydrates before mixing",
+        "de": "Eine Autolyse oder einen Quellvorgang für Vollkornanteile einfügen, damit die Kleie vor dem Mischen vollständig hydratisiert",
+        "es": "Añadir una autólisis o un remojo para las porciones integrales, para que el salvado se hidrate completamente antes de mezclar",
+        "fr": "Ajouter une autolyse ou un trempage pour les portions de grains entiers, afin que le son s'hydrate complètement avant le mélange",
+        "ro": "Adaugă o autoliză sau o înmuiere pentru porțiunile integrale, ca tărâțele să se hidrateze complet înainte de amestecare"
       },
       {
-        "en": "Pull the bake at the correct internal temperature rather than over-baking for color"
+        "en": "Pull the bake at the correct internal temperature rather than over-baking for color",
+        "de": "Backen bei der korrekten Kerntemperatur beenden, statt für die Farbe zu überbacken",
+        "es": "Retirar el horneado a la temperatura interna correcta en lugar de sobrehornear por el color",
+        "fr": "Sortir la cuisson à la température interne correcte plutôt que de trop cuire pour la couleur",
+        "ro": "Oprește coacerea la temperatura internă corectă în loc să coaci în plus pentru culoare"
       }
     ],
     "article": "water-and-hydration"
@@ -140,35 +240,71 @@
     },
     "signs": [
       {
-        "en": "Tight, compact crumb with small, uniform air pockets"
+        "en": "Tight, compact crumb with small, uniform air pockets",
+        "de": "Dichte, kompakte Krume mit kleinen, gleichmäßigen Luftporen",
+        "es": "Miga apretada y compacta con pequeñas burbujas de aire uniformes",
+        "fr": "Mie dense et compacte avec de petites alvéoles régulières",
+        "ro": "Miez dens și compact cu bule de aer mici și uniforme"
       },
       {
-        "en": "Heavy for its size"
+        "en": "Heavy for its size",
+        "de": "Schwer für seine Größe",
+        "es": "Pesado para su tamaño",
+        "fr": "Lourd pour sa taille",
+        "ro": "Greu pentru dimensiunea sa"
       },
       {
-        "en": "Little to no oven spring"
+        "en": "Little to no oven spring",
+        "de": "Kaum oder kein Ofentrieb",
+        "es": "Poco o ningún desarrollo en el horno",
+        "fr": "Peu ou pas de ressort au four",
+        "ro": "Puțină sau deloc creștere la cuptor"
       }
     ],
     "causes": [
       {
-        "en": "Bulk fermentation ended too early, before the dough gained real volume"
+        "en": "Bulk fermentation ended too early, before the dough gained real volume",
+        "de": "Stockgare zu früh beendet, bevor der Teig echtes Volumen gewonnen hat",
+        "es": "Fermentación en bloque terminada demasiado pronto, antes de que la masa ganara volumen real",
+        "fr": "Fermentation en masse terminée trop tôt, avant que la pâte n'ait pris du volume",
+        "ro": "Fermentarea în vrac încheiată prea devreme, înainte ca aluatul să câștige volum real"
       },
       {
-        "en": "Weak or young starter, or insufficient yeast"
+        "en": "Weak or young starter, or insufficient yeast",
+        "de": "Schwacher oder junger Sauerteigansatz oder unzureichende Hefe",
+        "es": "Masa madre débil o joven, o levadura insuficiente",
+        "fr": "Levain faible ou jeune, ou quantité de levure insuffisante",
+        "ro": "Maia slabă sau tânără, sau drojdie insuficientă"
       },
       {
-        "en": "Dough temperature too cold during bulk"
+        "en": "Dough temperature too cold during bulk",
+        "de": "Teigtemperatur während der Stockgare zu kalt",
+        "es": "Temperatura de la masa demasiado fría durante la fermentación en bloque",
+        "fr": "Température de la pâte trop froide pendant la fermentation en masse",
+        "ro": "Temperatura aluatului prea rece în timpul fermentării în vrac"
       }
     ],
     "fixes": [
       {
-        "en": "Let bulk fermentation run until the dough visibly grows (roughly 50% by volume), not by the clock"
+        "en": "Let bulk fermentation run until the dough visibly grows (roughly 50% by volume), not by the clock",
+        "de": "Stockgare laufen lassen, bis der Teig sichtbar wächst (etwa 50 % Volumenanstieg), nicht nach der Uhr",
+        "es": "Dejar que la fermentación en bloque continúe hasta que la masa crezca visiblemente (aproximadamente un 50 % en volumen), no por reloj",
+        "fr": "Laisser la fermentation en masse jusqu'à ce que la pâte ait visiblement levé (environ 50 % en volume), pas à l'horloge",
+        "ro": "Lasă fermentarea în vrac să continue până când aluatul crește vizibil (aproximativ 50 % în volum), nu după ceas"
       },
       {
-        "en": "Track rise with a straight-sided container or aliquot jar instead of guessing"
+        "en": "Track rise with a straight-sided container or aliquot jar instead of guessing",
+        "de": "Volumenanstieg mit einem geraden Behälter oder Aliquot-Glas verfolgen, statt zu raten",
+        "es": "Seguir el aumento con un recipiente de paredes rectas o un tarro de alícuota en lugar de adivinar",
+        "fr": "Suivre la levée avec un récipient à parois droites ou un pot aliquote au lieu de deviner",
+        "ro": "Urmărește creșterea cu un recipient cu pereți drepți sau un borcan de alicotă în loc să ghicești"
       },
       {
-        "en": "Warm the dough (24-26°C) to speed a sluggish fermentation"
+        "en": "Warm the dough (24-26°C) to speed a sluggish fermentation",
+        "de": "Teig erwärmen (24-26 °C), um eine träge Fermentation zu beschleunigen",
+        "es": "Calentar la masa (24-26 °C) para acelerar una fermentación lenta",
+        "fr": "Réchauffer la pâte (24-26 °C) pour accélérer une fermentation lente",
+        "ro": "Încălzește aluatul (24-26 °C) pentru a accelera o fermentație lentă"
       }
     ],
     "article": "fermentation"
@@ -185,35 +321,71 @@
     },
     "signs": [
       {
-        "en": "Spreads outward rather than rising upward"
+        "en": "Spreads outward rather than rising upward",
+        "de": "Breitet sich eher seitlich aus als nach oben zu gehen",
+        "es": "Se extiende hacia los lados en lugar de subir",
+        "fr": "S'étale horizontalement plutôt que de monter",
+        "ro": "Se întinde lateral în loc să crească în sus"
       },
       {
-        "en": "Minimal oven spring"
+        "en": "Minimal oven spring",
+        "de": "Minimaler Ofentrieb",
+        "es": "Mínimo desarrollo en el horno",
+        "fr": "Ressort au four minimal",
+        "ro": "Creștere minimă la cuptor"
       },
       {
-        "en": "Dough flattened noticeably when turned out of the banneton"
+        "en": "Dough flattened noticeably when turned out of the banneton",
+        "de": "Teig ist beim Stürzen aus dem Gärkorb merklich zusammengefallen",
+        "es": "La masa se aplanó notablemente al desmoldarla del banneton",
+        "fr": "La pâte s'est visiblement affaissée en la démoulant du banneton",
+        "ro": "Aluatul s-a turtit vizibil când a fost răsturnat din banneton"
       }
     ],
     "causes": [
       {
-        "en": "Overproofed - fermentation ran past the dough's structural limit"
+        "en": "Overproofed - fermentation ran past the dough's structural limit",
+        "de": "Übergare - die Fermentation hat die strukturelle Grenze des Teigs überschritten",
+        "es": "Sobrefermentación - la fermentación superó el límite estructural de la masa",
+        "fr": "Surfermentation - la fermentation a dépassé la limite structurelle de la pâte",
+        "ro": "Suprafermentare - fermentația a depășit limita structurală a aluatului"
       },
       {
-        "en": "Underdeveloped gluten too weak to hold gas"
+        "en": "Underdeveloped gluten too weak to hold gas",
+        "de": "Unterentwickeltes Gluten zu schwach, um Gas zu halten",
+        "es": "Gluten subdesarrollado demasiado débil para retener gas",
+        "fr": "Gluten sous-développé trop faible pour retenir le gaz",
+        "ro": "Gluten subdezvoltat prea slab pentru a reține gazele"
       },
       {
-        "en": "Shaping left too little surface tension"
+        "en": "Shaping left too little surface tension",
+        "de": "Beim Formen wurde zu wenig Oberflächenspannung erzeugt",
+        "es": "El formado dejó muy poca tensión superficial",
+        "fr": "Le façonnage a laissé trop peu de tension de surface",
+        "ro": "Modelarea a lăsat prea puțină tensiune de suprafață"
       }
     ],
     "fixes": [
       {
-        "en": "End bulk fermentation earlier (roughly 25-75% rise depending on flour strength), judged by feel, not doubling"
+        "en": "End bulk fermentation earlier (roughly 25-75% rise depending on flour strength), judged by feel, not doubling",
+        "de": "Stockgare früher beenden (etwa 25-75 % Volumenanstieg je nach Mehlstärke), beurteilt nach Gefühl, nicht nach Verdopplung",
+        "es": "Terminar la fermentación en bloque antes (aproximadamente 25-75 % de aumento según la fuerza de la harina), juzgado por la sensación, no al doblar",
+        "fr": "Terminer la fermentation en masse plus tôt (environ 25-75 % de levée selon la force de la farine), jugé au toucher, pas au doublement",
+        "ro": "Încheie fermentarea în vrac mai devreme (aproximativ 25-75 % creștere în funcție de puterea făinii), judecată după senzație, nu după dublare"
       },
       {
-        "en": "Build more strength with extra stretch-and-folds"
+        "en": "Build more strength with extra stretch-and-folds",
+        "de": "Mehr Struktur mit zusätzlichen Fold-Sets aufbauen",
+        "es": "Desarrollar más fuerza con pliegues y estiramientos adicionales",
+        "fr": "Développer plus de force avec des séries de pliages supplémentaires",
+        "ro": "Construiește mai multă forță cu serii suplimentare de plieri și întinderi"
       },
       {
-        "en": "Reshape with firmer, more deliberate tension"
+        "en": "Reshape with firmer, more deliberate tension",
+        "de": "Mit festerer, bewussterer Spannung neu formen",
+        "es": "Reformar con una tensión más firme y deliberada",
+        "fr": "Refaçonner avec une tension plus ferme et plus délibérée",
+        "ro": "Remodelează cu o tensiune mai fermă și mai deliberată"
       }
     ],
     "article": "fermentation"
@@ -230,32 +402,64 @@
     },
     "signs": [
       {
-        "en": "Sharp, vinegary, almost acetone-like tang"
+        "en": "Sharp, vinegary, almost acetone-like tang",
+        "de": "Scharfer, essigsaurer, fast azetonartiger Geschmack",
+        "es": "Sabor acre, avinagrado, casi a acetona",
+        "fr": "Goût acide, vinaigré, presque acétonique",
+        "ro": "Gust iute, oțețit, aproape de acetonă"
       },
       {
-        "en": "Sourness overpowers the wheat or rye flavor"
+        "en": "Sourness overpowers the wheat or rye flavor",
+        "de": "Säure überdeckt den Weizen- oder Roggengeschmack",
+        "es": "La acidez domina el sabor del trigo o el centeno",
+        "fr": "L'acidité masque la saveur du blé ou du seigle",
+        "ro": "Aciditatea copleșește gustul de grâu sau secară"
       }
     ],
     "causes": [
       {
-        "en": "Long, cool fermentation favoring heterofermentative (acetic-acid) bacteria"
+        "en": "Long, cool fermentation favoring heterofermentative (acetic-acid) bacteria",
+        "de": "Lange, kühle Fermentation begünstigt heterofermentative (essigsaure) Bakterien",
+        "es": "Fermentación larga y fresca que favorece las bacterias heterofermentativas (acético)",
+        "fr": "Fermentation longue et fraîche favorisant les bactéries hétérofermentaires (acétique)",
+        "ro": "Fermentare lungă și rece care favorizează bacteriile heterofermentative (acid acetic)"
       },
       {
-        "en": "Overripe or infrequently-fed starter"
+        "en": "Overripe or infrequently-fed starter",
+        "de": "Überreifer oder selten gefütterter Sauerteigansatz",
+        "es": "Masa madre demasiado madura o alimentada con poca frecuencia",
+        "fr": "Levain trop mûr ou nourri trop rarement",
+        "ro": "Maia prea coaptă sau hrănită rar"
       },
       {
-        "en": "Too much prefermented flour or too long a cold retard"
+        "en": "Too much prefermented flour or too long a cold retard",
+        "de": "Zu viel vorgefermentiertes Mehl oder zu lange Kaltführung",
+        "es": "Demasiada harina prefermentada o un reposo en frío demasiado largo",
+        "fr": "Trop de farine préfermentée ou une réfrigération trop longue",
+        "ro": "Prea multă făină prefermentată sau o răcire prelungită"
       }
     ],
     "fixes": [
       {
-        "en": "Ferment warmer (around 28-30°C) to favor mild lactic acid bacteria over acetic"
+        "en": "Ferment warmer (around 28-30°C) to favor mild lactic acid bacteria over acetic",
+        "de": "Wärmer fermentieren (etwa 28-30 °C), um milde Milchsäurebakterien gegenüber Essigsäure zu begünstigen",
+        "es": "Fermentar más caliente (alrededor de 28-30 °C) para favorecer las bacterias lácticas suaves frente a las acéticas",
+        "fr": "Fermenter plus chaudement (environ 28-30 °C) pour favoriser les bactéries lactiques douces par rapport aux acétiques",
+        "ro": "Fermentează mai cald (în jur de 28-30 °C) pentru a favoriza bacteriile lactice blânde în fața celor acetice"
       },
       {
-        "en": "Feed the starter more often and use it closer to its peak"
+        "en": "Feed the starter more often and use it closer to its peak",
+        "de": "Sauerteigansatz häufiger füttern und näher an seinem Peak verwenden",
+        "es": "Alimentar la masa madre con más frecuencia y usarla más cerca de su pico",
+        "fr": "Nourrir le levain plus souvent et l'utiliser plus près de son pic",
+        "ro": "Hrănește maiaua mai des și folosește-o mai aproape de vârful ei"
       },
       {
-        "en": "Shorten bulk fermentation or reduce the amount of levain used"
+        "en": "Shorten bulk fermentation or reduce the amount of levain used",
+        "de": "Stockgare verkürzen oder die Menge des verwendeten Levains reduzieren",
+        "es": "Acortar la fermentación en bloque o reducir la cantidad de levain utilizada",
+        "fr": "Raccourcir la fermentation en masse ou réduire la quantité de levain utilisée",
+        "ro": "Scurtează fermentarea în vrac sau reduce cantitatea de maia folosită"
       }
     ],
     "article": "fermentation"
@@ -272,32 +476,64 @@
     },
     "signs": [
       {
-        "en": "Flat, mild, more yeasty than tangy flavor"
+        "en": "Flat, mild, more yeasty than tangy flavor",
+        "de": "Flau, mild, eher hefig als säuerlich im Geschmack",
+        "es": "Sabor plano, suave, más a levadura que ácido",
+        "fr": "Saveur plate, douce, plus levurée qu'acide",
+        "ro": "Gust plat, blând, mai degrabă de drojdie decât acrișor"
       },
       {
-        "en": "Little of the expected sourdough character"
+        "en": "Little of the expected sourdough character",
+        "de": "Wenig vom erwarteten Sauerteigcharakter",
+        "es": "Poco del carácter esperado de masa madre",
+        "fr": "Peu du caractère attendu du levain",
+        "ro": "Puțin din caracterul așteptat de maia"
       }
     ],
     "causes": [
       {
-        "en": "Short or warm fermentation dominated by yeast rather than acid-producing bacteria"
+        "en": "Short or warm fermentation dominated by yeast rather than acid-producing bacteria",
+        "de": "Kurze oder warme Fermentation, von Hefe statt säurebildenden Bakterien dominiert",
+        "es": "Fermentación corta o cálida dominada por levadura en lugar de bacterias acidógenas",
+        "fr": "Fermentation courte ou chaude dominée par la levure plutôt que par les bactéries acidogènes",
+        "ro": "Fermentare scurtă sau caldă dominată de drojdie în loc de bacterii producătoare de acid"
       },
       {
-        "en": "Young, recently-fed starter with a high yeast-to-bacteria ratio"
+        "en": "Young, recently-fed starter with a high yeast-to-bacteria ratio",
+        "de": "Junger, kürzlich gefütterter Sauerteigansatz mit hohem Hefe-Bakterien-Verhältnis",
+        "es": "Masa madre joven, recién alimentada, con una alta proporción de levadura a bacterias",
+        "fr": "Levain jeune, récemment nourri, avec un rapport levure/bactéries élevé",
+        "ro": "Maia tânără, hrănită recent, cu un raport ridicat drojdie-bacterii"
       },
       {
-        "en": "Low percentage of prefermented flour"
+        "en": "Low percentage of prefermented flour",
+        "de": "Niedriger Anteil an vorgefermentiertem Mehl",
+        "es": "Bajo porcentaje de harina prefermentada",
+        "fr": "Faible pourcentage de farine préfermentée",
+        "ro": "Procent scăzut de făină prefermentată"
       }
     ],
     "fixes": [
       {
-        "en": "Extend bulk fermentation, including a cold retard, to build more acid"
+        "en": "Extend bulk fermentation, including a cold retard, to build more acid",
+        "de": "Stockgare verlängern, inklusive einer Kaltführung, um mehr Säure aufzubauen",
+        "es": "Extender la fermentación en bloque, incluyendo un reposo en frío, para generar más ácido",
+        "fr": "Prolonger la fermentation en masse, y compris une réfrigération, pour développer plus d'acide",
+        "ro": "Prelingește fermentarea în vrac, inclusiv o răcire la rece, pentru a acumula mai mult acid"
       },
       {
-        "en": "Let the starter ripen longer between feeds, or feed it less often"
+        "en": "Let the starter ripen longer between feeds, or feed it less often",
+        "de": "Sauerteigansatz zwischen den Fütterungen länger reifen lassen oder seltener füttern",
+        "es": "Dejar que la masa madre madure más tiempo entre alimentaciones, o alimentarla con menos frecuencia",
+        "fr": "Laisser le levain mûrir plus longtemps entre les nourrissages, ou le nourrir moins souvent",
+        "ro": "Lasă maiaua să se coacă mai mult între hrăniri sau hrănește-o mai rar"
       },
       {
-        "en": "Increase prefermented flour percentage, or use a stiffer levain, which favors sharper acetic notes"
+        "en": "Increase prefermented flour percentage, or use a stiffer levain, which favors sharper acetic notes",
+        "de": "Anteil des vorgefermentierten Mehls erhöhen oder einen festeren Levain verwenden, der schärfere Essignoten begünstigt",
+        "es": "Aumentar el porcentaje de harina prefermentada, o usar un levain más firme, que favorece notas acéticas más marcadas",
+        "fr": "Augmenter le pourcentage de farine préfermentée ou utiliser un levain plus ferme, qui favorise des notes acétiques plus prononcées",
+        "ro": "Crește procentul de făină prefermentată sau folosește o maia mai fermă, care favorizează note acetice mai ascuțite"
       }
     ],
     "article": "fermentation"
@@ -314,35 +550,71 @@
     },
     "signs": [
       {
-        "en": "Crumb stays close and tight even though the dough felt very wet and slack"
+        "en": "Crumb stays close and tight even though the dough felt very wet and slack",
+        "de": "Krume bleibt dicht und fest, obwohl der Teig sich sehr nass und schlaff anfühlte",
+        "es": "La miga se mantiene apretada y compacta aunque la masa se sintió muy húmeda y floja",
+        "fr": "La mie reste serrée et dense même si la pâte semblait très humide et molle",
+        "ro": "Miezul rămâne dens și compact chiar dacă aluatul s-a simțit foarte ud și moale"
       },
       {
-        "en": "Doesn't match the open crumb the hydration percentage would suggest"
+        "en": "Doesn't match the open crumb the hydration percentage would suggest",
+        "de": "Entspricht nicht der offenen Krume, die der Hydratationsprozentsatz vermuten ließe",
+        "es": "No coincide con la miga abierta que sugeriría el porcentaje de hidratación",
+        "fr": "Ne correspond pas à la mie aérée que suggère le pourcentage d'hydratation",
+        "ro": "Nu corespunde miezului deschis pe care l-ar sugera procentul de hidratare"
       }
     ],
     "causes": [
       {
-        "en": "Bulk fermentation ended too soon - hydration alone doesn't open a crumb, fermentation does"
+        "en": "Bulk fermentation ended too soon - hydration alone doesn't open a crumb, fermentation does",
+        "de": "Stockgare zu früh beendet - Hydratation allein öffnet keine Krume, die Fermentation tut es",
+        "es": "Fermentación en bloque terminada demasiado pronto - la hidratación sola no abre una miga, la fermentación lo hace",
+        "fr": "Fermentation en masse terminée trop tôt - l'hydratation seule n'aère pas une mie, c'est la fermentation qui le fait",
+        "ro": "Fermentarea în vrac încheiată prea devreme - hidratarea singură nu deschide un miez, fermentația o face"
       },
       {
-        "en": "Overly sour or degraded starter weakening gas production"
+        "en": "Overly sour or degraded starter weakening gas production",
+        "de": "Übermäßig saurer oder abgebaute Sauerteigansatz schwächt die Gasproduktion",
+        "es": "Masa madre demasiado ácida o degradada que debilita la producción de gas",
+        "fr": "Levain trop acide ou dégradé affaiblissant la production de gaz",
+        "ro": "Maia prea acidă sau degradată care slăbește producția de gaze"
       },
       {
-        "en": "Whole grain or rye flour in the mix, which tightens crumb regardless of water level"
+        "en": "Whole grain or rye flour in the mix, which tightens crumb regardless of water level",
+        "de": "Vollkorn- oder Roggenmehl in der Mischung, das die Krume unabhängig vom Wasseranteil verdichtet",
+        "es": "Harina integral o de centeno en la mezcla, que compacta la miga independientemente del nivel de agua",
+        "fr": "Farine complète ou de seigle dans le mélange, qui resserre la mie quel que soit le niveau d'eau",
+        "ro": "Făină integrală sau de secară în amestec, care strânge miezul indiferent de nivelul apei"
       },
       {
-        "en": "Dough handled too roughly, popping gas pockets built during bulk"
+        "en": "Dough handled too roughly, popping gas pockets built during bulk",
+        "de": "Teig zu grob behandelt, wodurch die während der Stockgare aufgebauten Gasporen zerstört wurden",
+        "es": "Masa manipulada demasiado bruscamente, reventando las burbujas de gas formadas durante la fermentación",
+        "fr": "Pâte manipulée trop brutalement, écrasant les alvéoles construites pendant la fermentation",
+        "ro": "Aluat manipulat prea brutal, spărgând bulele de gaz formate în timpul fermentării"
       }
     ],
     "fixes": [
       {
-        "en": "Extend bulk fermentation and judge by volume and feel rather than the hydration number"
+        "en": "Extend bulk fermentation and judge by volume and feel rather than the hydration number",
+        "de": "Stockgare verlängern und nach Volumen und Gefühl beurteilen, nicht nach der Hydratationszahl",
+        "es": "Extender la fermentación en bloque y juzgar por volumen y sensación, no por el número de hidratación",
+        "fr": "Prolonger la fermentation en masse et juger par le volume et la sensation, pas par le chiffre d'hydratation",
+        "ro": "Prelingește fermentarea în vrac și judecă după volum și senzație, nu după cifra de hidratare"
       },
       {
-        "en": "Refresh the starter until it reliably peaks before using it"
+        "en": "Refresh the starter until it reliably peaks before using it",
+        "de": "Sauerteigansatz auffrischen, bis er zuverlässig seinen Peak erreicht, bevor er verwendet wird",
+        "es": "Refrescar la masa madre hasta que alcance su pico de forma fiable antes de usarla",
+        "fr": "Rafraîchir le levain jusqu'à ce qu'il atteigne son pic de façon fiable avant de l'utiliser",
+        "ro": "Reîmprospătează maiaua până când atinge în mod fiabil vârful înainte de a o folosi"
       },
       {
-        "en": "Handle gently at shaping - firm but not aggressive degassing"
+        "en": "Handle gently at shaping - firm but not aggressive degassing",
+        "de": "Beim Formen sanft umgehen - feste, aber nicht aggressive Entgasung",
+        "es": "Manipular suavemente al formar - desgasificación firme pero no agresiva",
+        "fr": "Manipuler doucement au façonnage - dégazage ferme mais pas agressif",
+        "ro": "Manipulează ușor la modelare - degazare fermă dar nu agresivă"
       }
     ],
     "article": "water-and-hydration"
@@ -359,32 +631,64 @@
     },
     "signs": [
       {
-        "en": "Small raised bubbles or blisters across the crust surface"
+        "en": "Small raised bubbles or blisters across the crust surface",
+        "de": "Kleine erhabene Blasen oder Bläschen auf der Krustenoberfläche",
+        "es": "Pequeñas burbujas o ampollas elevadas en la superficie de la corteza",
+        "fr": "Petites cloques ou ampoules en relief sur la surface de la croûte",
+        "ro": "Bule mici ridicate sau vezicule pe suprafața crustei"
       },
       {
-        "en": "Blisters sometimes brown darker than the surrounding crust"
+        "en": "Blisters sometimes brown darker than the surrounding crust",
+        "de": "Blasen bräunen manchmal dunkler als die umgebende Kruste",
+        "es": "Las ampollas a veces se doran más oscuro que la corteza circundante",
+        "fr": "Les cloques brunissent parfois plus foncé que la croûte environnante",
+        "ro": "Veziculele se rumenesc uneori mai închis decât crusta din jur"
       }
     ],
     "causes": [
       {
-        "en": "Over-fermented or over-acidified dough"
+        "en": "Over-fermented or over-acidified dough",
+        "de": "Überfermentierter oder übersäuerter Teig",
+        "es": "Masa sobrefermentada o sobreacidificada",
+        "fr": "Pâte surfermentée ou suracidifiée",
+        "ro": "Aluat suprafermentat sau supraacidifiat"
       },
       {
-        "en": "Dough soft, cold or under-proofed going into a hot oven, trapping surface gas unevenly"
+        "en": "Dough soft, cold or under-proofed going into a hot oven, trapping surface gas unevenly",
+        "de": "Teig weich, kalt oder untergärig in einen heißen Ofen gegeben, wodurch Oberflächengas ungleichmäßig eingeschlossen wird",
+        "es": "Masa blanda, fría o insuficientemente fermentada al entrar en un horno caliente, atrapando gas superficial de manera desigual",
+        "fr": "Pâte molle, froide ou sous-fermentée entrant dans un four chaud, piégeant le gaz de surface de manière inégale",
+        "ro": "Aluat moale, rece sau subfermentat introdus într-un cuptor fierbinte, prinzând gazul de suprafață inegal"
       },
       {
-        "en": "Enzyme-rich flour breaking down surface starch unevenly"
+        "en": "Enzyme-rich flour breaking down surface starch unevenly",
+        "de": "Enzymreiches Mehl, das die Oberflächenstärke ungleichmäßig abbaut",
+        "es": "Harina rica en enzimas que descompone el almidón superficial de manera desigual",
+        "fr": "Farine riche en enzymes dégradant l'amidon de surface de manière inégale",
+        "ro": "Făină bogată în enzime care descompune amidonul de suprafață inegal"
       }
     ],
     "fixes": [
       {
-        "en": "Rein in fermentation time or temperature to avoid over-acidification"
+        "en": "Rein in fermentation time or temperature to avoid over-acidification",
+        "de": "Fermentationszeit oder -temperatur zügeln, um Übersäuerung zu vermeiden",
+        "es": "Controlar el tiempo o la temperatura de fermentación para evitar la sobreacidificación",
+        "fr": "Réduire le temps ou la température de fermentation pour éviter la suracidification",
+        "ro": "Controlează timpul sau temperatura de fermentare pentru a evita supraacidifierea"
       },
       {
-        "en": "Bring dough to a consistent, appropriate temperature before baking"
+        "en": "Bring dough to a consistent, appropriate temperature before baking",
+        "de": "Teig vor dem Backen auf eine gleichmäßige, angemessene Temperatur bringen",
+        "es": "Llevar la masa a una temperatura uniforme y adecuada antes de hornear",
+        "fr": "Amener la pâte à une température uniforme et appropriée avant la cuisson",
+        "ro": "Adu aluatul la o temperatură uniformă și adecvată înainte de coacere"
       },
       {
-        "en": "Handle gently at shaping to avoid uneven surface gas pockets"
+        "en": "Handle gently at shaping to avoid uneven surface gas pockets",
+        "de": "Beim Formen sanft umgehen, um ungleichmäßige Oberflächengastaschen zu vermeiden",
+        "es": "Manipular suavemente al formar para evitar bolsas de gas superficiales desiguales",
+        "fr": "Manipuler doucement au façonnage pour éviter les poches de gaz superficielles inégales",
+        "ro": "Manipulează ușor la modelare pentru a evita pungile de gaz inegale la suprafață"
       }
     ],
     "article": "fermentation"
@@ -401,32 +705,64 @@
     },
     "signs": [
       {
-        "en": "One or a few large irregular holes rather than an even crumb"
+        "en": "One or a few large irregular holes rather than an even crumb",
+        "de": "Ein oder wenige große unregelmäßige Löcher statt einer gleichmäßigen Krume",
+        "es": "Uno o pocos agujeros grandes e irregulares en lugar de una miga uniforme",
+        "fr": "Un ou quelques grands trous irréguliers plutôt qu'une mie homogène",
+        "ro": "Una sau câteva găuri mari neregulate în loc de un miez uniform"
       },
       {
-        "en": "Holes often run just under the crust"
+        "en": "Holes often run just under the crust",
+        "de": "Löcher verlaufen oft direkt unter der Kruste",
+        "es": "Los agujeros suelen estar justo debajo de la corteza",
+        "fr": "Les trous se situent souvent juste sous la croûte",
+        "ro": "Găurile apar adesea chiar sub crustă"
       }
     ],
     "causes": [
       {
-        "en": "Excess dusting flour trapped inside the shaping seam, preventing it from sealing"
+        "en": "Excess dusting flour trapped inside the shaping seam, preventing it from sealing",
+        "de": "Überschüssiges Bestäubungsmehl in der Formnaht eingeschlossen, das das Verschließen verhindert",
+        "es": "Exceso de harina de espolvoreo atrapada dentro de la costura de formado, impidiendo que se selle",
+        "fr": "Excès de farine de saupoudrage piégé dans la soudure de façonnage, l'empêchant de sceller",
+        "ro": "Exces de făină de presărare prins în cusătura de modelare, împiedicând etanșarea"
       },
       {
-        "en": "Rough degassing or shaping that left large trapped pockets"
+        "en": "Rough degassing or shaping that left large trapped pockets",
+        "de": "Zu grobe Entgasung oder Formung, die große eingeschlossene Taschen hinterlassen hat",
+        "es": "Desgasificación o formado brusco que dejó grandes bolsas atrapadas",
+        "fr": "Dégazage ou façonnage brutal qui a laissé de grandes poches emprisonnées",
+        "ro": "Degazare sau modelare brutală care a lăsat buzunare mari prinse"
       },
       {
-        "en": "Underfermented dough that then expanded unevenly and fast in the oven"
+        "en": "Underfermented dough that then expanded unevenly and fast in the oven",
+        "de": "Unterfermentierter Teig, der sich dann im Ofen ungleichmäßig und schnell ausdehnte",
+        "es": "Masa subfermentada que luego se expandió de manera desigual y rápida en el horno",
+        "fr": "Pâte sous-fermentée qui s'est ensuite expansée de manière inégale et rapide au four",
+        "ro": "Aluat subfermentat care apoi s-a expandat inegal și rapid în cuptor"
       }
     ],
     "fixes": [
       {
-        "en": "Brush off excess bench flour before the final shaping fold"
+        "en": "Brush off excess bench flour before the final shaping fold",
+        "de": "Überschüssiges Bestäubungsmehl vor der letzten Formfalte abbürsten",
+        "es": "Cepillar el exceso de harina de espolvoreo antes del último pliegue de formado",
+        "fr": "Brosser l'excès de farine de saupoudrage avant le dernier pli de façonnage",
+        "ro": "Periază excesul de făină de presărare înainte de ultimul pliu de modelare"
       },
       {
-        "en": "Shape with even, deliberate pressure so gas is distributed rather than pushed into pockets"
+        "en": "Shape with even, deliberate pressure so gas is distributed rather than pushed into pockets",
+        "de": "Mit gleichmäßigem, bewusstem Druck formen, damit das Gas verteilt und nicht in Taschen gedrückt wird",
+        "es": "Formar con presión uniforme y deliberada para que el gas se distribuya en lugar de ser empujado a bolsas",
+        "fr": "Façonner avec une pression uniforme et délibérée pour que le gaz soit réparti plutôt que poussé dans des poches",
+        "ro": "Modelează cu presiune uniformă și deliberată pentru ca gazul să fie distribuit, nu împins în buzunare"
       },
       {
-        "en": "Let fermentation finish properly before shaping"
+        "en": "Let fermentation finish properly before shaping",
+        "de": "Fermentation vor dem Formen richtig abschließen lassen",
+        "es": "Dejar que la fermentación termine correctamente antes de formar",
+        "fr": "Laisser la fermentation se terminer correctement avant le façonnage",
+        "ro": "Lasă fermentația să se termine corect înainte de modelare"
       }
     ],
     "article": "bakers-percentages"
@@ -443,35 +779,71 @@
     },
     "signs": [
       {
-        "en": "Score simply splits open flat with no raised, curled lip"
+        "en": "Score simply splits open flat with no raised, curled lip",
+        "de": "Einschnitt öffnet sich flach mit keiner erhobenen, sich einrollenden Lippe",
+        "es": "El corte se abre plano sin un labio elevado y rizado",
+        "fr": "La grigne s'ouvre à plat sans lèvre relevée et retroussée",
+        "ro": "Incisionea se deschide plat, fără o buză ridicată și răsucită"
       },
       {
-        "en": "The cut looks splayed rather than lifted"
+        "en": "The cut looks splayed rather than lifted",
+        "de": "Der Schnitt sieht eher aufgespreizt als angehoben aus",
+        "es": "El corte parece más abierto que levantado",
+        "fr": "La grigne semble plutôt écartée que soulevée",
+        "ro": "Tăietura arată mai degrabă desfăcută decât ridicată"
       }
     ],
     "causes": [
       {
-        "en": "Blade held perpendicular (90°) instead of shallow (~30°) to the dough"
+        "en": "Blade held perpendicular (90°) instead of shallow (~30°) to the dough",
+        "de": "Klinge senkrecht (90°) statt flach (etwa 30°) zum Teig gehalten",
+        "es": "Cuchilla sostenida perpendicular (90°) en lugar de inclinada (aproximadamente 30°) respecto a la masa",
+        "fr": "Lame tenue perpendiculaire (90°) au lieu d'inclinée (environ 30°) par rapport à la pâte",
+        "ro": "Lamă ținută perpendicular (90°) în loc de înclinată (aproximativ 30°) față de aluat"
       },
       {
-        "en": "Cut too shallow to release before the crust sets, or too deep so it collapses instead of lifting"
+        "en": "Cut too shallow to release before the crust sets, or too deep so it collapses instead of lifting",
+        "de": "Zu flach geschnitten, um vor dem Festigen der Kruste zu öffnen, oder zu tief, so dass sie statt sich zu heben kollabiert",
+        "es": "Corte demasiado superficial para abrirse antes de que se fije la corteza, o demasiado profundo para que colapse en lugar de levantarse",
+        "fr": "Entaille trop superficielle pour s'ouvrir avant que la croûte ne se fixe, ou trop profonde et elle s'effondre au lieu de se soulever",
+        "ro": "Tăiat prea superficial pentru a se deschide înainte ca crusta să se fixeze, sau prea adânc și se prăbușește în loc să se ridice"
       },
       {
-        "en": "Slow, dragging cut instead of one fast, confident pass"
+        "en": "Slow, dragging cut instead of one fast, confident pass",
+        "de": "Langsamer, ziehender Schnitt statt eines schnellen, selbstbewussten Zugs",
+        "es": "Corte lento y arrastrado en lugar de un pase rápido y seguro",
+        "fr": "Entaille lente et traînante au lieu d'un geste rapide et assuré",
+        "ro": "Tăietură lentă și târâtoare în loc de o mișcare rapidă și încrezătoare"
       },
       {
-        "en": "Insufficient steam, so the crust sets before the score can open"
+        "en": "Insufficient steam, so the crust sets before the score can open",
+        "de": "Unzureichender Dampf, so dass die Kruste fest wird, bevor sich der Einschnitt öffnen kann",
+        "es": "Vapor insuficiente, por lo que la corteza se fija antes de que el corte pueda abrirse",
+        "fr": "Vapeur insuffisante, la croûte se fixe avant que la grigne puisse s'ouvrir",
+        "ro": "Abur insuficient, astfel încât crusta se fixează înainte ca incizia să se poată deschide"
       }
     ],
     "fixes": [
       {
-        "en": "Angle the lame or blade to about 30 degrees and cut in one swift motion"
+        "en": "Angle the lame or blade to about 30 degrees and cut in one swift motion",
+        "de": "Die Klinge auf etwa 30 Grad anwinkeln und in einer schnellen Bewegung schneiden",
+        "es": "Inclinar la cuchilla o lame a unos 30 grados y cortar en un movimiento rápido",
+        "fr": "Incliner la lame à environ 30 degrés et couper d'un geste rapide",
+        "ro": "Înclină lama la aproximativ 30 de grade și taie cu o mișcare rapidă"
       },
       {
-        "en": "Cut 1/4 to 1/2 inch deep along the length of the loaf"
+        "en": "Cut 1/4 to 1/2 inch deep along the length of the loaf",
+        "de": "0,6 bis 1,3 cm tief entlang der Länge des Laibs schneiden",
+        "es": "Cortar de 0,6 a 1,3 cm de profundidad a lo largo del pan",
+        "fr": "Couper sur 0,6 à 1,3 cm de profondeur sur la longueur du pain",
+        "ro": "Taie la 0,6 până la 1,3 cm adâncime de-a lungul pâinii"
       },
       {
-        "en": "Make sure steam is present for the first 10-15 minutes of baking"
+        "en": "Make sure steam is present for the first 10-15 minutes of baking",
+        "de": "Sicherstellen, dass in den ersten 10-15 Minuten des Backens Dampf vorhanden ist",
+        "es": "Asegurarse de que haya vapor durante los primeros 10-15 minutos de horneado",
+        "fr": "S'assurer que la vapeur est présente pendant les 10-15 premières minutes de cuisson",
+        "ro": "Asigură-te că aburul este prezent în primele 10-15 minute de coacere"
       }
     ],
     "article": "bakers-percentages"
@@ -488,32 +860,64 @@
     },
     "signs": [
       {
-        "en": "Loaf splits open along an unplanned line, often on the side or bottom"
+        "en": "Loaf splits open along an unplanned line, often on the side or bottom",
+        "de": "Laib reißt entlang einer ungeplanten Linie auf, oft an der Seite oder am Boden",
+        "es": "El pan se abre a lo largo de una línea no prevista, a menudo en el lateral o en la base",
+        "fr": "Le pain se fend le long d'une ligne non prévue, souvent sur le côté ou la base",
+        "ro": "Pâinea crapă de-a lungul unei linii neplanificate, adesea pe lateral sau pe fund"
       },
       {
-        "en": "The rupture follows the shaping seam rather than the score"
+        "en": "The rupture follows the shaping seam rather than the score",
+        "de": "Der Riss folgt der Formnaht und nicht dem Einschnitt",
+        "es": "La rotura sigue la costura de formado en lugar del corte",
+        "fr": "La déchirure suit la soudure de façonnage plutôt que la grigne",
+        "ro": "Ruptura urmează cusătura de modelare în loc de incizie"
       }
     ],
     "causes": [
       {
-        "en": "Seam not fully sealed during shaping"
+        "en": "Seam not fully sealed during shaping",
+        "de": "Naht beim Formen nicht vollständig versiegelt",
+        "es": "Costura no sellada completamente durante el formado",
+        "fr": "Soudure pas entièrement scellée pendant le façonnage",
+        "ro": "Cusătura nu a fost etanșată complet în timpul modelării"
       },
       {
-        "en": "Dough underproofed, so it still had a lot of oven-rise left to do"
+        "en": "Dough underproofed, so it still had a lot of oven-rise left to do",
+        "de": "Teig untergärig, hatte also noch viel Ofentrieb vor sich",
+        "es": "Masa subfermentada, por lo que aún tenía mucho desarrollo en el horno por hacer",
+        "fr": "Pâte sous-fermentée, il lui restait donc beaucoup de ressort au four",
+        "ro": "Aluat subfermentat, mai avea multă creștere la cuptor de făcut"
       },
       {
-        "en": "Insufficient steam let the crust set before expansion finished"
+        "en": "Insufficient steam let the crust set before expansion finished",
+        "de": "Unzureichender Dampf ließ die Kruste fest werden, bevor die Ausdehnung abgeschlossen war",
+        "es": "Vapor insuficiente permitió que la corteza se fijara antes de que terminara la expansión",
+        "fr": "Vapeur insuffisante, la croûte s'est fixée avant la fin de l'expansion",
+        "ro": "Abur insuficient a lăsat crusta să se fixeze înainte ca expandarea să se termine"
       }
     ],
     "fixes": [
       {
-        "en": "Pinch and seal the seam firmly, then proof with the seam positioned so it isn't the structural weak point"
+        "en": "Pinch and seal the seam firmly, then proof with the seam positioned so it isn't the structural weak point",
+        "de": "Naht fest zusammendrücken und versiegeln, dann mit der Naht so positionieren, dass sie nicht die strukturelle Schwachstelle ist",
+        "es": "Pellizcar y sellar la costura firmemente, luego fermentar con la costura posicionada para que no sea el punto débil estructural",
+        "fr": "Pincer et sceller la soudure fermement, puis faire la pousse avec la soudure positionnée pour qu'elle ne soit pas le point faible structurel",
+        "ro": "Ciupi și etanșează cusătura ferm, apoi lasă la dospit cu cusătura poziționată astfel încât să nu fie punctul slab structural"
       },
       {
-        "en": "Let final proof go further before baking"
+        "en": "Let final proof go further before baking",
+        "de": "Die endgültige Gare vor dem Backen weiter gehen lassen",
+        "es": "Dejar que la fermentación final avance más antes de hornear",
+        "fr": "Laisser la pousse finale aller plus loin avant la cuisson",
+        "ro": "Lasă dospirea finală să avanseze mai mult înainte de coacere"
       },
       {
-        "en": "Increase steam for the first part of the bake"
+        "en": "Increase steam for the first part of the bake",
+        "de": "Für den ersten Teil des Backens mehr Dampf geben",
+        "es": "Aumentar el vapor durante la primera parte del horneado",
+        "fr": "Augmenter la vapeur pour la première partie de la cuisson",
+        "ro": "Crește aburul pentru prima parte a coacerii"
       }
     ],
     "article": "bakers-percentages"
@@ -530,32 +934,64 @@
     },
     "signs": [
       {
-        "en": "Wet, unset, tacky crumb even after full cooling"
+        "en": "Wet, unset, tacky crumb even after full cooling",
+        "de": "Nasse, nicht feste, klebrige Krume selbst nach vollständigem Abkühlen",
+        "es": "Miga húmeda, sin asentar, pegajosa incluso después de enfriar completamente",
+        "fr": "Mie humide, non prise, collante même après refroidissement complet",
+        "ro": "Miez ud, nefixat, lipicios chiar și după răcirea completă"
       },
       {
-        "en": "Crumb sticks to the knife when sliced"
+        "en": "Crumb sticks to the knife when sliced",
+        "de": "Krume klebt beim Schneiden am Messer",
+        "es": "La miga se pega al cuchillo al cortar",
+        "fr": "La mie colle au couteau à la coupe",
+        "ro": "Miezul se lipește de cuțit la tăiere"
       }
     ],
     "causes": [
       {
-        "en": "Sliced before fully cooled - starch is still setting"
+        "en": "Sliced before fully cooled - starch is still setting",
+        "de": "Vor vollständigem Abkühlen geschnitten - die Stärke festigt sich noch",
+        "es": "Cortado antes de enfriar completamente - el almidón todavía se está asentando",
+        "fr": "Tranché avant refroidissement complet - l'amidon est encore en phase de prise",
+        "ro": "Tăiat înainte de răcirea completă - amidonul se mai stabilizează"
       },
       {
-        "en": "Underbaked, pulled before the core reached roughly 96-99°C"
+        "en": "Underbaked, pulled before the core reached roughly 96-99°C",
+        "de": "Zu wenig gebacken, bevor der Kern etwa 96-99 °C erreicht hat",
+        "es": "Poco horneado, retirado antes de que el centro alcanzara aproximadamente 96-99 °C",
+        "fr": "Insuffisamment cuit, sorti avant que le cœurs n'atteigne environ 96-99 °C",
+        "ro": "Insuficient copt, scos înainte ca miezul să atingă aproximativ 96-99 °C"
       },
       {
-        "en": "Severe overfermentation broke down starch and gluten before baking"
+        "en": "Severe overfermentation broke down starch and gluten before baking",
+        "de": "Starke Überfermentierung hat Stärke und Gluten vor dem Backen abgebaut",
+        "es": "Severa sobrefermentación descompuso el almidón y el gluten antes del horneado",
+        "fr": "Surfermentation sévère ayant dégradé l'amidon et le gluten avant la cuisson",
+        "ro": "Suprafermentarea severă a descompus amidonul și glutenul înainte de coacere"
       }
     ],
     "fixes": [
       {
-        "en": "Cool at least 1-2 hours (longer for large or rye loaves) before the first cut"
+        "en": "Cool at least 1-2 hours (longer for large or rye loaves) before the first cut",
+        "de": "Mindestens 1-2 Stunden abkühlen lassen (länger bei großen oder Roggenlaiben) vor dem ersten Schnitt",
+        "es": "Enfriar al menos 1-2 horas (más para panes grandes o de centeno) antes del primer corte",
+        "fr": "Refroidir au moins 1-2 heures (plus pour les gros pains ou ceux au seigle) avant la première tranche",
+        "ro": "Răcește cel puțin 1-2 ore (mai mult pentru pâinile mari sau de secară) înainte de prima tăiere"
       },
       {
-        "en": "Verify doneness with an instant-read thermometer, not crust color alone"
+        "en": "Verify doneness with an instant-read thermometer, not crust color alone",
+        "de": "Gargrad mit einem Kernthermometer prüfen, nicht allein anhand der Krustenfarbe",
+        "es": "Verificar la cocción con un termómetro de lectura instantánea, no solo por el color de la corteza",
+        "fr": "Vérifier la cuisson avec un thermomètre à lecture instantanée, pas seulement la couleur de la croûte",
+        "ro": "Verifică gradul de coacere cu un termometru cu citire instantanee, nu doar după culoarea crustei"
       },
       {
-        "en": "Shorten bulk or final fermentation next time if the loaf is fully baked and still gummy"
+        "en": "Shorten bulk or final fermentation next time if the loaf is fully baked and still gummy",
+        "de": "Stock- oder endgültige Gare beim nächsten Mal verkürzen, wenn der Laib vollständig gebacken und immer noch klebrig ist",
+        "es": "Acortar la fermentación en bloque o final la próxima vez si el pan está completamente horneado y aún está gomoso",
+        "fr": "Raccourcir la fermentation en masse ou finale la prochaine fois si le pain est bien cuit et encore caoutchouteux",
+        "ro": "Scurtează fermentarea în vrac sau finală data viitoare dacă pâinea este complet coaptă și încă gumoasă"
       }
     ],
     "article": "water-and-hydration"
@@ -572,38 +1008,78 @@
     },
     "signs": [
       {
-        "en": "Crust stays light tan or blond even after full bake time"
+        "en": "Crust stays light tan or blond even after full bake time",
+        "de": "Kruste bleibt hellbraun oder blond, selbst nach voller Backzeit",
+        "es": "La corteza se mantiene de color marrón claro o rubio incluso después del tiempo completo de horneado",
+        "fr": "La croûte reste beige clair ou blonde même après un temps de cuisson complet",
+        "ro": "Crusta rămâne maro deschis sau blondă chiar și după timpul complet de coacere"
       },
       {
-        "en": "Little shine or color contrast"
+        "en": "Little shine or color contrast",
+        "de": "Wenig Glanz oder Farbkontrast",
+        "es": "Poco brillo o contraste de color",
+        "fr": "Peu de brillance ou de contraste de couleur",
+        "ro": "Puțin luciu sau contrast de culoare"
       }
     ],
     "causes": [
       {
-        "en": "Oven temperature too low or inaccurate"
+        "en": "Oven temperature too low or inaccurate",
+        "de": "Ofentemperatur zu niedrig oder ungenau",
+        "es": "Temperatura del horno demasiado baja o inexacta",
+        "fr": "Température du four trop basse ou inexacte",
+        "ro": "Temperatura cuptorului prea scăzută sau inexactă"
       },
       {
-        "en": "Too much residual steam left in for too long"
+        "en": "Too much residual steam left in for too long",
+        "de": "Zu viel Restdampf zu lange im Ofen",
+        "es": "Demasiado vapor residual mantenido durante demasiado tiempo",
+        "fr": "Trop de vapeur résiduelle maintenue trop longtemps",
+        "ro": "Prea mult abur rezidual menținut prea mult timp"
       },
       {
-        "en": "Overfermented dough, leaving little residual sugar for browning"
+        "en": "Overfermented dough, leaving little residual sugar for browning",
+        "de": "Überfermentierter Teig, der wenig restlichen Zucker zum Bräunen hinterlässt",
+        "es": "Masa sobrefermentada que deja poco azúcar residual para dorar",
+        "fr": "Pâte surfermentée laissant peu de sucres résiduels pour le brunissement",
+        "ro": "Aluat suprafermentat care lasă puțin zahăr rezidual pentru rumenire"
       },
       {
-        "en": "Underbaked, pulled before Maillard and caramelization had time to develop"
+        "en": "Underbaked, pulled before Maillard and caramelization had time to develop",
+        "de": "Zu wenig gebacken, bevor Maillard-Reaktion und Karamellisierung Zeit zur Entwicklung hatten",
+        "es": "Poco horneado, retirado antes de que la reacción de Maillard y la caramelización tuvieran tiempo de desarrollarse",
+        "fr": "Insuffisamment cuit, sorti avant que la réaction de Maillard et la caramélisation aient eu le temps de se développer",
+        "ro": "Insuficient copt, scos înainte ca reacția Maillard și caramelizarea să aibă timp să se dezvolte"
       }
     ],
     "fixes": [
       {
-        "en": "Verify actual oven temperature with a separate thermometer"
+        "en": "Verify actual oven temperature with a separate thermometer",
+        "de": "Tatsächliche Ofentemperatur mit einem separaten Thermometer überprüfen",
+        "es": "Verificar la temperatura real del horno con un termómetro separado",
+        "fr": "Vérifier la température réelle du four avec un thermomètre séparé",
+        "ro": "Verifică temperatura reală a cuptorului cu un termometru separat"
       },
       {
-        "en": "Vent steam earlier so the back half of the bake can brown"
+        "en": "Vent steam earlier so the back half of the bake can brown",
+        "de": "Dampf früher ablassen, damit die zweite Hälfte des Backens bräunen kann",
+        "es": "Ventilar el vapor antes para que la segunda mitad del horneado pueda dorar",
+        "fr": "Évacuer la vapeur plus tôt pour que la seconde moitié de la cuisson puisse brunir",
+        "ro": "Evacuează aburul mai devreme pentru ca a doua jumătate a coacerii să se poată rumeni"
       },
       {
-        "en": "Shorten fermentation slightly to preserve sugars for crust color"
+        "en": "Shorten fermentation slightly to preserve sugars for crust color",
+        "de": "Fermentation leicht verkürzen, um Zucker für die Krustenfarbe zu erhalten",
+        "es": "Acortar ligeramente la fermentación para preservar los azúcares para el color de la corteza",
+        "fr": "Raccourcir légèrement la fermentation pour préserver les sucres pour la couleur de la croûte",
+        "ro": "Scurtează ușor fermentația pentru a păstra zaharurile pentru culoarea crustei"
       },
       {
-        "en": "Extend bake time rather than judging doneness by the clock alone"
+        "en": "Extend bake time rather than judging doneness by the clock alone",
+        "de": "Backzeit verlängern, statt den Gargrad allein nach der Uhr zu beurteilen",
+        "es": "Extender el tiempo de horneado en lugar de juzgar la cocción solo por el reloj",
+        "fr": "Prolonger le temps de cuisson plutôt que de juger la cuisson seulement à l'horloge",
+        "ro": "Prelingește timpul de coacere în loc să judeci gradul de coacere doar după ceas"
       }
     ],
     "article": "salt-steam-crust"
@@ -620,32 +1096,64 @@
     },
     "signs": [
       {
-        "en": "Top crust separates into a hollow dome over an air gap"
+        "en": "Top crust separates into a hollow dome over an air gap",
+        "de": "Oberkruste löst sich als hohle Kuppel über einem Luftspalt ab",
+        "es": "La corteza superior se separa formando una cúpula hueca sobre un espacio de aire",
+        "fr": "La croûte supérieure se sépare en un dôme creux au-dessus d'un vide d'air",
+        "ro": "Crusta de sus se separă într-o cupolă goală deasupra unui spațiu de aer"
       },
       {
-        "en": "Crust and crumb pull apart, sometimes visible on slicing"
+        "en": "Crust and crumb pull apart, sometimes visible on slicing",
+        "de": "Kruste und Krume lösen sich, manchmal beim Schneiden sichtbar",
+        "es": "La corteza y la miga se separan, a veces visible al cortar",
+        "fr": "La croûte et la mie se séparent, parfois visible à la coupe",
+        "ro": "Crusta și miezul se separă, uneori vizibil la tăiere"
       }
     ],
     "causes": [
       {
-        "en": "Large trapped gas pocket just under the skin from insufficient degassing at shaping"
+        "en": "Large trapped gas pocket just under the skin from insufficient degassing at shaping",
+        "de": "Große eingeschlossene Gastasche direkt unter der Haut durch unzureichende Entgasung beim Formen",
+        "es": "Gran bolsa de gas atrapada justo debajo de la piel por desgasificación insuficiente al formar",
+        "fr": "Grande poche de gaz emprisonnée juste sous la peau par un dégazage insuffisant au façonnage",
+        "ro": "Pungă mare de gaz prinsă chiar sub suprafață din cauza degazării insuficiente la modelare"
       },
       {
-        "en": "Oven too hot, setting the top crust before the interior finished expanding"
+        "en": "Oven too hot, setting the top crust before the interior finished expanding",
+        "de": "Ofen zu heiß, die Oberkruste festigt sich, bevor das Innere die Ausdehnung abgeschlossen hat",
+        "es": "Horno demasiado caliente, fijando la corteza superior antes de que el interior terminara de expandirse",
+        "fr": "Four trop chaud, fixant la croûte supérieure avant que l'intérieur n'ait fini de s'expanser",
+        "ro": "Cuptor prea fierbinte, fixând crusta de sus înainte ca interiorul să termine expandarea"
       },
       {
-        "en": "Weak scoring that gave expanding gas nowhere else to go"
+        "en": "Weak scoring that gave expanding gas nowhere else to go",
+        "de": "Zu schwacher Einschnitt, der dem expandierenden Gas keinen anderen Weg ließ",
+        "es": "Incisión demasiado débil que no dio al gas en expansión otro lugar al que ir",
+        "fr": "Grigne trop faible n'offrant aucune autre issue au gaz en expansion",
+        "ro": "Incisie prea slabă care nu a oferit gazului în expansiune altă cale de ieșire"
       }
     ],
     "fixes": [
       {
-        "en": "Degas a little more evenly during shaping to avoid one large subsurface bubble"
+        "en": "Degas a little more evenly during shaping to avoid one large subsurface bubble",
+        "de": "Beim Formen etwas gleichmäßiger entgasen, um eine große oberflächennahe Blase zu vermeiden",
+        "es": "Desgasificar un poco más uniformemente durante el formado para evitar una gran burbuja subcutánea",
+        "fr": "Dégazer un peu plus uniformément au façonnage pour éviter une grosse bulle sous-cutanée",
+        "ro": "Degazează puțin mai uniform în timpul modelării pentru a evita o bulă mare subcutanată"
       },
       {
-        "en": "Confirm oven temperature and consider baking slightly cooler"
+        "en": "Confirm oven temperature and consider baking slightly cooler",
+        "de": "Ofentemperatur bestätigen und erwägen, etwas kühler zu backen",
+        "es": "Confirmar la temperatura del horno y considerar hornear un poco más frío",
+        "fr": "Confirmer la température du four et envisager de cuire légèrement moins chaud",
+        "ro": "Confirmă temperatura cuptorului și ia în considerare coacerea puțin mai rece"
       },
       {
-        "en": "Score deliberately so expansion has a controlled release point"
+        "en": "Score deliberately so expansion has a controlled release point",
+        "de": "Bewusst einschneiden, damit die Ausdehnung einen kontrollierten Entlastungspunkt hat",
+        "es": "Cortar deliberadamente para que la expansión tenga un punto de liberación controlado",
+        "fr": "Grigner délibérément pour que l'expansion ait un point de libération contrôlé",
+        "ro": "Incisionează deliberat pentru ca expandarea să aibă un punct de eliberare controlat"
       }
     ],
     "article": "salt-steam-crust"
@@ -662,32 +1170,64 @@
     },
     "signs": [
       {
-        "en": "Loaf rises then visibly sinks or deflates once in the oven"
+        "en": "Loaf rises then visibly sinks or deflates once in the oven",
+        "de": "Laib geht auf, sinkt dann sichtbar ein oder fällt im Ofen in sich zusammen",
+        "es": "El pan sube y luego se hunde visiblemente o se desinfla en el horno",
+        "fr": "Le pain lève puis s'affaisse visiblement ou se dégonfle au four",
+        "ro": "Pâinea crește apoi se lasă vizibil sau se dezumflă la cuptor"
       },
       {
-        "en": "Sides can look pinched in or wrinkled"
+        "en": "Sides can look pinched in or wrinkled",
+        "de": "Seiten können eingeklemmt oder runzlig aussehen",
+        "es": "Los laterales pueden verse apretados o arrugados",
+        "fr": "Les côtés peuvent sembler pincés ou ridés",
+        "ro": "Părțile laterale pot părea strânse sau încrețite"
       }
     ],
     "causes": [
       {
-        "en": "Overproofed before baking - yeast activity exhausted, no reserve left for oven spring"
+        "en": "Overproofed before baking - yeast activity exhausted, no reserve left for oven spring",
+        "de": "Vor dem Backen übergärig - Hefeaktivität erschöpft, keine Reserve mehr für den Ofentrieb",
+        "es": "Sobrefermentado antes de hornear - actividad de la levadura agotada, sin reserva para el desarrollo en horno",
+        "fr": "Surfermenté avant cuisson - activité levurienne épuisée, plus de réserve pour le ressort au four",
+        "ro": "Suprafermentat înainte de coacere - activitatea drojdiei epuizată, fără rezervă pentru creșterea la cuptor"
       },
       {
-        "en": "Weak gluten network (under-mixed or over-fermented) that can't hold structure once heated"
+        "en": "Weak gluten network (under-mixed or over-fermented) that can't hold structure once heated",
+        "de": "Schwaches Glutennetz (unterknetet oder überfermentiert), das die Struktur unter Hitze nicht halten kann",
+        "es": "Red de gluten débil (subamásada o sobrefermentada) que no puede mantener la estructura al calentarse",
+        "fr": "Réseau de gluten faible (sous-pétri ou surfermenté) incapable de maintenir la structure sous la chaleur",
+        "ro": "Rețea de gluten slabă (subfrământată sau suprafermentată) care nu poate menține structura la încălzire"
       },
       {
-        "en": "Rough handling into the oven collapsed built-up gas cells"
+        "en": "Rough handling into the oven collapsed built-up gas cells",
+        "de": "Zu grobe Handhabung beim Einschießen in den Ofen hat die aufgebauten Gaszellen zerstört",
+        "es": "Manipulación brusca al cargar en el horno colapsó las células de gas formadas",
+        "fr": "Manipulation brutale en enfournant qui a écrasé les alvéoles de gaz formées",
+        "ro": "Manipulare brutală la introducerea în cuptor a zdrobit celulele de gaz formate"
       }
     ],
     "fixes": [
       {
-        "en": "Use the poke test (a finger dent springs back slowly, not instantly, not left sunken) instead of a fixed time"
+        "en": "Use the poke test (a finger dent springs back slowly, not instantly, not left sunken) instead of a fixed time",
+        "de": "Den Fingerdrucktest verwenden (eine Fingerbeule federt langsam zurück, nicht sofort, nicht bleibend eingedrückt) statt einer festen Zeit",
+        "es": "Usar la prueba del dedo (una hendidura vuelve lentamente, no instantáneamente, no queda hundida) en lugar de un tiempo fijo",
+        "fr": "Utiliser le test du doigt (un creux revient lentement, pas instantanément, ne reste pas enfoncé) plutôt qu'un temps fixe",
+        "ro": "Folosește testul degetului (o adâncitură revine încet, nu instantaneu, nu rămâne afundată) în loc de un timp fix"
       },
       {
-        "en": "Build more dough strength through mixing and folds"
+        "en": "Build more dough strength through mixing and folds",
+        "de": "Mehr Teigfestigkeit durch Kneten und Falten aufbauen",
+        "es": "Desarrollar más fuerza de la masa mediante amasado y pliegues",
+        "fr": "Développer plus de force de la pâte par le pétrissage et les pliages",
+        "ro": "Construiește mai multă rezistență a aluatului prin frământare și plieri"
       },
       {
-        "en": "Load the loaf gently and quickly, minimizing jostling"
+        "en": "Load the loaf gently and quickly, minimizing jostling",
+        "de": "Den Laib vorsichtig und schnell einschießen, dabei Erschütterungen minimieren",
+        "es": "Cargar el pan con suavidad y rapidez, minimizando los golpes",
+        "fr": "Enfourner le pain doucement et rapidement, en minimisant les secousses",
+        "ro": "Introdu pâinea ușor și rapid, minimizând zguduirile"
       }
     ],
     "article": "salt-steam-crust"
@@ -704,32 +1244,64 @@
     },
     "signs": [
       {
-        "en": "Dense, pasty, gummy crumb specific to rye loaves"
+        "en": "Dense, pasty, gummy crumb specific to rye loaves",
+        "de": "Dichte, teigige, klebrige Krume, spezifisch bei Roggenbroten",
+        "es": "Miga densa, pastosa y gomosa específica de panes de centeno",
+        "fr": "Mie dense, pâteuse, caoutchouteuse spécifique aux pains de seigle",
+        "ro": "Miez dens, pastos, gumos specific pâinilor de secară"
       },
       {
-        "en": "Crumb feels wet and heavy even when fully baked"
+        "en": "Crumb feels wet and heavy even when fully baked",
+        "de": "Krume fühlt sich feucht und schwer an, auch wenn vollständig gebacken",
+        "es": "La miga se siente húmeda y pesada incluso cuando está completamente horneada",
+        "fr": "La mie semble humide et lourde même parfaitement cuite",
+        "ro": "Miezul se simte umed și greu chiar și când este complet copt"
       }
     ],
     "causes": [
       {
-        "en": "High-diastatic (enzyme-rich) rye flour with strong amylase activity"
+        "en": "High-diastatic (enzyme-rich) rye flour with strong amylase activity",
+        "de": "Hochdiastatisches (enzymreiches) Roggenmehl mit starker Amylaseaktivität",
+        "es": "Harina de centeno altamente diastásica (rica en enzimas) con fuerte actividad amilasa",
+        "fr": "Farine de seigle hautement diastasique (riche en enzymes) avec une forte activité amylasique",
+        "ro": "Făină de secară cu activitate diastatică ridicată (bogată în enzime) cu activitate puternică a amilazei"
       },
       {
-        "en": "Insufficient dough acidity to suppress amylase before baking"
+        "en": "Insufficient dough acidity to suppress amylase before baking",
+        "de": "Unzureichende Teigsäure, um die Amylase vor dem Backen zu hemmen",
+        "es": "Acidez insuficiente de la masa para suprimir la amilasa antes del horneado",
+        "fr": "Acidité insuffisante de la pâte pour inhiber l'amylase avant la cuisson",
+        "ro": "Aciditate insuficientă a aluatului pentru a suprima amilaza înainte de coacere"
       },
       {
-        "en": "Baking too slowly through the roughly 50-60°C range, giving enzymes more time to break down starch before heat deactivates them near 80°C"
+        "en": "Baking too slowly through the roughly 50-60°C range, giving enzymes more time to break down starch before heat deactivates them near 80°C",
+        "de": "Zu langsames Backen durch den Bereich von etwa 50-60 °C, was den Enzymen mehr Zeit gibt, Stärke abzubauen, bevor Hitze sie bei etwa 80 °C deaktiviert",
+        "es": "Horneado demasiado lento a través del rango de aproximadamente 50-60 °C, dando a las enzimas más tiempo para descomponer el almidón antes de que el calor las desactive cerca de 80 °C",
+        "fr": "Cuisson trop lente à travers la plage d'environ 50-60 °C, donnant aux enzymes plus de temps pour dégrader l'amidon avant que la chaleur ne les désactive vers 80 °C",
+        "ro": "Coacere prea lentă prin intervalul de aproximativ 50-60 °C, dând enzimelor mai mult timp să descompună amidonul înainte ca căldura să le dezactiveze în jur de 80 °C"
       }
     ],
     "fixes": [
       {
-        "en": "Use a well-soured, mature rye sourdough to acidify the dough and inhibit amylase"
+        "en": "Use a well-soured, mature rye sourdough to acidify the dough and inhibit amylase",
+        "de": "Einen gut gereiften, sauren Roggensauerteig verwenden, um den Teig anzusäuern und die Amylase zu hemmen",
+        "es": "Usar una masa madre de centeno bien ácida y madura para acidificar la masa e inhibir la amilasa",
+        "fr": "Utiliser un levain de seigle bien acide et mûr pour acidifier la pâte et inhiber l'amylase",
+        "ro": "Folosește o maia de secară bine acră și matură pentru a acidifia aluatul și a inhiba amilaza"
       },
       {
-        "en": "Increase the proportion of prefermented, soured rye flour in the formula"
+        "en": "Increase the proportion of prefermented, soured rye flour in the formula",
+        "de": "Den Anteil an vorgefermentiertem, gesäuertem Roggenmehl in der Rezeptur erhöhen",
+        "es": "Aumentar la proporción de harina de centeno prefermentada y acidificada en la fórmula",
+        "fr": "Augmenter la proportion de farine de seigle préfermentée et acidifiée dans la formule",
+        "ro": "Crește proporția de făină de secară prefermentată și acidifiată în formulă"
       },
       {
-        "en": "Bake at the specified full temperature rather than a slow ramp, crossing the enzyme-active window quickly"
+        "en": "Bake at the specified full temperature rather than a slow ramp, crossing the enzyme-active window quickly",
+        "de": "Bei der angegebenen vollen Temperatur backen statt mit langsamer Temperatursteigerung, um das enzymaktive Fenster schnell zu durchqueren",
+        "es": "Hornear a la temperatura completa especificada en lugar de un aumento lento, cruzando rápidamente la ventana enzimática activa",
+        "fr": "Cuire à la température complète spécifiée plutôt qu'avec une montée lente, traversant rapidement la fenêtre enzymatique active",
+        "ro": "Coace la temperatura completă specificată, nu cu o creștere lentă, traversând rapid fereastra enzimatică activă"
       }
     ],
     "article": "salt-steam-crust"
@@ -746,32 +1318,64 @@
     },
     "signs": [
       {
-        "en": "Crust looks done but crumb near the center is wet, dense or doughy"
+        "en": "Crust looks done but crumb near the center is wet, dense or doughy",
+        "de": "Kruste sieht fertig aus, aber Krume in der Mitte ist nass, dicht oder teigig",
+        "es": "La corteza parece hecha pero la miga cerca del centro está húmeda, densa o pastosa",
+        "fr": "La croûte semble cuite mais la mie près du centre est humide, dense ou pâteuse",
+        "ro": "Crusta arată coaptă dar miezul aproape de centru este ud, dens sau pastos"
       },
       {
-        "en": "Loaf feels heavier than expected once cool"
+        "en": "Loaf feels heavier than expected once cool",
+        "de": "Laib fühlt sich nach dem Abkühlen schwerer an als erwartet",
+        "es": "El pan se siente más pesado de lo esperado una vez frío",
+        "fr": "Le pain semble plus lourd que prévu une fois refroidi",
+        "ro": "Pâinea se simte mai grea decât era de așteptat odată rece"
       }
     ],
     "causes": [
       {
-        "en": "Pulled from the oven based on crust color alone, especially with a bold, dark bake"
+        "en": "Pulled from the oven based on crust color alone, especially with a bold, dark bake",
+        "de": "Nur anhand der Krustenfarbe aus dem Ofen genommen, besonders bei kräftiger, dunkler Backweise",
+        "es": "Sacado del horno solo por el color de la corteza, especialmente con una cocción audaz y oscura",
+        "fr": "Sorti du four uniquement sur la couleur de la croûte, surtout avec une cuisson prononcée et foncée",
+        "ro": "Scoasă din cuptor doar după culoarea crustei, mai ales cu o coacere îndrăzneață și închisă"
       },
       {
-        "en": "Oven running hotter than the dial, over-browning the outside while the inside lags"
+        "en": "Oven running hotter than the dial, over-browning the outside while the inside lags",
+        "de": "Ofen läuft heißer als eingestellt, bräunt die Außenseite übermäßig während das Innere nachhinkt",
+        "es": "Horno más caliente de lo marcado, dorando demasiado el exterior mientras el interior se queda atrás",
+        "fr": "Four plus chaud que le réglage, brunissant trop l'extérieur pendant que l'intérieur est en retard",
+        "ro": "Cuptorul merge mai fierbinte decât setarea, rumenind excesiv exteriorul în timp ce interiorul rămâne în urmă"
       },
       {
-        "en": "Loaf too large or too wet for the bake time given"
+        "en": "Loaf too large or too wet for the bake time given",
+        "de": "Laib zu groß oder zu nass für die gegebene Backzeit",
+        "es": "Pan demasiado grande o demasiado húmedo para el tiempo de horneado dado",
+        "fr": "Pain trop gros ou trop humide pour le temps de cuisson donné",
+        "ro": "Pâine prea mare sau prea udă pentru timpul de coacere dat"
       }
     ],
     "fixes": [
       {
-        "en": "Confirm doneness with an instant-read thermometer - about 96-99°C at the center for lean hearth breads"
+        "en": "Confirm doneness with an instant-read thermometer - about 96-99°C at the center for lean hearth breads",
+        "de": "Garheit mit einem Kernthermometer bestätigen - etwa 96-99 °C in der Mitte für magere Ofenbrote",
+        "es": "Confirmar la cocción con un termómetro de lectura instantánea - unos 96-99 °C en el centro para panes de hogaza magros",
+        "fr": "Confirmer la cuisson avec un thermomètre à lecture instantanée - environ 96-99 °C au centre pour les pains de campagne maigres",
+        "ro": "Confirmă gradul de coacere cu un termometru cu citire instantanee - aproximativ 96-99 °C la centru pentru pâinile de vatră slabe"
       },
       {
-        "en": "Tent with foil if the crust colors faster than the core cooks"
+        "en": "Tent with foil if the crust colors faster than the core cooks",
+        "de": "Mit Folie abdecken, falls die Kruste schneller bräunt als der Kern gart",
+        "es": "Cubrir con papel de aluminio si la corteza se dora más rápido de lo que se cocina el centro",
+        "fr": "Couvrir de papier aluminium si la croûte brunit plus vite que le cœurs ne cuit",
+        "ro": "Acoperă cu folie dacă crusta se rumenește mai repede decât se coace miezul"
       },
       {
-        "en": "Extend bake time and/or lower the temperature slightly for large or high-hydration loaves"
+        "en": "Extend bake time and/or lower the temperature slightly for large or high-hydration loaves",
+        "de": "Backzeit verlängern und/oder die Temperatur leicht senken bei großen oder stark hydratisierten Laiben",
+        "es": "Extender el tiempo de horneado y/o bajar ligeramente la temperatura para panes grandes o de alta hidratación",
+        "fr": "Prolonger le temps de cuisson et/ou baisser légèrement la température pour les gros pains ou à haute hydratation",
+        "ro": "Prelingește timpul de coacere și/sau scade ușor temperatura pentru pâinile mari sau cu hidratare ridicată"
       }
     ],
     "article": "salt-steam-crust"
@@ -788,32 +1392,64 @@
     },
     "signs": [
       {
-        "en": "Crust is hard and difficult to bite through rather than crisp and shattering"
+        "en": "Crust is hard and difficult to bite through rather than crisp and shattering",
+        "de": "Kruste ist hart und schwer durchzubeißen statt knusprig und brechend",
+        "es": "La corteza es dura y difícil de morder en lugar de crujiente y quebradiza",
+        "fr": "La croûte est dure et difficile à mordre plutôt que croustillante et cassante",
+        "ro": "Crusta este tare și greu de mușcat în loc de crocantă și sfărâmicioasă"
       },
       {
-        "en": "Sometimes rubbery instead of hard"
+        "en": "Sometimes rubbery instead of hard",
+        "de": "Manchmal eher gummiartig statt hart",
+        "es": "A veces gomosa en lugar de dura",
+        "fr": "Parfois caoutchouteuse plutôt que dure",
+        "ro": "Uneori cauciucoasă în loc de tare"
       }
     ],
     "causes": [
       {
-        "en": "Too little steam in the first 10-15 minutes, so the crust set and thickened too early"
+        "en": "Too little steam in the first 10-15 minutes, so the crust set and thickened too early",
+        "de": "Zu wenig Dampf in den ersten 10-15 Minuten, so dass die Kruste zu früh fest und dick wurde",
+        "es": "Demasiado poco vapor en los primeros 10-15 minutos, por lo que la corteza se fijó y engrosó demasiado pronto",
+        "fr": "Trop peu de vapeur dans les 10-15 premières minutes, la croûte s'est fixée et épaissie trop tôt",
+        "ro": "Prea puțin abur în primele 10-15 minute, astfel încât crusta s-a fixat și s-a îngroșat prea devreme"
       },
       {
-        "en": "Overbaked past the target internal temperature"
+        "en": "Overbaked past the target internal temperature",
+        "de": "Über die angestrebte Kerntemperatur hinaus gebacken",
+        "es": "Horneado más allá de la temperatura interna objetivo",
+        "fr": "Cuit au-delà de la température interne cible",
+        "ro": "Copt dincolo de temperatura internă țintă"
       },
       {
-        "en": "Oven actually cooler than set, requiring a longer bake that over-dries the surface"
+        "en": "Oven actually cooler than set, requiring a longer bake that over-dries the surface",
+        "de": "Ofen tatsächlich kühler als eingestellt, was eine längere Backzeit erfordert, die die Oberfläche übermäßig austrocknet",
+        "es": "Horno realmente más frío de lo ajustado, requiriendo un horneado más largo que reseca la superficie en exceso",
+        "fr": "Four en réalité plus froid que le réglage, nécessitant une cuisson plus longue qui assèche trop la surface",
+        "ro": "Cuptorul de fapt mai rece decât setarea, necesitând o coacere mai lungă care usucă excesiv suprafața"
       }
     ],
     "fixes": [
       {
-        "en": "Increase steam at the start of the bake (more water, cover longer, or add a preheated steaming pan)"
+        "en": "Increase steam at the start of the bake (more water, cover longer, or add a preheated steaming pan)",
+        "de": "Dampf zu Beginn des Backens erhöhen (mehr Wasser, länger abdecken oder eine vorgeheizte Dampfpfanne hinzufügen)",
+        "es": "Aumentar el vapor al inicio del horneado (más agua, cubrir más tiempo, o añadir una bandeja de vapor precalentada)",
+        "fr": "Augmenter la vapeur en début de cuisson (plus d'eau, couvrir plus longtemps ou ajouter un bac à vapeur préchauffé)",
+        "ro": "Crește aburul la începutul coacerii (mai multă apă, acoperă mai mult timp sau adaugă o tavă de abur preîncălzită)"
       },
       {
-        "en": "Pull the loaf at the correct internal temperature rather than by time alone"
+        "en": "Pull the loaf at the correct internal temperature rather than by time alone",
+        "de": "Den Laib bei der korrekten Kerntemperatur aus dem Ofen nehmen, nicht nur nach Zeit",
+        "es": "Retirar el pan a la temperatura interna correcta en lugar de solo por tiempo",
+        "fr": "Sortir le pain à la température interne correcte plutôt que seulement au temps",
+        "ro": "Scoate pâinea la temperatura internă corectă în loc să te bazezi doar pe timp"
       },
       {
-        "en": "Verify true oven temperature and adjust"
+        "en": "Verify true oven temperature and adjust",
+        "de": "Tatsächliche Ofentemperatur überprüfen und anpassen",
+        "es": "Verificar la temperatura real del horno y ajustar",
+        "fr": "Vérifier la température réelle du four et ajuster",
+        "ro": "Verifică temperatura reală a cuptorului și ajustează"
       }
     ],
     "article": "salt-steam-crust"
@@ -830,32 +1466,64 @@
     },
     "signs": [
       {
-        "en": "Crust looks flat and chalky rather than glossy"
+        "en": "Crust looks flat and chalky rather than glossy",
+        "de": "Kruste sieht matt und kreidig aus statt glänzend",
+        "es": "La corteza se ve opaca y yesosa en lugar de brillante",
+        "fr": "La croûte semble terne et crayeuse plutôt que brillante",
+        "ro": "Crusta arată mată și cretoasă în loc de lucioasă"
       },
       {
-        "en": "Lacks the glassy sheen of a well-steamed loaf"
+        "en": "Lacks the glassy sheen of a well-steamed loaf",
+        "de": "Fehlt der glasige Glanz eines gut bedampften Laibs",
+        "es": "Carece del brillo vítreo de un pan bien vaporizado",
+        "fr": "Manque le brillant vitreux d'un pain bien vaporisé",
+        "ro": "Nu are luciul sticlos al unei pâini bine aburite"
       }
     ],
     "causes": [
       {
-        "en": "Surface dried out before baking (proofed uncovered too long)"
+        "en": "Surface dried out before baking (proofed uncovered too long)",
+        "de": "Oberfläche vor dem Backen ausgetrocknet (zu lange ungedeckt gegart)",
+        "es": "Superficie secada antes de hornear (fermentada descubierta demasiado tiempo)",
+        "fr": "Surface desséchée avant cuisson (pousse non couverte trop longtemps)",
+        "ro": "Suprafață uscată înainte de coacere (dospită descoperită prea mult timp)"
       },
       {
-        "en": "Overfermented dough with too little surface sugar left for a glossy set"
+        "en": "Overfermented dough with too little surface sugar left for a glossy set",
+        "de": "Überfermentierter Teig mit zu wenig Oberflächenzucker für einen glänzenden Abschluss",
+        "es": "Masa sobrefermentada con demasiado poco azúcar superficial para un acabado brillante",
+        "fr": "Pâte surfermentée avec trop peu de sucres en surface pour un brillant nacré",
+        "ro": "Aluat suprafermentat cu prea puțin zahăr la suprafață pentru un finisaj lucios"
       },
       {
-        "en": "Excessive top heat drying the surface before steam could gelatinize it"
+        "en": "Excessive top heat drying the surface before steam could gelatinize it",
+        "de": "Übermäßige Oberhitze trocknet die Oberfläche, bevor Dampf sie gelatinisieren kann",
+        "es": "Calor superior excesivo seca la superficie antes de que el vapor pueda gelatinizarla",
+        "fr": "Chaleur de voûte excessive desséchant la surface avant que la vapeur ne la gélatinise",
+        "ro": "Căldură excesivă de sus usucă suprafața înainte ca aburul să o poată gelatiniza"
       }
     ],
     "fixes": [
       {
-        "en": "Cover the dough during final proof to keep the surface from drying"
+        "en": "Cover the dough during final proof to keep the surface from drying",
+        "de": "Den Teig während der Endgare abdecken, um ein Austrocknen der Oberfläche zu verhindern",
+        "es": "Cubrir la masa durante la fermentación final para evitar que la superficie se seque",
+        "fr": "Couvrir la pâte pendant la pousse finale pour éviter le dessèchement de surface",
+        "ro": "Acoperă aluatul în timpul dospirii finale pentru a preveni uscarea suprafeței"
       },
       {
-        "en": "Ease back fermentation time slightly"
+        "en": "Ease back fermentation time slightly",
+        "de": "Fermentationszeit leicht zurücknehmen",
+        "es": "Reducir ligeramente el tiempo de fermentación",
+        "fr": "Réduire légèrement le temps de fermentation",
+        "ro": "Reduce ușor timpul de fermentare"
       },
       {
-        "en": "Ensure steam reaches the loaf's surface early in the bake, before strong top heat sets it"
+        "en": "Ensure steam reaches the loaf's surface early in the bake, before strong top heat sets it",
+        "de": "Sicherstellen, dass der Dampf die Laiboberfläche früh im Backprozess erreicht, bevor starke Oberhitze sie festigt",
+        "es": "Asegurarse de que el vapor llegue a la superficie del pan al principio del horneado, antes de que el calor superior fuerte la fije",
+        "fr": "S'assurer que la vapeur atteigne la surface du pain tôt dans la cuisson, avant que la forte chaleur de voûte ne la fixe",
+        "ro": "Asigură-te că aburul ajunge la suprafața pâinii devreme în coacere, înainte ca căldura puternică de sus să o fixeze"
       }
     ],
     "article": "salt-steam-crust"
@@ -872,32 +1540,64 @@
     },
     "signs": [
       {
-        "en": "Crumb feels firm, dry or tough compared to the bake day"
+        "en": "Crumb feels firm, dry or tough compared to the bake day",
+        "de": "Krume fühlt sich fest, trocken oder zäh an im Vergleich zum Backtag",
+        "es": "La miga se siente firme, seca o dura comparada con el día de horneado",
+        "fr": "La mie semble ferme, sèche ou dure par rapport au jour de cuisson",
+        "ro": "Miezul se simte ferm, uscat sau tare comparativ cu ziua coacerii"
       },
       {
-        "en": "Bread eats dry or dense even though nothing looks obviously wrong"
+        "en": "Bread eats dry or dense even though nothing looks obviously wrong",
+        "de": "Brot schmeckt trocken oder dicht, obwohl nichts offensichtlich falsch aussieht",
+        "es": "El pan sabe seco o denso aunque nada parezca obviamente mal",
+        "fr": "Le pain semble sec ou dense même si rien ne paraît anormal",
+        "ro": "Pâinea se simte uscată sau densă chiar dacă nimic nu pare în mod evident greșit"
       }
     ],
     "causes": [
       {
-        "en": "Starch retrogradation - amylose and amylopectin recrystallizing as the loaf cools and sits, not primarily water loss"
+        "en": "Starch retrogradation - amylose and amylopectin recrystallizing as the loaf cools and sits, not primarily water loss",
+        "de": "Stärkeretrogradation - Amylose und Amylopektin rekristallisieren beim Abkühlen und Lagern, nicht primär Wasserverlust",
+        "es": "Retrogradación del almidón - amilosa y amilopectina se recristalizan al enfriarse y reposar el pan, no principalmente pérdida de agua",
+        "fr": "Rétrogradation de l'amidon - amylose et amylopectine recristallisent lors du refroidissement et du stockage, pas principalement une perte d'eau",
+        "ro": "Retrogradarea amidonului - amiloza și amilopectina se recristalizează pe măsură ce pâinea se răcește și stă, nu în principal pierdere de apă"
       },
       {
-        "en": "Storage at refrigerator temperature, which accelerates retrogradation versus room temperature"
+        "en": "Storage at refrigerator temperature, which accelerates retrogradation versus room temperature",
+        "de": "Lagerung bei Kühlschranktemperatur, die die Retrogradation im Vergleich zu Raumtemperatur beschleunigt",
+        "es": "Almacenamiento a temperatura de refrigerador, que acelera la retrogradación en comparación con la temperatura ambiente",
+        "fr": "Stockage à température de réfrigérateur, qui accélère la rétrogradation par rapport à la température ambiante",
+        "ro": "Depozitare la temperatura frigiderului, care accelerează retrogradarea față de temperatura camerei"
       },
       {
-        "en": "Lean, low-fat formula with nothing to slow the process"
+        "en": "Lean, low-fat formula with nothing to slow the process",
+        "de": "Magere, fettarme Rezeptur ohne etwas, das den Prozess verlangsamt",
+        "es": "Fórmula magra y baja en grasa sin nada que ralentice el proceso",
+        "fr": "Formule maigre et pauvre en matières grasses sans rien pour ralentir le processus",
+        "ro": "Formulă slabă, săracă în grăsimi, fără nimic care să încetinească procesul"
       }
     ],
     "fixes": [
       {
-        "en": "Store at room temperature, cut-side down or well wrapped, never in the fridge"
+        "en": "Store at room temperature, cut-side down or well wrapped, never in the fridge",
+        "de": "Bei Raumtemperatur lagern, Schnittfläche nach unten oder gut eingewickelt, niemals im Kühlschrank",
+        "es": "Almacenar a temperatura ambiente, con el corte hacia abajo o bien envuelto, nunca en el refrigerador",
+        "fr": "Stocker à température ambiante, côté coupé vers le bas ou bien emballé, jamais au réfrigérateur",
+        "ro": "Depozitează la temperatura camerei, cu partea tăiată în jos sau bine învelit, niciodată la frigider"
       },
       {
-        "en": "Freeze sliced bread if it won't be eaten within a couple of days - freezing halts staling far better than the fridge"
+        "en": "Freeze sliced bread if it won't be eaten within a couple of days - freezing halts staling far better than the fridge",
+        "de": "In Scheiben geschnittenes Brot einfrieren, wenn es nicht innerhalb weniger Tage verzehrt wird - Einfrieren stoppt das Altbackenwerden weit besser als der Kühlschrank",
+        "es": "Congelar el pan rebanado si no se va a consumir en un par de días - la congelación detiene el endurecimiento mucho mejor que el refrigerador",
+        "fr": "Congeler le pain tranché s'il n'est pas consommé sous quelques jours - la congélation stoppe bien mieux le rassissement que le réfrigérateur",
+        "ro": "Congelează pâinea feliată dacă nu va fi consumată în câteva zile - congelarea oprește învechirea mult mai bine decât frigiderul"
       },
       {
-        "en": "Refresh by toasting or a few minutes in a hot oven, which re-gelatinizes surface starch"
+        "en": "Refresh by toasting or a few minutes in a hot oven, which re-gelatinizes surface starch",
+        "de": "Durch Toasten oder ein paar Minuten im heißen Ofen auffrischen, was die Oberflächenstärke erneut gelatiniert",
+        "es": "Refrescar tostando o unos minutos en horno caliente, que regelatiniza el almidón superficial",
+        "fr": "Rafraîchir en toasteant ou quelques minutes au four chaud, ce qui regélatinise l'amidon de surface",
+        "ro": "Reîmprospătează prin prăjire sau câteva minute într-un cuptor fierbinte, care regelatinizează amidonul de suprafață"
       }
     ],
     "article": "salt-steam-crust"
@@ -914,32 +1614,64 @@
     },
     "signs": [
       {
-        "en": "A crackly-crisp crust turns leathery or soft within hours of cooling"
+        "en": "A crackly-crisp crust turns leathery or soft within hours of cooling",
+        "de": "Eine knusprig-krachende Kruste wird innerhalb von Stunden nach dem Abkühlen ledrig oder weich",
+        "es": "Una corteza crujiente se vuelve correosa o blanda en horas después de enfriar",
+        "fr": "Une croûte croustillante devient caoutchouteuse ou molle en quelques heures après refroidissement",
+        "ro": "O crustă crocantă devine pieloasă sau moale în câteva ore de la răcire"
       },
       {
-        "en": "Crust loses its crackle even though the loaf hasn't otherwise staled"
+        "en": "Crust loses its crackle even though the loaf hasn't otherwise staled",
+        "de": "Kruste verliert ihre Knusprigkeit, auch wenn der Laib sonst nicht altbacken geworden ist",
+        "es": "La corteza pierde su crujiente aunque el pan no se haya endurecido por lo demás",
+        "fr": "La croûte perd son croustillant même si le pain n'a pas rassis par ailleurs",
+        "ro": "Crusta își pierde crocănța chiar dacă pâinea nu s-a învechit altfel"
       }
     ],
     "causes": [
       {
-        "en": "Moisture migrating from the moist interior crumb into the drier crust as the loaf sits"
+        "en": "Moisture migrating from the moist interior crumb into the drier crust as the loaf sits",
+        "de": "Feuchtigkeit wandert vom feuchten Inneren in die trockenere Kruste, während der Laib steht",
+        "es": "La humedad migra del interior húmedo a la corteza más seca mientras el pan reposa",
+        "fr": "L'humidité migre de l'intérieur humide vers la croûte plus sèche pendant le stockage",
+        "ro": "Umiditatea migrează din interiorul umed în crusta mai uscată pe măsură ce pâinea stă"
       },
       {
-        "en": "Storing in a sealed plastic bag while the crust is still warm or moist"
+        "en": "Storing in a sealed plastic bag while the crust is still warm or moist",
+        "de": "Aufbewahrung in einem verschlossenen Plastikbeutel, während die Kruste noch warm oder feucht ist",
+        "es": "Almacenar en una bolsa de plástico sellada mientras la corteza aún está caliente o húmeda",
+        "fr": "Stockage dans un sac plastique fermé alors que la croûte est encore chaude ou humide",
+        "ro": "Depozitare într-o pungă de plastic sigilată în timp ce crusta este încă caldă sau umedă"
       },
       {
-        "en": "Humid storage environment"
+        "en": "Humid storage environment",
+        "de": "Feuchte Lagerumgebung",
+        "es": "Ambiente de almacenamiento húmedo",
+        "fr": "Environnement de stockage humide",
+        "ro": "Mediu de depozitare umed"
       }
     ],
     "fixes": [
       {
-        "en": "Cool completely on a rack before wrapping so trapped steam can escape first"
+        "en": "Cool completely on a rack before wrapping so trapped steam can escape first",
+        "de": "Vor dem Einwickeln vollständig auf einem Gitter abkühlen lassen, damit eingeschlossener Dampf zuerst entweichen kann",
+        "es": "Enfriar completamente sobre una rejilla antes de envolver para que el vapor atrapado pueda escapar primero",
+        "fr": "Refroidir complètement sur une grille avant d'emballer pour que la vapeur piégée puisse d'abord s'échapper",
+        "ro": "Răcește complet pe un grătar înainte de a înveli, pentru ca aburul prins să poată scăpa mai întâi"
       },
       {
-        "en": "Store crusty breads in paper or a breathable bread bag rather than sealed plastic, if crust crispness matters more than crumb moisture"
+        "en": "Store crusty breads in paper or a breathable bread bag rather than sealed plastic, if crust crispness matters more than crumb moisture",
+        "de": "Knusprige Brote in Papier oder einem atmungsaktiven Brotbeutel aufbewahren statt in versiegeltem Plastik, wenn die Krustenknusprigkeit wichtiger ist als die Krumenfeuchtigkeit",
+        "es": "Guardar los panes crujientes en papel o una bolsa de pan transpirable en lugar de plástico sellado, si la crocancia de la corteza importa más que la humedad de la miga",
+        "fr": "Conserver les pains croustillants dans du papier ou un sac à pain respirant plutôt que dans du plastique scellé, si le croustillant de la croûte importe plus que l'humidité de la mie",
+        "ro": "Depozitează pâinile crocante în hârtie sau o pungă de pâine respirabilă în loc de plastic sigilat, dacă prospețimea crustei contează mai mult decât umiditatea miezului"
       },
       {
-        "en": "Re-crisp in a hot oven for a few minutes before serving"
+        "en": "Re-crisp in a hot oven for a few minutes before serving",
+        "de": "Vor dem Servieren für einige Minuten im heißen Ofen wieder knusprig machen",
+        "es": "Recrispar en horno caliente durante unos minutos antes de servir",
+        "fr": "Redonner du croustillant au four chaud pendant quelques minutes avant de servir",
+        "ro": "Reîncrispă în cuptorul fierbinte pentru câteva minute înainte de servire"
       }
     ],
     "article": "salt-steam-crust"

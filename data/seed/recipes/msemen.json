@@ -22,10 +22,18 @@
   "origin": {
     "country": "MA",
     "region": {
-      "en": "Maghreb (also Tunisia, Algeria)"
+      "en": "Maghreb (also Tunisia, Algeria)",
+      "de": "Maghreb (auch Tunesien, Algerien)",
+      "es": "Magreb (tambien Tunisia, Argelia)",
+      "fr": "Maghreb (aussi Tunisie, Algerie)",
+      "ro": "Maghreb (si Tunisia, Algeria)"
     },
     "note": {
-      "en": "A breakfast and tea-time staple across the Maghreb; the name means roughly 'oiled' in Arabic, describing the lamination technique."
+      "en": "A breakfast and tea-time staple across the Maghreb; the name means roughly 'oiled' in Arabic, describing the lamination technique.",
+      "de": "Ein Fruhstucks- und Teezeit-Grundnahrungsmittel im gesamten Maghreb; der Name bedeutet im Arabischen etwa 'geolt' und beschreibt die Laminierttechnik.",
+      "es": "Un basico del desayuno y la merienda en todo el Magreb; el nombre significa aproximadamente 'aceitado' en arabe, describiendo la tecnica de laminado.",
+      "fr": "Un incontournable du petit-dejeuner et du gouter dans tout le Maghreb; le nom signifie approximativement 'huile' en arabe, decrivant la technique de laminage.",
+      "ro": "Un aliment de baza pentru micul dejun si ceai in tot Maghrebul; numele inseamna aproximativ 'uns' in araba, descriind tehnica de laminare."
     }
   },
   "leaven": "yeast",
@@ -57,7 +65,11 @@
       "key": "flour:durum",
       "grams": 85,
       "note": {
-        "en": "fine semolina, in the dough"
+        "en": "fine semolina, in the dough",
+        "de": "feine Semolina, im Teig",
+        "es": "semola fina, en la masa",
+        "fr": "semoule fine, dans la pate",
+        "ro": "gris fin, in aluat"
       }
     },
     {
@@ -76,28 +88,44 @@
       "key": "water",
       "grams": 356,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiede",
+        "ro": "calduta"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 60,
       "note": {
-        "en": "for laminating and oiling the work surface; recipe calls for up to 1 cup, most drains back off"
+        "en": "for laminating and oiling the work surface; recipe calls for up to 1 cup, most drains back off",
+        "de": "zum Laminieren und Einlen der Arbeitsflache; Rezept verlangt bis zu 1 Tasse, das meiste lauft wieder ab",
+        "es": "para laminar y engrasar la superficie de trabajo; la receta pide hasta 1 taza, la mayor parte escurre",
+        "fr": "pour le laminage et l'huilage du plan de travail; la recette demande jusqu'a 1 tasse, la majeure partie s'ecoule",
+        "ro": "pentru laminare si ungerea suprafetei de lucru; reteta cere pana la 1 cana, cea mai mare parte se scurge"
       }
     },
     {
       "key": "flour:durum",
       "grams": 85,
       "note": {
-        "en": "fine semolina, sprinkled between the folded layers"
+        "en": "fine semolina, sprinkled between the folded layers",
+        "de": "feine Semolina, zwischen den gefalteten Schichten gestreut",
+        "es": "semola fina, espolvoreada entre las capas dobladas",
+        "fr": "semoule fine, saupoudree entre les couches pliees",
+        "ro": "gris fin, presarat intre straturile pliate"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "very soft, dotted between layers"
+        "en": "very soft, dotted between layers",
+        "de": "sehr weich, zwischen den Schichten getupft",
+        "es": "muy blanda, untada a puntos entre las capas",
+        "fr": "tres mou, depose en points entre les couches",
+        "ro": "foarte moale, punctat intre straturi"
       }
     }
   ],
@@ -105,7 +133,11 @@
     "count": 20,
     "pieceGrams": 55,
     "shape": {
-      "en": "4 in (10 cm) square, laminated"
+      "en": "4 in (10 cm) square, laminated",
+      "de": "10 cm Quadrat, laminiert",
+      "es": "cuadrado de 10 cm, laminado",
+      "fr": "carre de 10 cm, lamine",
+      "ro": "patrat de 10 cm, laminat"
     }
   },
   "time": {
@@ -145,7 +177,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best hot off the griddle, crisp outside and soft within; turns chewy as it cools. Reheats well on a dry pan and freezes very well between sheets of parchment."
+      "en": "Best hot off the griddle, crisp outside and soft within; turns chewy as it cools. Reheats well on a dry pan and freezes very well between sheets of parchment.",
+      "de": "Am besten hei von der Pfanne, knusprig auen und weich innen; wird beim Abkuhlen zah. Lasst sich gut in einer trockenen Pfanne aufwarmen und sehr gut zwischen Backpapierlagen einfrieren.",
+      "es": "Mejor caliente recien salido de la plancha, crujiente por fuera y suave por dentro; se vuelve correoso al enfriarse. Se recalienta bien en una sarten seca y se congela muy bien entre hojas de papel de horno.",
+      "fr": "Meilleur chaud directement de la poele, croustillant a l'exterieur et moelleux a l'interieur; devient caoutchouteux en refroidissant. Se rechauffe bien dans une poele seche et se congele tres bien entre des feuilles de papier cuisson.",
+      "ro": "Cel mai bun fierbinte direct din tigaie, crocant la exterior si moale in interior; devine gumos pe masura ce se raceste. Se reincalzeste bine intr-o tigaie uscata si se congela foarte bine intre foi de hartie de copt."
     }
   },
   "equipment": [
@@ -270,7 +306,11 @@
     "site": "Taste of Maroc",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Lamination oil quantity reduced from the source's 'up to 1 cup, adjust as needed' to a more realistic absorbed amount; hydration includes butter's water content per baker's-percentage convention."
+      "en": "Lamination oil quantity reduced from the source's 'up to 1 cup, adjust as needed' to a more realistic absorbed amount; hydration includes butter's water content per baker's-percentage convention.",
+      "de": "Laminierolmenge von 'bis zu 1 Tasse, nach Bedarf anpassen' der Quelle auf eine realistischere absorbierte Menge reduziert; Hydratation enthalt den Wasseranteil der Butter gem der Backerprozent-Konvention.",
+      "es": "Cantidad de aceite de laminado reducida de 'hasta 1 taza, ajustar segun sea necesario' de la fuente a una cantidad absorbida mas realista; la hidratacion incluye el contenido de agua de la mantequilla segun la convencion de porcentajes de panadero.",
+      "fr": "Quantite d'huile de laminage reduite du 'jusqu'a 1 tasse, ajuster au besoin' de la source a une quantite absorbee plus realiste; l'hydratation inclut la teneur en eau du beurre selon la convention des pourcentages du boulanger.",
+      "ro": "Cantitatea de ulei pentru laminare redusa de la 'pana la 1 cana, ajustati dupa necesitate' a sursei la o cantitate absorbita mai realista; hidratarea include continutul de apa al untului conform conventiei procentelor de brutar."
     }
   },
   "tags": [

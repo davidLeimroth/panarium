@@ -22,10 +22,18 @@
   "origin": {
     "country": "CN",
     "region": {
-      "en": "Northern China"
+      "en": "Northern China",
+      "de": "Nordchina",
+      "es": "Norte de China",
+      "fr": "Chine du Nord",
+      "ro": "China de Nord"
     },
     "note": {
-      "en": "A home-kitchen staple across northern China, now equally common at street stalls and dim sum restaurants worldwide."
+      "en": "A home-kitchen staple across northern China, now equally common at street stalls and dim sum restaurants worldwide.",
+      "de": "Ein Grundnahrungsmittel der Haushaltsküche in ganz Nordchina, heute ebenso üblich an Straßenständen und in Dim-Sum-Restaurants weltweit.",
+      "es": "Un básico de la cocina casera en todo el norte de China, ahora igualmente común en puestos callejeros y restaurantes de dim sum en todo el mundo.",
+      "fr": "Un aliment de base de la cuisine domestique dans tout le nord de la Chine, désormais tout aussi courant dans les échoppes de rue et les restaurants de dim sum du monde entier.",
+      "ro": "Un aliment de bază al bucătăriei casnice în nordul Chinei, acum la fel de comun la tarabele stradale și în restaurantele dim sum din întreaga lume."
     }
   },
   "leaven": "none",
@@ -47,35 +55,55 @@
       "key": "flour:wheat-white",
       "grams": 250,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
       "key": "water",
       "grams": 160,
       "note": {
-        "en": "boiling, for the hot-water dough"
+        "en": "boiling, for the hot-water dough",
+        "de": "kochend, für den Heißwasserteig",
+        "es": "hirviendo, para la masa de agua caliente",
+        "fr": "bouillante, pour la pâte à l’eau chaude",
+        "ro": "fierbinte, pentru aluatul cu apă fierbinte"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 10,
       "note": {
-        "en": "for coating the dough while it rests"
+        "en": "for coating the dough while it rests",
+        "de": "zum Bestreichen des Teigs während der Ruhezeit",
+        "es": "para cubrir la masa mientras reposa",
+        "fr": "pour enduire la pâte pendant le repos",
+        "ro": "pentru a unge aluatul în timpul repausului"
       }
     },
     {
       "key": "lard",
       "grams": 26,
       "note": {
-        "en": "melted, for the you su lamination paste; or use coconut or neutral oil"
+        "en": "melted, for the you su lamination paste; or use coconut or neutral oil",
+        "de": "geschmolzen, für die You-su-Laminierpaste; oder Kokos- oder Neutralöl verwenden",
+        "es": "derretida, para la pasta de laminado you su; o usar aceite de coco o neutro",
+        "fr": "fondu, pour la pâte de laminage you su ; ou utiliser de l’huile de coco ou neutre",
+        "ro": "topit, pentru pasta de laminare you su; sau folosește ulei de cocos sau neutru"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 16,
       "note": {
-        "en": "for the you su lamination paste"
+        "en": "for the you su lamination paste",
+        "de": "für die You-su-Laminierpaste",
+        "es": "para la pasta de laminado you su",
+        "fr": "pour la pâte de laminage you su",
+        "ro": "pentru pasta de laminare you su"
       }
     },
     {
@@ -88,14 +116,22 @@
       },
       "grams": 0.5,
       "note": {
-        "en": "or five-spice powder, in the paste"
+        "en": "or five-spice powder, in the paste",
+        "de": "oder Fünf-Gewürze-Pulver, in der Paste",
+        "es": "o polvo de cinco especias, en la pasta",
+        "fr": "ou cinq-épices, dans la pâte",
+        "ro": "sau praf de cinci mirodenii, în pastă"
       }
     },
     {
       "key": "salt",
       "grams": 1.5,
       "note": {
-        "en": "in the paste"
+        "en": "in the paste",
+        "de": "in der Paste",
+        "es": "en la pasta",
+        "fr": "dans la pâte",
+        "ro": "în pastă"
       }
     },
     {
@@ -108,14 +144,22 @@
       },
       "grams": 40,
       "note": {
-        "en": "finely chopped"
+        "en": "finely chopped",
+        "de": "fein gehackt",
+        "es": "finamente picada",
+        "fr": "finement haché",
+        "ro": "tocat mărunt"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 40,
       "note": {
-        "en": "for pan-frying"
+        "en": "for pan-frying",
+        "de": "zum Braten in der Pfanne",
+        "es": "para freír en sartén",
+        "fr": "pour la cuisson à la poêle",
+        "ro": "pentru prăjit în tigaie"
       }
     }
   ],
@@ -123,7 +167,11 @@
     "count": 4,
     "pieceGrams": 136,
     "shape": {
-      "en": "thick round, 13 cm, laminated"
+      "en": "thick round, 13 cm, laminated",
+      "de": "dicker runder Fladen, 13 cm, laminiert",
+      "es": "redondo grueso, 13 cm, laminado",
+      "fr": "rond épais, 13 cm, laminé",
+      "ro": "rotund gros, 13 cm, laminat"
     }
   },
   "time": {
@@ -164,7 +212,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best straight from the pan while shatteringly crisp; leftovers can be recrisped in a dry skillet. Freezes very well at the rolled, uncooked stage."
+      "en": "Best straight from the pan while shatteringly crisp; leftovers can be recrisped in a dry skillet. Freezes very well at the rolled, uncooked stage.",
+      "de": "Am besten direkt aus der Pfanne, knusprig; Reste können in einer trockenen Pfanne wieder knusprig gemacht werden. Lässt sich im ausgerollten, ungekochten Zustand sehr gut einfrieren.",
+      "es": "Mejor directamente de la sartén, crujiente; las sobras se pueden recalentar en una sartén seca para devolverles el crujiente. Se congela muy bien en la etapa enrollada y sin cocer.",
+      "fr": "Meilleur directement sorti de la poêle, croustillant à souhait ; les restes peuvent être croustillés dans une poêle sèche. Se congèle très bien au stade roulé et non cuit.",
+      "ro": "Cel mai bun direct din tigaie, crocant; resturile pot fi reîncrispate într-o tigaie uscată. Congelează foarte bine în stadiul rulat, necopt."
     }
   },
   "equipment": [
@@ -289,7 +341,11 @@
     "site": "Red House Spice",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Small quantities of coating and frying oil estimated, since the source didn't fix them precisely; dough and you su paste flour/fat were combined for the total percentages."
+      "en": "Small quantities of coating and frying oil estimated, since the source didn't fix them precisely; dough and you su paste flour/fat were combined for the total percentages.",
+      "de": "Kleine Mengen Öl für die Beschichtung und zum Frittieren geschätzt, da die Quelle keine genauen Angaben machte; Mehl und Fett von Teig und You-su-Paste für die Gesamtprozente zusammengefasst.",
+      "es": "Pequeñas cantidades de aceite de recubrimiento y fritura estimadas, ya que la fuente no las fijó con precisión; la harina y grasa de la masa y la pasta you su se combinaron para los porcentajes totales.",
+      "fr": "Petites quantités d’huile de revêtement et de friture estimées, car la source ne les a pas fixées précisément ; la farine et la graisse de la pâte et de la pâte you su ont été combinées pour les pourcentages totaux.",
+      "ro": "Cantitățile mici de ulei pentru acoperire și prăjire estimate, deoarece sursa nu le-a fixat precis; făina și grăsimea din aluat și pasta you su au fost combinate pentru procentele totale."
     }
   },
   "tags": [

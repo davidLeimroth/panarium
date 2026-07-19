@@ -17,10 +17,18 @@
   "origin": {
     "country": "ES",
     "region": {
-      "en": "Barcelona, Catalonia"
+      "en": "Barcelona, Catalonia",
+      "de": "Barcelona, Katalonien",
+      "es": "Barcelona, Cataluña",
+      "fr": "Barcelone, Catalogne",
+      "ro": "Barcelona, Catalonia"
     },
     "note": {
-      "en": "A relatively recent invention by Catalan bakers chasing extreme hydration; now a tapas-bar staple, usually toasted and rubbed with tomato (pa amb tomàquet)."
+      "en": "A relatively recent invention by Catalan bakers chasing extreme hydration; now a tapas-bar staple, usually toasted and rubbed with tomato (pa amb tomàquet).",
+      "de": "Eine relativ junge Erfindung katalanischer Bäcker auf der Suche nach extremer Hydration; heute ein Tapas-Bar-Grundnahrungsmittel, meist geröstet und mit Tomate eingerieben (pa amb tomàquet).",
+      "es": "Una invención relativamente reciente de panaderos catalanes en busca de hidratación extrema; ahora un básico de los bares de tapas, generalmente tostado y frotado con tomate (pa amb tomàquet).",
+      "fr": "Une invention relativement récente de boulangers catalans à la recherche d'une hydratation extrême; désormais un incontournable des bars à tapas, généralement toasté et frotté à la tomate (pa amb tomàquet).",
+      "ro": "O invenție relativ recentă a brutarilor catalani în căutarea unei hidratări extreme; acum un element de bază al barurilor de tapas, de obicei prăjit și frecat cu roșie (pa amb tomàquet)."
     }
   },
   "leaven": "yeast",
@@ -41,7 +49,11 @@
       "key": "flour:wheat-white",
       "grams": 400,
       "note": {
-        "en": "strong bread flour"
+        "en": "strong bread flour",
+        "de": "starkes Brotmehl",
+        "es": "harina de pan fuerte",
+        "fr": "farine à pain forte",
+        "ro": "făină puternică de pâine"
       }
     },
     {
@@ -61,7 +73,11 @@
     "count": 4,
     "pieceGrams": 188,
     "shape": {
-      "en": "thin, glass-like rectangle, irregularly cut"
+      "en": "thin, glass-like rectangle, irregularly cut",
+      "de": "dünnes, glasartiges Rechteck, unregelmäßig geschnitten",
+      "es": "rectángulo fino, similar al vidrio, cortado irregularmente",
+      "fr": "rectangle fin, semblable à du verre, coupé irrégulièrement",
+      "ro": "dreptunghi subțire, asemănător sticlei, tăiat neregulat"
     }
   },
   "time": {
@@ -102,7 +118,11 @@
     "freshDays": 0.5,
     "freezes": true,
     "note": {
-      "en": "The paper-thin crust means it's at its peak within hours of baking and doesn't keep like a denser loaf, though it freezes and retoasts nicely."
+      "en": "The paper-thin crust means it's at its peak within hours of baking and doesn't keep like a denser loaf, though it freezes and retoasts nicely.",
+      "de": "Die hauchdünne Kruste bedeutet, dass es innerhalb von Stunden nach dem Backen seinen Höhepunkt erreicht und sich nicht wie ein dichterer Laib hält, obwohl es sich gut einfrieren und wieder toasten lässt.",
+      "es": "La corteza fina como el papel significa que está en su punto máximo a las pocas horas de horneado y no se conserva como un pan más denso, aunque se congela y se tuesta bien.",
+      "fr": "La croûte fine comme du papier signifie qu'il est à son apogée quelques heures après la cuisson et ne se conserve pas comme un pain plus dense, bien qu'il se congèle et se retoste bien.",
+      "ro": "Crusta subțire ca hârtia înseamnă că este la apogeul său în câteva ore de la coacere și nu se păstrează ca o pâine mai densă, deși se congrează și se re-prăjește bine."
     }
   },
   "equipment": [
@@ -195,7 +215,11 @@
     "site": "El Invitado de Invierno",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams as published; total elapsed time reflects the site's overnight cold-fermentation option, which most bakers use for better flavor and an easier schedule."
+      "en": "Grams as published; total elapsed time reflects the site's overnight cold-fermentation option, which most bakers use for better flavor and an easier schedule.",
+      "de": "Grammangaben wie veröffentlicht; die Gesamtzeit berücksichtigt die Übernacht-Kaltfermentation der Quelle, die die meisten Bäcker für besseren Geschmack und einen einfacheren Zeitplan nutzen.",
+      "es": "Gramos tal como se publicaron; el tiempo total transcurrido refleja la opción de fermentación en frío nocturna del sitio, que la mayoría de los panaderos usa por mejor sabor y un cronograma más fácil.",
+      "fr": "Grammes tels que publiés; le temps total écoulé reflète l'option de fermentation à froid nocturne du site, que la plupart des boulangers utilisent pour une meilleure saveur et un planning plus facile.",
+      "ro": "Gramajul așa cum a fost publicat; timpul total scurs reflectă opțiunea de fermentare la rece peste noapte a site-ului, pe care majoritatea brutarilor o folosesc pentru o aromă mai bună și un program mai ușor."
     }
   },
   "tags": [

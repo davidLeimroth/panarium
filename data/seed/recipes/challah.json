@@ -23,10 +23,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Ashkenazi communities of medieval Central Europe"
+      "en": "Ashkenazi communities of medieval Central Europe",
+      "de": "Aschkenasische Gemeinden des mittelalterlichen Mitteleuropas",
+      "es": "Comunidades ashkenazíes de la Europa central medieval",
+      "fr": "Communautés ashkénazes d'Europe centrale médiévale",
+      "ro": "Comunitățile așkenaze din Europa Centrală medievală"
     },
     "note": {
-      "en": "Genuinely contested: separating a piece of dough as 'challah' is an ancient Israelite practice from Torah law, while the braided shape is usually traced to medieval Ashkenazi Jews in Germany, likely adapting local plaited breads like Zopf."
+      "en": "Genuinely contested: separating a piece of dough as 'challah' is an ancient Israelite practice from Torah law, while the braided shape is usually traced to medieval Ashkenazi Jews in Germany, likely adapting local plaited breads like Zopf.",
+      "de": "Tatsächlich umstritten: das Abtrennen eines Teigstücks als Challah ist eine alte israelitische Praxis aus dem Torah-Gesetz, während die geflochtene Form meist auf mittelalterliche Aschkenasen in Deutschland zurückgeführt wird, die vermutlich lokale geflochtene Brote wie Zopf adaptierten.",
+      "es": "Realmente discutido: separar un trozo de masa como jalá es una práctica israelita antigua de la ley de la Torá, mientras que la forma trenzada suele atribuirse a los judíos ashkenazíes medievales en Alemania, que probablemente adaptaron panes trenzados locales como el Zopf.",
+      "fr": "Réellement contesté: séparer un morceau de pâte comme hallah est une pratique israélite ancienne issue de la loi de la Torah, tandis que la forme tressée est généralement attribuée aux Juifs ashkénazes médiévaux en Allemagne, adaptant probablement des pains tressés locaux comme le Zopf.",
+      "ro": "Cu adevărat disputat: separarea unei bucăți de aluat ca challah este o practică israelită antică din Legea Toray, în timp ce forma împletită este de obicei atribuită evreilor așkenazi medievali din Germania, care au adaptat probabil pâini împletite locale precum Zopf."
     }
   },
   "leaven": "yeast",
@@ -53,21 +61,33 @@
       "key": "water",
       "grams": 400,
       "note": {
-        "en": "cool, room temperature"
+        "en": "cool, room temperature",
+        "de": "kühl, Raumtemperatur",
+        "es": "fresca, temperatura ambiente",
+        "fr": "froide, température ambiante",
+        "ro": "rece, temperatura camerei"
       }
     },
     {
       "key": "active-dry-yeast",
       "grams": 15,
       "note": {
-        "en": "or 40g fresh yeast"
+        "en": "or 40g fresh yeast",
+        "de": "oder 40 g Frischhefe",
+        "es": "o 40 g de levadura fresca",
+        "fr": "ou 40 g de levure fraîche",
+        "ro": "sau 40 g drojdie proaspătă"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs, in the dough"
+        "en": "2 large eggs, in the dough",
+        "de": "2 große Eier, in den Teig",
+        "es": "2 huevos grandes, en la masa",
+        "fr": "2 gros œufs, dans la pâte",
+        "ro": "2 ouă mari, în aluat"
       }
     },
     {
@@ -82,21 +102,33 @@
       "key": "vegetable-oil",
       "grams": 75,
       "note": {
-        "en": "sunflower or canola; unsalted butter may replace it for a dairy (non-parve) version"
+        "en": "sunflower or canola; unsalted butter may replace it for a dairy (non-parve) version",
+        "de": "Sonnenblumen- oder Rapsöl; ungesalzene Butter kann es für eine milchhaltige (nicht-pareve) Version ersetzen",
+        "es": "aceite de girasol o canola; mantequilla sin sal puede sustituirlo para una versión láctea (no parve)",
+        "fr": "huile de tournesol ou colza; le beurre doux peut la remplacer pour une version lactée (non parve)",
+        "ro": "ulei de floarea-soarelui sau canola; untul nesărat îl poate înlocui pentru o versiune cu lactate (non-parve)"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for egg wash, beaten with 1 tbsp water and a pinch of salt"
+        "en": "for egg wash, beaten with 1 tbsp water and a pinch of salt",
+        "de": "für die Eierwasche, mit 1 EL Wasser und einer Prise Salz verquirlt",
+        "es": "para el baño de huevo, batido con 1 cucharada de agua y una pizca de sal",
+        "fr": "pour la dorure, battu avec 1 c à soupe d'eau et une pincée de sel",
+        "ro": "pentru unsul cu ou, bătut cu 1 lingură de apă și un praf de sare"
       }
     },
     {
       "key": "sesame-seeds",
       "grams": 90,
       "note": {
-        "en": "or poppy or nigella seeds, or a mix, for topping"
+        "en": "or poppy or nigella seeds, or a mix, for topping",
+        "de": "oder Mohn- oder Schwarzkümmelsamen oder eine Mischung, zum Bestreuen",
+        "es": "o semillas de amapola o nigella, o una mezcla, para decorar",
+        "fr": "ou graines de pavot ou de nigelle, ou un mélange, pour la garniture",
+        "ro": "sau semințe de mac ori nigella, sau un amestec, pentru decor"
       }
     }
   ],
@@ -104,7 +136,11 @@
     "count": 3,
     "pieceGrams": 560,
     "shape": {
-      "en": "three-strand braided loaf"
+      "en": "three-strand braided loaf",
+      "de": "Laib mit drei Strängen geflochten",
+      "es": "hogaza trenzada de tres cabos",
+      "fr": "pain tressé à trois brins",
+      "ro": "pâine împletită din trei șuvițe"
     }
   },
   "time": {
@@ -147,7 +183,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the first two days; it dries out faster than a pan loaf, so wrap it well. Stale slices make excellent French toast, and it freezes well whole or sliced."
+      "en": "Best the first two days; it dries out faster than a pan loaf, so wrap it well. Stale slices make excellent French toast, and it freezes well whole or sliced.",
+      "de": "Am besten in den ersten zwei Tagen; es trocknet schneller aus als ein Kastenwecken, also gut einwickeln. Altbackene Scheiben ergeben ausgezeichneten French Toast; ganzer Laib oder in Scheiben gut einfrierbar.",
+      "es": "Mejor los primeros dos días; se seca más rápido que un pan de molde, así que envuélvelo bien. Las rebanadas duras son excelentes para torrijas; se congela bien entero o en rebanadas.",
+      "fr": "Meilleur les deux premiers jours; il sèche plus vite qu'un pain de moule, donc bien l'envelopper. Les tranches rassises font d'excellents pain perdu; il se congèle bien entier ou tranché.",
+      "ro": "Cel mai bun în primele două zile; se usucă mai repede decât o pâine de tavă, așa că înfășoară-l bine. Feliiile vechi fac un French toast excelent; îngheață bine întreg sau feliat."
     }
   },
   "equipment": [
@@ -290,7 +330,11 @@
     "author": "Uri Scheft",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased into fewer steps; egg weight estimated at 50g per large egg; assumed vegetable oil (not the butter alternative) for the parve version."
+      "en": "Method paraphrased into fewer steps; egg weight estimated at 50g per large egg; assumed vegetable oil (not the butter alternative) for the parve version.",
+      "de": "Methode in weniger Schritte paraphrasiert; Eiergewicht auf 50 g pro großes Ei geschätzt; Pflanzenöl (nicht die Butter-Alternative) für die pareve-Version angenommen.",
+      "es": "Método parafraseado en menos pasos; peso del huevo estimado en 50 g por huevo grande; se asumió aceite vegetal (no la alternativa de mantequilla) para la versión parve.",
+      "fr": "Méthode paraphrasée en moins d'étapes; poids de l'œuf estimé à 50 g par gros œuf; huile végétale (pas l'alternative au beurre) supposée pour la version parve.",
+      "ro": "Metodă parafrazată în mai puțini pași; greutatea oului estimată la 50 g per ou mare; s-a presupus ulei vegetal (nu alternativa cu unt) pentru versiunea parve."
     }
   },
   "tags": [

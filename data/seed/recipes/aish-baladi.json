@@ -23,10 +23,18 @@
   "origin": {
     "country": "EG",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "în toată țara"
     },
     "note": {
-      "en": "Aish means both 'bread' and 'life' in Egyptian Arabic; government-subsidized baladi bread is a politically sensitive staple, and price changes have historically triggered unrest."
+      "en": "Aish means both 'bread' and 'life' in Egyptian Arabic; government-subsidized baladi bread is a politically sensitive staple, and price changes have historically triggered unrest.",
+      "de": "Aish bedeutet im ägyptischen Arabisch sowohl 'Brot' als auch 'Leben'; das staatlich subventionierte Baladi-Brot ist ein politisch sensibles Grundnahrungsmittel, und Preisänderungen haben in der Vergangenheit Unruhen ausgelöst.",
+      "es": "Aish significa tanto 'pan' como 'vida' en árabe egipcio; el pan baladi subvencionado por el gobierno es un alimento básico políticamente sensible, y los cambios de precio han desatado disturbios históricamente.",
+      "fr": "Aish signifie à la fois 'pain' et 'vie' en arabe égyptien; le pain baladi subventionné par l'État est un aliment de base politiquement sensible, et les changements de prix ont historiquement déclenché des émeutes.",
+      "ro": "Aish înseamnă atât 'pâine' cât și 'viață' în araba egipteană; pâinea baladi subvenționată de guvern este un aliment de bază sensibil politic, iar schimbările de preț au declanșat istoric tulburări."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "water",
       "grams": 296,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -83,7 +95,11 @@
       },
       "grams": 13,
       "note": {
-        "en": "for dusting the work surface and coating the dough"
+        "en": "for dusting the work surface and coating the dough",
+        "de": "zum Bestäuben der Arbeitsfläche und Bestreichen des Teigs",
+        "es": "para espolvorear la superficie de trabajo y cubrir la masa",
+        "fr": "pour fariner le plan de travail et enrober la pâte",
+        "ro": "pentru pudratul suprafeței de lucru și acoperirea aluatului"
       }
     }
   ],
@@ -91,7 +107,11 @@
     "count": 8,
     "pieceGrams": 73,
     "shape": {
-      "en": "thin round pocket flatbread"
+      "en": "thin round pocket flatbread",
+      "de": "dünnes, rundes Fladenbrot mit Tasche",
+      "es": "pan plano redondo fino con bolsillo",
+      "fr": "pain plat rond fin à poche",
+      "ro": "pâine plată rotundă subțire cu buzunar"
     }
   },
   "time": {
@@ -133,7 +153,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm the same day; once cooled it dries out quickly, so wrap airtight or freeze for later toasting."
+      "en": "Best warm the same day; once cooled it dries out quickly, so wrap airtight or freeze for later toasting.",
+      "de": "Am besten warm am selben Tag; einmal abgekühlt trocknet es schnell aus, daher luftdicht verpacken oder zum späteren Toasten einfrieren.",
+      "es": "Mejor caliente el mismo día; una vez frío se seca rápido, así que envuélvelo hermético o congélalo para tostar después.",
+      "fr": "Meilleur tiède le jour même; une fois refroidi il sèche vite, donc emballez-le hermétiquement ou congelez-le pour le griller plus tard.",
+      "ro": "Cel mai bun cald în aceeași zi; odată răcit se usucă repede, așa că înfășoară-l ermetic sau congelează-l pentru prăjit ulterior."
     }
   },
   "equipment": [
@@ -242,7 +266,11 @@
     "site": "My Cooking Journey",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tablespoon quantities converted to grams; wheat bran treated as a coating/dusting ingredient rather than folded into the flour total, matching its use on the work surface."
+      "en": "Cup/tablespoon quantities converted to grams; wheat bran treated as a coating/dusting ingredient rather than folded into the flour total, matching its use on the work surface.",
+      "de": "Tassen-/Esslöffelangaben in Gramm umgerechnet; Weizenkleie als Bestäubungszutat behandelt statt in die Mehlgesamtmenge eingerechnet, entsprechend ihrer Verwendung auf der Arbeitsfläche.",
+      "es": "Cantidades en tazas/cucharadas convertidas a gramos; el salvado de trigo se trató como ingrediente de espolvoreo y no se incluyó en el total de harina, según su uso en la superficie de trabajo.",
+      "fr": "Quantités en tasses/cuillères à soupe converties en grammes; le son de blé traité comme ingrédient de saupoudrage plutôt qu'intégré au total de farine, comme utilisé sur le plan de travail.",
+      "ro": "Cantitățile în căni/linguri convertite în grame; tărâța de grâu tratată ca ingredient de pudrare pe suprafața de lucru, nu inclusă în totalul de făină."
     }
   },
   "tags": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "England, commercialized in New York City"
+      "en": "England, commercialized in New York City",
+      "de": "England, kommerzialisiert in New York City",
+      "es": "Inglaterra, comercializado en la ciudad de Nueva York",
+      "fr": "Angleterre, commercialisé à New York",
+      "ro": "Anglia, comercializat în New York City"
     },
     "note": {
-      "en": "Rooted in British griddle 'muffins' and crumpets; the modern packaged English muffin was popularized in the US by Samuel Bath Thomas's 1880s NYC bakery."
+      "en": "Rooted in British griddle 'muffins' and crumpets; the modern packaged English muffin was popularized in the US by Samuel Bath Thomas's 1880s NYC bakery.",
+      "de": "Verwurzelt in britischen Griddle-'Muffins' und Crumpets; der moderne verpackte English Muffin wurde in den USA durch Samuel Bath Thomas' Bäckerei in New York der 1880er Jahre populär.",
+      "es": "Con raíces en los 'muffins' británicos de plancha y los crumpets; el moderno muffin inglés envasado fue popularizado en EE.UU. por la panadería neoyorquina de Samuel Bath Thomas en la década de 1880.",
+      "fr": "Enraciné dans les 'muffins' britanniques à la plaque et les crumpets; le moderne muffin anglais emballé a été popularisé aux États-Unis par la boulangerie new-yorkaise de Samuel Bath Thomas dans les années 1880.",
+      "ro": "Înrădăcinat în 'muffin-urile' britanice de grătar și crumpets; modernul english muffin ambalat a fost popularizat în SUA de brutăria new-yorkeză a lui Samuel Bath Thomas în anii 1880."
     }
   },
   "leaven": "yeast",
@@ -49,35 +57,55 @@
       "key": "flour:wheat-white",
       "grams": 190,
       "note": {
-        "en": "all-purpose, for the overnight preferment"
+        "en": "all-purpose, for the overnight preferment",
+        "de": "Weizenmehl Type 550, für den Vorteig über Nacht",
+        "es": "harina común, para el prefermento nocturno",
+        "fr": "farine tout usage, pour le préferment de nuit",
+        "ro": "făină universală, pentru prefermentul de peste noapte"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 120,
       "note": {
-        "en": "all-purpose, for the final dough"
+        "en": "all-purpose, for the final dough",
+        "de": "Weizenmehl Type 550, für den Hauptteig",
+        "es": "harina común, para la masa final",
+        "fr": "farine tout usage, pour la pâte finale",
+        "ro": "făină universală, pentru aluatul final"
       }
     },
     {
       "key": "milk",
       "grams": 152,
       "note": {
-        "en": "lukewarm, for the preferment"
+        "en": "lukewarm, for the preferment",
+        "de": "lauwarm, für den Vorteig",
+        "es": "tibia, para el prefermento",
+        "fr": "tiède, pour le préferment",
+        "ro": "călduță, pentru preferment"
       }
     },
     {
       "key": "water",
       "grams": 102,
       "note": {
-        "en": "lukewarm, for the preferment"
+        "en": "lukewarm, for the preferment",
+        "de": "lauwarm, für den Vorteig",
+        "es": "tibia, para el prefermento",
+        "fr": "tiède, pour le préferment",
+        "ro": "călduță, pentru preferment"
       }
     },
     {
       "key": "instant-yeast",
       "grams": 2,
       "note": {
-        "en": "in the preferment"
+        "en": "in the preferment",
+        "de": "im Vorteig",
+        "es": "en el prefermento",
+        "fr": "dans le préferment",
+        "ro": "în preferment"
       }
     },
     {
@@ -92,14 +120,22 @@
       "key": "butter",
       "grams": 18,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topit"
       }
     },
     {
       "key": "cornmeal",
       "grams": 20,
       "note": {
-        "en": "for dusting"
+        "en": "for dusting",
+        "de": "zum Bestäuben",
+        "es": "para espolvorear",
+        "fr": "pour saupoudrer",
+        "ro": "pentru presărat"
       }
     }
   ],
@@ -107,7 +143,11 @@
     "count": 6,
     "pieceGrams": 99,
     "shape": {
-      "en": "3.5-inch griddle-cooked round"
+      "en": "3.5-inch griddle-cooked round",
+      "de": "in der Pfanne gebackene Runde von 9 cm",
+      "es": "redondo cocido en plancha de 9 cm",
+      "fr": "rond cuit à la plaque de 9 cm",
+      "ro": "rotund copt în tigaie de 9 cm"
     }
   },
   "time": {
@@ -149,7 +189,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Split with a fork, not a knife, to keep the nooks and crannies; toasts well straight from frozen."
+      "en": "Split with a fork, not a knife, to keep the nooks and crannies; toasts well straight from frozen.",
+      "de": "Mit einer Gabel teilen, nicht mit einem Messer, um die Poren und Unebenheiten zu erhalten; lässt sich gut direkt aus dem Gefrierschrank toasten.",
+      "es": "Partir con un tenedor, no con un cuchillo, para mantener los agujeros y grietas; se tuesta bien directamente congelado.",
+      "fr": "Fendre à la fourchette, pas au couteau, pour préserver les alvéoles et les irrégularités; se toast bien directement congelé.",
+      "ro": "Despicat cu furculița, nu cu cuțitul, pentru a păstra golurile și crăpăturile; se prăjește bine direct din congelator."
     }
   },
   "equipment": [
@@ -258,7 +302,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Ratios preserved from the sourced version; presentation simplified."
+      "en": "Ratios preserved from the sourced version; presentation simplified.",
+      "de": "Verhältnisse aus der Quellversion beibehalten; Darstellung vereinfacht.",
+      "es": "Proporciones conservadas de la versión original; presentación simplificada.",
+      "fr": "Proportions préservées de la version source; présentation simplifiée.",
+      "ro": "Proporțiile păstrate din versiunea sursă; prezentare simplificată."
     }
   },
   "tags": [

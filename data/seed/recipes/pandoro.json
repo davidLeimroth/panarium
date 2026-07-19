@@ -23,10 +23,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Verona, Veneto"
+      "en": "Verona, Veneto",
+      "de": "Verona, Venetien",
+      "es": "Verona, Veneto",
+      "fr": "Verone, Venetie",
+      "ro": "Verona, Veneto"
     },
     "note": {
-      "en": "Created in 1894 by Veronese pastry chef Domenico Melegatti, who patented the eight-point star mold; it's now Italy's second Christmas bread after panettone."
+      "en": "Created in 1894 by Veronese pastry chef Domenico Melegatti, who patented the eight-point star mold; it's now Italy's second Christmas bread after panettone.",
+      "de": "1894 vom Veroneser Konditor Domenico Melegatti kreiert, der die achtzackige Sternform patentieren ließ; heute ist es nach Panettone Italiens zweites Weihnachtsgeback.",
+      "es": "Creado en 1894 por el pastelero verones Domenico Melegatti, quien patento el molde de estrella de ocho puntas; hoy es el segundo pan navideno de Italia despues del panettone.",
+      "fr": "Cree en 1894 par le patissier veronais Domenico Melegatti, qui a brevete le moule en etoile a huit branches ; c'est aujourd'hui le deuxieme pain de Noel italien apres le panettone.",
+      "ro": "Creat in 1894 de patiserul veronez Domenico Melegatti, care a patentat forma de stea in opt colturi; acum este a doua pâine de Crăciun a Italiei după panettone."
     }
   },
   "leaven": "yeast",
@@ -50,56 +58,88 @@
       "key": "flour:wheat-white",
       "grams": 425,
       "note": {
-        "en": "95 g in the overnight starter, 330 g in the main dough"
+        "en": "95 g in the overnight starter, 330 g in the main dough",
+        "de": "95 g im Vorteig uber Nacht, 330 g im Hauptteig",
+        "es": "95 g en el prefermento nocturno, 330 g en la masa principal",
+        "fr": "95 g dans le levain de nuit, 330 g dans la pâte principale",
+        "ro": "95 g in starterul de peste noapte, 330 g in aluatul principal"
       }
     },
     {
       "key": "water",
       "grams": 60,
       "note": {
-        "en": "lukewarm, for the starter"
+        "en": "lukewarm, for the starter",
+        "de": "lauwarm, fur den Vorteig",
+        "es": "tibia, para el prefermento",
+        "fr": "tiede, pour le levain",
+        "ro": "călduță, pentru starter"
       }
     },
     {
       "key": "active-dry-yeast",
       "grams": 11,
       "note": {
-        "en": "about 2 g in the starter, 9 g in the main dough"
+        "en": "about 2 g in the starter, 9 g in the main dough",
+        "de": "etwa 2 g im Vorteig, 9 g im Hauptteig",
+        "es": "aproximadamente 2 g en el prefermento, 9 g en la masa principal",
+        "fr": "environ 2 g dans le levain, 9 g dans la pâte principale",
+        "ro": "aproximativ 2 g in starter, 9 g in aluatul principal"
       }
     },
     {
       "key": "sugar",
       "grams": 104,
       "note": {
-        "en": "4 g in the starter, 100 g in the main dough"
+        "en": "4 g in the starter, 100 g in the main dough",
+        "de": "4 g im Vorteig, 100 g im Hauptteig",
+        "es": "4 g en el prefermento, 100 g en la masa principal",
+        "fr": "4 g dans le levain, 100 g dans la pâte principale",
+        "ro": "4 g in starter, 100 g in aluatul principal"
       }
     },
     {
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "in the starter only"
+        "en": "in the starter only",
+        "de": "nur im Vorteig",
+        "es": "solo en el prefermento",
+        "fr": "dans le levain seulement",
+        "ro": "doar in starter"
       }
     },
     {
       "key": "milk",
       "grams": 120,
       "note": {
-        "en": "whole milk, lukewarm"
+        "en": "whole milk, lukewarm",
+        "de": "Vollmilch, lauwarm",
+        "es": "leche entera, tibia",
+        "fr": "lait entier, tiede",
+        "ro": "lapte integral, călduț"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 80,
       "note": {
-        "en": "about 4 large yolks"
+        "en": "about 4 large yolks",
+        "de": "etwa 4 große Eigelb",
+        "es": "aproximadamente 4 yemas grandes",
+        "fr": "environ 4 gros jaunes",
+        "ro": "aproximativ 4 gălbenuşuri mari"
       }
     },
     {
       "key": "butter",
       "grams": 170,
       "note": {
-        "en": "unsalted, softened, worked in gradually"
+        "en": "unsalted, softened, worked in gradually",
+        "de": "ungesalzen, weich, nach und nach eingearbeitet",
+        "es": "sin sal, ablandada, incorporada gradualmente",
+        "fr": "non sale, ramolli, incorpore progressivement",
+        "ro": "nesărat, moale, incorporat treptat"
       }
     },
     {
@@ -110,21 +150,33 @@
       "key": "vanilla",
       "grams": 30,
       "note": {
-        "en": "vanilla bean paste, or 2 tsp extract"
+        "en": "vanilla bean paste, or 2 tsp extract",
+        "de": "Vanillemark oder 2 TL Extrakt",
+        "es": "pasta de vainilla, o 2 cditas de extracto",
+        "fr": "pâte de vanille, ou 2 c. a cafe d'extrait",
+        "ro": "pastă de vanilie, sau 2 liniţe extract"
       }
     },
     {
       "key": "lemon-zest",
       "grams": 3,
       "note": {
-        "en": "zest of 1 lemon"
+        "en": "zest of 1 lemon",
+        "de": "Schale von 1 Zitrone",
+        "es": "ralladura de 1 limon",
+        "fr": "zeste de 1 citron",
+        "ro": "coaja de la 1 lămâie"
       }
     },
     {
       "key": "sugar",
       "grams": 30,
       "note": {
-        "en": "powdered sugar with vanilla, for dusting after baking"
+        "en": "powdered sugar with vanilla, for dusting after baking",
+        "de": "Puderzucker mit Vanille, zum Bestauben nach dem Backen",
+        "es": "azucar glas con vainilla, para espolvorear despues de hornear",
+        "fr": "sucre glace a la vanille, pour saupoudrer apres cuisson",
+        "ro": "zahăr pudră cu vanilie, pentru presărat după coacere"
       }
     }
   ],
@@ -132,7 +184,11 @@
     "count": 1,
     "pieceGrams": 950,
     "shape": {
-      "en": "8-point star (Melegatti-style pandoro mold)"
+      "en": "8-point star (Melegatti-style pandoro mold)",
+      "de": "achtzackiger Stern (Pandoro-Form nach Melegatti-Art)",
+      "es": "estrella de 8 puntas (molde pandoro estilo Melegatti)",
+      "fr": "etoile a 8 branches (moule pandoro style Melegatti)",
+      "ro": "stea in 8 colturi (formă pandoro stil Melegatti)"
     }
   },
   "time": {
@@ -174,7 +230,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Wrap airtight in foil or a bag; without candied fruit to hold moisture the crumb dries a little faster than panettone."
+      "en": "Wrap airtight in foil or a bag; without candied fruit to hold moisture the crumb dries a little faster than panettone.",
+      "de": "Luftdicht in Folie oder einer Tute verpacken; ohne kandierte Fruchte, die Feuchtigkeit speichern, trocknet die Krume etwas schneller als bei Panettone.",
+      "es": "Envolver hermeticamente en papel aluminio o una bolsa; sin fruta confitada que retenga humedad, la miga se seca un poco mas rapido que el panettone.",
+      "fr": "Emballer hermetiquement dans du film ou un sac ; sans fruits confits pour retenir l'humidite, la mie seche un peu plus vite que le panettone.",
+      "ro": "Infasoara ermetic in folie sau intr-o punga; fără fructe confiate care să retină umezeala, miezul se usucă ceva mai repede decât la panettone."
     }
   },
   "equipment": [
@@ -300,7 +360,11 @@
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Paraphrased the starter-then-main-dough method; cross-checked the salt level and gradual butter incorporation against a second traditional recipe."
+      "en": "Paraphrased the starter-then-main-dough method; cross-checked the salt level and gradual butter incorporation against a second traditional recipe.",
+      "de": "Die Methode Starter-dann-Hauptteig wurde paraphrasiert; Salzkonzentration und schrittweise Butterzugabe wurden mit einem zweiten traditionellen Rezept abgeglichen.",
+      "es": "Se parafraseo el metodo de prefermento y luego masa principal; se cotejaron el nivel de sal y la incorporacion gradual de mantequilla con una segunda receta tradicional.",
+      "fr": "Methode du levain puis de la pâte principale paraphrasee ; le niveau de sel et l'incorporation progressive du beurre ont ete recoupes avec une seconde recette traditionnelle.",
+      "ro": "Metoda cu starter urmat de aluatul principal a fost parafrazată; nivelul de sare şi incorporarea treptată a untului au fost verificate cu o a doua retetă tradiţională."
     }
   },
   "tags": [

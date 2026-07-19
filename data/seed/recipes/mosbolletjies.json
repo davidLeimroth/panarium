@@ -21,10 +21,18 @@
   "origin": {
     "country": "ZA",
     "region": {
-      "en": "Western Cape winelands"
+      "en": "Western Cape winelands",
+      "de": "Weinbaugebiet Westkap",
+      "es": "Vinedos del Cabo Occidental",
+      "fr": "Vignobles du Cap-Occidental",
+      "ro": "Regiunea viticola Western Cape"
     },
     "note": {
-      "en": "Brought by French Huguenot refugees who settled Franschhoek from 1688; traditionally leavened with mos, the partly fermented grape must left over from winemaking, hence the name (mos + bolletjies, 'must balls')."
+      "en": "Brought by French Huguenot refugees who settled Franschhoek from 1688; traditionally leavened with mos, the partly fermented grape must left over from winemaking, hence the name (mos + bolletjies, 'must balls').",
+      "de": "Von franzosischen Hugenottenfluchtlingen eingefuhrt, die sich ab 1688 in Franschhoek niederlieen; traditionell mit Mos getrieben, dem teilweise fermentierten Traubenmost, der beim Weinbau ubrig bleibt, daher der Name (Mos + Bolletjies, 'Mostballchen').",
+      "es": "Traido por refugiados hugonotes franceses que se establecieron en Franschhoek desde 1688; tradicionalmente fermentado con mos, el mosto de uva parcialmente fermentado sobrante de la vinificacion, de ahi el nombre (mos + bolletjies, 'bolas de mosto').",
+      "fr": "Apporte par les refugies huguenots francais qui se sont installes a Franschhoek a partir de 1688; traditionnellement leve avec du mos, le mout de raisin partiellement fermente restant de la vinification, d'ou le nom (mos + bolletjies, 'boulettes de mout').",
+      "ro": "Adus de refugiatii hughenoti francezi care s-au stabilit la Franschhoek din 1688; in mod traditional dospit cu mos, mustul de struguri partial fermentat ramas de la vinificatie, de unde si numele (mos + bolletjies, 'bilete de must')."
     }
   },
   "leaven": "yeast",
@@ -64,7 +72,11 @@
       "key": "anise",
       "grams": 20,
       "note": {
-        "en": "whole aniseed"
+        "en": "whole aniseed",
+        "de": "ganzer Anis",
+        "es": "anis en grano",
+        "fr": "anis entier",
+        "ro": "anason intreg"
       }
     },
     {
@@ -85,21 +97,33 @@
       "key": "milk",
       "grams": 120,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiede",
+        "ro": "calduta"
       }
     },
     {
       "key": "water",
       "grams": 237,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiede",
+        "ro": "calduta"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "for the syrup glaze brushed on after baking"
+        "en": "for the syrup glaze brushed on after baking",
+        "de": "fur den Sirupglasur, nach dem Backen aufgestrichen",
+        "es": "para el glaseado de almibar untado despues de hornear",
+        "fr": "pour le glaçage au sirop badigeonne apres cuisson",
+        "ro": "pentru glazura de sirop unsa dupa coacere"
       }
     }
   ],
@@ -107,7 +131,11 @@
     "count": 16,
     "pieceGrams": 111,
     "shape": {
-      "en": "soft pull-apart bun baked in a shared tin"
+      "en": "soft pull-apart bun baked in a shared tin",
+      "de": "weiches, teilbares Brotchen, in einer gemeinsamen Form gebacken",
+      "es": "bollo blando para separar, horneado en un molde compartido",
+      "fr": "petit pain moelleux a separer, cuit dans un moule partage",
+      "ro": "chifla moale care se desparte, coapta intr-o tava comuna"
     }
   },
   "time": {
@@ -149,7 +177,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Eaten fresh with butter, or dried further into mosbeskuit (rusks) for a keeper that lasts weeks."
+      "en": "Eaten fresh with butter, or dried further into mosbeskuit (rusks) for a keeper that lasts weeks.",
+      "de": "Frisch mit Butter gegessen oder weiter getrocknet zu Mosbeskuit (Zwieback) als haltbare Variante, die wochenlang halt.",
+      "es": "Se come fresco con mantequilla, o se seca mas hasta convertirlo en mosbeskuit (galletas duras) para conservarlo durante semanas.",
+      "fr": "Mange frais avec du beurre, ou seche davantage en mosbeskuit (biscottes) pour une conservation qui dure des semaines.",
+      "ro": "Se mananca proaspat cu unt, sau se usuca in continuare in mosbeskuit (pesmeti) pentru a rezista saptamani intregi."
     }
   },
   "equipment": [
@@ -274,7 +306,11 @@
     "site": "Eitan Bernath",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Modern grape-juice-plus-commercial-yeast version used in place of traditional fermented grape must; glaze sugar kept as a separate entry from the dough formula."
+      "en": "Modern grape-juice-plus-commercial-yeast version used in place of traditional fermented grape must; glaze sugar kept as a separate entry from the dough formula.",
+      "de": "Moderne Version mit Traubensaft und Handelshefe anstelle des traditionellen fermentierten Traubenmosts; Glasurzucker als separater Eintrag von der Teigformel getrennt gefuhrt.",
+      "es": "Version moderna con jugo de uva y levadura comercial utilizada en lugar del mosto de uva fermentado tradicional; el azucar del glaseado se mantiene como entrada separada de la formula de la masa.",
+      "fr": "Version moderne avec jus de raisin et levure commerciale utilisee a la place du mout de raisin fermente traditionnel; le sucre du glaçage garde comme entree separee de la formule de la pate.",
+      "ro": "Versiunea moderna cu suc de struguri si drojdie comerciala folosita in locul mustului de struguri fermentat traditional; zaharul pentru glazura pastrat ca o intrare separata de formula aluatului."
     }
   },
   "tags": [

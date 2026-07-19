@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national"
+      "en": "national",
+      "de": "landesweit",
+      "es": "nacional",
+      "fr": "national",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "The standard 'brown bread' of French boulangeries, distinct from the more rustic, often sourdough-leavened pain de campagne."
+      "en": "The standard 'brown bread' of French boulangeries, distinct from the more rustic, often sourdough-leavened pain de campagne.",
+      "de": "Das Standard-«Vollkornbrot» der französischen Boulangerien, zu unterscheiden vom rustikaleren, oft sauerteiggetriebenen pain de campagne.",
+      "es": "El «pan moreno» estándar de las panaderías francesas, distinto del más rústico pain de campagne, a menudo fermentado con masa madre.",
+      "fr": "Le « pain brun » standard des boulangeries françaises, distinct du plus rustique pain de campagne, souvent au levain.",
+      "ro": "«Pâinea brună» standard a boulangeriilor franceze, distinctă de pain de campagne mai rustică, adesea dospită cu maia."
     }
   },
   "leaven": "yeast",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-whole",
       "grams": 500,
       "note": {
-        "en": "T150"
+        "en": "T150",
+        "de": "T150",
+        "es": "T150",
+        "fr": "T150",
+        "ro": "T150"
       }
     },
     {
@@ -67,7 +79,11 @@
     "count": 1,
     "pieceGrams": 750,
     "shape": {
-      "en": "bâtard or boule"
+      "en": "bâtard or boule",
+      "de": "Bâtard oder Boule",
+      "es": "bâtard o boule",
+      "fr": "bâtard ou boule",
+      "ro": "bâtard sau boule"
     }
   },
   "time": {
@@ -109,7 +125,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Slices and freezes well for toast during the week."
+      "en": "Slices and freezes well for toast during the week.",
+      "de": "Lässt sich gut in Scheiben schneiden und einfrieren für Toast unter der Woche.",
+      "es": "Se rebanada y congela bien para tostadas durante la semana.",
+      "fr": "Se tranche et se congèle bien pour le grille-pain en semaine.",
+      "ro": "Se feliază și se congrează bine pentru pâine prăjită în timpul săptămânii."
     }
   },
   "equipment": [

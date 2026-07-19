@@ -23,10 +23,18 @@
   "origin": {
     "country": "IS",
     "region": {
-      "en": "notably Laugarvatn and other geothermal areas"
+      "en": "notably Laugarvatn and other geothermal areas",
+      "de": "besonders in Laugarvatn und anderen Geothermalgebieten",
+      "es": "particularmente en Laugarvatn y otras áreas geotermales",
+      "fr": "notamment à Laugarvatn et dans d'autres zones géothermiques",
+      "ro": "în special Laugarvatn și alte zone geotermale"
     },
     "note": {
-      "en": "Nicknamed þrumari ('thunderer'); rye became Iceland's main grain after Denmark's 1602-1786 trade monopoly."
+      "en": "Nicknamed þrumari ('thunderer'); rye became Iceland's main grain after Denmark's 1602-1786 trade monopoly.",
+      "de": "Spitzname þrumari ('Donnerer'); Roggen wurde Islands Hauptgetreide nach dem dänischen Handelsmonopol von 1602–1786.",
+      "es": "Apodado þrumari ('tronador'); el centeno se convirtió en el grano principal de Islandia tras el monopolio comercial danés de 1602–1786.",
+      "fr": "Surnommé þrumari ('tonnerre'); le seigle est devenu la céréale principale de l'Islande après le monopole commercial danois de 1602–1786.",
+      "ro": "Poreclit þrumari ('tunător'); secara a devenit cereala principală a Islandei după monopolul comercial danez din 1602–1786."
     }
   },
   "leaven": "chemical",
@@ -83,7 +91,11 @@
     "count": 1,
     "pieceGrams": 1900,
     "shape": {
-      "en": "large round loaf baked in a covered pot"
+      "en": "large round loaf baked in a covered pot",
+      "de": "großer runder Laib, in einem geschlossenen Topf gebacken",
+      "es": "hogaza grande redonda horneada en una olla tapada",
+      "fr": "grand pain rond cuit dans un pot couvert",
+      "ro": "pâine mare rotundă coaptă într-o oală acoperită"
     }
   },
   "time": {
@@ -124,7 +136,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "Stays moist about a week wrapped; traditionally sliced thin with butter, smoked fish or hangikjöt."
+      "en": "Stays moist about a week wrapped; traditionally sliced thin with butter, smoked fish or hangikjöt.",
+      "de": "Eingewickelt etwa eine Woche feucht; traditionell dünn geschnitten mit Butter, Räucherfisch oder Hangikjöt.",
+      "es": "Se mantiene húmedo aproximadamente una semana envuelto; tradicionalmente en rebanadas finas con mantequilla, pescado ahumado o hangikjöt.",
+      "fr": "Reste humide environ une semaine emballé; traditionnellement tranché fin avec du beurre, du poisson fumé ou du hangikjöt.",
+      "ro": "Rămâne umed aproximativ o săptămână învelit; tăiat subțire cu unt, pește afumat sau hangikjöt."
     }
   },
   "equipment": [
@@ -205,10 +221,10 @@
       },
       "summary": {
         "en": "Run a spatula around the edges, then flip the loaf out onto a rack.",
-        "de": "Die Ränder mit einem Spatel lösen und auf ein Kuchengitter stürzen.",
-        "es": "Despegar los bordes con una espátula y volcar sobre una rejilla.",
-        "fr": "Décoller les bords à la spatule et renverser sur une grille.",
-        "ro": "Desprinde marginile cu o spatulă și răstoarnă pe un grătar."
+        "de": "Die Ränder mit einem Spatel lösen und auf ein Gitter stürzen.",
+        "es": "Pasar una espátula por los bordes y desmoldar el pan sobre una rejilla.",
+        "fr": "Passer une spatule autour des bords et démouler le pain sur une grille.",
+        "ro": "Desprinde marginile cu o spatulă și răstoarnă pâinea pe un grătar."
       }
     },
     {
@@ -233,7 +249,11 @@
     "site": "The Toothsome Table",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Home-oven method from the source; the traditional version is buried and steam-baked near a geothermal hot spring for about 24 hours."
+      "en": "Home-oven method from the source; the traditional version is buried and steam-baked near a geothermal hot spring for about 24 hours.",
+      "de": "Haushaltsbackofen-Methode aus der Quelle; die traditionelle Version wird vergraben und in der Nähe einer heißen Quelle etwa 24 Stunden lang gedämpft.",
+      "es": "Método de horno casero de la fuente; la versión tradicional se entierra y se cuece al vapor cerca de una fuente termal durante unas 24 horas.",
+      "fr": "Méthode au four domestique de la source; la version traditionnelle est enterrée et cuite à la vapeur près d'une source chaude géothermale pendant environ 24 heures.",
+      "ro": "Metodă la cuptorul de acasă din sursă; versiunea tradițională este îngropată și fiartă la abur lângă un izvor termal timp de aproximativ 24 de ore."
     }
   },
   "tags": [

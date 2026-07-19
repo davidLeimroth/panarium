@@ -20,10 +20,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "London (Chelsea)"
+      "en": "London (Chelsea)",
+      "de": "London (Chelsea)",
+      "es": "Londres (Chelsea)",
+      "fr": "Londres (Chelsea)",
+      "ro": "Londra (Chelsea)"
     },
     "note": {
-      "en": "First baked at the Chelsea Bun House, a bakery favored by the Hanoverian royal family in the 18th century; cut square because the buns are sliced from one shared spiral log baked touching in the pan."
+      "en": "First baked at the Chelsea Bun House, a bakery favored by the Hanoverian royal family in the 18th century; cut square because the buns are sliced from one shared spiral log baked touching in the pan.",
+      "de": "Erstmals gebacken im Chelsea Bun House, einer von der hannoverschen Königsfamilie im 18. Jahrhundert geschätzten Bäckerei; quadratisch geschnitten, da die Brötchen von einer gemeinsamen spiralartigen Rolle geschnitten werden, die sich berührend in der Form gebacken wird.",
+      "es": "Horneado por primera vez en Chelsea Bun House, una panadería frecuentada por la familia real hannoveriana en el siglo XVIII; cortado en cuadrado porque los bollos se cortan de un tronco espiral compartido horneado tocándose en el molde.",
+      "fr": "Cuit pour la première fois au Chelsea Bun House, une boulangerie prisée par la famille royale hanovrienne au XVIIIe siècle; coupé en carré car les petits pains sont tranchés d'un même rouleau en spirale cuit en se touchant dans le moule.",
+      "ro": "Copt prima dată la Chelsea Bun House, o brutărie frecventată de familia regală hanoveriană în secolul al XVIII-lea; tăiat pătrat pentru că chiflele sunt feliate dintr-un singur rulou în spirală copt lipit în tavă."
     }
   },
   "leaven": "yeast",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-white",
       "grams": 344,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
@@ -64,14 +76,22 @@
       },
       "grams": 2,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
       "key": "brown-sugar",
       "grams": 38,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
@@ -82,7 +102,11 @@
       "key": "butter",
       "grams": 43,
       "note": {
-        "en": "softened, dough"
+        "en": "softened, dough",
+        "de": "weich, Teig",
+        "es": "ablandada, masa",
+        "fr": "ramolli, pâte",
+        "ro": "moale, aluat"
       }
     },
     {
@@ -93,21 +117,33 @@
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "1 large egg"
+        "en": "1 large egg",
+        "de": "1 großes Ei",
+        "es": "1 huevo grande",
+        "fr": "1 gros œuf",
+        "ro": "1 ou mare"
       }
     },
     {
       "key": "butter",
       "grams": 85,
       "note": {
-        "en": "softened, for the filling"
+        "en": "softened, for the filling",
+        "de": "weich, für die Füllung",
+        "es": "ablandada, para el relleno",
+        "fr": "ramolli, pour la garniture",
+        "ro": "moale, pentru umplutură"
       }
     },
     {
       "key": "brown-sugar",
       "grams": 100,
       "note": {
-        "en": "packed, for the filling"
+        "en": "packed, for the filling",
+        "de": "festgedrückt, für die Füllung",
+        "es": "compacto, para el relleno",
+        "fr": "tassée, pour la garniture",
+        "ro": "bine împachetat, pentru umplutură"
       }
     },
     {
@@ -120,42 +156,66 @@
       },
       "grams": 4,
       "note": {
-        "en": "filling"
+        "en": "filling",
+        "de": "Füllung",
+        "es": "relleno",
+        "fr": "garniture",
+        "ro": "umplutură"
       }
     },
     {
       "key": "cinnamon",
       "grams": 3,
       "note": {
-        "en": "ground, filling"
+        "en": "ground, filling",
+        "de": "gemahlen, Füllung",
+        "es": "molida, relleno",
+        "fr": "moulue, garniture",
+        "ro": "măcinat, umplutură"
       }
     },
     {
       "key": "raisins",
       "grams": 113,
       "note": {
-        "en": "dried currants (small Zante-type raisins), traditional for this bun; filling"
+        "en": "dried currants (small Zante-type raisins), traditional for this bun; filling",
+        "de": "getrocknete Korinthen (kleine Zante-Rosinen), traditionell für dieses Brötchen; Füllung",
+        "es": "grosellas secas (pasas pequeñas tipo Zante), tradicionales para este bollo; relleno",
+        "fr": "raisins de Corinthe secs (petits raisins type Zante), traditionnels pour ce petit pain; garniture",
+        "ro": "stafide de Corint uscate (stafide mici tip Zante), tradiționale pentru această chiflă; umplutură"
       }
     },
     {
       "key": "candied-citrus",
       "grams": 36,
       "note": {
-        "en": "chopped candied lemon peel, filling"
+        "en": "chopped candied lemon peel, filling",
+        "de": "gehackte kandierte Zitronenschale, Füllung",
+        "es": "cáscara de limón confitada picada, relleno",
+        "fr": "écorce de citron confite hachée, garniture",
+        "ro": "coajă de lămâie confiată tocată, umplutură"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "for the glaze, brushed on hot from the oven"
+        "en": "for the glaze, brushed on hot from the oven",
+        "de": "für den Guss, heiß aus dem Ofen aufgestrichen",
+        "es": "para el glaseado, untado caliente al salir del horno",
+        "fr": "pour le glaçage, badigeonné chaud à la sortie du four",
+        "ro": "pentru glazură, uns pe cald din cuptor"
       }
     },
     {
       "key": "water",
       "grams": 45,
       "note": {
-        "en": "for the glaze syrup, simmered with the sugar"
+        "en": "for the glaze syrup, simmered with the sugar",
+        "de": "für den Guss-Sirup, mit dem Zucker geköchelt",
+        "es": "para el jarabe del glaseado, hervido con el azúcar",
+        "fr": "pour le sirop du glaçage, mijoté avec le sucre",
+        "ro": "pentru siropul glazurei, fiert ușor cu zahărul"
       }
     }
   ],
@@ -163,7 +223,11 @@
     "count": 9,
     "pieceGrams": 118,
     "shape": {
-      "en": "square-cut spiral bun, baked touching in a pan"
+      "en": "square-cut spiral bun, baked touching in a pan",
+      "de": "quadratisch geschnittenes Spiralbrötchen, dicht an dicht in der Form gebacken",
+      "es": "bollo en espiral cortado en cuadrado, horneado tocándose en un molde",
+      "fr": "petit pain en spirale coupé en carré, cuit en se touchant dans un moule",
+      "ro": "chiflă în spirală tăiată pătrat, coptă lipită în tavă"
     }
   },
   "time": {
@@ -205,7 +269,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the day of baking while sticky-glazed; still good split and toasted a couple of days on."
+      "en": "Best the day of baking while sticky-glazed; still good split and toasted a couple of days on.",
+      "de": "Am besten am Backtag, solange der glänzende Glasur noch klebrig ist; noch gut aufgeschnitten und getoastet ein paar Tage später.",
+      "es": "Mejor el día de horneado, con el glaseado aún pegajoso; todavía bueno partido y tostado un par de días después.",
+      "fr": "Meilleur le jour de la cuisson avec le glaçage encore collant; encore bon fendu et toasté quelques jours plus tard.",
+      "ro": "Cel mai bun în ziua coacerii, cu glazura încă lipicioasă; încă bun tăiat și prăjit câteva zile mai târziu."
     }
   },
   "equipment": [
@@ -315,7 +383,11 @@
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "formula.* covers the dough only; the buttery currant filling and sugar-syrup glaze are itemized but excluded from the percentages. Cup measures converted to grams via standard baker's conversions."
+      "en": "formula.* covers the dough only; the buttery currant filling and sugar-syrup glaze are itemized but excluded from the percentages. Cup measures converted to grams via standard baker's conversions.",
+      "de": "formula.* deckt nur den Teig ab; die butterhaltige Korinthenfüllung und der Zuckersirup-Guss sind aufgeführt, aber von den Prozentangaben ausgeschlossen. Tassenmaße über Standard-Bäckereiumrechnungen in Gramm umgerechnet.",
+      "es": "formula.* cubre solo la masa; el relleno de mantequilla y grosellas y el glaseado de jarabe de azúcar están detallados pero excluidos de los porcentajes. Medidas en tazas convertidas a gramos mediante conversiones panaderas estándar.",
+      "fr": "formula.* ne couvre que la pâte; la garniture au beurre et aux raisins de Corinthe et le glaçage au sirop de sucre sont détaillés mais exclus des pourcentages. Mesures en tasses converties en grammes via les conversions standard de boulanger.",
+      "ro": "formula.* acoperă doar aluatul; umplutura cu unt și stafide de Corint și glazura de sirop de zahăr sunt detaliate dar excluse din procente. Măsurile în căni convertite în grame prin conversii standard de panificație."
     }
   },
   "tags": [

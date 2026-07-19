@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "Potato bread has many regional ancestors; this long-fermented sourdough version with roasted (not boiled) potato is a contemporary artisan formula."
+      "en": "Potato bread has many regional ancestors; this long-fermented sourdough version with roasted (not boiled) potato is a contemporary artisan formula.",
+      "de": "Kartoffelbrot hat viele regionale Vorfahren; diese langfermentierte Sauerteigversion mit gerösteter (nicht gekochter) Kartoffel ist eine zeitgenössische Handwerksformel.",
+      "es": "El pan de patata tiene muchos antepasados regionales; esta versión de masa madre de fermentación larga con papa asada (no hervida) es una fórmula artesanal contemporánea.",
+      "fr": "Le pain de pommes de terre a de nombreux ancêtres régionaux; cette version au levain longue fermentation avec pomme de terre rôtie (non bouillie) est une formule artisanale contemporaine.",
+      "ro": "Pâinea de cartofi are mulți strămoși regionali; această versiune cu maia cu fermentare lungă și cartof copt (nu fiert) este o formulă artizanală contemporană."
     }
   },
   "leaven": "sourdough",
@@ -49,14 +57,22 @@
       "key": "flour:wheat-white",
       "grams": 695,
       "note": {
-        "en": "malted white and high-gluten bread flour blend"
+        "en": "malted white and high-gluten bread flour blend",
+        "de": "Mischung aus gemälztem Weißmehl und hochglutenhaltigem Brotmehl",
+        "es": "mezcla de harina blanca malteada y harina de pan alta en gluten",
+        "fr": "mélange de farine blanche maltée et de farine à pain riche en gluten",
+        "ro": "amestec de făină albă malțată și făină de pâine cu gluten ridicat"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 188,
       "note": {
-        "en": "stoneground whole wheat"
+        "en": "stoneground whole wheat",
+        "de": "stein gemahlenes Vollkornweizen",
+        "es": "trigo integral molido a piedra",
+        "fr": "blé complet moulu sur pierre",
+        "ro": "grâu integral măcinat la piatră"
       }
     },
     {
@@ -75,7 +91,11 @@
       "key": "mashed-potato",
       "grams": 464,
       "note": {
-        "en": "roasted, peeled and pureed, not boiled"
+        "en": "roasted, peeled and pureed, not boiled",
+        "de": "geröstet, geschält und püriert, nicht gekocht",
+        "es": "asada, pelada y hecha puré, no hervida",
+        "fr": "rôtie, pelée et réduite en purée, non bouillie",
+        "ro": "coptă, curățată de coajă și făcută piure, nu fiartă"
       }
     },
     {
@@ -93,7 +113,11 @@
     "count": 2,
     "pieceGrams": 1000,
     "shape": {
-      "en": "bâtard"
+      "en": "bâtard",
+      "de": "Bâtard",
+      "es": "bâtard",
+      "fr": "bâtard",
+      "ro": "bâtard"
     }
   },
   "time": {
@@ -134,7 +158,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The potato keeps the crumb moist noticeably longer than a plain sourdough."
+      "en": "The potato keeps the crumb moist noticeably longer than a plain sourdough.",
+      "de": "Die Kartoffel hält die Krume merklich länger feucht als ein einfacher Sauerteig.",
+      "es": "La patata mantiene la miga húmeda notablemente más tiempo que una masa madre simple.",
+      "fr": "La pomme de terre garde la mie humide sensiblement plus longtemps qu'un levain simple.",
+      "ro": "Cartoful menține miezul umed vizibil mai mult decât o maia simplă."
     }
   },
   "equipment": [

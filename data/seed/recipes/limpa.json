@@ -22,10 +22,18 @@
   "origin": {
     "country": "SE",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Historically tied to vörtbröd/Christmas baking, but eaten year-round as a breakfast and toasting loaf."
+      "en": "Historically tied to vörtbröd/Christmas baking, but eaten year-round as a breakfast and toasting loaf.",
+      "de": "Historisch mit dem Vörtbröd/Weihnachtsbacken verbunden, aber ganzjährig als Frühstücks- und Toastbrot gegessen.",
+      "es": "Históricamente vinculado al vörtbröd/horneado navideño, pero se come todo el año como pan de desayuno y tostadas.",
+      "fr": "Historiquement lié au vörtbröd/cuisson de Noël, mais consommé toute l'année comme pain de petit-déjeuner et à griller.",
+      "ro": "Legat istoric de vörtbröd/coacerea de Crăciun, dar mâncat tot anul ca pâine de mic dejun și de prăjit."
     }
   },
   "leaven": "yeast",
@@ -61,14 +69,22 @@
       "key": "flour:wheat-whole",
       "grams": 57,
       "note": {
-        "en": "golden/whole wheat flour"
+        "en": "golden/whole wheat flour",
+        "de": "Weizenvollkornmehl",
+        "es": "harina de trigo integral",
+        "fr": "farine de blé complet",
+        "ro": "făină de grâu integral"
       }
     },
     {
       "key": "flour:rye-whole",
       "grams": 53,
       "note": {
-        "en": "pumpernickel-style whole rye"
+        "en": "pumpernickel-style whole rye",
+        "de": "Pumpernickel-artiges Roggenvollkornmehl",
+        "es": "centeno integral estilo pumpernickel",
+        "fr": "seigle complet style pumpernickel",
+        "ro": "secară integrală tip pumpernickel"
       }
     },
     {
@@ -83,7 +99,11 @@
       "key": "molasses",
       "grams": 78,
       "note": {
-        "en": "or dark corn syrup"
+        "en": "or dark corn syrup",
+        "de": "oder dunkler Maissirup",
+        "es": "o jarabe de maíz oscuro",
+        "fr": "ou sirop de maïs foncé",
+        "ro": "sau sirop de porumb închis"
       }
     },
     {
@@ -110,7 +130,11 @@
       "key": "orange-zest",
       "grams": 5,
       "note": {
-        "en": "or a few drops orange oil"
+        "en": "or a few drops orange oil",
+        "de": "oder ein paar Tropfen Orangenöl",
+        "es": "o unas gotas de aceite de naranja",
+        "fr": "ou quelques gouttes d'huile essentielle d'orange",
+        "ro": "sau câteva picături de ulei de portocale"
       }
     },
     {
@@ -128,7 +152,11 @@
     "count": 1,
     "pieceGrams": 750,
     "shape": {
-      "en": "round hearth loaf"
+      "en": "round hearth loaf",
+      "de": "runder Ofenlaib",
+      "es": "hogaza redonda de hogar",
+      "fr": "pain rond cuit sur sole",
+      "ro": "pâine rotundă de vatră"
     }
   },
   "time": {
@@ -170,7 +198,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Best toasted from day two onward; keep wrapped airtight."
+      "en": "Best toasted from day two onward; keep wrapped airtight.",
+      "de": "Am besten ab dem zweiten Tag getoastet; luftdicht verpackt aufbewahren.",
+      "es": "Mejor tostado a partir del segundo día; mantener envuelto herméticamente.",
+      "fr": "Meilleur toasté à partir du deuxième jour; conserver emballé hermétiquement.",
+      "ro": "Cel mai bun prăjit din ziua a doua înainte; păstrează învelit ermetic."
     }
   },
   "equipment": [
@@ -295,7 +327,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Rounded gram weights from King Arthur's ranges; dark corn syrup generalized to molasses."
+      "en": "Rounded gram weights from King Arthur's ranges; dark corn syrup generalized to molasses.",
+      "de": "Grammzahlen aus King Arthurs Spannbreiten gerundet; dunkler Maissirup durch Melasse vereinheitlicht.",
+      "es": "Cantidades en gramos redondeadas de los rangos de King Arthur; el jarabe de maíz oscuro se generalizó a melaza.",
+      "fr": "Grammes arrondis à partir des fourchettes de King Arthur; le sirop de maïs foncé généralisé en mélasse.",
+      "ro": "Grame rotunjite din intervalele King Arthur; siropul de porumb închis generalizat la melasă."
     }
   },
   "tags": [

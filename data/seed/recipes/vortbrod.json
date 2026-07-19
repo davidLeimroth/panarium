@@ -22,10 +22,18 @@
   "origin": {
     "country": "SE",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "partout dans le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Named for vört, the sweet brewer's wort traditionally used in the dough; modern versions substitute dark beer or julmust."
+      "en": "Named for vört, the sweet brewer's wort traditionally used in the dough; modern versions substitute dark beer or julmust.",
+      "de": "Benannt nach Vört, der süßen Bierwürze, die traditionell im Teig verwendet wird; moderne Versionen ersetzen sie durch dunkles Bier oder Julmust.",
+      "es": "Nombrado por vört, el mosto dulce de cerveza usado tradicionalmente en la masa; las versiones modernas lo sustituyen por cerveza negra o julmust.",
+      "fr": "Nommé d'après vört, le moût de bière sucré traditionnellement utilisé dans la pâte; les versions modernes le remplacent par de la bière brune ou du julmust.",
+      "ro": "Denumit după vört, mustul dulce de bere folosit în mod tradițional în aluat; versiunile moderne îl înlocuiesc cu bere neagră sau julmust."
     }
   },
   "leaven": "yeast",
@@ -56,14 +64,22 @@
       "key": "molasses",
       "grams": 140,
       "note": {
-        "en": "or dark Swedish brödsirap"
+        "en": "or dark Swedish brödsirap",
+        "de": "oder dunkler schwedischer Brödsirap",
+        "es": "o brödsirap sueco oscuro",
+        "fr": "ou brödsirap suédois foncé",
+        "ro": "sau brödsirap suedez închis"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 45,
       "note": {
-        "en": "rapeseed/canola oil"
+        "en": "rapeseed/canola oil",
+        "de": "Rapsöl",
+        "es": "aceite de colza / canola",
+        "fr": "huile de colza / canola",
+        "ro": "ulei de rapiță / canola"
       }
     },
     {
@@ -114,7 +130,11 @@
       "key": "orange-zest",
       "grams": 3,
       "note": {
-        "en": "or dried bitter orange peel (pomeransskal)"
+        "en": "or dried bitter orange peel (pomeransskal)",
+        "de": "oder getrocknete bittere Orangenschale (Pomeransskal)",
+        "es": "o cáscara de naranja amarga seca (pomeransskal)",
+        "fr": "ou écorce d'orange amère séchée (pomeransskal)",
+        "ro": "sau coajă uscată de portocală amară (pomeransskal)"
       }
     },
     {
@@ -134,7 +154,11 @@
     "count": 2,
     "pieceGrams": 700,
     "shape": {
-      "en": "oblong hearth loaf"
+      "en": "oblong hearth loaf",
+      "de": "länglicher Ofenlaib",
+      "es": "hogaza alargada de hogar",
+      "fr": "pain oblong de four",
+      "ro": "pâine alungită de vatră"
     }
   },
   "time": {
@@ -176,7 +200,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "A julbord classic; keeps well wrapped for the better part of a week."
+      "en": "A julbord classic; keeps well wrapped for the better part of a week.",
+      "de": "Ein Julbord-Klassiker; gut eingewickelt hält er sich den Großteil einer Woche.",
+      "es": "Un clásico del julbord; bien envuelto se conserva la mayor parte de una semana.",
+      "fr": "Un classique du julbord; bien emballé, il se conserve la majeure partie d'une semaine.",
+      "ro": "Un clasic de julbord; bine învelit, se păstrează aproape o săptămână."
     }
   },
   "equipment": [
@@ -301,7 +329,11 @@
     "site": "Lela's Food",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Dark bread syrup (brödsirap) mapped to molasses and bitter orange peel to orange zest, since the taxonomy has no exact matching keys; volumes converted to grams with standard density estimates."
+      "en": "Dark bread syrup (brödsirap) mapped to molasses and bitter orange peel to orange zest, since the taxonomy has no exact matching keys; volumes converted to grams with standard density estimates.",
+      "de": "Dunkler Brotsirup (Brödsirap) gegen Melasse und bittere Orangenschale gegen Orangenschalenabrieb ersetzt, da die Taxonomie keine exakt passenden Schlüssel hat; Volumen mit Standard-Dichteschätzungen in Gramm umgerechnet.",
+      "es": "Jarabe de pan oscuro (brödsirap) reemplazado por melaza y cáscara de naranja amarga por ralladura de naranja, ya que la taxonomía no tiene claves exactas; volúmenes convertidos a gramos con estimaciones de densidad estándar.",
+      "fr": "Sirop à pain brun (brödsirap) remplacé par de la mélasse et l'écorce d'orange amère par du zeste d'orange, la taxonomie n'ayant pas de clés correspondantes exactes; volumes convertis en grammes avec des estimations de densité standard.",
+      "ro": "Siropul de pâine neagră (brödsirap) înlocuit cu melasă și coaja de portocală amară cu coajă rasă de portocală, deoarece taxonomia nu are chei exacte de potrivire; volume convertite în grame cu estimări standard de densitate."
     }
   },
   "tags": [

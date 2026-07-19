@@ -24,10 +24,18 @@
   "origin": {
     "country": "AT",
     "region": {
-      "en": "Vienna"
+      "en": "Vienna",
+      "de": "Wien",
+      "es": "Viena",
+      "fr": "Vienne",
+      "ro": "Viena"
     },
     "note": {
-      "en": "A Viennese bakery classic since the 18th–19th century, since spread across the whole German-speaking world as a standard breakfast roll."
+      "en": "A Viennese bakery classic since the 18th–19th century, since spread across the whole German-speaking world as a standard breakfast roll.",
+      "de": "Ein Wiener Bäckereiklassiker seit dem 18.–19. Jahrhundert, inzwischen im gesamten deutschsprachigen Raum als Standardfrühstücksbrötchen verbreitet.",
+      "es": "Un clásico de la panadería vienesa desde los siglos XVIII–XIX, desde entonces extendido por todo el mundo germanohablante como panecillo de desayuno estándar.",
+      "fr": "Un classique de la boulangerie viennoise depuis le XVIIIe–XIXe siècle, depuis répandu dans tout le monde germanophone comme petit pain de petit-déjeuner standard.",
+      "ro": "Un clasic al brutăriei vieneze încă din secolele XVIII–XIX, răspândit de atunci în întreaga lume germanofonă ca chiflă standard de mic dejun."
     }
   },
   "leaven": "yeast",
@@ -50,14 +58,22 @@
       "key": "flour:wheat-white",
       "grams": 499,
       "note": {
-        "en": "Type 550"
+        "en": "Type 550",
+        "de": "Type 550",
+        "es": "harina Type 550",
+        "fr": "farine Type 550",
+        "ro": "făină Type 550"
       }
     },
     {
       "key": "water",
       "grams": 288,
       "note": {
-        "en": "split between preferment and dough"
+        "en": "split between preferment and dough",
+        "de": "aufgeteilt zwischen Vorteig und Teig",
+        "es": "dividido entre prefermento y masa",
+        "fr": "réparti entre préferment et pâte",
+        "ro": "împărțit între preferment și aluat"
       }
     },
     {
@@ -78,7 +94,11 @@
       },
       "grams": 5,
       "note": {
-        "en": "for crust color and flavor; can be omitted"
+        "en": "for crust color and flavor; can be omitted",
+        "de": "für Krustenfarbe und Geschmack; kann weggelassen werden",
+        "es": "para color y sabor de la corteza; puede omitirse",
+        "fr": "pour la couleur et la saveur de la croûte; peut être omis",
+        "ro": "pentru culoarea și aroma crustei; poate fi omis"
       }
     }
   ],
@@ -86,7 +106,11 @@
     "count": 9,
     "pieceGrams": 90,
     "shape": {
-      "en": "hand-folded five-point star roll"
+      "en": "hand-folded five-point star roll",
+      "de": "handgefaltetes Fünf-Stern-Brötchen",
+      "es": "panecillo de estrella de cinco puntas plegado a mano",
+      "fr": "petit pain en étoile à cinq branches plié à la main",
+      "ro": "chiflă în formă de stea în cinci colțuri pliată manual"
     }
   },
   "time": {
@@ -127,7 +151,11 @@
     "freshDays": 1.5,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; the thin crust softens fast. Refresh in a hot oven a few minutes, or freeze same-day."
+      "en": "Best the day it's baked; the thin crust softens fast. Refresh in a hot oven a few minutes, or freeze same-day.",
+      "de": "Am besten am Backtag; die dünne Kruste wird schnell weich. Im heißen Ofen einige Minuten auffrischen oder am selben Tag einfrieren.",
+      "es": "Mejor el día de horneado; la corteza fina se ablanda rápido. Refrescar en horno caliente unos minutos, o congelar el mismo día.",
+      "fr": "Meilleur le jour de la cuisson; la croûte fine ramollit vite. Rafraîchir au four chaud quelques minutes, ou congeler le jour même.",
+      "ro": "Cel mai bun în ziua coacerii; coaja subțire se înmoaie repede. Reîmprospătează în cuptor fierbinte câteva minute sau congelează în aceeași zi."
     }
   },
   "equipment": [
@@ -253,7 +281,11 @@
     "author": "Lutz Geißler (style reference)",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Simplified from a professional 1931-style Polish-preferment formula; scaled to a home-bakeable overnight schedule, malt flour treated as optional."
+      "en": "Simplified from a professional 1931-style Polish-preferment formula; scaled to a home-bakeable overnight schedule, malt flour treated as optional.",
+      "de": "Vereinfacht aus einer professionellen Rezeptur mit polnischem Vorteig von 1931; auf einen hausbacktauglichen Über-Nacht-Plan herunterskaliert, Malzmehl als optional behandelt.",
+      "es": "Simplificado a partir de una fórmula profesional con prefermento polaco estilo 1931; escalado a un horario nocturno apto para hornear en casa, harina de malta tratada como opcional.",
+      "fr": "Simplifié à partir d'une formule professionnelle de 1931 avec préferment polonais; adapté à un programme de nuit pour cuisson maison, farine de malt traitée comme facultative.",
+      "ro": "Simplificat dintr-o formulă profesională cu preferment polonez din 1931; scalat la un program peste noapte pentru copt acasă, făina de malț tratată ca opțională."
     }
   },
   "tags": [

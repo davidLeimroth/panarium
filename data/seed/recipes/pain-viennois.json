@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Paris"
+      "en": "Paris",
+      "de": "Paris",
+      "es": "París",
+      "fr": "Paris",
+      "ro": "Paris"
     },
     "note": {
-      "en": "Created in 1839 when the Austrian officer August Zang opened his 'Boulangerie Viennoise' on rue de Richelieu, introducing mechanical kneading and steam ovens; Parisian bakers then built their own milk-and-butter loaf inspired by his techniques."
+      "en": "Created in 1839 when the Austrian officer August Zang opened his 'Boulangerie Viennoise' on rue de Richelieu, introducing mechanical kneading and steam ovens; Parisian bakers then built their own milk-and-butter loaf inspired by his techniques.",
+      "de": "Entstanden 1839, als der österreichische Offizier August Zang seine «Boulangerie Viennoise» in der rue de Richelieu eröffnete und mechanisches Kneten und Dampföfen einführte; Pariser Bäcker entwickelten daraufhin ihr eigenes Milch-Butter-Brot, inspiriert von seinen Techniken.",
+      "es": "Creado en 1839 cuando el oficial austriaco August Zang abrió su «Boulangerie Viennoise» en la rue de Richelieu, introduciendo el amasado mecánico y los hornos de vapor; los panaderos parisinos crearon entonces su propio pan de leche y mantequilla inspirado en sus técnicas.",
+      "fr": "Créé en 1839 lorsque l'officier autrichien August Zang ouvre sa « Boulangerie Viennoise » rue de Richelieu, introduisant le pétrissage mécanique et les fours à vapeur; les boulangers parisiens ont alors élaboré leur propre pain au lait et au beurre inspiré de ses techniques.",
+      "ro": "Creat în 1839 când ofițerul austriac August Zang și-a deschis «Boulangerie Viennoise» pe rue de Richelieu, introducând frământarea mecanică și cuptoarele cu abur; brutarii parizieni au creat apoi propria lor pâine cu lapte și unt inspirată de tehnicile sale."
     }
   },
   "leaven": "yeast",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-white",
       "grams": 1000,
       "note": {
-        "en": "T55"
+        "en": "T55",
+        "de": "T55",
+        "es": "T55",
+        "fr": "T55",
+        "ro": "T55"
       }
     },
     {
@@ -62,7 +74,11 @@
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "about 2 eggs"
+        "en": "about 2 eggs",
+        "de": "etwa 2 Eier",
+        "es": "aproximadamente 2 huevos",
+        "fr": "environ 2 œufs",
+        "ro": "aproximativ 2 ouă"
       }
     },
     {
@@ -82,7 +98,11 @@
     "count": 6,
     "pieceGrams": 270,
     "shape": {
-      "en": "long stick, saucisson-scored"
+      "en": "long stick, saucisson-scored",
+      "de": "langer Stangenlaib, saucisson-artig eingeschnitten",
+      "es": "barra larga, marcada como saucisson",
+      "fr": "longue baguette, scarifiée en saucisson",
+      "ro": "baghetă lungă, incizată ca un saucisson"
     }
   },
   "time": {
@@ -123,7 +143,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Softer and slightly longer-keeping than a plain baguette thanks to the milk and butter."
+      "en": "Softer and slightly longer-keeping than a plain baguette thanks to the milk and butter.",
+      "de": "Weicher und etwas länger haltbar als eine einfache Baguette dank Milch und Butter.",
+      "es": "Más suave y ligeramente más duradero que una baguette simple gracias a la leche y la mantequilla.",
+      "fr": "Plus moelleux et légèrement plus longue conservation qu'une baguette ordinaire grâce au lait et au beurre.",
+      "ro": "Mai moale și cu o păstrare ușor mai lungă decât o baghetă simplă datorită laptelui și untului."
     }
   },
   "equipment": [

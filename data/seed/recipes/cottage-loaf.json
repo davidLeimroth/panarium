@@ -20,10 +20,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "England, nationwide"
+      "en": "England, nationwide",
+      "de": "England, landesweit",
+      "es": "Inglaterra, en todo el país",
+      "fr": "Angleterre, dans tout le pays",
+      "ro": "Anglia, la nivel național"
     },
     "note": {
-      "en": "A centuries-old bakery shape, once common enough that it gave its name to a whole class of round hearth loaves; now mostly kept alive by home bakers and specialty bakeries."
+      "en": "A centuries-old bakery shape, once common enough that it gave its name to a whole class of round hearth loaves; now mostly kept alive by home bakers and specialty bakeries.",
+      "de": "Eine jahrhundertealte Bäckereiform, einst so verbreitet, dass sie einer ganzen Klasse runder Steinofenlaibe ihren Namen gab; heute hauptsächlich von Hobbybäckern und Spezialbäckereien am Leben gehalten.",
+      "es": "Una forma de panadería centenaria, una vez tan común que dio nombre a toda una clase de hogazas redondas de hogar; ahora mantenida viva principalmente por panaderos caseros y panaderías especializadas.",
+      "fr": "Une forme de boulangerie séculaire, autrefois assez courante pour donner son nom à toute une classe de pains ronds de foyer; aujourd'hui principalement perpétuée par les boulangers amateurs et les boulangeries spécialisées.",
+      "ro": "O formă de panificație seculară, cândva suficient de comună încât și-a dat numele unei întregi clase de pâini rotunde de vatră; acum ținută în viață mai ales de brutarii casnici și brutăriile de specialitate."
     }
   },
   "leaven": "yeast",
@@ -46,7 +54,11 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "strong white bread flour"
+        "en": "strong white bread flour",
+        "de": "Weizenbrotmehl",
+        "es": "harina de pan blanca de fuerza",
+        "fr": "farine à pain blanche forte",
+        "ro": "făină albă de pâine, tare"
       }
     },
     {
@@ -57,7 +69,11 @@
       "key": "lard",
       "grams": 50,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "moale"
       }
     },
     {
@@ -73,7 +89,11 @@
     "count": 1,
     "pieceGrams": 780,
     "shape": {
-      "en": "two stacked balls, large cob topped by a smaller one"
+      "en": "two stacked balls, large cob topped by a smaller one",
+      "de": "zwei gestapelte Kugeln, großer Laib mit einem kleineren oben drauf",
+      "es": "dos bolas apiladas, hogaza grande coronada por una más pequeña",
+      "fr": "deux boules empilées, gros pain surmonté d'un plus petit",
+      "ro": "două bile stivuite, pâine mare cu una mai mică deasupra"
     }
   },
   "time": {
@@ -115,7 +135,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; the thick crust softens noticeably by day two."
+      "en": "Best the day it's baked; the thick crust softens noticeably by day two.",
+      "de": "Am besten am Backtag; die dicke Kruste wird bis zum zweiten Tag merklich weicher.",
+      "es": "Mejor el día de horneado; la corteza gruesa se ablanda notablemente para el segundo día.",
+      "fr": "Meilleur le jour de la cuisson; la croûte épaisse ramollit nettement au deuxième jour.",
+      "ro": "Cel mai bun în ziua coacerii; coaja groasă se înmoaie vizibil până în a doua zi."
     }
   },
   "equipment": [
@@ -225,7 +249,11 @@
     "author": "Paul Hollywood (recipe developer)",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Water given as a range across two additions; used the midpoint as a single hydration figure."
+      "en": "Water given as a range across two additions; used the midpoint as a single hydration figure.",
+      "de": "Wasser als Spanne über zwei Zugaben angegeben; der Mittelwert als einzelner Hydratationswert verwendet.",
+      "es": "Agua dada como un rango en dos adiciones; se usó el punto medio como cifra única de hidratación.",
+      "fr": "Eau donnée comme une fourchette sur deux ajouts; le point médian utilisé comme chiffre d'hydratation unique.",
+      "ro": "Apă dată ca interval peste două adaosuri; s-a folosit punctul median ca cifră unică de hidratare."
     }
   },
   "tags": [

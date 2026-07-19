@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national, especially Brittany and Paris"
+      "en": "national, especially Brittany and Paris",
+      "de": "landesweit, besonders in der Bretagne und Paris",
+      "es": "nacional, especialmente Bretaña y París",
+      "fr": "national, surtout la Bretagne et Paris",
+      "ro": "la nivel național, în special Bretania și Paris"
     },
     "note": {
-      "en": "The classic accompaniment to oysters in French brasseries; also one of the original breads of the Poilâne bakery since 1932."
+      "en": "The classic accompaniment to oysters in French brasseries; also one of the original breads of the Poilâne bakery since 1932.",
+      "de": "Die klassische Begleitung zu Austern in französischen Brasseries; auch eines der ursprünglichen Brote der Bäckerei Poilâne seit 1932.",
+      "es": "El acompañamiento clásico de las ostras en las brasseries francesas; también uno de los panes originales de la panadería Poilâne desde 1932.",
+      "fr": "L'accompagnement classique des huîtres dans les brasseries françaises; également l'un des pains originels de la boulangerie Poilâne depuis 1932.",
+      "ro": "Acompaniamentul clasic pentru stridii în braseriile franceze; de asemenea, una dintre pâinile originale ale brutăriei Poilâne din 1932."
     }
   },
   "leaven": "sourdough",
@@ -46,7 +54,11 @@
       "key": "flour:rye",
       "grams": 360,
       "note": {
-        "en": "T130, split between the levain refresh and the final dough"
+        "en": "T130, split between the levain refresh and the final dough",
+        "de": "T130, aufgeteilt zwischen Levain-Auffrischung und Hauptteig",
+        "es": "T130, repartido entre el refresco del levain y la masa final",
+        "fr": "T130, réparti entre le rafraîchi du levain et la pâte finale",
+        "ro": "T130, împărțit între reîmprospătarea levainului și aluatul final"
       }
     },
     {
@@ -57,7 +69,11 @@
       "key": "sourdough-starter",
       "grams": 100,
       "note": {
-        "en": "active rye levain mother"
+        "en": "active rye levain mother",
+        "de": "aktiver Roggen-Levain-Mutter",
+        "es": "levain madre de centeno activo",
+        "fr": "levain mère de seigle actif",
+        "ro": "levain mamă de secară activ"
       }
     },
     {
@@ -69,7 +85,11 @@
     "count": 1,
     "pieceGrams": 650,
     "shape": {
-      "en": "molded rye loaf"
+      "en": "molded rye loaf",
+      "de": "geformter Roggenlaib",
+      "es": "hogaza de centeno moldeada",
+      "fr": "pain de seigle moulé",
+      "ro": "pâine de secară modelată"
     }
   },
   "time": {
@@ -110,7 +130,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Rye's natural acidity and density make it a strong keeper; slice thin as it ages."
+      "en": "Rye's natural acidity and density make it a strong keeper; slice thin as it ages.",
+      "de": "Die natürliche Säure und Dichte des Roggens machen es sehr haltbar; dünn schneiden, wenn es älter wird.",
+      "es": "La acidez y densidad naturales del centeno lo hacen muy duradero; cortar fino a medida que envejece.",
+      "fr": "L'acidité et la densité naturelles du seigle le rendent très conservable; trancher fin en vieillissant.",
+      "ro": "Aciditatea și densitatea naturale ale secarei îl fac foarte păstrăbil; taie-l subțire pe măsură ce îmbătrânește."
     }
   },
   "equipment": [
@@ -219,7 +243,11 @@
     "site": "Culture Levain",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Mother levain's own flour/water content estimated and folded into total baker's percentages; resulting hydration is high, typical of pure-rye doughs."
+      "en": "Mother levain's own flour/water content estimated and folded into total baker's percentages; resulting hydration is high, typical of pure-rye doughs.",
+      "de": "Mehl-/Wasseranteil des Mutterlevains geschätzt und in die gesamten Bäckerprozente eingerechnet; die resultierende Hydration ist hoch, typisch für reine Roggenteige.",
+      "es": "Contenido de harina/agua del levain madre estimado e integrado en los porcentajes totales del panadero; la hidratación resultante es alta, típica de masas de centeno puro.",
+      "fr": "Teneur en farine/eau du levain mère estimée et intégrée dans les pourcentages totaux du boulanger; l'hydratation résultante est élevée, typique des pâtes de seigle pur.",
+      "ro": "Conținutul de făină/apă al levainului mamă estimat și integrat în procentele totale de panificație; hidratarea rezultată este ridicată, tipică aluaturilor de secară pură."
     }
   },
   "tags": [

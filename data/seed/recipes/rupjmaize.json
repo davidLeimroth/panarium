@@ -22,10 +22,18 @@
   "origin": {
     "country": "LV",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Rye has been grown and eaten daily in Latvia for over 1,200 years; historically baked in wood-fired hearth ovens."
+      "en": "Rye has been grown and eaten daily in Latvia for over 1,200 years; historically baked in wood-fired hearth ovens.",
+      "de": "Roggen wird in Lettland seit über 1.200 Jahren angebaut und täglich gegessen; historisch in holzbeheizten Steinöfen gebacken.",
+      "es": "El centeno se ha cultivado y consumido a diario en Letonia durante más de 1200 años; históricamente horneado en hornos de leña.",
+      "fr": "Le seigle est cultivé et consommé quotidiennement en Lettonie depuis plus de 1200 ans; historiquement cuit dans des fours à bois.",
+      "ro": "Secara este cultivată și consumată zilnic în Letonia de peste 1200 de ani; coptă istoric în cuptoare cu lemne."
     }
   },
   "leaven": "sourdough",
@@ -52,14 +60,22 @@
       "key": "flour:rye-whole",
       "grams": 795,
       "note": {
-        "en": "700g coarse rye meal plus 95g fine whole rye flour used in the sour"
+        "en": "700g coarse rye meal plus 95g fine whole rye flour used in the sour",
+        "de": "700 g grobes Roggenschrot plus 95 g feines Roggenvollkornmehl für den Sauerteig",
+        "es": "700 g de granillo grueso de centeno más 95 g de harina integral fina de centeno usada en la masa madre",
+        "fr": "700 g de semoule de seigle grossière plus 95 g de farine complète fine de seigle utilisée dans le levain",
+        "ro": "700 g măcinătură grosieră de secară plus 95 g făină integrală fină de secară folosită în maia"
       }
     },
     {
       "key": "flour:rye",
       "grams": 300,
       "note": {
-        "en": "medium rye meal"
+        "en": "medium rye meal",
+        "de": "mittelfeines Roggenschrot",
+        "es": "granillo de centeno mediano",
+        "fr": "semoule de seigle moyenne",
+        "ro": "măcinătură medie de secară"
       }
     },
     {
@@ -70,7 +86,11 @@
       "key": "sourdough-starter",
       "grams": 10,
       "note": {
-        "en": "active rye sour"
+        "en": "active rye sour",
+        "de": "aktiver Roggensauerteig",
+        "es": "masa madre activa de centeno",
+        "fr": "levain de seigle actif",
+        "ro": "maia activă de secară"
       }
     },
     {
@@ -90,7 +110,11 @@
     "count": 1,
     "pieceGrams": 1800,
     "shape": {
-      "en": "long oblong hearth loaf, about 15cm x 35-40cm"
+      "en": "long oblong hearth loaf, about 15cm x 35-40cm",
+      "de": "länglicher Ofenlaib, etwa 15 cm × 35–40 cm",
+      "es": "hogaza alargada de hogar, de unos 15 cm × 35–40 cm",
+      "fr": "pain de ménage oblong, environ 15 cm × 35–40 cm",
+      "ro": "pâine de vatră lungă alungită, aproximativ 15 cm × 35–40 cm"
     }
   },
   "time": {
@@ -132,7 +156,11 @@
     "freshDays": 8,
     "freezes": true,
     "note": {
-      "en": "Rest 24-48 hours before the first slice; the dense crumb needs the time to set."
+      "en": "Rest 24-48 hours before the first slice; the dense crumb needs the time to set.",
+      "de": "24–48 Stunden ruhen lassen vor dem ersten Schnitt; die dichte Krume braucht die Zeit zum Festigen.",
+      "es": "Reposar 24–48 horas antes de la primera rebanada; la miga densa necesita el tiempo para asentarse.",
+      "fr": "Laisser reposer 24 à 48 heures avant la première tranche; la mie dense a besoin de ce temps pour se stabiliser.",
+      "ro": "Lasă 24–48 de ore înainte de prima felie; miezul dens are nevoie de timp să se așeze."
     }
   },
   "equipment": [
@@ -242,7 +270,11 @@
     "author": "Stanley Ginsberg",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Medium rye meal classified under the taxonomy's 'rye' (light/medium) type per grind, distinct from the coarse and whole components classified as 'rye-whole'."
+      "en": "Medium rye meal classified under the taxonomy's 'rye' (light/medium) type per grind, distinct from the coarse and whole components classified as 'rye-whole'.",
+      "de": "Mittelfeines Roggenschrot gemäß der Taxonomie als 'Roggen' (hell/mittel) nach Mahlgrad eingestuft, abweichend von den groben und ganzen Bestandteilen, die als 'Roggen-voll' klassifiziert sind.",
+      "es": "Granillo de centeno mediano clasificado según la taxonomía como tipo 'centeno' (ligero/medio) por molienda, distinto de los componentes gruesos e integrales clasificados como 'centeno-integral'.",
+      "fr": "Semoule de seigle moyenne classée sous le type 'seigle' (léger/moyen) de la taxonomie selon la mouture, distincte des composants grossiers et complets classés comme 'seigle-complet'.",
+      "ro": "Măcinătură medie de secară clasificată conform taxonomiei ca tip 'secară' (ușoară/medie) după măcinare, distinctă de componentele grosiere și integrale clasificate ca 'secară-integrală'."
     }
   },
   "tags": [

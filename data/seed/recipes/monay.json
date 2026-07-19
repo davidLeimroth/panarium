@@ -21,10 +21,18 @@
   "origin": {
     "country": "PH",
     "region": {
-      "en": "nationwide panaderia bread"
+      "en": "nationwide panaderia bread",
+      "de": "landesweites Panaderia-Brot",
+      "es": "pan de panaderia en todo el pais",
+      "fr": "pain de panaderia dans tout le pays",
+      "ro": "paine de panaderia la nivel national"
     },
     "note": {
-      "en": "Adapted from Spanish pan de monja during the colonial era; now a everyday panaderia staple alongside pandesal."
+      "en": "Adapted from Spanish pan de monja during the colonial era; now a everyday panaderia staple alongside pandesal.",
+      "de": "Abgeleitet vom spanischen pan de monja wahrend der Kolonialzeit; heute ein alltaglicher Panaderia-Grundbestandteil neben Pandesal.",
+      "es": "Adaptado del espanol pan de monja durante la epoca colonial; ahora un basico cotidiano de las panaderias junto al pandesal.",
+      "fr": "Adapte de l'espagnol pan de monja pendant l'ere coloniale; desormais un incontournable des panaderias aux cotes du pandesal.",
+      "ro": "Adaptat din spaniolul pan de monja in perioada coloniala; acum un aliment de baza zilnic de panaderia alaturi de pandesal."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "milk",
       "grams": 60,
       "note": {
-        "en": "dry milk powder; not counted toward hydration"
+        "en": "dry milk powder; not counted toward hydration",
+        "de": "Trockenmilchpulver; nicht zur Hydratation gezahlt",
+        "es": "leche en polvo; no contabilizada en la hidratacion",
+        "fr": "lait en poudre; non compte dans l'hydratation",
+        "ro": "lapte praf; nu se numara la hidratare"
       }
     },
     {
@@ -67,7 +79,11 @@
       "key": "water",
       "grams": 210,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiede",
+        "ro": "calduta"
       }
     },
     {
@@ -82,14 +98,22 @@
       "key": "egg",
       "grams": 45,
       "note": {
-        "en": "1 medium egg"
+        "en": "1 medium egg",
+        "de": "1 mittleres Ei",
+        "es": "1 huevo mediano",
+        "fr": "1 uf moyen",
+        "ro": "1 ou mediu"
       }
     },
     {
       "key": "milk",
       "grams": 30,
       "note": {
-        "en": "for brushing after baking"
+        "en": "for brushing after baking",
+        "de": "zum Bestreichen nach dem Backen",
+        "es": "para untar despues de hornear",
+        "fr": "pour badigeonner apres cuisson",
+        "ro": "pentru uns dupa coacere"
       }
     }
   ],
@@ -97,7 +121,11 @@
     "count": 8,
     "pieceGrams": 131,
     "shape": {
-      "en": "twin-lobed oval roll with a center scored crease, ~10 cm"
+      "en": "twin-lobed oval roll with a center scored crease, ~10 cm",
+      "de": "ovales Brotchen mit zwei Lappen und mittigem Einschnitt, ~10 cm",
+      "es": "bollo ovalado de dos lobulos con una hendidura marcada en el centro, ~10 cm",
+      "fr": "petit pain ovale a deux lobes avec une entaille centrale, ~10 cm",
+      "ro": "chifla ovala cu doi lobi si o creasta crestata in centru, ~10 cm"
     }
   },
   "time": {
@@ -138,7 +166,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh and slightly warm, straight from a panaderia; freezes and reheats well wrapped in foil."
+      "en": "Best fresh and slightly warm, straight from a panaderia; freezes and reheats well wrapped in foil.",
+      "de": "Am besten frisch und leicht warm, direkt aus einer Panaderia; lasst sich gut in Folie eingewickelt einfrieren und aufwarmen.",
+      "es": "Mejor fresco y ligeramente tibio, directamente de una panaderia; se congela y recalienta bien envuelto en papel aluminio.",
+      "fr": "Meilleur frais et legerement tiede, directement d'une panaderia; se congele et se rechauffe bien enveloppe dans du papier aluminium.",
+      "ro": "Cel mai bun proaspat si usor caldut, direct de la o panaderia; se congeleaza si se reincalzeste bine invelit in folie."
     }
   },
   "equipment": [
@@ -187,10 +219,10 @@
       },
       "summary": {
         "en": "Shape into a ball and settle it into a buttered bowl, then cover and let it rise about 1 hour in a warm spot until doubled.",
-        "de": "Zu einer Kugel formen, in eine gefettete Schüssel legen, abdecken und an einem warmen Ort etwa 1 Stunde gehen lassen, bis sich der Teig verdoppelt hat.",
-        "es": "Formar una bola, colocarla en un bol engrasado, tapar y dejar fermentar en un lugar cálido 1 hora, hasta que doble su volumen.",
-        "fr": "Façonner en boule, placer dans un saladier graissé, couvrir, et laisser pousser environ 1 heure dans un endroit chaud jusqu'à ce que la pâte double.",
-        "ro": "Modelează o bilă, pune-o într-un bol uns cu grăsime, acoperă și lasă la crescut circa 1 oră într-un loc călduț, până se dublează."
+        "de": "Zu einer Kugel formen, in eine gebutterte Schüssel legen, abdecken und an einem warmen Ort etwa 1 Stunde gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Formar una bola y colocarla en un cuenco enmantecado, tapar y dejar levar aproximadamente 1 hora en un lugar cálido hasta que doble su volumen.",
+        "fr": "Façonner une boule et la déposer dans un bol beurré, couvrir et laisser lever environ 1 heure dans un endroit chaud jusqu'à doubler de volume.",
+        "ro": "Modelează o bilă și pune-o într-un bol uns cu unt, acoperă și lasă la crescut aproximativ 1 oră într-un loc călduț până se dublează."
       }
     },
     {
@@ -263,7 +295,11 @@
     "site": "Foxy Folksy",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Water increased slightly from the source's 3/4 cup for a workable dough, matching its own 'adjust as needed' note; salt increased slightly from the source for balance."
+      "en": "Water increased slightly from the source's 3/4 cup for a workable dough, matching its own 'adjust as needed' note; salt increased slightly from the source for balance.",
+      "de": "Wasser leicht erhoht gegenuber den 3/4 Tassen der Quelle fur einen geschmeidigen Teig, entsprechend der eigenen 'bei Bedarf anpassen'-Anmerkung; Salz leicht erhoht gegenuber der Quelle fur die Balance.",
+      "es": "Agua ligeramente aumentada de los 3/4 de taza de la fuente para una masa manejable, siguiendo su propia nota de 'ajustar segun sea necesario'; sal ligeramente aumentada de la fuente para equilibrar.",
+      "fr": "Eau legerement augmentee par rapport aux 3/4 de tasse de la source pour une pate maniable, suivant sa propre note 'ajuster au besoin'; sel legerement augmente par rapport a la source pour l'equilibre.",
+      "ro": "Apa usor crescuta fata de 3/4 de cana din sursa pentru un aluat lucrabil, conform propriei note 'ajustati dupa necesitate'; sare usor crescuta fata de sursa pentru echilibru."
     }
   },
   "tags": [

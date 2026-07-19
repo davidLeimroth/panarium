@@ -22,10 +22,18 @@
   "origin": {
     "country": "NO",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Historically made with a mix of flours; became almost purely potato-based among Norwegian-American immigrant communities."
+      "en": "Historically made with a mix of flours; became almost purely potato-based among Norwegian-American immigrant communities.",
+      "de": "Historisch aus einer Mehlmischung hergestellt; wurde unter norwegisch-amerikanischen Einwanderergemeinschaften fast rein kartoffelbasiert.",
+      "es": "Históricamente hecho con una mezcla de harinas; se volvió casi puramente a base de papa entre las comunidades inmigrantes noruego-estadounidenses.",
+      "fr": "Historiquement fait avec un mélange de farines; est devenu presque exclusivement à base de pomme de terre dans les communautés immigrées norvégiano-américaines.",
+      "ro": "Făcut istoric dintr-un amestec de făinuri; a devenit aproape exclusiv pe bază de cartofi în comunitățile de imigranți norvegiano-americani."
     }
   },
   "leaven": "none",
@@ -52,7 +60,11 @@
       "key": "mashed-potato",
       "grams": 269,
       "note": {
-        "en": "riced, still warm"
+        "en": "riced, still warm",
+        "de": "durch die Kartoffelpresse gedrückt, noch warm",
+        "es": "hecho puré, aún caliente",
+        "fr": "réduit en purée, encore chaud",
+        "ro": "pasat prin presa de cartofi, încă cald"
       }
     },
     {
@@ -63,14 +75,22 @@
       "key": "butter",
       "grams": 28,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "înmuiat"
       }
     },
     {
       "key": "milk",
       "grams": 28,
       "note": {
-        "en": "or heavy cream"
+        "en": "or heavy cream",
+        "de": "oder Schlagsahne",
+        "es": "o crema espesa",
+        "fr": "ou crème épaisse",
+        "ro": "sau smântână dulce"
       }
     },
     {
@@ -86,7 +106,11 @@
     "count": 12,
     "pieceGrams": 30,
     "shape": {
-      "en": "6-inch thin round"
+      "en": "6-inch thin round",
+      "de": "dünner runder Fladen von 15 cm",
+      "es": "disco fino de 15 cm",
+      "fr": "disque fin de 15 cm",
+      "ro": "disc subțire de 15 cm"
     }
   },
   "time": {
@@ -126,7 +150,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Stack between parchment; refrigerates and freezes well ahead of the holidays."
+      "en": "Stack between parchment; refrigerates and freezes well ahead of the holidays.",
+      "de": "Zwischen Backpapier stapeln; hält sich gut im Kühlschrank und lässt sich gut vor den Feiertagen einfrieren.",
+      "es": "Apilar entre papel de horno; se conserva bien en el refrigerador y se congela bien antes de las fiestas.",
+      "fr": "Empiler entre du papier sulfurisé; se conserve bien au réfrigérateur et se congèle bien avant les fêtes.",
+      "ro": "Stivuiește între hârtie de copt; se păstrează bine la frigider și se congèlează bine înainte de sărbători."
     }
   },
   "equipment": [
@@ -251,7 +279,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Potato counted as the primary flour component per baker's-percentage convention; hydration reflects only added milk/cream, not the potato's own moisture."
+      "en": "Potato counted as the primary flour component per baker's-percentage convention; hydration reflects only added milk/cream, not the potato's own moisture.",
+      "de": "Kartoffel als primäre Mehlkomponente nach Bäckerprozent-Regel gezählt; Hydration bezieht sich nur auf die zugegebene Milch/Sahne, nicht auf die eigene Feuchtigkeit der Kartoffel.",
+      "es": "La papa contada como componente principal de harina según la convención de porcentaje de panadero; la hidratación refleja solo la leche/crema añadida, no la humedad propia de la papa.",
+      "fr": "La pomme de terre comptée comme composant principal de farine selon la convention des pourcentages du boulanger; l'hydratation ne reflète que le lait/crème ajouté(e), pas l'humidité de la pomme de terre.",
+      "ro": "Cartoful numărat ca component principal de făină conform convenției procentelor de brutar; hidratarea reflectă doar laptele/crema adăugată, nu umiditatea proprie a cartofului."
     }
   },
   "tags": [

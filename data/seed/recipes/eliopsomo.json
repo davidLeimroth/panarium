@@ -18,10 +18,18 @@
   "origin": {
     "country": "GR",
     "region": {
-      "en": "Greece-wide"
+      "en": "Greece-wide",
+      "de": "Griechenlandweit",
+      "es": "En toda Grecia",
+      "fr": "Partout en Grèce",
+      "ro": "În toată Grecia"
     },
     "note": {
-      "en": "Chopped olives season the crumb from within; feta, tomatoes and olive oil are its classic table companions."
+      "en": "Chopped olives season the crumb from within; feta, tomatoes and olive oil are its classic table companions.",
+      "de": "Gehackte Oliven würzen die Krume von innen; Feta, Tomaten und Olivenöl sind seine klassischen Tischbegleiter.",
+      "es": "Aceitunas picadas sazonan la miga desde dentro; feta, tomates y aceite de oliva son sus acompañantes clásicos en la mesa.",
+      "fr": "Des olives hachées assaisonnent la mie de l'intérieur; feta, tomates et huile d'olive sont ses compagnons de table classiques.",
+      "ro": "Măslinele tocate condimentează miezul din interior; feta, roșiile și uleiul de măsline sunt companionii săi clasici la masă."
     }
   },
   "leaven": "yeast",
@@ -68,14 +76,22 @@
       "key": "sesame-seeds",
       "grams": 10,
       "note": {
-        "en": "optional, for topping"
+        "en": "optional, for topping",
+        "de": "optional, zum Bestreuen",
+        "es": "opcional, para cubrir",
+        "fr": "facultatif, pour la garniture",
+        "ro": "opțional, pentru decor"
       }
     },
     {
       "key": "olive-oil",
       "grams": 10,
       "note": {
-        "en": "for oiling the rising bowl"
+        "en": "for oiling the rising bowl",
+        "de": "zum Einfetten der Gehschüssel",
+        "es": "para engrasar el bol de levado",
+        "fr": "pour huiler le bol de levée",
+        "ro": "pentru ungerea bolului de creștere"
       }
     }
   ],
@@ -83,7 +99,11 @@
     "count": 1,
     "pieceGrams": 939,
     "shape": {
-      "en": "round loaf, baked in a covered pot"
+      "en": "round loaf, baked in a covered pot",
+      "de": "runder Laib, in einem gedeckten Topf gebacken",
+      "es": "hogaza redonda, horneada en una olla tapada",
+      "fr": "pain rond, cuit dans un pot couvert",
+      "ro": "pâine rotundă, coaptă într-o oală acoperită"
     }
   },
   "time": {
@@ -124,7 +144,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Good for a few days; the olives keep the crumb from drying out as fast as a plain loaf."
+      "en": "Good for a few days; the olives keep the crumb from drying out as fast as a plain loaf.",
+      "de": "Hält sich einige Tage; die Oliven verhindern, dass die Krume so schnell austrocknet wie bei einem einfachen Laib.",
+      "es": "Buena durante unos días; las aceitunas evitan que la miga se seque tan rápido como un pan simple.",
+      "fr": "Bon pendant quelques jours; les olives empêchent la mie de sécher aussi vite qu'un pain nature.",
+      "ro": "Bună câteva zile; măslinele împiedică miezul să se usuce la fel de repede ca o pâine simplă."
     }
   },
   "equipment": [
@@ -234,7 +258,11 @@
     "site": "Argiro.gr",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Flour classified as whole wheat, one of the two options the source offers; olive quantity converted from a half-cup measure."
+      "en": "Flour classified as whole wheat, one of the two options the source offers; olive quantity converted from a half-cup measure.",
+      "de": "Mehl als Vollkornweizen klassifiziert, eine der beiden Optionen der Quelle; Olivenmenge aus einem halben Cup umgerechnet.",
+      "es": "Harina clasificada como integral, una de las dos opciones que ofrece la fuente; cantidad de aceitunas convertida de media taza.",
+      "fr": "Farine classée comme blé complet, l'une des deux options offertes par la source; quantité d'olives convertie à partir d'une demi-tasse.",
+      "ro": "Făina clasificată ca grâu integral, una dintre cele două opțiuni oferite de sursă; cantitatea de măsline convertită dintr-o jumătate de cană."
     }
   },
   "tags": [

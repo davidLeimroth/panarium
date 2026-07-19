@@ -18,10 +18,18 @@
   "origin": {
     "country": "PT",
     "region": {
-      "en": "Northern Portugal (Minho, Trás-os-Montes)"
+      "en": "Northern Portugal (Minho, Trás-os-Montes)",
+      "de": "Nordportugal (Minho, Trás-os-Montes)",
+      "es": "Norte de Portugal (Miño, Trás-os-Montes)",
+      "fr": "Nord du Portugal (Minho, Trás-os-Montes)",
+      "ro": "Nordul Portugaliei (Minho, Trás-os-Montes)"
     },
     "note": {
-      "en": "The boiling-water scald over the cornmeal gelatinizes its starch, the technique behind broa's moist, long-keeping crumb."
+      "en": "The boiling-water scald over the cornmeal gelatinizes its starch, the technique behind broa's moist, long-keeping crumb.",
+      "de": "Der kochende Wasserüberguss über den Maismehl gelatinisiert dessen Stärke, die Technik hinter Broas feuchter, langlebiger Krume.",
+      "es": "El escaldado con agua hirviendo sobre la harina de maíz gelatiniza su almidón, la técnica detrás de la miga húmeda y de larga duración de la broa.",
+      "fr": "L'échaudage à l'eau bouillante sur la farine de maïs gélatinise son amidon, la technique derrière la mie humide et longue conservation de la broa.",
+      "ro": "Opărirea cu apă clocotită a mălaiului gelifiază amidonul, tehnica din spatele miezului umed și de lungă durată al broa."
     }
   },
   "leaven": "hybrid",
@@ -51,42 +59,66 @@
       "key": "flour:wheat-white",
       "grams": 75,
       "note": {
-        "en": "flour share of the 120 g starter (massa velha) used; make a full batch and reserve the rest"
+        "en": "flour share of the 120 g starter (massa velha) used; make a full batch and reserve the rest",
+        "de": "Mehlanteil der verwendeten 120 g Starter (Massa Velha); eine volle Portion ansetzen und den Rest aufbewahren",
+        "es": "parte de harina de los 120 g de inicio (massa velha) utilizados; hacer un lote completo y reservar el resto",
+        "fr": "part de farine du starter (massa velha) de 120 g utilisé; faire une fournée complète et réserver le reste",
+        "ro": "partea de făină a celor 120 g de maia (massa velha) folosită; fă un lot complet și păstrează restul"
       }
     },
     {
       "key": "water",
       "grams": 45,
       "note": {
-        "en": "water portion of the 120 g starter used"
+        "en": "water portion of the 120 g starter used",
+        "de": "Wasseranteil der verwendeten 120 g Starter",
+        "es": "parte de agua de los 120 g de inicio utilizados",
+        "fr": "part d'eau du starter de 120 g utilisé",
+        "ro": "partea de apă a celor 120 g de maia folosită"
       }
     },
     {
       "key": "flour:corn",
       "grams": 280,
       "note": {
-        "en": "white cornmeal"
+        "en": "white cornmeal",
+        "de": "weißer Maismehl",
+        "es": "harina de maíz blanca",
+        "fr": "farine de maïs blanche",
+        "ro": "mălai alb"
       }
     },
     {
       "key": "flour:rye",
       "grams": 130,
       "note": {
-        "en": "sifted rye flour"
+        "en": "sifted rye flour",
+        "de": "gesiebtes Roggenmehl",
+        "es": "harina de centeno tamizada",
+        "fr": "farine de seigle tamisée",
+        "ro": "făină de secară cernută"
       }
     },
     {
       "key": "water",
       "grams": 200,
       "note": {
-        "en": "boiling, for scalding the cornmeal"
+        "en": "boiling, for scalding the cornmeal",
+        "de": "kochend, zum Überbrühen des Maismehls",
+        "es": "hirviendo, para escaldar la harina de maíz",
+        "fr": "bouillante, pour échauder la farine de maïs",
+        "ro": "clocotită, pentru opărirea mălaiului"
       }
     },
     {
       "key": "water",
       "grams": 70,
       "note": {
-        "en": "tepid, added when mixing the final dough"
+        "en": "tepid, added when mixing the final dough",
+        "de": "lauwarm, beim Mischen des Hauptteigs zugegeben",
+        "es": "tibia, añadida al mezclar la masa final",
+        "fr": "tiède, ajoutée lors du mélange de la pâte finale",
+        "ro": "călduță, adăugată la amestecarea aluatului final"
       }
     },
     {
@@ -97,7 +129,11 @@
       "key": "instant-yeast",
       "grams": 9,
       "note": {
-        "en": "optional; the starter alone can leaven it given enough time"
+        "en": "optional; the starter alone can leaven it given enough time",
+        "de": "optional; der Starter allein kann es bei ausreichend Zeit treiben lassen",
+        "es": "opcional; el inicio solo puede leudarlo con suficiente tiempo",
+        "fr": "facultatif; le levain seul peut le faire lever avec suffisamment de temps",
+        "ro": "opțional; maiaua singură îl poate dospi cu suficient timp"
       }
     }
   ],
@@ -105,7 +141,11 @@
     "count": 1,
     "pieceGrams": 817,
     "shape": {
-      "en": "round, dense hearth loaf"
+      "en": "round, dense hearth loaf",
+      "de": "runder, dichter Herdlaib",
+      "es": "pan de hogaza redondo y denso",
+      "fr": "pain de foyer rond et dense",
+      "ro": "pâine rotundă și densă de vatră"
     }
   },
   "time": {
@@ -145,7 +185,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "The scalded cornmeal locks in moisture, which is why broa famously stays soft and edible far longer than a wheat loaf, traditionally baked in big batches to last the week."
+      "en": "The scalded cornmeal locks in moisture, which is why broa famously stays soft and edible far longer than a wheat loaf, traditionally baked in big batches to last the week.",
+      "de": "Der überbrühte Maismehl bindet die Feuchtigkeit, weshalb Broa bekanntermaßen viel länger weich und genießbar bleibt als ein Weizenbrot, traditionell in großen Mengen gebacken, um die Woche zu überdauern.",
+      "es": "La harina de maíz escaldada retiene la humedad, por lo que la broa se mantiene famosamente blanda y comestible mucho más tiempo que un pan de trigo, tradicionalmente horneado en grandes lotes para durar la semana.",
+      "fr": "La farine de maïs échaudée retient l'humidité, c'est pourquoi la broa reste célèbrement molle et comestible bien plus longtemps qu'un pain de blé, traditionnellement cuite en grosses fournées pour durer la semaine.",
+      "ro": "Mălaiul opărit blochează umezeala, motiv pentru care broa rămâne în mod renumit moale și comestibilă mult mai mult decât o pâine de grâu, coaptă tradițional în cantități mari pentru a ține toată săptămâna."
     }
   },
   "equipment": [
@@ -238,7 +282,11 @@
     "site": "Zine de Pão",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "The starter's flour/water is scaled to the 120 g portion actually used in the final dough; make a full starter batch and reserve the remainder for your next bake, per tradition."
+      "en": "The starter's flour/water is scaled to the 120 g portion actually used in the final dough; make a full starter batch and reserve the remainder for your next bake, per tradition.",
+      "de": "Mehl/Wasser des Starters sind auf die tatsächlich im Hauptteig verwendeten 120 g skaliert; eine volle Starterportion ansetzen und den Rest für den nächsten Backtag aufbewahren, wie es der Tradition entspricht.",
+      "es": "La harina/agua del inicio se escala a la porción de 120 g realmente utilizada en la masa final; hacer un lote completo de inicio y reservar el resto para su próxima hornada, según la tradición.",
+      "fr": "La farine/eau du levain est ajustée à la portion de 120 g effectivement utilisée dans la pâte finale; faire une fournée complète de levain et réserver le reste pour la prochaine cuisson, selon la tradition.",
+      "ro": "Făina/apa maielei este scalată la porțiunea de 120 g efectiv folosită în aluatul final; fă un lot complet de maia și păstrează restul pentru următoarea coacere, conform tradiției."
     }
   },
   "tags": [

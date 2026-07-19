@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Bordeaux / Gascony (Sud-Ouest)"
+      "en": "Bordeaux / Gascony (Sud-Ouest)",
+      "de": "Bordeaux / Gascogne (Südwesten)",
+      "es": "Burdeos / Gascuña (Suroeste)",
+      "fr": "Bordeaux / Gascogne (Sud-Ouest)",
+      "ro": "Bordeaux / Gasconia (Sud-Vest)"
     },
     "note": {
-      "en": "Traditionally shaped from 8 or 9 balls with a small rosette on top; made with only 6 balls, the same shape is called a couronne gasconne."
+      "en": "Traditionally shaped from 8 or 9 balls with a small rosette on top; made with only 6 balls, the same shape is called a couronne gasconne.",
+      "de": "Traditionell aus 8 oder 9 Kugeln mit einer kleinen Rosette oben geformt; mit nur 6 Kugeln heißt die gleiche Form couronne gasconne.",
+      "es": "Tradicionalmente formada con 8 o 9 bolas con una pequeña roseta encima; hecha con solo 6 bolas, la misma forma se llama couronne gasconne.",
+      "fr": "Traditionnellement façonnée à partir de 8 ou 9 boules avec une petite rosace sur le dessus; réalisée avec seulement 6 boules, la même forme s'appelle une couronne gasconne.",
+      "ro": "Tradițional, se modelează din 8 sau 9 bile cu o mică rozetă deasupra; făcută cu doar 6 bile, aceeași formă se numește couronne gasconne."
     }
   },
   "leaven": "hybrid",
@@ -50,14 +58,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "T65"
+        "en": "T65",
+        "de": "T65",
+        "es": "T65",
+        "fr": "T65",
+        "ro": "T65"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 100,
       "note": {
-        "en": "T110"
+        "en": "T110",
+        "de": "T110",
+        "es": "T110",
+        "fr": "T110",
+        "ro": "T110"
       }
     },
     {
@@ -81,7 +97,11 @@
     "count": 1,
     "pieceGrams": 1000,
     "shape": {
-      "en": "crown of 9 balls plus centre"
+      "en": "crown of 9 balls plus centre",
+      "de": "Kranz aus 9 Kugeln mit Mitte",
+      "es": "corona de 9 bolas más centro",
+      "fr": "couronne de 9 boules plus le centre",
+      "ro": "coroană din 9 bile plus centru"
     }
   },
   "time": {
@@ -229,7 +249,11 @@
     "site": "Croquant Fondant Gourmand",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Levain's own flour/water content estimated (assumed 100%-hydration liquid levain) and folded into total baker's percentages."
+      "en": "Levain's own flour/water content estimated (assumed 100%-hydration liquid levain) and folded into total baker's percentages.",
+      "de": "Eigener Mehl-/Wasseranteil des Levains geschätzt (als 100 % Hydratation angenommen) und in die Gesamtbäckerprozente eingerechnet.",
+      "es": "Contenido de harina/agua del levain estimado (asumido como levain líquido al 100 % de hidratación) e incorporado en los porcentajes totales del panadero.",
+      "fr": "Teneur en farine/eau du levain estimée (supposé levain liquide à 100 % d'hydratation) et intégrée aux pourcentages totaux du boulanger.",
+      "ro": "Conținutul de făină/apă al levain-ului estimat (presupus levain lichid la 100 % hidratare) și inclus în procentele totale de panificație."
     }
   },
   "tags": [

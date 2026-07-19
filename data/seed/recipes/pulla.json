@@ -23,10 +23,18 @@
   "origin": {
     "country": "FI",
     "region": {
-      "en": "Finland-wide"
+      "en": "Finland-wide",
+      "de": "Finnlandweit",
+      "es": "En toda Finlandia",
+      "fr": "Dans toute la Finlande",
+      "ro": "În toată Finlanda"
     },
     "note": {
-      "en": "Also called nisu, an older term still used in Finnish-American and Finnish-Canadian communities. Cardamom reached Finland via Viking-era trade routes through Constantinople, becoming the country's signature sweet-bread spice."
+      "en": "Also called nisu, an older term still used in Finnish-American and Finnish-Canadian communities. Cardamom reached Finland via Viking-era trade routes through Constantinople, becoming the country's signature sweet-bread spice.",
+      "de": "Auch Nisu genannt, ein älterer Begriff, der in finnisch-amerikanischen und finnisch-kanadischen Gemeinschaften noch verwendet wird. Kardamom erreichte Finnland über Wikingerzeit-Handelswege durch Konstantinopel und wurde zum charakteristischen Süßbrotgewürz des Landes.",
+      "es": "También llamada nisu, un término más antiguo aún usado en comunidades finlandesas-estadounidenses y finlandesas-canadienses. El cardamomo llegó a Finlandia a través de rutas comerciales de la era vikinga por Constantinopla, convirtiéndose en la especia emblemática de los panes dulces del país.",
+      "fr": "Aussi appelé nisu, un terme plus ancien encore utilisé dans les communautés finno-américaines et finno-canadiennes. La cardamome est arrivée en Finlande par les routes commerciales de l'époque viking via Constantinople, devenant l'épice signature des pains sucrés du pays.",
+      "ro": "Numită și nisu, un termen mai vechi încă folosit în comunitățile finlandezo-americane și finlandezo-canadiene. Cardamomul a ajuns în Finlanda pe rutele comerciale din epoca vikingă prin Constantinopol, devenind condimentul emblematic al pâinii dulci a țării."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "milk",
       "grams": 480,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -65,14 +77,22 @@
       "key": "egg",
       "grams": 200,
       "note": {
-        "en": "4 eggs"
+        "en": "4 eggs",
+        "de": "4 Eier",
+        "es": "4 huevos",
+        "fr": "4 œufs",
+        "ro": "4 ouă"
       }
     },
     {
       "key": "butter",
       "grams": 226,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "înmuiat"
       }
     },
     {
@@ -83,7 +103,11 @@
       "key": "cardamom",
       "grams": 6,
       "note": {
-        "en": "freshly ground from whole pods for best aroma"
+        "en": "freshly ground from whole pods for best aroma",
+        "de": "frisch aus ganzen Kapseln gemahlen für das beste Aroma",
+        "es": "recién molido de vainas enteras para el mejor aroma",
+        "fr": "fraîchement moulu à partir de gousses entières pour le meilleur arôme",
+        "ro": "măcinat proaspăt din păstăi întregi pentru cel mai bun aromă"
       }
     },
     {
@@ -94,14 +118,22 @@
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "pearl sugar for topping, does not melt when baked"
+        "en": "pearl sugar for topping, does not melt when baked",
+        "de": "Perlzucker zum Bestreuen, schmilzt beim Backen nicht",
+        "es": "azúcar perlado para cubrir, no se derrite al hornear",
+        "fr": "sucre perlé pour la garniture, ne fond pas à la cuisson",
+        "ro": "zahăr perlat pentru topping, nu se topește la coacere"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for egg wash across both loaves, brushed before baking; not counted in hydration"
+        "en": "for egg wash across both loaves, brushed before baking; not counted in hydration",
+        "de": "für die Eierwasche auf beiden Laiben, vor dem Backen aufgestrichen; nicht in der Hydratation enthalten",
+        "es": "para el huevo batido en ambos panes, aplicado antes de hornear; no cuenta en la hidratación",
+        "fr": "pour la dorure sur les deux pains, badigeonnée avant cuisson; non comptée dans l'hydratation",
+        "ro": "pentru spălătura cu ou pe ambele pâini, unsă înainte de coacere; nu se numără în hidratare"
       }
     }
   ],
@@ -109,7 +141,11 @@
     "count": 2,
     "pieceGrams": 990,
     "shape": {
-      "en": "two braided loaves"
+      "en": "two braided loaves",
+      "de": "zwei geflochtene Laibe",
+      "es": "dos panes trenzados",
+      "fr": "deux pains tressés",
+      "ro": "două pâini împletite"
     }
   },
   "time": {
@@ -152,7 +188,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Wrap well once fully cool; slightly stale pulla toasts beautifully or makes excellent French toast."
+      "en": "Wrap well once fully cool; slightly stale pulla toasts beautifully or makes excellent French toast.",
+      "de": "Nach dem vollständigen Abkühlen gut einwickeln; leicht altbackene Pulla lässt sich schön toasten oder ergibt ausgezeichneten French Toast.",
+      "es": "Envolver bien una vez completamente fría; la pulla ligeramente pasada se tuesta muy bien o hace un excelente French toast.",
+      "fr": "Bien emballer une fois complètement refroidi; la pulla légèrement rassise se grille à merveille ou fait une excellente pain perdu.",
+      "ro": "Înfășurați bine odată complet răcită; pulla ușor învechită se prăjește frumos sau face un French toast excelent."
     }
   },
   "equipment": [
@@ -262,7 +302,11 @@
     "site": "Beyond Kimchee",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Kept as the source's full 2-loaf batch. Pearl-sugar topping and egg wash excluded from hydration/sugar % since they're not part of the fermented dough itself."
+      "en": "Kept as the source's full 2-loaf batch. Pearl-sugar topping and egg wash excluded from hydration/sugar % since they're not part of the fermented dough itself.",
+      "de": "Als volle 2-Laib-Charge der Quelle beibehalten. Perlzuckerbelag und Eierwasche von Hydratation/Zuckeranteil ausgeschlossen, da sie nicht Teil des fermentierten Teigs selbst sind.",
+      "es": "Mantenido como el lote completo de 2 panes de la fuente. Cobertura de azúcar perlada y huevo batido excluidos del % de hidratación/azúcar ya que no forman parte de la masa fermentada en sí.",
+      "fr": "Gardé comme le lot complet de 2 pains de la source. Garniture de sucre perlé et dorure à l'œuf exclues du % d'hydratation/sucre car elles ne font pas partie de la pâte fermentée elle-même.",
+      "ro": "Păstrat ca lotul complet de 2 pâini al sursei. Toppingul de zahăr perlat și spălătura cu ou excluse din % de hidratare/zahăr deoarece nu fac parte din aluatul fermentat în sine."
     }
   },
   "tags": [

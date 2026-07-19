@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern gluten-free home baking"
+      "en": "Modern gluten-free home baking",
+      "de": "Moderne glutenfreie Hausbäckerei",
+      "es": "Panificación casera moderna sin gluten",
+      "fr": "Boulangerie maison moderne sans gluten",
+      "ro": "Panificația casnică modernă fără gluten"
     },
     "note": {
-      "en": "Buckwheat breads have deep roots across Eastern Europe and the Alps, but this single-flour, psyllium-bound, yeasted formula is a 21st-century gluten-free-baking technique rather than a traditional recipe."
+      "en": "Buckwheat breads have deep roots across Eastern Europe and the Alps, but this single-flour, psyllium-bound, yeasted formula is a 21st-century gluten-free-baking technique rather than a traditional recipe.",
+      "de": "Buchweizenbrote haben tiefe Wurzeln in Osteuropa und den Alpen, aber diese Einzelmehl-, Psyllium-gebundene, gehefe Formel ist eine glutenfreie Backtechnik des 21. Jahrhunderts, kein traditionelles Rezept.",
+      "es": "Los panes de trigo sarraceno tienen raíces profundas en Europa del Este y los Alpes, pero esta fórmula de harina única, ligada con psilio y levadura es una técnica de horneado sin gluten del siglo XXI, no una receta tradicional.",
+      "fr": "Les pains de sarrasin ont des racines profondes en Europe de l'Est et dans les Alpes, mais cette formule à farine unique, liée au psyllium, levurée, est une technique de boulangerie sans gluten du XXIe siècle, pas une recette traditionnelle.",
+      "ro": "Pâinile din hrișcă au rădăcini adânci în Europa de Est și Alpi, dar această formulă cu o singură făină, legată cu psyllium, cu drojdie, este o tehnică de panificație fără gluten a secolului XXI, nu o rețetă tradițională."
     }
   },
   "leaven": "yeast",
@@ -83,7 +91,11 @@
       "key": "sugar",
       "grams": 8,
       "note": {
-        "en": "to activate the yeast"
+        "en": "to activate the yeast",
+        "de": "zum Aktivieren der Hefe",
+        "es": "para activar la levadura",
+        "fr": "pour activer la levure",
+        "ro": "pentru a activa drojdia"
       }
     }
   ],
@@ -91,7 +103,11 @@
     "count": 1,
     "pieceGrams": 920,
     "shape": {
-      "en": "9 x 5 in loaf pan, finished free-standing on the oven rack"
+      "en": "9 x 5 in loaf pan, finished free-standing on the oven rack",
+      "de": "Kastenform 23 × 13 cm, fertig frei auf dem Ofenrost gebacken",
+      "es": "molde de pan de 23 × 13 cm, terminado en parrilla del horno",
+      "fr": "moule à pain de 23 × 13 cm, fini librement sur la grille du four",
+      "ro": "tavă de pâine de 23 × 13 cm, terminată liber pe grătarul cuptorului"
     }
   },
   "time": {
@@ -253,7 +269,11 @@
     "site": "Natasha's Home",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Salt recorded at the midpoint of the source's 10-12g range."
+      "en": "Salt recorded at the midpoint of the source's 10-12g range.",
+      "de": "Salz am Mittelpunkt der Quellenangabe von 10-12 g notiert.",
+      "es": "Sal registrada en el punto medio del rango de 10-12 g de la fuente.",
+      "fr": "Sel enregistré au milieu de la fourchette de 10-12 g de la source.",
+      "ro": "Sarea înregistrată la mijlocul intervalului sursei de 10-12 g."
     }
   },
   "tags": [

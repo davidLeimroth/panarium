@@ -22,10 +22,18 @@
   "origin": {
     "country": "EG",
     "region": {
-      "en": "nationwide, especially Cairo and Alexandria street stalls"
+      "en": "nationwide, especially Cairo and Alexandria street stalls",
+      "de": "landesweit, besonders an Straßenständen in Kairo und Alexandria",
+      "es": "en todo el país, especialmente en puestos callejeros de El Cairo y Alejandría",
+      "fr": "dans tout le pays, surtout dans les échoppes de rue du Caire et d’Alexandrie",
+      "ro": "în toată țara, mai ales la tarabele stradale din Cairo și Alexandria"
     },
     "note": {
-      "en": "Related to Turkish simit and the wider Ottoman sesame-ring family, but sized and served differently in Egypt, often alongside boiled eggs and dukkah."
+      "en": "Related to Turkish simit and the wider Ottoman sesame-ring family, but sized and served differently in Egypt, often alongside boiled eggs and dukkah.",
+      "de": "Verwandt mit türkischem Simit und der weiteren osmanischen Sesamring-Familie, aber in Ägypten anders in Größe und Servierweise, oft zusammen mit gekochten Eiern und Dukkah.",
+      "es": "Relacionado con el simit turco y la amplia familia otomana de anillos de sésamo, pero con tamaño y servicio diferentes en Egipto, a menudo junto con huevos duros y dukkah.",
+      "fr": "Apparenté au simit turc et à la grande famille ottomane des anneaux au sésame, mais de taille et de service différents en Égypte, souvent accompagné d’œufs durs et de dukkah.",
+      "ro": "Înrudit cu simitul turcesc și cu marea familie otomană a inelelor cu susan, dar cu dimensiuni și servire diferite în Egipt, adesea alături de ouă fierte și dukkah."
     }
   },
   "leaven": "yeast",
@@ -73,7 +81,11 @@
       "key": "molasses",
       "grams": 20,
       "note": {
-        "en": "diluted in water for the sticky coating before rolling in sesame"
+        "en": "diluted in water for the sticky coating before rolling in sesame",
+        "de": "in Wasser verdünnt für den klebrigen Überzug vor dem Wälzen in Sesam",
+        "es": "diluida en agua para el recubrimiento pegajoso antes de rebozar en sésamo",
+        "fr": "diluée dans l’eau pour l’enrobage collant avant de rouler dans le sésame",
+        "ro": "diluată în apă pentru acoperirea lipicioasă înainte de a rula în susan"
       }
     },
     {
@@ -85,7 +97,11 @@
     "count": 4,
     "pieceGrams": 200,
     "shape": {
-      "en": "twisted double ring"
+      "en": "twisted double ring",
+      "de": "gedoppelter gedrehter Ring",
+      "es": "doble anillo trenzado",
+      "fr": "double anneau torsadé",
+      "ro": "inel dublu răsucit"
     }
   },
   "time": {
@@ -127,7 +143,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Keeps a few days in a paper bag; refresh in a hot oven to recrisp the sesame crust."
+      "en": "Keeps a few days in a paper bag; refresh in a hot oven to recrisp the sesame crust.",
+      "de": "Hält sich einige Tage in einer Papiertüte; im heißen Ofen auffrischen, um die Sesamkruste wieder knusprig zu machen.",
+      "es": "Se conserva unos días en una bolsa de papel; refrescar en horno caliente para devolver el crujiente a la costra de sésamo.",
+      "fr": "Se conserve quelques jours dans un sac en papier ; rafraîchir dans un four chaud pour rendre le croustillant à la croûte de sésame.",
+      "ro": "Se păstrează câteva zile într-o pungă de hârtie; reîmprospătează în cuptorul fierbinte pentru a reîncrispa crusta de susan."
     }
   },
   "equipment": [
@@ -252,7 +272,11 @@
     "site": "Tableya",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Yeast converted from 1 teaspoon to grams; the molasses dip's dilution water is mostly discarded, so it is left out; the dukkah accompaniment is a side condiment, not a bread ingredient."
+      "en": "Yeast converted from 1 teaspoon to grams; the molasses dip's dilution water is mostly discarded, so it is left out; the dukkah accompaniment is a side condiment, not a bread ingredient.",
+      "de": "Hefe von 1 Teelöffel in Gramm umgerechnet; das Verdünnungswasser des Melasse-Dips wird größtenteils verworfen, daher weggelassen; die Dukkah-Begleitung ist ein Beilagen-Gewürz, keine Brotzutat.",
+      "es": "Levadura convertida de 1 cucharadita a gramos; el agua de dilución del baño de melaza se desecha en su mayor parte, por lo que se omite; el acompañamiento de dukkah es un condimento aparte, no un ingrediente del pan.",
+      "fr": "Levure convertie de 1 cuillère à café en grammes ; l’eau de dilution du bain de mélasse est en grande partie jetée, donc omise ; l’accompagnement de dukkah est un condiment d’accompagnement, pas un ingrédient du pain.",
+      "ro": "Drojdie convertită din 1 linguriță în grame; apa de diluare a bații de melasă este în mare parte aruncată, deci omisă; acompaniamentul de dukkah este un condiment lateral, nu un ingredient al pâinii."
     }
   },
   "tags": [

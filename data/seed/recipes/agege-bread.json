@@ -21,10 +21,18 @@
   "origin": {
     "country": "NG",
     "region": {
-      "en": "Agege, Lagos State, and nationwide"
+      "en": "Agege, Lagos State, and nationwide",
+      "de": "Agege, Bundesstaat Lagos, und landesweit",
+      "es": "Agege, estado de Lagos, y en todo el país",
+      "fr": "Agege, État de Lagos, et dans tout le pays",
+      "ro": "Agege, statul Lagos, și în toată țara"
     },
     "note": {
-      "en": "Named for the Lagos suburb of Agege, where Jamaican immigrant baker Amos Shackleford popularized the extra-soft, tall-rising loaf now sold on nearly every Nigerian street corner."
+      "en": "Named for the Lagos suburb of Agege, where Jamaican immigrant baker Amos Shackleford popularized the extra-soft, tall-rising loaf now sold on nearly every Nigerian street corner.",
+      "de": "Benannt nach dem Lagos-Vorort Agege, wo der aus Jamaika stammende Bäcker Amos Shackleford das extraweiche, hoch aufgehende Brot populär machte, das heute an fast jeder nigerianischen Straßenecke verkauft wird.",
+      "es": "Lleva el nombre del suburbio de Agege en Lagos, donde el panadero inmigrante jamaicano Amos Shackleford popularizó el pan extra suave y de gran altura que hoy se vende en casi cada esquina de Nigeria.",
+      "fr": "Nommé d'après la banlieue d'Agege à Lagos, où le boulanger immigrant jamaïcain Amos Shackleford a popularisé le pain extra-moelleux à la levée généreuse, désormais vendu à presque chaque coin de rue nigérian.",
+      "ro": "Numit după cartierul Agege din Lagos, unde brutarul imigrant jamaican Amos Shackleford a popularizat pâinea extra-moale și înaltă care se vinde acum la aproape fiecare colț de stradă din Nigeria."
     }
   },
   "leaven": "yeast",
@@ -48,21 +56,33 @@
       "key": "flour:wheat-white",
       "grams": 42,
       "note": {
-        "en": "for the tangzhong (cooked flour-water paste)"
+        "en": "for the tangzhong (cooked flour-water paste)",
+        "de": "für den Tangzhong (gekochte Mehl-Wasser-Paste)",
+        "es": "para el tangzhong (pasta cocida de harina y agua)",
+        "fr": "pour le tangzhong (pâte cuite farine-eau)",
+        "ro": "pentru tangzhong (pastă fiartă de făină și apă)"
       }
     },
     {
       "key": "water",
       "grams": 237,
       "note": {
-        "en": "for the tangzhong"
+        "en": "for the tangzhong",
+        "de": "für den Tangzhong",
+        "es": "para el tangzhong",
+        "fr": "pour le tangzhong",
+        "ro": "pentru tangzhong"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 531,
       "note": {
-        "en": "bread flour, for the main dough"
+        "en": "bread flour, for the main dough",
+        "de": "Brotmehl, für den Hauptteig",
+        "es": "harina de pan, para la masa principal",
+        "fr": "farine à pain, pour la pâte principale",
+        "ro": "făină pentru pâine, pentru aluatul principal"
       }
     },
     {
@@ -81,14 +101,22 @@
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topit"
       }
     },
     {
       "key": "milk",
       "grams": 180,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     }
   ],
@@ -96,7 +124,11 @@
     "count": 1,
     "pieceGrams": 995,
     "shape": {
-      "en": "pan loaf, built from 3-4 dough balls baked together"
+      "en": "pan loaf, built from 3-4 dough balls baked together",
+      "de": "Kastenformbrot, aus 3–4 zusammengebackenen Teiglingen",
+      "es": "hogaza de molde, formada por 3–4 bolas de masa horneadas juntas",
+      "fr": "pain de moule, assemblé à partir de 3–4 boules de pâte cuites ensemble",
+      "ro": "pâine de tavă, formată din 3–4 bile de aluat coapte împreună"
     }
   },
   "time": {
@@ -139,7 +171,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The tangzhong technique keeps it soft for several days at room temperature; slices freeze well for toast."
+      "en": "The tangzhong technique keeps it soft for several days at room temperature; slices freeze well for toast.",
+      "de": "Die Tangzhong-Methode hält es bei Raumtemperatur mehrere Tage weich; Scheiben lassen sich gut zum Toasten einfrieren.",
+      "es": "La técnica del tangzhong lo mantiene blando varios días a temperatura ambiente; las rebanadas se congelan bien para tostar.",
+      "fr": "La technique du tangzhong le garde moelleux plusieurs jours à température ambiante; les tranches se congèlent bien pour le grille-pain.",
+      "ro": "Tehnica tangzhong îl menține moale câteva zile la temperatura camerei; feliile se congelează bine pentru prăjit."
     }
   },
   "equipment": [
@@ -189,10 +225,10 @@
       },
       "summary": {
         "en": "Combine the tangzhong, warm milk and melted butter in the well, then stir into a slightly sticky dough.",
-        "de": "Tangzhong, warme Milch und geschmolzene Butter in die Mulde geben und zu einem leicht klebrigen Teig verarbeiten.",
-        "es": "Verter el tangzhong, la leche tibia y la mantequilla derretida en el hueco y mezclar hasta obtener una masa algo pegajosa.",
-        "fr": "Verser le tangzhong, le lait tiède et le beurre fondu dans le puits, puis mélanger pour obtenir une pâte légèrement collante.",
-        "ro": "Toarnă tangzhong-ul, laptele cald și untul topit în adâncitură și amestecă până obții un aluat ușor lipicios."
+        "de": "Tangzhong, warme Milch und geschmolzene Butter in die Mulde geben und zu einem leicht klebrigen Teig verrühren.",
+        "es": "Mezclar el tangzhong, la leche tibia y la mantequilla derretida en el hueco y remover hasta obtener una masa ligeramente pegajosa.",
+        "fr": "Mélanger le tangzhong, le lait tiède et le beurre fondu dans le puits et remuer jusqu'à obtenir une pâte légèrement collante.",
+        "ro": "Pune tangzhong-ul, laptele cald și untul topit în adâncitură și amestecă până obții un aluat ușor lipicios."
       }
     },
     {
@@ -265,7 +301,11 @@
     "site": "Dash of Jazz",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tablespoon quantities converted to grams; tangzhong flour and water folded into the overall flour and hydration totals."
+      "en": "Cup/tablespoon quantities converted to grams; tangzhong flour and water folded into the overall flour and hydration totals.",
+      "de": "Tassen-/Esslöffelangaben in Gramm umgerechnet; Tangzhong-Mehl und -Wasser in die gesamten Mehl- und Hydratationsmengen einbezogen.",
+      "es": "Cantidades en tazas/cucharadas convertidas a gramos; la harina y el agua del tangzhong se incorporaron a los totales generales de harina e hidratación.",
+      "fr": "Quantités en tasses/cuillères à soupe converties en grammes; la farine et l'eau du tangzhong intégrées dans les totaux de farine et d'hydratation.",
+      "ro": "Cantitățile în căni/linguri convertite în grame; făina și apa pentru tangzhong incluse în totalurile generale de făină și hidratare."
     }
   },
   "tags": [

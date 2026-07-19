@@ -22,10 +22,18 @@
   "origin": {
     "country": "HR",
     "region": {
-      "en": "Dalmatia, Croatia"
+      "en": "Dalmatia, Croatia",
+      "de": "Dalmatien, Kroatien",
+      "es": "Dalmacia, Croacia",
+      "fr": "Dalmatie, Croatie",
+      "ro": "Dalmația, Croația"
     },
     "note": {
-      "en": "Also called 'sirnica' in regions where a little fresh cheese is worked into the dough; bakers still debate whether raisins or candied fruit belong in a proper pinca."
+      "en": "Also called 'sirnica' in regions where a little fresh cheese is worked into the dough; bakers still debate whether raisins or candied fruit belong in a proper pinca.",
+      "de": "Auch 'sirnica' genannt in Regionen, wo etwas Frischkäse in den Teig eingearbeitet wird; Bäcker streiten noch, ob Rosinen oder kandierte Früchte in eine richtige Pinca gehören.",
+      "es": "También llamada 'sirnica' en regiones donde se incorpora un poco de queso fresco a la masa; los panaderos aún debaten si las pasas o la fruta confitada pertenecen a una pinca auténtica.",
+      "fr": "Aussi appelée 'sirnica' dans les régions où un peu de fromage frais est incorporé à la pâte; les boulangers débattent encore pour savoir si les raisins secs ou les fruits confits ont leur place dans une vraie pinca.",
+      "ro": "Numită și 'sirnica' în regiunile în care se adaugă puțină brânză proaspătă în aluat; brutarii încă dezbat dacă stafidele sau fructele confiate aparțin unei pinca adevărate."
     }
   },
   "leaven": "yeast",
@@ -57,7 +65,11 @@
       "key": "butter",
       "grams": 140,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "înmuiat"
       }
     },
     {
@@ -78,21 +90,33 @@
       "key": "vanilla",
       "grams": 16,
       "note": {
-        "en": "as 2 packets vanilla sugar"
+        "en": "as 2 packets vanilla sugar",
+        "de": "als 2 Päckchen Vanillezucker",
+        "es": "como 2 sobres de azúcar de vainilla",
+        "fr": "sous forme de 2 sachets de sucre vanillé",
+        "ro": "ca 2 pliculețe de zahăr vanilat"
       }
     },
     {
       "key": "egg",
       "grams": 150,
       "note": {
-        "en": "3 whole eggs"
+        "en": "3 whole eggs",
+        "de": "3 ganze Eier",
+        "es": "3 huevos enteros",
+        "fr": "3 œufs entiers",
+        "ro": "3 ouă întregi"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 36,
       "note": {
-        "en": "2 extra yolks"
+        "en": "2 extra yolks",
+        "de": "2 zusätzliche Eigelb",
+        "es": "2 yemas extra",
+        "fr": "2 jaunes supplémentaires",
+        "ro": "2 gălbenușuri în plus"
       }
     },
     {
@@ -111,21 +135,33 @@
       "key": "salt",
       "grams": 2,
       "note": {
-        "en": "a pinch, per the source"
+        "en": "a pinch, per the source",
+        "de": "eine Prise, laut Quelle",
+        "es": "una pizca, según la fuente",
+        "fr": "une pincée, selon la source",
+        "ro": "un praf, conform sursei"
       }
     },
     {
       "key": "sugar",
       "grams": 12,
       "note": {
-        "en": "simple syrup glaze brushed on after the first bake; not counted toward the dough's sugar%"
+        "en": "simple syrup glaze brushed on after the first bake; not counted toward the dough's sugar%",
+        "de": "einfacher Sirupglasur nach dem ersten Backen aufgestrichen; nicht im Zuckeranteil des Teigs enthalten",
+        "es": "glaseado de almíbar simple aplicado después del primer horneado; no cuenta en el % de azúcar de la masa",
+        "fr": "glaçage au sirop simple appliqué après la première cuisson; non compté dans le % de sucre de la pâte",
+        "ro": "glazură de sirop simplu aplicată după prima coacere; nu se numără în % de zahăr al aluatului"
       }
     },
     {
       "key": "water",
       "grams": 60,
       "note": {
-        "en": "for the glaze syrup; not counted toward hydration"
+        "en": "for the glaze syrup; not counted toward hydration",
+        "de": "für den Sirupglasur; nicht in der Hydratation enthalten",
+        "es": "para el almíbar del glaseado; no cuenta en la hidratación",
+        "fr": "pour le sirop de glaçage; non compté dans l'hydratation",
+        "ro": "pentru siropul de glazură; nu se numără în hidratare"
       }
     }
   ],
@@ -133,7 +169,11 @@
     "count": 4,
     "pieceGrams": 540,
     "shape": {
-      "en": "round loaf slashed with a cross or three-way cut"
+      "en": "round loaf slashed with a cross or three-way cut",
+      "de": "runder Laib mit Kreuz- oder Dreifachschnitt",
+      "es": "hogaza redonda marcada con una cruz o un corte triple",
+      "fr": "pain rond incisé d'une croix ou d'une entaille à trois branches",
+      "ro": "pâine rotundă crestă cu o cruce sau o tăietură în trei"
     }
   },
   "time": {
@@ -176,7 +216,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "The butter-and-shortening crumb stays tender for a few days; the syrup glaze also helps keep the crust from drying out."
+      "en": "The butter-and-shortening crumb stays tender for a few days; the syrup glaze also helps keep the crust from drying out.",
+      "de": "Die Butter-Shortening-Krume bleibt einige Tage zart; die Sirupglasur hilft auch, die Kruste vor dem Austrocknen zu bewahren.",
+      "es": "La miga de mantequilla y manteca se mantiene tierna durante unos días; el glaseado de almíbar también ayuda a evitar que la corteza se seque.",
+      "fr": "La mie au beurre et à la graisse reste tendre quelques jours; le glaçage au sirop aide aussi à empêcher la croûte de se dessécher.",
+      "ro": "Miezul cu unt și scurtătură rămâne fraged câteva zile; glazura de sirop ajută și la prevenirea uscării crustei."
     }
   },
   "equipment": [
@@ -302,7 +346,11 @@
     "site": "196 Flavors",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt recorded as a small estimated pinch per the source's own wording; yield estimated at four ~540 g loaves from the summed ingredient weight."
+      "en": "Salt recorded as a small estimated pinch per the source's own wording; yield estimated at four ~540 g loaves from the summed ingredient weight.",
+      "de": "Salz als kleine, geschätzte Prise laut der Quelle selbst angegeben; Ausbeute auf vier ~540-g-Laibe aus dem Gesamtgewicht der Zutaten geschätzt.",
+      "es": "Sal registrada como una pizca pequeña estimada según las propias palabras de la fuente; rendimiento estimado en cuatro panes de ~540 g a partir del peso total de los ingredientes.",
+      "fr": "Sel noté comme une petite pincée estimée selon les termes de la source; rendement estimé à quatre pains d'environ 540 g à partir du poids total des ingrédients.",
+      "ro": "Sarea înregistrată ca un praf mic estimat conform formulării sursei; randament estimat la patru pâini de ~540 g din greutatea totală a ingredientelor."
     }
   },
   "tags": [

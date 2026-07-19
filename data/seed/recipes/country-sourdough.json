@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "San Francisco, California"
+      "en": "San Francisco, California",
+      "de": "San Francisco, Kalifornien",
+      "es": "San Francisco, California",
+      "fr": "San Francisco, Californie",
+      "ro": "San Francisco, California"
     },
     "note": {
-      "en": "Chad Robertson's Tartine Bakery formula, first published in 'Tartine Bread' (2010); a modern reinvention distinct from the French pain de campagne tradition it draws inspiration from."
+      "en": "Chad Robertson's Tartine Bakery formula, first published in 'Tartine Bread' (2010); a modern reinvention distinct from the French pain de campagne tradition it draws inspiration from.",
+      "de": "Chad Robertsons Tartine-Bakery-Formel, erstmals veröffentlicht in Tartine Bread (2010); eine moderne Neuerfindung, die sich von der französischen Pain-de-Campagne-Tradition, aus der sie schöpft, unterscheidet.",
+      "es": "La fórmula de Chad Robertson de Tartine Bakery, publicada por primera vez en Tartine Bread (2010); una reinvención moderna distinta de la tradición francesa del pain de campagne de la que se inspira.",
+      "fr": "La formule de Chad Robertson de la Tartine Bakery, publiée pour la première fois dans Tartine Bread (2010); une réinvention moderne distincte de la tradition française du pain de campagne dont elle s'inspire.",
+      "ro": "Formula lui Chad Robertson de la Tartine Bakery, publicată pentru prima dată în Tartine Bread (2010); o reinventare modernă distinctă de tradiția franceză a pain de campagne de la care se inspiră."
     }
   },
   "leaven": "sourdough",
@@ -50,7 +58,11 @@
       "key": "flour:wheat-white",
       "grams": 700,
       "note": {
-        "en": "unbleached all-purpose"
+        "en": "unbleached all-purpose",
+        "de": "ungebleichtes Haushaltsmehl",
+        "es": "harina todo uso sin blanquear",
+        "fr": "farine tout usage non blanchie",
+        "ro": "făină universală nealbită"
       }
     },
     {
@@ -65,7 +77,11 @@
       "key": "sourdough-starter",
       "grams": 31,
       "note": {
-        "en": "mature, 100% hydration, to build the overnight leaven"
+        "en": "mature, 100% hydration, to build the overnight leaven",
+        "de": "reif, 100% Hydratation, zum Aufbau des Über-Nacht-Sauerteigs",
+        "es": "maduro, 100% hidratación, para construir el fermento de noche",
+        "fr": "mature, 100% d'hydratation, pour construire le levain de nuit",
+        "ro": "matură, 100% hidratare, pentru a construi maiaua de peste noapte"
       }
     },
     {
@@ -77,7 +93,11 @@
     "count": 2,
     "pieceGrams": 950,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {
@@ -257,7 +277,11 @@
     "author": "Maurizio Leo, after Chad Robertson / Tartine Bread",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages recomputed to include the leaven's flour/water in the 100% flour base; the source, following Robertson's book, excludes the leaven from hydration."
+      "en": "Percentages recomputed to include the leaven's flour/water in the 100% flour base; the source, following Robertson's book, excludes the leaven from hydration.",
+      "de": "Prozentsätze neu berechnet, um Mehl/Wasser des Sauerteigs in die 100%-Mehlbasis einzubeziehen; die Quelle, Robertsons Buch folgend, schließt den Sauerteig von der Hydratation aus.",
+      "es": "Porcentajes recalculados para incluir la harina/agua del fermento en la base de 100% harina; la fuente, siguiendo el libro de Robertson, excluye el fermento de la hidratación.",
+      "fr": "Pourcentages recalculés pour inclure la farine/eau du levain dans la base de farine à 100%; la source, suivant le livre de Robertson, exclut le levain de l'hydratation.",
+      "ro": "Procentele recalculate pentru a include făina/apa maielei în baza de 100% făină; sursa, urmând cartea lui Robertson, exclude maiaua din hidratare."
     }
   },
   "tags": [

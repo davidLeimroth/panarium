@@ -22,10 +22,18 @@
   "origin": {
     "country": "YE",
     "region": {
-      "en": "Yemen; now central to Israeli cuisine via Yemenite Jewish immigration"
+      "en": "Yemen; now central to Israeli cuisine via Yemenite Jewish immigration",
+      "de": "Jemen; heute zentral für die israelische Küche durch jemenitisch-jüdische Einwanderung",
+      "es": "Yemen; hoy central en la cocina israelí a través de la inmigración judía yemení",
+      "fr": "Yémen; aujourd'hui central dans la cuisine israélienne via l'immigration juive yéménite",
+      "ro": "Yemen; astăzi esențial în bucătăria israeliană prin imigrația evreiască yemenită"
     },
     "note": {
-      "en": "Brought to Israel by Yemenite Jewish immigrants in the 20th century; now sold frozen in Israeli supermarkets as a breakfast staple."
+      "en": "Brought to Israel by Yemenite Jewish immigrants in the 20th century; now sold frozen in Israeli supermarkets as a breakfast staple.",
+      "de": "Von jemenitischen jüdischen Einwanderern im 20. Jahrhundert nach Israel gebracht; heute tiefgekühlt in israelischen Supermärkten als Frühstücksgrundnahrungsmittel verkauft.",
+      "es": "Traído a Israel por inmigrantes judíos yemeníes en el siglo XX; hoy se vende congelado en supermercados israelíes como alimento básico del desayuno.",
+      "fr": "Apporté en Israël par les immigrants juifs yéménites au XXe siècle; aujourd'hui vendu surgelé dans les supermarchés israéliens comme aliment de base du petit-déjeuner.",
+      "ro": "Adus în Israel de imigranții evrei yemeniți în secolul XX; astăzi vândut congelat în supermarketurile israeliene ca aliment de bază pentru micul dejun."
     }
   },
   "leaven": "chemical",
@@ -59,14 +67,22 @@
       "key": "water",
       "grams": 475,
       "note": {
-        "en": "boiling"
+        "en": "boiling",
+        "de": "kochend",
+        "es": "hirviendo",
+        "fr": "bouillante",
+        "ro": "fierbinte"
       }
     },
     {
       "key": "butter",
       "grams": 113,
       "note": {
-        "en": "for laminating between folds; recipe also allows oil or margarine"
+        "en": "for laminating between folds; recipe also allows oil or margarine",
+        "de": "zum Einarbeiten zwischen den Faltschichten; das Rezept erlaubt auch Öl oder Margarine",
+        "es": "para laminar entre pliegues; la receta también permite aceite o margarina",
+        "fr": "pour le tourage entre les plis; la recette permet aussi l'huile ou la margarine",
+        "ro": "pentru laminare între straturi; rețeta permite și ulei sau margarină"
       }
     }
   ],
@@ -74,7 +90,11 @@
     "count": 8,
     "pieceGrams": 129,
     "shape": {
-      "en": "thin laminated square or coiled disc, pan-fried"
+      "en": "thin laminated square or coiled disc, pan-fried",
+      "de": "dünnes laminiertes Quadrat oder gerollte Scheibe, in der Pfanne gebraten",
+      "es": "cuadrado laminado fino o disco enrollado, frito en sartén",
+      "fr": "carré laminé fin ou disque roulé, poêlé",
+      "ro": "pătrat laminat subțire sau disc rulat, prăjit în tigaie"
     }
   },
   "time": {
@@ -114,7 +134,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Traditionally rolled, laminated and frozen uncooked in stacks, frozen malawach is a common Israeli grocery staple, then pan-fried straight from frozen. Cooked malawach is best fresh and hot."
+      "en": "Traditionally rolled, laminated and frozen uncooked in stacks, frozen malawach is a common Israeli grocery staple, then pan-fried straight from frozen. Cooked malawach is best fresh and hot.",
+      "de": "Traditionell ungebacken in Stapeln gerollt, laminiert und eingefroren; tiefgekühlter Malawach ist ein übliches israelisches Supermarktprodukt und wird direkt aus der Tiefkühle in der Pfanne gebraten. Gekochter Malawach ist am besten frisch und heiß.",
+      "es": "Tradicionalmente enrollado, laminado y congelado crudo en pilas; el malawach congelado es un producto común de supermercado israelí, se fríe directamente congelado. El malawach cocido es mejor fresco y caliente.",
+      "fr": "Traditionnellement roulé, laminé et congelé cru en piles; le malawach surgelé est un produit courant dans les supermarchés israéliens, poêlé directement surgelé. Le malawach cuit est meilleur frais et chaud.",
+      "ro": "Tradițional rulat, laminat și congelat nefiert în stive; malawach-ul congelat este un produs comun în supermarketurile israeliene, prăjit direct din congelator. Malawach-ul gătit este cel mai bun proaspăt și fierbinte."
     }
   },
   "equipment": [
@@ -223,7 +247,11 @@
     "site": "La Boîte",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt corrected to a standard 12 g (2 tsp) since the source's own stated 30 g figure for 2 teaspoons of salt was inconsistent with standard salt density."
+      "en": "Salt corrected to a standard 12 g (2 tsp) since the source's own stated 30 g figure for 2 teaspoons of salt was inconsistent with standard salt density.",
+      "de": "Salz auf standardmäßige 12 g (2 TL) korrigiert, da die eigene Angabe der Quelle von 30 g für 2 Teelöffel Salz nicht mit der Standard-Salzdichte vereinbar war.",
+      "es": "Sal corregida a 12 g (2 cucharaditas) estándar, ya que la cifra de 30 g de la fuente para 2 cucharaditas de sal era inconsistente con la densidad estándar de la sal.",
+      "fr": "Sel corrigé à 12 g (2 c. à café) standard, car le chiffre de 30 g indiqué par la source pour 2 c. à café de sel était incompatible avec la densité standard du sel.",
+      "ro": "Sarea corectată la 12 g (2 lingurițe) standard, deoarece cifra sursei de 30 g pentru 2 lingurițe de sare era inconsistentă cu densitatea standard a sării."
     }
   },
   "tags": [

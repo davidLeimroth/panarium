@@ -20,10 +20,18 @@
   "origin": {
     "country": "PH",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "a nivel nacional",
+      "fr": "a l'echelle nationale",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Descended from the Spanish 'pan de sal' (salt bread) introduced during colonization; the name stuck even though the modern roll turned notably sweet rather than salty."
+      "en": "Descended from the Spanish 'pan de sal' (salt bread) introduced during colonization; the name stuck even though the modern roll turned notably sweet rather than salty.",
+      "de": "Stammt vom spanischen „pan de sal“ (Salzbrot) ab, das wahrend der Kolonialzeit eingefuhrt wurde; der Name blieb, obwohl das moderne Brotchen merklich suß statt salzig wurde.",
+      "es": "Deriva del espanol 'pan de sal' introducido durante la colonizacion; el nombre se mantuvo aunque el panecillo moderno se volvio notablemente dulce en lugar de salado.",
+      "fr": "Issu du « pan de sal » (pain au sel) espagnol introduit pendant la colonisation ; le nom est reste alors que le petit pain moderne est devenu nettement sucre plutot que sale.",
+      "ro": "Provine din spaniolul „pan de sal“ (pâine cu sare) introdus in colonizare; numele a ramas, desi chifla moderna a devenit considerabil dulce in loc de sarătă."
     }
   },
   "leaven": "yeast",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-white",
       "grams": 520,
       "note": {
-        "en": "half all-purpose, half bread flour"
+        "en": "half all-purpose, half bread flour",
+        "de": "halb Weizenmehl Type 405, halb Brotmehl",
+        "es": "mitad harina comun, mitad harina de fuerza",
+        "fr": "moitie farine T55, moitie farine de gruau",
+        "ro": "jumătate făină universală, jumătate făină pentru pâine"
       }
     },
     {
@@ -66,21 +78,33 @@
       "key": "milk",
       "grams": 240,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiede",
+        "ro": "caldă"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 eggs"
+        "en": "2 eggs",
+        "de": "2 Eier",
+        "es": "2 huevos",
+        "fr": "2 œufs",
+        "ro": "2 ouă"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "moale"
       }
     },
     {
@@ -93,7 +117,11 @@
       },
       "grams": 40,
       "note": {
-        "en": "for rolling the shaped rolls before baking"
+        "en": "for rolling the shaped rolls before baking",
+        "de": "zum Walzen der geformten Brotchen vor dem Backen",
+        "es": "para rebozar los panecillos moldeados antes de hornear",
+        "fr": "pour rouler les petits pains faconnes avant cuisson",
+        "ro": "pentru a da prin pesmet chiflele modelate inainte de coacere"
       }
     }
   ],
@@ -101,7 +129,11 @@
     "count": 16,
     "pieceGrams": 67,
     "shape": {
-      "en": "oval roll rolled in breadcrumbs"
+      "en": "oval roll rolled in breadcrumbs",
+      "de": "ovales Brotchen, in Paniermehl gewalzt",
+      "es": "panecillo ovalado rebozado en pan rallado",
+      "fr": "petit pain ovale roule dans la chapelure",
+      "ro": "chiflă ovălă dată prin pesmet"
     }
   },
   "time": {
@@ -143,7 +175,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm the morning it's baked, often dunked in coffee or filled with corned beef; reheats well from frozen."
+      "en": "Best warm the morning it's baked, often dunked in coffee or filled with corned beef; reheats well from frozen.",
+      "de": "Am besten warm am Morgen des Backtages, oft in Kaffee getunkt oder mit Corned Beef gefullt; lasst sich gut aus gefrorenem Zustand aufwarmen.",
+      "es": "Mejor caliente la manana en que se hornea, a menudo mojado en cafe o relleno de corned beef; se recalienta bien congelado.",
+      "fr": "Meilleur tiede le matin de la cuisson, souvent trempe dans le cafe ou garni de corned-beef ; se rechauffe bien surgele.",
+      "ro": "Cel mai bun cald in dimineata coacerii, adesea inmuiat in cafea sau umplut cu corned beef; se reincalzeste bine congelat."
     }
   },
   "equipment": [
@@ -268,7 +304,11 @@
     "site": "Hungry Huy",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams kept as sourced; the two flour types combined into a single ingredient entry."
+      "en": "Grams kept as sourced; the two flour types combined into a single ingredient entry.",
+      "de": "Gramm wie in der Quelle belassen; die beiden Mehlsorten zu einem Zutateneintrag zusammengefasst.",
+      "es": "Gramos mantenidos segun la fuente; los dos tipos de harina combinados en un solo ingrediente.",
+      "fr": "Grammes conserves tels que sources ; les deux types de farine combines en une seule entree d'ingredient.",
+      "ro": "Gramele pastrate ca in sursa; cele doua tipuri de făină combinate intr-o singură intrare de ingredient."
     }
   },
   "tags": [

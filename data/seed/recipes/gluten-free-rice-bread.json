@@ -21,10 +21,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Modern British gluten-free home baking"
+      "en": "Modern British gluten-free home baking",
+      "de": "Modernes britisches glutenfreies Hausbacken",
+      "es": "Repostería casera sin gluten británica moderna",
+      "fr": "Pâtisserie maison sans gluten britannique moderne",
+      "ro": "Coacere casnică modernă britanică fără gluten"
     },
     "note": {
-      "en": "Developed by a British gluten-free flour brand as an accessible entry point into gluten-free baking; this batter-in-a-tin style of rice bread has no deep regional history of its own, unlike wheat or rye loaves."
+      "en": "Developed by a British gluten-free flour brand as an accessible entry point into gluten-free baking; this batter-in-a-tin style of rice bread has no deep regional history of its own, unlike wheat or rye loaves.",
+      "de": "Entwickelt von einer britischen glutenfreien Mehlmarke als zugänglicher Einstieg ins glutenfreie Backen; dieser Rührteig-in-der-Form-Stil von Reisbrot hat keine eigene tiefe regionale Geschichte, anders als Weizen- oder Roggenbrote.",
+      "es": "Desarrollado por una marca británica de harina sin gluten como punto de entrada accesible a la repostería sin gluten; este estilo de pan de arroz en molde no tiene una historia regional profunda propia, a diferencia de los panes de trigo o centeno.",
+      "fr": "Développé par une marque britannique de farine sans gluten comme point d'entrée accessible à la pâtisserie sans gluten; ce style de pain de riz cuit en moule n'a pas d'histoire régionale profonde propre, contrairement aux pains de blé ou de seigle.",
+      "ro": "Dezvoltat de un brand britanic de făină fără gluten ca punct de acces ușor în coacerea fără gluten; acest stil de pâine de orez în formă nu are o istorie regională profundă proprie, spre deosebire de pâinile de grâu sau secară."
     }
   },
   "leaven": "yeast",
@@ -48,7 +56,11 @@
       "key": "flour:rice",
       "grams": 250,
       "note": {
-        "en": "white rice flour"
+        "en": "white rice flour",
+        "de": "Reismehl weiß",
+        "es": "harina de arroz blanca",
+        "fr": "farine de riz blanche",
+        "ro": "făină de orez albă"
       }
     },
     {
@@ -71,7 +83,11 @@
       "key": "instant-yeast",
       "grams": 6,
       "note": {
-        "en": "quick/fast-action yeast"
+        "en": "quick/fast-action yeast",
+        "de": "Trockenhefe",
+        "es": "levadura de acción rápida",
+        "fr": "levure sèche instantanée",
+        "ro": "drojdie uscată instant"
       }
     },
     {
@@ -89,7 +105,11 @@
     "count": 1,
     "pieceGrams": 520,
     "shape": {
-      "en": "500g / 1 lb tin loaf"
+      "en": "500g / 1 lb tin loaf",
+      "de": "500-g-Kastenformbrot",
+      "es": "pan de molde de 500 g",
+      "fr": "pain de moule de 500 g",
+      "ro": "pâine în formă de 500 g"
     }
   },
   "time": {
@@ -128,7 +148,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Rice bread dries out quickly since it has no gluten network to hold moisture; best fresh or sliced and frozen within a day or two."
+      "en": "Rice bread dries out quickly since it has no gluten network to hold moisture; best fresh or sliced and frozen within a day or two.",
+      "de": "Reisbrot trocknet schnell aus, da es kein Glutengerüst zur Feuchtigkeitshaltung hat; am besten frisch oder innerhalb von ein bis zwei Tagen in Scheiben geschnitten eingefroren.",
+      "es": "El pan de arroz se seca rápidamente porque no tiene red de gluten para retener la humedad; mejor fresco o en rodajas congelado dentro de uno o dos días.",
+      "fr": "Le pain de riz sèche rapidement car il n'a pas de réseau de gluten pour retenir l'humidité; meilleur frais ou tranché et congelé dans un jour ou deux.",
+      "ro": "Pâinea de orez se usucă repede deoarece nu are rețea de gluten pentru a reține umezeala; cel mai bun proaspăt sau feliat și congelat într-o zi sau două."
     }
   },
   "equipment": [

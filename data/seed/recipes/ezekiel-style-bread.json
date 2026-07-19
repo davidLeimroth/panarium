@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American natural-foods and home-milling movement"
+      "en": "Modern American natural-foods and home-milling movement",
+      "de": "Moderne amerikanische Naturkost- und Hausmahlbewegung",
+      "es": "Movimiento moderno estadounidense de alimentos naturales y molienda casera",
+      "fr": "Mouvement américain moderne de l'alimentation naturelle et de la mouture maison",
+      "ro": "Mișcarea americană modernă a alimentelor naturale și a măcinatului casnic"
     },
     "note": {
-      "en": "Named for Ezekiel 4:9, where the prophet is told to mix wheat, barley, beans, lentils, millet and spelt into bread; the sprouted, milled version made today is a 20th/21st-century health-food reading of that verse, not an ancient recipe."
+      "en": "Named for Ezekiel 4:9, where the prophet is told to mix wheat, barley, beans, lentils, millet and spelt into bread; the sprouted, milled version made today is a 20th/21st-century health-food reading of that verse, not an ancient recipe.",
+      "de": "Benannt nach Hesekiel 4:9, wo der Prophet aufgefordert wird, Weizen, Gerste, Bohnen, Linsen, Hirse und Dinkel zu Brot zu mischen; die heute hergestellte gekeimte, gemahlene Version ist eine Gesundkost-Interpretation dieses Verses aus dem 20./21. Jahrhundert, kein altes Rezept.",
+      "es": "Nombrado por Ezequiel 4:9, donde se le dice al profeta que mezcle trigo, cebada, frijoles, lentejas, mijo y espelta para hacer pan; la versión germinada y molida que se hace hoy es una lectura de alimentos saludables del siglo XX/XXI de ese versículo, no una receta antigua.",
+      "fr": "Nommé d'après Ézéchiel 4:9, où le prophète doit mélanger blé, orge, haricots, lentilles, millet et épeautre pour faire du pain; la version germée et moulue d'aujourd'hui est une interprétation diététique du XXe/XXIe siècle de ce verset, pas une recette ancienne.",
+      "ro": "Denumit după Ezechiel 4:9, unde profetul este însărcinat să amestece grâu, orz, fasole, linte, mei și alac în pâine; versiunea încolțită și măcinată de astăzi este o interpretare de alimentație sănătoasă din secolele XX/XXI a acestui verset, nu o rețetă străveche."
     }
   },
   "leaven": "yeast",
@@ -64,28 +72,44 @@
       "key": "flour:wheat-whole",
       "grams": 500,
       "note": {
-        "en": "hard wheat berries, sprouted 2-3 days then milled"
+        "en": "hard wheat berries, sprouted 2-3 days then milled",
+        "de": "Hartweizenkörner, 2-3 Tage gekeimt, dann gemahlen",
+        "es": "granos de trigo duro, germinados 2-3 días y luego molidos",
+        "fr": "grains de blé dur, germés 2-3 jours puis moulus",
+        "ro": "boabe de grâu dur, încolțite 2-3 zile apoi măcinate"
       }
     },
     {
       "key": "flour:spelt-whole",
       "grams": 300,
       "note": {
-        "en": "spelt berries, sprouted then milled"
+        "en": "spelt berries, sprouted then milled",
+        "de": "Dinkelkörner, gekeimt dann gemahlen",
+        "es": "granos de espelta, germinados y luego molidos",
+        "fr": "grains d'épeautre, germés puis moulus",
+        "ro": "boabe de alac, încolțite apoi măcinate"
       }
     },
     {
       "key": "flour:barley",
       "grams": 100,
       "note": {
-        "en": "hulled barley, sprouted then milled"
+        "en": "hulled barley, sprouted then milled",
+        "de": "Gerstenkörner (entspelzt), gekeimt dann gemahlen",
+        "es": "cebada descascarillada, germinada y luego molida",
+        "fr": "orge mondé, germé puis moulu",
+        "ro": "orz decorticat, încolțit apoi măcinat"
       }
     },
     {
       "key": "flour:millet",
       "grams": 50,
       "note": {
-        "en": "sprouted then milled"
+        "en": "sprouted then milled",
+        "de": "gekeimt dann gemahlen",
+        "es": "germinado y luego molido",
+        "fr": "germé puis moulu",
+        "ro": "încolțit apoi măcinat"
       }
     },
     {
@@ -140,7 +164,11 @@
       "key": "olive-oil",
       "grams": 108,
       "note": {
-        "en": "or coconut oil"
+        "en": "or coconut oil",
+        "de": "oder Kokosöl",
+        "es": "o aceite de coco",
+        "fr": "ou huile de coco",
+        "ro": "sau ulei de cocos"
       }
     },
     {
@@ -156,7 +184,11 @@
     "count": 2,
     "pieceGrams": 1272,
     "shape": {
-      "en": "sandwich loaf pan"
+      "en": "sandwich loaf pan",
+      "de": "Kastenform",
+      "es": "molde de pan de molde",
+      "fr": "moule à pain de mie",
+      "ro": "tavă de pâine pentru sandvișuri"
     }
   },
   "time": {
@@ -197,7 +229,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "A dense, moist multigrain loaf that keeps well; commercial versions of this bread are always sold refrigerated or frozen since there are no preservatives."
+      "en": "A dense, moist multigrain loaf that keeps well; commercial versions of this bread are always sold refrigerated or frozen since there are no preservatives.",
+      "de": "Ein dichtes, feuchtes Mehrkornbrot, das sich gut hält; kommerzielle Versionen dieses Brotes werden immer gekühlt oder gefroren verkauft, da keine Konservierungsstoffe enthalten sind.",
+      "es": "Un pan denso y húmedo de granos múltiples que se conserva bien; las versiones comerciales de este pan siempre se venden refrigeradas o congeladas ya que no tienen conservantes.",
+      "fr": "Un pain dense et humide aux multiples céréales qui se conserve bien; les versions commerciales de ce pain sont toujours vendues réfrigérées ou congelées car elles ne contiennent pas de conservateurs.",
+      "ro": "O pâine densă și umedă cu mai multe cereale care se păstrează bine; versiunile comerciale ale acestei pâini se vând întotdeauna refrigerate sau congelate deoarece nu conțin conservanți."
     }
   },
   "equipment": [
@@ -307,7 +343,11 @@
     "site": "The Prairie Homestead",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup measurements for grains, legumes and liquids converted to grams using standard dry-grain and liquid weight conventions; the whey option was recorded as water for a dairy-free base."
+      "en": "Cup measurements for grains, legumes and liquids converted to grams using standard dry-grain and liquid weight conventions; the whey option was recorded as water for a dairy-free base.",
+      "de": "Tassenmaße für Getreide, Hülsenfrüchte und Flüssigkeiten mit Standardumrechnungen für Trockengetreide und Flüssigkeitsgewichte in Gramm umgerechnet; die Molkeoption wurde als Wasser für eine milchfreie Basis notiert.",
+      "es": "Medidas en tazas para granos, legumbres y líquidos convertidas a gramos usando convenciones estándar de peso para granos secos y líquidos; la opción de suero se registró como agua para una base sin lácteos.",
+      "fr": "Mesures en tasses pour les céréales, légumineuses et liquides converties en grammes selon les conventions standards de poids des grains secs et des liquides; l'option petit-lait a été notée comme eau pour une base sans produits laitiers.",
+      "ro": "Măsurătorile în căni pentru cereale, leguminoase și lichide convertite în grame folosind convențiile standard de greutate pentru cereale uscate și lichide; opțiunea cu zer a fost înregistrată ca apă pentru o bază fără lactate."
     }
   },
   "tags": [

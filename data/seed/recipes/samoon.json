@@ -23,10 +23,18 @@
   "origin": {
     "country": "IQ",
     "region": {
-      "en": "especially Baghdad"
+      "en": "especially Baghdad",
+      "de": "insbesondere Bagdad",
+      "es": "especialmente Bagdad",
+      "fr": "particulièrement à Bagdad",
+      "ro": "în special Bagdad"
     },
     "note": {
-      "en": "The name traces to Turkish somun, itself from Greek psomos ('bread'); the modern diamond shape is credited to 20th-century Baghdad bakers."
+      "en": "The name traces to Turkish somun, itself from Greek psomos ('bread'); the modern diamond shape is credited to 20th-century Baghdad bakers.",
+      "de": "Der Name geht auf türkisch somun zurück, selbst von griechisch psomos ('Brot'); die moderne Rautenform wird Bagdader Bäckern des 20. Jahrhunderts zugeschrieben.",
+      "es": "El nombre se remonta al turco somun, a su vez del griego psomos ('pan'); la forma de diamante moderna se atribuye a los panaderos de Bagdad del siglo XX.",
+      "fr": "Le nom remonte au turc somun, lui-même du grec psomos ('pain'); la forme de losange moderne est attribuée aux boulangers bagdadis du XXe siècle.",
+      "ro": "Numele provine din turcescul somun, la rândul său din grecescul psomos ('pâine'); forma modernă de diamant este atribuită brutarilor din Bagdad ai secolului XX."
     }
   },
   "leaven": "yeast",
@@ -54,21 +62,33 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "all-purpose flour"
+        "en": "all-purpose flour",
+        "de": "Weizenmehl Type 405",
+        "es": "harina todo uso",
+        "fr": "farine tout usage",
+        "ro": "făină universală"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 12,
       "note": {
-        "en": "wheat bran, whisked into the flour"
+        "en": "wheat bran, whisked into the flour",
+        "de": "Weizenkleie, ins Mehl eingearbeitet",
+        "es": "salvado de trigo, incorporado a la harina",
+        "fr": "son de blé, mélangé à la farine",
+        "ro": "tărâțe de grâu, amestecate în făină"
       }
     },
     {
       "key": "water",
       "grams": 237,
       "note": {
-        "en": "warm, about 37°C, for blooming the yeast and mixing"
+        "en": "warm, about 37°C, for blooming the yeast and mixing",
+        "de": "warm, etwa 37 °C, zum Aktivieren der Hefe und zum Mischen",
+        "es": "tibia, aproximadamente 37 °C, para hidratar la levadura y mezclar",
+        "fr": "tiède, environ 37 °C, pour réhydrater la levure et mélanger",
+        "ro": "călduță, aproximativ 37 °C, pentru activarea drojdiei și amestecare"
       }
     },
     {
@@ -95,14 +115,22 @@
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "beaten with vinegar, for the egg wash"
+        "en": "beaten with vinegar, for the egg wash",
+        "de": "mit Essig verquirlt, zum Bestreichen",
+        "es": "batido con vinagre, para el baño de huevo",
+        "fr": "battu avec du vinaigre, pour la dorure",
+        "ro": "bătut cu oțet, pentru uns deasupra"
       }
     },
     {
       "key": "sesame-seeds",
       "grams": 15,
       "note": {
-        "en": "for topping"
+        "en": "for topping",
+        "de": "zum Bestreuen",
+        "es": "para espolvorear",
+        "fr": "pour saupoudrer",
+        "ro": "pentru topping"
       }
     }
   ],
@@ -110,7 +138,11 @@
     "count": 6,
     "pieceGrams": 165,
     "shape": {
-      "en": "torpedo/diamond, thin tapered ends"
+      "en": "torpedo/diamond, thin tapered ends",
+      "de": "torpedoförmig/Raute, dünne spitz zulaufende Enden",
+      "es": "torpedo/diamante, extremos finos y afilados",
+      "fr": "torpille/losange, extrémités fines et effilées",
+      "ro": "torpilă/diamant, capete subțiri ascuțite"
     }
   },
   "time": {
@@ -152,7 +184,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day it is baked while the crust is crisp; freezes well and refreshes in a hot oven."
+      "en": "Best the day it is baked while the crust is crisp; freezes well and refreshes in a hot oven.",
+      "de": "Am besten am Backtag, solange die Kruste knusprig ist; lässt sich gut einfrieren und im heißen Ofen auffrischen.",
+      "es": "Mejor el día que se hornea mientras la corteza está crujiente; se congela bien y se refresca en un horno caliente.",
+      "fr": "Meilleur le jour de la cuisson tant que la croûte est croustillante; se congèle bien et se raffraîchit au four chaud.",
+      "ro": "Cel mai bun în ziua coacerii cât coaja este crocantă; îngheață bine și se reîmprospătează în cuptorul fierbinte."
     }
   },
   "equipment": [
@@ -262,7 +298,11 @@
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Weights converted from cups/tablespoons; wheat bran folded into the flour total as a small wholegrain share; the bowl of water used only for oven steam is omitted."
+      "en": "Weights converted from cups/tablespoons; wheat bran folded into the flour total as a small wholegrain share; the bowl of water used only for oven steam is omitted.",
+      "de": "Gewichte aus Tassen/Esslöffeln umgerechnet; Weizenkleie als kleiner Vollkornanteil in die Gesamtmehlmenge eingearbeitet; die Schale mit Wasser, die nur für den Ofendampf verwendet wurde, weggelassen.",
+      "es": "Pesos convertidos de tazas/cucharadas; el salvado de trigo incorporado al total de harina como una pequeña porción integral; el cuenco de agua usado solo para el vapor del horno se omite.",
+      "fr": "Poids convertis depuis des tasses/cuillères à soupe; le son de blé incorporé dans le total de farine comme une petite part de complète; le bol d'eau utilisé uniquement pour la vapeur du four est omis.",
+      "ro": "Greutăți convertite din căni/linguri; tărâțele de grâu încorporate în totalul de făină ca o mică parte integrală; vasul cu apă folosit doar pentru aburul cuptorului este omis."
     }
   },
   "tags": [

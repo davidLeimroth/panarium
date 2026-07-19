@@ -23,10 +23,18 @@
   "origin": {
     "country": "MY",
     "region": {
-      "en": "Malaysia (also Singapore and Indonesia)"
+      "en": "Malaysia (also Singapore and Indonesia)",
+      "de": "Malaysia (auch in Singapur und Indonesien)",
+      "es": "Malasia (también en Singapur e Indonesia)",
+      "fr": "Malaisie (également à Singapour et en Indonésie)",
+      "ro": "Malaezia (de asemenea în Singapore și Indonezia)"
     },
     "note": {
-      "en": "Also called roti kirai or jala roti; its net pattern is named directly after fishing nets (jala)."
+      "en": "Also called roti kirai or jala roti; its net pattern is named directly after fishing nets (jala).",
+      "de": "Auch Roti Kirai oder Jala Roti genannt; sein netzartiges Muster ist direkt nach Fischernetzen (jala) benannt.",
+      "es": "También llamado roti kirai o jala roti; su patrón de red se nombra directamente después de las redes de pesca (jala).",
+      "fr": "Aussi appelé roti kirai ou jala roti; son motif de filet est nommé directement d'après les filets de pêche (jala).",
+      "ro": "Numit și roti kirai sau jala roti; modelul său de plasă este denumit direct după plasele de pescuit (jala)."
     }
   },
   "leaven": "none",
@@ -84,7 +92,11 @@
     "count": 16,
     "pieceGrams": 49,
     "shape": {
-      "en": "thin lacy net crepe, ~20 cm, folded into quarters or rolled"
+      "en": "thin lacy net crepe, ~20 cm, folded into quarters or rolled",
+      "de": "dünner, netzartiger Crêpe, ~20 cm, geviertelt gefaltet oder gerollt",
+      "es": "crepe fino de red, ~20 cm, doblado en cuartos o enrollado",
+      "fr": "fine crêpe en filet, ~20 cm, pliée en quatre ou roulée",
+      "ro": "clătită subțire ca o plasă, ~20 cm, împăturită în patru sau rulată"
     }
   },
   "time": {
@@ -124,7 +136,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best fresh and pliable; stack cooled crepes between parchment to prevent tearing, and freeze for later reheating."
+      "en": "Best fresh and pliable; stack cooled crepes between parchment to prevent tearing, and freeze for later reheating.",
+      "de": "Am besten frisch und geschmeidig; abgekühlte Crêpes zwischen Backpapier schichten, um Reißen zu vermeiden, und zum späteren Aufwärmen einfrieren.",
+      "es": "Mejor fresco y flexible; apilar los crepes fríos entre papel de horno para evitar que se rompan, y congelar para recalentar después.",
+      "fr": "Meilleur frais et souple; empiler les crêpes refroidies entre du papier sulfurisé pour éviter qu'elles ne se déchirent, et congeler pour réchauffer plus tard.",
+      "ro": "Cel mai bun proaspăt și flexibil; suprapune clătitele reci între hârtie de copt pentru a preveni ruperea și congelează pentru reîncălzire ulterioară."
     }
   },
   "equipment": [
@@ -233,7 +249,11 @@
     "site": "Taste of Asian Food",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Coconut cream's water content estimated at roughly 68% for hydration purposes, matching this atlas's dairy convention; oil used only to grease the pan and omitted as negligible."
+      "en": "Coconut cream's water content estimated at roughly 68% for hydration purposes, matching this atlas's dairy convention; oil used only to grease the pan and omitted as negligible.",
+      "de": "Wassergehalt der Kokoscreme auf etwa 68 % für die Hydratation geschätzt, entsprechend der Milchprodukte-Konvention dieses Atlasses; Öl nur zum Einfetten der Pfanne verwendet und als vernachlässigbar weggelassen.",
+      "es": "El contenido de agua de la crema de coco se estimó en aproximadamente 68% para fines de hidratación, coincidiendo con la convención de lácteos de este atlas; el aceite usado solo para engrasar la sartén se omitió por despreciable.",
+      "fr": "La teneur en eau de la crème de coco estimée à environ 68% pour l'hydratation, selon la convention laitière de cet atlas; l'huile utilisée uniquement pour graisser la poêle a été omise comme négligeable.",
+      "ro": "Conținutul de apă al cremei de cocos estimat la aproximativ 68% pentru hidratare, conform convenției de lactate a acestui atlas; uleiul folosit doar pentru uns tigaia a fost omis ca neglijabil."
     }
   },
   "tags": [

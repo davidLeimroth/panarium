@@ -21,10 +21,18 @@
   "origin": {
     "country": "NP",
     "region": {
-      "en": "nationwide (also Sikkim, Darjeeling and Kumaon)"
+      "en": "nationwide (also Sikkim, Darjeeling and Kumaon)",
+      "de": "landesweit (auch Sikkim, Darjeeling und Kumaon)",
+      "es": "en todo el país (también Sikkim, Darjeeling y Kumaon)",
+      "fr": "dans tout le pays (également Sikkim, Darjeeling et Kumaon)",
+      "ro": "în toată țara (de asemenea Sikkim, Darjeeling și Kumaon)"
     },
     "note": {
-      "en": "Centered on the Dashain and Tihar festivals, when households fry large batches to share with neighbors and visiting family."
+      "en": "Centered on the Dashain and Tihar festivals, when households fry large batches to share with neighbors and visiting family.",
+      "de": "Konzentriert auf die Dashain- und Tihar-Feste, wenn Haushalte große Mengen frittieren, um sie mit Nachbarn und zu Besuch kommenden Familienmitgliedern zu teilen.",
+      "es": "Centrado en los festivales Dashain y Tihar, cuando los hogares fríen grandes cantidades para compartir con vecinos y familiares visitantes.",
+      "fr": "Centré sur les fêtes de Dashain et Tihar, lorsque les ménages frient de grandes quantités à partager avec les voisins et la famille en visite.",
+      "ro": "Centrat pe festivalurile Dashain și Tihar, când gospodăriile prăjesc cantități mari pentru a împărți cu vecinii și familia în vizită."
     }
   },
   "leaven": "none",
@@ -47,14 +55,22 @@
       "key": "flour:rice",
       "grams": 300,
       "note": {
-        "en": "short-grain rice, soaked 5-6 hours then ground to a paste"
+        "en": "short-grain rice, soaked 5-6 hours then ground to a paste",
+        "de": "Rundkornreis, 5-6 Stunden eingeweicht, dann zu einer Paste gemahlen",
+        "es": "arroz de grano corto, remojado 5-6 horas luego molido hasta obtener una pasta",
+        "fr": "riz à grain court, trempé 5-6 heures puis moulu en pâte",
+        "ro": "orez cu bob rotund, înmuiat 5-6 ore apoi măcinat în pastă"
       }
     },
     {
       "key": "water",
       "grams": 150,
       "note": {
-        "en": "for soaking the rice and thinning the batter; source did not fully quantify, estimated"
+        "en": "for soaking the rice and thinning the batter; source did not fully quantify, estimated",
+        "de": "zum Einweichen des Reises und zum Verdünnen des Teigs; Quelle hat nicht vollständig quantifiziert, geschätzt",
+        "es": "para remojar el arroz y adelgazar la masa; la fuente no cuantificó completamente, estimado",
+        "fr": "pour tremper le riz et fluidifier la pâte ; la source n’a pas entièrement quantifié, estimé",
+        "ro": "pentru înmuiat orezul și subțiat aluatul; sursa nu a cuantificat complet, estimat"
       }
     },
     {
@@ -79,14 +95,22 @@
       "key": "cardamom",
       "grams": 1,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
       "key": "butter",
       "grams": 28,
       "note": {
-        "en": "ghee, melted"
+        "en": "ghee, melted",
+        "de": "Ghee, geschmolzen",
+        "es": "ghee, derretido",
+        "fr": "ghee, fondu",
+        "ro": "ghee, topit"
       }
     },
     {
@@ -97,7 +121,11 @@
       "key": "vegetable-oil",
       "grams": 40,
       "note": {
-        "en": "for deep-frying; amount absorbed is estimated"
+        "en": "for deep-frying; amount absorbed is estimated",
+        "de": "zum Frittieren; aufgenommene Menge ist geschätzt",
+        "es": "para freír; la cantidad absorbida es estimada",
+        "fr": "pour la friture ; la quantité absorbée est estimée",
+        "ro": "pentru prăjit în baie de ulei; cantitatea absorbită este estimată"
       }
     }
   ],
@@ -105,7 +133,11 @@
     "count": 8,
     "pieceGrams": 100,
     "shape": {
-      "en": "ring/pretzel-shaped, deep-fried, ~12 cm diameter"
+      "en": "ring/pretzel-shaped, deep-fried, ~12 cm diameter",
+      "de": "ring-/brezelförmig, frittiert, ~12 cm Durchmesser",
+      "es": "en forma de anillo/pretzel, frito, ~12 cm de diámetro",
+      "fr": "en forme d’anneau/pretzel, frit, ~12 cm de diamètre",
+      "ro": "în formă de inel/covrig, prăjit, ~12 cm diametru"
     }
   },
   "time": {
@@ -147,7 +179,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best fresh, still faintly warm and crackly; toughens by the next day. Freezes reasonably and can be gently reheated."
+      "en": "Best fresh, still faintly warm and crackly; toughens by the next day. Freezes reasonably and can be gently reheated.",
+      "de": "Am besten frisch, noch leicht warm und knusprig; wird bis zum nächsten Tag zäh. Lässt sich gut einfrieren und schonend wieder aufwärmen.",
+      "es": "Mejor fresco, aún ligeramente caliente y crujiente; se endurece al día siguiente. Se congela razonablemente bien y se puede recalentar suavemente.",
+      "fr": "Meilleur frais, encore légèrement chaud et croustillant ; durcit le lendemain. Se congèle raisonnablement bien et peut être doucement réchauffé.",
+      "ro": "Cel mai bun proaspăt, încă ușor cald și crocant; se întărește până a doua zi. Congelează rezonabil și poate fi reîncălzit ușor."
     }
   },
   "equipment": [
@@ -244,10 +280,10 @@
       },
       "summary": {
         "en": "Cook the rings in batches of one or two, turning them carefully with tongs, until golden brown on both sides, then drain on paper towels.",
-        "de": "Ein oder zwei Ringe gleichzeitig frittieren, dabei vorsichtig wenden, bis sie auf beiden Seiten goldbraun sind, dann auf Küchenpapier abtropfen lassen.",
-        "es": "Freír uno o dos anillos a la vez, volteando con cuidado, hasta que estén dorados por ambos lados, luego escurrir sobre papel absorbente.",
-        "fr": "Frire un ou deux anneaux à la fois, en retournant délicatement, jusqu'à ce qu'ils soient dorés des deux côtés, puis égoutter sur du papier absorbant.",
-        "ro": "Prăjește câte unul sau două inele odată, întorcându-le ușor, până devin aurii pe ambele părți, apoi scurge-le pe prosoape de hârtie."
+        "de": "Ein oder zwei Ringe gleichzeitig frittieren, dabei vorsichtig mit einer Zange wenden, bis sie auf beiden Seiten goldbraun sind, dann auf Küchenpapier abtropfen lassen.",
+        "es": "Freír los aros de uno en uno o de dos en dos, dándoles la vuelta con cuidado con pinzas, hasta que estén dorados por ambos lados, luego escurrir sobre papel de cocina.",
+        "fr": "Frire les anneaux un par un ou deux par deux, en les retournant délicatement avec des pinces, jusqu'à ce qu'ils soient dorés des deux côtés, puis égoutter sur du papier absorbant.",
+        "ro": "Prăjește inelele câte unul sau câte două odată, întorcându-le cu grijă cu cleștele, până devin aurii pe ambele părți, apoi scurge pe prosoape de hârtie."
       }
     }
   ],
@@ -256,7 +292,11 @@
     "site": "DelishGlobe",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Omitted the source's optional wheat-flour binder for a traditional rice-only batter; added estimated water since the source didn't specify how much thins the batter; fry-oil absorption estimated."
+      "en": "Omitted the source's optional wheat-flour binder for a traditional rice-only batter; added estimated water since the source didn't specify how much thins the batter; fry-oil absorption estimated.",
+      "de": "Das optionale Weizenmehl-Bindemittel der Quelle weggelassen für einen traditionellen reinen Reisteig; geschätztes Wasser hinzugefügt, da die Quelle nicht angab, wie viel den Teig verdünnt; Frittieröl-Aufnahme geschätzt.",
+      "es": "Se omitió el aglutinante opcional de harina de trigo de la fuente para una masa tradicional solo de arroz; se añadió agua estimada ya que la fuente no especificó cuánto adelgaza la masa; se estimó la absorción de aceite de fritura.",
+      "fr": "Liant facultatif à la farine de blé de la source omis pour une pâte traditionnelle à base de riz uniquement ; eau estimée ajoutée car la source n’a pas précisé la quantité qui fluidifie la pâte ; absorption d’huile de friture estimée.",
+      "ro": "Liantul opțional de făină de grâu din sursă omis pentru un aluat tradițional doar de orez; apă estimată adăugată deoarece sursa nu a specificat cât subțiază aluatul; absorbția uleiului de prăjire estimată."
     }
   },
   "tags": [

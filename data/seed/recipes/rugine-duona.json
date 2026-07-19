@@ -22,10 +22,18 @@
   "origin": {
     "country": "LT",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Rye has anchored Lithuanian daily bread for centuries; the malt scald and honey give the classic sweet-sour profile."
+      "en": "Rye has anchored Lithuanian daily bread for centuries; the malt scald and honey give the classic sweet-sour profile.",
+      "de": "Roggen ist seit Jahrhunderten die Grundlage des litauischen täglichen Brotes; der Malzbrühstück und Honig verleihen das klassische süß-saure Profil.",
+      "es": "El centeno ha sido la base del pan diario lituano durante siglos; el escaldado de malta y la miel le dan el perfil clásico agridulce.",
+      "fr": "Le seigle est le pilier du pain quotidien lituanien depuis des siècles; l'échaudage au malt et le miel lui donnent son profil aigre-doux classique.",
+      "ro": "Secara este baza pâinii zilnice lituaniene de secole; opărirea cu malț și mierea conferă profilul clasic dulce-acrișor."
     }
   },
   "leaven": "sourdough",
@@ -51,7 +59,11 @@
       "key": "flour:rye-whole",
       "grams": 450,
       "note": {
-        "en": "whole rye flour, split across sour, sponge and final dough"
+        "en": "whole rye flour, split across sour, sponge and final dough",
+        "de": "Roggenvollkornmehl, auf Sauerteig, Vorteig und Hauptteig aufgeteilt",
+        "es": "harina integral de centeno, dividida entre masa madre, esponja y masa final",
+        "fr": "farine complète de seigle, répartie entre le levain, la poolish et la pâte finale",
+        "ro": "făină integrală de secară, împărțită între maia, postată și aluatul final"
       }
     },
     {
@@ -66,14 +78,22 @@
       "key": "flour:rye-whole",
       "grams": 35,
       "note": {
-        "en": "red rye malt, for the scald"
+        "en": "red rye malt, for the scald",
+        "de": "rotes Roggenmalz, für das Brühstück",
+        "es": "malta roja de centeno, para el escaldado",
+        "fr": "malt de seigle rouge, pour l'échaudage",
+        "ro": "malț roșu de secară, pentru opărire"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 10,
       "note": {
-        "en": "active rye sour"
+        "en": "active rye sour",
+        "de": "aktiver Roggensauerteig",
+        "es": "masa madre activa de centeno",
+        "fr": "levain de seigle actif",
+        "ro": "maia activă de secară"
       }
     },
     {
@@ -93,7 +113,11 @@
     "count": 1,
     "pieceGrams": 900,
     "shape": {
-      "en": "oblong tin loaf"
+      "en": "oblong tin loaf",
+      "de": "länglicher Kastenformlaib",
+      "es": "hogaza alargada de molde",
+      "fr": "pain oblong en moule",
+      "ro": "pâine alungită de tablă"
     }
   },
   "time": {
@@ -136,7 +160,11 @@
     "freshDays": 8,
     "freezes": true,
     "note": {
-      "en": "Needs a full day's rest minimum before slicing; keeps moist under wrap for over a week."
+      "en": "Needs a full day's rest minimum before slicing; keeps moist under wrap for over a week.",
+      "de": "Mindestens einen ganzen Tag Ruhe vor dem Schneiden; eingewickelt bleibt es über eine Woche feucht.",
+      "es": "Necesita un mínimo de un día entero de reposo antes de rebanar; se mantiene húmedo envuelto durante más de una semana.",
+      "fr": "Nécessite au minimum un jour complet de repos avant de trancher; reste humide emballé pendant plus d'une semaine.",
+      "ro": "Are nevoie de minim o zi întreagă de odihnă înainte de feliat; rămâne umed învelit peste o săptămână."
     }
   },
   "equipment": [
@@ -262,7 +290,11 @@
     "author": "Stanley Ginsberg",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Prefermented-flour share not specified by the source and omitted; malt treated as an addition on top of the 500g flour base, consistent with the source's own percentage framing."
+      "en": "Prefermented-flour share not specified by the source and omitted; malt treated as an addition on top of the 500g flour base, consistent with the source's own percentage framing.",
+      "de": "Anteil an vorgefermentiertem Mehl von der Quelle nicht angegeben und weggelassen; Malz als Zugabe zusätzlich zur 500-g-Mehlbasis behandelt, entsprechend der prozentualen Darstellung der Quelle.",
+      "es": "Proporción de harina pre-fermentada no especificada por la fuente y omitida; la malta se trató como una adición sobre la base de 500 g de harina, coherente con el marco porcentual de la fuente.",
+      "fr": "Part de farine pré-fermentée non spécifiée par la source et omise; le malt traité comme un ajout en plus des 500 g de farine de base, conformément au cadre de pourcentages de la source.",
+      "ro": "Ponderea făinii pre-fermentate nu a fost specificată de sursă și a fost omisă; malțul tratat ca adaos peste baza de 500 g de făină, conform cadrului procentual al sursei."
     }
   },
   "tags": [

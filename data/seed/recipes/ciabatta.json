@@ -21,10 +21,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Adria, Veneto (Rovigo province)"
+      "en": "Adria, Veneto (Rovigo province)",
+      "de": "Adria, Venetien (Provinz Rovigo)",
+      "es": "Adria, Véneto (provincia de Rovigo)",
+      "fr": "Adria, Vénétie (province de Rovigo)",
+      "ro": "Adria, Veneto (provincia Rovigo)"
     },
     "note": {
-      "en": "Trademarked in 1982 by baker-miller Arnaldo Cavallari as 'Ciabatta Italia', created to defend Italian sandwich bread against the encroaching French baguette."
+      "en": "Trademarked in 1982 by baker-miller Arnaldo Cavallari as 'Ciabatta Italia', created to defend Italian sandwich bread against the encroaching French baguette.",
+      "de": "1982 vom Bäcker-Müller Arnaldo Cavallari als Ciabatta Italia markenrechtlich geschützt, geschaffen um italienisches Sandwichbrot gegen die vordringende französische Baguette zu verteidigen.",
+      "es": "Registrada en 1982 por el panadero-molinero Arnaldo Cavallari como Ciabatta Italia, creada para defender el pan de sándwich italiano contra la invasora baguette francesa.",
+      "fr": "Marquée en 1982 par le boulanger-meunier Arnaldo Cavallari sous le nom Ciabatta Italia, créée pour défendre le pain de mie italien face à l'envahissante baguette française.",
+      "ro": "Marcă înregistrată în 1982 de brutarul-morar Arnaldo Cavallari ca Ciabatta Italia, creată pentru a apăra pâinea italiană pentru sandvișuri împotriva baghetei franceze invadatoare."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "fresh-yeast",
       "grams": 7,
       "note": {
-        "en": "2 g in the poolish, 5 g in the final dough"
+        "en": "2 g in the poolish, 5 g in the final dough",
+        "de": "2 g im Poolish, 5 g im Endteig",
+        "es": "2 g en el poolish, 5 g en la masa final",
+        "fr": "2 g dans le poolish, 5 g dans la pâte finale",
+        "ro": "2 g în poolish, 5 g în aluatul final"
       }
     },
     {
@@ -66,7 +78,11 @@
     "count": 2,
     "pieceGrams": 458,
     "shape": {
-      "en": "flattened slipper-shaped loaf"
+      "en": "flattened slipper-shaped loaf",
+      "de": "flacher pantoffelförmiger Laib",
+      "es": "hogaza aplanada en forma de zapatilla",
+      "fr": "pain aplati en forme de pantoufle",
+      "ro": "pâine turtită în formă de papuc"
     }
   },
   "time": {
@@ -107,7 +123,11 @@
     "freshDays": 1.5,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; the thin crust turns chewy fast in humid air, but sliced loaves freeze and toast back to life."
+      "en": "Best the day it's baked; the thin crust turns chewy fast in humid air, but sliced loaves freeze and toast back to life.",
+      "de": "Am besten am Backtag; die dünne Kruste wird bei feuchter Luft schnell zäh, aber aufgeschnittene Laibe lassen sich einfrieren und wieder aufbacken.",
+      "es": "Mejor el día de horneado; la corteza fina se vuelve correosa rápido en aire húmedo, pero las hogazas rebanadas se congelan y vuelven a la vida tostadas.",
+      "fr": "Meilleur le jour de la cuisson; la croûte fine devient vite caoutchouteuse par temps humide, mais les pains tranchés se congèlent et reviennent à la vie au grille-pain.",
+      "ro": "Cel mai bun în ziua coacerii; coaja subțire devine rapid gumoasă în aer umed, dar pâinile feliate se congelează și reînvie la prăjit."
     }
   },
   "equipment": [
@@ -124,10 +144,10 @@
       },
       "summary": {
         "en": "The evening before, whisk equal parts flour and water with a little yeast into a loose batter and leave it out for 12-16 hours; it should double, turning bubbly and domed.",
-        "de": "Am Vorabend gleiche Teile Mehl und Wasser mit etwas Hefe zu einem dünnen Teig verquirlen und bei Raumtemperatur 12-16 Stunden blubbern lassen, bis er gewölbt und wabenartig durchlöchert ist.",
-        "es": "La noche anterior, batir partes iguales de harina y agua con un poco de levadura hasta obtener una masa líquida y dejar burbujear a temperatura ambiente 12-16 horas hasta que esté abombada y alveolada.",
-        "fr": "La veille au soir, fouetter à parts égales farine et eau avec un peu de levure en une pâte liquide et laisser buller à température ambiante 12-16 heures jusqu'à ce qu'elle soit bombée et alvéolée.",
-        "ro": "În seara dinainte, amestecă cantități egale de făină și apă cu puțină drojdie într-o compoziție lichidă și lasă la fermentat, la temperatura camerei, 12-16 ore, până se bombează și se umple de alveole."
+        "de": "Am Vorabend gleiche Teile Mehl und Wasser mit etwas Hefe zu einem dünnen Teig verquirlen und bei Raumtemperatur 12-16 Stunden fermentieren lassen, bis er sich verdoppelt und blasig-wölbig ist.",
+        "es": "La noche anterior, batir partes iguales de harina y agua con un poco de levadura hasta obtener una masa líquida y dejarla reposar 12-16 horas a temperatura ambiente; debe duplicarse, volviéndose burbujeante y abombada.",
+        "fr": "La veille, fouetter à parts égales farine et eau avec un peu de levure pour obtenir une pâte liquide et laisser fermenter 12-16 heures à température ambiante; elle doit doubler de volume, devenir bulleuse et bombée.",
+        "ro": "În seara dinainte, amestecă părți egale de făină și apă cu puțină drojdie până obții o compoziție lichidă și las-o la fermentat 12-16 ore la temperatura camerei; trebuie să se dubleze și să devină spumoasă și bombată."
       }
     },
     {
@@ -200,7 +220,11 @@
     "site": "Biancolievito",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Formula follows this site's poolish method at 80% hydration; the original 1982 Cavallari trademark recipe used a stiffer 70% biga."
+      "en": "Formula follows this site's poolish method at 80% hydration; the original 1982 Cavallari trademark recipe used a stiffer 70% biga.",
+      "de": "Das Rezept folgt der Poolish-Methode dieser Seite bei 80% Hydratation; das originale Cavallari-Markenrezept von 1982 verwendete eine festere Biga mit 70%.",
+      "es": "La fórmula sigue el método poolish de este sitio al 80% de hidratación; la receta original registrada de Cavallari de 1982 usaba una biga más firme al 70%.",
+      "fr": "La formule suit la méthode du poolish de ce site à 80% d'hydratation; la recette originale déposée de Cavallari de 1982 utilisait une biga plus ferme à 70%.",
+      "ro": "Formula urmează metoda poolish a acestui site la 80% hidratare; rețeta originală înregistrată Cavallari din 1982 folosea o biga mai fermă la 70%."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "RO",
     "region": {
-      "en": "Romania and Moldova (also Bulgaria, as kozunak)"
+      "en": "Romania and Moldova (also Bulgaria, as kozunak)",
+      "de": "Rumänien und Moldau (auch Bulgarien, als kozunak)",
+      "es": "Rumanía y Moldavia (también Bulgaria, como kozunak)",
+      "fr": "Roumanie et Moldavie (aussi Bulgarie, comme kozunak)",
+      "ro": "România și Republica Moldova (și Bulgaria, ca kozunak)"
     },
     "note": {
-      "en": "A fixture of both the Christmas and Easter table; related sweet breads under other names span much of the former Ottoman Balkans."
+      "en": "A fixture of both the Christmas and Easter table; related sweet breads under other names span much of the former Ottoman Balkans.",
+      "de": "Ein fester Bestandteil sowohl des Weihnachts- als auch des Ostertisches; verwandte Süßbrote unter anderen Namen erstrecken sich über weite Teile des ehemaligen osmanischen Balkans.",
+      "es": "Un elemento fijo tanto de la mesa navideña como de la de Pascua; panes dulces similares bajo otros nombres se extienden por gran parte de los antiguos Balcanes otomanos.",
+      "fr": "Un incontournable des tables de Noël et de Pâques; des pains sucrés apparentés sous d'autres noms couvrent une grande partie de l'ancien Balkans ottoman.",
+      "ro": "O prezență constantă atât pe masa de Crăciun, cât și pe cea de Paște; pâini dulci înrudite sub alte denumiri se întâlnesc în mare parte din fostul Balcan otoman."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "milk",
       "grams": 240,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "caldă"
       }
     },
     {
@@ -65,14 +77,22 @@
       "key": "sugar",
       "grams": 67,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 72,
       "note": {
-        "en": "about 4 yolks"
+        "en": "about 4 yolks",
+        "de": "etwa 4 Eigelb",
+        "es": "unas 4 yemas",
+        "fr": "environ 4 jaunes",
+        "ro": "aproximativ 4 gălbenușuri"
       }
     },
     {
@@ -89,7 +109,11 @@
       "key": "butter",
       "grams": 85,
       "note": {
-        "en": "unsalted, softened"
+        "en": "unsalted, softened",
+        "de": "ungesalzen, weich",
+        "es": "sin sal, ablandada",
+        "fr": "non salé, ramolli",
+        "ro": "nesărat, înmuiat"
       }
     },
     {
@@ -100,7 +124,11 @@
       "key": "vanilla",
       "grams": 17,
       "note": {
-        "en": "13 g in the dough, 4 g in the filling"
+        "en": "13 g in the dough, 4 g in the filling",
+        "de": "13 g im Teig, 4 g in der Füllung",
+        "es": "13 g en la masa, 4 g en el relleno",
+        "fr": "13 g dans la pâte, 4 g dans la garniture",
+        "ro": "13 g în aluat, 4 g în umplutură"
       }
     },
     {
@@ -111,28 +139,44 @@
       "key": "walnuts",
       "grams": 360,
       "note": {
-        "en": "finely ground, for the filling"
+        "en": "finely ground, for the filling",
+        "de": "fein gemahlen, für die Füllung",
+        "es": "finamente molido, para el relleno",
+        "fr": "finement moulu, pour la garniture",
+        "ro": "măcinat fin, pentru umplutură"
       }
     },
     {
       "key": "sugar",
       "grams": 133,
       "note": {
-        "en": "in the filling"
+        "en": "in the filling",
+        "de": "in der Füllung",
+        "es": "en el relleno",
+        "fr": "dans la garniture",
+        "ro": "în umplutură"
       }
     },
     {
       "key": "egg",
       "grams": 90,
       "note": {
-        "en": "3 egg whites, for the filling"
+        "en": "3 egg whites, for the filling",
+        "de": "3 Eiweiß, für die Füllung",
+        "es": "3 claras de huevo, para el relleno",
+        "fr": "3 blancs d'œufs, pour la garniture",
+        "ro": "3 albușuri, pentru umplutură"
       }
     },
     {
       "key": "cocoa",
       "grams": 18,
       "note": {
-        "en": "unsweetened, for the filling"
+        "en": "unsweetened, for the filling",
+        "de": "ungesüßt, für die Füllung",
+        "es": "sin endulzar, para el relleno",
+        "fr": "non sucré, pour la garniture",
+        "ro": "neîndulcit, pentru umplutură"
       }
     },
     {
@@ -145,7 +189,11 @@
       },
       "grams": 8,
       "note": {
-        "en": "in the filling"
+        "en": "in the filling",
+        "de": "in der Füllung",
+        "es": "en el relleno",
+        "fr": "dans la garniture",
+        "ro": "în umplutură"
       }
     }
   ],
@@ -153,7 +201,11 @@
     "count": 2,
     "pieceGrams": 700,
     "shape": {
-      "en": "twisted double-strand loaf in a pan"
+      "en": "twisted double-strand loaf in a pan",
+      "de": "gedrehter Zweistrang-Laib in einer Form",
+      "es": "hogaza de dos trenzas retorcidas en un molde",
+      "fr": "pain torsadé à deux brins dans un moule",
+      "ro": "pâine răsucită din două șuvițe într-o formă"
     }
   },
   "time": {
@@ -195,7 +247,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Wrapped well, the buttery crumb stays moist for days; freezes nicely sliced for later."
+      "en": "Wrapped well, the buttery crumb stays moist for days; freezes nicely sliced for later.",
+      "de": "Gut eingewickelt bleibt die buttrige Krume tagelang saftig; lässt sich gut in Scheiben einfrieren.",
+      "es": "Bien envuelta, la miga mantecosa se mantiene húmeda durante días; se congela bien en rebanadas.",
+      "fr": "Bien emballée, la mie beurrée reste humide plusieurs jours; se congèle bien tranchée pour plus tard.",
+      "ro": "Bine înfășurată, miezul untos rămâne umed zile întregi; se congelează bine tăiată felii."
     }
   },
   "equipment": [
@@ -321,7 +377,11 @@
     "site": "Let the Baking Begin!",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased; added a small amount of orange zest to the dough as a common regional touch; formula percentages count the dough only, filling sugar/nuts excluded."
+      "en": "Method paraphrased; added a small amount of orange zest to the dough as a common regional touch; formula percentages count the dough only, filling sugar/nuts excluded.",
+      "de": "Methode paraphrasiert; eine kleine Menge Orangenschale zum Teig hinzugefügt als übliche regionale Note; die Prozente beziehen sich nur auf den Teig, Zucker/Nüsse der Füllung ausgenommen.",
+      "es": "Método parafraseado; se añadió un poco de ralladura de naranja a la masa como toque regional común; los porcentajes de la fórmula solo incluyen la masa, excluyendo azúcar/frutos secos del relleno.",
+      "fr": "Méthode paraphrasée; un peu de zeste d'orange ajouté à la pâte comme touche régionale courante; les pourcentages de la formule ne comptent que la pâte, sucre/noix de la garniture exclus.",
+      "ro": "Metodă parafrazată; s-a adăugat o cantitate mică de coajă de portocală în aluat, ca notă regională comună; procentele formulei includ doar aluatul, excluzând zahărul/nucile din umplutură."
     }
   },
   "tags": [

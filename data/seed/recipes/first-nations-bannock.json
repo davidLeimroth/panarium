@@ -21,10 +21,18 @@
   "origin": {
     "country": "CA",
     "region": {
-      "en": "nationwide, especially the Prairies and Métis communities"
+      "en": "nationwide, especially the Prairies and Métis communities",
+      "de": "landesweit, besonders in den Prärien und Métis-Gemeinschaften",
+      "es": "en todo el país, especialmente en las Praderas y las comunidades métis",
+      "fr": "partout au pays, surtout dans les Prairies et les communautés métisses",
+      "ro": "la nivel național, în special în Preriile și comunitățile metise"
     },
     "note": {
-      "en": "Adapted from a Métis recipe demonstrated at Rocky Mountain House National Historic Site, Alberta. Indigenous peoples across Canada have long had versions of this bread; wheat flour and baking powder entered after contact with Scottish fur traders, layered onto older methods."
+      "en": "Adapted from a Métis recipe demonstrated at Rocky Mountain House National Historic Site, Alberta. Indigenous peoples across Canada have long had versions of this bread; wheat flour and baking powder entered after contact with Scottish fur traders, layered onto older methods.",
+      "de": "Adaptiert von einem Métis-Rezept, das im Rocky Mountain House National Historic Site, Alberta, vorgeführt wurde. Indigene Völker in ganz Kanada haben seit langem Versionen dieses Brotes; Weizenmehl und Backpulver kamen nach dem Kontakt mit schottischen Pelzhändlern hinzu und legten sich über ältere Methoden.",
+      "es": "Adaptado de una receta métis demostrada en Rocky Mountain House National Historic Site, Alberta. Los pueblos indígenas de todo Canadá han tenido versiones de este pan desde hace mucho tiempo; la harina de trigo y el polvo de hornear llegaron después del contacto con los comerciantes de pieles escoceses, superponiéndose a métodos más antiguos.",
+      "fr": "Adaptée d'une recette métisse présentée au lieu historique national Rocky Mountain House, en Alberta. Les peuples autochtones du Canada ont longtemps eu des versions de ce pain; la farine de blé et la levure chimique sont arrivées après le contact avec les marchands de fourrures écossais, se superposant aux méthodes plus anciennes.",
+      "ro": "Adaptată după o rețetă metisă demonstrată la Rocky Mountain House National Historic Site, Alberta. Popoarele indigene din întregul Canada au avut de mult timp versiuni ale acestei pâini; făina de grâu și praful de copt au intrat după contactul cu negustorii scoțieni de blănuri, suprapunându-se peste metodele mai vechi."
     }
   },
   "leaven": "chemical",
@@ -58,7 +66,11 @@
       "key": "water",
       "grams": 250,
       "note": {
-        "en": "cold"
+        "en": "cold",
+        "de": "kalt",
+        "es": "fría",
+        "fr": "froide",
+        "ro": "rece"
       }
     }
   ],
@@ -66,7 +78,11 @@
     "count": 4,
     "pieceGrams": 172,
     "shape": {
-      "en": "flattened rounds pressed into a hot pan over an open fire"
+      "en": "flattened rounds pressed into a hot pan over an open fire",
+      "de": "flachgedrückte runde Laibe, in einer heißen Pfanne über offenem Feuer gepresst",
+      "es": "rondas aplanadas presionadas en una sartén caliente sobre fuego abierto",
+      "fr": "cercles aplatis pressés dans une poêle chaude sur un feu ouvert",
+      "ro": "discuri turtite presate într-o tigaie fierbinte pe foc deschis"
     }
   },
   "time": {
@@ -106,7 +122,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best hot from the pan; a simple camp bread meant to be eaten fresh rather than stored."
+      "en": "Best hot from the pan; a simple camp bread meant to be eaten fresh rather than stored.",
+      "de": "Am besten heiß aus der Pfanne; ein einfaches Lagerbrot, das frisch gegessen statt aufbewahrt werden soll.",
+      "es": "Mejor caliente de la sartén; un pan de campamento simple destinado a comerse fresco en lugar de almacenarse.",
+      "fr": "Meilleur chaud de la poêle; un pain de campement simple à manger frais plutôt qu'à conserver.",
+      "ro": "Cel mai bun cald din tigaie; o pâine simplă de tabără menită să fie mâncată proaspătă în loc de păstrată."
     }
   },
   "equipment": [
@@ -215,7 +235,11 @@
     "site": "Parks Canada",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Source gives no salt and no fixed yield; left as in the original rather than adding ingredients not in the source. Portion count and weight are this atlas's own estimate for this size of dough."
+      "en": "Source gives no salt and no fixed yield; left as in the original rather than adding ingredients not in the source. Portion count and weight are this atlas's own estimate for this size of dough.",
+      "de": "Die Quelle gibt kein Salz und keine feste Ausbeute an; wie im Original belassen, anstatt Zutaten hinzuzufügen, die nicht in der Quelle sind. Portionsanzahl und Gewicht sind eine eigene Schätzung dieses Atlas für diese Teigmenge.",
+      "es": "La fuente no da sal ni rendimiento fijo; se dejó como en el original en lugar de agregar ingredientes que no están en la fuente. El número de porciones y el peso son estimaciones propias de este atlas para este tamaño de masa.",
+      "fr": "La source ne donne ni sel ni rendement fixe; laissé tel quel plutôt que d'ajouter des ingrédients absents de la source. Le nombre de portions et le poids sont une estimation propre à cet atlas pour cette taille de pâte.",
+      "ro": "Sursa nu oferă sare și nici un randament fix; lăsat ca în original în loc să se adauge ingrediente care nu sunt în sursă. Numărul de porții și greutatea sunt estimări proprii ale acestui atlas pentru această cantitate de aluat."
     }
   },
   "tags": [

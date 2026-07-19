@@ -22,10 +22,18 @@
   "origin": {
     "country": "UA",
     "region": {
-      "en": "Ukraine and Russia"
+      "en": "Ukraine and Russia",
+      "de": "Ukraine und Russland",
+      "es": "Ucrania y Rusia",
+      "fr": "Ukraine et Russie",
+      "ro": "Ucraina și Rusia"
     },
     "note": {
-      "en": "Etymology traces to a Proto-Slavic root for 'swelling'; spread through Ashkenazi Jewish baking across Poland into Ukraine."
+      "en": "Etymology traces to a Proto-Slavic root for 'swelling'; spread through Ashkenazi Jewish baking across Poland into Ukraine.",
+      "de": "Etymologie geht auf eine protoslawische Wurzel für ‚Schwellung‘ zurück; verbreitete sich über aschkenasisch-jüdische Backkunst durch Polen bis in die Ukraine.",
+      "es": "La etimología se remonta a una raíz protoeslava que significa ‚hinchazón‘; se extendió a través de la panadería judía asquenazí por Polonia hasta Ucrania.",
+      "fr": "L'étymologie remonte à une racine proto-slave signifiant ‚gonflement‘; s'est répandue à travers la boulangerie juive ashkénaze de la Pologne à l'Ukraine.",
+      "ro": "Etimologia duce la o rădăcină proto-slavă pentru ‚umflare‘; s-a răspândit prin coacerea evreiască așkenază din Polonia în Ucraina."
     }
   },
   "leaven": "yeast",
@@ -65,14 +73,22 @@
       "key": "egg",
       "grams": 60,
       "note": {
-        "en": "whites only, for the dough"
+        "en": "whites only, for the dough",
+        "de": "nur Eiweiß, für den Teig",
+        "es": "solo claras, para la masa",
+        "fr": "blancs seulement, pour la pâte",
+        "ro": "doar albușurile, pentru aluat"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 40,
       "note": {
-        "en": "for the glaze, mixed with milk"
+        "en": "for the glaze, mixed with milk",
+        "de": "für den Glanz, mit Milch vermischt",
+        "es": "para el glaseado, mezclado con leche",
+        "fr": "pour la dorure, mélangé avec du lait",
+        "ro": "pentru glazură, amestecat cu lapte"
       }
     },
     {
@@ -87,14 +103,22 @@
       "key": "milk",
       "grams": 30,
       "note": {
-        "en": "for the glaze"
+        "en": "for the glaze",
+        "de": "für den Glanz",
+        "es": "para el glaseado",
+        "fr": "pour la dorure",
+        "ro": "pentru glazură"
       }
     },
     {
       "key": "poppy-seeds",
       "grams": 15,
       "note": {
-        "en": "or sesame seeds, for topping"
+        "en": "or sesame seeds, for topping",
+        "de": "oder Sesamsamen, zum Bestreuen",
+        "es": "o semillas de sésamo, para cubrir",
+        "fr": "ou graines de sésame, pour la garniture",
+        "ro": "sau semințe de susan, pentru ornare"
       }
     }
   ],
@@ -102,7 +126,11 @@
     "count": 15,
     "pieceGrams": 70,
     "shape": {
-      "en": "ring with a large center hole, boiled then baked"
+      "en": "ring with a large center hole, boiled then baked",
+      "de": "Ring mit großem Mittelloch, gekocht dann gebacken",
+      "es": "anillo con un gran agujero central, hervido y luego horneado",
+      "fr": "anneau avec un grand trou central, bouilli puis cuit au four",
+      "ro": "inel cu o gaură mare în centru, fiert apoi copt"
     }
   },
   "time": {
@@ -143,7 +171,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Gets drier and chewier with age, traditionally still good a few days on, dunked in tea."
+      "en": "Gets drier and chewier with age, traditionally still good a few days on, dunked in tea.",
+      "de": "Wird mit der Zeit trockener und zäher, traditionell noch nach einigen Tagen gut, in Tee getunkt.",
+      "es": "Se vuelve más seco y masticable con el tiempo, tradicionalmente todavía bueno unos días después, mojado en té.",
+      "fr": "Devient plus sec et plus caoutchouteux avec le temps, traditionnellement encore bon quelques jours plus tard, trempé dans le thé.",
+      "ro": "Devine mai uscat și mai gumos cu timpul, tradițional încă bun câteva zile mai târziu, înmuiat în ceai."
     }
   },
   "equipment": [
@@ -268,7 +300,11 @@
     "site": "196 Flavors",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration computed with the milk/egg/butter water-equivalent convention; egg whites go into the dough, yolks are reserved for the glaze per the source's method."
+      "en": "Hydration computed with the milk/egg/butter water-equivalent convention; egg whites go into the dough, yolks are reserved for the glaze per the source's method.",
+      "de": "Hydratation nach der Wasseräquivalent-Konvention für Milch/Ei/Butter berechnet; Eiweiß kommt in den Teig, Eigelb wird für den Glanz nach Methode der Quelle zurückbehalten.",
+      "es": "Hidratación calculada con la convención de equivalente de agua de leche/huevo/mantequilla; las claras van a la masa, las yemas se reservan para el glaseado según el método de la fuente.",
+      "fr": "Hydratation calculée avec la convention d'équivalent en eau du lait/œuf/beurre; les blancs d'œufs vont dans la pâte, les jaunes sont réservés pour la dorure selon la méthode de la source.",
+      "ro": "Hidratarea calculată cu convenția echivalentului de apă pentru lapte/ou/unt; albușurile merg în aluat, gălbenușurile se rezervă pentru glazură conform metodei sursei."
     }
   },
   "tags": [

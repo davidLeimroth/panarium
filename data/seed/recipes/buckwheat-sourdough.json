@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Pacific Northwest artisan bakeries"
+      "en": "Pacific Northwest artisan bakeries",
+      "de": "Handwerksbäckereien im Pazifischen Nordwesten",
+      "es": "Panaderías artesanales del Pacífico Noroeste",
+      "fr": "Boulangeries artisanales du Nord-Ouest Pacifique",
+      "ro": "Brutării artizanale din Pacific Northwest"
     },
     "note": {
-      "en": "Built around a Pacific Northwest stone-milled high-extraction flour; buckwheat itself is native to Central Asia, but this scalding technique and formula are a contemporary artisan development."
+      "en": "Built around a Pacific Northwest stone-milled high-extraction flour; buckwheat itself is native to Central Asia, but this scalding technique and formula are a contemporary artisan development.",
+      "de": "Basiert auf einem steingemahlenen High-Extraction-Mehl aus dem Pazifischen Nordwesten; Buchweizen selbst stammt aus Zentralasien, aber diese Brüh-Technik und Rezeptur sind eine zeitgenössische Handwerksentwicklung.",
+      "es": "Construido alrededor de una harina de alta extracción molida a piedra del Pacífico Noroeste; el trigo sarraceno en sí es nativo de Asia Central, pero esta técnica de escaldado y fórmula son un desarrollo artesanal contemporáneo.",
+      "fr": "Construit autour d'une farine de haute extraction moulue sur pierre du Nord-Ouest Pacifique; le sarrasin lui-même est originaire d'Asie centrale, mais cette technique d'échaudage et cette formule sont un développement artisanal contemporain.",
+      "ro": "Construit în jurul unei făini de extracție înaltă măcinate cu piatră din Pacific Northwest; hrișca în sine este nativă din Asia Centrală, dar această tehnică de opărire și formulă sunt o dezvoltare artizanală contemporană."
     }
   },
   "leaven": "sourdough",
@@ -53,21 +61,33 @@
       "key": "flour:wheat-whole",
       "grams": 687,
       "note": {
-        "en": "high-extraction (Type 85-style) flour"
+        "en": "high-extraction (Type 85-style) flour",
+        "de": "High-Extraction-Mehl (Type-85-Stil)",
+        "es": "harina de alta extracción (estilo Tipo 85)",
+        "fr": "farine de haute extraction (style Type 85)",
+        "ro": "făină de extracție înaltă (stil Tip 85)"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 183,
       "note": {
-        "en": "regular whole wheat flour"
+        "en": "regular whole wheat flour",
+        "de": "normales Vollkornweizenmehl",
+        "es": "harina integral de trigo normal",
+        "fr": "farine de blé complète ordinaire",
+        "ro": "făină integrală de grâu obișnuită"
       }
     },
     {
       "key": "flour:buckwheat",
       "grams": 46,
       "note": {
-        "en": "scalded with boiling water before mixing"
+        "en": "scalded with boiling water before mixing",
+        "de": "vor dem Mischen mit kochendem Wasser überbrüht",
+        "es": "escaldada con agua hirviendo antes de mezclar",
+        "fr": "échaudée à l'eau bouillante avant le mélange",
+        "ro": "opărită cu apă clocotită înainte de amestecare"
       }
     },
     {
@@ -86,14 +106,22 @@
       "key": "malt-syrup",
       "grams": 46,
       "note": {
-        "en": "barley malt syrup"
+        "en": "barley malt syrup",
+        "de": "Gerstenmalzsirup",
+        "es": "jarabe de malta de cebada",
+        "fr": "sirop de malt d'orge",
+        "ro": "sirop de malț de orz"
       }
     },
     {
       "key": "anise",
       "grams": 6,
       "note": {
-        "en": "ground aniseed"
+        "en": "ground aniseed",
+        "de": "gemahlener Anis",
+        "es": "anís molido",
+        "fr": "anis moulu",
+        "ro": "anason măcinat"
       }
     }
   ],
@@ -101,7 +129,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {
@@ -297,7 +329,11 @@
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown (no exact taxonomy match); ingredient list keeps the flour as named in the source."
+      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown (no exact taxonomy match); ingredient list keeps the flour as named in the source.",
+      "de": "High-Extraction-Mehl als 60/40-Mischung aus Weiß- und Vollkornweizen für die Rezeptur-Aufschlüsselung modelliert (keine exakte Taxonomie-Entsprechung); die Zutatenliste behält das Mehl so bei, wie in der Quelle benannt.",
+      "es": "Harina de alta extracción modelada como una mezcla 60/40 de harina blanca e integral para el desglose de la fórmula (sin coincidencia exacta en la taxonomía); la lista de ingredientes mantiene la harina como se nombra en la fuente.",
+      "fr": "Farine de haute extraction modélisée comme un mélange 60/40 de farine blanche et complète pour la décomposition de la formule (pas de correspondance taxonomique exacte); la liste d'ingrédients conserve la farine telle que nommée dans la source.",
+      "ro": "Făina de extracție înaltă modelată ca un amestec 60/40 făină albă/integrală pentru defalcarea formulei (fără o potrivire exactă a taxonomiei); lista de ingrediente păstrează făina așa cum este numită în sursă."
     }
   },
   "tags": [

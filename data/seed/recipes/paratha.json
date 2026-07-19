@@ -23,10 +23,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "Punjab, North India"
+      "en": "Punjab, North India",
+      "de": "Punjab, Nordindien",
+      "es": "Punjab, norte de India",
+      "fr": "Pendjab, nord de l'Inde",
+      "ro": "Punjab, nordul Indiei"
     },
     "note": {
-      "en": "The lachha (spiral-layered) style is a Punjabi specialty; plainer paratha variants exist across the whole subcontinent."
+      "en": "The lachha (spiral-layered) style is a Punjabi specialty; plainer paratha variants exist across the whole subcontinent.",
+      "de": "Der Lachha-Stil (spiralförmig geschichtet) ist eine punjabische Spezialität; schlichtere Paratha-Varianten gibt es im ganzen Subkontinent.",
+      "es": "El estilo lachha (en espiral en capas) es una especialidad panyabí; existen variantes de paratha más sencillas en todo el subcontinente.",
+      "fr": "Le style lachha (en spirale stratifiée) est une spécialité pendjabie ; des variantes de paratha plus simples existent dans tout le sous-continent.",
+      "ro": "Stilul lachha (în spirală stratificată) este o specialitate punjabi; variante mai simple de paratha există în tot subcontinentul."
     }
   },
   "leaven": "none",
@@ -48,7 +56,11 @@
       "key": "flour:wheat-whole",
       "grams": 250,
       "note": {
-        "en": "atta"
+        "en": "atta",
+        "de": "Atta",
+        "es": "atta",
+        "fr": "atta",
+        "ro": "atta"
       }
     },
     {
@@ -63,7 +75,11 @@
       "key": "vegetable-oil",
       "grams": 27,
       "note": {
-        "en": "kneaded into the dough"
+        "en": "kneaded into the dough",
+        "de": "in den Teig eingeknetet",
+        "es": "amasada en la masa",
+        "fr": "pétri dans la pâte",
+        "ro": "framântată în aluat"
       }
     },
     {
@@ -76,7 +92,11 @@
       },
       "grams": 54,
       "note": {
-        "en": "for laminating layers and pan-frying"
+        "en": "for laminating layers and pan-frying",
+        "de": "zum Schichten und Braten in der Pfanne",
+        "es": "para laminar capas y freır en sartén",
+        "fr": "pour le feuilletage et la cuisson à la poêle",
+        "ro": "pentru stratificare şi prăjire în tigaie"
       }
     },
     {
@@ -89,7 +109,11 @@
       },
       "grams": 2,
       "note": {
-        "en": "optional, kneaded into dough"
+        "en": "optional, kneaded into dough",
+        "de": "optional, in den Teig eingeknetet",
+        "es": "opcional, amasada en la masa",
+        "fr": "optionnel, pétri dans la pâte",
+        "ro": "optional, framântată în aluat"
       }
     }
   ],
@@ -97,7 +121,11 @@
     "count": 4,
     "pieceGrams": 125,
     "shape": {
-      "en": "layered spiral disc"
+      "en": "layered spiral disc",
+      "de": "geschichtete Spiralscheibe",
+      "es": "disco espiral en capas",
+      "fr": "disque spiralé en couches",
+      "ro": "disc în spirală stratificată"
     }
   },
   "time": {
@@ -138,7 +166,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Eat hot off the tawa for maximum flakiness; reheats on a dry tawa but layers soften with time. Freeze uncooked rounds between parchment."
+      "en": "Eat hot off the tawa for maximum flakiness; reheats on a dry tawa but layers soften with time. Freeze uncooked rounds between parchment.",
+      "de": "Heiß vom Tawa für maximale Schichtung essen; auf trockenem Tawa aufwärmbar, aber die Schichten werden mit der Zeit weicher. Ungekochte Runden zwischen Backpapier einfrieren.",
+      "es": "Comer caliente directamente del tawa para máxima hojaldre; se recalienta en un tawa seco pero las capas se ablandan con el tiempo. Congelar los discos crudos entre papel de horno.",
+      "fr": "Manger chaud du tawa pour un maximum de feuilletage ; se rechauffe sur un tawa sec mais les couches ramollissent avec le temps. Congeler les disques crus entre du papier cuisson.",
+      "ro": "Mâncă încingă direct de pe tawa pentru mărimea solzire; se reincălzeşte pe un tawa uscat dar straturile se înmoaie în timp. Congelă discurile necoapte între hârtie de copt."
     }
   },
   "equipment": [
@@ -247,7 +279,11 @@
     "site": "Hebbar's Kitchen",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Source gave water and ghee only as \"as needed\"/relative cup measures; gram quantities and hydration/fat percentages are reasonable home-baking estimates flagged as such."
+      "en": "Source gave water and ghee only as \"as needed\"/relative cup measures; gram quantities and hydration/fat percentages are reasonable home-baking estimates flagged as such.",
+      "de": "Die Quelle gab Wasser und Ghee nur als „nach Bedarf“/relative Tassenmaße an; Grammengen und Hydratations-/Fettprozente sind vernünftige Haushaltsschätzungen, die als solche gekennzeichnet sind.",
+      "es": "La fuente dio el agua y el ghee solo como \"al gusto\"/medidas relativas de taza; las cantidades en gramos y los porcentajes de hidratación/grasa son estimaciones domésticas razonables indicadas como tales.",
+      "fr": "La source n'a donné l'eau et le ghee qu'en « à volonté »/mesures relatives en tasse ; les quantités en grammes et les pourcentages d'hydratation/matière grasse sont des estimations domestiques raisonnables signalées comme telles.",
+      "ro": "Sursa a dat apa şi ghee număi ca „după necesitate”/măsuri relative de cană; cantităţile în grame şi procentele de hidratare/grasime sunt estimări casnice rezonabile semnalate ca atare."
     }
   },
   "tags": [

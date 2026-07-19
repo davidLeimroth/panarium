@@ -24,10 +24,18 @@
   "origin": {
     "country": "UA",
     "region": {
-      "en": "with parallel Slovak, Rusyn and Carpatho-Rusyn variants across Central-Eastern Europe"
+      "en": "with parallel Slovak, Rusyn and Carpatho-Rusyn variants across Central-Eastern Europe",
+      "de": "mit parallelen slowakischen, rusynischen und karpatenrusynischen Varianten in ganz Ostmitteleuropa",
+      "es": "con variantes paralelas eslovacas, rusinas y carpatho-rusinas en toda Europa centro-oriental",
+      "fr": "avec des variantes parallèles slovaques, rusynes et carpatho-rusynes à travers l'Europe centrale-orientale",
+      "ro": "cu variante paralele slovace, ruse și carpatin-ruse în toată Europa Central-Răsăriteană"
     },
     "note": {
-      "en": "Close relatives include Slovak kolač and Carpatho-Rusyn wedding breads, all ring-shaped and ceremonial. Not to be confused with Czech/Texan kolache, a small filled sweet bun that is a completely different pastry."
+      "en": "Close relatives include Slovak kolač and Carpatho-Rusyn wedding breads, all ring-shaped and ceremonial. Not to be confused with Czech/Texan kolache, a small filled sweet bun that is a completely different pastry.",
+      "de": "Nahe Verwandte umfassen den slowakischen Kolač und karpatenrusynische Hochzeitsbrote, alle ringförmig und zeremoniell. Nicht zu verwechseln mit dem tschechischen/texanischen Kolache, einem kleinen gefüllten süßen Brötchen, das ein völlig anderes Gebäck ist.",
+      "es": "Parientes cercanos incluyen el kolač eslovaco y los panes de boda carpatho-rusinos, todos en forma de anillo y ceremoniales. No confundir con el kolache checo/texano, un pequeño bollo dulce relleno que es una pastelería completamente diferente.",
+      "fr": "Les parents proches incluent le kolač slovaque et les pains de mariage carpatho-rusynes, tous en forme d'anneau et cérémoniels. À ne pas confondre avec le kolache tchèque/texan, un petit pain sucré fourré qui est une pâtisserie complètement différente.",
+      "ro": "Rudele apropiate includ kolač-ul slovac și pâinile de nuntă carpatin-ruse, toate în formă de inel și ceremoniale. A nu se confunda cu kolache-ul ceh/texan, o chiflă mică dulce umplută care este o patiserie complet diferită."
     }
   },
   "leaven": "yeast",
@@ -52,28 +60,44 @@
       "key": "flour:wheat-white",
       "grams": 156,
       "note": {
-        "en": "for the sponge/starter"
+        "en": "for the sponge/starter",
+        "de": "für den Vorteig/Starter",
+        "es": "para la esponja/fermento",
+        "fr": "pour la pâte levain/sponge",
+        "ro": "pentru maia/start"
       }
     },
     {
       "key": "milk",
       "grams": 120,
       "note": {
-        "en": "warm, for the starter"
+        "en": "warm, for the starter",
+        "de": "warm, für den Starter",
+        "es": "tibia, para el fermento",
+        "fr": "tiède, pour le levain",
+        "ro": "călduță, pentru maia"
       }
     },
     {
       "key": "instant-yeast",
       "grams": 6,
       "note": {
-        "en": "split between starter and dough"
+        "en": "split between starter and dough",
+        "de": "aufgeteilt zwischen Starter und Teig",
+        "es": "dividido entre fermento y masa",
+        "fr": "réparti entre levain et pâte",
+        "ro": "împărțit între maia și aluat"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 255,
       "note": {
-        "en": "for the final dough"
+        "en": "for the final dough",
+        "de": "für den Endteig",
+        "es": "para la masa final",
+        "fr": "pour la pâte finale",
+        "ro": "pentru aluatul final"
       }
     },
     {
@@ -84,7 +108,11 @@
       "key": "butter",
       "grams": 56,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "înmuiat"
       }
     },
     {
@@ -99,7 +127,11 @@
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
@@ -116,14 +148,22 @@
       },
       "grams": 20,
       "note": {
-        "en": "flavoring; rum can be omitted"
+        "en": "flavoring; rum can be omitted",
+        "de": "Aroma; Rum kann weggelassen werden",
+        "es": "saborizante; el ron puede omitirse",
+        "fr": "arôme; le rhum peut être omis",
+        "ro": "aromatizare; romul poate fi omis"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for egg wash, brushed before baking; not counted in hydration"
+        "en": "for egg wash, brushed before baking; not counted in hydration",
+        "de": "zum Bestreichen, vor dem Backen aufgetragen; nicht in der Hydratation gezählt",
+        "es": "para el baño de huevo, pincelado antes de hornear; no contabilizado en la hidratación",
+        "fr": "pour la dorure, badigeonné avant la cuisson; non compté dans l'hydratation",
+        "ro": "pentru spălarea cu ou, uns înainte de coacere; nu se numără la hidratare"
       }
     }
   ],
@@ -131,7 +171,11 @@
     "count": 1,
     "pieceGrams": 780,
     "shape": {
-      "en": "one large braided ring (stacked 3-high for Christmas Eve)"
+      "en": "one large braided ring (stacked 3-high for Christmas Eve)",
+      "de": "ein großer geflochtener Ring (für Heiligabend dreifach gestapelt)",
+      "es": "un gran anillo trenzado (apilado en 3 niveles para Nochebuena)",
+      "fr": "un grand anneau tressé (empilé en 3 hauteurs pour le réveillon de Noël)",
+      "ro": "un inel mare împlătit (stivuit 3 niveluri pentru Ajunul Crăciunului)"
     }
   },
   "time": {
@@ -173,7 +217,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Stays soft longer than a lean loaf thanks to the egg and butter; wrap well once cooled."
+      "en": "Stays soft longer than a lean loaf thanks to the egg and butter; wrap well once cooled.",
+      "de": "Bleibt dank Ei und Butter länger weich als ein magerer Laib; nach dem Abkühlen gut einwickeln.",
+      "es": "Se mantiene blando más tiempo que un pan magro gracias al huevo y la mantequilla; envolver bien una vez enfriado.",
+      "fr": "Reste moelleux plus longtemps qu'un pain maigre grâce à l'œuf et au beurre; bien emballer une fois refroidi.",
+      "ro": "Rămâne moale mai mult timp decât o pâine slabă datorită oului și untului; înfășoară bine odată răcit."
     }
   },
   "equipment": [
@@ -299,7 +347,11 @@
     "site": "A Bread A Day",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Vanilla, rum and lemon extract combined into one flavoring line; egg-wash egg excluded from hydration % as a surface treatment, not dough liquid."
+      "en": "Vanilla, rum and lemon extract combined into one flavoring line; egg-wash egg excluded from hydration % as a surface treatment, not dough liquid.",
+      "de": "Vanille, Rum und Zitronenextrakt in einer Aromazeile zusammengefasst; das Ei zum Bestreichen vom Hydratationsprozess ausgeschlossen, da Oberflächenbehandlung, keine Teigflüssigkeit.",
+      "es": "Vainilla, ron y extracto de limón combinados en una línea de saborizante; el huevo para el baño excluido del % de hidratación como tratamiento de superficie, no líquido de masa.",
+      "fr": "Vanille, rhum et extrait de citron combinés en une seule ligne d'arôme; l'œuf de dorure exclu du % d'hydratation en tant que traitement de surface, pas un liquide de pâte.",
+      "ro": "Vanilia, romul și extractul de lămâie combinate într-o singură linie de aromatizare; oul pentru spălare exclus din % de hidratare ca tratament de suprafață, nu lichid de aluat."
     }
   },
   "tags": [

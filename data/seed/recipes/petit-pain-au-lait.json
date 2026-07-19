@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national"
+      "en": "national",
+      "de": "national",
+      "es": "nacional",
+      "fr": "national",
+      "ro": "națională"
     },
     "note": {
-      "en": "The everyday, less-buttery cousin of brioche, sold in every French bakery for breakfast and school lunchboxes."
+      "en": "The everyday, less-buttery cousin of brioche, sold in every French bakery for breakfast and school lunchboxes.",
+      "de": "Der alltägliche, weniger buttrige Verwandte von Brioche, der in jeder französischen Bäckerei zum Frühstück und für Schulbrotdosen verkuauft wird.",
+      "es": "El primo cotidiano menos mantecoso del brioche, que se vende en todas las panaderías francesas para el desayuno y las loncheras escolares.",
+      "fr": "Le cousin quotidien moins beurré de la brioche, vendu dans toutes les boulangeries francaises pour le petit-dejeuner et les lunchbox scolaires.",
+      "ro": "Verișorul cotidian mai puțin uns al briosei, vandut în fiecare brutarie franceză pentru micul dejun şi pachețele de şcoală."
     }
   },
   "leaven": "yeast",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-white",
       "grams": 300,
       "note": {
-        "en": "T55"
+        "en": "T55",
+        "de": "T55",
+        "es": "T55",
+        "fr": "T55",
+        "ro": "T55"
       }
     },
     {
@@ -62,7 +74,11 @@
       "key": "egg",
       "grams": 30,
       "note": {
-        "en": "1 egg white"
+        "en": "1 egg white",
+        "de": "1 Eiweiß",
+        "es": "1 clara de huevo",
+        "fr": "1 blanc d'œuf",
+        "ro": "1 albuş"
       }
     },
     {
@@ -81,7 +97,11 @@
       "key": "egg-yolk",
       "grams": 15,
       "note": {
-        "en": "for the egg wash"
+        "en": "for the egg wash",
+        "de": "für die Eiglasur",
+        "es": "para el barnizado de huevo",
+        "fr": "pour la dorée à l'œuf",
+        "ro": "pentru uns cu ou"
       }
     }
   ],
@@ -89,7 +109,11 @@
     "count": 9,
     "pieceGrams": 60,
     "shape": {
-      "en": "small oval roll"
+      "en": "small oval roll",
+      "de": "kleine ovale Rolle",
+      "es": "panecillo ovalado pequeno",
+      "fr": "petit pain ovale",
+      "ro": "chiflă ovălă mică"
     }
   },
   "time": {
@@ -130,7 +154,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Small enriched rolls freeze and reheat very well."
+      "en": "Small enriched rolls freeze and reheat very well.",
+      "de": "Kleine Feinbackbrötchen gefrieren und taun sehr gut.",
+      "es": "Los panecillos enriquecidos pequenos se congelan y recalientan muy bien.",
+      "fr": "Les petits pains enrichis se congelent et se réchauffent très bien.",
+      "ro": "Chiflele mici imbogaţite se congelă şi se reincălzesc foarte bine."
     }
   },
   "equipment": [

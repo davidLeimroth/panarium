@@ -23,7 +23,11 @@
   "origin": {
     "country": "PL",
     "note": {
-      "en": "Close kin to babka and stollen; poppy seeds are a traditional symbol of wealth and abundance for the year ahead, especially at the Christmas Eve supper (Wigilia)."
+      "en": "Close kin to babka and stollen; poppy seeds are a traditional symbol of wealth and abundance for the year ahead, especially at the Christmas Eve supper (Wigilia).",
+      "de": "Eng verwandt mit Babka und Stollen; Mohn gilt als traditionelles Symbol für Wohlstand und Überfluss im kommenden Jahr, besonders beim Heiligabend-Essen (Wigilia).",
+      "es": "Emparentado con el babka y el stollen; las semillas de amapola son un símbolo tradicional de riqueza y abundancia para el año venidero, especialmente en la cena de Nochebuena (Wigilia).",
+      "fr": "Proche parent de la babka et du stollen; les graines de pavot sont un symbole traditionnel de richesse et d'abondance pour l'année à venir, surtout au souper du Réveillon de Noël (Wigilia).",
+      "ro": "Rudă apropiată cu babka și stollen; semințele de mac sunt un simbol tradițional al bogăției și abundenței pentru anul care vine, în special la cina de Ajunul Crăciunului (Wigilia)."
     }
   },
   "leaven": "yeast",
@@ -54,14 +58,22 @@
       "key": "sugar",
       "grams": 15,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
       "key": "sugar",
       "grams": 100,
       "note": {
-        "en": "for the poppyseed filling"
+        "en": "for the poppyseed filling",
+        "de": "für die Mohnfüllung",
+        "es": "para el relleno de amapola",
+        "fr": "pour la garniture aux graines de pavot",
+        "ro": "pentru umplutura de mac"
       }
     },
     {
@@ -76,49 +88,77 @@
       "key": "egg-yolk",
       "grams": 40,
       "note": {
-        "en": "2 yolks, for the dough"
+        "en": "2 yolks, for the dough",
+        "de": "2 Eigelb, für den Teig",
+        "es": "2 yemas, para la masa",
+        "fr": "2 jaunes, pour la pâte",
+        "ro": "2 gălbenușuri, pentru aluat"
       }
     },
     {
       "key": "butter",
       "grams": 50,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
       "key": "butter",
       "grams": 10,
       "note": {
-        "en": "melted into the filling"
+        "en": "melted into the filling",
+        "de": "in die Füllung geschmolzen",
+        "es": "derretida en el relleno",
+        "fr": "fondu dans la garniture",
+        "ro": "topit în umplutură"
       }
     },
     {
       "key": "poppy-seeds",
       "grams": 300,
       "note": {
-        "en": "soaked in boiling water, then drained and finely ground"
+        "en": "soaked in boiling water, then drained and finely ground",
+        "de": "in kochendem Wasser eingeweicht, dann abgetropft und fein gemahlen",
+        "es": "remojado en agua hirviendo, luego escurrido y molido finamente",
+        "fr": "trempé dans l'eau bouillante, puis égoutté et finement moulu",
+        "ro": "înmuiat în apă clocotită, apoi scurs și măcinat fin"
       }
     },
     {
       "key": "egg",
       "grams": 60,
       "note": {
-        "en": "whites only, bind the filling"
+        "en": "whites only, bind the filling",
+        "de": "nur Eiweiß, bindet die Füllung",
+        "es": "solo claras, ligan el relleno",
+        "fr": "blancs seulement, lient la garniture",
+        "ro": "doar albușuri, leagă umplutura"
       }
     },
     {
       "key": "honey",
       "grams": 64,
       "note": {
-        "en": "in the filling"
+        "en": "in the filling",
+        "de": "in der Füllung",
+        "es": "en el relleno",
+        "fr": "dans la garniture",
+        "ro": "în umplutură"
       }
     },
     {
       "key": "raisins",
       "grams": 150,
       "note": {
-        "en": "folded into the filling"
+        "en": "folded into the filling",
+        "de": "in die Füllung eingefaltet",
+        "es": "incorporado al relleno",
+        "fr": "incorporé à la garniture",
+        "ro": "încorporat în umplutură"
       }
     }
   ],
@@ -126,7 +166,11 @@
     "count": 2,
     "pieceGrams": 700,
     "shape": {
-      "en": "tight spiral log, sliced crosswise"
+      "en": "tight spiral log, sliced crosswise",
+      "de": "fester spiraliger Strudel, in Scheiben geschnitten",
+      "es": "rollo en espiral apretado, rebanado transversalmente",
+      "fr": "bûche en spirale serrée, tranchée en travers",
+      "ro": "buștean spiralat strâns, feliat transversal"
     }
   },
   "time": {
@@ -168,7 +212,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Improves overnight as the filling settles; slice thin once fully cooled so the spiral holds together."
+      "en": "Improves overnight as the filling settles; slice thin once fully cooled so the spiral holds together.",
+      "de": "Wird über Nacht besser, wenn sich die Füllung setzt; erst wenn vollständig abgekühlt in dünne Scheiben schneiden, damit die Spirale zusammenhält.",
+      "es": "Mejora de un día para otro al asentarse el relleno; cortar en rodajas finas una vez completamente frío para que la espiral se mantenga unida.",
+      "fr": "S'améliore après une nuit lorsque la garniture se stabilise; trancher finement une fois complètement refroidi pour que la spirale tienne.",
+      "ro": "Se îmbunătățește peste noapte pe măsură ce umplutura se așază; feliază subțire odată complet răcit pentru ca spirala să rămână întreagă."
     }
   },
   "equipment": [
@@ -186,10 +234,10 @@
       },
       "summary": {
         "en": "Pour boiling water over the poppy seeds and leave them to soften for several hours or overnight, then drain and grind fine in a food processor or spice grinder.",
-        "de": "Den Mohn mit kochendem Wasser übergießen und mehrere Stunden oder über Nacht einweichen, dann gut abtropfen und in einer Küchenmaschine oder Gewürzmühle fein mahlen.",
-        "es": "Cubrir las semillas de amapola con agua hirviendo y dejar en remojo varias horas o toda la noche, luego escurrir bien y moler fino en un robot de cocina o molinillo de especias.",
-        "fr": "Couvrir les graines de pavot d'eau bouillante et laisser tremper plusieurs heures ou toute une nuit, puis bien égoutter et moudre finement au robot ou au moulin à épices.",
-        "ro": "Acoperă semințele de mac cu apă clocotită și lasă-le la înmuiat câteva ore sau peste noapte, apoi scurge-le bine și macină-le fin la robot sau la râșniță de mirodenii."
+        "de": "Mohn mit kochendem Wasser übergießen und mehrere Stunden oder über Nacht einweichen, dann abtropfen lassen und in einer Küchenmaschine oder Gewürzmühle fein mahlen.",
+        "es": "Verter agua hirviendo sobre las semillas de amapola y dejar que se ablanden varias horas o toda la noche, luego escurrir y moler fino en un procesador de alimentos o molinillo de especias.",
+        "fr": "Verser de l'eau bouillante sur les graines de pavot et les laisser ramollir plusieurs heures ou toute une nuit, puis égoutter et moudre finement au robot ou au moulin à épices.",
+        "ro": "Toarnă apă clocotită peste semințele de mac și lasă-le la înmuiat câteva ore sau peste noapte, apoi scurge și macină fin la robot sau la râșnița de mirodenii."
       }
     },
     {
@@ -310,7 +358,11 @@
     "site": "Polish Housewife",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "sugarPct, fatPct and hydration include the filling's sugar, honey, butter and egg whites, not just the dough's own - the filling carries most of the sweetness in this rolled loaf."
+      "en": "sugarPct, fatPct and hydration include the filling's sugar, honey, butter and egg whites, not just the dough's own - the filling carries most of the sweetness in this rolled loaf.",
+      "de": "Zucker-, Fett- und Hydrationsprozente beziehen die Zucker, Honig, Butter und Eiweiß der Füllung ein, nicht nur die des Teigs – die Füllung trägt den Großteil der Süße in diesem gerollten Kuchen.",
+      "es": "El porcentaje de azúcar, grasa e hidratación incluye los azúcares, miel, mantequilla y claras del relleno, no solo los de la masa – el relleno aporta la mayor parte del dulzor en este rollo.",
+      "fr": "Les pourcentages de sucre, matière grasse et hydratation incluent ceux de la garniture (sucres, miel, beurre et blancs d'oeufs), pas seulement ceux de la pâte – la garniture apporte l'essentiel du sucré dans ce roulé.",
+      "ro": "Procentele de zahăr, grăsime și hidratare includ cele ale umpluturii (zahăr, miere, unt și albușuri), nu doar ale aluatului – umplutura poartă cea mai mare parte a dulceții în acest rulou."
     }
   },
   "tags": [

@@ -20,10 +20,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "England"
+      "en": "England",
+      "de": "England",
+      "es": "Inglaterra",
+      "fr": "Angleterre",
+      "ro": "Anglia"
     },
     "note": {
-      "en": "Early flat versions go back centuries; the holey, spongy crumpet we know today took shape in the Victorian era once refined flour and reliable commercial yeast were common."
+      "en": "Early flat versions go back centuries; the holey, spongy crumpet we know today took shape in the Victorian era once refined flour and reliable commercial yeast were common.",
+      "de": "Frühe flache Versionen reichen Jahrhunderte zurück; der löchrige, schwammige Crumpet, den wir heute kennen, entstand im viktorianischen Zeitalter, als raffiniertes Mehl und verlässliche kommerzielle Hefe üblich wurden.",
+      "es": "Versiones planas tempranas se remontan siglos atrás; el crumpet agujereado y esponjoso que conocemos hoy tomó forma en la época victoriana una vez que la harina refinada y la levadura comercial fiable eran comunes.",
+      "fr": "Les premières versions plates remontent à des siècles; le crumpet troué et spongieux que nous connaissons aujourd'hui a pris forme à l'époque victorienne, une fois que la farine raffinée et la levure commerciale fiable étaient courantes.",
+      "ro": "Versiunile plate timpurii datează de secole; crumpetul poros și buretos pe care îl cunoaștem astăzi s-a format în epoca victoriană, odată ce făina rafinată și drojdia comercială de încredere au devenit comune."
     }
   },
   "leaven": "yeast",
@@ -50,14 +58,22 @@
       "key": "milk",
       "grams": 240,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "caldă"
       }
     },
     {
       "key": "water",
       "grams": 237,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "caldă"
       }
     },
     {
@@ -76,7 +92,11 @@
       "key": "baking-soda",
       "grams": 3,
       "note": {
-        "en": "beaten in before the second rise, for extra bubbles"
+        "en": "beaten in before the second rise, for extra bubbles",
+        "de": "vor der zweiten Gehzeit untergeschlagen, für extra Blasen",
+        "es": "incorporado antes del segundo levado, para burbujas extra",
+        "fr": "incorporé avant la deuxième levée, pour des bulles supplémentaires",
+        "ro": "încorporat înainte de a doua creștere, pentru bule în plus"
       }
     }
   ],
@@ -84,7 +104,11 @@
     "count": 10,
     "pieceGrams": 75,
     "shape": {
-      "en": "griddle-cooked disc set in a 3-inch ring"
+      "en": "griddle-cooked disc set in a 3-inch ring",
+      "de": "in der Pfanne gebackene Scheibe in einem 7,5-cm-Ring",
+      "es": "disco cocido en plancha dentro de un aro de 7,5 cm",
+      "fr": "disque cuit à la plaque dans un cercle de 7,5 cm",
+      "ro": "disc copt în tigaie într-un inel de 7,5 cm"
     }
   },
   "time": {
@@ -126,7 +150,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Best toasted rather than eaten fresh; keeps several days and freezes well."
+      "en": "Best toasted rather than eaten fresh; keeps several days and freezes well.",
+      "de": "Am besten getoastet statt frisch verzehrt; hält sich mehrere Tage und lässt sich gut einfrieren.",
+      "es": "Mejor tostado que fresco; se conserva varios días y se congela bien.",
+      "fr": "Meilleur toasté que mangé frais; se conserve plusieurs jours et se congèle bien.",
+      "ro": "Mai bun prăjit decât consumat proaspăt; se păstrează câteva zile și se congelează bine."
     }
   },
   "equipment": [
@@ -235,7 +263,11 @@
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Cup measures converted to grams using standard baker's conversions; ring size and batch count simplified."
+      "en": "Cup measures converted to grams using standard baker's conversions; ring size and batch count simplified.",
+      "de": "Cup-Maße mit Standard-Bäckerumrechnungen in Gramm umgerechnet; Ringgröße und Chargenanzahl vereinfacht.",
+      "es": "Medidas en tazas convertidas a gramos usando conversiones estándar de panadería; tamaño del aro y cantidad de lotes simplificados.",
+      "fr": "Mesures en tasses converties en grammes avec des conversions standard de boulanger; taille du cercle et nombre de lots simplifiés.",
+      "ro": "Măsurile în căni convertite în grame folosind conversii standard de panificație; dimensiunea inelului și numărul de loturi simplificate."
     }
   },
   "tags": [

@@ -22,10 +22,18 @@
   "origin": {
     "country": "RU",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Traditionally credited to nuns commemorating the 1812 Battle of Borodino; a GOST-standard formula since the Soviet era."
+      "en": "Traditionally credited to nuns commemorating the 1812 Battle of Borodino; a GOST-standard formula since the Soviet era.",
+      "de": "Traditionell Nonnen zugeschrieben, die an die Schlacht von Borodino 1812 erinnerten; seit der Sowjetzeit eine GOST-Norm-Formel.",
+      "es": "Tradicionalmente atribuido a monjas que conmemoraban la Batalla de Borodinó de 1812; una fórmula estándar GOST desde la era soviética.",
+      "fr": "Traditionnellement attribué à des nonnes commémorant la bataille de Borodino de 1812; une formule standardisée GOST depuis l'ère soviétique.",
+      "ro": "Atribuit în mod tradițional călugărițelor care comemorau Bătălia de la Borodino din 1812; o formulă standard GOST din epoca sovietică."
     }
   },
   "leaven": "yeast",
@@ -53,7 +61,11 @@
       "key": "flour:rye-whole",
       "grams": 210,
       "note": {
-        "en": "180g wholemeal rye plus 30g diastatic red rye malt, split across scald, preferment and final dough"
+        "en": "180g wholemeal rye plus 30g diastatic red rye malt, split across scald, preferment and final dough",
+        "de": "180 g Roggenvollkornmehl plus 30 g diastatisches rotes Roggenmalz, aufgeteilt auf Brühstück, Vorteig und Hauptteig",
+        "es": "180 g de harina de centeno integral más 30 g de malta roja de centeno diastática, repartida entre escaldado, prefermento y masa final",
+        "fr": "180 g de farine de seigle complète plus 30 g de malt de seigle rouge diastatique, répartis entre l'échaudé, le préferment et la pâte finale",
+        "ro": "180 g de făină de secară integrală plus 30 g de malț roșu de secară diastatic, împărțit între opăreală, preferment și aluatul final"
       }
     },
     {
@@ -64,7 +76,11 @@
       "key": "water",
       "grams": 340,
       "note": {
-        "en": "split across scald, preferment and final dough"
+        "en": "split across scald, preferment and final dough",
+        "de": "aufgeteilt auf Brühstück, Vorteig und Hauptteig",
+        "es": "repartida entre escaldado, prefermento y masa final",
+        "fr": "répartis entre l'échaudé, le préferment et la pâte finale",
+        "ro": "împărțită între opăreală, preferment și aluatul final"
       }
     },
     {
@@ -83,14 +99,22 @@
       "key": "coriander-seed",
       "grams": 8,
       "note": {
-        "en": "crushed, plus whole seed for topping"
+        "en": "crushed, plus whole seed for topping",
+        "de": "zerstoßen, plus ganze Samen zum Bestreuen",
+        "es": "trituradas, más semillas enteras para cubrir",
+        "fr": "écrasées, plus graines entières pour la garniture",
+        "ro": "zdrobite, plus semințe întregi pentru ornare"
       }
     },
     {
       "key": "caraway",
       "grams": 8,
       "note": {
-        "en": "crushed"
+        "en": "crushed",
+        "de": "zerstoßen",
+        "es": "trituradas",
+        "fr": "écrasées",
+        "ro": "zdrobite"
       }
     },
     {
@@ -102,7 +126,11 @@
     "count": 1,
     "pieceGrams": 650,
     "shape": {
-      "en": "pan loaf, domed top"
+      "en": "pan loaf, domed top",
+      "de": "Kastenlaib, gewölbter Deckel",
+      "es": "pan de molde, parte superior abovedada",
+      "fr": "pain de moule, dessus bombé",
+      "ro": "pâine de tavă, cu vârf bombat"
     }
   },
   "time": {
@@ -145,7 +173,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Wrap well; the coriander crust softens but the flavor deepens over the following days."
+      "en": "Wrap well; the coriander crust softens but the flavor deepens over the following days.",
+      "de": "Gut einwickeln; die Korianderkruste wird weicher, aber das Aroma vertieft sich in den folgenden Tagen.",
+      "es": "Envolver bien; la corteza de cilantro se ablanda pero el sabor se profundiza en los días siguientes.",
+      "fr": "Bien emballer; la croûte à la coriandre ramollit mais la saveur s'intensifie dans les jours qui suivent.",
+      "ro": "Înfășoară bine; coaja de coriandru se înmoaie, dar aroma se adâncește în zilele următoare."
     }
   },
   "equipment": [
@@ -270,7 +302,11 @@
     "site": "ChainBaker",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Malted rye folded into the rye-whole total-flour percentage since the taxonomy has no separate malt-flour type; preferment here is yeasted rather than a wild rye sourdough as in historic versions."
+      "en": "Malted rye folded into the rye-whole total-flour percentage since the taxonomy has no separate malt-flour type; preferment here is yeasted rather than a wild rye sourdough as in historic versions.",
+      "de": "Malzroggen in den Roggenvollkorn-Gesamtmehlanteil eingerechnet, da die Taxonomie keinen separaten Malzmehltyp vorsieht; der Vorteig hier ist mit Hefe geführt, nicht mit wildem Roggensauerteig wie in historischen Versionen.",
+      "es": "Centeno malteado incluido en el porcentaje total de harina de centeno integral ya que la taxonomía no tiene un tipo de harina de malta separado; el prefermento aquí es con levadura en lugar de una masa madre de centeno silvestre como en las versiones históricas.",
+      "fr": "Seigle malté intégré dans le pourcentage total de farine de seigle complet car la taxonomie n'a pas de type farine de malt séparé; le préferment est ici levuré plutôt qu'un levain de seigle sauvage comme dans les versions historiques.",
+      "ro": "Secară malțată inclusă în procentajul total de făină de secară integrală deoarece taxonomia nu are un tip separat de făină de malț; prefermentul aici este cu drojdie, nu cu aluat acrișor de secară sălbatic ca în versiunile istorice."
     }
   },
   "tags": [

@@ -20,10 +20,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "Mesoamerica, amaranth cultivation dating back 6,000-8,000 years"
+      "en": "Mesoamerica, amaranth cultivation dating back 6,000-8,000 years",
+      "de": "Mesoamerika, Amarant-Anbau seit 6.000–8.000 Jahren",
+      "es": "Mesoamérica, cultivo de amaranto desde hace 6.000–8.000 años",
+      "fr": "Mésoamérique, culture de l'amarante remontant à 6 000–8 000 ans",
+      "ro": "Mezoamerica, cultivarea amarantului datând de acum 6.000–8.000 de ani"
     },
     "note": {
-      "en": "The Aztecs called amaranth huauhtli and ranked it with maize and beans as a primary crop; this raisin-walnut quick-bread format is a modern adaptation rather than a historical Aztec recipe."
+      "en": "The Aztecs called amaranth huauhtli and ranked it with maize and beans as a primary crop; this raisin-walnut quick-bread format is a modern adaptation rather than a historical Aztec recipe.",
+      "de": "Die Azteken nannten Amarant huauhtli und stuften ihn mit Mais und Bohnen als Grundnahrungsmittel ein; dieses Rosinen-Walnuss-Schnellbrot ist eine moderne Adaption, kein historisches aztekisches Rezept.",
+      "es": "Los aztecas llamaban al amaranto huauhtli y lo consideraban un cultivo principal junto con el maíz y los frijoles; este pan rápido de pasas y nueces es una adaptación moderna, no una receta azteca histórica.",
+      "fr": "Les Aztèques appelaient l'amarante huauhtli et la considéraient comme une culture de base avec le maïs et les haricots; ce pain rapide aux raisins et noix est une adaptation moderne, pas une recette aztèque historique.",
+      "ro": "Aztecii numeau amarantul huauhtli și îl considerau o cultură de bază alături de porumb și fasole; această pâine rapidă cu stafide și nuci este o adaptare modernă, nu o rețetă aztecă istorică."
     }
   },
   "leaven": "chemical",
@@ -60,14 +68,22 @@
       "key": "flour:wheat-whole",
       "grams": 250,
       "note": {
-        "en": "white whole wheat flour"
+        "en": "white whole wheat flour",
+        "de": "weißes Vollkornweizenmehl",
+        "es": "harina integral de trigo blanca",
+        "fr": "farine de blé entier blanc",
+        "ro": "făină integrală de grâu alb"
       }
     },
     {
       "key": "water",
       "grams": 237,
       "note": {
-        "en": "boiling, to soak the amaranth and raisins"
+        "en": "boiling, to soak the amaranth and raisins",
+        "de": "kochend, zum Einweichen von Amarant und Rosinen",
+        "es": "hirviendo, para remojar el amaranto y las pasas",
+        "fr": "bouillante, pour faire tremper l'amarante et les raisins",
+        "ro": "fierbinte, pentru înmuierea amarantului și a stafidelor"
       }
     },
     {
@@ -88,7 +104,11 @@
       "key": "walnuts",
       "grams": 110,
       "note": {
-        "en": "coarsely chopped"
+        "en": "coarsely chopped",
+        "de": "grob gehackt",
+        "es": "picadas gruesas",
+        "fr": "grossièrement hachées",
+        "ro": "tocate grosier"
       }
     },
     {
@@ -99,14 +119,22 @@
       "key": "vegetable-oil",
       "grams": 54,
       "note": {
-        "en": "canola or other neutral oil"
+        "en": "canola or other neutral oil",
+        "de": "Rapsöl oder anderes neutrales Öl",
+        "es": "aceite de canola u otro aceite neutro",
+        "fr": "huile de canola ou autre huile neutre",
+        "ro": "ulei de canola sau alt ulei neutru"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
@@ -122,7 +150,11 @@
     "count": 1,
     "pieceGrams": 1000,
     "shape": {
-      "en": "9 x 5 x 3 in loaf pan"
+      "en": "9 x 5 x 3 in loaf pan",
+      "de": "Kastenform 23 x 13 x 8 cm",
+      "es": "molde de 23 x 13 x 8 cm",
+      "fr": "moule de 23 x 13 x 8 cm",
+      "ro": "tavă de 23 x 13 x 8 cm"
     }
   },
   "time": {

@@ -21,10 +21,18 @@
   "origin": {
     "country": "PY",
     "region": {
-      "en": "nationwide (also northern Argentina)"
+      "en": "nationwide (also northern Argentina)",
+      "de": "landesweit (auch Nordargentinien)",
+      "es": "en todo el país (también norte de Argentina)",
+      "fr": "dans tout le pays (aussi nord de l'Argentine)",
+      "ro": "la nivel național (și nordul Argentinei)"
     },
     "note": {
-      "en": "Distinct from Brazil's pao de queijo: firmer, less stretchy, shaped into rings rather than small balls, and often flavored with anise. A year-round snack, especially popular around Easter."
+      "en": "Distinct from Brazil's pao de queijo: firmer, less stretchy, shaped into rings rather than small balls, and often flavored with anise. A year-round snack, especially popular around Easter.",
+      "de": "Unterscheidet sich von Brasiliens Pão de Queijo: fester, weniger dehnbar, zu Ringen statt kleinen Kugeln geformt und oft mit Anis gewürzt. Ein Ganzjahressnack, besonders beliebt um Ostern.",
+      "es": "Distinto del pao de queijo brasileño: más firme, menos elástico, con forma de anillos en lugar de bolitas, y a menudo aromatizado con anís. Un tentempié de todo el año, especialmente popular en Semana Santa.",
+      "fr": "Distinct du pao de queijo brésilien: plus ferme, moins élastique, façonné en anneaux plutôt qu'en petites boules, et souvent parfumé à l'anis. Une collation de toute l'année, surtout populaire à Pâques.",
+      "ro": "Diferit de pao de queijo brazilian: mai ferm, mai puțin elastic, modelat în inele în loc de bile mici și adesea aromat cu anason. O gustare de tot anul, mai ales populară în jurul Paștelui."
     }
   },
   "leaven": "chemical",
@@ -46,28 +54,44 @@
       "key": "flour:cassava",
       "grams": 400,
       "note": {
-        "en": "cassava/tapioca starch"
+        "en": "cassava/tapioca starch",
+        "de": "Maniok/Tapiokastärke",
+        "es": "almidón de mandioca/tapioca",
+        "fr": "fécule de manioc/tapioca",
+        "ro": "amidon de manioc/tapioca"
       }
     },
     {
       "key": "cheese",
       "grams": 300,
       "note": {
-        "en": "grated mozzarella"
+        "en": "grated mozzarella",
+        "de": "geriebener Mozzarella",
+        "es": "mozzarella rallada",
+        "fr": "mozzarella râpée",
+        "ro": "mozzarella rasă"
       }
     },
     {
       "key": "egg",
       "grams": 150,
       "note": {
-        "en": "3 large eggs"
+        "en": "3 large eggs",
+        "de": "3 große Eier",
+        "es": "3 huevos grandes",
+        "fr": "3 gros œufs",
+        "ro": "3 ouă mari"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 55,
       "note": {
-        "en": "or butter/lard"
+        "en": "or butter/lard",
+        "de": "oder Butter/Schmalz",
+        "es": "o mantequilla/manteca",
+        "fr": "ou beurre/saindoux",
+        "ro": "sau unt/untură"
       }
     },
     {
@@ -86,7 +110,11 @@
       "key": "anise",
       "grams": 1,
       "note": {
-        "en": "optional, whole seeds"
+        "en": "optional, whole seeds",
+        "de": "optional, ganze Samen",
+        "es": "opcional, semillas enteras",
+        "fr": "facultatif, graines entières",
+        "ro": "opțional, semințe întregi"
       }
     }
   ],
@@ -94,7 +122,11 @@
     "count": 20,
     "pieceGrams": 43,
     "shape": {
-      "en": "small rings (rosquitas), rolled and joined into a loop"
+      "en": "small rings (rosquitas), rolled and joined into a loop",
+      "de": "kleine Ringe (Rosquitas), gerollt und zu einer Schleife verbunden",
+      "es": "anillos pequeños (rosquitas), enrollados y unidos en un bucle",
+      "fr": "petits anneaux (rosquitas), roulés et joints en une boucle",
+      "ro": "inele mici (rosquitas), rulate și unite într-o buclă"
     }
   },
   "time": {
@@ -134,7 +166,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best eaten warm the day it's baked while the cheesy chew is at its peak; reheats acceptably from frozen."
+      "en": "Best eaten warm the day it's baked while the cheesy chew is at its peak; reheats acceptably from frozen.",
+      "de": "Am besten warm am Backtag verzehrt, solange der käsige Biss am besten ist; lässt sich aus gefrorenem Zustand gut aufwärmen.",
+      "es": "Mejor comerlo caliente el día de horneado mientras el mordisco quesudo está en su punto; se recalienta aceptablemente desde congelado.",
+      "fr": "Meilleur mangé chaud le jour de la cuisson quand le moelleux fromager est à son apogée; se réchauffe convenablement depuis congelé.",
+      "ro": "Cel mai bun consumat cald în ziua coacerii, când textura brânzoasă este la apogeu; se reîncălzește acceptabil din congelat."
     }
   },
   "equipment": [
@@ -243,7 +279,11 @@
     "site": "Laylita's Recipes",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Source's vague 'pinch' of salt standardized to a small defined baker's percentage, reflecting that the cheese itself supplies much of the seasoning."
+      "en": "Source's vague 'pinch' of salt standardized to a small defined baker's percentage, reflecting that the cheese itself supplies much of the seasoning.",
+      "de": "Die vage Prise Salz der Quelle wurde auf einen kleinen definierten Bäckerprozentsatz standardisiert, da der Käse selbst viel Würze liefert.",
+      "es": "El vago pellizco de sal de la fuente se estandarizó a un pequeño porcentaje panadero definido, reflejando que el queso mismo aporta gran parte del sazón.",
+      "fr": "La vague pincée de sel de la source a été standardisée en un petit pourcentage de boulanger défini, reflétant que le fromage lui-même fournit une grande partie de l'assaisonnement.",
+      "ro": "Vagul vârf de sare al sursei a fost standardizat la un procent mic definit de panificație, reflectând că brânza însăși asigură o mare parte din condimentare."
     }
   },
   "tags": [

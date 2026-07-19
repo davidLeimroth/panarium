@@ -20,10 +20,18 @@
   "origin": {
     "country": "AU",
     "region": {
-      "en": "nationwide, bush and outback tradition"
+      "en": "nationwide, bush and outback tradition",
+      "de": "landesweit, Tradition im Busch und Outback",
+      "es": "en todo el país, tradición del bush y el outback",
+      "fr": "partout dans le pays, tradition du bush et de l'outback",
+      "ro": "la nivel național, tradiție în bush și outback"
     },
     "note": {
-      "en": "Popular myth credits bush stockmen, but food historians trace it to Sydney's first documented baker, William Bond, in the colony's earliest years; campfire ash was an early leavening substitute before baking soda."
+      "en": "Popular myth credits bush stockmen, but food historians trace it to Sydney's first documented baker, William Bond, in the colony's earliest years; campfire ash was an early leavening substitute before baking soda.",
+      "de": "Ein populärer Mythos schreibt es Viehtreibern im Busch zu, aber Essenshistoriker führen es auf Sydneys ersten dokumentierten Bäcker, William Bond, in den frühesten Jahren der Kolonie zurück; Holzkohleasche war ein früher Triebmittelersatz vor Backpulver.",
+      "es": "El mito popular lo atribuye a los vaqueros del monte, pero los historiadores gastronómicos lo remontan al primer panadero documentado de Sídney, William Bond, en los primeros años de la colonia; la ceniza de fogata fue un sustituto temprano de la levadura antes del bicarbonato.",
+      "fr": "Un mythe populaire l'attribue aux stockmen du bush, mais les historiens de l'alimentation le retracent jusqu'au premier boulanger documenté de Sydney, William Bond, dans les premières années de la colonie; la cendre de feu de camp fut un premier substitut de levure avant le bicarbonate.",
+      "ro": "Mitul popular îl atribuie păstorilor din bush, dar istoricii culinari îl urmăresc până la primul brutar documentat din Sydney, William Bond, în primii ani ai coloniei; cenușa de foc de tabără a fost un înlocuitor timpuriu de agent de creștere înainte de bicarbonat."
     }
   },
   "leaven": "chemical",
@@ -45,7 +53,11 @@
       "key": "flour:wheat-white",
       "grams": 250,
       "note": {
-        "en": "or self-raising flour, omitting the added baking powder"
+        "en": "or self-raising flour, omitting the added baking powder",
+        "de": "oder selbsttreibendes Mehl, dann das Backpulver weglassen",
+        "es": "o harina con levadura, omitiendo la levadura química añadida",
+        "fr": "ou farine auto-levante, en omettant la levure chimique ajoutée",
+        "ro": "sau făină auto-crescătoare, omițând praful de copt adăugat"
       }
     },
     {
@@ -60,7 +72,11 @@
       "key": "butter",
       "grams": 20,
       "note": {
-        "en": "cold, cubed"
+        "en": "cold, cubed",
+        "de": "kalt, gewürfelt",
+        "es": "fría, en cubos",
+        "fr": "froid, en cubes",
+        "ro": "rece, cuburi"
       }
     },
     {
@@ -76,7 +92,11 @@
     "count": 1,
     "pieceGrams": 534,
     "shape": {
-      "en": "round loaf, cross scored on top"
+      "en": "round loaf, cross scored on top",
+      "de": "runder Laib, mit Kreuz oben eingeritzt",
+      "es": "hogaza redonda, marcada con una cruz encima",
+      "fr": "pain rond, marqué d'une croix sur le dessus",
+      "ro": "pâine rotundă, tăiată cu o cruce deasupra"
     }
   },
   "time": {
@@ -116,7 +136,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best warm from the oven or campfire with butter and golden syrup; doesn't keep well past a day."
+      "en": "Best warm from the oven or campfire with butter and golden syrup; doesn't keep well past a day.",
+      "de": "Am besten warm aus dem Ofen oder vom Lagerfeuer mit Butter und golden syrup; hält sich nicht gut länger als einen Tag.",
+      "es": "Mejor caliente del horno o la fogata con mantequilla y golden syrup; no se conserva bien más de un día.",
+      "fr": "Meilleur chaud du four ou du feu de camp avec du beurre et du golden syrup; ne se conserve pas bien au-delà d'un jour.",
+      "ro": "Cel mai bun cald din cuptor sau de la foc de tabără cu unt și golden syrup; nu se păstrează bine mai mult de o zi."
     }
   },
   "equipment": [
@@ -225,7 +249,11 @@
     "site": "Wandercooks",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Self-raising flour modeled as plain flour plus baking powder for baker's-percentage consistency."
+      "en": "Self-raising flour modeled as plain flour plus baking powder for baker's-percentage consistency.",
+      "de": "Selbsttreibendes Mehl als Weizenmehl plus Backpulver modelliert, für Konsistenz in den Bäckerprozenten.",
+      "es": "Harina con levadura modelada como harina común más polvo de hornear para consistencia en los porcentajes de panadería.",
+      "fr": "Farine auto-levante modélisée comme farine ordinaire plus levure chimique pour la cohérence des pourcentages du boulanger.",
+      "ro": "Făina auto-crescătoare modelată ca făină simplă plus praf de copt pentru consistența procentelor de panificație."
     }
   },
   "tags": [

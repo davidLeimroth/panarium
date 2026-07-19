@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Rhode Island and southern New England"
+      "en": "Rhode Island and southern New England",
+      "de": "Rhode Island und das südliche Neuengland",
+      "es": "Rhode Island y el sur de Nueva Inglaterra",
+      "fr": "Rhode Island et le sud de la Nouvelle-Angleterre",
+      "ro": "Rhode Island și sudul Noii Anglii"
     },
     "note": {
-      "en": "Originally called 'journey cakes' for how well they traveled and cooked quickly over a campfire; Rhode Island's version uses a distinctive fine white flint corn, still stone-ground at local grist mills."
+      "en": "Originally called 'journey cakes' for how well they traveled and cooked quickly over a campfire; Rhode Island's version uses a distinctive fine white flint corn, still stone-ground at local grist mills.",
+      "de": "Ursprünglich 'journey cakes' genannt, weil sie sich gut transportieren ließen und schnell über dem Lagerfeuer garen; die Version aus Rhode Island verwendet einen unverwechselbaren feinen weißen Flintmais, der noch immer in örtlichen Mühlen steingemahlen wird.",
+      "es": "Originalmente llamadas 'journey cakes' por lo bien que viajaban y se cocinaban rápidamente sobre una fogata; la versión de Rhode Island usa un maíz Flint blanco fino y distintivo, todavía molido a piedra en molinos locales.",
+      "fr": "Appelées à l'origine 'journey cakes' pour leur facilité de transport et leur cuisson rapide sur un feu de camp; la version du Rhode Island utilise un maïs blanc fin distinctif, encore moulu à la meule dans des moulins locaux.",
+      "ro": "Numite inițial 'journey cakes' pentru cât de bine călătoreau și se găteau repede la foc de tabără; versiunea din Rhode Island folosește un porumb flint alb fin distinctiv, încă măcinat cu piatră la mori locale."
     }
   },
   "leaven": "none",
@@ -47,7 +55,11 @@
       "key": "flour:corn",
       "grams": 150,
       "note": {
-        "en": "stone-ground white or yellow cornmeal"
+        "en": "stone-ground white or yellow cornmeal",
+        "de": "steingemahlener weißer oder gelber Maismehl",
+        "es": "harina de maíz blanca o amarilla molida a piedra",
+        "fr": "farine de maïs blanche ou jaune moulue à la meule",
+        "ro": "făină de porumb alb sau galben măcinată cu piatră"
       }
     },
     {
@@ -62,21 +74,33 @@
       "key": "water",
       "grams": 592,
       "note": {
-        "en": "boiling"
+        "en": "boiling",
+        "de": "kochend",
+        "es": "hirviendo",
+        "fr": "bouillante",
+        "ro": "fierbinte"
       }
     },
     {
       "key": "butter",
       "grams": 28,
       "note": {
-        "en": "for the batter"
+        "en": "for the batter",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
       "key": "butter",
       "grams": 14,
       "note": {
-        "en": "or oil/bacon grease, for frying"
+        "en": "or oil/bacon grease, for frying",
+        "de": "oder Öl/Speckfett, zum Frittieren",
+        "es": "o aceite/grasa de tocino, para freír",
+        "fr": "ou huile/graisse de lard, pour la friture",
+        "ro": "sau ulei/grăsime de slănină, pentru prăjit"
       }
     }
   ],
@@ -84,7 +108,11 @@
     "count": 12,
     "pieceGrams": 50,
     "shape": {
-      "en": "3-inch fried rounds, about 1/4 inch thick"
+      "en": "3-inch fried rounds, about 1/4 inch thick",
+      "de": "frittierte runde Fladen von 7,5 cm, etwa 0,6 cm dick",
+      "es": "redondeles fritos de 7,5 cm, de unos 0,6 cm de grosor",
+      "fr": "rondelles frites de 7,5 cm, environ 0,6 cm d'épaisseur",
+      "ro": "rotunjimi prăjite de 7,5 cm, groase de aproximativ 0,6 cm"
     }
   },
   "time": {
@@ -124,7 +152,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best hot off the griddle; these don't keep well and are meant to be eaten fresh, though extra batter keeps a day refrigerated."
+      "en": "Best hot off the griddle; these don't keep well and are meant to be eaten fresh, though extra batter keeps a day refrigerated.",
+      "de": "Am besten heiß vom Griddle; diese lassen sich nicht gut aufbewahren und sollten frisch gegessen werden, überschüssiger Teig hält sich einen Tag im Kühlschrank.",
+      "es": "Mejor calientes recién salidas de la plancha; no se conservan bien y deben comerse frescas, aunque la masa sobrante aguanta un día refrigerada.",
+      "fr": "Meilleures chaudes de la plaque; elles ne se conservent pas bien et se mangent fraîches, mais la pâte en trop se garde un jour au réfrigérateur.",
+      "ro": "Cel mai bine fierbinți de pe grătar; acestea nu se păstrează bine și se mănâncă proaspete, dar aluatul în plus ține o zi la frigider."
     }
   },
   "equipment": [
@@ -233,7 +265,11 @@
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Frying fat quantity estimated since the source leaves the amount to the cook's discretion."
+      "en": "Frying fat quantity estimated since the source leaves the amount to the cook's discretion.",
+      "de": "Menge des Bratfetts geschätzt, da die Quelle die Menge dem Koch überlässt.",
+      "es": "Cantidad de grasa para freír estimada, ya que la fuente deja la cantidad al criterio del cocinero.",
+      "fr": "Quantité de matière grasse de friture estimée car la source laisse la quantité à la discrétion du cuisinier.",
+      "ro": "Cantitatea de grăsime pentru prăjit estimată, deoarece sursa lasă cantitatea la discreția bucătarului."
     }
   },
   "tags": [

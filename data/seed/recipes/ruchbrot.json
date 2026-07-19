@@ -21,10 +21,18 @@
   "origin": {
     "country": "CH",
     "region": {
-      "en": "German-speaking Switzerland"
+      "en": "German-speaking Switzerland",
+      "de": "Deutschschweiz",
+      "es": "Suiza germanófona",
+      "fr": "Suisse alémanique",
+      "ro": "Elveția germanofonă"
     },
     "note": {
-      "en": "Ruchmehl is Switzerland's characteristic darker wheat flour, milled with more bran and germ left in than white flour but less than full wholemeal."
+      "en": "Ruchmehl is Switzerland's characteristic darker wheat flour, milled with more bran and germ left in than white flour but less than full wholemeal.",
+      "de": "Ruchmehl ist die charakteristische dunklere Weizenmehlsorte der Schweiz, gemahlen mit mehr Kleie und Keim als Weißmehl, aber weniger als Vollkornmehl.",
+      "es": "Ruchmehl es la harina de trigo más oscura característica de Suiza, molida con más salvado y germen que la harina blanca pero menos que la integral.",
+      "fr": "La Ruchmehl est la farine de blé plus foncée caractéristique de la Suisse, moulue avec plus de son et de germe que la farine blanche mais moins que la complète.",
+      "ro": "Ruchmehl este făina de grâu mai închisă, caracteristică Elveției, măcinată cu mai mult târâțe și germeni decât făina albă, dar mai puțin decât cea integrală."
     }
   },
   "leaven": "yeast",
@@ -46,7 +54,11 @@
       "key": "flour:wheat-whole",
       "grams": 425,
       "note": {
-        "en": "Ruchmehl, split between an overnight pre-dough and the main dough"
+        "en": "Ruchmehl, split between an overnight pre-dough and the main dough",
+        "de": "Ruchmehl, auf einen Übernacht-Vorteig und den Hauptteig aufgeteilt",
+        "es": "Ruchmehl, dividido entre un prefermento de toda la noche y la masa final",
+        "fr": "Ruchmehl, répartie entre un pré-pâte de nuit et la pâte finale",
+        "ro": "Ruchmehl, împărțit între un pre-aluat de peste noapte și aluatul final"
       }
     },
     {
@@ -66,7 +78,11 @@
     "count": 1,
     "pieceGrams": 650,
     "shape": {
-      "en": "oblong hearth loaf with three diagonal slashes"
+      "en": "oblong hearth loaf with three diagonal slashes",
+      "de": "länglicher Ofenlaib mit drei diagonalen Einschnitten",
+      "es": "hogaza alargada de hogar con tres cortes diagonales",
+      "fr": "pain de ménage oblong avec trois entailles diagonales",
+      "ro": "pâine de vatră alungită cu trei crestături diagonale"
     }
   },
   "time": {
@@ -107,7 +123,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "A lean, all-wheat crumb; best within a few days once wrapped in linen or paper."
+      "en": "A lean, all-wheat crumb; best within a few days once wrapped in linen or paper.",
+      "de": "Eine magere, reine Weizenkrume; am besten innerhalb weniger Tage, in Leinen oder Papier gewickelt.",
+      "es": "Una miga magra, totalmente de trigo; mejor en pocos días una vez envuelta en lino o papel.",
+      "fr": "Une mie maigre, tout blé; meilleure dans les quelques jours une fois enveloppée dans du lin ou du papier.",
+      "ro": "Un miez slab, integral din grâu; cel mai bun în câteva zile odată învelit în in sau hârtie."
     }
   },
   "equipment": [
@@ -234,7 +254,11 @@
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages taken from the site's own stated ratios; method paraphrased and condensed."
+      "en": "Percentages taken from the site's own stated ratios; method paraphrased and condensed.",
+      "de": "Prozentangaben aus den auf der Website angegebenen Verhältnissen übernommen; Methode paraphrasiert und zusammengefasst.",
+      "es": "Porcentajes tomados de las proporciones indicadas por el sitio; método parafraseado y condensado.",
+      "fr": "Pourcentages repris des proportions indiquées sur le site; méthode paraphrasée et condensée.",
+      "ro": "Procentele preluate din proporțiile declarate ale site-ului; metodă parafrazată și condensată."
     }
   },
   "tags": [

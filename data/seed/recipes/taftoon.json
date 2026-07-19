@@ -22,10 +22,18 @@
   "origin": {
     "country": "IR",
     "region": {
-      "en": "Iran & Afghanistan/Pakistan border regions"
+      "en": "Iran & Afghanistan/Pakistan border regions",
+      "de": "Iran und die Grenzregionen zwischen Afghanistan und Pakistan",
+      "es": "Irán y las regiones fronterizas de Afganistán/Pakistán",
+      "fr": "Iran et les régions frontalières d'Afghanistan/Pakistan",
+      "ro": "Iran și regiunile de graniță Afganistan/Pakistan"
     },
     "note": {
-      "en": "The name comes from Persian 'taftan', to heat or kindle; closely related to Afghan and Pakistani tandoor breads of the same family."
+      "en": "The name comes from Persian 'taftan', to heat or kindle; closely related to Afghan and Pakistani tandoor breads of the same family.",
+      "de": "Der Name stammt aus dem Persischen taftan, erhitzen oder anzünden; eng verwandt mit den afghanischen und pakistanischen Tandoorbroten derselben Familie.",
+      "es": "El nombre proviene del persa 'taftan', calentar o encender; estrechamente relacionado con los panes tandoor afganos y pakistaníes de la misma familia.",
+      "fr": "Le nom vient du persan 'taftan', chauffer ou allumer; étroitement lié aux pains tandoor afghans et pakistanais de la même famille.",
+      "ro": "Numele provine din persană 'taftan', a încălzi sau a aprinde; strâns înrudit cu pâinile tandoor afgane și pakistaneze din aceeași familie."
     }
   },
   "leaven": "yeast",
@@ -61,7 +69,11 @@
       "key": "butter",
       "grams": 28,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topit"
       }
     },
     {
@@ -76,7 +88,11 @@
       "key": "milk",
       "grams": 267,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -89,7 +105,11 @@
       },
       "grams": 0.2,
       "note": {
-        "en": "steeped in a little milk, brushed on top before baking"
+        "en": "steeped in a little milk, brushed on top before baking",
+        "de": "In etwas Milch eingeweicht, vor dem Backen oben aufgestrichen",
+        "es": "Infusionada en un poco de leche, pincelada encima antes de hornear",
+        "fr": "Infusé dans un peu de lait, badigeonné sur le dessus avant cuisson",
+        "ro": "Înmuiată în puțin lapte, unsă deasupra înainte de coacere"
       }
     },
     {
@@ -102,7 +122,11 @@
       },
       "grams": 6,
       "note": {
-        "en": "topping"
+        "en": "topping",
+        "de": "Belag",
+        "es": "Cobertura",
+        "fr": "Garniture",
+        "ro": "Topping"
       }
     }
   ],
@@ -110,7 +134,11 @@
     "count": 8,
     "pieceGrams": 92,
     "shape": {
-      "en": "round, about 13 cm, thick edge, docked center"
+      "en": "round, about 13 cm, thick edge, docked center",
+      "de": "Rund, etwa 13 cm, dicker Rand, eingestochener Boden",
+      "es": "Redondo, unos 13 cm, borde grueso, centro pinchado",
+      "fr": "Rond, environ 13 cm, bord épais, centre piqué",
+      "ro": "Rotund, aproximativ 13 cm, margine groasă, centrul înțepat"
     }
   },
   "time": {
@@ -152,7 +180,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm the day it's baked; stays soft a couple of days wrapped, and freezes well."
+      "en": "Best warm the day it's baked; stays soft a couple of days wrapped, and freezes well.",
+      "de": "Am besten warm am Backtag; eingewickelt bleibt es ein paar Tage weich und lässt sich gut einfrieren.",
+      "es": "Mejor caliente el día de horneado; se mantiene blando unos días envuelto y se congela bien.",
+      "fr": "Meilleur chaud le jour de la cuisson; reste mou quelques jours emballé et se congèle bien.",
+      "ro": "Cel mai bun cald în ziua coacerii; rămâne moale câteva zile învelit și se congelează bine."
     }
   },
   "equipment": [
@@ -233,10 +265,10 @@
       },
       "summary": {
         "en": "Let the rounds sit 20 minutes. Brush with saffron steeped in milk, then use your fingertips to push the middle of each round down firmly while keeping the outer ring raised. Finish with nigella seeds.",
-        "de": "20 Minuten ruhen lassen, mit Safran-Milch bestreichen, dann mit den Fingern tiefe Vertiefungen in die Mitte drücken, den Rand dabei unversehrt lassen; mit Schwarzkümmel bestreuen.",
-        "es": "Dejar reposar 20 minutos, pintar con la mezcla de azafrán y leche, luego presionar hendiduras profundas en el centro con los dedos, dejando el borde intacto; espolvorear con semillas de nigella.",
-        "fr": "Laisser reposer 20 minutes, badigeonner du mélange safran-lait, puis presser des empreintes profondes au centre avec les doigts, en laissant le bord intact ; parsemer de graines de nigelle.",
-        "ro": "Lasă la odihnă 20 de minute, unge cu amestecul de șofran și lapte, apoi apasă adâncituri cu degetele în centru, lăsând marginea intactă; presară semințe de negrilică."
+        "de": "Die runden Fladen 20 Minuten ruhen lassen. Mit Safran-Milch bestreichen, dann mit den Fingerspitzen die Mitte jedes Fladens fest eindrücken, während der äußere Ring hoch bleibt. Mit Schwarzkümmel bestreuen.",
+        "es": "Dejar reposar los discos 20 minutos. Pincelar con azafrán remojado en leche, luego presionar el centro de cada disco firmemente con las yemas de los dedos manteniendo el borde elevado. Terminar con semillas de nigella.",
+        "fr": "Laisser reposer les disques 20 minutes. Badigeonner de safran infusé dans du lait, puis enfoncer le centre de chaque disque avec le bout des doigts en laissant le bord relevé. Terminer avec des graines de nigelle.",
+        "ro": "Lasă discurile la odihnă 20 de minute. Unge cu șofran infuzat în lapte, apoi apasă ferm cu vârful degetelor centrul fiecărui disc, păstrând marginea ridicată. Presară semințe de negrilică."
       }
     },
     {
@@ -277,7 +309,11 @@
     "site": "My Cooking Journey",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration includes milk, yogurt and butter's water content per baker's-percentage convention; this version is oven-baked at 400°F rather than in a true tandoor."
+      "en": "Hydration includes milk, yogurt and butter's water content per baker's-percentage convention; this version is oven-baked at 400°F rather than in a true tandoor.",
+      "de": "Die Hydratation umfasst den Wassergehalt von Milch, Joghurt und Butter nach der Bäckerprozentrechnung; diese Version wird bei 400°F im Ofen gebacken statt in einem echten Tandoor.",
+      "es": "La hidratación incluye el contenido de agua de la leche, el yogur y la mantequilla según la convención del porcentaje de panadero; esta versión se hornea en horno a 400°F en lugar de en un auténtico tandoor.",
+      "fr": "L'hydratation inclut la teneur en eau du lait, du yaourt et du beurre selon la convention du pourcentage du boulanger; cette version est cuite au four à 400°F plutôt que dans un véritable tandoor.",
+      "ro": "Hidratarea include conținutul de apă din lapte, iaurt și unt conform convenției procentuale de brutărie; această versiune este coaptă la cuptor la 400°F, nu într-un tandoor adevărat."
     }
   },
   "tags": [

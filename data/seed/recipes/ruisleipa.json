@@ -23,10 +23,18 @@
   "origin": {
     "country": "FI",
     "region": {
-      "en": "Western Finland"
+      "en": "Western Finland",
+      "de": "Westfinnland",
+      "es": "Finlandia occidental",
+      "fr": "Finlande occidentale",
+      "ro": "Finlanda de Vest"
     },
     "note": {
-      "en": "The center hole let loaves hang on poles from the rafters for slow drying and storage."
+      "en": "The center hole let loaves hang on poles from the rafters for slow drying and storage.",
+      "de": "Das Mittelloch ermöglichte es, die Laibe an Stangen unter der Decke zum langsamen Trocknen und Lagern aufzuhängen.",
+      "es": "El agujero central permitía colgar las hogazas en varas de las vigas para secarlas lentamente y almacenarlas.",
+      "fr": "Le trou central permettait de suspendre les pains à des perches sous les poutres pour un séchage et un stockage lents.",
+      "ro": "Gaura din mijloc permitea agățarea pâinilor pe prăjini de căpriori pentru uscare lentă și depozitare."
     }
   },
   "leaven": "hybrid",
@@ -53,14 +61,22 @@
       "key": "flour:rye-whole",
       "grams": 677,
       "note": {
-        "en": "split across an overnight sour and the final dough"
+        "en": "split across an overnight sour and the final dough",
+        "de": "auf einen Übernacht-Sauerteig und den Hauptteig aufgeteilt",
+        "es": "dividido entre una masa madre de toda la noche y la masa final",
+        "fr": "réparti entre un levain de nuit et la pâte finale",
+        "ro": "împărțit între o maia de peste noapte și aluatul final"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 68,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
@@ -71,7 +87,11 @@
       "key": "sourdough-starter",
       "grams": 11,
       "note": {
-        "en": "active rye sour"
+        "en": "active rye sour",
+        "de": "aktiver Roggensauerteig",
+        "es": "masa madre activa de centeno",
+        "fr": "levain de seigle actif",
+        "ro": "maia activă de secară"
       }
     },
     {
@@ -87,7 +107,11 @@
     "count": 2,
     "pieceGrams": 650,
     "shape": {
-      "en": "flat ring, about 35cm across, with a center hole"
+      "en": "flat ring, about 35cm across, with a center hole",
+      "de": "flacher Ring, etwa 35 cm Durchmesser, mit einem Mittelloch",
+      "es": "anillo plano, de unos 35 cm de diámetro, con un agujero central",
+      "fr": "anneau plat, environ 35 cm de diamètre, avec un trou central",
+      "ro": "inel plat, de aproximativ 35 cm diametru, cu o gaură în centru"
     }
   },
   "time": {
@@ -130,7 +154,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Traditionally hung to dry for weeks; fresh-baked loaves keep well wrapped for under a week."
+      "en": "Traditionally hung to dry for weeks; fresh-baked loaves keep well wrapped for under a week.",
+      "de": "Traditionell wochenlang zum Trocknen aufgehängt; frisch gebackene Laibe halten sich eingewickelt gut unter einer Woche.",
+      "es": "Tradicionalmente colgadas para secar durante semanas; las hogazas recién horneadas se conservan bien envueltas durante menos de una semana.",
+      "fr": "Traditionnellement suspendu pour sécher pendant des semaines; les pains fraîchement cuits se conservent bien emballés moins d'une semaine.",
+      "ro": "Tradițional agățat la uscat săptămâni întregi; pâinile proaspete se păstrează bine învelite sub o săptămână."
     }
   },
   "equipment": [
@@ -256,7 +284,11 @@
     "author": "Stanley Ginsberg",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Simplified to the two main loaves; the source's two small bonus rolls are omitted."
+      "en": "Simplified to the two main loaves; the source's two small bonus rolls are omitted.",
+      "de": "Auf die beiden Hauptlaibe vereinfacht; die zwei kleinen Extrabrotchen der Quelle wurden weggelassen.",
+      "es": "Simplificado a las dos hogazas principales; los dos panecillos extra pequeños de la fuente se omitieron.",
+      "fr": "Simplifié aux deux pains principaux; les deux petits pains supplémentaires de la source ont été omis.",
+      "ro": "Simplificat la cele două pâini principale; cei doi mici chifle bonus ai sursei au fost omiși."
     }
   },
   "tags": [

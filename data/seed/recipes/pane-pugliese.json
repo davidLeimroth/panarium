@@ -18,10 +18,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Puglia (Apulia)"
+      "en": "Puglia (Apulia)",
+      "de": "Apulien",
+      "es": "Apulia (Puglia)",
+      "fr": "Pouilles (Apulie)",
+      "ro": "Puglia (Apulia)"
     },
     "note": {
-      "en": "The generic, everyday version of Apulia's durum sourdough loaf, next to the geographically-protected Pane di Altamura."
+      "en": "The generic, everyday version of Apulia's durum sourdough loaf, next to the geographically-protected Pane di Altamura.",
+      "de": "Die alltagliche Grundversion von Apuliens Durum-Sauerteigbrot, neben dem geografisch geschutzten Pane di Altamura.",
+      "es": "La version generica y cotidiana del pan de masa madre de trigo duro de Apulia, junto al geograficamente protegido Pane di Altamura.",
+      "fr": "La version generique et quotidienne du pain au levain de ble dur des Pouilles, a cote du Pane di Altamura geographiquement protege.",
+      "ro": "Versiunea generică de zi cu zi a pâinii cu maiă din grâu dur a Pugliei, alături de Pane di Altamura protejat geografic."
     }
   },
   "leaven": "sourdough",
@@ -44,7 +52,11 @@
       "key": "flour:durum",
       "grams": 500,
       "note": {
-        "en": "semola rimacinata di grano duro"
+        "en": "semola rimacinata di grano duro",
+        "de": "Semola rimacinata di grano duro",
+        "es": "semola rimacinata di grano duro",
+        "fr": "semola rimacinata di grano duro",
+        "ro": "semola rimacinata di grano duro"
       }
     },
     {
@@ -55,7 +67,11 @@
       "key": "sourdough-starter",
       "grams": 100,
       "note": {
-        "en": "active lievito madre"
+        "en": "active lievito madre",
+        "de": "aktiver Lievito Madre",
+        "es": "lievito madre activo",
+        "fr": "lievito madre actif",
+        "ro": "lievito madre activ"
       }
     },
     {
@@ -66,7 +82,11 @@
       "key": "olive-oil",
       "grams": 13,
       "note": {
-        "en": "optional, for a softer crumb"
+        "en": "optional, for a softer crumb",
+        "de": "optional, fur eine weichere Krume",
+        "es": "opcional, para una miga mas suave",
+        "fr": "optionnel, pour une mie plus tendre",
+        "ro": "optional, pentru un miez mai moale"
       }
     }
   ],
@@ -74,7 +94,11 @@
     "count": 1,
     "pieceGrams": 960,
     "shape": {
-      "en": "round or oval hearth loaf, deeply scored"
+      "en": "round or oval hearth loaf, deeply scored",
+      "de": "runder oder ovaler Herdlaib, tief eingeschnitten",
+      "es": "pan de hogaza redondo u oval, profundamente marcado",
+      "fr": "pain de foyer rond ou ovale, profondement scarifie",
+      "ro": "pâine de vatră rotundă sau ovălă, adanc crestată"
     }
   },
   "time": {
@@ -115,7 +139,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Durum crumb and a mature starter keep it good most of the week; slice thick for bruschetta once it's a day old."
+      "en": "Durum crumb and a mature starter keep it good most of the week; slice thick for bruschetta once it's a day old.",
+      "de": "Durumkrume und ein reifer Starter halten es den Grosteil der Woche gut; am zweiten Tag dick fur Bruschetta schneiden.",
+      "es": "La miga de trigo duro y una masa madre madura lo mantienen bueno la mayor parte de la semana; cortar en rebanadas gruesas para bruschetta al dia siguiente.",
+      "fr": "La mie de ble dur et un levain mature le gardent bon la plupart de la semaine ; trancher epais pour des bruschetta une fois qu'il a un jour.",
+      "ro": "Miezul de grâu dur şi un starter matur il mentin bun cea mai mare parte a săptămânii; taie felii groase pentru bruschetta după o zi."
     }
   },
   "equipment": [
@@ -225,7 +253,11 @@
     "site": "Barracuda Matera",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "The lievito madre is assumed at roughly 50% hydration to convert into total-flour baker's percentages; olive oil is an optional regional variant included here."
+      "en": "The lievito madre is assumed at roughly 50% hydration to convert into total-flour baker's percentages; olive oil is an optional regional variant included here.",
+      "de": "Der Lievito Madre wird mit etwa 50 % Hydratation angenommen, um in Backerprozente auf Gesamtmehl umzurechnen; Olivenol ist eine optionale regionale Variante, die hier aufgenommen wurde.",
+      "es": "El lievito madre se asume con aproximadamente 50 % de hidratacion para convertirlo en porcentajes de harina total; el aceite de oliva es una variante regional opcional incluida aqui.",
+      "fr": "Le lievito madre est suppose a environ 50 % d'hydratation pour le convertir en pourcentages totaux de farine ; l'huile d'olive est une variante regionale optionnelle incluse ici.",
+      "ro": "Lievito madre este presupus la aproximativ 50% hidratare pentru a converti in procente totale de făină; uleiul de măsline este o variantă regională optionallă inclusă aici."
     }
   },
   "tags": [

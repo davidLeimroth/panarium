@@ -18,10 +18,18 @@
   "origin": {
     "country": "PT",
     "region": {
-      "en": "Greater Lisbon (Saloia farm belt)"
+      "en": "Greater Lisbon (Saloia farm belt)",
+      "de": "Großraum Lissabon (Saloia-Bauerngebiet)",
+      "es": "Gran Lisboa (cińturón agrı́cola de Saloia)",
+      "fr": "Grand Lisbonne (ceinture agricole de Saloia)",
+      "ro": "Lisabona Mare (zona fermieră Saloia)"
     },
     "note": {
-      "en": "'Saloio' names the smallholder farmers who historically supplied Lisbon with bread, produce and dairy from the surrounding countryside."
+      "en": "'Saloio' names the smallholder farmers who historically supplied Lisbon with bread, produce and dairy from the surrounding countryside.",
+      "de": "„Saloio“ bezeichnet die Kleinbauern, die Lissabon historisch mit Brot, Produkten und Milchprodukten vom umliegenden Land versorgten.",
+      "es": "'Saloio' nombra a los pequeños agricultores que históricamente abastecieron a Lisboa de pan, productos y lácteos desde el campo circundante.",
+      "fr": "« Saloio » nomme les petits agriculteurs qui approvisionnaient historiquement Lisbonne en pain, produits et produits laitiers depuis la campagne environnante.",
+      "ro": "„Saloio” denumeşte mîcii fermieri care aprovizionau în istorie Lisabona cu pâine, produse şi lactate din zonă rurală înconjurătoare."
     }
   },
   "leaven": "sourdough",
@@ -47,7 +55,11 @@
       "key": "water",
       "grams": 340,
       "note": {
-        "en": "mineral water"
+        "en": "mineral water",
+        "de": "Mineralwasser",
+        "es": "agua mineral",
+        "fr": "eau minérale",
+        "ro": "apă minerală"
       }
     },
     {
@@ -63,7 +75,11 @@
     "count": 1,
     "pieceGrams": 951,
     "shape": {
-      "en": "round boule"
+      "en": "round boule",
+      "de": "runde Kugel (Boule)",
+      "es": "boule redonda",
+      "fr": "boule ronde",
+      "ro": "boule rotundă"
     }
   },
   "time": {
@@ -104,7 +120,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "A long cold ferment gives real sourdough depth and decent keeping power for a few days."
+      "en": "A long cold ferment gives real sourdough depth and decent keeping power for a few days.",
+      "de": "Eine lange Kaltefermentation gibt echte Sauerteigtiefe und eine ordentliche Haltbarkeit für ein paar Tage.",
+      "es": "Una larga fermentación en frı́o da una profundidad real de masa madre y una capacidad de conservación decente durante unos días.",
+      "fr": "Une longue fermentation à froid donne une véritable profondeur de levain et une tenue correcte pendant quelques jours.",
+      "ro": "O fermentare lungă la rece conferă o adâncime reală de maia şi o capacitate de păstrare decentă pentru câteva zile."
     }
   },
   "equipment": [
@@ -214,7 +234,11 @@
     "site": "Cozinha à la Carte",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Starter assumed roughly 100% hydration to split into total-flour percentages."
+      "en": "Starter assumed roughly 100% hydration to split into total-flour percentages.",
+      "de": "Starter mit etwa 100 % Hydratation angenommen, um in Gesamtmehl-Prozente aufzuteilen.",
+      "es": "Se asume un prefermento con aproximadamente 100 % de hidratación para dividirlo en porcentajes totales de harina.",
+      "fr": "Levain suppose à environ 100 % d'hydratation pour le diviser en pourcentages totaux de farine.",
+      "ro": "Starter presupus la aproximativ 100% hidratare pentru a-i împărţi făina/apa in procente totale de făină."
     }
   },
   "tags": [

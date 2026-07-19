@@ -22,10 +22,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Emilia-Romagna to Puglia, especially chestnut-growing hills like Garfagnana and Lunigiana"
+      "en": "Emilia-Romagna to Puglia, especially chestnut-growing hills like Garfagnana and Lunigiana",
+      "de": "Von der Emilia-Romagna bis nach Apulien, besonders in kastanienreichen Hügeln wie der Garfagnana und Lunigiana",
+      "es": "De Emilia-Romaña a Apulia, especialmente en colinas castañeras como Garfagnana y Lunigiana",
+      "fr": "De l'Émilie-Romagne aux Pouilles, surtout dans les collines à châtaignes comme la Garfagnana et la Lunigiana",
+      "ro": "Din Emilia-Romagna până în Puglia, mai ales în dealurile cu castani precum Garfagnana și Lunigiana"
     },
     "note": {
-      "en": "Chestnut flour sustained poor mountain communities for centuries when wheat was scarce, especially through wartime shortages; this loaf is traditionally baked around Saint Martin's feast day, November 11."
+      "en": "Chestnut flour sustained poor mountain communities for centuries when wheat was scarce, especially through wartime shortages; this loaf is traditionally baked around Saint Martin's feast day, November 11.",
+      "de": "Kastanienmehl ernährte arme Berggemeinden jahrhundertelang, wenn Weizen knapp war, besonders während Kriegszeiten; dieser Laib wird traditionell um den Martinstag am 11. November gebacken.",
+      "es": "La harina de castaña sostuvo a comunidades montañosas pobres durante siglos cuando escaseaba el trigo, especialmente durante la escasez de la guerra; este pan se hornea tradicionalmente alrededor del día de San Martín, el 11 de noviembre.",
+      "fr": "La farine de châtaigne a nourri des communautés montagnardes pauvres pendant des siècles quand le blé se faisait rare, surtout pendant les pénuries de guerre; ce pain est traditionnellement cuit autour de la Saint-Martin, le 11 novembre.",
+      "ro": "Făina de castane a susținut comunitățile montane sărace timp de secole când grâul era rar, mai ales în timpul penuriilor de război; această pâine se coace în mod tradițional în jurul sărbătorii Sfântului Martin, pe 11 noiembrie."
     }
   },
   "leaven": "hybrid",
@@ -59,7 +67,11 @@
       },
       "grams": 50,
       "note": {
-        "en": "in the pre-ferment"
+        "en": "in the pre-ferment",
+        "de": "im Vorteig",
+        "es": "en el prefermento",
+        "fr": "dans le pré-ferment",
+        "ro": "în pre-ferment"
       }
     },
     {
@@ -72,21 +84,33 @@
       },
       "grams": 250,
       "note": {
-        "en": "in the main dough"
+        "en": "in the main dough",
+        "de": "im Hauptteig",
+        "es": "en la masa final",
+        "fr": "dans la pâte finale",
+        "ro": "în aluatul principal"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 50,
       "note": {
-        "en": "in the pre-ferment; wheat or spelt flour"
+        "en": "in the pre-ferment; wheat or spelt flour",
+        "de": "im Vorteig; Weizen- oder Dinkelmehl",
+        "es": "en el prefermento; harina de trigo o espelta",
+        "fr": "dans le pré-ferment; farine de blé ou d'épeautre",
+        "ro": "în pre-ferment; făină de grâu sau alac"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 350,
       "note": {
-        "en": "in the main dough; wheat or spelt flour"
+        "en": "in the main dough; wheat or spelt flour",
+        "de": "im Hauptteig; Weizen- oder Dinkelmehl",
+        "es": "en la masa final; harina de trigo o espelta",
+        "fr": "dans la pâte finale; farine de blé ou d'épeautre",
+        "ro": "în aluatul principal; făină de grâu sau alac"
       }
     },
     {
@@ -97,21 +121,33 @@
       "key": "sourdough-starter",
       "grams": 50,
       "note": {
-        "en": "mature wheat or spelt leaven, 100% hydration"
+        "en": "mature wheat or spelt leaven, 100% hydration",
+        "de": "reifer Weizen- oder Dinkelsauerteig, 100% Hydratation",
+        "es": "fermento madre maduro de trigo o espelta, 100% hidratación",
+        "fr": "levain mature de blé ou d'épeautre, 100% d'hydratation",
+        "ro": "maia matură de grâu sau alac, 100% hidratare"
       }
     },
     {
       "key": "water",
       "grams": 180,
       "note": {
-        "en": "in the pre-ferment"
+        "en": "in the pre-ferment",
+        "de": "im Vorteig",
+        "es": "en el prefermento",
+        "fr": "dans le pré-ferment",
+        "ro": "în pre-ferment"
       }
     },
     {
       "key": "water",
       "grams": 300,
       "note": {
-        "en": "in the main dough"
+        "en": "in the main dough",
+        "de": "im Hauptteig",
+        "es": "en la masa final",
+        "fr": "dans la pâte finale",
+        "ro": "în aluatul principal"
       }
     },
     {
@@ -126,7 +162,11 @@
       "key": "walnuts",
       "grams": 180,
       "note": {
-        "en": "roughly chopped, worked in after the initial knead"
+        "en": "roughly chopped, worked in after the initial knead",
+        "de": "grob gehackt, nach dem ersten Kneten eingearbeitet",
+        "es": "picado grueso, incorporado después del primer amasado",
+        "fr": "grossièrement haché, incorporé après le premier pétrissage",
+        "ro": "tocat grosier, încorporat după prima frământare"
       }
     }
   ],
@@ -134,7 +174,11 @@
     "count": 2,
     "pieceGrams": 727,
     "shape": {
-      "en": "round or oval hearth loaf"
+      "en": "round or oval hearth loaf",
+      "de": "runder oder ovaler Steinofenlaib",
+      "es": "hogaza de hogar redonda u ovalada",
+      "fr": "pain de foyer rond ou ovale",
+      "ro": "pâine de vatră rotundă sau ovală"
     }
   },
   "time": {
@@ -298,7 +342,11 @@
     "site": "Bread, Cakes and Ale",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Source offers 'wheat or spelt flour' throughout; recorded here as wheat-white. The mature leaven is assumed a 100%-hydration wheat-based starter for percentage purposes."
+      "en": "Source offers 'wheat or spelt flour' throughout; recorded here as wheat-white. The mature leaven is assumed a 100%-hydration wheat-based starter for percentage purposes.",
+      "de": "Quelle bietet durchgehend Weizen- oder Dinkelmehl an; hier als Weizenweißmehl erfasst. Der reife Sauerteig wird für Prozentzwecke als 100%-Hydratations-Weizenstarter angenommen.",
+      "es": "La fuente ofrece harina de trigo o espelta en todo momento; aquí registrada como harina blanca de trigo. Se asume que el fermento madre maduro es un starter de trigo al 100% de hidratación a efectos de porcentajes.",
+      "fr": "La source propose farine de blé ou d'épeautre partout; ici enregistré comme farine de blé blanche. Le levain mature est supposé être un starter de blé à 100% d'hydratation pour les besoins des pourcentages.",
+      "ro": "Sursa oferă făină de grâu sau alac peste tot; înregistrat aici ca făină albă de grâu. Maiaua matură este presupusă a fi un starter de grâu cu 100% hidratare în scopul procentelor."
     }
   },
   "tags": [

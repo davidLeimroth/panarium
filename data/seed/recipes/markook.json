@@ -23,10 +23,18 @@
   "origin": {
     "country": "LB",
     "region": {
-      "en": "Levant (Lebanon, Syria, Jordan, Palestine)"
+      "en": "Levant (Lebanon, Syria, Jordan, Palestine)",
+      "de": "Levante (Libanon, Syrien, Jordanien, Palästina)",
+      "es": "Levante (Líbano, Siria, Jordania, Palestina)",
+      "fr": "Levant (Liban, Syrie, Jordanie, Palestine)",
+      "ro": "Levantul (Liban, Siria, Iordania, Palestina)"
     },
     "note": {
-      "en": "Known by several regional names: markook, shrak, mashrouh, khubz ruqaq; a favorite for mezze tables and as a long-keeping travel bread."
+      "en": "Known by several regional names: markook, shrak, mashrouh, khubz ruqaq; a favorite for mezze tables and as a long-keeping travel bread.",
+      "de": "Bekannt unter mehreren regionalen Namen: Markook, Shrak, Mashrouh, Khubz Ruqaq; ein Favorit für Mezze-Tafeln und als lange haltbares Reisebrot.",
+      "es": "Conocido por varios nombres regionales: markook, shrak, mashrouh, khubz ruqaq; un favorito para mesas de mezze y como pan de viaje de larga duración.",
+      "fr": "Connu sous plusieurs noms régionaux: markook, shrak, mashrouh, khubz ruqaq; un favori pour les tables de mezze et comme pain de voyage à longue conservation.",
+      "ro": "Cunoscut sub mai multe nume regionale: markook, shrak, mashrouh, khubz ruqaq; un favorit pentru mesele de meze și ca pâine de călătorie cu păstrare îndelungată."
     }
   },
   "leaven": "yeast",
@@ -61,7 +69,11 @@
       "key": "water",
       "grams": 411,
       "note": {
-        "en": "cold"
+        "en": "cold",
+        "de": "kalt",
+        "es": "fría",
+        "fr": "froide",
+        "ro": "rece"
       }
     },
     {
@@ -76,7 +88,11 @@
       "key": "instant-yeast",
       "grams": 0.35,
       "note": {
-        "en": "just a touch, relies on a long slow rest rather than yeast power"
+        "en": "just a touch, relies on a long slow rest rather than yeast power",
+        "de": "nur eine Prise, verlässt sich auf lange langsame Ruhe statt auf Hefekraft",
+        "es": "solo un toque, depende de un reposo largo y lento en lugar del poder de la levadura",
+        "fr": "juste une pincée, compte sur un long repos lent plutôt que sur la puissance de la levure",
+        "ro": "doar un strop, se bazează pe o odihnă lungă și lentă în loc de puterea drojdiei"
       }
     }
   ],
@@ -84,7 +100,11 @@
     "count": 7,
     "pieceGrams": 132,
     "shape": {
-      "en": "paper-thin round, stretched to 40-60cm before cooking"
+      "en": "paper-thin round, stretched to 40-60cm before cooking",
+      "de": "papierdünner runder Fladen, auf 40-60 cm ausgezogen vor dem Backen",
+      "es": "disco fino como papel, estirado a 40-60 cm antes de cocinar",
+      "fr": "disque fin comme du papier, étiré à 40-60 cm avant cuisson",
+      "ro": "disc subțire ca hârtia, întins la 40-60 cm înainte de gătire"
     }
   },
   "time": {
@@ -123,7 +143,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "Keeps up to a week at room temperature in an airtight container, much longer refrigerated, and freezes for months. Fold into quarters once cooled for easy storage."
+      "en": "Keeps up to a week at room temperature in an airtight container, much longer refrigerated, and freezes for months. Fold into quarters once cooled for easy storage.",
+      "de": "Hält sich bis zu einer Woche bei Raumtemperatur in einem luftdichten Behälter, viel länger im Kühlschrank und monatelang im Gefrierfach. Nach dem Abkühlen vierteln und stapeln zur einfachen Aufbewahrung.",
+      "es": "Se conserva hasta una semana a temperatura ambiente en un recipiente hermético, mucho más en refrigeración y meses congelado. Doblar en cuartos una vez frío para almacenar fácilmente.",
+      "fr": "Se conserve jusqu'à une semaine à température ambiante dans un récipient hermétique, beaucoup plus longtemps au réfrigérateur et des mois au congélateur. Plier en quartiers une fois refroidi pour un rangement facile.",
+      "ro": "Se păstrează până la o săptămână la temperatura camerei într-un recipient ermetic, mult mai mult la frigider și luni de zile la congelator. Îndoaie în sferturi odată răcit pentru depozitare ușoară."
     }
   },
   "equipment": [
@@ -232,7 +256,11 @@
     "site": "Alphafoodie",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Rescaled from the source's large 40-piece batch to a 500g-flour batch, preserving ratios; hydration recomputed from the source's explicit quantities, not its separately stated approximate range."
+      "en": "Rescaled from the source's large 40-piece batch to a 500g-flour batch, preserving ratios; hydration recomputed from the source's explicit quantities, not its separately stated approximate range.",
+      "de": "Von der großen 40-Stück-Charge der Quelle auf eine 500-g-Mehl-Charge umskaliert, unter Beibehaltung der Verhältnisse; Hydration aus den expliziten Mengen der Quelle neu berechnet, nicht aus ihrer separat angegebenen ungefähren Spannbreite.",
+      "es": "Reescalado del gran lote de 40 piezas de la fuente a un lote de 500 g de harina, conservando las proporciones; la hidratación se recalculó a partir de las cantidades explícitas de la fuente, no de su rango aproximado indicado por separado.",
+      "fr": "Redimensionné du grand lot de 40 pièces de la source à un lot de 500 g de farine, en conservant les proportions; l'hydratation a été recalculée à partir des quantités explicites de la source, pas de sa fourchette approximative indiquée séparément.",
+      "ro": "Reescalonat de la lotul mare de 40 de bucăți al sursei la un lot de 500 g de făină, păstrând proporțiile; hidratarea a fost recalculată din cantitățile explicite ale sursei, nu din intervalul său aproximativ menționat separat."
     }
   },
   "tags": [

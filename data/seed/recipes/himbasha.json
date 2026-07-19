@@ -23,10 +23,18 @@
   "origin": {
     "country": "ER",
     "region": {
-      "en": "Eritrea and Ethiopia"
+      "en": "Eritrea and Ethiopia",
+      "de": "Eritrea und Äthiopien",
+      "es": "Eritrea y Etiopía",
+      "fr": "Érythrée et Éthiopie",
+      "ro": "Eritreea și Etiopia"
     },
     "note": {
-      "en": "Baked for weddings, holidays and other celebrations; the scored wheel pattern on top is decorative and varies by household. Closely related to the Ethiopian ambasha."
+      "en": "Baked for weddings, holidays and other celebrations; the scored wheel pattern on top is decorative and varies by household. Closely related to the Ethiopian ambasha.",
+      "de": "Gebacken für Hochzeiten, Feiertage und andere Feierlichkeiten; das eingeritzte Radmuster oben ist dekorativ und variiert je nach Haushalt. Eng verwandt mit dem äthiopischen Ambasha.",
+      "es": "Horneado para bodas, días festivos y otras celebraciones; el patrón de rueda marcado en la parte superior es decorativo y varía según el hogar. Estrechamente relacionado con el ambasha etíope.",
+      "fr": "Cuit pour les mariages, les fêtes et autres célébrations; le motif de roue tracé sur le dessus est décoratif et varie selon les foyers. Étroitement lié à l'ambasha éthiopien.",
+      "ro": "Copt pentru nunți, sărbători și alte celebrații; modelul de roată incizat deasupra este decorativ și variază de la o gospodărie la alta. Strâns înrudit cu ambasha etiopian."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "water",
       "grams": 474,
       "note": {
-        "en": "lukewarm, about 36°C"
+        "en": "lukewarm, about 36°C",
+        "de": "lauwarm, etwa 36°C",
+        "es": "templado, unos 36°C",
+        "fr": "tiède, environ 36°C",
+        "ro": "călduț, aproximativ 36°C"
       }
     },
     {
@@ -65,7 +77,11 @@
       "key": "cardamom",
       "grams": 4,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
@@ -76,7 +92,11 @@
       "key": "sugar",
       "grams": 67,
       "note": {
-        "en": "caster sugar"
+        "en": "caster sugar",
+        "de": "Feinkristallzucker",
+        "es": "azúcar extrafino",
+        "fr": "sucre en poudre",
+        "ro": "zahăr fin"
       }
     },
     {
@@ -89,28 +109,44 @@
       },
       "grams": 12,
       "note": {
-        "en": "or black sesame seeds"
+        "en": "or black sesame seeds",
+        "de": "oder schwarzer Sesam",
+        "es": "o semillas de sésamo negro",
+        "fr": "ou graines de sésame noir",
+        "ro": "sau semințe de susan negru"
       }
     },
     {
       "key": "butter",
       "grams": 114,
       "note": {
-        "en": "niter kibbeh (Ethiopian spiced clarified butter) or olive oil"
+        "en": "niter kibbeh (Ethiopian spiced clarified butter) or olive oil",
+        "de": "Niter Kibbeh (äthiopische gewürzte Butterschmalz) oder Olivenöl",
+        "es": "niter kibbeh (mantequilla clarificada especiada etíope) o aceite de oliva",
+        "fr": "niter kibbeh (beurre clarifié épicé éthiopien) ou huile d'olive",
+        "ro": "niter kibbeh (unt clarificat etiopian condimentat) sau ulei de măsline"
       }
     },
     {
       "key": "milk",
       "grams": 45,
       "note": {
-        "en": "for the finishing glaze"
+        "en": "for the finishing glaze",
+        "de": "für die Abschlussglasur",
+        "es": "para el glaseado final",
+        "fr": "pour la dorure finale",
+        "ro": "pentru glazura finală"
       }
     },
     {
       "key": "butter",
       "grams": 41,
       "note": {
-        "en": "niter kibbeh or olive oil, for the finishing glaze"
+        "en": "niter kibbeh or olive oil, for the finishing glaze",
+        "de": "Niter Kibbeh oder Olivenöl, für die Abschlussglasur",
+        "es": "niter kibbeh o aceite de oliva, para el glaseado final",
+        "fr": "niter kibbeh ou huile d'olive, pour la dorure finale",
+        "ro": "niter kibbeh sau ulei de măsline, pentru glazura finală"
       }
     }
   ],
@@ -118,7 +154,11 @@
     "count": 2,
     "pieceGrams": 690,
     "shape": {
-      "en": "flat round loaf, about 30 cm across"
+      "en": "flat round loaf, about 30 cm across",
+      "de": "flacher runder Laib, etwa 30 cm Durchmesser",
+      "es": "hogaza redonda plana, de unos 30 cm de diámetro",
+      "fr": "pain rond plat, d'environ 30 cm de diamètre",
+      "ro": "pâine rotundă plată, de aproximativ 30 cm diametru"
     }
   },
   "time": {
@@ -160,7 +200,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the day or two after baking while soft; wrap well and freeze any extra loaf."
+      "en": "Best the day or two after baking while soft; wrap well and freeze any extra loaf.",
+      "de": "Am besten ein oder zwei Tage nach dem Backen, solange es weich ist; gut einwickeln und übrige Laibe einfrieren.",
+      "es": "Mejor el día o dos después del horneado mientras esté blando; envolver bien y congelar cualquier pan extra.",
+      "fr": "Meilleur le jour ou les deux jours suivant la cuisson tant qu'il est mou; bien emballer et congeler tout pain supplémentaire.",
+      "ro": "Cel mai bun în prima sau a doua zi după coacere, cât este moale; înfășurați bine și congelați orice pâine în plus."
     }
   },
   "equipment": [
@@ -286,7 +330,11 @@
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tablespoon quantities converted to grams with standard baking equivalents; niter kibbeh treated as butter for the hydration and fat math."
+      "en": "Cup/tablespoon quantities converted to grams with standard baking equivalents; niter kibbeh treated as butter for the hydration and fat math.",
+      "de": "Tassen-/Esslöffelmengen mit Standard-Backäquivalenten in Gramm umgerechnet; Niter Kibbeh für die Hydratations- und Fettberechnung als Butter behandelt.",
+      "es": "Cantidades en tazas/cucharadas convertidas a gramos con equivalentes estándar de repostería; niter kibbeh tratado como mantequilla para el cálculo de hidratación y grasa.",
+      "fr": "Quantités en tasses/cuillères à soupe converties en grammes avec des équivalents de pâtisserie standard; niter kibbeh traité comme du beurre pour le calcul de l'hydratation et des matières grasses.",
+      "ro": "Cantitățile în căni/linguri convertite în grame cu echivalențe standard de panificație; niter kibbeh tratat ca unt pentru calculul hidratării și grăsimii."
     }
   },
   "tags": [

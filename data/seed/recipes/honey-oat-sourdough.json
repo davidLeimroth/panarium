@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Home-baking tradition"
+      "en": "Home-baking tradition",
+      "de": "Hausback-Tradition",
+      "es": "Tradición de la repostería casera",
+      "fr": "Tradition de la pâtisserie maison",
+      "ro": "Tradiție de coacere casnică"
     },
     "note": {
-      "en": "A home-baker favorite built on the classic honey-oatmeal loaf, updated with a wild-yeast levain in place of commercial yeast."
+      "en": "A home-baker favorite built on the classic honey-oatmeal loaf, updated with a wild-yeast levain in place of commercial yeast.",
+      "de": "Ein Hausbäcker-Favorit, aufgebaut auf dem klassischen Honig-Haferflocken-Brot, aktualisiert mit einem Wildhefe-Levain anstelle von kommerzieller Hefe.",
+      "es": "Un favorito de los panaderos caseros basado en el clásico pan de miel y avena, actualizado con un levain de levadura silvestre en lugar de levadura comercial.",
+      "fr": "Un favori des boulangers amateurs construit sur le classique pain au miel et aux flocons d'avoine, mis à jour avec un levain de levures sauvages en lieu et place de la levure commerciale.",
+      "ro": "Un favorit al panificaților casnici construit pe clasica pâine cu miere și fulgi de ovăz, actualizat cu un levain din drojdie sălbatică în loc de drojdie comercială."
     }
   },
   "leaven": "sourdough",
@@ -45,14 +53,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Weizenbrotmehl",
+        "es": "harina de pan",
+        "fr": "farine de pain",
+        "ro": "făină de pâine"
       }
     },
     {
       "key": "rolled-oats",
       "grams": 50,
       "note": {
-        "en": "plus extra for rolling the shaped loaf"
+        "en": "plus extra for rolling the shaped loaf",
+        "de": "plus extra zum Wälzen des geformten Laibs",
+        "es": "más extra para rebozar el pan formado",
+        "fr": "plus un peu pour rouler le pain façonné",
+        "ro": "plus extra pentru rularea pâinii modelate"
       }
     },
     {
@@ -67,7 +83,11 @@
       "key": "sourdough-starter",
       "grams": 50,
       "note": {
-        "en": "active, 100% hydration"
+        "en": "active, 100% hydration",
+        "de": "aktiv, 100% Hydratation",
+        "es": "activo, 100% de hidratación",
+        "fr": "actif, 100% d'hydratation",
+        "ro": "activ, 100% hidratare"
       }
     },
     {
@@ -79,7 +99,11 @@
     "count": 1,
     "pieceGrams": 880,
     "shape": {
-      "en": "bâtard"
+      "en": "bâtard",
+      "de": "Bâtard",
+      "es": "bâtard",
+      "fr": "bâtard",
+      "ro": "bâtard"
     }
   },
   "time": {
@@ -244,7 +268,11 @@
     "site": "The Pantry Mama",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Rolled oats treated as a soaked inclusion rather than a structural flour, so they sit outside the 100% flour base used for hydration."
+      "en": "Rolled oats treated as a soaked inclusion rather than a structural flour, so they sit outside the 100% flour base used for hydration.",
+      "de": "Haferflocken als eingeweichte Zugabe behandelt, nicht als strukturelles Mehl, sodass sie außerhalb der 100%-Mehlbasis für die Hydratation liegen.",
+      "es": "Avena arrollada tratada como inclusión remojada en lugar de harina estructural, por lo que queda fuera de la base de 100% de harina utilizada para la hidratación.",
+      "fr": "Flocons d'avoine traités comme une inclusion trempée plutôt que comme une farine structurelle, donc ils se situent en dehors de la base de 100% de farine utilisée pour l'hydratation.",
+      "ro": "Fulgi de ovăz tratați ca o incluziune înmuiată, nu ca făină structurală, deci sunt în afara bazei de 100% făină folosită pentru hidratare."
     }
   },
   "tags": [

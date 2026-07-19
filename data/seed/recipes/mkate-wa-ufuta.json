@@ -21,10 +21,18 @@
   "origin": {
     "country": "TZ",
     "region": {
-      "en": "Swahili coast (Zanzibar, coastal Kenya and Tanzania)"
+      "en": "Swahili coast (Zanzibar, coastal Kenya and Tanzania)",
+      "de": "Swahili-Kuste (Sansibar, Kuste Kenias und Tansanias)",
+      "es": "Costa swahili (Zanzibar, costa de Kenia y Tanzania)",
+      "fr": "Cote swahilie (Zanzibar, cote du Kenya et de Tanzanie)",
+      "ro": "Coasta swahili (Zanzibar, coasta Kenyei si Tanzaniei)"
     },
     "note": {
-      "en": "Reflects the Swahili coast's Indian Ocean trade history, where coconut, sesame and wheat converge in one griddle bread."
+      "en": "Reflects the Swahili coast's Indian Ocean trade history, where coconut, sesame and wheat converge in one griddle bread.",
+      "de": "Spiegelt die Handelsgeschichte der Swahili-Kuste am Indischen Ozean wider, wo Kokos, Sesam und Weizen in einem Pfannenbrot zusammenkommen.",
+      "es": "Refleja la historia comercial de la costa swahili en el oceano Indico, donde el coco, el sesamo y el trigo convergen en un pan de plancha.",
+      "fr": "Reflete l'histoire commerciale de la cote swahilie dans l'ocean Indien, ou la noix de coco, le sesame et le ble convergent dans un pain a la poele.",
+      "ro": "Reflecta istoria comerciala a coastei swahili in Oceanul Indian, unde nuca de cocos, susanul si graul converg intr-o paine de tigaie."
     }
   },
   "leaven": "yeast",
@@ -57,7 +65,11 @@
       },
       "grams": 270,
       "note": {
-        "en": "full-fat, canned"
+        "en": "full-fat, canned",
+        "de": "vollfett, aus der Dose",
+        "es": "entero, en lata",
+        "fr": "entier, en boite",
+        "ro": "plen-gras, din conserva"
       }
     },
     {
@@ -76,14 +88,22 @@
       "key": "olive-oil",
       "grams": 54,
       "note": {
-        "en": "or a neutral vegetable oil"
+        "en": "or a neutral vegetable oil",
+        "de": "oder ein neutrales Pflanzenol",
+        "es": "o un aceite vegetal neutro",
+        "fr": "ou une huile vegetale neutre",
+        "ro": "sau un ulei vegetal neutru"
       }
     },
     {
       "key": "sesame-seeds",
       "grams": 32,
       "note": {
-        "en": "for coating both sides before cooking"
+        "en": "for coating both sides before cooking",
+        "de": "zum Bestreichen beider Seiten vor dem Backen",
+        "es": "para untar ambos lados antes de cocinar",
+        "fr": "pour enduire les deux faces avant la cuisson",
+        "ro": "pentru ungerea ambelor parti inainte de gatire"
       }
     }
   ],
@@ -91,7 +111,11 @@
     "count": 6,
     "pieceGrams": 133,
     "shape": {
-      "en": "round, about 16 cm wide"
+      "en": "round, about 16 cm wide",
+      "de": "rund, etwa 16 cm Durchmesser",
+      "es": "redondo, de unos 16 cm de ancho",
+      "fr": "rond, environ 16 cm de large",
+      "ro": "rotund, aproximativ 16 cm latime"
     }
   },
   "time": {
@@ -131,7 +155,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best served warm right off the pan; leftovers reheat well in a dry skillet."
+      "en": "Best served warm right off the pan; leftovers reheat well in a dry skillet.",
+      "de": "Am besten warm direkt aus der Pfanne servieren; Reste lassen sich gut in einer trockenen Pfanne aufwarmen.",
+      "es": "Mejor servirlo caliente recien salido de la plancha; las sobras se recalientan bien en una sarten seca.",
+      "fr": "Meilleur servi chaud directement de la poele; les restes se rechauffent bien dans une poele seche.",
+      "ro": "Cel mai bun servit cald direct din tigaie; resturile se reincalzesc bine intr-o tigaie uscata."
     }
   },
   "equipment": [
@@ -256,7 +284,11 @@
     "site": "Leite's Culinaria",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Coconut milk's contribution to hydration estimated at 65% of its weight and its fat at 24%, since no standard conversion is given for it; cup/tsp/tbsp quantities converted to grams."
+      "en": "Coconut milk's contribution to hydration estimated at 65% of its weight and its fat at 24%, since no standard conversion is given for it; cup/tsp/tbsp quantities converted to grams.",
+      "de": "Beitrag der Kokosmilch zur Hydratation auf 65 % ihres Gewichts und ihr Fett auf 24 % geschatzt, da keine Standardumrechnung dafur angegeben ist; Tassen-/TL-/EL-Mengen in Gramm umgerechnet.",
+      "es": "La contribucion de la leche de coco a la hidratacion estimada en un 65 % de su peso y su grasa en un 24 %, ya que no se da una conversion estandar; cantidades en tazas/cucharaditas/cucharadas convertidas a gramos.",
+      "fr": "Contribution du lait de coco a l'hydratation estimee a 65 % de son poids et sa matiere grasse a 24 %, aucune conversion standard n'etant donnee; quantites en tasses/c. a cafe/c. a soupe converties en grammes.",
+      "ro": "Contributia laptelui de cocos la hidratare estimata la 65 % din greutatea sa si grasimea la 24 %, deoarece nu este data o conversie standard; cantitatile in cani/lingurite/linguri convertite in grame."
     }
   },
   "tags": [

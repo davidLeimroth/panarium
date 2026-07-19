@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Touraine / Anjou (Val de Loire)"
+      "en": "Touraine / Anjou (Val de Loire)",
+      "de": "Touraine / Anjou (Loiretal)",
+      "es": "Touraine / Anjou (Valle del Loira)",
+      "fr": "Touraine / Anjou (Val de Loire)",
+      "ro": "Touraine / Anjou (Valea Loarei)"
     },
     "note": {
-      "en": "Traditionally the small test-piece a wood-oven baker threw onto the hearth floor to check whether the oven was hot enough for the day's real bake."
+      "en": "Traditionally the small test-piece a wood-oven baker threw onto the hearth floor to check whether the oven was hot enough for the day's real bake.",
+      "de": "Traditionell das kleine Probestück, das ein Holzofenbäcker auf den Herdboden warf, um zu prüfen, ob der Ofen heiß genug für die eigentliche Tagesbackware war.",
+      "es": "Tradicionalmente la pequeña pieza de prueba que un panadero de horno de leña arrojaba al suelo del hogar para comprobar si el horno estaba lo suficientemente caliente para la hornada real del día.",
+      "fr": "Traditionnellement la petite pièce d'essai qu'un boulanger au four à bois jetait sur la sole pour vérifier si le four était assez chaud pour la vraie fournée du jour.",
+      "ro": "Tradițional bucățica de test pe care un brutar la cuptor cu lemne o arunca pe vatra cuptorului pentru a verifica dacă cuptorul era suficient de fierbinte pentru coacerea propriu-zisă a zilei."
     }
   },
   "leaven": "yeast",
@@ -53,7 +61,11 @@
       "key": "flour:wheat-white",
       "grams": 580,
       "note": {
-        "en": "T55"
+        "en": "T55",
+        "de": "T55",
+        "es": "T55",
+        "fr": "T55",
+        "ro": "T55"
       }
     },
     {
@@ -85,7 +97,11 @@
     "count": 5,
     "pieceGrams": 175,
     "shape": {
-      "en": "thin puffed disc"
+      "en": "thin puffed disc",
+      "de": "dünne aufgeblähte Scheibe",
+      "es": "disco fino hinchado",
+      "fr": "disque fin gonflé",
+      "ro": "disc subțire umflat"
     }
   },
   "time": {
@@ -127,7 +143,11 @@
     "freshDays": 0.5,
     "freezes": true,
     "note": {
-      "en": "Meant to be eaten warm within the hour, split open and stuffed, it doesn't keep as a loaf."
+      "en": "Meant to be eaten warm within the hour, split open and stuffed, it doesn't keep as a loaf.",
+      "de": "Soll innerhalb der Stunde warm gegessen werden, aufgeschnitten und gefüllt, sie hält sich nicht als Laib.",
+      "es": "Destinada a comerse caliente en la primera hora, abierta y rellena, no se conserva como hogaza.",
+      "fr": "À manger chaude dans l'heure, ouverte et garnie, elle ne se conserve pas en pain.",
+      "ro": "Menită să fie mâncată caldă în prima oră, despicată și umplută, nu se păstrează ca pâine."
     }
   },
   "equipment": [
@@ -236,7 +256,11 @@
     "site": "Supertoinette",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Baking temperature estimated at 250°C for a home oven; source gave only a 10-15 minute bake time with no explicit temperature."
+      "en": "Baking temperature estimated at 250°C for a home oven; source gave only a 10-15 minute bake time with no explicit temperature.",
+      "de": "Backtemperatur auf 250 °C für einen Haushaltsbackofen geschätzt; die Quelle gab nur eine Backzeit von 10-15 Minuten ohne explizite Temperatur an.",
+      "es": "Temperatura de horneado estimada en 250 °C para un horno doméstico; la fuente solo indicó un tiempo de horneado de 10-15 minutos sin temperatura explícita.",
+      "fr": "Température de cuisson estimée à 250 °C pour un four domestique; la source n'a donné qu'un temps de cuisson de 10 à 15 minutes sans température explicite.",
+      "ro": "Temperatura de coacere estimată la 250 °C pentru un cuptor de casă; sursa a oferit doar un timp de coacere de 10-15 minute fără o temperatură explicită."
     }
   },
   "tags": [

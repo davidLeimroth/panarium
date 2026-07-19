@@ -23,10 +23,18 @@
   "origin": {
     "country": "PT",
     "region": {
-      "en": "Azores"
+      "en": "Azores",
+      "de": "Azoren",
+      "es": "Azores",
+      "fr": "Açores",
+      "ro": "Azore"
     },
     "note": {
-      "en": "Called massa sovada ('kneaded dough') in the Azores; Azorean immigrants carried it to Hawaii in the late 1800s, where it evolved into Hawaiian sweet bread and, later, King's Hawaiian rolls."
+      "en": "Called massa sovada ('kneaded dough') in the Azores; Azorean immigrants carried it to Hawaii in the late 1800s, where it evolved into Hawaiian sweet bread and, later, King's Hawaiian rolls.",
+      "de": "Auf den Azoren Massa Sovada („gekneteter Teig“) genannt; azoreanische Einwanderer brachten ihn im späten 19. Jahrhundert nach Hawaii, wo er sich zu Hawaiian Sweet Bread und später zu Kings Hawaiian Rolls entwickelte.",
+      "es": "Llamada massa sovada (\"masa amasada\") en las Azores; los inmigrantes azoreanos la llevaron a Hawái a finales del siglo XIX, donde evolucionó a Hawaiian sweet bread y, más tarde, a los panecillos Kings Hawaiian.",
+      "fr": "Appelée massa sovada (« pâte pétrie ») aux Açores ; les immigrés açoréens l'ont apportée à Hawaï à la fin du XIXe siècle, où elle a évolué en pain sucré hawaïen et, plus tard, en pains Kings Hawaiian.",
+      "ro": "Numită massa sovada („aluat frecât”) în Azore; imigranţii azoreni au dus-o în Hawaii la sfârşitul secolului al XIX-lea, unde a evoluat în pâine dulce hawaiiană şi, mai târziu, în chiflele Kings Hawaiian."
     }
   },
   "leaven": "yeast",
@@ -53,21 +61,33 @@
       "key": "milk",
       "grams": 180,
       "note": {
-        "en": "warmed"
+        "en": "warmed",
+        "de": "erwärmt",
+        "es": "calentada",
+        "fr": "rechauffé",
+        "ro": "încălzit"
       }
     },
     {
       "key": "egg",
       "grams": 200,
       "note": {
-        "en": "about 4 large eggs"
+        "en": "about 4 large eggs",
+        "de": "etwa 4 große Eier",
+        "es": "aproximadamente 4 huevos grandes",
+        "fr": "environ 4 gros œufs",
+        "ro": "aproximativ 4 ouă mari"
       }
     },
     {
       "key": "butter",
       "grams": 135,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "moale"
       }
     },
     {
@@ -78,7 +98,11 @@
       "key": "water",
       "grams": 76,
       "note": {
-        "en": "warm, for blooming the yeast"
+        "en": "warm, for blooming the yeast",
+        "de": "warm, zum Aktivieren der Hefe",
+        "es": "tibia, para activar la levadura",
+        "fr": "tiede, pour activer la levure",
+        "ro": "caldă, pentru activarea drojdiei"
       }
     },
     {
@@ -93,14 +117,22 @@
       "key": "lemon-zest",
       "grams": 5,
       "note": {
-        "en": "from about 1 lemon"
+        "en": "from about 1 lemon",
+        "de": "von etwa 1 Zitrone",
+        "es": "de aproximadamente 1 limón",
+        "fr": "d'environ 1 citron",
+        "ro": "de la aproximativ 1 lămâie"
       }
     },
     {
       "key": "mashed-potato",
       "grams": 60,
       "note": {
-        "en": "mashed sweet potato, a traditional Azorean addition"
+        "en": "mashed sweet potato, a traditional Azorean addition",
+        "de": "pürierte Suskartoffel, eine traditionelle azoreanische Zutat",
+        "es": "boniato hecho puré, un añadido tradicional azoreano",
+        "fr": "patate douce en purée, un ajout traditionnel açoréen",
+        "ro": "piure de cartof dulce, un adăug traditional azorean"
       }
     }
   ],
@@ -108,7 +140,11 @@
     "count": 1,
     "pieceGrams": 1300,
     "shape": {
-      "en": "large round loaf, egg-washed and often cross-scored"
+      "en": "large round loaf, egg-washed and often cross-scored",
+      "de": "großer runder Laib, mit Ei bestrichen und oft kreuzweise eingeritzt",
+      "es": "gran pan redondo, barnizado con huevo y a menudo marcado en cruz",
+      "fr": "grand pain rond, doré a l'œuf et souvent scarifié en croix",
+      "ro": "pâine mare rotundă, unsă cu ou şi adesea crestată în cruce"
     }
   },
   "time": {
@@ -149,7 +185,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; toasts well or makes fine French toast from day two on."
+      "en": "Best the day it's baked; toasts well or makes fine French toast from day two on.",
+      "de": "Am besten am Backtag; toastet sich gut oder ergibt ab dem zweiten Tag feine French Toast.",
+      "es": "Mejor el día de coccion; se tuesta bien o da un buen French toast a partir del segundo día.",
+      "fr": "Meilleur le jour de la cuisson; se toast bien ou fait du bon pain perdu à partir du deuxième jour.",
+      "ro": "Cel mai bun în ziua coacerii; se praj̧te bine sau face un French toast excelent din ziua a doua."
     }
   },
   "equipment": [
@@ -291,7 +331,11 @@
     "site": "By Açores",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Ratios composited from this Azorean recipe with a moderate hydration increase; the overnight starter was simplified to one stage. Hawaii lineage per Wikipedia's Portuguese sweet bread entry."
+      "en": "Ratios composited from this Azorean recipe with a moderate hydration increase; the overnight starter was simplified to one stage. Hawaii lineage per Wikipedia's Portuguese sweet bread entry.",
+      "de": "Verhältnisse aus diesem azoreanischen Rezept mit mäßiger Hydratationserhöhung zusammengesetzt; der Vorteig über Nacht wurde auf eine Stufe vereinfacht. Hawaii-Abstammung laut Wikipedia-Eintrag zu portugiesischem Süßbrot.",
+      "es": "Proporciones compuestas de esta receta azoreana con un aumento moderado de hidratación; el prefermento nocturno se simplificó a una sola etapa. El linaje hawaiano según la entrada de Wikipedia sobre pan dulce portugués.",
+      "fr": "Ratios composés à partir de cette recette açoréenne avec une augmentation modérée de l'hydratation ; le levain de nuit a été simplifié à une seule étape. La lignée hawaïenne d'après l'article Wikipedia sur le pain sucré portugais.",
+      "ro": "Raporturi compuse din această reţetă azoreană cu o creştere moderată a hidratării; starterul de peste noapte a fost simplificat la o singură etapă. Descendența hawaiiană conform intrării Wikipedia despre pâinea dulce portugheză."
     }
   },
   "tags": [

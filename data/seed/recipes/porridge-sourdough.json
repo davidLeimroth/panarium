@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "Cooked-grain porridge breads have roots across Northern Europe; this specific high-hydration sourdough treatment is a contemporary artisan formula."
+      "en": "Cooked-grain porridge breads have roots across Northern Europe; this specific high-hydration sourdough treatment is a contemporary artisan formula.",
+      "de": "Brote mit gekochtem Getreidebrei haben Wurzeln in ganz Nordeuropa; diese spezifische Behandlung mit hohem Hydratationssauerteig ist eine zeitgenössische Handwerksformel.",
+      "es": "Los panes de papilla de grano cocido tienen raíces en todo el norte de Europa; este tratamiento específico de masa madre de alta hidratación es una fórmula artesanal contemporánea.",
+      "fr": "Les pains à la bouillie de céréales cuites ont des racines dans toute l'Europe du Nord; ce traitement spécifique au levain à haute hydratation est une formule artisanale contemporaine.",
+      "ro": "Pâinile cu terci de cereale fierte au rădăcini în toată Europa de Nord; acest tratament specific cu maia de hidratare ridicată este o formulă artizanală contemporană."
     }
   },
   "leaven": "sourdough",
@@ -57,21 +65,33 @@
       "key": "water",
       "grams": 845,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
       "key": "rolled-oats",
       "grams": 250,
       "note": {
-        "en": "cooked into a porridge, plus extra for rolling the shaped loaf"
+        "en": "cooked into a porridge, plus extra for rolling the shaped loaf",
+        "de": "zu einem Brei gekocht, plus extra zum Wälzen des geformten Laibs",
+        "es": "cocido en papilla, más extra para rebozar el pan formado",
+        "fr": "cuit en bouillie, plus un supplément pour rouler le pain façonné",
+        "ro": "fiert într-un terci, plus extra pentru rularea pâinii modelate"
       }
     },
     {
       "key": "water",
       "grams": 500,
       "note": {
-        "en": "to cook the oat porridge"
+        "en": "to cook the oat porridge",
+        "de": "zum Kochen des Haferbreis",
+        "es": "para cocinar la papilla de avena",
+        "fr": "pour cuire la bouillie d'avoine",
+        "ro": "pentru a găti terciul de ovăz"
       }
     },
     {
@@ -87,7 +107,11 @@
     "count": 2,
     "pieceGrams": 1250,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {
@@ -128,7 +152,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "The cooked porridge keeps the crumb moist noticeably longer than a plain sourdough."
+      "en": "The cooked porridge keeps the crumb moist noticeably longer than a plain sourdough.",
+      "de": "Der gekochte Brei hält die Krume merklich länger feucht als ein einfacher Sauerteig.",
+      "es": "La papilla cocida mantiene la miga húmeda notablemente más tiempo que una masa madre simple.",
+      "fr": "La bouillie cuite garde la mie humide sensiblement plus longtemps qu'un levain simple.",
+      "ro": "Terciul fiert menține miezul umed vizibil mai mult decât o maia simplă."
     }
   },
   "equipment": [
@@ -271,7 +299,11 @@
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration counts only part of the porridge's cooking water as effective dough hydration, since much of it is bound into the cooked starch rather than behaving as free water."
+      "en": "Hydration counts only part of the porridge's cooking water as effective dough hydration, since much of it is bound into the cooked starch rather than behaving as free water.",
+      "de": "Hydratation zählt nur einen Teil des Kochwassers des Breis als effektive Teighydratation, da ein Großteil davon an die gekochte Stärke gebunden ist und sich nicht wie freies Wasser verhält.",
+      "es": "La hidratación solo cuenta parte del agua de cocción de la papilla como hidratación efectiva de la masa, ya que gran parte se une al almidón cocido en lugar de comportarse como agua libre.",
+      "fr": "L'hydratation ne compte qu'une partie de l'eau de cuisson de la bouillie comme hydratation effective de la pâte, car une grande partie est liée à l'amidon cuit plutôt que de se comporter comme de l'eau libre.",
+      "ro": "Hidratarea numără doar o parte din apa de fierbere a terciului ca hidratare efectivă a aluatului, deoarece mare parte din aceasta este legată de amidonul fiert în loc să se comporte ca apă liberă."
     }
   },
   "tags": [

@@ -22,10 +22,18 @@
   "origin": {
     "country": "VE",
     "region": {
-      "en": "Venezuela & Colombia (Andean/Timoto-Cuica origin)"
+      "en": "Venezuela & Colombia (Andean/Timoto-Cuica origin)",
+      "de": "Venezuela und Kolumbien (Anden-/Timoto-Cuica-Ursprung)",
+      "es": "Venezuela y Colombia (origen andino/timoto-cuica)",
+      "fr": "Venezuela et Colombie (origine andine/Timoto-Cuica)",
+      "ro": "Venezuela și Columbia (origine andină/Timoto-Cuica)"
     },
     "note": {
-      "en": "Predates the Spanish conquest by millennia; the name descends from 'erepa', a Timoto-Cuica word for cornbread. Colombia's thinner, topped version is equally central to its own cuisine."
+      "en": "Predates the Spanish conquest by millennia; the name descends from 'erepa', a Timoto-Cuica word for cornbread. Colombia's thinner, topped version is equally central to its own cuisine.",
+      "de": "Existierte Jahrtausende vor der spanischen Eroberung; der Name stammt von 'erepa', einem Timoto-Cuica-Wort für Maisbrot. Kolumbiens dünnere, belegte Version ist ebenso zentral für die eigene Küche.",
+      "es": "Antecede a la conquista española por milenios; el nombre desciende de 'erepa', una palabra timoto-cuica para pan de maíz. La versión colombiana, más delgada y cubierta, es igualmente central en su propia cocina.",
+      "fr": "Précède la conquête espagnole de plusieurs millénaires; le nom descend d''erepa', un mot timoto-cuica pour le pain de maïs. La version colombienne, plus fine et garnie, est tout aussi centrale dans sa cuisine.",
+      "ro": "Anticipează cucerirea spaniolă cu milenii; numele provine de la 'erepa', un cuvânt Timoto-Cuica pentru pâinea de porumb. Versiunea columbiană, mai subțire și acoperită, este la fel de centrală pentru propria sa bucătărie."
     }
   },
   "leaven": "none",
@@ -47,14 +55,22 @@
       "key": "flour:corn",
       "grams": 140,
       "note": {
-        "en": "masarepa / harina precocida (precooked corn flour, e.g. Harina P.A.N.)"
+        "en": "masarepa / harina precocida (precooked corn flour, e.g. Harina P.A.N.)",
+        "de": "masarepa / harina precocida (vorgekochtes Maismehl, z. B. Harina P.A.N.)",
+        "es": "masarepa / harina precocida (p. ej. Harina P.A.N.)",
+        "fr": "masarepa / harina precocida (farine de maïs précuite, p. ex. Harina P.A.N.)",
+        "ro": "masarepa / harina precocida (făină de porumb prefiartă, de ex. Harina P.A.N.)"
       }
     },
     {
       "key": "water",
       "grams": 296,
       "note": {
-        "en": "warm, about 40°C"
+        "en": "warm, about 40°C",
+        "de": "warm, etwa 40°C",
+        "es": "tibia, unos 40°C",
+        "fr": "tiède, environ 40°C",
+        "ro": "călduță, aproximativ 40°C"
       }
     },
     {
@@ -65,7 +81,11 @@
       "key": "vegetable-oil",
       "grams": 5,
       "note": {
-        "en": "optional, for a richer texture"
+        "en": "optional, for a richer texture",
+        "de": "optional, für eine reichhaltigere Textur",
+        "es": "opcional, para una textura más rica",
+        "fr": "facultatif, pour une texture plus riche",
+        "ro": "opțional, pentru o textură mai bogată"
       }
     }
   ],
@@ -73,7 +93,11 @@
     "count": 5,
     "pieceGrams": 89,
     "shape": {
-      "en": "thick round disc, 10 cm x 2 cm, split and stuffed"
+      "en": "thick round disc, 10 cm x 2 cm, split and stuffed",
+      "de": "dicke runde Scheibe, 10 cm x 2 cm, aufgeschnitten und gefüllt",
+      "es": "disco redondo grueso, 10 cm x 2 cm, partido y relleno",
+      "fr": "disque rond épais, 10 cm x 2 cm, fendu et farci",
+      "ro": "disc rotund gros, 10 cm x 2 cm, despicat și umplut"
     }
   },
   "time": {
@@ -114,7 +138,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm, split and stuffed right after cooking; leftovers reheat well in a toaster oven or dry skillet, and cooked arepas freeze well."
+      "en": "Best warm, split and stuffed right after cooking; leftovers reheat well in a toaster oven or dry skillet, and cooked arepas freeze well.",
+      "de": "Am besten warm, gleich nach dem Kochen aufgeschnitten und gefüllt; Reste lassen sich gut im Toasterofen oder in einer trockenen Pfanne aufwärmen, und gekochte Arepas frieren sich gut ein.",
+      "es": "Mejor caliente, partida y rellena justo después de cocinar; las sobras se recalientan bien en un horno tostador o sartén seca, y las arepas cocidas se congelan bien.",
+      "fr": "Meilleur tiède, fendu et farci juste après la cuisson; les restes se réchauffent bien au four grille-pain ou à la poêle sèche, et les arepas cuites se congèlent bien.",
+      "ro": "Cel mai bun cald, despicat și umplut imediat după gătire; resturile se reîncălzesc bine într-un cuptor toaster sau tigaie uscată, iar arepas gătite se congelează bine."
     }
   },
   "equipment": [
@@ -239,7 +267,11 @@
     "site": "Happy Spicy Hour",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Masarepa cup-to-gram weight estimated at 140 g (brands vary); hydration and salt percentage computed from that estimate per baker's-percentage convention."
+      "en": "Masarepa cup-to-gram weight estimated at 140 g (brands vary); hydration and salt percentage computed from that estimate per baker's-percentage convention.",
+      "de": "Masarepa-Gewicht von Tasse zu Gramm auf 140 g geschätzt (Marken variieren); Hydratation und Salzprozentsatz aus diesem Schätzwert nach Bäckerprozent-Rechnung ermittelt.",
+      "es": "Peso de masarepa de taza a gramos estimado en 140 g (las marcas varían); el porcentaje de hidratación y sal se calculó a partir de esa estimación según la convención de porcentajes del panadero.",
+      "fr": "Poids masarepa tasse-grammes estimé à 140 g (les marques varient); hydratation et pourcentage de sel calculés à partir de cette estimation selon la convention des pourcentages du boulanger.",
+      "ro": "Greutatea masarepa căni-grame estimată la 140 g (mărcile variază); hidratarea și procentul de sare calculate din această estimare conform convenției procentelor brutarului."
     }
   },
   "tags": [

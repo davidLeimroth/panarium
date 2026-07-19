@@ -22,10 +22,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Orkney Islands, Scotland"
+      "en": "Orkney Islands, Scotland",
+      "de": "Orkney-Inseln, Schottland",
+      "es": "Islas Orcadas, Escocia",
+      "fr": "Îles Orcades, Écosse",
+      "ro": "Insulele Orkney, Scoția"
     },
     "note": {
-      "en": "Made from beremeal, a six-row barley landrace grown in Orkney for millennia and still stone-ground at Barony Mill, one of only two working bere mills left in Britain."
+      "en": "Made from beremeal, a six-row barley landrace grown in Orkney for millennia and still stone-ground at Barony Mill, one of only two working bere mills left in Britain.",
+      "de": "Hergestellt aus Beremeal, einer sechszeiligen Gersten-Landsorte, die seit Jahrtausenden auf Orkney angebaut und immer noch steingemahlen in der Barony Mill wird, einer von nur zwei noch arbeitenden Beremühlen in Großbritannien.",
+      "es": "Hecho de beremeal, una variedad local de cebada de seis hileras cultivada en las Orcadas durante milenios y aún molida a piedra en Barony Mill, uno de los dos únicos molinos de bere en funcionamiento que quedan en Gran Bretaña.",
+      "fr": "Fabriqué à partir de beremeal, une variété locale d'orge à six rangs cultivée aux Orcades depuis des millénaires et encore moulue sur pierre au Barony Mill, l'un des deux seuls moulins à bere encore en activité en Grande-Bretagne.",
+      "ro": "Făcut din beremeal, un soi local de orz de șase rânduri cultivat în Orkney de milenii și încă măcinat cu piatră la Barony Mill, una dintre singurele două mori de bere funcționale rămase în Marea Britanie."
     }
   },
   "leaven": "chemical",
@@ -50,14 +58,22 @@
       "key": "flour:barley",
       "grams": 280,
       "note": {
-        "en": "beremeal, stone-ground"
+        "en": "beremeal, stone-ground",
+        "de": "Beremeal, steingemahlen",
+        "es": "beremeal, molido a piedra",
+        "fr": "beremeal, moulu sur pierre",
+        "ro": "beremeal, măcinat cu piatră"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 125,
       "note": {
-        "en": "plain flour"
+        "en": "plain flour",
+        "de": "Weizenmehl Type 405",
+        "es": "harina común",
+        "fr": "farine de blé standard",
+        "ro": "făină albă"
       }
     },
     {
@@ -83,7 +99,11 @@
     "count": 3,
     "pieceGrams": 198,
     "shape": {
-      "en": "flat round, about 2.5 cm thick, cut into wedges"
+      "en": "flat round, about 2.5 cm thick, cut into wedges",
+      "de": "flache Runde, etwa 2,5 cm dick, in Stücke geschnitten",
+      "es": "redondo plano, de unos 2,5 cm de grosor, cortado en cuñas",
+      "fr": "rond plat, environ 2,5 cm d'épaisseur, coupé en quartiers",
+      "ro": "rotund plat, aproximativ 2,5 cm grosime, tăiat în felii"
     }
   },
   "time": {
@@ -121,7 +141,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best warm from the griddle the same day; this is a quick unleavened-style flatbread, not meant to keep like a yeasted loaf."
+      "en": "Best warm from the griddle the same day; this is a quick unleavened-style flatbread, not meant to keep like a yeasted loaf.",
+      "de": "Am besten warm vom Griddle am selben Tag; dies ist ein schnelles, ungesäuertes Fladenbrot, nicht zur Lagerung wie ein Hefebrot gedacht.",
+      "es": "Mejor caliente de la plancha el mismo día; es un pan plano rápido sin levadura, no hecho para conservarse como un pan fermentado.",
+      "fr": "Meilleur tiède de la plaque le même jour; c'est un pain plat rapide sans levain, pas conçu pour se conserver comme un pain levé.",
+      "ro": "Cel mai bun cald de pe griddle în aceeași zi; aceasta este o pâine plată rapidă nedospită, nu concepută să se păstreze ca o pâine cu drojdie."
     }
   },
   "equipment": [
@@ -230,7 +254,11 @@
     "site": "Barony Mill",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup and teaspoon measurements converted to grams using standard flour, milk and leavening-agent weight conventions; the recipe's optional salt was omitted since no quantity was given."
+      "en": "Cup and teaspoon measurements converted to grams using standard flour, milk and leavening-agent weight conventions; the recipe's optional salt was omitted since no quantity was given.",
+      "de": "Tassen- und Teelöffelangaben mit Standardgewichten für Mehl, Milch und Triebmittel in Gramm umgerechnet; das optionale Salz der Rezeptur wurde weggelassen, da keine Menge angegeben war.",
+      "es": "Medidas en tazas y cucharaditas convertidas a gramos usando convenciones estándar de peso para harina, leche y agentes leudantes; la sal opcional de la receta se omitió porque no se indicaba cantidad.",
+      "fr": "Mesures en tasses et cuillères à café converties en grammes selon les conventions de poids standard pour la farine, le lait et les agents levants; le sel optionnel de la recette a été omis car aucune quantité n'était donnée.",
+      "ro": "Măsurătorile în căni și lingurițe convertite în grame folosind convențiile standard de greutate pentru făină, lapte și agenți de creștere; sarea opțională a rețetei a fost omisă deoarece nu era dată o cantitate."
     }
   },
   "tags": [

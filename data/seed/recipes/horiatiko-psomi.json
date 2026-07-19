@@ -18,10 +18,18 @@
   "origin": {
     "country": "GR",
     "region": {
-      "en": "Greece-wide"
+      "en": "Greece-wide",
+      "de": "Griechenlandweit",
+      "es": "en toda Grecia",
+      "fr": "dans toute la Grèce",
+      "ro": "la nivel național în Grecia"
     },
     "note": {
-      "en": "A home-baking staple with countless family variations; the long, unhurried rise rather than any single ingredient is what defines it."
+      "en": "A home-baking staple with countless family variations; the long, unhurried rise rather than any single ingredient is what defines it.",
+      "de": "Ein Grundnahrungsmittel des Hausbackens mit unzähligen Familienvariationen; die lange, gemächliche Stockgare und nicht eine einzelne Zutat ist das, was es ausmacht.",
+      "es": "Un elemento básico de la repostería casera con innumerables variaciones familiares; el levado largo y sin prisas, más que un solo ingrediente, es lo que lo define.",
+      "fr": "Un aliment de base de la pâtisserie maison avec d'innombrables variantes familiales; c'est la longue pousse sans hâte plutôt qu'un seul ingrédient qui le définit.",
+      "ro": "Un aliment de bază al coacerii casnice cu nenumărate variații de familie; creșterea lungă și lentă, nu un singur ingredient, este ceea ce îl definește."
     }
   },
   "leaven": "yeast",
@@ -68,7 +76,11 @@
       "key": "semolina",
       "grams": 20,
       "note": {
-        "en": "for dusting the work surface while kneading"
+        "en": "for dusting the work surface while kneading",
+        "de": "zum Bestäuben der Arbeitsfläche beim Kneten",
+        "es": "para espolvorear la superficie de trabajo al amasar",
+        "fr": "pour fariner le plan de travail pendant le pétrissage",
+        "ro": "pentru pudrarea suprafeței de lucru în timpul frământării"
       }
     }
   ],
@@ -76,7 +88,11 @@
     "count": 2,
     "pieceGrams": 650,
     "shape": {
-      "en": "round loaves, baked in a covered pot"
+      "en": "round loaves, baked in a covered pot",
+      "de": "runde Laibe, in einem geschlossenen Topf gebacken",
+      "es": "hogazas redondas, horneadas en una olla tapada",
+      "fr": "pains ronds, cuits dans un pot couvert",
+      "ro": "pâini rotunde, coapte într-o oală acoperită"
     }
   },
   "time": {
@@ -117,7 +133,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "A simple everyday loaf, good for a few days and popular for feeding a crowd at Sunday lunch."
+      "en": "A simple everyday loaf, good for a few days and popular for feeding a crowd at Sunday lunch.",
+      "de": "Ein einfaches Alltagsbrot, einige Tage haltbar und beliebt, um eine Menge beim Sonntagsessen zu versorgen.",
+      "es": "Un pan sencillo de todos los días, bueno por unos días y popular para alimentar a una multitud en el almuerzo dominical.",
+      "fr": "Un pain simple de tous les jours, bon pendant quelques jours et populaire pour nourrir une foule au déjeuner dominical.",
+      "ro": "O pâine simplă de zi cu zi, bună câteva zile și populară pentru a hrăni o mulțime la prânzul de duminică."
     }
   },
   "equipment": [
@@ -226,7 +246,11 @@
     "site": "My Greek Dish",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams as published; the final proof duration before baking wasn't explicitly stated by the source, so a short rest is assumed."
+      "en": "Grams as published; the final proof duration before baking wasn't explicitly stated by the source, so a short rest is assumed.",
+      "de": "Grammangaben wie veröffentlicht; die Dauer der letzten Stockgare vor dem Backen wurde von der Quelle nicht explizit angegeben, daher wird eine kurze Ruhezeit angenommen.",
+      "es": "Gramos tal como se publicaron; la duración de la fermentación final antes del horneado no fue indicada explícitamente por la fuente, por lo que se asume un reposo breve.",
+      "fr": "Grammes tels que publiés; la durée de la pousse finale avant cuisson n'était pas explicitement indiquée par la source, donc un court repos est supposé.",
+      "ro": "Gramele conform publicației; durata dospirii finale înainte de coacere nu a fost declarată explicit de sursă, deci se presupune o scurtă odihnă."
     }
   },
   "tags": [

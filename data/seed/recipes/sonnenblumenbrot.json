@@ -20,7 +20,11 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Germany-wide"
+      "en": "Germany-wide",
+      "de": "Deutschlandweit",
+      "es": "En toda Alemania",
+      "fr": "Dans toute l’Allemagne",
+      "ro": "În toată Germania"
     }
   },
   "leaven": "sourdough",
@@ -50,35 +54,55 @@
       "key": "flour:rye-whole",
       "grams": 131,
       "note": {
-        "en": "Roggenschrot, coarse sifted rye meal, in the rye sourdough"
+        "en": "Roggenschrot, coarse sifted rye meal, in the rye sourdough",
+        "de": "Roggenschrot, grob gesiebtes Roggenmehl, im Roggensauerteig",
+        "es": "Roggenschrot, harina de centeno gruesa tamizada, en el fermento de centeno",
+        "fr": "Roggenschrot, farine de seigle grossière tamisée, dans le levain de seigle",
+        "ro": "Roggenschrot, făină de secară grosieră cernută, în maiaua de secară"
       }
     },
     {
       "key": "flour:rye",
       "grams": 315,
       "note": {
-        "en": "Roggenmehl Type 1370, in the main dough"
+        "en": "Roggenmehl Type 1370, in the main dough",
+        "de": "Roggenmehl Type 1370, im Hauptteig",
+        "es": "Roggenmehl Type 1370, en la masa principal",
+        "fr": "Roggenmehl Type 1370, dans la pâte principale",
+        "ro": "Roggenmehl Type 1370, în aluatul principal"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 195,
       "note": {
-        "en": "99g wholemeal in the wheat sourdough plus 96g Type 1050 in the main dough"
+        "en": "99g wholemeal in the wheat sourdough plus 96g Type 1050 in the main dough",
+        "de": "99 g Vollkornmehl im Weizensauerteig plus 96 g Type 1050 im Hauptteig",
+        "es": "99 g de harina integral en el fermento de trigo más 96 g de Type 1050 en la masa principal",
+        "fr": "99 g de farine complète dans le levain de blé plus 96 g de Type 1050 dans la pâte principale",
+        "ro": "99 g făină integrală în maiaua de grâu plus 96 g Type 1050 în aluatul principal"
       }
     },
     {
       "key": "water",
       "grams": 592,
       "note": {
-        "en": "across both sourdoughs, the seed soaker and the main dough"
+        "en": "across both sourdoughs, the seed soaker and the main dough",
+        "de": "auf beide Sauerteige, den Saaten-Quellstück und den Hauptteig verteilt",
+        "es": "repartido entre ambos fermentos, el remojo de semillas y la masa principal",
+        "fr": "réparti entre les deux levains, le trempage de graines et la pâte principale",
+        "ro": "distribuit în ambele maiele, înmuierea semințelor și aluatul principal"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 31.3,
       "note": {
-        "en": "26g rye starter and 5.3g wheat starter, to build the two levains"
+        "en": "26g rye starter and 5.3g wheat starter, to build the two levains",
+        "de": "26 g Roggensauerteigstarter und 5,3 g Weizensauerteigstarter, um die zwei Levains aufzubauen",
+        "es": "26 g de fermento de centeno y 5,3 g de fermento de trigo, para preparar los dos levains",
+        "fr": "26 g de levain de seigle et 5,3 g de levain de blé, pour construire les deux levains",
+        "ro": "26 g starter de secară și 5,3 g starter de grâu, pentru a construi cele două levain-uri"
       }
     },
     {
@@ -89,7 +113,11 @@
       "key": "sunflower-seeds",
       "grams": 263,
       "note": {
-        "en": "roasted, for the soaker; more for rolling the shaped loaf"
+        "en": "roasted, for the soaker; more for rolling the shaped loaf",
+        "de": "geröstet, für den Quellstück; mehr zum Wälzen des geformten Laibs",
+        "es": "tostadas, para el remojo; más para rebozar el pan formado",
+        "fr": "torréfiées, pour le trempage ; plus pour rouler le pain façonné",
+        "ro": "prăjite, pentru înmuiere; mai multe pentru rularea pâinii modelate"
       }
     }
   ],
@@ -97,7 +125,11 @@
     "count": 1,
     "pieceGrams": 1550,
     "shape": {
-      "en": "pan loaf, 23x11x10cm tin, rolled in sunflower seeds"
+      "en": "pan loaf, 23x11x10cm tin, rolled in sunflower seeds",
+      "de": "Kastenformbrot, 23x11x10 cm Form, in Sonnenblumenkernen gewälzt",
+      "es": "pan de molde, molde de 23x11x10 cm, rebozado en pipas de girasol",
+      "fr": "pain de moule, moule de 23x11x10 cm, roulé dans des graines de tournesol",
+      "ro": "pâine de tavă, tavă de 23x11x10 cm, rulată în semințe de floarea-soarelui"
     }
   },
   "time": {
@@ -139,7 +171,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Wrap once fully cooled; the seeded crumb stays moist for the better part of a week."
+      "en": "Wrap once fully cooled; the seeded crumb stays moist for the better part of a week.",
+      "de": "Einwickeln, sobald vollständig abgekühlt; die saatenreiche Krume bleibt gut eine Woche lang feucht.",
+      "es": "Envolver una vez completamente enfriado; la miga con semillas se mantiene húmeda durante la mayor parte de la semana.",
+      "fr": "Emballer une fois complètement refroidi ; la mie aux graines reste humide la majeure partie de la semaine.",
+      "ro": "Învelește odată complet răcit; miezul cu semințe rămâne umed cea mai mare parte a săptămânii."
     }
   },
   "equipment": [
@@ -281,7 +317,11 @@
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased; the source's unquantified extra seeds for rolling the loaf are not counted separately in the ingredient total."
+      "en": "Method paraphrased; the source's unquantified extra seeds for rolling the loaf are not counted separately in the ingredient total.",
+      "de": "Methode umschrieben; die nicht quantifizierten zusätzlichen Saaten der Quelle zum Wälzen des Laibs werden in der Zutatenliste nicht separat gezählt.",
+      "es": "Método parafraseado; las semillas extra no cuantificadas de la fuente para rebozar el pan no se contabilizan por separado en el total de ingredientes.",
+      "fr": "Méthode paraphrasée ; les graines supplémentaires non quantifiées de la source pour rouler le pain ne sont pas comptées séparément dans le total des ingrédients.",
+      "ro": "Metodă parafrazată; semințele suplimentare necuantificate din sursă pentru rularea pâinii nu sunt numărate separat în totalul ingredientelor."
     }
   },
   "tags": [

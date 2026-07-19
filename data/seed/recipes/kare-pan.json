@@ -22,10 +22,18 @@
   "origin": {
     "country": "JP",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "One of the most popular savory kashipan alongside yakisoba-pan; sold hot at bakeries, convenience stores and festival stalls."
+      "en": "One of the most popular savory kashipan alongside yakisoba-pan; sold hot at bakeries, convenience stores and festival stalls.",
+      "de": "Eines der beliebtesten herzhaften Kashipan neben Yakisoba-Pan; heiß in Bäckereien, Convenience-Stores und an Festständen verkauft.",
+      "es": "Uno de los kashipan salados más populares junto al yakisoba-pan; se vende caliente en panaderías, tiendas de conveniencia y puestos de festivales.",
+      "fr": "L'un des kashipan salés les plus populaires aux côtés du yakisoba-pan; vendu chaud dans les boulangeries, les supérettes et les stands de fête.",
+      "ro": "Unul dintre cele mai populare kashipan sărate alături de yakisoba-pan; vândut cald în brutării, magazine de proximitate și tarabe de festival."
     }
   },
   "leaven": "yeast",
@@ -49,7 +57,11 @@
       "key": "flour:wheat-white",
       "grams": 206,
       "note": {
-        "en": "156g bread flour + 50g cake flour"
+        "en": "156g bread flour + 50g cake flour",
+        "de": "156 g Brotmehl + 50 g Kuchenmehl",
+        "es": "156 g harina de pan + 50 g harina de repostería",
+        "fr": "156 g farine à pain + 50 g farine à gâteau",
+        "ro": "156 g făină de pâine + 50 g făină de prăjituri"
       }
     },
     {
@@ -82,14 +94,22 @@
       },
       "grams": 180,
       "note": {
-        "en": "about 1-1.5 tbsp per bun"
+        "en": "about 1-1.5 tbsp per bun",
+        "de": "etwa 1–1,5 EL pro Brötchen",
+        "es": "aproximadamente 1–1,5 cucharadas por bollo",
+        "fr": "environ 1–1,5 c. à soupe par petit pain",
+        "ro": "aproximativ 1–1,5 linguri per chiflă"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for the egg wash"
+        "en": "for the egg wash",
+        "de": "zum Bestreichen",
+        "es": "para el huevo batido",
+        "fr": "pour la dorure",
+        "ro": "pentru spălarea cu ou"
       }
     },
     {
@@ -106,7 +126,11 @@
       "key": "vegetable-oil",
       "grams": 40,
       "note": {
-        "en": "for deep-frying; amount absorbed is estimated"
+        "en": "for deep-frying; amount absorbed is estimated",
+        "de": "zum Frittieren; aufgenommene Menge ist geschätzt",
+        "es": "para freír; la cantidad absorbida es estimada",
+        "fr": "pour la friture; la quantité absorbée est estimée",
+        "ro": "pentru prăjit; cantitatea absorbită este estimată"
       }
     }
   ],
@@ -114,7 +138,11 @@
     "count": 8,
     "pieceGrams": 85,
     "shape": {
-      "en": "oval stuffed bun, panko-crusted, deep-fried, ~10 cm"
+      "en": "oval stuffed bun, panko-crusted, deep-fried, ~10 cm",
+      "de": "ovales gefülltes Brötchen, mit Panko umhüllt, frittiert, ~10 cm",
+      "es": "bollo relleno ovalado, empanizado con panko, frito, ~10 cm",
+      "fr": "petit pain farci ovale, pané au panko, frit, ~10 cm",
+      "ro": "chiflă umplută ovală, cu panko, prăjită, ~10 cm"
     }
   },
   "time": {
@@ -156,7 +184,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Crispest eaten hot the day it is fried; keeps refrigerated a few days or frozen several weeks, then reheat in a 180°C (350°F) oven to recrisp."
+      "en": "Crispest eaten hot the day it is fried; keeps refrigerated a few days or frozen several weeks, then reheat in a 180°C (350°F) oven to recrisp.",
+      "de": "Am knusprigsten heiß am Frittiertag verzehrt; hält sich gekühlt einige Tage oder gefroren mehrere Wochen, dann im 180°C-Ofen aufbacken, um es wieder knusprig zu machen.",
+      "es": "Más crujiente comido caliente el día de fritura; se conserva refrigerado unos días o congelado varias semanas, luego recalentar en horno a 180°C para que vuelva a estar crujiente.",
+      "fr": "Plus croustillant mangé chaud le jour de la friture; se conserve au réfrigérateur quelques jours ou au congélateur plusieurs semaines, puis réchauffer au four à 180°C pour le rendre à nouveau croustillant.",
+      "ro": "Cel mai crocant mâncat cald în ziua prăjirii; se păstrează la frigider câteva zile sau congelat câteva săptămâni, apoi reîncălzește în cuptor la 180°C pentru a redeveni crocant."
     }
   },
   "equipment": [
@@ -281,7 +313,11 @@
     "site": "Just One Cookbook",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tsp amounts converted to grams; curry filling condensed to one estimated-weight line rather than a full recipe, matching this atlas's treatment of complex fillings (see baozi)."
+      "en": "Cup/tsp amounts converted to grams; curry filling condensed to one estimated-weight line rather than a full recipe, matching this atlas's treatment of complex fillings (see baozi).",
+      "de": "Tassen-/Teelöffelmengen in Gramm umgerechnet; Curryfüllung auf eine geschätzte Gewichtsangabe verdichtet statt eines vollständigen Rezepts, entsprechend der Behandlung komplexer Füllungen in diesem Atlas (siehe Baozi).",
+      "es": "Cantidades en tazas/cucharaditas convertidas a gramos; relleno de curry condensado en una línea de peso estimado en lugar de una receta completa, coincidiendo con el tratamiento de este atlas de rellenos complejos (ver baozi).",
+      "fr": "Quantités en tasses/cuillères à café converties en grammes; garniture au curry condensée en une ligne de poids estimé plutôt qu'une recette complète, conformément au traitement de cet atlas des garnitures complexes (voir baozi).",
+      "ro": "Cantitățile în căni/lingurițe convertite în grame; umplutura de curry condensată într-o singură linie de greutate estimată în locul unei rețete complete, conform tratamentului acestui atlas al umpluturilor complexe (vezi baozi)."
     }
   },
   "tags": [

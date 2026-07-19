@@ -22,10 +22,18 @@
   "origin": {
     "country": "FI",
     "region": {
-      "en": "Lapland and northern Finland"
+      "en": "Lapland and northern Finland",
+      "de": "Lappland und Nordfinnland",
+      "es": "Laponia y norte de Finlandia",
+      "fr": "Laponie et nord de la Finlande",
+      "ro": "Laponia și nordul Finlandei"
     },
     "note": {
-      "en": "One of several rieska variants named for their flour, barley (ohrarieska), rye (ruisrieska) or potato (perunarieska)."
+      "en": "One of several rieska variants named for their flour, barley (ohrarieska), rye (ruisrieska) or potato (perunarieska).",
+      "de": "Eine von mehreren Rieska-Varianten, benannt nach ihrem Mehl, Gerste (ohrarieska), Roggen (ruisrieska) oder Kartoffel (perunarieska).",
+      "es": "Una de varias variantes de rieska nombradas por su harina, cebada (ohrarieska), centeno (ruisrieska) o patata (perunarieska).",
+      "fr": "Une des plusieurs variantes de rieska nommées d'après leur farine, orge (ohrarieska), seigle (ruisrieska) ou pomme de terre (perunarieska).",
+      "ro": "Una dintre mai multe variante de rieska numite după făina lor, orz (ohrarieska), secară (ruisrieska) sau cartof (perunarieska)."
     }
   },
   "leaven": "chemical",
@@ -71,7 +79,11 @@
       "key": "butter",
       "grams": 50,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topit"
       }
     },
     {
@@ -83,7 +95,11 @@
     "count": 6,
     "pieceGrams": 120,
     "shape": {
-      "en": "wedge cut from one large flatbread round"
+      "en": "wedge cut from one large flatbread round",
+      "de": "Spalte aus einer großen runden Fladenbrots geschnitten",
+      "es": "triángulo cortado de una gran ronda de pan plano",
+      "fr": "quartier coupé d'un grand rond de pain plat",
+      "ro": "pană tăiată dintr-un rotund mare de pâine plată"
     }
   },
   "time": {
@@ -123,7 +139,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm the day it's baked; wrap and reheat, or freeze wedges for later."
+      "en": "Best warm the day it's baked; wrap and reheat, or freeze wedges for later.",
+      "de": "Am besten warm am Backtag; einwickeln und aufwärmen oder Spalten für später einfrieren.",
+      "es": "Mejor caliente el día de horneado; envolver y recalentar, o congelar triángulos para después.",
+      "fr": "Meilleur tiède le jour de la cuisson; emballer et réchauffer, ou congeler des quartiers pour plus tard.",
+      "ro": "Cel mai bun cald în ziua coacerii; înfășurați și reîncălziți sau congelați pene pentru mai târziu."
     }
   },
   "equipment": [
@@ -204,10 +224,10 @@
       },
       "summary": {
         "en": "Cut into wedges while still warm; butter, cheese and smoked fish are the traditional toppings.",
-        "de": "In Spalten schneiden und warm mit Butter, Käse oder Räucherfisch servieren.",
-        "es": "Cortar en cuñas y servir templado con mantequilla, queso o pescado ahumado.",
-        "fr": "Découper en quartiers et servir tiède avec du beurre, du fromage ou du poisson fumé.",
-        "ro": "Taie în felii și servește cald cu unt, brânză sau pește afumat."
+        "de": "In Spalten schneiden und warm servieren; Butter, Käse und Räucherfisch sind die traditionellen Beläge.",
+        "es": "Cortar en cuñas mientras aún esté caliente; mantequilla, queso y pescado ahumado son los acompañamientos tradicionales.",
+        "fr": "Couper en quartiers encore chaud; beurre, fromage et poisson fumé sont les garnitures traditionnelles.",
+        "ro": "Taie în triunghiuri cât e încă cald; untul, brânza și peștele afumat sunt toppingurile tradiționale."
       }
     }
   ],

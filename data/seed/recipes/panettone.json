@@ -21,10 +21,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Milan, Lombardy"
+      "en": "Milan, Lombardy",
+      "de": "Mailand, Lombardei",
+      "es": "Milán, Lombardía",
+      "fr": "Milan, Lombardie",
+      "ro": "Milano, Lombardia"
     },
     "note": {
-      "en": "Milanese in origin, traditionally leavened only with lievito madre, a stiff mother starter refreshed for days before baking. Home and industrial versions sometimes add a little baker's yeast for reliability, but classic artisan formulas stay purely natural."
+      "en": "Milanese in origin, traditionally leavened only with lievito madre, a stiff mother starter refreshed for days before baking. Home and industrial versions sometimes add a little baker's yeast for reliability, but classic artisan formulas stay purely natural.",
+      "de": "Ursprünglich aus Mailand, traditionell nur mit Lievito Madre getrieben, einem festen Mutterstarter, der tagelang vor dem Backen aufgefrischt wird. Haushalts- und Industrieversionen geben manchmal etwas Backhefe für die Zuverlässigkeit zu, aber klassische Handwerksformeln bleiben rein natürlich.",
+      "es": "De origen milanés, tradicionalmente fermentado solo con lievito madre, un prefermento madre firme refrescado durante días antes de hornear. Las versiones caseras e industriales añaden a veces un poco de levadura de panadero para mayor fiabilidad, pero las fórmulas artesanales clásicas se mantienen puramente naturales.",
+      "fr": "Originaire de Milan, traditionnellement levé uniquement au lievito madre, un levain-mère ferme rafraîchi pendant des jours avant la cuisson. Les versions domestiques et industrielles ajoutent parfois un peu de levure de boulanger pour la fiabilité, mais les formules artisanales classiques restent purement naturelles.",
+      "ro": "Originar din Milano, tradiţional dospit număi cu lievito madre, un maiă-mamă tare reinoită zile întregi înainte de coacere. Versiunile casnice şi industriale adaugă uneori puţină drojdie de panificație pentru fiabilitate, dar formulele artizanale clasice rămân pure naturale."
     }
   },
   "leaven": "sourdough",
@@ -48,14 +56,22 @@
       "key": "sourdough-starter",
       "grams": 69,
       "note": {
-        "en": "mature stiff lievito madre (pasta madre), about 40% hydration, refreshed before use"
+        "en": "mature stiff lievito madre (pasta madre), about 40% hydration, refreshed before use",
+        "de": "reifer fester Lievito Madre (Pasta Madre), etwa 40 % Hydratation, vor Gebrauch aufgefrischt",
+        "es": "lievito madre firme maduro (pasta madre), aproximadamente 40 % de hidratación, refrescado antes de usar",
+        "fr": "lievito madre ferme mature (pasta madre), environ 40 % d'hydratation, rafraichi avant utilisation",
+        "ro": "lievito madre tare matur (pasta madre), aproximativ 40% hidratare, reinoit inainte de utilizare"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 300,
       "note": {
-        "en": "high-protein (Manitoba-style) flour: 240g in the primo impasto, 60g in the secondo impasto"
+        "en": "high-protein (Manitoba-style) flour: 240g in the primo impasto, 60g in the secondo impasto",
+        "de": "hochproteinhaltiges (Manitoba-)Mehl: 240 g im Primo Impasto, 60 g im Secondo Impasto",
+        "es": "harina alta en proteína (estilo Manitoba): 240 g en el primo impasto, 60 g en el secondo impasto",
+        "fr": "farine riche en protéines (style Manitoba): 240 g dans le primo impasto, 60 g dans le secondo impasto",
+        "ro": "făină bogată în proteine (stil Manitoba): 240 g în primo impasto, 60 g în secondo impasto"
       }
     },
     {
@@ -66,21 +82,33 @@
       "key": "sugar",
       "grams": 141,
       "note": {
-        "en": "granulated: 75g in the primo impasto, 66g in the secondo impasto"
+        "en": "granulated: 75g in the primo impasto, 66g in the secondo impasto",
+        "de": "Kristallzucker: 75 g im Primo Impasto, 66 g im Secondo Impasto",
+        "es": "azucar granulada: 75 g en el primo impasto, 66 g en el secondo impasto",
+        "fr": "sucre en poudre: 75 g dans le primo impasto, 66 g dans le secondo impasto",
+        "ro": "zăhăr granulat: 75 g în primo impasto, 66 g în secondo impasto"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 150,
       "note": {
-        "en": "54g in the primo impasto, 96g in the secondo impasto"
+        "en": "54g in the primo impasto, 96g in the secondo impasto",
+        "de": "54 g im Primo Impasto, 96 g im Secondo Impasto",
+        "es": "54 g en el primo impasto, 96 g en el secondo impasto",
+        "fr": "54 g dans le primo impasto, 96 g dans le secondo impasto",
+        "ro": "54 g în primo impasto, 96 g în secondo impasto"
       }
     },
     {
       "key": "butter",
       "grams": 112,
       "note": {
-        "en": "72g in the primo impasto, 40g in the secondo impasto, softened"
+        "en": "72g in the primo impasto, 40g in the secondo impasto, softened",
+        "de": "72 g im Primo Impasto, 40 g im Secondo Impasto, weich",
+        "es": "72 g en el primo impasto, 40 g en el secondo impasto, ablandada",
+        "fr": "72 g dans le primo impasto, 40 g dans le secondo impasto, ramolli",
+        "ro": "72 g în primo impasto, 40 g în secondo impasto, moale"
       }
     },
     {
@@ -91,49 +119,77 @@
       "key": "malt-syrup",
       "grams": 2,
       "note": {
-        "en": "diastatic malt powder; 1 tsp honey may substitute"
+        "en": "diastatic malt powder; 1 tsp honey may substitute",
+        "de": "diastatisches Malzpulver; 1 TL Honig kann ersetzen",
+        "es": "malta diastásica en polvo; 1 cdita de miel puede sustituir",
+        "fr": "poudre de malt diastasique; 1 c. a café de miel peut remplacer",
+        "ro": "pudră de malț diastatic; 1 lingurită de miere poate înlocui"
       }
     },
     {
       "key": "honey",
       "grams": 30,
       "note": {
-        "en": "in the overnight aromatic infusion, with citrus zest"
+        "en": "in the overnight aromatic infusion, with citrus zest",
+        "de": "in der übernachtigen Aromainfusion, mit Zitrusschale",
+        "es": "en la infusión aromática nocturna, con ralladura de cı́tricos",
+        "fr": "dans l'infusion aromatique de nuit, avec le zeste d'agrumes",
+        "ro": "în infuzia aromatică de peste noapte, cu coajă de citrice"
       }
     },
     {
       "key": "orange-zest",
       "grams": 5,
       "note": {
-        "en": "zest of 1 orange, in the aromatic infusion"
+        "en": "zest of 1 orange, in the aromatic infusion",
+        "de": "Schale von 1 Orange, in der Aromainfusion",
+        "es": "ralladura de 1 naranja, en la infusión aromática",
+        "fr": "zeste de 1 orange, dans l'infusion aromatique",
+        "ro": "coajă de la 1 portocală, în infuzia aromatică"
       }
     },
     {
       "key": "lemon-zest",
       "grams": 3,
       "note": {
-        "en": "zest of 1 lemon, in the aromatic infusion"
+        "en": "zest of 1 lemon, in the aromatic infusion",
+        "de": "Schale von 1 Zitrone, in der Aromainfusion",
+        "es": "ralladura de 1 limón, en la infusión aromática",
+        "fr": "zeste de 1 citron, dans l'infusion aromatique",
+        "ro": "coajă de la 1 lămâie, în infuzia aromatică"
       }
     },
     {
       "key": "vanilla",
       "grams": 3,
       "note": {
-        "en": "seeds scraped from 1 vanilla pod"
+        "en": "seeds scraped from 1 vanilla pod",
+        "de": "ausgekratzte Samen von 1 Vanilleschote",
+        "es": "semillas raspadas de 1 vaina de vainilla",
+        "fr": "grâines raclées de 1 gousse de vanille",
+        "ro": "semințe raclate de pe 1 păstâi de vanilie"
       }
     },
     {
       "key": "raisins",
       "grams": 120,
       "note": {
-        "en": "sultanas, folded in with the candied peel"
+        "en": "sultanas, folded in with the candied peel",
+        "de": "Sultanas, mit der kandierten Schale untergehoben",
+        "es": "sultanas, incorporadas con la cascara confitada",
+        "fr": "sultanes, incorporés avec les écorces confites",
+        "ro": "stafide aurii, încorporate cu coaja confiată"
       }
     },
     {
       "key": "candied-citrus",
       "grams": 90,
       "note": {
-        "en": "60g candied orange peel plus 30g candied lemon peel"
+        "en": "60g candied orange peel plus 30g candied lemon peel",
+        "de": "60 g kandierte Orangenschale plus 30 g kandierte Zitronenschale",
+        "es": "60 g de cascara de naranja confitada más 30 g de cascara de limón confitada",
+        "fr": "60 g d'écorce d'orange confite plus 30 g d'écorce de citron confite",
+        "ro": "60 g coajă de portocală confiată plus 30 g coajă de lămâie confiată"
       }
     }
   ],
@@ -141,7 +197,11 @@
     "count": 2,
     "pieceGrams": 550,
     "shape": {
-      "en": "tall paper panettone mold, ~13cm dia."
+      "en": "tall paper panettone mold, ~13cm dia.",
+      "de": "hoher Papier-Panettone-Form, ~13 cm Durchmesser",
+      "es": "molde alto de papel para panettone, ~13 cm de diámetro",
+      "fr": "moule à panettone en papier haut, ~13 cm de diam.",
+      "ro": "formă înaltă de hârtie pentru panettone, ~13 cm diam."
     }
   },
   "time": {
@@ -184,7 +244,11 @@
     "freshDays": 14,
     "freezes": true,
     "note": {
-      "en": "A proper natural-levain crumb stays remarkably soft and fragrant for about two weeks sealed at room temperature; the long fermentation and high sugar and fat content act as natural preservatives."
+      "en": "A proper natural-levain crumb stays remarkably soft and fragrant for about two weeks sealed at room temperature; the long fermentation and high sugar and fat content act as natural preservatives.",
+      "de": "Eine reine Natur-Sauerteig-Krume bleibt bei Raumtemperatur versiegelt etwa zwei Wochen bemerkenswert weich und aromatisch; die lange Fermentation und der hohe Zucker- und Fettgehalt wirken als natürliche Konservierungsmittel.",
+      "es": "Una miga de masa madre natural permanece notablemente suave y fragante durante unas dos semanas sellada a temperatura ambiente; la larga fermentación y el alto contenido de azúcar y grasa actúan como conservantes naturales.",
+      "fr": "Une mie au levain naturel reste remarquablement moelleuse et parfumée environ deux semaines sous film a température ambiante ; la longue fermentation et la teneur élevée en sucre et en matières grasses agissent comme des conservateurs naturels.",
+      "ro": "Un miez natural de maiă rămâne remarcabil de moale şi aromat timp de aproximativ două săptămâni sigilat la temperatura camerei; fermentarea lungă şi conținutul ridicat de zăhăr şi grasimi acționează ca conservanți naturali."
     }
   },
   "equipment": [
@@ -326,7 +390,11 @@
     "author": "adapted from Piergiorgio Giorilli's formula",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased and condensed from a two-day primo/secondo impasto process; citrus zest and vanilla pod weights estimated since the source gives them by piece, not grams."
+      "en": "Method paraphrased and condensed from a two-day primo/secondo impasto process; citrus zest and vanilla pod weights estimated since the source gives them by piece, not grams.",
+      "de": "Methode aus einem zweitägigen Primo/Secondo-Impasto-Prozess paraphrasiert und verkürzt; Zitrusschalen- und Vanilleschotengewichte geschätzt, da die Quelle sie stückweise und nicht in Gramm angibt.",
+      "es": "Método parafraseado y condensado de un proceso de primo/secondo impasto de dos días; los pesos de ralladura de cı́tricos y vaina de vainilla se estimaron ya que la fuente los da por pieza, no en gramos.",
+      "fr": "Méthode paraphrasée et condensée à partir d'un processus de primo/secondo impasto sur deux jours ; les poids de zeste d'agrumes et de gousse de vanille sont estimés car la source les donne à la pièce, pas en grammes.",
+      "ro": "Metodă parafrazată şi condensată dintr-un proces de primo/secondo impasto de două zile; greutățile cojilor de citrice şi păstăiului de vanilie sunt estimate, deoarece sursa le dă cu bucatața, nu în grame."
     }
   },
   "tags": [

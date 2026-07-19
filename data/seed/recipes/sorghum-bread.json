@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern gluten-free home baking"
+      "en": "Modern gluten-free home baking",
+      "de": "Moderne glutenfreie Hausbäckerei",
+      "es": "Panadería casera moderna sin gluten",
+      "fr": "Boulangerie domestique moderne sans gluten",
+      "ro": "Panificație casnică modernă fără gluten"
     },
     "note": {
-      "en": "Sorghum is an ancient African staple grain, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique, distinct from sorghum's traditional use in flatbreads like Sudanese kisra."
+      "en": "Sorghum is an ancient African staple grain, but this single-flour, psyllium-bound, yeasted loaf format is a 21st-century gluten-free-baking technique, distinct from sorghum's traditional use in flatbreads like Sudanese kisra.",
+      "de": "Sorghum ist ein uraltes afrikanisches Grundgetreide, aber dieses Einzelmehl-, Psyllium-gebundene, gehegte Laibformat ist eine glutenfreie Backtechnik des 21. Jahrhunderts, die sich von der traditionellen Verwendung von Sorghum in Fladenbroten wie sudanesischer Kisra unterscheidet.",
+      "es": "El sorgo es un grano básico africano ancestral, pero este formato de pan de una sola harina, ligado con psyllium y fermentado con levadura, es una técnica de repostería sin gluten del siglo XXI, distinta del uso tradicional del sorgo en panes planos como el kisra sudanés.",
+      "fr": "Le sorgho est une céréale de base africaine ancienne, mais ce format de pain à farine unique, lié au psyllium et levé à la levure, est une technique de boulangerie sans gluten du XXIe siècle, distincte de l’utilisation traditionnelle du sorgho dans les pains plats comme le kisra soudanais.",
+      "ro": "Sorgul este o cereală de bază africană străveche, dar acest format de pâine cu o singură făină, legată cu psyllium și dospită cu drojdie, este o tehnică de panificație fără gluten din secolul XXI, distinctă de utilizarea tradițională a sorgului în pâinile plate precum kisra sudanez."
     }
   },
   "leaven": "yeast",
@@ -87,7 +95,11 @@
     "count": 1,
     "pieceGrams": 1000,
     "shape": {
-      "en": "9 x 5 in loaf pan"
+      "en": "9 x 5 in loaf pan",
+      "de": "22,9 x 12,7 cm Kastenform",
+      "es": "molde de 22,9 x 12,7 cm",
+      "fr": "moule de 22,9 x 12,7 cm",
+      "ro": "tavă de 22,9 x 12,7 cm"
     }
   },
   "time": {
@@ -127,7 +139,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Must cool completely, 4-5 hours, before slicing or the crumb turns gummy; a common trait of gluten-free psyllium loaves."
+      "en": "Must cool completely, 4-5 hours, before slicing or the crumb turns gummy; a common trait of gluten-free psyllium loaves.",
+      "de": "Muss vollständig auskühlen, 4-5 Stunden, vor dem Anschneiden, sonst wird die Krume klebrig; eine häufige Eigenschaft glutenfreier Psylliumlaibe.",
+      "es": "Debe enfriarse completamente, 4-5 horas, antes de rebanar o la miga se vuelve gomosa; un rasgo común de los panes sin gluten con psyllium.",
+      "fr": "Doit refroidir complètement, 4-5 heures, avant de trancher sinon la mie devient caoutchouteuse ; un trait commun des pains sans gluten au psyllium.",
+      "ro": "Trebuie să se răcească complet, 4-5 ore, înainte de a tăia sau miezul devine lipicios; o trăsătură comună a pâinilor fără gluten cu psyllium."
     }
   },
   "equipment": [
@@ -252,7 +268,11 @@
     "site": "Natasha's Home",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Salt recorded at the midpoint of the source's 10-12g range."
+      "en": "Salt recorded at the midpoint of the source's 10-12g range.",
+      "de": "Salz am Mittelpunkt der Spanne von 10-12 g der Quelle notiert.",
+      "es": "Sal registrada en el punto medio del rango de 10-12 g de la fuente.",
+      "fr": "Sel enregistré au point médian de la fourchette de 10-12 g de la source.",
+      "ro": "Sare înregistrată la mijlocul intervalului de 10-12 g din sursă."
     }
   },
   "tags": [

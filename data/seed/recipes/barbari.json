@@ -22,10 +22,18 @@
   "origin": {
     "country": "IR",
     "region": {
-      "en": "Iran (nationwide)"
+      "en": "Iran (nationwide)",
+      "de": "Iran (landesweit)",
+      "es": "Irán (en todo el país)",
+      "fr": "Iran (dans tout le pays)",
+      "ro": "Iran (în toată țara)"
     },
     "note": {
-      "en": "One of Iran's everyday breakfast breads alongside sangak and lavash; now also baked across the Iranian diaspora and wider Middle East."
+      "en": "One of Iran's everyday breakfast breads alongside sangak and lavash; now also baked across the Iranian diaspora and wider Middle East.",
+      "de": "Eines der alltäglichen Frühstücksbrote des Iran neben Sangak und Lavash; heute auch in der iranischen Diaspora und im gesamten Nahen Osten gebacken.",
+      "es": "Uno de los panes de desayuno cotidianos de Irán junto con sangak y lavash; ahora también se hornea en la diáspora iraní y en todo Oriente Medio.",
+      "fr": "L'un des pains de petit-déjeuner quotidiens d'Iran aux côtés du sangak et du lavash; désormais également cuit dans la diaspora iranienne et au Moyen-Orient.",
+      "ro": "Una dintre pâinile de mic dejun cotidiene ale Iranului, alături de sangak și lavash; acum coptă și în diaspora iraniană și în Orientul Mijlociu extins."
     }
   },
   "leaven": "yeast",
@@ -53,7 +61,11 @@
       "key": "flour:wheat-white",
       "grams": 250,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină pentru pâine"
       }
     },
     {
@@ -64,7 +76,11 @@
       "key": "water",
       "grams": 395,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -79,7 +95,11 @@
       "key": "sugar",
       "grams": 10,
       "note": {
-        "en": "or use honey"
+        "en": "or use honey",
+        "de": "oder Honig verwenden",
+        "es": "o usar miel",
+        "fr": "ou utiliser du miel",
+        "ro": "sau folosește miere"
       }
     },
     {
@@ -104,21 +124,33 @@
       "key": "flour:wheat-white",
       "grams": 15,
       "note": {
-        "en": "for the roomal glaze"
+        "en": "for the roomal glaze",
+        "de": "für den Roomal-Überguss",
+        "es": "para el glaseado roomal",
+        "fr": "pour le glaçage roomal",
+        "ro": "pentru glazura roomal"
       }
     },
     {
       "key": "water",
       "grams": 80,
       "note": {
-        "en": "for the roomal glaze"
+        "en": "for the roomal glaze",
+        "de": "für den Roomal-Überguss",
+        "es": "para el glaseado roomal",
+        "fr": "pour le glaçage roomal",
+        "ro": "pentru glazura roomal"
       }
     },
     {
       "key": "baking-soda",
       "grams": 1,
       "note": {
-        "en": "for the roomal glaze"
+        "en": "for the roomal glaze",
+        "de": "für den Roomal-Überguss",
+        "es": "para el glaseado roomal",
+        "fr": "pour le glaçage roomal",
+        "ro": "pentru glazura roomal"
       }
     }
   ],
@@ -126,7 +158,11 @@
     "count": 3,
     "pieceGrams": 349,
     "shape": {
-      "en": "long oval grooved loaf"
+      "en": "long oval grooved loaf",
+      "de": "langes ovales gerilltes Brot",
+      "es": "hogaza ovalada larga con ranuras",
+      "fr": "pain long ovale strié",
+      "ro": "pâine ovală lungă cu șanțuri"
     }
   },
   "time": {
@@ -168,7 +204,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best warm the day it's baked, as sold fresh from Iranian bakeries each morning; freezes well and refreshes in a hot oven."
+      "en": "Best warm the day it's baked, as sold fresh from Iranian bakeries each morning; freezes well and refreshes in a hot oven.",
+      "de": "Am besten warm am Backtag, wie jeden Morgen frisch aus iranischen Bäckereien verkauft; lässt sich gut einfrieren und im heißen Ofen auffrischen.",
+      "es": "Mejor caliente el día de horneado, como se vende fresco cada mañana en las panaderías iraníes; se congela bien y se refresca en horno caliente.",
+      "fr": "Meilleur tiède le jour de la cuisson, comme vendu frais chaque matin dans les boulangeries iraniennes; se congèle bien et se rafraîchit au four chaud.",
+      "ro": "Cel mai bun cald în ziua coacerii, așa cum se vinde proaspăt în fiecare dimineață din brutăriile iraniene; se congèlează bine și se reîmprospătează în cuptorul fierbinte."
     }
   },
   "equipment": [
@@ -293,7 +333,11 @@
     "site": "The Delicious Crescent",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Headline hydration reflects the main dough only; the roomal glaze's flour and water are listed separately but excluded from hydrationPct since it's brushed on, not fermented with the dough."
+      "en": "Headline hydration reflects the main dough only; the roomal glaze's flour and water are listed separately but excluded from hydrationPct since it's brushed on, not fermented with the dough.",
+      "de": "Die Hydratationsangabe bezieht sich nur auf den Hauptteig; das Mehl und Wasser des Roomal-Übergusses sind separat aufgeführt, aber vom Hydratationsprozentsatz ausgeschlossen, da er aufgestrichen und nicht mit dem Teig fermentiert wird.",
+      "es": "La hidratación indicada refleja solo la masa principal; la harina y el agua del glaseado roomal se enumeran por separado pero se excluyen del porcentaje de hidratación porque se pincela, no se fermenta con la masa.",
+      "fr": "L'hydratation indiquée ne concerne que la pâte principale; la farine et l'eau du glaçage roomal sont listées séparément mais exclues du % d'hydratation car il est badigeonné, non fermenté avec la pâte.",
+      "ro": "Hidratarea indicată reflectă doar aluatul principal; făina și apa din glazura roomal sunt listate separat dar excluse din procentul de hidratare deoarece se unge, nu se fermentează cu aluatul."
     }
   },
   "tags": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "PR",
     "region": {
-      "en": "island-wide"
+      "en": "island-wide",
+      "de": "landesweit",
+      "es": "en toda la isla",
+      "fr": "à l'échelle de l'île",
+      "ro": "la nivelul întregii insule"
     },
     "note": {
-      "en": "Named 'sobao' (kneaded) for its intensively worked dough; also called pan de manteca for its traditional lard, a staple of the neighborhood panadería."
+      "en": "Named 'sobao' (kneaded) for its intensively worked dough; also called pan de manteca for its traditional lard, a staple of the neighborhood panadería.",
+      "de": "Benannt «Sobao» (geknetet) nach seinem intensiv bearbeiteten Teig; auch Pan de manteca genannt nach seinem traditionellen Schmalz, ein Grundnahrungsmittel der Nachbarschaftspanadería.",
+      "es": "Llamado «sobao» por su masa intensamente trabajada; también llamado pan de manteca por su manteca tradicional, un básico de la panadería del barrio.",
+      "fr": "Nommé « sobao » (pétri) pour sa pâte intensément travaillée; aussi appelé pan de manteca pour son saindoux traditionnel, un incontournable de la panadería de quartier.",
+      "ro": "Numit «sobao» (frământat) pentru aluatul său intens lucrat; numit și pan de manteca pentru untura sa tradițională, un element de bază al panaderíei de cartier."
     }
   },
   "leaven": "yeast",
@@ -48,28 +56,44 @@
       "key": "flour:wheat-white",
       "grams": 16,
       "note": {
-        "en": "poolish"
+        "en": "poolish",
+        "de": "Poolish",
+        "es": "poolish",
+        "fr": "poolish",
+        "ro": "poolish"
       }
     },
     {
       "key": "water",
       "grams": 30,
       "note": {
-        "en": "poolish"
+        "en": "poolish",
+        "de": "Poolish",
+        "es": "poolish",
+        "fr": "poolish",
+        "ro": "poolish"
       }
     },
     {
       "key": "active-dry-yeast",
       "grams": 0.5,
       "note": {
-        "en": "poolish"
+        "en": "poolish",
+        "de": "Poolish",
+        "es": "poolish",
+        "fr": "poolish",
+        "ro": "poolish"
       }
     },
     {
       "key": "water",
       "grams": 350,
       "note": {
-        "en": "main dough, divided for blooming yeast and mixing"
+        "en": "main dough, divided for blooming yeast and mixing",
+        "de": "Hauptteig, geteilt für Hefeaktivierung und Mischen",
+        "es": "masa principal, dividida para activar la levadura y mezclar",
+        "fr": "pâte principale, divisée pour réhydrater la levure et mélanger",
+        "ro": "aluat principal, împărțit pentru activarea drojdiei și mixare"
       }
     },
     {
@@ -80,21 +104,33 @@
       "key": "active-dry-yeast",
       "grams": 15,
       "note": {
-        "en": "2 packages, main dough"
+        "en": "2 packages, main dough",
+        "de": "2 Packungen, Hauptteig",
+        "es": "2 paquetes, masa principal",
+        "fr": "2 sachets, pâte principale",
+        "ro": "2 pliculețe, aluat principal"
       }
     },
     {
       "key": "lard",
       "grams": 51,
       "note": {
-        "en": "or shortening"
+        "en": "or shortening",
+        "de": "oder Backfett",
+        "es": "o manteca vegetal",
+        "fr": "ou shortening",
+        "ro": "sau scurtătură"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 648,
       "note": {
-        "en": "main dough"
+        "en": "main dough",
+        "de": "Hauptteig",
+        "es": "masa principal",
+        "fr": "pâte principale",
+        "ro": "aluat principal"
       }
     },
     {
@@ -106,7 +142,11 @@
     "count": 2,
     "pieceGrams": 525,
     "shape": {
-      "en": "two 12-inch logs"
+      "en": "two 12-inch logs",
+      "de": "zwei 30,5 cm lange Laibe",
+      "es": "dos barras de 30,5 cm",
+      "fr": "deux pâtons de 30,5 cm",
+      "ro": "două pâini lungi de 30,5 cm"
     }
   },
   "time": {
@@ -148,7 +188,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Stays soft longer than a crusty hearth loaf thanks to the lard; great for sandwiches for a couple of days."
+      "en": "Stays soft longer than a crusty hearth loaf thanks to the lard; great for sandwiches for a couple of days.",
+      "de": "Bleibt dank Schmalz länger weich als ein knuspriger Ofenlaib; hervorragend für Sandwiches für ein paar Tage.",
+      "es": "Se mantiene blando más tiempo que un pan crujiente de horno gracias a la manteca; ideal para sándwiches durante un par de días.",
+      "fr": "Reste moelleux plus longtemps qu'un pain de fournée croustillant grâce au saindoux; parfait pour les sandwichs pendant quelques jours.",
+      "ro": "Rămâne moale mai mult decât o pâine crocantă de vatră datorită unturii; excelent pentru sandvișuri câteva zile."
     }
   },
   "equipment": [
@@ -275,7 +319,11 @@
     "site": "Sense & Edibility",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Flour and water ranges given as midpoints. Poolish refrigeration time shortened from the source's stated maximum of 24 hours to a more typical overnight rest for the total-time estimate."
+      "en": "Flour and water ranges given as midpoints. Poolish refrigeration time shortened from the source's stated maximum of 24 hours to a more typical overnight rest for the total-time estimate.",
+      "de": "Mehl- und Wasserbereiche als Mittelwerte angegeben. Poolish-Kühlzeit von den angegebenen maximal 24 Stunden der Quelle auf eine typischere Übernachtruhe für die Gesamtzeitschätzung verkürzt.",
+      "es": "Rangos de harina y agua dados como puntos medios. Tiempo de refrigeración del poolish acortado del máximo declarado de 24 horas de la fuente a un reposo nocturno más típico para el cálculo del tiempo total.",
+      "fr": "Fourchettes de farine et d'eau données comme points médians. Temps de réfrigération du poolish réduit du maximum déclaré de 24 heures de la source à un repos nocturne plus typique pour l'estimation du temps total.",
+      "ro": "Intervalele de făină și apă date ca puncte mediane. Timpul de refrigerare al poolish-ului scurtat de la maximul declarat de 24 de ore al sursei la o odihnă peste noapte mai tipică pentru estimarea timpului total."
     }
   },
   "tags": [

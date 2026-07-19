@@ -22,10 +22,18 @@
   "origin": {
     "country": "AM",
     "region": {
-      "en": "South Caucasus"
+      "en": "South Caucasus",
+      "de": "Südkaukasus",
+      "es": "Cáucaso Sur",
+      "fr": "Caucase du Sud",
+      "ro": "Caucazul de Sud"
     },
     "note": {
-      "en": "UNESCO-listed as an element of Armenian intangible cultural heritage (2014); also baked across Iran, Turkey, Azerbaijan and Central Asia, traditionally in a tonir clay oven."
+      "en": "UNESCO-listed as an element of Armenian intangible cultural heritage (2014); also baked across Iran, Turkey, Azerbaijan and Central Asia, traditionally in a tonir clay oven.",
+      "de": "Von der UNESCO als Element des armenischen immateriellen Kulturerbes gelistet (2014); wird auch im Iran, in der Türkei, Aserbaidschan und Zentralasien gebacken, traditionell im Tonir-Lehmofen.",
+      "es": "Listado por la UNESCO como elemento del patrimonio cultural inmaterial armenio (2014); también se hornea en Irán, Turquía, Azerbaiyán y Asia Central, tradicionalmente en un horno de barro tonir.",
+      "fr": "Inscrit par l'UNESCO comme élément du patrimoine culturel immatériel arménien (2014); également cuit en Iran, Turquie, Azerbaïdjan et Asie centrale, traditionnellement dans un four en argile tonir.",
+      "ro": "Inclus de UNESCO ca element al patrimoniului cultural imaterial armean (2014); copt și în Iran, Turcia, Azerbaidjan și Asia Centrală, în mod tradițional într-un cuptor de lut tonir."
     }
   },
   "leaven": "yeast",
@@ -49,21 +57,33 @@
       "key": "flour:wheat-white",
       "grams": 470,
       "note": {
-        "en": "all-purpose flour"
+        "en": "all-purpose flour",
+        "de": "Weizenmehl",
+        "es": "harina todo uso",
+        "fr": "farine tout usage",
+        "ro": "făină universală"
       }
     },
     {
       "key": "water",
       "grams": 178,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "handwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
       "key": "milk",
       "grams": 180,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "handwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -87,7 +107,11 @@
     "count": 6,
     "pieceGrams": 144,
     "shape": {
-      "en": "large thin oval or rectangle wrap"
+      "en": "large thin oval or rectangle wrap",
+      "de": "großer dünner ovaler oder rechteckiger Fladen",
+      "es": "lámina grande y fina ovalada o rectangular",
+      "fr": "grande fine galette ovale ou rectangulaire",
+      "ro": "foaie mare subțire ovală sau dreptunghiulară"
     }
   },
   "time": {
@@ -128,7 +152,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Stays pliable a couple of days wrapped; once stiff, mist with water and wrap in a towel to soften. Freezes well."
+      "en": "Stays pliable a couple of days wrapped; once stiff, mist with water and wrap in a towel to soften. Freezes well.",
+      "de": "Bleibt ein paar Tage geschmeidig eingewickelt; wird er steif, mit Wasser besprühen und in ein Tuch wickeln, um ihn zu weichen. Friert gut ein.",
+      "es": "Se mantiene flexible un par de días envuelto; una vez tieso, rociar con agua y envolver en un paño para ablandarlo. Se congela bien.",
+      "fr": "Resté souple quelques jours emballé; une fois raid, vaporiser d'eau et envelopper dans un torchon pour le ramollir. Se congèle bien.",
+      "ro": "Rămâne flexibil câteva zile învelit; odată înțepenit, stropește cu apă și învelește într-un prosop pentru a se înmuia. Se congèlează bine."
     }
   },
   "equipment": [
@@ -253,7 +281,11 @@
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration recalculated to include the milk's water content per baker's-percentage convention; the source's own figure counted only the added water."
+      "en": "Hydration recalculated to include the milk's water content per baker's-percentage convention; the source's own figure counted only the added water.",
+      "de": "Hydration neu berechnet unter Einbeziehung des Wassergehalts der Milch nach Bäckerprozent-Regel; der eigene Wert der Quelle zählte nur das zugegebene Wasser.",
+      "es": "Hidratación recalculada incluyendo el contenido de agua de la leche según la convención de porcentaje de panadero; la cifra de la fuente solo contaba el agua añadida.",
+      "fr": "Hydratation recalculée en incluant la teneur en eau du lait selon la convention des pourcentages du boulanger; le chiffre de la source ne comptait que l'eau ajoutée.",
+      "ro": "Hidratare recalculată incluzând conținutul de apă al laptelui conform convenției procentelor de brutar; cifra sursei număra doar apa adăugată."
     }
   },
   "tags": [

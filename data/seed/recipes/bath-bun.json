@@ -20,10 +20,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Bath, Somerset, England"
+      "en": "Bath, Somerset, England",
+      "de": "Bath, Somerset, England",
+      "es": "Bath, Somerset, Inglaterra",
+      "fr": "Bath, Somerset, Angleterre",
+      "ro": "Bath, Somerset, Anglia"
     },
     "note": {
-      "en": "Credited to 18th-century Bath baker William Oliver, of Bath Oliver biscuit fame. Originally topped with sugar-coated caraway comfits, later simplified to caraway seeds or, as here, coarse nib sugar."
+      "en": "Credited to 18th-century Bath baker William Oliver, of Bath Oliver biscuit fame. Originally topped with sugar-coated caraway comfits, later simplified to caraway seeds or, as here, coarse nib sugar.",
+      "de": "Zugeschrieben dem Bäcker William Oliver aus dem 18. Jahrhundert in Bath, berühmt für die Bath-Oliver-Kekse. Ursprünglich mit zuckerüberzogenen Kümmel-Dragees belegt, später vereinfacht zu Kümmelsamen oder, wie hier, grobem Hagelzucker.",
+      "es": "Atribuido al panadero bathiense del siglo XVIII William Oliver, famoso por la galleta Bath Oliver. Originalmente cubierto con confites de alcaravea bañados en azúcar, luego simplificado a semillas de alcaravea o, como aquí, azúcar perlado grueso.",
+      "fr": "Attribué au boulanger bathonien du XVIIIe siècle William Oliver, célèbre pour le biscuit Bath Oliver. À l'origine garni de dragées au carvi enrobées de sucre, plus tard simplifié en graines de carvi ou, comme ici, en sucre perlé grossier.",
+      "ro": "Atribuit brutarului din Bath din secolul al XVIII-lea, William Oliver, celebru pentru biscuiții Bath Oliver. Inițial acoperit cu comfituri de chimen acoperite cu zahăr, mai târziu simplificat la semințe de chimen sau, ca aici, zahăr perlă grosier."
     }
   },
   "leaven": "yeast",
@@ -46,7 +54,11 @@
       "key": "flour:wheat-white",
       "grams": 170,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
@@ -57,14 +69,22 @@
       "key": "butter",
       "grams": 71,
       "note": {
-        "en": "softened, dough"
+        "en": "softened, dough",
+        "de": "weich, Teig",
+        "es": "ablandada, masa",
+        "fr": "ramolli, pâte",
+        "ro": "muaiat, aluat"
       }
     },
     {
       "key": "sugar",
       "grams": 28,
       "note": {
-        "en": "cane sugar, dough"
+        "en": "cane sugar, dough",
+        "de": "Rohrzucker, Teig",
+        "es": "azúcar de caña, masa",
+        "fr": "sucre de canne, pâte",
+        "ro": "zahăr din trestie, aluat"
       }
     },
     {
@@ -75,7 +95,11 @@
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "1 egg, dough"
+        "en": "1 egg, dough",
+        "de": "1 Ei, Teig",
+        "es": "1 huevo, masa",
+        "fr": "1 œuf, pâte",
+        "ro": "1 ou, aluat"
       }
     },
     {
@@ -90,28 +114,44 @@
       "key": "raisins",
       "grams": 9,
       "note": {
-        "en": "dried currants, filling"
+        "en": "dried currants, filling",
+        "de": "getrocknete Johannisbeeren, Füllung",
+        "es": "grosellas secas, relleno",
+        "fr": "groseilles séchées, garniture",
+        "ro": "coacăze uscate, umplutură"
       }
     },
     {
       "key": "candied-citrus",
       "grams": 12,
       "note": {
-        "en": "chopped candied orange peel, filling"
+        "en": "chopped candied orange peel, filling",
+        "de": "gehackte kandierte Orangenschale, Füllung",
+        "es": "cáscara de naranja confitada picada, relleno",
+        "fr": "écorce d'orange confite hachée, garniture",
+        "ro": "coajă de portocală confiată tocată, umplutură"
       }
     },
     {
       "key": "egg",
       "grams": 15,
       "note": {
-        "en": "beaten, for egg wash before baking"
+        "en": "beaten, for egg wash before baking",
+        "de": "verquirlt, für die Eiglasur vor dem Backen",
+        "es": "batido, para glaseado de huevo antes de hornear",
+        "fr": "battu, pour la dorure à l'œuf avant la cuisson",
+        "ro": "bătut, pentru glazura de ou înainte de coacere"
       }
     },
     {
       "key": "sugar",
       "grams": 13,
       "note": {
-        "en": "coarse nib or pearl sugar, sprinkled on top before baking"
+        "en": "coarse nib or pearl sugar, sprinkled on top before baking",
+        "de": "grober Hagel- oder Perlzucker, vor dem Backen darüber gestreut",
+        "es": "azúcar perlado grueso, espolvoreado encima antes de hornear",
+        "fr": "sucre perlé ou grain grossier, saupoudré sur le dessus avant la cuisson",
+        "ro": "zahăr perlat grosier, presărat deasupra înainte de coacere"
       }
     }
   ],
@@ -119,7 +159,11 @@
     "count": 4,
     "pieceGrams": 105,
     "shape": {
-      "en": "large individual bun"
+      "en": "large individual bun",
+      "de": "großes einzelnes Brötchen",
+      "es": "bollo individual grande",
+      "fr": "grand petit pain individuel",
+      "ro": "chiflă mare individuală"
     }
   },
   "time": {
@@ -161,7 +205,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh the day they're baked, while the nib sugar still crunches; day-old buns are good split and toasted."
+      "en": "Best fresh the day they're baked, while the nib sugar still crunches; day-old buns are good split and toasted.",
+      "de": "Am besten frisch am Backtag, solange der Hagelzucker noch knusprig ist; ein Tag alte Brötchen sind gut aufgeschnitten und getoastet.",
+      "es": "Mejores frescos el día de horneado, mientras el azúcar perlado aún cruje; los bollos del día anterior son buenos partidos y tostados.",
+      "fr": "Meilleurs frais le jour de la cuisson, tant que le sucre perlé croque encore; les petits pains d'un jour sont bons fendus et grillés.",
+      "ro": "Cei mai buni proaspeți în ziua coacerii, cât zahărul perlat încă mai crapă; chiflele de o zi sunt bune despicate și prăjite."
     }
   },
   "equipment": [
@@ -271,7 +319,11 @@
     "site": "Stream of Flavors",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "formula.* covers the dough only; egg wash and nib-sugar topping are excluded. Source's '1/2 oz active yeast' recorded as fresh yeast; ounce/cup measures converted to grams via standard conversions."
+      "en": "formula.* covers the dough only; egg wash and nib-sugar topping are excluded. Source's '1/2 oz active yeast' recorded as fresh yeast; ounce/cup measures converted to grams via standard conversions.",
+      "de": "formula.* umfasst nur den Teig; Eiglasur und Hagelzuckerbelag sind ausgeschlossen. Die '1/2 oz frische Hefe' der Quelle als frische Hefe erfasst; Unzen-/Tassenangaben mit Standardumrechnungen in Gramm konvertiert.",
+      "es": "formula.* cubre solo la masa; el glaseado de huevo y la cobertura de azúcar perlado están excluidos. La '1/2 oz de levadura activa' de la fuente se registró como levadura fresca; las medidas en onzas/tazas se convirtieron a gramos mediante conversiones estándar.",
+      "fr": "formula.* ne couvre que la pâte; la dorure à l'œuf et la garniture de sucre perlé sont exclues. Le '1/2 oz de levure active' de la source a été enregistré comme levure fraîche; les mesures en onces/tasses converties en grammes via des conversions standard.",
+      "ro": "formula.* acoperă doar aluatul; glazura de ou și toppingul de zahăr perlat sunt excluse. '1/2 oz drojdie activă' din sursă înregistrată ca drojdie proaspătă; măsurătorile în uncii/căni convertite în grame prin conversii standard."
     }
   },
   "tags": [

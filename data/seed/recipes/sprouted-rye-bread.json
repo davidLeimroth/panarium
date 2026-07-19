@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American home baking, using pre-milled sprouted flour"
+      "en": "Modern American home baking, using pre-milled sprouted flour",
+      "de": "Modernes amerikanisches Hausbacken mit vorgemahlenem Keimmehl",
+      "es": "Repostería casera estadounidense moderna con harina germinada premolida",
+      "fr": "Boulangerie maison américaine moderne avec farine germée prémoulue",
+      "ro": "Coacere casnică americană modernă, cu făină încolțită premăcinată"
     },
     "note": {
-      "en": "Builds on the older European tradition of sprouted-grain breads, but uses commercially milled sprouted flour and commercial yeast rather than a traditional sourdough culture."
+      "en": "Builds on the older European tradition of sprouted-grain breads, but uses commercially milled sprouted flour and commercial yeast rather than a traditional sourdough culture.",
+      "de": "Baut auf der älteren europäischen Tradition von Keimgetreidebroten auf, verwendet jedoch kommerziell gemahlenes Keimmehl und kommerzielle Hefe anstelle eines traditionellen Sauerteigansatzes.",
+      "es": "Se basa en la tradición europea más antigua de panes de grano germinado, pero usa harina germinada molida comercialmente y levadura comercial en lugar de un cultivo de masa madre tradicional.",
+      "fr": "S'appuie sur la plus ancienne tradition européenne des pains à grain germé, mais utilise de la farine germée moulue commercialement et de la levure commerciale plutôt qu'un levain traditionnel.",
+      "ro": "Se bazează pe tradiția europeană mai veche a pâinilor din cereale încolțite, dar folosește făină încolțită măcinată comercial și drojdie comercială, în loc de un maia tradițional."
     }
   },
   "leaven": "yeast",
@@ -50,21 +58,33 @@
       "key": "flour:wheat-whole",
       "grams": 570,
       "note": {
-        "en": "sprouted, dried and milled wholegrain wheat flour"
+        "en": "sprouted, dried and milled wholegrain wheat flour",
+        "de": "Gekeimtes, getrocknetes und gemahlenes Vollkornweizenmehl",
+        "es": "Harina integral de trigo germinada, secada y molida",
+        "fr": "Farine complète de blé germée, séchée et moulue",
+        "ro": "Făină integrală de grâu încolțită, uscată și măcinată"
       }
     },
     {
       "key": "flour:rye-whole",
       "grams": 156,
       "note": {
-        "en": "sprouted, dried and milled wholegrain rye flour"
+        "en": "sprouted, dried and milled wholegrain rye flour",
+        "de": "Gekeimtes, getrocknetes und gemahlenes Vollkornroggenmehl",
+        "es": "Harina integral de centeno germinada, secada y molida",
+        "fr": "Farine complète de seigle germée, séchée et moulue",
+        "ro": "Făină integrală de secară încolțită, uscată și măcinată"
       }
     },
     {
       "key": "water",
       "grams": 632,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -79,21 +99,33 @@
       "key": "molasses",
       "grams": 43,
       "note": {
-        "en": "unsulphured"
+        "en": "unsulphured",
+        "de": "ungeschwefelt",
+        "es": "sin sulfitar",
+        "fr": "non sulfité",
+        "ro": "nesulfitată"
       }
     },
     {
       "key": "caraway",
       "grams": 7,
       "note": {
-        "en": "toasted"
+        "en": "toasted",
+        "de": "geröstet",
+        "es": "tostados",
+        "fr": "torréfiés",
+        "ro": "prăjiți"
       }
     },
     {
       "key": "cocoa",
       "grams": 10,
       "note": {
-        "en": "optional, for a darker color, in the style of German pumpernickel"
+        "en": "optional, for a darker color, in the style of German pumpernickel",
+        "de": "Optional, für eine dunklere Farbe, nach Art des deutschen Pumpernickel",
+        "es": "Opcional, para un color más oscuro, al estilo del pumpernickel alemán",
+        "fr": "Facultatif, pour une couleur plus foncée, dans le style du pumpernickel allemand",
+        "ro": "Opțional, pentru o culoare mai închisă, în stilul pumpernickel-ului german"
       }
     }
   ],
@@ -101,7 +133,11 @@
     "count": 2,
     "pieceGrams": 646,
     "shape": {
-      "en": "4.5 x 8 in loaf pans"
+      "en": "4.5 x 8 in loaf pans",
+      "de": "Kastenformen 11,5 × 20 cm",
+      "es": "Moldes de 11,5 × 20 cm",
+      "fr": "Moules à cake de 11,5 × 20 cm",
+      "ro": "Tavi de chec de 11,5 × 20 cm"
     }
   },
   "time": {
@@ -142,7 +178,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Sprouted-grain flour reportedly gives a moister, longer-keeping crumb, though it still stales like any yeasted loaf within a few days."
+      "en": "Sprouted-grain flour reportedly gives a moister, longer-keeping crumb, though it still stales like any yeasted loaf within a few days.",
+      "de": "Keimmehl soll eine feuchtere, länger haltbare Krume ergeben, obwohl es wie jeder gehefete Laib innerhalb weniger Tage altbacken wird.",
+      "es": "La harina de grano germinado supuestamente da una miga más húmeda y de mayor duración, aunque aún se endurece como cualquier pan con levadura en pocos días.",
+      "fr": "La farine germée donnerait une mie plus moelleuse et plus longue conservation, bien qu'elle rassisse comme tout pain levé en quelques jours.",
+      "ro": "Făina din cereale încolțite ar da o miez mai umed și care se păstrează mai mult, deși tot învechește ca orice pâine dospită în câteva zile."
     }
   },
   "equipment": [

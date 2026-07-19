@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Auvergne"
+      "en": "Auvergne",
+      "de": "Auvergne",
+      "es": "Auvernia",
+      "fr": "Auvergne",
+      "ro": "Auvergne"
     },
     "note": {
-      "en": "Rye was historically the reliable grain of Auvergne's cold volcanic highlands, where wheat struggled; the tourte was baked large and kept for weeks between village bakes."
+      "en": "Rye was historically the reliable grain of Auvergne's cold volcanic highlands, where wheat struggled; the tourte was baked large and kept for weeks between village bakes.",
+      "de": "Roggen war historisch das verlässliche Getreide der kalten Vulkanhochlagen der Auvergne, wo Weizen nicht gut gedieh; die Tourte wurde groß gebacken und zwischen den Dorfbacktagen wochenlang aufbewahrt.",
+      "es": "El centeno fue históricamente el grano fiable de las frías tierras altas volcánicas de Auvernia, donde el trigo no prosperaba; la tourte se horneaba grande y se conservaba durante semanas entre las horneadas del pueblo.",
+      "fr": "Le seigle était historiquement la céréale fiable des hautes terres volcaniques froides d'Auvergne, où le blé peinait; la tourte était cuite grande et conservée des semaines entre les cuissons villageoises.",
+      "ro": "Secara a fost istoric cereala de încredere a înalțimilor vulcanice reci din Auvergne, unde grâul nu se dezvolta bine; tourte era coaptă mare și păstrată săptămâni între coacerile sătești."
     }
   },
   "leaven": "hybrid",
@@ -56,7 +64,11 @@
       "key": "sourdough-starter",
       "grams": 600,
       "note": {
-        "en": "firm rye levain (levain dur)"
+        "en": "firm rye levain (levain dur)",
+        "de": "Festes Roggensauerteig (levain dur)",
+        "es": "Masa madre firme de centeno (levain dur)",
+        "fr": "Levain dur de seigle (levain dur)",
+        "ro": "Maia fermă de secară (levain dur)"
       }
     },
     {
@@ -72,7 +84,11 @@
     "count": 3,
     "pieceGrams": 700,
     "shape": {
-      "en": "flattish round tourte"
+      "en": "flattish round tourte",
+      "de": "Flachrunde Tourte",
+      "es": "Tourte redonda y algo plana",
+      "fr": "Tourte ronde aplatie",
+      "ro": "Tourte rotundă ușor aplatizată"
     }
   },
   "time": {
@@ -114,7 +130,11 @@
     "freshDays": 10,
     "freezes": true,
     "note": {
-      "en": "A dense wholegrain rye levain loaf that traditionally kept village families going for a week or two between bakes."
+      "en": "A dense wholegrain rye levain loaf that traditionally kept village families going for a week or two between bakes.",
+      "de": "Ein dichter Vollkornroggen-Sauerteiglaib, der traditionell die Dorffamilien ein bis zwei Wochen zwischen den Backtagen versorgte.",
+      "es": "Un pan denso de centeno integral con masa madre que tradicionalmente mantenía a las familias del pueblo durante una o dos semanas entre horneadas.",
+      "fr": "Un pain dense au levain de seigle complet qui traditionnellement faisait vivre les familles villageoises une semaine ou deux entre les cuissons.",
+      "ro": "O pâine densă cu maia de secară integrală care în mod tradițional ținea familiile sătești o săptămână sau două între coaceri."
     }
   },
   "equipment": [
@@ -224,7 +244,11 @@
     "site": "Thuriès Magazine",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Firm levain's flour/water content estimated at roughly 2:1 flour:water and folded into the total baker's percentages."
+      "en": "Firm levain's flour/water content estimated at roughly 2:1 flour:water and folded into the total baker's percentages.",
+      "de": "Mehl-/Wassergehalt des festen Sauerteigs auf etwa 2:1 Mehl:Wasser geschätzt und in die gesamten Bäckerprozente eingerechnet.",
+      "es": "El contenido de harina/agua del levain firme estimado aproximadamente en 2:1 harina:agua e incorporado a los porcentajes totales de panadero.",
+      "fr": "La teneur en farine/eau du levain ferme estimée à environ 2:1 farine:eau et intégrée aux pourcentages totaux du boulanger.",
+      "ro": "Conținutul de făină/apă al maielei ferme estimat la aproximativ 2:1 făină:apă și inclus în procentele totale de brutărie."
     }
   },
   "tags": [

@@ -14,18 +14,26 @@
   ],
   "description": {
     "en": "Norway's Viking-age cracker bread: just barley flour, wheat, salt and water, rolled paper-thin and griddled dry until it snaps. Once stacked feet-high by the bakstekjerring for a winter's worth of keeping, still crackling-crisp today.",
-    "de": "Norwegens Knäckebrot aus der Wikingerzeit: nur Gerstenmehl, Weizen, Salz und Wasser, hauchdünn ausgerollt und trocken auf der Platte gebacken, bis es knackt. Einst von der Bakstekjerring meterhoch für einen ganzen Winter gestapelt, heute noch genauso splitterig knusprig.",
-    "es": "El pan cracker de la era vikinga de Noruega: solo harina de cebada, trigo, sal y agua, extendido finísimo y cocido en seco en la plancha hasta que cruje. Antaño apilado metros de alto por la bakstekjerring para todo un invierno, hoy sigue igual de crujiente.",
-    "fr": "Le pain-cracker de l'ère viking en Norvège : farine d'orge, froment, sel et eau, étalés ultra-fin et cuits à sec sur la plaque jusqu'à ce qu'ils craquent. Autrefois empilés sur des mètres par la bakstekjerring pour l'hiver, toujours aussi croustillants aujourd'hui.",
-    "ro": "Pâinea crocantă norvegiană din epoca vikingilor: doar făină de orz, grâu, sare și apă, întinsă subțire ca hârtia și coaptă uscat pe plită până pocnește. Odinioară stivuită înalt de bakstekjerring pentru un întreg sezon de iarnă, la fel de crocantă și azi."
+    "de": "Norwegens Wikinger-Knäckebrot: nur Gerstenmehl, Weizen, Salz und Wasser, hauchdünn ausgerollt und trocken gebacken, bis es knackt. Einst von der Bakstekjerring meterhoch für den Winter gestapelt, heute noch genauso knusprig.",
+    "es": "Pan crujiente noruego de la era vikinga: solo harina de cebada, trigo, sal y agua, estirado finísimo y cocido en seco hasta que cruje. Antes apilado por la bakstekjerring para todo el invierno, hoy igual de crujiente.",
+    "fr": "Pain craquant norvégien de l'ère viking: farine d'orge, blé, sel et eau, étalé très fin et cuit à sec jusqu'à ce qu'il craque. Jadis empilé par la bakstekjerring pour l'hiver, encore aussi croustillant aujourd'hui.",
+    "ro": "Pâine crocantă norvegiană din epoca vikingilor: doar făină de orz, grâu, sare și apă, întinsă subțire ca hârtia și coaptă uscat până pocnește. Odinioară stivuită de bakstekjerring pentru iarnă, la fel de crocantă și azi."
   },
   "origin": {
     "country": "NO",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "în toată țara"
     },
     "note": {
-      "en": "Traces to Viking-era cooking on flat stones; historically made from whatever grain was on hand, most often barley."
+      "en": "Traces to Viking-era cooking on flat stones; historically made from whatever grain was on hand, most often barley.",
+      "de": "Geht auf die Wikingerzeit zurück, wo auf flachen Steinen gekocht wurde; historisch aus dem Getreide hergestellt, das gerade verfügbar war, meist Gerste.",
+      "es": "Se remonta a la cocina de la época vikinga sobre piedras planas; históricamente se hacía con el grano disponible, normalmente cebada.",
+      "fr": "Remonte à la cuisson sur pierres plates à l'époque viking; historiquement fait avec la céréale disponible, le plus souvent de l'orge.",
+      "ro": "Datează din epoca vikingă când se gătea pe pietre plate; istoric făcut din orice cereală era la îndemână, cel mai adesea orz."
     }
   },
   "leaven": "none",
@@ -67,7 +75,11 @@
     "count": 6,
     "pieceGrams": 60,
     "shape": {
-      "en": "paper-thin 20-25cm round"
+      "en": "paper-thin 20-25cm round",
+      "de": "hauchdünne runde Scheibe, 20-25 cm",
+      "es": "disco fino como papel de 20-25 cm",
+      "fr": "disque fin comme du papier de 20-25 cm",
+      "ro": "disc subțire ca hârtia de 20-25 cm"
     }
   },
   "time": {
@@ -108,7 +120,11 @@
     "freshDays": 180,
     "freezes": false,
     "note": {
-      "en": "Keeps for months in a dry tin, food built for a Norwegian winter, no freezer required."
+      "en": "Keeps for months in a dry tin, food built for a Norwegian winter, no freezer required.",
+      "de": "Hält sich monatelang in einer trockenen Dose, ein Lebensmittel für den norwegischen Winter, kein Gefrierschrank nötig.",
+      "es": "Se conserva durante meses en una lata seca, comida hecha para el invierno noruego, no necesita congelador.",
+      "fr": "Se conserve des mois dans une boîte sèche, nourriture conçue pour l'hiver norvégien, pas de congélateur nécessaire.",
+      "ro": "Se păstrează luni întregi într-o cutie uscată, mâncare făcută pentru iarna norvegiană, nu necesită congelator."
     }
   },
   "equipment": [
@@ -217,7 +233,11 @@
     "site": "The Nordic Dish",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Used the base grain-and-water version (no potato or butter option) to keep this entry distinct from the potato-based lefse."
+      "en": "Used the base grain-and-water version (no potato or butter option) to keep this entry distinct from the potato-based lefse.",
+      "de": "Die Basisversion aus Getreide und Wasser verwendet (ohne Kartoffel- oder Butteroption), um diesen Eintrag von der kartoffelbasierten Lefse abzugrenzen.",
+      "es": "Se usó la versión base de grano y agua (sin opción de patata o mantequilla) para mantener esta entrada distinta de la lefse a base de patata.",
+      "fr": "Version de base céréale-et-eau utilisée (sans option pomme de terre ni beurre) pour distinguer cette entrée de la lefse à base de pomme de terre.",
+      "ro": "S-a folosit varianta de bază cu cereale și apă (fără opțiunea de cartof sau unt) pentru a menține această intrare distinctă de lefse-ul pe bază de cartofi."
     }
   },
   "tags": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Hilo, Hawai'i"
+      "en": "Hilo, Hawai'i",
+      "de": "Hilo, Hawaii",
+      "es": "Hilo, Hawái",
+      "fr": "Hilo, Hawaï",
+      "ro": "Hilo, Hawaii"
     },
     "note": {
-      "en": "Created in the 1950s by Robert Taira, a Hawaii-born son of Japanese immigrants, drawing on the Portuguese sweet-bread tradition that Portuguese laborers brought to Hawaii's sugar plantations in the 19th century."
+      "en": "Created in the 1950s by Robert Taira, a Hawaii-born son of Japanese immigrants, drawing on the Portuguese sweet-bread tradition that Portuguese laborers brought to Hawaii's sugar plantations in the 19th century.",
+      "de": "In den 1950er Jahren von Robert Taira kreiert, einem in Hawaii geborenen Sohn japanischer Einwanderer, der sich auf die portugiesische Süßbrot-Tradition stützte, die portugiesische Arbeiter im 19. Jahrhundert auf Hawaiis Zuckerplantagen brachten.",
+      "es": "Creado en la década de 1950 por Robert Taira, un hijo de inmigrantes japoneses nacido en Hawái, basándose en la tradición portuguesa de pan dulce que los trabajadores portugueses trajeron a las plantaciones de azúcar de Hawái en el siglo XIX.",
+      "fr": "Créé dans les années 1950 par Robert Taira, un fils d'immigrants japonais né à Hawaï, s'inspirant de la tradition portugaise du pain sucré que les travailleurs portugais ont apportée dans les plantations de canne à sucre d'Hawaï au XIXe siècle.",
+      "ro": "Creat în anii 1950 de Robert Taira, un fiu al imigranților japonezi născut în Hawaii, inspirându-se din tradiția portugheză de pâine dulce pe care muncitorii portughezi au adus-o pe plantațiile de zahăr din Hawaii în secolul al XIX-lea."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "flour:wheat-white",
       "grams": 360,
       "note": {
-        "en": "combined sponge and dough flour"
+        "en": "combined sponge and dough flour",
+        "de": "Mehl für Vorteig und Hauptteig",
+        "es": "harina para la esponja y la masa",
+        "fr": "farine pour le poolish et la pâte",
+        "ro": "făină pentru maia și aluat"
       }
     },
     {
@@ -67,7 +79,11 @@
       "key": "water",
       "grams": 28,
       "note": {
-        "en": "for the sponge"
+        "en": "for the sponge",
+        "de": "für den Vorteig",
+        "es": "para la esponja",
+        "fr": "pour le poolish",
+        "ro": "pentru maia"
       }
     },
     {
@@ -84,7 +100,11 @@
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandado",
+        "fr": "ramolli",
+        "ro": "înmuiat"
       }
     },
     {
@@ -95,14 +115,22 @@
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 17,
       "note": {
-        "en": "1 extra yolk"
+        "en": "1 extra yolk",
+        "de": "1 zusätzliches Eigelb",
+        "es": "1 yema extra",
+        "fr": "1 jaune supplémentaire",
+        "ro": "1 gălbenuș în plus"
       }
     },
     {
@@ -118,7 +146,11 @@
     "count": 16,
     "pieceGrams": 49,
     "shape": {
-      "en": "soft pull-apart dinner roll"
+      "en": "soft pull-apart dinner roll",
+      "de": "weiches Abreißbrötchen",
+      "es": "panecillo suave para desprender",
+      "fr": "petit pain moelleux à déchirer",
+      "ro": "chiflă moale de desprins"
     }
   },
   "time": {
@@ -160,7 +192,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Stays soft for days thanks to its sugar and pineapple juice content; a slider-bun favorite that reheats beautifully."
+      "en": "Stays soft for days thanks to its sugar and pineapple juice content; a slider-bun favorite that reheats beautifully.",
+      "de": "Dank seines Zucker- und Ananassaftgehalts bleibt es tagelang weich; ein beliebtes Brötchen für Mini-Burger, das sich hervorragend aufwärmen lässt.",
+      "es": "Se mantiene blando durante días gracias a su contenido de azúcar y jugo de piña; un panecillo favorito para hamburguesas pequeñas que se recalienta perfectamente.",
+      "fr": "Reste mou pendant des jours grâce à sa teneur en sucre et en jus d'ananas; un petit pain à burger favori qui se réchauffe à merveille.",
+      "ro": "Rămâne moale zile întregi datorită conținutului de zahăr și suc de ananas; o chiflă preferată pentru burgeri care se reîncălzește perfect."
     }
   },
   "equipment": [
@@ -269,7 +305,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams kept as sourced; vanilla extract weight estimated since the source gave it by volume only."
+      "en": "Grams kept as sourced; vanilla extract weight estimated since the source gave it by volume only.",
+      "de": "Grammangaben wie in der Quelle belassen; Gewicht des Vanilleextrakts geschätzt, da die Quelle es nur nach Volumen angab.",
+      "es": "Gramos mantenidos según la fuente; peso del extracto de vainilla estimado ya que la fuente lo dio solo por volumen.",
+      "fr": "Grammes conservés tels que sourcés; poids de l'extrait de vanille estimé car la source ne le donnait qu'en volume.",
+      "ro": "Gramele păstrate conform sursei; greutatea extractului de vanilie estimată deoarece sursa l-a dat doar ca volum."
     }
   },
   "tags": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbackereien",
+      "es": "Panaderias artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales americaines modernes",
+      "ro": "Brutarii artizanale americane moderne"
     },
     "note": {
-      "en": "A Mediterranean-leaning mix-in on the standard American artisan sourdough base, not tied to a single olive-growing region."
+      "en": "A Mediterranean-leaning mix-in on the standard American artisan sourdough base, not tied to a single olive-growing region.",
+      "de": "Eine mediterran angehauchte Zugabe auf der Basis des standardmigen amerikanischen Handwerks-Sauerteigs, nicht an eine einzelne Olivenanbauregion gebunden.",
+      "es": "Una mezcla de inspiracion mediterranea sobre la base estandar de masa madre artesanal estadounidense, no vinculada a una sola region olivarera.",
+      "fr": "Un ajout a tendance mediterraneenne sur la base standard du levain artisanal americain, non lie a une seule region oleicole.",
+      "ro": "Un adaos cu influenta mediteraneana pe baza standard de maia artizanal americana, nelegat de o singura regiune de cultivare a maslinelor."
     }
   },
   "leaven": "sourdough",
@@ -50,7 +58,11 @@
       "key": "flour:wheat-white",
       "grams": 646,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine de pain",
+        "ro": "faina de paine"
       }
     },
     {
@@ -94,7 +106,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "batard or boule"
+      "en": "batard or boule",
+      "de": "Batard oder Boule",
+      "es": "batard o boule",
+      "fr": "batard ou boule",
+      "ro": "batard sau boule"
     }
   },
   "time": {
@@ -275,7 +291,11 @@
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base per house convention (the source's own published percentages exclude it)."
+      "en": "Baker's percentages recomputed to include the levain's flour and water in the 100% flour base per house convention (the source's own published percentages exclude it).",
+      "de": "Backerprozente neu berechnet, um das Mehl und Wasser des Levains in die 100-%-Mehlbasis gem der Hauskonvention einzubeziehen (die eigenen veroentlichten Prozente der Quelle schlieen es aus).",
+      "es": "Porcentajes de panadero recalculados para incluir la harina y el agua del levain en la base de 100 % de harina segun la convencion de la casa (los porcentajes publicados por la fuente lo excluyen).",
+      "fr": "Pourcentages du boulanger recalcules pour inclure la farine et l'eau du levain dans la base de 100 % de farine selon la convention de la maison (les propres pourcentages publies de la source l'excluent).",
+      "ro": "Procentele de brutar recalculate pentru a include faina si apa levain-ului in baza de 100 % faina conform conventiei casei (propriile procente publicate ale sursei il exclud)."
     }
   },
   "tags": [

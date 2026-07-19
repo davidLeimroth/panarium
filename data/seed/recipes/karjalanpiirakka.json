@@ -22,10 +22,18 @@
   "origin": {
     "country": "FI",
     "region": {
-      "en": "Karelia"
+      "en": "Karelia",
+      "de": "Karelien",
+      "es": "Carelia",
+      "fr": "Carélie",
+      "ro": "Carelia"
     },
     "note": {
-      "en": "First written mention dates to 1686; the rye crust once held barley or talkkuna fillings before rice porridge became standard."
+      "en": "First written mention dates to 1686; the rye crust once held barley or talkkuna fillings before rice porridge became standard.",
+      "de": "Erste schriftliche Erwähnung datiert auf 1686; der Roggenboden enthielt einst Gersten- oder Talkkunafüllungen, bevor Reisbrei zum Standard wurde.",
+      "es": "La primera mención escrita data de 1686; la base de centeno contenía rellenos de cebada o talkkuna antes de que la papilla de arroz se convirtiera en estándar.",
+      "fr": "La première mention écrite date de 1686; la croûte de seigle contenait autrefois des garnitures d'orge ou de talkkuna avant que la bouillie de riz ne devienne standard.",
+      "ro": "Prima mențiune scrisă datează din 1686; crusta de secară conținea cândva umpluturi de orz sau talkkuna înainte ca terciul de orez să devină standard."
     }
   },
   "leaven": "none",
@@ -55,35 +63,55 @@
       "key": "flour:wheat-white",
       "grams": 50,
       "note": {
-        "en": "or spelt flour"
+        "en": "or spelt flour",
+        "de": "oder Dinkelmehl",
+        "es": "o harina de espelta",
+        "fr": "ou farine d'épeautre",
+        "ro": "sau făină de alac"
       }
     },
     {
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "in the crust"
+        "en": "in the crust",
+        "de": "im Boden",
+        "es": "en la base",
+        "fr": "dans la croûte",
+        "ro": "în crustă"
       }
     },
     {
       "key": "water",
       "grams": 80,
       "note": {
-        "en": "in the crust"
+        "en": "in the crust",
+        "de": "im Boden",
+        "es": "en la base",
+        "fr": "dans la croûte",
+        "ro": "în crustă"
       }
     },
     {
       "key": "butter",
       "grams": 15,
       "note": {
-        "en": "melted, in the crust"
+        "en": "melted, in the crust",
+        "de": "geschmolzen, im Boden",
+        "es": "derretida, en la base",
+        "fr": "fondu, dans la croûte",
+        "ro": "topit, în crustă"
       }
     },
     {
       "key": "butter",
       "grams": 50,
       "note": {
-        "en": "for brushing after baking"
+        "en": "for brushing after baking",
+        "de": "zum Bestreichen nach dem Backen",
+        "es": "para pincelar después de hornear",
+        "fr": "pour badigeonner après la cuisson",
+        "ro": "pentru uns după coacere"
       }
     },
     {
@@ -100,28 +128,44 @@
       "key": "milk",
       "grams": 1000,
       "note": {
-        "en": "whole milk, for the rice filling"
+        "en": "whole milk, for the rice filling",
+        "de": "Vollmilch, für die Reisfüllung",
+        "es": "leche entera, para el relleno de arroz",
+        "fr": "lait entier, pour la garniture au riz",
+        "ro": "lapte integral, pentru umplutura de orez"
       }
     },
     {
       "key": "butter",
       "grams": 50,
       "note": {
-        "en": "in the rice filling"
+        "en": "in the rice filling",
+        "de": "in der Reisfüllung",
+        "es": "en el relleno de arroz",
+        "fr": "dans la garniture au riz",
+        "ro": "în umplutura de orez"
       }
     },
     {
       "key": "egg",
       "grams": 200,
       "note": {
-        "en": "hard-boiled, for the egg butter (munavoi)"
+        "en": "hard-boiled, for the egg butter (munavoi)",
+        "de": "hartgekocht, für die Eibutter (munavoi)",
+        "es": "duros, para la mantequilla de huevo (munavoi)",
+        "fr": "durs, pour le beurre d'œuf (munavoi)",
+        "ro": "fierte tari, pentru untul de ou (munavoi)"
       }
     },
     {
       "key": "butter",
       "grams": 120,
       "note": {
-        "en": "softened, for the egg butter"
+        "en": "softened, for the egg butter",
+        "de": "weich, für die Eibutter",
+        "es": "ablandada, para la mantequilla de huevo",
+        "fr": "ramolli, pour le beurre d'œuf",
+        "ro": "înmuiat, pentru untul de ou"
       }
     }
   ],
@@ -129,7 +173,11 @@
     "count": 9,
     "pieceGrams": 55,
     "shape": {
-      "en": "thin oval hand-pie with a pleated rye crust, about 13cm long"
+      "en": "thin oval hand-pie with a pleated rye crust, about 13cm long",
+      "de": "dünne ovale Handpastete mit gefaltetem Roggenboden, etwa 13 cm lang",
+      "es": "empanada manual ovalada fina con una base de centeno plisada, de unos 13 cm de largo",
+      "fr": "chausson ovale fin avec une croûte de seigle plissée, d'environ 13 cm de long",
+      "ro": "plăcintă manuală ovală subțire cu o crustă de secară plisată, de aproximativ 13 cm lungime"
     }
   },
   "time": {
@@ -169,7 +217,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm the day of baking; reheat gently, or freeze unfilled crusts."
+      "en": "Best warm the day of baking; reheat gently, or freeze unfilled crusts.",
+      "de": "Am besten warm am Backtag; sanft wieder erwärmen oder ungefüllte Böden einfrieren.",
+      "es": "Mejor caliente el día de horneado; recalentar suavemente, o congelar las bases sin relleno.",
+      "fr": "Meilleurs chauds le jour de la cuisson; réchauffer doucement, ou congeler les croûtes non garnies.",
+      "ro": "Cele mai bune calde în ziua coacerii; reîncălzește ușor sau congelează crustele neumplute."
     }
   },
   "equipment": [
@@ -294,7 +346,11 @@
     "site": "Bake Street",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Baker's percentages computed from the crust flour only; the rice filling and egg butter are listed as ingredients but excluded from the flour totals."
+      "en": "Baker's percentages computed from the crust flour only; the rice filling and egg butter are listed as ingredients but excluded from the flour totals.",
+      "de": "Bäckerprozente nur aus dem Bodenmehl berechnet; die Reisfüllung und Eibutter sind als Zutaten aufgeführt, aber von den Mehlsummen ausgeschlossen.",
+      "es": "Porcentajes de panadero calculados solo a partir de la harina de la base; el relleno de arroz y la mantequilla de huevo se enumeran como ingredientes pero se excluyen de los totales de harina.",
+      "fr": "Pourcentages de boulanger calculés à partir de la farine de la croûte seulement; la garniture au riz et le beurre d'œuf sont listés comme ingrédients mais exclus des totaux de farine.",
+      "ro": "Procentele brutarului calculate doar din făina crustei; umplutura de orez și untul de ou sunt listate ca ingrediente dar excluse din totalurile de făină."
     }
   },
   "tags": [

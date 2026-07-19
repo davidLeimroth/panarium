@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Nice (Alpes-Maritimes, Provence)"
+      "en": "Nice (Alpes-Maritimes, Provence)",
+      "de": "Nizza (Alpes-Maritimes, Provence)",
+      "es": "Niza (Alpes-Maritimes, Provenza)",
+      "fr": "Nice (Alpes-Maritimes, Provence)",
+      "ro": "Nisa (Alpes-Maritimes, Provența)"
     },
     "note": {
-      "en": "'Pan bagnat' means 'wet bread' in old Niçois, the name of the finished sandwich, born as portable food for 19th-century fishermen and market workers. This entry is the plain roll itself."
+      "en": "'Pan bagnat' means 'wet bread' in old Niçois, the name of the finished sandwich, born as portable food for 19th-century fishermen and market workers. This entry is the plain roll itself.",
+      "de": "«Pan bagnat» bedeutet auf Alt-Nizzisch «nasses Brot» und ist der Name des fertigen Sandwichs, das im 19. Jahrhundert als Proviant für Fischer und Marktarbeiter entstand. Dieser Eintrag ist das Brötchen selbst.",
+      "es": "«Pan bagnat» significa «pan mojado» en nizardo antiguo, el nombre del sándwich terminado, nacido como comida portátil para pescadores y trabajadores del mercado del siglo XIX. Esta entrada es el panecillo solo.",
+      "fr": "« Pan bagnat » signifie « pain mouillé » en vieux niçois, le nom du sandwich fini, né comme aliment portatif pour les pêcheurs et les travailleurs des halles du XIXe siècle. Cette entrée est le petit pain nature.",
+      "ro": "«Pan bagnat» înseamnă «pâine udă» în niçois veche, numele sandvișului finit, născut ca mâncare portabilă pentru pescari și muncitorii de la piață din secolul al XIX-lea. Această intrare este chifla simplă."
     }
   },
   "leaven": "yeast",
@@ -46,7 +54,11 @@
       "key": "flour:wheat-white",
       "grams": 250,
       "note": {
-        "en": "T55"
+        "en": "T55",
+        "de": "T55",
+        "es": "T55",
+        "fr": "T55",
+        "ro": "T55"
       }
     },
     {
@@ -70,7 +82,11 @@
     "count": 2,
     "pieceGrams": 180,
     "shape": {
-      "en": "round roll, about 20cm"
+      "en": "round roll, about 20cm",
+      "de": "runde Brötchen, etwa 20 cm",
+      "es": "panecillo redondo, de unos 20 cm",
+      "fr": "petit pain rond, environ 20 cm",
+      "ro": "chiflă rotundă, circa 20 cm"
     }
   },
   "time": {
@@ -111,7 +127,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Needs to hold its structure for a day, pan bagnat is famously better the next day once the filling's oil has soaked in."
+      "en": "Needs to hold its structure for a day, pan bagnat is famously better the next day once the filling's oil has soaked in.",
+      "de": "Muss einen Tag lang die Form halten; pan bagnat ist bekanntermaßen am nächsten Tag besser, sobald das Öl der Füllung eingezogen ist.",
+      "es": "Debe mantener su estructura por un día; el pan bagnat es famosamente mejor al día siguiente una vez que el aceite del relleno ha penetrado.",
+      "fr": "Doit tenir sa structure une journée; le pan bagnat est réputé meilleur le lendemain une fois que l'huile de la garniture a imprégné le pain.",
+      "ro": "Trebuie să-și mențină structura o zi; pan bagnat este renumit pentru că este mai bun a doua zi după ce uleiul umpluturii s-a absorbit."
     }
   },
   "equipment": [
@@ -220,7 +240,11 @@
     "site": "MarciaTack",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt increased slightly from the source's volumetric 3g to 5g (2%) for standard French bread-salting practice."
+      "en": "Salt increased slightly from the source's volumetric 3g to 5g (2%) for standard French bread-salting practice.",
+      "de": "Salz leicht erhöht von den volumetrischen 3 g der Quelle auf 5 g (2 %) nach französischer Standardsalzung.",
+      "es": "Sal ligeramente aumentada de los 3 g volumétricos de la fuente a 5 g (2 %) para la práctica estándar francesa de salado.",
+      "fr": "Sel légèrement augmenté des 3 g volumétriques de la source à 5 g (2 %) pour la pratique standard du salage du pain français.",
+      "ro": "Sarea ușor crescută de la 3 g volumetrici ai sursei la 5 g (2 %) conform practicii standard franceze de sărare."
     }
   },
   "tags": [

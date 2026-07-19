@@ -22,10 +22,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "United States (nationwide)"
+      "en": "United States (nationwide)",
+      "de": "Vereinigte Staaten (landesweit)",
+      "es": "Estados Unidos (en todo el país)",
+      "fr": "États-Unis (dans tout le pays)",
+      "ro": "Statele Unite (la nivel național)"
     },
     "note": {
-      "en": "Descends from Scandinavian immigrant sweet-bun baking (kin to Swedish kanelbullar) but grew larger, softer and more heavily iced into its own distinct American bakery-case identity."
+      "en": "Descends from Scandinavian immigrant sweet-bun baking (kin to Swedish kanelbullar) but grew larger, softer and more heavily iced into its own distinct American bakery-case identity.",
+      "de": "Stammt von skandinavischer Einwanderer-Süßbrötchen-Backtradition (verwandt mit schwedischen Kanelbullar) ab, wurde aber größer, weicher und reichhaltiger glasiert zu einer eigenen amerikanischen Bäckereitheken-Identität.",
+      "es": "Desciende de la repostería escandinava de bollos dulces (pariente de los kanelbullar suecos) pero creció más grande, más suave y más glaseado hasta convertirse en una identidad propia de la panadería estadounidense.",
+      "fr": "Descend de la pâtisserie scandinave de petits pains sucrés (cousin des kanelbullar suédois) mais a grandi plus gros, plus moelleux et plus glacé pour devenir une identité propre à la vitrine américaine.",
+      "ro": "Derivă din coacerea scandinavă a chiflelor dulci (rudă cu kanelbullar suedeze) dar a devenit mai mare, mai moale și mai bogat glazurat, căpătând o identitate distinctă în vitrinele americane."
     }
   },
   "leaven": "yeast",
@@ -49,35 +57,55 @@
       "key": "flour:wheat-white",
       "grams": 570,
       "note": {
-        "en": "bread or all-purpose flour, for the dough"
+        "en": "bread or all-purpose flour, for the dough",
+        "de": "Brot- oder Haushaltsmehl, für den Teig",
+        "es": "harina de pan o todo uso, para la masa",
+        "fr": "farine à pain ou tout usage, pour la pâte",
+        "ro": "făină de pâine sau universală, pentru aluat"
       }
     },
     {
       "key": "milk",
       "grams": 250,
       "note": {
-        "en": "warm, for the dough"
+        "en": "warm, for the dough",
+        "de": "warm, für den Teig",
+        "es": "tibia, para la masa",
+        "fr": "tiède, pour la pâte",
+        "ro": "caldă, pentru aluat"
       }
     },
     {
       "key": "sugar",
       "grams": 100,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
       "key": "butter",
       "grams": 115,
       "note": {
-        "en": "softened, for the dough"
+        "en": "softened, for the dough",
+        "de": "weich, für den Teig",
+        "es": "ablandada, para la masa",
+        "fr": "ramolli, pour la pâte",
+        "ro": "moale, pentru aluat"
       }
     },
     {
@@ -92,21 +120,33 @@
       "key": "butter",
       "grams": 115,
       "note": {
-        "en": "softened, for the filling"
+        "en": "softened, for the filling",
+        "de": "weich, für die Füllung",
+        "es": "ablandada, para el relleno",
+        "fr": "ramolli, pour la garniture",
+        "ro": "moale, pentru umplutură"
       }
     },
     {
       "key": "brown-sugar",
       "grams": 130,
       "note": {
-        "en": "packed, for the filling"
+        "en": "packed, for the filling",
+        "de": "festgedrückt, für die Füllung",
+        "es": "compacto, para el relleno",
+        "fr": "tassée, pour la garniture",
+        "ro": "bine împachetat, pentru umplutură"
       }
     },
     {
       "key": "cinnamon",
       "grams": 10,
       "note": {
-        "en": "ground, for the filling"
+        "en": "ground, for the filling",
+        "de": "gemahlen, für die Füllung",
+        "es": "molida, para el relleno",
+        "fr": "moulue, pour la garniture",
+        "ro": "măcinată, pentru umplutură"
       }
     },
     {
@@ -119,28 +159,44 @@
       },
       "grams": 115,
       "note": {
-        "en": "softened, for the icing"
+        "en": "softened, for the icing",
+        "de": "weich, für den Guss",
+        "es": "ablandado, para el glaseado",
+        "fr": "ramolli, pour le glaçage",
+        "ro": "moale, pentru glazură"
       }
     },
     {
       "key": "sugar",
       "grams": 120,
       "note": {
-        "en": "powdered/confectioners', for the icing"
+        "en": "powdered/confectioners', for the icing",
+        "de": "Puderzucker, für den Guss",
+        "es": "azúcar glas, para el glaseado",
+        "fr": "sucre glace, pour le glaçage",
+        "ro": "zahăr pudră, pentru glazură"
       }
     },
     {
       "key": "milk",
       "grams": 15,
       "note": {
-        "en": "or heavy cream, for the icing"
+        "en": "or heavy cream, for the icing",
+        "de": "oder Sahne, für den Guss",
+        "es": "o crema de leche, para el glaseado",
+        "fr": "ou crème liquide entière, pour le glaçage",
+        "ro": "sau smântână lichidă, pentru glazură"
       }
     },
     {
       "key": "vanilla",
       "grams": 2,
       "note": {
-        "en": "for the icing"
+        "en": "for the icing",
+        "de": "für den Guss",
+        "es": "para el glaseado",
+        "fr": "pour le glaçage",
+        "ro": "pentru glazură"
       }
     }
   ],
@@ -148,7 +204,11 @@
     "count": 12,
     "pieceGrams": 118,
     "shape": {
-      "en": "spiral-cut roll, iced"
+      "en": "spiral-cut roll, iced",
+      "de": "spiralgeschnittenes Brötchen, glasiert",
+      "es": "rollo en espiral, glaseado",
+      "fr": "petit pain coupé en spirale, glacé",
+      "ro": "rulou în spirală, glazurat"
     }
   },
   "time": {
@@ -192,7 +252,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best day one; the cream cheese icing means leftovers should be refrigerated rather than left out."
+      "en": "Best day one; the cream cheese icing means leftovers should be refrigerated rather than left out.",
+      "de": "Am besten am ersten Tag; der Frischkäse-Guss bedeutet, dass Reste gekühlt und nicht bei Raumtemperatur aufbewahrt werden sollten.",
+      "es": "Mejor el primer día; el glaseado de queso crema significa que las sobras deben refrigerarse en lugar de dejarse fuera.",
+      "fr": "Meilleur le premier jour; le glaçage au cream cheese signifie que les restes doivent être réfrigérés plutôt que laissés à l'air libre.",
+      "ro": "Cel mai bun în prima zi; glazura de cremă de brânză înseamnă că resturile trebuie refrigerate, nu lăsate afară."
     }
   },
   "equipment": [
@@ -318,7 +382,11 @@
     "site": "Sally's Baking Addiction",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "formula.* covers the dough only; the cinnamon-sugar filling and cream cheese icing are itemized but excluded from the percentages. Salt nudged up slightly from source for balance."
+      "en": "formula.* covers the dough only; the cinnamon-sugar filling and cream cheese icing are itemized but excluded from the percentages. Salt nudged up slightly from source for balance.",
+      "de": "formula.* deckt nur den Teig ab; die Zimt-Zucker-Füllung und der Frischkäse-Guss sind aufgeführt, aber von den Prozentangaben ausgeschlossen. Salz für die Balance leicht gegenüber der Quelle erhöht.",
+      "es": "formula.* cubre solo la masa; el relleno de canela y azúcar y el glaseado de queso crema están detallados pero excluidos de los porcentajes. La sal se incrementó ligeramente respecto a la fuente para equilibrar.",
+      "fr": "formula.* ne couvre que la pâte; la garniture cannelle-sucre et le glaçage au cream cheese sont détaillés mais exclus des pourcentages. Le sel a été légèrement augmenté par rapport à la source pour l'équilibre.",
+      "ro": "formula.* acoperă doar aluatul; umplutura de scorțișoară-zahăr și glazura de cremă de brânză sunt detaliate dar excluse din procente. Sarea a fost ușor crescută față de sursă pentru echilibru."
     }
   },
   "tags": [

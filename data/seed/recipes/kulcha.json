@@ -23,10 +23,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "Punjab (Amritsar), North India"
+      "en": "Punjab (Amritsar), North India",
+      "de": "Punjab (Amritsar), Nordindien",
+      "es": "Punyab (Amritsar), norte de la India",
+      "fr": "Penjab (Amritsar), Inde du Nord",
+      "ro": "Punjab (Amritsar), India de Nord"
     },
     "note": {
-      "en": "Kulcha is a Punjabi original, distinct from naan's Persian tandoor lineage even though both bake in similar ovens today."
+      "en": "Kulcha is a Punjabi original, distinct from naan's Persian tandoor lineage even though both bake in similar ovens today.",
+      "de": "Kulcha ist ein Original aus dem Punjab, eigenständig neben der persischen Tandoor-Tradition des Naan, auch wenn beide heute in ähnlichen Öfen gebacken werden.",
+      "es": "El kulcha es un original panyabí, distinto del linaje persa del tandoor del naan, aunque ambos se horneen hoy en hornos similares.",
+      "fr": "Le kulcha est une spécialité pendjabie, distincte de la lignée persane du tandour du naan, bien que tous deux soient cuits dans des fours similaires aujourd'hui.",
+      "ro": "Kulcha este un original punjabi, distinct de linia persană tandoor a naan-ului, chiar dacă ambele se coc astăzi în cuptoare similare."
     }
   },
   "leaven": "chemical",
@@ -49,21 +57,33 @@
       "key": "flour:wheat-white",
       "grams": 280,
       "note": {
-        "en": "all-purpose flour (maida)"
+        "en": "all-purpose flour (maida)",
+        "de": "Weizenmehl (Maida)",
+        "es": "harina todo uso (maida)",
+        "fr": "farine tout usage (maida)",
+        "ro": "făină universală (maida)"
       }
     },
     {
       "key": "yogurt",
       "grams": 120,
       "note": {
-        "en": "full-fat, room temperature"
+        "en": "full-fat, room temperature",
+        "de": "vollfett, Raumtemperatur",
+        "es": "entero, a temperatura ambiente",
+        "fr": "entier, à température ambiante",
+        "ro": "integral, la temperatura camerei"
       }
     },
     {
       "key": "milk",
       "grams": 60,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -90,7 +110,11 @@
       "key": "butter",
       "grams": 15,
       "note": {
-        "en": "melted, brushed on after cooking"
+        "en": "melted, brushed on after cooking",
+        "de": "geschmolzen, nach dem Backen aufgestrichen",
+        "es": "derretida, untada después de cocinar",
+        "fr": "fondu, badigeonné après cuisson",
+        "ro": "topit, uns după gătire"
       }
     }
   ],
@@ -98,7 +122,11 @@
     "count": 6,
     "pieceGrams": 85,
     "shape": {
-      "en": "6 in (15 cm) disc"
+      "en": "6 in (15 cm) disc",
+      "de": "15-cm-Fladen",
+      "es": "disco de 15 cm",
+      "fr": "disque de 15 cm",
+      "ro": "disc de 15 cm"
     }
   },
   "time": {
@@ -139,7 +167,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best eaten hot off the tawa; reheat on a dry pan. Uncooked dough balls freeze well between parchment."
+      "en": "Best eaten hot off the tawa; reheat on a dry pan. Uncooked dough balls freeze well between parchment.",
+      "de": "Am besten heiß direkt von der Tawa; auf trockener Pfanne aufwärmen. Ungebackene Teiglinge frieren gut zwischen Backpapier ein.",
+      "es": "Mejor comer caliente directamente de la tawa; recalentar en una sartén seca. Las bolas de masa crudas se congelan bien entre papel de horno.",
+      "fr": "Meilleur chaud directement de la tawa; réchauffer à la poêle sèche. Les boules de pâte crues se congèlent bien entre du papier sulfurisé.",
+      "ro": "Cel mai bun fierbinte de pe tawa; reîncălzește într-o tigaie uscată. Bilele de aluat nefiert se congelează bine între hârtie de copt."
     }
   },
   "equipment": [
@@ -232,7 +264,11 @@
     "site": "Swasthi's Recipes",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Simplified to a plain butter kulcha; source's potato-paneer stuffing omitted for a clean bread entry. Hydration treats yogurt like milk at ~88% water per atlas convention."
+      "en": "Simplified to a plain butter kulcha; source's potato-paneer stuffing omitted for a clean bread entry. Hydration treats yogurt like milk at ~88% water per atlas convention.",
+      "de": "Auf einen einfachen Butter-Kulcha reduziert; die Kartoffel-Paneer-Füllung der Quelle für einen reinen Brot-Eintrag weggelassen. Hydration behandelt Joghurt wie Milch mit ~88 % Wasseranteil laut Atlas-Konvention.",
+      "es": "Simplificado a un kulcha de mantequilla simple; se omitió el relleno de papa y paneer de la fuente para una entrada de pan limpia. La hidratación trata el yogur como leche con ~88 % de agua según la convención del atlas.",
+      "fr": "Simplifié en un kulcha au beurre nature; la farce pomme de terre-paneer de la source a été omise pour une entrée de pain épurée. L'hydratation traite le yaourt comme du lait à ~88 % d'eau selon la convention de l'atlas.",
+      "ro": "Simplificat la un kulcha simplu cu unt; umplutura de cartofi-paneer a sursei a fost omisă pentru o intrare de pâine curată. Hidratarea tratează iaurtul ca laptele cu ~88 % apă conform convenției atlasului."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "EG",
     "region": {
-      "en": "Upper Egypt (Sa'id), rural villages"
+      "en": "Upper Egypt (Sa'id), rural villages",
+      "de": "Oberägypten (Sa'id), ländliche Dörfer",
+      "es": "Alto Egipto (Sa'id), pueblos rurales",
+      "fr": "Haute-Égypte (Sa'id), villages ruraux",
+      "ro": "Egiptul de Sus (Sa'id), sate rurale"
     },
     "note": {
-      "en": "Traditional village loaves run up to 50 cm across and are baked to keep for a week or two; fenugreek was long thought to boost the bread's protein and shelf life."
+      "en": "Traditional village loaves run up to 50 cm across and are baked to keep for a week or two; fenugreek was long thought to boost the bread's protein and shelf life.",
+      "de": "Traditionelle Dorfbrote werden bis zu 50 cm groß und gebacken, um ein bis zwei Wochen zu halten; Bockshornklee galt lange als Mittel, um den Proteingehalt und die Haltbarkeit des Brotes zu verbessern.",
+      "es": "Los panes de aldea tradicionales miden hasta 50 cm de diámetro y se hornean para durar una o dos semanas; se creía que el fenogreco aumentaba la proteína y la vida útil del pan.",
+      "fr": "Les pains de village traditionnels atteignent jusqu'à 50 cm de diamètre et sont cuits pour se conserver une à deux semaines; le fenugrec a longtemps été considéré comme un moyen d'augmenter la teneur en protéines et la durée de conservation du pain.",
+      "ro": "Pâinile tradiționale sătești ajung până la 50 cm diametru și se coc pentru a rezista una-două săptămâni; schinduful a fost considerat mult timp că sporește proteinele și durata de păstrare a pâinii."
     }
   },
   "leaven": "yeast",
@@ -53,21 +61,33 @@
       "key": "flour:wheat-white",
       "grams": 313,
       "note": {
-        "en": "hard/strong white flour"
+        "en": "hard/strong white flour",
+        "de": "hartes/starkes Weizenmehl",
+        "es": "harina de trigo blanca fuerte",
+        "fr": "farine de blé blanche forte",
+        "ro": "făină de grâu albă tare"
       }
     },
     {
       "key": "flour:corn",
       "grams": 210,
       "note": {
-        "en": "fine cornflour/maize flour"
+        "en": "fine cornflour/maize flour",
+        "de": "feines Maismehl",
+        "es": "harina fina de maíz",
+        "fr": "farine de maïs fine",
+        "ro": "făină fină de porumb"
       }
     },
     {
       "key": "water",
       "grams": 356,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -78,7 +98,11 @@
       "key": "sugar",
       "grams": 25,
       "note": {
-        "en": "brown sugar"
+        "en": "brown sugar",
+        "de": "brauner Zucker",
+        "es": "azúcar moreno",
+        "fr": "sucre brun",
+        "ro": "zahăr brun"
       }
     },
     {
@@ -95,7 +119,11 @@
       },
       "grams": 1,
       "note": {
-        "en": "dry-roasted before grinding"
+        "en": "dry-roasted before grinding",
+        "de": "trocken geröstet vor dem Mahlen",
+        "es": "tostado en seco antes de moler",
+        "fr": "grillé à sec avant de moudre",
+        "ro": "prăjit uscat înainte de măcinare"
       }
     }
   ],
@@ -103,7 +131,11 @@
     "count": 8,
     "pieceGrams": 100,
     "shape": {
-      "en": "flat round, about 15 cm across"
+      "en": "flat round, about 15 cm across",
+      "de": "flache Runde, etwa 15 cm Durchmesser",
+      "es": "redondo plano, de unos 15 cm de diámetro",
+      "fr": "rond plat, d'environ 15 cm de diamètre",
+      "ro": "rotund plat, de aproximativ 15 cm diametru"
     }
   },
   "time": {
@@ -145,7 +177,11 @@
     "freshDays": 10,
     "freezes": true,
     "note": {
-      "en": "Traditionally kept a week or two in an airtight tin, a legacy of village bread that had to last between bakings."
+      "en": "Traditionally kept a week or two in an airtight tin, a legacy of village bread that had to last between bakings.",
+      "de": "Traditionell ein bis zwei Wochen in einer luftdichten Dose aufbewahrt, ein Erbe des Dorfbrots, das zwischen den Backtagen halten musste.",
+      "es": "Tradicionalmente conservado una o dos semanas en una lata hermética, un legado del pan de aldea que tenía que durar entre horneadas.",
+      "fr": "Traditionnellement conservé une à deux semaines dans une boîte hermétique, un héritage du pain de village qui devait durer entre les cuissons.",
+      "ro": "Păstrat în mod tradițional una-două săptămâni într-o cutie ermetică, o moștenire a pâinii sătești care trebuia să reziste între coaceri."
     }
   },
   "equipment": [
@@ -258,10 +294,10 @@
       },
       "summary": {
         "en": "Bake the trays one after another for 12 to 15 minutes each, until both sides pick up a little color.",
-        "de": "Ein Blech nach dem anderen backen, bis beide Seiten leicht gebräunt sind, 12 bis 15 Minuten.",
-        "es": "Hornear una bandeja a la vez, hasta que doren ligeramente por ambos lados, 12 a 15 minutos.",
-        "fr": "Cuire une plaque à la fois, jusqu'à ce que les deux faces soient légèrement dorées, 12 à 15 minutes.",
-        "ro": "Coace câte o tavă pe rând, până se rumenesc ușor pe ambele părți, 12 până la 15 minute."
+        "de": "Die Bleche nacheinander backen, jeweils 12 bis 15 Minuten, bis beide Seiten leicht Farbe annehmen.",
+        "es": "Hornear las bandejas una tras otra durante 12 a 15 minutos cada una, hasta que ambos lados tomen un poco de color.",
+        "fr": "Cuire les plaques une par une pendant 12 à 15 minutes chacune, jusqu'à ce que les deux côtés soient légèrement colorés.",
+        "ro": "Coace tăvile una după alta, câte 12 până la 15 minute fiecare, până se rumenesc ușor pe ambele părți."
       }
     }
   ],
@@ -270,7 +306,11 @@
     "site": "Edifying Edibles",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/teaspoon quantities converted to grams; corn flour and fenugreek weights estimated; wheat flour taken at the midpoint of the source's 2-3 cup range."
+      "en": "Cup/teaspoon quantities converted to grams; corn flour and fenugreek weights estimated; wheat flour taken at the midpoint of the source's 2-3 cup range.",
+      "de": "Cup-/Teelöffelmengen in Gramm umgerechnet; Maismehl- und Bockshornkleeproben geschätzt; Weizenmehl in der Mitte der Quellenangabe von 2-3 Tassen genommen.",
+      "es": "Cantidades en tazas/cucharaditas convertidas a gramos; pesos de harina de maíz y fenogreco estimados; harina de trigo tomada en el punto medio del rango de 2-3 tazas de la fuente.",
+      "fr": "Quantités en tasses/c. à café converties en grammes; poids de farine de maïs et de fenugrec estimés; farine de blé prise au milieu de la fourchette de 2-3 tasses de la source.",
+      "ro": "Cantitățile în căni/lingurițe convertite în grame; greutățile pentru făina de porumb și schinduf estimate; făina de grâu luată la mijlocul intervalului de 2-3 căni al sursei."
     }
   },
   "tags": [

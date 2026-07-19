@@ -13,18 +13,26 @@
   ],
   "description": {
     "en": "Built entirely on a single high-extraction flour, milled with more bran and germ than white flour but less than full whole wheat. The result: a soft, moist crumb, toasted-grain flavor and a genuinely crackling crust.",
-    "de": "Vollständig aus einem einzigen hochausgemahlenen Mehl gebacken, das mehr Kleie und Keim als Weißmehl enthält, aber weniger als reines Vollkornmehl. Das Ergebnis: eine glänzende, cremige Krume, gerösteter Getreidegeschmack und eine wirklich krachende Kruste.",
-    "es": "Elaborado por completo con una única harina de alta extracción, con más salvado y germen que la harina blanca pero menos que el trigo integral puro. El resultado: una miga brillante y cremosa, sabor a grano tostado y una corteza verdaderamente crujiente.",
-    "fr": "Construit entièrement sur une seule farine à haute extraction, avec plus de son et de germe que la farine blanche mais moins qu'un blé complet intégral. Le résultat: une mie brillante et onctueuse, un goût de grain torréfié et une croûte vraiment craquante.",
-    "ro": "Făcută în întregime dintr-o singură făină cu extracție înaltă, măcinată cu mai multă tărâțe și germeni decât făina albă, dar mai puțin decât grâul integral. Rezultatul: un miez lucios, cremos, gust de cereale prăjite și o coajă cu adevărat crocantă."
+    "de": "Vollständig aus einem einzigen hochausgemahlenen Mehl gebacken, mit mehr Kleie und Keim als Weißmehl, aber weniger als Vollkorn. Das Ergebnis: eine weiche, saftige Krume, gerösteter Getreidegeschmack und eine krachende Kruste.",
+    "es": "Hecha íntegramente con una sola harina de alta extracción, molida con más salvado y germen que la harina blanca pero menos que la integral. El resultado: una miga suave y húmeda, sabor a cereal tostado y una corteza verdaderamente crujiente.",
+    "fr": "Faite entièrement avec une seule farine de haute extraction, moulue avec plus de son et de germe que la farine blanche mais moins que l'intégrale. Résultat: une mie tendre et moelleuse, un goût de céréale toastée et une croûte franchement craquante.",
+    "ro": "Făcută în întregime dintr-o singură făină cu extracție înaltă, măcinată cu mai multă tărâțe și germeni decât făina albă, dar mai puțin decât grâul integral. Rezultatul: un miez moale și umed, gust de cereale prăjite și o coajă cu adevărat crocantă."
   },
   "origin": {
     "country": "US",
     "region": {
-      "en": "Pacific Northwest artisan bakeries"
+      "en": "Pacific Northwest artisan bakeries",
+      "de": "Kunsthandwerkliche Bäckereien im Pazifischen Nordwesten",
+      "es": "Panaderías artesanales del Pacífico Noroeste",
+      "fr": "Boulangeries artisanales du Pacifique Nord-Ouest",
+      "ro": "Brutării artizanale din Pacificul de Nord-Vest"
     },
     "note": {
-      "en": "Built around Cairnspring Mills' stone-milled Trailblazer flour from Washington State; part of the broader high-extraction-flour movement in contemporary American artisan baking."
+      "en": "Built around Cairnspring Mills' stone-milled Trailblazer flour from Washington State; part of the broader high-extraction-flour movement in contemporary American artisan baking.",
+      "de": "Aufgebaut um das Steinmühl-Mehl Trailblazer von Cairnspring Mills aus dem Bundesstaat Washington; Teil der breiteren Hochauszugsmehl-Bewegung im zeitgenössischen amerikanischen Handwerksbacken.",
+      "es": "Construido alrededor de la harina Trailblazer molida a piedra de Cairnspring Mills del estado de Washington; parte del movimiento más amplio de harina de alta extracción en la panadería artesanal estadounidense contemporánea.",
+      "fr": "Construit autour de la farine Trailblazer moulue sur pierre de Cairnspring Mills de l'État de Washington; faisant partie du mouvement plus large de farine à haute extraction dans la boulangerie artisanale américaine contemporaine.",
+      "ro": "Construit în jurul făinii Trailblazer măcinate pe piatră de la Cairnspring Mills din statul Washington; parte a mișcării mai largi a făinii cu extracție înaltă în panificația artizanală americană contemporană."
     }
   },
   "leaven": "sourdough",
@@ -50,7 +58,11 @@
       "key": "flour:wheat-whole",
       "grams": 946,
       "note": {
-        "en": "single high-extraction (Type 85-style) flour, e.g. Cairnspring Trailblazer"
+        "en": "single high-extraction (Type 85-style) flour, e.g. Cairnspring Trailblazer",
+        "de": "einzelnes Hochauszugsmehl (Type 85-Stil), z. B. Cairnspring Trailblazer",
+        "es": "harina única de alta extracción (tipo 85), p. ej. Cairnspring Trailblazer",
+        "fr": "farine unique à haute extraction (type 85), p. ex. Cairnspring Trailblazer",
+        "ro": "făină unică cu extracție înaltă (tip 85), de ex. Cairnspring Trailblazer"
       }
     },
     {
@@ -70,7 +82,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "boule or bâtard"
+      "en": "boule or bâtard",
+      "de": "Boule oder Bâtard",
+      "es": "boule o bâtard",
+      "fr": "boule ou bâtard",
+      "ro": "boule sau bâtard"
     }
   },
   "time": {
@@ -250,7 +266,11 @@
     "author": "Maurizio Leo, from 'The Perfect Loaf' (2022)",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown, since no exact taxonomy match exists for it."
+      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown, since no exact taxonomy match exists for it.",
+      "de": "Hochauszugsmehl als 60/40-Mischung aus Weiß- und Vollkornweizen für die Typschlüsselung der Rezeptur modelliert, da keine genaue taxonomische Entsprechung dafür existiert.",
+      "es": "Harina de alta extracción modelada como una mezcla 60/40 de harina blanca e integral para el desglose de tipos de la fórmula, ya que no existe una coincidencia taxonómica exacta.",
+      "fr": "Farine à haute extraction modélisée comme un mélange 60/40 de farine blanche et complète pour la répartition des types de la formule, car aucune correspondance taxonomique exacte n'existe.",
+      "ro": "Făină cu extracție înaltă modelată ca un amestec 60/40 de făină albă și integrală pentru defalcarea tipurilor, deoarece nu există o potrivire taxonomică exactă."
     }
   },
   "tags": [

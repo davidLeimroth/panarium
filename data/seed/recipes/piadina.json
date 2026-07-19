@@ -22,10 +22,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Romagna (Emilia-Romagna)"
+      "en": "Romagna (Emilia-Romagna)",
+      "de": "Romagna (Emilia-Romagna)",
+      "es": "Romagna (Emilia-Romaña)",
+      "fr": "Romagne (Emilie-Romagne)",
+      "ro": "Romagna (Emilia-Romagna)"
     },
     "note": {
-      "en": "EU-protected as a Protected Geographical Indication (PGI); popularized nationally by poet Giovanni Pascoli and as 1950s roadside street food."
+      "en": "EU-protected as a Protected Geographical Indication (PGI); popularized nationally by poet Giovanni Pascoli and as 1950s roadside street food.",
+      "de": "EU-geschützt als geschützte geografische Angabe (g.g.A.); durch den Dichter Giovanni Pascoli und als Straßenimbiss der 1950er Jahre landesweit bekannt geworden.",
+      "es": "Protegida por la UE como Indicación Geográfica Protegida (IGP); popularizada a nivel nacional por el poeta Giovanni Pascoli y como comida callejera de carretera en los años 1950.",
+      "fr": "Protégée par l'UE en tant qu'Indication Géographique Protégée (IGP) ; popularisée au niveau national par le poète Giovanni Pascoli et comme street food routier dans les années 1950.",
+      "ro": "Protejată de UE ca Indicaţie Geografică Protejată (IGP); popularizată la nivel național de poetul Giovanni Pascoli şi ca mâncare stradală rutieră în anii 1950."
     }
   },
   "leaven": "chemical",
@@ -51,7 +59,11 @@
       "key": "water",
       "grams": 220,
       "note": {
-        "en": "room temperature"
+        "en": "room temperature",
+        "de": "Zimmertemperatur",
+        "es": "temperatura ambiente",
+        "fr": "température ambiante",
+        "ro": "temperatura camerei"
       }
     },
     {
@@ -71,7 +83,11 @@
     "count": 6,
     "pieceGrams": 135,
     "shape": {
-      "en": "thin round, 20-25 cm, 4-5mm thick"
+      "en": "thin round, 20-25 cm, 4-5mm thick",
+      "de": "dünner runder Fladen, 20-25 cm, 4-5 mm dick",
+      "es": "disco redondo fino, 20-25 cm, 4-5 mm de grosor",
+      "fr": "disque rond fin, 20-25 cm, 4-5 mm d'épaisseur",
+      "ro": "disc rotund subțire, 20-25 cm, 4-5 mm grosime"
     }
   },
   "time": {
@@ -112,7 +128,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh off the griddle, folded warm around a filling; keeps a day or two wrapped and reheats well on a dry pan. Freezes raw or cooked."
+      "en": "Best fresh off the griddle, folded warm around a filling; keeps a day or two wrapped and reheats well on a dry pan. Freezes raw or cooked.",
+      "de": "Am besten frisch vom Backblech, warm um eine Füllung gefaltet; hält sich ein bis zwei Tage eingewickelt und lässt sich gut in einer trockenen Pfanne aufwärmen. Friert roh oder gegart ein.",
+      "es": "Mejor fresca de la plancha, doblada caliente alrededor de un relleno; se conserva uno o dos días envuelta y se recalienta bien en una sartén seca. Se congela cruda o cocinada.",
+      "fr": "Meilleur frais de la plaque, plié chaud autour d'une garniture ; se conserve un jour ou deux sous film et se réchauffe bien à la poêle sèche. Congele cuit ou cru.",
+      "ro": "Cel mai bun proaspăt de pe placă, pliat cald în jurul unui umplutură; ţine ună-două zile înfăşurat şi se reincălzeşte bine într-o tigaie uscată. Se congelă crudă sau coaptă."
     }
   },
   "equipment": [
@@ -221,7 +241,11 @@
     "site": "Recipes from Italy",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Lard version used (recipe offers oil or lard); piece weight recalculated from the full ingredient list's total dough weight, since the source's stated per-ball weight didn't match its own quantities."
+      "en": "Lard version used (recipe offers oil or lard); piece weight recalculated from the full ingredient list's total dough weight, since the source's stated per-ball weight didn't match its own quantities.",
+      "de": "Schmalzversion verwendet (Rezept bietet Ol oder Schmalz); Stückgewicht aus dem Gesamtteiggewicht der vollständigen Zutatenliste neu berechnet, da das angegebene Gewicht pro Ball nicht mit den eigenen Mengen der Quelle übereinstimmte.",
+      "es": "Versión con manteca de cerdo utilizada (la receta ofrece aceite o manteca); el peso por pieza recalculado a partir del peso total de la masa de la lista completa de ingredientes, ya que el peso declarado por bola no coincidı́a con sus propias cantidades.",
+      "fr": "Version au saindoux utilisée (la recette propose huile ou saindoux) ; le poids par pièce recalculé à partir du poids total de pâte de la liste complète d'ingrédients, car le poids par boule annoncé ne correspondait pas à ses propres quantités.",
+      "ro": "Versiunea cu untură folosită (rețeta oferă ulei sau untură); greutatea per bucată recalculată din greutatea totală a aluatului din lista completă de ingrediente, deoarece greutatea per bilă declarată nu se potrivea cu propriile cantități ale sursei."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "YE",
     "region": {
-      "en": "Yemenite Jewish communities (Aden), now centered in Israel"
+      "en": "Yemenite Jewish communities (Aden), now centered in Israel",
+      "de": "Jemenitisch-jüdische Gemeinden (Aden), heute schwerpunktmäßig in Israel",
+      "es": "Comunidades judías yemeníes (Adén), ahora centradas en Israel",
+      "fr": "Communautés juives yéménites (Aden), aujourd'hui centrées en Israël",
+      "ro": "Comunități evreiești yemenite (Aden), acum centrate în Israel"
     },
     "note": {
-      "en": "Baked overnight in observance of the Sabbath prohibition on cooking; became a fixture of Israeli cuisine after mass Yemenite Jewish immigration in the 1950s."
+      "en": "Baked overnight in observance of the Sabbath prohibition on cooking; became a fixture of Israeli cuisine after mass Yemenite Jewish immigration in the 1950s.",
+      "de": "Über Nacht gebacken in Einhaltung des Sabbat-Kochverbots; wurde nach der massenhaften jemenitisch-jüdischen Einwanderung in den 1950er Jahren zu einem festen Bestandteil der israelischen Küche.",
+      "es": "Horneado durante la noche en observancia de la prohibición sabática de cocinar; se convirtió en un elemento fijo de la cocina israelí tras la inmigración masiva de judíos yemeníes en la década de 1950.",
+      "fr": "Cuit toute la nuit en observance de l'interdiction de cuire le jour du sabbat; devenu un élément incontournable de la cuisine israélienne après l'immigration massive des juifs yéménites dans les années 1950.",
+      "ro": "Copt peste noapte în respectarea interdicției de gătit de Sabat; a devenit un element fix al bucătăriei israeliene după imigrația în masă a evreilor yemeniți în anii 1950."
     }
   },
   "leaven": "none",
@@ -49,7 +57,11 @@
       "key": "flour:wheat-white",
       "grams": 1040,
       "note": {
-        "en": "all-purpose flour"
+        "en": "all-purpose flour",
+        "de": "Weizenmehl Type 405",
+        "es": "harina de trigo común",
+        "fr": "farine de blé T55",
+        "ro": "făină universală"
       }
     },
     {
@@ -60,7 +72,11 @@
       "key": "sugar",
       "grams": 55,
       "note": {
-        "en": "brown sugar"
+        "en": "brown sugar",
+        "de": "brauner Zucker",
+        "es": "azúcar moreno",
+        "fr": "sucre roux",
+        "ro": "zahăr brun"
       }
     },
     {
@@ -75,7 +91,11 @@
       "key": "butter",
       "grams": 227,
       "note": {
-        "en": "softened, for laminating the sheets"
+        "en": "softened, for laminating the sheets",
+        "de": "weich, zum Schichten der Blätter",
+        "es": "ablandado, para laminar las láminas",
+        "fr": "ramolli, pour le feuilletage des couches",
+        "ro": "înmuiat, pentru laminarea foilor"
       }
     }
   ],
@@ -83,7 +103,11 @@
     "count": 12,
     "pieceGrams": 175,
     "shape": {
-      "en": "rolled log, sliced into pinwheels after baking"
+      "en": "rolled log, sliced into pinwheels after baking",
+      "de": "gerollte Rolle, nach dem Backen in Schnecken geschnitten",
+      "es": "rollo enrollado, cortado en espirales después de hornear",
+      "fr": "bûche roulée, tranchée en spirales après cuisson",
+      "ro": "rulou înfășurat, tăiat în spirale după coacere"
     }
   },
   "time": {
@@ -124,7 +148,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Slices keep well refrigerated and reheat nicely pan-fried or in a low oven; freezes for longer storage."
+      "en": "Slices keep well refrigerated and reheat nicely pan-fried or in a low oven; freezes for longer storage.",
+      "de": "Scheiben halten sich gut gekühlt und lassen sich schön in der Pfanne oder im niedrigen Ofen aufwärmen; zum längeren Aufbewahren einfrierbar.",
+      "es": "Las rodajas se conservan bien refrigeradas y se recalientan bien salteadas en sartén o en horno bajo; se congelan para almacenamiento prolongado.",
+      "fr": "Les tranches se conservent bien au réfrigérateur et se réchauffent bien à la poêle ou au four doux; se congèlent pour une conservation plus longue.",
+      "ro": "Feliile se păstrează bine la frigider și se reîncălzesc frumos în tigaie sau în cuptorul încet; se congelează pentru păstrare mai lungă."
     }
   },
   "equipment": [
@@ -250,7 +278,11 @@
     "site": "Jewish Food Society",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Water amount taken as the midpoint of the source's stated 2½-3 cup range; bread slices used only to line the traditional baking pot are omitted from the ingredient list."
+      "en": "Water amount taken as the midpoint of the source's stated 2½-3 cup range; bread slices used only to line the traditional baking pot are omitted from the ingredient list.",
+      "de": "Wassermenge als Mittelwert der von der Quelle angegebenen Spanne von 2½-3 Tassen gewählt; Brotscheiben, die nur zum Auslegen des traditionellen Backtopfes verwendet werden, von der Zutatenliste ausgeschlossen.",
+      "es": "Cantidad de agua tomada como punto medio del rango de 2½-3 tazas indicado por la fuente; las rebanadas de pan usadas solo para forrar la olla tradicional de horneado se omiten de la lista de ingredientes.",
+      "fr": "Quantité d'eau prise comme point médian de la fourchette de 2½-3 tasses indiquée par la source; les tranches de pain utilisées uniquement pour tapisser le pot de cuisson traditionnel sont omises de la liste des ingrédients.",
+      "ro": "Cantitatea de apă luată ca punct de mijloc al intervalului de 2½-3 căni menționat de sursă; feliile de pâine folosite doar pentru a căptuși oala tradițională de coacere sunt omise din lista de ingrediente."
     }
   },
   "tags": [

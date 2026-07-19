@@ -17,10 +17,18 @@
   "origin": {
     "country": "ES",
     "region": {
-      "en": "Antequera, Málaga, Andalusia"
+      "en": "Antequera, Málaga, Andalusia",
+      "de": "Antequera, Malaga, Andalusien",
+      "es": "Antequera, Malaga, Andalucia",
+      "fr": "Antequera, Malaga, Andalousie",
+      "ro": "Antequera, Malaga, Andaluzia"
     },
     "note": {
-      "en": "IGP since 2020; deliberately underbaked so the crust stays pale and soft rather than crisp, the opposite goal of most bread."
+      "en": "IGP since 2020; deliberately underbaked so the crust stays pale and soft rather than crisp, the opposite goal of most bread.",
+      "de": "g.g.A. seit 2020; absichtlich unterbacken, damit die Kruste blass und weich bleibt statt knusprig, das Gegenteil der Zielsetzung der meisten Brote.",
+      "es": "IGP desde 2020; horneado deliberadamente poco tiempo para que la corteza quede palida y suave en lugar de crujiente, el objetivo opuesto de la mayoria de los panes.",
+      "fr": "IGP depuis 2020; deliberement sous-cuit pour que la croute reste pale et molle plutot que croustillante, l'objectif inverse de la plupart des pains.",
+      "ro": "IGP din 2020; in mod deliberat insuficient copt, astfel incat crusta ramane palida si moale, nu crocanta, opusul scopului majoritatii painilor."
     }
   },
   "leaven": "yeast",
@@ -46,14 +54,22 @@
       "key": "flour:durum",
       "grams": 100,
       "note": {
-        "en": "semolina"
+        "en": "semolina",
+        "de": "Semolina",
+        "es": "semola",
+        "fr": "semoule",
+        "ro": "gris"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 400,
       "note": {
-        "en": "250 g bread flour plus 150 g hard wheat flour"
+        "en": "250 g bread flour plus 150 g hard wheat flour",
+        "de": "250 g Brotmehl plus 150 g Hartweizenmehl",
+        "es": "250 g de harina de pan mas 150 g de harina de trigo duro",
+        "fr": "250 g de farine de pain plus 150 g de farine de ble dur",
+        "ro": "250 g faina de paine plus 150 g faina de grau dur"
       }
     },
     {
@@ -72,7 +88,11 @@
       "key": "instant-yeast",
       "grams": 2,
       "note": {
-        "en": "lyophilized (freeze-dried) yeast"
+        "en": "lyophilized (freeze-dried) yeast",
+        "de": "lyophilisierte (gefriergetrocknete) Hefe",
+        "es": "levadura liofilizada (deshidratada por congelacion)",
+        "fr": "levure lyophilisee (lyophilisee)",
+        "ro": "drojdia liofilizata (deshidratata prin congelare)"
       }
     }
   ],
@@ -80,7 +100,11 @@
     "count": 8,
     "pieceGrams": 110,
     "shape": {
-      "en": "flattened oval roll, pale and barely colored"
+      "en": "flattened oval roll, pale and barely colored",
+      "de": "flaches ovales Brotchen, blass und kaum gebraunt",
+      "es": "bollo ovalado aplanado, palido y apenas coloreado",
+      "fr": "petit pain ovale aplati, pale et a peine colore",
+      "ro": "chifla ovala aplatizata, palida si aproape necolorata"
     }
   },
   "time": {
@@ -121,7 +145,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Meant to be soft and barely baked; day-old molletes are traditionally split and toasted rather than eaten fresh."
+      "en": "Meant to be soft and barely baked; day-old molletes are traditionally split and toasted rather than eaten fresh.",
+      "de": "Soll weich und kaum gebacken sein; eintagige Molletes werden traditionell geteilt und getoastet statt frisch gegessen.",
+      "es": "Disenado para ser suave y apenas horneado; los molletes del dia anterior se parten y tuestan tradicionalmente en lugar de comerse frescos.",
+      "fr": "Concu pour etre mou et a peine cuit; les molletes d'un jour sont traditionnellement fendus et toastes plutot que mangas frais.",
+      "ro": "Menit sa fie moale si abia copt; molletele de o zi se taie si se prajesc in mod traditional, nu se mananca proaspete."
     }
   },
   "equipment": [
@@ -230,7 +258,11 @@
     "site": "El Invitado de Invierno",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams as published for an 8-roll batch; olive oil converted from 50 ml using standard olive oil density."
+      "en": "Grams as published for an 8-roll batch; olive oil converted from 50 ml using standard olive oil density.",
+      "de": "Gramm wie fur eine 8-Brotchen-Charge veroentlicht; Olivenol aus 50 ml mit Standard-Olivenoldichte umgerechnet.",
+      "es": "Gramos segun lo publicado para un lote de 8 piezas; aceite de oliva convertido de 50 ml usando la densidad estandar del aceite de oliva.",
+      "fr": "Grammes tels que publies pour une fournee de 8 petits pains; huile d'olive convertie de 50 ml en utilisant la densite standard de l'huile d'olive.",
+      "ro": "Gramele publicate pentru un lot de 8 chifle; uleiul de masline convertit din 50 ml folosind densitatea standard a uleiului de masline."
     }
   },
   "tags": [

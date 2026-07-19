@@ -21,10 +21,18 @@
   "origin": {
     "country": "MY",
     "region": {
-      "en": "Malaysia & Singapore (Mamak / Indian-Muslim cuisine)"
+      "en": "Malaysia & Singapore (Mamak / Indian-Muslim cuisine)",
+      "de": "Malaysia und Singapur (Mamak / indisch-muslimische Küche)",
+      "es": "Malasia y Singapur (cocina mamak / indo-musulmana)",
+      "fr": "Malaisie et Singapour (cuisine mamak / indo-musulmane)",
+      "ro": "Malaezia și Singapore (bucătărie mamak / indo-musulmană)"
     },
     "note": {
-      "en": "Descended from South Indian paratha traditions brought by Tamil Muslim immigrants; roti canai and Singapore's roti prata are close siblings of the same dough."
+      "en": "Descended from South Indian paratha traditions brought by Tamil Muslim immigrants; roti canai and Singapore's roti prata are close siblings of the same dough.",
+      "de": "Stammt von südindischen Paratha-Traditionen ab, die von tamilisch-muslimischen Einwanderern mitgebracht wurden; Roti Canai und Singapurs Roti Prata sind nahe Verwandte desselben Teigs.",
+      "es": "Descendiente de las tradiciones de paratha del sur de la India traídas por inmigrantes musulmanes tamiles; el roti canai y el roti prata de Singapur son hermanos cercanos de la misma masa.",
+      "fr": "Issu des traditions de paratha du sud de l'Inde apportées par les immigrants musulmans tamouls; le roti canai et le roti prata de Singapour sont des proches parents de la même pâte.",
+      "ro": "Provenit din tradițiile de paratha din sudul Indiei aduse de imigranții musulmani tamili; roti canai și roti prata din Singapore sunt rude apropiate din același aluat."
     }
   },
   "leaven": "none",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-white",
       "grams": 520,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
@@ -58,7 +70,11 @@
       "key": "butter",
       "grams": 40,
       "note": {
-        "en": "melted, in the dough"
+        "en": "melted, in the dough",
+        "de": "geschmolzen, im Teig",
+        "es": "derretida, en la masa",
+        "fr": "fondu, dans la pâte",
+        "ro": "topit, în aluat"
       }
     },
     {
@@ -83,7 +99,11 @@
       "key": "butter",
       "grams": 100,
       "note": {
-        "en": "for coating dough balls and laminating during stretching"
+        "en": "for coating dough balls and laminating during stretching",
+        "de": "zum Bestreichen der Teiglinge und zum Laminieren beim Ausziehen",
+        "es": "para untar las bolas de masa y laminar durante el estirado",
+        "fr": "pour enrober les boules de pâte et laminer pendant l'étirage",
+        "ro": "pentru ungerea bilelor de aluat și laminarea în timpul întinderii"
       }
     }
   ],
@@ -91,7 +111,11 @@
     "count": 10,
     "pieceGrams": 105,
     "shape": {
-      "en": "thin stretched round or square, pan-fried, 20-25 cm"
+      "en": "thin stretched round or square, pan-fried, 20-25 cm",
+      "de": "dünn ausgezogen, rund oder eckig, in der Pfanne gebacken, 20–25 cm",
+      "es": "redondo o cuadrado estirado fino, frito en sartén, 20–25 cm",
+      "fr": "rond ou carré étiré fin, poêlé, 20–25 cm",
+      "ro": "rotund sau pătrat subțire întins, prăjit în tigaie, 20–25 cm"
     }
   },
   "time": {
@@ -132,7 +156,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best hot off the griddle, torn and fluffed by hand; keeps poorly once cool. Uncooked dough balls freeze well and cook straight from frozen, like the common frozen roti canai sold in stores."
+      "en": "Best hot off the griddle, torn and fluffed by hand; keeps poorly once cool. Uncooked dough balls freeze well and cook straight from frozen, like the common frozen roti canai sold in stores.",
+      "de": "Am besten heiß vom Griddle, von Hand gerissen und aufgelockert; hält sich schlecht, sobald es abgekühlt ist. Ungebackene Teiglinge lassen sich gut einfrieren und direkt aus dem Gefrierfach zubereiten, wie die üblichen gefrorenen Roti Canai im Handel.",
+      "es": "Mejor caliente directamente de la plancha, desgarrado y esponjado a mano; se conserva mal una vez frío. Las bolas de masa crudas se congelan bien y se cocinan directamente congeladas, como los roti canai congelados comunes que se venden en las tiendas.",
+      "fr": "Meilleur chaud directement de la plaque, déchiré et aéré à la main; se conserve mal une fois refroidi. Les boules de pâte crues se congèlent bien et cuisent directement surgelées, comme les roti canai surgelés courants vendus en magasin.",
+      "ro": "Cel mai bun fierbinte de pe grătar, rupt și pufos cu mâna; se păstrează prost odată rece. Bilele de aluat necoapte îngheață bine și se coc direct din congelator, ca roti canai-ul congelat obișnuit vândut în magazine."
     }
   },
   "equipment": [
@@ -257,7 +285,11 @@
     "site": "El Mundo Eats",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Lamination butter quantity beyond the dough itself estimated at roughly 100 g across 10 pieces, since the source calls for 'additional butter for coating and cooking' without a fixed amount."
+      "en": "Lamination butter quantity beyond the dough itself estimated at roughly 100 g across 10 pieces, since the source calls for 'additional butter for coating and cooking' without a fixed amount.",
+      "de": "Die Menge an Butter für das Laminieren über den Teig hinaus wurde auf grob 100 g für 10 Stück geschätzt, da die Quelle 'zusätzliche Butter zum Bestreichen und Backen' ohne feste Menge angibt.",
+      "es": "La cantidad de mantequilla para laminar además de la masa se estimó en aproximadamente 100 g para 10 piezas, ya que la fuente indica 'mantequilla adicional para untar y cocinar' sin una cantidad fija.",
+      "fr": "La quantité de beurre de laminage au-delà de la pâte elle-même a été estimée à environ 100 g pour 10 pièces, la source demandant 'du beurre supplémentaire pour enrobage et cuisson' sans quantité fixe.",
+      "ro": "Cantitatea de unt pentru laminare în afara aluatului a fost estimată la aproximativ 100 g pentru 10 bucăți, deoarece sursa menționează 'unt suplimentar pentru ungere și gătire' fără o cantitate fixă."
     }
   },
   "tags": [

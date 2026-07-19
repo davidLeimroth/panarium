@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Provence (Aix-en-Provence, Vallée des Baux)"
+      "en": "Provence (Aix-en-Provence, Vallée des Baux)",
+      "de": "Provence (Aix-en-Provence, Vallée des Baux)",
+      "es": "Provenza (Aix-en-Provence, Vallée des Baux)",
+      "fr": "Provence (Aix-en-Provence, Vallée des Baux)",
+      "ro": "Provence (Aix-en-Provence, Vallée des Baux)"
     },
     "note": {
-      "en": "Said to descend from olive-mill workers enriching the flour used to mop up the last virgin oil from the press with sugar and citrus zest. Central to the Provençal 'treize desserts' Christmas Eve tradition."
+      "en": "Said to descend from olive-mill workers enriching the flour used to mop up the last virgin oil from the press with sugar and citrus zest. Central to the Provençal 'treize desserts' Christmas Eve tradition.",
+      "de": "Soll von Olivenmühlenarbeitern abstammen, die das Mehl, mit dem das letzte native Öl aus der Presse aufgewischt wurde, mit Zucker und Zitrusschalen anreicherten. Zentral für die provenzalische 'Treize Desserts'-Tradition an Heiligabend.",
+      "es": "Se dice que desciende de trabajadores de almazaras que enriquecían la harina usada para absorber el último aceite virgen de la prensa con azúcar y ralladura de cítricos. Central en la tradición provenzal de los 'treize desserts' de Nochebuena.",
+      "fr": "Descendrait des ouvriers des moulins à huile qui enrichissaient avec du sucre et du zeste d'agrumes la farine servant à éponger la dernière huile vierge de la presse. Central dans la tradition provençale des 'treize desserts' de la veillée de Noël.",
+      "ro": "Se spune că provine de la muncitorii din morile de măsline care îmbogățeau cu zahăr și coajă de citrice făina folosită pentru a șterge ultimul ulei virgin din presă. Central în tradiția provensală 'treize desserts' de Ajunul Crăciunului."
     }
   },
   "leaven": "yeast",
@@ -51,7 +59,11 @@
       "key": "water",
       "grams": 220,
       "note": {
-        "en": "estimated from a source described only as 'a glass'"
+        "en": "estimated from a source described only as 'a glass'",
+        "de": "geschätzt aus einer Quelle, die nur als 'ein Glas' beschrieben ist",
+        "es": "estimado de una fuente descrita solo como 'un vaso'",
+        "fr": "estimé d'après une source décrite seulement comme 'un verre'",
+        "ro": "estimat dintr-o sursă descrisă doar ca 'un pahar'"
       }
     },
     {
@@ -83,7 +95,11 @@
     "count": 1,
     "pieceGrams": 900,
     "shape": {
-      "en": "flat disc, about 30cm, slashed"
+      "en": "flat disc, about 30cm, slashed",
+      "de": "flache Scheibe, etwa 30 cm, eingeschnitten",
+      "es": "disco plano, de unos 30 cm, marcado",
+      "fr": "disque plat, environ 30 cm, incisé",
+      "ro": "disc plat, aproximativ 30 cm, crestă"
     }
   },
   "time": {
@@ -124,7 +140,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Traditionally torn by hand rather than cut, an old superstition for luck in the coming year."
+      "en": "Traditionally torn by hand rather than cut, an old superstition for luck in the coming year.",
+      "de": "Traditionell mit der Hand gerissen statt geschnitten, ein alter Aberglaube für Glück im kommenden Jahr.",
+      "es": "Tradicionalmente se parte con la mano en lugar de cortarse, una vieja superstición para tener suerte en el año venidero.",
+      "fr": "Traditionnellement déchiré à la main plutôt que coupé, une vieille superstition pour porter bonheur dans l'année à venir.",
+      "ro": "Tradițional rupt cu mâna în loc de tăiat, o superstiție veche pentru noroc în anul care vine."
     }
   },
   "equipment": [
@@ -233,7 +253,11 @@
     "site": "Aix-en-Provence Tourisme",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Source specified water only as 'a glass'; estimated at 220g."
+      "en": "Source specified water only as 'a glass'; estimated at 220g.",
+      "de": "Quelle gab Wasser nur als 'ein Glas' an; auf 220 g geschätzt.",
+      "es": "La fuente especificó el agua solo como 'un vaso'; estimado en 220 g.",
+      "fr": "La source indiquait l'eau seulement comme 'un verre'; estimé à 220 g.",
+      "ro": "Sursa a specificat apa doar ca 'un pahar'; estimată la 220 g."
     }
   },
   "tags": [

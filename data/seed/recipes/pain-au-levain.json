@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national"
+      "en": "national",
+      "de": "national",
+      "es": "nacional",
+      "fr": "national",
+      "ro": "national"
     },
     "note": {
-      "en": "The pre-industrial way of leavening French bread, kept alive by artisan bakers even as commercial yeast took over most everyday loaves."
+      "en": "The pre-industrial way of leavening French bread, kept alive by artisan bakers even as commercial yeast took over most everyday loaves.",
+      "de": "Die vorindustrielle Art, franzsisches Brot zu treiben, von Handwerksbackern am Leben erhalten, auch als kommerzielle Hefe die meisten Alltagsbrote bernahm.",
+      "es": "La forma preindustrial de fermentar el pan frances, mantenida viva por panaderos artesanales incluso cuando la levadura comercial se apodero de la mayoria de los panes cotidianos.",
+      "fr": "La facon preindustrielle de lever le pain francais, maintenue vivante par les boulangers artisans meme lorsque la levure commerciale a pris le dessus sur la plupart des pains quotidiens.",
+      "ro": "Modul preindustrial de dospire a painii frantuzesti, mentinut viu de brutarii artizanali chiar si atunci cand drojdia comerciala a preluat majoritatea painilor de zi cu zi."
     }
   },
   "leaven": "sourdough",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-white",
       "grams": 525,
       "note": {
-        "en": "T65 tradition flour"
+        "en": "T65 tradition flour",
+        "de": "T65 tradition",
+        "es": "T65 tradition",
+        "fr": "T65 tradition",
+        "ro": "T65 tradition"
       }
     },
     {
@@ -58,7 +70,11 @@
       "key": "levain",
       "grams": 200,
       "note": {
-        "en": "active liquid levain, refreshed 5-7h ahead"
+        "en": "active liquid levain, refreshed 5-7h ahead",
+        "de": "aktiver flssiger Levain, 5-7 Stunden vorher aufgefrischt",
+        "es": "levain liquido activo, refrescado 5-7 h antes",
+        "fr": "levain liquide actif, rafraichi 5-7 h avant",
+        "ro": "levain lichid activ, improspatat cu 5-7 h inainte"
       }
     },
     {
@@ -70,7 +86,11 @@
     "count": 1,
     "pieceGrams": 900,
     "shape": {
-      "en": "large round miche"
+      "en": "large round miche",
+      "de": "gro e runde Miche",
+      "es": "gran miche redonda",
+      "fr": "grande miche ronde",
+      "ro": "miche mare rotunda"
     }
   },
   "time": {
@@ -111,7 +131,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The natural acidity of the levain slows staling well beyond a yeasted white loaf."
+      "en": "The natural acidity of the levain slows staling well beyond a yeasted white loaf.",
+      "de": "Die natrliche Sure des Levains verlangsamt das Altbackenwerden weit ber einen gehefen weien Laib hinaus.",
+      "es": "La acidez natural del levain retrasa el endurecimiento mucho mas que un pan blanco con levadura.",
+      "fr": "L'acidite naturelle du levain ralentit le rassissement bien au-dela d'un pain blanc a la levure.",
+      "ro": "Aciditatea naturala a levain-ului incetineste invechirea mult dincolo de o paine alba cu drojdie."
     }
   },
   "equipment": [
@@ -237,7 +261,11 @@
     "site": "maPatisserie.fr",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Combined the site's 'intermediate' 67%-hydration formula with the levain's own flour/water folded into the totals, giving 72% by Panarium's convention."
+      "en": "Combined the site's 'intermediate' 67%-hydration formula with the levain's own flour/water folded into the totals, giving 72% by Panarium's convention.",
+      "de": "Die 'Zwischen'-Formel der Website mit 67 % Hydratation mit dem eigenen Mehl/Wasser des Levains kombiniert, das in die Gesamtsummen eingerechnet wurde, was nach Panariums Konvention 72 % ergibt.",
+      "es": "Combino la formula 'intermedia' de hidratacion al 67 % del sitio con la harina/agua del levain incorporada a los totales, dando un 72 % segun la convencion de Panarium.",
+      "fr": "Combine la formule 'intermediaire' a 67 % d'hydratation du site avec la farine/eau du levain integree dans les totaux, donnant 72 % selon la convention de Panarium.",
+      "ro": "A combinat formula 'intermediara' cu 67 % hidratare a site-ului cu faina/apa levain-ului incorporata in totaluri, rezultand 72 % conform conventiei Panarium."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "JP",
     "region": {
-      "en": "Nationwide; marketed abroad as Hokkaido milk bread for the region's dairy"
+      "en": "Nationwide; marketed abroad as Hokkaido milk bread for the region's dairy",
+      "de": "Landesweit; im Ausland als Hokkaido-Milchbrot für die Milchwirtschaft der Region vermarktet",
+      "es": "En todo el país; comercializado en el extranjero como pan de leche de Hokkaido por los lácteos de la región",
+      "fr": "Dans tout le pays ; commercialisé à l’étranger comme pain au lait d’Hokkaido pour les produits laitiers de la région",
+      "ro": "În toată țara; comercializat în străinătate ca pâine cu lapte Hokkaido datorită produselor lactate ale regiunii"
     },
     "note": {
-      "en": "Bread itself entered Japan through 16th-century Portuguese traders. The soft, roux-based loaf builds on Japan's own yudane technique; its cousin 'tangzhong' spread internationally under a Chinese name popularized by a Taiwanese cookbook author."
+      "en": "Bread itself entered Japan through 16th-century Portuguese traders. The soft, roux-based loaf builds on Japan's own yudane technique; its cousin 'tangzhong' spread internationally under a Chinese name popularized by a Taiwanese cookbook author.",
+      "de": "Das Brot selbst gelangte durch portugiesische Händler im 16. Jahrhundert nach Japan. Der weiche, mehlschwitzebasierte Laib baut auf Japans eigener Yudane-Technik auf; sein Verwandter „Tangzhong“ verbreitete sich international unter einem chinesischen Namen, der von einer taiwanesischen Kochbuchautorin popularisiert wurde.",
+      "es": "El pan mismo llegó a Japón a través de comerciantes portugueses del siglo XVI. El pan blando basado en roux se basa en la propia técnica yudane de Japón; su primo «tangzhong» se extendió internacionalmente bajo un nombre chino popularizado por una autora taiwanesa de libros de cocina.",
+      "fr": "Le pain lui-même est entré au Japon par les commerçants portugais du XVIe siècle. La miche moelleuse à base de roux s’appuie sur la technique yudane propre au Japon ; son cousin « tangzhong » s’est répandu internationalement sous un nom chinois popularisé par une auteure taïwanaise de livres de cuisine.",
+      "ro": "Pâinea însăși a intrat în Japonia prin comercianții portughezi din secolul al XVI-lea. Pâinea moale pe bază de roux se bazează pe propria tehnică yudane a Japoniei; verișorul său «tangzhong» s-a răspândit internațional sub un nume chinezesc popularizat de o autoare taiwaneză de cărți de bucate."
     }
   },
   "leaven": "yeast",
@@ -50,28 +58,44 @@
       "key": "flour:wheat-white",
       "grams": 314,
       "note": {
-        "en": "bread flour: 14g cooked into the tangzhong, 300g in the final dough"
+        "en": "bread flour: 14g cooked into the tangzhong, 300g in the final dough",
+        "de": "Brotmehl: 14 g in den Tangzhong eingekocht, 300 g im fertigen Teig",
+        "es": "harina de pan: 14 g cocida en el tangzhong, 300 g en la masa final",
+        "fr": "farine à pain : 14 g cuite dans le tangzhong, 300 g dans la pâte finale",
+        "ro": "făină de pâine: 14 g gătită în tangzhong, 300 g în aluatul final"
       }
     },
     {
       "key": "water",
       "grams": 43,
       "note": {
-        "en": "in the tangzhong"
+        "en": "in the tangzhong",
+        "de": "im Tangzhong",
+        "es": "en el tangzhong",
+        "fr": "dans le tangzhong",
+        "ro": "în tangzhong"
       }
     },
     {
       "key": "milk",
       "grams": 156,
       "note": {
-        "en": "whole milk: 43g in the tangzhong, 113g in the dough"
+        "en": "whole milk: 43g in the tangzhong, 113g in the dough",
+        "de": "Vollmilch: 43 g im Tangzhong, 113 g im Teig",
+        "es": "leche entera: 43 g en el tangzhong, 113 g en la masa",
+        "fr": "lait entier : 43 g dans le tangzhong, 113 g dans la pâte",
+        "ro": "lapte integral: 43 g în tangzhong, 113 g în aluat"
       }
     },
     {
       "key": "milk",
       "grams": 14,
       "note": {
-        "en": "Baker's Special dry milk powder, in the dough; not counted toward hydration"
+        "en": "Baker's Special dry milk powder, in the dough; not counted toward hydration",
+        "de": "Baker’s Special Milchpulver, im Teig; nicht zur Hydratation gezählt",
+        "es": "leche en polvo Baker’s Special, en la masa; no contabilizado en la hidratación",
+        "fr": "lait en poudre Baker’s Special, dans la pâte ; non compté dans l’hydratation",
+        "ro": "praf de lapte Baker’s Special, în aluat; nu se numără la hidratare"
       }
     },
     {
@@ -86,21 +110,33 @@
       "key": "instant-yeast",
       "grams": 9,
       "note": {
-        "en": "1 tablespoon"
+        "en": "1 tablespoon",
+        "de": "1 Esslöffel",
+        "es": "1 cucharada",
+        "fr": "1 cuillère à soupe",
+        "ro": "1 lingură"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "1 large egg"
+        "en": "1 large egg",
+        "de": "1 großes Ei",
+        "es": "1 huevo grande",
+        "fr": "1 gros œuf",
+        "ro": "1 ou mare"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "melted, unsalted"
+        "en": "melted, unsalted",
+        "de": "geschmolzen, ungesalzen",
+        "es": "derretida, sin sal",
+        "fr": "fondu, non salé",
+        "ro": "topit, nesărat"
       }
     }
   ],
@@ -108,7 +144,11 @@
     "count": 1,
     "pieceGrams": 640,
     "shape": {
-      "en": "domed pullman loaf, 23x13cm (9x5in) pan"
+      "en": "domed pullman loaf, 23x13cm (9x5in) pan",
+      "de": "gewölbter Pullman-Laib, 23x13 cm Kastenform",
+      "es": "pan de molde pullman abovedado, molde de 23x13 cm",
+      "fr": "pain de mie pullman bombé, moule de 23x13 cm",
+      "ro": "pâine pullman cu boltă, tavă de 23x13 cm"
     }
   },
   "time": {
@@ -151,7 +191,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "The tangzhong keeps it soft far longer than a plain enriched loaf; wrap airtight and it stays pillowy nearly a week, or freeze slices for later toasting."
+      "en": "The tangzhong keeps it soft far longer than a plain enriched loaf; wrap airtight and it stays pillowy nearly a week, or freeze slices for later toasting.",
+      "de": "Der Tangzhong hält es viel länger weich als ein einfacher angereicherter Laib; luftdicht einwickeln und es bleibt fast eine Woche fluffig, oder Scheiben zum späteren Toasten einfrieren.",
+      "es": "El tangzhong lo mantiene suave mucho más tiempo que un pan enriquecido simple; envolver hermético y se mantiene esponjoso casi una semana, o congelar rebanadas para tostar después.",
+      "fr": "Le tangzhong le maintient moelleux bien plus longtemps qu’un pain enrichi ordinaire ; emballer hermétiquement et il reste moelleux presque une semaine, ou congeler des tranches pour les toaster plus tard.",
+      "ro": "Tangzhong-ul îl menține moale mult mai mult decât o pâine îmbogățită simplă; împachetează ermetic și rămâne pufos aproape o săptămână, sau congelează felii pentru prăjit ulterior."
     }
   },
   "equipment": [
@@ -277,7 +321,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased and condensed; egg weight estimated at 50g per large egg; instant yeast converted from 1 tbsp using standard density."
+      "en": "Method paraphrased and condensed; egg weight estimated at 50g per large egg; instant yeast converted from 1 tbsp using standard density.",
+      "de": "Methode umschrieben und zusammengefasst; Eiergewicht auf 50 g pro großes Ei geschätzt; Trockenhefe von 1 EL mit Standarddichte umgerechnet.",
+      "es": "Método parafraseado y condensado; peso del huevo estimado en 50 g por huevo grande; levadura instantánea convertida de 1 cucharada usando densidad estándar.",
+      "fr": "Méthode paraphrasée et condensée ; poids de l’œuf estimé à 50 g par gros œuf ; levure instantanée convertie à partir de 1 cuillère à soupe en utilisant la densité standard.",
+      "ro": "Metodă parafrazată și condensată; greutatea oului estimată la 50 g per ou mare; drojdie instantanee convertită din 1 lingură folosind densitatea standard."
     }
   },
   "tags": [

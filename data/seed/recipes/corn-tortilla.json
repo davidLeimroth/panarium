@@ -22,10 +22,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "Mesoamerica, nationwide Mexico"
+      "en": "Mesoamerica, nationwide Mexico",
+      "de": "Mesoamerika, landesweit Mexiko",
+      "es": "Mesoamérica, en todo México",
+      "fr": "Mésoamérique, dans tout le Mexique",
+      "ro": "Mesoamerica, la nivel național Mexic"
     },
     "note": {
-      "en": "Descended from millennia-old Mesoamerican nixtamalization; the Nahuatl name for the flatbread was tlaxcalli."
+      "en": "Descended from millennia-old Mesoamerican nixtamalization; the Nahuatl name for the flatbread was tlaxcalli.",
+      "de": "Abstammend von jahrtausendealter mesoamerikanischer Nixtamalisation; der Nahuatl-Name für das Fladenbrot war Tlaxcalli.",
+      "es": "Descendiente de la milenaria nixtamalización mesoamericana; el nombre náhuatl del pan plano era tlaxcalli.",
+      "fr": "Issu de la nixtamalisation mésoaméricaine millénaire; le nom nahuatl du pain plat était tlaxcalli.",
+      "ro": "Descendent al nixtamalizării mezoamericane milenare; numele nahuatl al pâinii plate era tlaxcalli."
     }
   },
   "leaven": "none",
@@ -46,21 +54,33 @@
       "key": "flour:corn",
       "grams": 120,
       "note": {
-        "en": "masa harina; dehydrated, nixtamalized corn masa flour"
+        "en": "masa harina; dehydrated, nixtamalized corn masa flour",
+        "de": "Masa Harina; dehydriertes, nixtamalisiertes Maismehl",
+        "es": "masa harina; harina de maíz nixtamalizada deshidratada",
+        "fr": "masa harina; farine de maïs nixtamalisée déshydratée",
+        "ro": "masa harina; făină de porumb nixtamalizată deshidratată"
       }
     },
     {
       "key": "water",
       "grams": 200,
       "note": {
-        "en": "warm, about 38°C"
+        "en": "warm, about 38°C",
+        "de": "warm, etwa 38°C",
+        "es": "tibia, aproximadamente 38°C",
+        "fr": "tiède, environ 38°C",
+        "ro": "caldă, aproximativ 38°C"
       }
     },
     {
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "optional"
+        "en": "optional",
+        "de": "optional",
+        "es": "opcional",
+        "fr": "facultatif",
+        "ro": "opțional"
       }
     }
   ],
@@ -68,7 +88,11 @@
     "count": 8,
     "pieceGrams": 40,
     "shape": {
-      "en": "thin 6 in (15 cm) round"
+      "en": "thin 6 in (15 cm) round",
+      "de": "dünn, rund, 15 cm",
+      "es": "redonda fina de 15 cm",
+      "fr": "rond fin de 15 cm",
+      "ro": "rotund subțire de 15 cm"
     }
   },
   "time": {
@@ -108,7 +132,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh and warm off the comal; once cooled it turns leathery quickly but softens again on a hot dry skillet. Refrigerates a few days or freezes stacked with parchment."
+      "en": "Best fresh and warm off the comal; once cooled it turns leathery quickly but softens again on a hot dry skillet. Refrigerates a few days or freezes stacked with parchment.",
+      "de": "Am besten frisch und warm vom Comal; abgekühlt wird es schnell ledrig, wird aber auf einer heißen trockenen Pfanne wieder weich. Hält sich im Kühlschrank einige Tage oder lässt sich mit Backpapier gestapelt einfrieren.",
+      "es": "Mejor fresco y caliente saliendo del comal; una vez frío se vuelve correoso rápidamente pero se ablanda de nuevo en una sartén caliente seca. Se refrigera unos días o se congela apilado con papel vegetal.",
+      "fr": "Meilleur frais et chaud à la sortie du comal; une fois refroidi il devient vite coriace mais ramollit à nouveau sur une poêle chaude et sèche. Se réfrigère quelques jours ou se congèle empilé avec du papier sulfurisé.",
+      "ro": "Cel mai bun proaspăt și cald de pe comal; odată răcit devine rapid pielos, dar se înmoaie din nou pe o tigaie fierbinte uscată. Se refrigeră câteva zile sau se congelează stivuit cu hârtie de copt."
     }
   },
   "equipment": [
@@ -233,7 +261,11 @@
     "site": "Masienda",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Yield reconciled to the stated ~40 g dough balls (8 tortillas) rather than the source's separately claimed count of 10, since the two figures were inconsistent with the given dough weight."
+      "en": "Yield reconciled to the stated ~40 g dough balls (8 tortillas) rather than the source's separately claimed count of 10, since the two figures were inconsistent with the given dough weight.",
+      "de": "Ergiebigkeit mit den angegebenen etwa 40 g Teigbällchen (8 Tortillas) in Einklang gebracht, nicht mit der separat genannten Anzahl von 10, da die beiden Angaben mit dem gegebenen Teiggewicht nicht konsistent waren.",
+      "es": "Rendimiento reconciliado con las bolas de masa declaradas de aproximadamente 40 g (8 tortillas), no con el recuento de 10 afirmado por separado, ya que ambas cifras eran inconsistentes con el peso de masa dado.",
+      "fr": "Rendement reconcilié avec les boules de pâte déclarées d'environ 40 g (8 tortillas) plutôt qu'avec le compte de 10 revendiqué séparément par la source, car les deux chiffres étaient incohérents avec le poids de pâte donné.",
+      "ro": "Randamentul reconciliat cu bilele de aluat declarate de aproximativ 40 g (8 tortilla), nu cu numărul de 10 menționat separat de sursă, deoarece cele două cifre erau inconsistente cu greutatea aluatului dată."
     }
   },
   "tags": [

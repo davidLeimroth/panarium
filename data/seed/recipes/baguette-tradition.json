@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national"
+      "en": "national",
+      "de": "landesweit",
+      "es": "nacional",
+      "fr": "national",
+      "ro": "național"
     },
     "note": {
-      "en": "Legally defined since a 1993 decree: 'baguette de tradition française' may contain only wheat flour, water, salt and leavening, no additives, no freezing during production."
+      "en": "Legally defined since a 1993 decree: 'baguette de tradition française' may contain only wheat flour, water, salt and leavening, no additives, no freezing during production.",
+      "de": "Seit einem Dekret von 1993 gesetzlich definiert: 'Baguette de tradition française' darf nur Weizenmehl, Wasser, Salz und Triebmittel enthalten, keine Zusätze, kein Einfrieren während der Herstellung.",
+      "es": "Definido legalmente desde un decreto de 1993: la 'baguette de tradition française' solo puede contener harina de trigo, agua, sal y levadura, sin aditivos ni congelación durante la producción.",
+      "fr": "Défini légalement depuis un décret de 1993: la 'baguette de tradition française' ne doit contenir que farine de blé, eau, sel et levain, sans additifs, sans congélation pendant la production.",
+      "ro": "Definit legal de la un decret din 1993: 'baguette de tradition française' poate conține doar făină de grâu, apă, sare și agent de creștere, fără aditivi, fără congelare în timpul producției."
     }
   },
   "leaven": "hybrid",
@@ -48,7 +56,11 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "T65 tradition flour"
+        "en": "T65 tradition flour",
+        "de": "T65 Tradition Mehl",
+        "es": "harina T65 tradition",
+        "fr": "farine T65 tradition",
+        "ro": "făină T65 tradition"
       }
     },
     {
@@ -59,7 +71,11 @@
       "key": "levain",
       "grams": 100,
       "note": {
-        "en": "active liquid levain"
+        "en": "active liquid levain",
+        "de": "aktiver flüssiger Levain",
+        "es": "levain líquido activo",
+        "fr": "levain liquide actif",
+        "ro": "levain lichid activ"
       }
     },
     {
@@ -75,7 +91,11 @@
     "count": 3,
     "pieceGrams": 260,
     "shape": {
-      "en": "long baguette"
+      "en": "long baguette",
+      "de": "lange Baguette",
+      "es": "baguette larga",
+      "fr": "baguette longue",
+      "ro": "baghetă lungă"
     }
   },
   "time": {
@@ -116,7 +136,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Famously fast to stale; best the day it's baked. Freeze and re-crisp in a hot oven if needed."
+      "en": "Famously fast to stale; best the day it's baked. Freeze and re-crisp in a hot oven if needed.",
+      "de": "Berüchtigt dafür, schnell altbacken zu werden; am besten am Backtag. Bei Bedarf einfrieren und im heißen Ofen wieder knusprig machen.",
+      "es": "Famosamente se pone duro rápidamente; mejor el día de horneado. Congelar y recrispar en horno caliente si es necesario.",
+      "fr": "Célèbre pour rassir vite; meilleur le jour de la cuisson. Congeler et recroustiller au four chaud si nécessaire.",
+      "ro": "Faimos pentru cât de repede se învechește; cel mai bun în ziua coacerii. Congelează și re-crocant în cuptorul fierbinte dacă e nevoie."
     }
   },
   "equipment": [
@@ -242,7 +266,11 @@
     "site": "La boîte à pain",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages recomputed to include the levain's own flour and water in the baker's-percentage totals."
+      "en": "Percentages recomputed to include the levain's own flour and water in the baker's-percentage totals.",
+      "de": "Prozentsätze neu berechnet, um das Mehl und Wasser des Levains in die Bäckerprozent-Gesamtsummen einzubeziehen.",
+      "es": "Porcentajes recalculados para incluir la harina y el agua del levain en los totales de porcentajes del panadero.",
+      "fr": "Pourcentages recalculés pour inclure la farine et l'eau du levain dans les totaux des pourcentages du boulanger.",
+      "ro": "Procentajele recalculate pentru a include făina și apa levain-ului în totalurile procentelor brutarului."
     }
   },
   "tags": [

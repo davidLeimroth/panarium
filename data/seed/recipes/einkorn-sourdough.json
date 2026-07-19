@@ -22,10 +22,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this long-fermented sourdough treatment of it is a 21st-century artisan-bakery revival, not a historical recipe."
+      "en": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this long-fermented sourdough treatment of it is a 21st-century artisan-bakery revival, not a historical recipe.",
+      "de": "Einkorn ist der älteste domestizierte Weizen, erstmals angebaut im Fruchtbaren Halbmond; diese langfermentierte Sauerteigbehandlung ist eine Wiederbelebung des 21. Jahrhunderts aus Handwerksbäckereien, kein historisches Rezept.",
+      "es": "El einkorn es el trigo domesticado más antiguo, cultivado por primera vez en el Creciente Fértil; este tratamiento de masa madre de larga fermentación es un resurgir del siglo XXI en panaderías artesanales, no una receta histórica.",
+      "fr": "L'engrain est le blé domestiqué le plus ancien, cultivé pour la première fois au Croissant Fertile; ce traitement au levain longue fermentation est une renaissance du XXIe siècle dans les boulangeries artisanales, pas une recette historique.",
+      "ro": "Einkornul este cel mai vechi grâu domesticit, cultivat pentru prima dată în Semiluna Fertilă; acest tratament cu maia cu fermentație lungă este o renaștere din secolul XXI în brutăriile artizanale, nu o rețetă istorică."
     }
   },
   "leaven": "sourdough",
@@ -47,7 +55,11 @@
       "key": "flour:einkorn",
       "grams": 1105,
       "note": {
-        "en": "all-purpose einkorn flour"
+        "en": "all-purpose einkorn flour",
+        "de": "helles Einkornmehl",
+        "es": "harina común de einkorn",
+        "fr": "farine d'engrain tout usage",
+        "ro": "făină de einkorn universală"
       }
     },
     {
@@ -58,7 +70,11 @@
       "key": "sourdough-starter",
       "grams": 39,
       "note": {
-        "en": "100% hydration, to build the stiff levain"
+        "en": "100% hydration, to build the stiff levain",
+        "de": "100 % Hydratation, für den festen Levain",
+        "es": "100 % de hidratación, para construir el levain firme",
+        "fr": "100 % d'hydratation, pour construire le levain ferme",
+        "ro": "100 % hidratare, pentru a construi levain-ul ferm"
       }
     },
     {
@@ -70,7 +86,11 @@
     "count": 2,
     "pieceGrams": 950,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule (Kugel)",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {
@@ -111,7 +131,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best within the first 2-3 days; einkorn's delicate crumb dries out a little faster than modern wheat."
+      "en": "Best within the first 2-3 days; einkorn's delicate crumb dries out a little faster than modern wheat.",
+      "de": "Am besten innerhalb der ersten 2-3 Tage; Einkorns zarte Krume trocknet etwas schneller aus als moderner Weizen.",
+      "es": "Mejor dentro de los primeros 2-3 días; la miga delicada del einkorn se seca un poco más rápido que el trigo moderno.",
+      "fr": "Meilleur dans les 2-3 premiers jours; la mie délicate de l'engrain sèche un peu plus vite que le blé moderne.",
+      "ro": "Cel mai bun în primele 2-3 zile; miezul delicat al einkornului se usucă puțin mai repede decât grâul modern."
     }
   },
   "equipment": [
@@ -254,7 +278,11 @@
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages recomputed to include levain flour/water in the 100% flour base per house convention."
+      "en": "Percentages recomputed to include levain flour/water in the 100% flour base per house convention.",
+      "de": "Prozente neu berechnet, um Mehl und Wasser des Levains in die 100-%-Mehlbasis einzubeziehen, gemäß Hauskonvention.",
+      "es": "Porcentajes recalculados para incluir la harina y el agua del levain en la base de 100 % de harina según la convención de la casa.",
+      "fr": "Pourcentages recalculés pour inclure la farine et l'eau du levain dans la base de 100 % de farine selon la convention maison.",
+      "ro": "Procentele recalculate pentru a include făina și apa levain-ului în baza de 100 % făină, conform convenției casei."
     }
   },
   "tags": [

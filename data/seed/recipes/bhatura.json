@@ -22,10 +22,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "Punjab, North India"
+      "en": "Punjab, North India",
+      "de": "Punjab, Nordindien",
+      "es": "Punyab, norte de la India",
+      "fr": "Penjab, Inde du Nord",
+      "ro": "Punjab, nordul Indiei"
     },
     "note": {
-      "en": "The classic partner of chole (spiced chickpeas); yeast is a modern shortcut, the traditional rise comes only from fermented yogurt and a long rest."
+      "en": "The classic partner of chole (spiced chickpeas); yeast is a modern shortcut, the traditional rise comes only from fermented yogurt and a long rest.",
+      "de": "Der klassische Begleiter von Chole (gewürzte Kichererbsen); Hefe ist ein moderner Trick, die traditionelle Triebkraft kommt nur aus fermentiertem Joghurt und langer Ruhezeit.",
+      "es": "El acompañante clásico del chole (garbanzos especiados); la levadura es un atajo moderno, el levado tradicional proviene solo del yogur fermentado y un largo reposo.",
+      "fr": "L'accompagnement classique du chole (pois chiches épicés); la levure est un raccourci moderne, la pousse traditionnelle vient uniquement du yaourt fermenté et d'un long repos.",
+      "ro": "Partenerul clasic al chole (năut condimentat); drojdia este o scurtătură modernă, creșterea tradițională provine doar din iaurt fermentat și o odihnă lungă."
     }
   },
   "leaven": "chemical",
@@ -52,28 +60,44 @@
       "key": "flour:wheat-white",
       "grams": 250,
       "note": {
-        "en": "all-purpose flour (maida)"
+        "en": "all-purpose flour (maida)",
+        "de": "Weizenmehl Type 405 (Maida)",
+        "es": "harina de todo uso (maida)",
+        "fr": "farine standard (maida)",
+        "ro": "făină obișnuită (maida)"
       }
     },
     {
       "key": "flour:durum",
       "grams": 20,
       "note": {
-        "en": "fine semolina (sooji)"
+        "en": "fine semolina (sooji)",
+        "de": "feiner Grieß (Sooji)",
+        "es": "sémola fina (sooji)",
+        "fr": "semoule fine (sooji)",
+        "ro": "griș fin (sooji)"
       }
     },
     {
       "key": "yogurt",
       "grams": 60,
       "note": {
-        "en": "full-fat"
+        "en": "full-fat",
+        "de": "vollfett",
+        "es": "entero",
+        "fr": "entier",
+        "ro": "integral"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 13.5,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
@@ -96,14 +120,22 @@
       "key": "water",
       "grams": 110,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 65,
       "note": {
-        "en": "for deep-frying; amount absorbed is estimated"
+        "en": "for deep-frying; amount absorbed is estimated",
+        "de": "zum Frittieren; aufgenommene Menge ist geschätzt",
+        "es": "para freír; la cantidad absorbida es estimada",
+        "fr": "pour la friture; la quantité absorbée est estimée",
+        "ro": "pentru prăjire în baie de ulei; cantitatea absorbită este estimată"
       }
     }
   ],
@@ -111,7 +143,11 @@
     "count": 8,
     "pieceGrams": 66,
     "shape": {
-      "en": "6-7 in (15-18 cm) fried oval"
+      "en": "6-7 in (15-18 cm) fried oval",
+      "de": "frittierte Ovale von 15-18 cm",
+      "es": "óvalo frito de 15-18 cm",
+      "fr": "ovale frit de 15-18 cm",
+      "ro": "oval prăjit de 15-18 cm"
     }
   },
   "time": {
@@ -152,7 +188,11 @@
     "freshDays": 0.5,
     "freezes": true,
     "note": {
-      "en": "Eats best minutes after frying while still puffed; deflates and toughens once cold. Shaped raw dough balls freeze well before frying."
+      "en": "Eats best minutes after frying while still puffed; deflates and toughens once cold. Shaped raw dough balls freeze well before frying.",
+      "de": "Schmeckt am besten Minuten nach dem Frittieren, solange noch aufgebläht; fällt zusammen und wird zäh, sobald es kalt ist. Geformte rohe Teigbällchen lassen sich vor dem Frittieren gut einfrieren.",
+      "es": "Se come mejor minutos después de freír mientras aún está inflado; se desinfla y endurece una vez frío. Las bolas de masa cruda moldeadas se congelan bien antes de freír.",
+      "fr": "Se déguste idéalement quelques minutes après la friture, encore gonflé; se dégonfle et durcit en refroidissant. Les boules de pâte crue façonnées se congèlent bien avant la friture.",
+      "ro": "Se mănâncă cel mai bine la câteva minute după prăjire, cât este încă umflat; se dezumflă și se întărește odată rece. Bilele de aluat crud modelate se congelează bine înainte de prăjire."
     }
   },
   "equipment": [
@@ -169,10 +209,10 @@
       },
       "summary": {
         "en": "Whisk flour, semolina and salt, work in yogurt and oil, stir in baking powder and soda, then work in warm water to a soft, elastic dough; knead about 5 minutes.",
-        "de": "Mehl, Grieß und Salz verquirlen, Joghurt und Öl einarbeiten, Backpulver und Natron einrühren, dann nach und nach warmes Wasser zu einem weichen, elastischen Teig zugeben; etwa 5 Minuten kneten.",
-        "es": "Batir la harina, la sémola y la sal, incorporar el yogur y el aceite, añadir la levadura en polvo y el bicarbonato, luego agregar agua tibia poco a poco hasta lograr una masa blanda y elástica; amasar unos 5 minutos.",
-        "fr": "Fouetter la farine, la semoule et le sel, incorporer le yaourt et l'huile, ajouter la levure chimique et le bicarbonate, puis verser l'eau tiède peu à peu pour une pâte souple et élastique; pétrir environ 5 minutes.",
-        "ro": "Amestecă făina, grișul și sarea, încorporează iaurtul și uleiul, adaugă praful de copt și bicarbonatul, apoi toarnă apă călduță treptat până obții un aluat moale, elastic; frământă circa 5 minute."
+        "de": "Mehl, Grieß und Salz verquirlen, Joghurt und Öl einarbeiten, Backpulver und Natron einrühren, dann warmes Wasser zu einem weichen, elastischen Teig zugeben; etwa 5 Minuten kneten.",
+        "es": "Batir la harina, la sémola y la sal, incorporar el yogur y el aceite, añadir el polvo de hornear y el bicarbonato, luego agregar agua tibia hasta obtener una masa suave y elástica; amasar unos 5 minutos.",
+        "fr": "Fouetter la farine, la semoule et le sel, incorporer le yaourt et l'huile, ajouter la levure chimique et le bicarbonate, puis ajouter de l'eau tiède pour obtenir une pâte molle et élastique; pétrir environ 5 minutes.",
+        "ro": "Amestecă făina, grișul și sarea, încorporează iaurtul și uleiul, adaugă praful de copt și bicarbonatul, apoi toarnă apă călduță până obții un aluat moale și elastic; frământă circa 5 minute."
       }
     },
     {
@@ -261,7 +301,11 @@
     "site": "Swasthi's Recipes",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Used baking soda/powder rather than fruit-salt (Eno) to fit the taxonomy; frying-oil absorption estimated per convention; salt increased slightly from the source's very light 1/4 tsp."
+      "en": "Used baking soda/powder rather than fruit-salt (Eno) to fit the taxonomy; frying-oil absorption estimated per convention; salt increased slightly from the source's very light 1/4 tsp.",
+      "de": "Natron/Backpulver statt Fruchtsalz (Eno) verwendet, um zur Taxonomie zu passen; Frittierölaufnahme nach Konvention geschätzt; Salz gegenüber der sehr leichten 1/4 TL des Originals leicht erhöht.",
+      "es": "Se usó bicarbonato/polvo de hornear en lugar de sal de fruta (Eno) para ajustarse a la taxonomía; absorción de aceite de fritura estimada por convención; sal ligeramente aumentada respecto a la muy ligera 1/4 cucharadita de la fuente.",
+      "fr": "Bicarbonate/levure chimique utilisés plutôt que du sel de fruit (Eno) pour correspondre à la taxonomie; absorption d'huile de friture estimée par convention; sel légèrement augmenté par rapport au 1/4 c. à café très léger de la source.",
+      "ro": "Bicarbonat/praf de copt folosit în loc de sare de fructe (Eno) pentru a se potrivi taxonomiei; absorbția uleiului de prăjire estimată conform convenției; sarea ușor crescută față de 1/4 linguriță foarte ușoară a sursei."
     }
   },
   "tags": [

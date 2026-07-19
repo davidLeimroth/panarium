@@ -20,10 +20,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Westphalia (Westfalen)"
+      "en": "Westphalia (Westfalen)",
+      "de": "Westfalen",
+      "es": "Westfalia",
+      "fr": "Westphalie",
+      "ro": "Westfalia"
     },
     "note": {
-      "en": "Traditionally just rye meal, water and salt; the color and sweetness come entirely from the long, low bake, not from added sugar or molasses."
+      "en": "Traditionally just rye meal, water and salt; the color and sweetness come entirely from the long, low bake, not from added sugar or molasses.",
+      "de": "Traditionell nur Roggenschrot, Wasser und Salz; die Farbe und Süße kommen vollständig vom langen, niedrigen Backen, nicht von zugesetztem Zucker oder Melasse.",
+      "es": "Tradicionalmente solo harina de centeno, agua y sal; el color y el dulzor provienen enteramente del horneado largo y bajo, no de azúcar o melaza añadidos.",
+      "fr": "Traditionnellement seulement farine de seigle, eau et sel; la couleur et le sucré viennent entièrement de la cuisson longue et à basse température, pas du sucre ou de la mélasse ajoutés.",
+      "ro": "Tradițional doar mălai de secară, apă și sare; culoarea și dulceața provin în întregime de la coacerea lungă la temperatură scăzută, nu de la zahăr sau melasă adăugate."
     }
   },
   "leaven": "sourdough",
@@ -44,7 +52,11 @@
       "key": "flour:rye-whole",
       "grams": 1050,
       "note": {
-        "en": "coarse/medium whole rye meal (Roggenschrot)"
+        "en": "coarse/medium whole rye meal (Roggenschrot)",
+        "de": "grob/mittlerer Vollkornrogenschrot (Roggenschrot)",
+        "es": "harina de centeno integral gruesa/media (Roggenschrot)",
+        "fr": "farine de seigle complète grosse/moyenne (Roggenschrot)",
+        "ro": "mălai de secară integral gros/mediu (Roggenschrot)"
       }
     },
     {
@@ -59,7 +71,11 @@
       "key": "sourdough-starter",
       "grams": 50,
       "note": {
-        "en": "active rye starter"
+        "en": "active rye starter",
+        "de": "aktiver Roggensauerteigstarter",
+        "es": "masa madre de centeno activa",
+        "fr": "levain de seigle actif",
+        "ro": "maia activă de secară"
       }
     }
   ],
@@ -67,7 +83,11 @@
     "count": 1,
     "pieceGrams": 1900,
     "shape": {
-      "en": "pullman/lidded tin loaf"
+      "en": "pullman/lidded tin loaf",
+      "de": "Pullman-/Kastenformbrot mit Deckel",
+      "es": "pan de molde Pullman con tapa",
+      "fr": "pain de moule Pullman couvert",
+      "ro": "pâine de formă Pullman cu capac"
     }
   },
   "time": {
@@ -108,7 +128,11 @@
     "freshDays": 14,
     "freezes": true,
     "note": {
-      "en": "Keeps unusually long thanks to the dense crumb and low residual sugars; slice thin."
+      "en": "Keeps unusually long thanks to the dense crumb and low residual sugars; slice thin.",
+      "de": "Hält sich ungewöhnlich lange dank der dichten Krume und der geringen Restzucker; dünn schneiden.",
+      "es": "Se conserva inusualmente largo gracias a la miga densa y los bajos azúcares residuales; cortar fino.",
+      "fr": "Se conserve exceptionnellement longtemps grâce à la mie dense et aux faibles sucres résiduels; trancher fin.",
+      "ro": "Se păstrează neobișnuit de mult datorită miezului dens și zaharurilor reziduale scăzute; tăiați subțire."
     }
   },
   "equipment": [
@@ -201,7 +225,11 @@
     "site": "kleineprise.de",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Home-style simplified version; some traditional Westphalian pumpernickel recipes ferment longer before the long low-temperature bake."
+      "en": "Home-style simplified version; some traditional Westphalian pumpernickel recipes ferment longer before the long low-temperature bake.",
+      "de": "Hausgemachte vereinfachte Version; einige traditionelle westfälische Pumpernickel-Rezepte fermentieren länger vor dem langen Niedrigtemperatur-Backen.",
+      "es": "Versión simplificada casera; algunas recetas tradicionales de pumpernickel westfaliano fermentan más tiempo antes del horneado largo a baja temperatura.",
+      "fr": "Version simplifiée maison; certaines recettes traditionnelles de pumpernickel westphalien fermentent plus longtemps avant la cuisson longue à basse température.",
+      "ro": "Versiune simplificată de casă; unele rețete tradiționale de pumpernickel westfalian fermentează mai mult înainte de coacerea lungă la temperatură scăzută."
     }
   },
   "tags": [

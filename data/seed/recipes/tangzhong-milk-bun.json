@@ -21,10 +21,18 @@
   "origin": {
     "country": "CN",
     "region": {
-      "en": "China and Taiwan; common across East and Southeast Asian bakeries today"
+      "en": "China and Taiwan; common across East and Southeast Asian bakeries today",
+      "de": "China und Taiwan; heute in ganz Ost- und Südostasien in Bäckereien verbreitet",
+      "es": "China y Taiwán; común hoy en panaderías de Asia Oriental y Sudeste Asiático",
+      "fr": "Chine et Taïwan; courant dans les boulangeries d'Asie de l'Est et du Sud-Est aujourd'hui",
+      "ro": "China și Taiwan; comun astăzi în brutăriile din Asia de Est și de Sud-Est"
     },
     "note": {
-      "en": "The tangzhong (water roux) technique was popularized internationally by Taiwanese cookbook author Yvonne Chen's '65°C Bread Doctor'."
+      "en": "The tangzhong (water roux) technique was popularized internationally by Taiwanese cookbook author Yvonne Chen's '65°C Bread Doctor'.",
+      "de": "Die Tangzhong-(Wasserroux-)Technik wurde international durch das Buch 65°C Bread Doctor der taiwanesischen Kochbuchautorin Yvonne Chen populär gemacht.",
+      "es": "La técnica del tangzhong (roux de agua) fue popularizada internacionalmente por el libro '65°C Bread Doctor' de la autora taiwanesa de libros de cocina Yvonne Chen.",
+      "fr": "La technique du tangzhong (roux à l'eau) a été popularisée internationalement par le livre '65°C Bread Doctor' de l'auteure taïwanaise de livres de cuisine Yvonne Chen.",
+      "ro": "Tehnica tangzhong (roux cu apă) a fost popularizată internațional de cartea '65°C Bread Doctor' a autoarei taiwaneze de cărți de bucate Yvonne Chen."
     }
   },
   "leaven": "yeast",
@@ -48,21 +56,33 @@
       "key": "flour:wheat-white",
       "grams": 731,
       "note": {
-        "en": "bread flour: 16g cooked into the tangzhong, 715g in the final dough"
+        "en": "bread flour: 16g cooked into the tangzhong, 715g in the final dough",
+        "de": "Brotmehl: 16 g im Tangzhong verkocht, 715 g im endgültigen Teig",
+        "es": "Harina de pan: 16 g cocinados en el tangzhong, 715 g en la masa final",
+        "fr": "Farine de pain: 16 g cuits dans le tangzhong, 715 g dans la pâte finale",
+        "ro": "Făină de pâine: 16 g gătite în tangzhong, 715 g în aluatul final"
       }
     },
     {
       "key": "water",
       "grams": 30,
       "note": {
-        "en": "in the tangzhong"
+        "en": "in the tangzhong",
+        "de": "im Tangzhong",
+        "es": "en el tangzhong",
+        "fr": "dans le tangzhong",
+        "ro": "în tangzhong"
       }
     },
     {
       "key": "milk",
       "grams": 450,
       "note": {
-        "en": "whole milk: 30g in the tangzhong, 420g in the dough"
+        "en": "whole milk: 30g in the tangzhong, 420g in the dough",
+        "de": "Vollmilch: 30 g im Tangzhong, 420 g im Teig",
+        "es": "Leche entera: 30 g en el tangzhong, 420 g en la masa",
+        "fr": "Lait entier: 30 g dans le tangzhong, 420 g dans la pâte",
+        "ro": "Lapte integral: 30 g în tangzhong, 420 g în aluat"
       }
     },
     {
@@ -81,14 +101,22 @@
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
       "key": "butter",
       "grams": 113,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "înmuiat"
       }
     }
   ],
@@ -96,7 +124,11 @@
     "count": 24,
     "pieceGrams": 62,
     "shape": {
-      "en": "individual round bun, spaced apart on a sheet pan, ~8 cm"
+      "en": "individual round bun, spaced apart on a sheet pan, ~8 cm",
+      "de": "Einzelnes rundes Brötchen, mit Abstand auf einem Backblech, etwa 8 cm",
+      "es": "Panecillo redondo individual, separado en una bandeja de horno, unos 8 cm",
+      "fr": "Petit pain rond individuel, espacé sur une plaque de cuisson, environ 8 cm",
+      "ro": "Chiflă rotundă individuală, distanțată pe o tavă de copt, aproximativ 8 cm"
     }
   },
   "time": {
@@ -139,7 +171,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Tangzhong keeps these soft for days at room temperature, well wrapped; freezes and reheats well."
+      "en": "Tangzhong keeps these soft for days at room temperature, well wrapped; freezes and reheats well.",
+      "de": "Tangzhong hält sie gut eingewickelt bei Raumtemperatur tagelang weich; lässt sich gut einfrieren und aufwärmen.",
+      "es": "El tangzhong los mantiene blandos durante días a temperatura ambiente, bien envueltos; se congelan y recalientan bien.",
+      "fr": "Le tangzhong les garde mous pendant des jours à température ambiante, bien emballés; se congèle et se réchauffe bien.",
+      "ro": "Tangzhong le menține moi zile întregi la temperatura camerei, bine învelite; se congelează și se reîncălzesc bine."
     }
   },
   "equipment": [
@@ -265,7 +301,11 @@
     "site": "The Little Epicurean",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tbsp measurements converted to grams; shaped as individually spaced rolls rather than the source's touching pan-rolls, to stay distinct from this atlas's Hokkaido rolls."
+      "en": "Cup/tbsp measurements converted to grams; shaped as individually spaced rolls rather than the source's touching pan-rolls, to stay distinct from this atlas's Hokkaido rolls.",
+      "de": "Tassen-/Esslöffelmaße in Gramm umgerechnet; zu einzelnen, mit Abstand gesetzten Brötchen geformt, nicht wie die sich berührenden Brötchen in der Form der Quelle, um sich von den Hokkaido-Brötchen dieses Atlasses zu unterscheiden.",
+      "es": "Medidas en tazas/cucharadas convertidas a gramos; formados como panecillos individuales separados en lugar de los panecillos juntos en molde de la fuente, para distinguirse de los panecillos Hokkaido de este atlas.",
+      "fr": "Mesures en tasses/cuillères à soupe converties en grammes; façonnés en petits pains individuels espacés plutôt qu'en pains à moule jointifs de la source, pour se distinguer des petits pains Hokkaido de cet atlas.",
+      "ro": "Măsurile în căni/linguri convertite în grame; modelate ca chifle individuale distanțate, nu ca chiflele lipite în tavă ale sursei, pentru a se distinge de chiflele Hokkaido din acest atlas."
     }
   },
   "tags": [

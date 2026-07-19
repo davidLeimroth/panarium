@@ -22,10 +22,18 @@
   "origin": {
     "country": "UA",
     "region": {
-      "en": "Named for the Darnytsia district of Kyiv"
+      "en": "Named for the Darnytsia district of Kyiv",
+      "de": "Benannt nach dem Bezirk Darnytsia in Kyjiw",
+      "es": "Nombrado por el distrito Darnytsia de Kyiv",
+      "fr": "Nommé d'après le district de Darnytsia à Kyiv",
+      "ro": "Numit după cartierul Darnîțea din Kiev"
     },
     "note": {
-      "en": "Became a standard GOST-style loaf across the whole USSR, including Russia, where it remains a daily staple."
+      "en": "Became a standard GOST-style loaf across the whole USSR, including Russia, where it remains a daily staple.",
+      "de": "Wurde zu einem Standardlaib nach GOST in der gesamten UdSSR, einschließlich Russland, wo er bis heute ein tägliches Grundnahrungsmittel ist.",
+      "es": "Se convirtió en un pan estándar estilo GOST en toda la URSS, incluida Rusia, donde sigue siendo un alimento básico diario.",
+      "fr": "Devenu un pain standard de style GOST dans toute l'URSS, y compris la Russie, où il reste un aliment de base quotidien.",
+      "ro": "A devenit o pâine standard de tip GOST în toată URSS, inclusiv Rusia, unde rămâne un aliment de bază zilnic."
     }
   },
   "leaven": "sourdough",
@@ -52,14 +60,22 @@
       "key": "flour:rye-whole",
       "grams": 280,
       "note": {
-        "en": "split between the levain and final dough"
+        "en": "split between the levain and final dough",
+        "de": "aufgeteilt zwischen Levain und Hauptteig",
+        "es": "repartido entre el levain y la masa final",
+        "fr": "réparti entre le levain et la pâte finale",
+        "ro": "împărțit între levain și aluatul final"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 200,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de fuerza",
+        "fr": "farine de force",
+        "ro": "făină pentru pâine"
       }
     },
     {
@@ -87,7 +103,11 @@
     "count": 2,
     "pieceGrams": 380,
     "shape": {
-      "en": "small pan loaf, about 14.5 x 10cm"
+      "en": "small pan loaf, about 14.5 x 10cm",
+      "de": "kleiner Kastenlaib, etwa 14,5 x 10 cm",
+      "es": "pan pequeño de molde, unos 14.5 x 10 cm",
+      "fr": "petit pain de moule, environ 14,5 x 10 cm",
+      "ro": "pâine mică de formă, aproximativ 14,5 x 10 cm"
     }
   },
   "time": {
@@ -130,7 +150,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "A daily loaf across the former USSR; keeps well wrapped for the better part of a week."
+      "en": "A daily loaf across the former USSR; keeps well wrapped for the better part of a week.",
+      "de": "Ein alltäglicher Laib in der gesamten ehemaligen UdSSR; gut eingewickelt hält er sich den Großteil einer Woche.",
+      "es": "Un pan cotidiano en toda la antigua URSS; bien envuelto se conserva la mayor parte de una semana.",
+      "fr": "Un pain quotidien dans toute l'ex-URSS; bien emballé, il se conserve la majeure partie d'une semaine.",
+      "ro": "O pâine de zi cu zi în fosta URSS; bine înfășurată se păstrează cea mai mare parte a unei săptămâni."
     }
   },
   "equipment": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Northern Ireland"
+      "en": "Northern Ireland",
+      "de": "Nordirland",
+      "es": "Irlanda del Norte",
+      "fr": "Irlande du Nord",
+      "ro": "Irlanda de Nord"
     },
     "note": {
-      "en": "The word 'farl' comes from the Scots 'fardel', a quartered cake. Cooked on a dry griddle rather than baked in the oven, unlike most soda bread."
+      "en": "The word 'farl' comes from the Scots 'fardel', a quartered cake. Cooked on a dry griddle rather than baked in the oven, unlike most soda bread.",
+      "de": "Das Wort „Farl“ kommt vom schottischen „Fardel“, einem geviertelten Kuchen. Wird auf einer trockenen Backplatte statt im Ofen gebacken, anders als die meisten Sodabrote.",
+      "es": "La palabra «farl» proviene del escocés «fardel», un pastel en cuartos. Se cocina en una plancha seca en lugar de hornearse al horno, a diferencia de la mayoría de los panes de soda.",
+      "fr": "Le mot « farl » vient de l’écossais « fardel », un gâteau divisé en quartiers. Cuit sur une plaque sèche plutôt qu’au four, contrairement à la plupart des pains au bicarbonate.",
+      "ro": "Cuvântul «farl» provine din scoțianul «fardel», un prăjitură tăiată în sferturi. Se gătește pe o tavă uscată în loc să se coacă în cuptor, spre deosebire de majoritatea pâinilor cu bicarbonat."
     }
   },
   "leaven": "chemical",
@@ -58,7 +66,11 @@
       "key": "butter",
       "grams": 42,
       "note": {
-        "en": "cold, divided between the dough and the griddle"
+        "en": "cold, divided between the dough and the griddle",
+        "de": "kalt, aufgeteilt zwischen Teig und Backplatte",
+        "es": "fría, dividida entre la masa y la plancha",
+        "fr": "froid, réparti entre la pâte et la plaque",
+        "ro": "rece, împărțit între aluat și tavă"
       }
     },
     {
@@ -70,7 +82,11 @@
     "count": 4,
     "pieceGrams": 110,
     "shape": {
-      "en": "quartered triangles cut from one 8-inch round"
+      "en": "quartered triangles cut from one 8-inch round",
+      "de": "gevierteilte Dreiecke, aus einem runden Fladen von 20,3 cm geschnitten",
+      "es": "triángulos en cuartos cortados de un disco de 20,3 cm",
+      "fr": "triangles en quartiers coupés dans un disque de 20,3 cm",
+      "ro": "triunghiuri în sferturi tăiate dintr-un disc de 20,3 cm"
     }
   },
   "time": {
@@ -110,7 +126,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm off the griddle; reheat in a dry pan the next day for a fry-up."
+      "en": "Best warm off the griddle; reheat in a dry pan the next day for a fry-up.",
+      "de": "Am besten warm von der Backplatte; am nächsten Tag in einer trockenen Pfanne aufwärmen für ein Fry-up.",
+      "es": "Mejor caliente recién salida de la plancha; recalentar en una sartén seca al día siguiente para un fry-up.",
+      "fr": "Meilleur chaud sorti de la plaque ; réchauffer dans une poêle sèche le lendemain pour un fry-up.",
+      "ro": "Cel mai bun cald de pe tavă; reîncălzește într-o tigaie uscată a doua zi pentru un fry-up."
     }
   },
   "equipment": [
@@ -219,7 +239,11 @@
     "site": "Bake from Scratch",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "A herb compound butter accompaniment from the source is omitted to keep this entry to the bread itself."
+      "en": "A herb compound butter accompaniment from the source is omitted to keep this entry to the bread itself.",
+      "de": "Eine Kräuterbutter-Begleitung aus der Quelle wurde weggelassen, um diesen Eintrag auf das Brot selbst zu beschränken.",
+      "es": "Se omitió un acompañamiento de mantequilla de hierbas de la fuente para limitar esta entrada al pan en sí.",
+      "fr": "Un accompagnement de beurre aux herbes de la source est omis pour limiter cette entrée au pain lui-même.",
+      "ro": "Un acompaniament de unt cu ierburi din sursă a fost omis pentru a păstra această intrare doar pentru pâine."
     }
   },
   "tags": [

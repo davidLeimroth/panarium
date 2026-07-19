@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "Spelt has deep Central European roots, but this long-fermented, high-hydration treatment is a contemporary artisan-bakery formula."
+      "en": "Spelt has deep Central European roots, but this long-fermented, high-hydration treatment is a contemporary artisan-bakery formula.",
+      "de": "Dinkel hat tiefe mitteleuropäische Wurzeln, aber diese langfermentierte Behandlung mit hoher Hydratation ist eine zeitgenössische handwerkliche Bäckereiformel.",
+      "es": "La espelta tiene profundas raíces centroeuropeas, pero este tratamiento de larga fermentación y alta hidratación es una fórmula contemporánea de panadería artesanal.",
+      "fr": "L’épeautre a de profondes racines centre-européennes, mais ce traitement à longue fermentation et haute hydratation est une formule contemporaine de boulangerie artisanale.",
+      "ro": "Alacul are rădăcini adânci central-europene, dar acest tratament cu fermentație lungă și hidratare ridicată este o formulă contemporană de brutărie artizanală."
     }
   },
   "leaven": "sourdough",
@@ -53,21 +61,33 @@
       "key": "flour:wheat-white",
       "grams": 381,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 286,
       "note": {
-        "en": "high-extraction (Type 85-style) flour"
+        "en": "high-extraction (Type 85-style) flour",
+        "de": "hochausgemahlenes Mehl (Type-85-Stil)",
+        "es": "harina de alta extracción (estilo Tipo 85)",
+        "fr": "farine à haute extraction (style Type 85)",
+        "ro": "făină cu extracție ridicată (stil Type 85)"
       }
     },
     {
       "key": "flour:spelt-whole",
       "grams": 285,
       "note": {
-        "en": "freshly milled"
+        "en": "freshly milled",
+        "de": "frisch gemahlen",
+        "es": "recién molida",
+        "fr": "fraîchement moulue",
+        "ro": "proaspăt măcinată"
       }
     },
     {
@@ -87,7 +107,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "boule or bâtard"
+      "en": "boule or bâtard",
+      "de": "Boule oder Bâtard",
+      "es": "boule o bâtard",
+      "fr": "boule ou bâtard",
+      "ro": "boule sau bâtard"
     }
   },
   "time": {
@@ -267,7 +291,11 @@
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown; only the levain fraction actually used in the dough is counted, prorated from the full build."
+      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula breakdown; only the levain fraction actually used in the dough is counted, prorated from the full build.",
+      "de": "Hochausgemahlenes Mehl als 60/40-Mischung aus weißem und Vollkornweizen für die Rezepturaufschlüsselung modelliert; nur die tatsächlich im Teig verwendete Levain-Menge wird gezählt, anteilig aus dem vollen Ansatz berechnet.",
+      "es": "Harina de alta extracción modelada como una mezcla 60/40 de trigo blanco e integral para el desglose de la fórmula; solo se contabiliza la fracción de levain realmente utilizada en la masa, prorrateada de la preparación completa.",
+      "fr": "Farine à haute extraction modélisée comme un mélange 60/40 blé blanc/complet pour la décomposition de la formule ; seule la fraction de levain réellement utilisée dans la pâte est comptée, au prorata de la construction complète.",
+      "ro": "Făina cu extracție ridicată modelată ca un amestec 60/40 de grâu alb/integral pentru defalcarea formulei; doar fracțiunea de levain folosită efectiv în aluat este numărată, proporțional din construcția completă."
     }
   },
   "tags": [

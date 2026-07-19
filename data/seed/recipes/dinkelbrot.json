@@ -21,10 +21,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Southern Germany, Baden-Württemberg"
+      "en": "Southern Germany, Baden-Württemberg",
+      "de": "Süddeutschland, Baden-Württemberg",
+      "es": "Sur de Alemania, Baden-Wurtemberg",
+      "fr": "Sud de l'Allemagne, Bade-Wurtemberg",
+      "ro": "Sudul Germaniei, Baden-Württemberg"
     },
     "note": {
-      "en": "Spelt is a popular choice for those who find modern bread wheat harder to digest, though it is a wheat relative and still contains gluten."
+      "en": "Spelt is a popular choice for those who find modern bread wheat harder to digest, though it is a wheat relative and still contains gluten.",
+      "de": "Dinkel ist eine beliebte Wahl für diejenigen, die modernen Brotweizen schwerer verdaulich finden, obwohl er mit Weizen verwandt ist und noch Gluten enthält.",
+      "es": "La espelta es una opción popular para quienes encuentran el trigo panadero moderno más difícil de digerir, aunque es un pariente del trigo y aún contiene gluten.",
+      "fr": "L'épeautre est un choix populaire pour ceux qui trouvent le blé de pain moderne plus difficile à digérer, bien qu'il soit un parent du blé et contienne encore du gluten.",
+      "ro": "Alacul (spelta) este o alegere populară pentru cei care găsesc grâul de pâine modern mai greu de digerat, deși este o rudă a grâului și conține încă gluten."
     }
   },
   "leaven": "sourdough",
@@ -46,14 +54,22 @@
       "key": "flour:spelt",
       "grams": 500,
       "note": {
-        "en": "light spelt flour, type 630"
+        "en": "light spelt flour, type 630",
+        "de": "helles Dinkelmehl, Type 630",
+        "es": "harina de espelta ligera, tipo 630",
+        "fr": "farine d'épeautre claire, type 630",
+        "ro": "făină ușoară de alac, tip 630"
       }
     },
     {
       "key": "water",
       "grams": 325,
       "note": {
-        "en": "~28°C"
+        "en": "~28°C",
+        "de": "~28°C",
+        "es": "~28°C",
+        "fr": "~28°C",
+        "ro": "~28°C"
       }
     },
     {
@@ -64,7 +80,11 @@
       "key": "sourdough-starter",
       "grams": 75,
       "note": {
-        "en": "active spelt starter"
+        "en": "active spelt starter",
+        "de": "aktiver Dinkelsauerteig",
+        "es": "fermento activo de espelta",
+        "fr": "levain d'épeautre actif",
+        "ro": "maia activă de alac"
       }
     }
   ],
@@ -72,7 +92,11 @@
     "count": 1,
     "pieceGrams": 860,
     "shape": {
-      "en": "round hearth loaf (boule)"
+      "en": "round hearth loaf (boule)",
+      "de": "runder Ofenlaib (Boule)",
+      "es": "hogaza de hogar redonda (boule)",
+      "fr": "pain de foyer rond (boule)",
+      "ro": "pâine rotundă de vatră (boule)"
     }
   },
   "time": {
@@ -113,7 +137,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Best within a few days; spelt crumb dries out faster than a rye sourdough."
+      "en": "Best within a few days; spelt crumb dries out faster than a rye sourdough.",
+      "de": "Am besten innerhalb weniger Tage; Dinkelkrume trocknet schneller aus als ein Roggensauerteig.",
+      "es": "Mejor dentro de unos días; la miga de espelta se seca más rápido que un pan de centeno con masa madre.",
+      "fr": "Meilleur dans les quelques jours; la mie d'épeautre sèche plus vite qu'un pain au levain de seigle.",
+      "ro": "Cel mai bun în câteva zile; miezul de alac (speltă) se usucă mai repede decât o pâine cu maia de secară."
     }
   },
   "equipment": [

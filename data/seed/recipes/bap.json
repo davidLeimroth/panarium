@@ -22,10 +22,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Scotland; also across England and Wales as 'morning roll', 'batch', 'cob' or 'barm'"
+      "en": "Scotland; also across England and Wales as 'morning roll', 'batch', 'cob' or 'barm'",
+      "de": "Schottland; auch in England und Wales als 'Morning Roll', 'Batch', 'Cob' oder 'Barm'",
+      "es": "Escocia; también en Inglaterra y Gales como 'morning roll', 'batch', 'cob' o 'barm'",
+      "fr": "Écosse; également en Angleterre et au Pays de Galles sous les noms de 'morning roll', 'batch', 'cob' ou 'barm'",
+      "ro": "Scoția; de asemenea în Anglia și Țara Galilor ca 'morning roll', 'batch', 'cob' sau 'barm'"
     },
     "note": {
-      "en": "A breakfast-table and sandwich staple, deliberately baked pale and soft rather than browned and crisp."
+      "en": "A breakfast-table and sandwich staple, deliberately baked pale and soft rather than browned and crisp.",
+      "de": "Ein Frühstücks- und Sandwich-Grundnahrungsmittel, bewusst blass und weich gebacken statt braun und knusprig.",
+      "es": "Un alimento básico de desayunos y sándwiches, horneado deliberadamente pálido y blando en lugar de dorado y crujiente.",
+      "fr": "Un aliment de base pour les petits-déjeuners et les sandwichs, délibérément cuit pâle et moelleux plutôt que doré et croustillant.",
+      "ro": "Un aliment de bază la micul dejun și pentru sandwichuri, copt în mod deliberat pal și moale, nu rumenit și crocant."
     }
   },
   "leaven": "yeast",
@@ -51,14 +59,22 @@
       "key": "milk",
       "grams": 160,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
       "key": "water",
       "grams": 160,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -73,14 +89,22 @@
       "key": "milk",
       "grams": 30,
       "note": {
-        "en": "for brushing the tops before baking"
+        "en": "for brushing the tops before baking",
+        "de": "zum Bestreichen der Oberseiten vor dem Backen",
+        "es": "para pincelar las partes superiores antes de hornear",
+        "fr": "pour badigeonner le dessus avant la cuisson",
+        "ro": "pentru uns deasupra înainte de coacere"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 15,
       "note": {
-        "en": "for dusting the tops thickly"
+        "en": "for dusting the tops thickly",
+        "de": "zum dick Bestäuben der Oberseiten",
+        "es": "para espolvorear generosamente las partes superiores",
+        "fr": "pour saupoudrer généreusement le dessus",
+        "ro": "pentru pudratul gros deasupra"
       }
     }
   ],
@@ -88,7 +112,11 @@
     "count": 10,
     "pieceGrams": 72,
     "shape": {
-      "en": "flattened round rolls"
+      "en": "flattened round rolls",
+      "de": "flache runde Brötchen",
+      "es": "panecillos redondos aplanados",
+      "fr": "petits pains ronds aplatis",
+      "ro": "chifle rotunde turtite"
     }
   },
   "time": {
@@ -129,7 +157,11 @@
     "freshDays": 1.5,
     "freezes": true,
     "note": {
-      "en": "Best very fresh and soft; the floury top doesn't hold a crisp texture past a day."
+      "en": "Best very fresh and soft; the floury top doesn't hold a crisp texture past a day.",
+      "de": "Am besten sehr frisch und weich; die mehlige Oberseite bleibt nicht länger als einen Tag knusprig.",
+      "es": "Mejor muy fresco y blando; la parte superior enharinada no mantiene una textura crujiente más de un día.",
+      "fr": "Meilleur très frais et moelleux; le dessus farineux ne garde pas son croustillant plus d'un jour.",
+      "ro": "Cel mai bun foarte proaspăt și moale; partea de sus făinoasă nu își menține textura crocantă mai mult de o zi."
     }
   },
   "equipment": [

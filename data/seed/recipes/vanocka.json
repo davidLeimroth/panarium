@@ -23,10 +23,18 @@
   "origin": {
     "country": "CZ",
     "region": {
-      "en": "Czech Republic, also baked in Slovakia"
+      "en": "Czech Republic, also baked in Slovakia",
+      "de": "Tschechische Republik, auch in der Slowakei gebacken",
+      "es": "República Checa, también se hornea en Eslovaquia",
+      "fr": "République tchèque, également cuit en Slovaquie",
+      "ro": "Republica Cehă, coapt și în Slovacia"
     },
     "note": {
-      "en": "Documented since the 14th century in a Benedictine monk's writing; the older regional name Houska still lingers among Czech emigrant communities. Each tier and strand traditionally carries its own symbolic meaning."
+      "en": "Documented since the 14th century in a Benedictine monk's writing; the older regional name Houska still lingers among Czech emigrant communities. Each tier and strand traditionally carries its own symbolic meaning.",
+      "de": "Seit dem 14. Jahrhundert in einer Schrift eines Benediktinermönchs dokumentiert; der ältere regionale Name Houska lebt in tschechischen Auswanderergemeinschaften weiter. Jede Etage und jeder Strang trägt traditionell seine eigene symbolische Bedeutung.",
+      "es": "Documentado desde el siglo XIV en un escrito de un monje benedictino; el nombre regional más antiguo Houska aún perdura entre las comunidades de emigrantes checos. Cada nivel y trenza tiene tradicionalmente su propio significado simbólico.",
+      "fr": "Documenté depuis le XIVe siècle dans un écrit d'un moine bénédictin; l'ancien nom régional Houska persiste encore dans les communautés d'émigrés tchèques. Chaque étage et chaque brin porte traditionnellement sa propre signification symbolique.",
+      "ro": "Documentată încă din secolul al XIV-lea într-o scriere a unui călugăr benedictin; numele regional mai vechi Houska încă persistă printre comunitățile de emigranți cehi. Fiecare nivel și fiecare șuviță poartă în mod tradițional propria semnificație simbolică."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "milk",
       "grams": 290,
       "note": {
-        "en": "warmed"
+        "en": "warmed",
+        "de": "erwärmt",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "încălzit"
       }
     },
     {
@@ -73,14 +85,22 @@
       "key": "egg-yolk",
       "grams": 36,
       "note": {
-        "en": "2 large yolks"
+        "en": "2 large yolks",
+        "de": "2 große Eigelb",
+        "es": "2 yemas grandes",
+        "fr": "2 gros jaunes",
+        "ro": "2 gălbenușuri mari"
       }
     },
     {
       "key": "butter",
       "grams": 115,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topit"
       }
     },
     {
@@ -95,21 +115,33 @@
       "key": "almonds",
       "grams": 60,
       "note": {
-        "en": "chopped, worked into the dough"
+        "en": "chopped, worked into the dough",
+        "de": "gehackt, in den Teig eingearbeitet",
+        "es": "picadas, incorporadas a la masa",
+        "fr": "hachées, incorporées à la pâte",
+        "ro": "tocate, lucrate în aluat"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "beaten, for the egg wash"
+        "en": "beaten, for the egg wash",
+        "de": "verquirlt, für die Eierwasche",
+        "es": "batido, para el barniz de huevo",
+        "fr": "battu, pour la dorure",
+        "ro": "bătut, pentru uns cu ou"
       }
     },
     {
       "key": "almonds",
       "grams": 30,
       "note": {
-        "en": "sliced, sprinkled on top before baking"
+        "en": "sliced, sprinkled on top before baking",
+        "de": "in Scheiben geschnitten, vor dem Backen darüber gestreut",
+        "es": "en rodajas, espolvoreado encima antes de hornear",
+        "fr": "en tranches, saupoudré sur le dessus avant cuisson",
+        "ro": "feliat, presărat deasupra înainte de coacere"
       }
     }
   ],
@@ -117,7 +149,11 @@
     "count": 1,
     "pieceGrams": 1150,
     "shape": {
-      "en": "three-tiered braid: 4 strands over 3 over a twist"
+      "en": "three-tiered braid: 4 strands over 3 over a twist",
+      "de": "Dreistöckiger Zopf: 4 Stränge über 3 über einer Drehung",
+      "es": "Trenza de tres niveles: 4 cabos sobre 3 sobre un giro",
+      "fr": "Tresse à trois étages: 4 brins sur 3 sur une torsade",
+      "ro": "Împletitură pe trei niveluri: 4 șuvițe peste 3 peste o răsucire"
     }
   },
   "time": {
@@ -161,7 +197,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Wrapped loosely, the butter and egg keep it soft for four to five days; it also freezes well whole or pre-sliced."
+      "en": "Wrapped loosely, the butter and egg keep it soft for four to five days; it also freezes well whole or pre-sliced.",
+      "de": "Locker eingewickelt halten Butter und Ei es vier bis fünf Tage weich; es lässt sich auch ganz oder vorgeschnitten gut einfrieren.",
+      "es": "Envuelto sin apretar, la mantequilla y el huevo lo mantienen blando de cuatro a cinco días; también se congela bien entero o en rebanadas.",
+      "fr": "Emballé sans serrer, le beurre et l'œuf le gardent mou pendant quatre à cinq jours; il se congèle aussi bien entier ou prétranché.",
+      "ro": "Înfășurat lejer, untul și oul îl mențin moale patru până la cinci zile; se congelează bine întreg sau pre-feliat."
     }
   },
   "equipment": [
@@ -303,7 +343,11 @@
     "site": "Cook Like Czechs",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Cross-checked against two other Czech sources: salt nudged up slightly; almonds added into the dough, not just on top, matching several traditional versions. yeastPct is instant-yeast-equivalent."
+      "en": "Cross-checked against two other Czech sources: salt nudged up slightly; almonds added into the dough, not just on top, matching several traditional versions. yeastPct is instant-yeast-equivalent.",
+      "de": "Gegen zwei andere tschechische Quellen gegengeprüft: Salz leicht erhöht; Mandeln in den Teig gegeben, nicht nur obendrauf, was mehreren traditionellen Versionen entspricht. yeastPct ist Instant-Hefe-Äquivalent.",
+      "es": "Verificado con otras dos fuentes checas: sal ligeramente aumentada; almendras añadidas dentro de la masa, no solo encima, coincidiendo con varias versiones tradicionales. yeastPct es equivalente a levadura instantánea.",
+      "fr": "Recoupé avec deux autres sources tchèques: sel légèrement augmenté; amandes ajoutées dans la pâte, pas seulement sur le dessus, correspondant à plusieurs versions traditionnelles. yeastPct est l'équivalent en levure instantanée.",
+      "ro": "Verificată cu alte două surse cehe: sarea ușor crescută; migdale adăugate în aluat, nu doar deasupra, corespunzând mai multor variante tradiționale. yeastPct este echivalent drojdie instantanee."
     }
   },
   "tags": [

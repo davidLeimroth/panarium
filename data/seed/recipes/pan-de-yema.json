@@ -21,10 +21,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "Oaxaca"
+      "en": "Oaxaca",
+      "de": "Oaxaca",
+      "es": "Oaxaca",
+      "fr": "Oaxaca",
+      "ro": "Oaxaca"
     },
     "note": {
-      "en": "One of many egg-rich Day of the Dead breads made across Oaxaca, distinct from the anise-and-orange pan de muerto; here the sheer number of yolks, not sugar-and-bone decoration, is the defining feature."
+      "en": "One of many egg-rich Day of the Dead breads made across Oaxaca, distinct from the anise-and-orange pan de muerto; here the sheer number of yolks, not sugar-and-bone decoration, is the defining feature.",
+      "de": "Eines der vielen eierreichen Día-de-Muertos-Brote in Oaxaca, zu unterscheiden vom Anis-Orangen-Pan-de-Muerto; hier ist die schiere Menge an Eigelb das bestimmende Merkmal, nicht die Zucker-Knochen-Dekoration.",
+      "es": "Uno de los muchos panes de Día de Muertos ricos en huevo hechos en Oaxaca, distinto del pan de muerto de anís y naranja; aquí la gran cantidad de yemas, no la decoración de azúcar y huesos, es la característica definitoria.",
+      "fr": "L'un des nombreux pains de la Día de Muertos riches en œufs à travers Oaxaca, distinct du pan de muerto à l'anis et à l'orange; ici, le grand nombre de jaunes, et non la décoration en sucre et en os, est la caractéristique déterminante.",
+      "ro": "Una dintre multele pâini bogate în ouă de Día de Muertos făcute în Oaxaca, distinctă de pan de muerto cu anason și portocală; aici, numărul mare de gălbenușuri, nu decorul cu zahăr și oase, este trăsătura definitorie."
     }
   },
   "leaven": "yeast",
@@ -59,28 +67,44 @@
       "key": "water",
       "grams": 296,
       "note": {
-        "en": "lukewarm, for blooming the yeast"
+        "en": "lukewarm, for blooming the yeast",
+        "de": "lauwarm, zum Aktivieren der Hefe",
+        "es": "tibia, para activar la levadura",
+        "fr": "tiède, pour réhydrater la levure",
+        "ro": "călduță, pentru a activa drojdia"
       }
     },
     {
       "key": "butter",
       "grams": 227,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "moale"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 162,
       "note": {
-        "en": "9 yolks"
+        "en": "9 yolks",
+        "de": "9 Eigelb",
+        "es": "9 yemas",
+        "fr": "9 jaunes",
+        "ro": "9 gălbenușuri"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
@@ -91,7 +115,11 @@
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "beaten, for egg wash"
+        "en": "beaten, for egg wash",
+        "de": "verquirlt, zum Bestreichen",
+        "es": "batidos, para pintar",
+        "fr": "battus, pour la dorure",
+        "ro": "bătute, pentru uns"
       }
     }
   ],
@@ -99,7 +127,11 @@
     "count": 16,
     "pieceGrams": 100,
     "shape": {
-      "en": "round bun, three slashes on top"
+      "en": "round bun, three slashes on top",
+      "de": "rundes Brötchen, drei Einschnitte oben",
+      "es": "panecillo redondo, tres cortes en la parte superior",
+      "fr": "petit pain rond, trois incisions sur le dessus",
+      "ro": "chiflă rotundă, trei incizii deasupra"
     }
   },
   "time": {
@@ -142,7 +174,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Rich with butter and yolks, so it stays soft a few days; traditionally left out as an ofrenda before being eaten."
+      "en": "Rich with butter and yolks, so it stays soft a few days; traditionally left out as an ofrenda before being eaten.",
+      "de": "Reich an Butter und Eigelb, bleibt es ein paar Tage weich; traditionell als Ofrenda ausgestellt, bevor es gegessen wird.",
+      "es": "Rica en mantequilla y yemas, por lo que se mantiene blanda unos días; tradicionalmente se deja como ofrenda antes de consumirse.",
+      "fr": "Riche en beurre et en jaunes, donc il reste moelleux quelques jours; traditionnellement laissé en offrande avant d'être mangé.",
+      "ro": "Bogată în unt și gălbenușuri, așa că rămâne moale câteva zile; lăsată tradițional ca ofrandă înainte de a fi mâncată."
     }
   },
   "equipment": [
@@ -268,7 +304,11 @@
     "site": "Pati Jinich",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Egg yolk water content estimated at about 50% (lower than whole egg), since this taxonomy's conversions cover whole egg but not yolk. Vague pinch of salt standardized to a defined percentage."
+      "en": "Egg yolk water content estimated at about 50% (lower than whole egg), since this taxonomy's conversions cover whole egg but not yolk. Vague pinch of salt standardized to a defined percentage.",
+      "de": "Wassergehalt des Eigelbs auf etwa 50 % geschätzt (niedriger als beim ganzen Ei), da die Umrechnungen dieser Taxonomie ganzes Ei, aber nicht Eigelb abdecken. Unbestimmte Prise Salz auf einen definierten Prozentsatz standardisiert.",
+      "es": "Contenido de agua de la yema estimado en aproximadamente 50 % (menor que el huevo entero), ya que las conversiones de esta taxonomía cubren huevo entero pero no yema. Pizca vaga de sal estandarizada a un porcentaje definido.",
+      "fr": "Teneur en eau du jaune d'œuf estimée à environ 50 % (inférieure à l'œuf entier), car les conversions de cette taxonomie couvrent l'œuf entier mais pas le jaune. Pincée de sel vague standardisée à un pourcentage défini.",
+      "ro": "Conținutul de apă al gălbenușului estimat la aproximativ 50 % (mai mic decât oul întreg), deoarece conversiile acestei taxonomii acoperă oul întreg, dar nu și gălbenușul. Un praf vag de sare standardizat la un procent definit."
     }
   },
   "tags": [

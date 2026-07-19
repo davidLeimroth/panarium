@@ -21,10 +21,18 @@
   "origin": {
     "country": "CN",
     "region": {
-      "en": "Northern China"
+      "en": "Northern China",
+      "de": "Nordchina",
+      "es": "Norte de China",
+      "fr": "Chine du Nord",
+      "ro": "China de Nord"
     },
     "note": {
-      "en": "Legend credits Three Kingdoms-era strategist Zhuge Liang with inventing it as a substitute for human sacrifice; the plain steamed bun is northern China's everyday wheat staple, made in ornate shapes for New Year."
+      "en": "Legend credits Three Kingdoms-era strategist Zhuge Liang with inventing it as a substitute for human sacrifice; the plain steamed bun is northern China's everyday wheat staple, made in ornate shapes for New Year.",
+      "de": "Der Legende nach erfand der Stratege Zhuge Liang aus der Zeit der Drei Reiche das Mantou als Ersatz für Menschenopfer; der schlichte gedämpfte Laib ist Nordchinas alltägliches Weizengrundnahrungsmittel, zum Neujahrsfest in kunstvollen Formen hergestellt.",
+      "es": "La leyenda atribuye al estratega Zhuge Liang de la era de los Tres Reinos su invención como sustituto del sacrificio humano; el panecillo al vapor simple es el alimento básico de trigo cotidiano del norte de China, elaborado en formas ornamentadas para el Año Nuevo.",
+      "fr": "La légende attribue au stratège Zhuge Liang de l'époque des Trois Royaumes son invention comme substitut au sacrifice humain; le petit pain cuit à la vapeur nature est l'aliment de base quotidien de blé du nord de la Chine, façonné en formes ornées pour le Nouvel An.",
+      "ro": "Legenda îi atribuie strategului Zhuge Liang din epoca celor Trei Regate inventarea sa ca substitut pentru sacrificiul uman; chifla simplă aburită este alimentul de bază zilnic din grâu al Chinei de Nord, modelată în forme ornamentate pentru Anul Nou."
     }
   },
   "leaven": "yeast",
@@ -63,7 +71,11 @@
       "key": "water",
       "grams": 130,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "handwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     }
   ],
@@ -71,7 +83,11 @@
     "count": 6,
     "pieceGrams": 67,
     "shape": {
-      "en": "smooth round steamed bun"
+      "en": "smooth round steamed bun",
+      "de": "glatter runder gedämpfter Brotlaib",
+      "es": "panecillo redondo y liso al vapor",
+      "fr": "petit pain rond et lisse cuit à la vapeur",
+      "ro": "chiflă rotundă netedă aburită"
     }
   },
   "time": {
@@ -112,7 +128,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Steams back to fluffy from frozen in about 10 minutes; a staple side for saucy northern Chinese dishes."
+      "en": "Steams back to fluffy from frozen in about 10 minutes; a staple side for saucy northern Chinese dishes.",
+      "de": "Lässt sich aus gefrorenem Zustand in etwa 10 Minuten wieder fluffig dämpfen; eine Beilage zu herzhaften nordchinesischen Gerichten.",
+      "es": "Se vuelve esponjoso al vapor desde congelado en unos 10 minutos; acompañamiento básico para platos salados del norte de China.",
+      "fr": "Reprend son moelleux à la vapeur depuis congelé en environ 10 minutes; accompagnement de base pour les plats salés du nord de la Chine.",
+      "ro": "Se reîntoarce pufos la abur din congelat în aproximativ 10 minute; garnitură de bază pentru mâncărurile sărate din China de Nord."
     }
   },
   "equipment": [
@@ -221,7 +241,11 @@
     "site": "Red House Spice",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams kept as sourced; optional date-topped flower shaping omitted in favor of the plain round bun."
+      "en": "Grams kept as sourced; optional date-topped flower shaping omitted in favor of the plain round bun.",
+      "de": "Grammzahlen wie von der Quelle übernommen; optionale Dattel-Blumenformung zugunsten des schlichten runden Brötchens weggelassen.",
+      "es": "Gramos mantenidos como en la fuente; el moldeado opcional con dátiles en forma de flor se omitió en favor del panecillo redondo simple.",
+      "fr": "Grammes conservés tels que sourcés; le façonnage floral facultatif aux dattes omis en faveur du petit pain rond nature.",
+      "ro": "Grame păstrate ca în sursă; modelarea opțională cu curmale în formă de floare omisă în favoarea chiflei rotunde simple."
     }
   },
   "tags": [

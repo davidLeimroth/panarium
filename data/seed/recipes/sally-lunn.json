@@ -21,10 +21,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Bath, Somerset, England"
+      "en": "Bath, Somerset, England",
+      "de": "Bath, Somerset, England",
+      "es": "Bath, Somerset, Inglaterra",
+      "fr": "Bath, Somerset, Angleterre",
+      "ro": "Bath, Somerset, Anglia"
     },
     "note": {
-      "en": "First recorded in Bath around 1780. The name's origin is disputed between a legendary Huguenot baker known as 'Sally Lunn' and a folk etymology from the French 'sol et lune' (sun and moon), for its golden top and pale base."
+      "en": "First recorded in Bath around 1780. The name's origin is disputed between a legendary Huguenot baker known as 'Sally Lunn' and a folk etymology from the French 'sol et lune' (sun and moon), for its golden top and pale base.",
+      "de": "Erstmals um 1780 in Bath belegt. Der Ursprung des Namens ist umstritten zwischen einer legendären Hugenottenbäckerin namens 'Sally Lunn' und einer Volksetymologie vom französischen 'sol et lune' (Sonne und Mond), wegen der goldenen Kruste und des hellen Bodens.",
+      "es": "Registrado por primera vez en Bath hacia 1780. El origen del nombre se disputa entre una legendaria panadera hugonote conocida como 'Sally Lunn' y una etimología popular del francés 'sol et lune' (sol y luna), por su parte superior dorada y su base pálida.",
+      "fr": "Enregistré pour la première fois à Bath vers 1780. L'origine du nom est disputée entre une légendaire boulangère huguenote connue sous le nom de 'Sally Lunn' et une étymologie populaire du français 'sol et lune', pour son dessus doré et sa base pâle.",
+      "ro": "Înregistrat prima dată în Bath în jurul anului 1780. Originea numelui este disputată între o legendară brutăriță huguenotă numită 'Sally Lunn' și o etimologie populară din francezul 'sol et lune' (soare și lună), pentru partea superioară aurie și baza palidă."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "milk",
       "grams": 227,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -67,7 +79,11 @@
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
@@ -82,7 +98,11 @@
       "key": "lemon-zest",
       "grams": 6,
       "note": {
-        "en": "or 2 tsp vanilla extract"
+        "en": "or 2 tsp vanilla extract",
+        "de": "oder 2 TL Vanilleextrakt",
+        "es": "o 2 cditas de extracto de vainilla",
+        "fr": "ou 2 càc d'extrait de vanille",
+        "ro": "sau 2 lingulițe extract de vanilie"
       }
     }
   ],
@@ -90,7 +110,11 @@
     "count": 1,
     "pieceGrams": 830,
     "shape": {
-      "en": "single tall round loaf, sliced into three layers"
+      "en": "single tall round loaf, sliced into three layers",
+      "de": "einzelner hoher runder Laib, in drei Schichten geschnitten",
+      "es": "hogaza alta redonda única, cortada en tres capas",
+      "fr": "pain rond haut unique, tranché en trois couches",
+      "ro": "pâine rotundă înaltă unică, feliată în trei straturi"
     }
   },
   "time": {
@@ -132,7 +156,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Rich enough to stay soft a few days; lovely toasted once past its first-day best."
+      "en": "Rich enough to stay soft a few days; lovely toasted once past its first-day best.",
+      "de": "Reichhaltig genug, um einige Tage weich zu bleiben; einmal über den ersten Tag hinaus, herrlich getoastet.",
+      "es": "Suficientemente rico para mantenerse blando unos días; una vez pasado su mejor momento del primer día, encantador tostado.",
+      "fr": "Assez riche pour rester moelleux quelques jours; une fois passé son meilleur du premier jour, délicieux toasté.",
+      "ro": "Suficient de bogat pentru a rămâne moale câteva zile; odată trecut de prima zi, minunat prăjit."
     }
   },
   "equipment": [
@@ -166,10 +194,10 @@
       },
       "summary": {
         "en": "Add lemon zest, salt and part of the flour, then mix in the eggs and yeast, beating until smooth.",
-        "de": "Zitronenschale, Salz, einen Teil des Mehls, die Eier und die Hefe einrühren, dann glatt schlagen.",
-        "es": "Añadir la ralladura de limón, la sal, parte de la harina, los huevos y la levadura, luego batir hasta que quede lisa.",
-        "fr": "Incorporer le zeste de citron, le sel, une partie de la farine, les œufs et la levure, puis battre jusqu'à consistance lisse.",
-        "ro": "Adaugă coaja de lămâie, sarea, o parte din făină, ouăle și drojdia, apoi bate până devine neted."
+        "de": "Zitronenschale, Salz und einen Teil des Mehls zugeben, dann Eier und Hefe einrühren und glatt schlagen.",
+        "es": "Añadir la ralladura de limón, la sal y parte de la harina, luego incorporar los huevos y la levadura, batiendo hasta que esté liso.",
+        "fr": "Ajouter le zeste de citron, le sel et une partie de la farine, puis incorporer les œufs et la levure en battant jusqu'à consistance lisse.",
+        "ro": "Adaugă coaja de lămâie, sarea și o parte din făină, apoi încorporează ouăle și drojdia, bătând până devine neted."
       }
     },
     {
@@ -242,7 +270,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Source's individual-bun (muffin tin) format adapted to the single tall loaf that is Sally Lunn's traditional presentation, using the source's own stated loaf-pan alternative and its loaf bake time."
+      "en": "Source's individual-bun (muffin tin) format adapted to the single tall loaf that is Sally Lunn's traditional presentation, using the source's own stated loaf-pan alternative and its loaf bake time.",
+      "de": "Das Einzelbrötchen-Format (Muffinform) der Quelle wurde auf den einzelnen hohen Laib umgestellt, der Sally Lunns traditionelle Darreichungsform ist, unter Verwendung der von der Quelle selbst angegebenen Kastenform-Alternative und deren Backzeit für den Laib.",
+      "es": "El formato de panecillos individuales (molde de muffins) de la fuente se adaptó a la hogaza alta única que es la presentación tradicional de Sally Lunn, usando la alternativa de molde de pan de la fuente y su tiempo de horneado para hogaza.",
+      "fr": "Le format de petits pains individuels (moule à muffins) de la source a été adapté au pain haut unique qui est la présentation traditionnelle de Sally Lunn, en utilisant l'alternative du moule à cake indiquée par la source et son temps de cuisson pour le pain.",
+      "ro": "Formatul de chifle individuale (formă de brioșe) al sursei a fost adaptat la o singură pâine înaltă, care este prezentarea tradițională a lui Sally Lunn, folosind alternativa de formă de pâine menționată de sursă și timpul de coacere pentru pâine."
     }
   },
   "tags": [

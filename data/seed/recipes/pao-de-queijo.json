@@ -22,10 +22,18 @@
   "origin": {
     "country": "BR",
     "region": {
-      "en": "Minas Gerais"
+      "en": "Minas Gerais",
+      "de": "Minas Gerais",
+      "es": "Minas Gerais",
+      "fr": "Minas Gerais",
+      "ro": "Minas Gerais"
     },
     "note": {
-      "en": "Traditionally made with polvilho azedo (naturally soured tapioca starch) and Minas cheese; this version uses sweet tapioca starch with Parmesan and mozzarella for wider availability."
+      "en": "Traditionally made with polvilho azedo (naturally soured tapioca starch) and Minas cheese; this version uses sweet tapioca starch with Parmesan and mozzarella for wider availability.",
+      "de": "Traditionell mit Polvilho Azedo (natürlich gesäuerter Tapiokastärke) und Minas-Käse zubereitet; diese Version verwendet süße Tapiokastärke mit Parmesan und Mozzarella für breitere Verfügbarkeit.",
+      "es": "Tradicionalmente hecho con polvilho azedo (almón de tapioca agriado naturalmente) y queso Minas; esta versión usa almón de tapioca dulce con parmesano y mozzarella para mayor disponibilidad.",
+      "fr": "Traditionnellement preparé avec du polvilho azedo (fécule de tapioca acidifiée naturellement) et du fromage Minas ; cette version utilise de la fécule de tapioca douce avec du parmesan et de la mozzarella pour une plus grande disponibilité.",
+      "ro": "Traditional preparat cu polvilho azedo (amidon de tapioca acrit natural) şi brânză Minas; această versiune foloseşte amidon de tapioca dulce cu Parmezan şi Mozzarella pentru disponibilitate mai largă."
     }
   },
   "leaven": "none",
@@ -47,14 +55,22 @@
       "key": "flour:cassava",
       "grams": 500,
       "note": {
-        "en": "tapioca starch (polvilho)"
+        "en": "tapioca starch (polvilho)",
+        "de": "Tapiokastärke (Polvilho)",
+        "es": "almón de tapioca (polvilho)",
+        "fr": "fécule de tapioca (polvilho)",
+        "ro": "amidon de tapioca (polvilho)"
       }
     },
     {
       "key": "milk",
       "grams": 300,
       "note": {
-        "en": "whole milk"
+        "en": "whole milk",
+        "de": "Vollmilch",
+        "es": "leche entera",
+        "fr": "lait entier",
+        "ro": "lapte integral"
       }
     },
     {
@@ -73,21 +89,33 @@
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros oeufs",
+        "ro": "2 ouă mari"
       }
     },
     {
       "key": "cheese",
       "grams": 150,
       "note": {
-        "en": "Parmesan, finely grated"
+        "en": "Parmesan, finely grated",
+        "de": "Parmesan, fein gerieben",
+        "es": "parmesano, finamente rallado",
+        "fr": "parmesan, finement râpé",
+        "ro": "Parmezan, răzuit fin"
       }
     },
     {
       "key": "cheese",
       "grams": 100,
       "note": {
-        "en": "mozzarella, shredded"
+        "en": "mozzarella, shredded",
+        "de": "Mozzarella, gerieben",
+        "es": "mozzarella, rallada",
+        "fr": "mozzarella, râpée",
+        "ro": "Mozzarella, răzuită"
       }
     }
   ],
@@ -95,7 +123,11 @@
     "count": 24,
     "pieceGrams": 56,
     "shape": {
-      "en": "golf-ball-sized puff"
+      "en": "golf-ball-sized puff",
+      "de": "golfballgroßer Lüftling",
+      "es": "bolita del tamaño de una pelota de golf",
+      "fr": "petit chou de la taille d'une balle de golf",
+      "ro": "gogoşoăă de mărimea unei mingi de golf"
     }
   },
   "time": {
@@ -135,7 +167,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best piping hot from the oven; the raw shaped balls freeze beautifully and bake straight from frozen."
+      "en": "Best piping hot from the oven; the raw shaped balls freeze beautifully and bake straight from frozen.",
+      "de": "Am besten direkt aus dem Ofen heiß servieren; die rohen geformten Kugeln gefrieren hervorragend und werden direkt aus gefrorenem Zustand gebacken.",
+      "es": "Mejor muy caliente recien salido del horno; las bolas crudas moldeadas se congelan perfectamente y se hornean directamente congeladas.",
+      "fr": "Meilleur brulant à la sortie du four ; les boules crues façonnées se congelent à merveille et cuisent directement surgelées.",
+      "ro": "Cel mai bun fierbinte direct din cuptor; bilele crude modelate se congelă perfect şi se coc direct din congelator."
     }
   },
   "equipment": [
@@ -244,7 +280,11 @@
     "site": "Olivia's Cuisine",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Volumes converted to grams via standard conversions; yield simplified to a single batch size."
+      "en": "Volumes converted to grams via standard conversions; yield simplified to a single batch size.",
+      "de": "Volumen durch Standardumrechnungen in Gramm umgerechnet; Ertrag auf eine einzelne Batchgröße vereinfacht.",
+      "es": "Volúmenes convertidos a gramos mediante conversiones estándar; el rendimiento simplificado a un solo lote.",
+      "fr": "Volumes convertis en grammes via des conversions standard ; le rendement simplifié à une seule fournée.",
+      "ro": "Volume convertite în grame prin conversii standard; randamentul simplificat la un singur lot."
     }
   },
   "tags": [

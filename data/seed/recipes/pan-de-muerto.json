@@ -21,10 +21,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "Central and southern Mexico, now nationwide"
+      "en": "Central and southern Mexico, now nationwide",
+      "de": "Zentral- und Südmexiko, heute landesweit",
+      "es": "Centro y sur de México, ahora en todo el país",
+      "fr": "Centre et sud du Mexique, désormais national",
+      "ro": "Mexic central și de sud, acum la nivel național"
     },
     "note": {
-      "en": "Baked as an offering (ofrenda) for departed relatives during Día de Muertos as well as a treat for the living; the crossed 'bones' and central knob evoke the skulls and skeletons central to the holiday's imagery."
+      "en": "Baked as an offering (ofrenda) for departed relatives during Día de Muertos as well as a treat for the living; the crossed 'bones' and central knob evoke the skulls and skeletons central to the holiday's imagery.",
+      "de": "Als Opfergabe (Ofrenda) für verstorbene Angehörige während des Día de Muertos gebacken, aber auch als Leckerei für die Lebenden; die gekreuzten «Knochen» und der zentrale Knoten erinnern an die Schädel und Skelette, die für die Bildsprache des Feiertags zentral sind.",
+      "es": "Horneado como ofrenda para los familiares fallecidos durante el Día de Muertos, así como un regalo para los vivos; los «huesos» cruzados y el botón central evocan las calaveras y esqueletos centrales en la imaginería de la festividad.",
+      "fr": "Cuit comme offrande (ofrenda) pour les proches disparus pendant le Día de Muertos ainsi que comme gourmandise pour les vivants; les « os » croisés et le bouton central évoquent les crânes et squelettes au cœur de l'imagerie de la fête.",
+      "ro": "Copt ca ofrandă (ofrenda) pentru rudele decedate în timpul Día de Muertos, precum și un răsfăț pentru cei vii; «oasele» încrucișate și nodul central evocă craniile și scheletele centrale în imagistica sărbătorii."
     }
   },
   "leaven": "yeast",
@@ -49,28 +57,44 @@
       "key": "flour:wheat-white",
       "grams": 480,
       "note": {
-        "en": "60 g in the sponge, the rest in the final dough"
+        "en": "60 g in the sponge, the rest in the final dough",
+        "de": "60 g im Sponge, der Rest im Hauptteig",
+        "es": "60 g en la esponja, el resto en la masa final",
+        "fr": "60 g dans le sponge, le reste dans la pâte finale",
+        "ro": "60 g în sponge, restul în aluatul final"
       }
     },
     {
       "key": "milk",
       "grams": 113,
       "note": {
-        "en": "lukewarm, in the sponge"
+        "en": "lukewarm, in the sponge",
+        "de": "lauwarm, im Sponge",
+        "es": "tibia, en la esponja",
+        "fr": "tiède, dans le sponge",
+        "ro": "călduță, în sponge"
       }
     },
     {
       "key": "instant-yeast",
       "grams": 9,
       "note": {
-        "en": "in the sponge"
+        "en": "in the sponge",
+        "de": "im Sponge",
+        "es": "en la esponja",
+        "fr": "dans le sponge",
+        "ro": "în sponge"
       }
     },
     {
       "key": "sugar",
       "grams": 99,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
@@ -81,21 +105,33 @@
       "key": "egg",
       "grams": 200,
       "note": {
-        "en": "4 large eggs"
+        "en": "4 large eggs",
+        "de": "4 große Eier",
+        "es": "4 huevos grandes",
+        "fr": "4 gros œufs",
+        "ro": "4 ouă mari"
       }
     },
     {
       "key": "butter",
       "grams": 226,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
       "key": "anise",
       "grams": 4,
       "note": {
-        "en": "seeds"
+        "en": "seeds",
+        "de": "Samen",
+        "es": "semillas",
+        "fr": "graines",
+        "ro": "semințe"
       }
     },
     {
@@ -116,14 +152,22 @@
       "key": "butter",
       "grams": 85,
       "note": {
-        "en": "melted, for basting the baked loaves"
+        "en": "melted, for basting the baked loaves",
+        "de": "geschmolzen, zum Bestreichen der gebackenen Laibe",
+        "es": "derretida, para pincelar los panes horneados",
+        "fr": "fondu, pour badigeonner les pains cuits",
+        "ro": "topit, pentru a unge pâinile coapte"
       }
     },
     {
       "key": "sugar",
       "grams": 66,
       "note": {
-        "en": "for rolling the butter-basted loaves"
+        "en": "for rolling the butter-basted loaves",
+        "de": "zum Wälzen der buttrig bestrichenen Laibe",
+        "es": "para rebozar los panes pincelados con mantequilla",
+        "fr": "pour enrober les pains badigeonnés de beurre",
+        "ro": "pentru a tăvăli pâinile unse cu unt"
       }
     }
   ],
@@ -131,7 +175,11 @@
     "count": 2,
     "pieceGrams": 580,
     "shape": {
-      "en": "two 20 cm round loaves, crossed bones and a skull knob"
+      "en": "two 20 cm round loaves, crossed bones and a skull knob",
+      "de": "zwei runde Laibe von 20 cm, gekreuzte Knochen und ein Schädelknopf",
+      "es": "dos hogazas redondas de 20 cm, huesos cruzados y un botón de calavera",
+      "fr": "deux pains ronds de 20 cm, os croisés et un bouton de crâne",
+      "ro": "două pâini rotunde de 20 cm, oase încrucișate și un buton de craniu"
     }
   },
   "time": {
@@ -175,7 +223,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Keeps about 3 days well wrapped at room temperature thanks to all the butter; the sugared crust softens first, so it's best within a day or two."
+      "en": "Keeps about 3 days well wrapped at room temperature thanks to all the butter; the sugared crust softens first, so it's best within a day or two.",
+      "de": "Hält sich gut eingepackt bei Zimmertemperatur etwa 3 Tage dank der reichlichen Butter; die gezuckerte Kruste wird zuerst weich, daher am besten innerhalb von ein bis zwei Tagen.",
+      "es": "Se conserva unos 3 días bien envuelto a temperatura ambiente gracias a toda la mantequilla; la corteza azucarada se ablanda primero, así que es mejor dentro de uno o dos días.",
+      "fr": "Se conserve environ 3 jours bien emballé à température ambiante grâce à tout le beurre; la croûte sucrée ramollit en premier, donc il est meilleur dans un ou deux jours.",
+      "ro": "Se păstrează circa 3 zile bine învelit la temperatura camerei datorită untului din belșug; crusta cu zahăr se înmoaie prima, așa că este cel mai bun într-o zi sau două."
     }
   },
   "equipment": [
@@ -209,10 +261,10 @@
       },
       "summary": {
         "en": "Beat in the remaining flour, salt, sugar, eggs, orange zest, anise and orange blossom water, then knead until the dough is strong and pulls cleanly from the bowl sides; work in the butter gradually until glossy and smooth.",
-        "de": "Das restliche Mehl, Salz, Zucker, die Eier, Orangenschale, Anis und Orangenblütenwasser einrühren, dann kneten, bis der Teig sich von der Schüssel löst; die Butter nach und nach einarbeiten, bis er glänzend und geschmeidig ist.",
-        "es": "Batir con el resto de la harina, sal, azúcar, huevos, ralladura de naranja, anís y agua de azahar, luego amasar hasta que la masa se despegue del bol; incorporar la mantequilla poco a poco hasta que quede brillante y suave.",
-        "fr": "Incorporer le reste de farine, le sel, le sucre, les œufs, le zeste d'orange, l'anis et l'eau de fleur d'oranger, puis pétrir jusqu'à ce que la pâte se détache du bol ; incorporer le beurre peu à peu jusqu'à obtenir une pâte brillante et lisse.",
-        "ro": "Adaugă restul de făină, sarea, zahărul, ouăle, coaja de portocală, anasonul și apa de flori de portocal, apoi frământă până aluatul se desprinde de vas; încorporează untul treptat până devine lucios și neted."
+        "de": "Das restliche Mehl, Salz, Zucker, Eier, Orangenschale, Anis und Orangenblütenwasser einrühren, dann kneten, bis der Teig fest ist und sich sauber vom Schüsselrand löst; die Butter nach und nach einarbeiten, bis er glänzend und geschmeidig ist.",
+        "es": "Incorporar la harina restante, la sal, el azúcar, los huevos, la ralladura de naranja, el anís y el agua de azahar, luego amasar hasta que la masa esté firme y se despegue limpiamente de las paredes del cuenco; añadir la mantequilla poco a poco hasta que esté brillante y lisa.",
+        "fr": "Incorporer le reste de farine, le sel, le sucre, les œufs, le zeste d'orange, l'anis et l'eau de fleur d'oranger, puis pétrir jusqu'à ce que la pâte soit ferme et se détache proprement des parois du bol; ajouter le beurre progressivement jusqu'à ce qu'elle soit brillante et lisse.",
+        "ro": "Adaugă restul de făină, sarea, zahărul, ouăle, coaja de portocală, anasonul și apa de flori de portocal, apoi frământă până aluatul devine tare și se desprinde de pereții bolului; încorporează untul treptat până devine lucios și neted."
       }
     },
     {
@@ -241,10 +293,10 @@
       },
       "summary": {
         "en": "Let the chilled dough warm up, then divide it: shape two large rounds for the loaves, and from the rest roll thin ropes nipped at regular points so they resemble bones, plus small balls for the skull knobs.",
-        "de": "Den gekühlten Teig aufwärmen lassen, dann teilen: zwei große Kugeln für die Laibe formen und aus dem Rest dünne Stränge rollen, die in Abständen gekniffen werden wie Knochen, dazu kleine Kugeln für die Totenkopf-Knubbel.",
-        "es": "Dejar que la masa fría se atempere, luego dividirla: formar dos bolas grandes para los panes, y con el resto formar tiras finas pellizcadas a intervalos que parezcan huesos, más bolitas para las calaveras.",
-        "fr": "Laisser la pâte froide se réchauffer, puis la diviser : façonner deux grosses boules pour les pains, et avec le reste rouler de fins boudins pincés par endroits pour figurer des os, plus de petites boules pour les têtes de mort.",
-        "ro": "Lasă aluatul rece să se încălzească, apoi împarte-l: modelează două bile mari pentru pâini, iar din rest rulează fitile subțiri, ciupite la intervale ca să semene cu oase, plus bile mici pentru cranii."
+        "de": "Den gekühlten Teig aufwärmen lassen, dann teilen: zwei große Kugeln für die Laibe formen und aus dem Rest dünne Stränge rollen, die in regelmäßigen Abständen eingedrückt werden wie Knochen, dazu kleine Kugeln für die Totenkopfknubbel.",
+        "es": "Dejar que la masa fría se atempere, luego dividirla: formar dos bolas grandes para los panes y con el resto hacer cuerdas finas pellizcadas a intervalos regulares para que parezcan huesos, más bolitas para los nudillos del cráneo.",
+        "fr": "Laisser la pâte réfrigérée se réchauffer, puis la diviser: façonner deux grosses boules pour les pains, et avec le reste rouler des cordons fins pincés à intervalles réguliers pour imiter des os, plus de petites boules pour les bosses de crâne.",
+        "ro": "Lasă aluatul rece să se încălzească, apoi împarte-l: modelează două bile mari pentru pâini, iar din rest rulează șnururi subțiri, ciupite la intervale regulate ca să semene cu oase, plus bile mici pentru nodozitățile craniului."
       }
     },
     {
@@ -301,7 +353,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "formula.* covers the mixed dough only; the basting butter and finishing sugar coat are listed as separate ingredients, not counted in fatPct/sugarPct."
+      "en": "formula.* covers the mixed dough only; the basting butter and finishing sugar coat are listed as separate ingredients, not counted in fatPct/sugarPct.",
+      "de": "formula.* deckt nur den gemischten Teig ab; die Bestreichbutter und die Zuckerschicht sind als separate Zutaten aufgeführt, nicht in fatPct/sugarPct enthalten.",
+      "es": "formula.* cubre solo la masa mezclada; la mantequilla para pincelar y la capa de azúcar final se listan como ingredientes separados, no contados en fatPct/sugarPct.",
+      "fr": "formula.* ne couvre que la pâte mélangée; le beurre de badigeonnage et la couche de sucre final sont listés comme ingrédients séparés, non comptés dans fatPct/sugarPct.",
+      "ro": "formula.* acoperă doar aluatul mixat; untul de uns și stratul de zahăr final sunt listate ca ingrediente separate, neincluse în fatPct/sugarPct."
     }
   },
   "tags": [

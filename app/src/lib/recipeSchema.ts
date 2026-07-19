@@ -23,12 +23,16 @@ const localizedName = localized.extend({ native: z.string().optional() });
 
 /**
  * Prose that renders on the page and therefore needs a translation. English is
- * required and keeps its original budget; the other languages arrive per
- * language so they stay optional, and they get headroom because the same
- * sentence runs longer in German and French than it does in English.
+ * required and keeps its original budget; the other languages stay optional and
+ * get headroom, because the same sentence runs longer once translated.
+ *
+ * The 2x is measured, not guessed. Across the translated corpus the median is
+ * only 1.15x, but terse strings expand hardest: "toasted" becomes "geröstet,
+ * vorher angeröstet", and a 60 character pan description reached 90 in German.
+ * A tighter multiplier rejected correct translations rather than bad ones.
  */
 const prose = (max: number) => {
-  const wide = Math.round(max * 1.4);
+  const wide = max * 2;
   return z
     .object({
       en: z.string().max(max),

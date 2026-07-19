@@ -23,10 +23,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Wales"
+      "en": "Wales",
+      "de": "Wales",
+      "es": "Gales",
+      "fr": "Pays de Galles",
+      "ro": "Țara Galilor"
     },
     "note": {
-      "en": "Two real traditions exist: an older yeast-leavened bread and this now-dominant chemically-leavened tea loaf. This entry follows the tea loaf, the version most Welsh households and cafés make today; eaten at teatime, St David's Day and Christmas."
+      "en": "Two real traditions exist: an older yeast-leavened bread and this now-dominant chemically-leavened tea loaf. This entry follows the tea loaf, the version most Welsh households and cafés make today; eaten at teatime, St David's Day and Christmas.",
+      "de": "Es gibt zwei echte Traditionen: ein älteres, mit Hefe getriebenes Brot und diesen heute vorherrschenden, chemisch getriebenen Teekuchen. Dieser Eintrag folgt dem Teekuchen, der Version, die die meisten walisischen Haushalte und Cafés heute machen; gegessen zur Teezeit, am St. David's Day und zu Weihnachten.",
+      "es": "Existen dos tradiciones reales: un pan más antiguo fermentado con levadura y este bizcocho de té ahora dominante con levadura química. Esta entrada sigue el bizcocho de té, la versión que la mayoría de los hogares y cafés galeses hacen hoy; se come a la hora del té, el Día de San David y Navidad.",
+      "fr": "Deux traditions existent: un pain plus ancien à la levure et ce gâteau au thé désormais dominant, levé chimiquement. Cette entrée suit le gâteau au thé, la version que la plupart des foyers et cafés gallois préparent aujourd'hui; consommé à l'heure du thé, à la Saint-David et à Noël.",
+      "ro": "Există două tradiții reale: o pâine mai veche dospită cu drojdie și această prăjitură cu ceai acum dominantă, dospită chimic. Această intrare urmează prăjitura cu ceai, versiunea pe care majoritatea gospodăriilor și cafenelelor galeze o fac astăzi; consumată la ceai, de Ziua Sfântului David și de Crăciun."
     }
   },
   "leaven": "chemical",
@@ -49,7 +57,11 @@
       "key": "flour:wheat-white",
       "grams": 250,
       "note": {
-        "en": "self-raising flour"
+        "en": "self-raising flour",
+        "de": "Mehl mit Backtriebmittel",
+        "es": "harina con levadura incorporada",
+        "fr": "farine avec poudre levante",
+        "ro": "făină cu praf de copt"
       }
     },
     {
@@ -62,21 +74,33 @@
       },
       "grams": 300,
       "note": {
-        "en": "poured hot over the fruit, soaked overnight"
+        "en": "poured hot over the fruit, soaked overnight",
+        "de": "heiß über die Früchte gegossen, über Nacht eingeweicht",
+        "es": "vertido caliente sobre la fruta, remojado toda la noche",
+        "fr": "versé chaud sur les fruits, trempé toute la nuit",
+        "ro": "turnat fierbinte peste fructe, înmuiat peste noapte"
       }
     },
     {
       "key": "raisins",
       "grams": 400,
       "note": {
-        "en": "mixed sultanas, raisins and currants"
+        "en": "mixed sultanas, raisins and currants",
+        "de": "gemischte Sultaninen, Rosinen und Johannisbeeren",
+        "es": "mezcla de sultanas, pasas y grosellas",
+        "fr": "mélange de sultanines, raisins secs et groseilles",
+        "ro": "amestec de stafide aurii, stafide și coacăze"
       }
     },
     {
       "key": "brown-sugar",
       "grams": 100,
       "note": {
-        "en": "dark muscovado"
+        "en": "dark muscovado",
+        "de": "dunkler Muscovado",
+        "es": "muscovado oscuro",
+        "fr": "muscovado foncé",
+        "ro": "muscovado închis"
       }
     },
     {
@@ -93,14 +117,22 @@
       },
       "grams": 5,
       "note": {
-        "en": "British-style blend: cinnamon, nutmeg, allspice"
+        "en": "British-style blend: cinnamon, nutmeg, allspice",
+        "de": "britische Mischung: Zimt, Muskat, Piment",
+        "es": "mezcla británica: canela, nuez moscada, pimienta de Jamaica",
+        "fr": "mélange britannique: cannelle, noix de muscade, quatre-épices",
+        "ro": "amestec britanic: scorțișoară, nucșoară, allspice"
       }
     },
     {
       "key": "honey",
       "grams": 15,
       "note": {
-        "en": "for glazing after baking"
+        "en": "for glazing after baking",
+        "de": "zum Glasieren nach dem Backen",
+        "es": "para glasear después de hornear",
+        "fr": "pour glacer après la cuisson",
+        "ro": "pentru glazurat după coacere"
       }
     }
   ],
@@ -108,7 +140,11 @@
     "count": 1,
     "pieceGrams": 1000,
     "shape": {
-      "en": "2lb/900g loaf tin"
+      "en": "2lb/900g loaf tin",
+      "de": "Kastenform 900 g",
+      "es": "molde de 900 g",
+      "fr": "moule à cake de 900 g",
+      "ro": "tavă de 900 g"
     }
   },
   "time": {
@@ -148,7 +184,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Tea-soaked fruit keeps this loaf moist far longer than most quick breads; many say it's best on day two or three."
+      "en": "Tea-soaked fruit keeps this loaf moist far longer than most quick breads; many say it's best on day two or three.",
+      "de": "In Tee eingelegte Früchte halten diesen Kuchen weit länger feucht als die meisten Schnellbrote; viele sagen, er schmeckt am zweiten oder dritten Tag am besten.",
+      "es": "La fruta remojada en té mantiene este bizcocho húmedo mucho más tiempo que la mayoría de los panes rápidos; muchos dicen que está mejor al segundo o tercer día.",
+      "fr": "Les fruits infusés dans le thé gardent ce gâteau humide bien plus longtemps que la plupart des pains rapides; beaucoup disent qu'il est meilleur au deuxième ou troisième jour.",
+      "ro": "Fructele înmuiate în ceai mențin această prăjitură umedă mult mai mult decât majoritatea pâinilor rapide; mulți spun că este cel mai bun în a doua sau a treia zi."
     }
   },
   "equipment": [
@@ -241,7 +281,11 @@
     "site": "Visit Wales",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Picked the dominant chemical tea-loaf version over the older yeasted original. Hydration% treats soaking tea as dough liquid, adapted since it's absorbed by fruit, not kneaded into gluten."
+      "en": "Picked the dominant chemical tea-loaf version over the older yeasted original. Hydration% treats soaking tea as dough liquid, adapted since it's absorbed by fruit, not kneaded into gluten.",
+      "de": "Die dominante chemisch getriebene Teekuchen-Version wurde dem älteren hefigen Original vorgezogen. Die Hydratation behandelt den Tee zum Einweichen als Teigflüssigkeit, angepasst da er von den Früchten aufgenommen wird, nicht in Gluten eingeknetet.",
+      "es": "Se eligió la versión dominante de bizcocho de té con levadura química sobre la original más antigua con levadura. El porcentaje de hidratación trata el té de remojo como líquido de la masa, adaptado ya que es absorbido por la fruta, no amasado en gluten.",
+      "fr": "La version dominante du gâteau au thé à levure chimique a été choisie plutôt que l'originale plus ancienne à la levure. Le % d'hydratation traite le thé de trempage comme liquide de pâte, adapté car absorbé par les fruits, non pétri dans le gluten.",
+      "ro": "S-a ales versiunea chimică dominantă de prăjitură cu ceai în locul originalului mai vechi cu drojdie. Procentul de hidratare tratează ceaiul de înmuiere ca lichid de aluat, adaptat deoarece este absorbit de fructe, nu frământat în gluten."
     }
   },
   "tags": [

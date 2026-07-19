@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Portland, Oregon"
+      "en": "Portland, Oregon",
+      "de": "Portland, Oregon",
+      "es": "Portland, Oregón",
+      "fr": "Portland, Oregon",
+      "ro": "Portland, Oregon"
     },
     "note": {
-      "en": "From Ken Forkish's 'Flour Water Salt Yeast' (2012), by way of Ken's Artisan Bakery; the 'field blend' name borrows from winemaking's practice of co-fermenting several grape varieties."
+      "en": "From Ken Forkish's 'Flour Water Salt Yeast' (2012), by way of Ken's Artisan Bakery; the 'field blend' name borrows from winemaking's practice of co-fermenting several grape varieties.",
+      "de": "Aus Ken Forkish' 'Flour Water Salt Yeast' (2012), über Ken's Artisan Bakery; der Name 'field blend' entlehnt der Weinbereitung die Praxis der Co-Fermentation mehrerer Rebsorten.",
+      "es": "Del libro 'Flour Water Salt Yeast' de Ken Forkish (2012), a través de Ken's Artisan Bakery; el nombre 'field blend' toma prestada la práctica vinícola de co-fermentar varias variedades de uva.",
+      "fr": "Du livre 'Flour Water Salt Yeast' de Ken Forkish (2012), via Ken's Artisan Bakery; le nom 'field blend' emprunte à la vinification la pratique de co-fermenter plusieurs cépages.",
+      "ro": "Din cartea 'Flour Water Salt Yeast' a lui Ken Forkish (2012), prin Ken's Artisan Bakery; numele 'field blend' împrumută din vinificație practica de co-fermentare a mai multor soiuri de struguri."
     }
   },
   "leaven": "hybrid",
@@ -55,7 +63,11 @@
       "key": "flour:wheat-white",
       "grams": 700,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de fuerza",
+        "fr": "farine de pain",
+        "ro": "făină pentru pâine"
       }
     },
     {
@@ -74,7 +86,11 @@
       "key": "levain",
       "grams": 180,
       "note": {
-        "en": "built the day before from starter, flour and water"
+        "en": "built the day before from starter, flour and water",
+        "de": "am Vortag aus Anstellgut, Mehl und Wasser angesetzt",
+        "es": "preparado el día anterior con prefermento, harina y agua",
+        "fr": "construit la veille avec levain, farine et eau",
+        "ro": "pregătit cu o zi înainte din maia, făină și apă"
       }
     },
     {
@@ -85,7 +101,11 @@
       "key": "instant-yeast",
       "grams": 2,
       "note": {
-        "en": "a small insurance amount alongside the wild levain"
+        "en": "a small insurance amount alongside the wild levain",
+        "de": "eine kleine Absicherung neben dem Wildhefe-Sauerteig",
+        "es": "una pequeña cantidad de seguro junto al levain silvestre",
+        "fr": "une petite quantité de sécurité en complément du levain sauvage",
+        "ro": "o cantitate mică de siguranță pe lângă levain-ul sălbatic"
       }
     }
   ],
@@ -93,7 +113,11 @@
     "count": 2,
     "pieceGrams": 850,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {
@@ -257,7 +281,11 @@
     "author": "After Ken Forkish / Flour Water Salt Yeast",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Source gives flour percentages and partial timing from a halved batch, but not hydration or salt; those and the gram scale are estimated from Forkish's well-documented formula conventions."
+      "en": "Source gives flour percentages and partial timing from a halved batch, but not hydration or salt; those and the gram scale are estimated from Forkish's well-documented formula conventions.",
+      "de": "Die Quelle gibt Mehlprozente und teilweise Zeiten aus einer halbierten Charge an, aber nicht Hydratation oder Salz; diese und die Grammangaben sind aus Forkish' gut dokumentierten Formelkonventionen geschätzt.",
+      "es": "La fuente da porcentajes de harina y tiempos parciales de un lote reducido a la mitad, pero no la hidratación ni la sal; estos y la escala en gramos se estiman de las convenciones de fórmula bien documentadas de Forkish.",
+      "fr": "La source donne des pourcentages de farine et des temps partiels d'un lot divisé par deux, mais pas l'hydratation ni le sel; ceux-ci et l'échelle en grammes sont estimés à partir des conventions de formule bien documentées de Forkish.",
+      "ro": "Sursa oferă procente de făină și timpi parțiali dintr-un lot înjumătățit, dar nu hidratarea sau sarea; acestea și cantitățile în grame sunt estimate din convențiile de formulă bine documentate ale lui Forkish."
     }
   },
   "tags": [

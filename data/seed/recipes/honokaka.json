@@ -22,10 +22,18 @@
   "origin": {
     "country": "SE",
     "region": {
-      "en": "Hönö, Bohuslän archipelago near Gothenburg"
+      "en": "Hönö, Bohuslän archipelago near Gothenburg",
+      "de": "Hönö, Bohuslän-Archipel bei Göteborg",
+      "es": "Hönö, archipiélago de Bohuslän cerca de Gotemburgo",
+      "fr": "Hönö, archipel de Bohuslän près de Göteborg",
+      "ro": "Hönö, arhipelagul Bohuslän lângă Göteborg"
     },
     "note": {
-      "en": "Named for the island of Hönö; historically made with hjorthornssalt (deer-antler salt), now ammonium carbonate."
+      "en": "Named for the island of Hönö; historically made with hjorthornssalt (deer-antler salt), now ammonium carbonate.",
+      "de": "Benannt nach der Insel Hönö; historisch mit Hjorthornssalt (Hirschhornsalz) gemacht, heute Ammoniumcarbonat.",
+      "es": "Nombrado por la isla de Hönö; históricamente hecho con hjorthornssalt (sal de cuerno de ciervo), ahora carbonato de amonio.",
+      "fr": "Nommé d'après l'île de Hönö; historiquement fait avec du hjorthornssalt (sel de corne de cerf), maintenant du carbonate d'ammonium.",
+      "ro": "Numit după insula Hönö; făcut istoric cu hjorthornssalt (sare de corn de cerb), acum carbonat de amoniu."
     }
   },
   "leaven": "yeast",
@@ -88,7 +96,11 @@
     "count": 4,
     "pieceGrams": 175,
     "shape": {
-      "en": "large 25cm round, traditionally cut into half-moons"
+      "en": "large 25cm round, traditionally cut into half-moons",
+      "de": "großer runder Laib von 25 cm, traditionell in Halbmonde geschnitten",
+      "es": "redondo grande de 25 cm, tradicionalmente cortado en medialunas",
+      "fr": "grand rond de 25 cm, traditionnellement coupé en demi-lunes",
+      "ro": "rotund mare de 25 cm, tăiat tradițional în semilune"
     }
   },
   "time": {
@@ -130,7 +142,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Best fresh or lightly toasted within a few days; freezes well split into halves."
+      "en": "Best fresh or lightly toasted within a few days; freezes well split into halves.",
+      "de": "Am besten frisch oder leicht geröstet innerhalb weniger Tage; in Hälften geteilt gut einfrierbar.",
+      "es": "Mejor fresco o ligeramente tostado dentro de unos días; se congela bien partido por la mitad.",
+      "fr": "Meilleur frais ou légèrement toasté dans les quelques jours; se congèle bien coupé en deux.",
+      "ro": "Cel mai bun proaspăt sau ușor prăjit în câteva zile; se congela bine tăiat în jumătăți."
     }
   },
   "equipment": [
@@ -255,7 +271,11 @@
     "site": "Scandinavian Simple Eating",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Golden syrup weight estimated from a honey-density conversion since the source lists it only by spoon measure."
+      "en": "Golden syrup weight estimated from a honey-density conversion since the source lists it only by spoon measure.",
+      "de": "Gewicht des Golden Syrup anhand einer Honigdichte-Umrechnung geschätzt, da die Quelle es nur nach Löffelmaß angibt.",
+      "es": "Peso del golden syrup estimado a partir de una conversión de densidad de la miel, ya que la fuente lo indica solo por medida de cuchara.",
+      "fr": "Poids du golden syrup estimé à partir d'une conversion de densité du miel car la source ne le donne qu'à la cuillère.",
+      "ro": "Greutatea siropului golden estimată dintr-o conversie a densității mierii, deoarece sursa îl menționează doar ca măsură de lingură."
     }
   },
   "tags": [

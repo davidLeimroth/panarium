@@ -22,10 +22,18 @@
   "origin": {
     "country": "SI",
     "region": {
-      "en": "Central Slovenia, rural highland communities"
+      "en": "Central Slovenia, rural highland communities",
+      "de": "Zentralslowenien, ländliche Hochlandgemeinden",
+      "es": "Eslovenia central, comunidades rurales de las tierras altas",
+      "fr": "Slovénie centrale, communautés rurales des hautes terres",
+      "ro": "Slovenia centrală, comunități rurale de munte"
     },
     "note": {
-      "en": "Buckwheat suits Slovenia's poor mountain soils and short seasons better than wheat, making this loaf a historic staple of rural households; families reportedly kept baking it through wartime shortages."
+      "en": "Buckwheat suits Slovenia's poor mountain soils and short seasons better than wheat, making this loaf a historic staple of rural households; families reportedly kept baking it through wartime shortages.",
+      "de": "Buchweizen gedeiht auf Sloweniens kargen Bergböden und kurzen Vegetationsperioden besser als Weizen, was diesen Laib zu einem historischen Grundnahrungsmittel ländlicher Haushalte machte; Familien backten ihn Berichten zufolge auch während kriegsbedingter Engpässe weiter.",
+      "es": "El trigo sarraceno se adapta mejor que el trigo a los pobres suelos de montaña y las cortas temporadas de Eslovenia, convirtiendo esta hogaza en un alimento básico histórico de los hogares rurales; según se informa, las familias siguieron horneándolo durante la escasez de la guerra.",
+      "fr": "Le sarrasin convient mieux que le blé aux pauvres sols de montagne et aux courtes saisons de la Slovénie, faisant de ce pain un aliment de base historique des foyers ruraux; les familles auraient continué à le cuire pendant les pénuries de guerre.",
+      "ro": "Hrișca se potrivește mai bine solurilor sărace de munte și sezoanelor scurte ale Sloveniei decât grâul, făcând această pâine un aliment de bază istoric al gospodăriilor rurale; familiile ar fi continuat să o coacă și în timpul penuriilor de război."
     }
   },
   "leaven": "yeast",
@@ -56,14 +64,22 @@
       "key": "flour:wheat-white",
       "grams": 150,
       "note": {
-        "en": "strong/bread flour, for structure"
+        "en": "strong/bread flour, for structure",
+        "de": "starkes Brotmehl, für die Struktur",
+        "es": "harina de pan de fuerza, para la estructura",
+        "fr": "farine à pain forte, pour la structure",
+        "ro": "făină de pâine puternică, pentru structură"
       }
     },
     {
       "key": "water",
       "grams": 400,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -74,7 +90,11 @@
       "key": "salt",
       "grams": 12,
       "note": {
-        "en": "source says only \"to taste\"; a typical baker's-percentage estimate"
+        "en": "source says only \"to taste\"; a typical baker's-percentage estimate",
+        "de": "Quelle sagt nur ‚nach Geschmack‘; ein typischer Bäckerprozent-Schätzwert",
+        "es": "la fuente solo dice ‚al gusto‘; una estimación típica de porcentaje de panadero",
+        "fr": "la source dit seulement ‚à votre goût‘; une estimation typique selon le pourcentage du boulanger",
+        "ro": "sursa spune doar ‚după gust‘; o estimare tipică a procentului de brutărie"
       }
     },
     {
@@ -86,7 +106,11 @@
     "count": 1,
     "pieceGrams": 990,
     "shape": {
-      "en": "oval hearth loaf"
+      "en": "oval hearth loaf",
+      "de": "ovaler Herdlaib",
+      "es": "hogaza oval de hogar",
+      "fr": "pain de foyer ovale",
+      "ro": "pâine ovală de vatră"
     }
   },
   "time": {
@@ -265,7 +289,11 @@
     "site": "Excited Food",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Bake temperature/time (absent here) taken from a second recipe for the same bread. Yeast read as one 25g fresh-yeast cake; salt estimated since this source says only \"to taste.\""
+      "en": "Bake temperature/time (absent here) taken from a second recipe for the same bread. Yeast read as one 25g fresh-yeast cake; salt estimated since this source says only \"to taste.\"",
+      "de": "Backtemperatur/‑zeit (hier fehlend) aus einem zweiten Rezept für dasselbe Brot übernommen. Hefe als ein 25-g-Würfel Frischhefe interpretiert; Salz geschätzt, da die Quelle nur ‚nach Geschmack‘ angibt.",
+      "es": "Temperatura/tiempo de horneado (ausente aquí) tomados de una segunda receta para el mismo pan. Levadura interpretada como un cubo de 25 g de levadura fresca; sal estimada ya que la fuente solo dice ‚al gusto‘.",
+      "fr": "Température/temps de cuisson (absents ici) repris d'une deuxième recette pour le même pain. Levure interprétée comme un cube de 25 g de levure fraîche; sel estimé car la source dit seulement ‚à votre goût‘.",
+      "ro": "Temperatura/timpul de coacere (absent aici) preluate dintr-o a doua rețetă pentru aceeași pâine. Drojdia interpretată ca un cub de 25 g de drojdie proaspătă; sarea estimată deoarece sursa spune doar ‚după gust‘."
     }
   },
   "tags": [

@@ -18,10 +18,18 @@
   "origin": {
     "country": "ES",
     "region": {
-      "en": "Catalonia"
+      "en": "Catalonia",
+      "de": "Katalonien",
+      "es": "Cataluña",
+      "fr": "Catalogne",
+      "ro": "Catalonia"
     },
     "note": {
-      "en": "One of Spain's IGP-recognized breads; the round hogaza needs no scoring because the seams left from shaping crack open on their own during baking."
+      "en": "One of Spain's IGP-recognized breads; the round hogaza needs no scoring because the seams left from shaping crack open on their own during baking.",
+      "de": "Eines der von der IGP anerkannten spanischen Brote; die runde Hogaza muss nicht eingeschnitten werden, weil die Nähte aus dem Formen beim Backen von selbst aufplatzen.",
+      "es": "Uno de los panes españoles reconocidos por la IGP; la hogaza redonda no necesita marcado porque las costuras del formado se abren solas durante el horneado.",
+      "fr": "L'un des pains espagnols reconnus par l'IGP; la hogaza ronde n'a pas besoin de scarification car les coutures du façonnage s'ouvrent d'elles-mêmes à la cuisson.",
+      "ro": "Una dintre pâinile spaniole recunoscute IGP; hogaza rotundă nu are nevoie de incizare deoarece cusăturile de la modelare se deschid de la sine în timpul coacerii."
     }
   },
   "leaven": "sourdough",
@@ -51,7 +59,11 @@
       "key": "sourdough-starter",
       "grams": 90,
       "note": {
-        "en": "masa madre sólida, roughly 50% hydration"
+        "en": "masa madre sólida, roughly 50% hydration",
+        "de": "Masa madre sólida, etwa 50 % Hydration",
+        "es": "masa madre sólida, aproximadamente 50 % de hidratación",
+        "fr": "masa madre sólida, environ 50 % d'hydratation",
+        "ro": "masa madre sólida, aproximativ 50 % hidratare"
       }
     },
     {
@@ -63,7 +75,11 @@
     "count": 1,
     "pieceGrams": 925,
     "shape": {
-      "en": "round loaf (hogaza), unscored, it cracks naturally"
+      "en": "round loaf (hogaza), unscored, it cracks naturally",
+      "de": "runder Laib (Hogaza), nicht eingeschnitten, er platzt natürlich auf",
+      "es": "hogaza redonda, sin marcar, se abre naturalmente",
+      "fr": "pain rond (hogaza), non scarifié, il fissure naturellement",
+      "ro": "pâine rotundă (hogaza), neincizată, crapă natural"
     }
   },
   "time": {
@@ -104,7 +120,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The sourdough and thick crust give it decent keeping power, typical of Catalonia's classic everyday country loaf."
+      "en": "The sourdough and thick crust give it decent keeping power, typical of Catalonia's classic everyday country loaf.",
+      "de": "Der Sauerteig und die dicke Kruste verleihen ihm eine ordentliche Haltbarkeit, typisch für den klassischen katalanischen Alltagslaib.",
+      "es": "La masa madre y la corteza gruesa le dan una capacidad de conservación decente, típica del pan campestre clásico cotidiano de Cataluña.",
+      "fr": "Le levain et la croûte épaisse lui confèrent une capacité de conservation décente, typique du pain de campagne classique quotidien de Catalogne.",
+      "ro": "Maiaua și crusta groasă îi conferă o capacitate decentă de păstrare, tipică pâinii de țară clasice de zi cu zi a Cataloniei."
     }
   },
   "equipment": [
@@ -213,7 +233,11 @@
     "site": "Levanova",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Reconstructed using this site's no-scoring, flip-to-crack method with typical pan de payés ratios (60-70% hydration, 15-20% solid starter), not the site's own commercial starter-packet amounts."
+      "en": "Reconstructed using this site's no-scoring, flip-to-crack method with typical pan de payés ratios (60-70% hydration, 15-20% solid starter), not the site's own commercial starter-packet amounts.",
+      "de": "Rekonstruiert mit der kein-Einschnitt-, Wende-zum-Aufplatzen-Methode dieser Website mit typischen Pan-de-Payés-Verhältnissen (60-70 % Hydration, 15-20 % fester Starter), nicht mit den eigenen kommerziellen Starterpulvermengen der Website.",
+      "es": "Reconstruido usando el método sin marcado, voltear para que se abra de este sitio, con proporciones típicas de pan de payés (60-70 % de hidratación, 15-20 % de masa madre sólida), no las cantidades de paquete de masa madre comercial del sitio.",
+      "fr": "Reconstitué en utilisant la méthode sans scarification, retournement pour fissuration de ce site, avec des ratios typiques de pan de payés (60-70 % d'hydratation, 15-20 % de levain solide), pas les quantités de sachet de levain commercial du site.",
+      "ro": "Reconstruit folosind metoda fără incizare, întoarcere-pentru-crăpare a acestui site, cu proporții tipice de pan de payés (60-70 % hidratare, 15-20 % maia solidă), nu cantitățile din pachetul de maia comercială ale site-ului."
     }
   },
   "tags": [

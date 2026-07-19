@@ -23,10 +23,18 @@
   "origin": {
     "country": "AE",
     "region": {
-      "en": "United Arab Emirates and the wider Gulf"
+      "en": "United Arab Emirates and the wider Gulf",
+      "de": "Vereinigte Arabische Emirate und die weitere Golfregion",
+      "es": "Emiratos Árabes Unidos y el Golfo en general",
+      "fr": "Émirats arabes unis et l'ensemble du Golfe",
+      "ro": "Emiratele Arabe Unite și regiunea mai largă a Golfului"
     },
     "note": {
-      "en": "A teatime bread from Emirati and Gulf households, brushed with saffron milk and finished with sesame; often paired with cheese, honey or a savory filling like labneh or olives."
+      "en": "A teatime bread from Emirati and Gulf households, brushed with saffron milk and finished with sesame; often paired with cheese, honey or a savory filling like labneh or olives.",
+      "de": "Ein Teezeitbrot aus emiratischen und Golfhaushalten, mit Safranmilch bestrichen und mit Sesam verfeinert; oft mit Käse, Honig oder einer herzhaften Füllung wie Labneh oder Oliven kombiniert.",
+      "es": "Un pan de la hora del té de hogares emiratíes y del Golfo, pincelado con leche de azafrán y terminado con sésamo; a menudo combinado con queso, miel o un relleno salado como labneh o aceitunas.",
+      "fr": "Un pain de l'heure du thé des foyers émiratis et du Golfe, badigeonné de lait au safran et fini au sésame; souvent accompagné de fromage, de miel ou d'une garniture salée comme du labneh ou des olives.",
+      "ro": "O pâine de ceai din gospodăriile emirateze și ale Golfului, unsă cu lapte de șofran și finisată cu susan; adesea asociată cu brânză, miere sau o umplutură sărată precum labneh sau măsline."
     }
   },
   "leaven": "yeast",
@@ -50,7 +58,11 @@
       "key": "flour:wheat-white",
       "grams": 250,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
@@ -73,7 +85,11 @@
       "key": "milk",
       "grams": 150,
       "note": {
-        "en": "warm, plus extra infused with saffron for brushing"
+        "en": "warm, plus extra infused with saffron for brushing",
+        "de": "warm, plus extra mit Safran durchzogen zum Bestreichen",
+        "es": "tibia, más extra infusionada con azafrán para pincelar",
+        "fr": "tiède, plus un supplément infusé au safran pour badigeonner",
+        "ro": "călduță, plus suplimentar infuzată cu șofran pentru uns"
       }
     },
     {
@@ -88,7 +104,11 @@
       "key": "sesame-seeds",
       "grams": 18,
       "note": {
-        "en": "black and white mix, for topping"
+        "en": "black and white mix, for topping",
+        "de": "schwarz-weiße Mischung, für den Belag",
+        "es": "mezcla negra y blanca, para la cobertura",
+        "fr": "mélange noir et blanc, pour la garniture",
+        "ro": "amestec negru și alb, pentru topping"
       }
     },
     {
@@ -101,7 +121,11 @@
       },
       "grams": 0.2,
       "note": {
-        "en": "steeped in the milk used for brushing"
+        "en": "steeped in the milk used for brushing",
+        "de": "in der zum Bestreichen verwendeten Milch eingelegt",
+        "es": "infusionado en la leche usada para pincelar",
+        "fr": "infusé dans le lait utilisé pour badigeonner",
+        "ro": "infuzat în laptele folosit pentru uns"
       }
     }
   ],
@@ -109,7 +133,11 @@
     "count": 4,
     "pieceGrams": 118,
     "shape": {
-      "en": "round flatbread, about 15 cm"
+      "en": "round flatbread, about 15 cm",
+      "de": "rundes Fladenbrot, etwa 15 cm",
+      "es": "pan plano redondo, de unos 15 cm",
+      "fr": "pain plat rond, d'environ 15 cm",
+      "ro": "pâine plată rotundă, de aproximativ 15 cm"
     }
   },
   "time": {
@@ -150,7 +178,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm or at room temperature the same day; wrap airtight to keep it soft for a second day."
+      "en": "Best warm or at room temperature the same day; wrap airtight to keep it soft for a second day.",
+      "de": "Am besten warm oder bei Raumtemperatur am selben Tag; luftdicht einwickeln, um es für einen zweiten Tag weich zu halten.",
+      "es": "Mejor caliente o a temperatura ambiente el mismo día; envolver hermético para mantenerlo blando un segundo día.",
+      "fr": "Meilleur chaud ou à température ambiante le jour même; emballer hermétiquement pour le garder moelleux un deuxième jour.",
+      "ro": "Cel mai bun cald sau la temperatura camerei în aceeași zi; înfășoară ermetic pentru a-l menține moale și a doua zi."
     }
   },
   "equipment": [
@@ -259,7 +291,11 @@
     "site": "My Cooking Journey",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tablespoon quantities converted to grams; saffron threads reduced to a token weight since a quarter teaspoon is nearly negligible by mass."
+      "en": "Cup/tablespoon quantities converted to grams; saffron threads reduced to a token weight since a quarter teaspoon is nearly negligible by mass.",
+      "de": "Tassen-/Esslöffelmengen in Gramm umgerechnet; Safranfäden auf ein symbolisches Gewicht reduziert, da ein Viertel Teelöffel von der Masse her nahezu vernachlässigbar ist.",
+      "es": "Cantidades en tazas/cucharadas convertidas a gramos; hebras de azafrán reducidas a un peso simbólico, ya que un cuarto de cucharadita es casi insignificante en masa.",
+      "fr": "Quantités en tasses/cuillères à soupe converties en grammes; filaments de safran réduits à un poids symbolique car un quart de cuillère à café est presque négligeable en masse.",
+      "ro": "Cantitățile în căni/linguri convertite în grame; firele de șofran reduse la o greutate simbolică, deoarece un sfert de linguriță este aproape neglijabil ca masă."
     }
   },
   "tags": [

@@ -20,10 +20,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Lüneburg Heath (Lüneburger Heide), Lower Saxony"
+      "en": "Lüneburg Heath (Lüneburger Heide), Lower Saxony",
+      "de": "Lüneburger Heide, Niedersachsen",
+      "es": "Lüneburger Heide, Baja Sajonia",
+      "fr": "Landes de Lunebourg, Basse-Saxe",
+      "ro": "Lüneburger Heide, Saxonia Inferioară"
     },
     "note": {
-      "en": "Buckwheat was historically called 'Heidekorn' (heath grain) because it tolerates the Heath's poor, sandy soil far better than wheat or rye."
+      "en": "Buckwheat was historically called 'Heidekorn' (heath grain) because it tolerates the Heath's poor, sandy soil far better than wheat or rye.",
+      "de": "Buchweizen wurde historisch 'Heidekorn' (Heidekorn) genannt, weil er den armen, sandigen Boden der Heide weit besser verträgt als Weizen oder Roggen.",
+      "es": "El trigo sarraceno se llamaba históricamente 'Heidekorn' (grano de brezal) porque tolera el suelo pobre y arenoso del brezal mucho mejor que el trigo o el centeno.",
+      "fr": "Le sarrasin était historiquement appelé 'Heidekorn' (grain de lande) car il tolère le sol pauvre et sablonneux de la lande bien mieux que le blé ou le seigle.",
+      "ro": "Hrișca era numită istoric 'Heidekorn' (cereală de landă) deoarece tolerează solul sărac și nisipos al landei mult mai bine decât grâul sau secara."
     }
   },
   "leaven": "hybrid",
@@ -54,21 +62,33 @@
       "key": "flour:wheat-white",
       "grams": 1050,
       "note": {
-        "en": "Weizenmehl Type 550, split between sourdough and main dough"
+        "en": "Weizenmehl Type 550, split between sourdough and main dough",
+        "de": "Weizenmehl Type 550, aufgeteilt zwischen Sauerteig und Hauptteig",
+        "es": "Weizenmehl Type 550, dividido entre masa madre y masa principal",
+        "fr": "Weizenmehl Type 550, réparti entre levain et pâte principale",
+        "ro": "Weizenmehl Type 550, împărțit între maia și aluatul principal"
       }
     },
     {
       "key": "flour:rye-whole",
       "grams": 100,
       "note": {
-        "en": "Roggenvollkornmehl"
+        "en": "Roggenvollkornmehl",
+        "de": "Roggenvollkornmehl",
+        "es": "Roggenvollkornmehl",
+        "fr": "Roggenvollkornmehl",
+        "ro": "Roggenvollkornmehl"
       }
     },
     {
       "key": "flour:buckwheat",
       "grams": 100,
       "note": {
-        "en": "Buchweizenvollkornmehl, the region's traditional \"Heidekorn\""
+        "en": "Buchweizenvollkornmehl, the region's traditional \"Heidekorn\"",
+        "de": "Buchweizenvollkornmehl, das traditionelle 'Heidekorn' der Region",
+        "es": "Buchweizenvollkornmehl, el tradicional 'Heidekorn' de la región",
+        "fr": "Buchweizenvollkornmehl, le traditionnel 'Heidekorn' de la région",
+        "ro": "Buchweizenvollkornmehl, tradiționalul 'Heidekorn' al regiunii"
       }
     },
     {
@@ -92,7 +112,11 @@
     "count": 2,
     "pieceGrams": 1075,
     "shape": {
-      "en": "round loaves, proofed in baskets"
+      "en": "round loaves, proofed in baskets",
+      "de": "runde Laibe, in Körben gegart",
+      "es": "hogazas redondas, fermentadas en cestos",
+      "fr": "pains ronds, poussés dans des bannetons",
+      "ro": "pâini rotunde, dospite în coșuri"
     }
   },
   "time": {
@@ -134,7 +158,11 @@
     "freshDays": 4.5,
     "freezes": true,
     "note": {
-      "en": "Sourdough tang and the rye-buckwheat blend keep it moist for several days; freezes well sliced."
+      "en": "Sourdough tang and the rye-buckwheat blend keep it moist for several days; freezes well sliced.",
+      "de": "Sauerteig-Säure und die Roggen-Buchweizen-Mischung halten es mehrere Tage feucht; lässt sich in Scheiben gut einfrieren.",
+      "es": "El toque ácido de la masa madre y la mezcla de centeno y trigo sarraceno lo mantienen húmedo durante varios días; se congela bien en rodajas.",
+      "fr": "L'acidité du levain et le mélange seigle-sarrasin le gardent humide plusieurs jours; se congèle bien tranché.",
+      "ro": "Aciditatea maielei și amestecul de secară și hrișcă îl mențin umed câteva zile; se congela bine feliat."
     }
   },
   "equipment": [
@@ -260,7 +288,11 @@
     "site": "Hefe und mehr",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased; the source does not mention a rolled-oats topping, so none is included; overall timing outside the stated bake time is estimated from typical practice for this style."
+      "en": "Method paraphrased; the source does not mention a rolled-oats topping, so none is included; overall timing outside the stated bake time is estimated from typical practice for this style.",
+      "de": "Methode paraphrasiert; die Quelle erwähnt keinen Haferflockenbelag, daher ist keiner enthalten; die Gesamtzeit außerhalb der angegebenen Backzeit wird anhand der typischen Praxis für diesen Stil geschätzt.",
+      "es": "Método parafraseado; la fuente no menciona una cobertura de avena arrollada, por lo que no se incluye; el tiempo total fuera del tiempo de horneado indicado se estima a partir de la práctica típica para este estilo.",
+      "fr": "Méthode paraphrasée; la source ne mentionne pas de garniture de flocons d'avoine, donc aucune n'est incluse; le temps total en dehors du temps de cuisson indiqué est estimé d'après la pratique typique pour ce style.",
+      "ro": "Metodă parafrazată; sursa nu menționează un topping de fulgi de ovăz, deci nu este inclus; timpul total în afara timpului de coacere declarat este estimat din practica tipică pentru acest stil."
     }
   },
   "tags": [

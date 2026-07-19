@@ -18,10 +18,18 @@
   "origin": {
     "country": "IE",
     "region": {
-      "en": "nationwide, rural households"
+      "en": "nationwide, rural households",
+      "de": "landesweit, ländliche Haushalte",
+      "es": "en todo el país, hogares rurales",
+      "fr": "dans tout le pays, foyers ruraux",
+      "ro": "la nivel național, gospodării rurale"
     },
     "note": {
-      "en": "First published in Irish newspapers in the 1830s; baking soda gave poor households a leavened bread without the expense of yeast."
+      "en": "First published in Irish newspapers in the 1830s; baking soda gave poor households a leavened bread without the expense of yeast.",
+      "de": "Erstmals in irischen Zeitungen in den 1830er Jahren veröffentlicht; Backpulver gab armen Haushalten ein gesäuertes Brot ohne die Kosten für Hefe.",
+      "es": "Publicado por primera vez en periódicos irlandeses en la década de 1830; el bicarbonato dio a los hogares pobres un pan leudado sin el gasto de la levadura.",
+      "fr": "Publié pour la première fois dans les journaux irlandais dans les années 1830; le bicarbonate de soude a donné aux foyers pauvres un pain levé sans la dépense de la levure.",
+      "ro": "Publicat pentru prima dată în ziare irlandeze în anii 1830; bicarbonatul de sodiu a oferit gospodăriilor sărace o pâine dospită fără cheltuiala drojdiei."
     }
   },
   "leaven": "chemical",
@@ -46,7 +54,11 @@
       "key": "buttermilk",
       "grams": 470,
       "note": {
-        "en": "cold"
+        "en": "cold",
+        "de": "kalt",
+        "es": "frío",
+        "fr": "froid",
+        "ro": "rece"
       }
     },
     {
@@ -62,7 +74,11 @@
     "count": 1,
     "pieceGrams": 1063,
     "shape": {
-      "en": "8-inch round, deep cross scored on top"
+      "en": "8-inch round, deep cross scored on top",
+      "de": "runder Laib von 20,3 cm, tiefes Kreuz oben eingeritzt",
+      "es": "redondo de 20,3 cm, cruz profunda marcada en la parte superior",
+      "fr": "rond de 20,3 cm, croix profonde tracée sur le dessus",
+      "ro": "rotund de 20,3 cm, cruce adâncă incizată deasupra"
     }
   },
   "time": {
@@ -102,7 +118,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked or toasted the day after; stales faster than yeasted bread."
+      "en": "Best the day it's baked or toasted the day after; stales faster than yeasted bread.",
+      "de": "Am besten am Tag des Backens oder am nächsten Tag getoastet; wird schneller altbacken als Hefebrot.",
+      "es": "Mejor el día que se hornea o tostado al día siguiente; se endurece más rápido que el pan con levadura.",
+      "fr": "Meilleur le jour de sa cuisson ou toasté le lendemain; rassit plus vite qu'un pain levé à la levure.",
+      "ro": "Cel mai bun în ziua coacerii sau prăjit în ziua următoare; se învechește mai repede decât pâinea cu drojdie."
     }
   },
   "equipment": [
@@ -211,7 +231,11 @@
     "site": "Countryside Cravings",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Kept to the traditional four ingredients; optional raisins, zest and sugar mentioned by the source were omitted."
+      "en": "Kept to the traditional four ingredients; optional raisins, zest and sugar mentioned by the source were omitted.",
+      "de": "Auf die traditionellen vier Zutaten beschränkt; optionale Rosinen, Schale und Zucker, die von der Quelle erwähnt wurden, weggelassen.",
+      "es": "Mantenido a los cuatro ingredientes tradicionales; las pasas opcionales, la ralladura y el azúcar mencionados por la fuente fueron omitidos.",
+      "fr": "Gardé aux quatre ingrédients traditionnels; les raisins secs, le zeste et le sucre facultatifs mentionnés par la source ont été omis.",
+      "ro": "Păstrat la cele patru ingrediente tradiționale; stafidele opționale, coaja și zahărul menționate de sursă au fost omise."
     }
   },
   "tags": [

@@ -18,10 +18,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Naples, Campania"
+      "en": "Naples, Campania",
+      "de": "Neapel, Kampanien",
+      "es": "Nápoles, Campania",
+      "fr": "Naples, Campanie",
+      "ro": "Napoli, Campania"
     },
     "note": {
-      "en": "Governed by the AVPN's international disciplinare; the art of Neapolitan pizza-making (Pizzaiuolo) is inscribed on UNESCO's Intangible Cultural Heritage list."
+      "en": "Governed by the AVPN's international disciplinare; the art of Neapolitan pizza-making (Pizzaiuolo) is inscribed on UNESCO's Intangible Cultural Heritage list.",
+      "de": "Durch das internationale Disciplinare der AVPN geregelt; die Kunst der neapolitanischen Pizzaherstellung (Pizzaiuolo) ist in die UNESCO-Liste des immateriellen Kulturerbes eingetragen.",
+      "es": "Regido por el disciplinare internacional de la AVPN; el arte de la preparación de la pizza napolitana (Pizzaiuolo) está inscrito en la lista del Patrimonio Cultural Inmaterial de la UNESCO.",
+      "fr": "Régi par le disciplinaire international de l'AVPN; l'art de la fabrication de la pizza napolitaine (Pizzaiuolo) est inscrit sur la liste du patrimoine culturel immatériel de l'UNESCO.",
+      "ro": "Guvernat de disciplinare internațional AVPN; arta preparării pizzei napoletane (Pizzaiuolo) este înscrisă pe lista Patrimoniului Cultural Imaterial UNESCO."
     }
   },
   "leaven": "yeast",
@@ -42,7 +50,11 @@
       "key": "flour:wheat-white",
       "grams": 618,
       "note": {
-        "en": "tipo 0/00, W 220-280"
+        "en": "tipo 0/00, W 220-280",
+        "de": "Tipo 0/00, W 220-280",
+        "es": "tipo 0/00, W 220-280",
+        "fr": "tipo 0/00, W 220-280",
+        "ro": "tipo 0/00, W 220-280"
       }
     },
     {
@@ -53,14 +65,22 @@
       "key": "salt",
       "grams": 18,
       "note": {
-        "en": "sea or table salt"
+        "en": "sea or table salt",
+        "de": "Meer- oder Tafelsalz",
+        "es": "sal marina o de mesa",
+        "fr": "sel marin ou de table",
+        "ro": "sare de mare sau de masă"
       }
     },
     {
       "key": "fresh-yeast",
       "grams": 1,
       "note": {
-        "en": "kept minimal for a long 8-24 hour ferment"
+        "en": "kept minimal for a long 8-24 hour ferment",
+        "de": "minimal gehalten für eine lange 8-24-stündige Fermentation",
+        "es": "mantenido al mínimo para una fermentación larga de 8-24 horas",
+        "fr": "gardé au minimum pour une fermentation longue de 8 à 24 heures",
+        "ro": "păstrat la minim pentru o fermentare lungă de 8-24 ore"
       }
     }
   ],
@@ -68,7 +88,11 @@
     "count": 4,
     "pieceGrams": 250,
     "shape": {
-      "en": "hand-stretched disc with a thick, puffy cornicione (rim)"
+      "en": "hand-stretched disc with a thick, puffy cornicione (rim)",
+      "de": "handgestreckte Scheibe mit dickem, luftigem Cornicione (Rand)",
+      "es": "disco estirado a mano con un cornicione (borde) grueso y esponjoso",
+      "fr": "disque étiré à la main avec un cornicione (bord) épais et gonflé",
+      "ro": "disc întins manual cu un cornicione (margine) gros și pufos"
     }
   },
   "time": {
@@ -109,7 +133,11 @@
     "freshDays": 0.5,
     "freezes": true,
     "note": {
-      "en": "This entry is for the dough itself, eaten minutes after baking; it doesn't keep like a loaf, but unbaked dough balls freeze well for later."
+      "en": "This entry is for the dough itself, eaten minutes after baking; it doesn't keep like a loaf, but unbaked dough balls freeze well for later.",
+      "de": "Dieser Eintrag gilt für den Teig selbst, der Minuten nach dem Backen gegessen wird; er hält sich nicht wie ein Laib, aber ungebackene Teigbällchen lassen sich gut einfrieren.",
+      "es": "Esta entrada es para la masa misma, que se come minutos después del horneado; no se conserva como una hogaza, pero las bolas de masa sin hornear se congelan bien para después.",
+      "fr": "Cette entrée concerne la pâte elle-même, mangée quelques minutes après la cuisson; elle ne se conserve pas comme un pain, mais les pâtons non cuits se congèlent bien.",
+      "ro": "Această intrare este pentru aluatul în sine, mâncat la minute după coacere; nu se păstrează ca o pâine, dar bilele de aluat necoapte se congelează bine pentru mai târziu."
     }
   },
   "equipment": [
@@ -218,7 +246,11 @@
     "site": "Associazione Verace Pizza Napoletana (AVPN)",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams scaled down from the disciplinare's official per-liter-of-water ratios to a home batch of four 250 g dough balls."
+      "en": "Grams scaled down from the disciplinare's official per-liter-of-water ratios to a home batch of four 250 g dough balls.",
+      "de": "Gramm von den offiziellen pro-Liter-Wasser-Verhältnissen des Disciplinare auf eine Haushaltsportion von vier 250-g-Teigbällchen herunterskaliert.",
+      "es": "Gramos reducidos de las proporciones oficiales del disciplinare por litro de agua a un lote casero de cuatro bolas de masa de 250 g.",
+      "fr": "Grammes réduits à partir des ratios officiels du disciplinaire par litre d'eau pour une portion domestique de quatre pâtons de 250 g.",
+      "ro": "Gramele reduse din proporțiile oficiale pe litru de apă ale disciplinare pentru un lot casnic de patru bile de aluat de 250 g."
     }
   },
   "tags": [

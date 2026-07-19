@@ -21,10 +21,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Credited to French influence, possibly during Maximilian's 1860s reign or via French-run mining companies; today it's Mexico's everyday bread and the base of the torta sandwich."
+      "en": "Credited to French influence, possibly during Maximilian's 1860s reign or via French-run mining companies; today it's Mexico's everyday bread and the base of the torta sandwich.",
+      "de": "Wird auf französischen Einfluss zurückgeführt, möglicherweise während Maximilians Herrschaft in den 1860er Jahren oder über französische Bergbauunternehmen; heute ist es Mexikos Alltagsbrot und die Basis des Torta-Sandwiches.",
+      "es": "Atribuido a la influencia francesa, posiblemente durante el reinado de Maximiliano en la década de 1860 o a través de compañías mineras francesas; hoy es el pan cotidiano de México y la base del sándwich torta.",
+      "fr": "Attribué à l'influence française, peut-être sous le règne de Maximilien dans les années 1860 ou via les compagnies minières françaises; c'est aujourd'hui le pain quotidien du Mexique et la base du sandwich torta.",
+      "ro": "Atribuit influenței franceze, posibil în timpul domniei lui Maximilian din anii 1860 sau prin companiile miniere franceze; astăzi este pâinea de zi cu zi a Mexicului și baza sandvișului torta."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "lard",
       "grams": 25,
       "note": {
-        "en": "or unsalted butter"
+        "en": "or unsalted butter",
+        "de": "oder ungesalzene Butter",
+        "es": "o mantequilla sin sal",
+        "fr": "ou beurre doux",
+        "ro": "sau unt nesărat"
       }
     },
     {
@@ -71,7 +83,11 @@
       "key": "water",
       "grams": 350,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     }
   ],
@@ -79,7 +95,11 @@
     "count": 6,
     "pieceGrams": 152,
     "shape": {
-      "en": "tapered torpedo roll, about 6 inches"
+      "en": "tapered torpedo roll, about 6 inches",
+      "de": "spitz zulaufendes Torpedobrötchen, etwa 15 cm",
+      "es": "pan con forma de torpedo cónico, de unos 15 cm",
+      "fr": "petit pain torpille effilé, environ 15 cm",
+      "ro": "rulou alungit în formă de torpilă, de aproximativ 15 cm"
     }
   },
   "time": {
@@ -121,7 +141,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best within hours while the crust still shatters; reheat briefly to revive a day-old roll."
+      "en": "Best within hours while the crust still shatters; reheat briefly to revive a day-old roll.",
+      "de": "Am besten innerhalb von Stunden, solange die Kruste noch bricht; kurz aufwärmen, um ein einen Tag altes Brötchen wiederzubeleben.",
+      "es": "Mejor dentro de las horas mientras la corteza aún se deshace; calentar brevemente para revivir un pan de un día.",
+      "fr": "Meilleur dans les heures suivant la cuisson quand la croûte craque encore; réchauffer brièvement pour raviver un petit pain d'un jour.",
+      "ro": "Cel mai bun în primele ore, cât coaja încă se sfărâmă; reîncălzește scurt pentru a revigora un rulou de o zi."
     }
   },
   "equipment": [
@@ -234,10 +258,10 @@
       },
       "summary": {
         "en": "Slash each roll along its spine, then bake hot with steam until deeply golden and crackling.",
-        "de": "Einen Schnitt der Länge nach in jedes Brötchen einschneiden und heiß mit Schwaden backen, bis tief golden und krachend knusprig.",
-        "es": "Hacer un corte a lo largo del centro de cada pieza y hornear con calor fuerte y vapor hasta dorar profundamente y quedar crujiente.",
-        "fr": "Inciser une ligne au centre de chaque pain et cuire à four chaud avec buée jusqu'à une belle couleur dorée et une croûte craquante.",
-        "ro": "Fă o crestătură pe mijlocul fiecărei chifle și coace la foc iute cu abur, până devine auriu-închis și crocant."
+        "de": "Jedes Brötchen der Länge nach einschneiden und heiß mit Schwaden backen, bis tiefgolden und krachend knusprig.",
+        "es": "Cortar cada pan a lo largo del lomo y hornear con vapor hasta que estén dorados y crujientes.",
+        "fr": "Inciser chaque petit pain sur la longueur et cuire à four chaud avec de la buée jusqu'à ce qu'ils soient bien dorés et croustillants.",
+        "ro": "Fă o crestătură pe lungimea fiecărei chifle și coace la foc iute cu abur, până devin aurii-închis și crocante."
       }
     }
   ],
@@ -246,7 +270,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams kept as sourced; traditional lard option kept over the butter alternative."
+      "en": "Grams kept as sourced; traditional lard option kept over the butter alternative.",
+      "de": "Grammangaben wie aus der Quelle übernommen; traditionelle Schmalzvariante der Butteralternative vorgezogen.",
+      "es": "Gramos mantenidos según la fuente; opción tradicional de manteca de cerdo conservada en lugar de la alternativa de mantequilla.",
+      "fr": "Grammes conservés tels quels; option traditionnelle au saindoux retenue plutôt que l'alternative au beurre.",
+      "ro": "Gramajul păstrat ca în sursă; opțiunea tradițională cu untură păstrată în locul alternativei cu unt."
     }
   },
   "tags": [

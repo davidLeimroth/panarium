@@ -22,10 +22,18 @@
   "origin": {
     "country": "JP",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el pais",
+      "fr": "dans tout le pays",
+      "ro": "la nivel national"
     },
     "note": {
-      "en": "Part of the kashipan (sweet bread) family sold at every Japanese bakery and convenience store; regional cousins swap the cookie crust for cocoa or matcha versions."
+      "en": "Part of the kashipan (sweet bread) family sold at every Japanese bakery and convenience store; regional cousins swap the cookie crust for cocoa or matcha versions.",
+      "de": "Teil der Kashipan-Familie (Subrot), die in jeder japanischen Backerei und jedem Convenience-Store verkauft wird; regionale Varianten tauschen die Kekskruste gegen Kakao- oder Matcha-Versionen aus.",
+      "es": "Parte de la familia kashipan (pan dulce) que se vende en todas las panaderias y tiendas de conveniencia japonesas; las variantes regionales sustituyen la costra de galleta por versiones de cacao o matcha.",
+      "fr": "Fait partie de la famille des kashipan (pain sucre) vendu dans toutes les boulangeries et superettes japonaises; les cousins regionaux remplacent la croute de biscuit par des versions au cacao ou au matcha.",
+      "ro": "Face parte din familia kashipan (paine dulce) vinduta in fiecare brutarie si magazin de convenienta japonez; verisoarele regionale inlocuiesc crusta de fursec cu versiuni de cacao sau matcha."
     }
   },
   "leaven": "yeast",
@@ -49,7 +57,11 @@
       "key": "flour:wheat-white",
       "grams": 250,
       "note": {
-        "en": "225g bread flour + 25g cake flour, for the bread dough"
+        "en": "225g bread flour + 25g cake flour, for the bread dough",
+        "de": "225 g Brotmehl + 25 g Kuchenmehl, fur den Brotteig",
+        "es": "225 g de harina de pan + 25 g de harina de reposteria, para la masa de pan",
+        "fr": "225 g de farine de pain + 25 g de farine patissiere, pour la pate a pain",
+        "ro": "225 g faina de paine + 25 g faina de prajituri, pentru aluatul de paine"
       }
     },
     {
@@ -94,21 +106,33 @@
       "key": "butter",
       "grams": 60,
       "note": {
-        "en": "for the cookie crust"
+        "en": "for the cookie crust",
+        "de": "fur die Kekskruste",
+        "es": "para la costra de galleta",
+        "fr": "pour la croute de biscuit",
+        "ro": "pentru crusta de fursec"
       }
     },
     {
       "key": "sugar",
       "grams": 100,
       "note": {
-        "en": "for the cookie crust"
+        "en": "for the cookie crust",
+        "de": "fur die Kekskruste",
+        "es": "para la costra de galleta",
+        "fr": "pour la croute de biscuit",
+        "ro": "pentru crusta de fursec"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for the cookie crust"
+        "en": "for the cookie crust",
+        "de": "fur die Kekskruste",
+        "es": "para la costra de galleta",
+        "fr": "pour la croute de biscuit",
+        "ro": "pentru crusta de fursec"
       }
     },
     {
@@ -119,7 +143,11 @@
       "key": "sugar",
       "grams": 25,
       "note": {
-        "en": "for rolling the shaped buns before scoring"
+        "en": "for rolling the shaped buns before scoring",
+        "de": "zum Walzen der geformten Brotchen vor dem Einschneiden",
+        "es": "para rebozar los bollos moldeados antes de marcarlos",
+        "fr": "pour rouler les petits pains faconnes avant de les scarifier",
+        "ro": "pentru tavalirea chiflelor modelate inainte de crestare"
       }
     }
   ],
@@ -127,7 +155,11 @@
     "count": 10,
     "pieceGrams": 92,
     "shape": {
-      "en": "round bun, cross-hatched cookie crust, ~9 cm"
+      "en": "round bun, cross-hatched cookie crust, ~9 cm",
+      "de": "rundes Brotchen, Kekskruste mit Rautenmuster, ~9 cm",
+      "es": "bollo redondo, costra de galleta con marcas en cuadricula, ~9 cm",
+      "fr": "petit pain rond, croute de biscuit quadrilee, ~9 cm",
+      "ro": "chifla rotunda, crusta de fursec cu model in carouri, ~9 cm"
     }
   },
   "time": {
@@ -169,7 +201,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "The cookie crust is crispest the day it is baked and softens as it sits; still freezes and reheats acceptably in a toaster oven."
+      "en": "The cookie crust is crispest the day it is baked and softens as it sits; still freezes and reheats acceptably in a toaster oven.",
+      "de": "Die Kekskruste ist am Tag des Backens am knusprigsten und wird mit der Zeit weicher; lasst sich dennoch problemlos einfrieren und im Toasterofen aufwarmen.",
+      "es": "La costra de galleta esta mas crujiente el dia que se hornea y se ablanda al reposar; se congela y recalienta aceptablemente en un tostador.",
+      "fr": "La croute de biscuit est la plus croustillante le jour de la cuisson et ramollit en reposant; se congele et se rechauffe convenablement au grille-pain.",
+      "ro": "Crusta de fursec este cea mai crocanta in ziua coacerii si se inmoaie pe masura ce sta; totusi se congela si se reincalzeste acceptabil intr-un cuptor cu prajire."
     }
   },
   "equipment": [
@@ -295,7 +331,11 @@
     "site": "Just One Cookbook",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Formula percentages describe the yeasted bread dough only; the cookie-dough crust is listed separately and excluded from the formula, since it isn't a bread dough. Salt estimated at standard density."
+      "en": "Formula percentages describe the yeasted bread dough only; the cookie-dough crust is listed separately and excluded from the formula, since it isn't a bread dough. Salt estimated at standard density.",
+      "de": "Die Formelprozente beschreiben nur den Hefebrotteig; die Keksteigkruste ist separat aufgefuhrt und von der Formel ausgeschlossen, da es kein Brotteig ist. Salz auf Standarddichte geschatzt.",
+      "es": "Los porcentajes de la formula describen solo la masa de pan levada; la costra de masa de galleta se lista por separado y se excluye de la formula, ya que no es una masa de pan. Sal estimada a densidad estandar.",
+      "fr": "Les pourcentages de la formule decrivent uniquement la pate a pain levee; la croute de pate a biscuit est listee separement et exclue de la formule, car ce n'est pas une pate a pain. Sel estime a densite standard.",
+      "ro": "Procentele formulei descriu doar aluatul de paine dospit cu drojdie; crusta de aluat de fursec este listata separat si exclusa din formula, nefiind un aluat de paine. Sarea estimata la densitatea standard."
     }
   },
   "tags": [

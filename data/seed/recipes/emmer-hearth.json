@@ -22,10 +22,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Garfagnana, Tuscany"
+      "en": "Garfagnana, Tuscany",
+      "de": "Garfagnana, Toskana",
+      "es": "Garfagnana, Toscana",
+      "fr": "Garfagnana, Toscane",
+      "ro": "Garfagnana, Toscana"
     },
     "note": {
-      "en": "Farro della Garfagnana is emmer wheat (Triticum dicoccum) with IGP protected status. Potato stretched scarce or failed cereal harvests in this mountain valley; the mix became a local specialty in its own right, distinct from an ordinary wheat loaf."
+      "en": "Farro della Garfagnana is emmer wheat (Triticum dicoccum) with IGP protected status. Potato stretched scarce or failed cereal harvests in this mountain valley; the mix became a local specialty in its own right, distinct from an ordinary wheat loaf.",
+      "de": "Farro della Garfagnana ist Emmer (Triticum dicoccum) mit IGP-Schutzstatus. Kartoffeln streckten knappe oder missratene Getreideernten in diesem Bergtal; die Mischung wurde zu einer eigenen lokalen Spezialität, die sich von einem gewöhnlichen Weizenlaib unterscheidet.",
+      "es": "El farro della Garfagnana es trigo emmer (Triticum dicoccum) con estatus protegido IGP. La patata estiró las cosechas de cereales escasas o fallidas en este valle de montaña; la mezcla se convirtió en una especialidad local por derecho propio, distinta de un pan de trigo común.",
+      "fr": "Le farro della Garfagnana est le blé amidonnier (Triticum dicoccum) avec un statut protégé IGP. La pomme de terre a étiré les récoltes de céréales rares ou ratées dans cette vallée montagnarde; le mélange est devenu une spécialité locale à part entière, distincte d'un pain de blé ordinaire.",
+      "ro": "Farro della Garfagnana este grâu emmer (Triticum dicoccum) cu statut protejat IGP. Cartoful a suplinit recoltele rare sau eșuate de cereale în această vale montană; amestecul a devenit o specialitate locală de sine stătătoare, distinctă de o pâine obișnuită de grâu."
     }
   },
   "leaven": "yeast",
@@ -53,49 +61,77 @@
       "key": "flour:emmer",
       "grams": 500,
       "note": {
-        "en": "farro della Garfagnana, a regional emmer wheat with IGP protection"
+        "en": "farro della Garfagnana, a regional emmer wheat with IGP protection",
+        "de": "Farro della Garfagnana, ein regionaler Emmer mit IGP-Schutz",
+        "es": "farro della Garfagnana, un trigo emmer regional con protección IGP",
+        "fr": "farro della Garfagnana, un blé amidonnier régional avec protection IGP",
+        "ro": "farro della Garfagnana, un grâu emmer regional cu protecție IGP"
       }
     },
     {
       "key": "mashed-potato",
       "grams": 200,
       "note": {
-        "en": "boiled unpeeled, then peeled and mashed"
+        "en": "boiled unpeeled, then peeled and mashed",
+        "de": "in der Schale gekocht, dann geschält und zerstampft",
+        "es": "hervida sin pelar, luego pelada y hecha puré",
+        "fr": "bouilli non pelé, puis pelé et écrasé",
+        "ro": "fiert în coajă, apoi curățat și pasat"
       }
     },
     {
       "key": "water",
       "grams": 150,
       "note": {
-        "en": "warm, to dissolve the yeast"
+        "en": "warm, to dissolve the yeast",
+        "de": "warm, zum Auflösen der Hefe",
+        "es": "templada, para disolver la levadura",
+        "fr": "tiède, pour dissoudre la levure",
+        "ro": "caldă, pentru a dizolva drojdia"
       }
     },
     {
       "key": "fresh-yeast",
       "grams": 25,
       "note": {
-        "en": "brewer's yeast, dissolved in the warm water first"
+        "en": "brewer's yeast, dissolved in the warm water first",
+        "de": "Bierhefe, zuerst im warmen Wasser aufgelöst",
+        "es": "levadura de cerveza, disuelta primero en el agua templada",
+        "fr": "levure de bière, d'abord dissoute dans l'eau tiède",
+        "ro": "drojdie de bere, dizolvată mai întâi în apa caldă"
       }
     },
     {
       "key": "olive-oil",
       "grams": 20,
       "note": {
-        "en": "amount not specified by source; typical estimate"
+        "en": "amount not specified by source; typical estimate",
+        "de": "Menge von der Quelle nicht angegeben; typische Schätzung",
+        "es": "cantidad no especificada por la fuente; estimación típica",
+        "fr": "quantité non spécifiée par la source; estimation typique",
+        "ro": "cantitate nespecificată de sursă; estimare tipică"
       }
     },
     {
       "key": "salt",
       "grams": 10,
       "note": {
-        "en": "amount not specified by source; typical baker's-percentage estimate"
+        "en": "amount not specified by source; typical baker's-percentage estimate",
+        "de": "Menge von der Quelle nicht angegeben; typische Schätzung nach Bäckerprozenten",
+        "es": "cantidad no especificada por la fuente; estimación típica de porcentaje de panadero",
+        "fr": "quantité non spécifiée par la source; estimation typique en pourcentage de boulanger",
+        "ro": "cantitate nespecificată de sursă; estimare tipică după procente de panificație"
       }
     },
     {
       "key": "sugar",
       "grams": 5,
       "note": {
-        "en": "a pinch, to help activate the yeast; amount not specified by source"
+        "en": "a pinch, to help activate the yeast; amount not specified by source",
+        "de": "eine Prise, um die Hefe zu aktivieren; Menge von der Quelle nicht angegeben",
+        "es": "una pizca, para ayudar a activar la levadura; cantidad no especificada por la fuente",
+        "fr": "une pincée, pour aider à activer la levure; quantité non spécifiée par la source",
+        "ro": "un praf, pentru a ajuta la activarea drojdiei; cantitate nespecificată de sursă"
       }
     }
   ],
@@ -103,7 +139,11 @@
     "count": 2,
     "pieceGrams": 410,
     "shape": {
-      "en": "oval hearth loaf, deeply scored"
+      "en": "oval hearth loaf, deeply scored",
+      "de": "ovaler Ofenlaib, tief eingeritzt",
+      "es": "hogaza de hogar ovalada, marcada profundamente",
+      "fr": "pain de foyer ovale, profondément scarifié",
+      "ro": "pâine de vatră ovală, tăiată adânc"
     }
   },
   "time": {
@@ -144,7 +184,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "The potato keeps this loaf moist noticeably longer than a plain emmer bread."
+      "en": "The potato keeps this loaf moist noticeably longer than a plain emmer bread.",
+      "de": "Die Kartoffel hält diesen Laib merklich länger saftig als ein einfaches Emmerbrot.",
+      "es": "La patata mantiene esta hogaza notablemente más húmeda que un pan de emmer simple.",
+      "fr": "La pomme de terre garde ce pain sensiblement plus humide qu'un pain d'amidonnier nature.",
+      "ro": "Cartoful menține această pâine vizibil mai umedă decât o pâine simplă de emmer."
     }
   },
   "equipment": [
@@ -177,10 +221,10 @@
       },
       "summary": {
         "en": "Stir the brewer's yeast and a little sugar into warm water; let it stand 5-10 minutes until foamy.",
-        "de": "Die frische Hefe mit etwas Zucker in warmem Wasser auflösen; 5-10 Minuten warten, bis es schäumt.",
-        "es": "Disolver la levadura fresca en agua tibia con un poco de azúcar; esperar 5-10 minutos hasta que espume.",
-        "fr": "Dissoudre la levure fraîche dans l'eau tiède avec un peu de sucre; attendre 5-10 minutes jusqu'à ce que ça mousse.",
-        "ro": "Dizolvă drojdia proaspătă în apă călduță cu puțin zahăr; așteaptă 5-10 minute până spumează."
+        "de": "Die frische Hefe mit etwas Zucker in warmem Wasser auflösen; 5-10 Minuten stehen lassen, bis es schäumt.",
+        "es": "Disolver la levadura de panadero y un poco de azúcar en agua tibia; dejar reposar 5-10 minutos hasta que esté espumosa.",
+        "fr": "Délayer la levure de boulanger et un peu de sucre dans l'eau tiède; laisser reposer 5-10 minutes jusqu'à ce que ce soit mousseux.",
+        "ro": "Dizolvă drojdia proaspătă și puțin zahăr în apă călduță; lasă să stea 5-10 minute până devine spumoasă."
       }
     },
     {
@@ -269,7 +313,11 @@
     "site": "Consorzio Farro della Garfagnana IGP",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Salt, oil and sugar amounts weren't given; typical estimates used. Source's translation says 'spelt' but Garfagnana's farro is emmer; potato modeled at ~22% dry matter."
+      "en": "Salt, oil and sugar amounts weren't given; typical estimates used. Source's translation says 'spelt' but Garfagnana's farro is emmer; potato modeled at ~22% dry matter.",
+      "de": "Salz-, Öl- und Zuckermengen wurden nicht angegeben; typische Schätzungen verwendet. Die Übersetzung der Quelle sagt 'Dinkel', aber der Farro aus der Garfagnana ist Emmer; Kartoffel mit ~22 % Trockenmasse modelliert.",
+      "es": "Las cantidades de sal, aceite y azúcar no se dieron; se usaron estimaciones típicas. La traducción de la fuente dice 'espelta', pero el farro de Garfagnana es emmer; papa modelada con ~22 % de materia seca.",
+      "fr": "Les quantités de sel, d'huile et de sucre n'ont pas été données; des estimations typiques ont été utilisées. La traduction de la source dit 'épeautre' mais le farro de Garfagnana est de l'amidonnier; pomme de terre modélisée à ~22 % de matière sèche.",
+      "ro": "Cantitățile de sare, ulei și zahăr nu au fost date; s-au folosit estimări tipice. Traducerea sursei spune 'speltă/alac', dar farro della Garfagnana este emmer; cartoful modelat la ~22 % substanță uscată."
     }
   },
   "tags": [

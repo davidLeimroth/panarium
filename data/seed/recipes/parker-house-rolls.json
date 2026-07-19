@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Boston, Massachusetts"
+      "en": "Boston, Massachusetts",
+      "de": "Boston, Massachusetts",
+      "es": "Boston, Massachusetts",
+      "fr": "Boston, Massachusetts",
+      "ro": "Boston, Massachusetts"
     },
     "note": {
-      "en": "Created at the Parker House hotel, the same 19th-century Boston establishment credited with inventing Boston Cream Pie."
+      "en": "Created at the Parker House hotel, the same 19th-century Boston establishment credited with inventing Boston Cream Pie.",
+      "de": "Im Parker House Hotel kreiert, demselben Bostoner Hotel aus dem 19. Jahrhundert, dem die Erfindung der Boston Cream Pie zugeschrieben wird.",
+      "es": "Creado en el hotel Parker House, el mismo establecimiento bostoniano del siglo XIX al que se le atribuye la invención de la Boston Cream Pie.",
+      "fr": "Crée au Parker House hotel, le même établissement bostonien du XIXe siècle auquel on attribue l'invention de la Boston Cream Pie.",
+      "ro": "Creat la hotelul Parker House, acelaşi stabiliment bostonian din secolul al XIX-lea căruia i se atribuie invenţia Boston Cream Pie."
     }
   },
   "leaven": "yeast",
@@ -55,7 +63,11 @@
       "key": "flour:potato",
       "grams": 50,
       "note": {
-        "en": "potato flour, or dried potato flakes, for a tender crumb"
+        "en": "potato flour, or dried potato flakes, for a tender crumb",
+        "de": "Kartoffelmehl oder getrocknete Kartoffelflocken, für eine zarte Krume",
+        "es": "harina de patata, o copos de patata secos, para una miga tierna",
+        "fr": "farine de pomme de terre, ou flocons de pomme de terre séchés, pour une mie tendre",
+        "ro": "făină de cartofi sau fulgi de cartofi uscaţi, pentru un miez fraged"
       }
     },
     {
@@ -74,7 +86,11 @@
       "key": "butter",
       "grams": 43,
       "note": {
-        "en": "softened, mixed into the dough"
+        "en": "softened, mixed into the dough",
+        "de": "weich, in den Teig eingearbeitet",
+        "es": "ablandada, incorporada a la masa",
+        "fr": "ramolli, incorporé à la pâte",
+        "ro": "moale, incorporat în aluat"
       }
     },
     {
@@ -89,7 +105,11 @@
       "key": "butter",
       "grams": 53,
       "note": {
-        "en": "melted, for folding into and brushing over the rolls"
+        "en": "melted, for folding into and brushing over the rolls",
+        "de": "geschmolzen, zum Einklappen in und Bestreichen der Brötchen",
+        "es": "derretida, para plegar dentro y pincelar los panecillos",
+        "fr": "fondu, pour replier dans et badigeonner les petits pains",
+        "ro": "topit, pentru pliat în şi uns peste chifle"
       }
     }
   ],
@@ -97,7 +117,11 @@
     "count": 16,
     "pieceGrams": 52,
     "shape": {
-      "en": "folded rectangular roll, about 2.25 x 3 inches"
+      "en": "folded rectangular roll, about 2.25 x 3 inches",
+      "de": "gefaltetes rechteckiges Brötchen, etwa 5,7 x 7,6 cm",
+      "es": "panecillo rectangular plegado, aproximadamente 5,7 x 7,6 cm",
+      "fr": "petit pain rectangulaire plié, environ 5,7 x 7,6 cm",
+      "ro": "chiflă dreptunghiulară pliată, aproximativ 5,7 x 7,6 cm"
     }
   },
   "time": {
@@ -139,7 +163,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Reheats well; brush with a little extra melted butter after warming through."
+      "en": "Reheats well; brush with a little extra melted butter after warming through.",
+      "de": "Lässt sich gut aufwärmen; nach dem Durchwärmen mit etwas zusätzlicher geschmolzener Butter bestreichen.",
+      "es": "Se recalienta bien; cepillar con un poco de mantequilla derretida adicional después de calentar.",
+      "fr": "Se réchauffe bien ; badigeonner d'un peu de beurre fondu supplémentaire après rechauffage.",
+      "ro": "Se reincălzeşte bine; unge cu puţin unt suplimentar topit după reincălzire."
     }
   },
   "equipment": [
@@ -265,7 +293,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams kept as sourced; brushing butter counted into the fat total since it is folded into and over every roll."
+      "en": "Grams kept as sourced; brushing butter counted into the fat total since it is folded into and over every roll.",
+      "de": "Gramm wie in der Quelle belassen; Bestreichbutter in den Fettgehalt eingerechnet, da sie in jede Rolle eingeschlagen und darüber gestrichen wird.",
+      "es": "Gramos mantenidos según la fuente; la mantequilla de pincelar se contó en el total de grasa ya que se pliega dentro y sobre cada panecillo.",
+      "fr": "Grammes conservés tels que sourcés ; le beurre de badigeonnage compté dans le total de matières grasses car il est replié dans et sur chaque petit pain.",
+      "ro": "Gramele păstrate ca în sursă; untul de uns contorizat în totalul de grasime, deoarece este pliat în şi peste fiecare chiflă."
     }
   },
   "tags": [

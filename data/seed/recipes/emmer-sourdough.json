@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "Emmer (farro) is an ancient wheat first domesticated in the Fertile Crescent; this sourdough treatment is a contemporary artisan-bakery formula, not a historical recipe."
+      "en": "Emmer (farro) is an ancient wheat first domesticated in the Fertile Crescent; this sourdough treatment is a contemporary artisan-bakery formula, not a historical recipe.",
+      "de": "Emmer (Farro) ist ein uralter Weizen, der erstmals im Fruchtbaren Halbmond domestiziert wurde; diese Sauerteigbehandlung ist eine zeitgenössische Handwerksbäckerei-Formel, kein historisches Rezept.",
+      "es": "El emmer (farro) es un trigo antiguo domesticado por primera vez en el Creciente Fértil; este tratamiento de masa madre es una fórmula contemporánea de panadería artesanal, no una receta histórica.",
+      "fr": "L'amidonnier (farro) est un blé ancien domestiqué pour la première fois au Croissant Fertile; ce traitement au levain est une formule contemporaine de boulangerie artisanale, pas une recette historique.",
+      "ro": "Emmerul (farro) este un grâu străvechi domesticit pentru prima dată în Semiluna Fertilă; acest tratament cu maia este o formulă contemporană de brutărie artizanală, nu o rețetă istorică."
     }
   },
   "leaven": "sourdough",
@@ -48,14 +56,22 @@
       "key": "flour:emmer",
       "grams": 225,
       "note": {
-        "en": "whole grain, home-milled or store-bought"
+        "en": "whole grain, home-milled or store-bought",
+        "de": "Vollkorn, selbst gemahlen oder gekauft",
+        "es": "integral, molido en casa o comprado",
+        "fr": "complet, moulu maison ou du commerce",
+        "ro": "integral, măcinat acasă sau cumpărat"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 225,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de fuerza",
+        "fr": "farine de force",
+        "ro": "făină pentru pâine"
       }
     },
     {
@@ -66,7 +82,11 @@
       "key": "sourdough-starter",
       "grams": 100,
       "note": {
-        "en": "active, 100% hydration"
+        "en": "active, 100% hydration",
+        "de": "aktiv, 100 % Hydratation",
+        "es": "activo, 100 % de hidratación",
+        "fr": "actif, 100 % d'hydratation",
+        "ro": "activ, 100 % hidratare"
       }
     },
     {
@@ -78,7 +98,11 @@
     "count": 1,
     "pieceGrams": 850,
     "shape": {
-      "en": "boule or bâtard"
+      "en": "boule or bâtard",
+      "de": "Boule oder Bâtard",
+      "es": "boule o bâtard",
+      "fr": "boule ou bâtard",
+      "ro": "boule sau bâtard"
     }
   },
   "time": {

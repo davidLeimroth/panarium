@@ -20,10 +20,18 @@
   "origin": {
     "country": "TR",
     "region": {
-      "en": "Anatolia (rural Turkey)"
+      "en": "Anatolia (rural Turkey)",
+      "de": "Anatolien (ländliche Türkei)",
+      "es": "Anatolia (Turquía rural)",
+      "fr": "Anatolie (Turquie rurale)",
+      "ro": "Anatolia (Turcia rurală)"
     },
     "note": {
-      "en": "Known as Turkey's 'village bread', traditionally griddled on a wood-fired sac; now common at markets and breakfast tables nationwide."
+      "en": "Known as Turkey's 'village bread', traditionally griddled on a wood-fired sac; now common at markets and breakfast tables nationwide.",
+      "de": "In der Türkei als ‚Dorfbrot‘ bekannt, traditionell auf einem holzbeheizten Sac gegrillt; heute landesweit auf Märkten und Frühstückstischen verbreitet.",
+      "es": "Conocido como el ‚pan de aldea‘ de Turquía, tradicionalmente cocido en un sac de leña; ahora común en mercados y mesas de desayuno en todo el país.",
+      "fr": "Connu comme le ‚pain villageois‘ de Turquie, traditionnellement cuit sur un sac au feu de bois; aujourd'hui courant sur les marchés et les tables de petit-déjeuner dans tout le pays.",
+      "ro": "Cunoscut drept ‚pâinea sătească‘ a Turciei, tradițional gătit pe un sac cu lemne; acum comun pe piețe și la mesele de mic dejun în toată țara."
     }
   },
   "leaven": "yeast",
@@ -55,7 +63,11 @@
       "key": "instant-yeast",
       "grams": 6,
       "note": {
-        "en": "or active dry yeast"
+        "en": "or active dry yeast",
+        "de": "oder aktive Trockenhefe",
+        "es": "o levadura seca activa",
+        "fr": "ou levure sèche active",
+        "ro": "sau drojdie uscată activă"
       }
     },
     {
@@ -66,14 +78,22 @@
       "key": "water",
       "grams": 309,
       "note": {
-        "en": "lukewarm; includes water added to adjust consistency"
+        "en": "lukewarm; includes water added to adjust consistency",
+        "de": "lauwarm; inklusive des Wassers zur Konsistenzanpassung",
+        "es": "templado; incluye el agua añadida para ajustar la consistencia",
+        "fr": "tiède; inclut l'eau ajoutée pour ajuster la consistance",
+        "ro": "călduț; include apa adăugată pentru ajustarea consistenței"
       }
     },
     {
       "key": "yogurt",
       "grams": 110,
       "note": {
-        "en": "Greek-style"
+        "en": "Greek-style",
+        "de": "griechische Art",
+        "es": "estilo griego",
+        "fr": "à la grecque",
+        "ro": "de tip grecesc"
       }
     },
     {
@@ -85,7 +105,11 @@
     "count": 6,
     "pieceGrams": 165,
     "shape": {
-      "en": "thick round griddle bread, about 1 cm thick"
+      "en": "thick round griddle bread, about 1 cm thick",
+      "de": "dicker runder Grillfladen, etwa 1 cm dick",
+      "es": "pan redondo grueso de plancha, aproximadamente 1 cm de grosor",
+      "fr": "pain rond épais cuit à la plaque, environ 1 cm d'épaisseur",
+      "ro": "pâine rotundă groasă la grătar, de aproximativ 1 cm grosime"
     }
   },
   "time": {
@@ -126,7 +150,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm off the griddle; stays soft a day or two wrapped in a cloth, and reheats well on a dry pan. Freezes well between parchment."
+      "en": "Best warm off the griddle; stays soft a day or two wrapped in a cloth, and reheats well on a dry pan. Freezes well between parchment.",
+      "de": "Am besten warm von der Platte; hält sich ein bis zwei Tage weich in einem Tuch eingeschlagen und lässt sich gut in einer trockenen Pfanne aufwärmen. Friert gut zwischen Backpapier ein.",
+      "es": "Mejor caliente recién salido de la plancha; se mantiene blando uno o dos días envuelto en un paño y se recalienta bien en una sartén seca. Se congela bien entre papeles de horno.",
+      "fr": "Meilleur chaud sorti de la plaque; reste mou un jour ou deux enveloppé dans un torchon et se réchauffe bien à la poêle sèche. Se congèle bien entre deux feuilles de papier cuisson.",
+      "ro": "Cel mai bun cald, direct de pe plită; rămâne moale o zi-două învelit într-un prosop și se reîncălzește bine într-o tigaie uscată. Se congrează bine între hârtie de copt."
     }
   },
   "equipment": [
@@ -251,7 +279,11 @@
     "site": "Give Recipe",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration recalculated including the extra water and yogurt's water content per baker's-percentage convention; the source's own self-reported hydration didn't match its own listed quantities."
+      "en": "Hydration recalculated including the extra water and yogurt's water content per baker's-percentage convention; the source's own self-reported hydration didn't match its own listed quantities.",
+      "de": "Hydratation neu berechnet unter Einbeziehung des zusätzlichen Wassers und des Wassergehalts des Joghurts nach Bäckerprozent-Regel; die vom Original angegebene Hydratation stimmte nicht mit den eigenen Mengenangaben überein.",
+      "es": "Hidratación recalculada incluyendo el agua extra y el contenido de agua del yogur según la convención de porcentajes del panadero; la hidratación auto-reportada de la fuente no coincidía con sus propias cantidades.",
+      "fr": "Hydratation recalculée en incluant l'eau supplémentaire et la teneur en eau du yaourt selon la convention des pourcentages du boulanger; l'hydratation déclarée par la source ne correspondait pas à ses propres quantités.",
+      "ro": "Hidratarea recalculată incluzând apa suplimentară și conținutul de apă al iaurtului conform convenției procentelor de brutărie; hidratarea raportată de sursă nu corespundea propriilor cantități listate."
     }
   },
   "tags": [

@@ -23,7 +23,11 @@
   "origin": {
     "country": "NO",
     "note": {
-      "en": "Also spelled julekage or julebrød; close cousins are claimed by Sweden and Denmark. Traditionally served as kaffemat, a coffee-table treat, throughout the Christmas season."
+      "en": "Also spelled julekage or julebrød; close cousins are claimed by Sweden and Denmark. Traditionally served as kaffemat, a coffee-table treat, throughout the Christmas season.",
+      "de": "Auch julekage oder julebrød geschrieben; enge Verwandte werden von Schweden und Dänemark beansprucht. Traditionell als Kaffemat serviert, ein Kaffeetisch-Gebäck, während der gesamten Weihnachtszeit.",
+      "es": "También escrito julekage o julebrød; primos cercanos son reivindicados por Suecia y Dinamarca. Servido tradicionalmente como kaffemat, un dulce de sobremesa para el café, durante toda la temporada navideña.",
+      "fr": "Également orthographié julekage ou julebrød; des cousins proches sont revendiqués par la Suède et le Danemark. Traditionnellement servi comme kaffemat, une gourmandise pour la table à café, pendant toute la saison de Noël.",
+      "ro": "Scris și julekage sau julebrød; veri apropiați sunt revendicați de Suedia și Danemarca. Servit în mod tradițional ca kaffemat, un răsfăț de masă cu cafea, pe tot parcursul sezonului de Crăciun."
     }
   },
   "leaven": "yeast",
@@ -58,7 +62,11 @@
       "key": "butter",
       "grams": 150,
       "note": {
-        "en": "cold, cut into pieces"
+        "en": "cold, cut into pieces",
+        "de": "kalt, in Stücke geschnitten",
+        "es": "fría, cortada en trozos",
+        "fr": "froid, coupé en morceaux",
+        "ro": "rece, tăiată în bucăți"
       }
     },
     {
@@ -77,7 +85,11 @@
       "key": "cardamom",
       "grams": 4,
       "note": {
-        "en": "freshly ground"
+        "en": "freshly ground",
+        "de": "frisch gemahlen",
+        "es": "recién molida",
+        "fr": "fraîchement moulu",
+        "ro": "proaspăt măcinat"
       }
     },
     {
@@ -88,7 +100,11 @@
       "key": "candied-citrus",
       "grams": 100,
       "note": {
-        "en": "finely diced candied peel (sukat)"
+        "en": "finely diced candied peel (sukat)",
+        "de": "fein gewürfelte kandierte Schale (sukat)",
+        "es": "cáscara confitada finamente picada (sukat)",
+        "fr": "écorce confite finement coupée en dés (sukat)",
+        "ro": "coajă confiată tăiată mărunt (sukat)"
       }
     }
   ],
@@ -96,7 +112,11 @@
     "count": 2,
     "pieceGrams": 870,
     "shape": {
-      "en": "round loaf"
+      "en": "round loaf",
+      "de": "runder Laib",
+      "es": "pan redondo",
+      "fr": "pain rond",
+      "ro": "pâine rotundă"
     }
   },
   "time": {
@@ -138,7 +158,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Stays tender a few days wrapped; delicious toasted with butter once a day or two old."
+      "en": "Stays tender a few days wrapped; delicious toasted with butter once a day or two old.",
+      "de": "Bleibt eingewickelt einige Tage zart; köstlich getoastet mit Butter, wenn ein oder zwei Tage alt.",
+      "es": "Se mantiene tierno unos días envuelto; delicioso tostado con mantequilla cuando tiene uno o dos días.",
+      "fr": "Reste tendre quelques jours emballé; délicieux toasté au beurre une fois vieux d'un ou deux jours.",
+      "ro": "Rămâne fraged câteva zile înfășurat; delicios prăjit cu unt după o zi sau două."
     }
   },
   "equipment": [
@@ -280,7 +304,11 @@
     "site": "North Wild Kitchen",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt, not given by this source, was set to about 1.8% of the flour weight, matching the proportion used in a second Norwegian julekake recipe; all other ratios are this source's own."
+      "en": "Salt, not given by this source, was set to about 1.8% of the flour weight, matching the proportion used in a second Norwegian julekake recipe; all other ratios are this source's own.",
+      "de": "Salz, das diese Quelle nicht angibt, wurde auf etwa 1,8 % des Mehlgewichts festgelegt, entsprechend dem Anteil in einem zweiten norwegischen Julekake-Rezept; alle anderen Verhältnisse sind die dieser Quelle.",
+      "es": "La sal, no proporcionada por esta fuente, se fijó aproximadamente al 1,8 % del peso de la harina, coincidiendo con la proporción usada en una segunda receta noruega de julekake; todas las demás proporciones son propias de esta fuente.",
+      "fr": "Le sel, non donné par cette source, a été fixé à environ 1,8 % du poids de la farine, correspondant à la proportion utilisée dans une deuxième recette norvégienne de julekake; tous les autres ratios sont propres à cette source.",
+      "ro": "Sarea, nefiind dată de această sursă, a fost setată la aproximativ 1,8 % din greutatea făinii, corespunzând proporției dintr-o a doua rețetă norvegiană de julekake; toate celelalte proporții sunt proprii acestei surse."
     }
   },
   "tags": [

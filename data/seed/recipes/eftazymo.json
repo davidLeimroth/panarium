@@ -22,10 +22,18 @@
   "origin": {
     "country": "GR",
     "region": {
-      "en": "Crete"
+      "en": "Crete",
+      "de": "Kreta",
+      "es": "Creta",
+      "fr": "Crète",
+      "ro": "Creta"
     },
     "note": {
-      "en": "Leavened only by kounenos, a wild culture grown on soaked chickpeas rather than flour; no commercial yeast or conventional sourdough starter is used at all."
+      "en": "Leavened only by kounenos, a wild culture grown on soaked chickpeas rather than flour; no commercial yeast or conventional sourdough starter is used at all.",
+      "de": "Nur mit Kounenos getrieben, einer wilden Kultur, die auf eingeweichten Kichererbsen statt Mehl gezogen wird; es wird weder kommerzielle Hefe noch herkömmlicher Sauerteigstarter verwendet.",
+      "es": "Levado solo por kounenos, un cultivo silvestre cultivado en garbanzos remojados en lugar de harina; no se usa levadura comercial ni fermento de masa madre convencional.",
+      "fr": "Levé uniquement par le kounenos, une culture sauvage cultivée sur des pois chiches trempés plutôt que sur de la farine; aucune levure commerciale ni levain conventionnel n'est utilisé.",
+      "ro": "Crescut doar cu kounenos, o cultură sălbatică cultivată pe năut înmuiat, nu pe făină; nu se folosește deloc drojdie comercială sau maia convențională."
     }
   },
   "leaven": "sourdough",
@@ -53,35 +61,55 @@
       "key": "flour:chickpea",
       "grams": 60,
       "note": {
-        "en": "for the wild-fermented kounenos starter"
+        "en": "for the wild-fermented kounenos starter",
+        "de": "für den wildfermentierten Kounenos-Starter",
+        "es": "para el fermento kounenos de fermentación silvestre",
+        "fr": "pour le levain kounenos à fermentation sauvage",
+        "ro": "pentru starter-ul kounenos fermentat sălbatic"
       }
     },
     {
       "key": "water",
       "grams": 240,
       "note": {
-        "en": "cooled aromatic water, brewed with bay leaf and black pepper, for the starter"
+        "en": "cooled aromatic water, brewed with bay leaf and black pepper, for the starter",
+        "de": "abgekühltes aromatisches Wasser, mit Lorbeerblatt und schwarzem Pfeffer aufgebrüht, für den Starter",
+        "es": "agua aromática enfriada, infusionada con hoja de laurel y pimienta negra, para el fermento",
+        "fr": "eau aromatique refroidie, infusée avec du laurier et du poivre noir, pour le levain",
+        "ro": "apă aromatică răcită, fiartă cu frunză de dafin și piper negru, pentru starter"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 186,
       "note": {
-        "en": "added to the activated starter before its second rise"
+        "en": "added to the activated starter before its second rise",
+        "de": "dem aktivierten Starter vor seiner zweiten Gehzeit zugegeben",
+        "es": "añadido al fermento activado antes de su segundo levado",
+        "fr": "ajouté au levain activé avant sa deuxième levée",
+        "ro": "adăugat la starter-ul activat înainte de a doua creștere"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 249,
       "note": {
-        "en": "remaining flour, in the final dough"
+        "en": "remaining flour, in the final dough",
+        "de": "restliches Mehl, im Hauptteig",
+        "es": "harina restante, en la masa final",
+        "fr": "farine restante, dans la pâte finale",
+        "ro": "făina rămasă, în aluatul final"
       }
     },
     {
       "key": "water",
       "grams": 120,
       "note": {
-        "en": "remaining aromatic water, in the final dough"
+        "en": "remaining aromatic water, in the final dough",
+        "de": "restliches aromatisches Wasser, im Hauptteig",
+        "es": "agua aromática restante, en la masa final",
+        "fr": "eau aromatique restante, dans la pâte finale",
+        "ro": "apa aromatică rămasă, în aluatul final"
       }
     },
     {
@@ -96,14 +124,22 @@
       "key": "sugar",
       "grams": 8,
       "note": {
-        "en": "brewed into the aromatic water to feed the wild fermentation"
+        "en": "brewed into the aromatic water to feed the wild fermentation",
+        "de": "in das aromatische Wasser gebrüht, um die wilde Fermentation zu nähren",
+        "es": "infusionado en el agua aromática para alimentar la fermentación silvestre",
+        "fr": "infusé dans l'eau aromatique pour nourrir la fermentation sauvage",
+        "ro": "fiert în apa aromatică pentru a hrăni fermentația sălbatică"
       }
     },
     {
       "key": "sesame-seeds",
       "grams": 4.5,
       "note": {
-        "en": "black and white sesame, for topping"
+        "en": "black and white sesame, for topping",
+        "de": "schwarzer und weißer Sesam, zum Bestreuen",
+        "es": "sésamo negro y blanco, para cubrir",
+        "fr": "sésame noir et blanc, pour la garniture",
+        "ro": "susan negru și alb, pentru decor"
       }
     }
   ],
@@ -111,7 +147,11 @@
     "count": 1,
     "pieceGrams": 904,
     "shape": {
-      "en": "round loaf, sometimes double-baked into paximadia (rusks)"
+      "en": "round loaf, sometimes double-baked into paximadia (rusks)",
+      "de": "runder Laib, manchmal doppelt gebacken zu Paximadia (Zwieback)",
+      "es": "hogaza redonda, a veces horneada dos veces en paximadia (galletas duras)",
+      "fr": "pain rond, parfois cuit deux fois en paximadia (biscottes)",
+      "ro": "pâine rotundă, uneori dublu coaptă în paximadia (pesmeți)"
     }
   },
   "time": {
@@ -153,7 +193,11 @@
     "freshDays": 10,
     "freezes": true,
     "note": {
-      "en": "Traditionally double-baked into paximadia (rusks) for months of shelf life, a practical trick from Crete's island pantries."
+      "en": "Traditionally double-baked into paximadia (rusks) for months of shelf life, a practical trick from Crete's island pantries.",
+      "de": "Traditionell doppelt gebacken zu Paximadia (Zwieback) für monatelange Haltbarkeit, ein praktischer Trick aus den Inselvorratskammern Kretas.",
+      "es": "Tradicionalmente horneado dos veces en paximadia (galletas duras) para meses de conservación, un truco práctico de las despensas insulares de Creta.",
+      "fr": "Traditionnellement cuit deux fois en paximadia (biscottes) pour des mois de conservation, une astuce pratique des garde-mangers insulaires crétois.",
+      "ro": "Tradițional, dublu copt în paximadia (pesmeți) pentru luni de păstrare, un truc practic din cămările insulei Creta."
     }
   },
   "equipment": [],
@@ -260,7 +304,11 @@
     "site": "The Hungry Bites",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams converted from cup/tsp measures; baking temperature wasn't specified by the source, so 200°C, typical for a rustic loaf of this size and bake time, is used."
+      "en": "Grams converted from cup/tsp measures; baking temperature wasn't specified by the source, so 200°C, typical for a rustic loaf of this size and bake time, is used.",
+      "de": "Gramm aus Cup-/TL-Maßen umgerechnet; Backtemperatur wurde von der Quelle nicht angegeben, daher werden 200 °C verwendet, typisch für einen rustikalen Laib dieser Größe und Backzeit.",
+      "es": "Gramos convertidos de medidas en tazas/cucharaditas; la temperatura de horneado no fue especificada por la fuente, por lo que se usan 200 °C, típica para un pan rústico de este tamaño y tiempo de horneado.",
+      "fr": "Grammes convertis à partir de mesures en tasses/c. à café; la température de cuisson n'étant pas spécifiée par la source, 200 °C, typique pour un pain rustique de cette taille et durée de cuisson, est utilisée.",
+      "ro": "Gramurile convertite din măsuri în căni/lingurițe; temperatura de coacere nu a fost specificată de sursă, așa că se folosesc 200 °C, tipice pentru o pâine rustică de această dimensiune și timp de coacere."
     }
   },
   "tags": [

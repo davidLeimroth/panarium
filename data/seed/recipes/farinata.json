@@ -23,10 +23,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Liguria (Genoa)"
+      "en": "Liguria (Genoa)",
+      "de": "Ligurien (Genua)",
+      "es": "Liguria (Génova)",
+      "fr": "Ligurie (Gênes)",
+      "ro": "Liguria (Genova)"
     },
     "note": {
-      "en": "Nearly identical to Provençal socca across the French border in Nice; both likely share a common Ligurian coastal ancestry."
+      "en": "Nearly identical to Provençal socca across the French border in Nice; both likely share a common Ligurian coastal ancestry.",
+      "de": "Nahezu identisch mit der provenzalischen Socca jenseits der französischen Grenze in Nizza; beide haben wahrscheinlich eine gemeinsame ligurische Küstenabstammung.",
+      "es": "Casi idéntica a la socca provenzal al otro lado de la frontera francesa en Niza; ambas probablemente comparten una ascendencia costera ligur común.",
+      "fr": "Presque identique à la socca provençale de l'autre côté de la frontière à Nice; toutes deux partagent probablement une ascendance côtière ligure commune.",
+      "ro": "Aproape identică cu socca provensală de peste granița franceză la Nisa; ambele împărtășesc probabil o ascendență comună ligureană de coastă."
     }
   },
   "leaven": "none",
@@ -56,7 +64,11 @@
       "key": "olive-oil",
       "grams": 64,
       "note": {
-        "en": "some in the batter, some to oil the pan"
+        "en": "some in the batter, some to oil the pan",
+        "de": "etwas im Teig, etwas zum Einölen der Pfanne",
+        "es": "un poco en la masa, un poco para engrasar la sartén",
+        "fr": "une partie dans la pâte, une partie pour huiler le moule",
+        "ro": "o parte în aluat, o parte pentru unge tava"
       }
     },
     {
@@ -68,7 +80,11 @@
     "count": 8,
     "pieceGrams": 158,
     "shape": {
-      "en": "thin round tart, 40 cm, cut into wedges"
+      "en": "thin round tart, 40 cm, cut into wedges",
+      "de": "dünne runde Tarte, 40 cm, in Stücke geschnitten",
+      "es": "tarta redonda fina, 40 cm, cortada en cuñas",
+      "fr": "tarte ronde fine, 40 cm, coupée en parts",
+      "ro": "tartă rotundă subțire, 40 cm, tăiată în felii"
     }
   },
   "time": {
@@ -108,7 +124,11 @@
     "freshDays": 1,
     "freezes": false,
     "note": {
-      "en": "Best eaten warm from the oven within the hour, crisp on top and custardy beneath; it turns rubbery once cold or reheated, and does not freeze well."
+      "en": "Best eaten warm from the oven within the hour, crisp on top and custardy beneath; it turns rubbery once cold or reheated, and does not freeze well.",
+      "de": "Am besten warm aus dem Ofen innerhalb der Stunde essen, knusprig oben und cremig darunter; wird kalt oder aufgewärmt gummiartig und lässt sich nicht gut einfrieren.",
+      "es": "Mejor comerla caliente del horno en la primera hora, crujiente por arriba y cremosa por debajo; se vuelve gomosa una vez fría o recalentada y no se congela bien.",
+      "fr": "À déguster chaude à la sortie du four dans l'heure, croustillante dessus et crémeuse dessous; elle devient caoutchouteuse froide ou réchauffée et ne se congèle pas bien.",
+      "ro": "Cel mai bună caldă din cuptor în prima oră, crocantă deasupra și cremoasă dedesubt; devine cauciucată odată rece sau reîncălzită și nu se congelează bine."
     }
   },
   "equipment": [
@@ -217,7 +237,11 @@
     "site": "A Small Kitchen in Genoa",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt quantity estimated at about 1% of flour weight since the source says 'salt to taste'; oil quantity kept as sourced for a 40 cm pan."
+      "en": "Salt quantity estimated at about 1% of flour weight since the source says 'salt to taste'; oil quantity kept as sourced for a 40 cm pan.",
+      "de": "Salzmenge auf etwa 1 % des Mehlgewichts geschätzt, da die Quelle Salz nach Geschmack angibt; Ölmenge wie in der Quelle für eine 40-cm-Pfanne belassen.",
+      "es": "Cantidad de sal estimada en aproximadamente 1 % del peso de la harina ya que la fuente dice sal al gusto; cantidad de aceite mantenida según la fuente para una sartén de 40 cm.",
+      "fr": "Quantité de sel estimée à environ 1 % du poids de farine car la source dit sel à volonté; quantité d'huile conservée telle quelle pour une poêle de 40 cm.",
+      "ro": "Cantitatea de sare estimată la aproximativ 1 % din greutatea făinii deoarece sursa spune sare după gust; cantitatea de ulei păstrată conform sursei pentru o tavă de 40 cm."
     }
   },
   "tags": [

@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "the American South"
+      "en": "the American South",
+      "de": "der amerikanische Süden",
+      "es": "el sur de Estados Unidos",
+      "fr": "le Sud américain",
+      "ro": "sudul american"
     },
     "note": {
-      "en": "Corn-based breads predate wheat in the region; the sugarless, buttermilk-and-cast-iron style is the marker of Southern cornbread versus the sweeter Northern style."
+      "en": "Corn-based breads predate wheat in the region; the sugarless, buttermilk-and-cast-iron style is the marker of Southern cornbread versus the sweeter Northern style.",
+      "de": "Maisbasierte Brote gab es in der Region vor Weizen; der zuckerlose Buttermilch-und-Gusseisen-Stil ist das Kennzeichen von Südstaaten-Maisbrot im Gegensatz zum süßeren Nordstaaten-Stil.",
+      "es": "Los panes de maíz preceden al trigo en la región; el estilo sin azúcar, con suero de leche y hierro fundido, es la marca del pan de maíz sureño frente al estilo más dulce del norte.",
+      "fr": "Les pains à base de maïs précèdent le blé dans la région; le style sans sucre, au babeurre et à la poêle en fonte est la marque du cornbread du Sud par rapport au style plus sucré du Nord.",
+      "ro": "Pâinile pe bază de porumb preced grâul în regiune; stilul fără zahăr, cu lapte bătut și tigaie de fontă este marca pâinii de porumb sudice față de stilul mai dulce nordic."
     }
   },
   "leaven": "chemical",
@@ -49,14 +57,22 @@
       "key": "flour:corn",
       "grams": 276,
       "note": {
-        "en": "stone-ground cornmeal, yellow or white"
+        "en": "stone-ground cornmeal, yellow or white",
+        "de": "stein gemahlenes Maismehl, gelb oder weiß",
+        "es": "harina de maíz molida a piedra, amarilla o blanca",
+        "fr": "farine de maïs moulue sur pierre, jaune ou blanche",
+        "ro": "mălai măcinat pe piatră, galben sau alb"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 94,
       "note": {
-        "en": "all-purpose, for structure"
+        "en": "all-purpose, for structure",
+        "de": "Haushaltsmehl, für die Struktur",
+        "es": "todo uso, para la estructura",
+        "fr": "tout usage, pour la structure",
+        "ro": "universală, pentru structură"
       }
     },
     {
@@ -79,14 +95,22 @@
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs"
+        "en": "2 large eggs",
+        "de": "2 große Eier",
+        "es": "2 huevos grandes",
+        "fr": "2 gros œufs",
+        "ro": "2 ouă mari"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 54,
       "note": {
-        "en": "peanut oil traditionally; more reserved for greasing the skillet"
+        "en": "peanut oil traditionally; more reserved for greasing the skillet",
+        "de": "traditionell Erdnussöl; mehr zum Einfetten der Pfanne zurückbehalten",
+        "es": "aceite de maní tradicionalmente; más reservado para engrasar la sartén",
+        "fr": "huile d'arachide traditionnellement; plus réservée pour graisser la poêle",
+        "ro": "ulei de arahide în mod tradițional; mai mult rezervat pentru uns tigaia"
       }
     }
   ],
@@ -94,7 +118,11 @@
     "count": 1,
     "pieceGrams": 1020,
     "shape": {
-      "en": "10-inch cast-iron skillet round, cut into wedges to serve"
+      "en": "10-inch cast-iron skillet round, cut into wedges to serve",
+      "de": "runder Laib aus der 25,4 cm Gusseisenpfanne, zum Servieren in Stücke geschnitten",
+      "es": "redondo de sartén de hierro fundido de 25,4 cm, cortado en cuñas para servir",
+      "fr": "rond de poêle en fonte de 25,4 cm, coupé en parts pour servir",
+      "ro": "rotund de tigaie de fontă de 25,4 cm, tăiat în bucăți pentru servire"
     }
   },
   "time": {
@@ -134,7 +162,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm from the skillet the same day; wrap and freeze extra wedges to reheat."
+      "en": "Best warm from the skillet the same day; wrap and freeze extra wedges to reheat.",
+      "de": "Am besten am selben Tag warm aus der Pfanne; übrige Stücke einwickeln und einfrieren zum Aufwärmen.",
+      "es": "Mejor caliente de la sartén el mismo día; envolver y congelar las cuñas extra para recalentar.",
+      "fr": "Meilleur chaud à la sortie de la poêle le jour même; envelopper et congeler les parts supplémentaires pour réchauffer.",
+      "ro": "Cel mai bun cald din tigaie în aceeași zi; înfășoară și congelează bucățile rămase pentru reîncălzit."
     }
   },
   "equipment": [
@@ -243,7 +275,11 @@
     "site": "Grits and Pinecones",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Cup measures converted to grams via standard baker's conversions; greasing oil kept separate from the batter total."
+      "en": "Cup measures converted to grams via standard baker's conversions; greasing oil kept separate from the batter total.",
+      "de": "Tassenmaße über Standard-Bäckereiumrechnungen in Gramm umgerechnet; Öl zum Einfetten vom Gesamtteig getrennt gehalten.",
+      "es": "Medidas en tazas convertidas a gramos mediante conversiones panaderas estándar; aceite de engrase mantenido separado del total de la masa.",
+      "fr": "Mesures en tasses converties en grammes via les conversions standard de boulanger; huile de graissage gardée séparée du total de la pâte.",
+      "ro": "Măsurile în căni convertite în grame prin conversii standard de panificație; uleiul de uns păstrat separat de totalul aluatului."
     }
   },
   "tags": [

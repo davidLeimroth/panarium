@@ -22,10 +22,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Tuscany"
+      "en": "Tuscany",
+      "de": "Toskana",
+      "es": "Toscana",
+      "fr": "Toscane",
+      "ro": "Toscana"
     },
     "note": {
-      "en": "DOP since 2016. Traditionally salt-free (pane sciocco/sciapo) so it can carry Tuscany's salty cured meats and soups without competing."
+      "en": "DOP since 2016. Traditionally salt-free (pane sciocco/sciapo) so it can carry Tuscany's salty cured meats and soups without competing.",
+      "de": "DOP seit 2016. Traditionell salzfrei (pane sciocco/sciapo), damit es die salzigen Wurstwaren und Suppen der Toskana begleiten kann, ohne zu konkurrieren.",
+      "es": "DOP desde 2016. Tradicionalmente sin sal (pane sciocco/sciapo) para que pueda acompanar los embutidos salados y las sopas de la Toscana sin competir.",
+      "fr": "DOP depuis 2016. Traditionnellement sans sel (pane sciocco/sciapo) pour accompagner les charcuteries salees et les soupes de Toscane sans concurrence.",
+      "ro": "DOP din 2016. Traditional fără sare (pane sciocco/sciapo) pentru a putea acompania cârnații săraţi şi supele Toscanei fără a concura."
     }
   },
   "leaven": "sourdough",
@@ -53,14 +61,22 @@
       "key": "flour:wheat-whole",
       "grams": 350,
       "note": {
-        "en": "farina tipo 2, a rustic semi-wholemeal wheat flour"
+        "en": "farina tipo 2, a rustic semi-wholemeal wheat flour",
+        "de": "Farina tipo 2, ein rustikales halbvollkorn Weizenmehl",
+        "es": "farina tipo 2, una harina de trigo rustica semiintegral",
+        "fr": "farina tipo 2, une farine de ble rustique semi-complete",
+        "ro": "farina tipo 2, o făină de grâu rustică semi-integrallă"
       }
     },
     {
       "key": "flour:spelt-whole",
       "grams": 150,
       "note": {
-        "en": "whole spelt flour"
+        "en": "whole spelt flour",
+        "de": "ganzes Dinkelmehl",
+        "es": "harina integral de espelta",
+        "fr": "farine complete d'epeautre",
+        "ro": "făină integrală de alac"
       }
     },
     {
@@ -71,14 +87,22 @@
       "key": "sourdough-starter",
       "grams": 150,
       "note": {
-        "en": "pasta madre, refreshed the day before"
+        "en": "pasta madre, refreshed the day before",
+        "de": "Pasta Madre, am Vortag aufgefrischt",
+        "es": "pasta madre, refrescada el dia anterior",
+        "fr": "pasta madre, rafraichie la veille",
+        "ro": "pasta madre, reinoită cu o zi înainte"
       }
     },
     {
       "key": "malt-syrup",
       "grams": 2.5,
       "note": {
-        "en": "diastatic malt powder"
+        "en": "diastatic malt powder",
+        "de": "diastatisches Malzpulver",
+        "es": "malta diastásica en polvo",
+        "fr": "poudre de malt diastasique",
+        "ro": "pudră de malț diastatic"
       }
     },
     {
@@ -90,7 +114,11 @@
     "count": 1,
     "pieceGrams": 1037,
     "shape": {
-      "en": "oval hearth loaf (filone)"
+      "en": "oval hearth loaf (filone)",
+      "de": "ovaler Herdlaib (Filone)",
+      "es": "pan de hogaza oval (filone)",
+      "fr": "pain de foyer ovale (filone)",
+      "ro": "pâine de vatră ovălă (filone)"
     }
   },
   "time": {
@@ -131,7 +159,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Made to be bland on purpose so it's a foil for Tuscany's salty cured meats, salt-forward soups and olive oil, not a bread meant to be eaten alone."
+      "en": "Made to be bland on purpose so it's a foil for Tuscany's salty cured meats, salt-forward soups and olive oil, not a bread meant to be eaten alone.",
+      "de": "Absichtlich mild gemacht, um einen Kontrast zu Toskanas salzigen Wurstwaren, salzbetonten Suppen und Olivenol zu bilden, kein Brot, das allein gegessen werden soll.",
+      "es": "Hecho a proposito insipido para ser un contraste con los embutidos salados, las sopas saladas y el aceite de oliva de la Toscana, no un pan para comer solo.",
+      "fr": "Volontairement fade pour servir de contraste aux charcuteries salees, aux soupes salees et a l'huile d'olive de Toscane, pas un pain destine a ete mange seul.",
+      "ro": "Făcut intenționat fără gust pentru a fi un contrast cu cârnații săraţi, supele sărate şi uleiul de măsline ale Toscanei, nu o pâine de mâncat singură."
     }
   },
   "equipment": [
@@ -241,7 +273,11 @@
     "site": "Lievito Naturale",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams as published; the starter is assumed at roughly 50% hydration (typical Tuscan pasta madre) to split its flour/water into total-flour baker's percentages. Zero salt is original, not an omission."
+      "en": "Grams as published; the starter is assumed at roughly 50% hydration (typical Tuscan pasta madre) to split its flour/water into total-flour baker's percentages. Zero salt is original, not an omission.",
+      "de": "Gramm wie veröffentlicht; der Starter wird mit etwa 50 % Hydratation angenommen (typische toskanische Pasta Madre), um Mehl/Wasser in Gesamtmehl-Backerprozente aufzuteilen. Null Salz ist original, kein Versehen.",
+      "es": "Gramos segun lo publicado; se asume que el prefermento tiene aproximadamente un 50 % de hidratacion (pasta madre toscana tipica) para dividir su harina/agua en porcentajes totales de harina. Cero sal es original, no una omision.",
+      "fr": "Grammes tels que publies ; le levain est suppose a environ 50 % d'hydratation (pasta madre toscane typique) pour diviser sa farine/eau en pourcentages totaux de farine. Zero sel est original, pas une omission.",
+      "ro": "Gramele ca în publicaţie; starterul este presupus la aproximativ 50% hidratare (pasta madre toscană tipică) pentru a-i împărţi făina/apa in procente totale de făină. Zero sare este original, nu o omisiune."
     }
   },
   "tags": [

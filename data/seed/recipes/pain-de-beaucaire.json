@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Beaucaire, Gard (Languedoc)"
+      "en": "Beaucaire, Gard (Languedoc)",
+      "de": "Beaucaire, Gard (Languedoc)",
+      "es": "Beaucaire, Gard (Languedoc)",
+      "fr": "Beaucaire, Gard (Languedoc)",
+      "ro": "Beaucaire, Gard (Languedoc)"
     },
     "note": {
-      "en": "Traced to the 15th century in Beaucaire, once home to one of Europe's largest trade fairs on the banks of the Rhône."
+      "en": "Traced to the 15th century in Beaucaire, once home to one of Europe's largest trade fairs on the banks of the Rhône.",
+      "de": "Lässt sich bis ins 15. Jahrhundert in Beaucaire zurückverfolgen, das einst am Ufer der Rhône einen der größten Handelsmessen Europas beherbergte.",
+      "es": "Rastreado al siglo XV en Beaucaire, que una vez albergó una de las ferias comerciales más grandes de Europa a orillas del Ródano.",
+      "fr": "Attesté dès le XVe siècle à Beaucaire, qui accueillait alors l'une des plus grandes foires commerciales d'Europe sur les bords du Rhône.",
+      "ro": "Atestat încă din secolul al XV-lea la Beaucaire, care a găzduit cândva unul dintre cele mai mari târguri comerciale din Europa pe malurile Ronului."
     }
   },
   "leaven": "hybrid",
@@ -46,7 +54,11 @@
       "key": "flour:wheat-white",
       "grams": 1000,
       "note": {
-        "en": "T55"
+        "en": "T55",
+        "de": "T55",
+        "es": "T55",
+        "fr": "T55",
+        "ro": "T55"
       }
     },
     {
@@ -57,7 +69,11 @@
       "key": "levain",
       "grams": 500,
       "note": {
-        "en": "about a quarter of the dough's weight"
+        "en": "about a quarter of the dough's weight",
+        "de": "etwa ein Viertel des Teiggewichts",
+        "es": "aproximadamente un cuarto del peso de la masa",
+        "fr": "environ un quart du poids de la pâte",
+        "ro": "aproximativ un sfert din greutatea aluatului"
       }
     },
     {
@@ -73,7 +89,11 @@
     "count": 3,
     "pieceGrams": 650,
     "shape": {
-      "en": "rectangular, folded into quarters"
+      "en": "rectangular, folded into quarters",
+      "de": "rechteckig, viertelgefaltet",
+      "es": "rectangular, doblado en cuartos",
+      "fr": "rectangulaire, plié en quatre",
+      "ro": "dreptunghiular, îndoit în patru"
     }
   },
   "time": {
@@ -114,7 +134,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Its high levain ratio was prized for letting it be stored without hardening, useful in the hot Languedoc summers."
+      "en": "Its high levain ratio was prized for letting it be stored without hardening, useful in the hot Languedoc summers.",
+      "de": "Sein hoher Levain-Anteil wurde geschätzt, weil er eine Lagerung ohne Aushärten ermöglichte, nützlich in den heißen Sommern des Languedoc.",
+      "es": "Su alta proporción de levain era apreciada porque permitía almacenarlo sin endurecerse, útil en los calurosos veranos del Languedoc.",
+      "fr": "Sa forte proportion de levain était appréciée car elle permettait de le stocker sans qu'il ne durcisse, utile dans les chauds étés languedociens.",
+      "ro": "Proporția sa ridicată de levain era apreciată pentru că permitea depozitarea fără întărire, utilă în verile fierbinți ale Languedocului."
     }
   },
   "equipment": [
@@ -224,7 +248,11 @@
     "site": "Bloc-notes culinaire",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Levain's own flour/water content estimated (assumed roughly 100%-hydration liquid levain) and folded into total baker's percentages."
+      "en": "Levain's own flour/water content estimated (assumed roughly 100%-hydration liquid levain) and folded into total baker's percentages.",
+      "de": "Mehl-/Wasseranteil des Levains geschätzt (etwa 100%-Hydration flüssiger Levain angenommen) und in die gesamten Bäckerprozente eingerechnet.",
+      "es": "Contenido de harina/agua del levain estimado (asumiendo levain líquido de aproximadamente 100% de hidratación) e integrado en los porcentajes totales del panadero.",
+      "fr": "Teneur en farine/eau du levain estimée (levain liquide à environ 100% d'hydratation supposé) et intégrée dans les pourcentages totaux du boulanger.",
+      "ro": "Conținutul de făină/apă al levainului estimat (presupunând levain lichid cu hidratare de aproximativ 100%) și integrat în procentele totale de panificație."
     }
   },
   "tags": [

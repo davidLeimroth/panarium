@@ -22,10 +22,18 @@
   "origin": {
     "country": "CH",
     "region": {
-      "en": "Valais / Wallis"
+      "en": "Valais / Wallis",
+      "de": "Wallis / Valais",
+      "es": "Valais / Wallis",
+      "fr": "Valais / Wallis",
+      "ro": "Valais / Wallis"
     },
     "note": {
-      "en": "Holds AOP (protected designation of origin) status in Switzerland; historically the everyday bread of Valais's high alpine villages, often baked only a few times a year in communal ovens."
+      "en": "Holds AOP (protected designation of origin) status in Switzerland; historically the everyday bread of Valais's high alpine villages, often baked only a few times a year in communal ovens.",
+      "de": "Hat AOP-Status (geschützte Ursprungsbezeichnung) in der Schweiz; historisch das Alltagsbrot der hochalpinen Walliser Dörfer, oft nur wenige Male im Jahr in Gemeinschaftsöfen gebacken.",
+      "es": "Tiene estatus AOP (denominación de origen protegida) en Suiza; históricamente el pan cotidiano de los pueblos alpinos del Valais, a menudo horneado solo unas pocas veces al año en hornos comunales.",
+      "fr": "Bénéficie du statut AOP (appellation d'origine protégée) en Suisse; historiquement le pain quotidien des villages alpins du Valais, souvent cuit seulement quelques fois par an dans des fours communaux.",
+      "ro": "Deține statut AOP (denumire de origine protejată) în Elveția; istoric pâinea de zi cu zi a satelor alpine înalte din Valais, adesea coaptă doar de câteva ori pe an în cuptoare comunale."
     }
   },
   "leaven": "sourdough",
@@ -47,21 +55,33 @@
       "key": "flour:rye-whole",
       "grams": 724,
       "note": {
-        "en": "coarse and fine rye wholemeal combined"
+        "en": "coarse and fine rye wholemeal combined",
+        "de": "grobes und feines Roggenvollkornmehl kombiniert",
+        "es": "harina integral de centeno gruesa y fina combinadas",
+        "fr": "farine complète de seigle grossière et fine mélangées",
+        "ro": "făină integrală de secară grosieră și fină combinate"
       }
     },
     {
       "key": "water",
       "grams": 556,
       "note": {
-        "en": "warm, ~40–45°C, rye ferments best warm"
+        "en": "warm, ~40–45°C, rye ferments best warm",
+        "de": "warm, ~40–45°C, Roggen gärt am besten warm",
+        "es": "templada, ~40–45°C, el centeno fermenta mejor templado",
+        "fr": "tiède, ~40–45°C, le seigle fermente mieux à tiède",
+        "ro": "călduță, ~40–45°C, secara fermentează cel mai bine călduță"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 40,
       "note": {
-        "en": "active rye starter (Anstellgut)"
+        "en": "active rye starter (Anstellgut)",
+        "de": "aktiver Roggensauerteig (Anstellgut)",
+        "es": "prefermento de centeno activo (Anstellgut)",
+        "fr": "levain de seigle actif (Anstellgut)",
+        "ro": "maia activă de secară (Anstellgut)"
       }
     },
     {
@@ -73,7 +93,11 @@
     "count": 2,
     "pieceGrams": 600,
     "shape": {
-      "en": "round, cone-shaped loaf"
+      "en": "round, cone-shaped loaf",
+      "de": "runder, kegelförmiger Laib",
+      "es": "hogaza redonda en forma de cono",
+      "fr": "pain rond en forme de cône",
+      "ro": "pâine rotundă, în formă de con"
     }
   },
   "time": {
@@ -115,7 +139,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "Wrap in linen or paper; this alpine keeping bread stays good a week or more and slices thinner as it rests."
+      "en": "Wrap in linen or paper; this alpine keeping bread stays good a week or more and slices thinner as it rests.",
+      "de": "In Leinen oder Papier wickeln; dieses alpine Dauerbrot hält sich eine Woche oder länger und lässt sich mit der Zeit dünner schneiden.",
+      "es": "Envolver en lino o papel; este pan de larga duración alpino se conserva una semana o más y se corta más fino al reposar.",
+      "fr": "Envelopper dans un linge ou du papier; ce pain de garde alpin se conserve une semaine ou plus et se tranche plus fin en vieillissant.",
+      "ro": "Învelește în pânză de in sau hârtie; această pâine alpină de păstrare se menține bună o săptămână sau mai mult și se taie mai subțire pe măsură ce se odihnește."
     }
   },
   "equipment": [
@@ -240,7 +268,11 @@
     "site": "der heimbäcker",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Optional soaked walnuts from the source omitted for the plain version; rounded to two 600 g loaves."
+      "en": "Optional soaked walnuts from the source omitted for the plain version; rounded to two 600 g loaves.",
+      "de": "Optionale eingeweichte Walnüsse aus der Quelle für die einfache Version weggelassen; auf zwei 600-g-Laibe gerundet.",
+      "es": "Nueces remojadas opcionales de la fuente omitidas para la versión simple; redondeado a dos hogazas de 600 g.",
+      "fr": "Noix trempées optionnelles de la source omises pour la version simple; arrondi à deux pains de 600 g.",
+      "ro": "Nucile înmuiate opționale din sursă omise pentru varianta simplă; rotunjit la două pâini de 600 g."
     }
   },
   "tags": [

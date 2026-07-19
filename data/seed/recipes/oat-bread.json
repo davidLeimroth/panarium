@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "New England and general American home baking"
+      "en": "New England and general American home baking",
+      "de": "Neuengland und allgemeine amerikanische Hausbackerei",
+      "es": "Nueva Inglaterra y reposteria casera estadounidense en general",
+      "fr": "Nouvelle-Angleterre et patisserie maison americaine en general",
+      "ro": "Noua Anglie si panificatia casnica americana generala"
     },
     "note": {
-      "en": "A staple of the mid-20th-century American home-baking repertoire. Oats have no gluten of their own, so they are always cut with wheat flour to get a raised loaf like this one, unlike a pure oatcake or bannock."
+      "en": "A staple of the mid-20th-century American home-baking repertoire. Oats have no gluten of their own, so they are always cut with wheat flour to get a raised loaf like this one, unlike a pure oatcake or bannock.",
+      "de": "Ein Grundnahrungsmittel des amerikanischen Hausbackrepertoires der Mitte des 20. Jahrhunderts. Hafer hat kein eigenes Gluten, daher wird er immer mit Weizenmehl gemischt, um einen aufgegangenen Laib wie diesen zu erhalten, anders als ein reiner Oatcake oder Bannock.",
+      "es": "Un basico del repertorio de reposteria casera estadounidense de mediados del siglo XX. La avena no tiene gluten propio, por lo que siempre se mezcla con harina de trigo para obtener un pan esponjoso como este, a diferencia de una oatcake o bannock puros.",
+      "fr": "Un incontournable du repertoire de patisserie maison americain du milieu du XXe siecle. L'avoine n'a pas de gluten propre, elle est donc toujours coupee avec de la farine de ble pour obtenir un pain leve comme celui-ci, contrairement a un oatcake ou un bannock purs.",
+      "ro": "Un aliment de baza al repertoriului american de panificatie casnica de la mijlocul secolului XX. Ovazul nu are gluten propriu, asa ca este intotdeauna amestecat cu faina de grau pentru a obtine o paine crescuta ca aceasta, spre deosebire de un oatcake sau bannock pur."
     }
   },
   "leaven": "yeast",
@@ -56,14 +64,22 @@
       "key": "flour:oat",
       "grams": 89,
       "note": {
-        "en": "old-fashioned rolled oats, softened in boiling water before mixing"
+        "en": "old-fashioned rolled oats, softened in boiling water before mixing",
+        "de": "klassische Haferflocken, vor dem Mischen in kochendem Wasser eingeweicht",
+        "es": "avena arrollada tradicional, ablandada en agua hirviendo antes de mezclar",
+        "fr": "flocons d'avoine traditionnels, ramollis dans l'eau bouillante avant de melanger",
+        "ro": "fulgi de ovaz traditionali, inmuiati in apa fiarta inainte de amestecare"
       }
     },
     {
       "key": "water",
       "grams": 301,
       "note": {
-        "en": "boiling, poured over the oats to soften them"
+        "en": "boiling, poured over the oats to soften them",
+        "de": "kochend, uber die Haferflocken gegossen, um sie einzuweichen",
+        "es": "hirviendo, vertida sobre la avena para ablandarla",
+        "fr": "bouillante, versee sur les flocons d'avoine pour les ramollir",
+        "ro": "fierbinte, turnata peste fulgii de ovaz pentru a-i inmuia"
       }
     },
     {
@@ -97,7 +113,11 @@
     "count": 1,
     "pieceGrams": 800,
     "shape": {
-      "en": "8.5 x 4.5 in loaf pan"
+      "en": "8.5 x 4.5 in loaf pan",
+      "de": "Kastenform 21,6 x 11,4 cm",
+      "es": "molde de pan 21,6 x 11,4 cm",
+      "fr": "moule a pain 21,6 x 11,4 cm",
+      "ro": "tava de paine 21,6 x 11,4 cm"
     }
   },
   "time": {
@@ -169,10 +189,10 @@
       },
       "summary": {
         "en": "Add flour, instant yeast, salt and dry milk powder; mix and knead to a tender, tacky dough with a rough surface.",
-        "de": "Mehl, Instanthefe, Salz und Milchpulver zugeben; zu einem weichen, leicht klebrigen, unregelmäßigen Teig mischen und kneten.",
-        "es": "Añadir la harina, la levadura instantánea, la sal y la leche en polvo; mezclar y amasar hasta obtener una masa suave, algo pegajosa y desigual.",
-        "fr": "Ajouter la farine, la levure instantanée, le sel et le lait en poudre ; mélanger et pétrir en une pâte souple, légèrement collante et grossière.",
-        "ro": "Adaugă făina, drojdia instant, sarea și laptele praf; amestecă și frământă până obții un aluat moale, ușor lipicios și neuniform."
+        "de": "Mehl, Instanthefe, Salz und Milchpulver zugeben; zu einem weichen, leicht klebrigen Teig mit rauer Oberfläche mischen und kneten.",
+        "es": "Añadir la harina, la levadura instantánea, la sal y la leche en polvo; mezclar y amasar hasta obtener una masa tierna y pegajosa con superficie rugosa.",
+        "fr": "Ajouter la farine, la levure instantanée, le sel et le lait en poudre; mélanger et pétrir jusqu'à obtenir une pâte tendre et collante à surface rugueuse.",
+        "ro": "Adaugă făina, drojdia instant, sarea și laptele praf; amestecă și frământă până obții un aluat moale, lipicios, cu suprafața aspră."
       }
     },
     {
@@ -185,10 +205,10 @@
       },
       "summary": {
         "en": "Cover and let rise about 1.5 hours, until visibly swollen; it need not fully double.",
-        "de": "Abdecken und etwa 1,5 Stunden gehen lassen, bis er aufgeplustert ist, auch wenn er sich nicht unbedingt verdoppelt hat.",
-        "es": "Tapar y dejar fermentar cerca de 1,5 horas hasta que esté hinchada, aunque no necesariamente haya doblado su tamaño.",
-        "fr": "Couvrir et laisser pousser environ 1,5 heure jusqu'à ce qu'elle soit gonflée, sans forcément avoir doublé.",
-        "ro": "Acoperă și lasă la crescut aproximativ 1,5 ore până se umflă, chiar dacă nu se dublează neapărat."
+        "de": "Abdecken und etwa 1.5 Stunden gehen lassen, bis er sichtbar aufgegangen ist; er muss sich nicht ganz verdoppeln.",
+        "es": "Tapar y dejar levar aproximadamente 1.5 horas, hasta que esté visiblemente hinchado; no es necesario que doble completamente.",
+        "fr": "Couvrir et laisser lever environ 1.5 heures, jusqu'à ce qu'il soit visiblement gonflé; il n'a pas besoin de doubler complètement.",
+        "ro": "Acoperă și lasă la crescut aproximativ 1.5 ore, până se umflă vizibil; nu trebuie să se dubleze complet."
       }
     },
     {
@@ -249,10 +269,10 @@
       },
       "summary": {
         "en": "Turn out of the pan and rest on a rack, flipped onto its side so the soft crumb does not sag, before slicing.",
-        "de": "Aus der Form stürzen und auf der Seite liegend auf einem Gitter auskühlen lassen, bevor er angeschnitten wird.",
-        "es": "Desmoldar y dejar enfriar de lado sobre una rejilla antes de cortar.",
-        "fr": "Démouler et laisser refroidir sur le flanc sur une grille avant de trancher.",
-        "ro": "Scoate din formă și lasă la răcit pe o parte, pe un grătar, înainte de a felia."
+        "de": "Aus der Form stürzen und auf der Seite liegend auf einem Gitter auskühlen lassen, damit die weiche Krume nicht durchhängt, vor dem Anschneiden.",
+        "es": "Desmoldar y dejar enfriar sobre una rejilla, apoyado de lado para que la miga suave no se hunda, antes de rebanar.",
+        "fr": "Démouler et laisser refroidir sur une grille, couché sur le côté pour que la mie tendre ne s'affaisse pas, avant de trancher.",
+        "ro": "Scoate din formă și lasă pe un grătar, așezat pe o parte ca să nu se lase miezul moale, înainte de a felia."
       }
     }
   ],

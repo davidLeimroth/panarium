@@ -20,10 +20,18 @@
   "origin": {
     "country": "JM",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Likely developed during the colonial plantation era by enslaved African and indentured Chinese and Indian laborers; today it's the classic wrapper for a Jamaican beef patty."
+      "en": "Likely developed during the colonial plantation era by enslaved African and indentured Chinese and Indian laborers; today it's the classic wrapper for a Jamaican beef patty.",
+      "de": "Wahrscheinlich während der kolonialen Plantagenzeit von versklavten afrikanischen sowie indenturierten chinesischen und indischen Arbeitern entwickelt; heute ist es die klassische Umhüllung für eine jamaikanische Beef Patty.",
+      "es": "Probablemente desarrollado durante la era colonial de plantaciones por trabajadores africanos esclavizados y chinos e indios contratados; hoy es el envoltorio clásico para un pastel de carne jamaiquino.",
+      "fr": "Développé probablement à l'époque coloniale des plantations par des travailleurs africains esclaves et des travailleurs chinois et indiens sous contrat; aujourd'hui c'est l'emballage classique pour un pâté de bœuf jamaïcain.",
+      "ro": "Probabil dezvoltat în epoca colonială a plantațiilor de muncitori africani înrobiți și muncitori chinezi și indieni cu contract; astăzi este ambalajul clasic pentru o pată de vită jamaicană."
     }
   },
   "leaven": "yeast",
@@ -59,7 +67,11 @@
       "key": "instant-yeast",
       "grams": 8,
       "note": {
-        "en": "quick-rise yeast"
+        "en": "quick-rise yeast",
+        "de": "Schnellbackhefe",
+        "es": "levadura de crecimiento rápido",
+        "fr": "levure à action rapide",
+        "ro": "drojdie cu creștere rapidă"
       }
     },
     {
@@ -72,14 +84,22 @@
       },
       "grams": 397,
       "note": {
-        "en": "unsweetened, warmed"
+        "en": "unsweetened, warmed",
+        "de": "ungesüßt, erwärmt",
+        "es": "sin endulzar, tibia",
+        "fr": "non sucré, tiédi",
+        "ro": "neîndulcit, încălzit"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "melted, divided between the dough and brushing"
+        "en": "melted, divided between the dough and brushing",
+        "de": "geschmolzen, aufgeteilt zwischen Teig und Bestreichen",
+        "es": "derretida, dividida entre la masa y el pincelado",
+        "fr": "fondu, réparti entre la pâte et le badigeonnage",
+        "ro": "topit, împărțit între aluat și uns"
       }
     }
   ],
@@ -87,7 +107,11 @@
     "count": 12,
     "pieceGrams": 88,
     "shape": {
-      "en": "folded half-moon roll"
+      "en": "folded half-moon roll",
+      "de": "gefaltetes Halbmondbrötchen",
+      "es": "rollo de media luna doblado",
+      "fr": "petit pain en demi-lune plié",
+      "ro": "rulou în semilună pliat"
     }
   },
   "time": {
@@ -129,7 +153,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh and still warm, split open for a patty; freezes and reheats well for a couple of months."
+      "en": "Best fresh and still warm, split open for a patty; freezes and reheats well for a couple of months.",
+      "de": "Am besten frisch und noch warm, für eine Patty aufgeschnitten; lässt sich einige Monate gut einfrieren und aufwärmen.",
+      "es": "Mejor fresco y aún caliente, abierto para un pastel de carne; se congela y recalienta bien durante un par de meses.",
+      "fr": "Meilleur frais et encore chaud, fendu pour un pâté; se congèle et se réchauffe bien pendant quelques mois.",
+      "ro": "Cel mai bun proaspăt și încă cald, tăiat pentru o pată; îngheață și se reîncălzește bine câteva luni."
     }
   },
   "equipment": [
@@ -238,7 +266,11 @@
     "site": "196 Flavors",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Coconut milk's water and fat split estimated from typical canned coconut milk, since it isn't among the taxonomy's defined conversions."
+      "en": "Coconut milk's water and fat split estimated from typical canned coconut milk, since it isn't among the taxonomy's defined conversions.",
+      "de": "Die Aufteilung von Wasser und Fett der Kokosmilch wurde aus typischer Dosen-Kokosmilch geschätzt, da sie nicht unter den definierten Umrechnungen der Taxonomie ist.",
+      "es": "La división agua-grasa de la leche de coco se estimó a partir de leche de coco enlatada típica, ya que no está entre las conversiones definidas de la taxonomía.",
+      "fr": "La répartition eau-grasse du lait de coco estimée à partir du lait de coco en boîte typique, car il ne figure pas parmi les conversions définies de la taxonomie.",
+      "ro": "Separarea apei și a grăsimii din laptele de cocos estimată din lapte de cocos la conservă tipic, deoarece nu se numără printre conversiile definite ale taxonomiei."
     }
   },
   "tags": [

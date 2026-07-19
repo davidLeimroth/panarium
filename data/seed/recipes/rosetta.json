@@ -23,10 +23,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Milan, Lombardy"
+      "en": "Milan, Lombardy",
+      "de": "Mailand, Lombardei",
+      "es": "Milán, Lombardía",
+      "fr": "Milan, Lombardie",
+      "ro": "Milano, Lombardia"
     },
     "note": {
-      "en": "Called michetta in Milanese dialect and rosetta elsewhere in Italy; often traced to the Austrian Kaisersemmel of Habsburg-era Milan, hollowed out to stay crisp longer in the city's humid climate."
+      "en": "Called michetta in Milanese dialect and rosetta elsewhere in Italy; often traced to the Austrian Kaisersemmel of Habsburg-era Milan, hollowed out to stay crisp longer in the city's humid climate.",
+      "de": "Im Mailänder Dialekt michetta genannt, in ganz Italien rosetta; häufig auf die österreichische Kaisersemmel aus dem habsburgischen Mailand zurückgeführt, ausgehöhlt, um in der feuchten Stadt länger knusprig zu bleiben.",
+      "es": "Llamada michetta en dialecto milanés y rosetta en el resto de Italia; a menudo vinculada al Kaisersemmel austriaco de la Milán de los Habsburgo, ahuecada para mantenerse crujiente más tiempo en el clima húmedo de la ciudad.",
+      "fr": "Appelée michetta en dialecte milanais et rosetta ailleurs en Italie; souvent rattachée au Kaisersemmel autrichien de la Milan des Habsbourg, évidée pour rester croustillante plus longtemps dans le climat humide de la ville.",
+      "ro": "Numită michetta în dialectul milanez și rosetta în restul Italiei; adesea legată de Kaisersemmel-ul austriac al Milanului habsburgic, scobită pentru a rămâne crocantă mai mult timp în climatul umed al orașului."
     }
   },
   "leaven": "sourdough",
@@ -49,42 +57,66 @@
       "key": "flour:wheat-white",
       "grams": 455,
       "note": {
-        "en": "strong flour (W 380), in the overnight biga"
+        "en": "strong flour (W 380), in the overnight biga",
+        "de": "starkes Mehl (W 380), in der Übernacht-Biga",
+        "es": "harina de fuerza (W 380), en la biga de toda la noche",
+        "fr": "farine forte (W 380), dans la biga de nuit",
+        "ro": "făină tare (W 380), în biga de peste noapte"
       }
     },
     {
       "key": "water",
       "grams": 260,
       "note": {
-        "en": "in the biga"
+        "en": "in the biga",
+        "de": "in der Biga",
+        "es": "en la biga",
+        "fr": "dans la biga",
+        "ro": "în biga"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 80,
       "note": {
-        "en": "refreshed starter, in the biga"
+        "en": "refreshed starter, in the biga",
+        "de": "aufgefrischter Sauerteig, in der Biga",
+        "es": "masa madre refrescada, en la biga",
+        "fr": "levain rafraîchi, dans la biga",
+        "ro": "maia înviorată, în biga"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 80,
       "note": {
-        "en": "strong flour, in the final dough"
+        "en": "strong flour, in the final dough",
+        "de": "starkes Mehl, im Hauptteig",
+        "es": "harina de fuerza, en la masa final",
+        "fr": "farine forte, dans la pâte finale",
+        "ro": "făină tare, în aluatul final"
       }
     },
     {
       "key": "water",
       "grams": 40,
       "note": {
-        "en": "in the final dough"
+        "en": "in the final dough",
+        "de": "im Hauptteig",
+        "es": "en la masa final",
+        "fr": "dans la pâte finale",
+        "ro": "în aluatul final"
       }
     },
     {
       "key": "malt-syrup",
       "grams": 2.5,
       "note": {
-        "en": "diastatic malt powder"
+        "en": "diastatic malt powder",
+        "de": "diastatisches Malzpulver",
+        "es": "polvo de malta diastásica",
+        "fr": "poudre de malt diastatique",
+        "ro": "pudră de malț diastatic"
       }
     },
     {
@@ -96,7 +128,11 @@
     "count": 10,
     "pieceGrams": 90,
     "shape": {
-      "en": "star-stamped hollow roll with a small central cap (soffiata)"
+      "en": "star-stamped hollow roll with a small central cap (soffiata)",
+      "de": "hohles Brötchen mit Sternprägung und kleiner mittiger Kappe (soffiata)",
+      "es": "panecillo hueco estampado con estrella y una pequeña cúpula central (soffiata)",
+      "fr": "petit pain creux estampé en étoile avec un petit dôme central (soffiata)",
+      "ro": "chiflă goală ștampilată în stea cu o mică calotă centrală (soffiata)"
     }
   },
   "time": {
@@ -137,7 +173,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "At its best within hours of baking; the hollow shell turns leathery by the next day, which is why Milanese bakeries sell fresh batches morning and afternoon."
+      "en": "At its best within hours of baking; the hollow shell turns leathery by the next day, which is why Milanese bakeries sell fresh batches morning and afternoon.",
+      "de": "Am besten innerhalb weniger Stunden nach dem Backen; die hohle Schale wird am nächsten Tag ledrig, weshalb Mailänder Bäckereien morgens und nachmittags frische Chargen verkaufen.",
+      "es": "En su mejor momento dentro de las horas posteriores al horneado; la cáscara hueca se vuelve correosa al día siguiente, por lo que las panaderías milanesas venden lotes frescos por la mañana y por la tarde.",
+      "fr": "Au mieux dans les heures suivant la cuisson; la coque creuse devient caoutchouteuse le lendemain, c'est pourquoi les boulangeries milanaises vendent des fournées fraîches matin et après-midi.",
+      "ro": "Cel mai bun în câteva ore de la coacere; coaja goală devine pieloasă până a doua zi, motiv pentru care brutăriile milaneze vând loturi proaspete dimineața și după-amiaza."
     }
   },
   "equipment": [
@@ -247,7 +287,11 @@
     "site": "Lievito Naturale",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Starter assumed roughly 50% hydration to split into total-flour percentages; this is a home approximation of the professional star-stamped michetta, which bakeries shape with a mechanical press."
+      "en": "Starter assumed roughly 50% hydration to split into total-flour percentages; this is a home approximation of the professional star-stamped michetta, which bakeries shape with a mechanical press.",
+      "de": "Sauerteig mit etwa 50 % Hydration angenommen, um in die Gesamtmehlprozente einzurechnen; dies ist eine Haushaltsannäherung an die professionelle gestempelte Sternmichetta, die Bäckereien mit einer mechanischen Presse formen.",
+      "es": "Se asumió una masa madre con aproximadamente 50% de hidratación para desglosar en porcentajes de harina total; es una aproximación casera de la michetta profesional estampada con estrella, que las panaderías forman con una prensa mecánica.",
+      "fr": "Levain estimé à environ 50% d'hydratation pour le répartir dans les pourcentages de farine totale; c'est une approximation domestique de la michetta professionnelle estampée en étoile, que les boulangeries façonnent avec une presse mécanique.",
+      "ro": "Maia presupusă la aproximativ 50% hidratare pentru a fi împărțită în procentele de făină totală; este o aproximare casnică a michettei profesionale ștampilată în stea, pe care brutăriile o modelează cu o presă mecanică."
     }
   },
   "tags": [

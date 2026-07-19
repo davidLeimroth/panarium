@@ -23,10 +23,18 @@
   "origin": {
     "country": "NZ",
     "region": {
-      "en": "nationwide, Māori communities"
+      "en": "nationwide, Māori communities",
+      "de": "landesweit, Māori-Gemeinschaften",
+      "es": "a nivel nacional, comunidades maoríes",
+      "fr": "à l'échelle nationale, communautés maories",
+      "ro": "la nivel național, comunități maori"
     },
     "note": {
-      "en": "Adopted after European contact brought potatoes and wheat; the wild-fermented 'potato bug' starter became a distinctly Māori technique, still central to hui (gatherings) and marae meals today."
+      "en": "Adopted after European contact brought potatoes and wheat; the wild-fermented 'potato bug' starter became a distinctly Māori technique, still central to hui (gatherings) and marae meals today.",
+      "de": "Nach dem europäischen Kontakt übernommen, der Kartoffeln und Weizen brachte; der wildfermentierte 'Potato Bug'-Vorteig wurde zu einer ausgeprägt Māori-Technik, die noch heute zentral für Hui (Versammlungen) und Mahlzeiten auf dem Marae ist.",
+      "es": "Adoptado después del contacto europeo que trajo patatas y trigo; el fermento silvestre 'potato bug' se convirtió en una técnica distintivamente maorí, aún central en los hui (reuniones) y comidas del marae hoy en día.",
+      "fr": "Adopté après le contact européen qui a apporté les pommes de terre et le blé; le levain 'potato bug' à fermentation sauvage est devenu une technique typiquement maorie, encore centrale dans les hui (rassemblements) et les repas du marae aujourd'hui.",
+      "ro": "Adoptată după contactul european care a adus cartofii și grâul; maiaua 'potato bug' cu fermentare sălbatică a devenit o tehnică distinctiv maori, încă centrală pentru hui (adunări) și mesele marae astăzi."
     }
   },
   "leaven": "sourdough",
@@ -60,14 +68,22 @@
       "key": "sourdough-starter",
       "grams": 480,
       "note": {
-        "en": "active rewena potato bug (fermented potato, flour, sugar and water)"
+        "en": "active rewena potato bug (fermented potato, flour, sugar and water)",
+        "de": "aktiver Rewena Potato Bug (fermentierte Kartoffel, Mehl, Zucker und Wasser)",
+        "es": "potato bug de rewena activo (papa fermentada, harina, azúcar y agua)",
+        "fr": "potato bug rewena actif (pomme de terre fermentée, farine, sucre et eau)",
+        "ro": "rewena potato bug activ (cartof fermentat, făină, zahăr și apă)"
       }
     },
     {
       "key": "water",
       "grams": 474,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     }
   ],
@@ -75,7 +91,11 @@
     "count": 1,
     "pieceGrams": 1610,
     "shape": {
-      "en": "tin loaf"
+      "en": "tin loaf",
+      "de": "Kastenformbrot",
+      "es": "pan de molde",
+      "fr": "pain de moule",
+      "ro": "pâine de formă"
     }
   },
   "time": {
@@ -116,7 +136,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Keeps well thanks to its natural fermentation; a treasured Māori bread often served at gatherings and hui."
+      "en": "Keeps well thanks to its natural fermentation; a treasured Māori bread often served at gatherings and hui.",
+      "de": "Hält sich gut dank seiner natürlichen Fermentation; ein geschätztes Māori-Brot, das oft bei Zusammenkünften und Hui serviert wird.",
+      "es": "Se conserva bien gracias a su fermentación natural; un preciado pan maorí que se sirve a menudo en reuniones y hui.",
+      "fr": "Se conserve bien grâce à sa fermentation naturelle; un pain maori précieux souvent servi lors de rassemblements et de hui.",
+      "ro": "Se păstrează bine datorită fermentației sale naturale; o pâine maori prețuită servită adesea la adunări și hui."
     }
   },
   "equipment": [
@@ -225,7 +249,11 @@
     "site": "Dishes with Del",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "The potato-bug starter is treated as one opaque ingredient; its internal flour and water aren't decomposed, so hydration reflects only the dough's own added water and flour."
+      "en": "The potato-bug starter is treated as one opaque ingredient; its internal flour and water aren't decomposed, so hydration reflects only the dough's own added water and flour.",
+      "de": "Der Potato-Bug-Vorteig wird als eine undurchsichtige Zutat behandelt; sein internes Mehl und Wasser werden nicht aufgeschlüsselt, daher spiegelt die Hydratation nur das eigene hinzugefügte Wasser und Mehl des Teigs wider.",
+      "es": "El fermento potato bug se trata como un ingrediente opaco; su harina y agua internas no se descomponen, por lo que la hidratación refleja solo el agua y la harina añadidas a la masa misma.",
+      "fr": "Le levain 'potato bug' est traité comme un ingrédient opaque; sa farine et son eau internes ne sont pas décomposées, donc l'hydratation ne reflète que l'eau et la farine ajoutées à la pâte elle-même.",
+      "ro": "Maiaua 'potato bug' este tratată ca un ingredient opac; făina și apa sale interne nu sunt defalcate, astfel încât hidratarea reflectă doar apa și făina adăugate propriu-zis aluatului."
     }
   },
   "tags": [

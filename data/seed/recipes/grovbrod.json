@@ -22,10 +22,18 @@
   "origin": {
     "country": "NO",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "The everyday counterpart to festive breads like lefse and vörtbröd-style loaves; built around whole grains, bran and seeds."
+      "en": "The everyday counterpart to festive breads like lefse and vörtbröd-style loaves; built around whole grains, bran and seeds.",
+      "de": "Der alltägliche Gegenpart zu Festtagsbroten wie Lefse und Vörtbröd-artigen Broten; aufgebaut um Vollkorn, Kleie und Samen.",
+      "es": "La contraparte cotidiana de los panes festivos como el lefse y los panes estilo vörtbröd; construido alrededor de granos integrales, salvado y semillas.",
+      "fr": "La contrepartie quotidienne des pains de fête comme le lefse et les pains style vörtbröd; construit autour de grains entiers, son et graines.",
+      "ro": "Omologul de zi cu zi al pâinilor festive precum lefse și pâinile tip vörtbröd; construit în jurul cerealelor integrale, tărâțelor și semințelor."
     }
   },
   "leaven": "yeast",
@@ -59,7 +67,11 @@
       "key": "flour:wheat-white",
       "grams": 240,
       "note": {
-        "en": "strong bread flour"
+        "en": "strong bread flour",
+        "de": "Weizenbrotmehl",
+        "es": "harina de fuerza para pan",
+        "fr": "farine de pain T55",
+        "ro": "făină de pâine tare"
       }
     },
     {
@@ -103,7 +115,11 @@
     "count": 1,
     "pieceGrams": 950,
     "shape": {
-      "en": "9x5-inch pan loaf"
+      "en": "9x5-inch pan loaf",
+      "de": "Kastenformbrot, 22,9 x 12,7 cm",
+      "es": "pan de molde de 22,9 x 12,7 cm",
+      "fr": "pain de moule de 22,9 x 12,7 cm",
+      "ro": "pâine în formă de 22,9 x 12,7 cm"
     }
   },
   "time": {
@@ -145,7 +161,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Keeps about 2 days at room temperature in an airtight bag; freezes well sliced."
+      "en": "Keeps about 2 days at room temperature in an airtight bag; freezes well sliced.",
+      "de": "Hält sich etwa 2 Tage bei Raumtemperatur in einem luftdichten Beutel; lässt sich in Scheiben gut einfrieren.",
+      "es": "Se conserva unos 2 días a temperatura ambiente en una bolsa hermética; se congela bien en rodajas.",
+      "fr": "Se conserve environ 2 jours à température ambiante dans un sac hermétique; se congèle bien tranché.",
+      "ro": "Se păstrează aproximativ 2 zile la temperatura camerei într-o pungă etanșă; se congela bine feliat."
     }
   },
   "equipment": [
@@ -270,7 +290,11 @@
     "site": "North Wild Kitchen",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Wheat bran kept as a separate ingredient outside the flour-percentage total, since the taxonomy has no bran flour type."
+      "en": "Wheat bran kept as a separate ingredient outside the flour-percentage total, since the taxonomy has no bran flour type.",
+      "de": "Weizenkleie als separate Zutat außerhalb der Mehlprozent-Gesamtsumme geführt, da die Taxonomie keinen Kleientyp von Mehl hat.",
+      "es": "Salvado de trigo mantenido como ingrediente separado fuera del total de porcentaje de harina, ya que la taxonomía no tiene un tipo de harina de salvado.",
+      "fr": "Son de blé conservé comme ingrédient séparé en dehors du total du pourcentage de farine, car la taxonomie n'a pas de type de farine de son.",
+      "ro": "Tărâțe de grâu păstrate ca ingredient separat în afara totalului procentual de făină, deoarece taxonomia nu are un tip de făină de tărâțe."
     }
   },
   "tags": [

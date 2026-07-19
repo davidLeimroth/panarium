@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "A contemporary high-fiber formula from the artisan home-baking movement."
+      "en": "A contemporary high-fiber formula from the artisan home-baking movement.",
+      "de": "Eine zeitgenössische ballaststoffreiche Rezeptur aus der handwerklichen Hausbäckerei-Bewegung.",
+      "es": "Una fórmula contemporánea rica en fibra del movimiento de panadería casera artesanal.",
+      "fr": "Une formule contemporaine riche en fibres issue du mouvement de la boulangerie artisanale à domicile.",
+      "ro": "O formulă contemporană bogată în fibre din mișcarea de panificație artizanală de acasă."
     }
   },
   "leaven": "sourdough",
@@ -54,14 +62,22 @@
       "key": "flour:wheat-white",
       "grams": 666,
       "note": {
-        "en": "medium-protein bread flour"
+        "en": "medium-protein bread flour",
+        "de": "Brotmehl mit mittlerem Proteingehalt",
+        "es": "harina de pan de proteína media",
+        "fr": "farine à pain à teneur moyenne en protéines",
+        "ro": "făină de pâine cu conținut mediu de proteine"
       }
     },
     {
       "key": "flour:durum",
       "grams": 133,
       "note": {
-        "en": "semolina"
+        "en": "semolina",
+        "de": "Hartweizengrieß",
+        "es": "sémola",
+        "fr": "semoule",
+        "ro": "griș"
       }
     },
     {
@@ -84,35 +100,55 @@
       "key": "flax-seeds",
       "grams": 40,
       "note": {
-        "en": "soaked"
+        "en": "soaked",
+        "de": "eingeweicht",
+        "es": "remojado",
+        "fr": "trempé",
+        "ro": "înmuiat"
       }
     },
     {
       "key": "sesame-seeds",
       "grams": 40,
       "note": {
-        "en": "soaked"
+        "en": "soaked",
+        "de": "eingeweicht",
+        "es": "remojado",
+        "fr": "trempé",
+        "ro": "înmuiat"
       }
     },
     {
       "key": "fennel-seed",
       "grams": 13,
       "note": {
-        "en": "soaked"
+        "en": "soaked",
+        "de": "eingeweicht",
+        "es": "remojado",
+        "fr": "trempé",
+        "ro": "înmuiat"
       }
     },
     {
       "key": "sunflower-seeds",
       "grams": 40,
       "note": {
-        "en": "unroasted"
+        "en": "unroasted",
+        "de": "ungeröstet",
+        "es": "sin tostar",
+        "fr": "non torréfié",
+        "ro": "neprăjit"
       }
     },
     {
       "key": "lemon-zest",
       "grams": 8,
       "note": {
-        "en": "optional"
+        "en": "optional",
+        "de": "optional",
+        "es": "opcional",
+        "fr": "facultatif",
+        "ro": "opțional"
       }
     }
   ],
@@ -120,7 +156,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "boule or bâtard"
+      "en": "boule or bâtard",
+      "de": "Boule oder Bâtard",
+      "es": "boule o bâtard",
+      "fr": "boule ou bâtard",
+      "ro": "boule sau bâtard"
     }
   },
   "time": {

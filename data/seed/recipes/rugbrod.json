@@ -22,10 +22,18 @@
   "origin": {
     "country": "DK",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "A daily staple since the Middle Ages and the base of smørrebrød, Denmark's open sandwich tradition."
+      "en": "A daily staple since the Middle Ages and the base of smørrebrød, Denmark's open sandwich tradition.",
+      "de": "Ein tägliches Grundnahrungsmittel seit dem Mittelalter und die Basis des Smørrebrød, der dänischen Tradition belegter Brote.",
+      "es": "Un alimento básico diario desde la Edad Media y la base del smørrebrød, la tradición danesa de sándwiches abiertos.",
+      "fr": "Un aliment de base quotidien depuis le Moyen Âge et la base du smørrebrød, la tradition danoise des tartines ouvertes.",
+      "ro": "Un aliment de bază zilnic din Evul Mediu și baza smørrebrød, tradiția daneză a sandvișurilor deschise."
     }
   },
   "leaven": "sourdough",
@@ -52,7 +60,11 @@
       "key": "flour:rye-whole",
       "grams": 635,
       "note": {
-        "en": "wholegrain rye flour plus cracked rye meal, split across two sour stages"
+        "en": "wholegrain rye flour plus cracked rye meal, split across two sour stages",
+        "de": "Roggenvollkornmehl plus Roggenschrot, auf zwei Sauerteigstufen aufgeteilt",
+        "es": "harina de centeno integral más granillo de centeno partido, dividido en dos etapas de masa madre",
+        "fr": "farine de seigle complète plus semoule de seigle concassée, répartie sur deux stades de levain",
+        "ro": "făină integrală de secară plus măcinătură grosieră de secară, împărțit pe două etape de maia"
       }
     },
     {
@@ -77,7 +89,11 @@
       "key": "sourdough-starter",
       "grams": 5,
       "note": {
-        "en": "active rye sour culture"
+        "en": "active rye sour culture",
+        "de": "aktiver Roggensauerteig",
+        "es": "cultivo de masa madre activa de centeno",
+        "fr": "culture de levain de seigle actif",
+        "ro": "cultură de maia activă de secară"
       }
     },
     {
@@ -88,7 +104,11 @@
       "key": "molasses",
       "grams": 25,
       "note": {
-        "en": "or dark corn syrup"
+        "en": "or dark corn syrup",
+        "de": "oder dunkler Maissirup",
+        "es": "o jarabe de maíz oscuro",
+        "fr": "ou sirop de maïs foncé",
+        "ro": "sau sirop de porumb întunecat"
       }
     },
     {
@@ -112,7 +132,11 @@
     "count": 1,
     "pieceGrams": 1250,
     "shape": {
-      "en": "pullman/tin loaf"
+      "en": "pullman/tin loaf",
+      "de": "Kastenformlaib",
+      "es": "pan de molde",
+      "fr": "pain de mie",
+      "ro": "pâine de tablă"
     }
   },
   "time": {
@@ -153,7 +177,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "Wrap and rest a full day before the first slice; the crumb needs it to set."
+      "en": "Wrap and rest a full day before the first slice; the crumb needs it to set.",
+      "de": "Einwickeln und einen ganzen Tag ruhen lassen vor dem ersten Schnitt; die Krume braucht die Zeit, um sich zu setzen.",
+      "es": "Envolver y reposar un día entero antes de la primera rebanada; la miga lo necesita para asentarse.",
+      "fr": "Envelopper et laisser reposer une journée entière avant la première tranche; la mie en a besoin pour se stabiliser.",
+      "ro": "Învelește și lasă o zi întreagă înainte de prima felie; miezul are nevoie de asta să se așeze."
     }
   },
   "equipment": [
@@ -279,7 +307,11 @@
     "author": "Stanley Ginsberg",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Scaled to a single home loaf from the source's two-loaf bakery formula; percentages preserved."
+      "en": "Scaled to a single home loaf from the source's two-loaf bakery formula; percentages preserved.",
+      "de": "Auf einen einzelnen Haushaltslaib herunterskaliert von der Zwei-Laib-Bäckereiformel der Quelle; Prozentangaben beibehalten.",
+      "es": "Escalado a una sola hogaza casera a partir de la fórmula de dos hogazas de panadería de la fuente; porcentajes conservados.",
+      "fr": "Réduit à un seul pain domestique à partir de la formule boulangère à deux pains de la source; pourcentages conservés.",
+      "ro": "Redus la o singură pâine de casă din formula de două pâini de brutărie a sursei; procentele păstrate."
     }
   },
   "tags": [

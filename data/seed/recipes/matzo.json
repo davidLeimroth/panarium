@@ -23,10 +23,18 @@
   "origin": {
     "country": "IL",
     "region": {
-      "en": "Jewish diaspora worldwide; ritually tied to ancient Egypt and Israel (Exodus)"
+      "en": "Jewish diaspora worldwide; ritually tied to ancient Egypt and Israel (Exodus)",
+      "de": "Judische Diaspora weltweit; rituell verbunden mit dem alten Agypten und Israel (Exodus)",
+      "es": "Diaspora judia mundial; vinculado ritualmente al antiguo Egipto e Israel (Exodo)",
+      "fr": "Diaspora juive mondiale; lie rituellement a l'Egypte ancienne et a Israel (Exode)",
+      "ro": "Diaspora evreiasca mondiala; legat ritual de Egiptul antic si Israel (Exodul)"
     },
     "note": {
-      "en": "Strict ritual shmura matzah for Passover uses only flour and water, mixed and baked within 18 minutes to guarantee no fermentation; this version relaxes that constraint with oil and normal resting for year-round eating."
+      "en": "Strict ritual shmura matzah for Passover uses only flour and water, mixed and baked within 18 minutes to guarantee no fermentation; this version relaxes that constraint with oil and normal resting for year-round eating.",
+      "de": "Strenge rituelle shmura matza fur Pessach verwendet nur Mehl und Wasser, gemischt und innerhalb von 18 Minuten gebacken, um keine Garung zu garantieren; diese Version lockert diese Einschrankung mit Ol und normaler Ruhezeit fur den ganzjahrigen Verzehr.",
+      "es": "La estricta matza shmura ritual para Pesaj usa solo harina y agua, mezclada y horneada en 18 minutos para garantizar que no fermente; esta version relaja esa restriccion con aceite y reposo normal para consumo durante todo el ano.",
+      "fr": "La matsa shmoura rituelle stricte pour Pessah utilise uniquement farine et eau, melangee et cuite en 18 minutes pour garantir l'absence de fermentation; cette version assouplit cette contrainte avec de l'huile et un repos normal pour une consommation toute l'annee.",
+      "ro": "Matza smura rituala stricta pentru Pastele evreiesc foloseste doar faina si apa, amestecata si coapta in 18 minute pentru a garanta nicio fermentatie; aceasta versiune relaxeaza aceasta constrangere cu ulei si odihna normala pentru consum pe tot parcursul anului."
     }
   },
   "leaven": "none",
@@ -48,7 +56,11 @@
       "key": "flour:wheat-white",
       "grams": 150,
       "note": {
-        "en": "white bread flour"
+        "en": "white bread flour",
+        "de": "Weizenbrotmehl",
+        "es": "harina de pan blanca",
+        "fr": "farine de pain blanche",
+        "ro": "faina alba de paine"
       }
     },
     {
@@ -63,14 +75,22 @@
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pate",
+        "ro": "in aluat"
       }
     },
     {
       "key": "salt",
       "grams": 2,
       "note": {
-        "en": "coarse, sprinkled on top before baking"
+        "en": "coarse, sprinkled on top before baking",
+        "de": "grob, vor dem Backen daruber gestreut",
+        "es": "gruesa, espolvoreada encima antes de hornear",
+        "fr": "grossier, saupoudre dessus avant cuisson",
+        "ro": "grosiera, presarata deasupra inainte de coacere"
       }
     }
   ],
@@ -78,7 +98,11 @@
     "count": 5,
     "pieceGrams": 48,
     "shape": {
-      "en": "thin hand-sized cracker, docked"
+      "en": "thin hand-sized cracker, docked",
+      "de": "dunner handgroer Cracker, gedockt",
+      "es": "galleta delgada del tamano de una mano, pinchada",
+      "fr": "craquelin fin de la taille d'une main, pique",
+      "ro": "crackere subtire cat palma, intepata"
     }
   },
   "time": {
@@ -119,7 +143,11 @@
     "freshDays": 30,
     "freezes": true,
     "note": {
-      "en": "Keeps for weeks in an airtight container at room temperature since it's baked bone-dry, exactly why it was chosen as the Passover bread, with no risk of ever leavening or spoiling."
+      "en": "Keeps for weeks in an airtight container at room temperature since it's baked bone-dry, exactly why it was chosen as the Passover bread, with no risk of ever leavening or spoiling.",
+      "de": "Halt sich wochenlang in einem luftdichten Behalter bei Raumtemperatur, da es knochentrocken gebacken ist, genau der Grund, warum es als Pessach-Brot gewahlt wurde, ohne Risiko des Aufgehens oder Verderbens.",
+      "es": "Se conserva durante semanas en un recipiente hermetico a temperatura ambiente porque se hornea hasta quedar completamente seco, exactamente por eso fue elegido como pan de Pesaj, sin riesgo de que fermente o se eche a perder.",
+      "fr": "Se conserve des semaines dans un recipient hermettique a temperature ambiante car il est cuit a sec, exactement pourquoi il a ete choisi comme pain de Pessah, sans risque de lever ou de s'abimer.",
+      "ro": "Se pastreaza saptamani intregi intr-un recipient ermetic la temperatura camerei, deoarece este copt complet uscat, exact motivul pentru care a fost ales ca paine de Paste, fara riscul de a dospi sau a se strica."
     }
   },
   "equipment": [
@@ -244,7 +272,11 @@
     "site": "ChainBaker",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "This version adds olive oil and normal resting for better home texture; strict ritual shmura matzah uses only flour and water, completed within 18 minutes with no resting at all."
+      "en": "This version adds olive oil and normal resting for better home texture; strict ritual shmura matzah uses only flour and water, completed within 18 minutes with no resting at all.",
+      "de": "Diese Version fugt Olivenol und normale Ruhezeit fur eine bessere hausliche Textur hinzu; strenge rituelle shmura matza verwendet nur Mehl und Wasser, fertiggestellt innerhalb von 18 Minuten ohne jede Ruhezeit.",
+      "es": "Esta version anade aceite de oliva y reposo normal para una mejor textura casera; la estricta matza shmura ritual usa solo harina y agua, completada en 18 minutos sin reposo alguno.",
+      "fr": "Cette version ajoute de l'huile d'olive et un repos normal pour une meilleure texture maison; la matsa shmoura rituelle stricte utilise uniquement farine et eau, terminee en 18 minutes sans aucun repos.",
+      "ro": "Aceasta versiune adauga ulei de masline si odihna normala pentru o textura mai buna acasa; matza smura rituala stricta foloseste doar faina si apa, finalizata in 18 minute fara nicio odihna."
     }
   },
   "tags": [

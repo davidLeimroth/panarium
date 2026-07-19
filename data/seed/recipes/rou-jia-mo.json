@@ -23,10 +23,18 @@
   "origin": {
     "country": "CN",
     "region": {
-      "en": "Xi'an, Shaanxi province"
+      "en": "Xi'an, Shaanxi province",
+      "de": "Xi'an, Provinz Shaanxi",
+      "es": "Xi'an, provincia de Shaanxi",
+      "fr": "Xi'an, province du Shaanxi",
+      "ro": "Xi'an, provincia Shaanxi"
     },
     "note": {
-      "en": "Recognized since 2016 as part of China's intangible cultural heritage; food historians date versions of it back over 2000 years."
+      "en": "Recognized since 2016 as part of China's intangible cultural heritage; food historians date versions of it back over 2000 years.",
+      "de": "Seit 2016 als Teil des chinesischen immateriellen Kulturerbes anerkannt; Lebensmittelhistoriker datieren Versionen davon über 2000 Jahre zurück.",
+      "es": "Reconocido desde 2016 como parte del patrimonio cultural inmaterial de China; los historiadores gastronómicos datan versiones del mismo de hace más de 2000 años.",
+      "fr": "Reconnu depuis 2016 comme faisant partie du patrimoine culturel immatériel de la Chine; les historiens de l'alimentation en font remonter des versions à plus de 2000 ans.",
+      "ro": "Recunoscut din 2016 ca parte a patrimoniului cultural imaterial al Chinei; istoricii alimentari datează versiuni ale acestuia de acum peste 2000 de ani."
     }
   },
   "leaven": "yeast",
@@ -60,7 +68,11 @@
       "key": "water",
       "grams": 266,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -73,7 +85,11 @@
       },
       "grams": 300,
       "note": {
-        "en": "for the filling, braised separately"
+        "en": "for the filling, braised separately",
+        "de": "für die Füllung, separat geschmort",
+        "es": "para el relleno, estofado por separado",
+        "fr": "pour la garniture, braisé séparément",
+        "ro": "pentru umplutură, fiert separat"
       }
     }
   ],
@@ -81,7 +97,11 @@
     "count": 12,
     "pieceGrams": 92,
     "shape": {
-      "en": "split flatbread, pan-cooked, stuffed with pork, ~10 cm"
+      "en": "split flatbread, pan-cooked, stuffed with pork, ~10 cm",
+      "de": "aufgeschnittenes Fladenbrot, in der Pfanne gebacken, mit Schweinefleisch gefüllt, ~10 cm",
+      "es": "pan plano abierto, cocinado en sartén, relleno de cerdo, ~10 cm",
+      "fr": "pain plat fendu, poêlé, farci au porc, ~10 cm",
+      "ro": "pâine plată despicată, gătită în tigaie, umplută cu carne de porc, ~10 cm"
     }
   },
   "time": {
@@ -123,7 +143,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "The plain bread reheats well from frozen on a dry pan; assemble with hot filling just before eating for the best contrast of textures."
+      "en": "The plain bread reheats well from frozen on a dry pan; assemble with hot filling just before eating for the best contrast of textures.",
+      "de": "Das einfache Brot lässt sich gut aus gefrorenem Zustand in einer trockenen Pfanne aufwärmen; kurz vor dem Essen mit heißer Füllung zusammenfügen, für den besten Texturkontrast.",
+      "es": "El pan solo se recalienta bien congelado en una sartén seca; montar con el relleno caliente justo antes de comer para el mejor contraste de texturas.",
+      "fr": "Le pain nature se réchauffe bien surgelé dans une poêle sèche; assembler avec la garniture chaude juste avant de manger pour le meilleur contraste de textures.",
+      "ro": "Pâinea simplă se reîncălzește bine din congelator într-o tigaie uscată; asamblează cu umplutura caldă chiar înainte de servire pentru cel mai bun contrast de texturi."
     }
   },
   "equipment": [
@@ -232,7 +256,11 @@
     "site": "The Woks of Life",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Salt increased slightly from the source's scant 3/4 tsp; the multi-hour pork braise condensed to one estimated-weight filling line, matching this atlas's treatment of complex fillings (see baozi)."
+      "en": "Salt increased slightly from the source's scant 3/4 tsp; the multi-hour pork braise condensed to one estimated-weight filling line, matching this atlas's treatment of complex fillings (see baozi).",
+      "de": "Salz leicht erhöht gegenüber den knappen 3/4 TL der Quelle; der mehrstündige Schweinefleisch-Schmorbraten wurde auf eine Zeile mit geschätztem Füllungsgewicht reduziert, entsprechend der Behandlung komplexer Füllungen in diesem Atlas (siehe Baozi).",
+      "es": "Sal ligeramente aumentada respecto a la escasa 3/4 cdta de la fuente; el estofado de cerdo de varias horas se condensó en una línea de peso estimado del relleno, coincidiendo con el tratamiento de rellenos complejos de este atlas (véase baozi).",
+      "fr": "Sel légèrement augmenté par rapport aux 3/4 càc plutôt chiches de la source; la long braisage de porc a été condensé en une ligne de poids estimé de garniture, selon le traitement des garnitures complexes de cet atlas (voir baozi).",
+      "ro": "Sarea ușor crescută față de 3/4 linguliță cu totul puțină din sursă; fierberea îndelungată a cărnii de porc a fost condensată într-o singură linie cu greutatea estimată a umpluturii, conform tratamentului acestui atlas pentru umpluturi complexe (vezi baozi)."
     }
   },
   "tags": [

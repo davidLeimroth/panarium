@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "A dessert-leaning sourdough popularized in the Tartine-adjacent artisan bakery scene."
+      "en": "A dessert-leaning sourdough popularized in the Tartine-adjacent artisan bakery scene.",
+      "de": "Ein dessertartiger Sauerteig, popularisiert in der Tartine-nahen Handwerksbäckerei-Szene.",
+      "es": "Una masa madre de postre popularizada en la escena panadera artesanal cercana a Tartine.",
+      "fr": "Un levain à tendance dessert popularisé dans la scène boulangère artisanale proche de Tartine.",
+      "ro": "O maia cu tendință de desert popularizată în scena brutăriilor artizanale din preajma Tartine."
     }
   },
   "leaven": "sourdough",
@@ -51,7 +59,11 @@
       "key": "flour:wheat-white",
       "grams": 678,
       "note": {
-        "en": "blend of regular and high-protein bread flour"
+        "en": "blend of regular and high-protein bread flour",
+        "de": "Mischung aus normalem und hochproteinhaltigem Brotmehl",
+        "es": "mezcla de harina de pan normal y de alta proteína",
+        "fr": "mélange de farine à pain ordinaire et à haute teneur en protéines",
+        "ro": "amestec de făină de pâine obișnuită și cu proteine ridicate"
       }
     },
     {
@@ -74,14 +86,22 @@
       "key": "cocoa",
       "grams": 24,
       "note": {
-        "en": "unsweetened, bloomed in oil"
+        "en": "unsweetened, bloomed in oil",
+        "de": "ungesüßt, in Öl gebloomt",
+        "es": "sin endulzar, hidratado en aceite",
+        "fr": "non sucré, fleuri dans l'huile",
+        "ro": "neîndulcit, hidratat în ulei"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 24,
       "note": {
-        "en": "neutral oil, e.g. canola"
+        "en": "neutral oil, e.g. canola",
+        "de": "neutrales Öl, z. B. Rapsöl",
+        "es": "aceite neutro, p. ej. canola",
+        "fr": "huile neutre, p. ex. colza",
+        "ro": "ulei neutru, de ex. canola"
       }
     },
     {
@@ -108,7 +128,11 @@
       },
       "grams": 159,
       "note": {
-        "en": "soaked briefly in warm water"
+        "en": "soaked briefly in warm water",
+        "de": "kurz in warmem Wasser eingeweicht",
+        "es": "remojado brevemente en agua tibia",
+        "fr": "trempé brièvement dans de l'eau tiède",
+        "ro": "înmuiat scurt în apă caldă"
       }
     }
   ],
@@ -116,7 +140,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {

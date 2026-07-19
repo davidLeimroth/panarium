@@ -22,10 +22,18 @@
   "origin": {
     "country": "CN",
     "region": {
-      "en": "nationwide, northern origin"
+      "en": "nationwide, northern origin",
+      "de": "landesweit, nördlichen Ursprungs",
+      "es": "en todo el país, de origen norteño",
+      "fr": "dans tout le pays, originaire du Nord",
+      "ro": "în toată țara, origine nordică"
     },
     "note": {
-      "en": "Descended from mantou once cooks began stuffing the steamed dough; Song-dynasty texts (960-1279) already distinguish filled baozi from plain mantou."
+      "en": "Descended from mantou once cooks began stuffing the steamed dough; Song-dynasty texts (960-1279) already distinguish filled baozi from plain mantou.",
+      "de": "Abstammend von Mantou, als Köche begannen, den gedämpften Teig zu füllen; Texte der Song-Dynastie (960–1279) unterscheiden bereits gefüllte Baozi von einfachem Mantou.",
+      "es": "Derivado del mantou una vez que los cocineros comenzaron a rellenar la masa al vapor; los textos de la dinastía Song (960–1279) ya distinguen los baozi rellenos del mantou simple.",
+      "fr": "Descendu du mantou lorsque les cuisiniers ont commencé à farcir la pâte cuite à la vapeur; les textes de la dynastie Song (960–1279) distinguent déjà les baozi farcis du mantou nature.",
+      "ro": "Descins din mantou odată ce bucătarii au început să umple aluatul fiert la abur; textele dinastiei Song (960–1279) disting deja baozi umpluți de mantou simplu."
     }
   },
   "leaven": "yeast",
@@ -57,7 +65,11 @@
       "key": "sugar",
       "grams": 8,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
@@ -68,7 +80,11 @@
       "key": "water",
       "grams": 290,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -81,7 +97,11 @@
       },
       "grams": 450,
       "note": {
-        "en": "for the filling"
+        "en": "for the filling",
+        "de": "für die Füllung",
+        "es": "para el relleno",
+        "fr": "pour la garniture",
+        "ro": "pentru umplutură"
       }
     },
     {
@@ -94,7 +114,11 @@
       },
       "grams": 450,
       "note": {
-        "en": "squeezed dry, for the filling"
+        "en": "squeezed dry, for the filling",
+        "de": "ausgedrückt, für die Füllung",
+        "es": "escurrida seca, para el relleno",
+        "fr": "essorée, pour la garniture",
+        "ro": "stoarsă bine, pentru umplutură"
       }
     },
     {
@@ -117,14 +141,22 @@
       },
       "grams": 40,
       "note": {
-        "en": "for the filling"
+        "en": "for the filling",
+        "de": "für die Füllung",
+        "es": "para el relleno",
+        "fr": "pour la garniture",
+        "ro": "pentru umplutură"
       }
     },
     {
       "key": "salt",
       "grams": 6,
       "note": {
-        "en": "in the filling"
+        "en": "in the filling",
+        "de": "in der Füllung",
+        "es": "en el relleno",
+        "fr": "dans la garniture",
+        "ro": "în umplutură"
       }
     }
   ],
@@ -132,7 +164,11 @@
     "count": 24,
     "pieceGrams": 79,
     "shape": {
-      "en": "pleated round bun with pork-cabbage filling"
+      "en": "pleated round bun with pork-cabbage filling",
+      "de": "gefaltetes rundes Brötchen mit Schweinefleisch-Kohl-Füllung",
+      "es": "bollo redondo plisado con relleno de cerdo y col",
+      "fr": "petit pain rond plissé farci au porc et chou",
+      "ro": "chiflă rotundă plisată cu umplutură de porc și varză"
     }
   },
   "time": {
@@ -174,7 +210,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Freezes raw or cooked exceptionally well; resteam from frozen for a few extra minutes."
+      "en": "Freezes raw or cooked exceptionally well; resteam from frozen for a few extra minutes.",
+      "de": "Lässt sich roh oder gekocht hervorragend einfrieren; gefroren ein paar Minuten länger dämpfen.",
+      "es": "Se congela excepcionalmente bien crudo o cocido; volver a cocer al vapor desde congelado unos minutos más.",
+      "fr": "Se congèle exceptionnellement bien cru ou cuit; recuire à la vapeur depuis congelé quelques minutes de plus.",
+      "ro": "Se congèlează excepțional de bine crud sau gătit; reaburește din congelat cu câteva minute în plus."
     }
   },
   "equipment": [
@@ -283,7 +323,11 @@
     "site": "Halicopter Away",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Dough and filling grams kept as sourced; filling condensed to its most essential aromatics for this entry."
+      "en": "Dough and filling grams kept as sourced; filling condensed to its most essential aromatics for this entry.",
+      "de": "Teig- und Füllungsgramm wie in der Quelle belassen; Füllung auf ihre wesentlichsten Aromaten für diesen Eintrag verdichtet.",
+      "es": "Gramos de masa y relleno mantenidos como en la fuente; el relleno se condensó a sus aromáticos más esenciales para esta entrada.",
+      "fr": "Grammes de pâte et de garniture conservés tels que dans la source; la garniture condensée à ses arômes les plus essentiels pour cette entrée.",
+      "ro": "Gramajul aluatului și umpluturii păstrat ca în sursă; umplutura condensată la cele mai esențiale arome pentru această intrare."
     }
   },
   "tags": [

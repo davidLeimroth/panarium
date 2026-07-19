@@ -22,10 +22,18 @@
   "origin": {
     "country": "SG",
     "region": {
-      "en": "Singapore and Malaysia, via Hainanese immigrant cooks"
+      "en": "Singapore and Malaysia, via Hainanese immigrant cooks",
+      "de": "Singapur und Malaysia, über hainanesische Einwandererköche",
+      "es": "Singapur y Malasia, a través de cocineros inmigrantes hainaneses",
+      "fr": "Singapour et Malaisie, via les cuisiniers immigrants hainanais",
+      "ro": "Singapore și Malaysia, prin bucătari imigranți hainanezi"
     },
     "note": {
-      "en": "Traditional kopitiam bakeries often used vegetable shortening rather than butter or milk powder, since dairy was costly and refrigeration scarce; this is a modern home-kitchen version."
+      "en": "Traditional kopitiam bakeries often used vegetable shortening rather than butter or milk powder, since dairy was costly and refrigeration scarce; this is a modern home-kitchen version.",
+      "de": "Traditionelle Kopitiam-Bäckereien verwendeten oft pflanzliches Fett anstelle von Butter oder Milchpulver, da Milchprodukte teuer und Kühlung knapp waren; dies ist eine moderne Version für die Hausküche.",
+      "es": "Las panaderías tradicionales kopitiam solían usar manteca vegetal en lugar de mantequilla o leche en polvo, ya que los lácteos eran costosos y la refrigeración escasa; esta es una versión moderna de cocina casera.",
+      "fr": "Les boulangeries traditionnelles kopitiam utilisaient souvent de la graisse végétale plutôt que du beurre ou du lait en poudre, car les produits laitiers étaient coûteux et la réfrigération rare; c'est une version moderne pour la cuisine domestique.",
+      "ro": "Brutăriile tradiționale kopitiam foloseau adesea grăsime vegetală în loc de unt sau lapte praf, deoarece lactatele erau costisitoare și refrigerarea rară; aceasta este o versiune modernă pentru bucătăria de acasă."
     }
   },
   "leaven": "yeast",
@@ -49,14 +57,22 @@
       "key": "flour:wheat-white",
       "grams": 350,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
       "key": "milk",
       "grams": 15,
       "note": {
-        "en": "dry milk powder; not counted toward hydration"
+        "en": "dry milk powder; not counted toward hydration",
+        "de": "Milchpulver; nicht zur Hydratation gezählt",
+        "es": "leche en polvo; no contabilizada en la hidratación",
+        "fr": "lait en poudre; non compté dans l'hydratation",
+        "ro": "lapte praf; nu se numără la hidratare"
       }
     },
     {
@@ -75,14 +91,22 @@
       "key": "water",
       "grams": 225,
       "note": {
-        "en": "cold"
+        "en": "cold",
+        "de": "kalt",
+        "es": "fría",
+        "fr": "froide",
+        "ro": "rece"
       }
     },
     {
       "key": "butter",
       "grams": 30,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandada",
+        "fr": "ramolli",
+        "ro": "înmuiat"
       }
     }
   ],
@@ -90,7 +114,11 @@
     "count": 1,
     "pieceGrams": 638,
     "shape": {
-      "en": "tall pullman or standard loaf, crusts often trimmed"
+      "en": "tall pullman or standard loaf, crusts often trimmed",
+      "de": "hoher Pullman- oder Standardkasten, Krusten oft abgeschnitten",
+      "es": "pan pullman alto o pan estándar, cortezas a menudo recortadas",
+      "fr": "pain de mie haut ou pain standard, croûtes souvent retirées",
+      "ro": "pâine pullman înaltă sau pâine standard, cruste adesea tăiate"
     }
   },
   "time": {
@@ -131,7 +159,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Slices cleanly once fully cooled; kopitiam cooks often bake it a day ahead so it is firm enough to slice thin for toasting."
+      "en": "Slices cleanly once fully cooled; kopitiam cooks often bake it a day ahead so it is firm enough to slice thin for toasting.",
+      "de": "Lässt sich sauber schneiden, sobald vollständig abgekühlt; Kopitiam-Köche backen es oft einen Tag im Voraus, damit es fest genug ist, um es dünn für Toast zu schneiden.",
+      "es": "Se rebanado limpiamente una vez completamente enfriado; los cocineros kopitiam suelen hornearlo un día antes para que esté lo suficientemente firme para cortarlo fino para tostar.",
+      "fr": "Se tranche proprement une fois complètement refroidi; les cuisiniers kopitiam le font souvent cuire un jour à l'avance pour qu'il soit assez ferme pour le trancher fin pour le toaster.",
+      "ro": "Se taie curat odată complet răcit; bucătarii kopitiam îl coc adesea cu o zi înainte pentru a fi suficient de ferm pentru a fi tăiat subțire pentru prăjit."
     }
   },
   "equipment": [
@@ -257,7 +289,11 @@
     "site": "What To Cook Today",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Salt increased slightly from the source's scant 1/4 tsp for balance."
+      "en": "Salt increased slightly from the source's scant 1/4 tsp for balance.",
+      "de": "Salz leicht erhöht von der knappen 1/4 TL der Quelle, für die Balance.",
+      "es": "Sal ligeramente aumentada de la escasa 1/4 cucharadita de la fuente para equilibrar.",
+      "fr": "Sel légèrement augmenté par rapport au 1/4 c. à café rase de la source pour l'équilibre.",
+      "ro": "Sarea ușor crescută față de 1/4 linguriță rară a sursei pentru echilibru."
     }
   },
   "tags": [

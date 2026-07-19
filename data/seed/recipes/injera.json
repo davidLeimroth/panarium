@@ -22,10 +22,18 @@
   "origin": {
     "country": "ET",
     "region": {
-      "en": "Ethiopia & Eritrea"
+      "en": "Ethiopia & Eritrea",
+      "de": "Äthiopien und Eritrea",
+      "es": "Etiopía y Eritrea",
+      "fr": "Éthiopie et Érythrée",
+      "ro": "Etiopia și Eritreea"
     },
     "note": {
-      "en": "The shared national staple of both Ethiopia and Eritrea; teff blends and fermentation length vary by region and household."
+      "en": "The shared national staple of both Ethiopia and Eritrea; teff blends and fermentation length vary by region and household.",
+      "de": "Das gemeinsame Nationalgrundnahrungsmittel Äthiopiens und Eritreas; Teffmischungen und Fermentationsdauer variieren je nach Region und Haushalt.",
+      "es": "El alimento básico nacional compartido de Etiopía y Eritrea; las mezclas de teff y la duración de la fermentación varían según la región y el hogar.",
+      "fr": "L'aliment de base national partagé de l'Éthiopie et de l'Érythrée; les mélanges de teff et la durée de fermentation varient selon la région et le foyer.",
+      "ro": "Alimentul de bază național comun al Etiopiei și Eritreei; amestecurile de teff și durata fermentației variază în funcție de regiune și gospodărie."
     }
   },
   "leaven": "sourdough",
@@ -46,7 +54,11 @@
       "key": "flour:teff",
       "grams": 376,
       "note": {
-        "en": "whole grain teff, brown or ivory"
+        "en": "whole grain teff, brown or ivory",
+        "de": "Vollkornteff, braun oder elfenbein",
+        "es": "teff integral, marrón o marfil",
+        "fr": "teff complet, brun ou ivoire",
+        "ro": "teff integral, maro sau fildeș"
       }
     },
     {
@@ -57,14 +69,22 @@
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "stirred in just before cooking, not during fermentation"
+        "en": "stirred in just before cooking, not during fermentation",
+        "de": "erst kurz vor dem Kochen eingerührt, nicht während der Fermentation",
+        "es": "incorporado justo antes de cocinar, no durante la fermentación",
+        "fr": "incorporé juste avant la cuisson, pas pendant la fermentation",
+        "ro": "încorporat chiar înainte de gătire, nu în timpul fermentației"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 40,
       "note": {
-        "en": "optional ersho (starter from a previous batch) to kickstart fermentation"
+        "en": "optional ersho (starter from a previous batch) to kickstart fermentation",
+        "de": "optional Ersho (Anstellgut aus einer vorherigen Charge) zur Anregung der Fermentation",
+        "es": "ersho opcional (iniciador de un lote anterior) para iniciar la fermentación",
+        "fr": "ersho facultatif (levain d'un lot précédent) pour lancer la fermentation",
+        "ro": "ersho opțional (maia dintr-un lot anterior) pentru a porni fermentația"
       }
     }
   ],
@@ -72,7 +92,11 @@
     "count": 9,
     "pieceGrams": 126,
     "shape": {
-      "en": "large thin spongy round, 25-30 cm"
+      "en": "large thin spongy round, 25-30 cm",
+      "de": "große dünne schwammige Runde, 25-30 cm",
+      "es": "redondo grande, fino y esponjoso, de 25-30 cm",
+      "fr": "grand rond fin et spongieux, 25-30 cm",
+      "ro": "rotund mare subțire spongios, 25-30 cm"
     }
   },
   "time": {
@@ -111,7 +135,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Stays pliable several days at room temperature wrapped in cloth; refrigerates over a week and freezes well, though it's tangiest and spongiest fresh."
+      "en": "Stays pliable several days at room temperature wrapped in cloth; refrigerates over a week and freezes well, though it's tangiest and spongiest fresh.",
+      "de": "Bleibt mehrere Tage bei Raumtemperatur in Tuch gewickelt geschmeidig; hält sich im Kühlschrank über eine Woche und lässt sich gut einfrieren, obwohl es frisch am säuerlichsten und schwammigsten ist.",
+      "es": "Se mantiene flexible varios días a temperatura ambiente envuelto en un paño; se refrigera más de una semana y se congela bien, aunque es más ácido y esponjoso fresco.",
+      "fr": "Reste souple plusieurs jours à température ambiante enveloppé dans un torchon; se conserve au réfrigérateur plus d'une semaine et se congèle bien, bien qu'il soit plus acidulé et spongieux frais.",
+      "ro": "Rămâne flexibil câteva zile la temperatura camerei înfășurat în pânză; se refrigeră peste o săptămână și se congela bine, deși este cel mai acrișor și spongios proaspăt."
     }
   },
   "equipment": [
@@ -220,7 +248,11 @@
     "site": "Figaro Shakes",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Cup measurements converted to grams using a standard teff-flour weight (~188 g/cup); hydration and salt percentage computed from those converted weights per baker's-percentage convention."
+      "en": "Cup measurements converted to grams using a standard teff-flour weight (~188 g/cup); hydration and salt percentage computed from those converted weights per baker's-percentage convention.",
+      "de": "Tassenmaße mit einem Standard-Teffmehlgewicht (~188 g/Tasse) in Gramm umgerechnet; Hydratation und Salzprozent aus diesen umgerechneten Gewichten nach Bäckerprozent-Konvention berechnet.",
+      "es": "Medidas en tazas convertidas a gramos usando un peso estándar de harina de teff (~188 g/taza); hidratación y porcentaje de sal calculados a partir de esos pesos convertidos según la convención del porcentaje del panadero.",
+      "fr": "Mesures en tasses converties en grammes en utilisant un poids standard de farine de teff (~188 g/tasse); hydratation et pourcentage de sel calculés à partir de ces poids convertis selon la convention du pourcentage du boulanger.",
+      "ro": "Măsurile în căni convertite în grame folosind o greutate standard a făinii de teff (~188 g/cană); hidratarea și procentul de sare calculate din aceste greutăți convertite conform convenției procentului brutarului."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "RU",
     "region": {
-      "en": "Russia-wide, Orthodox tradition"
+      "en": "Russia-wide, Orthodox tradition",
+      "de": "Ganz Russland, orthodoxe Tradition",
+      "es": "En toda Rusia, tradición ortodoxa",
+      "fr": "Dans toute la Russie, tradition orthodoxe",
+      "ro": "În toată Rusia, tradiție ortodoxă"
     },
     "note": {
-      "en": "Blessed by an Orthodox priest alongside painted eggs and paskha cheese on Holy Saturday, then eaten at the Easter breakfast that breaks the Lenten fast."
+      "en": "Blessed by an Orthodox priest alongside painted eggs and paskha cheese on Holy Saturday, then eaten at the Easter breakfast that breaks the Lenten fast.",
+      "de": "Wird am Karsamstag von einem orthodoxen Priester zusammen mit bemalten Eiern und Paskha-Käse gesegnet und dann beim Osterfrühstück gegessen, das die Fastenzeit bricht.",
+      "es": "Bendecido por un sacerdote ortodoxo junto con huevos pintados y queso paskha el Sábado Santo, y luego comido en el desayuno de Pascua que rompe el ayuno cuaresmal.",
+      "fr": "Béni par un prêtre orthodoxe avec les oeufs peints et le fromage paskha le Samedi Saint, puis mangé au petit déjeuner de Pâques qui rompt le jeûne du Carême.",
+      "ro": "Binecuvântat de un preot ortodox împreună cu ouă vopsite și brânză paskha în Sâmbăta Mare, apoi mâncat la micul dejun de Paște care rupe postul Lenten."
     }
   },
   "leaven": "yeast",
@@ -50,28 +58,44 @@
       "key": "flour:wheat-white",
       "grams": 435,
       "note": {
-        "en": "high-protein bread flour; 100 g in the overnight preferment, 335 g in the main dough"
+        "en": "high-protein bread flour; 100 g in the overnight preferment, 335 g in the main dough",
+        "de": "hochproteinhaltiges Brotmehl; 100 g im Vorteig, 335 g im Hauptteig",
+        "es": "harina de pan de alta proteína; 100 g en el prefermento nocturno, 335 g en la masa principal",
+        "fr": "farine à pain riche en protéines; 100 g dans le préferment de nuit, 335 g dans la pâte principale",
+        "ro": "făină de pâine cu conținut ridicat de proteine; 100 g în prefermentul de noapte, 335 g în aluatul principal"
       }
     },
     {
       "key": "water",
       "grams": 114,
       "note": {
-        "en": "for the preferment"
+        "en": "for the preferment",
+        "de": "für den Vorteig",
+        "es": "para el prefermento",
+        "fr": "pour le préferment",
+        "ro": "pentru preferment"
       }
     },
     {
       "key": "fresh-yeast",
       "grams": 13,
       "note": {
-        "en": "1 g in the preferment, 12 g in the main dough"
+        "en": "1 g in the preferment, 12 g in the main dough",
+        "de": "1 g im Vorteig, 12 g im Hauptteig",
+        "es": "1 g en el prefermento, 12 g en la masa principal",
+        "fr": "1 g dans le préferment, 12 g dans la pâte principale",
+        "ro": "1 g în preferment, 12 g în aluatul principal"
       }
     },
     {
       "key": "sugar",
       "grams": 55,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
@@ -82,14 +106,22 @@
       "key": "egg",
       "grams": 200,
       "note": {
-        "en": "3 large eggs plus 1 extra yolk"
+        "en": "3 large eggs plus 1 extra yolk",
+        "de": "3 große Eier plus 1 zusätzliches Eigelb",
+        "es": "3 huevos grandes más 1 yema extra",
+        "fr": "3 gros oeufs plus 1 jaune supplémentaire",
+        "ro": "3 ouă mari plus 1 gălbenuș în plus"
       }
     },
     {
       "key": "butter",
       "grams": 165,
       "note": {
-        "en": "cold, cubed"
+        "en": "cold, cubed",
+        "de": "kalt, gewürfelt",
+        "es": "fría, en cubos",
+        "fr": "froid, en dés",
+        "ro": "rece, cuburi"
       }
     },
     {
@@ -100,7 +132,11 @@
       "key": "vanilla",
       "grams": 2,
       "note": {
-        "en": "seeds scraped from about half a vanilla pod"
+        "en": "seeds scraped from about half a vanilla pod",
+        "de": "Samen aus etwa einer halben Vanilleschote",
+        "es": "semillas extraídas de aproximadamente media vaina de vainilla",
+        "fr": "graines grattées d'environ une demi-gousse de vanille",
+        "ro": "semințe răzuite din aproximativ jumătate de păstaie de vanilie"
       }
     },
     {
@@ -113,35 +149,55 @@
       },
       "grams": 0.3,
       "note": {
-        "en": "steeped in warm milk; traditional but often left out today"
+        "en": "steeped in warm milk; traditional but often left out today",
+        "de": "in warmer Milch eingeweicht; traditionell, aber heute oft weggelassen",
+        "es": "remojado en leche tibia; tradicional pero a menudo omitido hoy",
+        "fr": "trempé dans du lait tiède; traditionnel mais souvent omis aujourd'hui",
+        "ro": "înmuiat în lapte călduț; tradițional dar adesea omis astăzi"
       }
     },
     {
       "key": "raisins",
       "grams": 100,
       "note": {
-        "en": "sultanas, soaked in a spiced rum syrup and drained"
+        "en": "sultanas, soaked in a spiced rum syrup and drained",
+        "de": "Sultaninen, in gewürztem Rum-Sirup eingeweicht und abgetropft",
+        "es": "sultanas, remojadas en un jarabe de ron especiado y escurridas",
+        "fr": "raisins de Smyrne, trempés dans un sirop de rhum épicé et égouttés",
+        "ro": "stafide albe, înmuiate într-un sirop de rom condimentat și scurse"
       }
     },
     {
       "key": "candied-citrus",
       "grams": 50,
       "note": {
-        "en": "candied orange peel, for the traditional studded crumb"
+        "en": "candied orange peel, for the traditional studded crumb",
+        "de": "Orangeat, für die traditionelle bestückte Krume",
+        "es": "cáscara de naranja confitada, para la miga tradicional con tropezones",
+        "fr": "écorces d'orange confites, pour la mie traditionnelle parsemée",
+        "ro": "coajă de portocală confiată, pentru miezul tradițional ornamentat"
       }
     },
     {
       "key": "egg",
       "grams": 38,
       "note": {
-        "en": "egg white only, whisked into the icing"
+        "en": "egg white only, whisked into the icing",
+        "de": "nur Eiweiß, zum Guss verquirlt",
+        "es": "solo clara, batida para el glaseado",
+        "fr": "blanc d'oeuf seulement, fouetté dans le glaçage",
+        "ro": "doar albuș, bătut pentru glazură"
       }
     },
     {
       "key": "sugar",
       "grams": 76,
       "note": {
-        "en": "for the icing, whisked with the egg white"
+        "en": "for the icing, whisked with the egg white",
+        "de": "für den Guss, mit dem Eiweiß verrührt",
+        "es": "para el glaseado, batido con la clara",
+        "fr": "pour le glaçage, fouetté avec le blanc d'oeuf",
+        "ro": "pentru glazură, bătut cu albușul"
       }
     },
     {
@@ -154,7 +210,11 @@
       },
       "grams": 8,
       "note": {
-        "en": "for decorating the icing"
+        "en": "for decorating the icing",
+        "de": "zum Verzieren des Gusses",
+        "es": "para decorar el glaseado",
+        "fr": "pour décorer le glaçage",
+        "ro": "pentru decorarea glazurii"
       }
     }
   ],
@@ -162,7 +222,11 @@
     "count": 1,
     "pieceGrams": 1160,
     "shape": {
-      "en": "tall cylindrical dome in a tube mold or tall can"
+      "en": "tall cylindrical dome in a tube mold or tall can",
+      "de": "hoher zylindrischer Dom in einer Röhren- oder hohen Dosenform",
+      "es": "cúpula cilíndrica alta en un molde tubular o lata alta",
+      "fr": "dôme cylindrique haut dans un moule à cheminée ou une boîte haute",
+      "ro": "dom cilindric înalt într-o formă tubulară sau conserve înaltă"
     }
   },
   "time": {
@@ -205,7 +269,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Best within a few days; the iced dome means it's kept loosely covered rather than sealed airtight."
+      "en": "Best within a few days; the iced dome means it's kept loosely covered rather than sealed airtight.",
+      "de": "Am besten innerhalb weniger Tage; die Glasur muss locker abgedeckt werden, nicht luftdicht verschlossen.",
+      "es": "Mejor dentro de unos días; la cúpula glaseada se mantiene mejor ligeramente cubierta que sellada herméticamente.",
+      "fr": "Meilleur dans les quelques jours; le dôme glacé se conserve mieux légèrement couvert que scellé hermétiquement.",
+      "ro": "Cel mai bun în câteva zile; domul glazurat se păstrează mai bine acoperit lejer decât sigilat ermetic."
     }
   },
   "equipment": [
@@ -331,7 +399,11 @@
     "site": "Bake-Street.com",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Swapped the source's modern berry/nut/petal garnish for a classic icing-and-sprinkles finish; added a pinch of saffron and some candied peel alongside its raisins, per traditional kulich practice."
+      "en": "Swapped the source's modern berry/nut/petal garnish for a classic icing-and-sprinkles finish; added a pinch of saffron and some candied peel alongside its raisins, per traditional kulich practice.",
+      "de": "Die moderne Beeren-Nuss-Blüten-Dekoration der Quelle gegen einen klassischen Guss mit Streusel getauscht; eine Prise Safran und etwas Orangeat neben den Rosinen hinzugefügt, nach traditioneller Kulich-Praxis.",
+      "es": "Se cambió la decoración moderna de bayas, nueces y pétalos de la fuente por un glaseado clásico con chispas; se añadió una pizca de azafrán y algo de cáscara confitada junto con las pasas, según la práctica tradicional del kulich.",
+      "fr": "La garniture moderne baies/noix/pétales de la source remplacée par un glaçage classique avec vermicelles; une pincée de safran et des écorces confites ajoutées aux raisins secs, selon la pratique traditionnelle du kulich.",
+      "ro": "Decorul modern cu fructe de pădure/nuci/petale al sursei înlocuit cu un glazură clasică cu fulgi; un praf de șofran și coajă confiată adăugate alături de stafide, conform practicii tradiționale a kulich-ului."
     }
   },
   "tags": [

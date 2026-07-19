@@ -22,10 +22,18 @@
   "origin": {
     "country": "ZA",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Named from rooster (the grill grid) and koek (cake) in Afrikaans; a fixture of the braai (barbecue) alongside grilled meat, cooked directly over the coals rather than in an oven."
+      "en": "Named from rooster (the grill grid) and koek (cake) in Afrikaans; a fixture of the braai (barbecue) alongside grilled meat, cooked directly over the coals rather than in an oven.",
+      "de": "Benannt nach rooster (dem Grillrost) und koek (Kuchen) im Afrikaans; ein fester Bestandteil des Braai (Grillen) neben gegrilltem Fleisch, direkt über der Glut gebacken statt im Ofen.",
+      "es": "Nombrado a partir de rooster (la rejilla de la parrilla) y koek (pastel) en afrikáans; un clásico del braai (barbacoa) junto con carne a la parrilla, cocinado directamente sobre las brasas en lugar de en un horno.",
+      "fr": "Tiré de rooster (la grille) et de koek (gâteau) en afrikaans; un incontournable du braai (barbecue) aux côtés de la viande grillée, cuit directement sur les braises plutôt qu'au four.",
+      "ro": "Denumit după rooster (gratița de grătar) și koek (prăjitură) în afrikaans; nelipsit de la braai (grătar) alături de carne la grătar, gătit direct pe jar, nu în cuptor."
     }
   },
   "leaven": "yeast",
@@ -47,14 +55,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "cake flour"
+        "en": "cake flour",
+        "de": "Kuchenmehl (Type 405)",
+        "es": "harina de repostería",
+        "fr": "farine à gâteau",
+        "ro": "făină de prăjituri"
       }
     },
     {
       "key": "water",
       "grams": 415,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -70,7 +86,11 @@
     "count": 12,
     "pieceGrams": 68,
     "shape": {
-      "en": "small rolls"
+      "en": "small rolls",
+      "de": "kleine Brötchen",
+      "es": "panecillos pequeños",
+      "fr": "petits pains ronds",
+      "ro": "chifle mici"
     }
   },
   "time": {
@@ -111,7 +131,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best hot off the coals with butter; leftovers dry out quickly, though the shaped dough balls can be frozen unbaked."
+      "en": "Best hot off the coals with butter; leftovers dry out quickly, though the shaped dough balls can be frozen unbaked.",
+      "de": "Am besten heiß von der Glut mit Butter; Reste trocknen schnell aus, die geformten Teiglinge können jedoch ungebacken eingefroren werden.",
+      "es": "Mejor caliente directamente de las brasas con mantequilla; las sobras se secan rápido, aunque las bolas de masa formadas se pueden congelar crudas.",
+      "fr": "Meilleur chaud directement des braises avec du beurre; les restes sèchent vite, mais les boules de pâte façonnées peuvent être congelées crues.",
+      "ro": "Cel mai bun fierbinte de pe jar cu unt; resturile se usucă repede, dar bilele de aluat modelate pot fi congelate necoapte."
     }
   },
   "equipment": [
@@ -128,10 +152,10 @@
       },
       "summary": {
         "en": "Mix the flour, yeast and salt in a bowl, pour in the water, and bring it together by hand into one dough.",
-        "de": "Mehl, Hefe und Salz vermengen, dann das Wasser zugeben und von Hand zu einem zusammenhängenden Teig mischen.",
-        "es": "Combinar harina, levadura y sal, luego añadir el agua y mezclar a mano hasta formar una masa uniforme.",
-        "fr": "Combiner farine, levure et sel, puis ajouter l'eau et mélanger à la main jusqu'à obtenir une pâte homogène.",
-        "ro": "Combină făina, drojdia și sarea, apoi adaugă apa și amestecă manual până obții un aluat coeziv."
+        "de": "Mehl, Hefe und Salz in einer Schüssel vermengen, das Wasser zugießen und von Hand zu einem Teig zusammenfügen.",
+        "es": "Mezclar la harina, la levadura y la sal en un cuenco, verter el agua y unir a mano hasta formar una masa.",
+        "fr": "Mélanger la farine, la levure et le sel dans un bol, verser l'eau et rassembler à la main en une pâte.",
+        "ro": "Combină făina, drojdia și sarea într-un bol, toarnă apa și adună manual totul într-un aluat."
       }
     },
     {
@@ -204,7 +228,11 @@
     "site": "Braai.com (Jan Braai)",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/teaspoon quantities converted to grams; the source's ingredient list is intentionally minimal (no sugar or oil), reflecting the traditional simple recipe."
+      "en": "Cup/teaspoon quantities converted to grams; the source's ingredient list is intentionally minimal (no sugar or oil), reflecting the traditional simple recipe.",
+      "de": "Tassen-/Teelöffelangaben in Gramm umgerechnet; die Zutatenliste der Quelle ist bewusst minimalistisch (kein Zucker oder Öl) und entspricht dem traditionell einfachen Rezept.",
+      "es": "Cantidades en tazas/cucharaditas convertidas a gramos; la lista de ingredientes de la fuente es intencionadamente mínima (sin azúcar ni aceite), reflejando la receta tradicional simple.",
+      "fr": "Quantités en tasses/cuillères à café converties en grammes; la liste d'ingrédients de la source est volontairement minimale (pas de sucre ni d'huile), reflétant la recette traditionnelle simple.",
+      "ro": "Cantitățile din căni/lingurițe convertite în grame; lista de ingrediente a sursei este intenționat minimalistă (fără zahăr sau ulei), reflectând rețeta tradițională simplă."
     }
   },
   "tags": [

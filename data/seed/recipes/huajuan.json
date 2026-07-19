@@ -23,10 +23,18 @@
   "origin": {
     "country": "CN",
     "region": {
-      "en": "nationwide, northern origin"
+      "en": "nationwide, northern origin",
+      "de": "landesweit, nördlichen Ursprungs",
+      "es": "en todo el país, originario del norte",
+      "fr": "dans tout le pays, originaire du nord",
+      "ro": "la nivel național, originar din nord"
     },
     "note": {
-      "en": "Same steamed-wheat family as mantou, but layered with a savory scallion-oil filling and twisted into a flower shape before steaming."
+      "en": "Same steamed-wheat family as mantou, but layered with a savory scallion-oil filling and twisted into a flower shape before steaming.",
+      "de": "Gleiche gedämpfte-Weizen-Familie wie Mantou, aber mit einer herzhaften Frühlingszwiebel-Öl-Füllung geschichtet und vor dem Dämpfen zu einer Blumenform gedreht.",
+      "es": "De la misma familia de trigo al vapor que el mantou, pero en capas con un relleno salado de cebolleta y aceite y retorcido en forma de flor antes de cocer al vapor.",
+      "fr": "Même famille de blé cuit à la vapeur que le mantou, mais feuilleté avec une garniture salée à l'oignon vert et à l'huile et tordu en forme de fleur avant la cuisson à la vapeur.",
+      "ro": "Din aceeași familie de grâu aburit ca mantou, dar stratificată cu o umplutură sărată de ceapă verde și ulei și răsucită în formă de floare înainte de aburire."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "water",
       "grams": 165,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "templado",
+        "fr": "tiède",
+        "ro": "călduț"
       }
     },
     {
@@ -73,7 +85,11 @@
       "key": "salt",
       "grams": 1.5,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
@@ -90,14 +106,22 @@
       "key": "salt",
       "grams": 3,
       "note": {
-        "en": "in the scallion filling"
+        "en": "in the scallion filling",
+        "de": "in der Frühlingszwiebelfüllung",
+        "es": "en el relleno de cebolleta",
+        "fr": "dans la garniture à l'oignon vert",
+        "ro": "în umplutura de ceapă verde"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 27,
       "note": {
-        "en": "brushed between the layers"
+        "en": "brushed between the layers",
+        "de": "zwischen die Schichten gestrichen",
+        "es": "untado entre las capas",
+        "fr": "badigeonné entre les couches",
+        "ro": "uns între straturi"
       }
     },
     {
@@ -115,7 +139,11 @@
     "count": 8,
     "pieceGrams": 65,
     "shape": {
-      "en": "twisted flower/knot roll, steamed"
+      "en": "twisted flower/knot roll, steamed",
+      "de": "gedrehtes Blumen-/Knotenbrötchen, gedämpft",
+      "es": "panecillo en forma de flor/nudo retorcido, al vapor",
+      "fr": "petit pain torsadé en fleur/nœud, cuit à la vapeur",
+      "ro": "chiflă răsucită în formă de floare/nod, aburită"
     }
   },
   "time": {
@@ -156,7 +184,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Steams back to fluffy from frozen in about 10 minutes; a savory alternative to mantou alongside braises and congee."
+      "en": "Steams back to fluffy from frozen in about 10 minutes; a savory alternative to mantou alongside braises and congee.",
+      "de": "Lässt sich in etwa 10 Minuten aus gefrorenem Zustand wieder fluffig dämpfen; eine herzhafte Alternative zu Mantou zu Schmorgerichten und Congee.",
+      "es": "Se vuelve esponjoso al vapor desde congelado en unos 10 minutos; una alternativa salada al mantou junto a estofados y congee.",
+      "fr": "Se revapeurise moelleux depuis congelé en environ 10 minutes; une alternative salée au mantou avec les braisés et le congee.",
+      "ro": "Se reaburește pufos din congelat în aproximativ 10 minute; o alternativă sărată la mantou alături de înăbușite și congee."
     }
   },
   "equipment": [
@@ -281,7 +313,11 @@
     "site": "The Woks of Life",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tbsp/tsp amounts converted to grams using standard baking references; dough salt and filling salt kept as two separate lines to mirror the source's two stages."
+      "en": "Cup/tbsp/tsp amounts converted to grams using standard baking references; dough salt and filling salt kept as two separate lines to mirror the source's two stages.",
+      "de": "Tassen-/Esslöffel-/Teelöffelmengen mit Standard-Backreferenzen in Gramm umgerechnet; Teigsalz und Füllungssalz als zwei separate Zeilen geführt, um die zwei Stufen der Quelle abzubilden.",
+      "es": "Cantidades en tazas/cucharadas/cucharaditas convertidas a gramos con referencias estándar de repostería; sal de la masa y sal del relleno mantenidas como dos líneas separadas para reflejar las dos etapas de la fuente.",
+      "fr": "Quantités en tasses/cuillères à soupe/cuillères à café converties en grammes avec des références de pâtisserie standard; sel de la pâte et sel de la garniture conservés en deux lignes séparées pour refléter les deux étapes de la source.",
+      "ro": "Cantitățile în căni/linguri/lingurițe convertite în grame cu referințe standard de panificație; sarea aluatului și sarea umpluturii păstrate ca două linii separate pentru a oglindi cele două etape ale sursei."
     }
   },
   "tags": [

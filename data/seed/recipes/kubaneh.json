@@ -23,10 +23,18 @@
   "origin": {
     "country": "YE",
     "region": {
-      "en": "Yemenite Jewish communities, now centered in Israel"
+      "en": "Yemenite Jewish communities, now centered in Israel",
+      "de": "Jemenitisch-jüdische Gemeinden, heute hauptsächlich in Israel",
+      "es": "Comunidades judías yemeníes, hoy centradas en Israel",
+      "fr": "Communautés juives yéménites, aujourd'hui centrées en Israël",
+      "ro": "Comunități evreiești yemenite, astăzi centrate în Israel"
     },
     "note": {
-      "en": "Carried to Israel by Yemenite Jewish immigrants from the 1950s onward; today it is baked far more in Israeli homes and bakeries than in Yemen itself."
+      "en": "Carried to Israel by Yemenite Jewish immigrants from the 1950s onward; today it is baked far more in Israeli homes and bakeries than in Yemen itself.",
+      "de": "Von jemenitischen jüdischen Einwanderern ab den 1950er-Jahren nach Israel gebracht; heute wird es weitaus häufiger in israelischen Haushalten und Bäckereien gebacken als im Jemen selbst.",
+      "es": "Llevado a Israel por inmigrantes judíos yemeníes desde la década de 1950; hoy se hornea mucho más en hogares y panaderías israelíes que en el propio Yemen.",
+      "fr": "Apporté en Israël par les immigrants juifs yéménites à partir des années 1950; aujourd'hui, il est bien plus cuit dans les foyers et boulangeries israéliens qu'au Yémen même.",
+      "ro": "Adus în Israel de imigranții evrei yemeniți începând cu anii 1950; astăzi este copt mult mai des în casele și brutăriile israeliene decât în Yemenul însuși."
     }
   },
   "leaven": "yeast",
@@ -50,7 +58,11 @@
       "key": "flour:wheat-white",
       "grams": 450,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
@@ -73,7 +85,11 @@
       "key": "egg",
       "grams": 80,
       "note": {
-        "en": "1 whole egg plus 1 egg white"
+        "en": "1 whole egg plus 1 egg white",
+        "de": "1 ganzes Ei plus 1 Eiweiß",
+        "es": "1 huevo entero más 1 clara",
+        "fr": "1 oeuf entier plus 1 blanc",
+        "ro": "1 ou întreg plus 1 albuș"
       }
     },
     {
@@ -84,7 +100,11 @@
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "softened, for laminating between folds"
+        "en": "softened, for laminating between folds",
+        "de": "weich, zum Einarbeiten zwischen den Faltschichten",
+        "es": "ablandada, para laminar entre pliegues",
+        "fr": "ramolli, pour le tourage entre les plis",
+        "ro": "înmuiată, pentru laminare între straturi"
       }
     },
     {
@@ -101,7 +121,11 @@
       "key": "egg-yolk",
       "grams": 17,
       "note": {
-        "en": "for the egg wash before baking"
+        "en": "for the egg wash before baking",
+        "de": "für die Eierwasche vor dem Backen",
+        "es": "para el baño de huevo antes de hornear",
+        "fr": "pour la dorure à l'oeuf avant la cuisson",
+        "ro": "pentru unsul cu ou înainte de coacere"
       }
     }
   ],
@@ -109,7 +133,11 @@
     "count": 12,
     "pieceGrams": 75,
     "shape": {
-      "en": "pull-apart coil baked in a round pan"
+      "en": "pull-apart coil baked in a round pan",
+      "de": "auseinanderziehbare Schnecke, in einer runden Form gebacken",
+      "es": "rollo desmenuzable horneado en un molde redondo",
+      "fr": "spirale à déchirer cuite dans un moule rond",
+      "ro": "rulou tip spirală copt într-o tavă rotundă"
     }
   },
   "time": {
@@ -151,7 +179,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best warm the day it is baked; wrap leftovers and reheat gently in foil to soften the layers again."
+      "en": "Best warm the day it is baked; wrap leftovers and reheat gently in foil to soften the layers again.",
+      "de": "Am besten warm am Backtag; Reste in Folie wickeln und sanft erwärmen, damit die Schichten wieder weich werden.",
+      "es": "Mejor caliente el día de horneado; envolver las sobras en papel aluminio y recalentar suavemente para ablandar las capas.",
+      "fr": "Meilleur chaud le jour de la cuisson; envelopper les restes dans du papier aluminium et réchauffer doucement pour ramollir les couches.",
+      "ro": "Cel mai bun cald în ziua coacerii; învelește resturile în folie și reîncălzește ușor pentru a înmuia straturile din nou."
     }
   },
   "equipment": [
@@ -185,10 +217,10 @@
       },
       "summary": {
         "en": "Let it rise, covered, until doubled, about 1 hour.",
-        "de": "Abdecken und den Teig etwa 1 Stunde auf das Doppelte aufgehen lassen.",
-        "es": "Tapar y dejar que la masa doble su tamaño, aproximadamente 1 hora.",
-        "fr": "Couvrir et laisser la pâte doubler de volume, environ 1 heure.",
-        "ro": "Acoperă și lasă aluatul să își dubleze volumul, aproximativ 1 oră."
+        "de": "Zugedeckt etwa 1 Stunde gehen lassen, bis sich der Teig verdoppelt hat.",
+        "es": "Dejar levar tapado hasta que doble su volumen, aproximadamente 1 hora.",
+        "fr": "Laisser lever couvert jusqu'à doubler de volume, environ 1 heure.",
+        "ro": "Lasă la crescut, acoperit, până se dublează, aproximativ 1 oră."
       }
     },
     {
@@ -217,10 +249,10 @@
       },
       "summary": {
         "en": "Pack the coils cut-side up into a greased round pan, starting in the middle and spiraling outward until they meet.",
-        "de": "Die Rollen mit der Schnittseite nach oben dicht in eine gefettete runde Form setzen, von der Mitte nach außen arbeitend, sodass sie sich berühren.",
-        "es": "Colocar las espirales con el corte hacia arriba, bien juntas, en un molde redondo engrasado, trabajando del centro hacia afuera para que se toquen.",
-        "fr": "Disposer les spirales, face coupée vers le haut, serrées dans un moule rond graissé, en travaillant du centre vers l'extérieur pour qu'elles se touchent.",
-        "ro": "Așază spiralele cu partea tăiată în sus, strâns într-o formă rotundă unsă, lucrând din centru spre margine ca să se atingă între ele."
+        "de": "Die Rollen mit der Schnittseite nach oben dicht in eine gefettete runde Form setzen, von der Mitte nach außen spiralförmig, bis sie sich berühren.",
+        "es": "Colocar los rollos con el corte hacia arriba en un molde redondo engrasado, empezando desde el centro y en espiral hacia afuera hasta que se toquen.",
+        "fr": "Disposer les rouleaux côté coupé vers le haut dans un moule rond beurré, en partant du centre en spirale vers l'extérieur jusqu'à ce qu'ils se touchent.",
+        "ro": "Așază ruladele cu partea tăiată în sus într-o formă rotundă unsă, începând din centru în spirală spre exterior până se ating."
       }
     },
     {
@@ -277,7 +309,11 @@
     "site": "Breadtopia",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Used the site's plain-yeast version rather than its sourdough option; egg and nigella seed weights converted from count/tablespoons to grams."
+      "en": "Used the site's plain-yeast version rather than its sourdough option; egg and nigella seed weights converted from count/tablespoons to grams.",
+      "de": "Die einfache Hefe-Version der Quelle statt der Sauerteig-Option verwendet; Ei- und Schwarzkümmelmengen von Stückzahl/EL in Gramm umgerechnet.",
+      "es": "Se usó la versión de levadura simple del sitio en lugar de la opción de masa madre; las cantidades de huevo y semillas de nigella se convirtieron de unidades/cucharadas a gramos.",
+      "fr": "Version à la levure simple du site utilisée plutôt que l'option au levain; les quantités d'oeuf et de graines de nigelle converties de pièces/cuillères à soupe en grammes.",
+      "ro": "S-a folosit versiunea cu drojdie simplă a site-ului în locul opțiunii cu maia; cantitățile de ou și semințe de nigella convertite din bucăți/linguri în grame."
     }
   },
   "tags": [

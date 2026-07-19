@@ -22,10 +22,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "North India & Pakistan (Punjab)"
+      "en": "North India & Pakistan (Punjab)",
+      "de": "Nordindien und Pakistan (Punjab)",
+      "es": "India del Norte y Pakistan (Punyab)",
+      "fr": "Inde du Nord et Pakistan (Pendjab)",
+      "ro": "India de Nord si Pakistan (Punjab)"
     },
     "note": {
-      "en": "The name and tandoor technique trace back to Persia and Central Asia; today it is most iconic in North Indian and Pakistani Punjabi cooking."
+      "en": "The name and tandoor technique trace back to Persia and Central Asia; today it is most iconic in North Indian and Pakistani Punjabi cooking.",
+      "de": "Der Name und die Tandoor-Technik gehen auf Persien und Zentralasien zurck; heute ist es am ikonischsten in der nordindischen und pakistanisch-punjabischen Kuche.",
+      "es": "El nombre y la tecnica del tandoor se remontan a Persia y Asia Central; hoy es mas emblematico en la cocina del norte de la India y del Punyab pakistani.",
+      "fr": "Le nom et la technique du tandoor remontent a la Perse et a l'Asie centrale; aujourd'hui, il est le plus emblematique de la cuisine du nord de l'Inde et du Pendjab pakistanais.",
+      "ro": "Numele si tehnica tandoor provin din Persia si Asia Centrala; astazi este cel mai iconic in bucataria nord-indiana si pakistaneza punjabi."
     }
   },
   "leaven": "yeast",
@@ -48,21 +56,33 @@
       "key": "flour:wheat-white",
       "grams": 256,
       "note": {
-        "en": "all-purpose flour"
+        "en": "all-purpose flour",
+        "de": "Weizenmehl Type 550",
+        "es": "harina de todo uso",
+        "fr": "farine de ble T55",
+        "ro": "faina alba de uz general"
       }
     },
     {
       "key": "water",
       "grams": 136,
       "note": {
-        "en": "just-boiled, cooled slightly to activate yeast"
+        "en": "just-boiled, cooled slightly to activate yeast",
+        "de": "gerade abgekocht, leicht abgekhlt, um die Hefe zu aktivieren",
+        "es": "recien hervida, enfriada ligeramente para activar la levadura",
+        "fr": "juste bouillie, legerement refroidie pour activer la levure",
+        "ro": "fiarta recent, racita usor pentru a activa drojdia"
       }
     },
     {
       "key": "yogurt",
       "grams": 120,
       "note": {
-        "en": "full-fat"
+        "en": "full-fat",
+        "de": "vollfett",
+        "es": "entero",
+        "fr": "entier",
+        "ro": "plen-gras"
       }
     },
     {
@@ -77,7 +97,11 @@
       "key": "butter",
       "grams": 28,
       "note": {
-        "en": "melted, brushed on after cooking"
+        "en": "melted, brushed on after cooking",
+        "de": "geschmolzen, nach dem Backen aufgestrichen",
+        "es": "derretida, untada despues de cocinar",
+        "fr": "fondu, badigeonne apres cuisson",
+        "ro": "topit, uns dupa gatire"
       }
     }
   ],
@@ -85,7 +109,11 @@
     "count": 4,
     "pieceGrams": 130,
     "shape": {
-      "en": "teardrop, 8-9 in (20-23 cm)"
+      "en": "teardrop, 8-9 in (20-23 cm)",
+      "de": "Tropfenform, 20-23 cm",
+      "es": "forma de lagrima, 20-23 cm",
+      "fr": "forme de larme, 20-23 cm",
+      "ro": "forma de lacrima, 20-23 cm"
     }
   },
   "time": {
@@ -126,7 +154,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best hot off the skillet; reheat wrapped in foil. Freezes well stacked between parchment."
+      "en": "Best hot off the skillet; reheat wrapped in foil. Freezes well stacked between parchment.",
+      "de": "Am besten hei aus der Pfanne; in Folie eingewickelt aufwarmen. Lasst sich gut zwischen Backpapierlagen gestapelt einfrieren.",
+      "es": "Mejor caliente recien salido de la sarten; recalentar envuelto en papel aluminio. Se congela bien apilado entre papel de horno.",
+      "fr": "Meilleur chaud directement de la poele; rechauffer enveloppe dans du papier aluminium. Se congele bien empile entre du papier cuisson.",
+      "ro": "Cel mai bun fierbinte din tigaie; reincalziti invelit in folie. Se congela bine stivuit intre hartie de copt."
     }
   },
   "equipment": [
@@ -252,7 +284,11 @@
     "author": "Alexandra Stafford",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration recalculated using yogurt's approximate water content per baker's-percentage convention (milk ~88%); source states liquid and flour as equal by weight."
+      "en": "Hydration recalculated using yogurt's approximate water content per baker's-percentage convention (milk ~88%); source states liquid and flour as equal by weight.",
+      "de": "Hydratation neu berechnet unter Verwendung des ungeferen Wassergehalts von Joghurt gem der Backerprozent-Konvention (Milch ~88 %); die Quelle gibt Flssigkeit und Mehl als gewichtsmig gleich an.",
+      "es": "Hidratacion recalculada usando el contenido de agua aproximado del yogur segun la convencion de porcentajes de panadero (leche ~88 %); la fuente indica liquido y harina iguales en peso.",
+      "fr": "Hydratation recalculee en utilisant la teneur en eau approximative du yaourt selon la convention des pourcentages du boulanger (lait ~88 %); la source indique liquide et farine egaux en poids.",
+      "ro": "Hidratare recalculata folosind continutul aproximativ de apa al iaurtului conform conventiei procentelor de brutar (lapte ~88 %); sursa declara lichidul si faina egale ca greutate."
     }
   },
   "tags": [

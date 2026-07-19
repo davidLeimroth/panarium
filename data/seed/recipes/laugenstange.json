@@ -23,10 +23,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Southern Germany (Bavaria/Swabia), now nationwide"
+      "en": "Southern Germany (Bavaria/Swabia), now nationwide",
+      "de": "Süddeutschland (Bayern/Schwaben), heute deutschlandweit",
+      "es": "Sur de Alemania (Baviera/Suabia), hoy en todo el país",
+      "fr": "Allemagne du Sud (Bavière/Souabe), aujourd'hui dans tout le pays",
+      "ro": "Germania de Sud (Bavaria/Șvabia), astăzi la nivel național"
     },
     "note": {
-      "en": "Part of the same Laugengebäck family as the Laugenbrezel; shaped as a straight stick rather than tied into a knot."
+      "en": "Part of the same Laugengebäck family as the Laugenbrezel; shaped as a straight stick rather than tied into a knot.",
+      "de": "Teil derselben Laugengebäck-Familie wie die Laugenbrezel; als gerader Stab geformt statt zu einem Knoten gebunden.",
+      "es": "Parte de la misma familia Laugengebäck que el Laugenbrezel; moldeada como un palo recto en lugar de atado en un nudo.",
+      "fr": "Fait partie de la même famille Laugengebäck que le Laugenbrezel; formé en bâton droit plutôt que noué.",
+      "ro": "Face parte din aceeași familie Laugengebäck ca și Laugenbrezel; modelat ca un băț drept în loc să fie legat într-un nod."
     }
   },
   "leaven": "yeast",
@@ -49,7 +57,11 @@
       "key": "flour:wheat-white",
       "grams": 450,
       "note": {
-        "en": "type 550"
+        "en": "type 550",
+        "de": "Type 550",
+        "es": "Type 550",
+        "fr": "Type 550",
+        "ro": "Type 550"
       }
     },
     {
@@ -68,14 +80,22 @@
       "key": "fresh-yeast",
       "grams": 21,
       "note": {
-        "en": "half a standard yeast cube"
+        "en": "half a standard yeast cube",
+        "de": "ein halber Würfel Frischhefe",
+        "es": "medio cubo de levadura fresca",
+        "fr": "un demi-cube de levure fraîche",
+        "ro": "jumătate de cub de drojdie proaspătă"
       }
     },
     {
       "key": "sugar",
       "grams": 4,
       "note": {
-        "en": "to wake the yeast"
+        "en": "to wake the yeast",
+        "de": "um die Hefe zu aktivieren",
+        "es": "para activar la levadura",
+        "fr": "pour activer la levure",
+        "ro": "pentru a activa drojdia"
       }
     },
     {
@@ -86,7 +106,11 @@
       "key": "salt",
       "grams": 50,
       "note": {
-        "en": "coarse pretzel salt for the topping, not part of the dough itself"
+        "en": "coarse pretzel salt for the topping, not part of the dough itself",
+        "de": "grobes Brezelsalz für den Belag, nicht Teil des Teigs",
+        "es": "sal gruesa para pretzels para la cobertura, no parte de la masa",
+        "fr": "gros sel à pretzels pour la garniture, ne fait pas partie de la pâte",
+        "ro": "sare grosieră de covrigi pentru acoperire, nu face parte din aluat"
       }
     }
   ],
@@ -94,7 +118,11 @@
     "count": 10,
     "pieceGrams": 70,
     "shape": {
-      "en": "tapered baton/stick"
+      "en": "tapered baton/stick",
+      "de": "spitz zulaufender Stab",
+      "es": "barra/palo cónico",
+      "fr": "bâtonnet effilé",
+      "ro": "băț subțiat la capete"
     }
   },
   "time": {
@@ -136,7 +164,11 @@
     "freshDays": 1.5,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; a hot-oven reheat the next day revives the crust."
+      "en": "Best the day it's baked; a hot-oven reheat the next day revives the crust.",
+      "de": "Am besten am Backtag; am nächsten Tag durch kurzes Aufbacken im heißen Ofen wird die Kruste wieder knusprig.",
+      "es": "Mejor el día de horneado; recalentar en horno caliente al día siguiente revive la corteza.",
+      "fr": "Meilleur le jour de la cuisson; un réchauffage au four chaud le lendemain ravive la croûte.",
+      "ro": "Cel mai bun în ziua coacerii; reîncălzirea în cuptorul fierbinte a doua zi revive coaja."
     }
   },
   "equipment": [
@@ -261,7 +293,11 @@
     "site": "eat.de",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Percentages computed from the stated quantities; the lye bath is described as technique rather than weighed as a dough ingredient; method paraphrased."
+      "en": "Percentages computed from the stated quantities; the lye bath is described as technique rather than weighed as a dough ingredient; method paraphrased.",
+      "de": "Prozente aus den angegebenen Mengen berechnet; das Laugenbad als Technik beschrieben, nicht als Zutat gewogen; Methode paraphrasiert.",
+      "es": "Porcentajes calculados a partir de las cantidades indicadas; el baño de lejía se describe como técnica y no se pesa como ingrediente; método parafraseado.",
+      "fr": "Pourcentages calculés à partir des quantités indiquées; le bain de lessive est décrit comme technique plutôt que pesé comme ingrédient; méthode paraphrasée.",
+      "ro": "Procente calculate din cantitățile specificate; baia de leșie descrisă ca tehnică, nu cântărită ca ingredient; metodă parafrazată."
     }
   },
   "tags": [

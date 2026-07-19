@@ -22,10 +22,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "Northern Ireland"
+      "en": "Northern Ireland",
+      "de": "Nordirland",
+      "es": "Irlanda del Norte",
+      "fr": "Irlande du Nord",
+      "ro": "Irlanda de Nord"
     },
     "note": {
-      "en": "Grew out of using up leftover mashed potato from the day before rather than a fixed recipe, so yields and ratios vary from house to house."
+      "en": "Grew out of using up leftover mashed potato from the day before rather than a fixed recipe, so yields and ratios vary from house to house.",
+      "de": "Entstand aus der Verwertung von Kartoffelpüree vom Vortag statt aus einem festen Rezept, daher variieren Ausbeuten und Verhältnisse von Haus zu Haus.",
+      "es": "Surgió de aprovechar el puré de patatas sobrante del día anterior en lugar de una receta fija, por lo que los rendimientos y las proporciones varían de casa en casa.",
+      "fr": "Issu de l'utilisation de la purée de pommes de terre de la veille plutôt que d'une recette fixe, les rendements et les proportions varient donc d'une maison à l'autre.",
+      "ro": "Apărut din utilizarea piureului de cartofi rămas din ziua precedentă, mai degrabă decât dintr-o rețetă fixă, astfel că randamentele și proporțiile variază de la casă la casă."
     }
   },
   "leaven": "none",
@@ -51,7 +59,11 @@
       "key": "mashed-potato",
       "grams": 650,
       "note": {
-        "en": "riced or well-mashed, still warm"
+        "en": "riced or well-mashed, still warm",
+        "de": "durch die Presse oder gut gestampft, noch warm",
+        "es": "pasado por el prensapuré o bien hecho puré, aún caliente",
+        "fr": "passé au presse-purée ou bien écrasé, encore chaud",
+        "ro": "pasat sau bine făcut piure, încă cald"
       }
     },
     {
@@ -76,7 +88,11 @@
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "divided between the dough and the frying pan"
+        "en": "divided between the dough and the frying pan",
+        "de": "aufgeteilt zwischen Teig und Bratpfanne",
+        "es": "dividido entre la masa y la sartén",
+        "fr": "réparti entre la pâte et la poêle",
+        "ro": "împărțit între aluat și tigaie"
       }
     }
   ],
@@ -84,7 +100,11 @@
     "count": 6,
     "pieceGrams": 125,
     "shape": {
-      "en": "wedges cut from one 8-inch round"
+      "en": "wedges cut from one 8-inch round",
+      "de": "Spalten aus einer Runde von 20,3 cm geschnitten",
+      "es": "triángulos cortados de un redondo de 20,3 cm",
+      "fr": "quartiers coupés dans un rond de 20,3 cm",
+      "ro": "pene tăiate dintr-un rotund de 20,3 cm"
     }
   },
   "time": {
@@ -124,7 +144,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fried fresh and hot; leftovers reheat well in a dry pan or under the grill for a fry-up the next day."
+      "en": "Best fried fresh and hot; leftovers reheat well in a dry pan or under the grill for a fry-up the next day.",
+      "de": "Am besten frisch und heiß gebraten; Reste lassen sich gut in einer trockenen Pfanne oder unter dem Grill für ein Bratgericht am nächsten Tag aufwärmen.",
+      "es": "Mejor frito fresco y caliente; las sobras se recalientan bien en una sartén seca o bajo el grill para un frito al día siguiente.",
+      "fr": "Meilleur frit frais et chaud; les restes se réchauffent bien à la poêle sèche ou au gril pour une friture le lendemain.",
+      "ro": "Cel mai bun prăjit proaspăt și fierbinte; resturile se reîncălzesc bine într-o tigaie uscată sau sub grill pentru o prăjeală a doua zi."
     }
   },
   "equipment": [
@@ -218,7 +242,11 @@
     "author": "Gemma Stafford",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Uses no chemical leavener, relying on potato and pan heat alone. Potato treated as the primary flour per baker's-percentage convention (as with lefse); hydration reflects only the added butter."
+      "en": "Uses no chemical leavener, relying on potato and pan heat alone. Potato treated as the primary flour per baker's-percentage convention (as with lefse); hydration reflects only the added butter.",
+      "de": "Verwendet kein chemisches Lockerungsmittel, sondern verlässt sich nur auf Kartoffel und Pfannenhitze. Kartoffel als primäres Mehl nach Bäckerprozent-Konvention behandelt (wie bei Lefse); Hydratation spiegelt nur die hinzugefügte Butter wider.",
+      "es": "No usa levadura química, confiando solo en la patata y el calor de la sartén. Papa tratada como la harina principal según la convención de porcentajes de panadero (como con lefse); la hidratación refleja solo la mantequilla añadida.",
+      "fr": "N'utilise pas de levure chimique, comptant uniquement sur la pomme de terre et la chaleur de la poêle. Pomme de terre traitée comme la farine principale selon la convention des pourcentages de boulanger (comme pour le lefse); l'hydratation ne reflète que le beurre ajouté.",
+      "ro": "Nu folosește agent chimic de creștere, bazându-se doar pe cartof și căldura tigaiei. Cartoful tratat ca făina principală conform convenției procentelor de brutar (ca la lefse); hidratarea reflectă doar untul adăugat."
     }
   },
   "tags": [

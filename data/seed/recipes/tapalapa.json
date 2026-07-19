@@ -22,10 +22,18 @@
   "origin": {
     "country": "SN",
     "region": {
-      "en": "Gambia, Mauritania and Guinea"
+      "en": "Gambia, Mauritania and Guinea",
+      "de": "Gambia, Mauretanien und Guinea",
+      "es": "Gambia, Mauritania y Guinea",
+      "fr": "Gambie, Mauritanie et Guinée",
+      "ro": "Gambia, Mauritania și Guinea"
     },
     "note": {
-      "en": "Adapted from the French colonial baguette but stretched with millet, maize and cowpea flour and baked in wood-fired mud-brick ovens; heavier and more filling than its French ancestor."
+      "en": "Adapted from the French colonial baguette but stretched with millet, maize and cowpea flour and baked in wood-fired mud-brick ovens; heavier and more filling than its French ancestor.",
+      "de": "Adaptiert von der französischen Kolonialbaguette, aber mit Hirse-, Mais- und Kuhbohnenmehl gestreckt und in holzbeheizten Lehmziegelöfen gebacken; schwerer und sättigender als sein französischer Vorfahre.",
+      "es": "Adaptada de la baguette colonial francesa pero estirada con harina de mijo, maíz y caupí y horneada en hornos de ladrillo de barro con leña; más pesada y sustanciosa que su ancestro francés.",
+      "fr": "Adaptée de la baguette coloniale française mais allongée avec de la farine de mil, de maïs et de niébé et cuite dans des fours en briques de terre chauffés au bois; plus lourde et plus nourrissante que son ancêtre française.",
+      "ro": "Adaptată de la bagheta colonială franceză, dar alungită cu făină de mei, porumb și cowpea și coaptă în cuptoare de cărămidă cu lemne; mai grea și mai sățioasă decât strămoșul său francez."
     }
   },
   "leaven": "yeast",
@@ -67,21 +75,33 @@
       "key": "flour:corn",
       "grams": 210,
       "note": {
-        "en": "yellow corn flour"
+        "en": "yellow corn flour",
+        "de": "gelbes Maismehl",
+        "es": "harina de maíz amarillo",
+        "fr": "farine de maïs jaune",
+        "ro": "făină de porumb galbenă"
       }
     },
     {
       "key": "flour:chickpea",
       "grams": 42,
       "note": {
-        "en": "cowpea (black-eyed pea) flour; chickpea is the closest taxonomy match"
+        "en": "cowpea (black-eyed pea) flour; chickpea is the closest taxonomy match",
+        "de": "Kuhbohnenmehl (Augenbohnenmehl); Kichererbse ist der nächstgelegene Taxonomie-Treffer",
+        "es": "Harina de caupí (frijol de carete); garbanzo es la coincidencia taxonómica más cercana",
+        "fr": "Farine de niébé (dolique à œil noir); pois chiche est la correspondance taxonomique la plus proche",
+        "ro": "Făină de cowpea (fasole cu ochi negri); năutul este cea mai apropiată potrivire taxonomică"
       }
     },
     {
       "key": "water",
       "grams": 356,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -97,7 +117,11 @@
     "count": 3,
     "pieceGrams": 251,
     "shape": {
-      "en": "baguette loaf"
+      "en": "baguette loaf",
+      "de": "Baguettelaib",
+      "es": "Pan baguette",
+      "fr": "Pain baguette",
+      "ro": "Pâine baghetă"
     }
   },
   "time": {
@@ -139,7 +163,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best the day it is baked; the dense multigrain crumb keeps a little longer than plain wheat bread and toasts well after a day or two."
+      "en": "Best the day it is baked; the dense multigrain crumb keeps a little longer than plain wheat bread and toasts well after a day or two.",
+      "de": "Am besten am Backtag; die dichte Mehrkornkrume hält sich etwas länger als einfaches Weizenbrot und lässt sich nach ein bis zwei Tagen gut toasten.",
+      "es": "Mejor el día de horneado; la miga densa multigrano se conserva un poco más que el pan de trigo común y se tuesta bien después de uno o dos días.",
+      "fr": "Meilleur le jour de la cuisson; la mie dense multigrains se conserve un peu plus longtemps que le pain de blé ordinaire et se toast bien après un jour ou deux.",
+      "ro": "Cel mai bun în ziua coacerii; miezul dens multicereal se păstrează puțin mai mult decât pâinea simplă de grâu și se prăjește bine după o zi sau două."
     }
   },
   "equipment": [
@@ -249,7 +277,11 @@
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup quantities for millet, corn and cowpea flours converted to grams using estimated densities; cowpea flour mapped to the taxonomy's chickpea type as the closest legume-flour match."
+      "en": "Cup quantities for millet, corn and cowpea flours converted to grams using estimated densities; cowpea flour mapped to the taxonomy's chickpea type as the closest legume-flour match.",
+      "de": "Tassenmengen für Hirse-, Mais- und Kuhbohnenmehl mit geschätzten Dichten in Gramm umgerechnet; Kuhbohnenmehl dem Kichererbsentyp der Taxonomie als nächstgelegene Hülsenfruchtmehl-Entsprechung zugeordnet.",
+      "es": "Cantidades en tazas de harina de mijo, maíz y caupí convertidas a gramos usando densidades estimadas; la harina de caupí se asignó al tipo de garbanzo de la taxonomía como la coincidencia más cercana de harina de legumbre.",
+      "fr": "Quantités en tasses de farines de mil, maïs et niébé converties en grammes en utilisant des densités estimées; la farine de niébé a été associée au type pois chiche de la taxonomie comme la correspondance la plus proche en farine de légumineuse.",
+      "ro": "Cantitățile în căni de făină de mei, porumb și cowpea convertite în grame folosind densități estimate; făina de cowpea a fost mapată la tipul năut din taxonomie ca cea mai apropiată potrivire de făină de leguminoase."
     }
   },
   "tags": [

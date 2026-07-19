@@ -21,10 +21,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "Northern Mexico (Sonora, Chihuahua) & US-Mexico borderlands"
+      "en": "Northern Mexico (Sonora, Chihuahua) & US-Mexico borderlands",
+      "de": "Nordmexiko (Sonora, Chihuahua) und US-mexikanisches Grenzgebiet",
+      "es": "Norte de México (Sonora, Chihuahua) y tierras fronterizas entre EE. UU. y México",
+      "fr": "Nord du Mexique (Sonora, Chihuahua) et zones frontalières États-Unis-Mexique",
+      "ro": "Nordul Mexicului (Sonora, Chihuahua) și zona de frontieră SUA-Mexic"
     },
     "note": {
-      "en": "Sonoran in origin; became the everyday bread of the whole US Southwest through border and migrant cooking."
+      "en": "Sonoran in origin; became the everyday bread of the whole US Southwest through border and migrant cooking.",
+      "de": "Ursprünglich aus Sonora; wurde durch Grenz- und Migrantenküche zum Alltagsbrot des gesamten US-Südwestens.",
+      "es": "De origen sonorense; se convirtió en el pan cotidiano de todo el suroeste de EE. UU. a través de la cocina fronteriza y migrante.",
+      "fr": "D'origine sonorienne; devenu le pain quotidien de tout le Sud-Ouest américain par la cuisine frontalière et migrante.",
+      "ro": "De origine sonorană; a devenit pâinea de zi cu zi a întregului sud-vest american prin bucătăria de frontieră și a migranților."
     }
   },
   "leaven": "chemical",
@@ -46,7 +54,11 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "all-purpose flour"
+        "en": "all-purpose flour",
+        "de": "Weizenmehl Type 405",
+        "es": "harina de trigo",
+        "fr": "farine de blé",
+        "ro": "făină de grâu"
       }
     },
     {
@@ -65,7 +77,11 @@
       "key": "water",
       "grams": 296,
       "note": {
-        "en": "hot"
+        "en": "hot",
+        "de": "heiß",
+        "es": "caliente",
+        "fr": "chaude",
+        "ro": "fierbinte"
       }
     }
   ],
@@ -73,7 +89,11 @@
     "count": 13,
     "pieceGrams": 64,
     "shape": {
-      "en": "7-8 in (18-20 cm) round"
+      "en": "7-8 in (18-20 cm) round",
+      "de": "runde Scheibe, 18-20 cm",
+      "es": "disco redondo de 18-20 cm",
+      "fr": "disque rond de 18-20 cm",
+      "ro": "disc rotund de 18-20 cm"
     }
   },
   "time": {
@@ -113,7 +133,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Keeps soft several days sealed at room temperature thanks to the fat content; reheat briefly on a dry skillet. Freezes well stacked with parchment."
+      "en": "Keeps soft several days sealed at room temperature thanks to the fat content; reheat briefly on a dry skillet. Freezes well stacked with parchment.",
+      "de": "Dank des Fettgehalts bleibt sie verschlossen bei Raumtemperatur mehrere Tage weich; kurz in einer trockenen Pfanne erhitzen. Lässt sich gut gestapelt mit Backpapier einfrieren.",
+      "es": "Se mantiene suave varios días sellada a temperatura ambiente gracias al contenido de grasa; recalentar brevemente en una sartén seca. Se congela bien apilada con papel de horno.",
+      "fr": "Restent molles plusieurs jours à température ambiante sous vide grâce à la matière grasse; réchauffer brièvement dans une poêle sèche. Se congèlent bien empilées avec du papier sulfurisé.",
+      "ro": "Rămâne moale câteva zile sigilată la temperatura camerei datorită conținutului de grăsime; reîncălzește scurt într-o tigaie uscată. Se congelează bine stivuită cu hârtie de copt."
     }
   },
   "equipment": [
@@ -238,7 +262,11 @@
     "site": "Muy Bueno",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Hydration recalculated from the source's cup measurements using standard gram conversions (125 g/cup flour, 237 g/cup water); notably higher than the source's own self-reported figure."
+      "en": "Hydration recalculated from the source's cup measurements using standard gram conversions (125 g/cup flour, 237 g/cup water); notably higher than the source's own self-reported figure.",
+      "de": "Hydratation aus den Tassenmaßen der Quelle mit Standard-Gramm-Umrechnungen neu berechnet (125 g/Tasse Mehl, 237 g/Tasse Wasser); deutlich höher als der selbst angegebene Wert der Quelle.",
+      "es": "Hidratación recalculada a partir de las medidas en tazas de la fuente usando conversiones estándar a gramos (125 g/taza de harina, 237 g/taza de agua); notablemente más alta que la cifra auto-reportada por la fuente.",
+      "fr": "Hydratation recalculée à partir des mesures en tasses de la source avec des conversions standard en grammes (125 g/tasse de farine, 237 g/tasse d'eau); nettement supérieure au chiffre auto-déclaré par la source.",
+      "ro": "Hidratarea recalculată din măsurătorile în căni ale sursei folosind conversii standard în grame (125 g/cană făină, 237 g/cană apă); semnificativ mai mare decât cifra auto-raportată a sursei."
     }
   },
   "tags": [

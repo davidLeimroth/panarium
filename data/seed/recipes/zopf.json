@@ -24,10 +24,18 @@
   "origin": {
     "country": "CH",
     "region": {
-      "en": "German-speaking Switzerland (nationwide)"
+      "en": "German-speaking Switzerland (nationwide)",
+      "de": "deutschsprachige Schweiz (landesweit)",
+      "es": "Suiza germanófona (en todo el país)",
+      "fr": "Suisse alémanique (dans tout le pays)",
+      "ro": "Elveția germanofonă (la nivel național)"
     },
     "note": {
-      "en": "Traditionally baked and eaten every Sunday morning, a weekly ritual rather than a single annual holiday bread."
+      "en": "Traditionally baked and eaten every Sunday morning, a weekly ritual rather than a single annual holiday bread.",
+      "de": "Traditionell jeden Sonntagmorgen gebacken und gegessen, ein wöchentliches Ritual und kein einmaliges jährliches Festbrot.",
+      "es": "Tradicionalmente horneado y consumido cada domingo por la mañana, un ritual semanal más que un pan festivo anual único.",
+      "fr": "Traditionnellement cuit et mangé chaque dimanche matin, un rituel hebdomadaire plutôt qu'un pain de fête annuel unique.",
+      "ro": "Tradițional copt și mâncat în fiecare duminică dimineața, un ritual săptămânal mai degrabă decât o pâine festivă anuală unică."
     }
   },
   "leaven": "yeast",
@@ -50,7 +58,11 @@
       "key": "flour:wheat-white",
       "grams": 1000,
       "note": {
-        "en": "Zopfmehl or fine white flour"
+        "en": "Zopfmehl or fine white flour",
+        "de": "Zopfmehl oder feines Weißmehl",
+        "es": "Zopfmehl o harina blanca fina",
+        "fr": "Zopfmehl ou farine blanche fine",
+        "ro": "Zopfmehl sau făină albă fină"
       }
     },
     {
@@ -69,14 +81,22 @@
       "key": "butter",
       "grams": 120,
       "note": {
-        "en": "soft"
+        "en": "soft",
+        "de": "weich",
+        "es": "blanda",
+        "fr": "mou",
+        "ro": "moale"
       }
     },
     {
       "key": "egg",
       "grams": 55,
       "note": {
-        "en": "one whole egg, worked into the dough"
+        "en": "one whole egg, worked into the dough",
+        "de": "ein ganzes Ei, in den Teig gearbeitet",
+        "es": "un huevo entero, incorporado a la masa",
+        "fr": "un œuf entier, incorporé à la pâte",
+        "ro": "un ou întreg, lucrat în aluat"
       }
     },
     {
@@ -88,7 +108,11 @@
     "count": 1,
     "pieceGrams": 1825,
     "shape": {
-      "en": "two-strand braid"
+      "en": "two-strand braid",
+      "de": "Zweistrangzopf",
+      "es": "trenza de dos cabos",
+      "fr": "tresse à deux brins",
+      "ro": "împletitură din două șuvițe"
     }
   },
   "time": {
@@ -130,7 +154,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the first two days, the butter and egg keep it softer longer than a lean loaf. Lovely toasted on day three."
+      "en": "Best the first two days, the butter and egg keep it softer longer than a lean loaf. Lovely toasted on day three.",
+      "de": "Am besten in den ersten zwei Tagen, Butter und Ei halten es länger weich als einen mageren Laib. Am dritten Tag schön getoastet.",
+      "es": "Mejor los primeros dos días, la mantequilla y el huevo lo mantienen más suave más tiempo que un pan magro. Encantador tostado al tercer día.",
+      "fr": "Meilleur les deux premiers jours, le beurre et l'œuf le gardent plus moelleux plus longtemps qu'un pain maigre. Délicieux grillé le troisième jour.",
+      "ro": "Cel mai bun în primele două zile, untul și oul îl mențin mai moale mai mult timp decât o pâine slabă. Minunat prăjit în a treia zi."
     }
   },
   "equipment": [
@@ -240,7 +268,11 @@
     "site": "Schweizer Brot",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Egg wash treated as a second brushing of the dough's own egg rather than a separate yolk; scaled to one standard loaf."
+      "en": "Egg wash treated as a second brushing of the dough's own egg rather than a separate yolk; scaled to one standard loaf.",
+      "de": "Eierwasche als zweites Bestreichen des eigenen Teigeis behandelt, nicht als separates Eigelb; auf einen Standardlaib skaliert.",
+      "es": "Barniz de huevo tratado como un segundo pincelado del huevo de la propia masa en lugar de una yema separada; escalado a una hogaza estándar.",
+      "fr": "Dorerure traitée comme un deuxième badigeonnage de l'œuf de la pâte elle-même plutôt qu'un jaune séparé; adapté à un pain standard.",
+      "ro": "Unsul de ou tratat ca o a doua ungere cu propriul ou al aluatului, nu ca un gălbenuș separat; scalat la o pâine standard."
     }
   },
   "tags": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Swabia (Baden-Württemberg)"
+      "en": "Swabia (Baden-Württemberg)",
+      "de": "Schwaben (Baden-Württemberg)",
+      "es": "Suabia (Baden-Wurtemberg)",
+      "fr": "Souabe (Bade-Wurtemberg)",
+      "ro": "Suebia (Baden-Württemberg)"
     },
     "note": {
-      "en": "Named for the 'netzen' (wetting) technique: the shaped loaf is repeatedly moistened by hand instead of being scored, so the baked crust stays smooth and glossy rather than developing a scored ausbund."
+      "en": "Named for the 'netzen' (wetting) technique: the shaped loaf is repeatedly moistened by hand instead of being scored, so the baked crust stays smooth and glossy rather than developing a scored ausbund.",
+      "de": "Benannt nach der Netzen-Technik: Der geformte Laib wird wiederholt von Hand befeuchtet statt eingeschnitten, sodass die gebackene Kruste glatt und glänzend bleibt statt einen eingeritzten Ausbund zu entwickeln.",
+      "es": "Nombrado por la técnica de netzen (humedecer): la hogaza moldeada se humedece repetidamente a mano en lugar de marcarse, por lo que la corteza horneada se mantiene lisa y brillante en lugar de desarrollar un ausbund marcado.",
+      "fr": "Nommé d'après la technique netzen (mouillage): le pain façonné est humidifié à la main à plusieurs reprises au lieu d'être scarifié, de sorte que la croûte cuite reste lisse et brillante plutôt que de développer un ausbund incisé.",
+      "ro": "Denumită după tehnica netzen (umezire): pâinea modelată este umezită repetat manual în loc să fie crestată, astfel încât crusta coaptă rămâne netedă și lucioasă în loc să dezvolte un ausbund crestat."
     }
   },
   "leaven": "hybrid",
@@ -60,28 +68,44 @@
       "key": "flour:spelt-whole",
       "grams": 124,
       "note": {
-        "en": "Dinkelvollkornmehl, in the cold preferment"
+        "en": "Dinkelvollkornmehl, in the cold preferment",
+        "de": "Dinkelvollkornmehl, im kalten Vorteig",
+        "es": "Dinkelvollkornmehl, en el prefermento frío",
+        "fr": "Dinkelvollkornmehl, dans le préferment froid",
+        "ro": "Dinkelvollkornmehl, în prefermentul rece"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 185,
       "note": {
-        "en": "Weizenmehl Type 1050"
+        "en": "Weizenmehl Type 1050",
+        "de": "Weizenmehl Type 1050",
+        "es": "Weizenmehl Type 1050",
+        "fr": "Weizenmehl Type 1050",
+        "ro": "Weizenmehl Type 1050"
       }
     },
     {
       "key": "flour:rye",
       "grams": 155,
       "note": {
-        "en": "Roggenmehl Type 1150"
+        "en": "Roggenmehl Type 1150",
+        "de": "Roggenmehl Type 1150",
+        "es": "Roggenmehl Type 1150",
+        "fr": "Roggenmehl Type 1150",
+        "ro": "Roggenmehl Type 1150"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 124,
       "note": {
-        "en": "Weizenmehl Type 550"
+        "en": "Weizenmehl Type 550",
+        "de": "Weizenmehl Type 550",
+        "es": "Weizenmehl Type 550",
+        "fr": "Weizenmehl Type 550",
+        "ro": "Weizenmehl Type 550"
       }
     },
     {
@@ -102,14 +126,22 @@
       "key": "fresh-yeast",
       "grams": 6.2,
       "note": {
-        "en": "split between the preferment and main dough"
+        "en": "split between the preferment and main dough",
+        "de": "aufgeteilt zwischen Vorteig und Hauptteig",
+        "es": "dividido entre el prefermento y la masa principal",
+        "fr": "réparti entre le préferment et la pâte principale",
+        "ro": "împărțit între preferment și aluatul principal"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 62,
       "note": {
-        "en": "mature wheat starter (Anstellgut), added directly to the main dough"
+        "en": "mature wheat starter (Anstellgut), added directly to the main dough",
+        "de": "reifer Weizensauerteig (Anstellgut), direkt zum Hauptteig gegeben",
+        "es": "prefermento de trigo maduro (Anstellgut), añadido directamente a la masa principal",
+        "fr": "levain de blé mature (Anstellgut), ajouté directement à la pâte principale",
+        "ro": "maia de grâu matură (Anstellgut), adăugată direct în aluatul principal"
       }
     },
     {
@@ -125,7 +157,11 @@
     "count": 1,
     "pieceGrams": 1150,
     "shape": {
-      "en": "round hearth loaf, un-scored, wet-shaped"
+      "en": "round hearth loaf, un-scored, wet-shaped",
+      "de": "runder Herdlaib, ungeritzt, netzen-geformt",
+      "es": "hogaza redonda de hogar, sin marcar, moldeada humedecida",
+      "fr": "pain rond de four, non scarifié, façonné par mouillage",
+      "ro": "pâine rotundă de vatră, necrestată, modelată prin umezire"
     }
   },
   "time": {
@@ -167,7 +203,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Best in the first two days; the smooth crust softens rather than staying crisp."
+      "en": "Best in the first two days; the smooth crust softens rather than staying crisp.",
+      "de": "Am besten in den ersten zwei Tagen; die glatte Kruste wird eher weich als knusprig.",
+      "es": "Mejor en los primeros dos días; la corteza lisa se ablanda en lugar de mantenerse crujiente.",
+      "fr": "Meilleur dans les deux premiers jours; la croûte lisse ramollit plutôt que de rester croustillante.",
+      "ro": "Cel mai bun în primele două zile; crusta netedă se înmoaie în loc să rămână crocantă."
     }
   },
   "equipment": [
@@ -293,7 +333,11 @@
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased; fresh-yeast total combines the small amounts used in both the preferment and the main dough; bulk/proof split is estimated to match the source's overall stated time."
+      "en": "Method paraphrased; fresh-yeast total combines the small amounts used in both the preferment and the main dough; bulk/proof split is estimated to match the source's overall stated time.",
+      "de": "Methode paraphrasiert; die Gesamtfrischhefe kombiniert die kleinen Mengen, die sowohl im Vorteig als auch im Hauptteig verwendet werden; die Aufteilung Stockgare/Stückgare ist geschätzt, um der angegebenen Gesamtzeit der Quelle zu entsprechen.",
+      "es": "Método parafraseado; el total de levadura fresca combina las pequeñas cantidades usadas tanto en el prefermento como en la masa principal; la división de fermentación a granel/prueba se estima para coincidir con el tiempo total indicado por la fuente.",
+      "fr": "Méthode paraphrasée; le total de levure fraîche combine les petites quantités utilisées à la fois dans le préferment et dans la pâte principale; la répartition fermentation en masse/apprêt est estimée pour correspondre au temps total indiqué par la source.",
+      "ro": "Metoda parafrazată; totalul de drojdie proaspătă combină cantitățile mici folosite atât în preferment cât și în aluatul principal; împărțirea fermentare în masă/dospire este estimată pentru a se potrivi cu timpul total declarat al sursei."
     }
   },
   "tags": [

@@ -22,10 +22,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Turin, Piedmont"
+      "en": "Turin, Piedmont",
+      "de": "Turin, Piemont",
+      "es": "Turín, Piamonte",
+      "fr": "Turin, Piémont",
+      "ro": "Turin, Piemont"
     },
     "note": {
-      "en": "The hand-stretched 'stirato' shape (rather than machine-rolled) is what distinguishes true Turin grissini from generic breadstick snacks."
+      "en": "The hand-stretched 'stirato' shape (rather than machine-rolled) is what distinguishes true Turin grissini from generic breadstick snacks.",
+      "de": "Die handgezogene 'Stirato'-Form (statt maschinell gerollt) unterscheidet echte Turiner Grissini von generischen Brotstangen-Snacks.",
+      "es": "La forma 'stirato' estirada a mano (en lugar de enrollada a máquina) es lo que distingue a los grissini verdaderos de Turín de los snacks de pan genéricos.",
+      "fr": "La forme 'stirato' étirée à la main (plutôt que roulée à la machine) est ce qui distingue les vrais grissini de Turin des snacks de pain génériques.",
+      "ro": "Forma 'stirato' întinsă manual (nu rulată la mașină) este cea care deosebește grissini-ul adevărat de Turin de snackurile generice de pâine."
     }
   },
   "leaven": "yeast",
@@ -55,7 +63,11 @@
       "key": "olive-oil",
       "grams": 50,
       "note": {
-        "en": "plus extra for brushing before baking"
+        "en": "plus extra for brushing before baking",
+        "de": "plus extra zum Bestreichen vor dem Backen",
+        "es": "más extra para untar antes de hornear",
+        "fr": "plus un peu pour badigeonner avant la cuisson",
+        "ro": "plus extra pentru uns înainte de coacere"
       }
     },
     {
@@ -71,7 +83,11 @@
     "count": 20,
     "pieceGrams": 41,
     "shape": {
-      "en": "hand-stretched thin stick, about 25-30 cm long"
+      "en": "hand-stretched thin stick, about 25-30 cm long",
+      "de": "handgezogener dünner Stab, etwa 25-30 cm lang",
+      "es": "bastón fino estirado a mano, de unos 25-30 cm de largo",
+      "fr": "bâton fin étiré à la main, d'environ 25-30 cm de long",
+      "ro": "băț subțire întins manual, de aproximativ 25-30 cm lungime"
     }
   },
   "time": {
@@ -111,7 +127,11 @@
     "freshDays": 20,
     "freezes": true,
     "note": {
-      "en": "Baked down to almost no moisture, so it stays crisp in a sealed tin for weeks, the whole point of a grissino is that it never truly goes stale."
+      "en": "Baked down to almost no moisture, so it stays crisp in a sealed tin for weeks, the whole point of a grissino is that it never truly goes stale.",
+      "de": "Auf fast keine Feuchtigkeit heruntergebacken, bleibt es wochenlang knusprig in einer verschlossenen Dose; der ganze Sinn eines Grissino ist, dass es nie wirklich altbacken wird.",
+      "es": "Horneado hasta casi no tener humedad, por lo que se mantiene crujiente en una lata sellada durante semanas; el sentido de un grissino es que nunca se pone realmente duro.",
+      "fr": "Cuit jusqu'à presque aucune humidité, donc il reste croustillant dans une boîte hermétique pendant des semaines; tout l'intérêt d'un grissino est qu'il ne rassit jamais vraiment.",
+      "ro": "Copt până la aproape zero umiditate, așa că rămâne crocant într-o cutie etanșă săptămâni întregi; tot scopul unui grissino este că nu se învechește niciodată cu adevărat."
     }
   },
   "equipment": [
@@ -204,7 +224,11 @@
     "site": "Sommelier Suite",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "This version uses olive oil only; some historic Turin bakery formulas instead work lard (strutto) and diastatic malt into the dough, noted here as background but not reflected in these grams."
+      "en": "This version uses olive oil only; some historic Turin bakery formulas instead work lard (strutto) and diastatic malt into the dough, noted here as background but not reflected in these grams.",
+      "de": "Diese Version verwendet nur Olivenöl; einige historische Turiner Bäckereirezepte verarbeiten stattdessen Schmalz (Strutto) und diastatisches Malz in den Teig, hier als Hintergrund vermerkt, aber nicht in diesen Grammangaben berücksichtigt.",
+      "es": "Esta versión usa solo aceite de oliva; algunas fórmulas históricas de panaderías de Turín incorporan manteca de cerdo (strutto) y malta diastásica a la masa, anotado aquí como contexto pero no reflejado en estos gramos.",
+      "fr": "Cette version n'utilise que de l'huile d'olive; certaines formules historiques des boulangeries de Turin incorporent du saindoux (strutto) et du malt diastasique dans la pâte, noté ici comme contexte mais pas reflété dans ces grammes.",
+      "ro": "Această versiune folosește doar ulei de măsline; unele rețete istorice de brutărie din Turin încorporează untură (strutto) și malț diastatic în aluat, notate aici ca context dar nereflectate în aceste grame."
     }
   },
   "tags": [

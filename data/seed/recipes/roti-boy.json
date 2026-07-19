@@ -23,10 +23,18 @@
   "origin": {
     "country": "MY",
     "region": {
-      "en": "Penang, sold nationwide and exported across Asia"
+      "en": "Penang, sold nationwide and exported across Asia",
+      "de": "Penang, landesweit erhältlich und nach ganz Asien exportiert",
+      "es": "Penang, vendido en todo el país y exportado por toda Asia",
+      "fr": "Penang, vendu dans tout le pays et exporté dans toute l'Asie",
+      "ro": "Penang, vândut la nivel național și exportat în toată Asia"
     },
     "note": {
-      "en": "Created in 1998 at a Bukit Mertajam bakery; the name means 'bread boy' and the chain popularized the bun as 'Rotiboy', later widely copied under names like Papparoti."
+      "en": "Created in 1998 at a Bukit Mertajam bakery; the name means 'bread boy' and the chain popularized the bun as 'Rotiboy', later widely copied under names like Papparoti.",
+      "de": "1998 in einer Bäckerei in Bukit Mertajam kreiert; der Name bedeutet 'Brotjunge' und die Kette machte das Brötchen als 'Rotiboy' bekannt; später vielfach kopiert unter Namen wie Papparoti.",
+      "es": "Creado en 1998 en una panadería de Bukit Mertajam; el nombre significa 'chico del pan' y la cadena popularizó el bollo como 'Rotiboy', más tarde ampliamente copiado bajo nombres como Papparoti.",
+      "fr": "Créé en 1998 dans une boulangerie de Bukit Mertajam; le nom signifie 'garçon du pain' et la chaîne a popularisé le petit pain sous le nom de 'Rotiboy', plus tard largement copié sous des noms comme Papparoti.",
+      "ro": "Creat în 1998 la o brutărie din Bukit Mertajam; numele înseamnă 'băiatul pâinii' iar lanțul a popularizat chifla ca 'Rotiboy', mai târziu copiată pe scară largă sub nume precum Papparoti."
     }
   },
   "leaven": "yeast",
@@ -50,7 +58,11 @@
       "key": "flour:wheat-white",
       "grams": 200,
       "note": {
-        "en": "bread flour, for the dough"
+        "en": "bread flour, for the dough",
+        "de": "Brotmehl, für den Teig",
+        "es": "harina de pan, para la masa",
+        "fr": "farine à pain, pour la pâte",
+        "ro": "făină de pâine, pentru aluat"
       }
     },
     {
@@ -65,7 +77,11 @@
       "key": "milk",
       "grams": 35,
       "note": {
-        "en": "dry milk powder; not counted toward hydration"
+        "en": "dry milk powder; not counted toward hydration",
+        "de": "Milchpulver; nicht zur Hydratation gerechnet",
+        "es": "leche en polvo; no contabilizada en la hidratación",
+        "fr": "lait en poudre; non compté dans l'hydratation",
+        "ro": "lapte praf; nu se numără la hidratare"
       }
     },
     {
@@ -84,35 +100,55 @@
       "key": "butter",
       "grams": 20,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
       "key": "butter",
       "grams": 60,
       "note": {
-        "en": "filling, frozen into six 10g cubes"
+        "en": "filling, frozen into six 10g cubes",
+        "de": "Füllung, zu sechs 10-g-Würfeln gefroren",
+        "es": "relleno, congelado en seis cubos de 10 g",
+        "fr": "garniture, congelée en six cubes de 10 g",
+        "ro": "umplutură, congelată în șase cuburi de 10 g"
       }
     },
     {
       "key": "butter",
       "grams": 60,
       "note": {
-        "en": "for the coffee topping"
+        "en": "for the coffee topping",
+        "de": "für den Kaffeebelag",
+        "es": "para la cobertura de café",
+        "fr": "pour le dessus au café",
+        "ro": "pentru toppingul de cafea"
       }
     },
     {
       "key": "sugar",
       "grams": 60,
       "note": {
-        "en": "for the coffee topping"
+        "en": "for the coffee topping",
+        "de": "für den Kaffeebelag",
+        "es": "para la cobertura de café",
+        "fr": "pour le dessus au café",
+        "ro": "pentru toppingul de cafea"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for the coffee topping"
+        "en": "for the coffee topping",
+        "de": "für den Kaffeebelag",
+        "es": "para la cobertura de café",
+        "fr": "pour le dessus au café",
+        "ro": "pentru toppingul de cafea"
       }
     },
     {
@@ -129,7 +165,11 @@
       "key": "water",
       "grams": 15,
       "note": {
-        "en": "boiling, to dissolve the coffee for the topping"
+        "en": "boiling, to dissolve the coffee for the topping",
+        "de": "kochend, um den Kaffee für den Belag aufzulösen",
+        "es": "hirviendo, para disolver el café para la cobertura",
+        "fr": "bouillante, pour dissoudre le café du dessus",
+        "ro": "fierbinte, pentru a dizolva cafeaua pentru topping"
       }
     },
     {
@@ -147,7 +187,11 @@
     "count": 6,
     "pieceGrams": 129,
     "shape": {
-      "en": "round bun, butter-filled, coffee cookie topping, ~8 cm"
+      "en": "round bun, butter-filled, coffee cookie topping, ~8 cm",
+      "de": "rundes Brötchen, mit Butter gefüllt, Keksbelag mit Kaffeegeschmack, ~8 cm",
+      "es": "bollo redondo, relleno de mantequilla, cobertura de galleta de café, ~8 cm",
+      "fr": "petit pain rond, farci au beurre, dessus biscuité au café, ~8 cm",
+      "ro": "chiflă rotundă, umplută cu unt, topping de biscuit cu cafea, ~8 cm"
     }
   },
   "time": {
@@ -189,7 +233,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best warm from the oven while the butter center is still melty; reheat briefly to re-soften. Freezes acceptably, though the topping loses some crispness."
+      "en": "Best warm from the oven while the butter center is still melty; reheat briefly to re-soften. Freezes acceptably, though the topping loses some crispness.",
+      "de": "Am besten warm aus dem Ofen, solange das Butterzentrum noch geschmolzen ist; kurz aufwärmen, um es wieder weich zu machen. Lässt sich akzeptabel einfrieren, auch wenn der Belag etwas an Knusprigkeit verliert.",
+      "es": "Mejor caliente del horno mientras el centro de mantequilla aún está fundido; recalentar brevemente para reablandar. Se congela aceptablemente, aunque la cobertura pierde algo de crujiente.",
+      "fr": "Meilleur tiède du four quand le cœur de beurre est encore fondu; réchauffer brièvement pour le ramollir. Se congèle acceptablement, même si le dessus perd un peu de croquant.",
+      "ro": "Cel mai bun cald din cuptor cât centrul de unt este încă topit; reîncălzește scurt pentru a se înmuia. Îngheață acceptabil, deși toppingul pierde din crocăneală."
     }
   },
   "equipment": [
@@ -299,7 +347,11 @@
     "site": "Taste of Asian Food",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Formula percentages describe the bread dough only; the coffee topping and butter filling are listed separately and excluded, as with melonpan. Salt increased slightly for balance."
+      "en": "Formula percentages describe the bread dough only; the coffee topping and butter filling are listed separately and excluded, as with melonpan. Salt increased slightly for balance.",
+      "de": "Die prozentualen Angaben beziehen sich nur auf den Brotteig; der Kaffeebelag und die Butterfüllung sind separat aufgeführt und ausgeschlossen, wie bei Melonpan. Salz leicht erhöht, um die Balance zu verbessern.",
+      "es": "Los porcentajes de la fórmula describen solo la masa del pan; la cobertura de café y el relleno de mantequilla se enumeran por separado y se excluyen, como con el melonpan. La sal aumentó ligeramente para equilibrar.",
+      "fr": "Les pourcentages de la formule décrivent uniquement la pâte à pain; le dessus au café et la garniture au beurre sont listés séparément et exclus, comme pour le melonpan. Le sel a été légèrement augmenté pour l'équilibre.",
+      "ro": "Procentele formulei descriu doar aluatul de pâine; toppingul de cafea și umplutura de unt sunt listate separat și excluse, ca la melonpan. Sarea ușor crescută pentru echilibru."
     }
   },
   "tags": [

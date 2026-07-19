@@ -22,10 +22,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "Khorasan wheat is ancient (Egypt/Fertile Crescent origins); 'Kamut' is a modern American trademark for the grain, and this sourdough treatment is a contemporary home-baking formula."
+      "en": "Khorasan wheat is ancient (Egypt/Fertile Crescent origins); 'Kamut' is a modern American trademark for the grain, and this sourdough treatment is a contemporary home-baking formula.",
+      "de": "Khorasan-Weizen ist uralt (Ursprünge in Ägypten/Fruchtbarem Halbmond); 'Kamut' ist eine moderne amerikanische Marke für dieses Getreide, und diese Sauerteigbehandlung ist eine zeitgenössische Hausbackformel.",
+      "es": "El trigo Khorasan es antiguo (orígenes en Egipto/ Creciente Fértil); 'Kamut' es una marca comercial estadounidense moderna del grano, y este tratamiento de masa madre es una fórmula contemporánea de panadería casera.",
+      "fr": "Le blé Khorasan est ancien (origines Égypte/Croissant Fertile); 'Kamut' est une marque commerciale américaine moderne pour cette céréale, et ce traitement au levain est une formule contemporaine de boulangerie maison.",
+      "ro": "Grâul Khorasan este străvechi (originar din Egipt/Semiluna Fertilă); 'Kamut' este un trademark american modern pentru acest cereal, iar acest tratament cu maia este o formulă contemporană de copt acasă."
     }
   },
   "leaven": "sourdough",
@@ -50,14 +58,22 @@
       "key": "flour:wheat-white",
       "grams": 300,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
       "key": "flour:khorasan",
       "grams": 200,
       "note": {
-        "en": "whole grain Kamut"
+        "en": "whole grain Kamut",
+        "de": "Vollkorn-Kamut",
+        "es": "Kamut integral",
+        "fr": "Kamut complet",
+        "ro": "Kamut integral"
       }
     },
     {
@@ -68,7 +84,11 @@
       "key": "sourdough-starter",
       "grams": 75,
       "note": {
-        "en": "active"
+        "en": "active",
+        "de": "aktiv",
+        "es": "activa",
+        "fr": "actif",
+        "ro": "activă"
       }
     },
     {
@@ -80,7 +100,11 @@
     "count": 1,
     "pieceGrams": 870,
     "shape": {
-      "en": "boule or bâtard"
+      "en": "boule or bâtard",
+      "de": "Boule oder Bâtard",
+      "es": "boule o bâtard",
+      "fr": "boule ou bâtard",
+      "ro": "boule sau bâtard"
     }
   },
   "time": {
@@ -244,7 +268,11 @@
     "site": "Breadtopia",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Used the site's '40% whole grain Kamut' formula, its recommended balance of structure and flavor."
+      "en": "Used the site's '40% whole grain Kamut' formula, its recommended balance of structure and flavor.",
+      "de": "Die '40 % Vollkorn-Kamut'-Formel der Website verwendet, ihre empfohlene Balance aus Struktur und Geschmack.",
+      "es": "Usada la fórmula '40 % Kamut integral' del sitio, su equilibrio recomendado de estructura y sabor.",
+      "fr": "Utilisé la formule '40 % Kamut complet' du site, son équilibre recommandé de structure et de saveur.",
+      "ro": "Folosită formula '40 % Kamut integral' a site-ului, echilibrul său recomandat de structură și aromă."
     }
   },
   "tags": [

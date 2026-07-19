@@ -22,10 +22,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "England, medieval through Tudor times"
+      "en": "England, medieval through Tudor times",
+      "de": "England, Mittelalter bis Tudorzeit",
+      "es": "Inglaterra, desde la Edad Media hasta la epoca Tudor",
+      "fr": "Angleterre, du Moyen Age a l'epoque Tudor",
+      "ro": "Anglia, din Evul Mediu pana in perioada Tudor"
     },
     "note": {
-      "en": "From Old French miscelin, mixture. A co-sown wheat-and-rye crop grown as a hedge against crop failure; the bread it made sat below fine wheat Pandemain but above the coarsest peasant loaves in the medieval bread hierarchy."
+      "en": "From Old French miscelin, mixture. A co-sown wheat-and-rye crop grown as a hedge against crop failure; the bread it made sat below fine wheat Pandemain but above the coarsest peasant loaves in the medieval bread hierarchy.",
+      "de": "Vom altfranzosischen miscelin, Mischung. Ein gemeinsam ausgesates Weizen-Roggen-Getreide als Absicherung gegen Ernteausfall; das daraus gebackene Brot stand unter feinem Weizen-Pandemain, aber uber den grobsten Bauernbroten in der mittelalterlichen Brothierarchie.",
+      "es": "Del frances antiguo miscelin, mezcla. Un cultivo de trigo y centeno sembrados conjuntamente como proteccion contra malas cosechas; el pan que se obtenia estaba por debajo del fino Pandemain de trigo pero por encima de los panes campesinos mas bastos en la jerarquia medieval del pan.",
+      "fr": "Du vieux francais miscelin, melange. Une culture de ble et seigle semes ensemble comme protection contre les mauvaises recoltes; le pain qui en etait fait se situait en dessous du fin pain de ble Pandemain mais au-dessus des pains paysans les plus grossiers dans la hierarchie medievale du pain.",
+      "ro": "Din franceza veche miscelin, amestec. O cultura de grau si secara semanate impreuna ca protectie importiva esecului recoltei; painea facuta din aceasta se afla sub Pandemain-ul fin de grau, dar deasupra celor mai grosolane paini tarancsti in ierarhia medievala a painii."
     }
   },
   "leaven": "sourdough",
@@ -59,28 +67,44 @@
       "key": "flour:wheat-whole",
       "grams": 350,
       "note": {
-        "en": "stoneground wholemeal"
+        "en": "stoneground wholemeal",
+        "de": "Vollkorn, Steinmahlung",
+        "es": "integral molido a piedra",
+        "fr": "complete moulue sur pierre",
+        "ro": "integrala macinata la piatra"
       }
     },
     {
       "key": "flour:rye",
       "grams": 200,
       "note": {
-        "en": "stoneground"
+        "en": "stoneground",
+        "de": "Steinmahlung",
+        "es": "molido a piedra",
+        "fr": "moulue sur pierre",
+        "ro": "macinata la piatra"
       }
     },
     {
       "key": "flour:barley",
       "grams": 100,
       "note": {
-        "en": "stoneground"
+        "en": "stoneground",
+        "de": "Steinmahlung",
+        "es": "molido a piedra",
+        "fr": "moulue sur pierre",
+        "ro": "macinata la piatra"
       }
     },
     {
       "key": "water",
       "grams": 500,
       "note": {
-        "en": "part boiling, part cold, mixed to warm"
+        "en": "part boiling, part cold, mixed to warm",
+        "de": "teils kochend, teils kalt, gemischt auf lauwarm",
+        "es": "parte hirviendo, parte fria, mezclado para que este tibio",
+        "fr": "partie bouillante, partie froide, melange pour etre tiede",
+        "ro": "parte fiarta, parte rece, amestecate sa fie caldute"
       }
     },
     {
@@ -91,7 +115,11 @@
       "key": "sourdough-starter",
       "grams": 200,
       "note": {
-        "en": "active, 100% hydration"
+        "en": "active, 100% hydration",
+        "de": "aktiv, 100 % Hydratation",
+        "es": "activo, 100 % de hidratacion",
+        "fr": "actif, 100 % d'hydratation",
+        "ro": "activ, hidratare 100 %"
       }
     }
   ],
@@ -99,7 +127,11 @@
     "count": 1,
     "pieceGrams": 1200,
     "shape": {
-      "en": "round hearth loaf"
+      "en": "round hearth loaf",
+      "de": "runder Herdlaib",
+      "es": "hogaza redonda de horno",
+      "fr": "pain rond de four",
+      "ro": "paine rotunda de vatra"
     }
   },
   "time": {
@@ -262,7 +294,11 @@
     "site": "Oakden",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Sourdough option used (the source's own 'authentic' choice) over commercial yeast. Percentages include the starter's flour and water, assumed a 100%-hydration white-flour starter."
+      "en": "Sourdough option used (the source's own 'authentic' choice) over commercial yeast. Percentages include the starter's flour and water, assumed a 100%-hydration white-flour starter.",
+      "de": "Sauerteig-Option verwendet (die eigene 'authentische' Wahl der Quelle) statt kommerzieller Hefe. Prozentangaben enthalten das Mehl und Wasser des Starters, angenommen ein 100-%-hydrierter Weizenmehlstarter.",
+      "es": "Opcion de masa madre utilizada (la eleccion 'autentica' de la fuente) en lugar de levadura comercial. Los porcentajes incluyen la harina y el agua del fermento, asumiendo un fermento de harina blanca al 100 % de hidratacion.",
+      "fr": "Option levain utilisee (le choix 'authentique' de la source) plutot que la levure commerciale. Les pourcentages incluent la farine et l'eau du levain, suppose un levain liquide a 100 % d'hydratation a la farine blanche.",
+      "ro": "Optiunea cu maia folosita (alegerea 'autentica' a sursei) in locul drojdiei comerciale. Procentele includ faina si apa maielei, presupunand o maia de faina alba hidratata 100 %."
     }
   },
   "tags": [

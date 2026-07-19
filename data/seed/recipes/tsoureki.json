@@ -23,10 +23,18 @@
   "origin": {
     "country": "GR",
     "region": {
-      "en": "nationwide, with strong bakery traditions around Thessaloniki and the Peloponnese"
+      "en": "nationwide, with strong bakery traditions around Thessaloniki and the Peloponnese",
+      "de": "Landesweit, mit starken Backtraditionen rund um Thessaloniki und den Peloponnes",
+      "es": "En todo el país, con fuertes tradiciones panaderas en Tesalónica y el Peloponeso",
+      "fr": "Dans tout le pays, avec de fortes traditions boulangères autour de Thessalonique et du Péloponnèse",
+      "ro": "La nivel național, cu tradiții puternice de panificație în jurul Salonicului și Peloponezului"
     },
     "note": {
-      "en": "The three braided strands are widely read as a symbol of the Holy Trinity in Greek Orthodox tradition."
+      "en": "The three braided strands are widely read as a symbol of the Holy Trinity in Greek Orthodox tradition.",
+      "de": "Die drei geflochtenen Stränge werden in der griechisch-orthodoxen Tradition weithin als Symbol der Heiligen Dreifaltigkeit gedeutet.",
+      "es": "Las tres trenzas se interpretan ampliamente como un símbolo de la Santísima Trinidad en la tradición ortodoxa griega.",
+      "fr": "Les trois brins tressés sont largement interprétés comme un symbole de la Sainte Trinité dans la tradition orthodoxe grecque.",
+      "ro": "Cele trei șuvițe împletite sunt interpretate pe scară largă ca un simbol al Sfintei Treimi în tradiția ortodoxă greacă."
     }
   },
   "leaven": "yeast",
@@ -53,7 +61,11 @@
       "key": "water",
       "grams": 110,
       "note": {
-        "en": "lukewarm, to bloom the yeast"
+        "en": "lukewarm, to bloom the yeast",
+        "de": "lauwarm, um die Hefe zu aktivieren",
+        "es": "tibia, para activar la levadura",
+        "fr": "tiède, pour faire mousser la levure",
+        "ro": "călduță, pentru a activa drojdia"
       }
     },
     {
@@ -64,14 +76,22 @@
       "key": "milk",
       "grams": 150,
       "note": {
-        "en": "room temperature"
+        "en": "room temperature",
+        "de": "Zimmertemperatur",
+        "es": "temperatura ambiente",
+        "fr": "température ambiante",
+        "ro": "temperatura camerei"
       }
     },
     {
       "key": "butter",
       "grams": 135,
       "note": {
-        "en": "room temperature"
+        "en": "room temperature",
+        "de": "Zimmertemperatur",
+        "es": "temperatura ambiente",
+        "fr": "température ambiante",
+        "ro": "temperatura camerei"
       }
     },
     {
@@ -82,14 +102,22 @@
       "key": "egg",
       "grams": 200,
       "note": {
-        "en": "4 medium eggs, for the dough"
+        "en": "4 medium eggs, for the dough",
+        "de": "4 mittelgroße Eier, für den Teig",
+        "es": "4 huevos medianos, para la masa",
+        "fr": "4 œufs moyens, pour la pâte",
+        "ro": "4 ouă medii, pentru aluat"
       }
     },
     {
       "key": "orange-zest",
       "grams": 5,
       "note": {
-        "en": "zest of 1 orange"
+        "en": "zest of 1 orange",
+        "de": "Schale von 1 Orange",
+        "es": "Ralladura de 1 naranja",
+        "fr": "Zeste de 1 orange",
+        "ro": "Coajă de la 1 portocală"
       }
     },
     {
@@ -112,28 +140,44 @@
       },
       "grams": 3,
       "note": {
-        "en": "ground with a pinch of sugar so it doesn't turn gummy"
+        "en": "ground with a pinch of sugar so it doesn't turn gummy",
+        "de": "Mit einer Prise Zucker gemahlen, damit es nicht klebrig wird",
+        "es": "Molida con una pizca de azúcar para que no se vuelva pastosa",
+        "fr": "Moulu avec une pincée de sucre pour qu'il ne devienne pas collant",
+        "ro": "Măcinat cu un praf de zahăr ca să nu devină lipicios"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "beaten with a little water, for the egg wash"
+        "en": "beaten with a little water, for the egg wash",
+        "de": "Mit etwas Wasser verquirlt, für die Eierwasche",
+        "es": "Batido con un poco de agua, para el barniz de huevo",
+        "fr": "Battu avec un peu d'eau, pour la dorure",
+        "ro": "Bătut cu puțină apă, pentru uns cu ou"
       }
     },
     {
       "key": "almonds",
       "grams": 15,
       "note": {
-        "en": "sliced, scattered on top before baking"
+        "en": "sliced, scattered on top before baking",
+        "de": "In Scheiben geschnitten, vor dem Backen darüber gestreut",
+        "es": "En rodajas, esparcido encima antes de hornear",
+        "fr": "En tranches, dispersé sur le dessus avant cuisson",
+        "ro": "Feliat, presărat deasupra înainte de coacere"
       }
     },
     {
       "key": "egg",
       "grams": 60,
       "note": {
-        "en": "one red-dyed hard-boiled egg tucked into the braid for Easter (festive variant)"
+        "en": "one red-dyed hard-boiled egg tucked into the braid for Easter (festive variant)",
+        "de": "Ein rot gefärbtes hartgekochtes Ei, für Ostern in den Zopf eingeflochten (festliche Variante)",
+        "es": "Un huevo duro teñido de rojo metido en la trenza para Pascua (variante festiva)",
+        "fr": "Un œuf dur teint en rouge glissé dans la tresse pour Pâques (variante festive)",
+        "ro": "Un ou fiert vopsit în roșu ascuns în împletitură pentru Paște (variantă festivă)"
       }
     }
   ],
@@ -141,7 +185,11 @@
     "count": 2,
     "pieceGrams": 870,
     "shape": {
-      "en": "three-strand braid"
+      "en": "three-strand braid",
+      "de": "Dreisträngiger Zopf",
+      "es": "Trenza de tres cabos",
+      "fr": "Tresse à trois brins",
+      "ro": "Împletitură din trei șuvițe"
     }
   },
   "time": {
@@ -183,7 +231,11 @@
     "freshDays": 5.5,
     "freezes": true,
     "note": {
-      "en": "Stays soft wrapped for the better part of a week; a light sugar-syrup brush after baking keeps it tender even longer."
+      "en": "Stays soft wrapped for the better part of a week; a light sugar-syrup brush after baking keeps it tender even longer.",
+      "de": "Eingewickelt bleibt es den größten Teil einer Woche weich; ein leichter Zuckersirup-Pinselstrich nach dem Backen hält es noch länger zart.",
+      "es": "Se mantiene blando envuelto la mayor parte de una semana; un pincelado ligero de almíbar después de hornear lo mantiene tierno aún más tiempo.",
+      "fr": "Reste mou emballé la majeure partie d'une semaine; un léger badigeon de sirop de sucre après cuisson le garde tendre encore plus longtemps.",
+      "ro": "Rămâne moale învelit cea mai mare parte a unei săptămâni; o ușoară ungere cu sirop de zahăr după coacere îl menține fraged și mai mult timp."
     }
   },
   "equipment": [
@@ -309,7 +361,11 @@
     "site": "My Greek Dish",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased; omitted salt to match the source's explicit no-salt formulation, and added the red-egg-in-the-braid detail as a noted festive variant beyond the base recipe."
+      "en": "Method paraphrased; omitted salt to match the source's explicit no-salt formulation, and added the red-egg-in-the-braid detail as a noted festive variant beyond the base recipe.",
+      "de": "Methode paraphrasiert; Salz weggelassen, um der explizit salzlosen Formulierung der Quelle zu entsprechen, und das Detail des roten Eies im Zopf als erwähnte festliche Variante über das Grundrezept hinaus hinzugefügt.",
+      "es": "Método parafraseado; se omitió la sal para coincidir con la formulación explícita sin sal de la fuente, y se añadió el detalle del huevo rojo en la trenza como variante festiva notada más allá de la receta base.",
+      "fr": "Méthode paraphrasée; sel omis pour correspondre à la formulation explicitement sans sel de la source, et ajout du détail de l'œuf rouge dans la tresse comme variante festive notée au-delà de la recette de base.",
+      "ro": "Metodă parafrazată; sarea omisă pentru a corespunde formulării explicite fără sare a sursei, iar detaliul cu oul roșu în împletitură adăugat ca variantă festivă notată dincolo de rețeta de bază."
     }
   },
   "tags": [

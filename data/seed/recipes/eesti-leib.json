@@ -22,10 +22,18 @@
   "origin": {
     "country": "EE",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "partout dans le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Rye has grown in Estonia for over a thousand years; nearly every family keeps its own starter and spice mix."
+      "en": "Rye has grown in Estonia for over a thousand years; nearly every family keeps its own starter and spice mix.",
+      "de": "Roggen wird in Estland seit über tausend Jahren angebaut; fast jede Familie hat ihren eigenen Sauerteig und ihre eigene Gewürzmischung.",
+      "es": "El centeno se cultiva en Estonia desde hace más de mil años; casi todas las familias mantienen su propio fermento y mezcla de especias.",
+      "fr": "Le seigle est cultivé en Estonie depuis plus de mille ans; presque chaque famille conserve son propre levain et son mélange d'épices.",
+      "ro": "Secara se cultivă în Estonia de peste o mie de ani; aproape fiecare familie își păstrează propria maia și amestec de condimente."
     }
   },
   "leaven": "sourdough",
@@ -52,7 +60,11 @@
       "key": "flour:rye-whole",
       "grams": 1500,
       "note": {
-        "en": "split between the overnight leaven and the final dough"
+        "en": "split between the overnight leaven and the final dough",
+        "de": "aufgeteilt zwischen dem Vorteig über Nacht und dem Hauptteig",
+        "es": "repartido entre el fermento nocturno y la masa final",
+        "fr": "réparti entre le levain de nuit et la pâte finale",
+        "ro": "împărțit între maiaua de peste noapte și aluatul final"
       }
     },
     {
@@ -71,7 +83,11 @@
       "key": "salt",
       "grams": 45,
       "note": {
-        "en": "sea salt"
+        "en": "sea salt",
+        "de": "Meersalz",
+        "es": "sal marina",
+        "fr": "sel marin",
+        "ro": "sare de mare"
       }
     },
     {
@@ -86,7 +102,11 @@
       "key": "fennel-seed",
       "grams": 15,
       "note": {
-        "en": "or caraway seeds"
+        "en": "or caraway seeds",
+        "de": "oder Kümmelsamen",
+        "es": "o semillas de alcaravea",
+        "fr": "ou graines de carvi",
+        "ro": "sau semințe de chimen"
       }
     },
     {
@@ -98,7 +118,11 @@
     "count": 2,
     "pieceGrams": 1650,
     "shape": {
-      "en": "loaf-pan loaf or freeform sausage-shaped loaf"
+      "en": "loaf-pan loaf or freeform sausage-shaped loaf",
+      "de": "Kastenlaib oder freigeschobener länglicher Laib",
+      "es": "pan de molde o hogaza alargada de forma libre",
+      "fr": "pain de moule ou pain allongé de forme libre",
+      "ro": "pâine de formă sau pâine alungită modelată liber"
     }
   },
   "time": {
@@ -140,7 +164,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Every family varies the fermentation length, spices and seeds; this version keeps moist about a week."
+      "en": "Every family varies the fermentation length, spices and seeds; this version keeps moist about a week.",
+      "de": "Jede Familie variiert Fermentationsdauer, Gewürze und Samen; diese Version bleibt etwa eine Woche saftig.",
+      "es": "Cada familia varía la duración de la fermentación, las especias y las semillas; esta versión se mantiene húmeda aproximadamente una semana.",
+      "fr": "Chaque famille varie la durée de fermentation, les épices et les graines; cette version reste humide environ une semaine.",
+      "ro": "Fiecare familie variază durata fermentației, condimentele și semințele; această versiune rămâne umedă aproximativ o săptămână."
     }
   },
   "equipment": [
@@ -265,7 +293,11 @@
     "site": "Andrea Tamme",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Starter assumed at 100% hydration to estimate its internal flour/water split for baker's percentages, since the source gives it only by volume."
+      "en": "Starter assumed at 100% hydration to estimate its internal flour/water split for baker's percentages, since the source gives it only by volume.",
+      "de": "Sauerteig als 100 % Hydratation angenommen, um seine interne Mehl-/Wasseraufteilung für die Bäckerprozente zu schätzen, da die Quelle ihn nur nach Volumen angibt.",
+      "es": "Fermento asumido al 100 % de hidratación para estimar su división interna de harina/agua para los porcentajes del panadero, ya que la fuente solo lo da por volumen.",
+      "fr": "Levain supposé à 100 % d'hydratation pour estimer sa répartition interne farine/eau pour les pourcentages du boulanger, car la source ne le donne que par volume.",
+      "ro": "Maia presupusă la 100 % hidratare pentru a estima împărțirea sa internă făină/apă pentru procentele de panificație, deoarece sursa o dă doar după volum."
     }
   },
   "tags": [

@@ -21,10 +21,18 @@
   "origin": {
     "country": "ET",
     "region": {
-      "en": "Ethiopian grain, adapted in modern gluten-free home baking"
+      "en": "Ethiopian grain, adapted in modern gluten-free home baking",
+      "de": "Äthiopisches Getreide, adaptiert für modernes glutenfreies Hausbacken",
+      "es": "Grano etíope, adaptado en la repostería casera moderna sin gluten",
+      "fr": "Grain éthiopien, adapté en boulangerie maison moderne sans gluten",
+      "ro": "Cereal etiopian, adaptat în coacerea casnică modernă fără gluten"
     },
     "note": {
-      "en": "Teff is Ethiopia's staple grain, traditionally fermented into the flatbread injera; this raised, tin-baked sandwich-loaf format is a 21st-century gluten-free-baking adaptation, not a traditional Ethiopian bread."
+      "en": "Teff is Ethiopia's staple grain, traditionally fermented into the flatbread injera; this raised, tin-baked sandwich-loaf format is a 21st-century gluten-free-baking adaptation, not a traditional Ethiopian bread.",
+      "de": "Teff ist Äthiopiens Grundgetreide, traditionell zu Injera-Fladenbrot fermentiert; dieses aufgegangene, in der Kastenform gebackene Sandwichbrot-Format ist eine glutenfreie Backadaption des 21. Jahrhunderts, kein traditionelles äthiopisches Brot.",
+      "es": "El teff es el cereal básico de Etiopía, tradicionalmente fermentado en el pan plano injera; este formato de pan de molde para sándwich es una adaptación sin gluten del siglo XXI, no un pan etíope tradicional.",
+      "fr": "Le tef est la céréale de base de l'Éthiopie, traditionnellement fermentée en pain plat injera; ce format de pain de mie levé cuit en moule est une adaptation sans gluten du XXIe siècle, pas un pain éthiopien traditionnel.",
+      "ro": "Teff-ul este cereala de bază a Etiopiei, fermentată în mod tradițional în lipia injera; acest format de pâine pentru sandvișuri dospită și coaptă în tavă este o adaptare modernă fără gluten din secolul XXI, nu o pâine etiopiană tradițională."
     }
   },
   "leaven": "yeast",
@@ -52,14 +60,22 @@
       "key": "flour:teff",
       "grams": 500,
       "note": {
-        "en": "white/ivory teff flour"
+        "en": "white/ivory teff flour",
+        "de": "weißes/elfenbeinfarbenes Teffmehl",
+        "es": "harina de teff blanca/marfil",
+        "fr": "farine de tef blanche/ivoire",
+        "ro": "făină de teff albă/fildeș"
       }
     },
     {
       "key": "flour:cassava",
       "grams": 100,
       "note": {
-        "en": "tapioca flour or cassava flour"
+        "en": "tapioca flour or cassava flour",
+        "de": "Tapiokamehl oder Maniokmehl",
+        "es": "harina de tapioca o harina de yuca",
+        "fr": "farine de tapioca ou farine de manioc",
+        "ro": "făină de tapioca sau făină de cassava"
       }
     },
     {
@@ -103,7 +119,11 @@
     "count": 1,
     "pieceGrams": 1350,
     "shape": {
-      "en": "Pullman tin loaf, 23 x 10 x 10 cm"
+      "en": "Pullman tin loaf, 23 x 10 x 10 cm",
+      "de": "Pullman-Kastenformlaib, 23 x 10 x 10 cm",
+      "es": "Pan de molde Pullman, 23 x 10 x 10 cm",
+      "fr": "Pain de mie Pullman, 23 x 10 x 10 cm",
+      "ro": "Pâine în tavă Pullman, 23 x 10 x 10 cm"
     }
   },
   "time": {
@@ -144,7 +164,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Gluten-free loaves firm up and dry out faster than wheat bread; slice and freeze whatever will not be eaten within 2-3 days."
+      "en": "Gluten-free loaves firm up and dry out faster than wheat bread; slice and freeze whatever will not be eaten within 2-3 days.",
+      "de": "Glutenfreie Brote werden schneller fest und trocken als Weizenbrot; in Scheiben schneiden und einfrieren, was nicht innerhalb von 2-3 Tagen gegessen wird.",
+      "es": "Los panes sin gluten se endurecen y secan más rápido que el pan de trigo; rebanar y congelar lo que no se consuma en 2-3 días.",
+      "fr": "Les pains sans gluten durcissent et sèchent plus vite que le pain de blé; trancher et congeler ce qui ne sera pas mangé dans les 2-3 jours.",
+      "ro": "Pâinile fără gluten se întăresc și se usucă mai repede decât pâinea de grâu; feliază și congelează tot ce nu se va mânca în 2-3 zile."
     }
   },
   "equipment": [
@@ -269,7 +293,11 @@
     "site": "George Eats",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Water recorded at the midpoint of the source's 750-850g range; tapioca/cassava was recorded under the taxonomy's cassava flour type since the source treats the two as interchangeable."
+      "en": "Water recorded at the midpoint of the source's 750-850g range; tapioca/cassava was recorded under the taxonomy's cassava flour type since the source treats the two as interchangeable.",
+      "de": "Wassermenge am Mittelpunkt der Spanne der Quelle von 750-850 g notiert; Tapioka/Maniok wurde unter dem Maniokmehl-Typ der Taxonomie erfasst, da die Quelle beide als austauschbar behandelt.",
+      "es": "Agua registrada en el punto medio del rango de 750-850 g de la fuente; tapioca/yuca se registró bajo el tipo de harina de yuca de la taxonomía, ya que la fuente trata ambas como intercambiables.",
+      "fr": "Eau enregistrée au milieu de la fourchette de 750-850 g de la source; tapioca/manioc a été enregistré sous le type farine de manioc de la taxonomie puisque la source les traite comme interchangeables.",
+      "ro": "Apa înregistrată la mijlocul intervalului de 750-850 g al sursei; tapioca/cassava a fost înregistrată sub tipul de făină de cassava din taxonomie, deoarece sursa le tratează ca interschimbabile."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "PL",
     "region": {
-      "en": "Ashkenazi communities of Poland and Ukraine; later reshaped in New York's Jewish bakeries"
+      "en": "Ashkenazi communities of Poland and Ukraine; later reshaped in New York's Jewish bakeries",
+      "de": "Aschkenasische Gemeinden Polens und der Ukraine; später in New Yorker jüdischen Bäckereien neu interpretiert",
+      "es": "Comunidades asquenazíes de Polonia y Ucrania; más tarde reformada en las panaderías judías de Nueva York",
+      "fr": "Communautés ashkénazes de Pologne et d'Ukraine; plus tard réinventée dans les boulangeries juives de New York",
+      "ro": "Comunitățile așkenaze din Polonia și Ucraina; mai târziu remodelată în brutăriile evreiești din New York"
     },
     "note": {
-      "en": "Ashkenazi bakers rolled leftover challah or rugelach dough with sugar, cinnamon or chocolate to avoid waste. Poland and Ukraine both claim it, and it is unrelated to the taller Slavic Easter cake that shares its name."
+      "en": "Ashkenazi bakers rolled leftover challah or rugelach dough with sugar, cinnamon or chocolate to avoid waste. Poland and Ukraine both claim it, and it is unrelated to the taller Slavic Easter cake that shares its name.",
+      "de": "Aschkenasische Bäcker rollten übrigen Challah- oder Rugelach-Teig mit Zucker, Zimt oder Schokolade, um Abfall zu vermeiden. Polen und die Ukraine beanspruchen es beide, und es ist nicht verwandt mit dem höheren slawischen Osterkuchen, der denselben Namen trägt.",
+      "es": "Los panaderos asquenazíes enrollaban la masa sobrante de challah o rugelach con azúcar, canela o chocolate para evitar desperdicios. Polonia y Ucrania lo reclaman, y no está relacionado con el pastel eslavo de Pascua más alto que comparte su nombre.",
+      "fr": "Les boulangers ashkénazes roulaient la pâte à challah ou rugelach restante avec du sucre, de la cannelle ou du chocolat pour éviter le gaspillage. La Pologne et l'Ukraine le revendiquent toutes deux, et il n'a aucun lien avec le gâteau de Pâques slave plus haut qui porte le même nom.",
+      "ro": "Brutarii așkenazi rulau aluatul rămas de challah sau rugelach cu zahăr, scorțișoară sau ciocolată pentru a evita risipa. Atât Polonia cât și Ucraina îl revendică, și nu are legătură cu prăjitura slavă de Paște mai înaltă care îi poartă același nume."
     }
   },
   "leaven": "yeast",
@@ -50,28 +58,44 @@
       "key": "flour:wheat-white",
       "grams": 750,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
       "key": "water",
       "grams": 255,
       "note": {
-        "en": "lukewarm; source gives a 227-283g range depending on flour absorption"
+        "en": "lukewarm; source gives a 227-283g range depending on flour absorption",
+        "de": "lauwarm; Quelle gibt eine Spanne von 227–283 g je nach Mehlaufnahme an",
+        "es": "tibia; la fuente da un rango de 227–283 g según la absorción de la harina",
+        "fr": "tiède; la source donne une fourchette de 227–283 g selon l'absorption de la farine",
+        "ro": "călduță; sursa oferă un interval de 227–283 g în funcție de absorbția făinii"
       }
     },
     {
       "key": "egg",
       "grams": 100,
       "note": {
-        "en": "2 large eggs, in the dough"
+        "en": "2 large eggs, in the dough",
+        "de": "2 große Eier, im Teig",
+        "es": "2 huevos grandes, en la masa",
+        "fr": "2 gros œufs, dans la pâte",
+        "ro": "2 ouă mari, în aluat"
       }
     },
     {
       "key": "milk",
       "grams": 37,
       "note": {
-        "en": "dry milk powder; not counted toward hydration since it adds no free liquid"
+        "en": "dry milk powder; not counted toward hydration since it adds no free liquid",
+        "de": "Trockenmilchpulver; nicht zur Hydratation gezählt, da es keine freie Flüssigkeit hinzufügt",
+        "es": "leche en polvo; no se cuenta en la hidratación porque no añade líquido libre",
+        "fr": "lait en poudre; non compté dans l'hydratation car il n'ajoute pas de liquide libre",
+        "ro": "praf de lapte; nu se numără la hidratare deoarece nu adaugă lichid liber"
       }
     },
     {
@@ -82,14 +106,22 @@
       "key": "cinnamon",
       "grams": 3,
       "note": {
-        "en": "ground; split across the dough, filling and streusel topping"
+        "en": "ground; split across the dough, filling and streusel topping",
+        "de": "gemahlen; aufgeteilt auf Teig, Füllung und Streusel",
+        "es": "molida; repartida entre la masa, el relleno y la cobertura de streusel",
+        "fr": "moulue; répartie entre la pâte, la garniture et le streusel",
+        "ro": "măcinată; împărțită între aluat, umplutură și topping streusel"
       }
     },
     {
       "key": "sugar",
       "grams": 198,
       "note": {
-        "en": "granulated: 99g in the dough, 99g in the filling"
+        "en": "granulated: 99g in the dough, 99g in the filling",
+        "de": "Kristallzucker: 99 g im Teig, 99 g in der Füllung",
+        "es": "granulado: 99 g en la masa, 99 g en el relleno",
+        "fr": "en poudre: 99 g dans la pâte, 99 g dans la garniture",
+        "ro": "granulat: 99 g în aluat, 99 g în umplutură"
       }
     },
     {
@@ -100,21 +132,33 @@
       "key": "butter",
       "grams": 256,
       "note": {
-        "en": "256g total: 142g in the dough, 57g melted into the filling, 57g melted into the streusel"
+        "en": "256g total: 142g in the dough, 57g melted into the filling, 57g melted into the streusel",
+        "de": "256 g insgesamt: 142 g im Teig, 57 g geschmolzen in der Füllung, 57 g geschmolzen in den Streuseln",
+        "es": "256 g en total: 142 g en la masa, 57 g derretidos en el relleno, 57 g derretidos en el streusel",
+        "fr": "256 g au total: 142 g dans la pâte, 57 g fondus dans la garniture, 57 g fondus dans le streusel",
+        "ro": "256 g total: 142 g în aluat, 57 g topiți în umplutură, 57 g topiți în streusel"
       }
     },
     {
       "key": "vanilla",
       "grams": 14,
       "note": {
-        "en": "extract"
+        "en": "extract",
+        "de": "Extrakt",
+        "es": "extracto",
+        "fr": "extrait",
+        "ro": "extract"
       }
     },
     {
       "key": "cocoa",
       "grams": 28,
       "note": {
-        "en": "unsweetened, in the filling, plus a pinch of espresso powder to deepen the chocolate flavor"
+        "en": "unsweetened, in the filling, plus a pinch of espresso powder to deepen the chocolate flavor",
+        "de": "ungesüßt, in der Füllung, plus eine Prise Espressopulver zur Verstärkung des Schokoladengeschmacks",
+        "es": "sin endulzar, en el relleno, más una pizca de café en polvo para realzar el sabor a chocolate",
+        "fr": "non sucré, dans la garniture, plus une pincée de café en poudre pour renforcer le goût du chocolat",
+        "ro": "neîndulcit, în umplutură, plus un praf de cafea espresso pentru a intensifica aroma de ciocolată"
       }
     },
     {
@@ -127,35 +171,55 @@
       },
       "grams": 170,
       "note": {
-        "en": "in the filling"
+        "en": "in the filling",
+        "de": "in der Füllung",
+        "es": "en el relleno",
+        "fr": "dans la garniture",
+        "ro": "în umplutură"
       }
     },
     {
       "key": "walnuts",
       "grams": 113,
       "note": {
-        "en": "toasted, or pecans, in the filling"
+        "en": "toasted, or pecans, in the filling",
+        "de": "geröstet, oder Pekannüsse, in der Füllung",
+        "es": "tostadas, o pacanas, en el relleno",
+        "fr": "toastées, ou noix de pécan, dans la garniture",
+        "ro": "prăjite, sau nuci pecan, în umplutură"
       }
     },
     {
       "key": "sugar",
       "grams": 74,
       "note": {
-        "en": "confectioners', in the streusel topping"
+        "en": "confectioners', in the streusel topping",
+        "de": "Puderzucker, im Streuselbelag",
+        "es": "glas, en la cobertura de streusel",
+        "fr": "glace, dans le streusel",
+        "ro": "pudră, în toppingul streusel"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 60,
       "note": {
-        "en": "in the streusel topping only; not counted toward the dough's baker's percentages"
+        "en": "in the streusel topping only; not counted toward the dough's baker's percentages",
+        "de": "nur im Streuselbelag; nicht in den Bäckerprozenten des Teigs enthalten",
+        "es": "solo en la cobertura de streusel; no se cuenta en los porcentajes del panadero de la masa",
+        "fr": "dans le streusel seulement; non compté dans les pourcentages du boulanger pour la pâte",
+        "ro": "doar în toppingul streusel; nu se numără la procentele brutarului pentru aluat"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for an egg glaze before the streusel goes on"
+        "en": "for an egg glaze before the streusel goes on",
+        "de": "für eine Eiglasur vor dem Aufbringen der Streusel",
+        "es": "para un glaseado de huevo antes de poner el streusel",
+        "fr": "pour une dorure à l'œuf avant d'ajouter le streusel",
+        "ro": "pentru o glazură cu ou înainte de a pune streuselul"
       }
     }
   ],
@@ -163,7 +227,11 @@
     "count": 2,
     "pieceGrams": 1000,
     "shape": {
-      "en": "twisted loaf, 23x13cm (9x5in) pan"
+      "en": "twisted loaf, 23x13cm (9x5in) pan",
+      "de": "gedrehtes Brot, Kastenform 23x13 cm",
+      "es": "hogaza trenzada, molde de 23x13 cm",
+      "fr": "pain torsadé, moule de 23x13 cm",
+      "ro": "pâine răsucită, tavă de 23x13 cm"
     }
   },
   "time": {
@@ -207,7 +275,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Rich with butter and chocolate, it keeps well wrapped at room temperature for several days and freezes beautifully, whole or sliced."
+      "en": "Rich with butter and chocolate, it keeps well wrapped at room temperature for several days and freezes beautifully, whole or sliced.",
+      "de": "Reichhaltig mit Butter und Schokolade, hält sich eingewickelt bei Raumtemperatur mehrere Tage und lässt sich hervorragend einfrieren, ganz oder in Scheiben.",
+      "es": "Rica en mantequilla y chocolate, se conserva bien envuelta a temperatura ambiente varios días y se congela muy bien, entera o en rebanadas.",
+      "fr": "Riche en beurre et chocolat, il se conserve bien emballé à température ambiante plusieurs jours et se congèle très bien, entier ou en tranches.",
+      "ro": "Bogată în unt și ciocolată, se păstrează bine înfășurată la temperatura camerei câteva zile și se congèlează excelent, întreagă sau feliată."
     }
   },
   "equipment": [
@@ -305,10 +377,10 @@
       },
       "summary": {
         "en": "Proof until the dough swells just past the top of the pan, about 1.5-2.5 hours.",
-        "de": "Gehen lassen, bis der Teig knapp über den Formrand wächst, etwa 1.5-2.5 Stunden.",
-        "es": "Fermentar hasta que la masa sobresalga apenas del borde del molde, unas 1.5-2.5 horas.",
-        "fr": "Laisser à l'apprêt jusqu'à ce que la pâte dépasse tout juste le bord du moule, environ 1.5-2.5 heures.",
-        "ro": "Lasă la dospit până aluatul depășește ușor marginea formei, aproximativ 1.5-2.5 ore."
+        "de": "Gehen lassen, bis der Teig knapp über den Formrand quillt, etwa 1.5-2.5 Stunden.",
+        "es": "Dejar levar hasta que la masa sobrepase ligeramente el borde del molde, aproximadamente 1.5-2.5 horas.",
+        "fr": "Laisser en apprêt jusqu'à ce que la pâte dépasse légèrement le bord du moule, environ 1.5-2.5 heures.",
+        "ro": "Lasă la dospire finală până aluatul depășește ușor marginea formei, aproximativ 1.5-2.5 ore."
       }
     },
     {
@@ -349,7 +421,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased and condensed; water taken as the midpoint of the site's 227-283g range; egg weight estimated at 50g per large egg."
+      "en": "Method paraphrased and condensed; water taken as the midpoint of the site's 227-283g range; egg weight estimated at 50g per large egg.",
+      "de": "Methode umschrieben und gekürzt; Wassermenge als Mittelwert der Spanne von 227–283 g der Website genommen; Eiergewicht auf 50 g pro großem Ei geschätzt.",
+      "es": "Método parafraseado y condensado; el agua se tomó como el punto medio del rango de 227–283 g del sitio; el peso del huevo se estimó en 50 g por huevo grande.",
+      "fr": "Méthode paraphrasée et condensée; quantité d'eau prise au milieu de la fourchette de 227–283 g du site; poids de l'œuf estimé à 50 g par gros œuf.",
+      "ro": "Metodă parafrazată și condensată; apa luată ca punctul de mijloc al intervalului de 227–283 g de pe site; greutatea oului estimată la 50 g per ou mare."
     }
   },
   "tags": [

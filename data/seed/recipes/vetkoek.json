@@ -22,10 +22,18 @@
   "origin": {
     "country": "ZA",
     "region": {
-      "en": "nationwide (Afrikaans and township cooking)"
+      "en": "nationwide (Afrikaans and township cooking)",
+      "de": "Landesweit (Afrikaans und Township-Küche)",
+      "es": "En todo el país (cocina afrikáans y de townships)",
+      "fr": "Dans tout le pays (cuisine afrikaans et des townships)",
+      "ro": "La nivel național (bucătărie afrikaans și de township)"
     },
     "note": {
-      "en": "Called vetkoek ('fat cake') in Afrikaans and amagwinya or magwinya in Nguni and Sotho languages; a township and farm-kitchen staple eaten sweet or split and filled with curried mince."
+      "en": "Called vetkoek ('fat cake') in Afrikaans and amagwinya or magwinya in Nguni and Sotho languages; a township and farm-kitchen staple eaten sweet or split and filled with curried mince.",
+      "de": "Heißt auf Afrikaans vetkoek (Fettkuchen) und auf Nguni- und Sotho-Sprachen amagwinya oder magwinya; ein Grundnahrungsmittel der Township- und Farmküche, süß gegessen oder aufgeschnitten und mit Curryhackfleisch gefüllt.",
+      "es": "Llamado vetkoek ('pastel de grasa') en afrikáans y amagwinya o magwinya en lenguas nguni y sotho; un alimento básico de las cocinas de los townships y las granjas, que se come dulce o partido y relleno con carne picada al curry.",
+      "fr": "Appelé vetkoek ('gâteau de graisse') en afrikaans et amagwinya ou magwinya dans les langues nguni et sotho; un aliment de base des cuisines des townships et des fermes, mangé sucré ou fendu et farci de viande hachée au curry.",
+      "ro": "Numit vetkoek ('prăjitură de grăsime') în afrikaans și amagwinya sau magwinya în limbile nguni și sotho; un aliment de bază în bucătăriile de township și fermă, consumat dulce sau despicat și umplut cu carne tocată la curry."
     }
   },
   "leaven": "yeast",
@@ -49,14 +57,22 @@
       "key": "flour:wheat-white",
       "grams": 660,
       "note": {
-        "en": "cake flour"
+        "en": "cake flour",
+        "de": "Kuchenmehl",
+        "es": "harina de repostería",
+        "fr": "farine de pâtisserie",
+        "ro": "făină de prăjituri"
       }
     },
     {
       "key": "water",
       "grams": 472,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -75,7 +91,11 @@
       "key": "vegetable-oil",
       "grams": 118,
       "note": {
-        "en": "absorbed during frying; the deep-frying oil bath itself is mostly reused, not counted"
+        "en": "absorbed during frying; the deep-frying oil bath itself is mostly reused, not counted",
+        "de": "Beim Frittieren absorbiert; das Frittierfett selbst wird größtenteils wiederverwendet, nicht mitgerechnet",
+        "es": "Absorbido durante la fritura; el baño de aceite de fritura se reutiliza principalmente, no se cuenta",
+        "fr": "Absorbé pendant la friture; le bain d'huile de friture lui-même est surtout réutilisé, pas compté",
+        "ro": "Absorbit în timpul prăjirii; baia de ulei pentru prăjit este în mare parte reutilizată, nu se numără"
       }
     }
   ],
@@ -83,7 +103,11 @@
     "count": 8,
     "pieceGrams": 162,
     "shape": {
-      "en": "round or oval fried bun"
+      "en": "round or oval fried bun",
+      "de": "Runder oder ovaler frittierter Teigling",
+      "es": "Bollo frito redondo u oval",
+      "fr": "Petit pain frit rond ou ovale",
+      "ro": "Chiflă prăjită rotundă sau ovală"
     }
   },
   "time": {
@@ -125,7 +149,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best eaten hot the day it is fried; reheat in a hot oven to recrisp rather than microwaving, which turns them soft and greasy."
+      "en": "Best eaten hot the day it is fried; reheat in a hot oven to recrisp rather than microwaving, which turns them soft and greasy.",
+      "de": "Am besten heiß am Tag des Frittierens; zum Wiederaufwärmen im heißen Ofen knusprig machen, nicht in der Mikrowelle, wo sie weich und fettig werden.",
+      "es": "Mejor comerlos calientes el día de la fritura; recalentar en horno caliente para que queden crujientes en lugar de microondas, que los vuelve blandos y grasientos.",
+      "fr": "Meilleur chaud le jour de la friture; réchauffer au four chaud pour les rendre croustillants plutôt qu'au micro-ondes qui les rend mous et gras.",
+      "ro": "Cel mai bine consumați calzi în ziua prăjirii; reîncălziți în cuptorul fierbinte pentru a-i re-face crocanți, nu la microunde, care îi face moi și grași."
     }
   },
   "equipment": [
@@ -234,7 +262,11 @@
     "site": "Immaculate Bites",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Frying oil absorbed into the dough estimated at 10% of the dough's weight, since the deep-frying bath itself is mostly reused, not consumed."
+      "en": "Frying oil absorbed into the dough estimated at 10% of the dough's weight, since the deep-frying bath itself is mostly reused, not consumed.",
+      "de": "Vom Teig aufgenommenes Frittieröl auf 10 % des Teiggewichts geschätzt, da das Frittierfett selbst größtenteils wiederverwendet und nicht verbraucht wird.",
+      "es": "Aceite de fritura absorbido por la masa estimado en un 10 % del peso de la masa, ya que el baño de fritura se reutiliza principalmente, no se consume.",
+      "fr": "Huile de friture absorbée par la pâte estimée à 10 % du poids de la pâte, car le bain de friture lui-même est surtout réutilisé, pas consommé.",
+      "ro": "Uleiul de prăjit absorbit în aluat estimat la 10 % din greutatea aluatului, deoarece baia de ulei în sine este în mare parte reutilizată, nu consumată."
     }
   },
   "tags": [

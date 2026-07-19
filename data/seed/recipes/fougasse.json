@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Provence"
+      "en": "Provence",
+      "de": "Provence",
+      "es": "Provenza",
+      "fr": "Provence",
+      "ro": "Provence"
     },
     "note": {
-      "en": "Bakers once fired the first fougasse into the wood oven to test its heat before the real bake of the day, long before it became a dish in its own right."
+      "en": "Bakers once fired the first fougasse into the wood oven to test its heat before the real bake of the day, long before it became a dish in its own right.",
+      "de": "Bäcker schossen einst die erste Fougasse in den Holzofen, um seine Hitze vor der eigentlichen Tagesbackware zu testen, lange bevor sie ein eigenständiges Gericht wurde.",
+      "es": "Los panaderos lanzaban antaño la primera fougasse al horno de leña para probar su calor antes de la hornada real del día, mucho antes de que se convirtiera en un plato por derecho propio.",
+      "fr": "Les boulangers jetaient autrefois la première fougasse dans le four à bois pour tester sa chaleur avant la vraie fournée du jour, bien avant qu'elle ne devienne un plat à part entière.",
+      "ro": "Brutarii aruncau odată prima fougasse în cuptorul cu lemne pentru a testa căldura înainte de coacerea propriu-zisă a zilei, cu mult înainte ca aceasta să devină un preparat de sine stătător."
     }
   },
   "leaven": "yeast",
@@ -72,7 +80,11 @@
       },
       "grams": 100,
       "note": {
-        "en": "pitted, sliced"
+        "en": "pitted, sliced",
+        "de": "entsteint, in Scheiben",
+        "es": "deshuesadas, en rodajas",
+        "fr": "dénoyautées, tranchées",
+        "ro": "fără sâmburi, feliate"
       }
     },
     {
@@ -90,7 +102,11 @@
     "count": 1,
     "pieceGrams": 730,
     "shape": {
-      "en": "flat oval, leaf-slashed"
+      "en": "flat oval, leaf-slashed",
+      "de": "flaches Oval, blattförmig eingeschnitten",
+      "es": "óvalo plano, marcado en forma de hoja",
+      "fr": "ovale plat, incisé en feuille",
+      "ro": "oval plat, crestătură în formă de frunză"
     }
   },
   "time": {
@@ -132,7 +148,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best warm the day it's baked; a hot oven for a few minutes revives it the next day."
+      "en": "Best warm the day it's baked; a hot oven for a few minutes revives it the next day.",
+      "de": "Am besten warm am Backtag; ein heißer Ofen für einige Minuten belebt sie am nächsten Tag wieder.",
+      "es": "Mejor caliente el día de horneado; un horno caliente durante unos minutos la revive al día siguiente.",
+      "fr": "Meilleure chaude le jour de la cuisson; un four chaud quelques minutes la ranime le lendemain.",
+      "ro": "Cel mai bună caldă în ziua coacerii; un cuptor fierbinte pentru câteva minute o reînsuflețește a doua zi."
     }
   },
   "equipment": [

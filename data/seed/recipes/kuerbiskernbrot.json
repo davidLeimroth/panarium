@@ -21,10 +21,18 @@
   "origin": {
     "country": "AT",
     "region": {
-      "en": "Styria (Steiermark)"
+      "en": "Styria (Steiermark)",
+      "de": "Steiermark",
+      "es": "Estiria (Steiermark)",
+      "fr": "Styrie (Steiermark)",
+      "ro": "Stiria (Steiermark)"
     },
     "note": {
-      "en": "Styrian pumpkin seed oil (Steirisches Kürbiskernöl) holds EU protected-origin status; this bread folds the region's signature oil and seeds into an everyday sourdough loaf."
+      "en": "Styrian pumpkin seed oil (Steirisches Kürbiskernöl) holds EU protected-origin status; this bread folds the region's signature oil and seeds into an everyday sourdough loaf.",
+      "de": "Steirisches Kürbiskernöl genießt EU-Schutz als geschützte Ursprungsbezeichnung; dieses Brot verarbeitet das typische Öl und die Kerne der Region zu einem alltäglichen Sauerteigbrot.",
+      "es": "El aceite de pepita de calabaza de Estiria (Steirisches Kürbiskernöl) tiene estatus de origen protegido por la UE; este pan integra el aceite y las semillas emblemáticos de la región en un pan de masa madre cotidiano.",
+      "fr": "L'huile de pépins de courge de Styrie (Steirisches Kürbiskernöl) bénéficie d'une appellation d'origine protégée par l'UE; ce pain intègre l'huile et les graines emblématiques de la région dans un pain au levain de tous les jours.",
+      "ro": "Uleiul de semințe de dovleac din Stiria (Steirisches Kürbiskernöl) are statut de denumire de origine protejată în UE; această pâine încorporează uleiul și semințele emblematice ale regiunii într-o pâine cu maia de zi cu zi."
     }
   },
   "leaven": "hybrid",
@@ -55,35 +63,55 @@
       "key": "flour:spelt-whole",
       "grams": 100,
       "note": {
-        "en": "Dinkelvollkornmehl, scalded into the soaker"
+        "en": "Dinkelvollkornmehl, scalded into the soaker",
+        "de": "Dinkelvollkornmehl, überbrüht fürs Quellstück",
+        "es": "Dinkelvollkornmehl, escaldado para el remojo",
+        "fr": "Dinkelvollkornmehl, ébouillanté pour le trempis",
+        "ro": "Dinkelvollkornmehl, opărit pentru înmuiere"
       }
     },
     {
       "key": "flour:rye",
       "grams": 120,
       "note": {
-        "en": "dark rye, Type 1150, for the sourdough"
+        "en": "dark rye, Type 1150, for the sourdough",
+        "de": "dunkles Roggenmehl Type 1150, für den Sauerteig",
+        "es": "centeno oscuro Type 1150, para la masa madre",
+        "fr": "seigle foncé Type 1150, pour le levain",
+        "ro": "secară închisă Type 1150, pentru maia"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 350,
       "note": {
-        "en": "Halbweißmehl, Type 720"
+        "en": "Halbweißmehl, Type 720",
+        "de": "Halbweißmehl Type 720",
+        "es": "Halbweißmehl Type 720",
+        "fr": "Halbweißmehl Type 720",
+        "ro": "Halbweißmehl Type 720"
       }
     },
     {
       "key": "water",
       "grams": 670,
       "note": {
-        "en": "550g boiling, scalded over the soaker; 120g in the sourdough build"
+        "en": "550g boiling, scalded over the soaker; 120g in the sourdough build",
+        "de": "550 g kochend, übers Quellstück gegossen; 120 g im Sauerteigansatz",
+        "es": "550 g hirviendo, escaldado sobre el remojo; 120 g en la preparación de la masa madre",
+        "fr": "550 g bouillante, versée sur le trempis; 120 g dans la construction du levain",
+        "ro": "550 g fierbinte, opărit peste înmuiere; 120 g în construcția maielei"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 10,
       "note": {
-        "en": "active culture to build the rye sourdough"
+        "en": "active culture to build the rye sourdough",
+        "de": "aktives Anstellgut für den Roggensauerteig",
+        "es": "cultivo activo para preparar la masa madre de centeno",
+        "fr": "culture active pour construire le levain de seigle",
+        "ro": "cultură activă pentru a construi maiaua de secară"
       }
     },
     {
@@ -98,7 +126,11 @@
       "key": "pumpkin-seeds",
       "grams": 170,
       "note": {
-        "en": "roasted, for the soaker and rolling"
+        "en": "roasted, for the soaker and rolling",
+        "de": "geröstet, fürs Quellstück und zum Wälzen",
+        "es": "tostadas, para el remojo y el rebozado",
+        "fr": "grillées, pour le trempis et le roulage",
+        "ro": "prăjite, pentru înmuiere și rulare"
       }
     },
     {
@@ -115,7 +147,11 @@
       "key": "cheese",
       "grams": 60,
       "note": {
-        "en": "Speisequark, fresh curd cheese"
+        "en": "Speisequark, fresh curd cheese",
+        "de": "Speisequark",
+        "es": "Speisequark, requesón fresco",
+        "fr": "Speisequark, fromage frais à pâte lisse",
+        "ro": "Speisequark, brânză proaspătă de vaci"
       }
     }
   ],
@@ -123,7 +159,11 @@
     "count": 4,
     "pieceGrams": 382,
     "shape": {
-      "en": "small tins, 22x9x6cm, rolled in pumpkin seeds"
+      "en": "small tins, 22x9x6cm, rolled in pumpkin seeds",
+      "de": "kleine Kastenformen, 22x9x6 cm, in Kürbiskernen gewälzt",
+      "es": "moldes pequeños, 22x9x6 cm, rebozados en semillas de calabaza",
+      "fr": "petits moules, 22x9x6 cm, roulés dans des graines de courge",
+      "ro": "tăvi mici, 22x9x6 cm, rulate în semințe de dovleac"
     }
   },
   "time": {
@@ -165,7 +205,11 @@
     "freshDays": 3.5,
     "freezes": true,
     "note": {
-      "en": "Keeps 3-4 days in a cloth bag or breadbox; freezes well for up to two months."
+      "en": "Keeps 3-4 days in a cloth bag or breadbox; freezes well for up to two months.",
+      "de": "Hält sich 3-4 Tage im Leinensack oder Brotkasten; lässt sich gut bis zu zwei Monate einfrieren.",
+      "es": "Se conserva 3-4 días en una bolsa de tela o panera; se congela bien hasta dos meses.",
+      "fr": "Se conserve 3-4 jours dans un sac en tissu ou une boîte à pain; se congèle bien jusqu'à deux mois.",
+      "ro": "Se păstrează 3-4 zile într-un sac de pânză sau cutie de pâine; se congèlează bine până la două luni."
     }
   },
   "equipment": [
@@ -307,7 +351,11 @@
     "site": "Marcel Paa - Einfach Backen",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased; ingredient grams kept at the source's stated 4-loaf batch size rather than scaled to a single loaf."
+      "en": "Method paraphrased; ingredient grams kept at the source's stated 4-loaf batch size rather than scaled to a single loaf.",
+      "de": "Methode paraphrasiert; Zutaten in Gramm auf die angegebene 4-Laib-Menge belassen, nicht auf einen einzelnen Laib herunterskaliert.",
+      "es": "Método parafraseado; las cantidades en gramos se mantuvieron en el lote de 4 hogazas indicado por la fuente, sin reducir a una sola hogaza.",
+      "fr": "Méthode paraphrasée; les grammes des ingrédients sont conservés pour la fournée de 4 pains indiquée par la source, sans être réduits à un seul pain.",
+      "ro": "Metodă parafrazată; gramele ingredientelor s-au păstrat la lotul de 4 pâini indicat de sursă, fără a fi reduse la o singură pâine."
     }
   },
   "tags": [

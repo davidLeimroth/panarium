@@ -23,10 +23,18 @@
   "origin": {
     "country": "ET",
     "region": {
-      "en": "Ethiopia and Ethiopian Jewish (Beta Israel) communities, now largely in Israel"
+      "en": "Ethiopia and Ethiopian Jewish (Beta Israel) communities, now largely in Israel",
+      "de": "Äthiopien und äthiopisch-jüdische (Beta-Israel-)Gemeinschaften, heute größtenteils in Israel",
+      "es": "Etiopía y comunidades judías etíopes (Beta Israel), ahora en gran parte en Israel",
+      "fr": "Éthiopie et communautés juives éthiopiennes (Beta Israel), désormais en grande partie en Israël",
+      "ro": "Etiopia și comunitățile evreiești etiopiene (Beta Israel), acum în mare parte în Israel"
     },
     "note": {
-      "en": "Amharic dabo simply means bread, but the word is used for this festive round loaf served at Sabbath and holidays, unlike the everyday injera. Closely related to Eritrean himbasha."
+      "en": "Amharic dabo simply means bread, but the word is used for this festive round loaf served at Sabbath and holidays, unlike the everyday injera. Closely related to Eritrean himbasha.",
+      "de": "Im Amharischen bedeutet dabo einfach Brot, aber das Wort wird für diesen festlichen runden Laib verwendet, der am Sabbat und an Feiertagen serviert wird, anders als das alltägliche Injera. Eng verwandt mit dem eritreischen Himbasha.",
+      "es": "En amárico, dabo simplemente significa pan, pero la palabra se usa para esta hogaza redonda festiva servida en Shabat y días festivos, a diferencia de la injera cotidiana. Estrechamente relacionado con el himbasha eritreo.",
+      "fr": "En amharique, dabo signifie simplement pain, mais le mot est utilisé pour ce pain rond de fête servi le Shabbat et les jours de fête, contrairement à l'injera quotidien. Proche du himbasha érythréen.",
+      "ro": "În amharică, dabo înseamnă pur și simplu pâine, dar cuvântul este folosit pentru această pâine rotundă festivă servită de Sabat și sărbători, spre deosebire de injera de zi cu zi. Strâns înrudit cu himbasha eritreean."
     }
   },
   "leaven": "yeast",
@@ -54,7 +62,11 @@
       "key": "flour:wheat-white",
       "grams": 438,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de fuerza",
+        "fr": "farine de force",
+        "ro": "făină pentru pâine"
       }
     },
     {
@@ -95,7 +107,11 @@
       "key": "coriander-seed",
       "grams": 6,
       "note": {
-        "en": "toasted and ground"
+        "en": "toasted and ground",
+        "de": "geröstet und gemahlen",
+        "es": "tostado y molido",
+        "fr": "grillé et moulu",
+        "ro": "prăjit și măcinat"
       }
     },
     {
@@ -108,7 +124,11 @@
       },
       "grams": 1.5,
       "note": {
-        "en": "toasted and ground"
+        "en": "toasted and ground",
+        "de": "geröstet und gemahlen",
+        "es": "tostado y molido",
+        "fr": "grillé et moulu",
+        "ro": "prăjit și măcinat"
       }
     }
   ],
@@ -116,7 +136,11 @@
     "count": 1,
     "pieceGrams": 1010,
     "shape": {
-      "en": "large round loaf baked in a covered pot"
+      "en": "large round loaf baked in a covered pot",
+      "de": "großer runder Laib, in einem gedeckten Topf gebacken",
+      "es": "hogaza redonda grande horneada en una olla tapada",
+      "fr": "grand pain rond cuit dans un pot couvert",
+      "ro": "pâine rotundă mare coaptă într-o oală acoperită"
     }
   },
   "time": {
@@ -158,7 +182,11 @@
     "freshDays": 6,
     "freezes": true,
     "note": {
-      "en": "Keeps 5 to 7 days refrigerated in an airtight container, true to its role as a bread made once for a whole week of holiday meals."
+      "en": "Keeps 5 to 7 days refrigerated in an airtight container, true to its role as a bread made once for a whole week of holiday meals.",
+      "de": "Hält sich 5 bis 7 Tage gekühlt in einem luftdichten Behälter, getreu seiner Rolle als Brot, das einmal für eine ganze Woche Feiertagsmahlzeiten gebacken wird.",
+      "es": "Se conserva de 5 a 7 días refrigerado en un recipiente hermético, fiel a su función de pan hecho una vez para toda una semana de comidas festivas.",
+      "fr": "Se conserve 5 à 7 jours au réfrigérateur dans un récipient hermétique, fidèle à son rôle de pain cuit une fois pour toute une semaine de repas de fête.",
+      "ro": "Se păstrează 5 până la 7 zile la frigider într-un recipient ermetic, conform rolului său de pâine făcută o singură dată pentru o săptămână întreagă de mese festive."
     }
   },
   "equipment": [
@@ -191,10 +219,10 @@
       },
       "summary": {
         "en": "Transfer to a well-oiled bowl at least twice the dough's size, cover, and ferment a full night, or a minimum of 8 hours, at warm room temperature.",
-        "de": "In eine gut geölte Schüssel geben, mindestens doppelt so groß wie der Teig, abdecken und über Nacht oder mindestens 8 Stunden bei Raumtemperatur fermentieren lassen.",
-        "es": "Pasar a un bol bien aceitado, al menos del doble del tamaño de la masa, tapar y dejar fermentar toda la noche o al menos 8 horas a temperatura ambiente.",
-        "fr": "Transférer dans un saladier bien huilé, au moins deux fois plus grand que la pâte, couvrir et laisser fermenter toute la nuit ou au moins 8 heures à température ambiante.",
-        "ro": "Transferă într-un bol bine uns cu ulei, de cel puțin două ori mărimea aluatului, acoperă și lasă la fermentat peste noapte sau cel puțin 8 ore la temperatura camerei."
+        "de": "In eine gut geölte Schüssel geben, mindestens doppelt so groß wie der Teig, abdecken und über Nacht oder mindestens 8 Stunden bei warmer Raumtemperatur fermentieren lassen.",
+        "es": "Pasar a un cuenco bien engrasado, al menos del doble del tamaño de la masa, tapar y fermentar toda la noche, o un mínimo de 8 horas, a temperatura ambiente cálida.",
+        "fr": "Transférer dans un bol bien huilé, au moins deux fois la taille de la pâte, couvrir et laisser fermenter toute une nuit, ou au moins 8 heures, à température ambiante tiède.",
+        "ro": "Transferă într-un bol bine uns cu ulei, de cel puțin două ori volumul aluatului, acoperă și lasă la fermentat peste noapte, sau cel puțin 8 ore, la temperatura camerei călduță."
       }
     },
     {
@@ -251,7 +279,11 @@
     "site": "Jewish Food Society",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/teaspoon/tablespoon quantities converted to grams; turmeric and nigella weights estimated using standard ground-spice density."
+      "en": "Cup/teaspoon/tablespoon quantities converted to grams; turmeric and nigella weights estimated using standard ground-spice density.",
+      "de": "Cup-/Teelöffel-/Esslöffelmengen in Gramm umgerechnet; Kurkuma- und Nigella-Gewichte mit Standard-Schüttdichte für gemahlene Gewürze geschätzt.",
+      "es": "Cantidades en tazas/cucharaditas/cucharadas convertidas a gramos; pesos de cúrcuma y nigella estimados usando densidad estándar de especias molidas.",
+      "fr": "Quantités en tasses/cuillères à café/cuillères à soupe converties en grammes; poids du curcuma et de la nigelle estimés avec la densité standard des épices moulues.",
+      "ro": "Cantitățile în căni/lingurițe/linguri convertite în grame; greutățile pentru turmeric și negrilică estimate folosind densitatea standard pentru condimente măcinate."
     }
   },
   "tags": [

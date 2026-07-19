@@ -17,10 +17,18 @@
   "origin": {
     "country": "ES",
     "region": {
-      "en": "Alfacar and Víznar, Granada, Andalusia"
+      "en": "Alfacar and Víznar, Granada, Andalusia",
+      "de": "Alfacar und Víznar, Granada, Andalusien",
+      "es": "Alfacar y Víznar, Granada, Andalucía",
+      "fr": "Alfacar et Víznar, Grenade, Andalousie",
+      "ro": "Alfacar și Víznar, Granada, Andaluzia"
     },
     "note": {
-      "en": "IGP since 2011; the disciplinare permits baking only directly on a wood-fired oven's stone floor, no other oven type."
+      "en": "IGP since 2011; the disciplinare permits baking only directly on a wood-fired oven's stone floor, no other oven type.",
+      "de": "IGP seit 2011; die Disciplinare erlaubt das Backen nur direkt auf dem Steinboden eines Holzofens, kein anderer Ofentyp.",
+      "es": "IGP desde 2011; el disciplinario solo permite hornear directamente sobre el suelo de piedra de un horno de leña, ningún otro tipo de horno.",
+      "fr": "IGP depuis 2011; le disciplinaire n'autorise la cuisson que directement sur la sole en pierre d'un four à bois, aucun autre type de four.",
+      "ro": "IGP din 2011; disciplinarea permite coacerea doar direct pe podeaua de piatră a unui cuptor cu lemne, niciun alt tip de cuptor."
     }
   },
   "leaven": "hybrid",
@@ -46,14 +54,22 @@
       "key": "water",
       "grams": 300,
       "note": {
-        "en": "mineral or spring water"
+        "en": "mineral or spring water",
+        "de": "Mineral- oder Quellwasser",
+        "es": "agua mineral o de manantial",
+        "fr": "eau minérale ou de source",
+        "ro": "apă minerală sau de izvor"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 75,
       "note": {
-        "en": "roughly 60% hydration"
+        "en": "roughly 60% hydration",
+        "de": "etwa 60 % Hydration",
+        "es": "aproximadamente 60 % de hidratación",
+        "fr": "environ 60 % d'hydratation",
+        "ro": "aproximativ 60 % hidratare"
       }
     },
     {
@@ -69,7 +85,11 @@
     "count": 1,
     "pieceGrams": 889,
     "shape": {
-      "en": "round hogaza or ring-shaped rosca; also small bollos"
+      "en": "round hogaza or ring-shaped rosca; also small bollos",
+      "de": "runde Hogaza oder ringförmige Rosca; auch kleine Bollos",
+      "es": "hogaza redonda o rosca en forma de anillo; también bollos pequeños",
+      "fr": "hogaza ronde ou rosca en forme d'anneau; aussi des petits bollos",
+      "ro": "hogaza rotundă sau roscă în formă de inel; și bollos mici"
     }
   },
   "time": {
@@ -110,7 +130,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "A wood-fired crust and a mild sourdough tang keep it in good shape for a few days past baking."
+      "en": "A wood-fired crust and a mild sourdough tang keep it in good shape for a few days past baking.",
+      "de": "Eine Holzofenkruste und eine milde Sauerteignote halten es einige Tage nach dem Backen in gutem Zustand.",
+      "es": "Una corteza de horno de leña y un suave toque ácido de masa madre lo mantienen en buen estado unos días después del horneado.",
+      "fr": "Une croûte au feu de bois et une légère acidité de levain le maintiennent en bon état quelques jours après la cuisson.",
+      "ro": "O crustă de cuptor cu lemne și o ușoară notă acrișoară de maia îl mențin în stare bună câteva zile după coacere."
     }
   },
   "equipment": [
@@ -220,7 +244,11 @@
     "site": "VadePanes",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams as published for a 1 kg loaf; hydration and starter share line up with the IGP's own published minimums (55-60% hydration, at least 10% masa madre)."
+      "en": "Grams as published for a 1 kg loaf; hydration and starter share line up with the IGP's own published minimums (55-60% hydration, at least 10% masa madre).",
+      "de": "Grammangaben wie veröffentlicht für einen 1-kg-Laib; Hydration und Starteranteil entsprechen den eigenen veröffentlichten Mindestwerten der IGP (55-60 % Hydration, mindestens 10 % Masa madre).",
+      "es": "Gramos tal como se publicaron para una hogaza de 1 kg; la hidratación y la proporción de masa madre coinciden con los mínimos publicados por la propia IGP (55-60 % de hidratación, al menos 10 % de masa madre).",
+      "fr": "Grammes tels que publiés pour un pain de 1 kg; l'hydratation et la part de levain correspondent aux minimums publiés par l'IGP elle-même (55-60 % d'hydratation, au moins 10 % de masa madre).",
+      "ro": "Gramajul așa cum a fost publicat pentru o pâine de 1 kg; hidratarea și proporția de maia corespund minimelor publicate proprii ale IGP (55-60 % hidratare, cel puțin 10 % masa madre)."
     }
   },
   "tags": [

@@ -23,7 +23,11 @@
   "origin": {
     "country": "LB",
     "note": {
-      "en": "A wet, poured dough related in technique to Italian focaccia; home bakers top it with za'atar, sesame or nigella, or send it out to a communal oven for baking."
+      "en": "A wet, poured dough related in technique to Italian focaccia; home bakers top it with za'atar, sesame or nigella, or send it out to a communal oven for baking.",
+      "de": "Ein nasser, gegossener Teig, der technisch mit italienischer Focaccia verwandt ist; Hobbybäcker belegen ihn mit Za'atar, Sesam oder Schwarzkümmel oder geben ihn zum Backen in einen Gemeinschaftsofen.",
+      "es": "Una masa húmeda vertida relacionada técnicamente con la focaccia italiana; los panaderos caseros la cubren con za'atar, sésamo o nigella, o la llevan a un horno comunal para hornearla.",
+      "fr": "Une pâte humide versée, techniquement proche de la focaccia italienne; les boulangers amateurs la garnissent de za'atar, sésame ou nigelle, ou l'envoient cuire dans un four communal.",
+      "ro": "Un aluat umed turnat, înrudit ca tehnică cu focaccia italiană; brutarii amatori îl acoperă cu za'atar, susan sau nigella, sau îl trimit la un cuptor comunal pentru coacere."
     }
   },
   "leaven": "yeast",
@@ -51,7 +55,11 @@
       "key": "water",
       "grams": 533,
       "note": {
-        "en": "warm, added gradually while beating"
+        "en": "warm, added gradually while beating",
+        "de": "warm, nach und nach unter Rühren zugegeben",
+        "es": "tibia, agregada gradualmente mientras se bate",
+        "fr": "tiède, ajouté progressivement en battant",
+        "ro": "călduță, adăugată treptat în timp ce se bate"
       }
     },
     {
@@ -74,7 +82,11 @@
       "key": "sesame-seeds",
       "grams": 15,
       "note": {
-        "en": "topping; nigella seeds or za'atar are common alternatives"
+        "en": "topping; nigella seeds or za'atar are common alternatives",
+        "de": "Belag; Schwarzkümmel oder Za'atar sind übliche Alternativen",
+        "es": "Cobertura; semillas de nigella o za'atar son alternativas comunes",
+        "fr": "Garniture; graines de nigelle ou za'atar sont des alternatives courantes",
+        "ro": "Topping; semințe de nigella sau za'atar sunt alternative comune"
       }
     }
   ],
@@ -82,7 +94,11 @@
     "count": 10,
     "pieceGrams": 98,
     "shape": {
-      "en": "flat sheet, cut into pieces"
+      "en": "flat sheet, cut into pieces",
+      "de": "Flaches Blech, in Stücke geschnitten",
+      "es": "Lámina plana, cortada en piezas",
+      "fr": "Feuille plate, coupée en morceaux",
+      "ro": "Foaie plată, tăiată în bucăți"
     }
   },
   "time": {
@@ -124,7 +140,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm the day it is baked; wrap and freeze extra pieces, then reheat in a hot oven."
+      "en": "Best warm the day it is baked; wrap and freeze extra pieces, then reheat in a hot oven.",
+      "de": "Am besten warm am Backtag; zusätzliche Stücke einwickeln und einfrieren, dann im heißen Ofen aufwärmen.",
+      "es": "Mejor caliente el día de horneado; envuelve y congela las piezas sobrantes, luego recaliéntalas en horno caliente.",
+      "fr": "Meilleur chaud le jour de la cuisson; emballer et congeler les morceaux supplémentaires, puis réchauffer dans un four chaud.",
+      "ro": "Cel mai bun cald în ziua coacerii; învelește și congelează bucățile în plus, apoi reîncălzește-le în cuptorul fierbinte."
     }
   },
   "equipment": [
@@ -234,7 +254,11 @@
     "site": "Maureen Abood",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Used the base dough only; the source's garlic-butter finish (a modern variant) was replaced with the more traditional sesame/za'atar/nigella toppings the same site describes elsewhere."
+      "en": "Used the base dough only; the source's garlic-butter finish (a modern variant) was replaced with the more traditional sesame/za'atar/nigella toppings the same site describes elsewhere.",
+      "de": "Nur der Grundteig wurde verwendet; der Knoblauch-Butter-Abschluss der Quelle (eine moderne Variante) wurde durch die traditionelleren Sesam-/Za'atar-/Schwarzkümmel-Beläge ersetzt, die dieselbe Seite anderswo beschreibt.",
+      "es": "Se usó solo la masa base; el acabado de mantequilla de ajo de la fuente (una variante moderna) se reemplazó por los toppings más tradicionales de sésamo/za'atar/nigella que el mismo sitio describe en otra parte.",
+      "fr": "Seule la pâte de base a été utilisée; la finition beurre-ail de la source (une variante moderne) a été remplacée par les garnitures plus traditionnelles sésame/za'atar/nigelle que le même site décrit ailleurs.",
+      "ro": "S-a folosit doar aluatul de bază; finisajul cu unt și usturoi al sursei (o variantă modernă) a fost înlocuit cu toppingurile mai tradiționale de susan/za'atar/nigella pe care același site le descrie în altă parte."
     }
   },
   "tags": [

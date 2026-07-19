@@ -21,10 +21,18 @@
   "origin": {
     "country": "PH",
     "region": {
-      "en": "nationwide panaderia bread"
+      "en": "nationwide panaderia bread",
+      "de": "landesweites Panaderia-Brot",
+      "es": "pan de panadería a nivel nacional",
+      "fr": "pain de panadería à l'échelle nationale",
+      "ro": "pâine de panaderia la nivel național"
     },
     "note": {
-      "en": "Shares its base dough with monay; the scored cross and heavy sugaring are what turn it into 'star bread'."
+      "en": "Shares its base dough with monay; the scored cross and heavy sugaring are what turn it into 'star bread'.",
+      "de": "Teilt seinen Grundteig mit Monay; das eingeritzte Kreuz und die starke Zuckerung machen es zum 'Sternenbrot'.",
+      "es": "Comparte su masa base con monay; la cruz marcada y el fuerte azucarado son lo que lo convierten en 'pan estrella'.",
+      "fr": "Partage sa pâte de base avec monay; la croix incisée et le fort sucrage sont ce qui en fait un 'pain étoile'.",
+      "ro": "Împarte aluatul de bază cu monay; crucea crestă și îndulcirea abundentă îl transformă în 'pâine stea'."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "milk",
       "grams": 60,
       "note": {
-        "en": "dry milk powder; not counted toward hydration"
+        "en": "dry milk powder; not counted toward hydration",
+        "de": "Milchpulver; nicht in der Hydratation enthalten",
+        "es": "leche en polvo; no cuenta en la hidratación",
+        "fr": "lait en poudre; non compté dans l'hydratation",
+        "ro": "lapte praf; nu se numără în hidratare"
       }
     },
     {
@@ -67,7 +79,11 @@
       "key": "water",
       "grams": 220,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -82,21 +98,33 @@
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "for the egg wash"
+        "en": "for the egg wash",
+        "de": "für die Eierwasche",
+        "es": "para el huevo batido",
+        "fr": "pour la dorure",
+        "ro": "pentru spălătura cu ou"
       }
     },
     {
       "key": "milk",
       "grams": 15,
       "note": {
-        "en": "for the egg wash"
+        "en": "for the egg wash",
+        "de": "für die Eierwasche",
+        "es": "para el huevo batido",
+        "fr": "pour la dorure",
+        "ro": "pentru spălătura cu ou"
       }
     },
     {
       "key": "sugar",
       "grams": 60,
       "note": {
-        "en": "topping, sprinkled generously before baking"
+        "en": "topping, sprinkled generously before baking",
+        "de": "Belag, vor dem Backen großzügig bestreut",
+        "es": "cobertura, espolvoreada generosamente antes de hornear",
+        "fr": "garniture, saupoudrée généreusement avant cuisson",
+        "ro": "topping, presărat generos înainte de coacere"
       }
     }
   ],
@@ -104,7 +132,11 @@
     "count": 20,
     "pieceGrams": 50,
     "shape": {
-      "en": "round bun with cross-scored top, sugar-crusted, ~7 cm"
+      "en": "round bun with cross-scored top, sugar-crusted, ~7 cm",
+      "de": "rundes Brötchen mit kreuzförmig eingeritzter Oberseite, mit Zuckerkruste, ~7 cm",
+      "es": "panecillo redondo con parte superior marcada en cruz, costra de azúcar, ~7 cm",
+      "fr": "petit pain rond à dessus incisé en croix, croûte de sucre, ~7 cm",
+      "ro": "chiflă rotundă cu vârf crestă în cruce, crustă de zahăr, ~7 cm"
     }
   },
   "time": {
@@ -146,7 +178,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh with the sugar top still a little crisp; freezes and reheats reasonably well wrapped in foil."
+      "en": "Best fresh with the sugar top still a little crisp; freezes and reheats reasonably well wrapped in foil.",
+      "de": "Am besten frisch, wenn die Zuckeroberfläche noch etwas knusprig ist; lässt sich in Folie eingewickelt gut einfrieren und aufwärmen.",
+      "es": "Mejor fresco con la cobertura de azúcar aún un poco crujiente; se congela y recalienta razonablemente bien envuelto en papel de aluminio.",
+      "fr": "Meilleur frais avec le dessus sucré encore un peu croustillant; se congèle et se réchauffe raisonnablement bien emballé dans du papier aluminium.",
+      "ro": "Cel mai bun proaspăt cu toppingul de zahăr încă puțin crocant; se congelează și se reîncălzește rezonabil de bine învelit în folie."
     }
   },
   "equipment": [
@@ -271,7 +307,11 @@
     "site": "Foxy Folksy",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Water increased slightly from the source's range for a workable dough; pieceGrams taken directly from the source's own ~50g-per-piece estimate."
+      "en": "Water increased slightly from the source's range for a workable dough; pieceGrams taken directly from the source's own ~50g-per-piece estimate.",
+      "de": "Wasser aus der Spanne der Quelle leicht erhöht für einen geschmeidigen Teig; pieceGrams direkt aus der eigenen Schätzung der Quelle von ~50 g pro Stück übernommen.",
+      "es": "Agua ligeramente aumentada del rango de la fuente para una masa manejable; pieceGrams tomados directamente de la estimación de ~50 g por pieza de la propia fuente.",
+      "fr": "Eau légèrement augmentée par rapport à la fourchette de la source pour une pâte maniable; pieceGrams repris directement de l'estimation de la source d'environ 50 g par pièce.",
+      "ro": "Apă ușor crescută din intervalul sursei pentru un aluat lucrabil; pieceGrams luate direct din estimarea sursei de ~50 g per bucată."
     }
   },
   "tags": [

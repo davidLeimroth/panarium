@@ -23,10 +23,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "Indian subcontinent (India, Pakistan, Nepal, Bangladesh)"
+      "en": "Indian subcontinent (India, Pakistan, Nepal, Bangladesh)",
+      "de": "Indischer Subkontinent (Indien, Pakistan, Nepal, Bangladesch)",
+      "es": "Subcontinente indio (India, Pakistán, Nepal, Bangladés)",
+      "fr": "Sous-continent indien (Inde, Pakistan, Népal, Bangladesh)",
+      "ro": "Subcontinentul indian (India, Pakistan, Nepal, Bangladesh)"
     },
     "note": {
-      "en": "Daily bread across the whole subcontinent; called roti in Hindi/Urdu/Punjabi, chapati especially in western India and among the East African Indian diaspora."
+      "en": "Daily bread across the whole subcontinent; called roti in Hindi/Urdu/Punjabi, chapati especially in western India and among the East African Indian diaspora.",
+      "de": "Tägliches Brot auf dem gesamten Subkontinent; auf Hindi/Urdu/Punjabi roti genannt, chapati besonders in Westindien und in der ostafrikanisch-indischen Diaspora.",
+      "es": "Pan diario en todo el subcontinente; llamado roti en hindi/urdu/panyabí, chapati especialmente en India occidental y entre la diáspora india de África Oriental.",
+      "fr": "Pain quotidien dans tout le sous-continent; appelé roti en hindi/ourdou/pendjabi, chapati surtout en Inde occidentale et dans la diaspora indienne d'Afrique de l'Est.",
+      "ro": "Pâinea zilnică în tot subcontinentul; numită roti în hindi/urdu/punjabi, chapati mai ales în India de vest și în diaspora indiană din Africa de Est."
     }
   },
   "leaven": "none",
@@ -47,14 +55,22 @@
       "key": "flour:wheat-whole",
       "grams": 280,
       "note": {
-        "en": "atta (finely milled whole wheat)"
+        "en": "atta (finely milled whole wheat)",
+        "de": "Atta (fein gemahlenes Vollkornweizenmehl)",
+        "es": "atta (harina integral fina de trigo)",
+        "fr": "atta (farine de blé complète finement moulue)",
+        "ro": "attă (făină integrală de grâu măcinată fin)"
       }
     },
     {
       "key": "water",
       "grams": 227,
       "note": {
-        "en": "room temperature, added gradually"
+        "en": "room temperature, added gradually",
+        "de": "Raumtemperatur, nach und nach zugegeben",
+        "es": "temperatura ambiente, añadida gradualmente",
+        "fr": "température ambiante, ajoutée progressivement",
+        "ro": "temperatura camerei, adăugată treptat"
       }
     },
     {
@@ -65,7 +81,11 @@
       "key": "butter",
       "grams": 10,
       "note": {
-        "en": "ghee, optional, brushed on hot"
+        "en": "ghee, optional, brushed on hot",
+        "de": "Ghee, optional, heiß aufgestrichen",
+        "es": "ghee, opcional, untado en caliente",
+        "fr": "ghee, facultatif, badigeonné à chaud",
+        "ro": "ghee, opțional, uns pe cald"
       }
     }
   ],
@@ -73,7 +93,11 @@
     "count": 5,
     "pieceGrams": 102,
     "shape": {
-      "en": "thin round griddle bread"
+      "en": "thin round griddle bread",
+      "de": "dünnes rundes Fladenbrot",
+      "es": "pan redondo fino de plancha",
+      "fr": "pain plat rond et fin",
+      "ro": "pâine rotundă subțire de plită"
     }
   },
   "time": {
@@ -111,7 +135,11 @@
     "freshDays": 1.5,
     "freezes": true,
     "note": {
-      "en": "Best warm off the tawa; wrap in cloth to stay soft for a few hours, or stack with parchment and freeze."
+      "en": "Best warm off the tawa; wrap in cloth to stay soft for a few hours, or stack with parchment and freeze.",
+      "de": "Am besten warm von der Tawa; in ein Tuch wickeln, um einige Stunden weich zu bleiben, oder mit Backpapier stapeln und einfrieren.",
+      "es": "Mejor caliente saliendo del tawa; envolver en un paño para mantener suave unas horas, o apilar con papel vegetal y congelar.",
+      "fr": "Meilleur chaud à la sortie du tawa; envelopper dans un torchon pour rester mou quelques heures, ou empiler avec du papier sulfurisé et congeler.",
+      "ro": "Cel mai bun cald de pe tawa; înfășoară în pânză să rămână moale câteva ore, sau stivuiește cu hârtie de copt și congelează."
     }
   },
   "equipment": [
@@ -220,7 +248,11 @@
     "site": "Tea for Turmeric",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt and finishing ghee are optional home additions; core atta-to-water ratio kept as sourced."
+      "en": "Salt and finishing ghee are optional home additions; core atta-to-water ratio kept as sourced.",
+      "de": "Salz und abschließendes Ghee sind optionale häusliche Zugaben; das grundlegende Atta-Wasser-Verhältnis wie in der Quelle belassen.",
+      "es": "La sal y el ghee final son adiciones caseras opcionales; la proporción central de atta a agua se mantuvo como en la fuente.",
+      "fr": "Le sel et le ghee final sont des ajouts domestiques facultatifs; le rapport central atta/eau conservé tel que dans la source.",
+      "ro": "Sarea și ghee-ul final sunt adaosuri casnice opționale; raportul principal attă-apă păstrat conform sursei."
     }
   },
   "tags": [

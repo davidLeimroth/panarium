@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American home baking"
+      "en": "Modern American home baking",
+      "de": "Modernes amerikanisches Hausbacken",
+      "es": "Panadería casera estadounidense moderna",
+      "fr": "Boulangerie maison américaine moderne",
+      "ro": "Panificație casnică americană modernă"
     },
     "note": {
-      "en": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this quick, commercially-yeasted pan-loaf treatment is a modern home-baking shortcut next to the long-fermented sourdough versions more common in artisan bakeries."
+      "en": "Einkorn is the oldest domesticated wheat, first grown in the Fertile Crescent; this quick, commercially-yeasted pan-loaf treatment is a modern home-baking shortcut next to the long-fermented sourdough versions more common in artisan bakeries.",
+      "de": "Einkorn ist der älteste domestizierte Weizen, erstmals angebaut im Fruchtbaren Halbmond; diese schnelle Behandlung mit kommerzieller Hefe im Kasten ist eine moderne Hausback-Abkürzung neben den langfermentierten Sauerteigversionen, die in Handwerksbäckereien häufiger sind.",
+      "es": "El einkorn es el trigo domesticado más antiguo, cultivado por primera vez en el Creciente Fértil; este tratamiento rápido con levadura comercial en molde es un atajo moderno de panadería casera junto a las versiones de masa madre de larga fermentación más comunes en panaderías artesanales.",
+      "fr": "L'engrain est le blé domestiqué le plus ancien, cultivé pour la première fois au Croissant Fertile; ce traitement rapide à la levure commerciale en moule est un raccourci de boulangerie maison moderne à côté des versions au levain longue fermentation plus courantes dans les boulangeries artisanales.",
+      "ro": "Einkornul este cel mai vechi grâu domesticit, cultivat pentru prima dată în Semiluna Fertilă; acest tratament rapid cu drojdie comercială în formă este o scurtătură modernă de panificație casnică, pe lângă versiunile cu maia cu fermentație lungă, mai comune în brutăriile artizanale."
     }
   },
   "leaven": "yeast",
@@ -48,14 +56,22 @@
       "key": "flour:einkorn",
       "grams": 500,
       "note": {
-        "en": "all-purpose einkorn flour"
+        "en": "all-purpose einkorn flour",
+        "de": "helles Einkornmehl",
+        "es": "harina común de einkorn",
+        "fr": "farine d'engrain tout usage",
+        "ro": "făină de einkorn universală"
       }
     },
     {
       "key": "water",
       "grams": 296,
       "note": {
-        "en": "warm, 38-40°C"
+        "en": "warm, 38-40°C",
+        "de": "warm, 38-40 °C",
+        "es": "templada, 38-40 °C",
+        "fr": "tiède, 38-40 °C",
+        "ro": "caldă, 38-40 °C"
       }
     },
     {
@@ -66,7 +82,11 @@
       "key": "butter",
       "grams": 43,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topit"
       }
     },
     {
@@ -82,7 +102,11 @@
     "count": 1,
     "pieceGrams": 800,
     "shape": {
-      "en": "1 lb loaf pan"
+      "en": "1 lb loaf pan",
+      "de": "Kastenform für 500 g",
+      "es": "molde de pan de 500 g",
+      "fr": "moule à cake de 500 g",
+      "ro": "formă de chec de 500 g"
     }
   },
   "time": {
@@ -124,7 +148,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Einkorn's delicate crumb dries out a little faster than modern wheat; best within a few days or sliced and frozen."
+      "en": "Einkorn's delicate crumb dries out a little faster than modern wheat; best within a few days or sliced and frozen.",
+      "de": "Einkorns zarte Krume trocknet etwas schneller aus als moderner Weizen; am besten innerhalb weniger Tage oder in Scheiben geschnitten und eingefroren.",
+      "es": "La miga delicada del einkorn se seca un poco más rápido que la del trigo moderno; mejor dentro de unos días o rebanada y congelada.",
+      "fr": "La mie délicate de l'engrain sèche un peu plus vite que le blé moderne; meilleur dans les quelques jours ou tranché et congelé.",
+      "ro": "Miezul delicat al einkornului se usucă puțin mai repede decât grâul modern; cel mai bun în câteva zile sau tăiat felii și congelat."
     }
   },
   "equipment": [

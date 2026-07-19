@@ -21,10 +21,18 @@
   "origin": {
     "country": "PE",
     "region": {
-      "en": "Andes (Peru, Bolivia), Lake Titicaca basin cultivation 5,000-7,000 years old"
+      "en": "Andes (Peru, Bolivia), Lake Titicaca basin cultivation 5,000-7,000 years old",
+      "de": "Anden (Peru, Bolivien), Anbau im Titicacabecken seit 5.000-7.000 Jahren",
+      "es": "Andes (Perú, Bolivia), cultivo en la cuenca del lago Titicaca de 5.000 a 7.000 años de antigüedad",
+      "fr": "Andes (Pérou, Bolivie), culture dans le bassin du lac Titicaca vieille de 5 000 à 7 000 ans",
+      "ro": "Anzi (Peru, Bolivia), cultură în bazinul lacului Titicaca veche de 5.000-7.000 de ani"
     },
     "note": {
-      "en": "Called the Inca's 'Golden Grain of the Andes' and reportedly fed to warriors for strength; this multi-flour, yeasted loaf format is a modern gluten-free-baking adaptation, not a traditional Andean recipe."
+      "en": "Called the Inca's 'Golden Grain of the Andes' and reportedly fed to warriors for strength; this multi-flour, yeasted loaf format is a modern gluten-free-baking adaptation, not a traditional Andean recipe.",
+      "de": "Das 'Goldene Korn der Anden' der Inka genannt und angeblich Kriegern zur Stärkung gegeben; dieses Mehrmelhl-Hefe-Laib-Format ist eine moderne glutenfreie Backadaption, kein traditionelles andines Rezept.",
+      "es": "Llamado el 'Grano Dorado de los Andes' de los incas y, según se informa, se daba a los guerreros para fortalecerlos; este formato de pan de levadura con múltiples harinas es una adaptación moderna de repostería sin gluten, no una receta andina tradicional.",
+      "fr": "Appelé le 'Grain d'Or des Andes' des Incas et, dit-on, donné aux guerriers pour la force; ce format de pain levé multi-farine est une adaptation moderne de la pâtisserie sans gluten, pas une recette andine traditionnelle.",
+      "ro": "Numit 'Grăuntele de Aur al Anzilor' al incașilor și, se spune, administrat războinicilor pentru putere; acest format de pâine cu drojdie cu mai multe făinuri este o adaptare modernă de coacere fără gluten, nu o rețetă andină tradițională."
     }
   },
   "leaven": "yeast",
@@ -78,7 +86,11 @@
       "key": "flour:potato",
       "grams": 200,
       "note": {
-        "en": "potato starch, not whole potato flour"
+        "en": "potato starch, not whole potato flour",
+        "de": "Kartoffelstärke, nicht vollwertiges Kartoffelmehl",
+        "es": "almidón de patata, no harina de patata integral",
+        "fr": "fécule de pomme de terre, pas de farine de pomme de terre complète",
+        "ro": "amidon de cartof, nu făină integrală de cartof"
       }
     },
     {
@@ -111,7 +123,11 @@
       "key": "egg",
       "grams": 150,
       "note": {
-        "en": "3 large eggs"
+        "en": "3 large eggs",
+        "de": "3 große Eier",
+        "es": "3 huevos grandes",
+        "fr": "3 gros œufs",
+        "ro": "3 ouă mari"
       }
     },
     {
@@ -129,7 +145,11 @@
     "count": 1,
     "pieceGrams": 1050,
     "shape": {
-      "en": "standard loaf pan"
+      "en": "standard loaf pan",
+      "de": "Standard-Kastenform",
+      "es": "molde de pan estándar",
+      "fr": "moule à pain standard",
+      "ro": "formă de pâine standard"
     }
   },
   "time": {
@@ -169,7 +189,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; freeze anything left over, since this multi-flour gluten-free loaf stales quickly."
+      "en": "Best the day it's baked; freeze anything left over, since this multi-flour gluten-free loaf stales quickly.",
+      "de": "Am besten am Backtag; alles Übrige einfrieren, da dieser Mehrmelhl-Glutenfrei-Laib schnell altbacken wird.",
+      "es": "Mejor el día de horneado; congelar lo que sobre, ya que este pan sin gluten de múltiples harinas se pone duro rápidamente.",
+      "fr": "Meilleur le jour de la cuisson; congeler les restes car ce pain sans gluten multi-farine rassit rapidement.",
+      "ro": "Cel mai bun în ziua coacerii; congelați orice rămâne, deoarece această pâine fără gluten cu mai multe făinuri se învechește repede."
     }
   },
   "equipment": [
@@ -187,10 +211,10 @@
       },
       "summary": {
         "en": "Stir honey into warm water, sprinkle in the yeast, and let it sit 5-8 minutes until puffy.",
-        "de": "Honig in warmem Wasser verquirlen, die Hefe einrühren und 5-8 Minuten stehen lassen, bis es schaumig ist.",
-        "es": "Batir la miel en agua tibia, añadir la levadura y dejar reposar 5-8 minutos hasta que esté espumosa.",
-        "fr": "Fouetter le miel dans l'eau tiède, ajouter la levure et laisser reposer 5-8 minutes jusqu'à ce que ça mousse.",
-        "ro": "Amestecă mierea în apă călduță, adaugă drojdia și lasă să stea 5-8 minute până devine spumoasă."
+        "de": "Honig in warmem Wasser verrühren, die Hefe einstreuen und 5-8 Minuten stehen lassen, bis es schaumig ist.",
+        "es": "Disolver la miel en agua tibia, espolvorear la levadura y dejar reposar 5-8 minutos hasta que esté espumosa.",
+        "fr": "Délayer le miel dans l'eau tiède, saupoudrer la levure et laisser reposer 5-8 minutes jusqu'à ce que ce soit mousseux.",
+        "ro": "Amestecă mierea în apă călduță, presară drojdia și lasă să stea 5-8 minute până devine spumoasă."
       }
     },
     {
@@ -267,10 +291,10 @@
       },
       "summary": {
         "en": "Turn out of the pan and let it cool fully on a rack before cutting.",
-        "de": "Vollständig auf einem Gitter auskühlen lassen, bevor angeschnitten wird.",
-        "es": "Dejar enfriar por completo sobre una rejilla antes de cortar.",
-        "fr": "Laisser refroidir complètement sur une grille avant de trancher.",
-        "ro": "Lasă să se răcească complet pe un grătar înainte de feliere."
+        "de": "Aus der Form stürzen und auf einem Gitter vollständig auskühlen lassen, bevor angeschnitten wird.",
+        "es": "Desmoldar y dejar enfriar completamente sobre una rejilla antes de cortar.",
+        "fr": "Démouler et laisser refroidir complètement sur une grille avant de trancher.",
+        "ro": "Scoate din formă și lasă să se răcească complet pe un grătar înainte de a tăia."
       }
     }
   ],
@@ -279,7 +303,11 @@
     "site": "Simply Quinoa",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup measurements for the four flour/starch components converted to grams using estimated typical densities; potato starch counted under the taxonomy's potato flour type."
+      "en": "Cup measurements for the four flour/starch components converted to grams using estimated typical densities; potato starch counted under the taxonomy's potato flour type.",
+      "de": "Cup-Maße für die vier Mehl-/Stärkekomponenten unter Verwendung geschätzter typischer Dichten in Gramm umgerechnet; Kartoffelstärke unter dem Kartoffelmehltyp der Taxonomie gezählt.",
+      "es": "Medidas en tazas para los cuatro componentes de harina/almidón convertidas a gramos usando densidades típicas estimadas; almidón de patata contado bajo el tipo de harina de patata de la taxonomía.",
+      "fr": "Mesures en tasses pour les quatre composants de farine/fécule converties en grammes en utilisant des densités typiques estimées; fécule de pomme de terre comptée sous le type farine de pomme de terre de la taxonomie.",
+      "ro": "Măsurătorile cu cana pentru cele patru componente de făină/amidon convertite în grame folosind densități tipice estimate; amidonul de cartof numărat sub tipul de făină de cartof al taxonomiei."
     }
   },
   "tags": [

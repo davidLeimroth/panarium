@@ -22,10 +22,18 @@
   "origin": {
     "country": "TW",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Brought by Fuzhounese immigrants and popularized as street food from the 1970s; it became far better known abroad after chef David Chang's Momofuku popularized it as the 'pork belly bun' in the 2000s."
+      "en": "Brought by Fuzhounese immigrants and popularized as street food from the 1970s; it became far better known abroad after chef David Chang's Momofuku popularized it as the 'pork belly bun' in the 2000s.",
+      "de": "Von Einwanderern aus Fuzhou gebracht und ab den 1970er Jahren als Streetfood populär; im Ausland wurde es weitaus bekannter, nachdem Koch David Changs Momofuku es in den 2000ern als 'Pork Belly Bun' populär machte.",
+      "es": "Traído por inmigrantes de Fuzhou y popularizado como comida callejera a partir de los años 1970; se hizo mucho más conocido en el extranjero después de que el chef David Chang de Momofuku lo popularizara como 'pork belly bun' en los años 2000.",
+      "fr": "Apporté par des immigrants fuzhounais et popularisé comme nourriture de rue à partir des années 1970; il est devenu bien plus connu à l'étranger après que le chef David Chang de Momofuku l'a popularisé comme 'pork belly bun' dans les années 2000.",
+      "ro": "Adus de imigranții din Fuzhou și popularizat ca mâncare stradală din anii 1970; a devenit mult mai cunoscut în străinătate după ce bucătarul David Chang de la Momofuku l-a popularizat ca 'pork belly bun' în anii 2000."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "water",
       "grams": 155,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "templado",
+        "fr": "tiède",
+        "ro": "călduț"
       }
     },
     {
@@ -77,7 +89,11 @@
       },
       "grams": 400,
       "note": {
-        "en": "traditional filling, braised separately and folded in at serving"
+        "en": "traditional filling, braised separately and folded in at serving",
+        "de": "traditionelle Füllung, separat geschmort und beim Servieren eingefaltet",
+        "es": "relleno tradicional, estofado por separado e incorporado al servir",
+        "fr": "garniture traditionnelle, braisée séparément et pliée au service",
+        "ro": "umplutură tradițională, înăbușită separat și pliată la servire"
       }
     },
     {
@@ -90,7 +106,11 @@
       },
       "grams": 80,
       "note": {
-        "en": "traditional garnish"
+        "en": "traditional garnish",
+        "de": "traditionelle Garnitur",
+        "es": "guarnición tradicional",
+        "fr": "garniture traditionnelle",
+        "ro": "garnitură tradițională"
       }
     }
   ],
@@ -98,7 +118,11 @@
     "count": 8,
     "pieceGrams": 58,
     "shape": {
-      "en": "folded oval steamed bun (bun only, unfilled)"
+      "en": "folded oval steamed bun (bun only, unfilled)",
+      "de": "gefaltetes ovales gedämpftes Brötchen (nur Brötchen, ungefüllt)",
+      "es": "panecillo ovalado al vapor doblado (solo el panecillo, sin relleno)",
+      "fr": "petit pain ovale cuit à la vapeur plié (pain seulement, non farci)",
+      "ro": "chiflă ovală aburită pliată (doar chifla, neumplută)"
     }
   },
   "time": {
@@ -140,7 +164,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "The plain steamed bun freezes and resteams beautifully; classically assembled fresh with hot braised pork at serving."
+      "en": "The plain steamed bun freezes and resteams beautifully; classically assembled fresh with hot braised pork at serving.",
+      "de": "Das einfache gedämpfte Brötchen lässt sich gut einfrieren und wieder aufdämpfen; klassisch frisch mit heißem geschmortem Schweinefleisch beim Servieren zusammengestellt.",
+      "es": "El panecillo al vapor simple se congela y se vuelve a cocer al vapor perfectamente; clásicamente se monta fresco con cerdo estofado caliente al servir.",
+      "fr": "Le petit pain cuit à la vapeur nature se congèle et se revapeurise à merveille; classiquement assemblé frais avec du porc braisé chaud au service.",
+      "ro": "Chifla simplă aburită se congela și se reaburește perfect; clasic asamblată proaspătă cu porc înăbușit cald la servire."
     }
   },
   "equipment": [
@@ -249,7 +277,11 @@
     "site": "Red House Spice",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Bun dough grams kept as sourced; a short bulk rise was added as standard practice since the source's steps jumped straight to shaping; pork and garnish quantities are a typical per-bun estimate."
+      "en": "Bun dough grams kept as sourced; a short bulk rise was added as standard practice since the source's steps jumped straight to shaping; pork and garnish quantities are a typical per-bun estimate.",
+      "de": "Grammangaben des Brötchenteigs wie in der Quelle belassen; eine kurze Stockgare wurde als Standardpraxis hinzugefügt, da die Schritte der Quelle direkt zum Formen sprangen; Mengen für Schweinefleisch und Garnitur sind eine typische Schätzung pro Brötchen.",
+      "es": "Gramos de masa del panecillo mantenidos según la fuente; se añadió un breve levado en masa como práctica estándar ya que los pasos de la fuente saltaban directamente al formado; las cantidades de cerdo y guarnición son un estimado típico por panecillo.",
+      "fr": "Grammes de pâte à pain conservés tels que sourcés; une courte pousse en masse a été ajoutée comme pratique standard car les étapes de la source passaient directement au façonnage; les quantités de porc et de garniture sont une estimation typique par pain.",
+      "ro": "Gramele aluatului de chiflă păstrate conform sursei; o scurtă creștere în masă a fost adăugată ca practică standard, deoarece pașii sursei săreau direct la modelare; cantitățile de porc și garnitură sunt o estimare tipică per chiflă."
     }
   },
   "tags": [

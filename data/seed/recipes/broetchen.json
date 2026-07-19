@@ -22,10 +22,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Germany-wide"
+      "en": "Germany-wide",
+      "de": "Deutschlandweit",
+      "es": "En toda Alemania",
+      "fr": "Dans toute l'Allemagne",
+      "ro": "În toată Germania"
     },
     "note": {
-      "en": "The same everyday roll goes by different names regionally, Schrippe in Berlin, Wasserweck further west and south, Semmel in Bavaria and Austria."
+      "en": "The same everyday roll goes by different names regionally, Schrippe in Berlin, Wasserweck further west and south, Semmel in Bavaria and Austria.",
+      "de": "Dasselbe alltägliche Brötchen heißt regional unterschiedlich: Schrippe in Berlin, Wasserweck weiter westlich und südlich, Semmel in Bayern und Österreich.",
+      "es": "El mismo panecillo cotidiano recibe diferentes nombres según la región: Schrippe en Berlín, Wasserweck más al oeste y sur, Semmel en Baviera y Austria.",
+      "fr": "Le même petit pain quotidien porte différents noms selon les régions: Schrippe à Berlin, Wasserweck plus à l'ouest et au sud, Semmel en Bavière et en Autriche.",
+      "ro": "Același rulou de zi cu zi poartă nume diferite în funcție de regiune: Schrippe în Berlin, Wasserweck mai la vest și sud, Semmel în Bavaria și Austria."
     }
   },
   "leaven": "yeast",
@@ -48,14 +56,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "wheat flour type 550"
+        "en": "wheat flour type 550",
+        "de": "Weizenmehl Type 550",
+        "es": "harina de trigo tipo 550",
+        "fr": "farine de blé type 550",
+        "ro": "făină de grâu tip 550"
       }
     },
     {
       "key": "water",
       "grams": 340,
       "note": {
-        "en": "~25°C"
+        "en": "~25°C",
+        "de": "~25 °C",
+        "es": "~25 °C",
+        "fr": "~25 °C",
+        "ro": "~25 °C"
       }
     },
     {
@@ -75,7 +91,11 @@
     "count": 8,
     "pieceGrams": 100,
     "shape": {
-      "en": "round rolls, single scored slash"
+      "en": "round rolls, single scored slash",
+      "de": "runde Brötchen, ein einziger Einschnitt",
+      "es": "panecillos redondos, un solo corte marcado",
+      "fr": "petits pains ronds, une seule incision",
+      "ro": "chifle rotunde, o singură crestătură"
     }
   },
   "time": {
@@ -116,7 +136,11 @@
     "freshDays": 1.5,
     "freezes": true,
     "note": {
-      "en": "Best the day they're baked; a quick blast in a hot oven revives them the next morning."
+      "en": "Best the day they're baked; a quick blast in a hot oven revives them the next morning.",
+      "de": "Am besten am Backtag; ein kurzer Aufenthalt im heißen Ofen belebt sie am nächsten Morgen wieder.",
+      "es": "Mejor el día de horneado; un golpe rápido en un horno caliente los revive a la mañana siguiente.",
+      "fr": "Meilleurs le jour de la cuisson; un passage rapide au four chaud les ravive le lendemain matin.",
+      "ro": "Cei mai buni în ziua coacerii; o trecere rapidă prin cuptorul fierbinte îi revigorează a doua zi dimineața."
     }
   },
   "equipment": [

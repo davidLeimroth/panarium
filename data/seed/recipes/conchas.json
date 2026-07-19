@@ -23,10 +23,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "Mexico (nationwide)"
+      "en": "Mexico (nationwide)",
+      "de": "Mexiko (landesweit)",
+      "es": "México (en todo el país)",
+      "fr": "Mexique (dans tout le pays)",
+      "ro": "Mexic (la nivel național)"
     },
     "note": {
-      "en": "One of dozens of shapes sold from the same panadería tray; what defines a concha is the scored shell topping, not a fixed flavor - vanilla and chocolate are the two classics."
+      "en": "One of dozens of shapes sold from the same panadería tray; what defines a concha is the scored shell topping, not a fixed flavor - vanilla and chocolate are the two classics.",
+      "de": "Eine von Dutzenden Formen, die vom selben Panadería-Tablett verkauft werden; was eine Concha ausmacht, ist die geritzte Muschelkruste, nicht ein fester Geschmack. Vanille und Schokolade sind die beiden Klassiker.",
+      "es": "Una de docenas de formas que se venden desde la misma bandeja de panadería; lo que define a una concha es la cubierta de concha marcada, no un sabor fijo. Vainilla y chocolate son los dos clásicos.",
+      "fr": "Une des dizaines de formes vendues sur le même plateau de panadería; ce qui définit une concha est le couvercle coquille strié, pas une saveur fixe. Vanille et chocolat sont les deux classiques.",
+      "ro": "Una dintre zeci de forme vândute din aceeași tavă de panadería; ceea ce definește o concha este capacul striat în formă de scoică, nu o aromă fixă. Vanilie și ciocolată sunt cele două clasice."
     }
   },
   "leaven": "yeast",
@@ -50,28 +58,44 @@
       "key": "flour:wheat-white",
       "grams": 450,
       "note": {
-        "en": "all-purpose flour, for the dough"
+        "en": "all-purpose flour, for the dough",
+        "de": "Haushaltsmehl, für den Teig",
+        "es": "harina todo uso, para la masa",
+        "fr": "farine tout usage, pour la pâte",
+        "ro": "făină universală, pentru aluat"
       }
     },
     {
       "key": "milk",
       "grams": 140,
       "note": {
-        "en": "warmed, for the dough"
+        "en": "warmed, for the dough",
+        "de": "erwärmt, für den Teig",
+        "es": "tibia, para la masa",
+        "fr": "tiédi, pour la pâte",
+        "ro": "încălzit, pentru aluat"
       }
     },
     {
       "key": "active-dry-yeast",
       "grams": 7,
       "note": {
-        "en": "about 1 packet"
+        "en": "about 1 packet",
+        "de": "etwa 1 Päckchen",
+        "es": "aproximadamente 1 sobre",
+        "fr": "environ 1 sachet",
+        "ro": "aproximativ 1 plic"
       }
     },
     {
       "key": "sugar",
       "grams": 67,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
@@ -82,49 +106,77 @@
       "key": "butter",
       "grams": 113,
       "note": {
-        "en": "melted, for the dough"
+        "en": "melted, for the dough",
+        "de": "geschmolzen, für den Teig",
+        "es": "derretida, para la masa",
+        "fr": "fondu, pour la pâte",
+        "ro": "topit, pentru aluat"
       }
     },
     {
       "key": "egg",
       "grams": 150,
       "note": {
-        "en": "3 large eggs, beaten"
+        "en": "3 large eggs, beaten",
+        "de": "3 große Eier, verquirlt",
+        "es": "3 huevos grandes, batidos",
+        "fr": "3 gros œufs, battus",
+        "ro": "3 ouă mari, bătute"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 125,
       "note": {
-        "en": "for the shell topping paste; not counted toward the dough's flour percentage"
+        "en": "for the shell topping paste; not counted toward the dough's flour percentage",
+        "de": "für die Muschelkrustenpaste; nicht zum Mehlprozentanteil des Teigs gezählt",
+        "es": "para la pasta de la cubierta de concha; no contabilizada en el porcentaje de harina de la masa",
+        "fr": "pour la pâte du couvercle coquille; non comptée dans le pourcentage de farine de la pâte",
+        "ro": "pentru pasta capacului de scoică; neinclusă în procentul de făină al aluatului"
       }
     },
     {
       "key": "sugar",
       "grams": 80,
       "note": {
-        "en": "powdered sugar, for the topping"
+        "en": "powdered sugar, for the topping",
+        "de": "Puderzucker, für den Belag",
+        "es": "azúcar glas, para la cubierta",
+        "fr": "sucre glace, pour le couvercle",
+        "ro": "zahăr pudră, pentru capac"
       }
     },
     {
       "key": "butter",
       "grams": 113,
       "note": {
-        "en": "softened, for the topping"
+        "en": "softened, for the topping",
+        "de": "weich, für den Belag",
+        "es": "ablandada, para la cubierta",
+        "fr": "ramolli, pour le couvercle",
+        "ro": "moale, pentru capac"
       }
     },
     {
       "key": "vanilla",
       "grams": 4,
       "note": {
-        "en": "flavors half the topping batch"
+        "en": "flavors half the topping batch",
+        "de": "aromatisiert die Hälfte des Belags",
+        "es": "saboriza la mitad de la cubierta",
+        "fr": "parfume la moitié du couvercle",
+        "ro": "aromează jumătate din cantitatea de capac"
       }
     },
     {
       "key": "cocoa",
       "grams": 6,
       "note": {
-        "en": "flavors the other half of the topping batch"
+        "en": "flavors the other half of the topping batch",
+        "de": "aromatisiert die andere Hälfte des Belags",
+        "es": "saboriza la otra mitad de la cubierta",
+        "fr": "parfume l'autre moitié du couvercle",
+        "ro": "aromează cealaltă jumătate din cantitatea de capac"
       }
     }
   ],
@@ -132,7 +184,11 @@
     "count": 12,
     "pieceGrams": 105,
     "shape": {
-      "en": "round bun with scored shell topping"
+      "en": "round bun with scored shell topping",
+      "de": "rundes Brötchen mit geritzter Muschelkruste",
+      "es": "pan redondo con cubierta de concha marcada",
+      "fr": "petit pain rond avec couvercle coquille strié",
+      "ro": "chiflă rotundă cu capac striat în formă de scoică"
     }
   },
   "time": {
@@ -175,7 +231,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the day of baking with coffee or hot chocolate; the crumb still freezes and reheats well after the shell softens."
+      "en": "Best the day of baking with coffee or hot chocolate; the crumb still freezes and reheats well after the shell softens.",
+      "de": "Am besten am Backtag mit Kaffee oder heißer Schokolade; die Krume lässt sich auch nach dem Weichwerden der Kruste noch gut einfrieren und aufwärmen.",
+      "es": "Mejor el día de horneado con café o chocolate caliente; la miga aún se congela y recalienta bien después de que la cubierta se ablande.",
+      "fr": "Meilleur le jour de la cuisson avec du café ou du chocolat chaud; la mie se congèle et se réchauffe bien même après que la coquille ramollit.",
+      "ro": "Cel mai bun în ziua coacerii cu cafea sau ciocolată caldă; miezul încă îngheață și se reîncălzește bine după ce capacul se înmoaie."
     }
   },
   "equipment": [
@@ -301,7 +361,11 @@
     "site": "Isabel Eats",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "formula.* covers the dough only; the sugar-butter shell topping (split vanilla/cocoa) is itemized in ingredients but excluded from the flour total and hydration/sugar/fat percentages."
+      "en": "formula.* covers the dough only; the sugar-butter shell topping (split vanilla/cocoa) is itemized in ingredients but excluded from the flour total and hydration/sugar/fat percentages.",
+      "de": "formula.* deckt nur den Teig ab; der Zucker-Butter-Krustenbelag (aufgeteilt in Vanille/Kakao) ist in den Zutaten aufgeführt, aber vom Mehlgesamtanteil und den Hydratations-/Zucker-/Fettprozenten ausgeschlossen.",
+      "es": "formula.* cubre solo la masa; la cubierta de azúcar y mantequilla (dividida vainilla/cacao) está detallada en los ingredientes pero excluida del total de harina y de los porcentajes de hidratación, azúcar y grasa.",
+      "fr": "formula.* ne couvre que la pâte; le couvercle sucre-beurre (divisé vanille/cacao) est détaillé dans les ingrédients mais exclu du total de farine et des pourcentages d'hydratation/sucre/matière grasse.",
+      "ro": "formula.* acoperă doar aluatul; capacul de zahăr-unt (împărțit vanilie/cacao) este detaliat în ingrediente dar exclus din totalul de făină și procentele de hidratare/zahăr/grăsime."
     }
   },
   "tags": [

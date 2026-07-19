@@ -21,10 +21,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Nord-Pas-de-Calais (and Tournai, Belgium)"
+      "en": "Nord-Pas-de-Calais (and Tournai, Belgium)",
+      "de": "Nord-Pas-de-Calais (und Tournai, Belgien)",
+      "es": "Nord-Pas-de-Calais (y Tournai, Bélgica)",
+      "fr": "Nord-Pas-de-Calais (et Tournai, Belgique)",
+      "ro": "Nord-Pas-de-Calais (și Tournai, Belgia)"
     },
     "note": {
-      "en": "Said to have originated as scraps of dough flattened and baked in a wood oven not yet hot enough for the main batch of bread."
+      "en": "Said to have originated as scraps of dough flattened and baked in a wood oven not yet hot enough for the main batch of bread.",
+      "de": "Angeblich aus Teigresten entstanden, die flachgedrückt und in einem Holzofen gebacken wurden, der noch nicht heiß genug für die Hauptcharge Brot war.",
+      "es": "Se dice que se originó a partir de recortes de masa aplanados y horneados en un horno de leña que aún no estaba lo suficientemente caliente para la hornada principal de pan.",
+      "fr": "Serait née de chutes de pâte aplaties et cuites dans un four à bois pas encore assez chaud pour la fournée principale de pain.",
+      "ro": "Se spune că a provenit din resturi de aluat turtite și coapte într-un cuptor cu lemne încă neîncălzit suficient pentru șarja principală de pâine."
     }
   },
   "leaven": "yeast",
@@ -59,7 +67,11 @@
       "key": "vegetable-oil",
       "grams": 41,
       "note": {
-        "en": "grapeseed oil"
+        "en": "grapeseed oil",
+        "de": "Traubenkernöl",
+        "es": "aceite de semillas de uva",
+        "fr": "huile de pépins de raisin",
+        "ro": "ulei din semințe de struguri"
       }
     },
     {
@@ -79,7 +91,11 @@
     "count": 4,
     "pieceGrams": 200,
     "shape": {
-      "en": "flat disc"
+      "en": "flat disc",
+      "de": "flache Scheibe",
+      "es": "disco plano",
+      "fr": "disque plat",
+      "ro": "disc plat"
     }
   },
   "time": {
@@ -119,7 +135,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Soft and pale with no protective crust, so it's best eaten the day it's made."
+      "en": "Soft and pale with no protective crust, so it's best eaten the day it's made.",
+      "de": "Weich und blass ohne schützende Kruste, daher am besten am Tag der Zubereitung essen.",
+      "es": "Suave y pálida sin corteza protectora, por lo que es mejor comerla el día que se hace.",
+      "fr": "Molle et pâle sans croûte protectrice, donc à consommer le jour même.",
+      "ro": "Moale și palidă fără o crustă protectoare, deci cel mai bună în ziua în care se face."
     }
   },
   "equipment": [

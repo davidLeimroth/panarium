@@ -22,10 +22,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "Gujarat, western India"
+      "en": "Gujarat, western India",
+      "de": "Gujarat, Westindien",
+      "es": "Gujarat, India occidental",
+      "fr": "Gujarat, Inde occidentale",
+      "ro": "Gujarat, India de vest"
     },
     "note": {
-      "en": "Traditionally made from leftover roti dough to avoid waste; spiced versions add cumin, turmeric, chili powder or fenugreek (methi) leaves."
+      "en": "Traditionally made from leftover roti dough to avoid waste; spiced versions add cumin, turmeric, chili powder or fenugreek (methi) leaves.",
+      "de": "Traditionell aus übrigem Roti-Teig hergestellt, um Abfall zu vermeiden; gewürzte Versionen fügen Kreuzkümmel, Kurkuma, Chilipulver oder Bockshornkleeblätter (Methi) hinzu.",
+      "es": "Tradicionalmente hecho con masa de roti sobrante para evitar desperdicios; las versiones especiadas añaden comino, cúrcuma, chile en polvo u hojas de fenogreco (methi).",
+      "fr": "Traditionnellement fabriqué à partir de pâte à roti restante pour éviter le gaspillage; les versions épicées ajoutent du cumin, du curcuma, du piment en poudre ou des feuilles de fenugrec (methi).",
+      "ro": "Făcut în mod tradițional din aluat de roti rămas pentru a evita risipa; versiunile condimentate adaugă chimen, turmeric, pudră de chili sau frunze de schinduf (methi)."
     }
   },
   "leaven": "none",
@@ -59,7 +67,11 @@
       "key": "water",
       "grams": 150,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     }
   ],
@@ -67,7 +79,11 @@
     "count": 8,
     "pieceGrams": 34,
     "shape": {
-      "en": "paper-thin roasted disc, 15-18 cm, cracker-crisp"
+      "en": "paper-thin roasted disc, 15-18 cm, cracker-crisp",
+      "de": "hauchdünne geröstete Scheibe, 15–18 cm, cracker-knusprig",
+      "es": "disco tostado fino como papel, 15–18 cm, crujiente como galleta",
+      "fr": "disque grillé fin comme du papier, 15–18 cm, croustillant comme un cracker",
+      "ro": "disc prăjit subțire ca hârtia, 15–18 cm, crocant ca o cracker"
     }
   },
   "time": {
@@ -107,7 +123,11 @@
     "freshDays": 30,
     "freezes": false,
     "note": {
-      "en": "Its whole reason for being: keeps crisp for weeks in an airtight container at room temperature, no refrigeration needed."
+      "en": "Its whole reason for being: keeps crisp for weeks in an airtight container at room temperature, no refrigeration needed.",
+      "de": "Sein ganzer Daseinsgrund: bleibt wochenlang knusprig in einem luftdichten Behälter bei Raumtemperatur, keine Kühlung nötig.",
+      "es": "Su razón de ser: se mantiene crujiente durante semanas en un recipiente hermético a temperatura ambiente, sin necesidad de refrigeración.",
+      "fr": "Sa raison d'être: reste croustillant pendant des semaines dans un récipient hermétique à température ambiante, sans réfrigération.",
+      "ro": "Întregul său motiv de a fi: rămâne crocant săptămâni întregi într-un recipient ermetic la temperatura camerei, fără refrigerare."
     }
   },
   "equipment": [
@@ -216,7 +236,11 @@
     "site": "Gujarati Eats",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Hydration recalibrated to a standard chapati ratio (~60%) since the source gave only a vague liquid amount; pieceGrams reduced from raw dough weight for moisture loss, as with knäckebröd."
+      "en": "Hydration recalibrated to a standard chapati ratio (~60%) since the source gave only a vague liquid amount; pieceGrams reduced from raw dough weight for moisture loss, as with knäckebröd.",
+      "de": "Hydratation auf ein Standard-Chapati-Verhältnis (~60 %) neu kalibriert, da die Quelle nur eine vage Flüssigkeitsmenge angab; pieceGrams für Feuchtigkeitsverlust gegenüber dem Rohgewicht reduziert, wie bei Knäckebröd.",
+      "es": "Hidratación recalibrada a una proporción estándar de chapati (~60 %) ya que la fuente solo dio una cantidad de líquido vaga; pieceGrams reducidos del peso de masa cruda por pérdida de humedad, como con knäckebröd.",
+      "fr": "Hydratation recalibrée à un ratio standard de chapati (~60 %) car la source ne donnait qu'une quantité de liquide vague; pieceGrams réduits du poids de pâte crue pour la perte d'humidité, comme pour le knäckebröd.",
+      "ro": "Hidratarea recalibrată la un raport standard de chapati (~60 %), deoarece sursa a dat doar o cantitate vagă de lichid; pieceGrams redusă din greutatea aluatului brut pentru pierderea de umiditate, ca la knäckebröd."
     }
   },
   "tags": [

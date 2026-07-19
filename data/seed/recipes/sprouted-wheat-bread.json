@@ -22,10 +22,18 @@
   "origin": {
     "country": "IL",
     "region": {
-      "en": "Judaean Desert (Qumran) in antiquity; the technique is kept alive today mostly by natural-foods bakeries"
+      "en": "Judaean Desert (Qumran) in antiquity; the technique is kept alive today mostly by natural-foods bakeries",
+      "de": "Judäische Wüste (Qumran) in der Antike; die Technik wird heute hauptsächlich von Reformhausbäckereien am Leben gehalten",
+      "es": "Desierto de Judea (Qumrán) en la antigüedad; la técnica se mantiene viva hoy principalmente en panaderías de alimentos naturales",
+      "fr": "Désert de Judée (Qumrân) dans l'Antiquité; la technique est perpétuée aujourd'hui surtout par les boulangeries bio",
+      "ro": "Deșertul Iudeei (Qumran) în antichitate; tehnica este păstrată vie astăzi mai ales de brutăriile cu produse naturale"
     },
     "note": {
-      "en": "Attributed to the ancient Essene sect near the Dead Sea, though scholars find little direct evidence for the link; the sprouting-and-grinding method itself is very old and appears in several ancient Near Eastern food traditions."
+      "en": "Attributed to the ancient Essene sect near the Dead Sea, though scholars find little direct evidence for the link; the sprouting-and-grinding method itself is very old and appears in several ancient Near Eastern food traditions.",
+      "de": "Der alten essenischen Sekte am Toten Meer zugeschrieben, obwohl Gelehrte wenig direkte Belege für diese Verbindung finden; die Keim- und Mahlmethode selbst ist sehr alt und erscheint in mehreren altorientalischen Ernährungstraditionen.",
+      "es": "Atribuido a la antigua secta esenia cerca del Mar Muerto, aunque los estudiosos encuentran poca evidencia directa del vínculo; el método de germinado y molienda es muy antiguo y aparece en varias tradiciones alimentarias del antiguo Cercano Oriente.",
+      "fr": "Attribué à l'ancienne secte essénienne près de la mer Morte, bien que les chercheurs trouvent peu de preuves directes du lien; la méthode de germination et de mouture elle-même est très ancienne et apparaît dans plusieurs traditions alimentaires du Proche-Orient antique.",
+      "ro": "Atribuită sectei antice eseniene de lângă Marea Moartă, deși cercetătorii găsesc puține dovezi directe ale legăturii; metoda de încolțire și măcinare în sine este foarte veche și apare în mai multe tradiții alimentare din Orientul Apropiat antic."
     }
   },
   "leaven": "none",
@@ -46,14 +54,22 @@
       "key": "flour:wheat-whole",
       "grams": 400,
       "note": {
-        "en": "hard red wheat berries, whole (not milled), sprouted 2-3 days then ground fresh into a paste"
+        "en": "hard red wheat berries, whole (not milled), sprouted 2-3 days then ground fresh into a paste",
+        "de": "Harte rote Weizenkörner, ganz (nicht gemahlen), 2-3 Tage gekeimt, dann frisch zu einer Paste gemahlen",
+        "es": "Granos enteros de trigo rojo duro (no molidos), germinados 2-3 días y luego molidos frescos hasta formar una pasta",
+        "fr": "Baies de blé rouge dur, entières (non moulues), germées 2-3 jours puis moulues fraîches en pâte",
+        "ro": "Boabe întregi de grâu roșu dur (nemăcinate), încolțite 2-3 zile, apoi măcinate proaspăt într-o pastă"
       }
     },
     {
       "key": "water",
       "grams": 260,
       "note": {
-        "en": "residual moisture retained in the berries after sprouting and rinsing; a little more may be worked in by hand"
+        "en": "residual moisture retained in the berries after sprouting and rinsing; a little more may be worked in by hand",
+        "de": "Restfeuchte, die nach dem Keimen und Spülen in den Körnern verbleibt; etwas mehr kann von Hand eingearbeitet werden",
+        "es": "Humedad residual retenida en los granos después de germinar y enjuagar; se puede incorporar un poco más a mano",
+        "fr": "Humidité résiduelle retenue dans les baies après germination et rinçage; un peu plus peut être incorporée à la main",
+        "ro": "Umiditatea reziduală reținută în boabe după încolțire și clătire; un pic mai mult poate fi lucrată manual"
       }
     }
   ],
@@ -61,7 +77,11 @@
     "count": 2,
     "pieceGrams": 275,
     "shape": {
-      "en": "flattened round patty, about 4 cm thick"
+      "en": "flattened round patty, about 4 cm thick",
+      "de": "Flacher runder Fladen, etwa 4 cm dick",
+      "es": "Disco redondo aplanado, de unos 4 cm de grosor",
+      "fr": "Galette ronde aplatie, environ 4 cm d'épaisseur",
+      "ro": "Chiflă rotundă aplatizată, de aproximativ 4 cm grosime"
     }
   },
   "time": {
@@ -100,7 +120,11 @@
     "freshDays": 3.5,
     "freezes": true,
     "note": {
-      "en": "Keeps 3-4 days at room temperature and up to several weeks refrigerated; the dense, moist crumb resists staling better than yeasted bread."
+      "en": "Keeps 3-4 days at room temperature and up to several weeks refrigerated; the dense, moist crumb resists staling better than yeasted bread.",
+      "de": "Hält sich 3-4 Tage bei Raumtemperatur und bis zu mehreren Wochen im Kühlschrank; die dichte, feuchte Krume widersteht dem Altbackenwerden besser als gehefetes Brot.",
+      "es": "Se conserva 3-4 días a temperatura ambiente y hasta varias semanas refrigerado; la miga densa y húmeda resiste el endurecimiento mejor que el pan con levadura.",
+      "fr": "Se conserve 3-4 jours à température ambiante et jusqu'à plusieurs semaines au réfrigérateur; la mie dense et humide résiste mieux au rassissement qu'un pain levé.",
+      "ro": "Se păstrează 3-4 zile la temperatura camerei și până la câteva săptămâni la frigider; miezul dens și umed rezistă la învechire mai bine decât pâinea dospită."
     }
   },
   "equipment": [
@@ -209,7 +233,11 @@
     "site": "Simmer and Save",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Water content is an estimate of residual moisture in the ground sprout paste, since the source uses only wheat berries and soak/rinse water, most of which drains away rather than being measured in."
+      "en": "Water content is an estimate of residual moisture in the ground sprout paste, since the source uses only wheat berries and soak/rinse water, most of which drains away rather than being measured in.",
+      "de": "Der Wassergehalt ist eine Schätzung der Restfeuchte in der gemahlenen Keimlingspaste, da die Quelle nur Weizenkörner und Einweich-/Spülwasser verwendet, das größtenteils abläuft, statt eingemessen zu werden.",
+      "es": "El contenido de agua es una estimación de la humedad residual en la pasta de germinado molido, ya que la fuente usa solo granos de trigo y agua de remojo/enjuague, la mayor parte se escurre en lugar de medirse.",
+      "fr": "La teneur en eau est une estimation de l'humidité résiduelle de la pâte de germe moulue, car la source n'utilise que des baies de blé et de l'eau de trempage/rinçage, dont la majeure partie s'écoule plutôt que d'être mesurée.",
+      "ro": "Conținutul de apă este o estimare a umidității reziduale din pasta de germeni măcinați, deoarece sursa folosește doar boabe de grâu și apă de înmuiat/clătit, care se scurge în mare parte în loc să fie măsurată."
     }
   },
   "tags": [

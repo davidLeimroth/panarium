@@ -23,10 +23,18 @@
   "origin": {
     "country": "DO",
     "region": {
-      "en": "Caribbean (Dominican Republic, Cuba, Puerto Rico, Haiti) and northern South America"
+      "en": "Caribbean (Dominican Republic, Cuba, Puerto Rico, Haiti) and northern South America",
+      "de": "Karibik (Dominikanische Republik, Kuba, Puerto Rico, Haiti) und nördliches Südamerika",
+      "es": "Caribe (República Dominicana, Cuba, Puerto Rico, Haití) y el norte de Sudamérica",
+      "fr": "Caraïbes (République dominicaine, Cuba, Porto Rico, Haïti) et nord de l'Amérique du Sud",
+      "ro": "Caraibe (Republica Dominicană, Cuba, Puerto Rico, Haiti) și nordul Americii de Sud"
     },
     "note": {
-      "en": "Descends directly from Taino and other Arawak peoples, who pressed toxic compounds out of bitter cassava before cooking it; UNESCO listed casabe as Intangible Cultural Heritage in 2024. Modern versions often use milder sweet cassava."
+      "en": "Descends directly from Taino and other Arawak peoples, who pressed toxic compounds out of bitter cassava before cooking it; UNESCO listed casabe as Intangible Cultural Heritage in 2024. Modern versions often use milder sweet cassava.",
+      "de": "Stammt direkt von Taíno und anderen Arawak-Völkern ab, die giftige Verbindungen aus der bitteren Maniok pressten, bevor sie ihn kochten; die UNESCO hat Casabe 2024 als immaterielles Kulturerbe eingetragen. Moderne Versionen verwenden oft milderen süßen Maniok.",
+      "es": "Desciende directamente de los taínos y otros pueblos arawak, que exprimían los compuestos tóxicos de la yuca amarga antes de cocinarla; la UNESCO incluyó el casabe como Patrimonio Cultural Inmaterial en 2024. Las versiones modernas suelen usar yuca dulce más suave.",
+      "fr": "Descend directement des Taïnos et autres peuples Arawaks, qui pressaient les composés toxiques du manioc amer avant de le cuire; l'UNESCO a inscrit le casabe au patrimoine culturel immatériel en 2024. Les versions modernes utilisent souvent du manioc doux plus doux.",
+      "ro": "Descinde direct de la Taino și alte popoare Arawak, care storceau compușii toxici din manioc amar înainte de a-l găti; UNESCO a înscris casabe ca Patrimoniu Cultural Imaterial în 2024. Versiunile moderne folosesc adesea manioc dulce mai blând."
     }
   },
   "leaven": "none",
@@ -62,7 +70,11 @@
     "count": 12,
     "pieceGrams": 30,
     "shape": {
-      "en": "large thin round or rectangle, griddle-cooked"
+      "en": "large thin round or rectangle, griddle-cooked",
+      "de": "großer dünner runder oder rechteckiger Fladen, auf der Platte gebacken",
+      "es": "círculo o rectángulo grande y delgado, cocido en plancha",
+      "fr": "grand cercle ou rectangle fin, cuit sur une plaque",
+      "ro": "cerc sau dreptunghi mare și subțire, gătit pe plită"
     }
   },
   "time": {
@@ -101,7 +113,11 @@
     "freshDays": 90,
     "freezes": true,
     "note": {
-      "en": "Famous for keeping far longer than ordinary bread when kept dry; Indigenous Caribbean and South American peoples relied on it as a durable staple."
+      "en": "Famous for keeping far longer than ordinary bread when kept dry; Indigenous Caribbean and South American peoples relied on it as a durable staple.",
+      "de": "Bekannt dafür, bei trockener Lagerung weit länger haltbar zu sein als gewöhnliches Brot; indigene Völker der Karibik und Südamerikas verließen sich darauf als haltbares Grundnahrungsmittel.",
+      "es": "Famoso por conservarse mucho más tiempo que el pan común cuando se mantiene seco; los pueblos indígenas del Caribe y Sudamérica dependían de él como un alimento básico duradero.",
+      "fr": "Célèbre pour se conserver bien plus longtemps que le pain ordinaire lorsqu'il est maintenu au sec; les peuples autochtones des Caraïbes et d'Amérique du Sud comptaient sur lui comme aliment de base durable.",
+      "ro": "Faimos pentru că se păstrează mult mai mult decât pâinea obișnuită când este ținut uscat; popoarele indigene din Caraibe și America de Sud s-au bazat pe el ca aliment de bază durabil."
     }
   },
   "equipment": [
@@ -150,10 +166,10 @@
       },
       "summary": {
         "en": "Transfer the paste to a tray and chill about 5 hours, stirring each hour until it's noticeably drier.",
-        "de": "Die gepresste Masse auf einem Blech verteilen und etwa 5 Stunden im Kühlschrank ruhen lassen, dabei jede Stunde umrühren, damit sie weiter trocknet.",
-        "es": "Extender la pasta prensada en una bandeja y dejarla en el refrigerador unas 5 horas, removiendo cada hora, para que se seque más.",
-        "fr": "Étaler la pâte pressée sur un plateau et laisser reposer au réfrigérateur environ 5 heures, en remuant toutes les heures, pour qu'elle sèche davantage.",
-        "ro": "Întinde pasta stoarsă pe o tavă și las-o la frigider aproximativ 5 ore, amestecând din oră în oră, ca să se usuce mai mult."
+        "de": "Die Masse auf einem Blech verteilen und etwa 5 Stunden kühlen, dabei jede Stunde umrühren, bis sie merklich trockener ist.",
+        "es": "Extender la pasta en una bandeja y enfriar unas 5 horas, removiendo cada hora hasta que esté visiblemente más seca.",
+        "fr": "Étaler la pâte sur une plaque et réfrigérer environ 5 heures, en remuant chaque heure jusqu'à ce qu'elle soit nettement plus sèche.",
+        "ro": "Întinde pasta pe o tavă și dă la frigider aproximativ 5 ore, amestecând în fiecare oră până se usucă vizibil."
       }
     },
     {
@@ -226,7 +242,11 @@
     "site": "196 Flavors",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Hydration is unusually low here because moisture is pressed out of the grated root rather than added; per-round weight is estimated from the source's starting 2 lb (907g) of whole cassava."
+      "en": "Hydration is unusually low here because moisture is pressed out of the grated root rather than added; per-round weight is estimated from the source's starting 2 lb (907g) of whole cassava.",
+      "de": "Hydratation ist hier ungewöhnlich niedrig, da die Feuchtigkeit aus der geriebenen Wurzel gepresst wird und nicht hinzugefügt; das Gewicht pro Fladen wird aus den angegebenen 907 g ganzer Maniok geschätzt.",
+      "es": "La hidratación es inusualmente baja aquí porque la humedad se exprime de la raíz rallada en lugar de añadirse; el peso por pieza se estima a partir de los 907 g de yuca entera iniciales de la fuente.",
+      "fr": "L'hydratation est ici inhabituellement basse car l'humidité est pressée de la racine râpée plutôt qu'ajoutée; le poids par pièce est estimé à partir des 907 g de manioc entier de départ de la source.",
+      "ro": "Hidratarea este neobișnuit de scăzută aici deoarece umezeala este stoarsă din rădăcina rasă, nu adăugată; greutatea per bucată este estimată din cei 907 g de manioc întreg ai sursei."
     }
   },
   "tags": [

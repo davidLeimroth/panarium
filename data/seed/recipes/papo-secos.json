@@ -21,10 +21,18 @@
   "origin": {
     "country": "PT",
     "region": {
-      "en": "nationwide, also Portuguese-American New England"
+      "en": "nationwide, also Portuguese-American New England",
+      "de": "landesweit, auch portugiesisch-amerikanisches Neuengland",
+      "es": "a nivel nacional, también la Nueva Inglaterra portugués-estadounidense",
+      "fr": "à l'échelle nationale, aussi la Nouvelle-Angleterre portuguaise-américaine",
+      "ro": "la nivel național, şi Noua Anglie portughezo-americană"
     },
     "note": {
-      "en": "The name means roughly 'dry throat'; the rolls are Portugal's most-eaten everyday bread and remain a fixture of Portuguese-American bakeries in Massachusetts and Rhode Island."
+      "en": "The name means roughly 'dry throat'; the rolls are Portugal's most-eaten everyday bread and remain a fixture of Portuguese-American bakeries in Massachusetts and Rhode Island.",
+      "de": "Der Name bedeutet in etwa „trockener Schlund“; die Brötchen sind Portugals meistgegessenes Alltagsbrot und bleiben ein fester Bestandteil portugiesisch-amerikanischer Bäckereien in Massachusetts und Rhode Island.",
+      "es": "El nombre significa aproximadamente 'garganta seca'; los panecillos son el pan cotidiano más consumido de Portugal y siguen siendo un elemento fijo de las panaderı́as portuguesas en Massachusetts y Rhode Island.",
+      "fr": "Le nom signifie à peu près « gorge sèche » ; les petits pains sont le pain quotidien le plus consommé du Portugal et restent un incontournable des boulangeries portugaises du Massachusetts et du Rhode Island.",
+      "ro": "Numele înseamnă aproximativ „gât uscat”; chiflele sunt cea mai consumată pâine de zi cu zi a Portugaliei şi rămân un element fix al brutariilor portugheze din Massachusetts şi Rhode Island."
     }
   },
   "leaven": "yeast",
@@ -48,14 +56,22 @@
       "key": "flour:wheat-white",
       "grams": 625,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de fuerza",
+        "fr": "farine de gruau",
+        "ro": "făină pentru pâine"
       }
     },
     {
       "key": "water",
       "grams": 474,
       "note": {
-        "en": "combined dough and yeast-activation water"
+        "en": "combined dough and yeast-activation water",
+        "de": "kombiniertes Teig- und Hefeaktivierungswasser",
+        "es": "agua combinada de la masa y de activación de levadura",
+        "fr": "eau combinée de la pâte et d'activation de la levure",
+        "ro": "apă combinată a aluatului şi de activare a drojdiei"
       }
     },
     {
@@ -78,7 +94,11 @@
       "key": "cornmeal",
       "grams": 15,
       "note": {
-        "en": "for dusting the peel and proofing cloth"
+        "en": "for dusting the peel and proofing cloth",
+        "de": "zum Bestauben des Brotschiebers und des Gahrtuchs",
+        "es": "para espolvorear la pala de horno y el paño de fermentación",
+        "fr": "pour saupoudrer la pelle à pain et le tissu de pousse",
+        "ro": "pentru presăratul lăpii şi ă drapeului de crestere"
       }
     }
   ],
@@ -86,7 +106,11 @@
     "count": 10,
     "pieceGrams": 118,
     "shape": {
-      "en": "crusty half-moon roll with a deep center crease"
+      "en": "crusty half-moon roll with a deep center crease",
+      "de": "krosse halbmondförmige Rolle mit tiefer Mittelfalte",
+      "es": "panecillo crujiente de media luna con un pliegue central profundo",
+      "fr": "petit pain croustillant en demi-lune avec un pli central profond",
+      "ro": "chiflă crocantă în formă de semilună cu o şanțuire adancă în centru"
     }
   },
   "time": {
@@ -128,7 +152,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best eaten the day of baking while the crust still crackles; a daily-bakery staple in Portugal and Portuguese-American communities."
+      "en": "Best eaten the day of baking while the crust still crackles; a daily-bakery staple in Portugal and Portuguese-American communities.",
+      "de": "Am besten am Backtag, während die Kruste noch kracht; ein tägliches Bäckerei-Grundnahrungsmittel in Portugal und portugiesisch-amerikanischen Gemeinden.",
+      "es": "Mejor el dı́a de hornear mientras la corteza cruje; un alimento básico de panaderı́a diaria en Portugal y las comunidades portugués-estadounidenses.",
+      "fr": "Meilleur le jour de la cuisson quand la croûte craque encore ; un aliment de base de la boulangerie quotidienne au Portugal et dans les communautés portugaises d'Amérique.",
+      "ro": "Cel mai bun în ziua coacerii, când coaja mai troşneşte; un aliment de bază al brutariilor de zi cu zi din Portugalia şi comunităţile portugheze din America."
     }
   },
   "equipment": [
@@ -254,7 +282,11 @@
     "site": "Leite's Culinaria",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams kept as sourced; cornmeal dusting quantity estimated since the source gave no amount; overall timing follows the source's own stated 'about 12 hours, mostly hands-off.'"
+      "en": "Grams kept as sourced; cornmeal dusting quantity estimated since the source gave no amount; overall timing follows the source's own stated 'about 12 hours, mostly hands-off.'",
+      "de": "Gramm wie in der Quelle belassen; die Menge des Maismehls zum Bestauben geschätzt, da die Quelle keine Angabe machte; die Gesamtzeit folgt der eigenen Angabe der Quelle von „etwa 12 Stunden, größtenteils arbeitsfrei“.",
+      "es": "Gramos mantenidos según la fuente; la cantidad de harina de maı́z para espolvorear se estimó ya que la fuente no dio cantidad; el tiempo total sigue la propia indicación de la fuente de 'aproximadamente 12 horas, mayormente sin intervención'.",
+      "fr": "Grammes conservés tels que sourcés ; la quantité de farine de maı̈s pour saupoudrer a été estimée car la source n'en donnait pas ; la durée totale suit la propre indication de la source d'« environ 12 heures, surtout sans intervention ».",
+      "ro": "Gramele păstrate ca în sursă; cantitatea de făină de porumb pentru presărat estimată, deoarece sursa nu a dat o cantitate; timpul total urmează propria indicare a sursei de „aproximativ 12 ore, mai ales fără intervenţie”."
     }
   },
   "tags": [

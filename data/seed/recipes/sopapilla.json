@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "New Mexico (Albuquerque) and the American Southwest"
+      "en": "New Mexico (Albuquerque) and the American Southwest",
+      "de": "New Mexico (Albuquerque) und der amerikanische Südwesten",
+      "es": "Nuevo México (Albuquerque) y el suroeste estadounidense",
+      "fr": "Nouveau-Mexique (Albuquerque) et le Sud-Ouest américain",
+      "ro": "New Mexico (Albuquerque) și sud-vestul american"
     },
     "note": {
-      "en": "Emerged in the 1800s from the blending of Hispano and Native American foodways in New Mexico under Spanish, Mexican and American territorial rule; served as a savory bread substitute or, dusted with cinnamon sugar, as a dessert."
+      "en": "Emerged in the 1800s from the blending of Hispano and Native American foodways in New Mexico under Spanish, Mexican and American territorial rule; served as a savory bread substitute or, dusted with cinnamon sugar, as a dessert.",
+      "de": "Entstand im 19. Jahrhundert aus der Vermischung hispanischer und indigener amerikanischer Esskulturen in New Mexico unter spanischer, mexikanischer und amerikanischer Territorialherrschaft; wird als herzhafter Brotersatz oder, mit Zimtzucker bestreut, als Dessert serviert.",
+      "es": "Surgió en el siglo XIX de la fusión de las tradiciones culinarias hispanas y nativoamericanas en Nuevo México bajo el dominio territorial español, mexicano y estadounidense; se sirve como sustituto salado del pan o, espolvoreado con azúcar y canela, como postre.",
+      "fr": "Apparu au XIXe siècle du mélange des traditions culinaires hispaniques et amérindiennes au Nouveau-Mexique sous la domination territoriale espagnole, mexicaine et américaine ; servi comme substitut de pain salé ou, saupoudré de sucre à la cannelle, comme dessert.",
+      "ro": "A apărut în secolul al XIX-lea din îmbinarea obiceiurilor culinare hispane și nativ-americane în New Mexico sub stăpânirea teritorială spaniolă, mexicană și americană; servit ca înlocuitor sărat al pâinii sau, presărat cu zahăr cu scorțișoară, ca desert."
     }
   },
   "leaven": "chemical",
@@ -57,35 +65,55 @@
       "key": "lard",
       "grams": 27,
       "note": {
-        "en": "or vegetable shortening"
+        "en": "or vegetable shortening",
+        "de": "oder pflanzliches Backfett",
+        "es": "o manteca vegetal",
+        "fr": "ou shortening végétal",
+        "ro": "sau untură vegetală"
       }
     },
     {
       "key": "water",
       "grams": 178,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 325,
       "note": {
-        "en": "for deep-frying; only a small fraction is absorbed into the dough"
+        "en": "for deep-frying; only a small fraction is absorbed into the dough",
+        "de": "zum Frittieren; nur ein kleiner Teil wird in den Teig aufgenommen",
+        "es": "para freír; solo una pequeña fracción se absorbe en la masa",
+        "fr": "pour la friture ; seule une petite fraction est absorbée dans la pâte",
+        "ro": "pentru prăjit în baie de ulei; doar o mică parte este absorbită în aluat"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "for the cinnamon-sugar coating"
+        "en": "for the cinnamon-sugar coating",
+        "de": "für die Zimt-Zucker-Beschichtung",
+        "es": "para la cobertura de canela y azúcar",
+        "fr": "pour l’enrobage cannelle-sucre",
+        "ro": "pentru acoperirea cu scorțișoară și zahăr"
       }
     },
     {
       "key": "cinnamon",
       "grams": 3,
       "note": {
-        "en": "ground, for the coating"
+        "en": "ground, for the coating",
+        "de": "gemahlen, für die Beschichtung",
+        "es": "molida, para la cobertura",
+        "fr": "moulue, pour l’enrobage",
+        "ro": "măcinată, pentru acoperire"
       }
     }
   ],
@@ -93,7 +121,11 @@
     "count": 20,
     "pieceGrams": 25,
     "shape": {
-      "en": "quartered wedges from five 8-inch rolled circles"
+      "en": "quartered wedges from five 8-inch rolled circles",
+      "de": "gevierteilte Stücke aus fünf runden ausgerollten Kreisen von 20,3 cm",
+      "es": "cuñas en cuartos de cinco círculos enrollados de 20,3 cm",
+      "fr": "quartiers de cinq cercles roulés de 20,3 cm",
+      "ro": "pene în sferturi din cinci cercuri rulate de 20,3 cm"
     }
   },
   "time": {
@@ -133,7 +165,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best eaten hot and puffed, minutes from the fryer; they deflate and toughen quickly once cool."
+      "en": "Best eaten hot and puffed, minutes from the fryer; they deflate and toughen quickly once cool.",
+      "de": "Am besten heiß und aufgebläht essen, Minuten aus dem Frittieröl; sie fallen zusammen und werden schnell zäh, sobald sie abkühlen.",
+      "es": "Mejor comerlos calientes e inflados, a los pocos minutos de la freidora; se desinflan y endurecen rápidamente una vez fríos.",
+      "fr": "Meilleurs mangés chauds et gonflés, quelques minutes après la friture ; ils se dégonflent et durcissent rapidement une fois refroidis.",
+      "ro": "Cel mai bun consumat fierbinte și umflat, la câteva minute după prăjire; se dezumflă și se întăresc repede odată reci."
     }
   },
   "equipment": [
@@ -242,7 +278,11 @@
     "site": "Muy Bueno",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Frying oil listed separately since only a small fraction is absorbed into the dough; formula reflects the dough only. Lard used per the source's shortening alternative."
+      "en": "Frying oil listed separately since only a small fraction is absorbed into the dough; formula reflects the dough only. Lard used per the source's shortening alternative.",
+      "de": "Frittieröl separat aufgeführt, da nur ein kleiner Teil in den Teig aufgenommen wird; Rezeptur bezieht sich nur auf den Teig. Schmalz gemäß der Alternativangabe der Quelle verwendet.",
+      "es": "Aceite de fritura listado por separado ya que solo una pequeña fracción se absorbe en la masa; la fórmula refleja solo la masa. Manteca de cerdo utilizada según la alternativa de grasa de la fuente.",
+      "fr": "Huile de friture listée séparément car seule une petite fraction est absorbée dans la pâte ; la formule ne reflète que la pâte. Saindoux utilisé selon l’alternative de matière grasse de la source.",
+      "ro": "Uleiul de prăjit listat separat deoarece doar o mică parte este absorbită în aluat; formula reflectă doar aluatul. Untură de porc folosită conform alternativei de grăsime din sursă."
     }
   },
   "tags": [

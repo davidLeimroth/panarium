@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "New England (Massachusetts)"
+      "en": "New England (Massachusetts)",
+      "de": "Neuengland (Massachusetts)",
+      "es": "Nueva Inglaterra (Massachusetts)",
+      "fr": "Nouvelle-Angleterre (Massachusetts)",
+      "ro": "New England (Massachusetts)"
     },
     "note": {
-      "en": "Emerged in the early 1800s alongside Boston baked beans as a hearty Saturday-night supper bread; traditionally steamed, first over the open hearth and later in the reused coffee cans that gave it its ridged cylindrical shape."
+      "en": "Emerged in the early 1800s alongside Boston baked beans as a hearty Saturday-night supper bread; traditionally steamed, first over the open hearth and later in the reused coffee cans that gave it its ridged cylindrical shape.",
+      "de": "Entstand im frühen 19. Jahrhundert zusammen mit Boston Baked Beans als herzhaftes Samstagabendbrot; traditionell gedämpft, zuerst über offenem Feuer und später in wiederverwendeten Kaffeedosen, die ihm seine gerippte zylindrische Form gaben.",
+      "es": "Surgió a principios del siglo XIX junto con los frijoles horneados de Boston como un pan sustancioso para la cena del sábado; tradicionalmente cocido al vapor, primero sobre el hogar abierto y luego en latas de café reutilizadas que le dieron su forma cilíndrica acanalada.",
+      "fr": "Apparu au début du XIXe siècle aux côtés des Boston baked beans comme un pain de souper copieux du samedi soir; traditionnellement cuit à la vapeur, d'abord sur l'âtre ouvert puis dans des boîtes de café réutilisées qui lui ont donné sa forme cylindrique cannelée.",
+      "ro": "Apărut la începutul anilor 1800, alături de fasolea coaptă Boston, ca o pâine copioasă pentru cina de sâmbătă seara; tradițional fiartă la abur, mai întâi pe vatră deschisă și mai târziu în conserve de cafea reutilizate care i-au dat forma cilindrică crestată."
     }
   },
   "leaven": "chemical",
@@ -61,7 +69,11 @@
       "key": "flour:corn",
       "grams": 85,
       "note": {
-        "en": "finely ground cornmeal"
+        "en": "finely ground cornmeal",
+        "de": "fein gemahlener Maismehl",
+        "es": "harina de maíz finamente molida",
+        "fr": "farine de maïs finement moulue",
+        "ro": "mălai fin măcinat"
       }
     },
     {
@@ -86,7 +98,11 @@
       },
       "grams": 0.5,
       "note": {
-        "en": "optional"
+        "en": "optional",
+        "de": "optional",
+        "es": "opcional",
+        "fr": "facultatif",
+        "ro": "opțional"
       }
     },
     {
@@ -102,7 +118,11 @@
     "count": 1,
     "pieceGrams": 560,
     "shape": {
-      "en": "cylindrical loaf steamed in a 28oz can, sliced into rounds"
+      "en": "cylindrical loaf steamed in a 28oz can, sliced into rounds",
+      "de": "zylindrischer Laib, in einer 800-g-Dose gedämpft, in Scheiben geschnitten",
+      "es": "pan cilíndrico cocido al vapor en una lata de 800 g, cortado en rodajas",
+      "fr": "pain cylindrique cuit à la vapeur dans une boîte de 800 g, tranché en rondelles",
+      "ro": "pâine cilindrică fiartă la abur într-o conservă de 800 g, feliată în rondele"
     }
   },
   "time": {
@@ -142,7 +162,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "Keeps unusually well, moist for the better part of a week; good served with butter or cream cheese, or fried in butter the next day."
+      "en": "Keeps unusually well, moist for the better part of a week; good served with butter or cream cheese, or fried in butter the next day.",
+      "de": "Hält sich ungewöhnlich lange, bleibt den größten Teil einer Woche feucht; gut mit Butter oder Frischkäse, oder am nächsten Tag in Butter gebraten.",
+      "es": "Se conserva inusualmente bien, húmedo durante la mayor parte de una semana; bueno servido con mantequilla o queso crema, o frito en mantequilla al día siguiente.",
+      "fr": "Se conserve exceptionnellement bien, reste moite la majeure partie de la semaine; bon servi avec du beurre ou du fromage à la crème, ou poêlé au beurre le lendemain.",
+      "ro": "Se păstrează neobișnuit de bine, rămâne umed pentru cea mai mare parte a săptămânii; bun servit cu unt sau brânză cremoasă, sau prăjit în unt a doua zi."
     }
   },
   "equipment": [
@@ -207,10 +231,10 @@
       },
       "summary": {
         "en": "Scrape the batter into the buttered can and seal tightly with foil.",
-        "de": "Den Teig in die vorbereitete Dose füllen und die Öffnung fest mit gebutterter Folie verschließen.",
-        "es": "Verter la masa en la lata preparada y sellar bien la parte superior con papel de aluminio untado con mantequilla.",
-        "fr": "Verser la pâte dans la boîte préparée et sceller hermétiquement le dessus avec du papier aluminium beurré.",
-        "ro": "Toarnă compoziția în cutia pregătită și sigilează bine partea de sus cu folie de aluminiu unsă cu unt."
+        "de": "Den Teig in die gebutterte Dose füllen und die Öffnung fest mit Folie verschließen.",
+        "es": "Verter la masa en la lata enmantecada y sellar bien con papel de aluminio.",
+        "fr": "Verser la pâte dans la boîte beurrée et fermer hermétiquement avec du papier d'aluminium.",
+        "ro": "Toarnă compoziția în cutia unsă cu unt și sigilează bine cu folie."
       }
     },
     {
@@ -252,7 +276,11 @@
     "author": "Gemma Stafford",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Molasses's water content estimated at a typical ~22% since it isn't one of this taxonomy's defined conversions."
+      "en": "Molasses's water content estimated at a typical ~22% since it isn't one of this taxonomy's defined conversions.",
+      "de": "Wassergehalt der Melasse auf typische ~22 % geschätzt, da dies nicht zu den definierten Umrechnungen dieser Taxonomie gehört.",
+      "es": "Contenido de agua de la melaza estimado en un típico ~22 % ya que no es una de las conversiones definidas de esta taxonomía.",
+      "fr": "Teneur en eau de la mélasse estimée à ~22 % typique car elle ne fait pas partie des conversions définies de cette taxonomie.",
+      "ro": "Conținutul de apă al melasei estimat la ~22 % tipic, deoarece nu este una dintre conversiile definite ale acestei taxonomii."
     }
   },
   "tags": [

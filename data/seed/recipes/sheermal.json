@@ -22,10 +22,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "Lucknow, Awadh (also Hyderabad and Kashmir)"
+      "en": "Lucknow, Awadh (also Hyderabad and Kashmir)",
+      "de": "Lucknow, Awadh (auch Hyderabad und Kashmir)",
+      "es": "Lucknow, Awadh (también Hyderabad y Cachemira)",
+      "fr": "Lucknow, Awadh (également Hyderabad et Cachemire)",
+      "ro": "Lucknow, Awadh (de asemenea Hyderabad și Cașmir)"
     },
     "note": {
-      "en": "Name blends Persian 'sheer' (milk) and 'mal' (to rub/massage), tracing to Mughal and Nawabi royal kitchens."
+      "en": "Name blends Persian 'sheer' (milk) and 'mal' (to rub/massage), tracing to Mughal and Nawabi royal kitchens.",
+      "de": "Der Name verbindet persisch „sheer“ (Milch) und „mal“ (reiben/massieren) und führt auf die königlichen Küchen der Moguln und Nawabs zurück.",
+      "es": "El nombre combina el persa «sheer» (leche) y «mal» (frotar/masajear), remontándose a las cocinas reales mogolas y nawabíes.",
+      "fr": "Le nom associe le persan « sheer » (lait) et « mal » (frotter/masser), remontant aux cuisines royales mogholes et nawabies.",
+      "ro": "Numele îmbină persanul «sheer» (lapte) și «mal» (a freca/masaj), având origini în bucătăriile regale mogule și nawabe."
     }
   },
   "leaven": "chemical",
@@ -52,14 +60,22 @@
       "key": "milk",
       "grams": 240,
       "note": {
-        "en": "warm, in the dough"
+        "en": "warm, in the dough",
+        "de": "warm, im Teig",
+        "es": "tibia, en la masa",
+        "fr": "tiède, dans la pâte",
+        "ro": "călduță, în aluat"
       }
     },
     {
       "key": "cardamom",
       "grams": 1,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
@@ -74,7 +90,11 @@
       "key": "butter",
       "grams": 100,
       "note": {
-        "en": "ghee, worked into the dough in stages"
+        "en": "ghee, worked into the dough in stages",
+        "de": "Ghee, stufenweise in den Teig eingearbeitet",
+        "es": "ghee, incorporado a la masa por etapas",
+        "fr": "ghee, incorporé à la pâte par étapes",
+        "ro": "ghee, încorporat în aluat în etape"
       }
     },
     {
@@ -91,7 +111,11 @@
       "key": "baking-powder",
       "grams": 2.3,
       "note": {
-        "en": "optional, for a lighter crumb"
+        "en": "optional, for a lighter crumb",
+        "de": "optional, für eine lockerere Krume",
+        "es": "opcional, para una miga más ligera",
+        "fr": "facultatif, pour une mie plus légère",
+        "ro": "opțional, pentru un miez mai ușor"
       }
     },
     {
@@ -104,21 +128,33 @@
       },
       "grams": 0.3,
       "note": {
-        "en": "crushed, steeped in the brushing milk"
+        "en": "crushed, steeped in the brushing milk",
+        "de": "zerdrückt, in der Bestreichmilch eingelegt",
+        "es": "machacado, infusionado en la leche de barnizar",
+        "fr": "écrasé, infusé dans le lait à dorer",
+        "ro": "zdrobit, infuzat în laptele de uns"
       }
     },
     {
       "key": "milk",
       "grams": 45,
       "note": {
-        "en": "warm, for the saffron steep; brushed on after baking"
+        "en": "warm, for the saffron steep; brushed on after baking",
+        "de": "warm, für den Safranzuguss; nach dem Backen aufgestrichen",
+        "es": "caliente, para la infusión de azafrán; se barniza después de hornear",
+        "fr": "chaud, pour l’infusion de safran ; badigeonné après la cuisson",
+        "ro": "cald, pentru infuzia de șofran; uns după coacere"
       }
     },
     {
       "key": "butter",
       "grams": 40,
       "note": {
-        "en": "ghee, for the final brushing"
+        "en": "ghee, for the final brushing",
+        "de": "Ghee, für den letzten Anstrich",
+        "es": "ghee, para el barniz final",
+        "fr": "ghee, pour la dernière dorure",
+        "ro": "ghee, pentru unsul final"
       }
     }
   ],
@@ -126,7 +162,11 @@
     "count": 8,
     "pieceGrams": 91,
     "shape": {
-      "en": "6-7 in (15-18 cm) disc"
+      "en": "6-7 in (15-18 cm) disc",
+      "de": "Fladen von 15-18 cm Durchmesser",
+      "es": "disco de 15-18 cm de diámetro",
+      "fr": "disque de 15-18 cm de diamètre",
+      "ro": "disc de 15-18 cm diametru"
     }
   },
   "time": {
@@ -167,7 +207,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Ghee keeps it tender for a few days; warm gently before serving. Wrap airtight; freezes well par-baked."
+      "en": "Ghee keeps it tender for a few days; warm gently before serving. Wrap airtight; freezes well par-baked.",
+      "de": "Ghee hält es einige Tage zart; vor dem Servieren sanft erwärmen. Luftdicht einwickeln; lässt sich gut halbgebacken einfrieren.",
+      "es": "El ghee lo mantiene tierno durante unos días; calentar suavemente antes de servir. Envolver hermético; se congela bien a medio hornear.",
+      "fr": "Le ghee le maintient tendre quelques jours ; réchauffer doucement avant de servir. Emballer hermétiquement ; se congèle bien mi-cuit.",
+      "ro": "Ghee-ul îl menține fraged câteva zile; încălzește ușor înainte de servire. Împachetează ermetic; congelează bine semicopt."
     }
   },
   "equipment": [
@@ -276,7 +320,11 @@
     "site": "Dassana's Veg Recipes",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Oven method used instead of the source's stovetop tawa for a reproducible temperature; baking powder included for a lighter crumb; kewra water treated as full water-equivalent."
+      "en": "Oven method used instead of the source's stovetop tawa for a reproducible temperature; baking powder included for a lighter crumb; kewra water treated as full water-equivalent.",
+      "de": "Ofenmethode anstelle der herdplatten-Tawa der Quelle für eine reproduzierbare Temperatur verwendet; Backpulver für eine lockerere Krume enthalten; Kewra-Wasser als voller Wasseranteil behandelt.",
+      "es": "Se usó método de horno en lugar del tawa de la fuente para una temperatura reproducible; se incluyó polvo de hornear para una miga más ligera; el agua de kewra se trató como equivalente total de agua.",
+      "fr": "Méthode au four utilisée au lieu du tawa de la source pour une température reproductible ; levure chimique incluse pour une mie plus légère ; l’eau de kewra traitée comme équivalent eau complet.",
+      "ro": "Metoda la cuptor folosită în locul tawa de pe plită din sursă pentru o temperatură reproductibilă; praf de copt inclus pentru un miez mai ușor; apa de kewra tratată ca echivalent complet de apă."
     }
   },
   "tags": [

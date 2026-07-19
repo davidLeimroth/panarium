@@ -23,10 +23,18 @@
   "origin": {
     "country": "LB",
     "region": {
-      "en": "Levant and Egypt"
+      "en": "Levant and Egypt",
+      "de": "Levante und Ägypten",
+      "es": "Levante y Egipto",
+      "fr": "Levant et Égypte",
+      "ro": "Levantul și Egiptul"
     },
     "note": {
-      "en": "Mahlab, ground from St. Lucie cherry pits, flavors sweet breads and pastries across the Eastern Mediterranean; this seeded, olive-oil version is a home-bakery teatime bread rather than a festival loaf."
+      "en": "Mahlab, ground from St. Lucie cherry pits, flavors sweet breads and pastries across the Eastern Mediterranean; this seeded, olive-oil version is a home-bakery teatime bread rather than a festival loaf.",
+      "de": "Mahlab, aus den Kernen der Sankt-Luzien-Kirsche gemahlen, würzt süße Brote und Gebäck im gesamten östlichen Mittelmeerraum; diese gesäte Version mit Olivenöl ist ein Teezeit-Brot für die Hausbäckerei, kein Festtagslaib.",
+      "es": "El mahlab, molido de huesos de cereza de Santa Lucía, aromatiza panes dulces y pasteles en todo el Mediterráneo oriental; esta versión con semillas y aceite de oliva es un pan casero para la hora del té, no un pan festivo.",
+      "fr": "Le mahlab, moulu à partir de noyaux de cerises de Sainte-Lucie, parfume les pains sucrés et pâtisseries dans toute la Méditerranée orientale; cette version aux graines et à l'huile d'olive est un pain de goûter maison plutôt qu'un pain de fête.",
+      "ro": "Mahlab, măcinat din sâmburi de cireșe de Sfânta Lucia, aromatizează pâinile dulci și produsele de patiserie din întregul Mediteraneean de Est; această versiune cu semințe și ulei de măsline este o pâine de ceai de casă, nu o pâine festivă."
     }
   },
   "leaven": "yeast",
@@ -58,7 +66,11 @@
       "key": "olive-oil",
       "grams": 154,
       "note": {
-        "en": "rubbed into the flour until sandy, plus extra for brushing"
+        "en": "rubbed into the flour until sandy, plus extra for brushing",
+        "de": "in das Mehl eingerieben, bis es sandig ist, plus etwas mehr zum Bestreichen",
+        "es": "frotada en la harina hasta arenoso, más un poco extra para untar",
+        "fr": "frotté dans la farine jusqu'à consistance sablonneuse, plus un peu pour badigeonner",
+        "ro": "frecată în făină până devine nisipoasă, plus puțin în plus pentru uns"
       }
     },
     {
@@ -83,21 +95,33 @@
       "key": "salt",
       "grams": 10,
       "note": {
-        "en": "not specified by source; a modest amount added as is typical for yeasted dough"
+        "en": "not specified by source; a modest amount added as is typical for yeasted dough",
+        "de": "von der Quelle nicht angegeben; eine bescheidene Menge hinzugefügt, wie für Hefeteig üblich",
+        "es": "no especificado por la fuente; se añadió una cantidad modesta, típica para masas levadas",
+        "fr": "non spécifié par la source; une quantité modeste ajoutée comme il est typique pour une pâte levée",
+        "ro": "nespecificat de sursă; s-a adăugat o cantitate modestă, tipică pentru aluat dospit"
       }
     },
     {
       "key": "anise",
       "grams": 18,
       "note": {
-        "en": "whole and ground seeds, combined"
+        "en": "whole and ground seeds, combined",
+        "de": "ganze und gemahlene Samen, kombiniert",
+        "es": "semillas enteras y molidas, combinadas",
+        "fr": "graines entières et moulues, combinées",
+        "ro": "semințe întregi și măcinate, combinate"
       }
     },
     {
       "key": "fennel-seed",
       "grams": 1.2,
       "note": {
-        "en": "ground"
+        "en": "ground",
+        "de": "gemahlen",
+        "es": "molido",
+        "fr": "moulu",
+        "ro": "măcinat"
       }
     },
     {
@@ -114,7 +138,11 @@
       "key": "sesame-seeds",
       "grams": 27,
       "note": {
-        "en": "white and optional black sesame, for the dough and topping"
+        "en": "white and optional black sesame, for the dough and topping",
+        "de": "weißer und optional schwarzer Sesam, für den Teig und den Belag",
+        "es": "sésamo blanco y opcional negro, para la masa y la cobertura",
+        "fr": "sésame blanc et noir facultatif, pour la pâte et la garniture",
+        "ro": "susan alb și negru opțional, pentru aluat și acoperire"
       }
     }
   ],
@@ -122,7 +150,11 @@
     "count": 10,
     "pieceGrams": 115,
     "shape": {
-      "en": "thin round, about 1 cm thick"
+      "en": "thin round, about 1 cm thick",
+      "de": "dünner runder Fladen, etwa 1 cm dick",
+      "es": "disco fino, de aproximadamente 1 cm de grosor",
+      "fr": "disque fin, d'environ 1 cm d'épaisseur",
+      "ro": "disc subțire, aproximativ 1 cm grosime"
     }
   },
   "time": {
@@ -163,7 +195,11 @@
     "freshDays": 10,
     "freezes": true,
     "note": {
-      "en": "Its whole point is long shelf life: keeps over a week in an airtight tin and needs no reheating."
+      "en": "Its whole point is long shelf life: keeps over a week in an airtight tin and needs no reheating.",
+      "de": "Sein ganzer Sinn ist die lange Haltbarkeit: hält sich über eine Woche in einer luftdichten Dose und muss nicht aufgewärmt werden.",
+      "es": "Todo su propósito es la larga vida útil: se conserva más de una semana en una lata hermética y no necesita recalentarse.",
+      "fr": "Tout son intérêt est sa longue conservation: se garde plus d'une semaine dans une boîte hermétique et ne nécessite pas de réchauffage.",
+      "ro": "Întregul său scop este durata lungă de păstrare: se păstrează peste o săptămână într-o cutie ermetică și nu necesită reîncălzire."
     }
   },
   "equipment": [
@@ -261,9 +297,9 @@
       "summary": {
         "en": "Arrange on an oiled tray, coat the tops with olive oil, then top with more sesame seeds.",
         "de": "Auf einem geölten Blech anrichten, mit Olivenöl bestreichen und mit weiteren Sesamsamen bestreuen.",
-        "es": "Colocar en una bandeja aceitada, pincelar con aceite de oliva y esparcir más semillas de sésamo.",
+        "es": "Colocar en una bandeja engrasada, untar la superficie con aceite de oliva y espolvorear con más semillas de sésamo.",
         "fr": "Disposer sur une plaque huilée, badigeonner d'huile d'olive et parsemer de graines de sésame supplémentaires.",
-        "ro": "Așază pe o tavă unsă, unge cu ulei de măsline și presară deasupra mai multe semințe de susan."
+        "ro": "Așază pe o tavă unsă cu ulei, unge deasupra cu ulei de măsline și presară mai multe semințe de susan."
       }
     },
     {
@@ -288,7 +324,11 @@
     "site": "Honest Cooking",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup measures converted to grams; source did not list salt, so a modest typical amount was added; chose the 10-large-piece option over the 20-small alternative."
+      "en": "Cup measures converted to grams; source did not list salt, so a modest typical amount was added; chose the 10-large-piece option over the 20-small alternative.",
+      "de": "Tassenmaße in Gramm umgerechnet; die Quelle führte kein Salz auf, daher wurde eine bescheidene typische Menge zugegeben; die Option mit 10 großen Stücken statt der Alternative mit 20 kleinen gewählt.",
+      "es": "Medidas en tazas convertidas a gramos; la fuente no indicaba sal, por lo que se añadió una cantidad modesta típica; se eligió la opción de 10 piezas grandes sobre la alternativa de 20 pequeñas.",
+      "fr": "Mesures en tasses converties en grammes; la source ne mentionnait pas de sel, donc une quantité modeste typique a été ajoutée; l'option de 10 gros morceaux a été choisie plutôt que l'alternative de 20 petits.",
+      "ro": "Măsurile de cani convertite în grame; sursa nu a listat sare, așa că s-a adăugat o cantitate modestă tipică; s-a ales opțiunea cu 10 bucăți mari în locul alternativei cu 20 mici."
     }
   },
   "tags": [

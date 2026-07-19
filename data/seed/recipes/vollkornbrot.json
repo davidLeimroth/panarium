@@ -22,10 +22,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Germany-wide, strongest in the north"
+      "en": "Germany-wide, strongest in the north",
+      "de": "deutschlandweit, am stärksten im Norden",
+      "es": "en toda Alemania, con más fuerza en el norte",
+      "fr": "dans toute l'Allemagne, surtout dans le nord",
+      "ro": "la nivel național, cel mai puternic în nord"
     },
     "note": {
-      "en": "Protected term in Germany: Vollkornbrot must be at least 90% wholegrain."
+      "en": "Protected term in Germany: Vollkornbrot must be at least 90% wholegrain.",
+      "de": "Geschützter Begriff in Deutschland: Vollkornbrot muss mindestens 90 % Vollkornanteil haben.",
+      "es": "Término protegido en Alemania: el Vollkornbrot debe contener al menos un 90 % de grano entero.",
+      "fr": "Terme protégé en Allemagne : le Vollkornbrot doit contenir au moins 90 % de céréales complètes.",
+      "ro": "Termen protejat în Germania: Vollkornbrot trebuie să conțină cel puțin 90 % cereale integrale."
     }
   },
   "leaven": "sourdough",
@@ -51,7 +59,11 @@
       "key": "flour:rye-whole",
       "grams": 450,
       "note": {
-        "en": "coarse rye meal (Roggenschrot)"
+        "en": "coarse rye meal (Roggenschrot)",
+        "de": "grobes Roggenmehl (Roggenschrot)",
+        "es": "harina de centeno gruesa (Roggenschrot)",
+        "fr": "farine de seigle grossière (Roggenschrot)",
+        "ro": "făină grosieră de secară (Roggenschrot)"
       }
     },
     {
@@ -62,14 +74,22 @@
       "key": "water",
       "grams": 425,
       "note": {
-        "en": "warm, ~35°C"
+        "en": "warm, ~35°C",
+        "de": "warm, ~35°C",
+        "es": "templada, ~35°C",
+        "fr": "tiède, ~35°C",
+        "ro": "călduță, ~35°C"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 50,
       "note": {
-        "en": "active rye starter"
+        "en": "active rye starter",
+        "de": "aktiver Roggensauerteig",
+        "es": "prefermento de centeno activo",
+        "fr": "levain de seigle actif",
+        "ro": "maia activă de secară"
       }
     },
     {
@@ -80,14 +100,22 @@
       "key": "sunflower-seeds",
       "grams": 100,
       "note": {
-        "en": "toasted"
+        "en": "toasted",
+        "de": "geröstet",
+        "es": "tostados",
+        "fr": "torréfiées",
+        "ro": "prăjite"
       }
     },
     {
       "key": "flax-seeds",
       "grams": 50,
       "note": {
-        "en": "soaked overnight"
+        "en": "soaked overnight",
+        "de": "über Nacht eingeweicht",
+        "es": "remojados toda la noche",
+        "fr": "trempés toute la nuit",
+        "ro": "înmuiate peste noapte"
       }
     }
   ],
@@ -95,7 +123,11 @@
     "count": 1,
     "pieceGrams": 1100,
     "shape": {
-      "en": "pullman/tin loaf"
+      "en": "pullman/tin loaf",
+      "de": "Kastenformbrot",
+      "es": "hogaza de molde",
+      "fr": "pain de moule (pullman)",
+      "ro": "pâine de tavă (pullman)"
     }
   },
   "time": {
@@ -137,7 +169,11 @@
     "freshDays": 7,
     "freezes": true,
     "note": {
-      "en": "Wrap in linen; wait 24h before the first slice or the crumb smears."
+      "en": "Wrap in linen; wait 24h before the first slice or the crumb smears.",
+      "de": "In Leinentuch wickeln; 24 Stunden warten vor dem ersten Schnitt, sonst schmiert die Krume.",
+      "es": "Envolver en lino; esperar 24 h antes del primer corte o la miga se deshace.",
+      "fr": "Envelopper dans un linge; attendre 24 h avant la première tranche, sinon la mie colle.",
+      "ro": "Învelește în pânză de in; așteaptă 24 h înainte de prima felie, altfel miezul se întinde."
     }
   },
   "equipment": [
@@ -247,7 +283,11 @@
     "author": "Lutz Geißler (style reference)",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Composite of classic German home-baking ratios; simplified one-stage sourdough."
+      "en": "Composite of classic German home-baking ratios; simplified one-stage sourdough.",
+      "de": "Zusammenstellung klassischer deutschen Hausbäckerei-Verhältnisse; vereinfachter einstufiger Sauerteig.",
+      "es": "Compuesto de proporciones clásicas de panadería casera alemana; prefermento simplificado de una etapa.",
+      "fr": "Assemblage de ratios classiques de la boulangerie domestique allemande; levain direct simplifié.",
+      "ro": "Compus din proporții clasice ale panificației casnice germane; maia simplificată într-o singură etapă."
     }
   },
   "tags": [

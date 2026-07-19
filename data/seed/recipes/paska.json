@@ -22,10 +22,18 @@
   "origin": {
     "country": "UA",
     "region": {
-      "en": "Ukraine-wide; also Poland, Slovakia and the diaspora"
+      "en": "Ukraine-wide; also Poland, Slovakia and the diaspora",
+      "de": "Ukraine-weit; auch Polen, Slowakei und Diaspora",
+      "es": "en toda Ucrania; también Polonia, Eslovaquia y la diaspora",
+      "fr": "dans toute l'Ukraine ; aussi Pologne, Slovaquie et diaspora",
+      "ro": "la nivelul Ucrainei; de asemenea Polonia, Slovacia şi diaspora"
     },
     "note": {
-      "en": "Blessed in the Easter basket on Holy Saturday. Rounder, flatter and far less sweet than Russian kulich, paska's glory is its sculpted dough decoration, not icing."
+      "en": "Blessed in the Easter basket on Holy Saturday. Rounder, flatter and far less sweet than Russian kulich, paska's glory is its sculpted dough decoration, not icing.",
+      "de": "Wird am Karsamstag im Osterkorb gesegnet. Runder, flacher und weit weniger süß als russischer Kulich; die Pracht der Paska liegt in der verzierten Hefefigur, nicht im Zuckerguss.",
+      "es": "Bendecida en la cesta de Pascua el Sábado Santo. Más redonda, más plana y mucho menos dulce que el kulich ruso; la gloria de la paska es su decoración esculpida de masa, no el glaseado.",
+      "fr": "Benite dans le panier de Pâques le Samedi Saint. Plus ronde, plus plate et bien moins sucrée que le kulich russe ; la gloire de la paska est sa décoration en pâte façonnée, pas le glaçage.",
+      "ro": "Binecuvântată în coşul de Paște în Sâmbăta Mare. Mai rotundă, mai plătă şi cu mult mai puţin dulce decât kulichul rus; gloria paştii este decorul de aluat modelat, nu glazura."
     }
   },
   "leaven": "yeast",
@@ -49,28 +57,44 @@
       "key": "flour:wheat-white",
       "grams": 800,
       "note": {
-        "en": "bread flour or high-protein all-purpose"
+        "en": "bread flour or high-protein all-purpose",
+        "de": "Brotmehl oder hochproteinhaltiges Weizenmehl Type 405",
+        "es": "harina de fuerza o harina común alta en protena",
+        "fr": "farine de gruau ou farine tout usage riche en protes",
+        "ro": "făină pentru pâine sau făină universală bogată în proteine"
       }
     },
     {
       "key": "milk",
       "grams": 350,
       "note": {
-        "en": "whole, warmed to ~43°C"
+        "en": "whole, warmed to ~43°C",
+        "de": "ganz, auf etwa 43 °C erwärmt",
+        "es": "entera, calentada a aproximadamente 43 °C",
+        "fr": "entier, chauffé à environ 43 °C",
+        "ro": "integral, încălzit la aproximativ 43 °C"
       }
     },
     {
       "key": "egg",
       "grams": 150,
       "note": {
-        "en": "3 large"
+        "en": "3 large",
+        "de": "3 große",
+        "es": "3 grandes",
+        "fr": "3 gros",
+        "ro": "3 mari"
       }
     },
     {
       "key": "butter",
       "grams": 50,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topit"
       }
     },
     {
@@ -81,7 +105,11 @@
       "key": "active-dry-yeast",
       "grams": 14,
       "note": {
-        "en": "2 packets"
+        "en": "2 packets",
+        "de": "2 Packungen",
+        "es": "2 paquetes",
+        "fr": "2 sachets",
+        "ro": "2 pliculețe"
       }
     },
     {
@@ -92,7 +120,11 @@
       "key": "raisins",
       "grams": 75,
       "note": {
-        "en": "optional; some families add saffron instead"
+        "en": "optional; some families add saffron instead",
+        "de": "optional; manche Familien geben stattdessen Safran",
+        "es": "opcional; algunas familias añaden azafrán en su lugar",
+        "fr": "optionnel ; certaines familles ajoutent du safran à la place",
+        "ro": "optional; unele familii adăugă şofran în loc"
       }
     }
   ],
@@ -100,7 +132,11 @@
     "count": 1,
     "pieceGrams": 1400,
     "shape": {
-      "en": "tall round loaf in a 23 cm springform, decorated top"
+      "en": "tall round loaf in a 23 cm springform, decorated top",
+      "de": "hoher runder Laib in einer 23 cm Springform, verziert obendrauf",
+      "es": "pan redondo alto en un molde desmontable de 23 cm, decorado en la parte superior",
+      "fr": "pain rond haut dans un moule à charnière de 23 cm, décoré sur le dessus",
+      "ro": "pâine înaltă rotundă într-o formă cu inel detașabil de 23 cm, decorată deasupra"
     }
   },
   "time": {
@@ -142,7 +178,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best fresh with butter or cheese; toast day-three slices."
+      "en": "Best fresh with butter or cheese; toast day-three slices.",
+      "de": "Am besten frisch mit Butter oder Käse; Tag-drei-Scheiben toasten.",
+      "es": "Mejor fresco con mantequilla o queso; tostar las rebanadas del tercer dı́a.",
+      "fr": "Meilleur frais avec du beurre ou du fromage ; griller les tranches du troisième jour.",
+      "ro": "Cel mai bun proaspăt cu unt sau câţ; praj̧te felii de ziua a treia."
     }
   },
   "equipment": [
@@ -252,7 +292,11 @@
     "site": "OvenTales",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Yeast normalized to 14 g active dry (the source's tsp and gram figures disagree); yeastPct given as instant-yeast equivalent."
+      "en": "Yeast normalized to 14 g active dry (the source's tsp and gram figures disagree); yeastPct given as instant-yeast equivalent.",
+      "de": "Hefe auf 14 g Trockenhefe normalisiert (die TL- und Gramm-Angaben der Quelle widersprechen sich); Hefeanteil als Instant-Hefe-Äquivalent angegeben.",
+      "es": "Levadura normalizada a 14 g de levadura seca activa (las cantidades en cucharaditas y gramos discrepan); levaduraPct se da como equivalente de levadura instantánea.",
+      "fr": "Levure normalisée à 14 g de levure sèche active (les quantités en c. à café et en grammes divergent) ; levurePct donné en équivalent levure instantanée.",
+      "ro": "Drojdie normalizată la 14 g drojdie uscată activă (cantităţile în liniţe şi grame sunt în dezacord); levurePct este dat ca echivalent de drojdie instantanee."
     }
   },
   "tags": [

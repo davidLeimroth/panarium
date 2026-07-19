@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "Moderne amerikanische Handwerksbäckereien",
+      "es": "Panaderías artesanales estadounidenses modernas",
+      "fr": "Boulangeries artisanales américaines modernes",
+      "ro": "Brutării artizanale americane moderne"
     },
     "note": {
-      "en": "A contemporary artisan formula pairing American cornmeal traditions with a wheat sourdough base."
+      "en": "A contemporary artisan formula pairing American cornmeal traditions with a wheat sourdough base.",
+      "de": "Eine zeitgenössische Handwerksformel, die amerikanische Maismehltraditionen mit einer Weizensauerteigbasis verbindet.",
+      "es": "Una fórmula artesanal contemporánea que combina las tradiciones estadounidenses de harina de maíz con una base de masa madre de trigo.",
+      "fr": "Une formule artisanale contemporaine associant les traditions américaines de farine de maïs à une base de levain de blé.",
+      "ro": "O formulă artizanală contemporană care îmbină tradițiile americane de făină de porumb cu o bază de maia de grâu."
     }
   },
   "leaven": "sourdough",
@@ -49,14 +57,22 @@
       "key": "flour:wheat-white",
       "grams": 702,
       "note": {
-        "en": "blend of bread flour and a high-protein bread flour"
+        "en": "blend of bread flour and a high-protein bread flour",
+        "de": "Mischung aus Brotmehl und einem hochproteinhaltigen Brotmehl",
+        "es": "mezcla de harina de pan y una harina de pan alta en proteína",
+        "fr": "mélange de farine à pain et d'une farine à pain riche en protéines",
+        "ro": "amestec de făină de pâine și o făină de pâine cu conținut ridicat de proteine"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 302,
       "note": {
-        "en": "high-extraction (Type 85-style) flour"
+        "en": "high-extraction (Type 85-style) flour",
+        "de": "hochausgemahlenes Mehl (Typ 85-Stil)",
+        "es": "harina de alta extracción (estilo Tipo 85)",
+        "fr": "farine à haut taux d'extraction (type 85)",
+        "ro": "făină cu extracție ridicată (tip 85)"
       }
     },
     {
@@ -75,7 +91,11 @@
       "key": "cornmeal",
       "grams": 170,
       "note": {
-        "en": "coarse polenta, soaked in hot whey then drained"
+        "en": "coarse polenta, soaked in hot whey then drained",
+        "de": "grobe Polenta, in heißer Molke eingeweicht und abgetropft",
+        "es": "polenta gruesa, remojada en suero caliente y escurrida",
+        "fr": "polenta grossière, trempée dans du petit-lait chaud puis égouttée",
+        "ro": "polentă grosieră, înmuiată în zer fierbinte apoi scursă"
       }
     },
     {
@@ -88,7 +108,11 @@
       },
       "grams": 445,
       "note": {
-        "en": "used to soak the polenta; most drains away before mixing"
+        "en": "used to soak the polenta; most drains away before mixing",
+        "de": "zum Einweichen der Polenta verwendet; der größte Teil läuft vor dem Mischen ab",
+        "es": "usado para remojar la polenta; la mayor parte se escurre antes de mezclar",
+        "fr": "utilisé pour tremper la polenta; la majeure partie s'égoutte avant le mélange",
+        "ro": "folosit pentru înmuierea polentei; cea mai mare parte se scurge înainte de amestecare"
       }
     },
     {
@@ -106,7 +130,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "batard or boule"
+      "en": "batard or boule",
+      "de": "Bâtard oder Boule",
+      "es": "batard o boule",
+      "fr": "bâtard ou boule",
+      "ro": "batard sau boule"
     }
   },
   "time": {
@@ -303,7 +331,11 @@
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Polenta and whey treated as inclusions outside the 100% flour base; high-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown."
+      "en": "Polenta and whey treated as inclusions outside the 100% flour base; high-extraction flour modeled as a 60/40 white/whole-wheat blend for the formula's type breakdown.",
+      "de": "Polenta und Molke als Zutaten außerhalb der 100 % Mehlbasis behandelt; hochausgemahlenes Mehl als 60/40-Weißmehl-Vollkornweizen-Mischung für die Typenaufschlüsselung der Formel modelliert.",
+      "es": "Polenta y suero tratados como inclusiones fuera de la base de 100% harina; harina de alta extracción modelada como una mezcla 60/40 de harina blanca/integral para el desglose de tipos de la fórmula.",
+      "fr": "Polenta et petit-lait traités comme des inclusions hors de la base 100 % farine; farine à haut taux d'extraction modélisée comme un mélange 60/40 farine blanche/complète pour la répartition des types de la formule.",
+      "ro": "Polenta și zerul tratate ca incluziuni în afara bazei 100% făină; făina cu extracție ridicată modelată ca un amestec 60/40 făină albă/integrală pentru defalcarea tipurilor formulei."
     }
   },
   "tags": [

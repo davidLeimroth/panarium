@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American craft-brewery bakeries"
+      "en": "Modern American craft-brewery bakeries",
+      "de": "Moderne amerikanische Craft-Brewery-Bäckereien",
+      "es": "Panaderías artesanales estadounidenses de microcervecerías modernas",
+      "fr": "Boulangeries artisanales américaines de microbrasseries modernes",
+      "ro": "Brutării artizanale americane din microberării moderne"
     },
     "note": {
-      "en": "Spent grain is beer brewing's biggest byproduct by volume; pairing a brewery with a bakery to bake it into bread is a 21st-century sustainability practice, not a historical recipe."
+      "en": "Spent grain is beer brewing's biggest byproduct by volume; pairing a brewery with a bakery to bake it into bread is a 21st-century sustainability practice, not a historical recipe.",
+      "de": "Biertreber ist nach Volumen das größte Nebenprodukt des Bierbrauens; die Kombination einer Brauerei mit einer Bäckerei, um daraus Brot zu backen, ist eine Nachhaltigkeitspraxis des 21. Jahrhunderts und kein historisches Rezept.",
+      "es": "El bagazo de cerveza es el subproducto más voluminoso de la elaboración de cerveza; combinar una cervecería con una panadería para hornear pan es una práctica de sostenibilidad del siglo XXI, no una receta histórica.",
+      "fr": "La drêche est le plus gros sous-produit du brassage de la bière en volume; associer une brasserie à une boulangerie pour en faire du pain est une pratique de durabilité du XXIe siècle, pas une recette historique.",
+      "ro": "Borhotul de bere este cel mai mare subprodus ca volum al fabricării berii; asocierea unei berării cu o brutărie pentru a-l coace în pâine este o practică de sustenabilitate din secolul XXI, nu o rețetă istorică."
     }
   },
   "leaven": "yeast",
@@ -56,7 +64,11 @@
       "key": "instant-yeast",
       "grams": 18,
       "note": {
-        "en": "or active dry yeast"
+        "en": "or active dry yeast",
+        "de": "oder aktive Trockenhefe",
+        "es": "o levadura seca activa",
+        "fr": "ou levure sèche active",
+        "ro": "sau drojdie uscată activă"
       }
     },
     {
@@ -112,7 +124,11 @@
     "count": 2,
     "pieceGrams": 820,
     "shape": {
-      "en": "free-standing loaf on a sheet pan"
+      "en": "free-standing loaf on a sheet pan",
+      "de": "Freigeschobener Laib auf einem Backblech",
+      "es": "Pan libre sobre bandeja de horno",
+      "fr": "Pain façonné à même une plaque de cuisson",
+      "ro": "Pâine liberă pe o tavă de copt"
     }
   },
   "time": {
@@ -153,7 +169,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "A moist, tender loaf from all the added liquid; a good way to use spent grain a brewery would otherwise discard."
+      "en": "A moist, tender loaf from all the added liquid; a good way to use spent grain a brewery would otherwise discard.",
+      "de": "Ein feuchter, zarter Laib durch die gesamte zusätzliche Flüssigkeit; eine gute Möglichkeit, Biertreber zu verwenden, den eine Brauerei sonst entsorgen würde.",
+      "es": "Un pan húmedo y tierno gracias a todo el líquido añadido; una buena forma de aprovechar el bagazo que una cervecería desecharía.",
+      "fr": "Un pain moelleux et tendre grâce à tout le liquide ajouté; une bonne façon d'utiliser la drêche qu'une brasserie jetterait autrement.",
+      "ro": "O pâine umedă și fragedă datorită întregului lichid adăugat; un mod bun de a folosi borhotul de bere pe care o berărie l-ar arunca altfel."
     }
   },
   "equipment": [
@@ -294,7 +314,11 @@
     "site": "Woodstock Inn Brewery",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup measurements converted to grams; spent grain and flour weights are estimates since densities vary by brew and mill. Hydration counts only water, milk and juice at their approximate water content."
+      "en": "Cup measurements converted to grams; spent grain and flour weights are estimates since densities vary by brew and mill. Hydration counts only water, milk and juice at their approximate water content.",
+      "de": "Tassenmaße in Gramm umgerechnet; Gewichte von Treber und Mehl sind Schätzwerte, da die Dichten je nach Brauverfahren und Mühle variieren. Die Hydratation zählt nur Wasser, Milch und Saft mit ihrem ungefähren Wassergehalt.",
+      "es": "Medidas en tazas convertidas a gramos; los pesos del bagazo y la harina son estimados ya que las densidades varían según la cocción y el molino. La hidratación cuenta solo el agua, la leche y el jugo por su contenido de agua aproximado.",
+      "fr": "Mesures en tasses converties en grammes; les poids de drêche et de farine sont estimatifs car les densités varient selon le brassage et le moulin. L'hydratation ne compte que l'eau, le lait et le jus pour leur teneur en eau approximative.",
+      "ro": "Măsurile în căni convertite în grame; greutățile borhotului și făinii sunt estimative, deoarece densitățile variază în funcție de fermentare și moară. Hidratarea include doar apa, laptele și sucul la conținutul lor aproximativ de apă."
     }
   },
   "tags": [

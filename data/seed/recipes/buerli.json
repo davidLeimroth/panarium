@@ -23,10 +23,18 @@
   "origin": {
     "country": "CH",
     "region": {
-      "en": "German-speaking Switzerland, especially St. Gallen"
+      "en": "German-speaking Switzerland, especially St. Gallen",
+      "de": "Deutschschweiz, besonders St. Gallen",
+      "es": "Suiza germanófona, especialmente San Galo",
+      "fr": "Suisse alémanique, particulièrement Saint-Gall",
+      "ro": "Elveția germanofonă, în special St. Gallen"
     },
     "note": {
-      "en": "St. Gallen is often cited as the Bürli's home; near-identical rolls (Bauernbrötli, Ruch-Bürli) appear region-wide under local names."
+      "en": "St. Gallen is often cited as the Bürli's home; near-identical rolls (Bauernbrötli, Ruch-Bürli) appear region-wide under local names.",
+      "de": "St. Gallen wird oft als Heimat des Bürli genannt; fast identische Brötchen (Bauernbrötli, Ruch-Bürli) gibt es regional unter lokalen Namen.",
+      "es": "San Galo es a menudo citado como el hogar del Bürli; panecillos casi idénticos (Bauernbrötli, Ruch-Bürli) aparecen en toda la región con nombres locales.",
+      "fr": "Saint-Gall est souvent cité comme le berceau du Bürli; des petits pains quasi identiques (Bauernbrötli, Ruch-Bürli) apparaissent dans toute la région sous des noms locaux.",
+      "ro": "St. Gallen este adesea citat drept căminul Bürli-ului; chifle aproape identice (Bauernbrötli, Ruch-Bürli) apar în toată regiunea sub nume locale."
     }
   },
   "leaven": "hybrid",
@@ -61,28 +69,44 @@
       "key": "flour:wheat-white",
       "grams": 258,
       "note": {
-        "en": "type 550"
+        "en": "type 550",
+        "de": "Type 550",
+        "es": "tipo 550",
+        "fr": "type 550",
+        "ro": "tip 550"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 258,
       "note": {
-        "en": "type 1050"
+        "en": "type 1050",
+        "de": "Type 1050",
+        "es": "tipo 1050",
+        "fr": "type 1050",
+        "ro": "tip 1050"
       }
     },
     {
       "key": "flour:spelt-whole",
       "grams": 101,
       "note": {
-        "en": "in the overnight pre-dough"
+        "en": "in the overnight pre-dough",
+        "de": "im Vorteig über Nacht",
+        "es": "en la premasa de la noche",
+        "fr": "dans le pré-dough de la veille",
+        "ro": "în pre-aluatul de peste noapte"
       }
     },
     {
       "key": "flour:rye",
       "grams": 32,
       "note": {
-        "en": "type 997"
+        "en": "type 997",
+        "de": "Type 997",
+        "es": "tipo 997",
+        "fr": "type 997",
+        "ro": "tip 997"
       }
     },
     {
@@ -93,7 +117,11 @@
       "key": "sourdough-starter",
       "grams": 32,
       "note": {
-        "en": "mature, stiff wheat starter (TA 150)"
+        "en": "mature, stiff wheat starter (TA 150)",
+        "de": "reifer, fester Weizensauerteig (TA 150)",
+        "es": "inicio de trigo firme maduro (TA 150)",
+        "fr": "levain de blé ferme mature (TA 150)",
+        "ro": "maia de grâu tare matură (TA 150)"
       }
     },
     {
@@ -104,7 +132,11 @@
       "key": "fresh-yeast",
       "grams": 7.7,
       "note": {
-        "en": "1 g in the pre-dough, 6.7 g in the main dough"
+        "en": "1 g in the pre-dough, 6.7 g in the main dough",
+        "de": "1 g im Vorteig, 6,7 g im Hauptteig",
+        "es": "1 g en la premasa, 6,7 g en la masa principal",
+        "fr": "1 g dans le pré-dough, 6,7 g dans la pâte principale",
+        "ro": "1 g în pre-aluat, 6,7 g în aluatul principal"
       }
     },
     {
@@ -116,7 +148,11 @@
     "count": 8,
     "pieceGrams": 140,
     "shape": {
-      "en": "oval rolls baked in touching pairs (Doppelbürli)"
+      "en": "oval rolls baked in touching pairs (Doppelbürli)",
+      "de": "ovale Brötchen, paarweise aneinander gebacken (Doppelbürli)",
+      "es": "panecillos ovalados horneados en pares tocándose (Doppelbürli)",
+      "fr": "petits pains ovales cuits par paires collées (Doppelbürli)",
+      "ro": "chifle ovale coapte în perechi lipite (Doppelbürli)"
     }
   },
   "time": {
@@ -158,7 +194,11 @@
     "freshDays": 1.5,
     "freezes": true,
     "note": {
-      "en": "The crackling crust softens fast; best the day it's baked, or split and toasted the next day."
+      "en": "The crackling crust softens fast; best the day it's baked, or split and toasted the next day.",
+      "de": "Die krachende Kruste wird schnell weich; am besten am Backtag, oder am nächsten Tag aufgeschnitten und getoastet.",
+      "es": "La corteza crujiente se ablanda rápido; mejor el día de horneado, o partido y tostado al día siguiente.",
+      "fr": "La croûte craquante ramollit vite; meilleur le jour de la cuisson, ou fendu et toasté le lendemain.",
+      "ro": "Coaja crocantă se înmoaie repede; cel mai bun în ziua coacerii, sau tăiat și prăjit a doua zi."
     }
   },
   "equipment": [
@@ -284,7 +324,11 @@
     "author": "Lutz Geißler",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Baker's percentages reconciled by resolving the stiff starter (TA 150) into its flour/water components; method paraphrased into fewer steps."
+      "en": "Baker's percentages reconciled by resolving the stiff starter (TA 150) into its flour/water components; method paraphrased into fewer steps.",
+      "de": "Bäckerprozente durch Auflösung des festen Starters (TA 150) in seine Mehl-/Wasserbestandteile abgeglichen; Methode in weniger Schritten paraphrasiert.",
+      "es": "Porcentajes de panadero reconciliados descomponiendo el inicio firme (TA 150) en sus componentes de harina/agua; método parafraseado en menos pasos.",
+      "fr": "Pourcentages du boulanger reconciliés en décomposant le levain ferme (TA 150) en ses composants farine/eau; méthode reformulée en moins d'étapes.",
+      "ro": "Procentele de brutărie reconcileate prin descompunerea maielei tari (TA 150) în componentele sale de făină/apă; metoda parafrazată în mai puține etape."
     }
   },
   "tags": [

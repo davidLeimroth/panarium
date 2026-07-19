@@ -18,10 +18,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Campania"
+      "en": "Campania",
+      "de": "Kampanien",
+      "es": "Campania",
+      "fr": "Campanie",
+      "ro": "Campania"
     },
     "note": {
-      "en": "The name comes from 'cafone' (peasant farmer); traditional loaves baked in communal wood ovens weighed up to 4 kg to feed a household for days."
+      "en": "The name comes from 'cafone' (peasant farmer); traditional loaves baked in communal wood ovens weighed up to 4 kg to feed a household for days.",
+      "de": "Der Name leitet sich von „cafone“ (Bauernknecht) ab; traditionelle Laibe aus kommunalen Holzofen wogen bis zu 4 kg, um einen Haushalt tagelang zu versorgen.",
+      "es": "El nombre proviene de 'cafone' (campesino); las hogazas tradicionales horneadas en hornos comunales de lena pesaban hasta 4 kg para alimentar a una familia durante dias.",
+      "fr": "Le nom vient de « cafone » (paysan) ; les pains traditionnels cuits dans les fours a bois communaux pesaient jusqu'a 4 kg pour nourrir un foyer pendant plusieurs jours.",
+      "ro": "Numele provine din „cafone“ (ţăran); pâinile tradiţionale coapte in cuptoare comunale cu lemne cântăreau până la 4 kg pentru a hrăni o gospodarie zile întregi."
     }
   },
   "leaven": "yeast",
@@ -43,7 +51,11 @@
       "key": "flour:wheat-white",
       "grams": 620,
       "note": {
-        "en": "strong Manitoba flour"
+        "en": "strong Manitoba flour",
+        "de": "starkes Manitoba-Mehl",
+        "es": "harina de Manitoba de fuerza",
+        "fr": "farine de Manitoba forte",
+        "ro": "făină Manitoba puternică"
       }
     },
     {
@@ -63,7 +75,11 @@
     "count": 1,
     "pieceGrams": 1026,
     "shape": {
-      "en": "large rustic filone (baton), up to 4 kg in bakeries"
+      "en": "large rustic filone (baton), up to 4 kg in bakeries",
+      "de": "großer rustikaler Filone (Baton), in Backereien bis zu 4 kg",
+      "es": "gran filone rustico (barra), de hasta 4 kg en panaderias",
+      "fr": "grand filone rustique (baton), jusqu'a 4 kg en boulangerie",
+      "ro": "filone rustic mare (bațon), până la 4 kg în brutarii"
     }
   },
   "time": {
@@ -104,7 +120,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Thick crust and a long, slow fermentation keep it honestly good for days, in the spirit of a loaf meant to feed a household all week."
+      "en": "Thick crust and a long, slow fermentation keep it honestly good for days, in the spirit of a loaf meant to feed a household all week.",
+      "de": "Dicke Kruste und langer, langsamer Sauerteig halten es tagelang gut, ganz im Sinne eines Laibs, der einen Haushalt die ganze Woche uber ernahren soll.",
+      "es": "La corteza gruesa y una fermentacion larga y lenta lo mantienen bueno durante dias, en el espiritu de un pan destinado a alimentar a una familia toda la semana.",
+      "fr": "Croute epaisse et longue fermentation lente le conservent honorablement plusieurs jours, dans l'esprit d'un pain destine a nourrir un foyer toute la semaine.",
+      "ro": "Coaja groasa si o fermentare lunga si lenta il mentin bun zile întregi, în spiritul unei pâini menite să hrănească o gospodarie toată săptămâna."
     }
   },
   "equipment": [
@@ -214,7 +234,11 @@
     "site": "Dissapore",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Preferment (lievitino) share of total flour estimated at roughly 11%, consistent with typical pane cafone formulas; the source's headline totals for flour, water, yeast and salt are used directly."
+      "en": "Preferment (lievitino) share of total flour estimated at roughly 11%, consistent with typical pane cafone formulas; the source's headline totals for flour, water, yeast and salt are used directly.",
+      "de": "Anteil des Vorteigs (Lievitino) am Gesamtmehl auf etwa 11 % geschatzt, ubereinstimmend mit typischen Pane-Cafone-Formeln; die angegebenen Gesamtmengen fur Mehl, Wasser, Hefe und Salz werden direkt verwendet.",
+      "es": "La proporcion de prefermento (lievitino) sobre la harina total se estima en aproximadamente un 11 %, coherente con las formulas tipicas de pane cafone; los totales de harina, agua, levadura y sal de la fuente se usan directamente.",
+      "fr": "La part du preferment (lievitino) dans la farine totale est estimee a environ 11 %, conforme aux formules typiques du pane cafone ; les totaux de farine, d'eau, de levure et de sel de la source sont utilises directement.",
+      "ro": "Procentul de pre-ferment (lievitino) din făina totală este estimat la aproximativ 11%, consistent cu formulele tipice de pane cafone; totalurile sursei pentru făină, apă, drojdie şi sare sunt folosite direct."
     }
   },
   "tags": [

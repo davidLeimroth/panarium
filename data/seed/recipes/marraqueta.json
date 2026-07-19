@@ -21,10 +21,18 @@
   "origin": {
     "country": "CL",
     "region": {
-      "en": "nationwide, originally Valparaíso"
+      "en": "nationwide, originally Valparaíso",
+      "de": "landesweit, ursprünglich Valparaíso",
+      "es": "en todo el país, originalmente Valparaíso",
+      "fr": "dans tout le pays, à l'origine Valparaíso",
+      "ro": "la nivel național, inițial Valparaíso"
     },
     "note": {
-      "en": "Said to be created by French immigrant brothers named Marraquette in 19th-century Valparaíso; it now accounts for roughly 70% of Chile's daily bread consumption."
+      "en": "Said to be created by French immigrant brothers named Marraquette in 19th-century Valparaíso; it now accounts for roughly 70% of Chile's daily bread consumption.",
+      "de": "Angeblich von französischen Einwandererbrüdern namens Marraquette im 19. Jahrhundert in Valparaíso erfunden; macht heute etwa 70 % des täglichen Brotkonsums in Chile aus.",
+      "es": "Se dice que fue creado por los hermanos inmigrantes franceses llamados Marraquette en el Valparaíso del siglo XIX; hoy representa aproximadamente el 70 % del consumo diario de pan en Chile.",
+      "fr": "Serait créé par les frères immigrants français nommés Marraquette dans le Valparaíso du XIXe siècle; il représente aujourd'hui environ 70 % de la consommation quotidienne de pain au Chili.",
+      "ro": "Se spune că a fost creat de frații imigranți francezi numiți Marraquette în Valparaíso secolului XIX; astăzi reprezintă aproximativ 70 % din consumul zilnic de pâine în Chile."
     }
   },
   "leaven": "yeast",
@@ -52,7 +60,11 @@
       "key": "water",
       "grams": 600,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "handwarm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -71,7 +83,11 @@
       "key": "vegetable-oil",
       "grams": 10,
       "note": {
-        "en": "for brushing before baking"
+        "en": "for brushing before baking",
+        "de": "zum Bestreichen vor dem Backen",
+        "es": "para untar antes de hornear",
+        "fr": "pour badigeonner avant cuisson",
+        "ro": "pentru uns înainte de coacere"
       }
     }
   ],
@@ -79,7 +95,11 @@
     "count": 8,
     "pieceGrams": 206,
     "shape": {
-      "en": "two joined 100g balls pressed with a cross, four-lobed look"
+      "en": "two joined 100g balls pressed with a cross, four-lobed look",
+      "de": "zwei verbundene 100-g-Kugeln mit einem Kreuz eingedrückt, vierlappiges Aussehen",
+      "es": "dos bolas de 100 g unidas presionadas con una cruz, aspecto de cuatro lóbulos",
+      "fr": "deux boules de 100 g jointes pressées d'une croix, aspect à quatre lobes",
+      "ro": "două bile de 100 g unite presate cu o cruce, aspect cu patru lobi"
     }
   },
   "time": {
@@ -121,7 +141,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best within hours of baking, when the crust still crackles; Chileans buy it fresh nearly every day."
+      "en": "Best within hours of baking, when the crust still crackles; Chileans buy it fresh nearly every day.",
+      "de": "Am besten innerhalb weniger Stunden nach dem Backen, wenn die Kruste noch knistert; Chilenen kaufen es fast täglich frisch.",
+      "es": "Mejor dentro de las horas de horneado, cuando la corteza aún cruje; los chilenos lo compran fresco casi a diario.",
+      "fr": "Meilleur dans les heures suivant la cuisson, quand la croûte crépite encore; les Chiliens l'achètent frais presque tous les jours.",
+      "ro": "Cel mai bun în câteva ore de la coacere, când coaja încă trosnește; chilianii îl cumpără proaspăt aproape zilnic."
     }
   },
   "equipment": [
@@ -187,9 +211,9 @@
       "summary": {
         "en": "Divide into roughly 100g balls, cover, and set aside to rest for about half an hour.",
         "de": "In Kugeln von etwa 100g teilen und zugedeckt etwa eine halbe Stunde ruhen lassen.",
-        "es": "Dividir en bolas de unos 100g y dejar reposar, tapadas, cerca de media hora.",
-        "fr": "Diviser en boules d'environ 100g et laisser reposer, couvertes, environ une demi-heure.",
-        "ro": "Împarte în bile de circa 100g și lasă la odihnă, acoperite, circa jumătate de oră."
+        "es": "Dividir en bolas de aproximadamente 100g, tapar y dejar reposar aproximadamente media hora.",
+        "fr": "Diviser en boules d'environ 100g, couvrir et laisser reposer environ une demi-heure.",
+        "ro": "Împarte în bile de circa 100g, acoperă și lasă la odihnă aproximativ o jumătate de oră."
       }
     },
     {
@@ -246,7 +270,11 @@
     "site": "Chilean Food Recipes",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Scaled ratios kept as sourced; 'dry yeast' treated as active-dry yeast."
+      "en": "Scaled ratios kept as sourced; 'dry yeast' treated as active-dry yeast.",
+      "de": "Skalierte Verhältnisse wie von der Quelle übernommen; ‚Trockenhefe' als aktive Trockenhefe behandelt.",
+      "es": "Proporciones escaladas mantenidas como en la fuente; la 'levadura seca' se trató como levadura seca activa.",
+      "fr": "Proportions conservées telles que sourcées; la 'levure sèche' traitée comme de la levure sèche active.",
+      "ro": "Proporțiile scalate păstrate ca în sursă; 'drojdia uscată' tratată ca drojdie uscată activă."
     }
   },
   "tags": [

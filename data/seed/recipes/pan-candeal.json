@@ -22,10 +22,18 @@
   "origin": {
     "country": "ES",
     "region": {
-      "en": "Castile"
+      "en": "Castile",
+      "de": "Kastilien",
+      "es": "Castilla",
+      "fr": "Castille",
+      "ro": "Castilia"
     },
     "note": {
-      "en": "The 'sobado' or 'bregado' rolling technique, rather than kneading, is what gives this bread its uniquely tight, non-porous crumb."
+      "en": "The 'sobado' or 'bregado' rolling technique, rather than kneading, is what gives this bread its uniquely tight, non-porous crumb.",
+      "de": "Die «Sobado»- oder «Bregado»-Walztechnik anstelle von Kneten verleiht diesem Brot seine einzigartig dichte, porenlose Krume.",
+      "es": "La técnica de «sobado» o «bregado», en lugar de amasado, es lo que da a este pan su miga excepcionalmente compacta y no porosa.",
+      "fr": "La technique de roulage « sobado » ou « bregado », plutôt que le pétrissage, donne à ce pain sa mie exceptionnellement serrée et non poreuse.",
+      "ro": "Tehnica de rulare «sobado» sau «bregado», în loc de frământare, este cea care dă acestei pâini miezul său unic de dens, neporos."
     }
   },
   "leaven": "yeast",
@@ -47,56 +55,88 @@
       "key": "flour:wheat-white",
       "grams": 100,
       "note": {
-        "en": "harina panadera, in the prefermento"
+        "en": "harina panadera, in the prefermento",
+        "de": "Harina panadera, im Prefermento",
+        "es": "harina panadera, en el prefermento",
+        "fr": "harina panadera, dans le prefermento",
+        "ro": "harina panadera, în prefermento"
       }
     },
     {
       "key": "water",
       "grams": 50,
       "note": {
-        "en": "in the prefermento"
+        "en": "in the prefermento",
+        "de": "im Prefermento",
+        "es": "en el prefermento",
+        "fr": "dans le prefermento",
+        "ro": "în prefermento"
       }
     },
     {
       "key": "salt",
       "grams": 2,
       "note": {
-        "en": "in the prefermento"
+        "en": "in the prefermento",
+        "de": "im Prefermento",
+        "es": "en el prefermento",
+        "fr": "dans le prefermento",
+        "ro": "în prefermento"
       }
     },
     {
       "key": "instant-yeast",
       "grams": 0.5,
       "note": {
-        "en": "in the prefermento"
+        "en": "in the prefermento",
+        "de": "im Prefermento",
+        "es": "en el prefermento",
+        "fr": "dans le prefermento",
+        "ro": "în prefermento"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "300 g harina panadera plus 200 g harina panadera recia (strong wheat flour), in the final dough"
+        "en": "300 g harina panadera plus 200 g harina panadera recia (strong wheat flour), in the final dough",
+        "de": "300 g Harina panadera plus 200 g Harina panadera recia (starkes Weizenmehl), im Hauptteig",
+        "es": "300 g de harina panadera más 200 g de harina panadera recia (harina de trigo fuerte), en la masa final",
+        "fr": "300 g d'harina panadera plus 200 g d'harina panadera recia (farine de blé forte), dans la pâte finale",
+        "ro": "300 g harina panadera plus 200 g harina panadera recia (făină puternică de grâu), în aluatul final"
       }
     },
     {
       "key": "water",
       "grams": 250,
       "note": {
-        "en": "in the final dough"
+        "en": "in the final dough",
+        "de": "im Hauptteig",
+        "es": "en la masa final",
+        "fr": "dans la pâte finale",
+        "ro": "în aluatul final"
       }
     },
     {
       "key": "instant-yeast",
       "grams": 2.5,
       "note": {
-        "en": "in the final dough"
+        "en": "in the final dough",
+        "de": "im Hauptteig",
+        "es": "en la masa final",
+        "fr": "dans la pâte finale",
+        "ro": "în aluatul final"
       }
     },
     {
       "key": "salt",
       "grams": 8,
       "note": {
-        "en": "in the final dough"
+        "en": "in the final dough",
+        "de": "im Hauptteig",
+        "es": "en la masa final",
+        "fr": "dans la pâte finale",
+        "ro": "în aluatul final"
       }
     }
   ],
@@ -104,7 +144,11 @@
     "count": 1,
     "pieceGrams": 913,
     "shape": {
-      "en": "flat torta, higher at the center, cross-scored on top"
+      "en": "flat torta, higher at the center, cross-scored on top",
+      "de": "flache Torta, höher in der Mitte, kreuzweise eingeschnitten",
+      "es": "torta plana, más alta en el centro, marcada en cruz en la parte superior",
+      "fr": "torta plate, plus haute au centre, scarifiée en croix sur le dessus",
+      "ro": "tort plată, mai înaltă în centru, incizată în cruce deasupra"
     }
   },
   "time": {
@@ -144,7 +188,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Low hydration and a dense, sealed crumb are exactly why candeal keeps far longer than a typical high-hydration loaf; bakers historically prized it for durability."
+      "en": "Low hydration and a dense, sealed crumb are exactly why candeal keeps far longer than a typical high-hydration loaf; bakers historically prized it for durability.",
+      "de": "Niedrige Hydration und eine dichte, versiegelte Krume sind genau der Grund, warum Candeal sich viel länger hält als ein typischer Laib mit hoher Hydration; Bäcker schätzten es historisch für seine Haltbarkeit.",
+      "es": "La baja hidratación y una miga densa y sellada son exactamente la razón por la que el candeal se conserva mucho más que un pan típico de alta hidratación; los panaderos lo apreciaban históricamente por su durabilidad.",
+      "fr": "Une faible hydratation et une mie dense et scellée sont exactement la raison pour laquelle le candeal se conserve bien plus longtemps qu'un pain typique à haute hydratation; les boulangers l'ont historiquement prisé pour sa durabilité.",
+      "ro": "Hidratarea scăzută și un miez dens, etanș sunt exact motivul pentru care candealul se păstrează mult mai mult decât o pâine tipică cu hidratare ridicată; brutarii l-au prețuit istoric pentru durabilitate."
     }
   },
   "equipment": [
@@ -253,7 +301,11 @@
     "site": "El Invitado de Invierno",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Grams follow the source's own stated aggregate totals (600 g flour / 300 g water / 10 g salt / 3 g yeast)."
+      "en": "Grams follow the source's own stated aggregate totals (600 g flour / 300 g water / 10 g salt / 3 g yeast).",
+      "de": "Grammangaben folgen den eigenen Gesamtsummen der Quelle (600 g Mehl / 300 g Wasser / 10 g Salz / 3 g Hefe).",
+      "es": "Los gramos siguen los totales agregados declarados por la fuente (600 g de harina / 300 g de agua / 10 g de sal / 3 g de levadura).",
+      "fr": "Les grammes suivent les totaux agrégés indiqués par la source (600 g de farine / 300 g d'eau / 10 g de sel / 3 g de levure).",
+      "ro": "Gramajul urmează totalurile agregate declarate de sursă (600 g făină / 300 g apă / 10 g sare / 3 g drojdie)."
     }
   },
   "tags": [

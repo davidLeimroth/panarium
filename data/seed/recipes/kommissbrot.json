@@ -22,10 +22,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Germany-wide, historically military"
+      "en": "Germany-wide, historically military",
+      "de": "Deutschlandweit, historisch militärisch",
+      "es": "En toda Alemania, de origen militar",
+      "fr": "Dans toute l'Allemagne, d'origine militaire",
+      "ro": "În toată Germania, de origine militară"
     },
     "note": {
-      "en": "Kommiss was slang for military supply; Kommissbrot was the standard-issue ration loaf of German-speaking armies for centuries, prized for surviving long storage."
+      "en": "Kommiss was slang for military supply; Kommissbrot was the standard-issue ration loaf of German-speaking armies for centuries, prized for surviving long storage.",
+      "de": "Kommiss war Soldatensprache für Militärverpflegung; Kommissbrot war jahrhundertelang das Standard-Frontbrot der deutschsprachigen Heere, geschätzt für seine lange Haltbarkeit.",
+      "es": "Kommiss era la jerga para suministro militar; el Kommissbrot fue el pan de ración estándar de los ejércitos de habla alemana durante siglos, valorado por su larga conservación.",
+      "fr": "Kommiss était l'argot pour l'intendance militaire; le Kommissbrot fut le pain de rationnement standard des armées germanophones pendant des siècles, apprécié pour sa longue conservation.",
+      "ro": "Kommiss era argoul pentru provizii militare; Kommissbrot a fost pâinea standard de rație a armatelor de limbă germană timp de secole, apreciată pentru rezistența la depozitare îndelungată."
     }
   },
   "leaven": "hybrid",
@@ -49,7 +57,11 @@
       "key": "flour:rye",
       "grams": 800,
       "note": {
-        "en": "Roggenmehl Type 1370, split between sourdough and main dough"
+        "en": "Roggenmehl Type 1370, split between sourdough and main dough",
+        "de": "Roggenmehl Type 1370, auf Sauerteig und Hauptteig aufgeteilt",
+        "es": "Roggenmehl Type 1370, dividido entre masa madre y masa principal",
+        "fr": "Roggenmehl Type 1370, réparti entre le levain et la pâte principale",
+        "ro": "Roggenmehl Type 1370, împărțit între maia și aluatul principal"
       }
     },
     {
@@ -60,7 +72,11 @@
       "key": "sourdough-starter",
       "grams": 36,
       "note": {
-        "en": "Anstellgut, to build the sourdough"
+        "en": "Anstellgut, to build the sourdough",
+        "de": "Anstellgut, für den Sauerteigansatz",
+        "es": "Anstellgut, para preparar la masa madre",
+        "fr": "Anstellgut, pour préparer le levain",
+        "ro": "Anstellgut, pentru a construi maiaua"
       }
     },
     {
@@ -96,7 +112,11 @@
     "count": 1,
     "pieceGrams": 1500,
     "shape": {
-      "en": "large pan loaf, 1.5kg tin"
+      "en": "large pan loaf, 1.5kg tin",
+      "de": "großer Kastenlaib, 1,5-kg-Form",
+      "es": "hogaza grande de molde, molde de 1,5 kg",
+      "fr": "grand pain de moule, moule de 1,5 kg",
+      "ro": "pâine mare de tavă, formă de 1,5 kg"
     }
   },
   "time": {
@@ -138,7 +158,11 @@
     "freshDays": 14,
     "freezes": true,
     "note": {
-      "en": "Keeps up to two weeks at room temperature; let it rest a full day before the first slice."
+      "en": "Keeps up to two weeks at room temperature; let it rest a full day before the first slice.",
+      "de": "Hält sich bis zu zwei Wochen bei Raumtemperatur; vor dem ersten Schnitt einen ganzen Tag ruhen lassen.",
+      "es": "Se conserva hasta dos semanas a temperatura ambiente; dejarlo reposar un día entero antes del primer corte.",
+      "fr": "Se conserve jusqu'à deux semaines à température ambiante; laisser reposer une journée entière avant la première tranche.",
+      "ro": "Se păstrează până la două săptămâni la temperatura camerei; lasă-l să se odihnească o zi întreagă înainte de prima felie."
     }
   },
   "equipment": [
@@ -263,7 +287,11 @@
     "site": "Brotdoc",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Method paraphrased; used the recipe's regular fresh-yeast option (8g) rather than its organic-yeast variant (16g)."
+      "en": "Method paraphrased; used the recipe's regular fresh-yeast option (8g) rather than its organic-yeast variant (16g).",
+      "de": "Methode paraphrasiert; die reguläre Frischhefe-Option (8 g) statt der Bio-Hefe-Variante (16 g) verwendet.",
+      "es": "Método parafraseado; se usó la opción de levadura fresca normal (8 g) en lugar de la variante de levadura orgánica (16 g).",
+      "fr": "Méthode paraphrasée; l'option de levure fraîche standard (8 g) a été utilisée plutôt que la variante à la levure biologique (16 g).",
+      "ro": "Metodă parafrazată; s-a folosit opțiunea obișnuită cu drojdie proaspătă (8 g) în locul variantei cu drojdie organică (16 g)."
     }
   },
   "tags": [

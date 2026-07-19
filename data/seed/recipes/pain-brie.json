@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "Normandie (pays de Bessin, Calvados)"
+      "en": "Normandie (pays de Bessin, Calvados)",
+      "de": "Normandie (pays de Bessin, Calvados)",
+      "es": "Normandía (pays de Bessin, Calvados)",
+      "fr": "Normandie (pays de Bessin, Calvados)",
+      "ro": "Normandia (pays de Bessin, Calvados)"
     },
     "note": {
-      "en": "Recorded as early as a 1567 decree under the name 'pain de Chapître'; prized by Norman fishermen and sailors for keeping fresh for one to two weeks at sea."
+      "en": "Recorded as early as a 1567 decree under the name 'pain de Chapître'; prized by Norman fishermen and sailors for keeping fresh for one to two weeks at sea.",
+      "de": "Bereits 1567 in einem Dekret unter dem Namen «pain de Chapître» erwähnt; von normannischen Fischern und Seeleuten geschätzt, weil es auf See ein bis zwei Wochen frisch blieb.",
+      "es": "Registrado ya en un decreto de 1567 con el nombre «pain de Chapître»; apreciado por pescadores y marineros normandos por mantenerse fresco de una a dos semanas en el mar.",
+      "fr": "Attesté dès 1567 par un décret sous le nom « pain de Chapître » ; prisé des pêcheurs et marins normands pour rester frais une à deux semaines en mer.",
+      "ro": "Atestat încă dintr-un decret din 1567 sub numele «pain de Chapître»; prețuit de pescarii și marinarii normanzi pentru că se păstra proaspăt una până la două săptămâni pe mare."
     }
   },
   "leaven": "yeast",
@@ -48,7 +56,11 @@
       "key": "flour:wheat-white",
       "grams": 1300,
       "note": {
-        "en": "T55, split between the pre-ferment and final dough"
+        "en": "T55, split between the pre-ferment and final dough",
+        "de": "T55, aufgeteilt zwischen Vorteig und Hauptteig",
+        "es": "T55, repartido entre el prefermento y la masa final",
+        "fr": "T55, réparti entre le pré-ferment et la pâte finale",
+        "ro": "T55, împărțit între pre-ferment și aluatul final"
       }
     },
     {
@@ -59,7 +71,11 @@
       "key": "butter",
       "grams": 60,
       "note": {
-        "en": "soft"
+        "en": "soft",
+        "de": "weich",
+        "es": "blanda",
+        "fr": "molle",
+        "ro": "moale"
       }
     },
     {
@@ -75,7 +91,11 @@
     "count": 2,
     "pieceGrams": 900,
     "shape": {
-      "en": "stubby bâtard"
+      "en": "stubby bâtard",
+      "de": "gedrungener Bâtard",
+      "es": "bâtard rechoncho",
+      "fr": "bâtard trapu",
+      "ro": "bâtard scurt"
     }
   },
   "time": {
@@ -116,7 +136,11 @@
     "freshDays": 12,
     "freezes": true,
     "note": {
-      "en": "Famed for keeping up to two weeks, the whole reason Norman sailors carried it to sea."
+      "en": "Famed for keeping up to two weeks, the whole reason Norman sailors carried it to sea.",
+      "de": "Bekannt dafür, bis zu zwei Wochen haltbar zu sein; genau deshalb nahmen normannische Seeleute es mit auf See.",
+      "es": "Famoso por conservarse hasta dos semanas, la razón por la que los marineros normandos lo llevaban al mar.",
+      "fr": "Réputé pour se conserver jusqu'à deux semaines, la raison même pour laquelle les marins normands l'emportaient en mer.",
+      "ro": "Faimos pentru că se păstrează până la două săptămâni, motivul pentru care marinarii normanzi îl duceau pe mare."
     }
   },
   "equipment": [
@@ -225,7 +249,11 @@
     "site": "Yumelise",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Salt increased from the source's 10g to 23g (1.8%) to match standard French bread-salting practice; source's own figure ran unusually low."
+      "en": "Salt increased from the source's 10g to 23g (1.8%) to match standard French bread-salting practice; source's own figure ran unusually low.",
+      "de": "Salz von 10 g der Quelle auf 23 g (1,8 %) erhöht, um der französischen Standardsalzung zu entsprechen; der eigene Wert der Quelle war ungewöhnlich niedrig.",
+      "es": "Sal aumentada de los 10 g de la fuente a 23 g (1,8 %) para ajustarse a la práctica francesa estándar de salado; la cifra de la fuente era inusualmente baja.",
+      "fr": "Sel augmenté des 10 g de la source à 23 g (1,8 %) pour correspondre à la pratique standard française de salage; le chiffre de la source était inhabituellement bas.",
+      "ro": "Sarea crescută de la 10 g ai sursei la 23 g (1,8 %) pentru a corespunde practicii standard franceze de sărare; cifra sursei era neobișnuit de scăzută."
     }
   },
   "tags": [

@@ -23,10 +23,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Vinschgau / Val Venosta, South Tyrol"
+      "en": "Vinschgau / Val Venosta, South Tyrol",
+      "de": "Vinschgau / Val Venosta, Südtirol",
+      "es": "Vinschgau / Val Venosta, Tirol del Sur",
+      "fr": "Vinschgau / Val Venosta, Tyrol du Sud",
+      "ro": "Vinschgau / Val Venosta, Tirolul de Sud"
     },
     "note": {
-      "en": "Baked in German-speaking South Tyrol (Alto Adige), Italy, culturally and linguistically part of the Austro-Bavarian Alpine tradition, though the region has been Italian since 1919."
+      "en": "Baked in German-speaking South Tyrol (Alto Adige), Italy, culturally and linguistically part of the Austro-Bavarian Alpine tradition, though the region has been Italian since 1919.",
+      "de": "Wird im deutschsprachigen Südtirol (Alto Adige), Italien, gebacken, kulturell und sprachlich Teil der österreichisch-bayerischen Alpentradition, obwohl die Region seit 1919 zu Italien gehört.",
+      "es": "Se hornea en el Tirol del Sur germanófono (Alto Adigio), Italia, cultural y lingüísticamente parte de la tradición alpina austro-bávara, aunque la región es italiana desde 1919.",
+      "fr": "Cuit dans le Tyrol du Sud germanophone (Alto Adige), en Italie, culturellement et linguistiquement rattaché à la tradition alpine austro-bavaroise, bien que la région soit italienne depuis 1919.",
+      "ro": "Se coace în Tirolul de Sud germanofon (Alto Adige), Italia, parte cultural și lingvistic a tradiției alpine austro-bavareze, deși regiunea este italiană din 1919."
     }
   },
   "leaven": "sourdough",
@@ -56,35 +64,55 @@
       "key": "flour:rye-whole",
       "grams": 190,
       "note": {
-        "en": "coarse rye meal, in the sourdough"
+        "en": "coarse rye meal, in the sourdough",
+        "de": "grobes Roggenmehl, im Sauerteig",
+        "es": "harina de centeno gruesa, en el prefermento",
+        "fr": "farine de seigle grossière, dans le levain",
+        "ro": "făină grosieră de secară, în maia"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 100,
       "note": {
-        "en": "Ruchmehl or Type 1050"
+        "en": "Ruchmehl or Type 1050",
+        "de": "Ruchmehl oder Type 1050",
+        "es": "Ruchmehl o Tipo 1050",
+        "fr": "Ruchmehl ou Type 1050",
+        "ro": "Ruchmehl sau Tip 1050"
       }
     },
     {
       "key": "flour:rye",
       "grams": 240,
       "note": {
-        "en": "Type 1150"
+        "en": "Type 1150",
+        "de": "Type 1150",
+        "es": "Tipo 1150",
+        "fr": "Type 1150",
+        "ro": "Tip 1150"
       }
     },
     {
       "key": "water",
       "grams": 450,
       "note": {
-        "en": "warm, ~43–45°C"
+        "en": "warm, ~43–45°C",
+        "de": "warm, ~43–45°C",
+        "es": "templado, ~43–45°C",
+        "fr": "tiède, ~43–45°C",
+        "ro": "călduț, ~43–45°C"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 38,
       "note": {
-        "en": "active rye starter (Anstellgut)"
+        "en": "active rye starter (Anstellgut)",
+        "de": "aktiver Roggensauerteig (Anstellgut)",
+        "es": "prefermento de centeno activo (Anstellgut)",
+        "fr": "levain de seigle actif (Anstellgut)",
+        "ro": "maia activă de secară (Anstellgut)"
       }
     },
     {
@@ -95,14 +123,22 @@
       "key": "caraway",
       "grams": 2,
       "note": {
-        "en": "lightly crushed"
+        "en": "lightly crushed",
+        "de": "leicht zerstoßen",
+        "es": "ligeramente machacados",
+        "fr": "légèrement concassés",
+        "ro": "ușor zdrobite"
       }
     },
     {
       "key": "fennel-seed",
       "grams": 2,
       "note": {
-        "en": "lightly crushed"
+        "en": "lightly crushed",
+        "de": "leicht zerstoßen",
+        "es": "ligeramente machacados",
+        "fr": "légèrement concassés",
+        "ro": "ușor zdrobite"
       }
     },
     {
@@ -114,7 +150,11 @@
     "count": 10,
     "pieceGrams": 95,
     "shape": {
-      "en": "flattened paired round roll (Paarl)"
+      "en": "flattened paired round roll (Paarl)",
+      "de": "flachgedrückte paarweise runde Rolle (Paarl)",
+      "es": "panecillo redondo pareado aplanado (Paarl)",
+      "fr": "petit pain rond apparié et aplati (Paarl)",
+      "ro": "chiflă rotundă pereche turtită (Paarl)"
     }
   },
   "time": {
@@ -156,7 +196,11 @@
     "freshDays": 5,
     "freezes": true,
     "note": {
-      "en": "A rustic keeping bread, stays good several days, traditionally sliced thin for Speck and mountain cheese."
+      "en": "A rustic keeping bread, stays good several days, traditionally sliced thin for Speck and mountain cheese.",
+      "de": "Ein rustikales Dauerbrot, bleibt mehrere Tage frisch, traditionell dünn geschnitten zu Speck und Bergkäse.",
+      "es": "Pan rústico de larga duración, se conserva varios días, tradicionalmente cortado fino para Speck y queso de montaña.",
+      "fr": "Pain de garde rustique, se conserve plusieurs jours, traditionnellement tranché fin pour le Speck et le fromage de montagne.",
+      "ro": "Pâine rustică de păstrare, se menține bună câteva zile, tăiată subțire pentru Speck și brânză de munte."
     }
   },
   "equipment": [
@@ -265,7 +309,11 @@
     "site": "der heimbäcker",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Bread-spice blend simplified to caraway, fennel and anise; quantities scaled to a 10-piece home batch."
+      "en": "Bread-spice blend simplified to caraway, fennel and anise; quantities scaled to a 10-piece home batch.",
+      "de": "Brotgewürzmischung auf Kümmel, Fenchel und Anis vereinfacht; Mengen auf eine 10-Stück-Haushaltsportion skaliert.",
+      "es": "Mezcla de especias para pan simplificada a comino de prado, hinojo y anís; cantidades ajustadas a una tanda casera de 10 piezas.",
+      "fr": "Mélange d'épices à pain simplifié en carvi, fenouil et anis; quantités adaptées à une fournée domestique de 10 pièces.",
+      "ro": "Amestecul de condimente pentru pâine simplificat la chimen, fenicul și anason; cantități scalate pentru o porție casnică de 10 bucăți."
     }
   },
   "tags": [

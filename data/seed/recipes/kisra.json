@@ -21,10 +21,18 @@
   "origin": {
     "country": "SD",
     "region": {
-      "en": "Sudan & South Sudan"
+      "en": "Sudan & South Sudan",
+      "de": "Sudan und Südsudan",
+      "es": "Sudán y Sudán del Sur",
+      "fr": "Soudan et Soudan du Sud",
+      "ro": "Sudan și Sudanul de Sud"
     },
     "note": {
-      "en": "Sudan's staple bread, and South Sudan's second staple after asida; the household starter, sometimes called al-rahiba, is passed down and fed between batches like a family heirloom."
+      "en": "Sudan's staple bread, and South Sudan's second staple after asida; the household starter, sometimes called al-rahiba, is passed down and fed between batches like a family heirloom.",
+      "de": "Sudans Grundnahrungsbrot und der zweite Grundnahrungsmittel im Südsudan nach Asida; der Haushaltsstarter, manchmal al-rahiba genannt, wird wie ein Familienerbstück weitergegeben und zwischen den Chargen gefüttert.",
+      "es": "El pan básico de Sudán, y el segundo básico de Sudán del Sur después de la asida; el iniciador familiar, a veces llamado al-rahiba, se transmite y se alimenta entre lotes como una reliquia familiar.",
+      "fr": "Le pain de base du Soudan, et le deuxième aliment de base du Soudan du Sud après l'asida; le levain domestique, parfois appelé al-rahiba, se transmet et se nourrit entre les fournées comme un héritage familial.",
+      "ro": "Pâinea de bază a Sudanului și a doua de bază a Sudanului de Sud după asida; maiaua de gospodărie, numită uneori al-rahiba, se transmite și se hrănește între loturi ca o moștenire de familie."
     }
   },
   "leaven": "sourdough",
@@ -53,14 +61,22 @@
       "key": "salt",
       "grams": 2,
       "note": {
-        "en": "added just before cooking"
+        "en": "added just before cooking",
+        "de": "erst kurz vor dem Kochen hinzugefügt",
+        "es": "añadido justo antes de cocinar",
+        "fr": "ajouté juste avant la cuisson",
+        "ro": "adăugat chiar înainte de gătire"
       }
     },
     {
       "key": "sourdough-starter",
       "grams": 30,
       "note": {
-        "en": "al-rahiba, a household starter culture, or a spoonful of a previous batch"
+        "en": "al-rahiba, a household starter culture, or a spoonful of a previous batch",
+        "de": "al-rahiba, eine Haushaltsstarterkultur, oder ein Löffel einer vorherigen Charge",
+        "es": "al-rahiba, un cultivo iniciador casero, o una cucharada de un lote anterior",
+        "fr": "al-rahiba, un levain domestique, ou une cuillerée d'un lot précédent",
+        "ro": "al-rahiba, o cultură starter de gospodărie, sau o lingură dintr-un lot anterior"
       }
     }
   ],
@@ -68,7 +84,11 @@
     "count": 6,
     "pieceGrams": 124,
     "shape": {
-      "en": "large paper-thin round or rectangle sheet"
+      "en": "large paper-thin round or rectangle sheet",
+      "de": "große hauchdünne runde oder rechteckige Fladen",
+      "es": "lámina grande redonda o rectangular fina como papel",
+      "fr": "grande feuille ronde ou rectangulaire fine comme du papier",
+      "ro": "foaie mare rotundă sau dreptunghiulară subțire ca hârtia"
     }
   },
   "time": {
@@ -107,7 +127,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best fresh, still faintly warm and pliable; dries out within a couple of days, though some households sun-dry extra kisra for long-term storage and rehydrate it later."
+      "en": "Best fresh, still faintly warm and pliable; dries out within a couple of days, though some households sun-dry extra kisra for long-term storage and rehydrate it later.",
+      "de": "Am besten frisch, noch leicht warm und geschmeidig; trocknet innerhalb weniger Tage aus, obwohl manche Haushalte zusätzliche Kisra für die Langzeitlagerung in der Sonne trocknen und später rehydrieren.",
+      "es": "Mejor fresco, aún ligeramente tibio y flexible; se seca en un par de días, aunque algunos hogares secan al sol kisra extra para almacenamiento a largo plazo y la rehidratan después.",
+      "fr": "Meilleur frais, encore légèrement chaud et souple; sèche en quelques jours, bien que certains ménages sèchent au soleil du kisra supplémentaire pour le stockage à long terme et le réhydratent plus tard.",
+      "ro": "Cel mai bun proaspăt, încă ușor cald și flexibil; se usucă în câteva zile, deși unele gospodării usucă la soare kisra suplimentar pentru depozitare pe termen lung și îl rehidratează mai târziu."
     }
   },
   "equipment": [
@@ -232,7 +256,11 @@
     "site": "African Food Recipes",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Source gave process and cultural detail but no precise quantities; flour-water ratio and salt are drawn from general convention (2 cups each), using an estimated 120 g/cup sorghum weight."
+      "en": "Source gave process and cultural detail but no precise quantities; flour-water ratio and salt are drawn from general convention (2 cups each), using an estimated 120 g/cup sorghum weight.",
+      "de": "Die Quelle gab Verfahren und kulturelle Details, aber keine genauen Mengen; Mehl-Wasser-Verhältnis und Salz sind der allgemeinen Konvention entnommen (je 2 Tassen), mit einem geschätzten Sorghumgewicht von 120 g/Tasse.",
+      "es": "La fuente proporcionó proceso y detalle cultural pero no cantidades precisas; la proporción harina-agua y la sal se basan en la convención general (2 tazas cada uno), usando un peso estimado de sorgo de 120 g/taza.",
+      "fr": "La source a donné le processus et les détails culturels mais pas de quantités précises; le ratio farine-eau et le sel sont tirés de la convention générale (2 tasses chacun), en utilisant un poids de sorgho estimé à 120 g/tasse.",
+      "ro": "Sursa a oferit proces și detalii culturale, dar nu cantități precise; raportul făină-apă și sarea sunt extrase din convenția generală (2 căni fiecare), folosind o greutate estimată a sorgului de 120 g/cană."
     }
   },
   "tags": [

@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Tampa (Ybor City) and Miami, Florida"
+      "en": "Tampa (Ybor City) and Miami, Florida",
+      "de": "Tampa (Ybor City) und Miami, Florida",
+      "es": "Tampa (Ybor City) y Miami, Florida",
+      "fr": "Tampa (Ybor City) et Miami, Floride",
+      "ro": "Tampa (Ybor City) și Miami, Florida"
     },
     "note": {
-      "en": "Developed by Cuban, Spanish and Italian immigrant bakers in Tampa's Ybor City from the 1890s onward; Miami and Tampa still each claim the 'real' version, and it descends from Cuba's own wheat-and-lard bread traditions."
+      "en": "Developed by Cuban, Spanish and Italian immigrant bakers in Tampa's Ybor City from the 1890s onward; Miami and Tampa still each claim the 'real' version, and it descends from Cuba's own wheat-and-lard bread traditions.",
+      "de": "Entwickelt von kubanischen, spanischen und italienischen Einwandererbäckern in Tampas Ybor City ab den 1890er Jahren; Miami und Tampa erheben bis heute jeweils Anspruch auf die «echte» Version, und sie stammt von Kubas eigenen Weizen-Schmalz-Brot-Traditionen ab.",
+      "es": "Desarrollado por panaderos inmigrantes cubanos, españoles e italianos en Ybor City, Tampa, desde la década de 1890; Miami y Tampa aún reclaman cada una la versión «real», y desciende de las propias tradiciones cubanas de pan de trigo y manteca.",
+      "fr": "Développé par les boulangers immigrés cubains, espagnols et italiens du quartier Ybor City à Tampa à partir des années 1890; Miami et Tampa revendiquent encore chacune la version « authentique », et il descend des traditions cubaines de pain au blé et au saindoux.",
+      "ro": "Dezvoltat de brutarii imigranți cubanezi, spanioli și italieni în Ybor City din Tampa începând cu anii 1890; Miami și Tampa încă pretind fiecare versiunea «adevărată», iar aceasta provine din propriile tradiții cubaneze de pâine cu grâu și untură."
     }
   },
   "leaven": "yeast",
@@ -47,14 +55,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "bread flour"
+        "en": "bread flour",
+        "de": "Brotmehl",
+        "es": "harina de pan",
+        "fr": "farine à pain",
+        "ro": "făină de pâine"
       }
     },
     {
       "key": "water",
       "grams": 296,
       "note": {
-        "en": "room temperature"
+        "en": "room temperature",
+        "de": "Zimmertemperatur",
+        "es": "temperatura ambiente",
+        "fr": "température ambiante",
+        "ro": "temperatura camerei"
       }
     },
     {
@@ -69,7 +85,11 @@
       "key": "lard",
       "grams": 57,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topită"
       }
     },
     {
@@ -81,7 +101,11 @@
     "count": 2,
     "pieceGrams": 440,
     "shape": {
-      "en": "long torpedo loaf, about 18 inches, scored lengthwise"
+      "en": "long torpedo loaf, about 18 inches, scored lengthwise",
+      "de": "langer Torpedolaib, etwa 45,7 cm, längs eingeschnitten",
+      "es": "hogaza larga en forma de torpedo, de unos 45,7 cm, marcada a lo largo",
+      "fr": "long pain torpille, environ 45,7 cm, scarifié dans la longueur",
+      "ro": "pâine lungă tip torpilă, circa 45,7 cm, incizată longitudinal"
     }
   },
   "time": {
@@ -123,7 +147,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best eaten within hours of baking; stales quickly and is traditionally bought fresh daily."
+      "en": "Best eaten within hours of baking; stales quickly and is traditionally bought fresh daily.",
+      "de": "Am besten innerhalb weniger Stunden nach dem Backen verzehren; wird schnell altbacken und wird traditionell täglich frisch gekauft.",
+      "es": "Mejor consumir a las pocas horas de horneado; se endurece rápidamente y tradicionalmente se compra fresco a diario.",
+      "fr": "À consommer de préférence dans les heures suivant la cuisson; rassit rapidement et s'achète traditionnellement frais chaque jour.",
+      "ro": "Cel mai bun consumat în câteva ore de la coacere; se învechește repede și se cumpără tradițional proaspăt zilnic."
     }
   },
   "equipment": [
@@ -248,7 +276,11 @@
     "site": "Savor the Flavour",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Volumes converted to grams via standard conversions; palmetto-frond scoring kept as an optional traditional step."
+      "en": "Volumes converted to grams via standard conversions; palmetto-frond scoring kept as an optional traditional step.",
+      "de": "Volumenangaben mit Standardumrechnungen in Gramm umgerechnet; Palmetto-Blatt-Einschnitt als optionaler traditioneller Schritt beibehalten.",
+      "es": "Volúmenes convertidos a gramos mediante conversiones estándar; marcado de hoja de palmito mantenido como paso tradicional opcional.",
+      "fr": "Volumes convertis en grammes via des conversions standard; scarification en palme gardée comme étape traditionnelle facultative.",
+      "ro": "Volume convertite în grame prin conversii standard; incizia cu frunză de palmetto păstrată ca pas tradițional opțional."
     }
   },
   "tags": [

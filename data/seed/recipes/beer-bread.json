@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "American home baking, popularized through the 20th century"
+      "en": "American home baking, popularized through the 20th century",
+      "de": "Amerikanisches Hausbacken, im 20. Jahrhundert populär geworden",
+      "es": "Repostería casera estadounidense, popularizada durante el siglo XX",
+      "fr": "Pâtisserie maison américaine, popularisée au cours du XXe siècle",
+      "ro": "Coacerea casnică americană, popularizată de-a lungul secolului XX"
     },
     "note": {
-      "en": "Took off as a fast, yeast-free way to have fresh bread at home, especially valued when yeast was scarce or unreliable, such as during the Great Depression and wartime shortages."
+      "en": "Took off as a fast, yeast-free way to have fresh bread at home, especially valued when yeast was scarce or unreliable, such as during the Great Depression and wartime shortages.",
+      "de": "Wurde als schnelle, hefefreie Methode für frisches Brot zu Hause populär, besonders geschätzt als Hefe knapp oder unzuverlässig war, wie während der Weltwirtschaftskrise und kriegsbedingten Engpässen.",
+      "es": "Se popularizó como una forma rápida y sin levadura de tener pan fresco en casa, especialmente valorada cuando la levadura escaseaba o no era fiable, como durante la Gran Depresión y la escasez de la guerra.",
+      "fr": "S'est imposé comme un moyen rapide et sans levure d'avoir du pain frais à la maison, particulièrement apprécié quand la levure était rare ou peu fiable, comme pendant la Grande Dépression et les pénuries de guerre.",
+      "ro": "A devenit popular ca o metodă rapidă, fără drojdie, de a avea pâine proaspătă acasă, apreciată mai ales când drojdia era rară sau nesigură, precum în timpul Marii Depresii și al penuriilor de război."
     }
   },
   "leaven": "chemical",
@@ -47,7 +55,11 @@
       "key": "flour:wheat-white",
       "grams": 310,
       "note": {
-        "en": "or use self-rising flour and omit the baking powder and salt below"
+        "en": "or use self-rising flour and omit the baking powder and salt below",
+        "de": "oder selbsttreibendes Mehl verwenden und Backpulver und Salz unten weglassen",
+        "es": "o usar harina con levadura y omitir el polvo de hornear y la sal a continuación",
+        "fr": "ou utiliser de la farine auto-levante et omettre la levure chimique et le sel ci-dessous",
+        "ro": "sau folosește făină autodospantă și omite praful de copt și sarea de mai jos"
       }
     },
     {
@@ -68,7 +80,11 @@
       },
       "grams": 340,
       "note": {
-        "en": "any style; lighter beers give a milder flavor, stouts and ales a stronger one"
+        "en": "any style; lighter beers give a milder flavor, stouts and ales a stronger one",
+        "de": "jede Sorte; hellere Biere ergeben einen milderen Geschmack, Stouts und Ales einen kräftigeren",
+        "es": "cualquier estilo; las cervezas claras dan un sabor más suave, las stout y ale uno más fuerte",
+        "fr": "toute sorte; les bières blondes donnent une saveur plus douce, les stout et ale une plus prononcée",
+        "ro": "orice stil; berile mai deschise dau o aromă mai blândă, stout și ale una mai puternică"
       }
     },
     {
@@ -79,7 +95,11 @@
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "melted; most stirred into the batter, a little drizzled on top before baking"
+        "en": "melted; most stirred into the batter, a little drizzled on top before baking",
+        "de": "geschmolzen; der Großteil unter den Teig gerührt, etwas vor dem Backen darüber geträufelt",
+        "es": "derretida; la mayor parte mezclada en la masa, un poco rociada por encima antes de hornear",
+        "fr": "fondue; la majeure partie incorporée à la pâte, un peu arrosée sur le dessus avant la cuisson",
+        "ro": "topit; cea mai mare parte amestecată în aluat, un pic stropit deasupra înainte de coacere"
       }
     }
   ],
@@ -87,7 +107,11 @@
     "count": 1,
     "pieceGrams": 700,
     "shape": {
-      "en": "9 x 5 in loaf pan"
+      "en": "9 x 5 in loaf pan",
+      "de": "Kastenform (23 x 13 cm)",
+      "es": "molde de 23 x 13 cm",
+      "fr": "moule à cake de 23 x 13 cm",
+      "ro": "tavă de pâine de 23 x 13 cm"
     }
   },
   "time": {
@@ -172,10 +196,10 @@
       },
       "summary": {
         "en": "Bake at about 190°C for 45-50 minutes, until a skewer pulls out clean or carries only a few crumbs.",
-        "de": "Bei etwa 190°C 45-50 Minuten backen, bis ein Spieß sauber oder nur mit ein paar feuchten Krümeln herauskommt.",
-        "es": "Hornear a unos 190°C durante 45-50 minutos, hasta que un palillo salga limpio o con solo unas migas húmedas.",
-        "fr": "Cuire à environ 190°C pendant 45-50 minutes, jusqu'à ce qu'une brochette ressorte propre ou avec juste quelques miettes humides.",
-        "ro": "Coace la aproximativ 190°C timp de 45-50 de minute, până o scobitoare iese curată sau cu doar câteva firimituri umede."
+        "de": "Bei etwa 190°C 45-50 Minuten backen, bis ein Spieß sauber oder nur mit wenigen Krümeln herauskommt.",
+        "es": "Hornear a unos 190°C durante 45-50 minutos, hasta que una brocheta salga limpia o solo con algunas migas.",
+        "fr": "Cuire à environ 190°C pendant 45-50 minutes, jusqu'à ce qu'une brochette ressorte propre ou avec seulement quelques miettes.",
+        "ro": "Coace la aproximativ 190°C timp de 45-50 de minute, până o scobitoare iese curată sau cu doar câteva firimituri."
       }
     },
     {
@@ -200,7 +224,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Self-rising flour decomposed into plain flour plus an estimated baking powder and salt content, since exact proportions vary slightly by brand."
+      "en": "Self-rising flour decomposed into plain flour plus an estimated baking powder and salt content, since exact proportions vary slightly by brand.",
+      "de": "Selbsttreibendes Mehl aufgeteilt in einfaches Mehl plus geschätzte Mengen Backpulver und Salz, da die genauen Anteile je nach Marke leicht variieren.",
+      "es": "Harina con levadura descompuesta en harina común más una cantidad estimada de polvo de hornear y sal, ya que las proporciones exactas varían ligeramente según la marca.",
+      "fr": "Farine auto-levante décomposée en farine ordinaire plus une quantité estimée de levure chimique et de sel, les proportions exactes variant légèrement selon les marques.",
+      "ro": "Făina autodospantă descompusă în făină simplă plus o cantitate estimată de praf de copt și sare, deoarece proporțiile exacte variază ușor în funcție de marcă."
     }
   },
   "tags": [

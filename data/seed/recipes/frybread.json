@@ -21,10 +21,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Navajo Nation, American Southwest"
+      "en": "Navajo Nation, American Southwest",
+      "de": "Navajo-Nation, amerikanischer Südwesten",
+      "es": "Nación Navajo, suroeste estadounidense",
+      "fr": "Nation Navajo, Sud-Ouest américain",
+      "ro": "Națiunea Navajo, sud-vestul american"
     },
     "note": {
-      "en": "Created from the flour, lard and salt rations forced on the Navajo during the 1864 Long Walk relocation; a food of survival now claimed across many Native nations, and debated as a symbol of both resilience and colonization."
+      "en": "Created from the flour, lard and salt rations forced on the Navajo during the 1864 Long Walk relocation; a food of survival now claimed across many Native nations, and debated as a symbol of both resilience and colonization.",
+      "de": "Entstanden aus den Mehl-, Schmalz- und Salzrationen, die den Navajo während der Umsiedlung des Langen Marsches 1864 aufgezwungen wurden; ein Überlebensessen, das heute von vielen indigenen Nationen beansprucht wird, und als Symbol sowohl für Widerstandsfähigkeit als auch für Kolonisierung diskutiert wird.",
+      "es": "Creado a partir de las raciones de harina, manteca y sal impuestas a los navajos durante el traslado de la Larga Marcha de 1864; un alimento de supervivencia ahora reclamado por muchas naciones nativas, y debatido como símbolo tanto de resiliencia como de colonización.",
+      "fr": "Créé à partir des rations de farine, de saindoux et de sel imposées aux Navajos pendant la déportation de la Longue Marche de 1864; une nourriture de survie aujourd'hui revendiquée par de nombreuses nations autochtones, et débattue comme symbole à la fois de résilience et de colonisation.",
+      "ro": "Creat din rațiile de făină, untură și sare impuse națiunii Navajo în timpul relocării Marșului Lung din 1864; o mâncare de supraviețuire revendicată acum de multe națiuni native, și dezbătută ca simbol al rezilienței și colonizării."
     }
   },
   "leaven": "chemical",
@@ -58,7 +66,11 @@
       "key": "vegetable-oil",
       "grams": 26,
       "note": {
-        "en": "shortening, lard or oil in the dough, optional"
+        "en": "shortening, lard or oil in the dough, optional",
+        "de": "Backfett, Schmalz oder Öl im Teig, optional",
+        "es": "manteca vegetal, manteca de cerdo o aceite en la masa, opcional",
+        "fr": "matière grasse, saindoux ou huile dans la pâte, facultatif",
+        "ro": "scurtătură, untură sau ulei în aluat, opțional"
       }
     },
     {
@@ -69,7 +81,11 @@
       "key": "vegetable-oil",
       "grams": 70,
       "note": {
-        "en": "for deep-frying; amount absorbed is estimated"
+        "en": "for deep-frying; amount absorbed is estimated",
+        "de": "zum Frittieren; aufgenommene Menge ist geschätzt",
+        "es": "para freír; la cantidad absorbida es estimada",
+        "fr": "pour la friture; quantité absorbée estimée",
+        "ro": "pentru prăjit în baie de ulei; cantitatea absorbită este estimată"
       }
     }
   ],
@@ -77,7 +93,11 @@
     "count": 7,
     "pieceGrams": 75,
     "shape": {
-      "en": "thin round or oval, deep-fried, 15-20 cm"
+      "en": "thin round or oval, deep-fried, 15-20 cm",
+      "de": "dünne runde oder ovale, frittierte Scheibe, 15-20 cm",
+      "es": "ronda u óvalo fino, frito, de 15-20 cm",
+      "fr": "disque ou ovale fin, frit, de 15-20 cm",
+      "ro": "disc sau oval subțire, prăjit în baie de ulei, 15-20 cm"
     }
   },
   "time": {
@@ -117,7 +137,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best eaten within minutes of frying, puffed and hot; turns tough and greasy once cold. The raw dough rounds freeze well for frying later."
+      "en": "Best eaten within minutes of frying, puffed and hot; turns tough and greasy once cold. The raw dough rounds freeze well for frying later.",
+      "de": "Am besten innerhalb von Minuten nach dem Frittieren gegessen, aufgebläht und heiß; wird kalt zäh und fettig. Die rohen Teigfladen lassen sich gut einfrieren, um sie später zu frittieren.",
+      "es": "Mejor comerlo a los pocos minutos de freírlo, hinchado y caliente; se vuelve duro y grasiento una vez frío. Las rondas de masa cruda se congelan bien para freírlas después.",
+      "fr": "Meilleur mangé dans les minutes suivant la friture, gonflé et chaud; devient dur et gras une fois froid. Les disques de pâte crue se congèlent bien pour friture ultérieure.",
+      "ro": "Cel mai bun mâncat în câteva minute după prăjire, umflat și fierbinte; devine dur și unsuros odată rece. Discurile de aluat crud se congelează bine pentru prăjit ulterior."
     }
   },
   "equipment": [
@@ -226,7 +250,11 @@
     "site": "In The Kitchen With Matt",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Oil absorbed during frying estimated at roughly 10 g per piece and listed separately from the dough's own optional fat."
+      "en": "Oil absorbed during frying estimated at roughly 10 g per piece and listed separately from the dough's own optional fat.",
+      "de": "Beim Frittieren aufgenommenes Öl auf etwa 10 g pro Stück geschätzt und separat vom eigenen optionalen Fett des Teigs aufgeführt.",
+      "es": "Aceite absorbido durante la fritura estimado en aproximadamente 10 g por pieza y listado por separado de la grasa opcional propia de la masa.",
+      "fr": "Huile absorbée pendant la friture estimée à environ 10 g par pièce et listée séparément de la matière grasse facultative de la pâte.",
+      "ro": "Uleiul absorbit în timpul prăjirii estimat la aproximativ 10 g per bucată și listat separat de grăsimea opțională a aluatului."
     }
   },
   "tags": [

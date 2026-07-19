@@ -23,10 +23,18 @@
   "origin": {
     "country": "PS",
     "region": {
-      "en": "Jerusalem and the West Bank"
+      "en": "Jerusalem and the West Bank",
+      "de": "Jerusalem und das Westjordanland",
+      "es": "Jerusalén y Cisjordania",
+      "fr": "Jérusalem et la Cisjordanie",
+      "ro": "Ierusalim și Cisiordania"
     },
     "note": {
-      "en": "Sold since Ottoman times by street vendors near Jerusalem's Old City gates; Palestinians consider the Jerusalem version the definitive one across the region."
+      "en": "Sold since Ottoman times by street vendors near Jerusalem's Old City gates; Palestinians consider the Jerusalem version the definitive one across the region.",
+      "de": "Seit osmanischer Zeit von Straßenhändlern an den Toren der Altstadt Jerusalems verkauft; Palästinenser betrachten die Jerusalemer Version als die maßgebliche in der gesamten Region.",
+      "es": "Vendido desde la época otomana por vendedores ambulantes cerca de las puertas de la Ciudad Vieja de Jerusalén; los palestinos consideran la versión de Jerusalén como la definitiva en toda la región.",
+      "fr": "Vendu depuis l'époque ottomane par des vendeurs de rue près des portes de la vieille ville de Jérusalem; les Palestiniens considèrent la version de Jérusalem comme la version de référence dans toute la région.",
+      "ro": "Vândut încă din perioada otomană de vânzătorii ambulanți lângă porțile Orașului Vechi al Ierusalimului; palestinienii consideră versiunea din Ierusalim drept cea definitivă în întreaga regiune."
     }
   },
   "leaven": "yeast",
@@ -50,14 +58,22 @@
       "key": "flour:wheat-white",
       "grams": 750,
       "note": {
-        "en": "all-purpose flour"
+        "en": "all-purpose flour",
+        "de": "Haushaltsmehl (Type 405/550)",
+        "es": "harina común/todo uso",
+        "fr": "farine tout usage",
+        "ro": "făină universală"
       }
     },
     {
       "key": "water",
       "grams": 593,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -80,14 +96,22 @@
       "key": "milk",
       "grams": 60,
       "note": {
-        "en": "for brushing before the sesame coating"
+        "en": "for brushing before the sesame coating",
+        "de": "zum Bestreichen vor der Sesamkruste",
+        "es": "para pincelar antes de la cobertura de sésamo",
+        "fr": "pour badigeonner avant l'enrobage de sésame",
+        "ro": "pentru uns înainte de stratul de susan"
       }
     },
     {
       "key": "sesame-seeds",
       "grams": 100,
       "note": {
-        "en": "hulled, toasted, coats both sides; source sets out a full 8 oz for dipping but much of it does not adhere"
+        "en": "hulled, toasted, coats both sides; source sets out a full 8 oz for dipping but much of it does not adhere",
+        "de": "geschält, geröstet, bedeckt beide Seiten; die Quelle stellt volle 8 oz zum Dippen bereit, aber vieles haftet nicht",
+        "es": "pelado, tostado, cubre ambos lados; la fuente dispone 8 onzas completas para mojar, pero gran parte no se adhiere",
+        "fr": "décortiqué, toasté, recouvre les deux faces; la source prévoit 8 oz pour le trempage mais une grande partie n'adhère pas",
+        "ro": "decorticat, prăjit, acoperă ambele părți; sursa pune 8 oz întregi pentru scufundare, dar mare parte nu aderă"
       }
     }
   ],
@@ -95,7 +119,11 @@
     "count": 5,
     "pieceGrams": 290,
     "shape": {
-      "en": "long oval ring/loop"
+      "en": "long oval ring/loop",
+      "de": "langer ovaler Ring/Schlaufe",
+      "es": "anillo/asa ovalado alargado",
+      "fr": "anneau/boucle ovale allongé",
+      "ro": "inel/buclă ovală lungă"
     }
   },
   "time": {
@@ -137,7 +165,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Best warm the day it is baked; freezes well and crisps back up in a toaster or hot oven."
+      "en": "Best warm the day it is baked; freezes well and crisps back up in a toaster or hot oven.",
+      "de": "Am besten warm am Backtag; lässt sich gut einfrieren und wird im Toaster oder heißen Ofen wieder knusprig.",
+      "es": "Mejor caliente el día de horneado; se congela bien y vuelve a quedar crujiente en tostadora u horno caliente.",
+      "fr": "Meilleur chaud le jour de la cuisson; se congèle bien et redevient croustillant au grille-pain ou au four chaud.",
+      "ro": "Cel mai bun cald în ziua coacerii; se congelează bine și redevine crocant în prăjitor de pâine sau cuptor fierbinte."
     }
   },
   "equipment": [
@@ -262,7 +294,11 @@
     "site": "Palestine in a Dish",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Cup/tablespoon quantities converted to grams with standard baking equivalents; sesame quantity reduced from the source's full 8 oz dipping tray to an estimated adhered coating weight."
+      "en": "Cup/tablespoon quantities converted to grams with standard baking equivalents; sesame quantity reduced from the source's full 8 oz dipping tray to an estimated adhered coating weight.",
+      "de": "Tassen-/Esslöffelmengen mit Standard-Backäquivalenten in Gramm umgerechnet; Sesammenge von der vollen 8-Unzen-Dippschale der Quelle auf ein geschätztes Haftgewicht der Beschichtung reduziert.",
+      "es": "Cantidades en tazas/cucharadas convertidas a gramos con equivalentes de repostería estándar; cantidad de sésamo reducida de la bandeja completa de 8 onzas de la fuente a un peso estimado de recubrimiento adherido.",
+      "fr": "Quantités en tasses/cuillères à soupe converties en grammes avec des équivalents de pâtisserie standard; quantité de sésame réduite du plateau de trempage de 8 oz de la source à un poids estimé de revêtement adhéré.",
+      "ro": "Cantitățile în căni/linguri convertite în grame cu echivalenți standard de copt; cantitatea de susan redusă din tava de scufundare de 8 oz a sursei la o greutate estimată a stratului aderat."
     }
   },
   "tags": [

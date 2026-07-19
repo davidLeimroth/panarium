@@ -21,10 +21,18 @@
   "origin": {
     "country": "IT",
     "region": {
-      "en": "Genoa, Liguria"
+      "en": "Genoa, Liguria",
+      "de": "Genua, Ligurien",
+      "es": "Génova, Liguria",
+      "fr": "Gênes, Ligurie",
+      "ro": "Genova, Liguria"
     },
     "note": {
-      "en": "The salamoia (water-oil-salt brine) poured into the dimples before the final rise is what separates this from every other Italian focaccia."
+      "en": "The salamoia (water-oil-salt brine) poured into the dimples before the final rise is what separates this from every other Italian focaccia.",
+      "de": "Die Salamoia (Wasser-Öl-Salz-Lake), die vor dem letzten Gehen in die Vertiefungen gegossen wird, unterscheidet diese von jeder anderen italienischen Focaccia.",
+      "es": "La salamoia (salmuera de agua-aceite-sal) vertida en los hoyuelos antes del último levado es lo que separa esta de cualquier otra focaccia italiana.",
+      "fr": "La salamoia (saumure eau-huile-sel) versée dans les creux avant la dernière pousse est ce qui distingue cette focaccia de toutes les autres.",
+      "ro": "Salamoia (saramură de apă-ulei-sare) turnată în adâncituri înainte de creșterea finală este ceea ce separă aceasta de orice altă focaccia italiană."
     }
   },
   "leaven": "yeast",
@@ -48,14 +56,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "strong Manitoba (350 g) plus tipo '0' (150 g)"
+        "en": "strong Manitoba (350 g) plus tipo '0' (150 g)",
+        "de": "starkes Manitoba (350 g) plus Tipo '0' (150 g)",
+        "es": "Manitoba de fuerza (350 g) más tipo '0' (150 g)",
+        "fr": "Manitoba forte (350 g) plus tipo '0' (150 g)",
+        "ro": "Manitoba tare (350 g) plus tipo '0' (150 g)"
       }
     },
     {
       "key": "water",
       "grams": 300,
       "note": {
-        "en": "dough water"
+        "en": "dough water",
+        "de": "Teigwasser",
+        "es": "agua de la masa",
+        "fr": "eau de la pâte",
+        "ro": "apa aluatului"
       }
     },
     {
@@ -70,42 +86,66 @@
       "key": "olive-oil",
       "grams": 30,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
       "key": "salt",
       "grams": 10,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
       "key": "water",
       "grams": 135,
       "note": {
-        "en": "for the salamoia brine"
+        "en": "for the salamoia brine",
+        "de": "für die Salamoia-Lake",
+        "es": "para la salamoia",
+        "fr": "pour la salamoia",
+        "ro": "pentru saramura salamoia"
       }
     },
     {
       "key": "olive-oil",
       "grams": 28,
       "note": {
-        "en": "for the salamoia brine, plus extra for the pan"
+        "en": "for the salamoia brine, plus extra for the pan",
+        "de": "für die Salamoia-Lake, plus extra für das Blech",
+        "es": "para la salamoia, más extra para la bandeja",
+        "fr": "pour la salamoia, plus un supplément pour le moule",
+        "ro": "pentru saramura salamoia, plus extra pentru tavă"
       }
     },
     {
       "key": "salt",
       "grams": 2,
       "note": {
-        "en": "dissolved into the salamoia brine"
+        "en": "dissolved into the salamoia brine",
+        "de": "in der Salamoia-Lake aufgelöst",
+        "es": "disuelta en la salamoia",
+        "fr": "dissous dans la salamoia",
+        "ro": "dizolvat în saramura salamoia"
       }
     },
     {
       "key": "salt",
       "grams": 15,
       "note": {
-        "en": "coarse crystals scattered on top; stays crunchy, not counted toward saltPct"
+        "en": "coarse crystals scattered on top; stays crunchy, not counted toward saltPct",
+        "de": "grobe Kristalle darüber gestreut; bleibt knusprig, nicht im Salzprozentsatz enthalten",
+        "es": "cristales gruesos esparcidos encima; se mantienen crujientes, no contabilizados en el porcentaje de sal",
+        "fr": "gros cristaux parsemés dessus; restent croquants, non comptés dans le pourcentage de sel",
+        "ro": "cristale mari presărate deasupra; rămân crocante, neincluse în procentul de sare"
       }
     }
   ],
@@ -113,7 +153,11 @@
     "count": 1,
     "pieceGrams": 1035,
     "shape": {
-      "en": "40×35 cm sheet pan, cut into squares to serve"
+      "en": "40×35 cm sheet pan, cut into squares to serve",
+      "de": "Blech 40×35 cm, in Quadrate geschnitten zum Servieren",
+      "es": "bandeja de horno de 40×35 cm, cortada en cuadrados para servir",
+      "fr": "plaque de cuisson 40×35 cm, coupée en carrés pour servir",
+      "ro": "tavă de 40×35 cm, tăiată în pătrate pentru servire"
     }
   },
   "time": {
@@ -155,7 +199,11 @@
     "freshDays": 1,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked while the base still has a little crispness; it softens fast but reheats and freezes well."
+      "en": "Best the day it's baked while the base still has a little crispness; it softens fast but reheats and freezes well.",
+      "de": "Am besten am Backtag, solange der Boden noch etwas Knusprigkeit hat; sie wird schnell weich, lässt sich aber gut aufwärmen und einfrieren.",
+      "es": "Mejor el día de horneado mientras la base aún tiene un poco de crujiente; se ablanda rápido pero se recalienta y congela bien.",
+      "fr": "Meilleure le jour de la cuisson tant que la base est encore un peu croustillante; elle ramollit vite mais se réchauffe et se congèle bien.",
+      "ro": "Cel mai bună în ziua coacerii cât baza mai are puțină crocănțeală; se înmoaie repede dar se reîncălzește și congelează bine."
     }
   },
   "equipment": [
@@ -265,7 +313,11 @@
     "site": "Tavolartegusto",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Gram quantities follow this site's recipe; total hydration is calculated including the salamoia brine water, which the dimpled dough visibly drinks in."
+      "en": "Gram quantities follow this site's recipe; total hydration is calculated including the salamoia brine water, which the dimpled dough visibly drinks in.",
+      "de": "Grammzahlen folgen dem Rezept dieser Seite; die Gesamthydratation wird inklusive des Salamoia-Wassers berechnet, das der mit Vertiefungen versehene Teig sichtbar aufnimmt.",
+      "es": "Las cantidades en gramos siguen la receta de este sitio; la hidratación total se calcula incluyendo el agua de la salamoia, que la masa con hoyuelos absorbe visiblemente.",
+      "fr": "Les quantités en grammes suivent la recette de ce site; l'hydratation totale est calculée en incluant l'eau de la salamoia, que la pâte trouée absorbe visiblement.",
+      "ro": "Cantitățile în grame urmează rețeta acestui site; hidratarea totală se calculează incluzând apa de salamoia, pe care aluatul cu adâncituri o absoarbe vizibil."
     }
   },
   "tags": [

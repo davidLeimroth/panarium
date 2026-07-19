@@ -22,10 +22,18 @@
   "origin": {
     "country": "MX",
     "region": {
-      "en": "Nationwide Mexico; a central-Mexico holiday custom above all"
+      "en": "Nationwide Mexico; a central-Mexico holiday custom above all",
+      "de": "Ganz Mexiko; vor allem eine Feiertagstradition in Zentralmexiko",
+      "es": "En todo México; ante todo una tradición festiva del centro de México",
+      "fr": "Dans tout le Mexique; avant tout une tradition de fête du centre du Mexique",
+      "ro": "În toată Mexicul; mai ales o tradiție de sărbătoare în centrul Mexicului"
     },
     "note": {
-      "en": "Descends from Spain's Roscón de Reyes, brought over by Spanish colonizers; that tradition in turn traces to older European midwinter fruit-studded ring cakes with roots reaching back to Roman Saturnalia and Twelfth Night customs."
+      "en": "Descends from Spain's Roscón de Reyes, brought over by Spanish colonizers; that tradition in turn traces to older European midwinter fruit-studded ring cakes with roots reaching back to Roman Saturnalia and Twelfth Night customs.",
+      "de": "Stammt vom spanischen Roscón de Reyes ab, eingeführt durch spanische Kolonisatoren; diese Tradition wiederum geht auf ältere europäische, mit Früchten besetzte Ringkuchen zur Wintersonnenwende zurück, mit Wurzeln bis zu den römischen Saturnalien und den Dreikönigsbräuchen.",
+      "es": "Desciende del Roscón de Reyes español, traído por los colonizadores españoles; esa tradición se remonta a los pasteles de anillo europeos con frutas del solsticio de invierno, con raíces en las Saturnales romanas y las costumbres del Día de Reyes.",
+      "fr": "Descend du Roscón de Reyes espagnol, apporté par les colonisateurs espagnols; cette tradition remonte aux gâteaux en couronne aux fruits des solstices d'hiver européens, dont les racines plongent dans les Saturnales romaines et les coutumes de l'Épiphanie.",
+      "ro": "Provine din Roscón de Reyes spaniol, adus de colonizatorii spanioli; această tradiție duce la prăjiturile inelare cu fructe din solstițiul de iarnă european, cu rădăcini în Saturnaliile romane și în obiceiurile de Bobotează."
     }
   },
   "leaven": "yeast",
@@ -53,42 +61,66 @@
       "key": "instant-yeast",
       "grams": 9,
       "note": {
-        "en": "fast-action/instant yeast"
+        "en": "fast-action/instant yeast",
+        "de": "Trockenhefe/Instanthefe",
+        "es": "levadura seca de acción rápida/instantánea",
+        "fr": "levure sèche instantanée",
+        "ro": "drojdie uscată cu acțiune rapidă/instant"
       }
     },
     {
       "key": "salt",
       "grams": 12,
       "note": {
-        "en": "fine salt"
+        "en": "fine salt",
+        "de": "feines Salz",
+        "es": "sal fina",
+        "fr": "sel fin",
+        "ro": "sare fină"
       }
     },
     {
       "key": "sugar",
       "grams": 100,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
       "key": "butter",
       "grams": 170,
       "note": {
-        "en": "softened, in the dough"
+        "en": "softened, in the dough",
+        "de": "weich, im Teig",
+        "es": "ablandada, en la masa",
+        "fr": "ramolli, dans la pâte",
+        "ro": "moale, în aluat"
       }
     },
     {
       "key": "egg",
       "grams": 200,
       "note": {
-        "en": "4 large eggs, in the dough"
+        "en": "4 large eggs, in the dough",
+        "de": "4 große Eier, im Teig",
+        "es": "4 huevos grandes, en la masa",
+        "fr": "4 gros œufs, dans la pâte",
+        "ro": "4 ouă mari, în aluat"
       }
     },
     {
       "key": "milk",
       "grams": 80,
       "note": {
-        "en": "whole milk"
+        "en": "whole milk",
+        "de": "Vollmilch",
+        "es": "leche entera",
+        "fr": "lait entier",
+        "ro": "lapte integral"
       }
     },
     {
@@ -109,14 +141,22 @@
       "key": "egg",
       "grams": 25,
       "note": {
-        "en": "beaten, for the egg wash"
+        "en": "beaten, for the egg wash",
+        "de": "verquirlt, zum Bestreichen",
+        "es": "batido, para el baño de huevo",
+        "fr": "battu, pour la dorure",
+        "ro": "bătut, pentru uns deasupra"
       }
     },
     {
       "key": "sugar",
       "grams": 12,
       "note": {
-        "en": "sprinkled on top before baking"
+        "en": "sprinkled on top before baking",
+        "de": "vor dem Backen darüberstreuen",
+        "es": "espolvorear encima antes de hornear",
+        "fr": "saupoudrer sur le dessus avant cuisson",
+        "ro": "presărat deasupra înainte de coacere"
       }
     },
     {
@@ -129,7 +169,11 @@
       },
       "grams": 90,
       "note": {
-        "en": "traditional crown decoration"
+        "en": "traditional crown decoration",
+        "de": "traditioneller Kronenschmuck",
+        "es": "decoración tradicional de corona",
+        "fr": "décoration traditionnelle de couronne",
+        "ro": "decor tradițional de coroană"
       }
     },
     {
@@ -142,7 +186,11 @@
       },
       "grams": 40,
       "note": {
-        "en": "red and green, for decoration"
+        "en": "red and green, for decoration",
+        "de": "rot und grün, zum Verzieren",
+        "es": "rojo y verde, para decorar",
+        "fr": "rouges et verts, pour la décoration",
+        "ro": "roșii și verzi, pentru decorat"
       }
     }
   ],
@@ -150,7 +198,11 @@
     "count": 1,
     "pieceGrams": 1150,
     "shape": {
-      "en": "large ring, about 30 cm across, serves 10-12"
+      "en": "large ring, about 30 cm across, serves 10-12",
+      "de": "großer Ring, etwa 30 cm Durchmesser, für 10–12 Portionen",
+      "es": "rosca grande, de unos 30 cm de diámetro, rinde 10–12 raciones",
+      "fr": "grande couronne, environ 30 cm de diamètre, pour 10–12 personnes",
+      "ro": "inel mare, de aproximativ 30 cm diametru, 10–12 porții"
     }
   },
   "time": {
@@ -193,7 +245,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Best the day it's baked; wrap airtight and it stays soft about three days, or freeze the plain, undecorated ring."
+      "en": "Best the day it's baked; wrap airtight and it stays soft about three days, or freeze the plain, undecorated ring.",
+      "de": "Am besten am Backtag; luftdicht verpackt bleibt es etwa drei Tage weich, oder den schlichten, unverzierten Ring einfrieren.",
+      "es": "Mejor el día que se hornea; envuelto hermético se mantiene blando unos tres días, o congelar el aro liso sin decorar.",
+      "fr": "Meilleur le jour de la cuisson; emballé hermétiquement, il reste moelleux environ trois jours, ou congeler la couronne nature non décorée.",
+      "ro": "Cel mai bun în ziua coacerii; învelit ermetic rămâne moale cam trei zile, sau congelează inelul simplu, nedecorat."
     }
   },
   "equipment": [
@@ -319,7 +375,11 @@
     "site": "Savor the Flavour",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Converted from cup measurements. Kept the classic candied-fruit topping (guava paste, glacé cherries) but omitted the source's added shortbread decoration paste for a simpler, more traditional finish."
+      "en": "Converted from cup measurements. Kept the classic candied-fruit topping (guava paste, glacé cherries) but omitted the source's added shortbread decoration paste for a simpler, more traditional finish.",
+      "de": "Aus Tassenangaben umgerechnet. Der klassische Belag aus kandierten Früchten (Guavenpaste, kandierte Kirschen) wurde beibehalten, aber die zusätzliche Mürbteig-Dekorpaste der Quelle wurde für einen schlichteren, traditionelleren Abschluss weggelassen.",
+      "es": "Convertido de medidas en tazas. Se mantuvo la cobertura clásica de frutas confitadas (pasta de guayaba, cerezas glaseadas) pero se omitió la pasta decorativa de masa quebrada añadida por la fuente para un acabado más simple y tradicional.",
+      "fr": "Converti depuis des mesures en tasses. La garniture classique de fruits confits (pâte de goyave, cerises confites) a été conservée, mais la pâte sablée décorative ajoutée par la source a été omise pour une finition plus simple et traditionnelle.",
+      "ro": "Convertit din măsurători în căni. S-a păstrat toppingul clasic cu fructe confiate (pastă de guava, cireșe glazurate), dar s-a omis pasta decorativă de shortbread adăugată de sursă pentru un finisaj mai simplu, mai tradițional."
     }
   },
   "tags": [

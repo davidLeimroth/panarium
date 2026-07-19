@@ -22,10 +22,18 @@
   "origin": {
     "country": "FR",
     "region": {
-      "en": "national, rural tradition"
+      "en": "national, rural tradition",
+      "de": "landesweit, ländliche Tradition",
+      "es": "nacional, tradición rural",
+      "fr": "national, tradition rurale",
+      "ro": "la nivel național, tradiție rurală"
     },
     "note": {
-      "en": "A catch-all term rather than one fixed recipe; every region and every boulangerie has its own blend of country flour, rye and levain."
+      "en": "A catch-all term rather than one fixed recipe; every region and every boulangerie has its own blend of country flour, rye and levain.",
+      "de": "Ein Sammelbegriff, kein festes Rezept; jede Region und jede Boulangerie hat ihre eigene Mischung aus Landmehl, Roggen und Levain.",
+      "es": "Un término genérico más que una receta fija; cada región y cada panadería tiene su propia mezcla de harina campestre, centeno y levain.",
+      "fr": "Un terme générique plutôt qu'une recette fixe; chaque région et chaque boulangerie a son propre mélange de farine de campagne, de seigle et de levain.",
+      "ro": "Un termen generic, nu o rețetă fixă; fiecare regiune și fiecare boulangerie are propriul său amestec de făină de țară, secară și levain."
     }
   },
   "leaven": "sourdough",
@@ -51,14 +59,22 @@
       "key": "flour:wheat-white",
       "grams": 396,
       "note": {
-        "en": "T80 country flour"
+        "en": "T80 country flour",
+        "de": "T80 Landmehl",
+        "es": "harina campestre T80",
+        "fr": "farine de campagne T80",
+        "ro": "făină de țară T80"
       }
     },
     {
       "key": "flour:rye-whole",
       "grams": 45,
       "note": {
-        "en": "for the overnight levain"
+        "en": "for the overnight levain",
+        "de": "für den Übernacht-Levain",
+        "es": "para el levain de noche",
+        "fr": "pour le levain de nuit",
+        "ro": "pentru levainul de peste noapte"
       }
     },
     {
@@ -69,7 +85,11 @@
       "key": "sourdough-starter",
       "grams": 9,
       "note": {
-        "en": "active chef to build the levain"
+        "en": "active chef to build the levain",
+        "de": "aktiver Chef zum Aufbau des Levains",
+        "es": "chef activo para construir el levain",
+        "fr": "chef actif pour construire le levain",
+        "ro": "chef activ pentru a construi levainul"
       }
     },
     {
@@ -81,7 +101,11 @@
     "count": 1,
     "pieceGrams": 600,
     "shape": {
-      "en": "round boule"
+      "en": "round boule",
+      "de": "runde Boule",
+      "es": "boule redonda",
+      "fr": "boule ronde",
+      "ro": "boule rotundă"
     }
   },
   "time": {
@@ -122,7 +146,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Keeps noticeably better than a plain white loaf thanks to the levain and rye."
+      "en": "Keeps noticeably better than a plain white loaf thanks to the levain and rye.",
+      "de": "Hält sich dank Levain und Roggen deutlich besser als ein einfaches Weißbrot.",
+      "es": "Se conserva notablemente mejor que un pan blanco simple gracias al levain y al centeno.",
+      "fr": "Se conserve nettement mieux qu'un pain blanc ordinaire grâce au levain et au seigle.",
+      "ro": "Se păstrează vizibil mai bine decât o pâine albă simplă datorită levainului și secarei."
     }
   },
   "equipment": [
@@ -232,7 +260,11 @@
     "site": "Pain au Levain (tutorial)",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Levain's own flour and water folded into the total baker's percentages per Panarium convention."
+      "en": "Levain's own flour and water folded into the total baker's percentages per Panarium convention.",
+      "de": "Mehl und Wasser des Levains gemäß der Panarium-Konvention in die gesamten Bäckerprozente eingerechnet.",
+      "es": "Harina y agua del levain integradas en los porcentajes totales del panadero según la convención de Panarium.",
+      "fr": "Farine et eau du levain intégrées dans les pourcentages totaux du boulanger selon la convention Panarium.",
+      "ro": "Făina și apa levainului integrate în procentele totale de panificație conform convenției Panarium."
     }
   },
   "tags": [

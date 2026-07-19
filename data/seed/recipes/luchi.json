@@ -22,10 +22,18 @@
   "origin": {
     "country": "IN",
     "region": {
-      "en": "West Bengal (also Bangladesh, Assam, Odisha)"
+      "en": "West Bengal (also Bangladesh, Assam, Odisha)",
+      "de": "Westbengalen (auch Bangladesch, Assam, Odisha)",
+      "es": "Bengala Occidental (también Bangladés, Assam, Odisha)",
+      "fr": "Bengale-Occidental (également Bangladesh, Assam, Odisha)",
+      "ro": "Bengalul de Vest (de asemenea Bangladesh, Assam, Odisha)"
     },
     "note": {
-      "en": "A festive-breakfast staple, especially during Durga Puja, usually paired with a dry potato curry (aloo dum) or chholar dal."
+      "en": "A festive-breakfast staple, especially during Durga Puja, usually paired with a dry potato curry (aloo dum) or chholar dal.",
+      "de": "Ein festliches Frühstücksgrundnahrungsmittel, besonders während Durga Puja, meist mit einem trockenen Kartoffelcurry (Aloo Dum) oder Chholar Dal serviert.",
+      "es": "Un alimento básico del desayuno festivo, especialmente durante Durga Puja, generalmente acompañado de un curry seco de papa (aloo dum) o chholar dal.",
+      "fr": "Un incontournable du petit-déjeuner de fête, surtout pendant Durga Puja, généralement accompagné d'un curry sec de pommes de terre (aloo dum) ou de chholar dal.",
+      "ro": "Un aliment de bază pentru micul dejun festiv, în special în timpul Durga Puja, servit de obicei cu un curry uscat de cartofi (aloo dum) sau chholar dal."
     }
   },
   "leaven": "none",
@@ -47,14 +55,22 @@
       "key": "flour:wheat-white",
       "grams": 310,
       "note": {
-        "en": "all-purpose flour (maida)"
+        "en": "all-purpose flour (maida)",
+        "de": "Weizenmehl (Maida)",
+        "es": "harina todo uso (maida)",
+        "fr": "farine tout usage (maida)",
+        "ro": "făină universală (maida)"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 27,
       "note": {
-        "en": "in the dough (moyan)"
+        "en": "in the dough (moyan)",
+        "de": "im Teig (Moyan)",
+        "es": "en la masa (moyan)",
+        "fr": "dans la pâte (moyan)",
+        "ro": "în aluat (moyan)"
       }
     },
     {
@@ -65,14 +81,22 @@
       "key": "water",
       "grams": 160,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "tibia",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
       "key": "vegetable-oil",
       "grams": 33,
       "note": {
-        "en": "for deep-frying; amount absorbed is estimated"
+        "en": "for deep-frying; amount absorbed is estimated",
+        "de": "zum Frittieren; die aufgenommene Menge ist geschätzt",
+        "es": "para freír; la cantidad absorbida es estimada",
+        "fr": "pour la friture; la quantité absorbée est estimée",
+        "ro": "pentru prăjire; cantitatea absorbită este estimată"
       }
     }
   ],
@@ -80,7 +104,11 @@
     "count": 11,
     "pieceGrams": 48,
     "shape": {
-      "en": "4 in (10 cm) fried disc"
+      "en": "4 in (10 cm) fried disc",
+      "de": "frittierter Fladen von 10 cm",
+      "es": "disco frito de 10 cm",
+      "fr": "disque frit de 10 cm",
+      "ro": "disc prăjit de 10 cm"
     }
   },
   "time": {
@@ -120,7 +148,11 @@
     "freshDays": 0.3,
     "freezes": true,
     "note": {
-      "en": "Best eaten within minutes of frying while puffed; deflates and turns tough once cold. Raw rolled rounds can be stacked with parchment and frozen for later frying."
+      "en": "Best eaten within minutes of frying while puffed; deflates and turns tough once cold. Raw rolled rounds can be stacked with parchment and frozen for later frying.",
+      "de": "Am besten innerhalb weniger Minuten nach dem Frittieren gegessen, solange er aufgebläht ist; wird er kalt, fällt er zusammen und wird zäh. Rohe ausgerollte Runden können mit Backpapier gestapelt und für späteres Frittieren eingefroren werden.",
+      "es": "Mejor comer dentro de minutos de fritura mientras esté inflado; se desinfla y se vuelve duro una vez frío. Los discos crudos se pueden apilar con papel de horno y congelar para freír después.",
+      "fr": "Meilleur mangé dans les minutes suivant la friture alors qu'il est gonflé; se dégonfle et devient dur une fois froid. Les disques crus peuvent être empilés avec du papier sulfurisé et congelés pour friture ultérieure.",
+      "ro": "Cel mai bun mâncat în câteva minute după prăjire cât este umflat; se dezumflă și devine tare odată rece. Discurile crude rulate pot fi stivuite cu hârtie de copt și congelate pentru prăjire ulterioară."
     }
   },
   "equipment": [
@@ -229,7 +261,11 @@
     "site": "Whisk Affair",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; salt increased slightly from the source's 1/2 tsp for balance."
+      "en": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; salt increased slightly from the source's 1/2 tsp for balance.",
+      "de": "Aufnahme von Frittieröl gemäß der Konvention dieses Atlas für frittierte Brote geschätzt; Salz gegenüber dem 1/2 TL der Quelle leicht erhöht, für die Ausgewogenheit.",
+      "es": "Absorción de aceite de fritura estimada según la convención de este atlas para panes fritos; la sal se aumentó ligeramente de la 1/2 cucharadita de la fuente para el equilibrio.",
+      "fr": "Absorption d'huile de friture estimée selon la convention de cet atlas pour les pains frits; le sel a été légèrement augmenté par rapport à la 1/2 c. à café de la source pour l'équilibre.",
+      "ro": "Absorbția uleiului de prăjire estimată conform convenției acestui atlas pentru pâinile prăjite; sarea a fost ușor crescută față de 1/2 linguriță a sursei pentru echilibru."
     }
   },
   "tags": [

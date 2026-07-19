@@ -21,10 +21,18 @@
   "origin": {
     "country": "SV",
     "region": {
-      "en": "El Salvador (also Guatemala and Honduras, with local variants)"
+      "en": "El Salvador (also Guatemala and Honduras, with local variants)",
+      "de": "El Salvador (auch Guatemala und Honduras, mit lokalen Varianten)",
+      "es": "El Salvador (también Guatemala y Honduras, con variantes locales)",
+      "fr": "El Salvador (également Guatemala et Honduras, avec des variantes locales)",
+      "ro": "El Salvador (de asemenea Guatemala și Honduras, cu variante locale)"
     },
     "note": {
-      "en": "A yeasted bread dough, not a pastry crust, sandwiches the jam filling and bakes flat in a large pan before being cut into squares; pineapple is the most traditional filling, though mango or guava versions exist."
+      "en": "A yeasted bread dough, not a pastry crust, sandwiches the jam filling and bakes flat in a large pan before being cut into squares; pineapple is the most traditional filling, though mango or guava versions exist.",
+      "de": "Ein Hefeteig, kein Mürbeteig, umschließt die Marmeladenfüllung und wird flach in einer großen Form gebacken, bevor er in Quadrate geschnitten wird; Ananas ist die traditionellste Füllung, obwohl auch Mango- oder Guavenversionen existieren.",
+      "es": "Una masa de pan con levadura, no una masa quebrada, intercala el relleno de mermelada y se hornea plano en un molde grande antes de cortarse en cuadrados; la piña es el relleno más tradicional, aunque existen versiones de mango o guayaba.",
+      "fr": "Une pâte à pain levée, pas une pâte brisée, enserre la garniture de confiture et cuit à plat dans un grand moule avant d’être coupée en carrés ; l’ananas est la garniture la plus traditionnelle, bien qu’il existe des versions à la mangue ou à la goyave.",
+      "ro": "Un aluat de pâine cu drojdie, nu un aluat fraged, înconjoară umplutura de dulceață și se coace plat într-o tavă mare înainte de a fi tăiat în pătrate; ananasul este cea mai tradițională umplutură, deși există versiuni cu mango sau guava."
     }
   },
   "leaven": "yeast",
@@ -47,28 +55,44 @@
       "key": "flour:wheat-white",
       "grams": 688,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
       "key": "milk",
       "grams": 180,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
       "key": "butter",
       "grams": 113,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "dough"
+        "en": "dough",
+        "de": "Teig",
+        "es": "masa",
+        "fr": "pâte",
+        "ro": "aluat"
       }
     },
     {
@@ -79,7 +103,11 @@
       "key": "water",
       "grams": 79,
       "note": {
-        "en": "warm, for blooming the yeast"
+        "en": "warm, for blooming the yeast",
+        "de": "warm, zum Auflösen der Hefe",
+        "es": "tibia, para activar la levadura",
+        "fr": "tiède, pour réhydrater la levure",
+        "ro": "călduță, pentru activarea drojdiei"
       }
     },
     {
@@ -90,7 +118,11 @@
       "key": "egg",
       "grams": 150,
       "note": {
-        "en": "3 eggs, dough"
+        "en": "3 eggs, dough",
+        "de": "3 Eier, Teig",
+        "es": "3 huevos, masa",
+        "fr": "3 œufs, pâte",
+        "ro": "3 ouă, aluat"
       }
     },
     {
@@ -103,28 +135,44 @@
       },
       "grams": 480,
       "note": {
-        "en": "filling"
+        "en": "filling",
+        "de": "Füllung",
+        "es": "relleno",
+        "fr": "garniture",
+        "ro": "umplutură"
       }
     },
     {
       "key": "cinnamon",
       "grams": 5,
       "note": {
-        "en": "filling"
+        "en": "filling",
+        "de": "Füllung",
+        "es": "relleno",
+        "fr": "garniture",
+        "ro": "umplutură"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "beaten, for egg wash"
+        "en": "beaten, for egg wash",
+        "de": "verquirlt, zum Bestreichen",
+        "es": "batido, para barnizar",
+        "fr": "battu, pour dorer",
+        "ro": "bătut, pentru uns"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "for topping before baking"
+        "en": "for topping before baking",
+        "de": "zum Bestreuen vor dem Backen",
+        "es": "para cubrir antes de hornear",
+        "fr": "pour saupoudrer avant la cuisson",
+        "ro": "pentru acoperit înainte de coacere"
       }
     }
   ],
@@ -132,7 +180,11 @@
     "count": 12,
     "pieceGrams": 145,
     "shape": {
-      "en": "large flat rectangular tart cut into 12 squares"
+      "en": "large flat rectangular tart cut into 12 squares",
+      "de": "große flache rechteckige Tarte, in 12 Quadrate geschnitten",
+      "es": "tarta rectangular grande y plana cortada en 12 cuadrados",
+      "fr": "grande tarte rectangulaire plate coupée en 12 carrés",
+      "ro": "tartă dreptunghiulară mare și plată, tăiată în 12 pătrate"
     }
   },
   "time": {
@@ -174,7 +226,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Keeps well for several days at room temperature under a cloth; the jam filling keeps the crumb moist longer than a plain sweet roll."
+      "en": "Keeps well for several days at room temperature under a cloth; the jam filling keeps the crumb moist longer than a plain sweet roll.",
+      "de": "Hält sich mehrere Tage bei Raumtemperatur unter einem Tuch; die Marmeladenfüllung hält die Krume länger feucht als bei einem einfachen süßen Brötchen.",
+      "es": "Se conserva bien durante varios días a temperatura ambiente bajo un paño; el relleno de mermelada mantiene la miga húmeda por más tiempo que un panecillo dulce simple.",
+      "fr": "Se conserve bien plusieurs jours à température ambiante sous un torchon ; la garniture de confiture maintient la mie humide plus longtemps qu’un petit pain sucré ordinaire.",
+      "ro": "Se păstrează bine câteva zile la temperatura camerei sub un prosop; umplutura de dulceață menține miezul umed mai mult decât o chiflă dulce simplă."
     }
   },
   "equipment": [
@@ -300,7 +356,11 @@
     "site": "Whats4Eats",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "formula.* covers the base dough only; the pineapple filling, lattice trim and egg-sugar topping are excluded from the percentages. Cup measures converted to grams via standard baker's conversions."
+      "en": "formula.* covers the base dough only; the pineapple filling, lattice trim and egg-sugar topping are excluded from the percentages. Cup measures converted to grams via standard baker's conversions.",
+      "de": "formula.* deckt nur den Grundteig ab; die Ananasfüllung, das Gitter und der Ei-Zucker-Belag sind von den Prozenten ausgeschlossen. Tassenmaße über standardmäßige Bäckerumrechnungen in Gramm umgewandelt.",
+      "es": "formula.* cubre solo la masa base; el relleno de piña, el enrejado y la cobertura de huevo y azúcar están excluidos de los porcentajes. Las medidas en tazas convertidas a gramos mediante conversiones panaderas estándar.",
+      "fr": "formula.* ne couvre que la pâte de base ; la garniture à l’ananas, le treillis et la garniture œuf-sucre sont exclus des pourcentages. Les mesures en tasses converties en grammes via les conversions de boulanger standard.",
+      "ro": "formula.* acoperă doar aluatul de bază; umplutura de ananas, grila și toppingul de ou-zahăr sunt excluse din procente. Măsurile în căni convertite în grame prin conversii standard de brutar."
     }
   },
   "tags": [

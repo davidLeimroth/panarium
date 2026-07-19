@@ -21,10 +21,18 @@
   "origin": {
     "country": "GB",
     "region": {
-      "en": "England, nationwide"
+      "en": "England, nationwide",
+      "de": "England, landesweit",
+      "es": "Inglaterra, en todo el país",
+      "fr": "Angleterre, dans tout le pays",
+      "ro": "Anglia, la nivel național"
     },
     "note": {
-      "en": "A high-street bakery staple; the name is generally thought to come from the way the crust 'blooms' open along the slashes as it bakes."
+      "en": "A high-street bakery staple; the name is generally thought to come from the way the crust 'blooms' open along the slashes as it bakes.",
+      "de": "Ein Dauerbrenner der Bäckereien; der Name kommt vermutlich daher, wie die Kruste entlang der Einschnitte beim Backen ‚aufblüht‘.",
+      "es": "Un clásico de las panaderías; se cree que el nombre proviene de cómo la corteza ‚florece‘ a lo largo de los cortes al hornearse.",
+      "fr": "Un incontournable des boulangeries de quartier; le nom viendrait de la façon dont la croûte ‚fleurit‘ le long des incisions à la cuisson.",
+      "ro": "Un element de bază al brutăriilor; se crede că numele provine de la modul în care coaja ‚înflorește‘ de-a lungul crestăturilor în timpul coacerii."
     }
   },
   "leaven": "yeast",
@@ -47,14 +55,22 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "strong white bread flour"
+        "en": "strong white bread flour",
+        "de": "starkes Weizenbrotmehl",
+        "es": "harina de pan blanca de fuerza",
+        "fr": "farine de pain blanche forte",
+        "ro": "făină de pâine albă puternică"
       }
     },
     {
       "key": "water",
       "grams": 350,
       "note": {
-        "en": "lukewarm"
+        "en": "lukewarm",
+        "de": "lauwarm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
@@ -74,7 +90,11 @@
     "count": 1,
     "pieceGrams": 800,
     "shape": {
-      "en": "long oval, three or four diagonal slashes on top"
+      "en": "long oval, three or four diagonal slashes on top",
+      "de": "langes Oval, drei oder vier diagonale Einschnitte oben",
+      "es": "óvalo alargado, tres o cuatro cortes diagonales en la parte superior",
+      "fr": "ovale allongé, trois ou quatre incisions diagonales sur le dessus",
+      "ro": "oval alungit, trei sau patru crestături diagonale deasupra"
     }
   },
   "time": {
@@ -116,7 +136,11 @@
     "freshDays": 2,
     "freezes": true,
     "note": {
-      "en": "Crust is at its best within hours of baking; wrap in paper, not plastic, to keep it from going soft."
+      "en": "Crust is at its best within hours of baking; wrap in paper, not plastic, to keep it from going soft.",
+      "de": "Die Kruste ist am besten innerhalb von Stunden nach dem Backen; in Papier einwickeln, nicht in Plastik, damit sie nicht weich wird.",
+      "es": "La corteza está mejor dentro de las horas posteriores al horneado; envolver en papel, no en plástico, para evitar que se ablande.",
+      "fr": "La croûte est à son meilleur dans les heures suivant la cuisson; emballer dans du papier, pas du plastique, pour éviter qu'elle ne ramollisse.",
+      "ro": "Coaja este cea mai bună în primele ore după coacere; înfășoară în hârtie, nu în plastic, pentru a nu se înmuia."
     }
   },
   "equipment": [
@@ -225,7 +249,11 @@
     "site": "The Great British Bake Off",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Water given as a range; used the midpoint. Optional poppy seed topping omitted for a plain classic version."
+      "en": "Water given as a range; used the midpoint. Optional poppy seed topping omitted for a plain classic version.",
+      "de": "Wasser als Spanne angegeben; der Mittelwert wurde verwendet. Optionaler Mohnbelag für eine klassische schlichte Version weggelassen.",
+      "es": "Agua dada como un rango; se usó el punto medio. El aderezo opcional de semillas de amapola se omitió para una versión clásica sencilla.",
+      "fr": "Eau donnée en fourchette; le point médian a été utilisé. La garniture facultative aux graines de pavot a été omise pour une version classique simple.",
+      "ro": "Apă dată ca interval; s-a folosit punctul de mijloc. Ornarea opțională cu semințe de mac omisă pentru o versiune clasică simplă."
     }
   },
   "tags": [

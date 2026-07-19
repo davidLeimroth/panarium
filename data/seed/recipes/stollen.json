@@ -24,10 +24,18 @@
   "origin": {
     "country": "DE",
     "region": {
-      "en": "Dresden, Saxony"
+      "en": "Dresden, Saxony",
+      "de": "Dresden, Sachsen",
+      "es": "Dresde, Sajonia",
+      "fr": "Dresde, Saxe",
+      "ro": "Dresda, Saxonia"
     },
     "note": {
-      "en": "\"Dresdner Stollen\" is a protected geographical term; countless regional versions exist across Germany, and many include a marzipan core."
+      "en": "\"Dresdner Stollen\" is a protected geographical term; countless regional versions exist across Germany, and many include a marzipan core.",
+      "de": "Dresdner Stollen ist eine geschützte geografische Angabe; unzählige regionale Varianten existieren in ganz Deutschland, viele mit einer Marzipanfüllung.",
+      "es": "Dresdner Stollen es un término geográfico protegido; existen innumerables versiones regionales en toda Alemania, y muchas incluyen un núcleo de mazapán.",
+      "fr": "Dresdner Stollen est une appellation géographique protégée; d'innombrables versions régionales existent dans toute l'Allemagne, et beaucoup incluent un cœur de massepain.",
+      "ro": "Dresdner Stollen este un termen geografic protejat; există nenumărate variante regionale în toată Germania, iar multe includ un miez de marțipan."
     }
   },
   "leaven": "yeast",
@@ -59,7 +67,11 @@
       "key": "milk",
       "grams": 170,
       "note": {
-        "en": "warm, to activate the yeast"
+        "en": "warm, to activate the yeast",
+        "de": "warm, um die Hefe zu aktivieren",
+        "es": "tibia, para activar la levadura",
+        "fr": "tiède, pour activer la levure",
+        "ro": "călduță, pentru a activa drojdia"
       }
     },
     {
@@ -70,21 +82,33 @@
       "key": "sugar",
       "grams": 95,
       "note": {
-        "en": "in the dough"
+        "en": "in the dough",
+        "de": "im Teig",
+        "es": "en la masa",
+        "fr": "dans la pâte",
+        "ro": "în aluat"
       }
     },
     {
       "key": "almonds",
       "grams": 122,
       "note": {
-        "en": "mostly sweet almonds, a few bitter almonds for classic flavor"
+        "en": "mostly sweet almonds, a few bitter almonds for classic flavor",
+        "de": "meist süße Mandeln, einige Bittermandeln für den klassischen Geschmack",
+        "es": "mayoritariamente almendras dulces, unas pocas almendras amargas para el sabor clásico",
+        "fr": "surtout des amandes douces, quelques amandes amères pour la saveur classique",
+        "ro": "în mare parte migdale dulci, câteva migdale amare pentru aroma clasică"
       }
     },
     {
       "key": "butter",
       "grams": 250,
       "note": {
-        "en": "soft"
+        "en": "soft",
+        "de": "weich",
+        "es": "blanda",
+        "fr": "ramolli",
+        "ro": "moale"
       }
     },
     {
@@ -97,14 +121,22 @@
       },
       "grams": 50,
       "note": {
-        "en": "used alongside regular butter; higher smoke point and better keeping"
+        "en": "used alongside regular butter; higher smoke point and better keeping",
+        "de": "Wird neben normaler Butter verwendet; höherer Rauchpunkt und bessere Haltbarkeit",
+        "es": "Usado junto con mantequilla normal; mayor punto de humeo y mejor conservación",
+        "fr": "Utilisé en complément du beurre ordinaire; point de fumée plus élevé et meilleure conservation",
+        "ro": "Folosit împreună cu untul obișnuit; punct de fum mai ridicat și păstrare mai bună"
       }
     },
     {
       "key": "candied-citrus",
       "grams": 120,
       "note": {
-        "en": "lemon and orange peel (Zitronat/Orangeat)"
+        "en": "lemon and orange peel (Zitronat/Orangeat)",
+        "de": "Zitronat und Orangeat",
+        "es": "Cáscara de limón y naranja confitada (Zitronat/Orangeat)",
+        "fr": "Écorces de citron et d'orange confites (Zitronat/Orangeat)",
+        "ro": "Coajă de lămâie și portocală confiată (Zitronat/Orangeat)"
       }
     },
     {
@@ -115,7 +147,11 @@
       "key": "raisins",
       "grams": 460,
       "note": {
-        "en": "sultanas, soaked in rum overnight"
+        "en": "sultanas, soaked in rum overnight",
+        "de": "Sultaninen, über Nacht in Rum eingelegt",
+        "es": "Pasas sultanas, remojadas en ron toda la noche",
+        "fr": "Raisins de Smyrne, trempés dans du rhum toute la nuit",
+        "ro": "Stafide sultane, înmuiate în rom peste noapte"
       }
     },
     {
@@ -128,7 +164,11 @@
       },
       "grams": 40,
       "note": {
-        "en": "for soaking the sultanas"
+        "en": "for soaking the sultanas",
+        "de": "Zum Einlegen der Sultaninen",
+        "es": "Para remojar las pasas sultanas",
+        "fr": "Pour faire tremper les raisins de Smyrne",
+        "ro": "Pentru înmuierea stafidelor sultane"
       }
     },
     {
@@ -145,28 +185,44 @@
       "key": "vanilla",
       "grams": 2,
       "note": {
-        "en": "half a vanilla pod, scraped"
+        "en": "half a vanilla pod, scraped",
+        "de": "Eine halbe Vanilleschote, ausgekratzt",
+        "es": "Media vaina de vainilla, raspada",
+        "fr": "Une demi-gousse de vanille, grattée",
+        "ro": "O jumătate de păstaie de vanilie, răzuită"
       }
     },
     {
       "key": "butter",
       "grams": 100,
       "note": {
-        "en": "clarified, for brushing after baking"
+        "en": "clarified, for brushing after baking",
+        "de": "Geklärt, zum Bestreichen nach dem Backen",
+        "es": "Clarificada, para pincelar después de hornear",
+        "fr": "Clarifié, pour badigeonner après cuisson",
+        "ro": "Clarificat, pentru uns după coacere"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "coarse, for rolling the warm loaf"
+        "en": "coarse, for rolling the warm loaf",
+        "de": "Grob, zum Wälzen des warmen Laibs",
+        "es": "Gruesa, para rebozar el pan caliente",
+        "fr": "Gros, pour rouler le pain chaud",
+        "ro": "Grosieră, pentru rularea pâinii calde"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "powdered, for the final dusting"
+        "en": "powdered, for the final dusting",
+        "de": "Puder-, für den letzten Staubzucker",
+        "es": "Glas, para el espolvoreado final",
+        "fr": "Glace, pour le saupoudrage final",
+        "ro": "Pudră, pentru pudrarea finală"
       }
     }
   ],
@@ -174,7 +230,11 @@
     "count": 1,
     "pieceGrams": 1800,
     "shape": {
-      "en": "folded oval loaf (Stollen)"
+      "en": "folded oval loaf (Stollen)",
+      "de": "Gefalteter ovaler Laib (Stollen)",
+      "es": "Pan oval doblado (Stollen)",
+      "fr": "Pain ovale plié (Stollen)",
+      "ro": "Pâine ovală pliată (Stollen)"
     }
   },
   "time": {
@@ -215,7 +275,11 @@
     "freshDays": 45,
     "freezes": true,
     "note": {
-      "en": "Improves for weeks, wrap tightly and let it mature at least 2–3 weeks before cutting; traditionally baked well ahead of Christmas."
+      "en": "Improves for weeks, wrap tightly and let it mature at least 2–3 weeks before cutting; traditionally baked well ahead of Christmas.",
+      "de": "Wird über Wochen besser, fest einwickeln und mindestens 2-3 Wochen vor dem Anschneiden reifen lassen; traditionell lange vor Weihnachten gebacken.",
+      "es": "Mejora durante semanas, envuélvelo bien y déjalo madurar al menos 2-3 semanas antes de cortarlo; tradicionalmente se hornea mucho antes de Navidad.",
+      "fr": "S'améliore pendant des semaines, emballer hermétiquement et laisser mûrir au moins 2-3 semaines avant de couper; traditionnellement cuit bien avant Noël.",
+      "ro": "Se îmbunătățește săptămâni întregi, înfășoară-l bine și lasă-l să se maturizeze cel puțin 2-3 săptămâni înainte de a-l tăia; în mod tradițional, copt cu mult înainte de Crăciun."
     }
   },
   "equipment": [
@@ -357,7 +421,11 @@
     "site": "Sachsen Tourismus",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "Decoration sugars split into a rolling step and a dusting step; kept the sourced Butterschmalz (clarified butter, not meat lard) and bitter almonds as authentic details."
+      "en": "Decoration sugars split into a rolling step and a dusting step; kept the sourced Butterschmalz (clarified butter, not meat lard) and bitter almonds as authentic details.",
+      "de": "Dekorationszucker aufgeteilt in einen Rollschritt und einen Bestäubungsschritt; das verwendete Butterschmalz und die Bittermandeln als authentische Details beibehalten.",
+      "es": "Azúcares de decoración divididos en un paso de rebozado y uno de espolvoreado; se mantuvieron la Butterschmalz (mantequilla clarificada, no manteca de cerdo) y las almendras amargas como detalles auténticos.",
+      "fr": "Sucres de décoration répartis entre une étape de roulage et une étape de saupoudrage; le Butterschmalz (beurre clarifié, pas de saindoux) et les amandes amères conservés comme détails authentiques.",
+      "ro": "Zahărul de decor împărțit între un pas de rulare și unul de pudrare; s-au păstrat Butterschmalz (unt clarificat, nu untură) și migdalele amare ca detalii autentice."
     }
   },
   "tags": [

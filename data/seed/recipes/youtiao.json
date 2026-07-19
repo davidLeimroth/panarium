@@ -23,10 +23,18 @@
   "origin": {
     "country": "CN",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "partout dans le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "Regional cousins include Vietnam's quẩy, Myanmar's e-kya-kway and Thailand's pathongko, all deep-fried twin-stick doughs of the same basic idea."
+      "en": "Regional cousins include Vietnam's quẩy, Myanmar's e-kya-kway and Thailand's pathongko, all deep-fried twin-stick doughs of the same basic idea.",
+      "de": "Regionale Verwandte sind Vietnams Quẩy, Myanmars E-kya-kway und Thailands Pathongko, alle frittierte Doppelstabteige derselben Grundidee.",
+      "es": "Primos regionales incluyen el quẩy de Vietnam, el e-kya-kway de Myanmar y el pathongko de Tailandia, todos masas fritas de doble palito de la misma idea básica.",
+      "fr": "Les cousins régionaux incluent le quẩy du Vietnam, l'e-kya-kway du Myanmar et le pathongko de Thaïlande, toutes des pâtes frites à double bâtonnet de la même idée de base.",
+      "ro": "Verii regionali includ quẩy din Vietnam, e-kya-kway din Myanmar și pathongko din Thailanda, toate aluaturi prăjite în formă de bețișoare gemene, aceeași idee de bază."
     }
   },
   "leaven": "chemical",
@@ -68,7 +76,11 @@
       "key": "butter",
       "grams": 28,
       "note": {
-        "en": "softened, in the dough"
+        "en": "softened, in the dough",
+        "de": "weich, in den Teig",
+        "es": "ablandada, en la masa",
+        "fr": "ramolli, dans la pâte",
+        "ro": "înmuiat, în aluat"
       }
     },
     {
@@ -79,7 +91,11 @@
       "key": "vegetable-oil",
       "grams": 50,
       "note": {
-        "en": "for deep-frying; amount absorbed is estimated"
+        "en": "for deep-frying; amount absorbed is estimated",
+        "de": "zum Frittieren; absorbierte Menge ist geschätzt",
+        "es": "para freír; la cantidad absorbida es estimada",
+        "fr": "pour la friture; quantité absorbée estimée",
+        "ro": "pentru prăjire; cantitatea absorbită este estimată"
       }
     }
   ],
@@ -87,7 +103,11 @@
     "count": 9,
     "pieceGrams": 55,
     "shape": {
-      "en": "twisted stick, deep-fried, ~23 cm (9 in) long"
+      "en": "twisted stick, deep-fried, ~23 cm (9 in) long",
+      "de": "gedrehter Stab, frittiert, ~23 cm lang",
+      "es": "bastoncillo retorcido, frito, ~23 cm de largo",
+      "fr": "bâtonnet torsadé, frit, ~23 cm de long",
+      "ro": "bețișor răsucit, prăjit, ~23 cm lungime"
     }
   },
   "time": {
@@ -128,7 +148,11 @@
     "freshDays": 0.5,
     "freezes": true,
     "note": {
-      "en": "Best eaten hot within an hour of frying, crisp outside and airy within; leftovers turn chewy but can be recrisped in a hot oven or air fryer."
+      "en": "Best eaten hot within an hour of frying, crisp outside and airy within; leftovers turn chewy but can be recrisped in a hot oven or air fryer.",
+      "de": "Am besten heiß innerhalb einer Stunde nach dem Frittieren, außen knusprig und innen luftig; Reste werden zäh, können aber im heißen Ofen oder Heißluftfritteuse wieder knusprig gemacht werden.",
+      "es": "Mejor comerlos calientes dentro de la hora de fritura, crujientes por fuera y aireados por dentro; las sobras se vuelven chicludas pero se pueden recrispar en horno caliente o freidora de aire.",
+      "fr": "À déguster chaud dans l'heure suivant la friture, croustillant à l'extérieur et aéré à l'intérieur; les restes deviennent caoutchouteux mais peuvent être recroustillés au four chaud ou à l'air fryer.",
+      "ro": "Cel mai bine consumat cald în decurs de o oră de la prăjire, crocant la exterior și aerat în interior; resturile devin gumoase, dar pot fi recrocantite în cuptorul fierbinte sau în friteuza cu aer."
     }
   },
   "equipment": [
@@ -237,7 +261,11 @@
     "site": "The Woks of Life",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; water amount set at the midpoint of the source's given range."
+      "en": "Frying-oil absorption estimated per this atlas's convention for deep-fried breads; water amount set at the midpoint of the source's given range.",
+      "de": "Frittierölaufnahme gemäß der Konvention dieses Atlasses für frittierte Brote geschätzt; Wassermenge auf den Mittelwert der angegebenen Spanne der Quelle gesetzt.",
+      "es": "Absorción de aceite de fritura estimada según la convención de este atlas para panes fritos; cantidad de agua fijada en el punto medio del rango dado por la fuente.",
+      "fr": "Absorption d'huile de friture estimée selon la convention de cet atlas pour les pains frits; quantité d'eau fixée au milieu de la fourchette donnée par la source.",
+      "ro": "Absorbția uleiului de prăjire estimată conform convenției acestui atlas pentru pâinile prăjite; cantitatea de apă stabilită la mijlocul intervalului dat de sursă."
     }
   },
   "tags": [

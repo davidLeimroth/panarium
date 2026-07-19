@@ -22,10 +22,18 @@
   "origin": {
     "country": "MN",
     "region": {
-      "en": "nationwide"
+      "en": "nationwide",
+      "de": "landesweit",
+      "es": "en todo el país",
+      "fr": "dans tout le pays",
+      "ro": "la nivel național"
     },
     "note": {
-      "en": "A centerpiece of the Tsagaan Sar (Lunar New Year) table, often stacked in odd-numbered towers as a good-luck centerpiece."
+      "en": "A centerpiece of the Tsagaan Sar (Lunar New Year) table, often stacked in odd-numbered towers as a good-luck centerpiece.",
+      "de": "Ein Mittelpunkt der Tsagaan-Sar-Tafel (Mondneujahr), oft in ungeradzahligen Türmen als Glücksbringer gestapelt.",
+      "es": "Una pieza central de la mesa de Tsagaan Sar (Año Nuevo Lunar), a menudo apilada en torres de número impar como centro de buena suerte.",
+      "fr": "Pièce maîtresse de la table de Tsagaan Sar (Nouvel An lunaire), souvent empilée en tours de nombre impair comme porte-bonheur.",
+      "ro": "Piesa centrală a mesei de Tsagaan Sar (Anul Nou Lunar), adesea stivuită în turnuri cu număr impar ca talisman de noroc."
     }
   },
   "leaven": "yeast",
@@ -53,14 +61,22 @@
       "key": "water",
       "grams": 250,
       "note": {
-        "en": "warm"
+        "en": "warm",
+        "de": "warm",
+        "es": "templada",
+        "fr": "tiède",
+        "ro": "călduță"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondue",
+        "ro": "topit"
       }
     },
     {
@@ -89,7 +105,11 @@
       "key": "vegetable-oil",
       "grams": 50,
       "note": {
-        "en": "for deep-frying; amount absorbed is estimated"
+        "en": "for deep-frying; amount absorbed is estimated",
+        "de": "zum Frittieren; aufgenommene Menge ist geschätzt",
+        "es": "para freír; la cantidad absorbida es estimada",
+        "fr": "pour la friture; la quantité absorbée est estimée",
+        "ro": "pentru prăjire în baie de ulei; cantitatea absorbită este estimată"
       }
     }
   ],
@@ -97,7 +117,11 @@
     "count": 24,
     "pieceGrams": 33,
     "shape": {
-      "en": "small twisted or knotted piece, deep-fried, 3-5 cm"
+      "en": "small twisted or knotted piece, deep-fried, 3-5 cm",
+      "de": "kleines gedrehtes oder geknotetes Stück, frittiert, 3-5 cm",
+      "es": "pieza pequeña retorcida o anudada, frita, 3-5 cm",
+      "fr": "petite pièce tordue ou nouée, frite, 3-5 cm",
+      "ro": "bucățică răsucită sau înnodată, prăjită, 3-5 cm"
     }
   },
   "time": {
@@ -138,7 +162,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Keeps several days in an airtight container, staying pleasantly crisp outside; dip in milk tea to soften if it firms up."
+      "en": "Keeps several days in an airtight container, staying pleasantly crisp outside; dip in milk tea to soften if it firms up.",
+      "de": "Hält sich mehrere Tage in einem luftdichten Behälter und bleibt außen angenehm knusprig; in Milchtee tunken, um es wieder weicher zu machen, falls es hart wird.",
+      "es": "Se conserva varios días en un recipiente hermético, manteniéndose agradablemente crujiente por fuera; mojar en té con leche para ablandarlo si se endurece.",
+      "fr": "Se conserve plusieurs jours dans un récipient hermétique, restant agréablement croustillant à l'extérieur; tremper dans du thé au lait pour le ramollir s'il durcit.",
+      "ro": "Se păstrează câteva zile într-un recipient ermetic, rămânând plăcut crocant la exterior; înmoaie în ceai cu lapte pentru a se înmuia dacă se întărește."
     }
   },
   "equipment": [
@@ -247,7 +275,11 @@
     "site": "Three Camel Lodge",
     "retrieved": "2026-07-18",
     "adaptation": {
-      "en": "Salt reduced slightly from the source's 1.5 tsp for balance; frying-oil absorption and final piece count estimated per this atlas's convention for small deep-fried pieces."
+      "en": "Salt reduced slightly from the source's 1.5 tsp for balance; frying-oil absorption and final piece count estimated per this atlas's convention for small deep-fried pieces.",
+      "de": "Salz gegenüber den 1,5 TL der Quelle leicht reduziert, für die Balance; Frittierölaufnahme und Stückzahl nach der Konvention dieses Atlas für kleine frittierte Stücke geschätzt.",
+      "es": "Sal ligeramente reducida de la 1,5 cucharadita de la fuente para equilibrar; absorción de aceite de fritura y número final de piezas estimados según la convención de este atlas para piezas pequeñas fritas.",
+      "fr": "Sel légèrement réduit par rapport aux 1,5 c. à café de la source pour l'équilibre; absorption d'huile de friture et nombre final de pièces estimés selon la convention de cet atlas pour les petites pièces frites.",
+      "ro": "Sarea ușor redusă față de 1,5 linguriță ale sursei pentru echilibru; absorbția uleiului de prăjire și numărul final de bucăți estimate conform convenției acestui atlas pentru bucăți mici prăjite."
     }
   },
   "tags": [

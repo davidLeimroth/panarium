@@ -14,18 +14,26 @@
   ],
   "description": {
     "en": "Spiced English yeast buns studded with currants and candied peel, marked with a piped cross and glazed sticky-sweet. Baked every Good Friday as Lent ends, they're split, toasted and buttered all through the Easter season.",
-    "de": "Englische Hefebrötchen mit Gewürzen, Korinthen und kandierter Schale, mit einem aufgespritzten Kreuz markiert und klebrig-süß glasiert. Traditionell am Karfreitag zum Ende der Fastenzeit gebacken und die ganze Osterzeit über getoastet genossen.",
-    "es": "Panecillos ingleses de levadura con especias, pasas de Corinto y cáscara confitada, marcados con una cruz de pasta y glaseados. Se hornean cada Viernes Santo al cerrar la Cuaresma, y se comen tostados con mantequilla durante toda la Pascua.",
-    "fr": "Petits pains anglais briochés aux épices, aux raisins de Corinthe et aux écorces confites, marqués d'une croix pochée et glacés. Cuits chaque Vendredi saint pour clore le Carême, dégustés toastés et beurrés pendant toute la période pascale.",
-    "ro": "Chifle englezești dospite, condimentate, cu stafide mici și coajă confiată, însemnate cu o cruce din glazură și lăcuite dulce-lipicios. Coapte în fiecare Vinere Mare, la sfârșitul Postului, se taie, se prăjesc și se ung cu unt de-a lungul întregului sezon de Paște."
+    "de": "Englische Hefebrötchen mit Gewürzen, Korinthen und kandierter Schale, mit einem aufgespritzten Kreuz markiert und süß glasiert. Am Karfreitag zum Ende der Fastenzeit gebacken, werden sie die ganze Osterzeit über getoastet und mit Butter gegessen.",
+    "es": "Bollos de levadura ingleses especiados con grosellas y cáscara confitada, marcados con una cruz y glaseados dulces. Horneados el Viernes Santo al final de la Cuaresma, se parten, tuestan y untan con mantequilla durante toda la Pascua.",
+    "fr": "Petits pains anglais épicés aux raisins de Corinthe et écorces confites, marqués d'une croix et glacés sucrés. Cuits le Vendredi Saint à la fin du Carême, ils sont coupés, toastés et beurrés pendant toute la période de Pâques.",
+    "ro": "Chifle englezești condimentate cu stafide mici și coajă confiată, marcate cu o cruce și glazurate dulce-lipicios. Coapte de Vinerea Mare la sfârșitul Postului, se taie, se prăjesc și se ung cu unt în tot sezonul Paștelui."
   },
   "origin": {
     "country": "GB",
     "region": {
-      "en": "England"
+      "en": "England",
+      "de": "England",
+      "es": "Inglaterra",
+      "fr": "Angleterre",
+      "ro": "Anglia"
     },
     "note": {
-      "en": "The cross recalls the crucifixion; the mixed spice was traditionally likened to the spices used to prepare Christ's body for burial. Eaten to mark the end of the Good Friday/Lenten fast."
+      "en": "The cross recalls the crucifixion; the mixed spice was traditionally likened to the spices used to prepare Christ's body for burial. Eaten to mark the end of the Good Friday/Lenten fast.",
+      "de": "Das Kreuz erinnert an die Kreuzigung; die Gewürzmischung wurde traditionell mit den Gewürzen verglichen, die zur Vorbereitung von Christi Leichnam für die Bestattung verwendet wurden. Gegessen zur Beendigung des Karfreitags-/Fastenzeit-Fastens.",
+      "es": "La cruz recuerda la crucifixión; la mezcla de especias se comparaba tradicionalmente con las especias utilizadas para preparar el cuerpo de Cristo para el entierro. Se come para marcar el final del ayuno de Viernes Santo/Cuaresma.",
+      "fr": "La croix rappelle la crucifixion; le mélange d'épices était traditionnellement assimilé aux épices utilisées pour préparer le corps du Christ pour la mise au tombeau. Mangé pour marquer la fin du jeûne du Vendredi saint/Carême.",
+      "ro": "Crucea amintește de răstignire; amestecul de condimente era asemănat în mod tradițional cu mirodeniile folosite pentru pregătirea trupului lui Hristos pentru înmormântare. Mâncat pentru a marca sfârșitul postului de Vinerea Mare/Postul Paștelui."
     }
   },
   "leaven": "yeast",
@@ -49,42 +57,66 @@
       "key": "flour:wheat-white",
       "grams": 500,
       "note": {
-        "en": "strong white bread flour, for the dough"
+        "en": "strong white bread flour, for the dough",
+        "de": "Weizenbrotmehl hell, für den Teig",
+        "es": "harina de pan blanca de fuerza, para la masa",
+        "fr": "farine de pain blanche forte, pour la pâte",
+        "ro": "făină de pâine albă tare, pentru aluat"
       }
     },
     {
       "key": "milk",
       "grams": 300,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
       "key": "butter",
       "grams": 57,
       "note": {
-        "en": "softened"
+        "en": "softened",
+        "de": "weich",
+        "es": "ablandado",
+        "fr": "ramolli",
+        "ro": "înmuiat"
       }
     },
     {
       "key": "egg",
       "grams": 50,
       "note": {
-        "en": "1 large egg"
+        "en": "1 large egg",
+        "de": "1 großes Ei",
+        "es": "1 huevo grande",
+        "fr": "1 gros œuf",
+        "ro": "1 ou mare"
       }
     },
     {
       "key": "egg-yolk",
       "grams": 18,
       "note": {
-        "en": "1 extra yolk, for richness"
+        "en": "1 extra yolk, for richness",
+        "de": "1 zusätzliches Eigelb, für mehr Fülle",
+        "es": "1 yema extra, para enriquecer",
+        "fr": "1 jaune supplémentaire, pour le moelleux",
+        "ro": "1 gălbenuș în plus, pentru îmbogățire"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "for the dough"
+        "en": "for the dough",
+        "de": "für den Teig",
+        "es": "para la masa",
+        "fr": "pour la pâte",
+        "ro": "pentru aluat"
       }
     },
     {
@@ -99,21 +131,33 @@
       "key": "lemon-zest",
       "grams": 5,
       "note": {
-        "en": "zest of 1 lemon"
+        "en": "zest of 1 lemon",
+        "de": "Schale von 1 Zitrone",
+        "es": "ralladura de 1 limón",
+        "fr": "zeste d'1 citron",
+        "ro": "coajă de 1 lămâie"
       }
     },
     {
       "key": "raisins",
       "grams": 110,
       "note": {
-        "en": "or currants, the more traditional British choice"
+        "en": "or currants, the more traditional British choice",
+        "de": "oder Korinthen, die traditionellere britische Wahl",
+        "es": "o grosellas, la opción británica más tradicional",
+        "fr": "ou raisins de Corinthe, le choix britannique plus traditionnel",
+        "ro": "sau stafide de Corint, alegerea britanică mai tradițională"
       }
     },
     {
       "key": "candied-citrus",
       "grams": 45,
       "note": {
-        "en": "mixed candied orange and lemon peel"
+        "en": "mixed candied orange and lemon peel",
+        "de": "gemischte kandierte Orangen- und Zitronenschale",
+        "es": "cáscara confitada mixta de naranja y limón",
+        "fr": "écorces confites mélangées d'orange et de citron",
+        "ro": "coajă confiată mixtă de portocală și lămâie"
       }
     },
     {
@@ -130,35 +174,55 @@
       "key": "cinnamon",
       "grams": 3,
       "note": {
-        "en": "extra ground cinnamon"
+        "en": "extra ground cinnamon",
+        "de": "extra gemahlener Zimt",
+        "es": "canela molida extra",
+        "fr": "cannelle moulue supplémentaire",
+        "ro": "scorțișoară măcinată extra"
       }
     },
     {
       "key": "flour:wheat-white",
       "grams": 30,
       "note": {
-        "en": "for the piped flour-water cross; not counted toward the dough's flour percentage"
+        "en": "for the piped flour-water cross; not counted toward the dough's flour percentage",
+        "de": "für das gespritzte Mehl-Wasser-Kreuz; nicht zum Mehlanteil des Teigs gezählt",
+        "es": "para la cruz de harina y agua; no contabilizada en el porcentaje de harina de la masa",
+        "fr": "pour la croix farine-eau pochée; non comptée dans le pourcentage de farine de la pâte",
+        "ro": "pentru crucea din făină și apă; neinclusă în procentul de făină al aluatului"
       }
     },
     {
       "key": "water",
       "grams": 45,
       "note": {
-        "en": "for the cross paste"
+        "en": "for the cross paste",
+        "de": "für die Kreuzpaste",
+        "es": "para la pasta de la cruz",
+        "fr": "pour la pâte de la croix",
+        "ro": "pentru pasta crucii"
       }
     },
     {
       "key": "sugar",
       "grams": 50,
       "note": {
-        "en": "for the post-bake glaze"
+        "en": "for the post-bake glaze",
+        "de": "für die Glasur nach dem Backen",
+        "es": "para el glaseado post-horneado",
+        "fr": "pour le glaçage après cuisson",
+        "ro": "pentru glazura de după coacere"
       }
     },
     {
       "key": "water",
       "grams": 60,
       "note": {
-        "en": "for the post-bake glaze syrup"
+        "en": "for the post-bake glaze syrup",
+        "de": "für den Sirup der Glasur nach dem Backen",
+        "es": "para el jarabe del glaseado post-horneado",
+        "fr": "pour le sirop du glaçage après cuisson",
+        "ro": "pentru siropul glazurei de după coacere"
       }
     }
   ],
@@ -166,7 +230,11 @@
     "count": 12,
     "pieceGrams": 103,
     "shape": {
-      "en": "round bun, piped cross"
+      "en": "round bun, piped cross",
+      "de": "rundes Brötchen, mit gespritztem Kreuz",
+      "es": "panecillo redondo, con cruz de harina y agua",
+      "fr": "petit pain rond, croix pochée",
+      "ro": "chiflă rotundă, cu cruce din aluat"
     }
   },
   "time": {
@@ -209,7 +277,11 @@
     "freshDays": 3,
     "freezes": true,
     "note": {
-      "en": "Good for a few days and excellent toasted after that; the dried fruit keeps them moister than a plain roll."
+      "en": "Good for a few days and excellent toasted after that; the dried fruit keeps them moister than a plain roll.",
+      "de": "Einige Tage haltbar und danach hervorragend getoastet; die Trockenfrüchte halten sie feuchter als ein einfaches Brötchen.",
+      "es": "Buenos por unos días y excelentes tostados después; la fruta seca los mantiene más húmedos que un panecillo simple.",
+      "fr": "Bons pendant quelques jours et excellents toastés ensuite; les fruits secs les gardent plus moelleux qu'un petit pain nature.",
+      "ro": "Bune câteva zile și excelente prăjite după aceea; fructele uscate le mențin mai umede decât o chiflă simplă."
     }
   },
   "equipment": [
@@ -351,7 +423,11 @@
     "site": "The Daring Gourmet",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "formula.* covers the dough only. The piped flour-water cross and post-bake sugar glaze are itemized but excluded from the flour total and from hydration/sugar/fat percentages."
+      "en": "formula.* covers the dough only. The piped flour-water cross and post-bake sugar glaze are itemized but excluded from the flour total and from hydration/sugar/fat percentages.",
+      "de": "formula.* deckt nur den Teig ab. Das gespritzte Mehl-Wasser-Kreuz und die Zucker-Glasur nach dem Backen sind aufgeführt, aber von der Mehl-Gesamtmenge und den Hydratations-/Zucker-/Fettprozenten ausgeschlossen.",
+      "es": "formula.* cubre solo la masa. La cruz de harina y agua y el glaseado de azúcar post-horneado están detallados pero excluidos del total de harina y de los porcentajes de hidratación/azúcar/grasa.",
+      "fr": "formula.* ne couvre que la pâte. La croix à la farine et à l'eau et le glaçage au sucre après cuisson sont détaillés mais exclus du total de farine et des pourcentages d'hydratation/sucre/matières grasses.",
+      "ro": "formula.* acoperă doar aluatul. Crucea din făină și apă și glazura cu zahăr după coacere sunt detaliate, dar excluse din totalul făinii și din procentele de hidratare/zahăr/grăsime."
     }
   },
   "tags": [

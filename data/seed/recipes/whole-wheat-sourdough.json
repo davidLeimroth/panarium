@@ -20,10 +20,18 @@
   "origin": {
     "country": "US",
     "region": {
-      "en": "Modern American artisan bakeries"
+      "en": "Modern American artisan bakeries",
+      "de": "moderne amerikanische Handwerksbäckereien",
+      "es": "panaderías artesanales estadounidenses modernas",
+      "fr": "boulangeries artisanales américaines modernes",
+      "ro": "brutării artizanale americane moderne"
     },
     "note": {
-      "en": "A contemporary high-hydration approach to whole wheat sourdough, distinct from denser European wholegrain traditions."
+      "en": "A contemporary high-hydration approach to whole wheat sourdough, distinct from denser European wholegrain traditions.",
+      "de": "Ein zeitgenössischer High-Hydration-Ansatz für Vollkornweizensauerteig, unterschieden von den dichteren europäischen Vollkorntraditionen.",
+      "es": "Un enfoque contemporáneo de alta hidratación para el pan de masa madre integral de trigo, distinto de las tradiciones europeas de grano entero más densas.",
+      "fr": "Une approche contemporaine à haute hydratation du levain de blé complet, distincte des traditions européennes de céréales complètes plus denses.",
+      "ro": "O abordare contemporană cu hidratare ridicată a maielei de grâu integral, distinctă de tradițiile europene mai dense de cereale integrale."
     }
   },
   "leaven": "sourdough",
@@ -49,14 +57,22 @@
       "key": "flour:wheat-white",
       "grams": 290,
       "note": {
-        "en": "all-purpose"
+        "en": "all-purpose",
+        "de": "Weizenmehl Type 405/550",
+        "es": "harina todo uso",
+        "fr": "farine tout usage",
+        "ro": "făină universală"
       }
     },
     {
       "key": "flour:wheat-whole",
       "grams": 790,
       "note": {
-        "en": "290g stoneground whole wheat, 500g high-extraction (Type 85-style)"
+        "en": "290g stoneground whole wheat, 500g high-extraction (Type 85-style)",
+        "de": "290 g Vollkornweizenmehl Steinmahlung, 500 g hochausgemahlen (Type 85-ähnlich)",
+        "es": "290 g de harina integral de trigo molida a piedra, 500 g de alta extracción (similar a Tipo 85)",
+        "fr": "290 g de farine complète de blé moulue sur pierre, 500 g à haute extraction (type 85)",
+        "ro": "290 g făină integrală de grâu măcinată pe piatră, 500 g extracție ridicată (tip 85)"
       }
     },
     {
@@ -67,7 +83,11 @@
       "key": "sourdough-starter",
       "grams": 40,
       "note": {
-        "en": "100% hydration"
+        "en": "100% hydration",
+        "de": "100 % Hydration",
+        "es": "100 % de hidratación",
+        "fr": "100 % d'hydratation",
+        "ro": "100 % hidratare"
       }
     },
     {
@@ -89,7 +109,11 @@
     "count": 2,
     "pieceGrams": 1000,
     "shape": {
-      "en": "boule"
+      "en": "boule",
+      "de": "Boule",
+      "es": "boule",
+      "fr": "boule",
+      "ro": "boule"
     }
   },
   "time": {
@@ -270,7 +294,11 @@
     "author": "Maurizio Leo",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend (no exact taxonomy match) for the formula breakdown; ingredient list keeps the flour as named in the source."
+      "en": "High-extraction flour modeled as a 60/40 white/whole-wheat blend (no exact taxonomy match) for the formula breakdown; ingredient list keeps the flour as named in the source.",
+      "de": "Hochausgemahlenes Mehl als 60/40-Mischung aus hellem Weizenmehl und Vollkornweizenmehl modelliert (keine exakte Taxonomieübereinstimmung) für die Formelaufschlüsselung; die Zutatenliste behält das Mehl wie in der Quelle genannt.",
+      "es": "Harina de alta extracción modelada como una mezcla 60/40 de harina blanca e integral (sin coincidencia taxonómica exacta) para el desglose de la fórmula; la lista de ingredientes mantiene la harina como se nombra en la fuente.",
+      "fr": "Farine à haut taux d'extraction modélisée comme un mélange 60/40 de farine blanche et de blé complet (pas de correspondance taxonomique exacte) pour la répartition de la formule; la liste d'ingrédients conserve la farine telle que nommée dans la source.",
+      "ro": "Făina cu extracție ridicată modelată ca un amestec 60/40 făină albă / grâu integral (fără potrivire exactă în taxonomie) pentru defalcarea formulei; lista de ingrediente păstrează făina așa cum este numită în sursă."
     }
   },
   "tags": [

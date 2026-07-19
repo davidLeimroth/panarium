@@ -22,10 +22,18 @@
   "origin": {
     "country": "LV",
     "region": {
-      "en": "Riga"
+      "en": "Riga",
+      "de": "Riga",
+      "es": "Riga",
+      "fr": "Riga",
+      "ro": "Riga"
     },
     "note": {
-      "en": "A native Latvian bread long popular among Russian bakers too; lighter and sweeter than the coarse rupjmaize style."
+      "en": "A native Latvian bread long popular among Russian bakers too; lighter and sweeter than the coarse rupjmaize style.",
+      "de": "Ein heimisches lettisches Brot, das auch bei russischen Bäckern lange beliebt ist; leichter und süßer als der grobe Rupjmaize-Stil.",
+      "es": "Un pan nativo letón popular también desde hace tiempo entre panaderos rusos; más ligero y dulce que el estilo grueso rupjmaize.",
+      "fr": "Un pain natif letton longtemps populaire aussi chez les boulangers russes; plus léger et plus sucré que le style grossier rupjmaize.",
+      "ro": "O pâine nativ letonă mult timp populară și printre brutarii ruși; mai ușoară și mai dulce decât stilul grosier rupjmaize."
     }
   },
   "leaven": "yeast",
@@ -53,7 +61,11 @@
       "key": "flour:rye",
       "grams": 156,
       "note": {
-        "en": "medium rye flour"
+        "en": "medium rye flour",
+        "de": "mittleres Roggenmehl",
+        "es": "harina de centeno media",
+        "fr": "farine de seigle moyenne",
+        "ro": "făină de secară medie"
       }
     },
     {
@@ -68,7 +80,11 @@
       "key": "malt-syrup",
       "grams": 43,
       "note": {
-        "en": "or dark honey"
+        "en": "or dark honey",
+        "de": "oder dunkler Honig",
+        "es": "o miel oscura",
+        "fr": "ou miel foncé",
+        "ro": "sau miere închisă"
       }
     },
     {
@@ -87,7 +103,11 @@
       "key": "butter",
       "grams": 43,
       "note": {
-        "en": "melted"
+        "en": "melted",
+        "de": "geschmolzen",
+        "es": "derretida",
+        "fr": "fondu",
+        "ro": "topit"
       }
     }
   ],
@@ -95,7 +115,11 @@
     "count": 2,
     "pieceGrams": 400,
     "shape": {
-      "en": "oval hearth loaf"
+      "en": "oval hearth loaf",
+      "de": "ovaler Herdlaib",
+      "es": "hogaza oval de hogar",
+      "fr": "pain de foyer ovale",
+      "ro": "pâine ovală de vatră"
     }
   },
   "time": {
@@ -137,7 +161,11 @@
     "freshDays": 4,
     "freezes": true,
     "note": {
-      "en": "Keeps about 4 days at room temperature, wrapped; freezes well up to 3 months."
+      "en": "Keeps about 4 days at room temperature, wrapped; freezes well up to 3 months.",
+      "de": "Hält sich etwa 4 Tage bei Raumtemperatur, eingewickelt; lässt sich bis zu 3 Monate gut einfrieren.",
+      "es": "Se conserva unos 4 días a temperatura ambiente, envuelto; congela bien hasta 3 meses.",
+      "fr": "Se conserve environ 4 jours à température ambiante, emballé; se congèle bien jusqu'à 3 mois.",
+      "ro": "Se păstrează aproximativ 4 zile la temperatura camerei, învelit; se congelează bine până la 3 luni."
     }
   },
   "equipment": [
@@ -250,10 +278,10 @@
       },
       "summary": {
         "en": "Bake 45-50 minutes, until the crust turns deep brown and the loaf is fully baked through.",
-        "de": "Backen, bis die Kruste dunkelbraun und die Mitte vollständig durchgebacken ist, 45-50 Minuten.",
-        "es": "Hornear hasta que la corteza esté marrón oscuro y el centro totalmente cocido, 45-50 minutos.",
-        "fr": "Cuire jusqu'à ce que la croûte soit brun foncé et le centre bien cuit, 45-50 minutes.",
-        "ro": "Coace până coaja devine brun-închis și miezul e complet copt, 45-50 de minute."
+        "de": "45-50 Minuten backen, bis die Kruste dunkelbraun und der Laib vollständig durchgebacken ist.",
+        "es": "Hornear 45-50 minutos, hasta que la corteza esté marrón oscuro y el pan esté completamente cocido.",
+        "fr": "Cuire 45-50 minutes, jusqu'à ce que la croûte soit brun foncé et le pain bien cuit à cœur.",
+        "ro": "Coace 45-50 de minute, până coaja devine brun-închis și pâinea este complet coaptă."
       }
     }
   ],
@@ -262,7 +290,11 @@
     "site": "King Arthur Baking",
     "retrieved": "2026-07-17",
     "adaptation": {
-      "en": "This Americanized version is wheat-majority; traditional Latvian Rīgas maize is typically rye-majority. Presented as sourced, with the difference flagged here."
+      "en": "This Americanized version is wheat-majority; traditional Latvian Rīgas maize is typically rye-majority. Presented as sourced, with the difference flagged here.",
+      "de": "Diese amerikanisierte Version ist weizenbetont; traditionelles lettisches Rīgas maize ist typischerweise roggenbetont. Wie in der Quelle dargestellt, mit dem hier vermerkten Unterschied.",
+      "es": "Esta versión americanizada es mayoritariamente de trigo; el tradicional Rīgas maize letón es típicamente mayoritario en centeno. Presentado como en la fuente, con la diferencia señalada aquí.",
+      "fr": "Cette version américanisée est majoritairement de blé; le traditionnel Rīgas maize letton est typiquement majoritaire en seigle. Présenté comme dans la source, avec la différence signalée ici.",
+      "ro": "Această versiune americanizată este majoritar din grâu; tradiționalul Rīgas maize leton este de obicei majoritar din secară. Prezentat conform sursei, cu diferența semnalată aici."
     }
   },
   "tags": [
